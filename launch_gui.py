@@ -15,7 +15,6 @@ from PyQt5.QtWidgets import (
 
 from waveform import WaveformProgressBar  # The optimized waveform widget
 
-# --- New Custom Spin Box for Time Display ---
 class TimeSpinBox(QDoubleSpinBox):
     def textFromValue(self, value):
         if value < 3600:
@@ -31,7 +30,6 @@ class TimeSpinBox(QDoubleSpinBox):
             # Format as h:mm:ss.d (e.g., "1:00:00.0", "2:34:05.9")
             return f"{hours}:{minutes:02d}:{secs:04.1f}"
 
-# --- Updated Helper Methods for Time Conversion ---
 def seconds_to_formatted(seconds):
     if seconds < 3600:
         minutes = int(seconds // 60)
@@ -57,8 +55,6 @@ def formatted_to_seconds(time_str):
         return h * 3600 + m * 60 + s
     else:
         raise ValueError("Invalid time format")
-
-# --- Rest of the Code (with modifications highlighted) ---
 
 class DraggableTableWidget(QTableWidget):
     """A QTableWidget subclass that supports dragging and dropping entire rows with a drop indicator."""
