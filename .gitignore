@@ -9,10 +9,7 @@ first_half.wav
 second_half.wav
 
 # Ignore spec and build-related files
-ISSR-Manual-Transcription-GUI-1_1.exe.spec
-ISSR-Manual-Transcription-GUI-1_2.exe.spec
-ISSR-Manual-Transcription-GUI-2.exe.spec
-ISSR-Manual-Transcription-GUI.exe.spec
+ISSR-Manual-Transcription-GUI*.exe.spec
 __pycache__/
 build/
 dist/
