@@ -1,5 +1,10 @@
 # Ignore IDE settings
 .idea/
+.vs
+.vscode
+
+#Ignore .env file
+.env
 
 # Ignore generated media and data files
 Experimenter_CREW_01_1_Vehicle_Assistance_1726170531.json
@@ -16,3 +21,5 @@ dist/
 
 # Ignore script
 split_wav.py
+
+

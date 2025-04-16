@@ -1,11 +1,15 @@
+import csv
 import json
 import os
-from PyQt5.QtCore import Qt, QUrl, QEvent, QTimer
-from PyQt5.QtGui import QKeySequence, QFont
+import struct
+import sys
+from PyQt5.QtCore import Qt, QUrl, QEvent, QTimer, QSize
+from PyQt5.QtGui import QKeySequence, QFont, QIcon
 from PyQt5.QtMultimedia import QMediaPlayer, QMediaContent
 from PyQt5.QtWidgets import (
     QWidget, QHBoxLayout, QVBoxLayout, QPushButton, QTableWidget, QTableWidgetItem,
-    QLabel, QCheckBox, QShortcut, QFileDialog, QMessageBox, QSplitter, QGraphicsRectItem
+    QLabel, QCheckBox, QShortcut, QFileDialog, QMessageBox, QSplitter, QGraphicsRectItem,
+    QToolButton
 )
 from custom_widgets import DraggableTableWidget, VideoView
 from utils import create_spinner, seconds_to_formatted, formatted_to_seconds, TimeSpinBox, TimeTableWidgetItem
@@ -46,14 +50,37 @@ class TranscriptEditor(QWidget):
         main_v_layout = QVBoxLayout(self)
 
         # Top banner with upload buttons.
-        banner_layout = QHBoxLayout()
-        self.media_btn = QPushButton("Upload Media")
+        ribbon_layout = QHBoxLayout()
+        self.media_btn = QPushButton()
+        upload_media_path = os.path.join("imgs", "upload_media.png")
+        self.media_btn.setIcon(QIcon(upload_media_path))
+        self.media_btn.setIconSize(QSize(48, 32))
+        self.media_btn.setFixedSize(54, 36)
+        self.media_btn.setToolTip("Load .wmv or .wav file")
         self.media_btn.clicked.connect(self.load_media)
-        self.transcript_btn = QPushButton("Upload Transcript")
+        ribbon_layout.addWidget(self.media_btn)
+
+        self.transcript_btn = QPushButton()
+        upload_json_path = os.path.join("imgs", "upload_json.png")
+        self.transcript_btn.setIcon(QIcon(upload_json_path))
+        self.transcript_btn.setIconSize(QSize(48, 32))
+        self.transcript_btn.setFixedSize(54, 36)
+        self.transcript_btn.setToolTip("Load .json transcript")
         self.transcript_btn.clicked.connect(self.load_transcript)
-        banner_layout.addWidget(self.media_btn)
-        banner_layout.addWidget(self.transcript_btn)
-        main_v_layout.addLayout(banner_layout)
+        ribbon_layout.addWidget(self.transcript_btn)
+
+        self.save_btn = QPushButton()
+        save_json_path = os.path.join("imgs", "diskette.png")
+        self.save_btn.setIcon(QIcon(save_json_path))
+        self.save_btn.setIconSize(QSize(32, 32))
+        self.save_btn.setFixedSize(36, 36)
+        self.save_btn.setToolTip("Save .json transcript")
+        self.save_btn.clicked.connect(self.save_transcript)
+        ribbon_layout.addWidget(self.save_btn)
+
+        ribbon_layout.addStretch()
+        main_v_layout.addLayout(ribbon_layout)
+
 
         splitter = QSplitter(Qt.Horizontal)
 
@@ -71,6 +98,13 @@ class TranscriptEditor(QWidget):
         self.view.setRenderHints(self.view.renderHints())
         self.view.setAlignment(Qt.AlignCenter)
         self.video_layout.addWidget(self.view)
+
+        overlay_checkbox_layout = QHBoxLayout()
+        self.overlay_checkbox = QCheckBox("Show Speaker Overlay")
+        self.overlay_checkbox.setChecked(True)
+        self.overlay_checkbox.stateChanged.connect(self.toggle_overlay)
+        overlay_checkbox_layout.addWidget(self.overlay_checkbox)
+        self.video_layout.addLayout(overlay_checkbox_layout)
 
         self.player = QMediaPlayer(None)
         self.player.setNotifyInterval(100)
@@ -98,18 +132,52 @@ class TranscriptEditor(QWidget):
             self.waveformProgress = WaveformProgressBar(self.video_path)
             def on_seek_requested(ms):
                 if self.player.duration() > 0 and ms <= self.player.duration():
-                    self.player.setPosition(ms)
+                    self.player.setPosition(int(ms))
                 else:
                     QMessageBox.warning(self, "Invalid Seek", "The requested time is beyond media duration.")
             self.waveformProgress.seekRequestedCallback = on_seek_requested
             self.video_layout.addWidget(self.waveformProgress)
 
         controls_layout = QHBoxLayout()
-        self.play_button = QPushButton("Play/Pause")
+
+        # Jump Backward Button
+        self.jump_backward_btn = QToolButton()
+        self.jump_backward_btn.setIcon(
+            QIcon(os.path.join("imgs", "backward10.png")))
+        self.jump_backward_btn.setIconSize(QSize(48, 32))
+        self.jump_backward_btn.setFixedSize(54, 36)
+        self.jump_backward_btn.setToolTip("Jump Backward 10 Seconds")
+        self.jump_backward_btn.clicked.connect(self.jump_backward)
+        controls_layout.addStretch()
+        controls_layout.addWidget(self.jump_backward_btn)
+
+        # Play/Pause Button (with small fixed size and icon swapping)
+        self.play_button = QToolButton()
+        # Define your play and pause icons – make sure the image files exist.
+        self.play_icon = QIcon(os.path.join("imgs", "play.png"))
+        self.pause_icon = QIcon(os.path.join("imgs", "pause.png"))
+        self.play_button.setIcon(self.play_icon)
+        self.play_button.setIconSize(QSize(48, 32))
+        self.play_button.setFixedSize(54, 36)
+        self.play_button.setToolTip("Play/Pause")
         self.play_button.clicked.connect(self.toggle_play)
         controls_layout.addWidget(self.play_button)
+
+        # Jump Forward Button
+        self.jump_forward_btn = QToolButton()
+        self.jump_forward_btn.setIcon(
+            QIcon(os.path.join("imgs", "forward10.png")))
+        self.jump_forward_btn.setIconSize(QSize(48, 32))
+        self.jump_forward_btn.setFixedSize(54, 36)
+        self.jump_forward_btn.setToolTip("Jump Forward 10 Seconds")
+        self.jump_forward_btn.clicked.connect(self.jump_forward)
+        controls_layout.addWidget(self.jump_forward_btn)
+
+        # Add the current time label alongside the controls.
         self.current_time_label = QLabel("0:00.0")
         controls_layout.addWidget(self.current_time_label)
+        controls_layout.addStretch()
+
         self.video_layout.addLayout(controls_layout)
 
         # Overlay background and speaker buttons.
@@ -134,7 +202,7 @@ class TranscriptEditor(QWidget):
 
         # Loop controls and auto-seek toggle.
         loop_layout = QHBoxLayout()
-        self.toggle_loop_button = QPushButton("Toggle Loop (On)")
+        self.toggle_loop_button = QPushButton("Looping: Enabled")
         self.toggle_loop_button.clicked.connect(self.toggle_loop)
         loop_layout.addWidget(self.toggle_loop_button)
         loop_layout.addWidget(QLabel("Loop Start:"))
@@ -149,17 +217,9 @@ class TranscriptEditor(QWidget):
         self.loop_end_spin.setSingleStep(0.1)
         self.loop_end_spin.valueChanged.connect(self.loop_end_changed)
         loop_layout.addWidget(self.loop_end_spin)
-        self.auto_seek_btn = QPushButton("Auto Seek: On")
-        self.auto_seek_btn.clicked.connect(self.toggle_auto_seek)
-        loop_layout.addWidget(self.auto_seek_btn)
-        self.video_layout.addLayout(loop_layout)
+        loop_layout.addStretch()
 
-        overlay_checkbox_layout = QHBoxLayout()
-        self.overlay_checkbox = QCheckBox("Show Speaker Overlay")
-        self.overlay_checkbox.setChecked(True)
-        self.overlay_checkbox.stateChanged.connect(self.toggle_overlay)
-        overlay_checkbox_layout.addWidget(self.overlay_checkbox)
-        self.video_layout.addLayout(overlay_checkbox_layout)
+        self.video_layout.addLayout(loop_layout)
 
         splitter.addWidget(left_widget)
 
@@ -193,18 +253,19 @@ class TranscriptEditor(QWidget):
         right_layout.addWidget(self.table)
 
         control_layout = QHBoxLayout()
-        add_btn = QPushButton("Add Line")
-        add_btn.clicked.connect(self.add_line)
-        del_btn = QPushButton("Delete Line")
-        del_btn.clicked.connect(self.delete_line)
-        save_btn = QPushButton("Save")
-        save_btn.clicked.connect(self.save_transcript)
-        sort_btn = QPushButton("Sort by Start")
-        sort_btn.clicked.connect(lambda: self.table.sortItems(0, Qt.AscendingOrder))#sort_transcript_by_start)
-        control_layout.addWidget(add_btn)
-        control_layout.addWidget(del_btn)
-        control_layout.addWidget(save_btn)
-        control_layout.addWidget(sort_btn)
+        self.auto_seek_btn = QPushButton("Jump to: Enabled")
+        self.auto_seek_btn.clicked.connect(self.toggle_auto_seek)
+        self.add_btn = QPushButton("Add Line")
+        self.add_btn.clicked.connect(self.add_line)
+        self.del_btn = QPushButton("Delete Line")
+        self.del_btn.clicked.connect(self.delete_line)
+        self.sort_btn = QPushButton("Sort by Start")
+        self.sort_btn.clicked.connect(lambda: self.table.sortItems(0, Qt.AscendingOrder))
+        control_layout.addWidget(self.auto_seek_btn)
+        control_layout.addWidget(self.sort_btn)
+        control_layout.addWidget(self.add_btn)
+        control_layout.addWidget(self.del_btn)
+
         right_layout.addLayout(control_layout)
 
         right_widget = QWidget()
@@ -218,17 +279,20 @@ class TranscriptEditor(QWidget):
     def disable_all_buttons(self):
         for btn in self.findChildren(QPushButton):
             btn.setEnabled(False)
+        for btn in self.findChildren(QToolButton):
+            btn.setEnabled(False)
 
     def enable_all_buttons(self):
         for btn in self.findChildren(QPushButton):
+            btn.setEnabled(True)
+        for btn in self.findChildren(QToolButton):
             btn.setEnabled(True)
 
     def handle_global_space(self):
         if not isinstance(self.focusWidget(), QLabel):
             self.toggle_play()
-    
+
     def assign_speaker(self, speaker_id):
-        from PyQt5.QtWidgets import QTableWidgetItem
         if self.current_row is not None:
             self.table.setItem(self.current_row, 2, QTableWidgetItem(f"speaker_{speaker_id}"))
             self.table.resizeRowsToContents()
@@ -262,18 +326,29 @@ class TranscriptEditor(QWidget):
 
     def load_transcript(self):
         self.disable_all_buttons()
-        self.transcript_btn.setText("Loading Transcript...")
         file, _ = QFileDialog.getOpenFileName(self, "Open Transcript File", "", "JSON Files (*.json);;All Files (*)")
         if file:
             try:
                 with open(file, 'r') as f:
-                    self.transcript = json.load(f)
+                    data = json.load(f)
+                # Check if the JSON has a "segments" key (new format)
+                if isinstance(data, dict) and "segments" in data:
+                    self.transcript = []
+                    for seg in data["segments"]:
+                        entry = {
+                            "start": seg.get("start", 0.0),
+                            "end": seg.get("end", 0.0),
+                            "text": seg.get("text", "").strip(),
+                            "speaker": seg.get("speaker", "speaker_0")
+                        }
+                        self.transcript.append(entry)
+                else:
+                    self.transcript = data
                 self.json_path = file
                 self.populate_transcript_table()
             except Exception as e:
                 QMessageBox.warning(self, "Error", f"Failed to load transcript: {e}")
         self.enable_all_buttons()
-        self.transcript_btn.setText("Upload Transcript")
 
     def populate_transcript_table(self):
         self.table.setRowCount(len(self.transcript))
@@ -294,9 +369,8 @@ class TranscriptEditor(QWidget):
 
     def load_media(self):
         self.disable_all_buttons()
-        self.media_btn.setText("Loading Media...")
         file, _ = QFileDialog.getOpenFileName(self, "Open Media File", "",
-                                              "Video/Audio Files (*.wmv *.mp4 *.mov *.avi *.wav *.mp3);;All Files (*)")
+                                              "Video/Audio Files (*.wmv *.wav);;All Files (*)")
         if file:
             self.video_path = file
             self.loading_text.setText("Loading")
@@ -312,20 +386,27 @@ class TranscriptEditor(QWidget):
                 def on_seek_requested(ms):
                     if self.player.duration() > 0 and ms <= self.player.duration():
                         if self.loop_enabled:
-                            # Convert loop start/end from seconds to milliseconds
                             loop_start_ms = self.loop_start * 1000 if self.loop_start is not None else 0
                             loop_end_ms = self.loop_end * 1000 if self.loop_end is not None else self.player.duration()
-                            if ms < loop_start_ms or ms > loop_end_ms:
-                                QMessageBox.warning(self, "Invalid Seek", "Please click within the loop boundaries or disable the loop.")
+                            if ms < loop_start_ms:
+                                self.player.setPosition(int(loop_start_ms))
                                 return
-                        self.player.setPosition(ms)
+                            elif ms > loop_end_ms:
+                                return
+                        self.player.setPosition(int(ms))
                     else:
                         QMessageBox.warning(self, "Invalid Seek", "The requested time is beyond media duration.")
                 self.waveformProgress.seekRequestedCallback = on_seek_requested
-                self.video_layout.addWidget(self.waveformProgress)
+                placeholder_index = self.video_layout.indexOf(
+                    self.media_placeholder)
+                self.video_layout.removeWidget(self.media_placeholder)
+                # self.media_placeholder.hide()
+                self.media_placeholder.deleteLater()
+                self.video_layout.insertWidget(placeholder_index,
+                                               self.waveformProgress)
             except Exception as e:
                 QMessageBox.warning(self, "Error", f"Failed to load waveform: {e}")
-        # Buttons are re-enabled in on_media_status_changed.
+        # Buttons re-enabled in on_media_status_changed.
 
     def sort_transcript_by_start(self):
         rows = []
@@ -362,6 +443,7 @@ class TranscriptEditor(QWidget):
         if not (start_item and end_item):
             return
         try:
+            self.current_row = row
             start_time = formatted_to_seconds(start_item.text())
             if self.auto_seek_enabled and self.video_path and self.player.duration() > 0:
                 if start_time * 1000 > self.player.duration():
@@ -370,19 +452,37 @@ class TranscriptEditor(QWidget):
                 self.player.setPosition(int(start_time * 1000))
                 if col < 2:
                     self.player.play()
-            self.current_row = row
-            self.loop_start = start_time
-            try:
-                end_time = formatted_to_seconds(end_item.text())
-            except ValueError:
-                end_time = start_time
-            self.loop_end = end_time
-            self.loop_start_spin.setValue(self.loop_start)
-            self.loop_end_spin.setValue(self.loop_end)
-            if self.waveformProgress is not None:
-                self.waveformProgress.set_loop_boundaries(self.loop_start, self.loop_end)
+
+                self.loop_start = start_time
+                try:
+                    end_time = formatted_to_seconds(end_item.text())
+                except ValueError:
+                    end_time = start_time
+                self.loop_end = end_time
+                self.loop_start_spin.setValue(self.loop_start)
+                self.loop_end_spin.setValue(self.loop_end)
+                if self.waveformProgress is not None:
+                    self.waveformProgress.set_loop_boundaries(self.loop_start, self.loop_end)
         except ValueError:
             pass
+
+    # --- Added helper and modified cell change handling ---
+    def normalize_time_entry(self, time_string):
+        """
+        Convert the user's input into a properly formatted time string.
+        If the input is a plain number, treat it as seconds.
+        If it already contains a separator, parse it accordingly.
+        The returned string is produced by seconds_to_formatted,
+        which handles conversion into proper minute:second (or hour:minute:second)
+        notation.
+        """
+        try:
+            # Try converting the input directly to a float (seconds)
+            time_value = float(time_string)
+        except ValueError:
+            # Otherwise, assume the value is given in a separated format.
+            time_value = formatted_to_seconds(time_string)
+        return seconds_to_formatted(time_value)
 
     def on_cell_changed(self, row, col):
         if row < 0 or row >= self.table.rowCount():
@@ -391,25 +491,34 @@ class TranscriptEditor(QWidget):
         end_item = self.table.item(row, 1)
         if not (start_item and end_item):
             return
+
+        # Block signals during normalization to avoid recursive calls.
+        self.table.blockSignals(True)
         try:
-            new_start = formatted_to_seconds(start_item.text())
+            normalized_start = self.normalize_time_entry(start_item.text())
+            start_item.setText(normalized_start)
+            new_start = formatted_to_seconds(normalized_start)
             if self.current_row == row:
                 self.loop_start = new_start
                 self.loop_start_spin.setValue(new_start)
         except ValueError:
             pass
         try:
-            new_end = formatted_to_seconds(end_item.text())
+            normalized_end = self.normalize_time_entry(end_item.text())
+            end_item.setText(normalized_end)
+            new_end = formatted_to_seconds(normalized_end)
             if self.current_row == row:
                 self.loop_end = new_end
                 self.loop_end_spin.setValue(new_end)
         except ValueError:
             pass
+        self.table.blockSignals(False)
         self.table.resizeRowsToContents()
+    # --- End modifications ---
 
     def loop_start_changed(self, val):
         if self.loop_end is not None and val > self.loop_end:
-            QMessageBox.warning(self, "Invalid Loop", "Loop start cannot be greater than loop end.")
+            # QMessageBox.warning(self, "Invalid Loop", "Loop start cannot be greater than loop end.")
             self.loop_start_spin.blockSignals(True)
             self.loop_start_spin.setValue(self.prev_loop_start)
             self.loop_start_spin.blockSignals(False)
@@ -420,12 +529,11 @@ class TranscriptEditor(QWidget):
             self.table.setItem(self.current_row, 0, QTableWidgetItem(seconds_to_formatted(val)))
         self.table.resizeRowsToContents()
         if self.waveformProgress is not None:
-            # Update overlay boundaries – if loop_end is not set, use loop_start.
             self.waveformProgress.set_loop_boundaries(self.loop_start, self.loop_end if self.loop_end is not None else self.loop_start)
 
     def loop_end_changed(self, val):
         if self.loop_start is not None and val < self.loop_start:
-            QMessageBox.warning(self, "Invalid Loop", "Loop end must be after loop start.")
+            # QMessageBox.warning(self, "Invalid Loop", "Loop end must be after loop start.")
             self.loop_end_spin.blockSignals(True)
             self.loop_end_spin.setValue(self.prev_loop_end)
             self.loop_end_spin.blockSignals(False)
@@ -440,13 +548,22 @@ class TranscriptEditor(QWidget):
 
     def toggle_loop(self):
         self.loop_enabled = not self.loop_enabled
-        txt = "(On)" if self.loop_enabled else "(Off)"
-        self.toggle_loop_button.setText("Toggle Loop " + txt)
+        txt = "Enabled" if self.loop_enabled else "Disabled"
+        self.toggle_loop_button.setText("Looping: " + txt)
+
+        # If looping is now enabled and loop boundaries exist, check the current position.
+        if self.loop_enabled and self.loop_start is not None and self.loop_end is not None:
+            current_position = self.player.position()  # current position in milliseconds
+            loop_start_ms = int(self.loop_start * 1000)
+            loop_end_ms = int(self.loop_end * 1000)
+            # If the current position is before the loop start or after the loop end, seek to loop start.
+            if current_position < loop_start_ms or current_position > loop_end_ms:
+                self.player.setPosition(loop_start_ms)
 
     def toggle_auto_seek(self):
         self.auto_seek_enabled = not self.auto_seek_enabled
-        txt = "On" if self.auto_seek_enabled else "Off"
-        self.auto_seek_btn.setText(f"Auto Seek: {txt}")
+        txt = "Enabled" if self.auto_seek_enabled else "Disabled"
+        self.auto_seek_btn.setText(f"Jump to: {txt}")
 
     def on_position_changed(self, position):
         if self.waveformProgress:
@@ -464,22 +581,36 @@ class TranscriptEditor(QWidget):
 
     def on_media_status_changed(self, status):
         if status in (QMediaPlayer.BufferedMedia, QMediaPlayer.LoadedMedia):
-            self.media_placeholder.hide()
+            # self.media_placeholder.hide()
             QTimer.singleShot(100, lambda: self.view.fitInView(self.video_item, Qt.KeepAspectRatio))
             QTimer.singleShot(100, self.update_button_positions)
             self.enable_all_buttons()
-            self.media_btn.setText("Upload Media")
-            # Now that the video is loaded, show the overlay if the checkbox is checked:
             if self.overlay_checkbox.isChecked():
                 self.overlay_visible = True
                 for proxy in self.speaker_buttons:
                     proxy.setVisible(True)
 
+    def jump_backward(self):
+        # Jump 10 seconds backward.
+        new_pos = self.player.position() - 10000
+        if new_pos < 0:
+            new_pos = 0
+        self.player.setPosition(int(new_pos))
+
+    def jump_forward(self):
+        # Jump 10 seconds forward.
+        new_pos = self.player.position() + 10000
+        if new_pos > self.player.duration():
+            new_pos = self.player.duration()
+        self.player.setPosition(int(new_pos))
+
     def toggle_play(self):
         if self.player.state() == QMediaPlayer.PlayingState:
             self.player.pause()
+            self.play_button.setIcon(self.play_icon)
         else:
             self.player.play()
+            self.play_button.setIcon(self.pause_icon)
 
     def toggle_overlay(self, state):
         self.overlay_visible = (state == Qt.Checked)
