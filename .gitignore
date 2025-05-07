@@ -22,4 +22,9 @@ dist/
 # Ignore script
 split_wav.py
 
+#Ignore .json files
+*.json
 
+lib/
+
+*.csv

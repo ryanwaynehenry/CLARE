@@ -1,68 +1,86 @@
 import copy
 import os
+from typing import List, Dict
+import bisect
 import json
 import re
 import csv
 from PyQt5.QtCore import QUrl, QObject, pyqtSlot, Qt, QPropertyAnimation, QSize, QThread, pyqtSignal
 from PyQt5.QtWidgets import (
-    QWidget, QVBoxLayout, QHBoxLayout, QPushButton, QMessageBox,
-    QFileDialog, QLineEdit, QLabel, QFormLayout, QGroupBox, QSplitter,
+    QWidget, QVBoxLayout, QHBoxLayout, QPushButton, QMessageBox, QMenu,
+    QFileDialog, QLineEdit, QLabel, QFormLayout, QGroupBox, QSplitter, QDialog,
     QToolButton, QSizePolicy, QScrollArea, QShortcut, QFrame, QProgressDialog, QApplication
 )
-from PyQt5.QtGui import QKeySequence, QIcon, QPixmap, QPainter
+from PyQt5.QtGui import QKeySequence, QIcon, QPixmap, QPainter, QFontMetrics
 from PyQt5.QtWebEngineWidgets import QWebEngineView
 from PyQt5.QtWebChannel import QWebChannel
 from pyvis.network import Network
-
-from dotenv import load_dotenv
-load_dotenv()
+import utils
+import yaml
+from api_config_dialog import ApiConfigDialog
 
 # Import your autoKG class
 # Make sure that autoKG.py is in a location where Python can find it (same folder or properly installed).
 from autokg import autoKG
 
-class GraphGenerationThread(QThread):
-    # This signal sends two arguments: nodes and triples
-    finished = pyqtSignal(list, list)
-    # Optionally, emit an error message if something goes wrong
-    errorOccurred = pyqtSignal(str)
+MIN_LABEL_WIDTH = 40  # pixels
+MAX_LABEL_WIDTH = 180  # pixels
+MAX_WORDS = 100
 
-    def __init__(self, transcript, main_topic, openai_api_key, parent=None):
+class GraphGenerationThread(QThread):
+    finished     = pyqtSignal(list, list)
+    errorOccurred= pyqtSignal(str)
+
+    def __init__(
+        self,
+        texts: List[str],
+        sources: List[str],
+        llm_model: str,
+        embedding_model: str,
+        llm_key1: str, llm_key2: str, llm_key3: str,
+        emb_key1: str, emb_key2: str, emb_key3: str,
+        main_topic: str,
+        parent: QObject = None,
+    ):
         super().__init__(parent)
-        self.transcript = transcript
+        self.texts = texts
+        self.sources = sources
+        self.llm_model = llm_model
+        self.embedding_model = embedding_model
+        self.llm_key1, self.llm_key2, self.llm_key3 = llm_key1, llm_key2, llm_key3
+        self.emb_key1, self.emb_key2, self.emb_key3 = emb_key1, emb_key2, emb_key3
         self.main_topic = main_topic
-        self.openai_api_key = openai_api_key
 
     def run(self):
         try:
-            # Split and clean the transcript.
-            lines = [line.strip() for line in self.transcript.split("\n") if line.strip()]
-            if not lines:
-                self.errorOccurred.emit("Transcript is empty after splitting.")
+            if not self.texts:
+                self.errorOccurred.emit("Transcript is empty.")
                 return
 
-            # Create an instance of autoKG.
             auto_kg = autoKG(
-                texts=lines,
-                source=[f"Line {i}" for i in range(len(lines))],
-                embedding_model="text-embedding-ada-002",  # adjust as needed
-                llm_model="gpt-4o",                        # adjust as needed
-                llm_api_key=self.openai_api_key,
-                embedding_api_key=self.openai_api_key,
+                texts=self.texts,
+                source=self.sources,
+                embedding_model=self.embedding_model,
+                llm_model=self.llm_model,
+                embedding_api_key=self.emb_key1,
+                llm_api_key=self.llm_key1,
                 main_topic=self.main_topic,
-                embed=True
+                embed=True,
+                embedding_key2=self.emb_key2,
+                embedding_key3=self.emb_key3,
+                llm_key2=self.llm_key2,
+                llm_key3=self.llm_key3,
             )
 
-            # Run the long operations.
             auto_kg.make_graph(k=5, method='annoy', similarity='angular', kernel='gaussian')
             auto_kg.remove_same_text(use_nn=True, n_neighbors=3, thresh=1e-6, update=True)
             auto_kg.cluster(
-                n_clusters=15,
+                n_clusters=None,
                 clustering_method='k_means',
                 max_texts=5,
                 select_mtd='similarity',
                 prompt_language='English',
-                num_topics=3,
+                num_topics=10,
                 max_length=3,
                 post_process=True,
                 add_keywords=True,
@@ -71,33 +89,22 @@ class GraphGenerationThread(QThread):
             auto_kg.coretexts_seg_individual(
                 trust_num=5,
                 core_labels=None,
-                k=20,
                 dist_metric='cosine',
                 negative_multiplier=3,
                 seg_mtd='laplace',
                 return_mat=True,
                 connect_threshold=1
             )
-            edges = auto_kg.build_entity_relationships(transcript_str=self.transcript)
+            edges = auto_kg.build_entity_relationships(transcript_str=' '.join(self.texts))
 
-            # Prepare nodes and triples.
             nodes = auto_kg.keywords.copy()
             triples = []
-            for (kw1, relation, kw2, direction) in edges:
+            for kw1, relation, kw2, direction in edges:
                 if direction == "forward":
-                    triples.append({
-                        "subject": kw1,
-                        "relation": relation,
-                        "object": kw2
-                    })
-                elif direction == "reverse":
-                    triples.append({
-                        "subject": kw2,
-                        "relation": relation,
-                        "object": kw1
-                    })
+                    triples.append({"subject": kw1, "relation": relation, "object": kw2})
+                else:
+                    triples.append({"subject": kw2, "relation": relation, "object": kw1})
 
-            # Emit the results.
             self.finished.emit(nodes, triples)
         except Exception as e:
             self.errorOccurred.emit(str(e))
@@ -218,11 +225,11 @@ class KnowledgeGraphTab(QWidget):
         ribbon_layout.setSpacing(5)
 
         # Create container widgets for each section:
-        graph_io_widget = QWidget()
-        graph_io_widget.setSizePolicy(QSizePolicy.Fixed, QSizePolicy.Fixed)
-        graph_io_layout = QHBoxLayout()
-        graph_io_layout.setContentsMargins(0, 0, 0, 0)
-        graph_io_layout.setSpacing(5)
+        graph_generation_widget = QWidget()
+        graph_generation_widget.setSizePolicy(QSizePolicy.Fixed, QSizePolicy.Fixed)
+        graph_generation_layout = QHBoxLayout()
+        graph_generation_layout.setContentsMargins(0, 0, 0, 0)
+        graph_generation_layout.setSpacing(5)
 
         # Generate button with a symbol
         self.generate_btn = QPushButton()
@@ -232,15 +239,99 @@ class KnowledgeGraphTab(QWidget):
         self.generate_btn.setFixedSize(36, 36)
         self.generate_btn.setToolTip("Generate Graph from Transcript")
         self.generate_btn.clicked.connect(self.generate_graph)
-        graph_io_layout.addWidget(self.generate_btn)
+        graph_generation_layout.addWidget(self.generate_btn)
 
         # Main Topic input (no preceding text label); update placeholder text.
         self.main_topic_field = QLineEdit()
         self.main_topic_field.setPlaceholderText(
             "Optional: Specify central topic for entities (e.g. chemistry)"
         )
-        self.main_topic_field.setFixedSize(400, 40)
-        graph_io_layout.addWidget(self.main_topic_field)
+        self.main_topic_field.setFixedSize(310, 40)
+        graph_generation_layout.addWidget(self.main_topic_field)
+
+        # Select LLM model drop-down button
+        self.llm_btn = QToolButton()
+        self.llm_btn.setText("LLM Model")
+        self.llm_btn.setPopupMode(QToolButton.InstantPopup)
+        self.llm_btn.setMinimumSize(MIN_LABEL_WIDTH, 40)
+        self.llm_btn.setStyleSheet("""
+                   QToolButton { padding-right:20px; }
+                   QToolButton::menu-indicator {
+                     subcontrol-origin: padding;
+                     subcontrol-position: right center;
+                     margin-left: 5px;
+                   }
+               """)
+        self.llm_menu = QMenu()
+        for name in dir(utils):
+            if name.endswith("llm_models"):
+                provider = name.replace("_llm_models", "").title()
+                sub = self.llm_menu.addMenu(provider)
+                sub_action = sub.menuAction()
+                sub_action.setCheckable(True)
+                for model in getattr(utils, name):
+                    act = sub.addAction(model)
+                    act.setCheckable(True)
+                    act.triggered.connect(lambda _, m=model: self.set_llm_model(m))
+        self.llm_btn.setMenu(self.llm_menu)
+        self.llm_btn.setMaximumWidth(MAX_LABEL_WIDTH + 40)
+        graph_generation_layout.addWidget(self.llm_btn)
+
+        # Embedder-selector button
+        self.embed_btn = QToolButton()
+        self.embed_btn.setText("Embedding Model")
+        self.embed_btn.setPopupMode(QToolButton.InstantPopup)
+        self.embed_btn.setMinimumSize(MIN_LABEL_WIDTH, 40)
+        self.embed_btn.setStyleSheet("""
+                   QToolButton { padding-right:20px; }
+                   QToolButton::menu-indicator {
+                     subcontrol-origin: padding;
+                     subcontrol-position: right center;
+                     margin-left: 5px;
+                   }
+               """)
+        self.embed_menu = QMenu()
+        # find all lists in utils that end with "embedding_models"
+        for name in dir(utils):
+            if name.endswith("embedding_models"):
+                provider = name.replace("_embedding_models", "").title()
+                sub = self.embed_menu.addMenu(provider)
+                sub_action = sub.menuAction()
+                sub_action.setCheckable(True)
+                for model in getattr(utils, name):
+                    act = sub.addAction(model)
+                    act.setCheckable(True)
+                    act.triggered.connect(
+                        lambda _, m=model: self.set_embedding_model(m))
+        self.embed_btn.setMenu(self.embed_menu)
+        self.embed_btn.setMaximumWidth(MAX_LABEL_WIDTH + 40)
+        graph_generation_layout.addWidget(self.embed_btn)
+
+        # — API Keys button —
+        self.api_btn = QPushButton("API Keys")
+        self.api_btn.setMinimumSize(MIN_LABEL_WIDTH, 40)
+        self.api_btn.setToolTip("Configure provider API keys")
+        self.api_btn.clicked.connect(self.open_api_config)
+        graph_generation_layout.addWidget(self.api_btn)
+
+        graph_generation_widget.setLayout(graph_generation_layout)
+        graph_generation_section = QWidget()
+        graph_generation_section_layout = QVBoxLayout()
+        graph_generation_section_layout.setContentsMargins(0, 0, 0, 0)
+        graph_generation_section_layout.setSpacing(2)
+        graph_generation_label = QLabel("Graph Generation")
+        graph_generation_label.setStyleSheet(
+            "font-size: 14pt; color: black;")  # adjust style as needed
+        graph_generation_section_layout.addWidget(graph_generation_label)
+        graph_generation_section_layout.addWidget(graph_generation_widget)
+        graph_generation_section.setLayout(graph_generation_section_layout)
+
+        # Graph IO Section
+        graph_io_widget = QWidget()
+        graph_io_widget.setSizePolicy(QSizePolicy.Fixed, QSizePolicy.Fixed)
+        graph_io_layout = QHBoxLayout()
+        graph_io_layout.setContentsMargins(0, 0, 0, 0)
+        graph_io_layout.setSpacing(5)
 
         # Import button: uses an open folder icon
         self.import_csv_btn = QPushButton()
@@ -379,17 +470,23 @@ class KnowledgeGraphTab(QWidget):
 
         search_section.setLayout(search_section_layout)
 
-        ribbon_layout.addWidget(graph_io_section)
+        ribbon_layout.addWidget(graph_generation_section)
         separator1 = QFrame()
         separator1.setFrameShape(QFrame.VLine)
         separator1.setFrameShadow(QFrame.Sunken)
         ribbon_layout.addWidget(separator1)
 
-        ribbon_layout.addWidget(graph_editing_section)
+        ribbon_layout.addWidget(graph_io_section)
         separator2 = QFrame()
         separator2.setFrameShape(QFrame.VLine)
         separator2.setFrameShadow(QFrame.Sunken)
         ribbon_layout.addWidget(separator2)
+
+        ribbon_layout.addWidget(graph_editing_section)
+        separator3 = QFrame()
+        separator3.setFrameShape(QFrame.VLine)
+        separator3.setFrameShadow(QFrame.Sunken)
+        ribbon_layout.addWidget(separator3)
 
         ribbon_layout.addStretch()
         ribbon_layout.addWidget(search_section)
@@ -705,6 +802,21 @@ class KnowledgeGraphTab(QWidget):
         self.escape_shortcut = QShortcut(QKeySequence("Escape"), self)
         self.escape_shortcut.activated.connect(self.cancel_pick_mode)
 
+        self.api_config = {}
+        self.load_api_config()
+
+    def load_api_config(self):
+        try:
+            with open("config.yaml", "r") as f:
+                self.api_config = yaml.safe_load(f) or {}
+        except FileNotFoundError:
+            self.api_config = {}
+
+    def open_api_config(self):
+        dlg = ApiConfigDialog(self)
+        if dlg.exec_() == QDialog.Accepted:
+            self.load_api_config()
+
     def toggle_advanced_controls(self):
         totalWidth = self.splitter.width()
         minimalAdvWidth = 0  # when hidden, give 0 width to advanced controls.
@@ -735,6 +847,10 @@ class KnowledgeGraphTab(QWidget):
         self.width_animation.setStartValue(start)
         self.width_animation.setEndValue(end)
         self.width_animation.start()
+
+    def open_api_config(self):
+        dlg = ApiConfigDialog(self)
+        dlg.exec_()
 
     def save_state(self):
         state = {
@@ -1135,41 +1251,232 @@ class KnowledgeGraphTab(QWidget):
         self.webview.page().runJavaScript(js_code)
         self.build_graph()
 
-    def generate_graph(self):
-        self.cancel_pick_mode()  # cancel any active mode
+    def set_llm_model(self, model_name):
+        # 1) clear and re-check the exact model
+        for prov_action in self.llm_menu.actions():
+            submenu = prov_action.menu()
+            if submenu:
+                any_checked = False
+                for act in submenu.actions():
+                    checked = (act.text() == model_name)
+                    act.setChecked(checked)
+                    if checked:
+                        any_checked = True
+                # now toggle the provider itself
+                prov_action.setChecked(any_checked)
 
-        # Get the transcript.
-        transcript = self.transcript_provider()
-        if not transcript:
+        self.current_llm_model = model_name
+
+        # 2) elide long text to fit MAX_LABEL_WIDTH
+        full = f"LLM: {model_name}"
+        fm = QFontMetrics(self.llm_btn.font())
+        elided = fm.elidedText(full, Qt.ElideRight, MAX_LABEL_WIDTH)
+        self.llm_btn.setText(elided)
+        self.llm_btn.setToolTip(full)
+
+    def set_embedding_model(self, model_name):
+        for prov_action in self.embed_menu.actions():
+            submenu = prov_action.menu()
+            if submenu:
+                any_checked = False
+                for act in submenu.actions():
+                    checked = (act.text() == model_name)
+                    act.setChecked(checked)
+                    if checked:
+                        any_checked = True
+                prov_action.setChecked(any_checked)
+
+        self.current_embedding_model = model_name
+
+        full = f"Encoder: {model_name}"
+        fm = QFontMetrics(self.embed_btn.font())
+        elided = fm.elidedText(full, Qt.ElideRight, MAX_LABEL_WIDTH)
+        self.embed_btn.setText(elided)
+        self.embed_btn.setToolTip(full)
+
+    def _process_entries(self, entries: list[dict]) -> list[dict]:
+        """
+            1) Merge adjacent segments from the same speaker
+            2) Recursively split any merged block > max_words words:
+               a) If >1 sentence, find the sentence boundary closest to half the words and split there
+               b) If exactly 1 sentence, split that sentence in half at the word level
+            Returns a flat list of {"speaker": ..., "text": ...} dicts, each <= max_words words.
+            """
+        # 1) Merge
+        segments: list[tuple[str, str]] = []
+
+        for seg in entries:
+            spk = seg.get("speaker", "")
+            txt = seg.get("text", "").strip()
+            if not segments or segments[-1][0] != spk:
+                segments.append([spk, txt])
+            else:
+                segments[-1][1] += " " + txt
+
+        # 2) Split each merged block
+        out: list[dict] = []
+        for spk, text in segments:
+            out.extend(self._split_block(spk, text))
+        return out
+
+    def _split_block(self, spk: str, text: str) -> list[dict]:
+        """
+        Recursively split `text` into chunks of ≤ MAX_WORDS words,
+        preserving sentence boundaries when possible, otherwise
+        bisecting the single too-long sentence in half by word count.
+        Returns a list of {"speaker": spk, "text": chunk} dicts.
+        """
+        words = text.split()
+        # Base case: already small enough
+        if len(words) <= MAX_WORDS:
+            return [{"speaker": spk, "text": text.strip()}]
+
+        # Try to split on sentence boundaries first
+        sentences = re.split(r'(?<=[\.?!])\s+', text)
+        if len(sentences) > 1:
+            # Compute word counts per sentence
+            counts = [len(s.split()) for s in sentences]
+            # Build prefix‐sum array
+            prefix = [0]
+            for c in counts:
+                prefix.append(prefix[-1] + c)
+            total = prefix[-1]
+            half = total / 2
+
+            # Find the split index where prefix >= half
+            i0 = bisect.bisect_left(prefix, half)
+            # Clamp to valid sentence‐boundary splits
+            best_i = min(max(i0, 1), len(sentences) - 1)
+            best_diff = abs(half - prefix[best_i])
+            # Check neighbors for a better balance
+            for cand in (i0 - 1, i0 + 1):
+                if 1 <= cand < len(prefix):
+                    diff = abs(half - prefix[cand])
+                    if diff < best_diff:
+                        best_i, best_diff = cand, diff
+
+            # Recurse on the two halves
+            left_text  = " ".join(sentences[:best_i])
+            right_text = " ".join(sentences[best_i:])
+            return (
+                self._split_block(spk, left_text)
+                + self._split_block(spk, right_text)
+            )
+
+        # Fallback: single sentence that’s still too long → split in half by word count
+        n = len(words)
+        mid = n // 2
+        left_text  = " ".join(words[:mid])
+        right_text = " ".join(words[mid:])
+        return (
+            self._split_block(spk, left_text)
+            + self._split_block(spk, right_text)
+        )
+
+    def generate_graph(self):
+        self.cancel_pick_mode()
+
+        # 1) Ensure models have been picked
+        if not getattr(self, "current_llm_model", None):
+            QMessageBox.warning(self, "Error", "Please select an LLM model.")
+            return
+        if not getattr(self, "current_embedding_model", None):
+            QMessageBox.warning(self, "Error", "Please select an embedding model.")
+            return
+
+        # 2) Extract keys from self.api_config
+        cfg = self.api_config
+
+        # --- LLM keys ---
+        parent = utils.determine_llm_parent(self.current_llm_model)
+        if parent == "bedrock_llm":
+            sec = cfg.get("bedrock", {})
+            llm_keys = [
+                sec.get("AWS_ACCESS_KEY_ID", "").strip(),
+                sec.get("AWS_SECRET_ACCESS_KEY", "").strip(),
+                sec.get("AWS_REGION_NAME", "").strip()
+            ]
+            if any(not k for k in llm_keys):
+                QMessageBox.warning(self, "Error", "Please fill all three Bedrock credentials.")
+                return
+            llm_key1, llm_key2, llm_key3 = llm_keys
+
+        elif parent == "ollama_llm":
+            base = cfg.get("ollama", {}).get("api_base", "").strip()
+            if not base:
+                QMessageBox.warning(self, "Error", "Please specify Ollama API Base URL.")
+                return
+            llm_key1, llm_key2, llm_key3 = base, "", ""
+
+        else:
+            prov = parent.replace("_llm", "")
+            key = cfg.get(prov, {}).get("api_key", "").strip()
+            if not key:
+                QMessageBox.warning(self, "Error", f"Please enter API key for {prov.title()}.")
+                return
+            llm_key1, llm_key2, llm_key3 = key, "", ""
+
+        # --- Embedding keys ---
+        parent_e = utils.determine_embedding_parent(self.current_embedding_model)
+        if parent_e == "bedrock_embedding":
+            sec = cfg.get("bedrock", {})
+            emb_keys = [
+                sec.get("AWS_ACCESS_KEY_ID", "").strip(),
+                sec.get("AWS_SECRET_ACCESS_KEY", "").strip(),
+                sec.get("AWS_REGION_NAME", "").strip()
+            ]
+            if any(not k for k in emb_keys):
+                QMessageBox.warning(self, "Error", "Please fill all three Bedrock embedding credentials.")
+                return
+            emb_key1, emb_key2, emb_key3 = emb_keys
+
+        elif parent_e == "local_embedding":
+            emb_key1, emb_key2, emb_key3 = "", "", ""
+
+        else:
+            prov = parent_e.replace("_embedding", "")
+            section = f"{prov}_embedding"
+            key = cfg.get(section, {}).get("api_key", "").strip()
+            if not key:
+                QMessageBox.warning(self, "Error", f"Please enter embedding API key for {prov.title()}.")
+                return
+            emb_key1, emb_key2, emb_key3 = key, "", ""
+
+        # 3) rest of your existing checks (transcript, main_topic, etc.)
+        raw = self.transcript_provider()  # now gives List[dict]
+        if not raw:
             QMessageBox.warning(self, "Error", "Transcript not loaded.")
             return
 
-        # Get the OpenAI API key.
-        openai_api_key = os.getenv("OPENAI_API_KEY", "")
-        if not openai_api_key:
-            QMessageBox.warning(self, "Error",
-                                "OPENAI_API_KEY not found in environment.")
-            return
-
+        # apply our new segmentation
+        processed = self._process_entries(raw)
+        texts = [e["text"] for e in processed]
+        sources = [e["speaker"] for e in processed]
         main_topic_text = self.main_topic_field.text().strip()
 
-        # Create and display a progress dialog.
-        progress = QProgressDialog("Generating knowledge graph... Please wait.",
-                                   None, 0, 0, self)
+        # 4) show progress, kick off thread with processed_text…
+        progress = QProgressDialog("Generating knowledge graph…", None, 0, 0,
+                                   self)
         progress.setWindowTitle("Processing")
         progress.setWindowModality(Qt.WindowModal)
         progress.setCancelButton(None)
         progress.show()
-        QApplication.processEvents()  # ensure the dialog is updated
+        QApplication.processEvents()
 
-        # Create and start the worker thread.
-        self.graph_worker = GraphGenerationThread(transcript, main_topic_text,
-                                                  openai_api_key)
+        self.graph_worker = GraphGenerationThread(
+            texts=texts,
+            sources=sources,
+            llm_model=self.current_llm_model,
+            embedding_model=self.current_embedding_model,
+            llm_key1=llm_key1, llm_key2=llm_key2, llm_key3=llm_key3,
+            emb_key1=emb_key1, emb_key2=emb_key2, emb_key3=emb_key3,
+            main_topic=main_topic_text,
+            parent=self,  # <<--- make sure this is a QObject, not a str
+        )
         self.graph_worker.finished.connect(
             self.handle_graph_generation_finished)
         self.graph_worker.errorOccurred.connect(
             lambda msg: QMessageBox.warning(self, "Error", msg))
-        # When the worker finishes or errors, hide the progress dialog.
         self.graph_worker.finished.connect(progress.cancel)
         self.graph_worker.errorOccurred.connect(progress.cancel)
         self.graph_worker.start()

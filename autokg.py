@@ -7,9 +7,10 @@ from annoy import AnnoyIndex
 from scipy import sparse
 from scipy.sparse import diags, csr_matrix
 from sklearn.cluster import KMeans
-from sklearn.metrics import pairwise_distances
+from sklearn.metrics import pairwise_distances, silhouette_score
 from sklearn.neighbors import NearestNeighbors
 import graphlearning as gl
+from sentence_transformers import SentenceTransformer
 
 from utils import *  # Assumes helper functions like get_completion, get_num_tokens, process_strings, remove_duplicates, etc.
 
@@ -64,6 +65,18 @@ class autoKG:
                                                              self.embedding_key2,
                                                              self.embedding_key3])
         self.check_component_status(llm_status, embedding_status)
+        if determine_embedding_parent(self.embedding_model) == "local_embedding":
+            if SentenceTransformer is None:
+                print("sentence_transformers not installed; local embedding will fail")
+                self.local_embedder = None
+            else:
+                try:
+                    self.local_embedder = SentenceTransformer(self.embedding_model)
+                    print(f"Loaded local embedder {self.embedding_model}")
+                except Exception as e:
+                    print(f"Failed to load local embedder {self.embedding_model}: {e}")
+                    self.local_embedder = None
+        else: self.local_embedder = None
 
         if embed:
             self.vectors = np.array(self.embed_documents(self.texts))
@@ -102,14 +115,28 @@ class autoKG:
 
     def embed_documents(self, texts: list):
         embeddings = []
-        for text in texts:
-            if determine_embedding_parent(
-                    self.embedding_model) == "ollama_embedding":
-                emb = embedding(model=self.embedding_model, input=[text],
-                                api_base=self.embedding_api_key)
+        total = len(texts)
+
+
+        # Decide embedding call once
+        parent = determine_embedding_parent(self.embedding_model)
+        use_ollama = (parent == "ollama_embedding")
+        use_local = (parent == "local_embedding" and self.local_embedder is not None)
+
+        for idx, text in enumerate(texts, 1):
+            print(
+                f"Embedding {idx}/{total}: {repr(text[:100])}...")  # show first 100 chars safely
+            if use_local:
+                vec = self.local_embedder.encode(text)
             else:
-                emb = embedding(model=self.embedding_model, input=text)
-            embeddings.append(emb.data[0]['embedding'])
+                if use_ollama:
+                    emb = embedding(model=self.embedding_model, input=[text],
+                                    api_base=self.embedding_api_key)
+                else:
+                    emb = embedding(model=self.embedding_model, input=text)
+                vec = emb.data[0]['embedding']
+            embeddings.append(vec)
+
         return embeddings
 
     def update_keywords(self, keyword_list):
@@ -175,6 +202,8 @@ class autoKG:
             self.source = [self.source[i] for i in to_keep]
             self.vectors = self.vectors[to_keep]
             self.token_counts = [self.token_counts[i] for i in to_keep]
+            self.weightmatrix = None
+            self.graph = None
         return to_keep, to_delete, remains
 
     def core_text_filter(self, core_list, max_length):
@@ -361,11 +390,51 @@ class autoKG:
                                              top_p=self.top_p)
         return response, tokens
 
-    def cluster(self, n_clusters, clustering_method='k_means', max_texts=5,
-                select_mtd='similarity', prompt_language='English',
-                num_topics=3,
-                max_length=3, post_process=True, add_keywords=True,
-                verbose=False):
+    def _choose_n_clusters(self,
+                           target_size: int = 8,
+                           min_k: int = 2,
+                           max_offset: int = 2) -> int:
+        """
+        Heuristic + local silhouette search to pick n_clusters.
+        """
+        N = len(self.vectors)
+        if N < min_k:
+            raise ValueError(
+                "Text is too short to generate a knowledge graph. Please try to have more than 100 words.")
+
+        # 1) initial guess by target size
+        k0 = max(min_k, round(N / target_size))
+
+        # 2) search in [k0 - max_offset, k0 + max_offset]
+        best_k, best_score = k0, -1
+        for k in range(max(min_k, k0 - max_offset), k0 + max_offset + 1):
+            if k >= N:  # can't have more clusters than points
+                continue
+            labels = KMeans(n_clusters=k, n_init=5).fit_predict(self.vectors)
+            score = silhouette_score(self.vectors, labels)
+            if score > best_score:
+                best_score, best_k = score, k
+
+        return best_k
+
+    def determine_k(self):
+        if len(self.vectors) < 100:
+            k = min(len(self.vectors) - 1,
+                    max(round(len(self.vectors) / 10), 5))
+        elif len(self.vectors) <= 500:
+            k = 8 + round(len(self.vectors) / 50)
+        else:
+            k = min(50, round(len(self.vectors) / 25))
+        return k
+
+    def cluster(self, n_clusters: int = None, clustering_method='k_means',
+                    max_texts=5, select_mtd='similarity',
+                    prompt_language='English', num_topics=3, max_length=3,
+                    post_process=True, add_keywords=True, verbose=False):
+
+        if n_clusters is None:
+            n_clusters = self._choose_n_clusters(target_size = 8, min_k = 2, max_offset = 2)
+
         if clustering_method == 'k_means':
             kmeans_model = KMeans(n_clusters, init='k-means++', n_init=10)
             kmeans = kmeans_model.fit(np.array(self.vectors))
@@ -373,7 +442,8 @@ class autoKG:
                                    'NgJordanWeiss']:
             extra_dim = 5
             if self.weightmatrix is None:
-                self.make_graph(k=20)
+                k = self.determine_k()
+                self.make_graph(k=k)
             n = self.graph.num_nodes
             if clustering_method == 'combinatorial':
                 vals, vec = self.graph.eigen_decomp(k=n_clusters + extra_dim)
@@ -444,10 +514,10 @@ class autoKG:
         k = min(k, len(core_texts))
         if method == 'annoy':
             similarity = 'angular' if dist_metric == 'cosine' else dist_metric
-            knn_ind, knn_dist = autoKG.ANN_search(self.vectors, core_ebds, k,
+            knn_ind, knn_dist = autoKG.ANN_search(core_ebds, self.vectors, k,
                                                   similarity=similarity)
         elif method == 'dense':
-            dist_mat = pairwise_distances(self.vectors, core_ebds,
+            dist_mat = pairwise_distances(core_ebds, self.vectors,
                                           metric=dist_metric)
             knn_ind, knn_dist = [], []
             for i in range(len(dist_mat)):
@@ -473,10 +543,10 @@ class autoKG:
                 knn_ind[:, 0], knn_dist[:, 0])
 
     def laplace_diffusion(self, core_texts, trust_num=10, core_labels=None,
-                          k=20,
                           dist_metric='cosine', return_full=False):
         if self.weightmatrix is None:
-            self.make_graph(k=20)
+            k = self.determine_k()
+            self.make_graph(k=k)
         knn_ind, knn_dist = self.distance_core_seg(core_texts, core_labels, k,
                                                    dist_metric, method='annoy',
                                                    return_full=False,
@@ -501,46 +571,91 @@ class autoKG:
         else:
             return np.argmax(U, axis=1)
 
-    def PosNNeg_seg(self, core_text, trust_num=5, k=20, dist_metric='cosine',
-                    negative_multiplier=3, seg_mtd='laplace'):
+    def PosNNeg_seg(self,
+                    core_text,
+                    trust_num: int = 5,
+                    dist_metric: str = 'cosine',
+                    negative_multiplier: int = 3,
+                    seg_mtd: str = 'laplace'):
+        """
+        1) Finds the k nearest neighbors to core_text in self.vectors.
+        2) Picks up to `trust_num` closest (positives) and
+           up to `trust_num * negative_multiplier` farthest (negatives).
+        3) Labels them 0 (positive) or 1 (negative).
+        4) Runs either k-means on those subtexts, or laplace/poisson diffusion.
+        Returns: (label_pred, U) where
+          - label_pred[i] ∈ {0,1}
+          - U[i] is the “score” for the positive class.
+        """
+        # 1) ensure your graph exists
+        k = self.determine_k()
         if self.weightmatrix is None:
-            self.make_graph(k=20)
-        knn_ind, knn_dist = self.distance_core_seg([core_text], [0], k,
-                                                   dist_metric, method='dense',
-                                                   return_full=False,
-                                                   return_prob=False)
-        sort_ind = np.argsort(knn_dist)
-        select_inds = np.concatenate((sort_ind[:trust_num],
-                                      sort_ind[
-                                      -negative_multiplier * trust_num:]))
-        select_labels = np.concatenate(
-            (np.zeros(trust_num), np.ones(negative_multiplier * trust_num)))
+            self.make_graph(k=k)
+
+        # 2) get distances: shape (1, N)
+        knn_ind, knn_dist = self.distance_core_seg(
+            [core_text], [0], k,
+            dist_metric, method='dense',
+            return_full=False, return_prob=False
+        )
+        # flatten to a 1D array of indices
+        all_inds = knn_ind.ravel()
+        # sort by ascending distance
+        sorted_idx = all_inds[np.argsort(knn_dist.ravel())]
+
+        N = len(sorted_idx)
+        # 3) figure out how many positives/negatives we can actually take
+        max_pos = min(trust_num, N)
+        max_neg = min(negative_multiplier * trust_num, N - max_pos)
+
+        # 4) pick them
+        pos_inds = sorted_idx[:max_pos]
+        neg_inds = sorted_idx[-max_neg:] if max_neg > 0 else np.array([],
+                                                                      dtype=int)
+        select_inds = np.concatenate([pos_inds, neg_inds])
+
+        # 5) build labels array to match
+        select_labels = np.concatenate([
+            np.zeros(len(pos_inds), dtype=int),
+            np.ones(len(neg_inds), dtype=int)
+        ])
+
+        # 6) segmentation
         if seg_mtd == 'kmeans':
-            sub_core_texts = [self.texts[i] for i in select_inds]
-            label_pred, U = self.distance_core_seg(sub_core_texts,
-                                                   select_labels, k,
-                                                   dist_metric, method='dense',
-                                                   return_full=False,
-                                                   return_prob=False)
+            sub_texts = [self.texts[i] for i in select_inds]
+            label_pred, U = self.distance_core_seg(
+                sub_texts, select_labels, k,
+                dist_metric, method='dense',
+                return_full=False, return_prob=False
+            )
+            # turn distances into a positive‐class score
             U = np.exp(-U / np.max(U, axis=0))
+
         elif seg_mtd == 'laplace':
             model = gl.ssl.laplace(self.weightmatrix)
-            U = model._fit(select_inds, select_labels)
-            label_pred = np.argmax(U, axis=1)
-            U = U[:, 0]
+            # partial fit: returns shape (N, 2) if you passed 2 labels
+            U_partial = model._fit(select_inds, select_labels)
+            label_pred = np.argmax(U_partial, axis=1)
+            U = U_partial[:, 0]  # score for class 0
+
         elif seg_mtd == 'poisson':
             model = gl.ssl.poisson(self.weightmatrix)
-            U = model._fit(select_inds, select_labels)
-            label_pred = np.argmax(U, axis=1)
-            U = U[:, 0]
+            U_partial = model._fit(select_inds, select_labels)
+            label_pred = np.argmax(U_partial, axis=1)
+            U = U_partial[:, 0]
+
+        else:
+            raise ValueError(f"Unknown seg_mtd: {seg_mtd}")
+
         return label_pred, U
 
-    def coretexts_seg_individual(self, trust_num=5, core_labels=None, k=20,
+    def coretexts_seg_individual(self, trust_num=5, core_labels=None,
                                  dist_metric='cosine', negative_multiplier=3,
                                  seg_mtd='laplace',
                                  return_mat=True, connect_threshold=1):
-        if self.weightmatrix is None:
-            self.make_graph(k=20)
+        if (self.weightmatrix is None or self.weightmatrix.shape[0] != len(self.texts)):
+            k = self.determine_k()
+            self.make_graph(k=k)
         core_texts = self.keywords
         if core_labels is None:
             core_labels = np.arange(len(core_texts))
@@ -550,7 +665,7 @@ class autoKG:
         U_mat = np.zeros((len(self.texts), len(core_labels)))
         pred_mat = np.zeros((len(self.texts), N_labels))
         for core_ind, core_text in enumerate(core_texts):
-            label_pred, U = self.PosNNeg_seg(core_text, trust_num, k,
+            label_pred, U = self.PosNNeg_seg(core_text, trust_num,
                                              dist_metric, negative_multiplier,
                                              seg_mtd)
             U_mat[:, core_ind] = U
@@ -1005,38 +1120,15 @@ class autoKG:
         """
         # The instructions remain as defined.
         instructions = (
-            "You are an expert relation extractor. Given the context below, "
-            "for each given pair of entities, perform a detailed analysis of "
-            "all contextual clues—including syntactic cues, narrative order, "
-            "and explicit subject/object roles—to determine accurately which "
-            "entity is the actor and which is the receiver. Before assigning "
-            "a direction, carefully cross-check the sentence structure and "
-            "any supporting evidence from the context, ensuring you correctly "
-            "decide whether the relationship goes from Entity 1 to Entity 2 "
-            "or vice versa. For each pair, output all distinct relationship "
-            "statements implied in the context with the following three keys: "
-            "\"pair_index\", \"direction\", and \"relationship\". List each "
-            "distinct relationship separately if multiple exist for a given "
-            "pair. The \"pair_index\" should correspond to the order in which "
-            "the pairs are listed. The \"direction\" must be assigned as "
-            "follows: \n- \"forward\" if the evidence clearly shows that the "
-            "relationship goes from Entity 1 (the first-listed entity) to "
-            "Entity 2 (the second-listed entity), \n- \"reverse\" if the "
-            "evidence indicates that the relationship goes from Entity 2 to "
-            "Entity 1, or \n- \"none\" if no clear direction can be "
-            "determined after thorough analysis.            The "
-            "\"relationship\" value should be a short phrase (1-4 words) that "
-            "describes the relationship (for example, \"father of\" or \"was "
-            "prime minister of\"). If no relationship can be determined, "
-            "return an empty string for \"relationship\".\nReturn your result "
-            "as a JSON object in the exact following format: {\"results\": [ "
-            "{\"pair_index\": 1, \"direction\": \"forward\", "
-            "\"relationship\": \"fought against\"}, {\"pair_index\": 1, "
-            "\"direction\": \"reverse\", \"relationship\": \"surrendered "
-            "to\"}, {\"pair_index\": 2, \"direction\": \"reverse\", "
-            "\"relationship\": \"commander of\"}, {\"pair_index\": 2, "
-            "\"direction\": \"none\", \"relationship\": \"\"} ]} Do not "
-            "include any extra commentary."
+            """You are an expert relation extractor.  Follow these rules exactly:
+            1. For each entity pair, identify which is the actor (subject) and which the receiver (object).
+            2. For each pair, first (internally) identify which entity is syntactic subject vs. object, then output the JSON.
+            3. Do NOT use generic/vague predicates like "led to", "part of", or "caused by".
+            5. Only use "none" for direction if you truly cannot determine actor/object roles.
+            6. Output a JSON `{"results": [ {"pair_index": 1, "direction": "forward", "relationship": "fought against"}, 
+            {"pair_index": 1, "direction": "reverse", "relationship": "surrendered to"}, {"pair_index": 2, "direction": 
+            "reverse", "relationship": "commander of"}, {"pair_index": 2, "direction": "none", "relationship": ""} ] }`
+            7. Do not include any other keys or commentary."""
         )
 
         # Tag each pair with its original index for later reference.
