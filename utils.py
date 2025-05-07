@@ -20,6 +20,13 @@ with open("config.yaml", 'r') as stream:
     except yaml.YAMLError as exc:
         print(exc)
 
+"""Sentence-Transformers (local) embedding models"""
+local_embedding_models = [
+    "all-MiniLM-L6-v2",                # very fast / small
+    "paraphrase-multilingual-MiniLM-L12-v2",
+    "all-mpnet-base-v2"               # high-quality mpnet
+]
+
 """Open AI Models"""
 openai_llm_models = [
     "o1-mini",
@@ -215,13 +222,6 @@ groq_llm_models = [
     "groq/gemma-7b-it"
 ]
 
-"""Deepseek Models"""
-deepseek_llm_models = [
-    "deepseek/deepseek-chat",
-    "deepseek/deepseek-coder",
-    "deepseek/deepseek-reasoner"
-]
-
 
 def determine_llm_parent(llm_model):
     """Return the model list for the given provider name."""
@@ -241,8 +241,6 @@ def determine_llm_parent(llm_model):
         return "ollama_llm"
     elif llm_model in groq_llm_models:
         return "groq_llm"
-    elif llm_model in deepseek_llm_models:
-        return "deepseek_llm"
     else:
         return "ERROR"
 
@@ -260,6 +258,8 @@ def determine_embedding_parent(embedding_model):
         return "nvidia_embedding"
     elif embedding_model in ollama_embedding_models:
         return "ollama_embedding"
+    elif embedding_model in local_embedding_models:
+        return "local_embedding"
     else:
         return "ERROR"
 
@@ -292,9 +292,6 @@ def set_env_variables(llm_model: str, embedding_model: str, llm_keys: list, embe
     elif llm_parent == "groq_llm":
         os.environ["GROQ_API_KEY"] = llm_keys[0]
         llm_set = True
-    elif llm_parent == "deepseek_llm":
-        os.environ["DEEPSEEK_API_KEY"] = llm_keys[0]
-        llm_set = True
 
     embedding_parent = determine_embedding_parent(embedding_model)
     if embedding_parent == "openai_embedding":
@@ -315,6 +312,8 @@ def set_env_variables(llm_model: str, embedding_model: str, llm_keys: list, embe
         os.environ["NVIDIA_NIM_API_KEY"] = embedding_keys[0]
         embedding_set = True
     elif embedding_parent == "ollama_embedding":
+        embedding_set = True
+    elif embedding_parent == "local_embedding":
         embedding_set = True
 
     return llm_set, embedding_set
@@ -614,7 +613,7 @@ class TimeSpinBox(QDoubleSpinBox):
         self._lastValidValue = 0.0
         # Optionally, set a default value:
         self.setValue(0.0)
-    
+
     def textFromValue(self, value):
         # If less than one hour, format as m:ss.d; otherwise, h:mm:ss.d.
         if value < 3600:
@@ -627,19 +626,19 @@ class TimeSpinBox(QDoubleSpinBox):
             minutes = int(remainder // 60)
             secs = remainder - minutes * 60
             return f"{hours}:{minutes:02d}:{secs:04.1f}"
-    
+
     def focusOutEvent(self, event):
         # When focus is lost, validate the text.
         self.validate_and_update()
         super().focusOutEvent(event)
-    
+
     def keyPressEvent(self, event):
         # If the user presses Enter, validate and update.
         if event.key() in (Qt.Key_Return, Qt.Key_Enter):
             self.validate_and_update()
         else:
             super().keyPressEvent(event)
-    
+
     def validate_and_update(self):
         text = self.lineEdit().text().strip()
         # Only update if there is something typed.
@@ -653,7 +652,7 @@ class TimeSpinBox(QDoubleSpinBox):
                 self.lineEdit().setText(self.textFromValue(self._lastValidValue))
         else:
             # If the field is empty, revert to the last valid text.
-            self.lineEdit().setText(self.textFromValue(self._lastValidValue))        
+            self.lineEdit().setText(self.textFromValue(self._lastValidValue))
 class TimeTableWidgetItem(QTableWidgetItem):
     def __lt__(self, other):
         try:

@@ -3,17 +3,99 @@ import json
 import os
 import struct
 import sys
-from PyQt5.QtCore import Qt, QUrl, QEvent, QTimer, QSize
+from PyQt5.QtCore import Qt, QUrl, QEvent, QTimer, QSize, QModelIndex
 from PyQt5.QtGui import QKeySequence, QFont, QIcon
 from PyQt5.QtMultimedia import QMediaPlayer, QMediaContent
 from PyQt5.QtWidgets import (
     QWidget, QHBoxLayout, QVBoxLayout, QPushButton, QTableWidget, QTableWidgetItem,
     QLabel, QCheckBox, QShortcut, QFileDialog, QMessageBox, QSplitter, QGraphicsRectItem,
-    QToolButton
+    QToolButton, QTableView, QHeaderView, QAbstractItemView
 )
 from custom_widgets import DraggableTableWidget, VideoView
 from utils import create_spinner, seconds_to_formatted, formatted_to_seconds, TimeSpinBox, TimeTableWidgetItem
 from waveform import WaveformProgressBar
+
+from PyQt5.QtCore import Qt, QAbstractTableModel, QVariant
+
+COL_CUSHION = 16
+
+class TranscriptModel(QAbstractTableModel):
+    def __init__(self, transcript: list[dict], parent=None):
+        super().__init__(parent)
+        self._data = transcript
+        self._headers = ["Start", "End", "Speaker", "Text"]
+
+    def rowCount(self, parent=None):
+        return len(self._data)
+
+    def columnCount(self, parent=None):
+        return len(self._headers)
+
+    def data(self, index, role=Qt.DisplayRole):
+        if not index.isValid():
+            return QVariant()
+        # For both display _and_ in-place editing, return the same text
+        if role not in (Qt.DisplayRole, Qt.EditRole):
+            return QVariant()
+        entry = self._data[index.row()]
+        col = index.column()
+        if col == 0:
+            return seconds_to_formatted(entry.get("start", 0))
+        elif col == 1:
+            return seconds_to_formatted(entry.get("end", 0))
+        elif col == 2:
+            return entry.get("speaker", "speaker_0")
+        elif col == 3:
+            return entry.get("text", "")
+        return QVariant()
+
+    def headerData(self, section, orientation, role=Qt.DisplayRole):
+        if role == Qt.DisplayRole and orientation == Qt.Horizontal:
+            return self._headers[section]
+        return QVariant()
+
+    def updateTranscript(self, new_transcript: list[dict]):
+        self.beginResetModel()
+        self._data = new_transcript
+        self.endResetModel()
+
+    def flags(self, index):
+        if not index.isValid():
+            return Qt.NoItemFlags
+        base = Qt.ItemIsSelectable | Qt.ItemIsEnabled
+        # allow editing on all four columns
+        return base | Qt.ItemIsEditable
+
+    def setData(self, index, value, role=Qt.EditRole):
+        if role != Qt.EditRole or not index.isValid():
+            return False
+
+        row = index.row()
+        col = index.column()
+        txt = value if isinstance(value, str) else value.toString()
+
+        # Time‐columns: allow raw seconds or formatted strings
+        if col in (0, 1):
+            try:
+                # 1) try raw float parse
+                secs = float(txt)
+            except ValueError:
+                # 2) fallback to your formatted parser
+                secs = formatted_to_seconds(txt)
+            # store back into the right key
+            key = 'start' if col == 0 else 'end'
+            self._data[row][key] = secs
+
+        elif col == 2:
+            self._data[row]['speaker'] = txt
+
+        else:  # col == 3
+            self._data[row]['text'] = txt
+
+        # let the view repaint that one cell (it will call data() → seconds_to_formatted)
+        self.dataChanged.emit(index, index, [Qt.DisplayRole])
+        return True
+
 
 class TranscriptEditor(QWidget):
     def __init__(self):
@@ -225,31 +307,30 @@ class TranscriptEditor(QWidget):
 
         # Right side: transcript table and controls.
         right_layout = QVBoxLayout()
-        self.table = DraggableTableWidget(len(self.transcript), 4)
-        self.table.setHorizontalHeaderLabels(["Start", "End", "Speaker", "Text"])
-        self.table.setEditTriggers(QTableWidget.DoubleClicked | QTableWidget.EditKeyPressed)
+        self.table = QTableView()
+        self.model = TranscriptModel(self.transcript, parent=self)
+        self.table.setModel(self.model)
         self.table.installEventFilter(self)
+        self.table.setEditTriggers(
+            QAbstractItemView.DoubleClicked |
+            QAbstractItemView.EditKeyPressed
+        )
+        self.table.setSelectionBehavior(QAbstractItemView.SelectItems)
+        self.model.dataChanged.connect(self.on_cell_changed)
+        header = self.table.horizontalHeader()
+        for col in (0, 1, 2):
+            header.setSectionResizeMode(col, QHeaderView.Interactive)
+            ideal = header.sectionSizeHint(col)
+            header.resizeSection(col, ideal + COL_CUSHION)
+        header.setSectionResizeMode(3, QHeaderView.Stretch)
+        v = self.table.verticalHeader()
+        v.setDefaultSectionSize(24)
         self.table.setWordWrap(True)
-        from PyQt5.QtWidgets import QHeaderView
-        self.table.horizontalHeader().setSectionResizeMode(QHeaderView.ResizeToContents)
-        self.table.horizontalHeader().setStretchLastSection(True)
-        if self.transcript:
-            for row, entry in enumerate(self.transcript):
-                start_item = QTableWidgetItem(seconds_to_formatted(entry.get("start", 0)))
-                end_item = QTableWidgetItem(seconds_to_formatted(entry.get("end", 0)))
-                speaker_item = QTableWidgetItem(entry.get("speaker", "speaker_0"))
-                text_item = QTableWidgetItem(entry.get("text", ""))
-                start_item.setTextAlignment(Qt.AlignLeft | Qt.AlignTop)
-                end_item.setTextAlignment(Qt.AlignLeft | Qt.AlignTop)
-                speaker_item.setTextAlignment(Qt.AlignLeft | Qt.AlignTop)
-                text_item.setTextAlignment(Qt.AlignLeft | Qt.AlignTop)
-                self.table.setItem(row, 0, start_item)
-                self.table.setItem(row, 1, end_item)
-                self.table.setItem(row, 2, speaker_item)
-                self.table.setItem(row, 3, text_item)
-        self.table.resizeRowsToContents()
-        self.table.cellClicked.connect(self.on_cell_clicked)
-        self.table.cellChanged.connect(self.on_cell_changed)
+        self.table.setSortingEnabled(False)
+        self.table.clicked.connect(
+            lambda idx: self.on_cell_clicked(idx.row(), idx.column())
+        )
+
         right_layout.addWidget(self.table)
 
         control_layout = QHBoxLayout()
@@ -293,96 +374,112 @@ class TranscriptEditor(QWidget):
             self.toggle_play()
 
     def assign_speaker(self, speaker_id):
-        if self.current_row is not None:
-            self.table.setItem(self.current_row, 2, QTableWidgetItem(f"speaker_{speaker_id}"))
-            self.table.resizeRowsToContents()
+        if self.current_row is not None and 0 <= self.current_row < len(
+                self.transcript):
+            # 1) Update the underlying data
+            self.transcript[self.current_row][
+                'speaker'] = f"speaker_{speaker_id}"
+            # 2) Emit a dataChanged signal so the view refreshes that one cell
+            idx = self.model.index(self.current_row, 2)  # column 2 is “Speaker”
+            self.model.dataChanged.emit(idx, idx, [Qt.DisplayRole])
 
     def eventFilter(self, source, event):
         if source == self.table and event.type() == QEvent.KeyPress:
             if not isinstance(self.focusWidget(), QLabel):
+                idx = self.table.currentIndex()
+                row = idx.row()
+
                 if event.key() == Qt.Key_Space:
                     self.toggle_play()
                     return True
+
                 elif event.key() in (Qt.Key_Enter, Qt.Key_Return):
-                    current_index = self.table.currentIndex()
-                    if current_index.isValid():
-                        self.table.edit(current_index)
-                        return True
+                    if idx.isValid():
+                        self.table.edit(idx)
+                    return True
+
                 elif event.key() == Qt.Key_Up:
-                    current_row = self.table.currentRow()
-                    if current_row > 0:
-                        new_row = current_row - 1
+                    if row > 0:
+                        new_row = row - 1
                         self.table.selectRow(new_row)
                         self.on_cell_clicked(new_row, 0)
                     return True
+
                 elif event.key() == Qt.Key_Down:
-                    current_row = self.table.currentRow()
-                    if current_row < self.table.rowCount() - 1:
-                        new_row = current_row + 1
+                    # use model.rowCount() instead of table.rowCount()
+                    if row < self.model.rowCount() - 1:
+                        new_row = row + 1
                         self.table.selectRow(new_row)
                         self.on_cell_clicked(new_row, 0)
                     return True
+
         return super().eventFilter(source, event)
 
     def load_transcript(self):
         self.disable_all_buttons()
-        file, _ = QFileDialog.getOpenFileName(self, "Open Transcript File", "", "JSON Files (*.json);;All Files (*)")
-        if file:
-            try:
-                with open(file, 'r') as f:
-                    data = json.load(f)
-                # Check if the JSON has a "segments" key (new format)
-                if isinstance(data, dict) and "segments" in data:
-                    self.transcript = []
-                    for seg in data["segments"]:
-                        entry = {
-                            "start": seg.get("start", 0.0),
-                            "end": seg.get("end", 0.0),
-                            "text": seg.get("text", "").strip(),
-                            "speaker": seg.get("speaker", "speaker_0")
-                        }
-                        self.transcript.append(entry)
-                else:
-                    self.transcript = data
-                self.json_path = file
-                self.populate_transcript_table()
-            except Exception as e:
-                QMessageBox.warning(self, "Error", f"Failed to load transcript: {e}")
-        self.enable_all_buttons()
+        try:
+            file, _ = QFileDialog.getOpenFileName(self, "Open Transcript File", "", "JSON Files (*.json);;All Files (*)")
+            if not file:
+                return
 
-    def populate_transcript_table(self):
-        self.table.setRowCount(len(self.transcript))
-        for row, entry in enumerate(self.transcript):
-            start_item = TimeTableWidgetItem(seconds_to_formatted(entry.get("start", 0)))
-            end_item = QTableWidgetItem(seconds_to_formatted(entry.get("end", 0)))
-            speaker_item = QTableWidgetItem(entry.get("speaker", "speaker_0"))
-            text_item = QTableWidgetItem(entry.get("text", ""))
-            start_item.setTextAlignment(Qt.AlignLeft | Qt.AlignTop)
-            end_item.setTextAlignment(Qt.AlignLeft | Qt.AlignTop)
-            speaker_item.setTextAlignment(Qt.AlignLeft | Qt.AlignTop)
-            text_item.setTextAlignment(Qt.AlignLeft | Qt.AlignTop)
-            self.table.setItem(row, 0, start_item)
-            self.table.setItem(row, 1, end_item)
-            self.table.setItem(row, 2, speaker_item)
-            self.table.setItem(row, 3, text_item)
-        self.table.resizeRowsToContents()
+            with open(file, 'r') as f:
+                data = json.load(f)
+            # Check if the JSON has a "segments" key (new format)
+            if isinstance(data, dict) and "segments" in data:
+                self.transcript = []
+                for seg in data["segments"]:
+                    entry = {
+                        "start": seg.get("start", 0.0),
+                        "end": seg.get("end", 0.0),
+                        "text": seg.get("text", "").strip(),
+                        "speaker": seg.get("speaker", "speaker_0")
+                    }
+                    self.transcript.append(entry)
+            else:
+                self.transcript = data
+            self.json_path = file
+            self.model.updateTranscript(self.transcript)
+        except Exception as e:
+            QMessageBox.warning(self, "Error", f"Failed to load transcript: {e}")
+        finally:
+            self.enable_all_buttons()
 
     def load_media(self):
+        # disable up front
         self.disable_all_buttons()
-        file, _ = QFileDialog.getOpenFileName(self, "Open Media File", "",
-                                              "Video/Audio Files (*.wmv *.wav);;All Files (*)")
-        if file:
-            self.video_path = file
-            self.loading_text.setText("Loading")
-            self.spinner_label.setVisible(True)
-            self.media_placeholder.show()
+
+        # 1) pick file
+        file, _ = QFileDialog.getOpenFileName(
+            self,
+            "Open Media File",
+            "",
+            "Video/Audio Files (*.wmv *.wav);;All Files (*)"
+        )
+        # if user cancels, re-enable and bail
+        if not file:
+            self.enable_all_buttons()
+            return
+
+        # 2) set up the media and spinner
+        self.video_path = file
+        self.loading_text.setText("Loading")
+        self.spinner_label.setVisible(True)
+        self.media_placeholder.show()
+
+        # 3) attempt to load
+        try:
             media = QMediaContent(QUrl.fromLocalFile(self.video_path))
             self.player.setMedia(media)
+
+            # clean up any old waveform
             if self.waveformProgress is not None:
                 self.waveformProgress.setParent(None)
                 self.waveformProgress.deleteLater()
+
+            # build new waveform view
             try:
                 self.waveformProgress = WaveformProgressBar(self.video_path)
+
                 def on_seek_requested(ms):
                     if self.player.duration() > 0 and ms <= self.player.duration():
                         if self.loop_enabled:
@@ -396,17 +493,25 @@ class TranscriptEditor(QWidget):
                         self.player.setPosition(int(ms))
                     else:
                         QMessageBox.warning(self, "Invalid Seek", "The requested time is beyond media duration.")
+
                 self.waveformProgress.seekRequestedCallback = on_seek_requested
-                placeholder_index = self.video_layout.indexOf(
-                    self.media_placeholder)
+
+                idx = self.video_layout.indexOf(self.media_placeholder)
                 self.video_layout.removeWidget(self.media_placeholder)
-                # self.media_placeholder.hide()
                 self.media_placeholder.deleteLater()
-                self.video_layout.insertWidget(placeholder_index,
-                                               self.waveformProgress)
-            except Exception as e:
-                QMessageBox.warning(self, "Error", f"Failed to load waveform: {e}")
-        # Buttons re-enabled in on_media_status_changed.
+                self.video_layout.insertWidget(idx, self.waveformProgress)
+
+            except Exception as e_wave:
+                QMessageBox.warning(self, "Error",
+                                    f"Failed to load waveform: {e_wave}")
+                # if waveform fails, re-enable so the user can try again
+                self.enable_all_buttons()
+
+        except Exception as e_media:
+            QMessageBox.warning(self, "Error",
+                                f"Failed to load media: {e_media}")
+            # media itself failed—re-enable immediately
+            self.enable_all_buttons()
 
     def sort_transcript_by_start(self):
         rows = []
@@ -433,36 +538,62 @@ class TranscriptEditor(QWidget):
             })
         rows.sort(key=lambda r: r["start"])
         self.transcript = rows
-        self.populate_transcript_table()
+        self.model.updateTranscript(self.transcript)
 
     def on_cell_clicked(self, row, col):
-        if row < 0 or row >= self.table.rowCount():
+        # guard against out-of-range
+        if row < 0 or row >= self.model.rowCount():
             return
-        start_item = self.table.item(row, 0)
-        end_item = self.table.item(row, 1)
-        if not (start_item and end_item):
+
+        # pull the display text
+        start_text = self.model.data(self.model.index(row, 0), Qt.DisplayRole)
+        end_text = self.model.data(self.model.index(row, 1), Qt.DisplayRole)
+        if start_text is None or end_text is None:
             return
+
         try:
+            prev_row = self.current_row
+            # update current_row first so spin callbacks use the right index
             self.current_row = row
-            start_time = formatted_to_seconds(start_item.text())
-            if self.auto_seek_enabled and self.video_path and self.player.duration() > 0:
-                if start_time * 1000 > self.player.duration():
-                    QMessageBox.warning(self, "Invalid Time", "The specified start time exceeds media duration.")
+
+            # only auto-seek when clicking a *different* row
+            if (row != prev_row and self.auto_seek_enabled
+                    and self.video_path and self.player.duration() > 0):
+
+                start_secs = formatted_to_seconds(start_text)
+                if start_secs * 1000 > self.player.duration():
+                    QMessageBox.warning(self, "Invalid Time",
+                                        "The specified start time exceeds media duration.")
                     return
-                self.player.setPosition(int(start_time * 1000))
+
+                # jump to that time
+                self.player.setPosition(int(start_secs * 1000))
                 if col < 2:
                     self.player.play()
 
-                self.loop_start = start_time
+                # update loop bounds
+                self.loop_start = start_secs
                 try:
-                    end_time = formatted_to_seconds(end_item.text())
+                    end_secs = formatted_to_seconds(end_text)
                 except ValueError:
-                    end_time = start_time
-                self.loop_end = end_time
+                    end_secs = start_secs
+                self.loop_end = end_secs
+
+                # block spin-box signals so we don't re-enter loop_*_changed
+                self.loop_start_spin.blockSignals(True)
+                self.loop_end_spin.blockSignals(True)
+
                 self.loop_start_spin.setValue(self.loop_start)
                 self.loop_end_spin.setValue(self.loop_end)
+
+                self.loop_start_spin.blockSignals(False)
+                self.loop_end_spin.blockSignals(False)
+
+                # update the waveform overlay if you have one
                 if self.waveformProgress is not None:
-                    self.waveformProgress.set_loop_boundaries(self.loop_start, self.loop_end)
+                    self.waveformProgress.set_loop_boundaries(
+                        self.loop_start, self.loop_end)
+
         except ValueError:
             pass
 
@@ -484,67 +615,100 @@ class TranscriptEditor(QWidget):
             time_value = formatted_to_seconds(time_string)
         return seconds_to_formatted(time_value)
 
-    def on_cell_changed(self, row, col):
-        if row < 0 or row >= self.table.rowCount():
-            return
-        start_item = self.table.item(row, 0)
-        end_item = self.table.item(row, 1)
-        if not (start_item and end_item):
+    def on_cell_changed(self, topLeft: QModelIndex, bottomRight: QModelIndex,
+                        roles):
+        # we only care about display edits
+        if Qt.DisplayRole not in roles:
             return
 
-        # Block signals during normalization to avoid recursive calls.
-        self.table.blockSignals(True)
+        row = topLeft.row()
+        col = topLeft.column()
+        # only “Start” (col 0) or “End” (col 1) need normalization/spin-box sync
+        if col not in (0, 1):
+            return
+
+        # 1) grab the raw text the user just typed
+        raw = self.model.data(topLeft, Qt.DisplayRole)
+
+        # 2) normalize it (this will raise if it’s totally invalid)
         try:
-            normalized_start = self.normalize_time_entry(start_item.text())
-            start_item.setText(normalized_start)
-            new_start = formatted_to_seconds(normalized_start)
-            if self.current_row == row:
-                self.loop_start = new_start
-                self.loop_start_spin.setValue(new_start)
+            normalized = self.normalize_time_entry(raw)
+            seconds = formatted_to_seconds(normalized)
         except ValueError:
-            pass
-        try:
-            normalized_end = self.normalize_time_entry(end_item.text())
-            end_item.setText(normalized_end)
-            new_end = formatted_to_seconds(normalized_end)
-            if self.current_row == row:
-                self.loop_end = new_end
-                self.loop_end_spin.setValue(new_end)
-        except ValueError:
-            pass
-        self.table.blockSignals(False)
-        self.table.resizeRowsToContents()
-    # --- End modifications ---
+            return
+
+        # 3) update your underlying transcript
+        key = "start" if col == 0 else "end"
+        self.transcript[row][key] = seconds
+
+        # 4) push the normalized text back into the view
+        #    block the model’s own signals briefly to avoid recursion
+        self.model.blockSignals(True)
+        #    you can directly mutate the model’s data store since you’ll emit yourself
+        self.model._data[row][key] = seconds
+        self.model.dataChanged.emit(topLeft, topLeft, [Qt.DisplayRole])
+        self.model.blockSignals(False)
+
+        # 5) if this is the current row, update your loop spin-boxes
+        if self.current_row == row:
+            if col == 0:
+                self.loop_start = seconds
+                self.loop_start_spin.setValue(seconds)
+            else:
+                self.loop_end = seconds
+                self.loop_end_spin.setValue(seconds)
 
     def loop_start_changed(self, val):
+        # Prevent invalid ranges
         if self.loop_end is not None and val > self.loop_end:
-            # QMessageBox.warning(self, "Invalid Loop", "Loop start cannot be greater than loop end.")
             self.loop_start_spin.blockSignals(True)
             self.loop_start_spin.setValue(self.prev_loop_start)
             self.loop_start_spin.blockSignals(False)
             return
+
+        # 1) update your loop bounds
         self.loop_start = val
         self.prev_loop_start = val
-        if self.current_row is not None:
-            self.table.setItem(self.current_row, 0, QTableWidgetItem(seconds_to_formatted(val)))
-        self.table.resizeRowsToContents()
+
+        # 2) if a row is selected, update its 'start' value in your transcript list
+        if self.current_row is not None and 0 <= self.current_row < len(
+                self.transcript):
+            self.transcript[self.current_row]['start'] = val
+
+            # 3) notify the model/view that one cell changed
+            idx: QModelIndex = self.model.index(self.current_row, 0)
+            self.model.dataChanged.emit(idx, idx, [Qt.DisplayRole])
+
+        # 4) update the waveform if needed
         if self.waveformProgress is not None:
-            self.waveformProgress.set_loop_boundaries(self.loop_start, self.loop_end if self.loop_end is not None else self.loop_start)
+            end = self.loop_end if self.loop_end is not None else self.loop_start
+            self.waveformProgress.set_loop_boundaries(self.loop_start, end)
 
     def loop_end_changed(self, val):
+        # Prevent invalid ranges
         if self.loop_start is not None and val < self.loop_start:
-            # QMessageBox.warning(self, "Invalid Loop", "Loop end must be after loop start.")
             self.loop_end_spin.blockSignals(True)
             self.loop_end_spin.setValue(self.prev_loop_end)
             self.loop_end_spin.blockSignals(False)
             return
+
+        # 1) Update your loop bounds
         self.loop_end = val
         self.prev_loop_end = val
-        if self.current_row is not None:
-            self.table.setItem(self.current_row, 1, QTableWidgetItem(seconds_to_formatted(val)))
-        self.table.resizeRowsToContents()
+
+        # 2) If a row is selected, update its 'end' value in your transcript list
+        if self.current_row is not None and 0 <= self.current_row < len(
+                self.transcript):
+            self.transcript[self.current_row]['end'] = val
+
+            # 3) Notify the model/view that this one cell changed
+            idx: QModelIndex = self.model.index(self.current_row, 1)
+            self.model.dataChanged.emit(idx, idx, [Qt.DisplayRole])
+
+        # 4) Update the waveform loop boundaries
+        start = self.loop_start if self.loop_start is not None else val
         if self.waveformProgress is not None:
-            self.waveformProgress.set_loop_boundaries(self.loop_start if self.loop_start is not None else val, val)
+            self.waveformProgress.set_loop_boundaries(start, self.loop_end)
 
     def toggle_loop(self):
         self.loop_enabled = not self.loop_enabled
@@ -631,64 +795,69 @@ class TranscriptEditor(QWidget):
             proxy.widget().resize(w, h)
 
     def add_line(self):
-        current = self.table.currentRow()
-        if current == -1:
-            insert_position = self.table.rowCount()
-        else:
-            insert_position = current + 1
-        self.table.insertRow(insert_position)
-        self.table.setItem(insert_position, 0, QTableWidgetItem(seconds_to_formatted(0.0)))
-        self.table.setItem(insert_position, 1, QTableWidgetItem(seconds_to_formatted(0.0)))
-        self.table.setItem(insert_position, 2, QTableWidgetItem("speaker_0"))
-        new_text_item = QTableWidgetItem("")
-        new_text_item.setTextAlignment(Qt.AlignLeft | Qt.AlignTop)
-        self.table.setItem(insert_position, 3, new_text_item)
-        self.table.resizeRowsToContents()
+        # 1) Figure out where to insert
+        current = self.table.currentIndex().row()
+        pos = current + 1 if current != -1 else len(self.transcript)
+
+        # 2) Prepare a blank entry
+        new_entry = {
+            "start": 0.0,
+            "end": 0.0,
+            "speaker": "speaker_0",
+            "text": ""
+        }
+
+        # 3) Tell Qt you’re inserting a row
+        self.model.beginInsertRows(QModelIndex(), pos, pos)
+        self.transcript.insert(pos, new_entry)
+        self.model.endInsertRows()
+
+        # 4) (Optional) select the new row
+        idx = self.model.index(pos, 0)
+        self.table.setCurrentIndex(idx)
 
     def delete_line(self):
-        if self.current_row is not None and self.current_row < self.table.rowCount():
-            self.table.removeRow(self.current_row)
-            self.current_row = None
-            self.loop_start = None
-            self.loop_end = None
-            self.loop_start_spin.setValue(0.0)
-            self.loop_end_spin.setValue(0.0)
-            self.table.resizeRowsToContents()
+        # only if a row is selected
+        row = self.table.currentIndex().row()
+        if row is None or row < 0 or row >= len(self.transcript):
+            return
+
+        # 1) Tell Qt you’re removing a row
+        self.model.beginRemoveRows(QModelIndex(), row, row)
+        self.transcript.pop(row)
+        self.model.endRemoveRows()
+
+        # 2) reset any loop state
+        self.current_row = None
+        self.loop_start = None
+        self.loop_end = None
+        self.loop_start_spin.setValue(0.0)
+        self.loop_end_spin.setValue(0.0)
 
     def save_transcript(self):
-        new_data = []
-        for row in range(self.table.rowCount()):
-            start_item = self.table.item(row, 0)
-            end_item = self.table.item(row, 1)
-            speaker_item = self.table.item(row, 2)
-            text_item = self.table.item(row, 3)
-            if not (start_item and end_item and speaker_item and text_item):
-                continue
-            try:
-                start = formatted_to_seconds(start_item.text())
-            except ValueError:
-                start = 0.0
-            try:
-                end = formatted_to_seconds(end_item.text())
-            except ValueError:
-                end = 0.0
-            new_data.append({
-                "start": start,
-                "end": end,
-                "speaker": speaker_item.text(),
-                "text": text_item.text()
-            })
-        if not new_data:
+        # if there's nothing to write, warn
+        if not self.transcript:
             QMessageBox.warning(self, "No Data", "No transcript data to save.")
             return
+
+        # suggest a default file name
         if self.json_path:
-            base, ext = os.path.splitext(self.json_path)
+            base, _ = os.path.splitext(self.json_path)
             default_path = base + "_manual_edit.json"
         else:
             default_path = "transcript_manual_edit.json"
-        save_file, _ = QFileDialog.getSaveFileName(self, "Save Transcript", default_path, "JSON Files (*.json);;All Files (*)")
+
+        # ask where to save
+        save_file, _ = QFileDialog.getSaveFileName(
+            self, "Save Transcript", default_path,
+            "JSON Files (*.json);;All Files (*)"
+        )
         if not save_file:
             return
-        with open(save_file, 'w') as f:
-            json.dump(new_data, f, indent=2)
-        QMessageBox.information(self, "Saved", f"Transcript saved to {save_file}")
+
+        # dump the transcript list directly
+        with open(save_file, "w") as f:
+            json.dump(self.transcript, f, indent=2)
+
+        QMessageBox.information(self, "Saved",
+                                f"Transcript saved to {save_file}")
