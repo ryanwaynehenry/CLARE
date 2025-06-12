@@ -1,3 +1,4 @@
+import re
 import sys
 import numpy as np
 import json
@@ -17,6 +18,7 @@ from utils import *  # Assumes helper functions like get_completion, get_num_tok
 # Instead of using langchain_openai's OpenAIEmbeddings, we create a simple wrapper using litellm.
 from litellm import embedding, token_counter, get_max_tokens
 
+EXTRACT_RELATIONSHIP_BATCH_SIZE = 35
 
 def extract_json(response_str):
     """
@@ -514,10 +516,10 @@ class autoKG:
         k = min(k, len(core_texts))
         if method == 'annoy':
             similarity = 'angular' if dist_metric == 'cosine' else dist_metric
-            knn_ind, knn_dist = autoKG.ANN_search(core_ebds, self.vectors, k,
+            knn_ind, knn_dist = autoKG.ANN_search(self.vectors, core_ebds, k,
                                                   similarity=similarity)
         elif method == 'dense':
-            dist_mat = pairwise_distances(core_ebds, self.vectors,
+            dist_mat = pairwise_distances(self.vectors, core_ebds,
                                           metric=dist_metric)
             knn_ind, knn_dist = [], []
             for i in range(len(dist_mat)):
@@ -599,18 +601,16 @@ class autoKG:
             return_full=False, return_prob=False
         )
         # flatten to a 1D array of indices
-        all_inds = knn_ind.ravel()
-        # sort by ascending distance
-        sorted_idx = all_inds[np.argsort(knn_dist.ravel())]
+        sort_ind = np.argsort(knn_dist)
 
-        N = len(sorted_idx)
+        N = len(sort_ind)
         # 3) figure out how many positives/negatives we can actually take
         max_pos = min(trust_num, N)
         max_neg = min(negative_multiplier * trust_num, N - max_pos)
 
         # 4) pick them
-        pos_inds = sorted_idx[:max_pos]
-        neg_inds = sorted_idx[-max_neg:] if max_neg > 0 else np.array([],
+        pos_inds = sort_ind[:max_pos]
+        neg_inds = sort_ind[-max_neg:] if max_neg > 0 else np.array([],
                                                                       dtype=int)
         select_inds = np.concatenate([pos_inds, neg_inds])
 
@@ -691,6 +691,25 @@ class autoKG:
             self.U_mat = U_mat
             self.pred_mat = pred_mat
             return pred_mat, U_mat
+
+    def apply_dynamic_threshold(self, percentile_threshold=50):
+        """
+        Keep only the top X percent of edges by score.
+        Modifies self.A in place and returns the threshold used.
+        """
+        if self.A.nnz == 0:
+            raise ValueError("Adjacency matrix has no nonzero entries.")
+
+        # compute cutoff
+        thr = np.percentile(self.A.data, percentile_threshold)
+
+        # zero out everything below cutoff
+        self.A.data[self.A.data < thr] = 0.0
+
+        # remove those zeros from the CSR structure
+        self.A.eliminate_zeros()
+
+        return thr
 
     def content_check(self, include_keygraph=True, auto_embedding=False):
         is_valid = True
@@ -1121,14 +1140,40 @@ class autoKG:
         # The instructions remain as defined.
         instructions = (
             """You are an expert relation extractor.  Follow these rules exactly:
-            1. For each entity pair, identify which is the actor (subject) and which the receiver (object).
-            2. For each pair, first (internally) identify which entity is syntactic subject vs. object, then output the JSON.
-            3. Do NOT use generic/vague predicates like "led to", "part of", or "caused by".
-            5. Only use "none" for direction if you truly cannot determine actor/object roles.
-            6. Output a JSON `{"results": [ {"pair_index": 1, "direction": "forward", "relationship": "fought against"}, 
-            {"pair_index": 1, "direction": "reverse", "relationship": "surrendered to"}, {"pair_index": 2, "direction": 
-            "reverse", "relationship": "commander of"}, {"pair_index": 2, "direction": "none", "relationship": ""} ] }`
-            7. Do not include any other keys or commentary."""
+            1. For each entity pair determine which is the actor (subject) and which is the receiver (object). If roles are unclear, set direction to "none".
+            2. Propose one or more precise predicates that describe distinct relationships between subject and object. Avoid vague verbs like “led to,” “part of,” or “caused by.”  
+            3. If there are multiple meaningful relations, list up to three. Each must have its own direction and rationale.
+            4. For each relation include a brief rationale (≤15 words) explaining your choice of subject, object, and predicate.
+            5. Output exactly one JSON object of the form:
+               {
+                 "results": [
+                   {
+                     "pair_index": 1,
+                     "direction": "forward",
+                     "relationship": "fought against",
+                     "rationale": "Nelson Mandela appears as grammatical subject and initiates the action"
+                   },
+                   {
+                     "pair_index": 1,
+                     "direction": "reverse",
+                     "relationship": "surrendered to",
+                     "rationale": "United States is the object receiving the action of surrender"
+                   },
+                   {
+                     "pair_index": 2,
+                     "direction": "reverse",
+                     "relationship": "commander of",
+                     "rationale": "Ulysses Grant is identified as leading Union's Army in the sentence"
+                   },
+                   {
+                     "pair_index": 2,
+                     "direction": "none",
+                     "relationship": "",
+                     "rationale": "No clear subject/object roles"
+                   }
+                 ]
+               }
+            6. Do not include any other keys or commentary."""
         )
 
         # Tag each pair with its original index for later reference.
@@ -1157,10 +1202,10 @@ class autoKG:
         # then check if the full prompt fits within the token limit.
         def split_pairs_into_batches(pair_list):
             # Enforce a maximum of 50 pairs per batch.
-            if len(pair_list) > 50:
+            if len(pair_list) > EXTRACT_RELATIONSHIP_BATCH_SIZE:
                 batches = []
-                for i in range(0, len(pair_list), 50):
-                    sub_batch = pair_list[i:i + 50]
+                for i in range(0, len(pair_list), EXTRACT_RELATIONSHIP_BATCH_SIZE):
+                    sub_batch = pair_list[i:i + EXTRACT_RELATIONSHIP_BATCH_SIZE]
                     batches.extend(split_pairs_into_batches(sub_batch))
                 return batches
 
@@ -1187,8 +1232,6 @@ class autoKG:
             pairs_text = generate_pairs_text(batch)
             prompt = base_prompt + pairs_text
 
-            print("Batch Extraction Prompt:")
-            print(instructions)
             print("Batch Extraction Input:")
             print(prompt)
 
@@ -1230,145 +1273,141 @@ class autoKG:
     def build_entity_relationships(self, transcript_str: str,
                                    unify_opposites=True,
                                    fallback_if_no_chunk=True):
-        """
-        Processes the full transcript to extract relationships between entities.
-        For each unique pair (derived from self.A), the method:
-          1. Chunks the transcript dynamically based on the model's token limit.
-          2. In each chunk, identifies pairs whose entities co-occur and uses batch extraction.
-          3. For pairs not found in any chunk, falls back to:
-             - Using the full transcript if it fits within the token limit, or
-             - Extracting only the sentences mentioning either entity to form a targeted context (trimmed if needed).
-          4. Optionally consolidates inverse phrases.
-
-        Returns a list of edges, where each edge is a tuple:
-           (entity1, relationship, entity2, direction)
-        """
         if self.A is None:
             raise ValueError(
                 "Adjacency matrix not found. Run the coretexts segmentation first.")
 
-        unique_pairs = []
         token_safety_margin = 600
         rows, cols = self.A.nonzero()
-        for r, c in zip(rows, cols):
-            if r <= c:
-                pair = (self.keywords[r], self.keywords[c])
-                unique_pairs.append(pair)
-        unique_pairs = list(set(unique_pairs))
-        print("Unique pairs to process:", unique_pairs)
+        unique_pairs = list({(self.keywords[r], self.keywords[c])
+                             for r, c in zip(rows, cols) if r <= c})
 
-        # Generate chunks from the transcript.
-        chunks = self.chunk_transcript_sliding(transcript_str,
-                                               safety_margin=token_safety_margin)
-        print(f"Total {len(chunks)} transcript chunks generated.")
-
+        # first pass: overlapping chunks where both entities appear
+        chunks = self.chunk_transcript_sliding(
+            transcript_str, safety_margin=token_safety_margin)
         pair_results = {}
-        # Iterate over each chunk and check for the presence of both entities.
         for chunk in chunks:
-            chunk_pairs = []
-            lower_chunk = chunk.lower()
-            for pair in unique_pairs:
-                entity1, entity2 = pair
-                if entity1.lower() in lower_chunk and entity2.lower() in lower_chunk:
-                    chunk_pairs.append(pair)
-            if chunk_pairs:
-                print(f"Chunk contains {len(chunk_pairs)} pairs: {chunk_pairs}")
-                batch_result = self.batch_extract_relationships_for_chunk(chunk,
-                                                                          chunk_pairs)
-                if isinstance(batch_result, list):
-                    for res in batch_result:
-                        pair_index = res.get("pair_index", 0) - 1
-                        if pair_index < 0 or pair_index >= len(chunk_pairs):
-                            print(f"Invalid pair index: {pair_index}")
-                            continue
-                        pair = chunk_pairs[pair_index]
-                        direction = res.get("direction", "none")
-                        relationship = res.get("relationship", "")
-                        if not isinstance(relationship, str):
-                            relationship = str(relationship)
-                        if pair not in pair_results:
-                            pair_results[pair] = []
-                        pair_results[pair].append((direction, relationship))
+            lower = chunk.lower()
+            chunk_pairs = [(e1, e2) for (e1, e2) in unique_pairs
+                           if e1.lower() in lower and e2.lower() in lower]
+            if not chunk_pairs:
+                continue
+            batch = self.batch_extract_relationships_for_chunk(chunk, chunk_pairs)
+            for res in batch:
+                idx = res.get("pair_index", 0) - 1
+                if not (0 <= idx < len(chunk_pairs)):
+                    continue
+                pair = chunk_pairs[idx]
+                pair_results.setdefault(pair, []).append(
+                    (res.get("direction", "none"), str(res.get("relationship", "")))
+                )
 
-        # Identify pairs that never appeared together in any chunk.
-        fallback_pairs = [pair for pair in unique_pairs if
-                          pair not in pair_results]
+        # fallback: pairs not found in any chunk
+        fallback_pairs = [p for p in unique_pairs if p not in pair_results]
         if fallback_pairs and fallback_if_no_chunk:
-            print("Fallback processing for pairs not found in any chunk:",
-                  fallback_pairs)
-            max_tokens_allowed = get_max_tokens(
-                model=self.llm_model) - token_safety_margin
-            # If the full transcript fits within the token limit, use it as the fallback context.
-            if self.encoding(model=self.llm_model,
-                             text=transcript_str) <= max_tokens_allowed:
-                fallback_context = transcript_str
-                fallback_result = self.batch_extract_relationships_for_chunk(
-                    fallback_context, fallback_pairs)
-                if isinstance(fallback_result, list):
-                    for res in fallback_result:
-                        idx = res.get("pair_index", 0) - 1
-                        if idx < 0 or idx >= len(fallback_pairs):
-                            continue
+            max_allowed = get_max_tokens(model=self.llm_model) - token_safety_margin
+            # DEBUG: if entire transcript fits, use it directly
+            if self.encoding(model=self.llm_model, text=transcript_str) <= max_allowed:
+                results = self.batch_extract_relationships_for_chunk(
+                    transcript_str, fallback_pairs)
+                for res in results:
+                    idx = res.get("pair_index", 0) - 1
+                    if 0 <= idx < len(fallback_pairs):
                         pair = fallback_pairs[idx]
-                        direction = res.get("direction", "none")
-                        relationship = res.get("relationship", "")
-                        if not isinstance(relationship, str):
-                            relationship = str(relationship)
-                        if pair not in pair_results:
-                            pair_results[pair] = []
-                        pair_results[pair].append((direction, relationship))
+                        pair_results.setdefault(pair, []).append(
+                            (res.get("direction", "none"), str(res.get("relationship", "")))
+                        )
             else:
-                # If the transcript is too long, extract sentences that mention either entity.
+                # grouping using sentences mentioning either entity
                 sentences = re.split(r'(?<=[.!?])\s+', transcript_str)
+                pairIdxs = {}
                 for pair in fallback_pairs:
-                    entity1, entity2 = pair
-                    relevant_sentences = [s for s in sentences if
-                                          entity1.lower() in s.lower() or entity2.lower() in s.lower()]
-                    fallback_context = " ".join(relevant_sentences)
-                    # Trim the fallback context so it does not exceed the allowed token count.
-                    while self.encoding(model=self.llm_model,
-                                        text=fallback_context) > max_tokens_allowed:
-                        fallback_words = fallback_context.split()
-                        fallback_context = " ".join(fallback_words[:-10])
-                    fallback_result = self.batch_extract_relationships_for_chunk(
-                        fallback_context, [pair])
-                    if isinstance(fallback_result, list):
-                        for res in fallback_result:
-                            direction = res.get("direction", "none")
-                            relationship = res.get("relationship", "")
-                            if not isinstance(relationship, str):
-                                relationship = str(relationship)
-                            if pair not in pair_results:
-                                pair_results[pair] = []
-                            pair_results[pair].append((direction, relationship))
+                    e1, e2 = pair
+                    idxs = [i for i, s in enumerate(sentences)
+                            if e1.lower() in s.lower() or e2.lower() in s.lower()]
+                    if idxs:
+                        pairIdxs[pair] = idxs
+                if pairIdxs:
+                    sentenceToks = [self.encoding(model=self.llm_model, text=s)
+                                    for s in sentences]
 
-        # Consolidate the results into a list of edges.
+                    def expand(idxs):
+                        s = set(idxs)
+                        for i in idxs:
+                            if i > 0: s.add(i-1)
+                            if i < len(sentences)-1: s.add(i+1)
+                        return s
+
+                    def makeContext(idxs):
+                        parts, prev = [], None
+                        for i in sorted(idxs):
+                            if prev is not None and i != prev+1:
+                                parts.append("[...]")
+                            parts.append(sentences[i])
+                            prev = i
+                        return " ".join(parts)
+
+                    def groupPairs(pDict, toks, maxToks):
+                        items = []
+                        for pair, idxs in pDict.items():
+                            ex = expand(idxs)
+                            cost = sum(toks[i] for i in ex)
+                            items.append((pair, ex, cost))
+                        items.sort(key=lambda x: x[2], reverse=True)
+
+                        groups = []
+                        for pair, exSet, cost in items:
+                            best = None
+                            for g in groups:
+                                if len(g["pairs"]) >= EXTRACT_RELATIONSHIP_BATCH_SIZE:
+                                    continue
+                                newSet = g["sentences"] | exSet
+                                newCost = sum(toks[i] for i in newSet)
+                                if newCost <= maxToks:
+                                    added = newCost - g["tokenSum"]
+                                    if best is None or added < best["added"]:
+                                        best = {"group": g,
+                                                "added": added,
+                                                "newSet": newSet,
+                                                "newCost": newCost}
+                            if best:
+                                grp = best["group"]
+                                grp["pairs"].append(pair)
+                                grp["sentences"] = best["newSet"]
+                                grp["tokenSum"]  = best["newCost"]
+                            else:
+                                groups.append({
+                                    "pairs": [pair],
+                                    "sentences": exSet,
+                                    "tokenSum": cost
+                                })
+                        return groups
+
+                    groups = groupPairs(pairIdxs, sentenceToks, max_allowed)
+                    for g in groups:
+                        ctx = makeContext(g["sentences"])
+                        batch = self.batch_extract_relationships_for_chunk(ctx, g["pairs"])
+                        for res in batch:
+                            idx = res.get("pair_index", 0) - 1
+                            if 0 <= idx < len(g["pairs"]):
+                                pair = g["pairs"][idx]
+                                pair_results.setdefault(pair, []).append(
+                                    (res.get("direction", "none"), str(res.get("relationship", "")))
+                                )
+
+        # consolidate into final edges list
         edges = []
         for pair in unique_pairs:
-            entity1, entity2 = pair
-            rel_list = pair_results.get(pair, [])
-            if unify_opposites:
-                seen = set()
-                unified = []
-                for (direction, rel) in rel_list:
-                    trimmed_rel = rel.strip() if isinstance(rel, str) else str(
-                        rel).strip()
-                    if not trimmed_rel:
-                        continue
-                    key = (direction, trimmed_rel)
-                    if key not in seen:
-                        seen.add(key)
-                        unified.append((direction, trimmed_rel))
-                if unified:
-                    rel_list = unified
-            if not rel_list:
-                rel_list = [("none", "")]
-            for (direction, rel) in rel_list:
-                edges.append((entity1, rel, entity2, direction))
+            rels = pair_results.get(pair, [("none", "")])
+            seen, unified = set(), []
+            for direction, rel in rels:
+                key = (direction, rel.strip())
+                if rel.strip() and key not in seen:
+                    seen.add(key)
+                    unified.append(key)
+            for direction, rel in (unified or rels):
+                edges.append((pair[0], rel, pair[1], direction))
 
-        print("Final extracted edges:")
-        for edge in edges:
-            print(edge)
         return edges
 
     @staticmethod

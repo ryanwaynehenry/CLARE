@@ -9,7 +9,8 @@ from PyQt5.QtCore import QUrl, QObject, pyqtSlot, Qt, QPropertyAnimation, QSize,
 from PyQt5.QtWidgets import (
     QWidget, QVBoxLayout, QHBoxLayout, QPushButton, QMessageBox, QMenu,
     QFileDialog, QLineEdit, QLabel, QFormLayout, QGroupBox, QSplitter, QDialog,
-    QToolButton, QSizePolicy, QScrollArea, QShortcut, QFrame, QProgressDialog, QApplication
+    QToolButton, QSizePolicy, QScrollArea, QShortcut, QFrame, QProgressDialog, QApplication,
+    QSpinBox
 )
 from PyQt5.QtGui import QKeySequence, QIcon, QPixmap, QPainter, QFontMetrics
 from PyQt5.QtWebEngineWidgets import QWebEngineView
@@ -18,6 +19,7 @@ from pyvis.network import Network
 import utils
 import yaml
 from api_config_dialog import ApiConfigDialog
+from clustering_options_dialog import ClusteringOptionsDialog
 
 # Import your autoKG class
 # Make sure that autoKG.py is in a location where Python can find it (same folder or properly installed).
@@ -40,6 +42,8 @@ class GraphGenerationThread(QThread):
         llm_key1: str, llm_key2: str, llm_key3: str,
         emb_key1: str, emb_key2: str, emb_key3: str,
         main_topic: str,
+        n_clusters: int = None,  # Added parameter
+        num_topics: int = 10,    # Added parameter
         parent: QObject = None,
     ):
         super().__init__(parent)
@@ -50,6 +54,8 @@ class GraphGenerationThread(QThread):
         self.llm_key1, self.llm_key2, self.llm_key3 = llm_key1, llm_key2, llm_key3
         self.emb_key1, self.emb_key2, self.emb_key3 = emb_key1, emb_key2, emb_key3
         self.main_topic = main_topic
+        self.n_clusters = None if n_clusters == 0 else n_clusters  # Convert 0 to None for auto
+        self.num_topics = num_topics
 
     def run(self):
         try:
@@ -75,12 +81,12 @@ class GraphGenerationThread(QThread):
             auto_kg.make_graph(k=5, method='annoy', similarity='angular', kernel='gaussian')
             auto_kg.remove_same_text(use_nn=True, n_neighbors=3, thresh=1e-6, update=True)
             auto_kg.cluster(
-                n_clusters=None,
+                n_clusters=self.n_clusters,
                 clustering_method='k_means',
-                max_texts=5,
+                max_texts=8,
                 select_mtd='similarity',
                 prompt_language='English',
-                num_topics=10,
+                num_topics=self.num_topics,
                 max_length=3,
                 post_process=True,
                 add_keywords=True,
@@ -95,6 +101,39 @@ class GraphGenerationThread(QThread):
                 return_mat=True,
                 connect_threshold=1
             )
+
+            # ---------- histogram of non‑zero edge weights ----------
+            import numpy as np
+            import matplotlib.pyplot as plt
+            from pathlib import Path
+
+            nz_values = auto_kg.A.data
+            if nz_values.size == 0:
+                raise ValueError("A has no non‑zero entries.")
+
+            p10, p25, p50, p75, p90, p95 = np.percentile(nz_values, [10,25,50,75,90,95])
+            print(f"Non‑zero weights:  min={nz_values.min():.4f}  max={nz_values.max():.4f}")
+            print(f"10/25/50/75/90/95 percentiles: "
+                f"{p10:.4f}, {p25:.4f}, {p50:.4f}, {p75:.4f}, {p90:.4f}, {p95:.4f}")
+
+            # histogram → PNG
+            plt.figure(figsize=(6,4))
+            plt.hist(nz_values, bins=50, edgecolor="black")
+            plt.xlabel("Edge weight (similarity score)")
+            plt.ylabel("Frequency")
+            plt.title("Distribution of non‑zero entries in A")
+            plt.tight_layout()
+            out_dir = "C:\\Users\\ryanw\\PycharmProjects\\ManualTranscription"
+            # save next to the CSVs for this transcript
+            out_file = Path(out_dir) / "4_A_weight_histogram.png"   # ensure out_dir exists
+            plt.savefig(out_file, dpi=150)
+            plt.close()
+
+            print(f"Histogram written to {out_file}")
+
+            threshold = auto_kg.apply_dynamic_threshold(50)
+            print(f"Applied median threshold: {threshold:.4f}")
+
             edges = auto_kg.build_entity_relationships(transcript_str=' '.join(self.texts))
 
             nodes = auto_kg.keywords.copy()
@@ -248,6 +287,17 @@ class KnowledgeGraphTab(QWidget):
         )
         self.main_topic_field.setFixedSize(310, 40)
         graph_generation_layout.addWidget(self.main_topic_field)
+
+        # Add Advanced Clustering Options button
+        self.clustering_btn = QPushButton("Clustering Options")
+        self.clustering_btn.setToolTip("Configure advanced clustering options")
+        self.clustering_btn.setFixedHeight(40)
+        self.clustering_btn.clicked.connect(self.open_clustering_options)
+        graph_generation_layout.addWidget(self.clustering_btn)
+
+        # Initialize default clustering values
+        self.n_clusters = None  # Auto
+        self.num_topics = 10    # Default value
 
         # Select LLM model drop-down button
         self.llm_btn = QToolButton()
@@ -809,6 +859,16 @@ class KnowledgeGraphTab(QWidget):
         try:
             with open("config.yaml", "r") as f:
                 self.api_config = yaml.safe_load(f) or {}
+                
+                # Load saved model selections if they exist
+                if "model_selections" in self.api_config:
+                    saved_llm = self.api_config["model_selections"].get("llm_model")
+                    saved_embedding = self.api_config["model_selections"].get("embedding_model")
+                    
+                    if saved_llm:
+                        self.set_llm_model(saved_llm)
+                    if saved_embedding:
+                        self.set_embedding_model(saved_embedding)
         except FileNotFoundError:
             self.api_config = {}
 
@@ -950,7 +1010,7 @@ class KnowledgeGraphTab(QWidget):
             f"{self.current_search_index + 1} of {len(self.current_search_results)}")
 
         # Optionally, clear previous highlights by resetting styles of all nodes.
-        # Then, update the current node’s style.
+        # Then, update the current node's style.
         # Here we assume the vis.js node data accepts a 'color' property.
         # To highlight, we update its background color to, e.g., red.
         js_code = f"""
@@ -1274,6 +1334,18 @@ class KnowledgeGraphTab(QWidget):
         self.llm_btn.setText(elided)
         self.llm_btn.setToolTip(full)
 
+        # 3) Save to config
+        try:
+            with open("config.yaml", "r") as f:
+                config = yaml.safe_load(f) or {}
+            if "model_selections" not in config:
+                config["model_selections"] = {}
+            config["model_selections"]["llm_model"] = model_name
+            with open("config.yaml", "w") as f:
+                yaml.safe_dump(config, f)
+        except Exception as e:
+            print(f"Failed to save LLM model selection: {e}")
+
     def set_embedding_model(self, model_name):
         for prov_action in self.embed_menu.actions():
             submenu = prov_action.menu()
@@ -1293,6 +1365,18 @@ class KnowledgeGraphTab(QWidget):
         elided = fm.elidedText(full, Qt.ElideRight, MAX_LABEL_WIDTH)
         self.embed_btn.setText(elided)
         self.embed_btn.setToolTip(full)
+
+        # Save to config
+        try:
+            with open("config.yaml", "r") as f:
+                config = yaml.safe_load(f) or {}
+            if "model_selections" not in config:
+                config["model_selections"] = {}
+            config["model_selections"]["embedding_model"] = model_name
+            with open("config.yaml", "w") as f:
+                yaml.safe_dump(config, f)
+        except Exception as e:
+            print(f"Failed to save embedding model selection: {e}")
 
     def _process_entries(self, entries: list[dict]) -> list[dict]:
         """
@@ -1363,7 +1447,7 @@ class KnowledgeGraphTab(QWidget):
                 + self._split_block(spk, right_text)
             )
 
-        # Fallback: single sentence that’s still too long → split in half by word count
+        # Fallback: single sentence that's still too long → split in half by word count
         n = len(words)
         mid = n // 2
         left_text  = " ".join(words[:mid])
@@ -1454,6 +1538,10 @@ class KnowledgeGraphTab(QWidget):
         sources = [e["speaker"] for e in processed]
         main_topic_text = self.main_topic_field.text().strip()
 
+        # Get clustering parameters from stored values instead of spinboxes
+        n_clusters = self.n_clusters
+        num_topics = self.num_topics
+
         # 4) show progress, kick off thread with processed_text…
         progress = QProgressDialog("Generating knowledge graph…", None, 0, 0,
                                    self)
@@ -1471,6 +1559,8 @@ class KnowledgeGraphTab(QWidget):
             llm_key1=llm_key1, llm_key2=llm_key2, llm_key3=llm_key3,
             emb_key1=emb_key1, emb_key2=emb_key2, emb_key3=emb_key3,
             main_topic=main_topic_text,
+            n_clusters=n_clusters,
+            num_topics=num_topics,
             parent=self,  # <<--- make sure this is a QObject, not a str
         )
         self.graph_worker.finished.connect(
@@ -1983,3 +2073,9 @@ class KnowledgeGraphTab(QWidget):
         self.save_state()
         self.triples = new_triples
         self.build_graph()
+
+    def open_clustering_options(self):
+        dlg = ClusteringOptionsDialog(self)
+        dlg.set_values(self.n_clusters, self.num_topics)
+        if dlg.exec_() == QDialog.Accepted:
+            self.n_clusters, self.num_topics = dlg.get_values()
