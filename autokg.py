@@ -701,7 +701,7 @@ class autoKG:
             raise ValueError("Adjacency matrix has no nonzero entries.")
 
         # compute cutoff
-        thr = np.percentile(self.A.data, percentile_threshold)
+        thr = np.percentile(self.A.data, 100 - percentile_threshold)
 
         # zero out everything below cutoff
         self.A.data[self.A.data < thr] = 0.0

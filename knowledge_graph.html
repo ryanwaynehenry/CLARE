@@ -1,0 +1,276 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 100vh;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "Nawabs", "label": "Nawabs", "shape": "dot"}, {"color": "#97c2fc", "id": "cultural exchange", "label": "cultural exchange", "shape": "dot"}, {"color": "#97c2fc", "id": "British settlers", "label": "British settlers", "shape": "dot"}, {"color": "#97c2fc", "id": "European misconceptions", "label": "European misconceptions", "shape": "dot"}, {"color": "#97c2fc", "id": "missionary efforts", "label": "missionary efforts", "shape": "dot"}, {"color": "#97c2fc", "id": "English assumptions", "label": "English assumptions", "shape": "dot"}, {"color": "#97c2fc", "id": "Plassey", "label": "Plassey", "shape": "dot"}, {"color": "#97c2fc", "id": "military campaigns", "label": "military campaigns", "shape": "dot"}, {"color": "#97c2fc", "id": "Native American tribes", "label": "Native American tribes", "shape": "dot"}, {"color": "#97c2fc", "id": "peace treaty", "label": "peace treaty", "shape": "dot"}, {"color": "#97c2fc", "id": "Robert Clive", "label": "Robert Clive", "shape": "dot"}, {"color": "#97c2fc", "id": "conspiracy", "label": "conspiracy", "shape": "dot"}, {"color": "#97c2fc", "id": "military costs", "label": "military costs", "shape": "dot"}, {"color": "#97c2fc", "id": "gender roles", "label": "gender roles", "shape": "dot"}, {"color": "#97c2fc", "id": "American Indians", "label": "American Indians", "shape": "dot"}, {"color": "#97c2fc", "id": "British East India Company", "label": "British East India Company", "shape": "dot"}, {"color": "#97c2fc", "id": "European colonization", "label": "European colonization", "shape": "dot"}, {"color": "#97c2fc", "id": "fighting in India", "label": "fighting in India", "shape": "dot"}, {"color": "#97c2fc", "id": "Caribbean colonies", "label": "Caribbean colonies", "shape": "dot"}, {"color": "#97c2fc", "id": "French relations", "label": "French relations", "shape": "dot"}, {"color": "#97c2fc", "id": "Seven Years\u0027 War", "label": "Seven Years\u0027 War", "shape": "dot"}, {"color": "#97c2fc", "id": "property ownership", "label": "property ownership", "shape": "dot"}, {"color": "#97c2fc", "id": "tribal groups", "label": "tribal groups", "shape": "dot"}, {"color": "#97c2fc", "id": "India", "label": "India", "shape": "dot"}, {"color": "#97c2fc", "id": "Indigenous land use", "label": "Indigenous land use", "shape": "dot"}, {"color": "#97c2fc", "id": "British colonists", "label": "British colonists", "shape": "dot"}, {"color": "#97c2fc", "id": "trade control", "label": "trade control", "shape": "dot"}, {"color": "#97c2fc", "id": "Black Hole of Calcutta", "label": "Black Hole of Calcutta", "shape": "dot"}, {"color": "#97c2fc", "id": "French presence", "label": "French presence", "shape": "dot"}, {"color": "#97c2fc", "id": "agriculture differences", "label": "agriculture differences", "shape": "dot"}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": "peace treaty", "id": "peace treaty|resulted in|English assumptions", "label": "resulted in", "to": "English assumptions"}, {"arrows": "to", "from": "British settlers", "id": "British settlers|influenced by|European misconceptions", "label": "influenced by", "to": "European misconceptions"}, {"arrows": "to", "from": "Robert Clive", "id": "Robert Clive|controlled|India", "label": "controlled", "to": "India"}, {"arrows": "to", "from": "missionary efforts", "id": "missionary efforts|facilitated|European colonization", "label": "facilitated", "to": "European colonization"}, {"arrows": "to", "from": "British colonists", "id": "British colonists|affected by|property ownership", "label": "affected by", "to": "property ownership"}, {"arrows": "to", "from": "conspiracy", "id": "conspiracy|led to|British colonists", "label": "led to", "to": "British colonists"}, {"arrows": "to", "from": "property ownership", "id": "property ownership|influenced|European colonization", "label": "influenced", "to": "European colonization"}, {"arrows": "to", "from": "French relations", "id": "French relations|affected|English assumptions", "label": "affected", "to": "English assumptions"}, {"arrows": "to", "from": "European colonization", "id": "European colonization|influenced|Caribbean colonies", "label": "influenced", "to": "Caribbean colonies"}, {"arrows": "to", "from": "Indigenous land use", "id": "Indigenous land use|misunderstood|European misconceptions", "label": "misunderstood", "to": "European misconceptions"}, {"arrows": "to", "from": "Nawabs", "id": "Nawabs|conducted by|military campaigns", "label": "conducted by", "to": "military campaigns"}, {"arrows": "to", "from": "conspiracy", "id": "conspiracy|influenced|India", "label": "influenced", "to": "India"}, {"arrows": "to", "from": "agriculture differences", "id": "agriculture differences|differed from|American Indians", "label": "differed from", "to": "American Indians"}, {"arrows": "to", "from": "property ownership", "id": "property ownership|disregarded by|American Indians", "label": "disregarded by", "to": "American Indians"}, {"arrows": "to", "from": "military campaigns", "id": "military campaigns|led by|Robert Clive", "label": "led by", "to": "Robert Clive"}, {"arrows": "to", "from": "missionary efforts", "id": "missionary efforts|supported|British East India Company", "label": "supported", "to": "British East India Company"}, {"arrows": "to", "from": "missionary efforts", "id": "missionary efforts|influenced|French presence", "label": "influenced", "to": "French presence"}, {"arrows": "to", "from": "property ownership", "id": "property ownership|affected by|Plassey", "label": "affected by", "to": "Plassey"}, {"arrows": "to", "from": "cultural exchange", "id": "cultural exchange|controlled|trade control", "label": "controlled", "to": "trade control"}, {"arrows": "to", "from": "property ownership", "id": "property ownership|disregarded by|Native American tribes", "label": "disregarded by", "to": "Native American tribes"}, {"arrows": "to", "from": "English assumptions", "id": "English assumptions|misunderstood|American Indians", "label": "misunderstood", "to": "American Indians"}, {"arrows": "to", "from": "property ownership", "id": "property ownership|influenced by|peace treaty", "label": "influenced by", "to": "peace treaty"}, {"arrows": "to", "from": "military costs", "id": "military costs|resulted from|Seven Years\u0027 War", "label": "resulted from", "to": "Seven Years\u0027 War"}, {"arrows": "to", "from": "Caribbean colonies", "id": "Caribbean colonies|affected by|peace treaty", "label": "affected by", "to": "peace treaty"}, {"arrows": "to", "from": "missionary efforts", "id": "missionary efforts|engaged with|Native American tribes", "label": "engaged with", "to": "Native American tribes"}, {"arrows": "to", "from": "Robert Clive", "id": "Robert Clive|orchestrated|conspiracy", "label": "orchestrated", "to": "conspiracy"}, {"arrows": "to", "from": "British East India Company", "id": "British East India Company|exploited|India", "label": "exploited", "to": "India"}, {"arrows": "to", "from": "Robert Clive", "id": "Robert Clive|conducted|fighting in India", "label": "conducted", "to": "fighting in India"}, {"arrows": "to", "from": "Plassey", "id": "Plassey|influenced|English assumptions", "label": "influenced", "to": "English assumptions"}, {"arrows": "to", "from": "European colonization", "id": "European colonization|impacted by|American Indians", "label": "impacted by", "to": "American Indians"}, {"arrows": "to", "from": "military costs", "id": "military costs|incurred by|fighting in India", "label": "incurred by", "to": "fighting in India"}, {"arrows": "to", "from": "European colonization", "id": "European colonization|affected by|Native American tribes", "label": "affected by", "to": "Native American tribes"}, {"arrows": "to", "from": "conspiracy", "id": "conspiracy|led to|fighting in India", "label": "led to", "to": "fighting in India"}, {"arrows": "to", "from": "British settlers", "id": "British settlers|established|trade control", "label": "established", "to": "trade control"}, {"arrows": "to", "from": "European colonization", "id": "European colonization|shaped by|peace treaty", "label": "shaped by", "to": "peace treaty"}, {"arrows": "to", "from": "Robert Clive", "id": "Robert Clive|secured|trade control", "label": "secured", "to": "trade control"}, {"arrows": "to", "from": "Plassey", "id": "Plassey|commanded|Robert Clive", "label": "commanded", "to": "Robert Clive"}, {"arrows": "to", "from": "Robert Clive", "id": "Robert Clive|battled against|Plassey", "label": "battled against", "to": "Plassey"}, {"arrows": "to", "from": "trade control", "id": "trade control|limited|French presence", "label": "limited", "to": "French presence"}, {"arrows": "to", "from": "missionary efforts", "id": "missionary efforts|influenced|British colonists", "label": "influenced", "to": "British colonists"}, {"arrows": "to", "from": "Plassey", "id": "Plassey|led by|British East India Company", "label": "led by", "to": "British East India Company"}, {"arrows": "to", "from": "French presence", "id": "French presence|affected by|Plassey", "label": "affected by", "to": "Plassey"}, {"arrows": "to", "from": "military campaigns", "id": "military campaigns|resulted in|Black Hole of Calcutta", "label": "resulted in", "to": "Black Hole of Calcutta"}, {"arrows": "to", "from": "conspiracy", "id": "conspiracy|facilitated|trade control", "label": "facilitated", "to": "trade control"}, {"arrows": "to", "from": "fighting in India", "id": "fighting in India|involved|French presence", "label": "involved", "to": "French presence"}, {"arrows": "to", "from": "missionary efforts", "id": "missionary efforts|influenced|India", "label": "influenced", "to": "India"}, {"arrows": "to", "from": "European misconceptions", "id": "European misconceptions|shaped|missionary efforts", "label": "shaped", "to": "missionary efforts"}, {"arrows": "to", "from": "French presence", "id": "French presence|limited by|peace treaty", "label": "limited by", "to": "peace treaty"}, {"arrows": "to", "from": "British East India Company", "id": "British East India Company|engaged in|fighting in India", "label": "engaged in", "to": "fighting in India"}, {"arrows": "to", "from": "French presence", "id": "French presence|affected by|European misconceptions", "label": "affected by", "to": "European misconceptions"}, {"arrows": "to", "from": "cultural exchange", "id": "cultural exchange|influenced|British settlers", "label": "influenced", "to": "British settlers"}, {"arrows": "to", "from": "European colonization", "id": "European colonization|led to|English assumptions", "label": "led to", "to": "English assumptions"}, {"arrows": "to", "from": "conspiracy", "id": "conspiracy|undermined|property ownership", "label": "undermined", "to": "property ownership"}, {"arrows": "to", "from": "English assumptions", "id": "English assumptions|shaped|cultural exchange", "label": "shaped", "to": "cultural exchange"}, {"arrows": "to", "from": "conspiracy", "id": "conspiracy|affected|Caribbean colonies", "label": "affected", "to": "Caribbean colonies"}, {"arrows": "to", "from": "fighting in India", "id": "fighting in India|occurred during|Seven Years\u0027 War", "label": "occurred during", "to": "Seven Years\u0027 War"}, {"arrows": "to", "from": "British colonists", "id": "British colonists|supported|French relations", "label": "supported", "to": "French relations"}, {"arrows": "to", "from": "French relations", "id": "French relations|influenced|European misconceptions", "label": "influenced", "to": "European misconceptions"}, {"arrows": "to", "from": "gender roles", "id": "gender roles|affected|European misconceptions", "label": "affected", "to": "European misconceptions"}, {"arrows": "to", "from": "military campaigns", "id": "military campaigns|involved|British colonists", "label": "involved", "to": "British colonists"}, {"arrows": "to", "from": "French presence", "id": "French presence|limited|Caribbean colonies", "label": "limited", "to": "Caribbean colonies"}, {"arrows": "to", "from": "property ownership", "id": "property ownership|determined|trade control", "label": "determined", "to": "trade control"}, {"arrows": "to", "from": "tribal groups", "id": "tribal groups|influenced|trade control", "label": "influenced", "to": "trade control"}, {"arrows": "to", "from": "European colonization", "id": "European colonization|shaped|gender roles", "label": "shaped", "to": "gender roles"}, {"arrows": "to", "from": "Seven Years\u0027 War", "id": "Seven Years\u0027 War|affected|European misconceptions", "label": "affected", "to": "European misconceptions"}, {"arrows": "to", "from": "Indigenous land use", "id": "Indigenous land use|impacted|trade control", "label": "impacted", "to": "trade control"}, {"arrows": "to", "from": "agriculture differences", "id": "agriculture differences|influenced|French presence", "label": "influenced", "to": "French presence"}, {"arrows": "to", "from": "military campaigns", "id": "military campaigns|occurred in|India", "label": "occurred in", "to": "India"}, {"arrows": "to", "from": "French presence", "id": "French presence|affected|English assumptions", "label": "affected", "to": "English assumptions"}, {"arrows": "to", "from": "conspiracy", "id": "conspiracy|facilitated|European colonization", "label": "facilitated", "to": "European colonization"}, {"arrows": "to", "from": "British East India Company", "id": "British East India Company|controlled|property ownership", "label": "controlled", "to": "property ownership"}, {"arrows": "to", "from": "missionary efforts", "id": "missionary efforts|affected|French relations", "label": "affected", "to": "French relations"}, {"arrows": "to", "from": "British East India Company", "id": "British East India Company|influenced|Caribbean colonies", "label": "influenced", "to": "Caribbean colonies"}, {"arrows": "to", "from": "fighting in India", "id": "fighting in India|shaped|European misconceptions", "label": "shaped", "to": "European misconceptions"}, {"arrows": "to", "from": "French presence", "id": "French presence|affected|Robert Clive", "label": "affected", "to": "Robert Clive"}, {"arrows": "to", "from": "American Indians", "id": "American Indians|lived in|tribal groups", "label": "lived in", "to": "tribal groups"}, {"arrows": "to", "from": "American Indians", "id": "American Indians|affected|European misconceptions", "label": "affected", "to": "European misconceptions"}, {"arrows": "to", "from": "cultural exchange", "id": "cultural exchange|influenced|property ownership", "label": "influenced", "to": "property ownership"}, {"arrows": "to", "from": "British East India Company", "id": "British East India Company|was involved in|Black Hole of Calcutta", "label": "was involved in", "to": "Black Hole of Calcutta"}, {"arrows": "to", "from": "British settlers", "id": "British settlers|impacted|Indigenous land use", "label": "impacted", "to": "Indigenous land use"}, {"arrows": "to", "from": "Native American tribes", "id": "Native American tribes|shaped|English assumptions", "label": "shaped", "to": "English assumptions"}, {"arrows": "to", "from": "gender roles", "id": "gender roles|affected|British East India Company", "label": "affected", "to": "British East India Company"}, {"arrows": "to", "from": "cultural exchange", "id": "cultural exchange|influenced|Caribbean colonies", "label": "influenced", "to": "Caribbean colonies"}, {"arrows": "to", "from": "Seven Years\u0027 War", "id": "Seven Years\u0027 War|was part of|military campaigns", "label": "was part of", "to": "military campaigns"}, {"arrows": "to", "from": "Nawabs", "id": "Nawabs|determined|property ownership", "label": "determined", "to": "property ownership"}, {"arrows": "to", "from": "conspiracy", "id": "conspiracy|influenced|French presence", "label": "influenced", "to": "French presence"}, {"arrows": "to", "from": "Indigenous land use", "id": "Indigenous land use|influenced|gender roles", "label": "influenced", "to": "gender roles"}, {"arrows": "to", "from": "English assumptions", "id": "English assumptions|shaped|tribal groups", "label": "shaped", "to": "tribal groups"}, {"arrows": "to", "from": "British colonists", "id": "British colonists|impacted|French presence", "label": "impacted", "to": "French presence"}, {"arrows": "to", "from": "Plassey", "id": "Plassey|was fought at|Nawabs", "label": "was fought at", "to": "Nawabs"}, {"arrows": "to", "from": "trade control", "id": "trade control|limited|European misconceptions", "label": "limited", "to": "European misconceptions"}, {"arrows": "to", "from": "British colonists", "id": "British colonists|was fought by|Plassey", "label": "was fought by", "to": "Plassey"}, {"arrows": "to", "from": "Black Hole of Calcutta", "id": "Black Hole of Calcutta|was involved in|Nawabs", "label": "was involved in", "to": "Nawabs"}, {"arrows": "to", "from": "Plassey", "id": "Plassey|incurred|military costs", "label": "incurred", "to": "military costs"}, {"arrows": "to", "from": "Indigenous land use", "id": "Indigenous land use|affected|military costs", "label": "affected", "to": "military costs"}, {"arrows": "to", "from": "Caribbean colonies", "id": "Caribbean colonies|settled by|British colonists", "label": "settled by", "to": "British colonists"}, {"arrows": "to", "from": "agriculture differences", "id": "agriculture differences|differed from|French relations", "label": "differed from", "to": "French relations"}, {"arrows": "to", "from": "missionary efforts", "id": "missionary efforts|supported|fighting in India", "label": "supported", "to": "fighting in India"}, {"arrows": "to", "from": "agriculture differences", "id": "agriculture differences|influenced|missionary efforts", "label": "influenced", "to": "missionary efforts"}, {"arrows": "to", "from": "missionary efforts", "id": "missionary efforts|targeted|American Indians", "label": "targeted", "to": "American Indians"}, {"arrows": "to", "from": "French relations", "id": "French relations|affected|European colonization", "label": "affected", "to": "European colonization"}, {"arrows": "to", "from": "military campaigns", "id": "military campaigns|occurred during|fighting in India", "label": "occurred during", "to": "fighting in India"}, {"arrows": "to", "from": "Black Hole of Calcutta", "id": "Black Hole of Calcutta|was the site of|India", "label": "was the site of", "to": "India"}, {"arrows": "to", "from": "Plassey", "id": "Plassey|occurred in|India", "label": "occurred in", "to": "India"}, {"arrows": "to", "from": "military costs", "id": "military costs|resulted from|peace treaty", "label": "resulted from", "to": "peace treaty"}, {"arrows": "to", "from": "India", "id": "India|occurred in|fighting in India", "label": "occurred in", "to": "fighting in India"}, {"arrows": "to", "from": "property ownership", "id": "property ownership|contrasted with|British settlers", "label": "contrasted with", "to": "British settlers"}, {"arrows": "to", "from": "Indigenous land use", "id": "Indigenous land use|affected|French relations", "label": "affected", "to": "French relations"}, {"arrows": "to", "from": "British settlers", "id": "British settlers|settled in|Caribbean colonies", "label": "settled in", "to": "Caribbean colonies"}, {"arrows": "to", "from": "missionary efforts", "id": "missionary efforts|influenced|Plassey", "label": "influenced", "to": "Plassey"}, {"arrows": "to", "from": "conspiracy", "id": "conspiracy|affected|tribal groups", "label": "affected", "to": "tribal groups"}, {"arrows": "to", "from": "French presence", "id": "French presence|was impacted by|British East India Company", "label": "was impacted by", "to": "British East India Company"}, {"arrows": "to", "from": "trade control", "id": "trade control|controlled|French relations", "label": "controlled", "to": "French relations"}, {"arrows": "to", "from": "French relations", "id": "French relations|supported|American Indians", "label": "supported", "to": "American Indians"}, {"arrows": "to", "from": "cultural exchange", "id": "cultural exchange|facilitated|missionary efforts", "label": "facilitated", "to": "missionary efforts"}, {"arrows": "to", "from": "French relations", "id": "French relations|influenced|Plassey", "label": "influenced", "to": "Plassey"}, {"arrows": "to", "from": "military campaigns", "id": "military campaigns|affected|trade control", "label": "affected", "to": "trade control"}, {"arrows": "to", "from": "property ownership", "id": "property ownership|impacted|military costs", "label": "impacted", "to": "military costs"}, {"arrows": "to", "from": "peace treaty", "id": "peace treaty|resulted in|European misconceptions", "label": "resulted in", "to": "European misconceptions"}, {"arrows": "to", "from": "French relations", "id": "French relations|influenced|fighting in India", "label": "influenced", "to": "fighting in India"}, {"arrows": "to", "from": "British colonists", "id": "British colonists|influenced|gender roles", "label": "influenced", "to": "gender roles"}, {"arrows": "to", "from": "European colonization", "id": "European colonization|influenced|fighting in India", "label": "influenced", "to": "fighting in India"}, {"arrows": "to", "from": "Seven Years\u0027 War", "id": "Seven Years\u0027 War|was involved in|American Indians", "label": "was involved in", "to": "American Indians"}, {"arrows": "to", "from": "French relations", "id": "French relations|supported|Native American tribes", "label": "supported", "to": "Native American tribes"}, {"arrows": "to", "from": "military costs", "id": "military costs|affected|Caribbean colonies", "label": "affected", "to": "Caribbean colonies"}, {"arrows": "to", "from": "Robert Clive", "id": "Robert Clive|was influenced by|Nawabs", "label": "was influenced by", "to": "Nawabs"}, {"arrows": "to", "from": "peace treaty", "id": "peace treaty|established|French relations", "label": "established", "to": "French relations"}, {"arrows": "to", "from": "French relations", "id": "French relations|affected by|peace treaty", "label": "affected by", "to": "peace treaty"}, {"arrows": "to", "from": "British settlers", "id": "British settlers|initiated|European colonization", "label": "initiated", "to": "European colonization"}, {"arrows": "to", "from": "Caribbean colonies", "id": "Caribbean colonies|resulted from|Seven Years\u0027 War", "label": "resulted from", "to": "Seven Years\u0027 War"}, {"arrows": "to", "from": "European colonization", "id": "European colonization|influenced|British colonists", "label": "influenced", "to": "British colonists"}, {"arrows": "to", "from": "British East India Company", "id": "British East India Company|was supported by|Nawabs", "label": "was supported by", "to": "Nawabs"}, {"arrows": "to", "from": "French presence", "id": "French presence|was affected by|Nawabs", "label": "was affected by", "to": "Nawabs"}, {"arrows": "to", "from": "European misconceptions", "id": "European misconceptions|led to|English assumptions", "label": "led to", "to": "English assumptions"}, {"arrows": "to", "from": "English assumptions", "id": "English assumptions|shaped|gender roles", "label": "shaped", "to": "gender roles"}, {"arrows": "to", "from": "Black Hole of Calcutta", "id": "Black Hole of Calcutta|was involved in|tribal groups", "label": "was involved in", "to": "tribal groups"}, {"arrows": "to", "from": "British colonists", "id": "British colonists|gained|trade control", "label": "gained", "to": "trade control"}, {"arrows": "to", "from": "cultural exchange", "id": "cultural exchange|influenced|Native American tribes", "label": "influenced", "to": "Native American tribes"}, {"arrows": "to", "from": "French presence", "id": "French presence|was impacted by|India", "label": "was impacted by", "to": "India"}, {"arrows": "to", "from": "tribal groups", "id": "tribal groups|was influenced by|British East India Company", "label": "was influenced by", "to": "British East India Company"}, {"arrows": "to", "from": "American Indians", "id": "American Indians|participated in|fighting in India", "label": "participated in", "to": "fighting in India"}, {"arrows": "to", "from": "Plassey", "id": "Plassey|was based on|conspiracy", "label": "was based on", "to": "conspiracy"}, {"arrows": "to", "from": "European colonization", "id": "European colonization|facilitated|trade control", "label": "facilitated", "to": "trade control"}, {"arrows": "to", "from": "Plassey", "id": "Plassey|occurred in|fighting in India", "label": "occurred in", "to": "fighting in India"}, {"arrows": "to", "from": "French presence", "id": "French presence|was influenced by|Black Hole of Calcutta", "label": "was influenced by", "to": "Black Hole of Calcutta"}, {"arrows": "to", "from": "French presence", "id": "French presence|was impacted by|British settlers", "label": "was impacted by", "to": "British settlers"}, {"arrows": "to", "from": "Robert Clive", "id": "Robert Clive|led|British East India Company", "label": "led", "to": "British East India Company"}, {"arrows": "to", "from": "British East India Company", "id": "British East India Company|incurred by|military costs", "label": "incurred by", "to": "military costs"}, {"arrows": "to", "from": "Native American tribes", "id": "Native American tribes|controlled by|trade control", "label": "controlled by", "to": "trade control"}, {"arrows": "to", "from": "conspiracy", "id": "conspiracy|supported|British East India Company", "label": "supported", "to": "British East India Company"}, {"arrows": "to", "from": "French presence", "id": "French presence|limited by|military costs", "label": "limited by", "to": "military costs"}, {"arrows": "to", "from": "Indigenous land use", "id": "Indigenous land use|influenced by|French presence", "label": "influenced by", "to": "French presence"}, {"arrows": "to", "from": "tribal groups", "id": "tribal groups|encroached upon|British settlers", "label": "encroached upon", "to": "British settlers"}, {"arrows": "to", "from": "Indigenous land use", "id": "Indigenous land use|defined by|property ownership", "label": "defined by", "to": "property ownership"}, {"arrows": "to", "from": "Robert Clive", "id": "Robert Clive|manipulated|tribal groups", "label": "manipulated", "to": "tribal groups"}, {"arrows": "to", "from": "India", "id": "India|exploited|British colonists", "label": "exploited", "to": "British colonists"}, {"arrows": "to", "from": "peace treaty", "id": "peace treaty|resulted from|Plassey", "label": "resulted from", "to": "Plassey"}, {"arrows": "to", "from": "Robert Clive", "id": "Robert Clive|influenced|British colonists", "label": "influenced", "to": "British colonists"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"nodes": {"color": {"background": "#97C2FC", "border": "#2B7CE9", "highlight": {"background": "#28d75c", "border": "#28d75c"}, "hover": {"background": "#28d75c", "border": "#28d75c"}}}, "physics": {"barnesHut": {"gravitationalConstant": -2000, "centralGravity": 0.3, "springLength": 95, "springConstant": 0.04, "damping": 0.09, "avoidOverlap": 0.1}, "stabilization": {"enabled": true, "iterations": 1000, "updateInterval": 25}}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    
+                    <script type="text/javascript" src="qrc:///qtwebchannel/qwebchannel.js"></script>
+                    <script type="text/javascript">
+                      // This function resets all nodes and edges to their default colors.
+                      function clearHighlights() {
+                        var defaultNodeColor = {
+                          background: '#97C2FC',
+                          border: '#2B7CE9',
+                          highlight: { background: '#97C2FC', border: '#2B7CE9' },
+                          hover: { background: '#97C2FC', border: '#2B7CE9' }
+                        };
+                        var defaultEdgeColor = {
+                          color: '#848484',
+                          highlight: '#848484',
+                          hover: '#848484',
+                          inherit: false
+                        };
+                        var allNodes = network.body.data.nodes.get();
+                        for (var i = 0; i < allNodes.length; i++) {
+                          network.body.data.nodes.update({
+                            id: allNodes[i].id,
+                            color: defaultNodeColor
+                          });
+                        }
+                        var allEdges = network.body.data.edges.get();
+                        for (var i = 0; i < allEdges.length; i++) {
+                          network.body.data.edges.update({
+                            id: allEdges[i].id,
+                            color: defaultEdgeColor
+                          });
+                        }
+                      }
+                    
+                      // Set up the web channel.
+                      window.addEventListener("load", function() {
+                        new QWebChannel(qt.webChannelTransport, function(channel) {
+                          window.pyBridge = channel.objects.pyBridge;
+                        });
+                        // When the network stabilizes, disable physics.
+                        network.once("stabilizationIterationsDone", function() {
+                          network.setOptions({ physics: { enabled: false } });
+                        });
+                    
+                        // Attach click listeners.
+                        function attachListeners() {
+                          if (typeof network !== "undefined") {
+                            network.on("click", function(params) {
+                              clearHighlights();
+                              if (params.nodes.length > 0) {
+                                var nodeId = params.nodes[0];
+                                network.body.data.nodes.update({
+                                  id: nodeId,
+                                  color: {
+                                    background: "#28d75c",
+                                    border: "#28d75c",
+                                    highlight: { background: "#28d75c", border: "#1c9c42" },
+                                    hover: { background: "#28d75c", border: "#28d75c" }
+                                  }
+                                });
+                                var allEdges = network.body.data.edges.get();
+                                for (var i = 0; i < allEdges.length; i++) {
+                                  var edge = allEdges[i];
+                                  if (edge.from === nodeId || edge.to === nodeId) {
+                                    network.body.data.edges.update({
+                                      id: edge.id,
+                                      color: {
+                                        color: "#1c9c42",
+                                        highlight: "#1c9c42",
+                                        hover: "#1c9c42",
+                                        inherit: false
+                                      }
+                                    });
+                                  }
+                                }
+                                if (window.pyBridge) {
+                                  window.pyBridge.nodeClicked(nodeId);
+                                }
+                              } else if (params.edges.length > 0) {
+                                var edgeId = params.edges[0];
+                                network.body.data.edges.update({
+                                  id: edgeId,
+                                  color: {
+                                    color: "#28d75c",
+                                    highlight: "#28d75c",
+                                    hover: "#28d75c",
+                                    inherit: false
+                                  }
+                                });
+                                if (window.pyBridge) {
+                                  window.pyBridge.edgeClicked(edgeId);
+                                }
+                              }
+                            });
+                    
+                            // Add an event listener for when a node dragging ends.
+                            network.on("dragEnd", function(params) {
+                              if (params.nodes.length > 0) {
+                                // If a node was dragged, clear previous highlights and update the node immediately.
+                                clearHighlights();
+                                var nodeId = params.nodes[0];
+                                network.body.data.nodes.update({
+                                  id: nodeId,
+                                  color: {
+                                    background: "#28d75c",
+                                    border: "#28d75c",
+                                    highlight: { background: "#28d75c", border: "#1c9c42" },
+                                    hover: { background: "#28d75c", border: "#28d75c" }
+                                  }
+                                });
+                                var allEdges = network.body.data.edges.get();
+                                for (var i = 0; i < allEdges.length; i++) {
+                                  var edge = allEdges[i];
+                                  if (edge.from === nodeId || edge.to === nodeId) {
+                                    network.body.data.edges.update({
+                                      id: edge.id,
+                                      color: {
+                                        color: "#1c9c42",
+                                        highlight: "#1c9c42",
+                                        hover: "#1c9c42",
+                                        inherit: false
+                                      }
+                                    });
+                                  }
+                                }
+                              }
+                            });
+                    
+                            // Listen for deselection events.
+                            network.on("deselectNode", function(params) {
+                              clearHighlights();
+                            });
+                            network.on("deselectEdge", function(params) {
+                              clearHighlights();
+                            });
+                    
+                            // Listen for Escape key press to clear highlights.
+                            document.addEventListener("keydown", function(event) {
+                              if (event.key === "Escape") {
+                                clearHighlights();
+                              }
+                            });
+                          } else {
+                            setTimeout(attachListeners, 100);
+                          }
+                        }
+                        attachListeners();
+                      });
+                    </script>
+                    </body>
+                    
+</html>
