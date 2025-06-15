@@ -42,8 +42,9 @@ class GraphGenerationThread(QThread):
         llm_key1: str, llm_key2: str, llm_key3: str,
         emb_key1: str, emb_key2: str, emb_key3: str,
         main_topic: str,
-        n_clusters: int = None,  # Added parameter
-        num_topics: int = 10,    # Added parameter
+        n_clusters: int = None, 
+        num_topics: int = 10,
+        dynamic_threshold=50,
         parent: QObject = None,
     ):
         super().__init__(parent)
@@ -56,6 +57,7 @@ class GraphGenerationThread(QThread):
         self.main_topic = main_topic
         self.n_clusters = None if n_clusters == 0 else n_clusters  # Convert 0 to None for auto
         self.num_topics = num_topics
+        self.dynamic_threshold = dynamic_threshold
 
     def run(self):
         try:
@@ -102,37 +104,7 @@ class GraphGenerationThread(QThread):
                 connect_threshold=1
             )
 
-            # ---------- histogram of non‑zero edge weights ----------
-            import numpy as np
-            import matplotlib.pyplot as plt
-            from pathlib import Path
-
-            nz_values = auto_kg.A.data
-            if nz_values.size == 0:
-                raise ValueError("A has no non‑zero entries.")
-
-            p10, p25, p50, p75, p90, p95 = np.percentile(nz_values, [10,25,50,75,90,95])
-            print(f"Non‑zero weights:  min={nz_values.min():.4f}  max={nz_values.max():.4f}")
-            print(f"10/25/50/75/90/95 percentiles: "
-                f"{p10:.4f}, {p25:.4f}, {p50:.4f}, {p75:.4f}, {p90:.4f}, {p95:.4f}")
-
-            # histogram → PNG
-            plt.figure(figsize=(6,4))
-            plt.hist(nz_values, bins=50, edgecolor="black")
-            plt.xlabel("Edge weight (similarity score)")
-            plt.ylabel("Frequency")
-            plt.title("Distribution of non‑zero entries in A")
-            plt.tight_layout()
-            out_dir = "C:\\Users\\ryanw\\PycharmProjects\\ManualTranscription"
-            # save next to the CSVs for this transcript
-            out_file = Path(out_dir) / "4_A_weight_histogram.png"   # ensure out_dir exists
-            plt.savefig(out_file, dpi=150)
-            plt.close()
-
-            print(f"Histogram written to {out_file}")
-
-            threshold = auto_kg.apply_dynamic_threshold(50)
-            print(f"Applied median threshold: {threshold:.4f}")
+            threshold = auto_kg.apply_dynamic_threshold(self.dynamic_threshold)
 
             edges = auto_kg.build_entity_relationships(transcript_str=' '.join(self.texts))
 
@@ -298,6 +270,7 @@ class KnowledgeGraphTab(QWidget):
         # Initialize default clustering values
         self.n_clusters = None  # Auto
         self.num_topics = 10    # Default value
+        self.dynamic_threshold = 50
 
         # Select LLM model drop-down button
         self.llm_btn = QToolButton()
@@ -1561,7 +1534,8 @@ class KnowledgeGraphTab(QWidget):
             main_topic=main_topic_text,
             n_clusters=n_clusters,
             num_topics=num_topics,
-            parent=self,  # <<--- make sure this is a QObject, not a str
+            dynamic_threshold=self.dynamic_threshold,
+            parent=self,
         )
         self.graph_worker.finished.connect(
             self.handle_graph_generation_finished)
@@ -2076,6 +2050,8 @@ class KnowledgeGraphTab(QWidget):
 
     def open_clustering_options(self):
         dlg = ClusteringOptionsDialog(self)
-        dlg.set_values(self.n_clusters, self.num_topics)
+        dlg.set_values(self.n_clusters, self.num_topics, self.dynamic_threshold)
         if dlg.exec_() == QDialog.Accepted:
-            self.n_clusters, self.num_topics = dlg.get_values()
+            (self.n_clusters,
+             self.num_topics,
+             self.dynamic_threshold) = dlg.get_values()
