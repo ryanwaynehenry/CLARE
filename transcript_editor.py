@@ -3,21 +3,114 @@ import json
 import os
 import struct
 import sys
-from PyQt5.QtCore import Qt, QUrl, QEvent, QTimer, QSize, QModelIndex
-from PyQt5.QtGui import QKeySequence, QFont, QIcon
+from PyQt5.QtCore import (
+    Qt, QUrl, QEvent, QTimer, QSize, QModelIndex, QAbstractTableModel, QVariant,
+    QItemSelectionModel
+)
+from PyQt5.QtGui import QKeySequence, QFont, QIcon, QPalette, QColor, QPainter, QPen
 from PyQt5.QtMultimedia import QMediaPlayer, QMediaContent
 from PyQt5.QtWidgets import (
     QWidget, QHBoxLayout, QVBoxLayout, QPushButton, QTableWidget, QTableWidgetItem,
     QLabel, QCheckBox, QShortcut, QFileDialog, QMessageBox, QSplitter, QGraphicsRectItem,
-    QToolButton, QTableView, QHeaderView, QAbstractItemView
+    QToolButton, QTableView, QHeaderView, QAbstractItemView, QAbstractItemView
 )
 from custom_widgets import DraggableTableWidget, VideoView
 from utils import create_spinner, seconds_to_formatted, formatted_to_seconds, TimeSpinBox, TimeTableWidgetItem
 from waveform import WaveformProgressBar
 
-from PyQt5.QtCore import Qt, QAbstractTableModel, QVariant
-
 COL_CUSHION = 16
+
+from PyQt5.QtCore import Qt, QModelIndex
+from PyQt5.QtWidgets import QTableView, QAbstractItemView
+
+class DragTableView(QTableView):
+    """
+    QTableView with drag-and-drop row reordering and a visual drop indicator line.
+    """
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.setDragEnabled(True)
+        self.setAcceptDrops(True)
+        self.viewport().setAcceptDrops(True)
+        self.setDropIndicatorShown(False)  # we'll draw our own line
+        self.setDragDropMode(QAbstractItemView.InternalMove)
+        self.setDefaultDropAction(Qt.MoveAction)
+
+        self.dropIndicatorRow = None
+
+    def dragEnterEvent(self, event):
+        if event.source() == self:
+            event.acceptProposedAction()
+        else:
+            super().dragEnterEvent(event)
+
+    def dragMoveEvent(self, event):
+        if event.source() == self:
+            self.dropIndicatorRow = self.drop_on(event)
+            self.viewport().update()  # trigger repaint to draw indicator
+            event.acceptProposedAction()
+        else:
+            super().dragMoveEvent(event)
+
+    def dragLeaveEvent(self, event):
+        self.dropIndicatorRow = None
+        self.viewport().update()
+        super().dragLeaveEvent(event)
+
+    def mouseMoveEvent(self, event):
+        if event.buttons() & Qt.LeftButton:
+            self.startDrag(Qt.MoveAction)
+        super().mouseMoveEvent(event)
+
+    def dropEvent(self, event):
+        if event.source() == self and event.dropAction() == Qt.MoveAction:
+            source_row = self.currentIndex().row()
+            drop_row = self.drop_on(event)
+
+            if source_row < drop_row:
+                drop_row -= 1
+            if source_row != drop_row:
+                self.model().moveRows(QModelIndex(), source_row, 1, QModelIndex(), drop_row)
+                self.selectRow(drop_row)
+
+            self.dropIndicatorRow = None
+            self.viewport().update()
+            event.acceptProposedAction()
+        else:
+            super().dropEvent(event)
+
+    def drop_on(self, event):
+        idx = self.indexAt(event.pos())
+        if not idx.isValid():
+            return self.model().rowCount()
+        rect = self.visualRect(idx)
+        y = event.pos().y()
+        margin = 4
+        if y - rect.top() < margin:
+            return idx.row()
+        if rect.bottom() - y < margin:
+            return idx.row() + 1
+        return idx.row()
+
+    def paintEvent(self, event):
+        super().paintEvent(event)
+        if self.dropIndicatorRow is not None:
+            painter = QPainter(self.viewport())
+            pen = QPen(QColor(0, 120, 215), 2)  # blue line
+            painter.setPen(pen)
+
+            if self.dropIndicatorRow < self.model().rowCount():
+                rect = self.visualRect(self.model().index(self.dropIndicatorRow, 0))
+                y = rect.top()
+            else:
+                # draw at the bottom of the last row
+                if self.model().rowCount() == 0:
+                    y = 0
+                else:
+                    rect = self.visualRect(self.model().index(self.model().rowCount() - 1, 0))
+                    y = rect.bottom()
+
+            painter.drawLine(0, y, self.viewport().width(), y)
 
 class TranscriptModel(QAbstractTableModel):
     def __init__(self, transcript: list[dict], parent=None):
@@ -61,10 +154,10 @@ class TranscriptModel(QAbstractTableModel):
 
     def flags(self, index):
         if not index.isValid():
-            return Qt.NoItemFlags
-        base = Qt.ItemIsSelectable | Qt.ItemIsEnabled
+            return Qt.ItemIsDropEnabled
+        base = Qt.ItemIsSelectable | Qt.ItemIsEnabled | Qt.ItemIsEditable
         # allow editing on all four columns
-        return base | Qt.ItemIsEditable
+        return base | Qt.ItemIsDragEnabled | Qt.ItemIsDropEnabled
 
     def setData(self, index, value, role=Qt.EditRole):
         if role != Qt.EditRole or not index.isValid():
@@ -95,6 +188,28 @@ class TranscriptModel(QAbstractTableModel):
         # let the view repaint that one cell (it will call data() → seconds_to_formatted)
         self.dataChanged.emit(index, index, [Qt.DisplayRole])
         return True
+    
+    def supportedDropActions(self):
+        # internal move only – no copy
+        return Qt.MoveAction
+
+    def moveRows(self, parent, sourceRow, count, destinationParent, destinationChild):
+        """Re-order self._data so InternalMove works."""
+        if count != 1 or parent != destinationParent:
+            return False  # only single-row moves in same parent (flat table)
+
+        if sourceRow < destinationChild:
+            destinationChild -= 1  # Qt’s docs: adjust when moving downward
+
+        if sourceRow == destinationChild:
+            return False  # no‐op
+
+        self.beginMoveRows(parent, sourceRow, sourceRow,
+                           destinationParent, destinationChild)
+        row = self._data.pop(sourceRow)
+        self._data.insert(destinationChild, row)
+        self.endMoveRows()
+        return True
 
 
 class TranscriptEditor(QWidget):
@@ -110,6 +225,8 @@ class TranscriptEditor(QWidget):
         self.loop_enabled = True
         self.overlay_visible = False
         self.auto_seek_enabled = True
+        self.prev_loop_start = 0.0
+        self.prev_loop_end   = 0.0
 
         self.normalized_positions = [
             (0.45, 0.65, 0.1, 0.1),
@@ -126,6 +243,9 @@ class TranscriptEditor(QWidget):
         self.global_space_shortcut = QShortcut(QKeySequence("Space"), self)
         self.global_space_shortcut.setContext(Qt.ApplicationShortcut)
         self.global_space_shortcut.activated.connect(self.handle_global_space)
+        self.highlight_timer = QTimer(self)
+        self.highlight_timer.setInterval(200)  # check every 200 ms
+        self.highlight_timer.timeout.connect(self.update_highlighting)
 
     def init_ui(self):
         self.setWindowTitle("Manual Transcription Editor")
@@ -307,15 +427,26 @@ class TranscriptEditor(QWidget):
 
         # Right side: transcript table and controls.
         right_layout = QVBoxLayout()
-        self.table = QTableView()
+        self.table = DragTableView()
+        self.table.setDragDropMode(QAbstractItemView.InternalMove)
+        self.table.setDefaultDropAction(Qt.MoveAction)
+        pal = self.table.palette()
+        blue = QColor(51, 153, 255)
+        pal.setColor(QPalette.Highlight, blue)
+        pal.setColor(QPalette.Inactive, QPalette.Highlight, blue)
+        pal.setColor(QPalette.HighlightedText, Qt.white)
+        pal.setColor(QPalette.Inactive, QPalette.HighlightedText, Qt.white)
+        self.table.setPalette(pal)
         self.model = TranscriptModel(self.transcript, parent=self)
         self.table.setModel(self.model)
+        self.table.setSelectionBehavior(QAbstractItemView.SelectRows)
+        self.table.setSelectionMode(QAbstractItemView.ExtendedSelection)
         self.table.installEventFilter(self)
         self.table.setEditTriggers(
             QAbstractItemView.DoubleClicked |
             QAbstractItemView.EditKeyPressed
         )
-        self.table.setSelectionBehavior(QAbstractItemView.SelectItems)
+        self.table.setDropIndicatorShown(True)
         self.model.dataChanged.connect(self.on_cell_changed)
         header = self.table.horizontalHeader()
         for col in (0, 1, 2):
@@ -341,7 +472,7 @@ class TranscriptEditor(QWidget):
         self.del_btn = QPushButton("Delete Line")
         self.del_btn.clicked.connect(self.delete_line)
         self.sort_btn = QPushButton("Sort by Start")
-        self.sort_btn.clicked.connect(lambda: self.table.sortItems(0, Qt.AscendingOrder))
+        self.sort_btn.clicked.connect(self.sort_transcript_by_start)
         control_layout.addWidget(self.auto_seek_btn)
         control_layout.addWidget(self.sort_btn)
         control_layout.addWidget(self.add_btn)
@@ -514,30 +645,7 @@ class TranscriptEditor(QWidget):
             self.enable_all_buttons()
 
     def sort_transcript_by_start(self):
-        rows = []
-        for row in range(self.table.rowCount()):
-            start_item = self.table.item(row, 0)
-            end_item = self.table.item(row, 1)
-            speaker_item = self.table.item(row, 2)
-            text_item = self.table.item(row, 3)
-            if not (start_item and end_item and speaker_item and text_item):
-                continue
-            try:
-                start = formatted_to_seconds(start_item.text())
-            except ValueError:
-                start = 0.0
-            try:
-                end = formatted_to_seconds(end_item.text())
-            except ValueError:
-                end = 0.0
-            rows.append({
-                "start": start,
-                "end": end,
-                "speaker": speaker_item.text(),
-                "text": text_item.text()
-            })
-        rows.sort(key=lambda r: r["start"])
-        self.transcript = rows
+        self.transcript.sort(key=lambda r: r.get("start", 0.0))
         self.model.updateTranscript(self.transcript)
 
     def on_cell_clicked(self, row, col):
@@ -568,8 +676,6 @@ class TranscriptEditor(QWidget):
 
                 # jump to that time
                 self.player.setPosition(int(start_secs * 1000))
-                if col < 2:
-                    self.player.play()
 
                 # update loop bounds
                 self.loop_start = start_secs
@@ -712,17 +818,23 @@ class TranscriptEditor(QWidget):
 
     def toggle_loop(self):
         self.loop_enabled = not self.loop_enabled
-        txt = "Enabled" if self.loop_enabled else "Disabled"
-        self.toggle_loop_button.setText("Looping: " + txt)
+        state = "Enabled" if self.loop_enabled else "Disabled"
+        self.toggle_loop_button.setText(f"Looping: {state}")
 
-        # If looping is now enabled and loop boundaries exist, check the current position.
+        # if looping just got turned off *and* we're already playing, start the highlight timer
+        if not self.loop_enabled and self.player.state() == QMediaPlayer.PlayingState:
+            self.highlight_timer.start()
+        # if looping just got turned on, we don't want highlighting
+        elif self.loop_enabled:
+            self.highlight_timer.stop()
+
+        # existing behavior: if loop now enabled, force seek to loop start
         if self.loop_enabled and self.loop_start is not None and self.loop_end is not None:
-            current_position = self.player.position()  # current position in milliseconds
-            loop_start_ms = int(self.loop_start * 1000)
-            loop_end_ms = int(self.loop_end * 1000)
-            # If the current position is before the loop start or after the loop end, seek to loop start.
-            if current_position < loop_start_ms or current_position > loop_end_ms:
-                self.player.setPosition(loop_start_ms)
+            pos = self.player.position()
+            start_ms = int(self.loop_start * 1000)
+            end_ms   = int(self.loop_end * 1000)
+            if pos < start_ms or pos > end_ms:
+                self.player.setPosition(start_ms)
 
     def toggle_auto_seek(self):
         self.auto_seek_enabled = not self.auto_seek_enabled
@@ -772,9 +884,12 @@ class TranscriptEditor(QWidget):
         if self.player.state() == QMediaPlayer.PlayingState:
             self.player.pause()
             self.play_button.setIcon(self.play_icon)
+            self.highlight_timer.stop()
         else:
             self.player.play()
             self.play_button.setIcon(self.pause_icon)
+            if not self.loop_enabled:
+                self.highlight_timer.start()
 
     def toggle_overlay(self, state):
         self.overlay_visible = (state == Qt.Checked)
@@ -861,3 +976,32 @@ class TranscriptEditor(QWidget):
 
         QMessageBox.information(self, "Saved",
                                 f"Transcript saved to {save_file}")
+    
+    def update_highlighting(self):
+        """Called by timer—find which rows cover the current time and highlight them."""
+        # don’t highlight if looping is on or if paused
+        if self.loop_enabled or self.player.state() != QMediaPlayer.PlayingState:
+            return
+
+        current_secs = self.player.position() / 1000.0
+        active_rows = []
+        for i, entry in enumerate(self.transcript):
+            if entry["start"] <= current_secs <= entry["end"]:
+                active_rows.append(i)
+
+        self.highlight_rows(active_rows)
+
+    def highlight_rows(self, rows: list[int]):
+        sel = self.table.selectionModel()
+        sel.clearSelection()
+        first_idx = None
+        for r in rows:
+            idx = self.model.index(r, 0)
+            if first_idx is None:
+                first_idx = idx
+                flags = QItemSelectionModel.Rows | QItemSelectionModel.ClearAndSelect
+            else:
+                flags = QItemSelectionModel.Rows | QItemSelectionModel.Select
+            sel.select(idx, flags)
+        if first_idx:
+            self.table.scrollTo(first_idx, QAbstractItemView.PositionAtCenter)
