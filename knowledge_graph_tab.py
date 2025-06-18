@@ -20,6 +20,7 @@ import utils
 import yaml
 from api_config_dialog import ApiConfigDialog
 from clustering_options_dialog import ClusteringOptionsDialog
+from utils import resource_path
 
 # Import your autoKG class
 # Make sure that autoKG.py is in a location where Python can find it (same folder or properly installed).
@@ -245,7 +246,7 @@ class KnowledgeGraphTab(QWidget):
         # Generate button with a symbol
         self.generate_btn = QPushButton()
         generate_from_transcript_path = os.path.join("imgs", "generate_from_transcript.png")
-        self.generate_btn.setIcon(QIcon(generate_from_transcript_path))
+        self.generate_btn.setIcon(QIcon(resource_path(generate_from_transcript_path)))
         self.generate_btn.setIconSize(QSize(28, 28))  # or set a custom size
         self.generate_btn.setFixedSize(36, 36)
         self.generate_btn.setToolTip("Generate Graph from Transcript")
@@ -359,7 +360,7 @@ class KnowledgeGraphTab(QWidget):
         # Import button: uses an open folder icon
         self.import_csv_btn = QPushButton()
         open_icon_path = os.path.join("imgs", "folder.png")
-        self.import_csv_btn.setIcon(QIcon(open_icon_path))
+        self.import_csv_btn.setIcon(QIcon(resource_path(open_icon_path)))
         self.import_csv_btn.setIconSize(QSize(28, 28))
         self.import_csv_btn.setFixedSize(36, 36)
         self.import_csv_btn.setToolTip("Import Graph from CSV Files")
@@ -369,7 +370,7 @@ class KnowledgeGraphTab(QWidget):
         # Export button: uses a save icon
         self.export_btn = QPushButton()
         save_icon_path = os.path.join("imgs", "diskette.png")
-        self.export_btn.setIcon(QIcon(save_icon_path))
+        self.export_btn.setIcon(QIcon(resource_path(save_icon_path)))
         self.export_btn.setIconSize(QSize(28, 28))
         self.export_btn.setFixedSize(36, 36)
         self.export_btn.setToolTip("Export CSVs for Neo4j")
@@ -397,7 +398,7 @@ class KnowledgeGraphTab(QWidget):
         # Undo Button with an undo arrow icon (using Unicode character)
         self.undo_btn = QPushButton()
         undo_icon_path = os.path.join("imgs", "undo-circular-arrow.png")
-        self.undo_btn.setIcon(QIcon(undo_icon_path))
+        self.undo_btn.setIcon(QIcon(resource_path(undo_icon_path)))
         self.undo_btn.setIconSize(QSize(28, 28))  # set your preferred icon size
         self.undo_btn.setFixedSize(36, 36)
         self.undo_btn.setToolTip("Undo last action")
@@ -407,7 +408,7 @@ class KnowledgeGraphTab(QWidget):
         # Delete Node
         self.delete_node_mode_btn = QPushButton()
         delete_node_icon_path = os.path.join("imgs", "delete-node.png")
-        self.delete_node_mode_btn.setIcon(QIcon(delete_node_icon_path))
+        self.delete_node_mode_btn.setIcon(QIcon(resource_path(delete_node_icon_path)))
         self.delete_node_mode_btn.setIconSize(QSize(28, 28))
         self.delete_node_mode_btn.setFixedSize(36, 36)
         self.delete_node_mode_btn.setCheckable(True)
@@ -420,7 +421,7 @@ class KnowledgeGraphTab(QWidget):
         # Delete Relationship
         self.delete_relationship_mode_btn = QPushButton()
         delete_relationship_icon_path = os.path.join("imgs", "delete-relationship.png")
-        self.delete_relationship_mode_btn.setIcon(QIcon(delete_relationship_icon_path))
+        self.delete_relationship_mode_btn.setIcon(QIcon(resource_path(delete_relationship_icon_path)))
         self.delete_relationship_mode_btn.setIconSize(QSize(28, 28))
         self.delete_relationship_mode_btn.setFixedSize(36, 36)
         self.delete_relationship_mode_btn.setCheckable(True)
@@ -432,7 +433,7 @@ class KnowledgeGraphTab(QWidget):
 
         self.reverse_relationship_mode_btn = QPushButton()
         reverse_relationship_icon_path = os.path.join("imgs", "realtionship_reverse.png")
-        self.reverse_relationship_mode_btn.setIcon(QIcon(reverse_relationship_icon_path))
+        self.reverse_relationship_mode_btn.setIcon(QIcon(resource_path(reverse_relationship_icon_path)))
         self.reverse_relationship_mode_btn.setIconSize(QSize(28, 28))
         self.reverse_relationship_mode_btn.setFixedSize(36, 36)
         self.reverse_relationship_mode_btn.setCheckable(True)
@@ -470,7 +471,7 @@ class KnowledgeGraphTab(QWidget):
         search_layout.addWidget(self.search_field)
         self.search_btn = QPushButton()
         search_icon_path = os.path.join("imgs", "magnifying-glass.png")
-        self.search_btn.setIcon(QIcon(search_icon_path))
+        self.search_btn.setIcon(QIcon(resource_path(search_icon_path)))
         self.search_btn.setIconSize(QSize(28, 28))
         self.search_btn.setFixedSize(36, 36)
         self.search_btn.setToolTip("Search Node")
@@ -568,7 +569,7 @@ class KnowledgeGraphTab(QWidget):
         self.adv_toggle_btn = QToolButton()
         toggle_icon_path = os.path.join("imgs",
                                         "more.png")  # ensure you have an appropriate icon.
-        self.adv_toggle_btn.setIcon(QIcon(toggle_icon_path))
+        self.adv_toggle_btn.setIcon(QIcon(resource_path(toggle_icon_path)))
         self.adv_toggle_btn.setIconSize(QSize(24, 24))
         self.adv_toggle_btn.setToolTip("Toggle Advanced Controls")
         self.adv_toggle_btn.clicked.connect(self.toggle_advanced_controls)

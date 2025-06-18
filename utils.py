@@ -1,4 +1,4 @@
-import os, re
+import os, re, sys
 from PyQt5.QtCore import QBuffer, QByteArray, Qt
 from PyQt5.QtGui import QMovie, QValidator
 from PyQt5.QtWidgets import QLabel, QDoubleSpinBox, QTableWidgetItem
@@ -14,11 +14,18 @@ from docx import Document
 from PyPDF2 import PdfReader
 import pandas as pd
 
-with open("config.yaml", 'r') as stream:
-    try:
-        params = yaml.safe_load(stream)
-    except yaml.YAMLError as exc:
-        print(exc)
+def resource_path(rel):
+    """Return absolute path to a bundled resource."""
+    base = getattr(sys, "_MEIPASS", os.path.abspath("."))
+    return os.path.join(base, rel)
+
+if not os.path.exists("config.yaml"):
+    with open("config.yaml", "w") as f:
+        yaml.safe_dump({}, f)
+
+# now load it for real
+with open("config.yaml", "r") as f:
+    CONFIG = yaml.safe_load(f) or {}
 
 """Sentence-Transformers (local) embedding models"""
 local_embedding_models = [

@@ -22,6 +22,7 @@ COL_CUSHION = 16
 
 from PyQt5.QtCore import Qt, QModelIndex
 from PyQt5.QtWidgets import QTableView, QAbstractItemView
+from utils import resource_path
 
 class DragTableView(QTableView):
     """
@@ -255,7 +256,7 @@ class TranscriptEditor(QWidget):
         ribbon_layout = QHBoxLayout()
         self.media_btn = QPushButton()
         upload_media_path = os.path.join("imgs", "upload_media.png")
-        self.media_btn.setIcon(QIcon(upload_media_path))
+        self.media_btn.setIcon(QIcon(resource_path(upload_media_path)))
         self.media_btn.setIconSize(QSize(48, 32))
         self.media_btn.setFixedSize(54, 36)
         self.media_btn.setToolTip("Load .wmv or .wav file")
@@ -264,7 +265,7 @@ class TranscriptEditor(QWidget):
 
         self.transcript_btn = QPushButton()
         upload_json_path = os.path.join("imgs", "upload_json.png")
-        self.transcript_btn.setIcon(QIcon(upload_json_path))
+        self.transcript_btn.setIcon(QIcon(resource_path(upload_json_path)))
         self.transcript_btn.setIconSize(QSize(48, 32))
         self.transcript_btn.setFixedSize(54, 36)
         self.transcript_btn.setToolTip("Load .json transcript")
@@ -273,7 +274,7 @@ class TranscriptEditor(QWidget):
 
         self.save_btn = QPushButton()
         save_json_path = os.path.join("imgs", "diskette.png")
-        self.save_btn.setIcon(QIcon(save_json_path))
+        self.save_btn.setIcon(QIcon(resource_path(save_json_path)))
         self.save_btn.setIconSize(QSize(32, 32))
         self.save_btn.setFixedSize(36, 36)
         self.save_btn.setToolTip("Save .json transcript")
@@ -345,7 +346,7 @@ class TranscriptEditor(QWidget):
         # Jump Backward Button
         self.jump_backward_btn = QToolButton()
         self.jump_backward_btn.setIcon(
-            QIcon(os.path.join("imgs", "backward10.png")))
+            QIcon(resource_path(os.path.join("imgs", "backward10.png"))))
         self.jump_backward_btn.setIconSize(QSize(48, 32))
         self.jump_backward_btn.setFixedSize(54, 36)
         self.jump_backward_btn.setToolTip("Jump Backward 10 Seconds")
@@ -356,8 +357,8 @@ class TranscriptEditor(QWidget):
         # Play/Pause Button (with small fixed size and icon swapping)
         self.play_button = QToolButton()
         # Define your play and pause icons – make sure the image files exist.
-        self.play_icon = QIcon(os.path.join("imgs", "play.png"))
-        self.pause_icon = QIcon(os.path.join("imgs", "pause.png"))
+        self.play_icon = QIcon(resource_path(os.path.join("imgs", "play.png")))
+        self.pause_icon = QIcon(resource_path(os.path.join("imgs", "pause.png")))
         self.play_button.setIcon(self.play_icon)
         self.play_button.setIconSize(QSize(48, 32))
         self.play_button.setFixedSize(54, 36)
@@ -368,7 +369,7 @@ class TranscriptEditor(QWidget):
         # Jump Forward Button
         self.jump_forward_btn = QToolButton()
         self.jump_forward_btn.setIcon(
-            QIcon(os.path.join("imgs", "forward10.png")))
+            QIcon(resource_path(os.path.join("imgs", "forward10.png"))))
         self.jump_forward_btn.setIconSize(QSize(48, 32))
         self.jump_forward_btn.setFixedSize(54, 36)
         self.jump_forward_btn.setToolTip("Jump Forward 10 Seconds")
