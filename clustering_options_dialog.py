@@ -1,14 +1,15 @@
 from PyQt5.QtWidgets import (
     QDialog, QVBoxLayout, QHBoxLayout, QLabel, QSpinBox,
-    QPushButton, QRadioButton, QButtonGroup, QFrame, QToolButton
+    QPushButton, QRadioButton, QButtonGroup, QFrame, QToolButton,
+    QCheckBox
 )
 from PyQt5.QtCore import Qt
-
 
 class ClusteringOptionsDialog(QDialog):
     """
     Advanced clustering options, including a dynamic-threshold
-    percentage for filtering relation scores.
+    percentage for filtering relation scores, plus a
+    multi-speaker toggle.
     """
     def __init__(self, parent=None):
         super().__init__(parent)
@@ -17,7 +18,7 @@ class ClusteringOptionsDialog(QDialog):
 
         layout = QVBoxLayout(self)
 
-        # Cluster selection --------------------------------------------------
+        # ─── Number of Clusters ──────────────────────────
         cluster_group = QFrame()
         cluster_group.setFrameStyle(QFrame.StyledPanel | QFrame.Raised)
         cluster_layout = QVBoxLayout(cluster_group)
@@ -54,13 +55,13 @@ class ClusteringOptionsDialog(QDialog):
 
         layout.addWidget(cluster_group)
 
-        # Separator ----------------------------------------------------------
+        # ─── Separator ───────────────────────────────────
         sep = QFrame()
         sep.setFrameShape(QFrame.HLine)
         sep.setFrameShadow(QFrame.Sunken)
         layout.addWidget(sep)
 
-        # Topics per cluster ------------------------------------------------
+        # ─── Topics per Cluster ──────────────────────────
         topics_group = QFrame()
         topics_group.setFrameStyle(QFrame.StyledPanel | QFrame.Raised)
         topics_layout = QVBoxLayout(topics_group)
@@ -78,7 +79,7 @@ class ClusteringOptionsDialog(QDialog):
 
         layout.addWidget(topics_group)
 
-        # Dynamic threshold (%) ---------------------------------------------
+        # ─── Dynamic Threshold ───────────────────────────
         thresh_group = QFrame()
         thresh_group.setFrameStyle(QFrame.StyledPanel | QFrame.Raised)
         thresh_layout = QHBoxLayout(thresh_group)
@@ -92,7 +93,6 @@ class ClusteringOptionsDialog(QDialog):
         thresh_layout.addWidget(self.threshold_spinbox)
 
         thresh_layout.addStretch()
-
         help_btn = QToolButton()
         help_btn.setText("?")
         help_btn.setAutoRaise(True)
@@ -104,7 +104,14 @@ class ClusteringOptionsDialog(QDialog):
 
         layout.addWidget(thresh_group)
 
-        # Dialog buttons ----------------------------------------------------
+        # ─── Multi-Speaker Toggle ────────────────────────
+        self.speaker_chk = QCheckBox("Enable multi-speaker extraction")
+        self.speaker_chk.setToolTip(
+            "If checked, each triple will also record speaker and argument-role."
+        )
+        layout.addWidget(self.speaker_chk)
+
+        # ─── Dialog Buttons ──────────────────────────────
         btn_row = QHBoxLayout()
         ok_btn = QPushButton("OK")
         ok_btn.clicked.connect(self.accept)
@@ -119,17 +126,25 @@ class ClusteringOptionsDialog(QDialog):
 
     def get_values(self):
         """
-        Returns (n_clusters, num_topics, dyn_thresh_pct).
-        n_clusters=None when Auto.
+        Returns:
+          n_clusters (int|None), num_topics (int),
+          dyn_thresh_pct (int), multi_speaker (bool)
         """
         n = None if self.auto_clusters_radio.isChecked() else self.clusters_spinbox.value()
-        return n, self.topics_spinbox.value(), self.threshold_spinbox.value()
+        return (
+            n,
+            self.topics_spinbox.value(),
+            self.threshold_spinbox.value(),
+            self.speaker_chk.isChecked()
+        )
 
-    def set_values(self, n_clusters, num_topics, dyn_thresh_pct):
+    def set_values(self, n_clusters, num_topics, dyn_thresh_pct, multi=False):
         if n_clusters is None:
             self.auto_clusters_radio.setChecked(True)
         else:
             self.manual_clusters_radio.setChecked(True)
             self.clusters_spinbox.setValue(n_clusters)
+
         self.topics_spinbox.setValue(num_topics)
         self.threshold_spinbox.setValue(dyn_thresh_pct)
+        self.speaker_chk.setChecked(multi)

@@ -5,6 +5,7 @@ import bisect
 import json
 import re
 import csv
+import itertools
 from PyQt5.QtCore import QUrl, QObject, pyqtSlot, Qt, QPropertyAnimation, QSize, QThread, pyqtSignal
 from PyQt5.QtWidgets import (
     QWidget, QVBoxLayout, QHBoxLayout, QPushButton, QMessageBox, QMenu,
@@ -21,6 +22,8 @@ import yaml
 from api_config_dialog import ApiConfigDialog
 from clustering_options_dialog import ClusteringOptionsDialog
 from utils import resource_path
+from multi_autokg import MultiSpeakerAutoKG
+
 
 # Import your autoKG class
 # Make sure that autoKG.py is in a location where Python can find it (same folder or properly installed).
@@ -29,6 +32,14 @@ from autokg import autoKG
 MIN_LABEL_WIDTH = 40  # pixels
 MAX_LABEL_WIDTH = 180  # pixels
 MAX_WORDS = 100
+COLOR_PALETTE = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd",
+                 "#8c564b", "#e377c2", "#7f7f7f", "#bcbd22", "#17becf"]
+ROLE_STYLE = {
+    "claim" : ("circle", True),
+    "support" : ("vee", [5, 5]),
+    "attack" : ("bar", [2,2]),
+    "none" : ("arrow", False),
+}
 
 class GraphGenerationThread(QThread):
     finished     = pyqtSignal(list, list)
@@ -46,6 +57,8 @@ class GraphGenerationThread(QThread):
         n_clusters: int = None, 
         num_topics: int = 10,
         dynamic_threshold=50,
+        multi_speaker=False,
+        transcript_blocks=None,
         parent: QObject = None,
     ):
         super().__init__(parent)
@@ -59,6 +72,8 @@ class GraphGenerationThread(QThread):
         self.n_clusters = None if n_clusters == 0 else n_clusters  # Convert 0 to None for auto
         self.num_topics = num_topics
         self.dynamic_threshold = dynamic_threshold
+        self.multi_speaker = multi_speaker
+        self.transcript_blocks = transcript_blocks or []
 
     def run(self):
         try:
@@ -66,20 +81,35 @@ class GraphGenerationThread(QThread):
                 self.errorOccurred.emit("Transcript is empty.")
                 return
 
-            auto_kg = autoKG(
-                texts=self.texts,
-                source=self.sources,
-                embedding_model=self.embedding_model,
-                llm_model=self.llm_model,
-                embedding_api_key=self.emb_key1,
-                llm_api_key=self.llm_key1,
-                main_topic=self.main_topic,
-                embed=True,
-                embedding_key2=self.emb_key2,
-                embedding_key3=self.emb_key3,
-                llm_key2=self.llm_key2,
-                llm_key3=self.llm_key3,
-            )
+            if self.multi_speaker:
+                auto_kg = MultiSpeakerAutoKG(
+                    full_transcript=self.transcript_blocks,    # <-- single arg
+                    embedding_model=self.embedding_model,
+                    llm_model       =self.llm_model,
+                    embedding_api_key=self.emb_key1,
+                    llm_api_key      =self.llm_key1,
+                    main_topic       =self.main_topic,
+                    embed            =True,
+                    embedding_key2   =self.emb_key2,
+                    embedding_key3   =self.emb_key3,
+                    llm_key2         =self.llm_key2,
+                    llm_key3         =self.llm_key3,
+                )
+            else:
+                auto_kg = autoKG(
+                    texts           =self.texts,
+                    source          =self.sources,
+                    embedding_model =self.embedding_model,
+                    llm_model       =self.llm_model,
+                    embedding_api_key=self.emb_key1,
+                    llm_api_key      =self.llm_key1,
+                    main_topic       =self.main_topic,
+                    embed            =True,
+                    embedding_key2   =self.emb_key2,
+                    embedding_key3   =self.emb_key3,
+                    llm_key2         =self.llm_key2,
+                    llm_key3         =self.llm_key3,
+                )
 
             auto_kg.make_graph(k=5, method='annoy', similarity='angular', kernel='gaussian')
             auto_kg.remove_same_text(use_nn=True, n_neighbors=3, thresh=1e-6, update=True)
@@ -107,15 +137,43 @@ class GraphGenerationThread(QThread):
 
             threshold = auto_kg.apply_dynamic_threshold(self.dynamic_threshold)
 
-            edges = auto_kg.build_entity_relationships(transcript_str=' '.join(self.texts))
+            edges = auto_kg.build_entity_relationships()
+            print(f"[DEBUG] raw edges (tuples): {len(edges)}") 
+            for e in edges:
+                print("  → edge tuple:", e)
 
             nodes = auto_kg.keywords.copy()
             triples = []
-            for kw1, relation, kw2, direction in edges:
+            for tup in edges:
+                # unpack your tuple; if you have extra fields (e.g. speaker, role),
+                # you can collect them in *_rest
+                sub, rel, obj, direction, *rest = tup
+                speaker = rest[0] if len(rest) >= 1 else ""
+                role = rest[1] if len(rest) >= 2 else "none"
+
+                # decide which way round
                 if direction == "forward":
-                    triples.append({"subject": kw1, "relation": relation, "object": kw2})
+                    actual_subj, actual_obj = sub, obj
                 else:
-                    triples.append({"subject": kw2, "relation": relation, "object": kw1})
+                    actual_subj, actual_obj = obj, sub
+
+                # debug‐print with the right names
+                print(f"[DEBUG] converting tuple {tup!r} → "
+                    f"subject={actual_subj!r}, rel={rel!r}, object={actual_obj!r}")
+
+                # only one append
+                triples.append({
+                    "subject": actual_subj,
+                    "relation": rel,
+                    "object": actual_obj,
+                    "speaker": speaker,
+                    "role": role,
+                    "direction": direction
+                })
+
+            print(f"[DEBUG] final triples list ({len(triples)}):")
+            for t in triples:
+                print("   ", t)
 
             self.finished.emit(nodes, triples)
         except Exception as e:
@@ -272,6 +330,7 @@ class KnowledgeGraphTab(QWidget):
         self.n_clusters = None  # Auto
         self.num_topics = 10    # Default value
         self.dynamic_threshold = 50
+        self.multi_speaker = False
 
         # Select LLM model drop-down button
         self.llm_btn = QToolButton()
@@ -1236,12 +1295,21 @@ class KnowledgeGraphTab(QWidget):
                     subj = row.get("source")
                     rel = row.get("relation")
                     obj = row.get("target")
+                    sp = row.get("speaker", "")
+                    r1 = row.get("role", "none")
+
                     if subj and subj not in self.nodes:
                         self.nodes.append(subj)
                     if obj and obj not in self.nodes:
                         self.nodes.append(obj)
                     if subj and rel and obj:
-                        self.triples.append({"subject": subj, "relation": rel, "object": obj})
+                        self.triples.append({
+                            "subject": subj, 
+                            "relation": rel, 
+                            "object": obj,
+                            "speaker": sp,
+                            "role" : r1
+                            })
         except Exception as e:
             QMessageBox.warning(self, "Error", f"Failed to parse edges.csv: {e}")
             return
@@ -1510,6 +1578,7 @@ class KnowledgeGraphTab(QWidget):
         processed = self._process_entries(raw)
         texts = [e["text"] for e in processed]
         sources = [e["speaker"] for e in processed]
+        transcript_blocks = processed
         main_topic_text = self.main_topic_field.text().strip()
 
         # Get clustering parameters from stored values instead of spinboxes
@@ -1528,6 +1597,7 @@ class KnowledgeGraphTab(QWidget):
         self.graph_worker = GraphGenerationThread(
             texts=texts,
             sources=sources,
+            transcript_blocks=transcript_blocks,
             llm_model=self.current_llm_model,
             embedding_model=self.current_embedding_model,
             llm_key1=llm_key1, llm_key2=llm_key2, llm_key3=llm_key3,
@@ -1536,6 +1606,7 @@ class KnowledgeGraphTab(QWidget):
             n_clusters=n_clusters,
             num_topics=num_topics,
             dynamic_threshold=self.dynamic_threshold,
+            multi_speaker = self.multi_speaker,
             parent=self,
         )
         self.graph_worker.finished.connect(
@@ -1559,33 +1630,66 @@ class KnowledgeGraphTab(QWidget):
             node_str = str(node)
             self.pyvis_net.add_node(node_str, label=node_str)
         added_edge_ids = set()
+        speaker_ids = sorted(set(triple.get("speaker", "") for triple in self.triples))
+        speaker_color_map = dict(zip(speaker_ids, itertools.cycle(COLOR_PALETTE)))
+        self.speaker_color_map = speaker_color_map
         for triple in self.triples:
             subj = triple.get("subject")
             rel = triple.get("relation")
             obj = triple.get("object")
-            if subj and obj and rel:
+            # print(f"[BUILD] considering triple: subject={subj!r}, rel={rel!r}, obj={obj!r}")
+            speaker = triple.get("speaker", "")
+            # print(speaker)
+            role = triple.get("role", "none")
+            arrow, dash = ROLE_STYLE.get(role, ROLE_STYLE["none"])
+            edge_color = speaker_color_map.get(speaker, "#666666")
+            if not subj or not rel or not obj or rel =="none" or speaker == "none":
+                # print("  → skipping incomplete triple")
+                continue
+
+            else:
                 if isinstance(obj, list):
                     for item in obj:
                         edge_id = f"{subj}|{rel}|{item}"
+                        # print(f"  → list-branch: id={edge_id}")
                         if edge_id not in added_edge_ids:
-                            self.pyvis_net.add_edge(subj, item, label=rel, id=edge_id)
+                            # self.pyvis_net.add_edge(subj, item, label=rel, color=edge_color, id=edge_id)
+                            self.pyvis_net.add_edge(
+                                subj, item,
+                                label   = rel,
+                                color   = edge_color,
+                                title   = speaker,     # ← so we can filter by it in JS
+                                arrows  = {"to": {"enabled": True, "type": arrow}},
+                                dashes  = dash,
+                                id      = edge_id
+                            )
+
+                            # self.pyvis_net.add_edge(subj, item, label=rel, id=edge_id)
                             added_edge_ids.add(edge_id)
+                        # else:
+                            # print("     (already added)")
                 else:
                     edge_id = f"{subj}|{rel}|{obj}"
+                    # print(f"  → single-obj branch: id={edge_id}")
                     if edge_id not in added_edge_ids:
-                        self.pyvis_net.add_edge(subj, obj, label=rel, id=edge_id)
+                        # self.pyvis_net.add_edge(subj, obj, label=rel, color=edge_color, id=edge_id)
+                        self.pyvis_net.add_edge(
+                            subj, obj,
+                            label   = rel,
+                            color   = edge_color,
+                            title   = speaker,     # ← so we can filter by it in JS
+                            arrows  = {"to": {"enabled": True, "type": arrow}},
+                            dashes  = dash,
+                            id      = edge_id
+                        )
+
+                        # self.pyvis_net.add_edge(subj, obj, label=rel, id=edge_id)
                         added_edge_ids.add(edge_id)
+                    # else:
+                        # print("     (already added)")
 
         self.pyvis_net.set_options("""
         {
-          "nodes": {
-            "color": {
-              "background": "#97C2FC",
-              "border": "#2B7CE9",
-              "highlight": { "background": "#28d75c", "border": "#28d75c" },
-              "hover": { "background": "#28d75c", "border": "#28d75c" }
-            }
-          },
           "physics": {
             "barnesHut": {
               "gravitationalConstant": -2000,
@@ -1612,11 +1716,130 @@ class KnowledgeGraphTab(QWidget):
         try:
             with open(html_file, "r", encoding="utf-8") as f:
                 html = f.read()
+
+            speaker_color_map = getattr(self, "speaker_color_map", {})
+
+            # create a tiny script that actually interpolates our Python dict
+            speaker_map_json = json.dumps(getattr(self, "speaker_color_map", {}))
+
+            legend_js = f"""
+                <script type="text/javascript">
+                (function() {{
+                    var speakerColorMap = {speaker_map_json};
+                    window.addEventListener("load", function() {{
+                        var legend = document.createElement('div');
+                        legend.id = 'legend';
+                        legend.style = [
+                        'position:absolute',
+                        'top:10px',
+                        'right:10px',
+                        'background:white',
+                        'padding:8px',
+                        'border:1px solid #ccc',
+                        'z-index:999'
+                        ].join(';');
+
+                        legend.innerHTML = '<strong>Toggle speakers</strong><br/>';
+
+                        Object.keys(speakerColorMap).forEach(function(speaker) {{
+                        var color = speakerColorMap[speaker];
+                        var line = document.createElement('div');
+                        line.style = 'margin:2px 0;';
+
+                        var chk = document.createElement('input');
+                        chk.type    = 'checkbox';
+                        chk.id      = 'chk_' + speaker;
+                        chk.value   = speaker;
+                        chk.checked = true;
+
+                        chk.onchange = function() {{
+                            var show = this.checked;
+                            network.body.data.edges.get().forEach(function(edge) {{
+                            if (edge.title === speaker) {{
+                                network.body.data.edges.update({{ id: edge.id, hidden: !show }});
+                            }}
+                            }});
+                        }};
+
+                        var lbl = document.createElement('label');
+                        lbl.htmlFor = chk.id;
+                        lbl.innerText = speaker;
+                        lbl.style = 'margin-left:4px; color:' + color + ';';
+
+                        line.appendChild(chk);
+                        line.appendChild(lbl);
+                        legend.appendChild(line);
+                        }});
+
+                        document.body.appendChild(legend);
+                    }});
+                }})();
+                </script>
+                </body>
+                """
+
+            roleLegend_js = """
+                <script>
+                function drawHead(ctx, x, y, type) {
+                    switch (type) {
+                        case "circle":
+                            ctx.beginPath();
+                            ctx.arc(x, y, 3, 0, 2*Math.PI);
+                            ctx.fill(); break;
+
+                        case "bar":
+                            ctx.beginPath();
+                            ctx.moveTo(x-3, y-4); ctx.lineTo(x-3, y+4);
+                            ctx.stroke(); break;
+
+                        case "vee":        // same look as vis-js “vee”
+                            ctx.beginPath();
+                            ctx.moveTo(x-5, y-4); ctx.lineTo(x, y); ctx.lineTo(x-5, y+4);
+                            ctx.stroke(); break;
+
+                        /* fall-back — default arrow head */
+                        default:
+                            ctx.beginPath();
+                            ctx.moveTo(x-5, y-4); ctx.lineTo(x, y); ctx.lineTo(x-5, y+4);
+                            ctx.lineTo(x-3, y);    // fill the triangle
+                            ctx.fill(); break;
+                    }
+                }
+                window.addEventListener("load",function(){
+                var box=document.createElement('div');
+                box.style='position:absolute;top:10px;left:10px;' +
+                            'background:white;padding:8px;border:1px solid #ccc;z-index:999';
+                box.innerHTML='<strong>Role legend</strong><br>';
+                var roles=%s;
+                for(var r in roles){
+                    var info=roles[r];         // [arrowType, dash]
+                    var canvas=document.createElement('canvas');
+                    canvas.width=60;canvas.height=12;
+                    var ctx=canvas.getContext('2d');
+                    ctx.setLineDash( Array.isArray(info[1]) ? info[1] :
+                        info[1]===true ? [1,4] : [] );
+
+                    ctx.beginPath();
+                    ctx.moveTo(0,6); ctx.lineTo(40,6); ctx.stroke();
+                    drawHead(ctx, 46, 6, info[0]);
+                    var line=document.createElement('div');
+                    line.style='display:flex;align-items:center;margin:2px 0;';
+                    line.appendChild(canvas);
+                    var lbl=document.createElement('span');
+                    lbl.textContent=' '+r;
+                    line.appendChild(lbl);
+                    box.appendChild(line);
+                }
+                document.body.appendChild(box);
+                });
+                </script>
+                """ % json.dumps(ROLE_STYLE)
+            
             js_code = """
                     <script type="text/javascript" src="qrc:///qtwebchannel/qwebchannel.js"></script>
                     <script type="text/javascript">
                       // This function resets all nodes and edges to their default colors.
-                      function clearHighlights() {
+                      /*function clearHighlights() {
                         var defaultNodeColor = {
                           background: '#97C2FC',
                           border: '#2B7CE9',
@@ -1643,7 +1866,7 @@ class KnowledgeGraphTab(QWidget):
                             color: defaultEdgeColor
                           });
                         }
-                      }
+                      }*/
                     
                       // Set up the web channel.
                       window.addEventListener("load", function() {
@@ -1659,17 +1882,17 @@ class KnowledgeGraphTab(QWidget):
                         function attachListeners() {
                           if (typeof network !== "undefined") {
                             network.on("click", function(params) {
-                              clearHighlights();
+                              //clearHighlights();
                               if (params.nodes.length > 0) {
                                 var nodeId = params.nodes[0];
                                 network.body.data.nodes.update({
                                   id: nodeId,
-                                  color: {
+                                  /*color: {
                                     background: "#28d75c",
                                     border: "#28d75c",
                                     highlight: { background: "#28d75c", border: "#1c9c42" },
                                     hover: { background: "#28d75c", border: "#28d75c" }
-                                  }
+                                  }*/
                                 });
                                 var allEdges = network.body.data.edges.get();
                                 for (var i = 0; i < allEdges.length; i++) {
@@ -1677,12 +1900,12 @@ class KnowledgeGraphTab(QWidget):
                                   if (edge.from === nodeId || edge.to === nodeId) {
                                     network.body.data.edges.update({
                                       id: edge.id,
-                                      color: {
+                                      /*color: {
                                         color: "#1c9c42",
                                         highlight: "#1c9c42",
                                         hover: "#1c9c42",
                                         inherit: false
-                                      }
+                                      }*/
                                     });
                                   }
                                 }
@@ -1693,12 +1916,12 @@ class KnowledgeGraphTab(QWidget):
                                 var edgeId = params.edges[0];
                                 network.body.data.edges.update({
                                   id: edgeId,
-                                  color: {
+                                  /*color: {
                                     color: "#28d75c",
                                     highlight: "#28d75c",
                                     hover: "#28d75c",
                                     inherit: false
-                                  }
+                                  }*/
                                 });
                                 if (window.pyBridge) {
                                   window.pyBridge.edgeClicked(edgeId);
@@ -1710,16 +1933,16 @@ class KnowledgeGraphTab(QWidget):
                             network.on("dragEnd", function(params) {
                               if (params.nodes.length > 0) {
                                 // If a node was dragged, clear previous highlights and update the node immediately.
-                                clearHighlights();
+                                //clearHighlights();
                                 var nodeId = params.nodes[0];
                                 network.body.data.nodes.update({
                                   id: nodeId,
-                                  color: {
+                                  /*color: {
                                     background: "#28d75c",
                                     border: "#28d75c",
                                     highlight: { background: "#28d75c", border: "#1c9c42" },
                                     hover: { background: "#28d75c", border: "#28d75c" }
-                                  }
+                                  }*/
                                 });
                                 var allEdges = network.body.data.edges.get();
                                 for (var i = 0; i < allEdges.length; i++) {
@@ -1727,12 +1950,12 @@ class KnowledgeGraphTab(QWidget):
                                   if (edge.from === nodeId || edge.to === nodeId) {
                                     network.body.data.edges.update({
                                       id: edge.id,
-                                      color: {
+                                      /*color: {
                                         color: "#1c9c42",
                                         highlight: "#1c9c42",
                                         hover: "#1c9c42",
                                         inherit: false
-                                      }
+                                      }*/
                                     });
                                   }
                                 }
@@ -1741,16 +1964,16 @@ class KnowledgeGraphTab(QWidget):
                     
                             // Listen for deselection events.
                             network.on("deselectNode", function(params) {
-                              clearHighlights();
+                              //clearHighlights();
                             });
                             network.on("deselectEdge", function(params) {
-                              clearHighlights();
+                              //clearHighlights();
                             });
                     
                             // Listen for Escape key press to clear highlights.
                             document.addEventListener("keydown", function(event) {
                               if (event.key === "Escape") {
-                                clearHighlights();
+                                //clearHighlights();
                               }
                             });
                           } else {
@@ -1762,9 +1985,14 @@ class KnowledgeGraphTab(QWidget):
                     </script>
                     </body>
                     """
-            new_html = html.replace("</body>", js_code)
+            if self.multi_speaker:
+                replacement_html = js_code + legend_js + roleLegend_js + "</body>"
+            else:
+                replacement_html = js_code + "</body>"
+            
+            custom_html = html.replace("</body>", replacement_html)
             with open(html_file, "w", encoding="utf-8") as f:
-                f.write(new_html)
+                f.write(custom_html)
             print("Injected custom JavaScript for node/edge highlighting.")
         except Exception as e:
             print("Error injecting JS:", e)
@@ -1804,18 +2032,44 @@ class KnowledgeGraphTab(QWidget):
                 writer.writerow(["id", "label"])
                 for node in sorted(nodes):
                     writer.writerow([node, node])
+            
+            include_speaker = any("speaker" in t for t in self.triples)
+            include_role = any("role" in t for t in self.triples)
+
             with open(edges_file, "w", newline='', encoding="utf-8") as ef:
                 writer = csv.writer(ef)
-                writer.writerow(["source", "relation", "target"])
-                for edge in edges:
-                    subj = edge["source"]
-                    rel = edge["relation"]
-                    obj = edge["target"]
-                    if isinstance(obj, list):
-                        for item in obj:
-                            writer.writerow([subj, rel, item])
+                header = ["source", "relation", "target"]
+                if include_speaker:
+                    header.append("speaker")
+                if include_role:
+                    header.append("role")
+                
+                writer.writerow(header)
+                for triple in self.triples:
+                    s = triple.get("subject")
+                    r = triple.get("relation")
+                    o = triple.get("object")
+
+                    if not (s and r and o):
+                        continue
+                    row_base = [s, r, None]
+
+                    if isinstance(o, list):
+                        for item in o:
+                            row = row_base[:]
+                            row[2] = item
+                            if include_speaker:
+                                row.append(triple.get("speaker", ""))
+                            if include_role:
+                                row.append(triple.get("role", "none"))
+                            writer.writerow(row)
                     else:
-                        writer.writerow([subj, rel, obj])
+                        row_base[2] = o
+                        if include_speaker:
+                            row_base.append(triple.get("speaker", ""))
+                        if include_role:
+                            row_base.append(triple.get("role", "none"))
+                        writer.writerow(row_base)
             QMessageBox.information(self, "Exported",
                                     f"Graph exported as nodes.csv and edges.csv in {directory}")
         except Exception as e:
@@ -2051,8 +2305,12 @@ class KnowledgeGraphTab(QWidget):
 
     def open_clustering_options(self):
         dlg = ClusteringOptionsDialog(self)
-        dlg.set_values(self.n_clusters, self.num_topics, self.dynamic_threshold)
+        dlg.set_values(self.n_clusters, 
+                       self.num_topics, 
+                       self.dynamic_threshold,
+                       self.multi_speaker)
         if dlg.exec_() == QDialog.Accepted:
             (self.n_clusters,
              self.num_topics,
-             self.dynamic_threshold) = dlg.get_values()
+             self.dynamic_threshold, 
+             self.multi_speaker) = dlg.get_values()

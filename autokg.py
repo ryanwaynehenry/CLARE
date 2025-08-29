@@ -2,6 +2,8 @@ import re
 import sys
 import numpy as np
 import json
+import matplotlib
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 from annoy import AnnoyIndex
@@ -21,21 +23,24 @@ from litellm import embedding, token_counter, get_max_tokens
 EXTRACT_RELATIONSHIP_BATCH_SIZE = 35
 
 def extract_json(response_str):
-    """
-    Attempts to extract a JSON substring from the response.
-    Searches for text within triple backticks with an optional 'json' marker,
-    or between the first '[' and the last ']'.
-    """
-    import re
-    pattern = r"```json\s*(.*?)\s*```"
-    match = re.search(pattern, response_str, re.DOTALL)
-    if match:
-        return match.group(1)
-    else:
-        start = response_str.find('[')
-        end = response_str.rfind(']')
-        if start != -1 and end != -1 and end > start:
-            return response_str[start:end + 1]
+    # 1) triple-backtick JSON
+    m = re.search(r"```json\s*(.*?)\s*```", response_str, re.DOTALL)
+    if m:
+        return m.group(1)
+
+    # 2) top-level {...}
+    start_obj = response_str.find('{')
+    end_obj   = response_str.rfind('}')
+    if start_obj != -1 and end_obj != -1 and end_obj > start_obj:
+        return response_str[start_obj:end_obj+1]
+
+    # 3) fallback to [...]
+    start_arr = response_str.find('[')
+    end_arr   = response_str.rfind(']')
+    if start_arr != -1 and end_arr != -1 and end_arr > start_arr:
+        return response_str[start_arr:end_arr+1]
+
+    # 4) give up
     return response_str
 
 
@@ -57,6 +62,7 @@ class autoKG:
         self.llm_key3 = llm_key3
         # self.set_api_key_variables()
         self.source = source
+        self.transcript=' '.join(self.texts)
 
         llm_status, embedding_status = set_env_variables(self.llm_model,
                                                          self.embedding_model,
@@ -682,10 +688,13 @@ class autoKG:
                                               0)
         if return_mat:
             A = csr_matrix((pred_mat.T @ pred_mat).astype(int))
+            print(f"The original value of A is \n{A}\n")
             A = A - diags(A.diagonal())
+            print(f"The diagonal-less value of A is \n{A}\n")
             self.U_mat = U_mat
             self.pred_mat = pred_mat
             self.A = A
+            exit()
             return pred_mat, U_mat, A
         else:
             self.U_mat = U_mat
@@ -1137,6 +1146,7 @@ class autoKG:
         The expected JSON output from the API should contain a key "results" with a list of objects that have
         the keys "pair_index", "direction", and "relationship".
         """
+        print("You entered batch_extract_relationships for chunk")
         # The instructions remain as defined.
         instructions = (
             """You are an expert relation extractor.  Follow these rules exactly:
@@ -1186,6 +1196,8 @@ class autoKG:
                 + "\n"
                 + f"Context:\n\"\"\"\n{chunk_text}\n\"\"\"\n\nPairs to process:\n"
         )
+
+        print(base_prompt)
 
         # Helper function to produce pairs text.
         def generate_pairs_text(pairs_list):
@@ -1270,8 +1282,7 @@ class autoKG:
 
         return combined_results
 
-    def build_entity_relationships(self, transcript_str: str,
-                                   unify_opposites=True,
+    def build_entity_relationships(self,
                                    fallback_if_no_chunk=True):
         if self.A is None:
             raise ValueError(
@@ -1284,12 +1295,14 @@ class autoKG:
 
         # first pass: overlapping chunks where both entities appear
         chunks = self.chunk_transcript_sliding(
-            transcript_str, safety_margin=token_safety_margin)
+            self.transcript, safety_margin=token_safety_margin)
         pair_results = {}
         for chunk in chunks:
+            print("Identifying Chunk Pairs")
             lower = chunk.lower()
             chunk_pairs = [(e1, e2) for (e1, e2) in unique_pairs
                            if e1.lower() in lower and e2.lower() in lower]
+            print(f"Chunk pairs = {chunk_pairs}")
             if not chunk_pairs:
                 continue
             batch = self.batch_extract_relationships_for_chunk(chunk, chunk_pairs)
@@ -1299,7 +1312,12 @@ class autoKG:
                     continue
                 pair = chunk_pairs[idx]
                 pair_results.setdefault(pair, []).append(
-                    (res.get("direction", "none"), str(res.get("relationship", "")))
+                    {
+                        "direction"      : res.get("direction", "none"),
+                        "relationship"   : str(res.get("relationship", "")),
+                        "speaker"        : res.get("speaker", ""),          # NEW
+                        "role"           : res.get("role", "none") # NEW
+                    }
                 )
 
         # fallback: pairs not found in any chunk
@@ -1307,19 +1325,22 @@ class autoKG:
         if fallback_pairs and fallback_if_no_chunk:
             max_allowed = get_max_tokens(model=self.llm_model) - token_safety_margin
             # DEBUG: if entire transcript fits, use it directly
-            if self.encoding(model=self.llm_model, text=transcript_str) <= max_allowed:
+            if self.encoding(model=self.llm_model, text=self.transcript) <= max_allowed:
                 results = self.batch_extract_relationships_for_chunk(
-                    transcript_str, fallback_pairs)
+                    self.transcript, fallback_pairs)
                 for res in results:
                     idx = res.get("pair_index", 0) - 1
                     if 0 <= idx < len(fallback_pairs):
                         pair = fallback_pairs[idx]
-                        pair_results.setdefault(pair, []).append(
-                            (res.get("direction", "none"), str(res.get("relationship", "")))
-                        )
+                        pair_results.setdefault(pair, []).append({
+                            "direction"     : res.get("direction", "none"),
+                            "relationship"  : str(res.get("relationship", "")),
+                            "speaker"       : res.get("speaker",    ""),
+                            "role" : res.get("role","none"),
+                        })
             else:
                 # grouping using sentences mentioning either entity
-                sentences = re.split(r'(?<=[.!?])\s+', transcript_str)
+                sentences = re.split(r'(?<=[.!?])\s+', self.transcript)
                 pairIdxs = {}
                 for pair in fallback_pairs:
                     e1, e2 = pair
@@ -1391,22 +1412,49 @@ class autoKG:
                             idx = res.get("pair_index", 0) - 1
                             if 0 <= idx < len(g["pairs"]):
                                 pair = g["pairs"][idx]
-                                pair_results.setdefault(pair, []).append(
-                                    (res.get("direction", "none"), str(res.get("relationship", "")))
-                                )
+                                pair_results.setdefault(pair, []).append({
+                                    "direction"     : res.get("direction", "none"),
+                                    "relationship"  : str(res.get("relationship", "")),
+                                    "speaker"       : res.get("speaker",    ""),
+                                    "role" : res.get("role","none"),
+                                })
 
         # consolidate into final edges list
         edges = []
-        for pair in unique_pairs:
-            rels = pair_results.get(pair, [("none", "")])
-            seen, unified = set(), []
-            for direction, rel in rels:
-                key = (direction, rel.strip())
-                if rel.strip() and key not in seen:
-                    seen.add(key)
-                    unified.append(key)
-            for direction, rel in (unified or rels):
-                edges.append((pair[0], rel, pair[1], direction))
+
+        for subj, obj in unique_pairs:
+            # pull out the list of blocks (or a dummy if nothing was found)
+            blocks = pair_results.get((subj, obj), [{
+                "direction"     : "none",
+                "relationship"  : "",
+                "speaker"       : "",
+                "role" : "none",
+            }])
+
+            seen = set()
+            for blk in blocks:
+                direction     = blk["direction"]
+                relation      = blk["relationship"].strip()
+                speaker       = blk["speaker"]
+                role = blk["role"]
+
+                # if we have any non-empty relations, skip the empty ones
+                if not relation and any(b["relationship"].strip() for b in blocks):
+                    continue
+
+                key = (direction, relation)
+                if key in seen:
+                    continue
+                seen.add(key)
+
+                edges.append((
+                    subj,
+                    relation,
+                    obj,
+                    direction,
+                    speaker,
+                    role,
+                ))
 
         return edges
 
