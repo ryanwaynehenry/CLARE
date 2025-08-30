@@ -1,0 +1,1184 @@
+{
+  "entities": [
+    "accessibility",
+    "adolescents",
+    "complex concepts",
+    "cost barriers",
+    "creativity",
+    "critical thinking",
+    "disabilities",
+    "disorientation",
+    "diverse learners",
+    "educational resources",
+    "educational settings",
+    "educators",
+    "engaging experiences",
+    "experiential learning",
+    "eye strain",
+    "guidelines",
+    "hardware investment",
+    "health risks",
+    "immersive learning",
+    "inclusive education",
+    "infrastructure",
+    "innovative teaching",
+    "learning outcomes",
+    "learning styles",
+    "motion sickness",
+    "motivation",
+    "policymakers",
+    "professional development",
+    "prolonged use",
+    "real-world scenarios",
+    "responsible use",
+    "safeguards",
+    "simulations",
+    "student engagement",
+    "teacher training",
+    "technology integration",
+    "virtual field trips",
+    "virtual reality",
+    "well-being",
+    "young children"
+  ],
+  "relations": [
+    [
+      "accessibility",
+      "creates",
+      "cost barriers"
+    ],
+    [
+      "accessibility",
+      "requires",
+      "safeguards"
+    ],
+    [
+      "adolescents",
+      "develops",
+      "guidelines"
+    ],
+    [
+      "adolescents",
+      "drives",
+      "motivation"
+    ],
+    [
+      "adolescents",
+      "influence decisions of",
+      "policymakers"
+    ],
+    [
+      "adolescents",
+      "results in",
+      "disorientation"
+    ],
+    [
+      "adolescents",
+      "understand",
+      "complex concepts"
+    ],
+    [
+      "adolescents",
+      "utilizes",
+      "virtual reality"
+    ],
+    [
+      "complex concepts",
+      "complicates",
+      "health risks"
+    ],
+    [
+      "complex concepts",
+      "enhances understanding of",
+      "simulations"
+    ],
+    [
+      "complex concepts",
+      "influenced by",
+      "learning outcomes"
+    ],
+    [
+      "complex concepts",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "cost barriers",
+      "create barriers for",
+      "young children"
+    ],
+    [
+      "creativity",
+      "clarifies",
+      "complex concepts"
+    ],
+    [
+      "creativity",
+      "enhanced by",
+      "learning outcomes"
+    ],
+    [
+      "creativity",
+      "enhances",
+      "educational resources"
+    ],
+    [
+      "creativity",
+      "enhances",
+      "virtual reality"
+    ],
+    [
+      "creativity",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "creativity",
+      "facilitates",
+      "simulations"
+    ],
+    [
+      "creativity",
+      "guides",
+      "educators"
+    ],
+    [
+      "creativity",
+      "stimulates",
+      "educational settings"
+    ],
+    [
+      "creativity",
+      "supports",
+      "professional development"
+    ],
+    [
+      "critical thinking",
+      "encourages",
+      "real-world scenarios"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "simulations"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "student engagement"
+    ],
+    [
+      "critical thinking",
+      "promotes",
+      "diverse learners"
+    ],
+    [
+      "critical thinking",
+      "promotes",
+      "educational settings"
+    ],
+    [
+      "critical thinking",
+      "provides",
+      "educational resources"
+    ],
+    [
+      "critical thinking",
+      "supports",
+      "disabilities"
+    ],
+    [
+      "disabilities",
+      "accommodates",
+      "well-being"
+    ],
+    [
+      "disabilities",
+      "affects",
+      "health risks"
+    ],
+    [
+      "disorientation",
+      "causes",
+      "learning outcomes"
+    ],
+    [
+      "disorientation",
+      "complicates",
+      "complex concepts"
+    ],
+    [
+      "disorientation",
+      "requires",
+      "guidelines"
+    ],
+    [
+      "diverse learners",
+      "benefits",
+      "learning outcomes"
+    ],
+    [
+      "diverse learners",
+      "benefits from",
+      "critical thinking"
+    ],
+    [
+      "diverse learners",
+      "benefits from",
+      "student engagement"
+    ],
+    [
+      "educational resources",
+      "contributes to",
+      "well-being"
+    ],
+    [
+      "educational resources",
+      "enhance",
+      "technology integration"
+    ],
+    [
+      "educational resources",
+      "enhances",
+      "learning outcomes"
+    ],
+    [
+      "educational resources",
+      "impact on",
+      "policymakers"
+    ],
+    [
+      "educational resources",
+      "provides",
+      "adolescents"
+    ],
+    [
+      "educational resources",
+      "provides",
+      "simulations"
+    ],
+    [
+      "educational resources",
+      "provides",
+      "virtual field trips"
+    ],
+    [
+      "educational resources",
+      "supports",
+      "diverse learners"
+    ],
+    [
+      "educational settings",
+      "accommodates",
+      "learning styles"
+    ],
+    [
+      "educational settings",
+      "enhances",
+      "innovative teaching"
+    ],
+    [
+      "educational settings",
+      "enhances",
+      "virtual field trips"
+    ],
+    [
+      "educational settings",
+      "enhances understanding of",
+      "complex concepts"
+    ],
+    [
+      "educational settings",
+      "improves",
+      "learning outcomes"
+    ],
+    [
+      "educational settings",
+      "integrates with",
+      "virtual reality"
+    ],
+    [
+      "educational settings",
+      "necessitates",
+      "hardware investment"
+    ],
+    [
+      "educational settings",
+      "promotes",
+      "inclusive education"
+    ],
+    [
+      "educational settings",
+      "requires",
+      "professional development"
+    ],
+    [
+      "educational settings",
+      "supports",
+      "diverse learners"
+    ],
+    [
+      "educators",
+      "facilitates",
+      "complex concepts"
+    ],
+    [
+      "educators",
+      "facilitates",
+      "simulations"
+    ],
+    [
+      "educators",
+      "provides",
+      "educational resources"
+    ],
+    [
+      "educators",
+      "supports",
+      "educational settings"
+    ],
+    [
+      "educators",
+      "supports",
+      "motivation"
+    ],
+    [
+      "educators",
+      "supports",
+      "professional development"
+    ],
+    [
+      "engaging experiences",
+      "drives",
+      "motivation"
+    ],
+    [
+      "engaging experiences",
+      "enhances",
+      "virtual field trips"
+    ],
+    [
+      "engaging experiences",
+      "includes",
+      "simulations"
+    ],
+    [
+      "engaging experiences",
+      "utilizes",
+      "virtual reality"
+    ],
+    [
+      "experiential learning",
+      "boosts",
+      "student engagement"
+    ],
+    [
+      "experiential learning",
+      "incorporates",
+      "virtual reality"
+    ],
+    [
+      "experiential learning",
+      "increases",
+      "motivation"
+    ],
+    [
+      "experiential learning",
+      "utilizes",
+      "simulations"
+    ],
+    [
+      "eye strain",
+      "causes",
+      "accessibility"
+    ],
+    [
+      "eye strain",
+      "causes",
+      "well-being"
+    ],
+    [
+      "eye strain",
+      "experiences",
+      "adolescents"
+    ],
+    [
+      "eye strain",
+      "experiences",
+      "young children"
+    ],
+    [
+      "guidelines",
+      "guidelines for",
+      "educational resources"
+    ],
+    [
+      "guidelines",
+      "guidelines for",
+      "professional development"
+    ],
+    [
+      "guidelines",
+      "guides",
+      "eye strain"
+    ],
+    [
+      "guidelines",
+      "guides",
+      "motion sickness"
+    ],
+    [
+      "guidelines",
+      "informs",
+      "well-being"
+    ],
+    [
+      "guidelines",
+      "provides",
+      "young children"
+    ],
+    [
+      "hardware investment",
+      "enables",
+      "technology integration"
+    ],
+    [
+      "health risks",
+      "creates barriers for",
+      "cost barriers"
+    ],
+    [
+      "health risks",
+      "influences",
+      "well-being"
+    ],
+    [
+      "health risks",
+      "raises concerns about",
+      "professional development"
+    ],
+    [
+      "health risks",
+      "requires",
+      "safeguards"
+    ],
+    [
+      "immersive learning",
+      "detracts from",
+      "motion sickness"
+    ],
+    [
+      "immersive learning",
+      "enhances",
+      "real-world scenarios"
+    ],
+    [
+      "immersive learning",
+      "enhances",
+      "virtual field trips"
+    ],
+    [
+      "inclusive education",
+      "enhances",
+      "immersive learning"
+    ],
+    [
+      "inclusive education",
+      "enhances",
+      "innovative teaching"
+    ],
+    [
+      "inclusive education",
+      "guides",
+      "guidelines"
+    ],
+    [
+      "inclusive education",
+      "is challenged by",
+      "health risks"
+    ],
+    [
+      "inclusive education",
+      "provides",
+      "real-world scenarios"
+    ],
+    [
+      "inclusive education",
+      "supports",
+      "young children"
+    ],
+    [
+      "infrastructure",
+      "provides",
+      "safeguards"
+    ],
+    [
+      "innovative teaching",
+      "benefits",
+      "diverse learners"
+    ],
+    [
+      "innovative teaching",
+      "enhances",
+      "student engagement"
+    ],
+    [
+      "innovative teaching",
+      "is facilitated by",
+      "inclusive education"
+    ],
+    [
+      "learning outcomes",
+      "influences",
+      "well-being"
+    ],
+    [
+      "learning styles",
+      "affects",
+      "disorientation"
+    ],
+    [
+      "learning styles",
+      "enhances",
+      "motivation"
+    ],
+    [
+      "learning styles",
+      "guides",
+      "educators"
+    ],
+    [
+      "learning styles",
+      "guides",
+      "guidelines"
+    ],
+    [
+      "learning styles",
+      "influences",
+      "complex concepts"
+    ],
+    [
+      "learning styles",
+      "influences",
+      "learning outcomes"
+    ],
+    [
+      "learning styles",
+      "influences",
+      "student engagement"
+    ],
+    [
+      "learning styles",
+      "provides",
+      "educational resources"
+    ],
+    [
+      "learning styles",
+      "supports",
+      "virtual reality"
+    ],
+    [
+      "learning styles",
+      "tailored to",
+      "simulations"
+    ],
+    [
+      "motion sickness",
+      "affects",
+      "well-being"
+    ],
+    [
+      "motion sickness",
+      "causes",
+      "complex concepts"
+    ],
+    [
+      "motion sickness",
+      "causes",
+      "disorientation"
+    ],
+    [
+      "motion sickness",
+      "causes",
+      "virtual reality"
+    ],
+    [
+      "motion sickness",
+      "experiences",
+      "adolescents"
+    ],
+    [
+      "motion sickness",
+      "impacts",
+      "learning outcomes"
+    ],
+    [
+      "motivation",
+      "boosts",
+      "virtual field trips"
+    ],
+    [
+      "motivation",
+      "drives",
+      "diverse learners"
+    ],
+    [
+      "motivation",
+      "encourages",
+      "critical thinking"
+    ],
+    [
+      "motivation",
+      "enhances",
+      "disabilities"
+    ],
+    [
+      "motivation",
+      "enhances",
+      "innovative teaching"
+    ],
+    [
+      "motivation",
+      "enhances understanding of",
+      "complex concepts"
+    ],
+    [
+      "motivation",
+      "guides",
+      "guidelines"
+    ],
+    [
+      "motivation",
+      "increases",
+      "policymakers"
+    ],
+    [
+      "motivation",
+      "increases",
+      "simulations"
+    ],
+    [
+      "motivation",
+      "increases",
+      "well-being"
+    ],
+    [
+      "motivation",
+      "increases",
+      "young children"
+    ],
+    [
+      "motivation",
+      "influences",
+      "learning outcomes"
+    ],
+    [
+      "policymakers",
+      "address needs of",
+      "disabilities"
+    ],
+    [
+      "policymakers",
+      "addresses",
+      "health risks"
+    ],
+    [
+      "policymakers",
+      "concerns about",
+      "prolonged use"
+    ],
+    [
+      "policymakers",
+      "establishes",
+      "guidelines"
+    ],
+    [
+      "policymakers",
+      "establishes",
+      "safeguards"
+    ],
+    [
+      "policymakers",
+      "fosters",
+      "creativity"
+    ],
+    [
+      "policymakers",
+      "influences",
+      "cost barriers"
+    ],
+    [
+      "policymakers",
+      "influences",
+      "educational settings"
+    ],
+    [
+      "policymakers",
+      "requires",
+      "professional development"
+    ],
+    [
+      "professional development",
+      "addresses",
+      "disabilities"
+    ],
+    [
+      "professional development",
+      "benefit from",
+      "adolescents"
+    ],
+    [
+      "professional development",
+      "enhanced by",
+      "motivation"
+    ],
+    [
+      "professional development",
+      "enhances",
+      "learning styles"
+    ],
+    [
+      "professional development",
+      "enhances",
+      "virtual reality"
+    ],
+    [
+      "professional development",
+      "facilitates",
+      "technology integration"
+    ],
+    [
+      "professional development",
+      "improved by",
+      "learning outcomes"
+    ],
+    [
+      "professional development",
+      "improves",
+      "immersive learning"
+    ],
+    [
+      "professional development",
+      "informs",
+      "real-world scenarios"
+    ],
+    [
+      "professional development",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "professional development",
+      "provides",
+      "educational resources"
+    ],
+    [
+      "professional development",
+      "requires",
+      "hardware investment"
+    ],
+    [
+      "professional development",
+      "requires",
+      "virtual field trips"
+    ],
+    [
+      "professional development",
+      "requires attention for",
+      "health risks"
+    ],
+    [
+      "professional development",
+      "supported by",
+      "complex concepts"
+    ],
+    [
+      "professional development",
+      "supports",
+      "simulations"
+    ],
+    [
+      "prolonged use",
+      "affects",
+      "learning styles"
+    ],
+    [
+      "prolonged use",
+      "caused by",
+      "disorientation"
+    ],
+    [
+      "prolonged use",
+      "is affected by",
+      "experiential learning"
+    ],
+    [
+      "prolonged use",
+      "leads to",
+      "motion sickness"
+    ],
+    [
+      "prolonged use",
+      "requires",
+      "guidelines"
+    ],
+    [
+      "real-world scenarios",
+      "enhances",
+      "student engagement"
+    ],
+    [
+      "real-world scenarios",
+      "guides",
+      "educators"
+    ],
+    [
+      "real-world scenarios",
+      "impacts",
+      "well-being"
+    ],
+    [
+      "real-world scenarios",
+      "informs",
+      "learning styles"
+    ],
+    [
+      "responsible use",
+      "addresses",
+      "disabilities"
+    ],
+    [
+      "safeguards",
+      "creates",
+      "cost barriers"
+    ],
+    [
+      "safeguards",
+      "ensures",
+      "well-being"
+    ],
+    [
+      "safeguards",
+      "mitigates",
+      "eye strain"
+    ],
+    [
+      "simulations",
+      "enhances",
+      "learning outcomes"
+    ],
+    [
+      "simulations",
+      "enhances",
+      "virtual field trips"
+    ],
+    [
+      "simulations",
+      "facilitates",
+      "technology integration"
+    ],
+    [
+      "student engagement",
+      "enhances",
+      "simulations"
+    ],
+    [
+      "student engagement",
+      "fosters",
+      "engaging experiences"
+    ],
+    [
+      "student engagement",
+      "impacts",
+      "health risks"
+    ],
+    [
+      "student engagement",
+      "increases",
+      "immersive learning"
+    ],
+    [
+      "teacher training",
+      "caters to",
+      "learning styles"
+    ],
+    [
+      "teacher training",
+      "facilitates",
+      "immersive learning"
+    ],
+    [
+      "teacher training",
+      "fosters",
+      "creativity"
+    ],
+    [
+      "teacher training",
+      "promotes",
+      "innovative teaching"
+    ],
+    [
+      "teacher training",
+      "provides",
+      "engaging experiences"
+    ],
+    [
+      "teacher training",
+      "supports",
+      "diverse learners"
+    ],
+    [
+      "technology integration",
+      "enables",
+      "infrastructure"
+    ],
+    [
+      "technology integration",
+      "facilitates access to",
+      "educational resources"
+    ],
+    [
+      "virtual field trips",
+      "caters to",
+      "learning styles"
+    ],
+    [
+      "virtual field trips",
+      "enhanced by",
+      "learning outcomes"
+    ],
+    [
+      "virtual field trips",
+      "enhances",
+      "innovative teaching"
+    ],
+    [
+      "virtual field trips",
+      "facilitates",
+      "educators"
+    ],
+    [
+      "virtual field trips",
+      "facilitates",
+      "technology integration"
+    ],
+    [
+      "virtual field trips",
+      "illustrates",
+      "complex concepts"
+    ],
+    [
+      "virtual field trips",
+      "increases",
+      "student engagement"
+    ],
+    [
+      "virtual field trips",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "virtual field trips",
+      "provides",
+      "real-world scenarios"
+    ],
+    [
+      "virtual field trips",
+      "stimulates",
+      "creativity"
+    ],
+    [
+      "virtual field trips",
+      "supports",
+      "inclusive education"
+    ],
+    [
+      "virtual reality",
+      "causes",
+      "disorientation"
+    ],
+    [
+      "virtual reality",
+      "enables",
+      "simulations"
+    ],
+    [
+      "virtual reality",
+      "enhances",
+      "learning outcomes"
+    ],
+    [
+      "virtual reality",
+      "enhances",
+      "virtual field trips"
+    ],
+    [
+      "virtual reality",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "virtual reality",
+      "presents",
+      "health risks"
+    ],
+    [
+      "virtual reality",
+      "promotes",
+      "student engagement"
+    ],
+    [
+      "virtual reality",
+      "provides",
+      "educational resources"
+    ],
+    [
+      "well-being",
+      "affects",
+      "adolescents"
+    ],
+    [
+      "young children",
+      "affect the well-being of",
+      "well-being"
+    ],
+    [
+      "young children",
+      "benefit from",
+      "inclusive education"
+    ],
+    [
+      "young children",
+      "consider the needs of",
+      "policymakers"
+    ],
+    [
+      "young children",
+      "enhances understanding of",
+      "complex concepts"
+    ],
+    [
+      "young children",
+      "experiences",
+      "disorientation"
+    ],
+    [
+      "young children",
+      "experiences",
+      "motion sickness"
+    ],
+    [
+      "young children",
+      "face",
+      "cost barriers"
+    ],
+    [
+      "young children",
+      "improves",
+      "accessibility"
+    ],
+    [
+      "young children",
+      "improves",
+      "learning outcomes"
+    ],
+    [
+      "young children",
+      "offers",
+      "real-world scenarios"
+    ],
+    [
+      "young children",
+      "requires",
+      "professional development"
+    ],
+    [
+      "young children",
+      "requires",
+      "safeguards"
+    ],
+    [
+      "young children",
+      "supports",
+      "disabilities"
+    ],
+    [
+      "young children",
+      "utilizes",
+      "virtual reality"
+    ]
+  ],
+  "edges": [
+    "accommodates",
+    "address needs of",
+    "addresses",
+    "affect the well-being of",
+    "affects",
+    "benefit from",
+    "benefits",
+    "benefits from",
+    "boosts",
+    "caters to",
+    "caused by",
+    "causes",
+    "clarifies",
+    "complicates",
+    "concerns about",
+    "consider the needs of",
+    "contributes to",
+    "create barriers for",
+    "creates",
+    "creates barriers for",
+    "detracts from",
+    "develops",
+    "drives",
+    "enables",
+    "encourages",
+    "enhance",
+    "enhanced by",
+    "enhances",
+    "enhances understanding of",
+    "ensures",
+    "establishes",
+    "experiences",
+    "face",
+    "facilitates",
+    "facilitates access to",
+    "fosters",
+    "guidelines for",
+    "guides",
+    "illustrates",
+    "impact on",
+    "impacts",
+    "improved by",
+    "improves",
+    "includes",
+    "incorporates",
+    "increases",
+    "influence decisions of",
+    "influenced by",
+    "influences",
+    "informs",
+    "integrates with",
+    "is affected by",
+    "is challenged by",
+    "is facilitated by",
+    "leads to",
+    "mitigates",
+    "necessitates",
+    "offers",
+    "presents",
+    "promotes",
+    "provides",
+    "raises concerns about",
+    "requires",
+    "requires attention for",
+    "results in",
+    "stimulates",
+    "supported by",
+    "supports",
+    "tailored to",
+    "understand",
+    "utilizes"
+  ]
+}

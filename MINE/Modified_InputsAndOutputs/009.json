@@ -1,0 +1,3454 @@
+{
+  "entities": [
+    "Eastern cultures",
+    "appetite",
+    "authority",
+    "behavior",
+    "black",
+    "blood pressure",
+    "blue",
+    "calming",
+    "color psychology",
+    "colors",
+    "cool colors",
+    "creativity",
+    "cultural backgrounds",
+    "danger",
+    "death",
+    "duality",
+    "emotions",
+    "energy",
+    "excitement",
+    "focus",
+    "green",
+    "happiness",
+    "heart rate",
+    "individual experiences",
+    "influence",
+    "innocence",
+    "joy",
+    "meanings",
+    "mourning",
+    "mystery",
+    "nature",
+    "optimism",
+    "passion",
+    "peace",
+    "perception",
+    "positivity",
+    "power",
+    "productivity",
+    "psychological effects",
+    "purity",
+    "red",
+    "relaxation",
+    "sadness",
+    "serenity",
+    "serotonin",
+    "sophistication",
+    "tranquility",
+    "universal associations",
+    "urgency",
+    "versatility",
+    "warm colors",
+    "warmth",
+    "well-being",
+    "white",
+    "yellow"
+  ],
+  "relations": [
+    [
+      "Eastern cultures",
+      "affects",
+      "universal associations"
+    ],
+    [
+      "Eastern cultures",
+      "associated with",
+      "green"
+    ],
+    [
+      "Eastern cultures",
+      "enhances",
+      "creativity"
+    ],
+    [
+      "Eastern cultures",
+      "holds authority over",
+      "authority"
+    ],
+    [
+      "Eastern cultures",
+      "influences",
+      "influence"
+    ],
+    [
+      "Eastern cultures",
+      "influences",
+      "versatility"
+    ],
+    [
+      "Eastern cultures",
+      "influences",
+      "well-being"
+    ],
+    [
+      "Eastern cultures",
+      "is associated with",
+      "red"
+    ],
+    [
+      "Eastern cultures",
+      "is related to",
+      "joy"
+    ],
+    [
+      "Eastern cultures",
+      "is related to",
+      "nature"
+    ],
+    [
+      "Eastern cultures",
+      "shapes",
+      "perception"
+    ],
+    [
+      "appetite",
+      "affects",
+      "influence"
+    ],
+    [
+      "appetite",
+      "associated with",
+      "happiness"
+    ],
+    [
+      "appetite",
+      "contrasts with",
+      "serenity"
+    ],
+    [
+      "appetite",
+      "increases",
+      "serotonin"
+    ],
+    [
+      "appetite",
+      "influences",
+      "authority"
+    ],
+    [
+      "appetite",
+      "is studied in",
+      "color psychology"
+    ],
+    [
+      "appetite",
+      "linked to",
+      "universal associations"
+    ],
+    [
+      "appetite",
+      "stimulated by",
+      "versatility"
+    ],
+    [
+      "appetite",
+      "stimulated by",
+      "warm colors"
+    ],
+    [
+      "appetite",
+      "stimulates",
+      "optimism"
+    ],
+    [
+      "appetite",
+      "stimulates",
+      "passion"
+    ],
+    [
+      "appetite",
+      "stimulates",
+      "perception"
+    ],
+    [
+      "appetite",
+      "stimulates",
+      "positivity"
+    ],
+    [
+      "appetite",
+      "stimulates",
+      "red"
+    ],
+    [
+      "appetite",
+      "stimulates",
+      "tranquility"
+    ],
+    [
+      "appetite",
+      "stimulates",
+      "urgency"
+    ],
+    [
+      "authority",
+      "associated with",
+      "blood pressure"
+    ],
+    [
+      "authority",
+      "associates with",
+      "mourning"
+    ],
+    [
+      "authority",
+      "contrasts with",
+      "mystery"
+    ],
+    [
+      "authority",
+      "exerts",
+      "influence"
+    ],
+    [
+      "authority",
+      "influences",
+      "well-being"
+    ],
+    [
+      "authority",
+      "is a characteristic of",
+      "sophistication"
+    ],
+    [
+      "behavior",
+      "enhances",
+      "creativity"
+    ],
+    [
+      "behavior",
+      "enhances",
+      "focus"
+    ],
+    [
+      "behavior",
+      "enhances",
+      "optimism"
+    ],
+    [
+      "behavior",
+      "enhances",
+      "power"
+    ],
+    [
+      "behavior",
+      "enhances",
+      "versatility"
+    ],
+    [
+      "behavior",
+      "evokes",
+      "joy"
+    ],
+    [
+      "behavior",
+      "evokes",
+      "positivity"
+    ],
+    [
+      "behavior",
+      "evokes",
+      "warm colors"
+    ],
+    [
+      "behavior",
+      "influences",
+      "authority"
+    ],
+    [
+      "behavior",
+      "influences",
+      "emotions"
+    ],
+    [
+      "behavior",
+      "influences",
+      "influence"
+    ],
+    [
+      "behavior",
+      "influences",
+      "relaxation"
+    ],
+    [
+      "behavior",
+      "influences",
+      "serenity"
+    ],
+    [
+      "behavior",
+      "influences",
+      "universal associations"
+    ],
+    [
+      "black",
+      "affects",
+      "perception"
+    ],
+    [
+      "black",
+      "contrasts with",
+      "peace"
+    ],
+    [
+      "black",
+      "evokes",
+      "calming"
+    ],
+    [
+      "black",
+      "influences",
+      "behavior"
+    ],
+    [
+      "blood pressure",
+      "affected by",
+      "influence"
+    ],
+    [
+      "blood pressure",
+      "affects",
+      "black"
+    ],
+    [
+      "blood pressure",
+      "increases",
+      "energy"
+    ],
+    [
+      "blood pressure",
+      "increases",
+      "passion"
+    ],
+    [
+      "blood pressure",
+      "increases",
+      "red"
+    ],
+    [
+      "blood pressure",
+      "influences",
+      "tranquility"
+    ],
+    [
+      "blue",
+      "is",
+      "calming"
+    ],
+    [
+      "blue",
+      "is a",
+      "cool colors"
+    ],
+    [
+      "calming",
+      "affects",
+      "colors"
+    ],
+    [
+      "calming",
+      "associated with",
+      "versatility"
+    ],
+    [
+      "calming",
+      "contrasts with",
+      "appetite"
+    ],
+    [
+      "calming",
+      "contrasts with",
+      "mystery"
+    ],
+    [
+      "calming",
+      "decreases",
+      "blood pressure"
+    ],
+    [
+      "calming",
+      "enhances",
+      "focus"
+    ],
+    [
+      "calming",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "calming",
+      "enhances",
+      "relaxation"
+    ],
+    [
+      "calming",
+      "has an effect on",
+      "influence"
+    ],
+    [
+      "calming",
+      "increases",
+      "serotonin"
+    ],
+    [
+      "calming",
+      "induces",
+      "emotions"
+    ],
+    [
+      "calming",
+      "influences",
+      "energy"
+    ],
+    [
+      "calming",
+      "influences",
+      "well-being"
+    ],
+    [
+      "calming",
+      "is studied in",
+      "color psychology"
+    ],
+    [
+      "calming",
+      "promotes",
+      "tranquility"
+    ],
+    [
+      "color psychology",
+      "enhances",
+      "focus"
+    ],
+    [
+      "color psychology",
+      "influenced by",
+      "nature"
+    ],
+    [
+      "color psychology",
+      "influences",
+      "purity"
+    ],
+    [
+      "color psychology",
+      "informs",
+      "peace"
+    ],
+    [
+      "color psychology",
+      "is studied in",
+      "authority"
+    ],
+    [
+      "color psychology",
+      "is studied in",
+      "red"
+    ],
+    [
+      "color psychology",
+      "is studied in",
+      "sadness"
+    ],
+    [
+      "color psychology",
+      "is studied in",
+      "serotonin"
+    ],
+    [
+      "color psychology",
+      "studies",
+      "behavior"
+    ],
+    [
+      "color psychology",
+      "studies",
+      "blood pressure"
+    ],
+    [
+      "color psychology",
+      "studies",
+      "green"
+    ],
+    [
+      "color psychology",
+      "studies",
+      "heart rate"
+    ],
+    [
+      "colors",
+      "associated with",
+      "happiness"
+    ],
+    [
+      "colors",
+      "associated with",
+      "passion"
+    ],
+    [
+      "colors",
+      "associated with",
+      "positivity"
+    ],
+    [
+      "colors",
+      "benefits from",
+      "productivity"
+    ],
+    [
+      "colors",
+      "characteristic of",
+      "versatility"
+    ],
+    [
+      "colors",
+      "conveys",
+      "sophistication"
+    ],
+    [
+      "colors",
+      "elicits",
+      "joy"
+    ],
+    [
+      "colors",
+      "enhances",
+      "focus"
+    ],
+    [
+      "colors",
+      "has",
+      "duality"
+    ],
+    [
+      "colors",
+      "includes",
+      "warm colors"
+    ],
+    [
+      "colors",
+      "increases",
+      "serotonin"
+    ],
+    [
+      "colors",
+      "influences",
+      "cool colors"
+    ],
+    [
+      "colors",
+      "influences",
+      "nature"
+    ],
+    [
+      "colors",
+      "influences",
+      "tranquility"
+    ],
+    [
+      "colors",
+      "is a characteristic of",
+      "red"
+    ],
+    [
+      "colors",
+      "is associated with",
+      "authority"
+    ],
+    [
+      "colors",
+      "is associated with",
+      "mourning"
+    ],
+    [
+      "colors",
+      "is influenced by",
+      "heart rate"
+    ],
+    [
+      "colors",
+      "is influenced by",
+      "well-being"
+    ],
+    [
+      "colors",
+      "promotes",
+      "peace"
+    ],
+    [
+      "colors",
+      "shapes",
+      "cultural backgrounds"
+    ],
+    [
+      "colors",
+      "stimulates",
+      "excitement"
+    ],
+    [
+      "cool colors",
+      "are",
+      "calming"
+    ],
+    [
+      "cool colors",
+      "associated with",
+      "mourning"
+    ],
+    [
+      "cool colors",
+      "associated with",
+      "psychological effects"
+    ],
+    [
+      "cool colors",
+      "associated with",
+      "white"
+    ],
+    [
+      "cool colors",
+      "enhanced by",
+      "productivity"
+    ],
+    [
+      "cool colors",
+      "enhances",
+      "focus"
+    ],
+    [
+      "cool colors",
+      "evokes",
+      "mystery"
+    ],
+    [
+      "cool colors",
+      "evokes",
+      "positivity"
+    ],
+    [
+      "cool colors",
+      "influences",
+      "behavior"
+    ],
+    [
+      "cool colors",
+      "is affected by",
+      "blood pressure"
+    ],
+    [
+      "cool colors",
+      "is influenced by",
+      "emotions"
+    ],
+    [
+      "cool colors",
+      "is influenced by",
+      "happiness"
+    ],
+    [
+      "cool colors",
+      "is influenced by",
+      "universal associations"
+    ],
+    [
+      "cool colors",
+      "is influenced by",
+      "well-being"
+    ],
+    [
+      "cool colors",
+      "is studied in",
+      "color psychology"
+    ],
+    [
+      "cool colors",
+      "promotes",
+      "peace"
+    ],
+    [
+      "cool colors",
+      "stimulates",
+      "appetite"
+    ],
+    [
+      "creativity",
+      "enhances",
+      "calming"
+    ],
+    [
+      "creativity",
+      "enhances",
+      "versatility"
+    ],
+    [
+      "creativity",
+      "evokes",
+      "emotions"
+    ],
+    [
+      "creativity",
+      "evokes",
+      "joy"
+    ],
+    [
+      "creativity",
+      "influences",
+      "authority"
+    ],
+    [
+      "creativity",
+      "influences",
+      "color psychology"
+    ],
+    [
+      "creativity",
+      "influences",
+      "colors"
+    ],
+    [
+      "creativity",
+      "influences",
+      "cool colors"
+    ],
+    [
+      "creativity",
+      "influences",
+      "green"
+    ],
+    [
+      "creativity",
+      "influences",
+      "individual experiences"
+    ],
+    [
+      "creativity",
+      "influences",
+      "nature"
+    ],
+    [
+      "creativity",
+      "influences",
+      "serotonin"
+    ],
+    [
+      "creativity",
+      "is associated with",
+      "purity"
+    ],
+    [
+      "creativity",
+      "represents",
+      "power"
+    ],
+    [
+      "creativity",
+      "triggers",
+      "excitement"
+    ],
+    [
+      "cultural backgrounds",
+      "affects",
+      "positivity"
+    ],
+    [
+      "cultural backgrounds",
+      "evokes",
+      "excitement"
+    ],
+    [
+      "cultural backgrounds",
+      "influenced by",
+      "appetite"
+    ],
+    [
+      "cultural backgrounds",
+      "influenced by",
+      "versatility"
+    ],
+    [
+      "cultural backgrounds",
+      "influences",
+      "passion"
+    ],
+    [
+      "cultural backgrounds",
+      "influences",
+      "power"
+    ],
+    [
+      "cultural backgrounds",
+      "shapes",
+      "peace"
+    ],
+    [
+      "cultural backgrounds",
+      "shapes",
+      "urgency"
+    ],
+    [
+      "danger",
+      "affects",
+      "influence"
+    ],
+    [
+      "danger",
+      "associated with",
+      "blood pressure"
+    ],
+    [
+      "danger",
+      "associated with",
+      "emotions"
+    ],
+    [
+      "danger",
+      "associated with",
+      "mourning"
+    ],
+    [
+      "danger",
+      "contradicts",
+      "passion"
+    ],
+    [
+      "danger",
+      "contradicts",
+      "positivity"
+    ],
+    [
+      "danger",
+      "influences",
+      "perception"
+    ],
+    [
+      "danger",
+      "is a state of",
+      "warmth"
+    ],
+    [
+      "danger",
+      "is associated with",
+      "death"
+    ],
+    [
+      "danger",
+      "represents",
+      "universal associations"
+    ],
+    [
+      "danger",
+      "shapes",
+      "individual experiences"
+    ],
+    [
+      "danger",
+      "studies",
+      "color psychology"
+    ],
+    [
+      "danger",
+      "symbolizes",
+      "red"
+    ],
+    [
+      "death",
+      "associated with",
+      "green"
+    ],
+    [
+      "death",
+      "associated with",
+      "mystery"
+    ],
+    [
+      "death",
+      "associated with",
+      "perception"
+    ],
+    [
+      "death",
+      "associated with",
+      "positivity"
+    ],
+    [
+      "death",
+      "associated with",
+      "universal associations"
+    ],
+    [
+      "death",
+      "associated with",
+      "versatility"
+    ],
+    [
+      "death",
+      "associates with",
+      "colors"
+    ],
+    [
+      "death",
+      "contrasts with",
+      "happiness"
+    ],
+    [
+      "death",
+      "contrasts with",
+      "serenity"
+    ],
+    [
+      "death",
+      "contrasts with",
+      "warmth"
+    ],
+    [
+      "death",
+      "contrasts with",
+      "well-being"
+    ],
+    [
+      "death",
+      "evokes",
+      "black"
+    ],
+    [
+      "death",
+      "influences",
+      "blood pressure"
+    ],
+    [
+      "death",
+      "is associated with",
+      "individual experiences"
+    ],
+    [
+      "duality",
+      "associated with",
+      "relaxation"
+    ],
+    [
+      "duality",
+      "associated with",
+      "versatility"
+    ],
+    [
+      "duality",
+      "characteristic of",
+      "universal associations"
+    ],
+    [
+      "duality",
+      "contrasts",
+      "meanings"
+    ],
+    [
+      "duality",
+      "contrasts with",
+      "innocence"
+    ],
+    [
+      "duality",
+      "contrasts with",
+      "mourning"
+    ],
+    [
+      "duality",
+      "exemplifies",
+      "behavior"
+    ],
+    [
+      "duality",
+      "exemplifies",
+      "tranquility"
+    ],
+    [
+      "emotions",
+      "affects",
+      "blood pressure"
+    ],
+    [
+      "emotions",
+      "affects",
+      "influence"
+    ],
+    [
+      "emotions",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "emotions",
+      "evokes",
+      "warmth"
+    ],
+    [
+      "emotions",
+      "influences",
+      "colors"
+    ],
+    [
+      "emotions",
+      "influences",
+      "versatility"
+    ],
+    [
+      "emotions",
+      "influences",
+      "well-being"
+    ],
+    [
+      "emotions",
+      "is influenced by",
+      "green"
+    ],
+    [
+      "emotions",
+      "is linked to",
+      "purity"
+    ],
+    [
+      "emotions",
+      "is shaped by",
+      "individual experiences"
+    ],
+    [
+      "emotions",
+      "promotes",
+      "happiness"
+    ],
+    [
+      "emotions",
+      "shapes",
+      "cultural backgrounds"
+    ],
+    [
+      "energy",
+      "enhances",
+      "creativity"
+    ],
+    [
+      "energy",
+      "enhances",
+      "focus"
+    ],
+    [
+      "energy",
+      "evokes",
+      "emotions"
+    ],
+    [
+      "energy",
+      "evokes",
+      "happiness"
+    ],
+    [
+      "energy",
+      "evokes",
+      "mourning"
+    ],
+    [
+      "energy",
+      "evokes",
+      "passion"
+    ],
+    [
+      "energy",
+      "increases",
+      "red"
+    ],
+    [
+      "energy",
+      "influences",
+      "cultural backgrounds"
+    ],
+    [
+      "energy",
+      "influences",
+      "influence"
+    ],
+    [
+      "energy",
+      "influences",
+      "serotonin"
+    ],
+    [
+      "energy",
+      "stimulates",
+      "appetite"
+    ],
+    [
+      "excitement",
+      "associated with",
+      "warmth"
+    ],
+    [
+      "excitement",
+      "associated with",
+      "well-being"
+    ],
+    [
+      "excitement",
+      "can evoke",
+      "authority"
+    ],
+    [
+      "excitement",
+      "contradicts",
+      "sadness"
+    ],
+    [
+      "excitement",
+      "contrasts with",
+      "calming"
+    ],
+    [
+      "excitement",
+      "enhances",
+      "focus"
+    ],
+    [
+      "excitement",
+      "evokes",
+      "color psychology"
+    ],
+    [
+      "excitement",
+      "evokes",
+      "cool colors"
+    ],
+    [
+      "excitement",
+      "evokes",
+      "emotions"
+    ],
+    [
+      "excitement",
+      "evokes",
+      "innocence"
+    ],
+    [
+      "excitement",
+      "evokes",
+      "purity"
+    ],
+    [
+      "excitement",
+      "evokes",
+      "red"
+    ],
+    [
+      "excitement",
+      "is enhanced by",
+      "productivity"
+    ],
+    [
+      "excitement",
+      "is evoked by",
+      "joy"
+    ],
+    [
+      "excitement",
+      "is evoked by",
+      "positivity"
+    ],
+    [
+      "excitement",
+      "is evoked by",
+      "warm colors"
+    ],
+    [
+      "excitement",
+      "is increased by",
+      "serotonin"
+    ],
+    [
+      "focus",
+      "associated with",
+      "versatility"
+    ],
+    [
+      "focus",
+      "can hinder",
+      "mourning"
+    ],
+    [
+      "focus",
+      "enhances",
+      "authority"
+    ],
+    [
+      "focus",
+      "enhances",
+      "innocence"
+    ],
+    [
+      "focus",
+      "enhances",
+      "passion"
+    ],
+    [
+      "focus",
+      "enhances",
+      "relaxation"
+    ],
+    [
+      "focus",
+      "enhances",
+      "tranquility"
+    ],
+    [
+      "focus",
+      "influences",
+      "sadness"
+    ],
+    [
+      "focus",
+      "supports",
+      "peace"
+    ],
+    [
+      "green",
+      "associated with",
+      "tranquility"
+    ],
+    [
+      "green",
+      "comprises",
+      "colors"
+    ],
+    [
+      "green",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "green",
+      "evokes",
+      "tranquility"
+    ],
+    [
+      "green",
+      "increases",
+      "heart rate"
+    ],
+    [
+      "green",
+      "increases",
+      "serotonin"
+    ],
+    [
+      "green",
+      "induces",
+      "joy"
+    ],
+    [
+      "green",
+      "is associated with",
+      "happiness"
+    ],
+    [
+      "green",
+      "is associated with",
+      "nature"
+    ],
+    [
+      "green",
+      "stimulates",
+      "appetite"
+    ],
+    [
+      "green",
+      "symbolizes",
+      "purity"
+    ],
+    [
+      "happiness",
+      "associated with",
+      "calming"
+    ],
+    [
+      "happiness",
+      "associated with",
+      "universal associations"
+    ],
+    [
+      "happiness",
+      "associated with",
+      "versatility"
+    ],
+    [
+      "happiness",
+      "associated with",
+      "warmth"
+    ],
+    [
+      "happiness",
+      "creates",
+      "urgency"
+    ],
+    [
+      "happiness",
+      "enhances",
+      "blood pressure"
+    ],
+    [
+      "happiness",
+      "enhances",
+      "focus"
+    ],
+    [
+      "happiness",
+      "evokes",
+      "colors"
+    ],
+    [
+      "happiness",
+      "evokes",
+      "individual experiences"
+    ],
+    [
+      "happiness",
+      "increases",
+      "serotonin"
+    ],
+    [
+      "happiness",
+      "influences",
+      "behavior"
+    ],
+    [
+      "happiness",
+      "influences",
+      "productivity"
+    ],
+    [
+      "happiness",
+      "is a characteristic of",
+      "warm colors"
+    ],
+    [
+      "happiness",
+      "is associated with",
+      "tranquility"
+    ],
+    [
+      "happiness",
+      "is contrasted with",
+      "sadness"
+    ],
+    [
+      "happiness",
+      "is linked to",
+      "passion"
+    ],
+    [
+      "happiness",
+      "is linked to",
+      "positivity"
+    ],
+    [
+      "happiness",
+      "leads to",
+      "joy"
+    ],
+    [
+      "happiness",
+      "shapes",
+      "cultural backgrounds"
+    ],
+    [
+      "heart rate",
+      "affects",
+      "blood pressure"
+    ],
+    [
+      "heart rate",
+      "affects",
+      "relaxation"
+    ],
+    [
+      "heart rate",
+      "affects",
+      "well-being"
+    ],
+    [
+      "heart rate",
+      "enhances",
+      "creativity"
+    ],
+    [
+      "heart rate",
+      "increases",
+      "energy"
+    ],
+    [
+      "heart rate",
+      "is influenced by",
+      "black"
+    ],
+    [
+      "heart rate",
+      "is influenced by",
+      "happiness"
+    ],
+    [
+      "heart rate",
+      "is influenced by",
+      "optimism"
+    ],
+    [
+      "individual experiences",
+      "affects",
+      "well-being"
+    ],
+    [
+      "individual experiences",
+      "increases",
+      "serotonin"
+    ],
+    [
+      "individual experiences",
+      "induces",
+      "joy"
+    ],
+    [
+      "individual experiences",
+      "influenced by",
+      "Eastern cultures"
+    ],
+    [
+      "individual experiences",
+      "influenced by",
+      "versatility"
+    ],
+    [
+      "individual experiences",
+      "influences",
+      "appetite"
+    ],
+    [
+      "individual experiences",
+      "influences",
+      "behavior"
+    ],
+    [
+      "individual experiences",
+      "influences",
+      "color psychology"
+    ],
+    [
+      "individual experiences",
+      "influences",
+      "nature"
+    ],
+    [
+      "individual experiences",
+      "influences",
+      "optimism"
+    ],
+    [
+      "individual experiences",
+      "influences",
+      "passion"
+    ],
+    [
+      "individual experiences",
+      "influences",
+      "tranquility"
+    ],
+    [
+      "individual experiences",
+      "is influenced by",
+      "authority"
+    ],
+    [
+      "individual experiences",
+      "is influenced by",
+      "blood pressure"
+    ],
+    [
+      "individual experiences",
+      "is influenced by",
+      "peace"
+    ],
+    [
+      "individual experiences",
+      "is influenced by",
+      "warm colors"
+    ],
+    [
+      "individual experiences",
+      "shaped by",
+      "positivity"
+    ],
+    [
+      "individual experiences",
+      "shaped by",
+      "sadness"
+    ],
+    [
+      "individual experiences",
+      "shapes",
+      "meanings"
+    ],
+    [
+      "individual experiences",
+      "shapes",
+      "mystery"
+    ],
+    [
+      "influence",
+      "affects",
+      "color psychology"
+    ],
+    [
+      "influence",
+      "affects",
+      "focus"
+    ],
+    [
+      "influence",
+      "affects",
+      "heart rate"
+    ],
+    [
+      "influence",
+      "affects",
+      "joy"
+    ],
+    [
+      "influence",
+      "affects",
+      "sadness"
+    ],
+    [
+      "influence",
+      "influences",
+      "blood pressure"
+    ],
+    [
+      "influence",
+      "influences",
+      "happiness"
+    ],
+    [
+      "influence",
+      "influences",
+      "nature"
+    ],
+    [
+      "influence",
+      "influences",
+      "serenity"
+    ],
+    [
+      "influence",
+      "influences",
+      "serotonin"
+    ],
+    [
+      "influence",
+      "is influenced by",
+      "energy"
+    ],
+    [
+      "influence",
+      "is influenced by",
+      "warm colors"
+    ],
+    [
+      "influence",
+      "is influenced by",
+      "white"
+    ],
+    [
+      "influence",
+      "shapes",
+      "cultural backgrounds"
+    ],
+    [
+      "innocence",
+      "associated with",
+      "emotions"
+    ],
+    [
+      "innocence",
+      "associated with",
+      "positivity"
+    ],
+    [
+      "innocence",
+      "associated with",
+      "psychological effects"
+    ],
+    [
+      "innocence",
+      "associated with",
+      "versatility"
+    ],
+    [
+      "innocence",
+      "contrasts with",
+      "danger"
+    ],
+    [
+      "innocence",
+      "contrasts with",
+      "mourning"
+    ],
+    [
+      "innocence",
+      "evokes",
+      "happiness"
+    ],
+    [
+      "innocence",
+      "evokes",
+      "joy"
+    ],
+    [
+      "innocence",
+      "evokes",
+      "passion"
+    ],
+    [
+      "innocence",
+      "influences",
+      "heart rate"
+    ],
+    [
+      "innocence",
+      "is associated with",
+      "purity"
+    ],
+    [
+      "innocence",
+      "is associated with",
+      "red"
+    ],
+    [
+      "innocence",
+      "shapes",
+      "individual experiences"
+    ],
+    [
+      "innocence",
+      "shapes",
+      "influence"
+    ],
+    [
+      "joy",
+      "associated with",
+      "serenity"
+    ],
+    [
+      "joy",
+      "associated with",
+      "versatility"
+    ],
+    [
+      "joy",
+      "associated with",
+      "warm colors"
+    ],
+    [
+      "joy",
+      "contrasts with",
+      "sadness"
+    ],
+    [
+      "joy",
+      "elicits",
+      "relaxation"
+    ],
+    [
+      "joy",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "joy",
+      "enhances",
+      "sophistication"
+    ],
+    [
+      "joy",
+      "evokes",
+      "black"
+    ],
+    [
+      "joy",
+      "evokes",
+      "danger"
+    ],
+    [
+      "joy",
+      "evokes",
+      "emotions"
+    ],
+    [
+      "joy",
+      "evokes",
+      "excitement"
+    ],
+    [
+      "joy",
+      "evokes",
+      "nature"
+    ],
+    [
+      "joy",
+      "evokes",
+      "psychological effects"
+    ],
+    [
+      "joy",
+      "evokes",
+      "red"
+    ],
+    [
+      "joy",
+      "increases",
+      "serotonin"
+    ],
+    [
+      "joy",
+      "is associated with",
+      "white"
+    ],
+    [
+      "joy",
+      "supports",
+      "focus"
+    ],
+    [
+      "meanings",
+      "associated with",
+      "versatility"
+    ],
+    [
+      "meanings",
+      "influenced by",
+      "individual experiences"
+    ],
+    [
+      "meanings",
+      "informs",
+      "universal associations"
+    ],
+    [
+      "meanings",
+      "is associated with",
+      "death"
+    ],
+    [
+      "meanings",
+      "is associated with",
+      "happiness"
+    ],
+    [
+      "meanings",
+      "shapes",
+      "well-being"
+    ],
+    [
+      "mourning",
+      "associated with",
+      "death"
+    ],
+    [
+      "mourning",
+      "associates with",
+      "Eastern cultures"
+    ],
+    [
+      "mourning",
+      "evokes",
+      "black"
+    ],
+    [
+      "mourning",
+      "influences",
+      "influence"
+    ],
+    [
+      "mourning",
+      "influences",
+      "perception"
+    ],
+    [
+      "mystery",
+      "associated with",
+      "sophistication"
+    ],
+    [
+      "mystery",
+      "influences",
+      "perception"
+    ],
+    [
+      "mystery",
+      "is associated with",
+      "colors"
+    ],
+    [
+      "mystery",
+      "is associated with",
+      "danger"
+    ],
+    [
+      "nature",
+      "affected by",
+      "influence"
+    ],
+    [
+      "nature",
+      "associated with",
+      "meanings"
+    ],
+    [
+      "nature",
+      "associated with",
+      "mystery"
+    ],
+    [
+      "nature",
+      "associated with",
+      "relaxation"
+    ],
+    [
+      "nature",
+      "associated with",
+      "versatility"
+    ],
+    [
+      "nature",
+      "characteristic of",
+      "cool colors"
+    ],
+    [
+      "nature",
+      "contrasts with",
+      "sadness"
+    ],
+    [
+      "nature",
+      "evokes",
+      "excitement"
+    ],
+    [
+      "nature",
+      "influences",
+      "well-being"
+    ],
+    [
+      "nature",
+      "promotes",
+      "peace"
+    ],
+    [
+      "nature",
+      "shapes",
+      "cultural backgrounds"
+    ],
+    [
+      "optimism",
+      "associated with",
+      "happiness"
+    ],
+    [
+      "optimism",
+      "associated with",
+      "warmth"
+    ],
+    [
+      "optimism",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "optimism",
+      "evokes",
+      "colors"
+    ],
+    [
+      "optimism",
+      "evokes",
+      "passion"
+    ],
+    [
+      "optimism",
+      "has universal associations with",
+      "universal associations"
+    ],
+    [
+      "optimism",
+      "increases",
+      "blood pressure"
+    ],
+    [
+      "optimism",
+      "increases",
+      "serotonin"
+    ],
+    [
+      "optimism",
+      "influences",
+      "color psychology"
+    ],
+    [
+      "optimism",
+      "leads to",
+      "joy"
+    ],
+    [
+      "optimism",
+      "promotes",
+      "positivity"
+    ],
+    [
+      "optimism",
+      "promotes",
+      "productivity"
+    ],
+    [
+      "optimism",
+      "promotes",
+      "purity"
+    ],
+    [
+      "passion",
+      "associated with",
+      "warm colors"
+    ],
+    [
+      "passion",
+      "associated with",
+      "well-being"
+    ],
+    [
+      "passion",
+      "contrasts with",
+      "relaxation"
+    ],
+    [
+      "passion",
+      "evokes",
+      "red"
+    ],
+    [
+      "passion",
+      "increases",
+      "heart rate"
+    ],
+    [
+      "passion",
+      "is associated with",
+      "cool colors"
+    ],
+    [
+      "passion",
+      "is associated with",
+      "nature"
+    ],
+    [
+      "passion",
+      "shapes",
+      "meanings"
+    ],
+    [
+      "peace",
+      "contrasts with",
+      "authority"
+    ],
+    [
+      "peace",
+      "contrasts with",
+      "energy"
+    ],
+    [
+      "peace",
+      "contrasts with",
+      "perception"
+    ],
+    [
+      "peace",
+      "contrasts with",
+      "urgency"
+    ],
+    [
+      "peace",
+      "influences",
+      "emotions"
+    ],
+    [
+      "peace",
+      "is a state of",
+      "calming"
+    ],
+    [
+      "peace",
+      "promotes",
+      "optimism"
+    ],
+    [
+      "perception",
+      "affects",
+      "cool colors"
+    ],
+    [
+      "perception",
+      "affects",
+      "emotions"
+    ],
+    [
+      "perception",
+      "affects",
+      "productivity"
+    ],
+    [
+      "perception",
+      "affects",
+      "tranquility"
+    ],
+    [
+      "perception",
+      "conveys",
+      "sophistication"
+    ],
+    [
+      "perception",
+      "enhances",
+      "focus"
+    ],
+    [
+      "perception",
+      "evokes",
+      "happiness"
+    ],
+    [
+      "perception",
+      "induces",
+      "relaxation"
+    ],
+    [
+      "perception",
+      "influences",
+      "calming"
+    ],
+    [
+      "perception",
+      "influences",
+      "colors"
+    ],
+    [
+      "perception",
+      "influences",
+      "excitement"
+    ],
+    [
+      "perception",
+      "influences",
+      "nature"
+    ],
+    [
+      "perception",
+      "influences",
+      "universal associations"
+    ],
+    [
+      "perception",
+      "is influenced by",
+      "influence"
+    ],
+    [
+      "perception",
+      "shapes",
+      "meanings"
+    ],
+    [
+      "positivity",
+      "contrasts with",
+      "duality"
+    ],
+    [
+      "positivity",
+      "enhances",
+      "creativity"
+    ],
+    [
+      "positivity",
+      "enhances",
+      "sophistication"
+    ],
+    [
+      "positivity",
+      "enhances",
+      "warm colors"
+    ],
+    [
+      "positivity",
+      "evokes",
+      "excitement"
+    ],
+    [
+      "positivity",
+      "evokes",
+      "mourning"
+    ],
+    [
+      "positivity",
+      "improves",
+      "focus"
+    ],
+    [
+      "positivity",
+      "increases",
+      "serotonin"
+    ],
+    [
+      "positivity",
+      "is a type of",
+      "meanings"
+    ],
+    [
+      "positivity",
+      "is associated with",
+      "serenity"
+    ],
+    [
+      "positivity",
+      "is associated with",
+      "white"
+    ],
+    [
+      "positivity",
+      "is influenced by",
+      "relaxation"
+    ],
+    [
+      "positivity",
+      "is related to",
+      "universal associations"
+    ],
+    [
+      "power",
+      "affects",
+      "colors"
+    ],
+    [
+      "power",
+      "associated with",
+      "mourning"
+    ],
+    [
+      "power",
+      "associated with",
+      "versatility"
+    ],
+    [
+      "power",
+      "contrasts with",
+      "innocence"
+    ],
+    [
+      "power",
+      "embodies",
+      "appetite"
+    ],
+    [
+      "power",
+      "embodies",
+      "calming"
+    ],
+    [
+      "power",
+      "embodies",
+      "warmth"
+    ],
+    [
+      "power",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "power",
+      "evokes",
+      "mystery"
+    ],
+    [
+      "power",
+      "increases",
+      "blood pressure"
+    ],
+    [
+      "power",
+      "influences",
+      "individual experiences"
+    ],
+    [
+      "power",
+      "is influenced by",
+      "emotions"
+    ],
+    [
+      "power",
+      "linked to",
+      "perception"
+    ],
+    [
+      "power",
+      "represents",
+      "color psychology"
+    ],
+    [
+      "productivity",
+      "associated with",
+      "versatility"
+    ],
+    [
+      "productivity",
+      "can enhance",
+      "danger"
+    ],
+    [
+      "productivity",
+      "enhanced by",
+      "colors"
+    ],
+    [
+      "productivity",
+      "enhanced by",
+      "well-being"
+    ],
+    [
+      "productivity",
+      "enhances",
+      "focus"
+    ],
+    [
+      "productivity",
+      "enhances",
+      "individual experiences"
+    ],
+    [
+      "productivity",
+      "enhances",
+      "relaxation"
+    ],
+    [
+      "productivity",
+      "impacts",
+      "sadness"
+    ],
+    [
+      "productivity",
+      "increases",
+      "serotonin"
+    ],
+    [
+      "productivity",
+      "influences",
+      "behavior"
+    ],
+    [
+      "productivity",
+      "influences",
+      "blood pressure"
+    ],
+    [
+      "productivity",
+      "influences",
+      "color psychology"
+    ],
+    [
+      "productivity",
+      "influences",
+      "heart rate"
+    ],
+    [
+      "productivity",
+      "is enhanced by",
+      "tranquility"
+    ],
+    [
+      "productivity",
+      "is influenced by",
+      "optimism"
+    ],
+    [
+      "productivity",
+      "is linked to",
+      "passion"
+    ],
+    [
+      "productivity",
+      "promotes",
+      "warm colors"
+    ],
+    [
+      "psychological effects",
+      "affects",
+      "behavior"
+    ],
+    [
+      "psychological effects",
+      "affects",
+      "colors"
+    ],
+    [
+      "psychological effects",
+      "affects",
+      "heart rate"
+    ],
+    [
+      "psychological effects",
+      "affects",
+      "perception"
+    ],
+    [
+      "psychological effects",
+      "affects",
+      "well-being"
+    ],
+    [
+      "psychological effects",
+      "can lead to",
+      "optimism"
+    ],
+    [
+      "psychological effects",
+      "enhances",
+      "creativity"
+    ],
+    [
+      "psychological effects",
+      "evokes",
+      "passion"
+    ],
+    [
+      "psychological effects",
+      "evokes",
+      "positivity"
+    ],
+    [
+      "psychological effects",
+      "evokes",
+      "warmth"
+    ],
+    [
+      "psychological effects",
+      "induces",
+      "calming"
+    ],
+    [
+      "psychological effects",
+      "induces",
+      "excitement"
+    ],
+    [
+      "psychological effects",
+      "influences",
+      "appetite"
+    ],
+    [
+      "psychological effects",
+      "influences",
+      "emotions"
+    ],
+    [
+      "psychological effects",
+      "influences",
+      "energy"
+    ],
+    [
+      "psychological effects",
+      "influences",
+      "green"
+    ],
+    [
+      "psychological effects",
+      "influences",
+      "productivity"
+    ],
+    [
+      "psychological effects",
+      "promotes",
+      "peace"
+    ],
+    [
+      "psychological effects",
+      "promotes",
+      "tranquility"
+    ],
+    [
+      "psychological effects",
+      "shapes",
+      "individual experiences"
+    ],
+    [
+      "purity",
+      "associated with",
+      "black"
+    ],
+    [
+      "purity",
+      "associated with",
+      "heart rate"
+    ],
+    [
+      "purity",
+      "associated with",
+      "joy"
+    ],
+    [
+      "purity",
+      "associated with",
+      "peace"
+    ],
+    [
+      "purity",
+      "associated with",
+      "relaxation"
+    ],
+    [
+      "purity",
+      "associated with",
+      "serotonin"
+    ],
+    [
+      "purity",
+      "associated with",
+      "tranquility"
+    ],
+    [
+      "purity",
+      "associated with",
+      "universal associations"
+    ],
+    [
+      "purity",
+      "associates with",
+      "Eastern cultures"
+    ],
+    [
+      "purity",
+      "contrasts with",
+      "mourning"
+    ],
+    [
+      "purity",
+      "contrasts with",
+      "red"
+    ],
+    [
+      "purity",
+      "enhances",
+      "focus"
+    ],
+    [
+      "purity",
+      "is associated with",
+      "appetite"
+    ],
+    [
+      "purity",
+      "is associated with",
+      "death"
+    ],
+    [
+      "purity",
+      "is associated with",
+      "productivity"
+    ],
+    [
+      "purity",
+      "is associated with",
+      "warm colors"
+    ],
+    [
+      "purity",
+      "symbolizes",
+      "warmth"
+    ],
+    [
+      "red",
+      "associated with",
+      "universal associations"
+    ],
+    [
+      "red",
+      "contrasts with",
+      "calming"
+    ],
+    [
+      "red",
+      "contrasts with",
+      "cool colors"
+    ],
+    [
+      "red",
+      "contrasts with",
+      "tranquility"
+    ],
+    [
+      "red",
+      "contrasts with",
+      "white"
+    ],
+    [
+      "red",
+      "increases",
+      "heart rate"
+    ],
+    [
+      "red",
+      "is a type of",
+      "warm colors"
+    ],
+    [
+      "red",
+      "is associated with",
+      "happiness"
+    ],
+    [
+      "red",
+      "is associated with",
+      "serenity"
+    ],
+    [
+      "red",
+      "is influenced by",
+      "productivity"
+    ],
+    [
+      "relaxation",
+      "affects",
+      "emotions"
+    ],
+    [
+      "relaxation",
+      "evokes",
+      "mystery"
+    ],
+    [
+      "relaxation",
+      "increases",
+      "serotonin"
+    ],
+    [
+      "relaxation",
+      "influences",
+      "color psychology"
+    ],
+    [
+      "relaxation",
+      "inhibits",
+      "blood pressure"
+    ],
+    [
+      "relaxation",
+      "is influenced by",
+      "green"
+    ],
+    [
+      "relaxation",
+      "promotes",
+      "authority"
+    ],
+    [
+      "relaxation",
+      "promotes",
+      "optimism"
+    ],
+    [
+      "relaxation",
+      "promotes",
+      "peace"
+    ],
+    [
+      "relaxation",
+      "promotes",
+      "serenity"
+    ],
+    [
+      "relaxation",
+      "promotes",
+      "well-being"
+    ],
+    [
+      "sadness",
+      "associated with",
+      "mourning"
+    ],
+    [
+      "sadness",
+      "associated with",
+      "versatility"
+    ],
+    [
+      "sadness",
+      "contrasts with",
+      "appetite"
+    ],
+    [
+      "sadness",
+      "contrasts with",
+      "calming"
+    ],
+    [
+      "sadness",
+      "contrasts with",
+      "warmth"
+    ],
+    [
+      "sadness",
+      "enhances",
+      "mystery"
+    ],
+    [
+      "sadness",
+      "evokes",
+      "blood pressure"
+    ],
+    [
+      "sadness",
+      "evokes",
+      "relaxation"
+    ],
+    [
+      "sadness",
+      "is a type of",
+      "colors"
+    ],
+    [
+      "sadness",
+      "is a type of",
+      "meanings"
+    ],
+    [
+      "serenity",
+      "associated with",
+      "authority"
+    ],
+    [
+      "serenity",
+      "associated with",
+      "heart rate"
+    ],
+    [
+      "serenity",
+      "associated with",
+      "optimism"
+    ],
+    [
+      "serenity",
+      "associated with",
+      "universal associations"
+    ],
+    [
+      "serenity",
+      "associated with",
+      "versatility"
+    ],
+    [
+      "serenity",
+      "contrasts with",
+      "danger"
+    ],
+    [
+      "serenity",
+      "contrasts with",
+      "energy"
+    ],
+    [
+      "serenity",
+      "contrasts with",
+      "mystery"
+    ],
+    [
+      "serenity",
+      "enhances",
+      "focus"
+    ],
+    [
+      "serenity",
+      "evokes",
+      "happiness"
+    ],
+    [
+      "serenity",
+      "is a state of",
+      "sadness"
+    ],
+    [
+      "serenity",
+      "is associated with",
+      "passion"
+    ],
+    [
+      "serenity",
+      "is synonymous with",
+      "peace"
+    ],
+    [
+      "serenity",
+      "promotes",
+      "creativity"
+    ],
+    [
+      "serenity",
+      "promotes",
+      "mourning"
+    ],
+    [
+      "serenity",
+      "promotes",
+      "productivity"
+    ],
+    [
+      "serenity",
+      "studies",
+      "color psychology"
+    ],
+    [
+      "serotonin",
+      "affects",
+      "blood pressure"
+    ],
+    [
+      "serotonin",
+      "creates",
+      "urgency"
+    ],
+    [
+      "serotonin",
+      "enhances",
+      "focus"
+    ],
+    [
+      "serotonin",
+      "increases",
+      "cool colors"
+    ],
+    [
+      "serotonin",
+      "increases",
+      "excitement"
+    ],
+    [
+      "serotonin",
+      "increases",
+      "peace"
+    ],
+    [
+      "serotonin",
+      "increases",
+      "red"
+    ],
+    [
+      "serotonin",
+      "influences",
+      "authority"
+    ],
+    [
+      "serotonin",
+      "influences",
+      "emotions"
+    ],
+    [
+      "serotonin",
+      "influences",
+      "sadness"
+    ],
+    [
+      "serotonin",
+      "influences",
+      "warm colors"
+    ],
+    [
+      "serotonin",
+      "stimulated by",
+      "passion"
+    ],
+    [
+      "sophistication",
+      "associated with",
+      "blood pressure"
+    ],
+    [
+      "sophistication",
+      "associated with",
+      "emotions"
+    ],
+    [
+      "sophistication",
+      "associated with",
+      "meanings"
+    ],
+    [
+      "sophistication",
+      "associated with",
+      "serotonin"
+    ],
+    [
+      "sophistication",
+      "associated with",
+      "warmth"
+    ],
+    [
+      "sophistication",
+      "associated with",
+      "well-being"
+    ],
+    [
+      "sophistication",
+      "contrasts with",
+      "calming"
+    ],
+    [
+      "sophistication",
+      "contrasts with",
+      "innocence"
+    ],
+    [
+      "sophistication",
+      "contrasts with",
+      "sadness"
+    ],
+    [
+      "sophistication",
+      "conveys",
+      "urgency"
+    ],
+    [
+      "sophistication",
+      "enhances",
+      "focus"
+    ],
+    [
+      "sophistication",
+      "evokes",
+      "excitement"
+    ],
+    [
+      "sophistication",
+      "is linked to",
+      "cool colors"
+    ],
+    [
+      "sophistication",
+      "is linked to",
+      "productivity"
+    ],
+    [
+      "tranquility",
+      "evokes",
+      "joy"
+    ],
+    [
+      "tranquility",
+      "increases",
+      "serotonin"
+    ],
+    [
+      "tranquility",
+      "influences",
+      "heart rate"
+    ],
+    [
+      "tranquility",
+      "is a state of",
+      "serenity"
+    ],
+    [
+      "tranquility",
+      "is associated with",
+      "cool colors"
+    ],
+    [
+      "tranquility",
+      "is associated with",
+      "nature"
+    ],
+    [
+      "tranquility",
+      "promotes",
+      "peace"
+    ],
+    [
+      "tranquility",
+      "promotes",
+      "well-being"
+    ],
+    [
+      "universal associations",
+      "includes",
+      "colors"
+    ],
+    [
+      "universal associations",
+      "influences",
+      "authority"
+    ],
+    [
+      "universal associations",
+      "influences",
+      "heart rate"
+    ],
+    [
+      "universal associations",
+      "influences",
+      "influence"
+    ],
+    [
+      "universal associations",
+      "influences",
+      "well-being"
+    ],
+    [
+      "universal associations",
+      "is defined by",
+      "emotions"
+    ],
+    [
+      "universal associations",
+      "is shaped by",
+      "individual experiences"
+    ],
+    [
+      "universal associations",
+      "leads to",
+      "joy"
+    ],
+    [
+      "universal associations",
+      "shapes",
+      "cultural backgrounds"
+    ],
+    [
+      "universal associations",
+      "triggers",
+      "excitement"
+    ],
+    [
+      "urgency",
+      "associated with",
+      "innocence"
+    ],
+    [
+      "urgency",
+      "contrasts with",
+      "relaxation"
+    ],
+    [
+      "urgency",
+      "creates",
+      "influence"
+    ],
+    [
+      "urgency",
+      "creates",
+      "joy"
+    ],
+    [
+      "urgency",
+      "creates",
+      "optimism"
+    ],
+    [
+      "urgency",
+      "creates",
+      "sadness"
+    ],
+    [
+      "urgency",
+      "drives",
+      "universal associations"
+    ],
+    [
+      "urgency",
+      "evokes",
+      "red"
+    ],
+    [
+      "urgency",
+      "evokes",
+      "warm colors"
+    ],
+    [
+      "urgency",
+      "increases",
+      "blood pressure"
+    ],
+    [
+      "urgency",
+      "influences",
+      "individual experiences"
+    ],
+    [
+      "urgency",
+      "is associated with",
+      "authority"
+    ],
+    [
+      "urgency",
+      "is influenced by",
+      "focus"
+    ],
+    [
+      "urgency",
+      "is studied in",
+      "color psychology"
+    ],
+    [
+      "urgency",
+      "stimulates",
+      "behavior"
+    ],
+    [
+      "urgency",
+      "stimulates",
+      "cool colors"
+    ],
+    [
+      "urgency",
+      "stimulates",
+      "excitement"
+    ],
+    [
+      "urgency",
+      "stimulates",
+      "heart rate"
+    ],
+    [
+      "urgency",
+      "stimulates",
+      "positivity"
+    ],
+    [
+      "urgency",
+      "stimulates",
+      "productivity"
+    ],
+    [
+      "urgency",
+      "stimulates",
+      "serenity"
+    ],
+    [
+      "versatility",
+      "affects",
+      "influence"
+    ],
+    [
+      "versatility",
+      "associated with",
+      "cool colors"
+    ],
+    [
+      "versatility",
+      "associated with",
+      "passion"
+    ],
+    [
+      "versatility",
+      "associated with",
+      "positivity"
+    ],
+    [
+      "versatility",
+      "associated with",
+      "universal associations"
+    ],
+    [
+      "versatility",
+      "associated with",
+      "warm colors"
+    ],
+    [
+      "versatility",
+      "characteristic of",
+      "mourning"
+    ],
+    [
+      "versatility",
+      "characteristic of",
+      "mystery"
+    ],
+    [
+      "versatility",
+      "characteristic of",
+      "tranquility"
+    ],
+    [
+      "versatility",
+      "creates",
+      "urgency"
+    ],
+    [
+      "versatility",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "versatility",
+      "influenced by",
+      "perception"
+    ],
+    [
+      "versatility",
+      "influences",
+      "authority"
+    ],
+    [
+      "versatility",
+      "influences",
+      "blood pressure"
+    ],
+    [
+      "versatility",
+      "influences",
+      "heart rate"
+    ],
+    [
+      "versatility",
+      "is a component of",
+      "color psychology"
+    ],
+    [
+      "versatility",
+      "promotes",
+      "peace"
+    ],
+    [
+      "versatility",
+      "promotes",
+      "relaxation"
+    ],
+    [
+      "warm colors",
+      "affects",
+      "heart rate"
+    ],
+    [
+      "warm colors",
+      "associated with",
+      "innocence"
+    ],
+    [
+      "warm colors",
+      "associated with",
+      "meanings"
+    ],
+    [
+      "warm colors",
+      "associated with",
+      "relaxation"
+    ],
+    [
+      "warm colors",
+      "influences",
+      "blood pressure"
+    ],
+    [
+      "warm colors",
+      "influences",
+      "creativity"
+    ],
+    [
+      "warm colors",
+      "influences",
+      "sadness"
+    ],
+    [
+      "warm colors",
+      "influences",
+      "well-being"
+    ],
+    [
+      "warm colors",
+      "is a characteristic of",
+      "serenity"
+    ],
+    [
+      "warm colors",
+      "is a field of study in",
+      "color psychology"
+    ],
+    [
+      "warmth",
+      "associated with",
+      "blood pressure"
+    ],
+    [
+      "warmth",
+      "associated with",
+      "relaxation"
+    ],
+    [
+      "warmth",
+      "associated with",
+      "versatility"
+    ],
+    [
+      "warmth",
+      "associated with",
+      "well-being"
+    ],
+    [
+      "warmth",
+      "evokes",
+      "behavior"
+    ],
+    [
+      "warmth",
+      "evokes",
+      "heart rate"
+    ],
+    [
+      "warmth",
+      "evokes",
+      "red"
+    ],
+    [
+      "warmth",
+      "evokes",
+      "universal associations"
+    ],
+    [
+      "warmth",
+      "is associated with",
+      "passion"
+    ],
+    [
+      "warmth",
+      "is associated with",
+      "peace"
+    ],
+    [
+      "warmth",
+      "is associated with",
+      "tranquility"
+    ],
+    [
+      "warmth",
+      "is studied in",
+      "color psychology"
+    ],
+    [
+      "well-being",
+      "affects",
+      "perception"
+    ],
+    [
+      "well-being",
+      "enhances",
+      "happiness"
+    ],
+    [
+      "well-being",
+      "enhances",
+      "joy"
+    ],
+    [
+      "well-being",
+      "enhances",
+      "positivity"
+    ],
+    [
+      "well-being",
+      "increases",
+      "serotonin"
+    ],
+    [
+      "well-being",
+      "promotes",
+      "behavior"
+    ],
+    [
+      "well-being",
+      "promotes",
+      "color psychology"
+    ],
+    [
+      "well-being",
+      "promotes",
+      "innocence"
+    ],
+    [
+      "well-being",
+      "promotes",
+      "urgency"
+    ],
+    [
+      "white",
+      "associated with",
+      "calming"
+    ],
+    [
+      "white",
+      "associated with",
+      "focus"
+    ],
+    [
+      "white",
+      "associated with",
+      "mourning"
+    ],
+    [
+      "white",
+      "associated with",
+      "mystery"
+    ],
+    [
+      "white",
+      "associated with",
+      "sadness"
+    ],
+    [
+      "white",
+      "associated with",
+      "tranquility"
+    ],
+    [
+      "white",
+      "associated with",
+      "versatility"
+    ],
+    [
+      "white",
+      "increases",
+      "serotonin"
+    ],
+    [
+      "white",
+      "influences",
+      "behavior"
+    ],
+    [
+      "white",
+      "is associated with",
+      "nature"
+    ],
+    [
+      "white",
+      "is associated with",
+      "warmth"
+    ],
+    [
+      "white",
+      "is influenced by",
+      "individual experiences"
+    ],
+    [
+      "white",
+      "symbolizes",
+      "innocence"
+    ],
+    [
+      "white",
+      "symbolizes",
+      "purity"
+    ],
+    [
+      "yellow",
+      "increases",
+      "serotonin"
+    ],
+    [
+      "yellow",
+      "is associated with",
+      "happiness"
+    ],
+    [
+      "yellow",
+      "is associated with",
+      "positivity"
+    ]
+  ],
+  "edges": [
+    "affected by",
+    "affects",
+    "are",
+    "associated with",
+    "associates with",
+    "benefits from",
+    "can enhance",
+    "can evoke",
+    "can hinder",
+    "can lead to",
+    "characteristic of",
+    "comprises",
+    "contradicts",
+    "contrasts",
+    "contrasts with",
+    "conveys",
+    "creates",
+    "decreases",
+    "drives",
+    "elicits",
+    "embodies",
+    "enhanced by",
+    "enhances",
+    "evokes",
+    "exemplifies",
+    "exerts",
+    "has",
+    "has an effect on",
+    "has universal associations with",
+    "holds authority over",
+    "impacts",
+    "improves",
+    "includes",
+    "increases",
+    "induces",
+    "influenced by",
+    "influences",
+    "informs",
+    "inhibits",
+    "is",
+    "is a",
+    "is a characteristic of",
+    "is a component of",
+    "is a field of study in",
+    "is a state of",
+    "is a type of",
+    "is affected by",
+    "is associated with",
+    "is contrasted with",
+    "is defined by",
+    "is enhanced by",
+    "is evoked by",
+    "is increased by",
+    "is influenced by",
+    "is linked to",
+    "is related to",
+    "is shaped by",
+    "is studied in",
+    "is synonymous with",
+    "leads to",
+    "linked to",
+    "promotes",
+    "represents",
+    "shaped by",
+    "shapes",
+    "stimulated by",
+    "stimulates",
+    "studies",
+    "supports",
+    "symbolizes",
+    "triggers"
+  ]
+}

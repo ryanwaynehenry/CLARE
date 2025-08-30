@@ -1,0 +1,4177 @@
+{
+  "entities": [
+    "French origin",
+    "brain areas",
+    "brain function",
+    "brain processing",
+    "cognitive function",
+    "cognitive psychology",
+    "complexity",
+    "consciousness",
+    "creativity",
+    "curiosity",
+    "curious nature",
+    "current situation",
+    "deja vu",
+    "dual processing",
+    "elusiveness",
+    "episodes",
+    "experience reporting",
+    "experience uniqueness",
+    "exploration",
+    "familiarity",
+    "fatigue",
+    "first-time experience",
+    "human experience",
+    "imagination",
+    "individual differences",
+    "information processing",
+    "interpretation",
+    "investigation",
+    "lab challenges",
+    "measurement challenges",
+    "mechanisms",
+    "memory interpretation",
+    "memory recall",
+    "memory theory",
+    "mystery",
+    "neurological phenomenon",
+    "neurological study",
+    "origins",
+    "past experience",
+    "perception",
+    "perception variability",
+    "phenomenon",
+    "phenomenon complexity",
+    "psychological exploration",
+    "psychological interest",
+    "public fascination",
+    "replication difficulties",
+    "research",
+    "science",
+    "scientific inquiry",
+    "scientific intrigue",
+    "sensation",
+    "sensory perception",
+    "sleep deprivation",
+    "stress",
+    "subjective experience",
+    "theories",
+    "timing discrepancy",
+    "understanding",
+    "unexplained experiences",
+    "variability"
+  ],
+  "relations": [
+    [
+      "French origin",
+      "derives from",
+      "consciousness"
+    ],
+    [
+      "French origin",
+      "is a concept of",
+      "dual processing"
+    ],
+    [
+      "French origin",
+      "is a term for",
+      "origins"
+    ],
+    [
+      "French origin",
+      "is a type of",
+      "episodes"
+    ],
+    [
+      "French origin",
+      "is derived from",
+      "complexity"
+    ],
+    [
+      "French origin",
+      "originates from",
+      "mechanisms"
+    ],
+    [
+      "French origin",
+      "originates from",
+      "memory interpretation"
+    ],
+    [
+      "French origin",
+      "originates from",
+      "neurological phenomenon"
+    ],
+    [
+      "brain areas",
+      "affects",
+      "stress"
+    ],
+    [
+      "brain areas",
+      "involved in",
+      "brain processing"
+    ],
+    [
+      "brain areas",
+      "is related to",
+      "consciousness"
+    ],
+    [
+      "brain areas",
+      "is shaped by",
+      "memory interpretation"
+    ],
+    [
+      "brain areas",
+      "is studied in",
+      "cognitive psychology"
+    ],
+    [
+      "brain areas",
+      "supports",
+      "cognitive function"
+    ],
+    [
+      "brain function",
+      "affects",
+      "individual differences"
+    ],
+    [
+      "brain function",
+      "explains",
+      "understanding"
+    ],
+    [
+      "brain function",
+      "is a function of",
+      "memory recall"
+    ],
+    [
+      "brain function",
+      "is influenced by",
+      "perception variability"
+    ],
+    [
+      "brain processing",
+      "adds to",
+      "complexity"
+    ],
+    [
+      "brain processing",
+      "affects",
+      "cognitive function"
+    ],
+    [
+      "brain processing",
+      "affects",
+      "perception variability"
+    ],
+    [
+      "brain processing",
+      "creates",
+      "familiarity"
+    ],
+    [
+      "brain processing",
+      "explains",
+      "theories"
+    ],
+    [
+      "brain processing",
+      "facilitates",
+      "memory recall"
+    ],
+    [
+      "brain processing",
+      "inspires",
+      "investigation"
+    ],
+    [
+      "brain processing",
+      "is essential for",
+      "curiosity"
+    ],
+    [
+      "brain processing",
+      "is examined in",
+      "neurological study"
+    ],
+    [
+      "brain processing",
+      "is studied in",
+      "cognitive psychology"
+    ],
+    [
+      "brain processing",
+      "shapes",
+      "subjective experience"
+    ],
+    [
+      "brain processing",
+      "supports",
+      "brain function"
+    ],
+    [
+      "brain processing",
+      "triggers",
+      "past experience"
+    ],
+    [
+      "cognitive function",
+      "affects",
+      "experience reporting"
+    ],
+    [
+      "cognitive function",
+      "affects",
+      "experience uniqueness"
+    ],
+    [
+      "cognitive function",
+      "is a component of",
+      "complexity"
+    ],
+    [
+      "cognitive function",
+      "is a concept in",
+      "dual processing"
+    ],
+    [
+      "cognitive function",
+      "is a subject of",
+      "research"
+    ],
+    [
+      "cognitive function",
+      "is explored in",
+      "neurological study"
+    ],
+    [
+      "cognitive function",
+      "is influenced by",
+      "information processing"
+    ],
+    [
+      "cognitive psychology",
+      "examines",
+      "experience reporting"
+    ],
+    [
+      "cognitive psychology",
+      "examines",
+      "perception variability"
+    ],
+    [
+      "cognitive psychology",
+      "highlights",
+      "experience uniqueness"
+    ],
+    [
+      "cognitive psychology",
+      "informs",
+      "research"
+    ],
+    [
+      "cognitive psychology",
+      "is studied in",
+      "consciousness"
+    ],
+    [
+      "cognitive psychology",
+      "is studied in",
+      "unexplained experiences"
+    ],
+    [
+      "cognitive psychology",
+      "originates from",
+      "replication difficulties"
+    ],
+    [
+      "cognitive psychology",
+      "studies",
+      "science"
+    ],
+    [
+      "complexity",
+      "complicates",
+      "first-time experience"
+    ],
+    [
+      "complexity",
+      "contributes to",
+      "replication difficulties"
+    ],
+    [
+      "complexity",
+      "contributes to",
+      "unexplained experiences"
+    ],
+    [
+      "complexity",
+      "drives",
+      "exploration"
+    ],
+    [
+      "complexity",
+      "influences",
+      "human experience"
+    ],
+    [
+      "consciousness",
+      "affects",
+      "individual differences"
+    ],
+    [
+      "consciousness",
+      "affects",
+      "sleep deprivation"
+    ],
+    [
+      "consciousness",
+      "contributes to",
+      "past experience"
+    ],
+    [
+      "consciousness",
+      "drives",
+      "investigation"
+    ],
+    [
+      "consciousness",
+      "enhances",
+      "creativity"
+    ],
+    [
+      "consciousness",
+      "enhances",
+      "imagination"
+    ],
+    [
+      "consciousness",
+      "informs",
+      "research"
+    ],
+    [
+      "consciousness",
+      "involves",
+      "brain processing"
+    ],
+    [
+      "consciousness",
+      "involves",
+      "psychological exploration"
+    ],
+    [
+      "consciousness",
+      "is explained by",
+      "dual processing"
+    ],
+    [
+      "consciousness",
+      "is explored through",
+      "exploration"
+    ],
+    [
+      "consciousness",
+      "is influenced by",
+      "perception"
+    ],
+    [
+      "consciousness",
+      "is influenced by",
+      "timing discrepancy"
+    ],
+    [
+      "consciousness",
+      "relates to",
+      "sensory perception"
+    ],
+    [
+      "consciousness",
+      "studies",
+      "neurological study"
+    ],
+    [
+      "consciousness",
+      "supports",
+      "cognitive function"
+    ],
+    [
+      "creativity",
+      "advances",
+      "science"
+    ],
+    [
+      "creativity",
+      "drives",
+      "investigation"
+    ],
+    [
+      "creativity",
+      "enhances",
+      "experience uniqueness"
+    ],
+    [
+      "creativity",
+      "fuels",
+      "exploration"
+    ],
+    [
+      "creativity",
+      "influences",
+      "curious nature"
+    ],
+    [
+      "creativity",
+      "influences",
+      "experience reporting"
+    ],
+    [
+      "creativity",
+      "influences",
+      "origins"
+    ],
+    [
+      "creativity",
+      "is a type of",
+      "phenomenon"
+    ],
+    [
+      "creativity",
+      "is affected by",
+      "phenomenon complexity"
+    ],
+    [
+      "creativity",
+      "is associated with",
+      "research"
+    ],
+    [
+      "creativity",
+      "is explained by",
+      "theories"
+    ],
+    [
+      "creativity",
+      "is influenced by",
+      "replication difficulties"
+    ],
+    [
+      "creativity",
+      "triggers",
+      "unexplained experiences"
+    ],
+    [
+      "curiosity",
+      "drives",
+      "experience reporting"
+    ],
+    [
+      "curiosity",
+      "drives",
+      "exploration"
+    ],
+    [
+      "curiosity",
+      "drives",
+      "investigation"
+    ],
+    [
+      "curiosity",
+      "drives",
+      "science"
+    ],
+    [
+      "curiosity",
+      "drives",
+      "theories"
+    ],
+    [
+      "curiosity",
+      "drives",
+      "unexplained experiences"
+    ],
+    [
+      "curiosity",
+      "enhances",
+      "experience uniqueness"
+    ],
+    [
+      "curiosity",
+      "enhances",
+      "familiarity"
+    ],
+    [
+      "curiosity",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "curiosity",
+      "fuels",
+      "research"
+    ],
+    [
+      "curiosity",
+      "is driven by",
+      "dual processing"
+    ],
+    [
+      "curiosity",
+      "originates from",
+      "origins"
+    ],
+    [
+      "curiosity",
+      "stimulates",
+      "first-time experience"
+    ],
+    [
+      "curious nature",
+      "captures",
+      "public fascination"
+    ],
+    [
+      "curious nature",
+      "drives",
+      "exploration"
+    ],
+    [
+      "curious nature",
+      "influences",
+      "perception variability"
+    ],
+    [
+      "curious nature",
+      "influences",
+      "phenomenon complexity"
+    ],
+    [
+      "curious nature",
+      "is a feature of",
+      "phenomenon"
+    ],
+    [
+      "curious nature",
+      "is characterized by",
+      "mystery"
+    ],
+    [
+      "curious nature",
+      "is characterized by",
+      "scientific intrigue"
+    ],
+    [
+      "curious nature",
+      "is defined by",
+      "measurement challenges"
+    ],
+    [
+      "curious nature",
+      "is explored in",
+      "consciousness"
+    ],
+    [
+      "curious nature",
+      "is related to",
+      "sleep deprivation"
+    ],
+    [
+      "curious nature",
+      "is studied in",
+      "cognitive psychology"
+    ],
+    [
+      "curious nature",
+      "prompts",
+      "research"
+    ],
+    [
+      "curious nature",
+      "reflects",
+      "complexity"
+    ],
+    [
+      "curious nature",
+      "relates to",
+      "origins"
+    ],
+    [
+      "curious nature",
+      "results in",
+      "individual differences"
+    ],
+    [
+      "current situation",
+      "affects",
+      "subjective experience"
+    ],
+    [
+      "current situation",
+      "influences",
+      "consciousness"
+    ],
+    [
+      "current situation",
+      "influences",
+      "origins"
+    ],
+    [
+      "current situation",
+      "influences",
+      "perception"
+    ],
+    [
+      "current situation",
+      "involves",
+      "information processing"
+    ],
+    [
+      "current situation",
+      "is analyzed by",
+      "mechanisms"
+    ],
+    [
+      "current situation",
+      "is associated with",
+      "deja vu"
+    ],
+    [
+      "current situation",
+      "is based on",
+      "memory interpretation"
+    ],
+    [
+      "current situation",
+      "is examined in",
+      "investigation"
+    ],
+    [
+      "current situation",
+      "resembles",
+      "past experience"
+    ],
+    [
+      "current situation",
+      "supports",
+      "memory theory"
+    ],
+    [
+      "current situation",
+      "triggers",
+      "familiarity"
+    ],
+    [
+      "deja vu",
+      "contributes to",
+      "perception variability"
+    ],
+    [
+      "deja vu",
+      "embodies",
+      "complexity"
+    ],
+    [
+      "deja vu",
+      "enhances",
+      "creativity"
+    ],
+    [
+      "deja vu",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "deja vu",
+      "evokes",
+      "familiarity"
+    ],
+    [
+      "deja vu",
+      "informs",
+      "past experience"
+    ],
+    [
+      "deja vu",
+      "involves",
+      "brain areas"
+    ],
+    [
+      "deja vu",
+      "involves",
+      "memory interpretation"
+    ],
+    [
+      "deja vu",
+      "involves",
+      "memory recall"
+    ],
+    [
+      "deja vu",
+      "involves",
+      "psychological exploration"
+    ],
+    [
+      "deja vu",
+      "is a type of",
+      "neurological phenomenon"
+    ],
+    [
+      "deja vu",
+      "is a type of",
+      "sensation"
+    ],
+    [
+      "deja vu",
+      "is analyzed in",
+      "cognitive psychology"
+    ],
+    [
+      "deja vu",
+      "is explained by",
+      "dual processing"
+    ],
+    [
+      "deja vu",
+      "is explained by",
+      "memory theory"
+    ],
+    [
+      "deja vu",
+      "is influenced by",
+      "imagination"
+    ],
+    [
+      "deja vu",
+      "is influenced by",
+      "variability"
+    ],
+    [
+      "deja vu",
+      "is interpreted as",
+      "interpretation"
+    ],
+    [
+      "deja vu",
+      "is linked to",
+      "cognitive function"
+    ],
+    [
+      "deja vu",
+      "is linked to",
+      "consciousness"
+    ],
+    [
+      "deja vu",
+      "is processed by",
+      "brain processing"
+    ],
+    [
+      "deja vu",
+      "is related to",
+      "investigation"
+    ],
+    [
+      "deja vu",
+      "is studied in",
+      "research"
+    ],
+    [
+      "deja vu",
+      "originates from",
+      "French origin"
+    ],
+    [
+      "deja vu",
+      "presents",
+      "measurement challenges"
+    ],
+    [
+      "deja vu",
+      "provokes",
+      "scientific intrigue"
+    ],
+    [
+      "deja vu",
+      "relates to",
+      "brain function"
+    ],
+    [
+      "deja vu",
+      "relates to",
+      "sensory perception"
+    ],
+    [
+      "deja vu",
+      "shapes",
+      "subjective experience"
+    ],
+    [
+      "deja vu",
+      "stimulates",
+      "curiosity"
+    ],
+    [
+      "dual processing",
+      "contributes to",
+      "complexity"
+    ],
+    [
+      "dual processing",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "dual processing",
+      "explains",
+      "perception variability"
+    ],
+    [
+      "dual processing",
+      "is explained by",
+      "memory interpretation"
+    ],
+    [
+      "dual processing",
+      "is foundational to",
+      "brain processing"
+    ],
+    [
+      "dual processing",
+      "is studied in",
+      "brain areas"
+    ],
+    [
+      "dual processing",
+      "supports",
+      "memory theory"
+    ],
+    [
+      "elusiveness",
+      "contributes to",
+      "cognitive psychology"
+    ],
+    [
+      "elusiveness",
+      "contributes to",
+      "episodes"
+    ],
+    [
+      "elusiveness",
+      "contributes to",
+      "first-time experience"
+    ],
+    [
+      "elusiveness",
+      "contributes to",
+      "phenomenon complexity"
+    ],
+    [
+      "elusiveness",
+      "influences",
+      "subjective experience"
+    ],
+    [
+      "elusiveness",
+      "is characterized by",
+      "human experience"
+    ],
+    [
+      "elusiveness",
+      "is related to",
+      "curiosity"
+    ],
+    [
+      "elusiveness",
+      "results from",
+      "unexplained experiences"
+    ],
+    [
+      "episodes",
+      "affects",
+      "consciousness"
+    ],
+    [
+      "episodes",
+      "complicates",
+      "measurement challenges"
+    ],
+    [
+      "episodes",
+      "complicates",
+      "perception variability"
+    ],
+    [
+      "episodes",
+      "defines",
+      "experience uniqueness"
+    ],
+    [
+      "episodes",
+      "demonstrates",
+      "variability"
+    ],
+    [
+      "episodes",
+      "drives",
+      "science"
+    ],
+    [
+      "episodes",
+      "enhances",
+      "memory recall"
+    ],
+    [
+      "episodes",
+      "explains",
+      "dual processing"
+    ],
+    [
+      "episodes",
+      "includes",
+      "human experience"
+    ],
+    [
+      "episodes",
+      "involves",
+      "sensory perception"
+    ],
+    [
+      "episodes",
+      "is a type of",
+      "neurological phenomenon"
+    ],
+    [
+      "episodes",
+      "is based on",
+      "past experience"
+    ],
+    [
+      "episodes",
+      "is caused by",
+      "timing discrepancy"
+    ],
+    [
+      "episodes",
+      "is experienced through",
+      "current situation"
+    ],
+    [
+      "episodes",
+      "is influenced by",
+      "cognitive function"
+    ],
+    [
+      "episodes",
+      "is influenced by",
+      "creativity"
+    ],
+    [
+      "episodes",
+      "is influenced by",
+      "imagination"
+    ],
+    [
+      "episodes",
+      "is linked to",
+      "first-time experience"
+    ],
+    [
+      "episodes",
+      "is part of",
+      "information processing"
+    ],
+    [
+      "episodes",
+      "is triggered by",
+      "sleep deprivation"
+    ],
+    [
+      "episodes",
+      "stimulates",
+      "scientific inquiry"
+    ],
+    [
+      "episodes",
+      "supports",
+      "memory theory"
+    ],
+    [
+      "experience reporting",
+      "affects",
+      "consciousness"
+    ],
+    [
+      "experience reporting",
+      "affects",
+      "measurement challenges"
+    ],
+    [
+      "experience reporting",
+      "affects",
+      "phenomenon complexity"
+    ],
+    [
+      "experience reporting",
+      "complicates",
+      "complexity"
+    ],
+    [
+      "experience reporting",
+      "complicates",
+      "mystery"
+    ],
+    [
+      "experience reporting",
+      "influences",
+      "human experience"
+    ],
+    [
+      "experience reporting",
+      "informs",
+      "first-time experience"
+    ],
+    [
+      "experience reporting",
+      "is influenced by",
+      "public fascination"
+    ],
+    [
+      "experience reporting",
+      "is influenced by",
+      "scientific inquiry"
+    ],
+    [
+      "experience reporting",
+      "is reported by",
+      "episodes"
+    ],
+    [
+      "experience reporting",
+      "is reported in",
+      "past experience"
+    ],
+    [
+      "experience reporting",
+      "is reported in",
+      "sensory perception"
+    ],
+    [
+      "experience uniqueness",
+      "affects",
+      "replication difficulties"
+    ],
+    [
+      "experience uniqueness",
+      "contributes to",
+      "phenomenon complexity"
+    ],
+    [
+      "experience uniqueness",
+      "influences",
+      "lab challenges"
+    ],
+    [
+      "experience uniqueness",
+      "is characterized by",
+      "complexity"
+    ],
+    [
+      "experience uniqueness",
+      "is characterized by",
+      "sensation"
+    ],
+    [
+      "experience uniqueness",
+      "is compared to",
+      "past experience"
+    ],
+    [
+      "experience uniqueness",
+      "is defined by",
+      "perception"
+    ],
+    [
+      "exploration",
+      "drives",
+      "cognitive function"
+    ],
+    [
+      "exploration",
+      "drives",
+      "experience uniqueness"
+    ],
+    [
+      "exploration",
+      "enhances",
+      "experience reporting"
+    ],
+    [
+      "exploration",
+      "enhances",
+      "familiarity"
+    ],
+    [
+      "exploration",
+      "involves",
+      "mechanisms"
+    ],
+    [
+      "exploration",
+      "is a component of",
+      "investigation"
+    ],
+    [
+      "exploration",
+      "is a field of study in",
+      "cognitive psychology"
+    ],
+    [
+      "exploration",
+      "is a focus of",
+      "science"
+    ],
+    [
+      "exploration",
+      "is a result of",
+      "complexity"
+    ],
+    [
+      "exploration",
+      "is a subject of",
+      "episodes"
+    ],
+    [
+      "exploration",
+      "is studied in",
+      "research"
+    ],
+    [
+      "exploration",
+      "leads to",
+      "origins"
+    ],
+    [
+      "exploration",
+      "reflects",
+      "elusiveness"
+    ],
+    [
+      "exploration",
+      "shapes",
+      "subjective experience"
+    ],
+    [
+      "familiarity",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "familiarity",
+      "evokes",
+      "complexity"
+    ],
+    [
+      "familiarity",
+      "evokes",
+      "first-time experience"
+    ],
+    [
+      "familiarity",
+      "evokes",
+      "scientific intrigue"
+    ],
+    [
+      "familiarity",
+      "influenced by",
+      "consciousness"
+    ],
+    [
+      "familiarity",
+      "influences",
+      "variability"
+    ],
+    [
+      "familiarity",
+      "informs",
+      "investigation"
+    ],
+    [
+      "familiarity",
+      "is a characteristic of",
+      "science"
+    ],
+    [
+      "familiarity",
+      "is a result of",
+      "theories"
+    ],
+    [
+      "familiarity",
+      "is associated with",
+      "French origin"
+    ],
+    [
+      "familiarity",
+      "is associated with",
+      "experience uniqueness"
+    ],
+    [
+      "familiarity",
+      "is characterized by",
+      "episodes"
+    ],
+    [
+      "familiarity",
+      "is characterized by",
+      "mystery"
+    ],
+    [
+      "familiarity",
+      "is complicated by",
+      "lab challenges"
+    ],
+    [
+      "familiarity",
+      "is experienced through",
+      "exploration"
+    ],
+    [
+      "familiarity",
+      "is influenced by",
+      "dual processing"
+    ],
+    [
+      "familiarity",
+      "is related to",
+      "psychological exploration"
+    ],
+    [
+      "fatigue",
+      "affects",
+      "mechanisms"
+    ],
+    [
+      "fatigue",
+      "affects",
+      "subjective experience"
+    ],
+    [
+      "fatigue",
+      "contributes to",
+      "human experience"
+    ],
+    [
+      "fatigue",
+      "influences",
+      "first-time experience"
+    ],
+    [
+      "fatigue",
+      "influences",
+      "origins"
+    ],
+    [
+      "first-time experience",
+      "associated with",
+      "mystery"
+    ],
+    [
+      "first-time experience",
+      "causes",
+      "timing discrepancy"
+    ],
+    [
+      "first-time experience",
+      "complicates",
+      "measurement challenges"
+    ],
+    [
+      "first-time experience",
+      "complicates",
+      "memory interpretation"
+    ],
+    [
+      "first-time experience",
+      "contrasts with",
+      "deja vu"
+    ],
+    [
+      "first-time experience",
+      "drives",
+      "public fascination"
+    ],
+    [
+      "first-time experience",
+      "increases likelihood of",
+      "stress"
+    ],
+    [
+      "first-time experience",
+      "informs",
+      "understanding"
+    ],
+    [
+      "first-time experience",
+      "involves",
+      "mechanisms"
+    ],
+    [
+      "first-time experience",
+      "is experienced as",
+      "human experience"
+    ],
+    [
+      "first-time experience",
+      "is experienced by",
+      "perception"
+    ],
+    [
+      "first-time experience",
+      "is explained by",
+      "memory theory"
+    ],
+    [
+      "first-time experience",
+      "is explored through",
+      "exploration"
+    ],
+    [
+      "first-time experience",
+      "is processed by",
+      "brain processing"
+    ],
+    [
+      "first-time experience",
+      "is related to",
+      "phenomenon"
+    ],
+    [
+      "first-time experience",
+      "prompts",
+      "scientific inquiry"
+    ],
+    [
+      "first-time experience",
+      "sparks",
+      "psychological interest"
+    ],
+    [
+      "human experience",
+      "affects",
+      "timing discrepancy"
+    ],
+    [
+      "human experience",
+      "drives",
+      "exploration"
+    ],
+    [
+      "human experience",
+      "drives",
+      "psychological exploration"
+    ],
+    [
+      "human experience",
+      "drives",
+      "scientific inquiry"
+    ],
+    [
+      "human experience",
+      "evokes",
+      "familiarity"
+    ],
+    [
+      "human experience",
+      "explores",
+      "origins"
+    ],
+    [
+      "human experience",
+      "includes",
+      "deja vu"
+    ],
+    [
+      "human experience",
+      "informs",
+      "consciousness"
+    ],
+    [
+      "human experience",
+      "involves",
+      "brain processing"
+    ],
+    [
+      "human experience",
+      "involves",
+      "information processing"
+    ],
+    [
+      "human experience",
+      "is explained by",
+      "dual processing"
+    ],
+    [
+      "human experience",
+      "is informed by",
+      "past experience"
+    ],
+    [
+      "human experience",
+      "originates from",
+      "French origin"
+    ],
+    [
+      "human experience",
+      "prompts",
+      "investigation"
+    ],
+    [
+      "human experience",
+      "shapes",
+      "research"
+    ],
+    [
+      "imagination",
+      "contributes to",
+      "elusiveness"
+    ],
+    [
+      "imagination",
+      "drives",
+      "exploration"
+    ],
+    [
+      "imagination",
+      "drives",
+      "investigation"
+    ],
+    [
+      "imagination",
+      "drives",
+      "public fascination"
+    ],
+    [
+      "imagination",
+      "enhances",
+      "experience reporting"
+    ],
+    [
+      "imagination",
+      "enhances",
+      "experience uniqueness"
+    ],
+    [
+      "imagination",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "imagination",
+      "fosters",
+      "creativity"
+    ],
+    [
+      "imagination",
+      "influences",
+      "familiarity"
+    ],
+    [
+      "imagination",
+      "influences",
+      "mechanisms"
+    ],
+    [
+      "imagination",
+      "is a field of study in",
+      "cognitive psychology"
+    ],
+    [
+      "imagination",
+      "is explained by",
+      "theories"
+    ],
+    [
+      "imagination",
+      "is studied in",
+      "research"
+    ],
+    [
+      "imagination",
+      "originates from",
+      "origins"
+    ],
+    [
+      "individual differences",
+      "affects",
+      "brain areas"
+    ],
+    [
+      "individual differences",
+      "affects",
+      "dual processing"
+    ],
+    [
+      "individual differences",
+      "contributes to",
+      "sensory perception"
+    ],
+    [
+      "individual differences",
+      "encourages",
+      "exploration"
+    ],
+    [
+      "individual differences",
+      "is affected by",
+      "unexplained experiences"
+    ],
+    [
+      "individual differences",
+      "is influenced by",
+      "psychological interest"
+    ],
+    [
+      "individual differences",
+      "is shaped by",
+      "perception"
+    ],
+    [
+      "individual differences",
+      "is studied by",
+      "cognitive psychology"
+    ],
+    [
+      "individual differences",
+      "shaped by",
+      "consciousness"
+    ],
+    [
+      "information processing",
+      "affects",
+      "individual differences"
+    ],
+    [
+      "information processing",
+      "contributes to",
+      "understanding"
+    ],
+    [
+      "information processing",
+      "creates",
+      "familiarity"
+    ],
+    [
+      "information processing",
+      "derives from",
+      "French origin"
+    ],
+    [
+      "information processing",
+      "facilitates",
+      "memory recall"
+    ],
+    [
+      "information processing",
+      "fuels",
+      "curiosity"
+    ],
+    [
+      "information processing",
+      "fuels",
+      "public fascination"
+    ],
+    [
+      "information processing",
+      "influences",
+      "sensory perception"
+    ],
+    [
+      "information processing",
+      "involves",
+      "brain areas"
+    ],
+    [
+      "information processing",
+      "involves",
+      "brain processing"
+    ],
+    [
+      "information processing",
+      "involves",
+      "mechanisms"
+    ],
+    [
+      "information processing",
+      "involves",
+      "psychological interest"
+    ],
+    [
+      "information processing",
+      "is a function of",
+      "brain function"
+    ],
+    [
+      "information processing",
+      "is affected by",
+      "stress"
+    ],
+    [
+      "information processing",
+      "is explained by",
+      "memory theory"
+    ],
+    [
+      "information processing",
+      "is influenced by",
+      "memory interpretation"
+    ],
+    [
+      "information processing",
+      "is studied in",
+      "cognitive psychology"
+    ],
+    [
+      "information processing",
+      "is subject to",
+      "investigation"
+    ],
+    [
+      "interpretation",
+      "affects",
+      "brain function"
+    ],
+    [
+      "interpretation",
+      "affects",
+      "measurement challenges"
+    ],
+    [
+      "interpretation",
+      "affects",
+      "replication difficulties"
+    ],
+    [
+      "interpretation",
+      "clarifies",
+      "mechanisms"
+    ],
+    [
+      "interpretation",
+      "defines",
+      "experience uniqueness"
+    ],
+    [
+      "interpretation",
+      "drives",
+      "exploration"
+    ],
+    [
+      "interpretation",
+      "drives",
+      "investigation"
+    ],
+    [
+      "interpretation",
+      "drives",
+      "public fascination"
+    ],
+    [
+      "interpretation",
+      "enhances",
+      "imagination"
+    ],
+    [
+      "interpretation",
+      "facilitates",
+      "understanding"
+    ],
+    [
+      "interpretation",
+      "informs",
+      "brain areas"
+    ],
+    [
+      "interpretation",
+      "informs",
+      "origins"
+    ],
+    [
+      "interpretation",
+      "involves",
+      "brain processing"
+    ],
+    [
+      "interpretation",
+      "involves",
+      "cognitive function"
+    ],
+    [
+      "interpretation",
+      "involves",
+      "unexplained experiences"
+    ],
+    [
+      "interpretation",
+      "is a focus of",
+      "cognitive psychology"
+    ],
+    [
+      "interpretation",
+      "is a focus of",
+      "research"
+    ],
+    [
+      "interpretation",
+      "is explained by",
+      "dual processing"
+    ],
+    [
+      "interpretation",
+      "is explained by",
+      "memory theory"
+    ],
+    [
+      "interpretation",
+      "is explored by",
+      "psychological exploration"
+    ],
+    [
+      "interpretation",
+      "is related to",
+      "mystery"
+    ],
+    [
+      "interpretation",
+      "originates from",
+      "French origin"
+    ],
+    [
+      "interpretation",
+      "shapes",
+      "curious nature"
+    ],
+    [
+      "interpretation",
+      "sparks",
+      "curiosity"
+    ],
+    [
+      "interpretation",
+      "supports",
+      "memory recall"
+    ],
+    [
+      "interpretation",
+      "varies with",
+      "perception variability"
+    ],
+    [
+      "investigation",
+      "affects",
+      "experience reporting"
+    ],
+    [
+      "investigation",
+      "affects",
+      "fatigue"
+    ],
+    [
+      "investigation",
+      "drives",
+      "complexity"
+    ],
+    [
+      "investigation",
+      "enhances",
+      "memory recall"
+    ],
+    [
+      "investigation",
+      "examines",
+      "subjective experience"
+    ],
+    [
+      "investigation",
+      "explores",
+      "origins"
+    ],
+    [
+      "investigation",
+      "explores",
+      "variability"
+    ],
+    [
+      "investigation",
+      "facilitates",
+      "understanding"
+    ],
+    [
+      "investigation",
+      "is motivated by",
+      "curious nature"
+    ],
+    [
+      "investigation",
+      "is studied in",
+      "dual processing"
+    ],
+    [
+      "investigation",
+      "leads to",
+      "research"
+    ],
+    [
+      "investigation",
+      "promotes",
+      "experience uniqueness"
+    ],
+    [
+      "investigation",
+      "supports",
+      "science"
+    ],
+    [
+      "lab challenges",
+      "challenges",
+      "dual processing"
+    ],
+    [
+      "lab challenges",
+      "challenges",
+      "memory interpretation"
+    ],
+    [
+      "lab challenges",
+      "complicates",
+      "experience reporting"
+    ],
+    [
+      "lab challenges",
+      "complicates",
+      "exploration"
+    ],
+    [
+      "lab challenges",
+      "complicates",
+      "psychological interest"
+    ],
+    [
+      "lab challenges",
+      "complicates",
+      "scientific intrigue"
+    ],
+    [
+      "lab challenges",
+      "is challenged by",
+      "timing discrepancy"
+    ],
+    [
+      "lab challenges",
+      "presents",
+      "memory recall"
+    ],
+    [
+      "lab challenges",
+      "presents",
+      "past experience"
+    ],
+    [
+      "lab challenges",
+      "presents",
+      "research"
+    ],
+    [
+      "lab challenges",
+      "presents challenges for",
+      "human experience"
+    ],
+    [
+      "lab challenges",
+      "presents challenges for",
+      "investigation"
+    ],
+    [
+      "lab challenges",
+      "presents challenges to",
+      "first-time experience"
+    ],
+    [
+      "lab challenges",
+      "presents challenges to",
+      "imagination"
+    ],
+    [
+      "measurement challenges",
+      "affects",
+      "creativity"
+    ],
+    [
+      "measurement challenges",
+      "affects",
+      "phenomenon complexity"
+    ],
+    [
+      "measurement challenges",
+      "complicates",
+      "past experience"
+    ],
+    [
+      "measurement challenges",
+      "complicates",
+      "science"
+    ],
+    [
+      "measurement challenges",
+      "contributes to",
+      "elusiveness"
+    ],
+    [
+      "measurement challenges",
+      "drives",
+      "public fascination"
+    ],
+    [
+      "measurement challenges",
+      "fuels",
+      "curiosity"
+    ],
+    [
+      "measurement challenges",
+      "fuels",
+      "scientific intrigue"
+    ],
+    [
+      "measurement challenges",
+      "influences",
+      "imagination"
+    ],
+    [
+      "measurement challenges",
+      "presents",
+      "cognitive psychology"
+    ],
+    [
+      "measurement challenges",
+      "presents",
+      "psychological interest"
+    ],
+    [
+      "measurement challenges",
+      "presents",
+      "research"
+    ],
+    [
+      "mechanisms",
+      "influences",
+      "experience reporting"
+    ],
+    [
+      "mechanisms",
+      "informs",
+      "research"
+    ],
+    [
+      "memory interpretation",
+      "affects",
+      "cognitive psychology"
+    ],
+    [
+      "memory interpretation",
+      "affects",
+      "perception variability"
+    ],
+    [
+      "memory interpretation",
+      "influences",
+      "consciousness"
+    ],
+    [
+      "memory interpretation",
+      "influences",
+      "current situation"
+    ],
+    [
+      "memory interpretation",
+      "influences",
+      "individual differences"
+    ],
+    [
+      "memory interpretation",
+      "influences",
+      "psychological interest"
+    ],
+    [
+      "memory interpretation",
+      "involves",
+      "brain function"
+    ],
+    [
+      "memory interpretation",
+      "involves",
+      "brain processing"
+    ],
+    [
+      "memory interpretation",
+      "involves",
+      "cognitive function"
+    ],
+    [
+      "memory interpretation",
+      "involves",
+      "sensory perception"
+    ],
+    [
+      "memory interpretation",
+      "is a component of",
+      "memory theory"
+    ],
+    [
+      "memory interpretation",
+      "is analyzed in",
+      "investigation"
+    ],
+    [
+      "memory interpretation",
+      "is influenced by",
+      "episodes"
+    ],
+    [
+      "memory interpretation",
+      "is influenced by",
+      "human experience"
+    ],
+    [
+      "memory interpretation",
+      "is related to",
+      "theories"
+    ],
+    [
+      "memory interpretation",
+      "is studied by",
+      "neurological study"
+    ],
+    [
+      "memory recall",
+      "affects",
+      "individual differences"
+    ],
+    [
+      "memory recall",
+      "evokes",
+      "familiarity"
+    ],
+    [
+      "memory recall",
+      "informs",
+      "human experience"
+    ],
+    [
+      "memory recall",
+      "is investigated by",
+      "neurological study"
+    ],
+    [
+      "memory recall",
+      "is linked to",
+      "current situation"
+    ],
+    [
+      "memory recall",
+      "is linked to",
+      "dual processing"
+    ],
+    [
+      "memory recall",
+      "is related to",
+      "perception variability"
+    ],
+    [
+      "memory recall",
+      "relates to",
+      "origins"
+    ],
+    [
+      "memory recall",
+      "triggers",
+      "curiosity"
+    ],
+    [
+      "memory recall",
+      "triggers",
+      "first-time experience"
+    ],
+    [
+      "memory theory",
+      "is explained by",
+      "consciousness"
+    ],
+    [
+      "memory theory",
+      "is related to",
+      "cognitive function"
+    ],
+    [
+      "memory theory",
+      "is related to",
+      "subjective experience"
+    ],
+    [
+      "memory theory",
+      "supports",
+      "memory recall"
+    ],
+    [
+      "memory theory",
+      "supports",
+      "sensory perception"
+    ],
+    [
+      "mystery",
+      "complicates",
+      "consciousness"
+    ],
+    [
+      "mystery",
+      "drives",
+      "exploration"
+    ],
+    [
+      "mystery",
+      "drives",
+      "investigation"
+    ],
+    [
+      "mystery",
+      "drives",
+      "psychological exploration"
+    ],
+    [
+      "mystery",
+      "drives",
+      "research"
+    ],
+    [
+      "mystery",
+      "drives",
+      "scientific inquiry"
+    ],
+    [
+      "mystery",
+      "encompasses",
+      "phenomenon"
+    ],
+    [
+      "mystery",
+      "fuels",
+      "imagination"
+    ],
+    [
+      "mystery",
+      "influences",
+      "subjective experience"
+    ],
+    [
+      "mystery",
+      "influences",
+      "variability"
+    ],
+    [
+      "mystery",
+      "informs",
+      "mechanisms"
+    ],
+    [
+      "mystery",
+      "is associated with",
+      "deja vu"
+    ],
+    [
+      "mystery",
+      "is related to",
+      "past experience"
+    ],
+    [
+      "mystery",
+      "is studied in",
+      "science"
+    ],
+    [
+      "mystery",
+      "relates to",
+      "cognitive psychology"
+    ],
+    [
+      "mystery",
+      "shapes",
+      "theories"
+    ],
+    [
+      "mystery",
+      "sparks",
+      "curiosity"
+    ],
+    [
+      "mystery",
+      "sparks",
+      "psychological interest"
+    ],
+    [
+      "mystery",
+      "surrounds",
+      "episodes"
+    ],
+    [
+      "neurological phenomenon",
+      "affects",
+      "brain function"
+    ],
+    [
+      "neurological study",
+      "investigates",
+      "brain function"
+    ],
+    [
+      "neurological study",
+      "is studied by",
+      "complexity"
+    ],
+    [
+      "neurological study",
+      "is studied in",
+      "dual processing"
+    ],
+    [
+      "neurological study",
+      "is studied in",
+      "episodes"
+    ],
+    [
+      "origins",
+      "affects",
+      "phenomenon complexity"
+    ],
+    [
+      "origins",
+      "contributes to",
+      "experience uniqueness"
+    ],
+    [
+      "origins",
+      "explains",
+      "mechanisms"
+    ],
+    [
+      "origins",
+      "explains",
+      "unexplained experiences"
+    ],
+    [
+      "origins",
+      "influences",
+      "experience reporting"
+    ],
+    [
+      "origins",
+      "is a barrier to",
+      "measurement challenges"
+    ],
+    [
+      "origins",
+      "is a concept of",
+      "dual processing"
+    ],
+    [
+      "origins",
+      "is a source of",
+      "episodes"
+    ],
+    [
+      "origins",
+      "is a source of",
+      "variability"
+    ],
+    [
+      "origins",
+      "is derived from",
+      "French origin"
+    ],
+    [
+      "origins",
+      "is derived from",
+      "deja vu"
+    ],
+    [
+      "origins",
+      "is explored by",
+      "research"
+    ],
+    [
+      "origins",
+      "is linked to",
+      "elusiveness"
+    ],
+    [
+      "origins",
+      "is studied by",
+      "science"
+    ],
+    [
+      "origins",
+      "related to",
+      "brain processing"
+    ],
+    [
+      "origins",
+      "relates to",
+      "understanding"
+    ],
+    [
+      "past experience",
+      "affects",
+      "variability"
+    ],
+    [
+      "past experience",
+      "drives",
+      "research"
+    ],
+    [
+      "past experience",
+      "explains",
+      "mechanisms"
+    ],
+    [
+      "past experience",
+      "fuels",
+      "investigation"
+    ],
+    [
+      "past experience",
+      "influences",
+      "creativity"
+    ],
+    [
+      "past experience",
+      "influences",
+      "timing discrepancy"
+    ],
+    [
+      "past experience",
+      "informs",
+      "memory theory"
+    ],
+    [
+      "past experience",
+      "informs",
+      "science"
+    ],
+    [
+      "past experience",
+      "is a reference to",
+      "current situation"
+    ],
+    [
+      "past experience",
+      "is explained by",
+      "dual processing"
+    ],
+    [
+      "past experience",
+      "is explored through",
+      "exploration"
+    ],
+    [
+      "past experience",
+      "is influenced by",
+      "fatigue"
+    ],
+    [
+      "past experience",
+      "is influenced by",
+      "imagination"
+    ],
+    [
+      "past experience",
+      "is influenced by",
+      "perception"
+    ],
+    [
+      "past experience",
+      "is influenced by",
+      "sensation"
+    ],
+    [
+      "past experience",
+      "is related to",
+      "familiarity"
+    ],
+    [
+      "past experience",
+      "originates from",
+      "French origin"
+    ],
+    [
+      "past experience",
+      "triggers",
+      "subjective experience"
+    ],
+    [
+      "perception",
+      "contributes to",
+      "elusiveness"
+    ],
+    [
+      "perception",
+      "involves",
+      "information processing"
+    ],
+    [
+      "perception",
+      "is a form of",
+      "deja vu"
+    ],
+    [
+      "perception",
+      "is a type of",
+      "neurological phenomenon"
+    ],
+    [
+      "perception",
+      "is affected by",
+      "timing discrepancy"
+    ],
+    [
+      "perception",
+      "is characterized by",
+      "subjective experience"
+    ],
+    [
+      "perception",
+      "is explored by",
+      "scientific inquiry"
+    ],
+    [
+      "perception",
+      "is influenced by",
+      "measurement challenges"
+    ],
+    [
+      "perception",
+      "is interpreted by",
+      "memory interpretation"
+    ],
+    [
+      "perception",
+      "is shaped by",
+      "experience reporting"
+    ],
+    [
+      "perception",
+      "is studied in",
+      "brain areas"
+    ],
+    [
+      "perception",
+      "is studied through",
+      "neurological study"
+    ],
+    [
+      "perception",
+      "leads to",
+      "exploration"
+    ],
+    [
+      "perception",
+      "sparks",
+      "public fascination"
+    ],
+    [
+      "perception",
+      "stimulates",
+      "curiosity"
+    ],
+    [
+      "perception",
+      "supports",
+      "memory theory"
+    ],
+    [
+      "perception variability",
+      "affects",
+      "brain function"
+    ],
+    [
+      "perception variability",
+      "affects",
+      "consciousness"
+    ],
+    [
+      "perception variability",
+      "affects",
+      "experience reporting"
+    ],
+    [
+      "perception variability",
+      "affects",
+      "measurement challenges"
+    ],
+    [
+      "perception variability",
+      "affects",
+      "mystery"
+    ],
+    [
+      "perception variability",
+      "affects",
+      "neurological study"
+    ],
+    [
+      "perception variability",
+      "contributes to",
+      "complexity"
+    ],
+    [
+      "perception variability",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "perception variability",
+      "examines",
+      "theories"
+    ],
+    [
+      "perception variability",
+      "explains",
+      "memory theory"
+    ],
+    [
+      "perception variability",
+      "highlights",
+      "experience uniqueness"
+    ],
+    [
+      "perception variability",
+      "influences",
+      "cognitive function"
+    ],
+    [
+      "perception variability",
+      "is studied in",
+      "research"
+    ],
+    [
+      "phenomenon",
+      "defines",
+      "subjective experience"
+    ],
+    [
+      "phenomenon",
+      "evokes",
+      "familiarity"
+    ],
+    [
+      "phenomenon",
+      "is a characteristic of",
+      "elusiveness"
+    ],
+    [
+      "phenomenon",
+      "is a characteristic of",
+      "past experience"
+    ],
+    [
+      "phenomenon",
+      "is a subject of",
+      "investigation"
+    ],
+    [
+      "phenomenon",
+      "is a type of",
+      "French origin"
+    ],
+    [
+      "phenomenon",
+      "is characterized by",
+      "research"
+    ],
+    [
+      "phenomenon",
+      "is complicated by",
+      "experience reporting"
+    ],
+    [
+      "phenomenon",
+      "is linked to",
+      "sensation"
+    ],
+    [
+      "phenomenon",
+      "sparks",
+      "scientific intrigue"
+    ],
+    [
+      "phenomenon complexity",
+      "complicates",
+      "curiosity"
+    ],
+    [
+      "phenomenon complexity",
+      "is related to",
+      "past experience"
+    ],
+    [
+      "psychological exploration",
+      "contributes to",
+      "elusiveness"
+    ],
+    [
+      "psychological exploration",
+      "enhances",
+      "cognitive function"
+    ],
+    [
+      "psychological exploration",
+      "examines",
+      "complexity"
+    ],
+    [
+      "psychological exploration",
+      "examines",
+      "experience uniqueness"
+    ],
+    [
+      "psychological exploration",
+      "explores",
+      "phenomenon"
+    ],
+    [
+      "psychological exploration",
+      "explores",
+      "phenomenon complexity"
+    ],
+    [
+      "psychological exploration",
+      "explores",
+      "theories"
+    ],
+    [
+      "psychological exploration",
+      "fuels",
+      "curiosity"
+    ],
+    [
+      "psychological exploration",
+      "includes",
+      "subjective experience"
+    ],
+    [
+      "psychological exploration",
+      "informs",
+      "science"
+    ],
+    [
+      "psychological exploration",
+      "investigates",
+      "mechanisms"
+    ],
+    [
+      "psychological exploration",
+      "investigates",
+      "origins"
+    ],
+    [
+      "psychological exploration",
+      "involves",
+      "experience reporting"
+    ],
+    [
+      "psychological exploration",
+      "involves",
+      "past experience"
+    ],
+    [
+      "psychological exploration",
+      "involves",
+      "sensory perception"
+    ],
+    [
+      "psychological exploration",
+      "is examined in",
+      "timing discrepancy"
+    ],
+    [
+      "psychological exploration",
+      "is explored by",
+      "perception"
+    ],
+    [
+      "psychological exploration",
+      "is influenced by",
+      "variability"
+    ],
+    [
+      "psychological exploration",
+      "is linked to",
+      "creativity"
+    ],
+    [
+      "psychological exploration",
+      "is related to",
+      "individual differences"
+    ],
+    [
+      "psychological exploration",
+      "leads to",
+      "investigation"
+    ],
+    [
+      "psychological exploration",
+      "promotes",
+      "research"
+    ],
+    [
+      "psychological interest",
+      "complicates",
+      "elusiveness"
+    ],
+    [
+      "psychological interest",
+      "drives",
+      "curiosity"
+    ],
+    [
+      "psychological interest",
+      "drives",
+      "exploration"
+    ],
+    [
+      "psychological interest",
+      "drives",
+      "phenomenon"
+    ],
+    [
+      "psychological interest",
+      "drives",
+      "public fascination"
+    ],
+    [
+      "psychological interest",
+      "drives",
+      "research"
+    ],
+    [
+      "psychological interest",
+      "drives",
+      "subjective experience"
+    ],
+    [
+      "psychological interest",
+      "increases",
+      "unexplained experiences"
+    ],
+    [
+      "psychological interest",
+      "influences",
+      "cognitive psychology"
+    ],
+    [
+      "psychological interest",
+      "influences",
+      "experience reporting"
+    ],
+    [
+      "psychological interest",
+      "informs",
+      "past experience"
+    ],
+    [
+      "psychological interest",
+      "is affected by",
+      "variability"
+    ],
+    [
+      "psychological interest",
+      "is explored in",
+      "scientific inquiry"
+    ],
+    [
+      "psychological interest",
+      "is influenced by",
+      "creativity"
+    ],
+    [
+      "psychological interest",
+      "is influenced by",
+      "timing discrepancy"
+    ],
+    [
+      "psychological interest",
+      "is related to",
+      "memory theory"
+    ],
+    [
+      "psychological interest",
+      "reflects",
+      "curious nature"
+    ],
+    [
+      "psychological interest",
+      "stimulates",
+      "brain processing"
+    ],
+    [
+      "public fascination",
+      "attracts",
+      "current situation"
+    ],
+    [
+      "public fascination",
+      "captures",
+      "consciousness"
+    ],
+    [
+      "public fascination",
+      "captures",
+      "human experience"
+    ],
+    [
+      "public fascination",
+      "complicates",
+      "phenomenon complexity"
+    ],
+    [
+      "public fascination",
+      "drives",
+      "research"
+    ],
+    [
+      "public fascination",
+      "drives",
+      "variability"
+    ],
+    [
+      "public fascination",
+      "enhances",
+      "experience uniqueness"
+    ],
+    [
+      "public fascination",
+      "fuels",
+      "mechanisms"
+    ],
+    [
+      "public fascination",
+      "fuels",
+      "scientific intrigue"
+    ],
+    [
+      "public fascination",
+      "generates",
+      "sensory perception"
+    ],
+    [
+      "public fascination",
+      "influences",
+      "memory interpretation"
+    ],
+    [
+      "public fascination",
+      "interests",
+      "deja vu"
+    ],
+    [
+      "public fascination",
+      "is attracted by",
+      "mystery"
+    ],
+    [
+      "public fascination",
+      "is driven by",
+      "exploration"
+    ],
+    [
+      "public fascination",
+      "is driven by",
+      "familiarity"
+    ],
+    [
+      "public fascination",
+      "results in",
+      "lab challenges"
+    ],
+    [
+      "public fascination",
+      "sparks",
+      "subjective experience"
+    ],
+    [
+      "replication difficulties",
+      "affects",
+      "cognitive function"
+    ],
+    [
+      "replication difficulties",
+      "affects",
+      "experience reporting"
+    ],
+    [
+      "replication difficulties",
+      "affects",
+      "imagination"
+    ],
+    [
+      "replication difficulties",
+      "affects",
+      "memory recall"
+    ],
+    [
+      "replication difficulties",
+      "affects",
+      "theories"
+    ],
+    [
+      "replication difficulties",
+      "complicates",
+      "episodes"
+    ],
+    [
+      "replication difficulties",
+      "complicates",
+      "mystery"
+    ],
+    [
+      "replication difficulties",
+      "complicates",
+      "understanding"
+    ],
+    [
+      "replication difficulties",
+      "contributes to",
+      "elusiveness"
+    ],
+    [
+      "replication difficulties",
+      "creates",
+      "consciousness"
+    ],
+    [
+      "replication difficulties",
+      "creates",
+      "neurological study"
+    ],
+    [
+      "replication difficulties",
+      "creates",
+      "scientific intrigue"
+    ],
+    [
+      "replication difficulties",
+      "highlights",
+      "curious nature"
+    ],
+    [
+      "replication difficulties",
+      "involves",
+      "brain areas"
+    ],
+    [
+      "replication difficulties",
+      "is challenged by",
+      "memory interpretation"
+    ],
+    [
+      "replication difficulties",
+      "is impacted by",
+      "measurement challenges"
+    ],
+    [
+      "replication difficulties",
+      "sparks",
+      "psychological interest"
+    ],
+    [
+      "research",
+      "complicates",
+      "phenomenon complexity"
+    ],
+    [
+      "research",
+      "drives",
+      "unexplained experiences"
+    ],
+    [
+      "research",
+      "explores",
+      "familiarity"
+    ],
+    [
+      "research",
+      "influences",
+      "subjective experience"
+    ],
+    [
+      "research",
+      "is studied by",
+      "episodes"
+    ],
+    [
+      "research",
+      "shapes",
+      "experience reporting"
+    ],
+    [
+      "science",
+      "affects",
+      "replication difficulties"
+    ],
+    [
+      "science",
+      "challenges science",
+      "lab challenges"
+    ],
+    [
+      "science",
+      "explains",
+      "phenomenon"
+    ],
+    [
+      "science",
+      "highlights",
+      "phenomenon complexity"
+    ],
+    [
+      "science",
+      "influences",
+      "subjective experience"
+    ],
+    [
+      "science",
+      "is a subject of",
+      "imagination"
+    ],
+    [
+      "science",
+      "is driven by",
+      "curious nature"
+    ],
+    [
+      "science",
+      "is studied by",
+      "first-time experience"
+    ],
+    [
+      "science",
+      "is studied by",
+      "perception variability"
+    ],
+    [
+      "science",
+      "is studied in",
+      "interpretation"
+    ],
+    [
+      "science",
+      "supports",
+      "research"
+    ],
+    [
+      "scientific inquiry",
+      "captures",
+      "public fascination"
+    ],
+    [
+      "scientific inquiry",
+      "drives",
+      "past experience"
+    ],
+    [
+      "scientific inquiry",
+      "examines",
+      "individual differences"
+    ],
+    [
+      "scientific inquiry",
+      "explores",
+      "cognitive psychology"
+    ],
+    [
+      "scientific inquiry",
+      "explores",
+      "unexplained experiences"
+    ],
+    [
+      "scientific inquiry",
+      "faces",
+      "lab challenges"
+    ],
+    [
+      "scientific inquiry",
+      "guides",
+      "theories"
+    ],
+    [
+      "scientific inquiry",
+      "highlights",
+      "experience uniqueness"
+    ],
+    [
+      "scientific inquiry",
+      "informs",
+      "experience reporting"
+    ],
+    [
+      "scientific inquiry",
+      "inspires",
+      "imagination"
+    ],
+    [
+      "scientific inquiry",
+      "investigates",
+      "origins"
+    ],
+    [
+      "scientific inquiry",
+      "investigates",
+      "phenomenon"
+    ],
+    [
+      "scientific inquiry",
+      "investigates",
+      "sensory perception"
+    ],
+    [
+      "scientific inquiry",
+      "investigates",
+      "subjective experience"
+    ],
+    [
+      "scientific inquiry",
+      "is associated with",
+      "familiarity"
+    ],
+    [
+      "scientific inquiry",
+      "is driven by",
+      "creativity"
+    ],
+    [
+      "scientific inquiry",
+      "is driven by",
+      "interpretation"
+    ],
+    [
+      "scientific inquiry",
+      "is examined in",
+      "variability"
+    ],
+    [
+      "scientific intrigue",
+      "drives",
+      "timing discrepancy"
+    ],
+    [
+      "scientific intrigue",
+      "drives",
+      "variability"
+    ],
+    [
+      "scientific intrigue",
+      "explores",
+      "individual differences"
+    ],
+    [
+      "scientific intrigue",
+      "fuels",
+      "psychological exploration"
+    ],
+    [
+      "scientific intrigue",
+      "fuels",
+      "scientific inquiry"
+    ],
+    [
+      "scientific intrigue",
+      "raises",
+      "unexplained experiences"
+    ],
+    [
+      "scientific intrigue",
+      "sparks",
+      "elusiveness"
+    ],
+    [
+      "scientific intrigue",
+      "sparks",
+      "episodes"
+    ],
+    [
+      "scientific intrigue",
+      "sparks",
+      "interpretation"
+    ],
+    [
+      "scientific intrigue",
+      "sparks",
+      "past experience"
+    ],
+    [
+      "scientific intrigue",
+      "stimulates",
+      "creativity"
+    ],
+    [
+      "scientific intrigue",
+      "stimulates",
+      "imagination"
+    ],
+    [
+      "scientific intrigue",
+      "stimulates",
+      "perception"
+    ],
+    [
+      "sensation",
+      "affects",
+      "information processing"
+    ],
+    [
+      "sensation",
+      "complicates",
+      "measurement challenges"
+    ],
+    [
+      "sensation",
+      "drives",
+      "exploration"
+    ],
+    [
+      "sensation",
+      "drives",
+      "public fascination"
+    ],
+    [
+      "sensation",
+      "elicits",
+      "human experience"
+    ],
+    [
+      "sensation",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "sensation",
+      "evokes",
+      "curiosity"
+    ],
+    [
+      "sensation",
+      "explains",
+      "mechanisms"
+    ],
+    [
+      "sensation",
+      "explains",
+      "memory theory"
+    ],
+    [
+      "sensation",
+      "explains",
+      "theories"
+    ],
+    [
+      "sensation",
+      "involves",
+      "brain processing"
+    ],
+    [
+      "sensation",
+      "is a type of",
+      "current situation"
+    ],
+    [
+      "sensation",
+      "is a type of",
+      "mystery"
+    ],
+    [
+      "sensation",
+      "is affected by",
+      "fatigue"
+    ],
+    [
+      "sensation",
+      "is associated with",
+      "familiarity"
+    ],
+    [
+      "sensation",
+      "is explored in",
+      "research"
+    ],
+    [
+      "sensation",
+      "is influenced by",
+      "creativity"
+    ],
+    [
+      "sensation",
+      "is influenced by",
+      "stress"
+    ],
+    [
+      "sensation",
+      "is inspired by",
+      "imagination"
+    ],
+    [
+      "sensation",
+      "is linked to",
+      "consciousness"
+    ],
+    [
+      "sensation",
+      "is perceived as",
+      "episodes"
+    ],
+    [
+      "sensation",
+      "is related to",
+      "phenomenon complexity"
+    ],
+    [
+      "sensation",
+      "originates from",
+      "origins"
+    ],
+    [
+      "sensation",
+      "sparks",
+      "psychological interest"
+    ],
+    [
+      "sensation",
+      "triggers",
+      "memory recall"
+    ],
+    [
+      "sensory perception",
+      "drives",
+      "exploration"
+    ],
+    [
+      "sensory perception",
+      "enhances",
+      "experience uniqueness"
+    ],
+    [
+      "sensory perception",
+      "influences",
+      "brain areas"
+    ],
+    [
+      "sensory perception",
+      "influences",
+      "human experience"
+    ],
+    [
+      "sensory perception",
+      "influences",
+      "imagination"
+    ],
+    [
+      "sensory perception",
+      "involves",
+      "brain processing"
+    ],
+    [
+      "sensory perception",
+      "is enhanced by",
+      "creativity"
+    ],
+    [
+      "sensory perception",
+      "is influenced by",
+      "perception"
+    ],
+    [
+      "sensory perception",
+      "is influenced by",
+      "timing discrepancy"
+    ],
+    [
+      "sensory perception",
+      "is linked to",
+      "familiarity"
+    ],
+    [
+      "sensory perception",
+      "is perceived as",
+      "first-time experience"
+    ],
+    [
+      "sensory perception",
+      "is perceived as",
+      "sensation"
+    ],
+    [
+      "sensory perception",
+      "is processed by",
+      "past experience"
+    ],
+    [
+      "sensory perception",
+      "is studied by",
+      "scientific intrigue"
+    ],
+    [
+      "sensory perception",
+      "is studied in",
+      "neurological study"
+    ],
+    [
+      "sensory perception",
+      "underlies",
+      "brain function"
+    ],
+    [
+      "sleep deprivation",
+      "affects",
+      "brain function"
+    ],
+    [
+      "sleep deprivation",
+      "affects",
+      "imagination"
+    ],
+    [
+      "sleep deprivation",
+      "affects",
+      "mechanisms"
+    ],
+    [
+      "sleep deprivation",
+      "affects",
+      "perception"
+    ],
+    [
+      "sleep deprivation",
+      "affects",
+      "science"
+    ],
+    [
+      "sleep deprivation",
+      "affects",
+      "sensation"
+    ],
+    [
+      "sleep deprivation",
+      "affects",
+      "variability"
+    ],
+    [
+      "sleep deprivation",
+      "captures",
+      "public fascination"
+    ],
+    [
+      "sleep deprivation",
+      "complicates",
+      "mystery"
+    ],
+    [
+      "sleep deprivation",
+      "contributes to",
+      "fatigue"
+    ],
+    [
+      "sleep deprivation",
+      "contributes to",
+      "origins"
+    ],
+    [
+      "sleep deprivation",
+      "contributes to",
+      "research"
+    ],
+    [
+      "sleep deprivation",
+      "contributes to",
+      "scientific intrigue"
+    ],
+    [
+      "sleep deprivation",
+      "drives",
+      "scientific inquiry"
+    ],
+    [
+      "sleep deprivation",
+      "enhances",
+      "creativity"
+    ],
+    [
+      "sleep deprivation",
+      "enhances",
+      "experience uniqueness"
+    ],
+    [
+      "sleep deprivation",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "sleep deprivation",
+      "exacerbates",
+      "measurement challenges"
+    ],
+    [
+      "sleep deprivation",
+      "exacerbates",
+      "stress"
+    ],
+    [
+      "sleep deprivation",
+      "increases",
+      "deja vu"
+    ],
+    [
+      "sleep deprivation",
+      "increases",
+      "elusiveness"
+    ],
+    [
+      "sleep deprivation",
+      "increases",
+      "familiarity"
+    ],
+    [
+      "sleep deprivation",
+      "increases",
+      "first-time experience"
+    ],
+    [
+      "sleep deprivation",
+      "influences",
+      "subjective experience"
+    ],
+    [
+      "sleep deprivation",
+      "involves",
+      "brain areas"
+    ],
+    [
+      "sleep deprivation",
+      "involves",
+      "psychological exploration"
+    ],
+    [
+      "sleep deprivation",
+      "is investigated by",
+      "investigation"
+    ],
+    [
+      "sleep deprivation",
+      "leads to",
+      "unexplained experiences"
+    ],
+    [
+      "sleep deprivation",
+      "triggers",
+      "past experience"
+    ],
+    [
+      "stress",
+      "affects",
+      "investigation"
+    ],
+    [
+      "stress",
+      "affects",
+      "mechanisms"
+    ],
+    [
+      "stress",
+      "affects",
+      "memory recall"
+    ],
+    [
+      "stress",
+      "affects",
+      "timing discrepancy"
+    ],
+    [
+      "stress",
+      "contributes to",
+      "familiarity"
+    ],
+    [
+      "stress",
+      "contributes to",
+      "fatigue"
+    ],
+    [
+      "stress",
+      "influences",
+      "subjective experience"
+    ],
+    [
+      "stress",
+      "interacts with",
+      "dual processing"
+    ],
+    [
+      "stress",
+      "is linked to",
+      "memory theory"
+    ],
+    [
+      "stress",
+      "related to",
+      "origins"
+    ],
+    [
+      "stress",
+      "relates to",
+      "past experience"
+    ],
+    [
+      "stress",
+      "shapes",
+      "theories"
+    ],
+    [
+      "stress",
+      "stimulates",
+      "curiosity"
+    ],
+    [
+      "stress",
+      "triggers",
+      "psychological interest"
+    ],
+    [
+      "subjective experience",
+      "affects",
+      "complexity"
+    ],
+    [
+      "subjective experience",
+      "affects",
+      "timing discrepancy"
+    ],
+    [
+      "subjective experience",
+      "describes",
+      "sensory perception"
+    ],
+    [
+      "subjective experience",
+      "influenced by",
+      "past experience"
+    ],
+    [
+      "subjective experience",
+      "influences",
+      "first-time experience"
+    ],
+    [
+      "subjective experience",
+      "influences",
+      "variability"
+    ],
+    [
+      "subjective experience",
+      "informs",
+      "origins"
+    ],
+    [
+      "subjective experience",
+      "is a characteristic of",
+      "sensation"
+    ],
+    [
+      "subjective experience",
+      "is a component of",
+      "memory recall"
+    ],
+    [
+      "subjective experience",
+      "is characterized by",
+      "imagination"
+    ],
+    [
+      "subjective experience",
+      "is experienced through",
+      "scientific intrigue"
+    ],
+    [
+      "subjective experience",
+      "shaped by",
+      "consciousness"
+    ],
+    [
+      "theories",
+      "affects",
+      "variability"
+    ],
+    [
+      "theories",
+      "complicates",
+      "phenomenon complexity"
+    ],
+    [
+      "theories",
+      "describes",
+      "phenomenon"
+    ],
+    [
+      "theories",
+      "drives",
+      "investigation"
+    ],
+    [
+      "theories",
+      "explains",
+      "mechanisms"
+    ],
+    [
+      "theories",
+      "guides",
+      "exploration"
+    ],
+    [
+      "theories",
+      "influences",
+      "subjective experience"
+    ],
+    [
+      "theories",
+      "informs",
+      "cognitive function"
+    ],
+    [
+      "theories",
+      "informs",
+      "cognitive psychology"
+    ],
+    [
+      "theories",
+      "informs",
+      "research"
+    ],
+    [
+      "theories",
+      "informs",
+      "science"
+    ],
+    [
+      "theories",
+      "is a factor in",
+      "experience uniqueness"
+    ],
+    [
+      "theories",
+      "is driven by",
+      "curious nature"
+    ],
+    [
+      "theories",
+      "is triggered by",
+      "past experience"
+    ],
+    [
+      "theories",
+      "triggers",
+      "familiarity"
+    ],
+    [
+      "timing discrepancy",
+      "adds to",
+      "experience uniqueness"
+    ],
+    [
+      "timing discrepancy",
+      "affects",
+      "experience reporting"
+    ],
+    [
+      "timing discrepancy",
+      "affects",
+      "memory recall"
+    ],
+    [
+      "timing discrepancy",
+      "contributes to",
+      "elusiveness"
+    ],
+    [
+      "timing discrepancy",
+      "creates",
+      "phenomenon"
+    ],
+    [
+      "timing discrepancy",
+      "explains",
+      "mystery"
+    ],
+    [
+      "timing discrepancy",
+      "increases likelihood of",
+      "fatigue"
+    ],
+    [
+      "timing discrepancy",
+      "influenced by",
+      "human experience"
+    ],
+    [
+      "timing discrepancy",
+      "influences",
+      "measurement challenges"
+    ],
+    [
+      "timing discrepancy",
+      "is examined in",
+      "scientific inquiry"
+    ],
+    [
+      "timing discrepancy",
+      "is explained by",
+      "memory theory"
+    ],
+    [
+      "timing discrepancy",
+      "is explained by",
+      "theories"
+    ],
+    [
+      "timing discrepancy",
+      "is studied in",
+      "research"
+    ],
+    [
+      "timing discrepancy",
+      "prompts",
+      "exploration"
+    ],
+    [
+      "timing discrepancy",
+      "sparks",
+      "curiosity"
+    ],
+    [
+      "timing discrepancy",
+      "sparks",
+      "public fascination"
+    ],
+    [
+      "understanding",
+      "affects",
+      "experience reporting"
+    ],
+    [
+      "understanding",
+      "captures",
+      "public fascination"
+    ],
+    [
+      "understanding",
+      "complicates",
+      "measurement challenges"
+    ],
+    [
+      "understanding",
+      "derives from",
+      "French origin"
+    ],
+    [
+      "understanding",
+      "drives",
+      "research"
+    ],
+    [
+      "understanding",
+      "influences",
+      "individual differences"
+    ],
+    [
+      "understanding",
+      "involves",
+      "cognitive function"
+    ],
+    [
+      "understanding",
+      "is enhanced by",
+      "science"
+    ],
+    [
+      "understanding",
+      "is linked to",
+      "elusiveness"
+    ],
+    [
+      "understanding",
+      "is related to",
+      "current situation"
+    ],
+    [
+      "unexplained experiences",
+      "affects",
+      "experience reporting"
+    ],
+    [
+      "unexplained experiences",
+      "captures",
+      "public fascination"
+    ],
+    [
+      "unexplained experiences",
+      "contributes to",
+      "experience uniqueness"
+    ],
+    [
+      "unexplained experiences",
+      "includes",
+      "first-time experience"
+    ],
+    [
+      "unexplained experiences",
+      "influences",
+      "cognitive function"
+    ],
+    [
+      "unexplained experiences",
+      "invites",
+      "investigation"
+    ],
+    [
+      "unexplained experiences",
+      "is associated with",
+      "perception"
+    ],
+    [
+      "unexplained experiences",
+      "is characterized by",
+      "episodes"
+    ],
+    [
+      "unexplained experiences",
+      "is characterized by",
+      "mystery"
+    ],
+    [
+      "unexplained experiences",
+      "is characterized by",
+      "variability"
+    ],
+    [
+      "unexplained experiences",
+      "is driven by",
+      "curious nature"
+    ],
+    [
+      "unexplained experiences",
+      "is explained by",
+      "theories"
+    ],
+    [
+      "unexplained experiences",
+      "leads to",
+      "timing discrepancy"
+    ],
+    [
+      "unexplained experiences",
+      "poses challenges for",
+      "lab challenges"
+    ],
+    [
+      "unexplained experiences",
+      "relates to",
+      "past experience"
+    ],
+    [
+      "variability",
+      "affects",
+      "cognitive function"
+    ],
+    [
+      "variability",
+      "causes",
+      "timing discrepancy"
+    ],
+    [
+      "variability",
+      "contributes to",
+      "experience uniqueness"
+    ],
+    [
+      "variability",
+      "influences",
+      "sensory perception"
+    ],
+    [
+      "variability",
+      "is characterized by",
+      "first-time experience"
+    ],
+    [
+      "variability",
+      "results in",
+      "creativity"
+    ],
+    [
+      "variability",
+      "results in",
+      "imagination"
+    ],
+    [
+      "variability",
+      "results in",
+      "perception"
+    ]
+  ],
+  "edges": [
+    "adds to",
+    "advances",
+    "affects",
+    "associated with",
+    "attracts",
+    "captures",
+    "causes",
+    "challenges",
+    "challenges science",
+    "clarifies",
+    "complicates",
+    "contrasts with",
+    "contributes to",
+    "creates",
+    "defines",
+    "demonstrates",
+    "derives from",
+    "describes",
+    "drives",
+    "elicits",
+    "embodies",
+    "encompasses",
+    "encourages",
+    "enhances",
+    "evokes",
+    "exacerbates",
+    "examines",
+    "explains",
+    "explores",
+    "faces",
+    "facilitates",
+    "fosters",
+    "fuels",
+    "generates",
+    "guides",
+    "highlights",
+    "includes",
+    "increases",
+    "increases likelihood of",
+    "influenced by",
+    "influences",
+    "informs",
+    "inspires",
+    "interacts with",
+    "interests",
+    "investigates",
+    "invites",
+    "involved in",
+    "involves",
+    "is a barrier to",
+    "is a characteristic of",
+    "is a component of",
+    "is a concept in",
+    "is a concept of",
+    "is a factor in",
+    "is a feature of",
+    "is a field of study in",
+    "is a focus of",
+    "is a form of",
+    "is a function of",
+    "is a reference to",
+    "is a result of",
+    "is a source of",
+    "is a subject of",
+    "is a term for",
+    "is a type of",
+    "is affected by",
+    "is analyzed by",
+    "is analyzed in",
+    "is associated with",
+    "is attracted by",
+    "is based on",
+    "is caused by",
+    "is challenged by",
+    "is characterized by",
+    "is compared to",
+    "is complicated by",
+    "is defined by",
+    "is derived from",
+    "is driven by",
+    "is enhanced by",
+    "is essential for",
+    "is examined in",
+    "is experienced as",
+    "is experienced by",
+    "is experienced through",
+    "is explained by",
+    "is explored by",
+    "is explored in",
+    "is explored through",
+    "is foundational to",
+    "is impacted by",
+    "is influenced by",
+    "is informed by",
+    "is inspired by",
+    "is interpreted as",
+    "is interpreted by",
+    "is investigated by",
+    "is linked to",
+    "is motivated by",
+    "is part of",
+    "is perceived as",
+    "is processed by",
+    "is related to",
+    "is reported by",
+    "is reported in",
+    "is shaped by",
+    "is studied by",
+    "is studied in",
+    "is studied through",
+    "is subject to",
+    "is triggered by",
+    "leads to",
+    "originates from",
+    "poses challenges for",
+    "presents",
+    "presents challenges for",
+    "presents challenges to",
+    "promotes",
+    "prompts",
+    "provokes",
+    "raises",
+    "reflects",
+    "related to",
+    "relates to",
+    "resembles",
+    "results from",
+    "results in",
+    "shaped by",
+    "shapes",
+    "sparks",
+    "stimulates",
+    "studies",
+    "supports",
+    "surrounds",
+    "triggers",
+    "underlies",
+    "varies with"
+  ]
+}

@@ -1,0 +1,2917 @@
+{
+  "entities": [
+    "Bitcoin",
+    "acceptance",
+    "access to capital",
+    "accessibility",
+    "affordable services",
+    "altcoins",
+    "alternative finance",
+    "asset class",
+    "blockchain applications",
+    "blockchain technology",
+    "consumer protection",
+    "cryptocurrencies",
+    "decentralization",
+    "digital currencies",
+    "disruptive technology",
+    "economic growth",
+    "economic impact",
+    "financial empowerment",
+    "financial inclusion",
+    "financial innovation",
+    "financial landscape",
+    "financial services",
+    "financial transactions",
+    "future uncertainty",
+    "global economy",
+    "global reach",
+    "government regulation",
+    "immutability",
+    "innovation",
+    "innovative solutions",
+    "institutional investors",
+    "intermediaries",
+    "investment opportunities",
+    "mainstream adoption",
+    "money laundering",
+    "network integrity",
+    "peer-to-peer network",
+    "price fluctuations",
+    "privacy",
+    "regulatory challenges",
+    "retail investors",
+    "risks",
+    "security",
+    "smart contracts",
+    "streamlining processes",
+    "tax evasion",
+    "technology adoption",
+    "traditional banking",
+    "transaction efficiency",
+    "transaction validation",
+    "transparency",
+    "trust",
+    "trustless systems",
+    "unbanked populations",
+    "underserved communities",
+    "volatility"
+  ],
+  "relations": [
+    [
+      "Bitcoin",
+      "affects",
+      "global economy"
+    ],
+    [
+      "Bitcoin",
+      "affects",
+      "volatility"
+    ],
+    [
+      "Bitcoin",
+      "benefits from",
+      "economic growth"
+    ],
+    [
+      "Bitcoin",
+      "benefits from",
+      "transaction efficiency"
+    ],
+    [
+      "Bitcoin",
+      "benefits from",
+      "underserved communities"
+    ],
+    [
+      "Bitcoin",
+      "ensures",
+      "consumer protection"
+    ],
+    [
+      "Bitcoin",
+      "facilitates",
+      "financial transactions"
+    ],
+    [
+      "Bitcoin",
+      "is a type of",
+      "digital currencies"
+    ],
+    [
+      "Bitcoin",
+      "is associated with",
+      "tax evasion"
+    ],
+    [
+      "Bitcoin",
+      "is driven by",
+      "acceptance"
+    ],
+    [
+      "Bitcoin",
+      "is utilized by",
+      "decentralization"
+    ],
+    [
+      "Bitcoin",
+      "utilizes",
+      "financial services"
+    ],
+    [
+      "Bitcoin",
+      "utilizes",
+      "peer-to-peer network"
+    ],
+    [
+      "acceptance",
+      "advances",
+      "smart contracts"
+    ],
+    [
+      "acceptance",
+      "attracts",
+      "institutional investors"
+    ],
+    [
+      "acceptance",
+      "complicates",
+      "regulatory challenges"
+    ],
+    [
+      "acceptance",
+      "drives",
+      "financial innovation"
+    ],
+    [
+      "acceptance",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "acceptance",
+      "enhances",
+      "financial inclusion"
+    ],
+    [
+      "acceptance",
+      "enhances",
+      "underserved communities"
+    ],
+    [
+      "acceptance",
+      "facilitates",
+      "streamlining processes"
+    ],
+    [
+      "acceptance",
+      "impacts",
+      "global economy"
+    ],
+    [
+      "acceptance",
+      "influences",
+      "altcoins"
+    ],
+    [
+      "acceptance",
+      "influences",
+      "asset class"
+    ],
+    [
+      "acceptance",
+      "influences",
+      "price fluctuations"
+    ],
+    [
+      "acceptance",
+      "is growing among",
+      "cryptocurrencies"
+    ],
+    [
+      "acceptance",
+      "is influenced by",
+      "blockchain technology"
+    ],
+    [
+      "acceptance",
+      "is influenced by",
+      "network integrity"
+    ],
+    [
+      "acceptance",
+      "lead to",
+      "mainstream adoption"
+    ],
+    [
+      "acceptance",
+      "promotes",
+      "decentralization"
+    ],
+    [
+      "acceptance",
+      "provides",
+      "financial services"
+    ],
+    [
+      "acceptance",
+      "requires",
+      "transaction validation"
+    ],
+    [
+      "acceptance",
+      "shapes",
+      "financial landscape"
+    ],
+    [
+      "access to capital",
+      "drives",
+      "innovation"
+    ],
+    [
+      "access to capital",
+      "enables",
+      "Bitcoin"
+    ],
+    [
+      "access to capital",
+      "enhances",
+      "financial inclusion"
+    ],
+    [
+      "access to capital",
+      "facilitates",
+      "financial transactions"
+    ],
+    [
+      "access to capital",
+      "facilitates",
+      "mainstream adoption"
+    ],
+    [
+      "access to capital",
+      "supports",
+      "consumer protection"
+    ],
+    [
+      "accessibility",
+      "drives",
+      "innovation"
+    ],
+    [
+      "accessibility",
+      "enables",
+      "Bitcoin"
+    ],
+    [
+      "accessibility",
+      "enables",
+      "investment opportunities"
+    ],
+    [
+      "accessibility",
+      "promotes",
+      "financial innovation"
+    ],
+    [
+      "accessibility",
+      "promotes",
+      "mainstream adoption"
+    ],
+    [
+      "accessibility",
+      "provides",
+      "cryptocurrencies"
+    ],
+    [
+      "affordable services",
+      "affords",
+      "global economy"
+    ],
+    [
+      "affordable services",
+      "drives",
+      "economic impact"
+    ],
+    [
+      "affordable services",
+      "is a barrier to",
+      "intermediaries"
+    ],
+    [
+      "affordable services",
+      "limits",
+      "volatility"
+    ],
+    [
+      "affordable services",
+      "provides",
+      "financial empowerment"
+    ],
+    [
+      "affordable services",
+      "provides",
+      "financial inclusion"
+    ],
+    [
+      "altcoins",
+      "associated with",
+      "money laundering"
+    ],
+    [
+      "altcoins",
+      "contributes to",
+      "global economy"
+    ],
+    [
+      "altcoins",
+      "derived from",
+      "investment opportunities"
+    ],
+    [
+      "altcoins",
+      "enhances",
+      "security"
+    ],
+    [
+      "altcoins",
+      "faces",
+      "regulatory challenges"
+    ],
+    [
+      "altcoins",
+      "fosters",
+      "innovation"
+    ],
+    [
+      "altcoins",
+      "includes",
+      "asset class"
+    ],
+    [
+      "altcoins",
+      "includes",
+      "digital currencies"
+    ],
+    [
+      "altcoins",
+      "is influenced by",
+      "economic impact"
+    ],
+    [
+      "altcoins",
+      "provides access to",
+      "financial services"
+    ],
+    [
+      "altcoins",
+      "reduces reliance on",
+      "intermediaries"
+    ],
+    [
+      "altcoins",
+      "utilizes",
+      "peer-to-peer network"
+    ],
+    [
+      "alternative finance",
+      "driven by",
+      "economic growth"
+    ],
+    [
+      "alternative finance",
+      "enables",
+      "privacy"
+    ],
+    [
+      "alternative finance",
+      "is challenged by",
+      "consumer protection"
+    ],
+    [
+      "alternative finance",
+      "offers",
+      "traditional banking"
+    ],
+    [
+      "asset class",
+      "characteristic of",
+      "volatility"
+    ],
+    [
+      "asset class",
+      "contributes to",
+      "global economy"
+    ],
+    [
+      "asset class",
+      "defines",
+      "financial landscape"
+    ],
+    [
+      "asset class",
+      "enhances",
+      "security"
+    ],
+    [
+      "asset class",
+      "facilitates",
+      "financial transactions"
+    ],
+    [
+      "asset class",
+      "includes",
+      "Bitcoin"
+    ],
+    [
+      "asset class",
+      "represents",
+      "innovative solutions"
+    ],
+    [
+      "blockchain applications",
+      "drives",
+      "technology adoption"
+    ],
+    [
+      "blockchain applications",
+      "enables",
+      "alternative finance"
+    ],
+    [
+      "blockchain applications",
+      "ensures",
+      "immutability"
+    ],
+    [
+      "blockchain applications",
+      "promotes",
+      "decentralization"
+    ],
+    [
+      "blockchain applications",
+      "reduces",
+      "intermediaries"
+    ],
+    [
+      "blockchain applications",
+      "utilizes",
+      "smart contracts"
+    ],
+    [
+      "blockchain technology",
+      "builds",
+      "trust"
+    ],
+    [
+      "blockchain technology",
+      "drives",
+      "innovation"
+    ],
+    [
+      "blockchain technology",
+      "drives",
+      "technology adoption"
+    ],
+    [
+      "blockchain technology",
+      "enables",
+      "blockchain applications"
+    ],
+    [
+      "blockchain technology",
+      "enhances",
+      "privacy"
+    ],
+    [
+      "blockchain technology",
+      "enhances",
+      "security"
+    ],
+    [
+      "blockchain technology",
+      "enhances",
+      "streamlining processes"
+    ],
+    [
+      "blockchain technology",
+      "ensures",
+      "immutability"
+    ],
+    [
+      "blockchain technology",
+      "faces",
+      "regulatory challenges"
+    ],
+    [
+      "blockchain technology",
+      "provides",
+      "transparency"
+    ],
+    [
+      "blockchain technology",
+      "supports",
+      "consumer protection"
+    ],
+    [
+      "blockchain technology",
+      "supports",
+      "transaction validation"
+    ],
+    [
+      "blockchain technology",
+      "underpins",
+      "network integrity"
+    ],
+    [
+      "consumer protection",
+      "addresses",
+      "innovative solutions"
+    ],
+    [
+      "consumer protection",
+      "benefits",
+      "unbanked populations"
+    ],
+    [
+      "consumer protection",
+      "combats",
+      "money laundering"
+    ],
+    [
+      "consumer protection",
+      "drives",
+      "innovation"
+    ],
+    [
+      "consumer protection",
+      "enables",
+      "financial empowerment"
+    ],
+    [
+      "consumer protection",
+      "ensures",
+      "privacy"
+    ],
+    [
+      "consumer protection",
+      "poses",
+      "risks"
+    ],
+    [
+      "consumer protection",
+      "provides",
+      "financial services"
+    ],
+    [
+      "consumer protection",
+      "supports",
+      "financial inclusion"
+    ],
+    [
+      "consumer protection",
+      "supports",
+      "financial innovation"
+    ],
+    [
+      "cryptocurrencies",
+      "concerns",
+      "consumer protection"
+    ],
+    [
+      "cryptocurrencies",
+      "drives",
+      "innovation"
+    ],
+    [
+      "cryptocurrencies",
+      "enables",
+      "financial inclusion"
+    ],
+    [
+      "cryptocurrencies",
+      "enables",
+      "financial services"
+    ],
+    [
+      "cryptocurrencies",
+      "enhances",
+      "security"
+    ],
+    [
+      "cryptocurrencies",
+      "faces",
+      "regulatory challenges"
+    ],
+    [
+      "cryptocurrencies",
+      "influences",
+      "global economy"
+    ],
+    [
+      "cryptocurrencies",
+      "influences",
+      "transparency"
+    ],
+    [
+      "cryptocurrencies",
+      "is a type of",
+      "Bitcoin"
+    ],
+    [
+      "cryptocurrencies",
+      "is a type of",
+      "asset class"
+    ],
+    [
+      "cryptocurrencies",
+      "is a type of",
+      "digital currencies"
+    ],
+    [
+      "cryptocurrencies",
+      "is challenged by",
+      "traditional banking"
+    ],
+    [
+      "cryptocurrencies",
+      "supported by",
+      "innovative solutions"
+    ],
+    [
+      "decentralization",
+      "drives",
+      "innovation"
+    ],
+    [
+      "decentralization",
+      "enabled by",
+      "blockchain applications"
+    ],
+    [
+      "decentralization",
+      "enables",
+      "smart contracts"
+    ],
+    [
+      "decentralization",
+      "enhances",
+      "privacy"
+    ],
+    [
+      "decentralization",
+      "enhances",
+      "security"
+    ],
+    [
+      "decentralization",
+      "ensures",
+      "transaction validation"
+    ],
+    [
+      "decentralization",
+      "ensures",
+      "transparency"
+    ],
+    [
+      "decentralization",
+      "improves",
+      "streamlining processes"
+    ],
+    [
+      "decentralization",
+      "is a characteristic of",
+      "disruptive technology"
+    ],
+    [
+      "decentralization",
+      "is characterized by",
+      "cryptocurrencies"
+    ],
+    [
+      "decentralization",
+      "is supported by",
+      "network integrity"
+    ],
+    [
+      "decentralization",
+      "is supported by",
+      "trust"
+    ],
+    [
+      "decentralization",
+      "promotes",
+      "financial inclusion"
+    ],
+    [
+      "decentralization",
+      "provides",
+      "affordable services"
+    ],
+    [
+      "decentralization",
+      "provides",
+      "financial services"
+    ],
+    [
+      "digital currencies",
+      "affects",
+      "global economy"
+    ],
+    [
+      "digital currencies",
+      "creates",
+      "investment opportunities"
+    ],
+    [
+      "digital currencies",
+      "drives",
+      "innovation"
+    ],
+    [
+      "digital currencies",
+      "enables",
+      "blockchain applications"
+    ],
+    [
+      "digital currencies",
+      "enhances",
+      "privacy"
+    ],
+    [
+      "digital currencies",
+      "enhances",
+      "security"
+    ],
+    [
+      "digital currencies",
+      "enhances",
+      "streamlining processes"
+    ],
+    [
+      "digital currencies",
+      "ensures",
+      "transparency"
+    ],
+    [
+      "digital currencies",
+      "experiences",
+      "price fluctuations"
+    ],
+    [
+      "digital currencies",
+      "facilitates",
+      "financial inclusion"
+    ],
+    [
+      "digital currencies",
+      "facilitates",
+      "financial transactions"
+    ],
+    [
+      "digital currencies",
+      "facilitates",
+      "peer-to-peer network"
+    ],
+    [
+      "digital currencies",
+      "includes",
+      "asset class"
+    ],
+    [
+      "digital currencies",
+      "protects",
+      "consumer protection"
+    ],
+    [
+      "digital currencies",
+      "provides",
+      "financial services"
+    ],
+    [
+      "digital currencies",
+      "shapes",
+      "financial landscape"
+    ],
+    [
+      "disruptive technology",
+      "enables",
+      "mainstream adoption"
+    ],
+    [
+      "disruptive technology",
+      "enables",
+      "transaction validation"
+    ],
+    [
+      "economic growth",
+      "contributes to",
+      "innovation"
+    ],
+    [
+      "economic growth",
+      "drives",
+      "altcoins"
+    ],
+    [
+      "economic growth",
+      "drives",
+      "cryptocurrencies"
+    ],
+    [
+      "economic growth",
+      "drives",
+      "digital currencies"
+    ],
+    [
+      "economic growth",
+      "drives",
+      "financial empowerment"
+    ],
+    [
+      "economic growth",
+      "drives",
+      "financial innovation"
+    ],
+    [
+      "economic growth",
+      "drives",
+      "financial landscape"
+    ],
+    [
+      "economic growth",
+      "drives",
+      "investment opportunities"
+    ],
+    [
+      "economic growth",
+      "empowers",
+      "underserved communities"
+    ],
+    [
+      "economic growth",
+      "fosters",
+      "trust"
+    ],
+    [
+      "economic growth",
+      "is enhanced by",
+      "smart contracts"
+    ],
+    [
+      "economic growth",
+      "is impacted by",
+      "regulatory challenges"
+    ],
+    [
+      "economic growth",
+      "is influenced by",
+      "price fluctuations"
+    ],
+    [
+      "economic growth",
+      "supports",
+      "affordable services"
+    ],
+    [
+      "economic growth",
+      "supports",
+      "financial inclusion"
+    ],
+    [
+      "economic growth",
+      "supports",
+      "financial services"
+    ],
+    [
+      "economic impact",
+      "affects",
+      "financial transactions"
+    ],
+    [
+      "economic impact",
+      "contributes to",
+      "financial empowerment"
+    ],
+    [
+      "economic impact",
+      "enhances",
+      "smart contracts"
+    ],
+    [
+      "economic impact",
+      "ensures",
+      "trust"
+    ],
+    [
+      "economic impact",
+      "is a consequence of",
+      "price fluctuations"
+    ],
+    [
+      "economic impact",
+      "is affected by",
+      "retail investors"
+    ],
+    [
+      "economic impact",
+      "is influenced by",
+      "accessibility"
+    ],
+    [
+      "economic impact",
+      "provides",
+      "access to capital"
+    ],
+    [
+      "financial empowerment",
+      "challenges",
+      "regulatory challenges"
+    ],
+    [
+      "financial empowerment",
+      "enables",
+      "decentralization"
+    ],
+    [
+      "financial empowerment",
+      "enhance",
+      "privacy"
+    ],
+    [
+      "financial empowerment",
+      "facilitates",
+      "financial transactions"
+    ],
+    [
+      "financial empowerment",
+      "facilitates",
+      "smart contracts"
+    ],
+    [
+      "financial empowerment",
+      "promotes",
+      "Bitcoin"
+    ],
+    [
+      "financial inclusion",
+      "eliminates",
+      "intermediaries"
+    ],
+    [
+      "financial inclusion",
+      "enables",
+      "innovation"
+    ],
+    [
+      "financial inclusion",
+      "faces",
+      "regulatory challenges"
+    ],
+    [
+      "financial inclusion",
+      "facilitated by",
+      "institutional investors"
+    ],
+    [
+      "financial inclusion",
+      "supports",
+      "privacy"
+    ],
+    [
+      "financial innovation",
+      "contributes to",
+      "altcoins"
+    ],
+    [
+      "financial innovation",
+      "drives",
+      "privacy"
+    ],
+    [
+      "financial innovation",
+      "facilitates",
+      "technology adoption"
+    ],
+    [
+      "financial innovation",
+      "influenced by",
+      "volatility"
+    ],
+    [
+      "financial innovation",
+      "provides",
+      "financial services"
+    ],
+    [
+      "financial landscape",
+      "affects",
+      "consumer protection"
+    ],
+    [
+      "financial landscape",
+      "influenced by",
+      "cryptocurrencies"
+    ],
+    [
+      "financial landscape",
+      "presents",
+      "risks"
+    ],
+    [
+      "financial landscape",
+      "shaped by",
+      "retail investors"
+    ],
+    [
+      "financial landscape",
+      "supports",
+      "financial services"
+    ],
+    [
+      "financial landscape",
+      "utilizes",
+      "smart contracts"
+    ],
+    [
+      "financial services",
+      "drives",
+      "innovation"
+    ],
+    [
+      "financial services",
+      "drives",
+      "technology adoption"
+    ],
+    [
+      "financial services",
+      "improves",
+      "transparency"
+    ],
+    [
+      "financial services",
+      "is associated with",
+      "money laundering"
+    ],
+    [
+      "financial services",
+      "is influenced by",
+      "future uncertainty"
+    ],
+    [
+      "financial services",
+      "provides",
+      "alternative finance"
+    ],
+    [
+      "financial services",
+      "provides",
+      "asset class"
+    ],
+    [
+      "financial services",
+      "provides",
+      "security"
+    ],
+    [
+      "financial services",
+      "streamlines",
+      "streamlining processes"
+    ],
+    [
+      "financial services",
+      "supports",
+      "financial inclusion"
+    ],
+    [
+      "financial transactions",
+      "benefit from",
+      "institutional investors"
+    ],
+    [
+      "financial transactions",
+      "enhances",
+      "security"
+    ],
+    [
+      "financial transactions",
+      "faces",
+      "regulatory challenges"
+    ],
+    [
+      "financial transactions",
+      "facilitate",
+      "alternative finance"
+    ],
+    [
+      "financial transactions",
+      "facilitates",
+      "cryptocurrencies"
+    ],
+    [
+      "financial transactions",
+      "shapes",
+      "financial landscape"
+    ],
+    [
+      "future uncertainty",
+      "creates",
+      "digital currencies"
+    ],
+    [
+      "future uncertainty",
+      "creates",
+      "innovative solutions"
+    ],
+    [
+      "future uncertainty",
+      "creates",
+      "trust"
+    ],
+    [
+      "future uncertainty",
+      "presents",
+      "risks"
+    ],
+    [
+      "global economy",
+      "contributes to",
+      "financial services"
+    ],
+    [
+      "global economy",
+      "contributes to",
+      "institutional investors"
+    ],
+    [
+      "global economy",
+      "contributes to",
+      "underserved communities"
+    ],
+    [
+      "global economy",
+      "drives",
+      "innovation"
+    ],
+    [
+      "global economy",
+      "influences",
+      "economic impact"
+    ],
+    [
+      "global economy",
+      "influences",
+      "government regulation"
+    ],
+    [
+      "global economy",
+      "influences",
+      "unbanked populations"
+    ],
+    [
+      "global economy",
+      "is influenced by",
+      "economic growth"
+    ],
+    [
+      "global economy",
+      "supports",
+      "financial inclusion"
+    ],
+    [
+      "global economy",
+      "supports",
+      "network integrity"
+    ],
+    [
+      "global economy",
+      "supports",
+      "traditional banking"
+    ],
+    [
+      "global reach",
+      "contributes to",
+      "global economy"
+    ],
+    [
+      "global reach",
+      "depends on",
+      "consumer protection"
+    ],
+    [
+      "global reach",
+      "drives",
+      "financial innovation"
+    ],
+    [
+      "global reach",
+      "enables",
+      "alternative finance"
+    ],
+    [
+      "global reach",
+      "enables",
+      "blockchain applications"
+    ],
+    [
+      "global reach",
+      "enables",
+      "blockchain technology"
+    ],
+    [
+      "global reach",
+      "enables",
+      "innovative solutions"
+    ],
+    [
+      "global reach",
+      "enhances",
+      "decentralization"
+    ],
+    [
+      "global reach",
+      "enhances",
+      "security"
+    ],
+    [
+      "global reach",
+      "enhances",
+      "transparency"
+    ],
+    [
+      "global reach",
+      "facilitates",
+      "smart contracts"
+    ],
+    [
+      "global reach",
+      "includes",
+      "altcoins"
+    ],
+    [
+      "global reach",
+      "involves",
+      "risks"
+    ],
+    [
+      "global reach",
+      "provides",
+      "affordable services"
+    ],
+    [
+      "global reach",
+      "provides",
+      "financial empowerment"
+    ],
+    [
+      "global reach",
+      "provides",
+      "financial services"
+    ],
+    [
+      "government regulation",
+      "is concerned with",
+      "money laundering"
+    ],
+    [
+      "government regulation",
+      "is regulated by",
+      "Bitcoin"
+    ],
+    [
+      "government regulation",
+      "oversees",
+      "blockchain technology"
+    ],
+    [
+      "government regulation",
+      "regulated by",
+      "altcoins"
+    ],
+    [
+      "government regulation",
+      "regulated by",
+      "asset class"
+    ],
+    [
+      "government regulation",
+      "regulated by",
+      "digital currencies"
+    ],
+    [
+      "government regulation",
+      "regulated by",
+      "global reach"
+    ],
+    [
+      "government regulation",
+      "regulated by",
+      "immutability"
+    ],
+    [
+      "government regulation",
+      "regulated by",
+      "investment opportunities"
+    ],
+    [
+      "government regulation",
+      "regulates",
+      "financial services"
+    ],
+    [
+      "government regulation",
+      "regulates",
+      "network integrity"
+    ],
+    [
+      "government regulation",
+      "regulates",
+      "unbanked populations"
+    ],
+    [
+      "government regulation",
+      "requires",
+      "smart contracts"
+    ],
+    [
+      "government regulation",
+      "streamlines",
+      "streamlining processes"
+    ],
+    [
+      "immutability",
+      "benefits from",
+      "underserved communities"
+    ],
+    [
+      "immutability",
+      "enables",
+      "smart contracts"
+    ],
+    [
+      "immutability",
+      "enables",
+      "streamlining processes"
+    ],
+    [
+      "immutability",
+      "enhances",
+      "trust"
+    ],
+    [
+      "immutability",
+      "ensures",
+      "decentralization"
+    ],
+    [
+      "immutability",
+      "ensures",
+      "financial transactions"
+    ],
+    [
+      "immutability",
+      "ensures",
+      "security"
+    ],
+    [
+      "immutability",
+      "ensures",
+      "transparency"
+    ],
+    [
+      "immutability",
+      "is supported by",
+      "acceptance"
+    ],
+    [
+      "innovation",
+      "drives",
+      "mainstream adoption"
+    ],
+    [
+      "innovation",
+      "linked to",
+      "risks"
+    ],
+    [
+      "innovative solutions",
+      "drives",
+      "technology adoption"
+    ],
+    [
+      "innovative solutions",
+      "enables",
+      "cryptocurrencies"
+    ],
+    [
+      "innovative solutions",
+      "enhances",
+      "security"
+    ],
+    [
+      "innovative solutions",
+      "offers",
+      "alternative finance"
+    ],
+    [
+      "innovative solutions",
+      "promotes",
+      "transparency"
+    ],
+    [
+      "institutional investors",
+      "creates",
+      "investment opportunities"
+    ],
+    [
+      "institutional investors",
+      "drives",
+      "financial innovation"
+    ],
+    [
+      "institutional investors",
+      "drives",
+      "innovation"
+    ],
+    [
+      "institutional investors",
+      "employs",
+      "smart contracts"
+    ],
+    [
+      "institutional investors",
+      "encounters",
+      "regulatory challenges"
+    ],
+    [
+      "institutional investors",
+      "engage in",
+      "financial transactions"
+    ],
+    [
+      "institutional investors",
+      "enhances",
+      "financial empowerment"
+    ],
+    [
+      "institutional investors",
+      "enhances",
+      "financial inclusion"
+    ],
+    [
+      "institutional investors",
+      "enhances",
+      "security"
+    ],
+    [
+      "institutional investors",
+      "influences",
+      "economic impact"
+    ],
+    [
+      "institutional investors",
+      "invests in",
+      "Bitcoin"
+    ],
+    [
+      "institutional investors",
+      "invests in",
+      "asset class"
+    ],
+    [
+      "institutional investors",
+      "invests in",
+      "digital currencies"
+    ],
+    [
+      "institutional investors",
+      "is associated with",
+      "money laundering"
+    ],
+    [
+      "institutional investors",
+      "promotes",
+      "innovative solutions"
+    ],
+    [
+      "institutional investors",
+      "provides",
+      "financial services"
+    ],
+    [
+      "institutional investors",
+      "raises concerns about",
+      "privacy"
+    ],
+    [
+      "institutional investors",
+      "seeks",
+      "access to capital"
+    ],
+    [
+      "intermediaries",
+      "challenges",
+      "privacy"
+    ],
+    [
+      "intermediaries",
+      "eliminates",
+      "cryptocurrencies"
+    ],
+    [
+      "intermediaries",
+      "eliminates",
+      "financial empowerment"
+    ],
+    [
+      "intermediaries",
+      "ensures",
+      "network integrity"
+    ],
+    [
+      "intermediaries",
+      "facilitated by",
+      "global reach"
+    ],
+    [
+      "intermediaries",
+      "facilitates",
+      "financial services"
+    ],
+    [
+      "intermediaries",
+      "is bypassed by",
+      "Bitcoin"
+    ],
+    [
+      "intermediaries",
+      "is facilitated by",
+      "tax evasion"
+    ],
+    [
+      "intermediaries",
+      "is replaced by",
+      "peer-to-peer network"
+    ],
+    [
+      "intermediaries",
+      "reduced by",
+      "streamlining processes"
+    ],
+    [
+      "intermediaries",
+      "relies on",
+      "security"
+    ],
+    [
+      "intermediaries",
+      "relies on",
+      "transaction validation"
+    ],
+    [
+      "intermediaries",
+      "relies on",
+      "trust"
+    ],
+    [
+      "intermediaries",
+      "requires",
+      "acceptance"
+    ],
+    [
+      "intermediaries",
+      "requires",
+      "digital currencies"
+    ],
+    [
+      "intermediaries",
+      "requires",
+      "mainstream adoption"
+    ],
+    [
+      "investment opportunities",
+      "competes with",
+      "traditional banking"
+    ],
+    [
+      "investment opportunities",
+      "creates",
+      "altcoins"
+    ],
+    [
+      "investment opportunities",
+      "creates",
+      "innovation"
+    ],
+    [
+      "investment opportunities",
+      "creates",
+      "volatility"
+    ],
+    [
+      "investment opportunities",
+      "drives",
+      "global economy"
+    ],
+    [
+      "investment opportunities",
+      "enhances",
+      "smart contracts"
+    ],
+    [
+      "investment opportunities",
+      "facilitates",
+      "financial transactions"
+    ],
+    [
+      "investment opportunities",
+      "offers",
+      "consumer protection"
+    ],
+    [
+      "investment opportunities",
+      "provides",
+      "security"
+    ],
+    [
+      "investment opportunities",
+      "provides",
+      "transparency"
+    ],
+    [
+      "investment opportunities",
+      "provides access to",
+      "financial services"
+    ],
+    [
+      "mainstream adoption",
+      "adopted by",
+      "digital currencies"
+    ],
+    [
+      "mainstream adoption",
+      "depends on",
+      "trust"
+    ],
+    [
+      "mainstream adoption",
+      "drives",
+      "volatility"
+    ],
+    [
+      "mainstream adoption",
+      "enables",
+      "affordable services"
+    ],
+    [
+      "mainstream adoption",
+      "facilitates",
+      "government regulation"
+    ],
+    [
+      "mainstream adoption",
+      "is shaped by",
+      "future uncertainty"
+    ],
+    [
+      "mainstream adoption",
+      "supports",
+      "alternative finance"
+    ],
+    [
+      "mainstream adoption",
+      "supports",
+      "innovative solutions"
+    ],
+    [
+      "money laundering",
+      "associated with",
+      "mainstream adoption"
+    ],
+    [
+      "money laundering",
+      "concerns about",
+      "decentralization"
+    ],
+    [
+      "money laundering",
+      "facilitates",
+      "decentralization"
+    ],
+    [
+      "money laundering",
+      "facilitates",
+      "traditional banking"
+    ],
+    [
+      "money laundering",
+      "increases risks of",
+      "price fluctuations"
+    ],
+    [
+      "money laundering",
+      "is a concern for",
+      "digital currencies"
+    ],
+    [
+      "money laundering",
+      "is a concern for",
+      "security"
+    ],
+    [
+      "money laundering",
+      "is associated with",
+      "transaction validation"
+    ],
+    [
+      "money laundering",
+      "is challenged by",
+      "financial innovation"
+    ],
+    [
+      "money laundering",
+      "is exploited by",
+      "global economy"
+    ],
+    [
+      "money laundering",
+      "linked to",
+      "investment opportunities"
+    ],
+    [
+      "money laundering",
+      "poses",
+      "risks"
+    ],
+    [
+      "network integrity",
+      "affects",
+      "economic impact"
+    ],
+    [
+      "network integrity",
+      "depends on",
+      "trustless systems"
+    ],
+    [
+      "network integrity",
+      "enables",
+      "blockchain applications"
+    ],
+    [
+      "network integrity",
+      "enhances",
+      "streamlining processes"
+    ],
+    [
+      "network integrity",
+      "is ensured by",
+      "peer-to-peer network"
+    ],
+    [
+      "network integrity",
+      "offers",
+      "investment opportunities"
+    ],
+    [
+      "peer-to-peer network",
+      "challenges",
+      "traditional banking"
+    ],
+    [
+      "peer-to-peer network",
+      "drives",
+      "innovation"
+    ],
+    [
+      "peer-to-peer network",
+      "eliminates the need for",
+      "intermediaries"
+    ],
+    [
+      "peer-to-peer network",
+      "enables",
+      "cryptocurrencies"
+    ],
+    [
+      "peer-to-peer network",
+      "enables",
+      "financial inclusion"
+    ],
+    [
+      "peer-to-peer network",
+      "enables",
+      "streamlining processes"
+    ],
+    [
+      "peer-to-peer network",
+      "enhances",
+      "privacy"
+    ],
+    [
+      "peer-to-peer network",
+      "enhances",
+      "security"
+    ],
+    [
+      "peer-to-peer network",
+      "ensures",
+      "immutability"
+    ],
+    [
+      "peer-to-peer network",
+      "facilitates",
+      "acceptance"
+    ],
+    [
+      "peer-to-peer network",
+      "promotes",
+      "financial innovation"
+    ],
+    [
+      "peer-to-peer network",
+      "promotes",
+      "mainstream adoption"
+    ],
+    [
+      "peer-to-peer network",
+      "provides",
+      "affordable services"
+    ],
+    [
+      "peer-to-peer network",
+      "provides",
+      "financial services"
+    ],
+    [
+      "peer-to-peer network",
+      "provides",
+      "transparency"
+    ],
+    [
+      "peer-to-peer network",
+      "underpins",
+      "blockchain technology"
+    ],
+    [
+      "price fluctuations",
+      "affects",
+      "financial inclusion"
+    ],
+    [
+      "price fluctuations",
+      "affects",
+      "financial landscape"
+    ],
+    [
+      "price fluctuations",
+      "affects",
+      "global economy"
+    ],
+    [
+      "price fluctuations",
+      "affects",
+      "smart contracts"
+    ],
+    [
+      "price fluctuations",
+      "creates",
+      "investment opportunities"
+    ],
+    [
+      "price fluctuations",
+      "drives",
+      "innovation"
+    ],
+    [
+      "price fluctuations",
+      "influences",
+      "altcoins"
+    ],
+    [
+      "price fluctuations",
+      "influences",
+      "global reach"
+    ],
+    [
+      "privacy",
+      "enables",
+      "financial services"
+    ],
+    [
+      "privacy",
+      "enhances",
+      "access to capital"
+    ],
+    [
+      "privacy",
+      "enhances",
+      "altcoins"
+    ],
+    [
+      "privacy",
+      "enhances",
+      "security"
+    ],
+    [
+      "privacy",
+      "linked to",
+      "money laundering"
+    ],
+    [
+      "regulatory challenges",
+      "complicates",
+      "price fluctuations"
+    ],
+    [
+      "regulatory challenges",
+      "faces",
+      "digital currencies"
+    ],
+    [
+      "regulatory challenges",
+      "faces",
+      "investment opportunities"
+    ],
+    [
+      "regulatory challenges",
+      "faces",
+      "mainstream adoption"
+    ],
+    [
+      "regulatory challenges",
+      "impacts",
+      "global economy"
+    ],
+    [
+      "regulatory challenges",
+      "is impacted by",
+      "network integrity"
+    ],
+    [
+      "regulatory challenges",
+      "poses challenges to",
+      "privacy"
+    ],
+    [
+      "regulatory challenges",
+      "presents challenges for",
+      "security"
+    ],
+    [
+      "retail investors",
+      "attracts",
+      "economic growth"
+    ],
+    [
+      "retail investors",
+      "drives",
+      "financial innovation"
+    ],
+    [
+      "retail investors",
+      "drives",
+      "innovation"
+    ],
+    [
+      "retail investors",
+      "improves",
+      "accessibility"
+    ],
+    [
+      "retail investors",
+      "invests in",
+      "digital currencies"
+    ],
+    [
+      "retail investors",
+      "seeks",
+      "investment opportunities"
+    ],
+    [
+      "retail investors",
+      "utilizes",
+      "alternative finance"
+    ],
+    [
+      "risks",
+      "exposed to",
+      "Bitcoin"
+    ],
+    [
+      "risks",
+      "exposes",
+      "global economy"
+    ],
+    [
+      "risks",
+      "introduces",
+      "privacy"
+    ],
+    [
+      "risks",
+      "poses risks to",
+      "altcoins"
+    ],
+    [
+      "risks",
+      "presents",
+      "acceptance"
+    ],
+    [
+      "risks",
+      "presents",
+      "financial transactions"
+    ],
+    [
+      "risks",
+      "presents",
+      "innovative solutions"
+    ],
+    [
+      "risks",
+      "presents",
+      "network integrity"
+    ],
+    [
+      "risks",
+      "presents",
+      "price fluctuations"
+    ],
+    [
+      "security",
+      "is a concern for",
+      "tax evasion"
+    ],
+    [
+      "security",
+      "is influenced by",
+      "global economy"
+    ],
+    [
+      "security",
+      "is supported by",
+      "acceptance"
+    ],
+    [
+      "security",
+      "poses risks to",
+      "price fluctuations"
+    ],
+    [
+      "security",
+      "provides",
+      "Bitcoin"
+    ],
+    [
+      "security",
+      "supports",
+      "financial inclusion"
+    ],
+    [
+      "smart contracts",
+      "contributes to",
+      "global economy"
+    ],
+    [
+      "smart contracts",
+      "eliminates the need for",
+      "intermediaries"
+    ],
+    [
+      "smart contracts",
+      "enabled by",
+      "blockchain applications"
+    ],
+    [
+      "smart contracts",
+      "enables",
+      "cryptocurrencies"
+    ],
+    [
+      "smart contracts",
+      "enables",
+      "streamlining processes"
+    ],
+    [
+      "smart contracts",
+      "enhances",
+      "privacy"
+    ],
+    [
+      "smart contracts",
+      "faces",
+      "regulatory challenges"
+    ],
+    [
+      "smart contracts",
+      "facilitates",
+      "money laundering"
+    ],
+    [
+      "smart contracts",
+      "introduces",
+      "risks"
+    ],
+    [
+      "smart contracts",
+      "is utilized by",
+      "network integrity"
+    ],
+    [
+      "smart contracts",
+      "promotes",
+      "financial inclusion"
+    ],
+    [
+      "smart contracts",
+      "promotes",
+      "mainstream adoption"
+    ],
+    [
+      "smart contracts",
+      "provides",
+      "affordable services"
+    ],
+    [
+      "smart contracts",
+      "provides",
+      "financial services"
+    ],
+    [
+      "smart contracts",
+      "utilizes",
+      "altcoins"
+    ],
+    [
+      "streamlining processes",
+      "drives",
+      "trustless systems"
+    ],
+    [
+      "streamlining processes",
+      "enhances",
+      "financial inclusion"
+    ],
+    [
+      "streamlining processes",
+      "enhances",
+      "privacy"
+    ],
+    [
+      "streamlining processes",
+      "facilitates",
+      "cryptocurrencies"
+    ],
+    [
+      "streamlining processes",
+      "promotes",
+      "mainstream adoption"
+    ],
+    [
+      "tax evasion",
+      "affects",
+      "retail investors"
+    ],
+    [
+      "tax evasion",
+      "affects",
+      "traditional banking"
+    ],
+    [
+      "tax evasion",
+      "affects",
+      "unbanked populations"
+    ],
+    [
+      "tax evasion",
+      "associated with",
+      "risks"
+    ],
+    [
+      "tax evasion",
+      "creates",
+      "investment opportunities"
+    ],
+    [
+      "tax evasion",
+      "impacts",
+      "financial services"
+    ],
+    [
+      "tax evasion",
+      "influences",
+      "blockchain technology"
+    ],
+    [
+      "tax evasion",
+      "is affected by",
+      "global economy"
+    ],
+    [
+      "tax evasion",
+      "is impacted by",
+      "economic growth"
+    ],
+    [
+      "tax evasion",
+      "is linked to",
+      "cryptocurrencies"
+    ],
+    [
+      "tax evasion",
+      "undermines",
+      "trust"
+    ],
+    [
+      "technology adoption",
+      "is driven by",
+      "intermediaries"
+    ],
+    [
+      "technology adoption",
+      "is influenced by",
+      "mainstream adoption"
+    ],
+    [
+      "traditional banking",
+      "challenges",
+      "blockchain technology"
+    ],
+    [
+      "traditional banking",
+      "challenges",
+      "decentralization"
+    ],
+    [
+      "traditional banking",
+      "competes with",
+      "accessibility"
+    ],
+    [
+      "traditional banking",
+      "competes with",
+      "financial services"
+    ],
+    [
+      "traditional banking",
+      "competes with",
+      "financial transactions"
+    ],
+    [
+      "traditional banking",
+      "competes with",
+      "network integrity"
+    ],
+    [
+      "traditional banking",
+      "competes with",
+      "price fluctuations"
+    ],
+    [
+      "traditional banking",
+      "disrupts",
+      "trustless systems"
+    ],
+    [
+      "traditional banking",
+      "enables",
+      "financial inclusion"
+    ],
+    [
+      "traditional banking",
+      "improves",
+      "streamlining processes"
+    ],
+    [
+      "traditional banking",
+      "is affected by",
+      "future uncertainty"
+    ],
+    [
+      "traditional banking",
+      "is challenged by",
+      "economic growth"
+    ],
+    [
+      "traditional banking",
+      "is influenced by",
+      "asset class"
+    ],
+    [
+      "traditional banking",
+      "is restricted by",
+      "digital currencies"
+    ],
+    [
+      "traditional banking",
+      "provides",
+      "access to capital"
+    ],
+    [
+      "traditional banking",
+      "provides protection for",
+      "consumer protection"
+    ],
+    [
+      "traditional banking",
+      "relies on",
+      "trust"
+    ],
+    [
+      "traditional banking",
+      "seeks",
+      "retail investors"
+    ],
+    [
+      "traditional banking",
+      "utilizes",
+      "institutional investors"
+    ],
+    [
+      "transaction efficiency",
+      "enhances",
+      "access to capital"
+    ],
+    [
+      "transaction efficiency",
+      "enhances",
+      "peer-to-peer network"
+    ],
+    [
+      "transaction efficiency",
+      "enhances",
+      "privacy"
+    ],
+    [
+      "transaction efficiency",
+      "enhances",
+      "technology adoption"
+    ],
+    [
+      "transaction efficiency",
+      "impacted by",
+      "volatility"
+    ],
+    [
+      "transaction efficiency",
+      "improves",
+      "alternative finance"
+    ],
+    [
+      "transaction efficiency",
+      "improves",
+      "investment opportunities"
+    ],
+    [
+      "transaction efficiency",
+      "improves",
+      "transaction validation"
+    ],
+    [
+      "transaction efficiency",
+      "supports",
+      "financial inclusion"
+    ],
+    [
+      "transaction validation",
+      "facilitates",
+      "technology adoption"
+    ],
+    [
+      "transaction validation",
+      "is enhanced by",
+      "innovation"
+    ],
+    [
+      "transaction validation",
+      "requires",
+      "tax evasion"
+    ],
+    [
+      "transaction validation",
+      "validates",
+      "government regulation"
+    ],
+    [
+      "transparency",
+      "enhances",
+      "alternative finance"
+    ],
+    [
+      "transparency",
+      "enhances",
+      "financial inclusion"
+    ],
+    [
+      "transparency",
+      "enhances",
+      "government regulation"
+    ],
+    [
+      "transparency",
+      "ensured by",
+      "investment opportunities"
+    ],
+    [
+      "transparency",
+      "ensures",
+      "privacy"
+    ],
+    [
+      "transparency",
+      "ensures",
+      "traditional banking"
+    ],
+    [
+      "transparency",
+      "ensures",
+      "volatility"
+    ],
+    [
+      "transparency",
+      "facilitates",
+      "money laundering"
+    ],
+    [
+      "transparency",
+      "fosters",
+      "innovation"
+    ],
+    [
+      "transparency",
+      "is shaped by",
+      "economic impact"
+    ],
+    [
+      "transparency",
+      "is supported by",
+      "economic growth"
+    ],
+    [
+      "transparency",
+      "provides",
+      "underserved communities"
+    ],
+    [
+      "trust",
+      "builds",
+      "Bitcoin"
+    ],
+    [
+      "trust",
+      "enhances",
+      "cryptocurrencies"
+    ],
+    [
+      "trust",
+      "enhances",
+      "security"
+    ],
+    [
+      "trust",
+      "ensures",
+      "transaction validation"
+    ],
+    [
+      "trust",
+      "influences",
+      "financial landscape"
+    ],
+    [
+      "trust",
+      "is built on",
+      "peer-to-peer network"
+    ],
+    [
+      "trust",
+      "is established by",
+      "smart contracts"
+    ],
+    [
+      "trust",
+      "is supported by",
+      "digital currencies"
+    ],
+    [
+      "trust",
+      "promotes",
+      "financial inclusion"
+    ],
+    [
+      "trustless systems",
+      "attracts",
+      "retail investors"
+    ],
+    [
+      "trustless systems",
+      "drives",
+      "innovation"
+    ],
+    [
+      "trustless systems",
+      "enhances",
+      "financial inclusion"
+    ],
+    [
+      "trustless systems",
+      "facilitates",
+      "financial transactions"
+    ],
+    [
+      "trustless systems",
+      "is based on",
+      "decentralization"
+    ],
+    [
+      "trustless systems",
+      "is supported by",
+      "acceptance"
+    ],
+    [
+      "trustless systems",
+      "promotes",
+      "mainstream adoption"
+    ],
+    [
+      "trustless systems",
+      "provides",
+      "transparency"
+    ],
+    [
+      "trustless systems",
+      "supports",
+      "underserved communities"
+    ],
+    [
+      "trustless systems",
+      "underpins",
+      "blockchain technology"
+    ],
+    [
+      "trustless systems",
+      "utilizes",
+      "smart contracts"
+    ],
+    [
+      "unbanked populations",
+      "attracts",
+      "institutional investors"
+    ],
+    [
+      "unbanked populations",
+      "benefits",
+      "access to capital"
+    ],
+    [
+      "unbanked populations",
+      "benefits from",
+      "investment opportunities"
+    ],
+    [
+      "unbanked populations",
+      "drives",
+      "technology adoption"
+    ],
+    [
+      "unbanked populations",
+      "empowers",
+      "cryptocurrencies"
+    ],
+    [
+      "unbanked populations",
+      "fosters",
+      "financial innovation"
+    ],
+    [
+      "unbanked populations",
+      "improves",
+      "accessibility"
+    ],
+    [
+      "unbanked populations",
+      "improves",
+      "transaction efficiency"
+    ],
+    [
+      "unbanked populations",
+      "is enhanced by",
+      "privacy"
+    ],
+    [
+      "unbanked populations",
+      "provides",
+      "financial services"
+    ],
+    [
+      "unbanked populations",
+      "utilizes",
+      "Bitcoin"
+    ],
+    [
+      "unbanked populations",
+      "utilizes",
+      "blockchain applications"
+    ],
+    [
+      "underserved communities",
+      "affects",
+      "volatility"
+    ],
+    [
+      "underserved communities",
+      "associated with",
+      "asset class"
+    ],
+    [
+      "underserved communities",
+      "benefits from",
+      "alternative finance"
+    ],
+    [
+      "underserved communities",
+      "benefits from",
+      "cryptocurrencies"
+    ],
+    [
+      "underserved communities",
+      "benefits from",
+      "financial inclusion"
+    ],
+    [
+      "underserved communities",
+      "benefits from",
+      "innovative solutions"
+    ],
+    [
+      "underserved communities",
+      "benefits from",
+      "peer-to-peer network"
+    ],
+    [
+      "underserved communities",
+      "builds",
+      "trust"
+    ],
+    [
+      "underserved communities",
+      "drives",
+      "innovation"
+    ],
+    [
+      "underserved communities",
+      "empowers",
+      "Bitcoin"
+    ],
+    [
+      "underserved communities",
+      "empowers",
+      "blockchain technology"
+    ],
+    [
+      "underserved communities",
+      "enhances",
+      "privacy"
+    ],
+    [
+      "underserved communities",
+      "faces",
+      "security"
+    ],
+    [
+      "underserved communities",
+      "facilitates",
+      "streamlining processes"
+    ],
+    [
+      "underserved communities",
+      "gains access to",
+      "financial services"
+    ],
+    [
+      "underserved communities",
+      "improves",
+      "accessibility"
+    ],
+    [
+      "underserved communities",
+      "is exploited by",
+      "money laundering"
+    ],
+    [
+      "underserved communities",
+      "offers",
+      "altcoins"
+    ],
+    [
+      "underserved communities",
+      "promotes",
+      "mainstream adoption"
+    ],
+    [
+      "underserved communities",
+      "provides",
+      "investment opportunities"
+    ],
+    [
+      "underserved communities",
+      "utilize",
+      "financial transactions"
+    ],
+    [
+      "underserved communities",
+      "utilizes",
+      "blockchain applications"
+    ],
+    [
+      "underserved communities",
+      "utilizes",
+      "digital currencies"
+    ],
+    [
+      "volatility",
+      "affect",
+      "accessibility"
+    ],
+    [
+      "volatility",
+      "affects",
+      "digital currencies"
+    ],
+    [
+      "volatility",
+      "depends on",
+      "trust"
+    ],
+    [
+      "volatility",
+      "drives",
+      "economic growth"
+    ],
+    [
+      "volatility",
+      "drives",
+      "financial innovation"
+    ],
+    [
+      "volatility",
+      "influences",
+      "altcoins"
+    ],
+    [
+      "volatility",
+      "introduces",
+      "risks"
+    ],
+    [
+      "volatility",
+      "involves",
+      "smart contracts"
+    ],
+    [
+      "volatility",
+      "is a factor in",
+      "alternative finance"
+    ],
+    [
+      "volatility",
+      "poses risks to",
+      "consumer protection"
+    ],
+    [
+      "volatility",
+      "presents",
+      "innovative solutions"
+    ],
+    [
+      "volatility",
+      "promotes",
+      "financial inclusion"
+    ]
+  ],
+  "edges": [
+    "addresses",
+    "adopted by",
+    "advances",
+    "affect",
+    "affects",
+    "affords",
+    "associated with",
+    "attracts",
+    "benefit from",
+    "benefits",
+    "benefits from",
+    "builds",
+    "challenges",
+    "characteristic of",
+    "combats",
+    "competes with",
+    "complicates",
+    "concerns",
+    "concerns about",
+    "contributes to",
+    "creates",
+    "defines",
+    "depends on",
+    "derived from",
+    "disrupts",
+    "driven by",
+    "drives",
+    "eliminates",
+    "eliminates the need for",
+    "employs",
+    "empowers",
+    "enabled by",
+    "enables",
+    "encounters",
+    "engage in",
+    "enhance",
+    "enhances",
+    "ensured by",
+    "ensures",
+    "experiences",
+    "exposed to",
+    "exposes",
+    "faces",
+    "facilitate",
+    "facilitated by",
+    "facilitates",
+    "fosters",
+    "gains access to",
+    "impacted by",
+    "impacts",
+    "improves",
+    "includes",
+    "increases risks of",
+    "influenced by",
+    "influences",
+    "introduces",
+    "invests in",
+    "involves",
+    "is a barrier to",
+    "is a characteristic of",
+    "is a concern for",
+    "is a consequence of",
+    "is a factor in",
+    "is a type of",
+    "is affected by",
+    "is associated with",
+    "is based on",
+    "is built on",
+    "is bypassed by",
+    "is challenged by",
+    "is characterized by",
+    "is concerned with",
+    "is driven by",
+    "is enhanced by",
+    "is ensured by",
+    "is established by",
+    "is exploited by",
+    "is facilitated by",
+    "is growing among",
+    "is impacted by",
+    "is influenced by",
+    "is linked to",
+    "is regulated by",
+    "is replaced by",
+    "is restricted by",
+    "is shaped by",
+    "is supported by",
+    "is utilized by",
+    "lead to",
+    "limits",
+    "linked to",
+    "offers",
+    "oversees",
+    "poses",
+    "poses challenges to",
+    "poses risks to",
+    "presents",
+    "presents challenges for",
+    "promotes",
+    "protects",
+    "provides",
+    "provides access to",
+    "provides protection for",
+    "raises concerns about",
+    "reduced by",
+    "reduces",
+    "reduces reliance on",
+    "regulated by",
+    "regulates",
+    "relies on",
+    "represents",
+    "requires",
+    "seeks",
+    "shaped by",
+    "shapes",
+    "streamlines",
+    "supported by",
+    "supports",
+    "undermines",
+    "underpins",
+    "utilize",
+    "utilizes",
+    "validates"
+  ]
+}

@@ -1,0 +1,364 @@
+source,relation,target
+inspire,elicits,introspection
+introspection,is influenced by,inspire
+soothe,alleviates,mood
+mood,is affected by,soothe
+soothe,provides,comfort
+comfort,is given by,soothe
+electronic,is a genre of,music
+music,includes,electronic
+classical,fosters,unity
+unity,is created by,classical
+style,is a genre of,rock
+rock,includes,style
+classical,preferred by,personal preferences
+pop,induces,introspection
+rebellion,influences,themes
+social bonds,strengthens,camaraderie
+social bonds,creates,unity
+cultural background,influences,lyrics
+sophistication,contrasts with,rebellion
+connections,enhances,electronic
+music,is influenced by,joy
+rebellion,fulfills,emotional needs
+connections,is enhanced by,music
+social bonds,evokes,feelings
+social bonds,is supported by,rebellion
+social bonds,motivates,inspire
+memories,evokes,empathy
+rock,is influenced by,empathy
+classical,informs,themes
+messages,conveys,style
+themes,informs,style
+memories,influences,lyrics
+energize,elicits,empathy
+unity,is enhanced by,camaraderie
+empathy,is influenced by,pop
+themes,informs,jazz
+emotions,evokes,intensity
+feelings,is influenced by,introspection
+joy,is enhanced by,soothe
+style,is expressed through,music
+elegance,conveys,messages
+memories,influences,electronic
+pop,influences,lyrics
+electronic,enhances,unity
+memories,is expressed through,music
+emotional needs,influences,genre
+energy,affects,cortisol levels
+joy,elicits,blood pressure
+joy,elicits,physiological responses
+social bonds,strengthens,rock
+emotional needs,influences,mood
+emotional needs,provides,comfort
+messages,affects,intensity
+themes,influences,intensity
+comfort,enhances,emotional well-being
+cortisol levels,increases,energize
+uplift,fosters,connections
+emotional well-being,contributes to,energy
+emotional well-being,enhances,messages
+introspection,evokes,rock
+sophistication,is associated with,social bonds
+themes,enhances,emotional well-being
+camaraderie,fosters,cortisol levels
+mood,affects,heart rate
+jazz,elicits,empathy
+mood,is associated with,elegance
+uplift,enhances,mood
+uplift,provides,comfort
+emotional needs,influences,blood pressure
+emotional needs,influences,physiological responses
+sophistication,is associated with,rock
+heart rate,affects,blood pressure
+social bonds,strengthens,blood pressure
+social bonds,influences,physiological responses
+messages,influences,emotions
+connections,creates,camaraderie
+camaraderie,is a result of,connections
+joy,fosters,unity
+unity,is enhanced by,joy
+motivation,provides,comfort
+comfort,is a source of,motivation
+energy,drives,rebellion
+rebellion,is influenced by,energy
+connections,enhances,unity
+unity,is supported by,connections
+relaxation,provides,comfort
+comfort,is a result of,relaxation
+emotional well-being,enhances,unity
+unity,is supported by,emotional well-being
+memories,fosters,unity
+unity,is enhanced by,memories
+emotions,evokes,empathy
+cultural background,influences,musical diversity
+rebellion,contributes to,intensity
+energize,can lead to,inspire
+lyrics,influences,emotions
+joy,associated with,heart rate
+themes,conveys,connections
+uplift,can lead to,joy
+comfort,provides,social bonds
+rebellion,affects,emotional well-being
+messages,can uplift,uplift
+sophistication,associated with,connections
+messages,evokes,empathy
+themes,evokes,empathy
+rock,associated with,memories
+physiological responses,affects,blood pressure
+comfort,provides,mood
+motivation,can lead to,joy
+lyrics,conveys,messages
+camaraderie,creates,genre
+comfort,provides,introspection
+camaraderie,enhances,mood
+soothe,can soothe,energy
+social bonds,enhances,jazz
+personal preferences,can inspire,inspire
+jazz,creates,unity
+messages,can soothe,soothe
+themes,influences,electronic
+blood pressure,affects,jazz
+electronic,is a type of,genre
+uplift,fulfills,emotional needs
+comfort,provides,sophistication
+themes,is conveyed through,music
+social bonds,strengthens,uplift
+classical,evokes,joy
+motivation,fulfills,emotional needs
+joy,is associated with,empathy
+introspection,promotes,uplift
+motivation,evokes,social bonds
+relaxation,fulfills,emotional needs
+electronic,is a type of,style
+social bonds,strengthens,relaxation
+soothe,enhances,emotional well-being
+personal choices,shapes,musical diversity
+rock,associated with,personal preferences
+unity,fosters,introspection
+sophistication,is associated with,classical
+introspection,promotes,motivation
+introspection,promotes,rebellion
+blood pressure,affects,emotional well-being
+physiological responses,affects,emotional well-being
+introspection,promotes,relaxation
+cortisol levels,influences,mood
+themes,influences,personal preferences
+social bonds,strengthens,classical
+comfort,provides,cortisol levels
+unity,fosters,sophistication
+sophistication,fulfills,empathy
+musical diversity,can soothe,soothe
+emotional needs,fulfills,empathy
+social bonds,evokes,joy
+empathy,is associated with,uplift
+blood pressure,affects,cortisol levels
+social bonds,enhances,emotions
+personal choices,shaped by,elegance
+messages,conveys,energy
+joy,influences,mood
+physiological responses,affects,emotions
+camaraderie,promotes,emotional well-being
+joy,provides,comfort
+genre,influenced by,emotional well-being
+pop,is a type of,music
+music,creates,unity
+connections,provides,comfort
+energy,induces,energize
+relaxation,associated with,cortisol levels
+soothe,is calmed by,heart rate
+rebellion,evokes,empathy
+messages,energizes,energize
+empathy,promotes,introspection
+elegance,induces,soothe
+personal choices,shaped by,rebellion
+themes,energizes,energize
+camaraderie,enhances,joy
+comfort,creates,unity
+energy,fosters,camaraderie
+memories,facilitates,connections
+messages,fosters,camaraderie
+social bonds,influences,emotional needs
+themes,creates,camaraderie
+energy,fosters,unity
+connections,induces,relaxation
+messages,creates,unity
+electronic,evokes,joy
+energy,motivates,inspire
+personal choices,shaped by,classical
+personal preferences,influences,messages
+messages,elicits,feelings
+sophistication,associated with,introspection
+messages,motivates,inspire
+heart rate,affects,cortisol levels
+themes,inspires,inspire
+inspire,creates,unity
+emotional needs,fulfills,introspection
+cortisol levels,influences,elegance
+social bonds,strengthens,introspection
+energize,enhances,mood
+personal choices,influences,individual differences
+energize,provides,comfort
+relaxation,affects,mood
+inspire,elicits,feelings
+style,is a type of,jazz
+lyrics,influences,individual differences
+music,is a genre of,rock
+personal choices,associated with,rock
+blood pressure,motivates,motivation
+physiological responses,drives,motivation
+classical,is a category of,genre
+personal preferences,influences,cultural background
+cortisol levels,evokes,joy
+cultural background,shapes,elegance
+camaraderie,enhances,introspection
+emotional needs,supports,emotional well-being
+energy,increases,heart rate
+music,is associated with,sophistication
+genre,shapes,individual differences
+empathy,is a genre of,genre
+relaxation,is influenced by,jazz
+uplift,stimulates,energy
+social bonds,strengthens,empathy
+blood pressure,enhances,uplift
+physiological responses,promotes,uplift
+themes,influences,rock
+genre,creates,unity
+mood,influences,personal preferences
+blood pressure,affects,empathy
+empathy,elicits,physiological responses
+electronic,triggers,introspection
+heart rate,increases,energize
+social bonds,influences,lyrics
+intensity,evokes,feelings
+joy,creates,connections
+inspire,motivates,intensity
+uplift,enhances,energize
+emotions,reflects,connections
+musical diversity,can inspire,inspire
+pop,fosters,unity
+individual differences,influences,cultural background
+personal choices,shaped by,mood
+uplift,improves,emotional well-being
+camaraderie,strengthens,heart rate
+emotional needs,addresses,cortisol levels
+empathy,evokes,camaraderie
+soothe,calms,blood pressure
+rebellion,challenges,connections
+electronic,affects,blood pressure
+rock,shapes,cultural background
+genre,influences,social bonds
+rebellion,energizes,energize
+music,affects,blood pressure
+sophistication,conveys,inspire
+emotional well-being,enhances,motivation
+personal choices,shaped by,sophistication
+inspire,inspires,heart rate
+emotional needs,addresses,inspire
+empathy,elicits,electronic
+emotional needs,addresses,joy
+emotional well-being,improves,relaxation
+personal choices,shaped by,electronic
+emotional needs,addresses,connections
+soothe,calms,camaraderie
+connections,strengthens,social bonds
+rock,influences,musical diversity
+energize,enhances,joy
+motivation,influences,emotions
+joy,evokes,relaxation
+rebellion,motivates,inspire
+personal choices,influences,genre
+memories,informs,themes
+memories,evokes,classical
+elegance,is enhanced by,musical diversity
+empathy,enhances,emotional well-being
+memories,influences,individual differences
+elegance,associated with,heart rate
+pop,conveys,themes
+memories,strengthens,social bonds
+personal choices,influences,cortisol levels
+musical diversity,is influenced by,rebellion
+energy,influences,blood pressure
+energy,affects,physiological responses
+elegance,is associated with,classical
+memories,triggers,introspection
+rebellion,influences,rock
+uplift,enhances,motivation
+connections,evokes,empathy
+energize,is influenced by,social bonds
+messages,creates,connections
+rebellion,is influenced by,individual differences
+energize,is affected by,blood pressure
+energize,is influenced by,physiological responses
+jazz,evokes,joy
+social bonds,enhances,emotional well-being
+connections,influences,lyrics
+energize,promotes,introspection
+mood,affects,energy
+comfort,provides,energy
+musical diversity,is influenced by,classical
+uplift,uplifts,heart rate
+messages,conveys,mood
+messages,provides,comfort
+themes,offers,comfort
+musical diversity,includes,electronic
+emotional well-being,enhanced by,mood
+personal preferences,is associated with,sophistication
+genre,is inspired by,inspire
+unity,fosters,blood pressure
+unity,creates,physiological responses
+individual differences,influences,musical diversity
+music,is expressed through,musical diversity
+camaraderie,energizes,energize
+personal choices,reflects,style
+emotional well-being,enhances,introspection
+subjective effects,influences,feelings
+inspire,affects,mood
+connections,is shaped by,genre
+inspire,provides,comfort
+feelings,is expressed through,physiological responses
+jazz,embodies,sophistication
+cortisol levels,is influenced by,style
+unity,fosters,emotions
+relaxation,induces,energy
+emotional well-being,is enhanced by,sophistication
+motivation,evokes,empathy
+joy,can lead to,introspection
+soothe,is influenced by,style
+uplift,can enhance,soothe
+feelings,is expressed through,emotions
+empathy,can evoke,relaxation
+elegance,is associated with,electronic
+subjective effects,is influenced by,heart rate
+emotions,inspire,inspire
+inspire,evoked by,emotions
+elegance,associated with,music
+music,conveys,elegance
+camaraderie,inspire,inspire
+inspire,evoked by,camaraderie
+themes,creates,unity
+pop,fosters,connections
+relaxation,induces,soothe
+individual differences,influences,pop
+pop,shaped by,individual differences
+personal preferences,influences,personal choices
+personal choices,shaped by,personal preferences
+jazz,influences,personal choices
+personal choices,shaped by,jazz
+personal preferences,influences,genre
+genre,shaped by,personal preferences
+soothe,evokes,subjective effects
+subjective effects,experienced as,soothe
+lyrics,creates,unity
+social bonds,enhances,music
+personal preferences,influences,style
+style,shaped by,personal preferences
+lyrics,influences,introspection
+personal preferences,influences,jazz
+jazz,shaped by,personal preferences
+heart rate,influences,personal preferences
+personal preferences,affected by,heart rate
+elegance,influences,personal preferences
+personal preferences,shaped by,elegance
+motivation,enhances,feelings
+feelings,influenced by,motivation

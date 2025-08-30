@@ -1,0 +1,3324 @@
+{
+  "entities": [
+    "Antarctica",
+    "Atlantic Ocean",
+    "Atlantis",
+    "Critias",
+    "Mediterranean Sea",
+    "Pillars of Hercules",
+    "Plato",
+    "Strait of Gibraltar",
+    "Timaeus",
+    "advanced civilization",
+    "advanced knowledge",
+    "ancient Greece",
+    "ancient myths",
+    "captivating story",
+    "cataclysm",
+    "catastrophic event",
+    "cautionary tale",
+    "civilization theories",
+    "concrete evidence",
+    "corruption",
+    "cultural fascination",
+    "curiosity",
+    "debate",
+    "destruction",
+    "dialogues",
+    "disappearance",
+    "downfall",
+    "dramatic event",
+    "enduring mystery",
+    "expeditions",
+    "fascination",
+    "greed",
+    "historical context",
+    "historical debates",
+    "hubris",
+    "imagination",
+    "inspiration",
+    "legend",
+    "legendary island",
+    "legendary tales",
+    "location theories",
+    "lost civilization",
+    "military power",
+    "moral decline",
+    "mystery",
+    "myth",
+    "noble people",
+    "philosophical lessons",
+    "power-hungry",
+    "powerful civilization",
+    "remnants",
+    "resources",
+    "rich resources",
+    "skepticism",
+    "swallowed by sea",
+    "technology",
+    "theories",
+    "trace",
+    "utopia",
+    "wonder"
+  ],
+  "relations": [
+    [
+      "Antarctica",
+      "discovered in",
+      "swallowed by sea"
+    ],
+    [
+      "Antarctica",
+      "is discussed in",
+      "dialogues"
+    ],
+    [
+      "Antarctica",
+      "speculated in",
+      "historical debates"
+    ],
+    [
+      "Antarctica",
+      "speculated to be in",
+      "powerful civilization"
+    ],
+    [
+      "Atlantic Ocean",
+      "associated with",
+      "advanced civilization"
+    ],
+    [
+      "Atlantic Ocean",
+      "associated with",
+      "dialogues"
+    ],
+    [
+      "Atlantic Ocean",
+      "associated with",
+      "wonder"
+    ],
+    [
+      "Atlantic Ocean",
+      "caused by",
+      "destruction"
+    ],
+    [
+      "Atlantic Ocean",
+      "is influenced by",
+      "concrete evidence"
+    ],
+    [
+      "Atlantic Ocean",
+      "is located in",
+      "rich resources"
+    ],
+    [
+      "Atlantic Ocean",
+      "is pursued by",
+      "expeditions"
+    ],
+    [
+      "Atlantic Ocean",
+      "located in",
+      "powerful civilization"
+    ],
+    [
+      "Atlantic Ocean",
+      "located near",
+      "Pillars of Hercules"
+    ],
+    [
+      "Atlantic Ocean",
+      "sparked by",
+      "debate"
+    ],
+    [
+      "Atlantis",
+      "associated with",
+      "technology"
+    ],
+    [
+      "Atlantis",
+      "debated about",
+      "debate"
+    ],
+    [
+      "Atlantis",
+      "described as",
+      "concrete evidence"
+    ],
+    [
+      "Atlantis",
+      "described in",
+      "Timaeus"
+    ],
+    [
+      "Atlantis",
+      "fascinates",
+      "wonder"
+    ],
+    [
+      "Atlantis",
+      "inspired",
+      "expeditions"
+    ],
+    [
+      "Atlantis",
+      "is a",
+      "myth"
+    ],
+    [
+      "Atlantis",
+      "is linked to",
+      "advanced knowledge"
+    ],
+    [
+      "Atlantis",
+      "located in",
+      "Atlantic Ocean"
+    ],
+    [
+      "Atlantis",
+      "location of",
+      "Pillars of Hercules"
+    ],
+    [
+      "Atlantis",
+      "mentioned in",
+      "Critias"
+    ],
+    [
+      "Atlantis",
+      "originated from",
+      "advanced civilization"
+    ],
+    [
+      "Atlantis",
+      "possesses",
+      "rich resources"
+    ],
+    [
+      "Atlantis",
+      "questioned by",
+      "skepticism"
+    ],
+    [
+      "Atlantis",
+      "result of Atlantis",
+      "curiosity"
+    ],
+    [
+      "Atlantis",
+      "was destroyed by",
+      "destruction"
+    ],
+    [
+      "Critias",
+      "associated with",
+      "Atlantic Ocean"
+    ],
+    [
+      "Critias",
+      "contributes to",
+      "historical debates"
+    ],
+    [
+      "Critias",
+      "described in",
+      "destruction"
+    ],
+    [
+      "Critias",
+      "described in",
+      "dramatic event"
+    ],
+    [
+      "Critias",
+      "described in",
+      "legend"
+    ],
+    [
+      "Critias",
+      "describes",
+      "disappearance"
+    ],
+    [
+      "Critias",
+      "discussed in",
+      "Strait of Gibraltar"
+    ],
+    [
+      "Critias",
+      "discussed in",
+      "mystery"
+    ],
+    [
+      "Critias",
+      "initiated by",
+      "expeditions"
+    ],
+    [
+      "Critias",
+      "is attributed to",
+      "corruption"
+    ],
+    [
+      "Critias",
+      "is referenced in",
+      "wonder"
+    ],
+    [
+      "Critias",
+      "mentioned in",
+      "concrete evidence"
+    ],
+    [
+      "Critias",
+      "part of",
+      "dialogues"
+    ],
+    [
+      "Critias",
+      "wrote",
+      "Plato"
+    ],
+    [
+      "Mediterranean Sea",
+      "associated with",
+      "myth"
+    ],
+    [
+      "Mediterranean Sea",
+      "discussed by",
+      "Plato"
+    ],
+    [
+      "Mediterranean Sea",
+      "inspired",
+      "expeditions"
+    ],
+    [
+      "Mediterranean Sea",
+      "inspired by",
+      "legend"
+    ],
+    [
+      "Mediterranean Sea",
+      "located near",
+      "Strait of Gibraltar"
+    ],
+    [
+      "Pillars of Hercules",
+      "associated with",
+      "advanced civilization"
+    ],
+    [
+      "Pillars of Hercules",
+      "is associated with",
+      "captivating story"
+    ],
+    [
+      "Pillars of Hercules",
+      "is characterized by",
+      "power-hungry"
+    ],
+    [
+      "Pillars of Hercules",
+      "located near",
+      "technology"
+    ],
+    [
+      "Pillars of Hercules",
+      "questioned by",
+      "skepticism"
+    ],
+    [
+      "Plato",
+      "associated with",
+      "Atlantic Ocean"
+    ],
+    [
+      "Plato",
+      "created by",
+      "Atlantis"
+    ],
+    [
+      "Plato",
+      "described by",
+      "legendary island"
+    ],
+    [
+      "Plato",
+      "discusses",
+      "civilization theories"
+    ],
+    [
+      "Plato",
+      "is associated with",
+      "corruption"
+    ],
+    [
+      "Plato",
+      "is created by",
+      "myth"
+    ],
+    [
+      "Plato",
+      "is described by",
+      "advanced civilization"
+    ],
+    [
+      "Plato",
+      "is the source of",
+      "legend"
+    ],
+    [
+      "Plato",
+      "possesses",
+      "resources"
+    ],
+    [
+      "Plato",
+      "was created by",
+      "ancient myths"
+    ],
+    [
+      "Plato",
+      "wrote",
+      "Timaeus"
+    ],
+    [
+      "Strait of Gibraltar",
+      "associated with",
+      "imagination"
+    ],
+    [
+      "Strait of Gibraltar",
+      "describes",
+      "legendary island"
+    ],
+    [
+      "Strait of Gibraltar",
+      "evoked",
+      "wonder"
+    ],
+    [
+      "Strait of Gibraltar",
+      "is located near",
+      "ancient Greece"
+    ],
+    [
+      "Strait of Gibraltar",
+      "is located near",
+      "lost civilization"
+    ],
+    [
+      "Strait of Gibraltar",
+      "located near",
+      "noble people"
+    ],
+    [
+      "Strait of Gibraltar",
+      "location of advanced civilization",
+      "advanced civilization"
+    ],
+    [
+      "Strait of Gibraltar",
+      "mentioned in",
+      "dialogues"
+    ],
+    [
+      "Strait of Gibraltar",
+      "sought by",
+      "expeditions"
+    ],
+    [
+      "Timaeus",
+      "described in",
+      "destruction"
+    ],
+    [
+      "Timaeus",
+      "described in",
+      "dramatic event"
+    ],
+    [
+      "Timaeus",
+      "described in",
+      "powerful civilization"
+    ],
+    [
+      "Timaeus",
+      "discussed in",
+      "location theories"
+    ],
+    [
+      "Timaeus",
+      "is a",
+      "utopia"
+    ],
+    [
+      "Timaeus",
+      "is discussed in",
+      "captivating story"
+    ],
+    [
+      "Timaeus",
+      "is discussed in",
+      "civilization theories"
+    ],
+    [
+      "Timaeus",
+      "is discussed in",
+      "corruption"
+    ],
+    [
+      "Timaeus",
+      "is mentioned in",
+      "Atlantic Ocean"
+    ],
+    [
+      "Timaeus",
+      "is referenced in",
+      "Mediterranean Sea"
+    ],
+    [
+      "Timaeus",
+      "is referenced in",
+      "legend"
+    ],
+    [
+      "Timaeus",
+      "is referenced in",
+      "rich resources"
+    ],
+    [
+      "Timaeus",
+      "is referenced in",
+      "swallowed by sea"
+    ],
+    [
+      "Timaeus",
+      "mentioned in",
+      "Pillars of Hercules"
+    ],
+    [
+      "Timaeus",
+      "mentioned in",
+      "Strait of Gibraltar"
+    ],
+    [
+      "Timaeus",
+      "mentioned in",
+      "advanced civilization"
+    ],
+    [
+      "Timaeus",
+      "provided by",
+      "resources"
+    ],
+    [
+      "advanced civilization",
+      "associated with",
+      "Mediterranean Sea"
+    ],
+    [
+      "advanced civilization",
+      "compared to",
+      "utopia"
+    ],
+    [
+      "advanced civilization",
+      "described in",
+      "dialogues"
+    ],
+    [
+      "advanced civilization",
+      "destroyed by",
+      "destruction"
+    ],
+    [
+      "advanced civilization",
+      "evokes",
+      "enduring mystery"
+    ],
+    [
+      "advanced civilization",
+      "exemplifies",
+      "hubris"
+    ],
+    [
+      "advanced civilization",
+      "exemplifies",
+      "military power"
+    ],
+    [
+      "advanced civilization",
+      "inspired by",
+      "theories"
+    ],
+    [
+      "advanced civilization",
+      "inspires",
+      "cultural fascination"
+    ],
+    [
+      "advanced civilization",
+      "inspires",
+      "curiosity"
+    ],
+    [
+      "advanced civilization",
+      "is described as",
+      "legendary island"
+    ],
+    [
+      "advanced civilization",
+      "is linked to",
+      "catastrophic event"
+    ],
+    [
+      "advanced civilization",
+      "leads to",
+      "downfall"
+    ],
+    [
+      "advanced civilization",
+      "located near",
+      "Strait of Gibraltar"
+    ],
+    [
+      "advanced civilization",
+      "mentioned in",
+      "Critias"
+    ],
+    [
+      "advanced civilization",
+      "possessed by",
+      "resources"
+    ],
+    [
+      "advanced civilization",
+      "was referenced by",
+      "ancient Greece"
+    ],
+    [
+      "advanced knowledge",
+      "basis for",
+      "theories"
+    ],
+    [
+      "advanced knowledge",
+      "informed by",
+      "historical context"
+    ],
+    [
+      "advanced knowledge",
+      "informs",
+      "location theories"
+    ],
+    [
+      "advanced knowledge",
+      "is a cause of",
+      "cataclysm"
+    ],
+    [
+      "advanced knowledge",
+      "is enhanced by",
+      "captivating story"
+    ],
+    [
+      "advanced knowledge",
+      "is explained by",
+      "destruction"
+    ],
+    [
+      "advanced knowledge",
+      "is inspired by",
+      "fascination"
+    ],
+    [
+      "advanced knowledge",
+      "is linked to",
+      "myth"
+    ],
+    [
+      "advanced knowledge",
+      "is related to",
+      "catastrophic event"
+    ],
+    [
+      "advanced knowledge",
+      "is sought for",
+      "Mediterranean Sea"
+    ],
+    [
+      "advanced knowledge",
+      "provides",
+      "Critias"
+    ],
+    [
+      "advanced knowledge",
+      "sparks",
+      "debate"
+    ],
+    [
+      "ancient Greece",
+      "illustrates",
+      "hubris"
+    ],
+    [
+      "ancient Greece",
+      "influenced",
+      "historical debates"
+    ],
+    [
+      "ancient Greece",
+      "influences",
+      "philosophical lessons"
+    ],
+    [
+      "ancient Greece",
+      "is associated with",
+      "advanced knowledge"
+    ],
+    [
+      "ancient Greece",
+      "is linked to",
+      "concrete evidence"
+    ],
+    [
+      "ancient Greece",
+      "originated from",
+      "greed"
+    ],
+    [
+      "ancient Greece",
+      "provides",
+      "resources"
+    ],
+    [
+      "ancient Greece",
+      "serves as",
+      "cautionary tale"
+    ],
+    [
+      "ancient myths",
+      "contrasts with",
+      "advanced civilization"
+    ],
+    [
+      "ancient myths",
+      "describes",
+      "lost civilization"
+    ],
+    [
+      "ancient myths",
+      "exhibits",
+      "military power"
+    ],
+    [
+      "ancient myths",
+      "has",
+      "rich resources"
+    ],
+    [
+      "ancient myths",
+      "illustrates",
+      "moral decline"
+    ],
+    [
+      "ancient myths",
+      "includes",
+      "Atlantis"
+    ],
+    [
+      "ancient myths",
+      "inspires",
+      "curiosity"
+    ],
+    [
+      "ancient myths",
+      "is characterized as",
+      "powerful civilization"
+    ],
+    [
+      "ancient myths",
+      "is presented in",
+      "dialogues"
+    ],
+    [
+      "ancient myths",
+      "mentioned in",
+      "Critias"
+    ],
+    [
+      "ancient myths",
+      "offers",
+      "advanced knowledge"
+    ],
+    [
+      "ancient myths",
+      "provides context for",
+      "historical context"
+    ],
+    [
+      "ancient myths",
+      "provokes",
+      "historical debates"
+    ],
+    [
+      "captivating story",
+      "depicts",
+      "lost civilization"
+    ],
+    [
+      "captivating story",
+      "generates",
+      "theories"
+    ],
+    [
+      "captivating story",
+      "inspires",
+      "cultural fascination"
+    ],
+    [
+      "captivating story",
+      "is a part of",
+      "concrete evidence"
+    ],
+    [
+      "captivating story",
+      "is a part of",
+      "dramatic event"
+    ],
+    [
+      "captivating story",
+      "is a result of",
+      "wonder"
+    ],
+    [
+      "captivating story",
+      "is about",
+      "legendary island"
+    ],
+    [
+      "captivating story",
+      "is linked to",
+      "cataclysm"
+    ],
+    [
+      "captivating story",
+      "possesses",
+      "rich resources"
+    ],
+    [
+      "captivating story",
+      "provides",
+      "inspiration"
+    ],
+    [
+      "captivating story",
+      "sparks",
+      "debate"
+    ],
+    [
+      "cataclysm",
+      "caused by",
+      "powerful civilization"
+    ],
+    [
+      "cataclysm",
+      "discussed in",
+      "historical debates"
+    ],
+    [
+      "cataclysm",
+      "is a result of",
+      "rich resources"
+    ],
+    [
+      "cataclysm",
+      "is a result of",
+      "swallowed by sea"
+    ],
+    [
+      "cataclysm",
+      "is affected by",
+      "noble people"
+    ],
+    [
+      "cataclysm",
+      "is explained by",
+      "civilization theories"
+    ],
+    [
+      "cataclysm",
+      "prompted expeditions",
+      "expeditions"
+    ],
+    [
+      "cataclysm",
+      "questioned by",
+      "skepticism"
+    ],
+    [
+      "cataclysm",
+      "related to",
+      "dialogues"
+    ],
+    [
+      "cataclysm",
+      "result of dramatic event",
+      "dramatic event"
+    ],
+    [
+      "cataclysm",
+      "resulted in",
+      "lost civilization"
+    ],
+    [
+      "catastrophic event",
+      "creates",
+      "enduring mystery"
+    ],
+    [
+      "catastrophic event",
+      "explains",
+      "location theories"
+    ],
+    [
+      "catastrophic event",
+      "influences",
+      "technology"
+    ],
+    [
+      "catastrophic event",
+      "informs",
+      "civilization theories"
+    ],
+    [
+      "catastrophic event",
+      "is a significant event of",
+      "swallowed by sea"
+    ],
+    [
+      "catastrophic event",
+      "is a type of",
+      "destruction"
+    ],
+    [
+      "catastrophic event",
+      "leads to",
+      "utopia"
+    ],
+    [
+      "catastrophic event",
+      "prompted",
+      "expeditions"
+    ],
+    [
+      "catastrophic event",
+      "resulted from",
+      "lost civilization"
+    ],
+    [
+      "catastrophic event",
+      "resulted in",
+      "powerful civilization"
+    ],
+    [
+      "catastrophic event",
+      "results in",
+      "captivating story"
+    ],
+    [
+      "catastrophic event",
+      "results in",
+      "downfall"
+    ],
+    [
+      "catastrophic event",
+      "sparked",
+      "historical debates"
+    ],
+    [
+      "cautionary tale",
+      "derived from",
+      "imagination"
+    ],
+    [
+      "cautionary tale",
+      "illustrates",
+      "cataclysm"
+    ],
+    [
+      "cautionary tale",
+      "illustrates",
+      "remnants"
+    ],
+    [
+      "cautionary tale",
+      "inspired",
+      "cultural fascination"
+    ],
+    [
+      "cautionary tale",
+      "inspired by",
+      "expeditions"
+    ],
+    [
+      "cautionary tale",
+      "is a",
+      "Plato"
+    ],
+    [
+      "cautionary tale",
+      "serves as",
+      "Timaeus"
+    ],
+    [
+      "cautionary tale",
+      "serves as",
+      "ancient myths"
+    ],
+    [
+      "cautionary tale",
+      "serves as",
+      "wonder"
+    ],
+    [
+      "civilization theories",
+      "describes as",
+      "power-hungry"
+    ],
+    [
+      "civilization theories",
+      "informs",
+      "location theories"
+    ],
+    [
+      "civilization theories",
+      "is analyzed in",
+      "rich resources"
+    ],
+    [
+      "civilization theories",
+      "is explained by",
+      "corruption"
+    ],
+    [
+      "civilization theories",
+      "is explained by",
+      "trace"
+    ],
+    [
+      "civilization theories",
+      "is theorized about",
+      "Atlantic Ocean"
+    ],
+    [
+      "civilization theories",
+      "is theorized about",
+      "powerful civilization"
+    ],
+    [
+      "civilization theories",
+      "prompted",
+      "expeditions"
+    ],
+    [
+      "civilization theories",
+      "proposed location of",
+      "Antarctica"
+    ],
+    [
+      "concrete evidence",
+      "elicits",
+      "curiosity"
+    ],
+    [
+      "concrete evidence",
+      "sparks",
+      "Atlantic Ocean"
+    ],
+    [
+      "corruption",
+      "caused by",
+      "downfall"
+    ],
+    [
+      "corruption",
+      "caused by",
+      "utopia"
+    ],
+    [
+      "corruption",
+      "drives",
+      "expeditions"
+    ],
+    [
+      "corruption",
+      "is a consequence of",
+      "destruction"
+    ],
+    [
+      "corruption",
+      "is a factor in",
+      "concrete evidence"
+    ],
+    [
+      "corruption",
+      "is a result of",
+      "noble people"
+    ],
+    [
+      "corruption",
+      "is a theme in",
+      "Plato"
+    ],
+    [
+      "corruption",
+      "is affected by",
+      "advanced civilization"
+    ],
+    [
+      "corruption",
+      "is caused by",
+      "moral decline"
+    ],
+    [
+      "corruption",
+      "is characterized by",
+      "legend"
+    ],
+    [
+      "corruption",
+      "is influenced by",
+      "dialogues"
+    ],
+    [
+      "corruption",
+      "resulted from",
+      "powerful civilization"
+    ],
+    [
+      "corruption",
+      "results in",
+      "cataclysm"
+    ],
+    [
+      "corruption",
+      "results in",
+      "mystery"
+    ],
+    [
+      "cultural fascination",
+      "contextualizes",
+      "powerful civilization"
+    ],
+    [
+      "cultural fascination",
+      "drives",
+      "theories"
+    ],
+    [
+      "cultural fascination",
+      "drives cultural fascination of",
+      "lost civilization"
+    ],
+    [
+      "cultural fascination",
+      "exemplifies",
+      "military power"
+    ],
+    [
+      "cultural fascination",
+      "explores",
+      "Timaeus"
+    ],
+    [
+      "cultural fascination",
+      "fuels",
+      "debate"
+    ],
+    [
+      "cultural fascination",
+      "fuels",
+      "legendary island"
+    ],
+    [
+      "cultural fascination",
+      "influences",
+      "civilization theories"
+    ],
+    [
+      "cultural fascination",
+      "inspired by",
+      "expeditions"
+    ],
+    [
+      "cultural fascination",
+      "is characterized by",
+      "power-hungry"
+    ],
+    [
+      "cultural fascination",
+      "is fascinated by",
+      "advanced civilization"
+    ],
+    [
+      "cultural fascination",
+      "is fascinated by",
+      "myth"
+    ],
+    [
+      "curiosity",
+      "evokes",
+      "Atlantis"
+    ],
+    [
+      "curiosity",
+      "evokes",
+      "catastrophic event"
+    ],
+    [
+      "curiosity",
+      "fuels",
+      "debate"
+    ],
+    [
+      "curiosity",
+      "provoked",
+      "Atlantic Ocean"
+    ],
+    [
+      "curiosity",
+      "result of myth",
+      "myth"
+    ],
+    [
+      "curiosity",
+      "sparked by",
+      "cataclysm"
+    ],
+    [
+      "curiosity",
+      "sparks",
+      "historical debates"
+    ],
+    [
+      "curiosity",
+      "stimulates",
+      "inspiration"
+    ],
+    [
+      "curiosity",
+      "stimulates",
+      "wonder"
+    ],
+    [
+      "debate",
+      "debated by",
+      "technology"
+    ],
+    [
+      "debate",
+      "inspired by",
+      "expeditions"
+    ],
+    [
+      "debate",
+      "inspired by",
+      "fascination"
+    ],
+    [
+      "debate",
+      "is influenced by",
+      "cautionary tale"
+    ],
+    [
+      "debate",
+      "is influenced by",
+      "military power"
+    ],
+    [
+      "debate",
+      "provoked by",
+      "wonder"
+    ],
+    [
+      "debate",
+      "sparked",
+      "advanced civilization"
+    ],
+    [
+      "debate",
+      "sparked by",
+      "skepticism"
+    ],
+    [
+      "debate",
+      "sparks",
+      "Antarctica"
+    ],
+    [
+      "debate",
+      "sparks",
+      "downfall"
+    ],
+    [
+      "debate",
+      "sparks",
+      "historical debates"
+    ],
+    [
+      "destruction",
+      "captures",
+      "cultural fascination"
+    ],
+    [
+      "destruction",
+      "caused by",
+      "downfall"
+    ],
+    [
+      "destruction",
+      "consequence of dramatic event",
+      "dramatic event"
+    ],
+    [
+      "destruction",
+      "destroyed by",
+      "technology"
+    ],
+    [
+      "destruction",
+      "is a consequence of",
+      "captivating story"
+    ],
+    [
+      "destruction",
+      "provides",
+      "inspiration"
+    ],
+    [
+      "destruction",
+      "provoked",
+      "theories"
+    ],
+    [
+      "destruction",
+      "resulted from",
+      "resources"
+    ],
+    [
+      "destruction",
+      "resulted in",
+      "military power"
+    ],
+    [
+      "destruction",
+      "stimulates",
+      "curiosity"
+    ],
+    [
+      "destruction",
+      "victim of",
+      "noble people"
+    ],
+    [
+      "dialogues",
+      "captures",
+      "cultural fascination"
+    ],
+    [
+      "dialogues",
+      "contains",
+      "Timaeus"
+    ],
+    [
+      "dialogues",
+      "conveys",
+      "philosophical lessons"
+    ],
+    [
+      "dialogues",
+      "discusses",
+      "location theories"
+    ],
+    [
+      "dialogues",
+      "explained in",
+      "mystery"
+    ],
+    [
+      "dialogues",
+      "inspired",
+      "theories"
+    ],
+    [
+      "dialogues",
+      "is discussed in",
+      "technology"
+    ],
+    [
+      "dialogues",
+      "shapes",
+      "legend"
+    ],
+    [
+      "dialogues",
+      "was written in",
+      "ancient Greece"
+    ],
+    [
+      "disappearance",
+      "associated with",
+      "trace"
+    ],
+    [
+      "disappearance",
+      "drives",
+      "expeditions"
+    ],
+    [
+      "disappearance",
+      "is a result of",
+      "powerful civilization"
+    ],
+    [
+      "disappearance",
+      "is associated with",
+      "myth"
+    ],
+    [
+      "disappearance",
+      "is characterized by",
+      "legendary tales"
+    ],
+    [
+      "disappearance",
+      "questions",
+      "skepticism"
+    ],
+    [
+      "disappearance",
+      "resulted in",
+      "advanced civilization"
+    ],
+    [
+      "downfall",
+      "is a consequence of",
+      "noble people"
+    ],
+    [
+      "downfall",
+      "is a result of",
+      "fascination"
+    ],
+    [
+      "downfall",
+      "is caused by",
+      "ancient Greece"
+    ],
+    [
+      "downfall",
+      "leads to",
+      "mystery"
+    ],
+    [
+      "downfall",
+      "leads to",
+      "rich resources"
+    ],
+    [
+      "downfall",
+      "led to",
+      "historical context"
+    ],
+    [
+      "downfall",
+      "led to",
+      "legendary tales"
+    ],
+    [
+      "downfall",
+      "result of lost civilization",
+      "lost civilization"
+    ],
+    [
+      "downfall",
+      "resulted in",
+      "dialogues"
+    ],
+    [
+      "downfall",
+      "results in",
+      "imagination"
+    ],
+    [
+      "downfall",
+      "results in",
+      "legendary island"
+    ],
+    [
+      "dramatic event",
+      "associated with",
+      "concrete evidence"
+    ],
+    [
+      "dramatic event",
+      "caused by",
+      "cataclysm"
+    ],
+    [
+      "dramatic event",
+      "evidenced by",
+      "trace"
+    ],
+    [
+      "dramatic event",
+      "influenced by",
+      "greed"
+    ],
+    [
+      "dramatic event",
+      "influenced by",
+      "technology"
+    ],
+    [
+      "dramatic event",
+      "is associated with",
+      "corruption"
+    ],
+    [
+      "dramatic event",
+      "is associated with",
+      "lost civilization"
+    ],
+    [
+      "dramatic event",
+      "led to",
+      "downfall"
+    ],
+    [
+      "dramatic event",
+      "resulted in",
+      "destruction"
+    ],
+    [
+      "dramatic event",
+      "stimulates",
+      "curiosity"
+    ],
+    [
+      "enduring mystery",
+      "is a result of",
+      "swallowed by sea"
+    ],
+    [
+      "enduring mystery",
+      "is linked to",
+      "disappearance"
+    ],
+    [
+      "expeditions",
+      "inspired by",
+      "trace"
+    ],
+    [
+      "expeditions",
+      "is influenced by",
+      "historical debates"
+    ],
+    [
+      "expeditions",
+      "result of cautionary tale",
+      "cautionary tale"
+    ],
+    [
+      "expeditions",
+      "subject of skepticism",
+      "skepticism"
+    ],
+    [
+      "fascination",
+      "captivates",
+      "destruction"
+    ],
+    [
+      "fascination",
+      "drives",
+      "theories"
+    ],
+    [
+      "fascination",
+      "inspires",
+      "enduring mystery"
+    ],
+    [
+      "fascination",
+      "is driven by",
+      "power-hungry"
+    ],
+    [
+      "fascination",
+      "is inspired by",
+      "wonder"
+    ],
+    [
+      "fascination",
+      "leads to",
+      "downfall"
+    ],
+    [
+      "fascination",
+      "sparks",
+      "debate"
+    ],
+    [
+      "greed",
+      "associated with",
+      "lost civilization"
+    ],
+    [
+      "greed",
+      "caused",
+      "downfall"
+    ],
+    [
+      "greed",
+      "drives",
+      "cultural fascination"
+    ],
+    [
+      "greed",
+      "fuels",
+      "rich resources"
+    ],
+    [
+      "greed",
+      "influences",
+      "civilization theories"
+    ],
+    [
+      "greed",
+      "influences",
+      "concrete evidence"
+    ],
+    [
+      "greed",
+      "inspired by",
+      "imagination"
+    ],
+    [
+      "greed",
+      "is affected by",
+      "noble people"
+    ],
+    [
+      "greed",
+      "is driven by",
+      "power-hungry"
+    ],
+    [
+      "greed",
+      "sparks",
+      "debate"
+    ],
+    [
+      "greed",
+      "teaches",
+      "philosophical lessons"
+    ],
+    [
+      "historical context",
+      "discussed in",
+      "Critias"
+    ],
+    [
+      "historical context",
+      "is a subject of",
+      "civilization theories"
+    ],
+    [
+      "historical context",
+      "is contextualized by",
+      "myth"
+    ],
+    [
+      "historical context",
+      "prompted",
+      "expeditions"
+    ],
+    [
+      "historical context",
+      "sparks",
+      "curiosity"
+    ],
+    [
+      "historical debates",
+      "contributes to",
+      "enduring mystery"
+    ],
+    [
+      "historical debates",
+      "contributes to",
+      "moral decline"
+    ],
+    [
+      "historical debates",
+      "influences",
+      "imagination"
+    ],
+    [
+      "historical debates",
+      "is a result of",
+      "downfall"
+    ],
+    [
+      "historical debates",
+      "is a topic in",
+      "dialogues"
+    ],
+    [
+      "historical debates",
+      "shaped by",
+      "theories"
+    ],
+    [
+      "historical debates",
+      "sparks",
+      "Plato"
+    ],
+    [
+      "hubris",
+      "contributes to",
+      "historical debates"
+    ],
+    [
+      "hubris",
+      "exacerbated by",
+      "moral decline"
+    ],
+    [
+      "hubris",
+      "informs",
+      "legend"
+    ],
+    [
+      "hubris",
+      "informs",
+      "location theories"
+    ],
+    [
+      "hubris",
+      "is a consequence of",
+      "mystery"
+    ],
+    [
+      "hubris",
+      "is a result of",
+      "wonder"
+    ],
+    [
+      "hubris",
+      "is discussed in",
+      "dialogues"
+    ],
+    [
+      "hubris",
+      "led to",
+      "cataclysm"
+    ],
+    [
+      "hubris",
+      "linked to",
+      "concrete evidence"
+    ],
+    [
+      "hubris",
+      "warns against",
+      "ancient myths"
+    ],
+    [
+      "imagination",
+      "conveys",
+      "philosophical lessons"
+    ],
+    [
+      "imagination",
+      "generates",
+      "theories"
+    ],
+    [
+      "imagination",
+      "inspired",
+      "expeditions"
+    ],
+    [
+      "imagination",
+      "inspired by",
+      "Atlantis"
+    ],
+    [
+      "imagination",
+      "inspired by",
+      "Critias"
+    ],
+    [
+      "imagination",
+      "inspired by",
+      "Plato"
+    ],
+    [
+      "imagination",
+      "inspires",
+      "lost civilization"
+    ],
+    [
+      "imagination",
+      "is a result of",
+      "cataclysm"
+    ],
+    [
+      "imagination",
+      "is affected by",
+      "moral decline"
+    ],
+    [
+      "imagination",
+      "is inspired by",
+      "ancient Greece"
+    ],
+    [
+      "imagination",
+      "is linked to",
+      "disappearance"
+    ],
+    [
+      "imagination",
+      "provides",
+      "resources"
+    ],
+    [
+      "imagination",
+      "stimulates",
+      "curiosity"
+    ],
+    [
+      "imagination",
+      "warns against",
+      "hubris"
+    ],
+    [
+      "imagination",
+      "was caused by",
+      "swallowed by sea"
+    ],
+    [
+      "inspiration",
+      "driven by",
+      "concrete evidence"
+    ],
+    [
+      "inspiration",
+      "inspired",
+      "Pillars of Hercules"
+    ],
+    [
+      "inspiration",
+      "inspired",
+      "advanced knowledge"
+    ],
+    [
+      "inspiration",
+      "inspired by",
+      "ancient Greece"
+    ],
+    [
+      "inspiration",
+      "inspires",
+      "dramatic event"
+    ],
+    [
+      "inspiration",
+      "is associated with",
+      "power-hungry"
+    ],
+    [
+      "inspiration",
+      "is inspired by",
+      "cataclysm"
+    ],
+    [
+      "inspiration",
+      "is inspired by",
+      "catastrophic event"
+    ],
+    [
+      "inspiration",
+      "led to",
+      "disappearance"
+    ],
+    [
+      "inspiration",
+      "provides",
+      "lost civilization"
+    ],
+    [
+      "inspiration",
+      "provoked",
+      "debate"
+    ],
+    [
+      "inspiration",
+      "stems from",
+      "enduring mystery"
+    ],
+    [
+      "legend",
+      "associated with",
+      "skepticism"
+    ],
+    [
+      "legend",
+      "inspired by",
+      "downfall"
+    ],
+    [
+      "legend",
+      "is a",
+      "legendary island"
+    ],
+    [
+      "legend",
+      "is a part of",
+      "advanced knowledge"
+    ],
+    [
+      "legend",
+      "is a result of",
+      "cataclysm"
+    ],
+    [
+      "legend",
+      "is associated with",
+      "trace"
+    ],
+    [
+      "legend",
+      "is the subject of",
+      "location theories"
+    ],
+    [
+      "legend",
+      "linked to",
+      "remnants"
+    ],
+    [
+      "legendary island",
+      "associated with",
+      "Mediterranean Sea"
+    ],
+    [
+      "legendary island",
+      "describes",
+      "concrete evidence"
+    ],
+    [
+      "legendary island",
+      "discussed in",
+      "dialogues"
+    ],
+    [
+      "legendary island",
+      "embodies",
+      "advanced knowledge"
+    ],
+    [
+      "legendary island",
+      "evoked",
+      "wonder"
+    ],
+    [
+      "legendary island",
+      "evokes",
+      "curiosity"
+    ],
+    [
+      "legendary island",
+      "inspired by",
+      "ancient myths"
+    ],
+    [
+      "legendary island",
+      "is a subject of",
+      "civilization theories"
+    ],
+    [
+      "legendary island",
+      "is the origin of",
+      "ancient Greece"
+    ],
+    [
+      "legendary island",
+      "located in",
+      "Atlantic Ocean"
+    ],
+    [
+      "legendary island",
+      "provides",
+      "resources"
+    ],
+    [
+      "legendary island",
+      "resulted from",
+      "moral decline"
+    ],
+    [
+      "legendary island",
+      "resulted in",
+      "cataclysm"
+    ],
+    [
+      "legendary island",
+      "sought by",
+      "expeditions"
+    ],
+    [
+      "legendary tales",
+      "captures",
+      "imagination"
+    ],
+    [
+      "legendary tales",
+      "creates",
+      "cultural fascination"
+    ],
+    [
+      "legendary tales",
+      "depicts",
+      "moral decline"
+    ],
+    [
+      "legendary tales",
+      "describes",
+      "legendary island"
+    ],
+    [
+      "legendary tales",
+      "describes",
+      "lost civilization"
+    ],
+    [
+      "legendary tales",
+      "evokes",
+      "curiosity"
+    ],
+    [
+      "legendary tales",
+      "evokes",
+      "mystery"
+    ],
+    [
+      "legendary tales",
+      "exemplifies",
+      "military power"
+    ],
+    [
+      "legendary tales",
+      "implies",
+      "advanced knowledge"
+    ],
+    [
+      "legendary tales",
+      "is characterized by",
+      "power-hungry"
+    ],
+    [
+      "legendary tales",
+      "is inspired by",
+      "wonder"
+    ],
+    [
+      "legendary tales",
+      "is related to",
+      "Pillars of Hercules"
+    ],
+    [
+      "legendary tales",
+      "is related to",
+      "powerful civilization"
+    ],
+    [
+      "legendary tales",
+      "results in",
+      "destruction"
+    ],
+    [
+      "legendary tales",
+      "sparks",
+      "debate"
+    ],
+    [
+      "location theories",
+      "contributes to",
+      "debate"
+    ],
+    [
+      "location theories",
+      "creates",
+      "enduring mystery"
+    ],
+    [
+      "location theories",
+      "is influenced by",
+      "corruption"
+    ],
+    [
+      "location theories",
+      "leads to",
+      "expeditions"
+    ],
+    [
+      "lost civilization",
+      "drives",
+      "expeditions"
+    ],
+    [
+      "lost civilization",
+      "evokes",
+      "curiosity"
+    ],
+    [
+      "lost civilization",
+      "inspired",
+      "dialogues"
+    ],
+    [
+      "lost civilization",
+      "is a type of",
+      "legendary island"
+    ],
+    [
+      "lost civilization",
+      "is believed to be located in",
+      "Atlantic Ocean"
+    ],
+    [
+      "lost civilization",
+      "is characterized by",
+      "enduring mystery"
+    ],
+    [
+      "lost civilization",
+      "leads to",
+      "downfall"
+    ],
+    [
+      "lost civilization",
+      "possesses",
+      "rich resources"
+    ],
+    [
+      "lost civilization",
+      "refers to",
+      "concrete evidence"
+    ],
+    [
+      "lost civilization",
+      "result of imagination",
+      "imagination"
+    ],
+    [
+      "lost civilization",
+      "serves as",
+      "cautionary tale"
+    ],
+    [
+      "lost civilization",
+      "was destroyed by",
+      "swallowed by sea"
+    ],
+    [
+      "military power",
+      "associated with",
+      "concrete evidence"
+    ],
+    [
+      "military power",
+      "associated with",
+      "moral decline"
+    ],
+    [
+      "military power",
+      "demonstrates",
+      "disappearance"
+    ],
+    [
+      "military power",
+      "grants",
+      "resources"
+    ],
+    [
+      "military power",
+      "is associated with",
+      "catastrophic event"
+    ],
+    [
+      "military power",
+      "is characterized by",
+      "power-hungry"
+    ],
+    [
+      "military power",
+      "is discussed in",
+      "dialogues"
+    ],
+    [
+      "military power",
+      "is inspired by",
+      "wonder"
+    ],
+    [
+      "military power",
+      "possessed by",
+      "legendary island"
+    ],
+    [
+      "military power",
+      "possesses",
+      "imagination"
+    ],
+    [
+      "military power",
+      "possesses",
+      "mystery"
+    ],
+    [
+      "military power",
+      "possesses",
+      "remnants"
+    ],
+    [
+      "military power",
+      "reflects",
+      "swallowed by sea"
+    ],
+    [
+      "moral decline",
+      "attributes",
+      "Plato"
+    ],
+    [
+      "moral decline",
+      "contributes to",
+      "technology"
+    ],
+    [
+      "moral decline",
+      "illustrates",
+      "philosophical lessons"
+    ],
+    [
+      "moral decline",
+      "is associated with",
+      "Pillars of Hercules"
+    ],
+    [
+      "moral decline",
+      "is caused by",
+      "advanced knowledge"
+    ],
+    [
+      "moral decline",
+      "is characterized by",
+      "power-hungry"
+    ],
+    [
+      "moral decline",
+      "results in",
+      "corruption"
+    ],
+    [
+      "moral decline",
+      "was caused by",
+      "swallowed by sea"
+    ],
+    [
+      "mystery",
+      "drives",
+      "expeditions"
+    ],
+    [
+      "mystery",
+      "explained by",
+      "cataclysm"
+    ],
+    [
+      "mystery",
+      "explained by",
+      "theories"
+    ],
+    [
+      "mystery",
+      "explains",
+      "destruction"
+    ],
+    [
+      "mystery",
+      "fuels",
+      "imagination"
+    ],
+    [
+      "mystery",
+      "inspires",
+      "lost civilization"
+    ],
+    [
+      "mystery",
+      "inspires",
+      "technology"
+    ],
+    [
+      "mystery",
+      "is associated with",
+      "rich resources"
+    ],
+    [
+      "mystery",
+      "is inspired by",
+      "legendary tales"
+    ],
+    [
+      "mystery",
+      "is related to",
+      "catastrophic event"
+    ],
+    [
+      "mystery",
+      "serves as",
+      "cautionary tale"
+    ],
+    [
+      "myth",
+      "exemplifies",
+      "military power"
+    ],
+    [
+      "myth",
+      "fuels",
+      "debate"
+    ],
+    [
+      "myth",
+      "illustrates",
+      "hubris"
+    ],
+    [
+      "myth",
+      "illustrates",
+      "moral decline"
+    ],
+    [
+      "myth",
+      "inspired",
+      "dialogues"
+    ],
+    [
+      "myth",
+      "inspires",
+      "curiosity"
+    ],
+    [
+      "myth",
+      "is",
+      "captivating story"
+    ],
+    [
+      "myth",
+      "is a type of",
+      "concrete evidence"
+    ],
+    [
+      "myth",
+      "is a type of",
+      "legendary tales"
+    ],
+    [
+      "myth",
+      "is contrasted with",
+      "powerful civilization"
+    ],
+    [
+      "myth",
+      "mentioned in",
+      "Critias"
+    ],
+    [
+      "myth",
+      "serves as",
+      "cautionary tale"
+    ],
+    [
+      "noble people",
+      "describes",
+      "legendary island"
+    ],
+    [
+      "noble people",
+      "is a source of",
+      "fascination"
+    ],
+    [
+      "noble people",
+      "is a theme in",
+      "captivating story"
+    ],
+    [
+      "noble people",
+      "is associated with",
+      "Mediterranean Sea"
+    ],
+    [
+      "noble people",
+      "is characterized by",
+      "advanced civilization"
+    ],
+    [
+      "noble people",
+      "is characterized by",
+      "enduring mystery"
+    ],
+    [
+      "noble people",
+      "motivates",
+      "inspiration"
+    ],
+    [
+      "noble people",
+      "prompted",
+      "expeditions"
+    ],
+    [
+      "philosophical lessons",
+      "evokes",
+      "Plato"
+    ],
+    [
+      "philosophical lessons",
+      "informs",
+      "theories"
+    ],
+    [
+      "philosophical lessons",
+      "is a lesson about",
+      "dramatic event"
+    ],
+    [
+      "philosophical lessons",
+      "is a lesson about",
+      "noble people"
+    ],
+    [
+      "philosophical lessons",
+      "is a source of",
+      "advanced civilization"
+    ],
+    [
+      "philosophical lessons",
+      "is a topic in",
+      "Critias"
+    ],
+    [
+      "philosophical lessons",
+      "is derived from",
+      "skepticism"
+    ],
+    [
+      "philosophical lessons",
+      "leads to",
+      "expeditions"
+    ],
+    [
+      "philosophical lessons",
+      "provides",
+      "myth"
+    ],
+    [
+      "power-hungry",
+      "associated with",
+      "skepticism"
+    ],
+    [
+      "power-hungry",
+      "caused by",
+      "downfall"
+    ],
+    [
+      "power-hungry",
+      "caused by",
+      "technology"
+    ],
+    [
+      "power-hungry",
+      "contributed to",
+      "advanced civilization"
+    ],
+    [
+      "power-hungry",
+      "driven by",
+      "debate"
+    ],
+    [
+      "power-hungry",
+      "initiated",
+      "expeditions"
+    ],
+    [
+      "power-hungry",
+      "is characterized by",
+      "captivating story"
+    ],
+    [
+      "power-hungry",
+      "is driven by",
+      "advanced knowledge"
+    ],
+    [
+      "power-hungry",
+      "leads to",
+      "philosophical lessons"
+    ],
+    [
+      "power-hungry",
+      "result of resources",
+      "resources"
+    ],
+    [
+      "powerful civilization",
+      "associated with",
+      "Mediterranean Sea"
+    ],
+    [
+      "powerful civilization",
+      "enhances",
+      "advanced knowledge"
+    ],
+    [
+      "powerful civilization",
+      "generates",
+      "theories"
+    ],
+    [
+      "powerful civilization",
+      "is a result of",
+      "moral decline"
+    ],
+    [
+      "powerful civilization",
+      "is a theme in",
+      "ancient myths"
+    ],
+    [
+      "powerful civilization",
+      "is associated with",
+      "wonder"
+    ],
+    [
+      "powerful civilization",
+      "is inspired by",
+      "fascination"
+    ],
+    [
+      "powerful civilization",
+      "is represented as",
+      "legend"
+    ],
+    [
+      "powerful civilization",
+      "led to",
+      "downfall"
+    ],
+    [
+      "powerful civilization",
+      "possesses",
+      "resources"
+    ],
+    [
+      "powerful civilization",
+      "serves as",
+      "inspiration"
+    ],
+    [
+      "powerful civilization",
+      "was located in",
+      "Strait of Gibraltar"
+    ],
+    [
+      "remnants",
+      "associated with",
+      "lost civilization"
+    ],
+    [
+      "remnants",
+      "evidence of",
+      "historical context"
+    ],
+    [
+      "remnants",
+      "inspired",
+      "expeditions"
+    ],
+    [
+      "remnants",
+      "inspired by",
+      "cultural fascination"
+    ],
+    [
+      "remnants",
+      "inspired by",
+      "imagination"
+    ],
+    [
+      "remnants",
+      "inspired by",
+      "wonder"
+    ],
+    [
+      "remnants",
+      "is a subject of",
+      "mystery"
+    ],
+    [
+      "remnants",
+      "is associated with",
+      "enduring mystery"
+    ],
+    [
+      "remnants",
+      "is driven by",
+      "fascination"
+    ],
+    [
+      "remnants",
+      "mentioned in",
+      "dialogues"
+    ],
+    [
+      "remnants",
+      "remnants of",
+      "destruction"
+    ],
+    [
+      "remnants",
+      "remnants of",
+      "downfall"
+    ],
+    [
+      "remnants",
+      "stimulated by",
+      "curiosity"
+    ],
+    [
+      "remnants",
+      "subject of skepticism",
+      "skepticism"
+    ],
+    [
+      "remnants",
+      "supports",
+      "civilization theories"
+    ],
+    [
+      "resources",
+      "affects",
+      "corruption"
+    ],
+    [
+      "resources",
+      "caused by",
+      "power-hungry"
+    ],
+    [
+      "resources",
+      "is a resource for",
+      "moral decline"
+    ],
+    [
+      "resources",
+      "is associated with",
+      "Atlantis"
+    ],
+    [
+      "resources",
+      "is influenced by",
+      "historical context"
+    ],
+    [
+      "resources",
+      "provides",
+      "Atlantic Ocean"
+    ],
+    [
+      "resources",
+      "provides",
+      "remnants"
+    ],
+    [
+      "resources",
+      "source of resources",
+      "legendary island"
+    ],
+    [
+      "resources",
+      "stimulates",
+      "curiosity"
+    ],
+    [
+      "rich resources",
+      "belongs to",
+      "legendary island"
+    ],
+    [
+      "rich resources",
+      "characterizes",
+      "advanced civilization"
+    ],
+    [
+      "rich resources",
+      "contributes to",
+      "advanced knowledge"
+    ],
+    [
+      "rich resources",
+      "fuels",
+      "cultural fascination"
+    ],
+    [
+      "rich resources",
+      "fuels",
+      "historical debates"
+    ],
+    [
+      "rich resources",
+      "is a characteristic of",
+      "myth"
+    ],
+    [
+      "rich resources",
+      "is associated with",
+      "legend"
+    ],
+    [
+      "rich resources",
+      "is derived from",
+      "fascination"
+    ],
+    [
+      "rich resources",
+      "is featured in",
+      "captivating story"
+    ],
+    [
+      "rich resources",
+      "is inspired by",
+      "wonder"
+    ],
+    [
+      "rich resources",
+      "leads to",
+      "corruption"
+    ],
+    [
+      "rich resources",
+      "serves as inspiration for",
+      "inspiration"
+    ],
+    [
+      "rich resources",
+      "supported",
+      "powerful civilization"
+    ],
+    [
+      "skepticism",
+      "challenges",
+      "advanced civilization"
+    ],
+    [
+      "skepticism",
+      "challenges",
+      "location theories"
+    ],
+    [
+      "skepticism",
+      "doubted by",
+      "technology"
+    ],
+    [
+      "skepticism",
+      "doubts about",
+      "expeditions"
+    ],
+    [
+      "skepticism",
+      "doubts about",
+      "remnants"
+    ],
+    [
+      "skepticism",
+      "is met with",
+      "ancient myths"
+    ],
+    [
+      "skepticism",
+      "is met with",
+      "destruction"
+    ],
+    [
+      "skepticism",
+      "is met with",
+      "dramatic event"
+    ],
+    [
+      "skepticism",
+      "is met with",
+      "legendary tales"
+    ],
+    [
+      "skepticism",
+      "met with",
+      "captivating story"
+    ],
+    [
+      "skepticism",
+      "met with",
+      "concrete evidence"
+    ],
+    [
+      "skepticism",
+      "questioned by",
+      "historical context"
+    ],
+    [
+      "skepticism",
+      "questioned by",
+      "wonder"
+    ],
+    [
+      "swallowed by sea",
+      "caused the destruction of",
+      "lost civilization"
+    ],
+    [
+      "swallowed by sea",
+      "described in",
+      "legendary tales"
+    ],
+    [
+      "swallowed by sea",
+      "explained by",
+      "concrete evidence"
+    ],
+    [
+      "swallowed by sea",
+      "is a result of",
+      "legendary island"
+    ],
+    [
+      "swallowed by sea",
+      "is a result of",
+      "remnants"
+    ],
+    [
+      "swallowed by sea",
+      "is caused by",
+      "philosophical lessons"
+    ],
+    [
+      "swallowed by sea",
+      "resulted in",
+      "historical context"
+    ],
+    [
+      "swallowed by sea",
+      "results from",
+      "wonder"
+    ],
+    [
+      "swallowed by sea",
+      "serves as",
+      "cautionary tale"
+    ],
+    [
+      "swallowed by sea",
+      "was affected by",
+      "Plato"
+    ],
+    [
+      "technology",
+      "associated with",
+      "advanced civilization"
+    ],
+    [
+      "technology",
+      "contributed to",
+      "downfall"
+    ],
+    [
+      "technology",
+      "creates",
+      "captivating story"
+    ],
+    [
+      "technology",
+      "drives",
+      "inspiration"
+    ],
+    [
+      "technology",
+      "enhances",
+      "concrete evidence"
+    ],
+    [
+      "technology",
+      "enhances",
+      "wonder"
+    ],
+    [
+      "technology",
+      "influences",
+      "ancient myths"
+    ],
+    [
+      "technology",
+      "informs",
+      "advanced knowledge"
+    ],
+    [
+      "technology",
+      "informs",
+      "location theories"
+    ],
+    [
+      "technology",
+      "is connected to",
+      "legendary tales"
+    ],
+    [
+      "technology",
+      "possesses",
+      "rich resources"
+    ],
+    [
+      "theories",
+      "explains",
+      "cataclysm"
+    ],
+    [
+      "theories",
+      "influences",
+      "historical debates"
+    ],
+    [
+      "theories",
+      "informs",
+      "legend"
+    ],
+    [
+      "theories",
+      "informs",
+      "location theories"
+    ],
+    [
+      "theories",
+      "is associated with",
+      "catastrophic event"
+    ],
+    [
+      "theories",
+      "is influenced by",
+      "hubris"
+    ],
+    [
+      "theories",
+      "is influenced by",
+      "military power"
+    ],
+    [
+      "theories",
+      "sparked",
+      "enduring mystery"
+    ],
+    [
+      "trace",
+      "absence of",
+      "captivating story"
+    ],
+    [
+      "trace",
+      "associated with",
+      "technology"
+    ],
+    [
+      "trace",
+      "doubted by",
+      "skepticism"
+    ],
+    [
+      "trace",
+      "evidenced by",
+      "destruction"
+    ],
+    [
+      "trace",
+      "evidenced by",
+      "downfall"
+    ],
+    [
+      "trace",
+      "indicates",
+      "legendary island"
+    ],
+    [
+      "trace",
+      "is a subject of",
+      "historical debates"
+    ],
+    [
+      "trace",
+      "is left by",
+      "imagination"
+    ],
+    [
+      "trace",
+      "is linked to",
+      "ancient Greece"
+    ],
+    [
+      "trace",
+      "is referenced in",
+      "Critias"
+    ],
+    [
+      "trace",
+      "leaves no",
+      "Plato"
+    ],
+    [
+      "trace",
+      "leaves no",
+      "greed"
+    ],
+    [
+      "trace",
+      "leaves no",
+      "powerful civilization"
+    ],
+    [
+      "trace",
+      "leaves no",
+      "swallowed by sea"
+    ],
+    [
+      "trace",
+      "marks",
+      "Strait of Gibraltar"
+    ],
+    [
+      "trace",
+      "resulted from",
+      "cataclysm"
+    ],
+    [
+      "trace",
+      "reveals",
+      "mystery"
+    ],
+    [
+      "utopia",
+      "associated with",
+      "power-hungry"
+    ],
+    [
+      "utopia",
+      "inspired by",
+      "expeditions"
+    ],
+    [
+      "utopia",
+      "inspired by",
+      "imagination"
+    ],
+    [
+      "utopia",
+      "is contained in",
+      "dialogues"
+    ],
+    [
+      "utopia",
+      "is described as",
+      "noble people"
+    ],
+    [
+      "utopia",
+      "results from",
+      "moral decline"
+    ],
+    [
+      "utopia",
+      "serves as",
+      "cautionary tale"
+    ],
+    [
+      "wonder",
+      "drives",
+      "cultural fascination"
+    ],
+    [
+      "wonder",
+      "evokes",
+      "enduring mystery"
+    ],
+    [
+      "wonder",
+      "evokes",
+      "power-hungry"
+    ],
+    [
+      "wonder",
+      "is affected by",
+      "destruction"
+    ],
+    [
+      "wonder",
+      "is inspired by",
+      "ancient myths"
+    ],
+    [
+      "wonder",
+      "is inspired by",
+      "captivating story"
+    ],
+    [
+      "wonder",
+      "motivated by",
+      "expeditions"
+    ],
+    [
+      "wonder",
+      "results in",
+      "catastrophic event"
+    ]
+  ],
+  "edges": [
+    "absence of",
+    "affects",
+    "associated with",
+    "attributes",
+    "basis for",
+    "belongs to",
+    "captivates",
+    "captures",
+    "caused",
+    "caused by",
+    "caused the destruction of",
+    "challenges",
+    "characterizes",
+    "compared to",
+    "consequence of dramatic event",
+    "contains",
+    "contextualizes",
+    "contrasts with",
+    "contributed to",
+    "contributes to",
+    "conveys",
+    "created by",
+    "creates",
+    "debated about",
+    "debated by",
+    "demonstrates",
+    "depicts",
+    "derived from",
+    "described as",
+    "described by",
+    "described in",
+    "describes",
+    "describes as",
+    "destroyed by",
+    "discovered in",
+    "discussed by",
+    "discussed in",
+    "discusses",
+    "doubted by",
+    "doubts about",
+    "driven by",
+    "drives",
+    "drives cultural fascination of",
+    "elicits",
+    "embodies",
+    "enhances",
+    "evidence of",
+    "evidenced by",
+    "evoked",
+    "evokes",
+    "exacerbated by",
+    "exemplifies",
+    "exhibits",
+    "explained by",
+    "explained in",
+    "explains",
+    "explores",
+    "fascinates",
+    "fuels",
+    "generates",
+    "grants",
+    "has",
+    "illustrates",
+    "implies",
+    "includes",
+    "indicates",
+    "influenced",
+    "influenced by",
+    "influences",
+    "informed by",
+    "informs",
+    "initiated",
+    "initiated by",
+    "inspired",
+    "inspired by",
+    "inspires",
+    "is",
+    "is a",
+    "is a cause of",
+    "is a characteristic of",
+    "is a consequence of",
+    "is a factor in",
+    "is a lesson about",
+    "is a part of",
+    "is a resource for",
+    "is a result of",
+    "is a significant event of",
+    "is a source of",
+    "is a subject of",
+    "is a theme in",
+    "is a topic in",
+    "is a type of",
+    "is about",
+    "is affected by",
+    "is analyzed in",
+    "is associated with",
+    "is attributed to",
+    "is believed to be located in",
+    "is caused by",
+    "is characterized as",
+    "is characterized by",
+    "is connected to",
+    "is contained in",
+    "is contextualized by",
+    "is contrasted with",
+    "is created by",
+    "is derived from",
+    "is described as",
+    "is described by",
+    "is discussed in",
+    "is driven by",
+    "is enhanced by",
+    "is explained by",
+    "is fascinated by",
+    "is featured in",
+    "is influenced by",
+    "is inspired by",
+    "is left by",
+    "is linked to",
+    "is located in",
+    "is located near",
+    "is mentioned in",
+    "is met with",
+    "is presented in",
+    "is pursued by",
+    "is referenced in",
+    "is related to",
+    "is represented as",
+    "is sought for",
+    "is the origin of",
+    "is the source of",
+    "is the subject of",
+    "is theorized about",
+    "leads to",
+    "leaves no",
+    "led to",
+    "linked to",
+    "located in",
+    "located near",
+    "location of",
+    "location of advanced civilization",
+    "marks",
+    "mentioned in",
+    "met with",
+    "motivated by",
+    "motivates",
+    "offers",
+    "originated from",
+    "part of",
+    "possessed by",
+    "possesses",
+    "prompted",
+    "prompted expeditions",
+    "proposed location of",
+    "provided by",
+    "provides",
+    "provides context for",
+    "provoked",
+    "provoked by",
+    "provokes",
+    "questioned by",
+    "questions",
+    "refers to",
+    "reflects",
+    "related to",
+    "remnants of",
+    "result of Atlantis",
+    "result of cautionary tale",
+    "result of dramatic event",
+    "result of imagination",
+    "result of lost civilization",
+    "result of myth",
+    "result of resources",
+    "resulted from",
+    "resulted in",
+    "results from",
+    "results in",
+    "reveals",
+    "serves as",
+    "serves as inspiration for",
+    "shaped by",
+    "shapes",
+    "sought by",
+    "source of resources",
+    "sparked",
+    "sparked by",
+    "sparks",
+    "speculated in",
+    "speculated to be in",
+    "stems from",
+    "stimulated by",
+    "stimulates",
+    "subject of skepticism",
+    "supported",
+    "supports",
+    "teaches",
+    "victim of",
+    "warns against",
+    "was affected by",
+    "was caused by",
+    "was created by",
+    "was destroyed by",
+    "was located in",
+    "was referenced by",
+    "was written in",
+    "wrote"
+  ]
+}

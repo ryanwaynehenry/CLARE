@@ -1,0 +1,6298 @@
+{
+  "entities": [
+    "air pollution",
+    "alternative energy",
+    "ancient civilizations",
+    "belief systems",
+    "ceramics",
+    "ceremonial use",
+    "ceremonies",
+    "civilization",
+    "climate impact",
+    "collective identity",
+    "communication",
+    "community",
+    "community bonding",
+    "community development",
+    "community practices",
+    "cooking",
+    "cooking methods",
+    "cooperation",
+    "crafts",
+    "culinary arts",
+    "cultural expressions",
+    "cultural significance",
+    "deforestation",
+    "destruction",
+    "diversity",
+    "divine protection",
+    "economic growth",
+    "emotional connection",
+    "energy efficiency",
+    "energy sources",
+    "environment",
+    "environmental challenges",
+    "environmental sustainability",
+    "evolution",
+    "fire",
+    "fire deities",
+    "fire management",
+    "fire rituals",
+    "fire safety",
+    "fire usage",
+    "fire's role",
+    "food culture",
+    "guidance",
+    "health",
+    "heat generation",
+    "heritage",
+    "heritage preservation",
+    "historical significance",
+    "human development",
+    "human evolution",
+    "human history",
+    "identity formation",
+    "impact on society",
+    "indispensable resource",
+    "industrial applications",
+    "innovation",
+    "innovation challenges",
+    "interaction",
+    "interpersonal relationships",
+    "light",
+    "modern industries",
+    "mystical powers",
+    "nutrition",
+    "pottery",
+    "productivity",
+    "renewal",
+    "resource conservation",
+    "resource management",
+    "responsible use",
+    "rituals",
+    "safety",
+    "skills",
+    "social structures",
+    "spiritual practices",
+    "spirituality",
+    "sustainable future",
+    "sustainable practices",
+    "symbolism",
+    "technological advancement",
+    "technology",
+    "tools",
+    "tradition",
+    "transformative properties",
+    "values",
+    "warmth",
+    "weapons",
+    "worship"
+  ],
+  "relations": [
+    [
+      "air pollution",
+      "affected by",
+      "resource management"
+    ],
+    [
+      "air pollution",
+      "causes",
+      "heat generation"
+    ],
+    [
+      "air pollution",
+      "contributes to",
+      "innovation"
+    ],
+    [
+      "air pollution",
+      "contributes to",
+      "modern industries"
+    ],
+    [
+      "air pollution",
+      "impacts",
+      "heritage"
+    ],
+    [
+      "air pollution",
+      "impacts",
+      "renewal"
+    ],
+    [
+      "air pollution",
+      "impacts",
+      "resource conservation"
+    ],
+    [
+      "air pollution",
+      "influences",
+      "human evolution"
+    ],
+    [
+      "air pollution",
+      "is affected by",
+      "food culture"
+    ],
+    [
+      "air pollution",
+      "is developed through",
+      "human history"
+    ],
+    [
+      "air pollution",
+      "is impacted by",
+      "human history"
+    ],
+    [
+      "air pollution",
+      "reflects",
+      "historical significance"
+    ],
+    [
+      "air pollution",
+      "results in",
+      "transformative properties"
+    ],
+    [
+      "alternative energy",
+      "affects",
+      "health"
+    ],
+    [
+      "alternative energy",
+      "applies to",
+      "industrial applications"
+    ],
+    [
+      "alternative energy",
+      "drives",
+      "innovation"
+    ],
+    [
+      "alternative energy",
+      "drives",
+      "nutrition"
+    ],
+    [
+      "alternative energy",
+      "enhances",
+      "community development"
+    ],
+    [
+      "alternative energy",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "alternative energy",
+      "enhances",
+      "resource management"
+    ],
+    [
+      "alternative energy",
+      "influences",
+      "human evolution"
+    ],
+    [
+      "alternative energy",
+      "intersects with",
+      "spiritual practices"
+    ],
+    [
+      "alternative energy",
+      "is a type of",
+      "energy sources"
+    ],
+    [
+      "alternative energy",
+      "is influenced by",
+      "fire rituals"
+    ],
+    [
+      "alternative energy",
+      "promotes",
+      "sustainable practices"
+    ],
+    [
+      "alternative energy",
+      "requires",
+      "responsible use"
+    ],
+    [
+      "alternative energy",
+      "shapes",
+      "identity formation"
+    ],
+    [
+      "alternative energy",
+      "utilizes",
+      "fire"
+    ],
+    [
+      "ancient civilizations",
+      "benefited by",
+      "resource conservation"
+    ],
+    [
+      "ancient civilizations",
+      "drives",
+      "technology"
+    ],
+    [
+      "ancient civilizations",
+      "enhances",
+      "community bonding"
+    ],
+    [
+      "ancient civilizations",
+      "influenced by",
+      "cooperation"
+    ],
+    [
+      "ancient civilizations",
+      "influenced by",
+      "heat generation"
+    ],
+    [
+      "ancient civilizations",
+      "influenced by",
+      "identity formation"
+    ],
+    [
+      "ancient civilizations",
+      "influenced by",
+      "innovation"
+    ],
+    [
+      "ancient civilizations",
+      "influences",
+      "crafts"
+    ],
+    [
+      "ancient civilizations",
+      "is expressed by",
+      "cultural expressions"
+    ],
+    [
+      "ancient civilizations",
+      "is influenced by",
+      "health"
+    ],
+    [
+      "ancient civilizations",
+      "is practiced by",
+      "worship"
+    ],
+    [
+      "ancient civilizations",
+      "is revered by",
+      "indispensable resource"
+    ],
+    [
+      "ancient civilizations",
+      "is revered by",
+      "light"
+    ],
+    [
+      "ancient civilizations",
+      "is revered by",
+      "transformative properties"
+    ],
+    [
+      "ancient civilizations",
+      "is shaped by",
+      "rituals"
+    ],
+    [
+      "ancient civilizations",
+      "practiced by",
+      "fire rituals"
+    ],
+    [
+      "ancient civilizations",
+      "preserved by",
+      "heritage preservation"
+    ],
+    [
+      "ancient civilizations",
+      "received by",
+      "communication"
+    ],
+    [
+      "ancient civilizations",
+      "represents",
+      "historical significance"
+    ],
+    [
+      "ancient civilizations",
+      "shaped by",
+      "collective identity"
+    ],
+    [
+      "ancient civilizations",
+      "shaped by",
+      "human development"
+    ],
+    [
+      "ancient civilizations",
+      "shaped by",
+      "interaction"
+    ],
+    [
+      "ancient civilizations",
+      "utilized by",
+      "tools"
+    ],
+    [
+      "ancient civilizations",
+      "utilizes",
+      "fire usage"
+    ],
+    [
+      "ancient civilizations",
+      "worshipped by",
+      "fire"
+    ],
+    [
+      "ancient civilizations",
+      "worshipped by",
+      "spiritual practices"
+    ],
+    [
+      "belief systems",
+      "connected to",
+      "mystical powers"
+    ],
+    [
+      "belief systems",
+      "drives",
+      "innovation"
+    ],
+    [
+      "belief systems",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "belief systems",
+      "expresses",
+      "cultural expressions"
+    ],
+    [
+      "belief systems",
+      "influences",
+      "evolution"
+    ],
+    [
+      "belief systems",
+      "influences",
+      "fire usage"
+    ],
+    [
+      "belief systems",
+      "informs",
+      "fire rituals"
+    ],
+    [
+      "belief systems",
+      "informs",
+      "historical significance"
+    ],
+    [
+      "belief systems",
+      "involves",
+      "worship"
+    ],
+    [
+      "belief systems",
+      "reflects",
+      "cultural significance"
+    ],
+    [
+      "belief systems",
+      "shapes",
+      "human history"
+    ],
+    [
+      "belief systems",
+      "shapes",
+      "identity formation"
+    ],
+    [
+      "belief systems",
+      "shapes",
+      "social structures"
+    ],
+    [
+      "belief systems",
+      "shapes",
+      "sustainable future"
+    ],
+    [
+      "belief systems",
+      "strengthens",
+      "community bonding"
+    ],
+    [
+      "belief systems",
+      "supports",
+      "community development"
+    ],
+    [
+      "ceramics",
+      "associated with",
+      "fire deities"
+    ],
+    [
+      "ceramics",
+      "contributes to",
+      "productivity"
+    ],
+    [
+      "ceramics",
+      "enhances",
+      "community bonding"
+    ],
+    [
+      "ceramics",
+      "guides",
+      "impact on society"
+    ],
+    [
+      "ceramics",
+      "improves",
+      "health"
+    ],
+    [
+      "ceramics",
+      "is a product of",
+      "health"
+    ],
+    [
+      "ceramics",
+      "is created by",
+      "community"
+    ],
+    [
+      "ceramics",
+      "is shaped by",
+      "indispensable resource"
+    ],
+    [
+      "ceramics",
+      "is used in",
+      "weapons"
+    ],
+    [
+      "ceramics",
+      "produced by",
+      "divine protection"
+    ],
+    [
+      "ceremonial use",
+      "advances",
+      "technology"
+    ],
+    [
+      "ceremonial use",
+      "affects",
+      "climate impact"
+    ],
+    [
+      "ceremonial use",
+      "associated with",
+      "fire deities"
+    ],
+    [
+      "ceremonial use",
+      "contributes to",
+      "economic growth"
+    ],
+    [
+      "ceremonial use",
+      "creates",
+      "emotional connection"
+    ],
+    [
+      "ceremonial use",
+      "drives",
+      "innovation"
+    ],
+    [
+      "ceremonial use",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "ceremonial use",
+      "enhances",
+      "spiritual practices"
+    ],
+    [
+      "ceremonial use",
+      "fosters",
+      "community bonding"
+    ],
+    [
+      "ceremonial use",
+      "influences",
+      "human history"
+    ],
+    [
+      "ceremonial use",
+      "is associated with",
+      "fire rituals"
+    ],
+    [
+      "ceremonial use",
+      "is sought through",
+      "divine protection"
+    ],
+    [
+      "ceremonial use",
+      "practiced by",
+      "ancient civilizations"
+    ],
+    [
+      "ceremonial use",
+      "promotes",
+      "community development"
+    ],
+    [
+      "ceremonial use",
+      "reflects",
+      "heritage"
+    ],
+    [
+      "ceremonial use",
+      "represents",
+      "cultural significance"
+    ],
+    [
+      "ceremonial use",
+      "supports",
+      "modern industries"
+    ],
+    [
+      "ceremonial use",
+      "supports",
+      "social structures"
+    ],
+    [
+      "ceremonial use",
+      "utilized in",
+      "deforestation"
+    ],
+    [
+      "ceremonial use",
+      "utilized in",
+      "fire usage"
+    ],
+    [
+      "ceremonial use",
+      "utilizes",
+      "fire management"
+    ],
+    [
+      "ceremonies",
+      "enhances",
+      "community bonding"
+    ],
+    [
+      "ceremonies",
+      "highlights",
+      "fire's role"
+    ],
+    [
+      "ceremonies",
+      "involves",
+      "fire"
+    ],
+    [
+      "ceremonies",
+      "is affected by",
+      "climate impact"
+    ],
+    [
+      "ceremonies",
+      "practiced by",
+      "ancient civilizations"
+    ],
+    [
+      "ceremonies",
+      "provides",
+      "heat generation"
+    ],
+    [
+      "ceremonies",
+      "represents",
+      "renewal"
+    ],
+    [
+      "ceremonies",
+      "supports",
+      "heritage preservation"
+    ],
+    [
+      "ceremonies",
+      "utilized in",
+      "fire usage"
+    ],
+    [
+      "civilization",
+      "drives",
+      "productivity"
+    ],
+    [
+      "civilization",
+      "enabled by",
+      "technology"
+    ],
+    [
+      "civilization",
+      "enhances",
+      "community bonding"
+    ],
+    [
+      "civilization",
+      "enhances",
+      "cooperation"
+    ],
+    [
+      "civilization",
+      "foundation of",
+      "pottery"
+    ],
+    [
+      "civilization",
+      "influences",
+      "food culture"
+    ],
+    [
+      "civilization",
+      "influences",
+      "health"
+    ],
+    [
+      "civilization",
+      "inspired by",
+      "cultural expressions"
+    ],
+    [
+      "civilization",
+      "is a response to",
+      "skills"
+    ],
+    [
+      "civilization",
+      "is supported by",
+      "environmental sustainability"
+    ],
+    [
+      "civilization",
+      "preserves",
+      "heritage preservation"
+    ],
+    [
+      "civilization",
+      "shapes",
+      "evolution"
+    ],
+    [
+      "civilization",
+      "shapes",
+      "human history"
+    ],
+    [
+      "civilization",
+      "supported by",
+      "ceremonies"
+    ],
+    [
+      "civilization",
+      "supports",
+      "alternative energy"
+    ],
+    [
+      "civilization",
+      "utilizes",
+      "ceremonial use"
+    ],
+    [
+      "civilization",
+      "utilizes",
+      "industrial applications"
+    ],
+    [
+      "civilization",
+      "worshipped by",
+      "worship"
+    ],
+    [
+      "climate impact",
+      "affected by",
+      "divine protection"
+    ],
+    [
+      "climate impact",
+      "affects",
+      "skills"
+    ],
+    [
+      "climate impact",
+      "affects",
+      "warmth"
+    ],
+    [
+      "climate impact",
+      "impacts",
+      "cooking"
+    ],
+    [
+      "climate impact",
+      "impacts",
+      "social structures"
+    ],
+    [
+      "climate impact",
+      "influenced by",
+      "fire deities"
+    ],
+    [
+      "collective identity",
+      "boosts",
+      "productivity"
+    ],
+    [
+      "collective identity",
+      "encourages",
+      "resource conservation"
+    ],
+    [
+      "collective identity",
+      "enhances",
+      "community bonding"
+    ],
+    [
+      "collective identity",
+      "fosters",
+      "cooperation"
+    ],
+    [
+      "collective identity",
+      "fosters",
+      "fire rituals"
+    ],
+    [
+      "collective identity",
+      "influences",
+      "impact on society"
+    ],
+    [
+      "collective identity",
+      "influences",
+      "innovation"
+    ],
+    [
+      "collective identity",
+      "influences",
+      "worship"
+    ],
+    [
+      "collective identity",
+      "is expressed through",
+      "ceremonial use"
+    ],
+    [
+      "collective identity",
+      "is expressed through",
+      "spiritual practices"
+    ],
+    [
+      "collective identity",
+      "produces",
+      "crafts"
+    ],
+    [
+      "collective identity",
+      "shapes",
+      "human history"
+    ],
+    [
+      "collective identity",
+      "shapes",
+      "sustainable future"
+    ],
+    [
+      "collective identity",
+      "supports",
+      "heat generation"
+    ],
+    [
+      "communication",
+      "aids in",
+      "heritage preservation"
+    ],
+    [
+      "communication",
+      "communicated by",
+      "ancient civilizations"
+    ],
+    [
+      "communication",
+      "enables",
+      "technology"
+    ],
+    [
+      "communication",
+      "enhances",
+      "community development"
+    ],
+    [
+      "communication",
+      "enhances",
+      "fire safety"
+    ],
+    [
+      "communication",
+      "expresses",
+      "cultural expressions"
+    ],
+    [
+      "communication",
+      "facilitated by",
+      "fire"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "community practices"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "divine protection"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "fire usage"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "heat generation"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "renewal"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "spiritual practices"
+    ],
+    [
+      "communication",
+      "fosters",
+      "cooperation"
+    ],
+    [
+      "communication",
+      "impacts",
+      "impact on society"
+    ],
+    [
+      "communication",
+      "informs",
+      "cooking methods"
+    ],
+    [
+      "communication",
+      "involves",
+      "ceremonial use"
+    ],
+    [
+      "communication",
+      "represents",
+      "fire deities"
+    ],
+    [
+      "communication",
+      "represents",
+      "mystical powers"
+    ],
+    [
+      "communication",
+      "represents",
+      "symbolism"
+    ],
+    [
+      "communication",
+      "shapes",
+      "collective identity"
+    ],
+    [
+      "communication",
+      "supports",
+      "sustainable future"
+    ],
+    [
+      "communication",
+      "transmits",
+      "tradition"
+    ],
+    [
+      "community",
+      "enhances",
+      "food culture"
+    ],
+    [
+      "community",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "community",
+      "fostered by",
+      "fire"
+    ],
+    [
+      "community",
+      "fosters",
+      "community bonding"
+    ],
+    [
+      "community",
+      "influences",
+      "cultural expressions"
+    ],
+    [
+      "community",
+      "inspired",
+      "worship"
+    ],
+    [
+      "community",
+      "involves",
+      "spiritual practices"
+    ],
+    [
+      "community",
+      "is used in",
+      "ceremonial use"
+    ],
+    [
+      "community",
+      "promotes",
+      "resource conservation"
+    ],
+    [
+      "community",
+      "promotes",
+      "resource management"
+    ],
+    [
+      "community",
+      "provides",
+      "heat generation"
+    ],
+    [
+      "community",
+      "represents",
+      "heritage"
+    ],
+    [
+      "community",
+      "shapes",
+      "impact on society"
+    ],
+    [
+      "community",
+      "supports",
+      "alternative energy"
+    ],
+    [
+      "community",
+      "supports",
+      "heritage preservation"
+    ],
+    [
+      "community",
+      "supports",
+      "social structures"
+    ],
+    [
+      "community bonding",
+      "benefits from",
+      "community"
+    ],
+    [
+      "community bonding",
+      "benefits from",
+      "fire deities"
+    ],
+    [
+      "community bonding",
+      "fosters",
+      "human evolution"
+    ],
+    [
+      "community bonding",
+      "strengthened by",
+      "ceremonial use"
+    ],
+    [
+      "community development",
+      "advances",
+      "technology"
+    ],
+    [
+      "community development",
+      "connects",
+      "worship"
+    ],
+    [
+      "community development",
+      "drives",
+      "human evolution"
+    ],
+    [
+      "community development",
+      "enhances",
+      "cultural significance"
+    ],
+    [
+      "community development",
+      "enhances",
+      "fire management"
+    ],
+    [
+      "community development",
+      "enhances",
+      "historical significance"
+    ],
+    [
+      "community development",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "community development",
+      "enhances",
+      "social structures"
+    ],
+    [
+      "community development",
+      "facilitates",
+      "fire usage"
+    ],
+    [
+      "community development",
+      "fosters",
+      "cultural expressions"
+    ],
+    [
+      "community development",
+      "guides",
+      "guidance"
+    ],
+    [
+      "community development",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "community development",
+      "influences",
+      "ancient civilizations"
+    ],
+    [
+      "community development",
+      "influences",
+      "resource management"
+    ],
+    [
+      "community development",
+      "shapes",
+      "identity formation"
+    ],
+    [
+      "community development",
+      "supported by",
+      "diversity"
+    ],
+    [
+      "community development",
+      "supports",
+      "economic growth"
+    ],
+    [
+      "community development",
+      "supports",
+      "heritage preservation"
+    ],
+    [
+      "community practices",
+      "associated with",
+      "mystical powers"
+    ],
+    [
+      "community practices",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "community practices",
+      "fosters",
+      "community bonding"
+    ],
+    [
+      "community practices",
+      "influences",
+      "crafts"
+    ],
+    [
+      "community practices",
+      "influences",
+      "deforestation"
+    ],
+    [
+      "community practices",
+      "influences",
+      "human evolution"
+    ],
+    [
+      "community practices",
+      "is essential for",
+      "indispensable resource"
+    ],
+    [
+      "community practices",
+      "preserves",
+      "heritage preservation"
+    ],
+    [
+      "community practices",
+      "produces",
+      "ceramics"
+    ],
+    [
+      "cooking",
+      "depends on",
+      "indispensable resource"
+    ],
+    [
+      "cooking",
+      "depends on",
+      "nutrition"
+    ],
+    [
+      "cooking",
+      "enables",
+      "crafts"
+    ],
+    [
+      "cooking",
+      "enables",
+      "innovation"
+    ],
+    [
+      "cooking",
+      "enables",
+      "technology"
+    ],
+    [
+      "cooking",
+      "enhances",
+      "emotional connection"
+    ],
+    [
+      "cooking",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "cooking",
+      "facilitates",
+      "community practices"
+    ],
+    [
+      "cooking",
+      "facilitates",
+      "human development"
+    ],
+    [
+      "cooking",
+      "facilitates",
+      "interaction"
+    ],
+    [
+      "cooking",
+      "facilitates",
+      "tools"
+    ],
+    [
+      "cooking",
+      "fosters",
+      "community bonding"
+    ],
+    [
+      "cooking",
+      "integral to",
+      "modern industries"
+    ],
+    [
+      "cooking",
+      "is rooted in",
+      "tradition"
+    ],
+    [
+      "cooking",
+      "promotes",
+      "community development"
+    ],
+    [
+      "cooking",
+      "promotes",
+      "health"
+    ],
+    [
+      "cooking",
+      "requires",
+      "fire usage"
+    ],
+    [
+      "cooking",
+      "shapes",
+      "identity formation"
+    ],
+    [
+      "cooking",
+      "strengthens",
+      "interpersonal relationships"
+    ],
+    [
+      "cooking methods",
+      "contributed to",
+      "evolution"
+    ],
+    [
+      "cooking methods",
+      "drives",
+      "economic growth"
+    ],
+    [
+      "cooking methods",
+      "drives",
+      "innovation"
+    ],
+    [
+      "cooking methods",
+      "drives",
+      "technological advancement"
+    ],
+    [
+      "cooking methods",
+      "enables",
+      "technology"
+    ],
+    [
+      "cooking methods",
+      "ensures",
+      "fire safety"
+    ],
+    [
+      "cooking methods",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "cooking methods",
+      "improves",
+      "health"
+    ],
+    [
+      "cooking methods",
+      "influences",
+      "fire's role"
+    ],
+    [
+      "cooking methods",
+      "influences",
+      "food culture"
+    ],
+    [
+      "cooking methods",
+      "leads to",
+      "ceramics"
+    ],
+    [
+      "cooking methods",
+      "reflects",
+      "cultural significance"
+    ],
+    [
+      "cooking methods",
+      "reflects",
+      "historical significance"
+    ],
+    [
+      "cooking methods",
+      "requires",
+      "responsible use"
+    ],
+    [
+      "cooking methods",
+      "shaped by",
+      "human history"
+    ],
+    [
+      "cooking methods",
+      "supports",
+      "heritage preservation"
+    ],
+    [
+      "cooperation",
+      "enhances",
+      "crafts"
+    ],
+    [
+      "cooperation",
+      "enhances",
+      "cultural significance"
+    ],
+    [
+      "cooperation",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "cooperation",
+      "fosters",
+      "community bonding"
+    ],
+    [
+      "cooperation",
+      "influences",
+      "fire rituals"
+    ],
+    [
+      "cooperation",
+      "is supported by",
+      "skills"
+    ],
+    [
+      "cooperation",
+      "promotes",
+      "community practices"
+    ],
+    [
+      "cooperation",
+      "shapes",
+      "impact on society"
+    ],
+    [
+      "cooperation",
+      "supports",
+      "heritage preservation"
+    ],
+    [
+      "cooperation",
+      "supports",
+      "sustainable future"
+    ],
+    [
+      "crafts",
+      "advances",
+      "technology"
+    ],
+    [
+      "crafts",
+      "affects",
+      "impact on society"
+    ],
+    [
+      "crafts",
+      "contributes to",
+      "human evolution"
+    ],
+    [
+      "crafts",
+      "developed into",
+      "weapons"
+    ],
+    [
+      "crafts",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "crafts",
+      "exacerbates",
+      "technology"
+    ],
+    [
+      "crafts",
+      "holds",
+      "historical significance"
+    ],
+    [
+      "crafts",
+      "includes",
+      "ceramics"
+    ],
+    [
+      "crafts",
+      "inspired by",
+      "ceremonial use"
+    ],
+    [
+      "crafts",
+      "involves",
+      "fire rituals"
+    ],
+    [
+      "crafts",
+      "is created by",
+      "community"
+    ],
+    [
+      "crafts",
+      "produced by",
+      "heat generation"
+    ],
+    [
+      "crafts",
+      "strengthens",
+      "community bonding"
+    ],
+    [
+      "crafts",
+      "utilized in",
+      "modern industries"
+    ],
+    [
+      "crafts",
+      "utilizes",
+      "fire usage"
+    ],
+    [
+      "culinary arts",
+      "affects",
+      "impact on society"
+    ],
+    [
+      "culinary arts",
+      "contributes to",
+      "resource conservation"
+    ],
+    [
+      "culinary arts",
+      "drives",
+      "innovation"
+    ],
+    [
+      "culinary arts",
+      "enhances",
+      "health"
+    ],
+    [
+      "culinary arts",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "culinary arts",
+      "fostered",
+      "social structures"
+    ],
+    [
+      "culinary arts",
+      "fosters",
+      "community bonding"
+    ],
+    [
+      "culinary arts",
+      "highlights",
+      "fire's role"
+    ],
+    [
+      "culinary arts",
+      "influenced by",
+      "ancient civilizations"
+    ],
+    [
+      "culinary arts",
+      "influences",
+      "ceremonial use"
+    ],
+    [
+      "culinary arts",
+      "influences",
+      "communication"
+    ],
+    [
+      "culinary arts",
+      "influences",
+      "community practices"
+    ],
+    [
+      "culinary arts",
+      "influences",
+      "cooking"
+    ],
+    [
+      "culinary arts",
+      "influences",
+      "cultural significance"
+    ],
+    [
+      "culinary arts",
+      "influences",
+      "tradition"
+    ],
+    [
+      "culinary arts",
+      "inspired by",
+      "rituals"
+    ],
+    [
+      "culinary arts",
+      "reflects",
+      "cultural expressions"
+    ],
+    [
+      "culinary arts",
+      "requires",
+      "responsible use"
+    ],
+    [
+      "culinary arts",
+      "shapes",
+      "food culture"
+    ],
+    [
+      "culinary arts",
+      "shapes",
+      "human history"
+    ],
+    [
+      "cultural expressions",
+      "drives",
+      "technological advancement"
+    ],
+    [
+      "cultural expressions",
+      "embodies",
+      "mystical powers"
+    ],
+    [
+      "cultural expressions",
+      "enhances",
+      "cooperation"
+    ],
+    [
+      "cultural expressions",
+      "fosters",
+      "productivity"
+    ],
+    [
+      "cultural expressions",
+      "impacts",
+      "impact on society"
+    ],
+    [
+      "cultural expressions",
+      "influences",
+      "fire usage"
+    ],
+    [
+      "cultural expressions",
+      "influences",
+      "social structures"
+    ],
+    [
+      "cultural expressions",
+      "inspired by",
+      "rituals"
+    ],
+    [
+      "cultural expressions",
+      "is enriched by",
+      "evolution"
+    ],
+    [
+      "cultural expressions",
+      "reflects",
+      "historical significance"
+    ],
+    [
+      "cultural expressions",
+      "reflects",
+      "identity formation"
+    ],
+    [
+      "cultural expressions",
+      "represents",
+      "fire deities"
+    ],
+    [
+      "cultural significance",
+      "enhances",
+      "community bonding"
+    ],
+    [
+      "cultural significance",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "cultural significance",
+      "influences",
+      "ceramics"
+    ],
+    [
+      "cultural significance",
+      "influences",
+      "cooking"
+    ],
+    [
+      "cultural significance",
+      "is shaped by",
+      "culinary arts"
+    ],
+    [
+      "cultural significance",
+      "shapes",
+      "human evolution"
+    ],
+    [
+      "cultural significance",
+      "symbolizes",
+      "mystical powers"
+    ],
+    [
+      "deforestation",
+      "affects",
+      "resource management"
+    ],
+    [
+      "deforestation",
+      "caused by",
+      "values"
+    ],
+    [
+      "deforestation",
+      "impacts",
+      "ceremonies"
+    ],
+    [
+      "deforestation",
+      "impacts",
+      "cooking methods"
+    ],
+    [
+      "deforestation",
+      "influences",
+      "fire's role"
+    ],
+    [
+      "deforestation",
+      "influences",
+      "human development"
+    ],
+    [
+      "deforestation",
+      "is impacted by",
+      "skills"
+    ],
+    [
+      "deforestation",
+      "is threatened by",
+      "nutrition"
+    ],
+    [
+      "deforestation",
+      "provides",
+      "human history"
+    ],
+    [
+      "deforestation",
+      "threatens",
+      "community"
+    ],
+    [
+      "destruction",
+      "associated with",
+      "fire rituals"
+    ],
+    [
+      "destruction",
+      "embodies",
+      "symbolism"
+    ],
+    [
+      "destruction",
+      "is a consequence of",
+      "ceramics"
+    ],
+    [
+      "destruction",
+      "is a result of",
+      "health"
+    ],
+    [
+      "destruction",
+      "is affected by",
+      "health"
+    ],
+    [
+      "destruction",
+      "is affected by",
+      "social structures"
+    ],
+    [
+      "destruction",
+      "is developed by",
+      "indispensable resource"
+    ],
+    [
+      "destruction",
+      "is symbolized by",
+      "fire"
+    ],
+    [
+      "destruction",
+      "produced",
+      "weapons"
+    ],
+    [
+      "destruction",
+      "represents",
+      "diversity"
+    ],
+    [
+      "destruction",
+      "represents",
+      "fire's role"
+    ],
+    [
+      "destruction",
+      "resulted from",
+      "impact on society"
+    ],
+    [
+      "destruction",
+      "results in",
+      "community development"
+    ],
+    [
+      "destruction",
+      "results in",
+      "fire safety"
+    ],
+    [
+      "destruction",
+      "results in",
+      "indispensable resource"
+    ],
+    [
+      "destruction",
+      "results in",
+      "industrial applications"
+    ],
+    [
+      "diversity",
+      "advances",
+      "technology"
+    ],
+    [
+      "diversity",
+      "affects",
+      "fire usage"
+    ],
+    [
+      "diversity",
+      "demonstrates",
+      "fire's role"
+    ],
+    [
+      "diversity",
+      "enhances",
+      "community development"
+    ],
+    [
+      "diversity",
+      "enhances",
+      "cooking"
+    ],
+    [
+      "diversity",
+      "enhances",
+      "interpersonal relationships"
+    ],
+    [
+      "diversity",
+      "fosters",
+      "community"
+    ],
+    [
+      "diversity",
+      "influences",
+      "ceremonial use"
+    ],
+    [
+      "diversity",
+      "influences",
+      "crafts"
+    ],
+    [
+      "diversity",
+      "involves",
+      "ceremonies"
+    ],
+    [
+      "diversity",
+      "promotes",
+      "resource conservation"
+    ],
+    [
+      "diversity",
+      "requires",
+      "fire management"
+    ],
+    [
+      "diversity",
+      "supports",
+      "heritage preservation"
+    ],
+    [
+      "diversity",
+      "supports",
+      "social structures"
+    ],
+    [
+      "divine protection",
+      "embodies",
+      "cultural significance"
+    ],
+    [
+      "divine protection",
+      "influences",
+      "food culture"
+    ],
+    [
+      "divine protection",
+      "involves",
+      "fire rituals"
+    ],
+    [
+      "divine protection",
+      "is a form of",
+      "worship"
+    ],
+    [
+      "divine protection",
+      "is associated with",
+      "transformative properties"
+    ],
+    [
+      "divine protection",
+      "offers",
+      "identity formation"
+    ],
+    [
+      "divine protection",
+      "provides",
+      "indispensable resource"
+    ],
+    [
+      "divine protection",
+      "provides",
+      "interaction"
+    ],
+    [
+      "divine protection",
+      "provides",
+      "resource management"
+    ],
+    [
+      "divine protection",
+      "provides",
+      "spiritual practices"
+    ],
+    [
+      "divine protection",
+      "provides",
+      "symbolism"
+    ],
+    [
+      "divine protection",
+      "requires",
+      "environmental sustainability"
+    ],
+    [
+      "divine protection",
+      "sought for",
+      "fire deities"
+    ],
+    [
+      "divine protection",
+      "supports",
+      "heritage preservation"
+    ],
+    [
+      "economic growth",
+      "affects",
+      "environmental challenges"
+    ],
+    [
+      "economic growth",
+      "driven by",
+      "weapons"
+    ],
+    [
+      "economic growth",
+      "drives",
+      "fire usage"
+    ],
+    [
+      "economic growth",
+      "drives",
+      "productivity"
+    ],
+    [
+      "economic growth",
+      "drives",
+      "tools"
+    ],
+    [
+      "economic growth",
+      "influences",
+      "impact on society"
+    ],
+    [
+      "economic growth",
+      "supports",
+      "community bonding"
+    ],
+    [
+      "emotional connection",
+      "enhances",
+      "community bonding"
+    ],
+    [
+      "emotional connection",
+      "fosters",
+      "fire usage"
+    ],
+    [
+      "emotional connection",
+      "fosters",
+      "worship"
+    ],
+    [
+      "emotional connection",
+      "influences",
+      "crafts"
+    ],
+    [
+      "energy efficiency",
+      "benefits from",
+      "fire rituals"
+    ],
+    [
+      "energy efficiency",
+      "enhanced by",
+      "cooking"
+    ],
+    [
+      "energy efficiency",
+      "improved by",
+      "warmth"
+    ],
+    [
+      "energy sources",
+      "affects",
+      "climate impact"
+    ],
+    [
+      "energy sources",
+      "contributes to",
+      "community development"
+    ],
+    [
+      "energy sources",
+      "creates",
+      "emotional connection"
+    ],
+    [
+      "energy sources",
+      "drives",
+      "deforestation"
+    ],
+    [
+      "energy sources",
+      "drives",
+      "economic growth"
+    ],
+    [
+      "energy sources",
+      "drives",
+      "modern industries"
+    ],
+    [
+      "energy sources",
+      "drives",
+      "technological advancement"
+    ],
+    [
+      "energy sources",
+      "drives",
+      "technology"
+    ],
+    [
+      "energy sources",
+      "enables",
+      "human development"
+    ],
+    [
+      "energy sources",
+      "fuels",
+      "fire"
+    ],
+    [
+      "energy sources",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "energy sources",
+      "influences",
+      "interaction"
+    ],
+    [
+      "energy sources",
+      "requires",
+      "resource management"
+    ],
+    [
+      "energy sources",
+      "utilized in",
+      "pottery"
+    ],
+    [
+      "environment",
+      "affects",
+      "climate impact"
+    ],
+    [
+      "environment",
+      "caused by",
+      "environmental challenges"
+    ],
+    [
+      "environment",
+      "causes",
+      "deforestation"
+    ],
+    [
+      "environment",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "environment",
+      "generates",
+      "heat generation"
+    ],
+    [
+      "environment",
+      "influences",
+      "fire usage"
+    ],
+    [
+      "environment",
+      "promotes",
+      "resource conservation"
+    ],
+    [
+      "environment",
+      "requires",
+      "resource management"
+    ],
+    [
+      "environment",
+      "requires",
+      "responsible use"
+    ],
+    [
+      "environment",
+      "shaped by",
+      "collective identity"
+    ],
+    [
+      "environment",
+      "utilized for",
+      "tools"
+    ],
+    [
+      "environmental challenges",
+      "affects",
+      "human evolution"
+    ],
+    [
+      "environmental challenges",
+      "affects",
+      "impact on society"
+    ],
+    [
+      "environmental challenges",
+      "causes",
+      "fire"
+    ],
+    [
+      "environmental challenges",
+      "causes",
+      "heat generation"
+    ],
+    [
+      "environmental challenges",
+      "challenges",
+      "collective identity"
+    ],
+    [
+      "environmental challenges",
+      "challenges",
+      "energy sources"
+    ],
+    [
+      "environmental challenges",
+      "highlights",
+      "rituals"
+    ],
+    [
+      "environmental challenges",
+      "impacted by",
+      "ceremonies"
+    ],
+    [
+      "environmental challenges",
+      "impacts",
+      "community development"
+    ],
+    [
+      "environmental challenges",
+      "influences",
+      "belief systems"
+    ],
+    [
+      "environmental challenges",
+      "presents",
+      "energy efficiency"
+    ],
+    [
+      "environmental challenges",
+      "presents",
+      "fire usage"
+    ],
+    [
+      "environmental challenges",
+      "requires",
+      "fire management"
+    ],
+    [
+      "environmental challenges",
+      "requires",
+      "responsible use"
+    ],
+    [
+      "environmental sustainability",
+      "advances",
+      "technology"
+    ],
+    [
+      "environmental sustainability",
+      "influences",
+      "community"
+    ],
+    [
+      "environmental sustainability",
+      "influences",
+      "cultural significance"
+    ],
+    [
+      "environmental sustainability",
+      "influences",
+      "spiritual practices"
+    ],
+    [
+      "environmental sustainability",
+      "integrates",
+      "rituals"
+    ],
+    [
+      "environmental sustainability",
+      "is challenged by",
+      "environmental challenges"
+    ],
+    [
+      "environmental sustainability",
+      "promotes",
+      "cooperation"
+    ],
+    [
+      "environmental sustainability",
+      "promotes",
+      "energy sources"
+    ],
+    [
+      "environmental sustainability",
+      "promotes",
+      "resource conservation"
+    ],
+    [
+      "environmental sustainability",
+      "promotes",
+      "responsible use"
+    ],
+    [
+      "environmental sustainability",
+      "requires",
+      "fire management"
+    ],
+    [
+      "environmental sustainability",
+      "shapes",
+      "human history"
+    ],
+    [
+      "environmental sustainability",
+      "strengthens",
+      "community bonding"
+    ],
+    [
+      "environmental sustainability",
+      "supports",
+      "community development"
+    ],
+    [
+      "evolution",
+      "advances",
+      "technology"
+    ],
+    [
+      "evolution",
+      "enhances",
+      "cultural expressions"
+    ],
+    [
+      "evolution",
+      "fosters",
+      "community development"
+    ],
+    [
+      "evolution",
+      "fosters",
+      "innovation"
+    ],
+    [
+      "evolution",
+      "influences",
+      "cultural expressions"
+    ],
+    [
+      "evolution",
+      "is influenced by",
+      "pottery"
+    ],
+    [
+      "evolution",
+      "shaped by",
+      "heritage"
+    ],
+    [
+      "evolution",
+      "shapes",
+      "human history"
+    ],
+    [
+      "evolution",
+      "shapes",
+      "identity formation"
+    ],
+    [
+      "evolution",
+      "strengthens",
+      "community bonding"
+    ],
+    [
+      "fire",
+      "affects",
+      "environmental sustainability"
+    ],
+    [
+      "fire",
+      "created from",
+      "pottery"
+    ],
+    [
+      "fire",
+      "drives",
+      "innovation"
+    ],
+    [
+      "fire",
+      "enables",
+      "crafts"
+    ],
+    [
+      "fire",
+      "enables",
+      "technology"
+    ],
+    [
+      "fire",
+      "enables",
+      "weapons"
+    ],
+    [
+      "fire",
+      "facilitates",
+      "community development"
+    ],
+    [
+      "fire",
+      "improves",
+      "health"
+    ],
+    [
+      "fire",
+      "increases",
+      "productivity"
+    ],
+    [
+      "fire",
+      "influences",
+      "community practices"
+    ],
+    [
+      "fire",
+      "influences",
+      "cultural expressions"
+    ],
+    [
+      "fire",
+      "influences",
+      "diversity"
+    ],
+    [
+      "fire",
+      "involves",
+      "ceramics"
+    ],
+    [
+      "fire",
+      "is caused by",
+      "deforestation"
+    ],
+    [
+      "fire",
+      "is essential for",
+      "resource management"
+    ],
+    [
+      "fire",
+      "is influenced by",
+      "heritage"
+    ],
+    [
+      "fire",
+      "produced by",
+      "heat generation"
+    ],
+    [
+      "fire",
+      "provides",
+      "divine protection"
+    ],
+    [
+      "fire",
+      "provides",
+      "light"
+    ],
+    [
+      "fire",
+      "provides",
+      "safety"
+    ],
+    [
+      "fire",
+      "provides",
+      "warmth"
+    ],
+    [
+      "fire",
+      "represents",
+      "destruction"
+    ],
+    [
+      "fire",
+      "represents",
+      "symbolism"
+    ],
+    [
+      "fire",
+      "requires",
+      "sustainable practices"
+    ],
+    [
+      "fire",
+      "serves as",
+      "indispensable resource"
+    ],
+    [
+      "fire",
+      "shaped",
+      "human history"
+    ],
+    [
+      "fire",
+      "shaped by",
+      "historical significance"
+    ],
+    [
+      "fire",
+      "signifies",
+      "cultural significance"
+    ],
+    [
+      "fire",
+      "strengthens",
+      "community bonding"
+    ],
+    [
+      "fire",
+      "supports",
+      "modern industries"
+    ],
+    [
+      "fire",
+      "used for",
+      "tools"
+    ],
+    [
+      "fire",
+      "utilized in",
+      "industrial applications"
+    ],
+    [
+      "fire",
+      "worshipped by",
+      "worship"
+    ],
+    [
+      "fire deities",
+      "associated with",
+      "fire usage"
+    ],
+    [
+      "fire deities",
+      "creates",
+      "emotional connection"
+    ],
+    [
+      "fire deities",
+      "fosters",
+      "community bonding"
+    ],
+    [
+      "fire deities",
+      "influences",
+      "innovation challenges"
+    ],
+    [
+      "fire deities",
+      "influences",
+      "social structures"
+    ],
+    [
+      "fire deities",
+      "influences",
+      "sustainable future"
+    ],
+    [
+      "fire deities",
+      "informs",
+      "community practices"
+    ],
+    [
+      "fire deities",
+      "is associated with",
+      "renewal"
+    ],
+    [
+      "fire deities",
+      "is represented in",
+      "fire rituals"
+    ],
+    [
+      "fire deities",
+      "is worshipped by",
+      "heritage"
+    ],
+    [
+      "fire deities",
+      "provides",
+      "guidance"
+    ],
+    [
+      "fire deities",
+      "reflects",
+      "human history"
+    ],
+    [
+      "fire deities",
+      "represents",
+      "cultural significance"
+    ],
+    [
+      "fire deities",
+      "represents",
+      "destruction"
+    ],
+    [
+      "fire deities",
+      "symbolizes",
+      "light"
+    ],
+    [
+      "fire deities",
+      "worshipped by",
+      "ancient civilizations"
+    ],
+    [
+      "fire deities",
+      "worshipped by",
+      "energy sources"
+    ],
+    [
+      "fire deities",
+      "worshipped by",
+      "warmth"
+    ],
+    [
+      "fire management",
+      "causes",
+      "destruction"
+    ],
+    [
+      "fire management",
+      "drives",
+      "innovation"
+    ],
+    [
+      "fire management",
+      "enhances",
+      "community bonding"
+    ],
+    [
+      "fire management",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "fire management",
+      "ensures",
+      "sustainable future"
+    ],
+    [
+      "fire management",
+      "fosters",
+      "emotional connection"
+    ],
+    [
+      "fire management",
+      "influences",
+      "ancient civilizations"
+    ],
+    [
+      "fire management",
+      "influences",
+      "collective identity"
+    ],
+    [
+      "fire management",
+      "influences",
+      "social structures"
+    ],
+    [
+      "fire management",
+      "informs",
+      "community practices"
+    ],
+    [
+      "fire management",
+      "involves",
+      "crafts"
+    ],
+    [
+      "fire management",
+      "involves",
+      "fire rituals"
+    ],
+    [
+      "fire management",
+      "involves",
+      "tools"
+    ],
+    [
+      "fire management",
+      "is associated with",
+      "worship"
+    ],
+    [
+      "fire management",
+      "is managed by",
+      "fire's role"
+    ],
+    [
+      "fire management",
+      "managed by",
+      "divine protection"
+    ],
+    [
+      "fire management",
+      "managed by",
+      "fire deities"
+    ],
+    [
+      "fire management",
+      "managed by",
+      "identity formation"
+    ],
+    [
+      "fire management",
+      "managed by",
+      "light"
+    ],
+    [
+      "fire management",
+      "managed by",
+      "resource management"
+    ],
+    [
+      "fire management",
+      "managed by",
+      "tradition"
+    ],
+    [
+      "fire management",
+      "managed by",
+      "warmth"
+    ],
+    [
+      "fire management",
+      "managed through",
+      "cooperation"
+    ],
+    [
+      "fire management",
+      "managed through",
+      "modern industries"
+    ],
+    [
+      "fire management",
+      "requires",
+      "community"
+    ],
+    [
+      "fire management",
+      "shapes",
+      "human history"
+    ],
+    [
+      "fire management",
+      "utilizes",
+      "pottery"
+    ],
+    [
+      "fire rituals",
+      "associated with",
+      "mystical powers"
+    ],
+    [
+      "fire rituals",
+      "associated with",
+      "pottery"
+    ],
+    [
+      "fire rituals",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "fire rituals",
+      "improves",
+      "productivity"
+    ],
+    [
+      "fire rituals",
+      "inspired by",
+      "light"
+    ],
+    [
+      "fire rituals",
+      "is honored by",
+      "heritage"
+    ],
+    [
+      "fire rituals",
+      "is influenced by",
+      "air pollution"
+    ],
+    [
+      "fire rituals",
+      "promotes",
+      "community bonding"
+    ],
+    [
+      "fire rituals",
+      "requires",
+      "sustainable future"
+    ],
+    [
+      "fire safety",
+      "affects",
+      "impact on society"
+    ],
+    [
+      "fire safety",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "fire safety",
+      "enhances",
+      "technology"
+    ],
+    [
+      "fire safety",
+      "ensures",
+      "ceremonial use"
+    ],
+    [
+      "fire safety",
+      "ensures",
+      "cooking"
+    ],
+    [
+      "fire safety",
+      "ensures",
+      "energy sources"
+    ],
+    [
+      "fire safety",
+      "ensures",
+      "skills"
+    ],
+    [
+      "fire safety",
+      "ensures",
+      "social structures"
+    ],
+    [
+      "fire safety",
+      "ensures",
+      "tools"
+    ],
+    [
+      "fire safety",
+      "ensures",
+      "warmth"
+    ],
+    [
+      "fire safety",
+      "provides",
+      "divine protection"
+    ],
+    [
+      "fire safety",
+      "supports",
+      "sustainable future"
+    ],
+    [
+      "fire usage",
+      "depends on",
+      "productivity"
+    ],
+    [
+      "fire usage",
+      "enables",
+      "warmth"
+    ],
+    [
+      "fire usage",
+      "facilitates",
+      "human development"
+    ],
+    [
+      "fire usage",
+      "influences",
+      "worship"
+    ],
+    [
+      "fire usage",
+      "is influenced by",
+      "human history"
+    ],
+    [
+      "fire usage",
+      "is utilized in",
+      "evolution"
+    ],
+    [
+      "fire usage",
+      "results from",
+      "air pollution"
+    ],
+    [
+      "fire usage",
+      "shapes",
+      "impact on society"
+    ],
+    [
+      "fire usage",
+      "used for",
+      "weapons"
+    ],
+    [
+      "fire usage",
+      "utilizes",
+      "energy sources"
+    ],
+    [
+      "fire's role",
+      "addresses",
+      "environmental sustainability"
+    ],
+    [
+      "fire's role",
+      "affects",
+      "impact on society"
+    ],
+    [
+      "fire's role",
+      "contributes to",
+      "community development"
+    ],
+    [
+      "fire's role",
+      "defines",
+      "historical significance"
+    ],
+    [
+      "fire's role",
+      "embodies",
+      "mystical powers"
+    ],
+    [
+      "fire's role",
+      "enables",
+      "ceremonial use"
+    ],
+    [
+      "fire's role",
+      "enables",
+      "crafts"
+    ],
+    [
+      "fire's role",
+      "enables",
+      "technology"
+    ],
+    [
+      "fire's role",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "fire's role",
+      "ensures",
+      "safety"
+    ],
+    [
+      "fire's role",
+      "fosters",
+      "community bonding"
+    ],
+    [
+      "fire's role",
+      "increases",
+      "productivity"
+    ],
+    [
+      "fire's role",
+      "influences",
+      "evolution"
+    ],
+    [
+      "fire's role",
+      "influences",
+      "fire"
+    ],
+    [
+      "fire's role",
+      "influences",
+      "heritage"
+    ],
+    [
+      "fire's role",
+      "influences",
+      "human evolution"
+    ],
+    [
+      "fire's role",
+      "is influenced by",
+      "nutrition"
+    ],
+    [
+      "fire's role",
+      "is linked to",
+      "ceramics"
+    ],
+    [
+      "fire's role",
+      "is utilized in",
+      "modern industries"
+    ],
+    [
+      "fire's role",
+      "promotes",
+      "cooperation"
+    ],
+    [
+      "fire's role",
+      "provides",
+      "heat generation"
+    ],
+    [
+      "fire's role",
+      "provides",
+      "warmth"
+    ],
+    [
+      "fire's role",
+      "represents",
+      "cultural significance"
+    ],
+    [
+      "fire's role",
+      "shapes",
+      "belief systems"
+    ],
+    [
+      "food culture",
+      "contributes to",
+      "tools"
+    ],
+    [
+      "food culture",
+      "drives",
+      "technology"
+    ],
+    [
+      "food culture",
+      "enhances",
+      "community bonding"
+    ],
+    [
+      "food culture",
+      "increases",
+      "productivity"
+    ],
+    [
+      "food culture",
+      "influences",
+      "heritage preservation"
+    ],
+    [
+      "food culture",
+      "influences",
+      "human evolution"
+    ],
+    [
+      "food culture",
+      "influences",
+      "social structures"
+    ],
+    [
+      "food culture",
+      "influences",
+      "tools"
+    ],
+    [
+      "food culture",
+      "inspired by",
+      "worship"
+    ],
+    [
+      "food culture",
+      "nurtures",
+      "cooperation"
+    ],
+    [
+      "food culture",
+      "reflects",
+      "culinary arts"
+    ],
+    [
+      "food culture",
+      "shapes",
+      "crafts"
+    ],
+    [
+      "guidance",
+      "guides",
+      "civilization"
+    ],
+    [
+      "guidance",
+      "informs",
+      "community practices"
+    ],
+    [
+      "guidance",
+      "informs",
+      "food culture"
+    ],
+    [
+      "guidance",
+      "inspired by",
+      "fire rituals"
+    ],
+    [
+      "guidance",
+      "is guided by",
+      "deforestation"
+    ],
+    [
+      "guidance",
+      "is sought for",
+      "sustainable future"
+    ],
+    [
+      "guidance",
+      "provides",
+      "cooking methods"
+    ],
+    [
+      "guidance",
+      "provides",
+      "nutrition"
+    ],
+    [
+      "guidance",
+      "provides",
+      "skills"
+    ],
+    [
+      "guidance",
+      "provides",
+      "spirituality"
+    ],
+    [
+      "guidance",
+      "represents",
+      "mystical powers"
+    ],
+    [
+      "guidance",
+      "sought by",
+      "worship"
+    ],
+    [
+      "health",
+      "affects",
+      "cultural significance"
+    ],
+    [
+      "health",
+      "impacts",
+      "evolution"
+    ],
+    [
+      "health",
+      "improves",
+      "resource management"
+    ],
+    [
+      "health",
+      "influences",
+      "crafts"
+    ],
+    [
+      "health",
+      "is affected by",
+      "deforestation"
+    ],
+    [
+      "health",
+      "is created through",
+      "destruction"
+    ],
+    [
+      "health",
+      "led to the creation of",
+      "ceramics"
+    ],
+    [
+      "health",
+      "promotes",
+      "renewal"
+    ],
+    [
+      "heat generation",
+      "associated with",
+      "fire deities"
+    ],
+    [
+      "heat generation",
+      "guides",
+      "guidance"
+    ],
+    [
+      "heat generation",
+      "improves",
+      "health"
+    ],
+    [
+      "heat generation",
+      "increases",
+      "productivity"
+    ],
+    [
+      "heat generation",
+      "is supported by",
+      "heritage"
+    ],
+    [
+      "heat generation",
+      "is utilized in",
+      "weapons"
+    ],
+    [
+      "heat generation",
+      "is vital for",
+      "sustainable future"
+    ],
+    [
+      "heat generation",
+      "managed by",
+      "fire management"
+    ],
+    [
+      "heat generation",
+      "powers",
+      "modern industries"
+    ],
+    [
+      "heat generation",
+      "provides",
+      "light"
+    ],
+    [
+      "heat generation",
+      "represents",
+      "renewal"
+    ],
+    [
+      "heat generation",
+      "requires",
+      "culinary arts"
+    ],
+    [
+      "heat generation",
+      "shapes",
+      "impact on society"
+    ],
+    [
+      "heat generation",
+      "supports",
+      "human development"
+    ],
+    [
+      "heat generation",
+      "supports",
+      "nutrition"
+    ],
+    [
+      "heat generation",
+      "supports",
+      "social structures"
+    ],
+    [
+      "heritage",
+      "associated with",
+      "ceremonial use"
+    ],
+    [
+      "heritage",
+      "contributes to",
+      "community development"
+    ],
+    [
+      "heritage",
+      "contributes to",
+      "sustainable future"
+    ],
+    [
+      "heritage",
+      "embodies",
+      "transformative properties"
+    ],
+    [
+      "heritage",
+      "enables",
+      "heat generation"
+    ],
+    [
+      "heritage",
+      "enhances",
+      "community bonding"
+    ],
+    [
+      "heritage",
+      "impacts",
+      "climate impact"
+    ],
+    [
+      "heritage",
+      "influences",
+      "food culture"
+    ],
+    [
+      "heritage",
+      "informs",
+      "social structures"
+    ],
+    [
+      "heritage",
+      "is a vital component of",
+      "indispensable resource"
+    ],
+    [
+      "heritage",
+      "shapes",
+      "community practices"
+    ],
+    [
+      "heritage",
+      "shapes",
+      "environmental sustainability"
+    ],
+    [
+      "heritage",
+      "shapes",
+      "human evolution"
+    ],
+    [
+      "heritage",
+      "shapes",
+      "impact on society"
+    ],
+    [
+      "heritage preservation",
+      "advances",
+      "technology"
+    ],
+    [
+      "heritage preservation",
+      "benefits from",
+      "community development"
+    ],
+    [
+      "heritage preservation",
+      "is associated with",
+      "destruction"
+    ],
+    [
+      "heritage preservation",
+      "is linked to",
+      "ceramics"
+    ],
+    [
+      "heritage preservation",
+      "is preserved by",
+      "collective identity"
+    ],
+    [
+      "heritage preservation",
+      "is preserved by",
+      "fire deities"
+    ],
+    [
+      "heritage preservation",
+      "preserved by",
+      "guidance"
+    ],
+    [
+      "heritage preservation",
+      "preserved by",
+      "modern industries"
+    ],
+    [
+      "heritage preservation",
+      "preserves",
+      "environmental sustainability"
+    ],
+    [
+      "heritage preservation",
+      "supports",
+      "emotional connection"
+    ],
+    [
+      "historical significance",
+      "influences",
+      "skills"
+    ],
+    [
+      "historical significance",
+      "is defined by",
+      "environment"
+    ],
+    [
+      "historical significance",
+      "is recognized by",
+      "culinary arts"
+    ],
+    [
+      "historical significance",
+      "is significant for",
+      "alternative energy"
+    ],
+    [
+      "historical significance",
+      "is used for",
+      "weapons"
+    ],
+    [
+      "historical significance",
+      "reflects",
+      "tradition"
+    ],
+    [
+      "historical significance",
+      "signifies",
+      "light"
+    ],
+    [
+      "human development",
+      "contributes to",
+      "crafts"
+    ],
+    [
+      "human development",
+      "contributes to",
+      "social structures"
+    ],
+    [
+      "human development",
+      "drives",
+      "economic growth"
+    ],
+    [
+      "human development",
+      "drives",
+      "industrial applications"
+    ],
+    [
+      "human development",
+      "drives",
+      "modern industries"
+    ],
+    [
+      "human development",
+      "drives",
+      "technology"
+    ],
+    [
+      "human development",
+      "enables",
+      "tools"
+    ],
+    [
+      "human development",
+      "fosters",
+      "community bonding"
+    ],
+    [
+      "human development",
+      "improves",
+      "health"
+    ],
+    [
+      "human development",
+      "influences",
+      "community practices"
+    ],
+    [
+      "human development",
+      "influences",
+      "cultural significance"
+    ],
+    [
+      "human development",
+      "is integral to",
+      "technology"
+    ],
+    [
+      "human development",
+      "produces",
+      "ceramics"
+    ],
+    [
+      "human development",
+      "provides",
+      "warmth"
+    ],
+    [
+      "human development",
+      "requires",
+      "responsible use"
+    ],
+    [
+      "human development",
+      "shaped by",
+      "human history"
+    ],
+    [
+      "human development",
+      "shapes",
+      "historical significance"
+    ],
+    [
+      "human evolution",
+      "facilitates",
+      "warmth"
+    ],
+    [
+      "human evolution",
+      "impacted by",
+      "air pollution"
+    ],
+    [
+      "human evolution",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "human evolution",
+      "influenced by",
+      "climate impact"
+    ],
+    [
+      "human evolution",
+      "influenced by",
+      "energy sources"
+    ],
+    [
+      "human evolution",
+      "influences",
+      "cooking"
+    ],
+    [
+      "human evolution",
+      "influences",
+      "deforestation"
+    ],
+    [
+      "human evolution",
+      "influences",
+      "interaction"
+    ],
+    [
+      "human evolution",
+      "influences",
+      "symbolism"
+    ],
+    [
+      "human evolution",
+      "is shaped by",
+      "human history"
+    ],
+    [
+      "human history",
+      "driven by",
+      "industrial applications"
+    ],
+    [
+      "human history",
+      "drives",
+      "economic growth"
+    ],
+    [
+      "human history",
+      "drives",
+      "technology"
+    ],
+    [
+      "human history",
+      "enables the creation of",
+      "air pollution"
+    ],
+    [
+      "human history",
+      "fosters",
+      "community bonding"
+    ],
+    [
+      "human history",
+      "influenced by",
+      "ancient civilizations"
+    ],
+    [
+      "human history",
+      "influenced by",
+      "transformative properties"
+    ],
+    [
+      "human history",
+      "influences",
+      "health"
+    ],
+    [
+      "human history",
+      "influences",
+      "innovation challenges"
+    ],
+    [
+      "human history",
+      "is illuminated by",
+      "deforestation"
+    ],
+    [
+      "human history",
+      "is influenced by",
+      "deforestation"
+    ],
+    [
+      "human history",
+      "is marked by",
+      "fire rituals"
+    ],
+    [
+      "human history",
+      "shapes",
+      "community practices"
+    ],
+    [
+      "human history",
+      "shapes",
+      "energy efficiency"
+    ],
+    [
+      "human history",
+      "shapes",
+      "heritage preservation"
+    ],
+    [
+      "human history",
+      "shapes",
+      "human evolution"
+    ],
+    [
+      "human history",
+      "shapes",
+      "social structures"
+    ],
+    [
+      "identity formation",
+      "affects",
+      "health"
+    ],
+    [
+      "identity formation",
+      "contributes to",
+      "productivity"
+    ],
+    [
+      "identity formation",
+      "contributes to",
+      "social structures"
+    ],
+    [
+      "identity formation",
+      "influences",
+      "human evolution"
+    ],
+    [
+      "identity formation",
+      "influences",
+      "impact on society"
+    ],
+    [
+      "identity formation",
+      "is influenced by",
+      "weapons"
+    ],
+    [
+      "identity formation",
+      "shapes",
+      "skills"
+    ],
+    [
+      "identity formation",
+      "supports",
+      "heritage preservation"
+    ],
+    [
+      "impact on society",
+      "affected by",
+      "sustainable future"
+    ],
+    [
+      "impact on society",
+      "affects",
+      "ceremonies"
+    ],
+    [
+      "impact on society",
+      "affects",
+      "deforestation"
+    ],
+    [
+      "impact on society",
+      "affects",
+      "evolution"
+    ],
+    [
+      "impact on society",
+      "affects",
+      "safety"
+    ],
+    [
+      "impact on society",
+      "caused",
+      "destruction"
+    ],
+    [
+      "impact on society",
+      "influences",
+      "environment"
+    ],
+    [
+      "impact on society",
+      "influences",
+      "responsible use"
+    ],
+    [
+      "impact on society",
+      "shaped by",
+      "sustainable practices"
+    ],
+    [
+      "impact on society",
+      "shapes",
+      "rituals"
+    ],
+    [
+      "indispensable resource",
+      "depends on",
+      "deforestation"
+    ],
+    [
+      "indispensable resource",
+      "enables",
+      "fire usage"
+    ],
+    [
+      "indispensable resource",
+      "fosters",
+      "destruction"
+    ],
+    [
+      "indispensable resource",
+      "generates",
+      "heat generation"
+    ],
+    [
+      "indispensable resource",
+      "influenced the formation of",
+      "ceramics"
+    ],
+    [
+      "indispensable resource",
+      "is linked to",
+      "crafts"
+    ],
+    [
+      "indispensable resource",
+      "is supported by",
+      "health"
+    ],
+    [
+      "indispensable resource",
+      "is symbolized by",
+      "renewal"
+    ],
+    [
+      "indispensable resource",
+      "provides",
+      "identity formation"
+    ],
+    [
+      "indispensable resource",
+      "serves as",
+      "energy sources"
+    ],
+    [
+      "indispensable resource",
+      "supports",
+      "ceramics"
+    ],
+    [
+      "indispensable resource",
+      "supports",
+      "energy efficiency"
+    ],
+    [
+      "indispensable resource",
+      "utilized by",
+      "resource management"
+    ],
+    [
+      "indispensable resource",
+      "utilized by",
+      "tools"
+    ],
+    [
+      "indispensable resource",
+      "utilizes",
+      "modern industries"
+    ],
+    [
+      "industrial applications",
+      "affects",
+      "impact on society"
+    ],
+    [
+      "industrial applications",
+      "drives",
+      "technological advancement"
+    ],
+    [
+      "industrial applications",
+      "drives",
+      "technology"
+    ],
+    [
+      "industrial applications",
+      "enables",
+      "ceramics"
+    ],
+    [
+      "industrial applications",
+      "enables",
+      "crafts"
+    ],
+    [
+      "industrial applications",
+      "enables",
+      "tools"
+    ],
+    [
+      "industrial applications",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "industrial applications",
+      "involves",
+      "fire rituals"
+    ],
+    [
+      "industrial applications",
+      "is a key factor in",
+      "indispensable resource"
+    ],
+    [
+      "industrial applications",
+      "is linked to",
+      "historical significance"
+    ],
+    [
+      "industrial applications",
+      "promotes",
+      "cooperation"
+    ],
+    [
+      "industrial applications",
+      "requires",
+      "responsible use"
+    ],
+    [
+      "industrial applications",
+      "shapes",
+      "human history"
+    ],
+    [
+      "industrial applications",
+      "supports",
+      "heritage preservation"
+    ],
+    [
+      "industrial applications",
+      "supports",
+      "sustainable future"
+    ],
+    [
+      "industrial applications",
+      "utilizes",
+      "resource management"
+    ],
+    [
+      "innovation",
+      "advances",
+      "technology"
+    ],
+    [
+      "innovation",
+      "demonstrates",
+      "historical significance"
+    ],
+    [
+      "innovation",
+      "drives",
+      "human evolution"
+    ],
+    [
+      "innovation",
+      "drives",
+      "impact on society"
+    ],
+    [
+      "innovation",
+      "enabled by",
+      "fire usage"
+    ],
+    [
+      "innovation",
+      "enables",
+      "crafts"
+    ],
+    [
+      "innovation",
+      "enhances",
+      "community practices"
+    ],
+    [
+      "innovation",
+      "enhances",
+      "cultural significance"
+    ],
+    [
+      "innovation",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "innovation",
+      "inspired by",
+      "fire rituals"
+    ],
+    [
+      "innovation",
+      "is a result of",
+      "technological advancement"
+    ],
+    [
+      "innovation challenges",
+      "challenges",
+      "cooking"
+    ],
+    [
+      "innovation challenges",
+      "presents",
+      "fire"
+    ],
+    [
+      "innovation challenges",
+      "requires",
+      "fire management"
+    ],
+    [
+      "innovation challenges",
+      "shaped by",
+      "human history"
+    ],
+    [
+      "interaction",
+      "drives",
+      "economic growth"
+    ],
+    [
+      "interaction",
+      "drives",
+      "technological advancement"
+    ],
+    [
+      "interaction",
+      "enables",
+      "tools"
+    ],
+    [
+      "interaction",
+      "enhances",
+      "cultural significance"
+    ],
+    [
+      "interaction",
+      "enhances",
+      "interpersonal relationships"
+    ],
+    [
+      "interaction",
+      "facilitates",
+      "fire usage"
+    ],
+    [
+      "interaction",
+      "influences",
+      "culinary arts"
+    ],
+    [
+      "interaction",
+      "influences",
+      "food culture"
+    ],
+    [
+      "interaction",
+      "influences",
+      "modern industries"
+    ],
+    [
+      "interaction",
+      "influences",
+      "social structures"
+    ],
+    [
+      "interaction",
+      "interacted with",
+      "ancient civilizations"
+    ],
+    [
+      "interaction",
+      "involves",
+      "fire rituals"
+    ],
+    [
+      "interaction",
+      "produces",
+      "ceramics"
+    ],
+    [
+      "interaction",
+      "provides",
+      "light"
+    ],
+    [
+      "interaction",
+      "shapes",
+      "civilization"
+    ],
+    [
+      "interpersonal relationships",
+      "affects",
+      "health"
+    ],
+    [
+      "interpersonal relationships",
+      "enhances",
+      "fire rituals"
+    ],
+    [
+      "interpersonal relationships",
+      "enhances",
+      "pottery"
+    ],
+    [
+      "interpersonal relationships",
+      "facilitates",
+      "human development"
+    ],
+    [
+      "interpersonal relationships",
+      "fosters",
+      "cooperation"
+    ],
+    [
+      "interpersonal relationships",
+      "influences",
+      "spiritual practices"
+    ],
+    [
+      "interpersonal relationships",
+      "reflects",
+      "symbolism"
+    ],
+    [
+      "interpersonal relationships",
+      "shapes",
+      "community practices"
+    ],
+    [
+      "light",
+      "associated with",
+      "fire deities"
+    ],
+    [
+      "light",
+      "enables",
+      "fire usage"
+    ],
+    [
+      "light",
+      "fosters",
+      "community bonding"
+    ],
+    [
+      "light",
+      "fosters",
+      "cooperation"
+    ],
+    [
+      "light",
+      "fosters",
+      "innovation"
+    ],
+    [
+      "light",
+      "illuminated by",
+      "civilization"
+    ],
+    [
+      "light",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "light",
+      "influences",
+      "community practices"
+    ],
+    [
+      "light",
+      "is a factor in",
+      "environmental challenges"
+    ],
+    [
+      "light",
+      "provides",
+      "sustainable practices"
+    ],
+    [
+      "light",
+      "serves as",
+      "indispensable resource"
+    ],
+    [
+      "light",
+      "supports",
+      "heritage preservation"
+    ],
+    [
+      "modern industries",
+      "affects",
+      "impact on society"
+    ],
+    [
+      "modern industries",
+      "contributes to",
+      "sustainable future"
+    ],
+    [
+      "modern industries",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "modern industries",
+      "influences",
+      "fire deities"
+    ],
+    [
+      "modern industries",
+      "influences",
+      "health"
+    ],
+    [
+      "modern industries",
+      "influences",
+      "tradition"
+    ],
+    [
+      "modern industries",
+      "is challenged by",
+      "environmental challenges"
+    ],
+    [
+      "modern industries",
+      "offers",
+      "guidance"
+    ],
+    [
+      "modern industries",
+      "produces",
+      "tools"
+    ],
+    [
+      "modern industries",
+      "produces",
+      "weapons"
+    ],
+    [
+      "modern industries",
+      "shapes",
+      "evolution"
+    ],
+    [
+      "modern industries",
+      "shapes",
+      "social structures"
+    ],
+    [
+      "modern industries",
+      "supports",
+      "resource conservation"
+    ],
+    [
+      "modern industries",
+      "supports",
+      "sustainable practices"
+    ],
+    [
+      "modern industries",
+      "utilized in",
+      "culinary arts"
+    ],
+    [
+      "mystical powers",
+      "attributed to",
+      "alternative energy"
+    ],
+    [
+      "mystical powers",
+      "is associated with",
+      "environmental challenges"
+    ],
+    [
+      "nutrition",
+      "affects",
+      "impact on society"
+    ],
+    [
+      "nutrition",
+      "boosts",
+      "productivity"
+    ],
+    [
+      "nutrition",
+      "drives",
+      "human evolution"
+    ],
+    [
+      "nutrition",
+      "drives",
+      "innovation"
+    ],
+    [
+      "nutrition",
+      "enables",
+      "cooking methods"
+    ],
+    [
+      "nutrition",
+      "enhanced by",
+      "cooking"
+    ],
+    [
+      "nutrition",
+      "enhanced by",
+      "human development"
+    ],
+    [
+      "nutrition",
+      "enhances",
+      "cooperation"
+    ],
+    [
+      "nutrition",
+      "enhances",
+      "cultural significance"
+    ],
+    [
+      "nutrition",
+      "enhances",
+      "technological advancement"
+    ],
+    [
+      "nutrition",
+      "enhances",
+      "tools"
+    ],
+    [
+      "nutrition",
+      "faces",
+      "innovation challenges"
+    ],
+    [
+      "nutrition",
+      "fosters",
+      "community"
+    ],
+    [
+      "nutrition",
+      "fosters",
+      "community bonding"
+    ],
+    [
+      "nutrition",
+      "influenced by",
+      "tradition"
+    ],
+    [
+      "nutrition",
+      "influenced by",
+      "worship"
+    ],
+    [
+      "nutrition",
+      "influences",
+      "crafts"
+    ],
+    [
+      "nutrition",
+      "influences",
+      "cultural expressions"
+    ],
+    [
+      "nutrition",
+      "is enhanced by",
+      "fire usage"
+    ],
+    [
+      "nutrition",
+      "shapes",
+      "collective identity"
+    ],
+    [
+      "nutrition",
+      "shapes",
+      "tools"
+    ],
+    [
+      "nutrition",
+      "supports",
+      "civilization"
+    ],
+    [
+      "pottery",
+      "affects",
+      "impact on society"
+    ],
+    [
+      "pottery",
+      "associated with",
+      "rituals"
+    ],
+    [
+      "pottery",
+      "contributes to",
+      "evolution"
+    ],
+    [
+      "pottery",
+      "contributes to",
+      "heritage preservation"
+    ],
+    [
+      "pottery",
+      "contributes to",
+      "human development"
+    ],
+    [
+      "pottery",
+      "contributes to",
+      "human evolution"
+    ],
+    [
+      "pottery",
+      "contributes to",
+      "identity formation"
+    ],
+    [
+      "pottery",
+      "creates",
+      "emotional connection"
+    ],
+    [
+      "pottery",
+      "drives",
+      "innovation"
+    ],
+    [
+      "pottery",
+      "enhances",
+      "environmental sustainability"
+    ],
+    [
+      "pottery",
+      "enhances",
+      "food culture"
+    ],
+    [
+      "pottery",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "pottery",
+      "exemplifies",
+      "transformative properties"
+    ],
+    [
+      "pottery",
+      "facilitated communication",
+      "communication"
+    ],
+    [
+      "pottery",
+      "facilitates",
+      "interaction"
+    ],
+    [
+      "pottery",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "pottery",
+      "improves",
+      "health"
+    ],
+    [
+      "pottery",
+      "influences",
+      "culinary arts"
+    ],
+    [
+      "pottery",
+      "involves",
+      "spiritual practices"
+    ],
+    [
+      "pottery",
+      "is a type of",
+      "ceramics"
+    ],
+    [
+      "pottery",
+      "is associated with",
+      "ceremonial use"
+    ],
+    [
+      "pottery",
+      "is created by",
+      "community"
+    ],
+    [
+      "pottery",
+      "is created by",
+      "nutrition"
+    ],
+    [
+      "pottery",
+      "is essential for",
+      "fire's role"
+    ],
+    [
+      "pottery",
+      "is utilized for",
+      "cooking"
+    ],
+    [
+      "pottery",
+      "produces",
+      "crafts"
+    ],
+    [
+      "pottery",
+      "produces",
+      "weapons"
+    ],
+    [
+      "pottery",
+      "reflects",
+      "belief systems"
+    ],
+    [
+      "pottery",
+      "reflects",
+      "cultural significance"
+    ],
+    [
+      "pottery",
+      "represents",
+      "historical significance"
+    ],
+    [
+      "pottery",
+      "represents",
+      "symbolism"
+    ],
+    [
+      "pottery",
+      "represents",
+      "tradition"
+    ],
+    [
+      "pottery",
+      "supports",
+      "community development"
+    ],
+    [
+      "pottery",
+      "supports",
+      "modern industries"
+    ],
+    [
+      "pottery",
+      "symbolizes",
+      "spirituality"
+    ],
+    [
+      "pottery",
+      "utilized for",
+      "fire usage"
+    ],
+    [
+      "productivity",
+      "enhanced by",
+      "sustainable future"
+    ],
+    [
+      "productivity",
+      "enhances",
+      "community bonding"
+    ],
+    [
+      "productivity",
+      "enhances",
+      "safety"
+    ],
+    [
+      "productivity",
+      "impacted by",
+      "deforestation"
+    ],
+    [
+      "renewal",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "renewal",
+      "fosters",
+      "community bonding"
+    ],
+    [
+      "renewal",
+      "fosters",
+      "community development"
+    ],
+    [
+      "renewal",
+      "influences",
+      "heritage"
+    ],
+    [
+      "renewal",
+      "involves",
+      "ceremonial use"
+    ],
+    [
+      "renewal",
+      "is represented by",
+      "indispensable resource"
+    ],
+    [
+      "renewal",
+      "leads to",
+      "crafts"
+    ],
+    [
+      "renewal",
+      "promotes",
+      "social structures"
+    ],
+    [
+      "renewal",
+      "represents",
+      "environmental sustainability"
+    ],
+    [
+      "renewal",
+      "represents",
+      "indispensable resource"
+    ],
+    [
+      "renewal",
+      "symbolizes",
+      "collective identity"
+    ],
+    [
+      "resource conservation",
+      "enables",
+      "tools"
+    ],
+    [
+      "resource conservation",
+      "enhanced by",
+      "community practices"
+    ],
+    [
+      "resource conservation",
+      "enhanced by",
+      "culinary arts"
+    ],
+    [
+      "resource conservation",
+      "enhances",
+      "community bonding"
+    ],
+    [
+      "resource conservation",
+      "enhances",
+      "fire safety"
+    ],
+    [
+      "resource conservation",
+      "enhances",
+      "safety"
+    ],
+    [
+      "resource conservation",
+      "holds",
+      "historical significance"
+    ],
+    [
+      "resource conservation",
+      "impacts",
+      "deforestation"
+    ],
+    [
+      "resource conservation",
+      "is associated with",
+      "mystical powers"
+    ],
+    [
+      "resource conservation",
+      "is impacted by",
+      "fire usage"
+    ],
+    [
+      "resource conservation",
+      "preserved by",
+      "heritage"
+    ],
+    [
+      "resource conservation",
+      "promotes",
+      "innovation"
+    ],
+    [
+      "resource conservation",
+      "supports",
+      "ceremonies"
+    ],
+    [
+      "resource conservation",
+      "supports",
+      "social structures"
+    ],
+    [
+      "resource management",
+      "affects",
+      "climate impact"
+    ],
+    [
+      "resource management",
+      "drives",
+      "innovation"
+    ],
+    [
+      "resource management",
+      "enhances",
+      "resource conservation"
+    ],
+    [
+      "resource management",
+      "ensures",
+      "sustainable future"
+    ],
+    [
+      "resource management",
+      "fosters",
+      "cooperation"
+    ],
+    [
+      "resource management",
+      "managed by",
+      "pottery"
+    ],
+    [
+      "resource management",
+      "produces",
+      "ceramics"
+    ],
+    [
+      "resource management",
+      "supports",
+      "crafts"
+    ],
+    [
+      "resource management",
+      "supports",
+      "heritage preservation"
+    ],
+    [
+      "resource management",
+      "worshipped by",
+      "fire deities"
+    ],
+    [
+      "responsible use",
+      "demands",
+      "air pollution"
+    ],
+    [
+      "responsible use",
+      "impacted by",
+      "innovation challenges"
+    ],
+    [
+      "rituals",
+      "advances",
+      "technological advancement"
+    ],
+    [
+      "rituals",
+      "contributes to",
+      "productivity"
+    ],
+    [
+      "rituals",
+      "documents",
+      "human history"
+    ],
+    [
+      "rituals",
+      "drives",
+      "innovation"
+    ],
+    [
+      "rituals",
+      "encourages",
+      "resource conservation"
+    ],
+    [
+      "rituals",
+      "ensures",
+      "sustainable future"
+    ],
+    [
+      "rituals",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "rituals",
+      "fosters",
+      "community development"
+    ],
+    [
+      "rituals",
+      "fosters",
+      "community practices"
+    ],
+    [
+      "rituals",
+      "fosters",
+      "cooperation"
+    ],
+    [
+      "rituals",
+      "includes",
+      "spiritual practices"
+    ],
+    [
+      "rituals",
+      "influenced by",
+      "human evolution"
+    ],
+    [
+      "rituals",
+      "influences",
+      "cultural expressions"
+    ],
+    [
+      "rituals",
+      "influences the formation of",
+      "ancient civilizations"
+    ],
+    [
+      "rituals",
+      "involves",
+      "crafts"
+    ],
+    [
+      "rituals",
+      "is associated with",
+      "light"
+    ],
+    [
+      "rituals",
+      "is essential for",
+      "cooking"
+    ],
+    [
+      "rituals",
+      "practiced by",
+      "ancient civilizations"
+    ],
+    [
+      "rituals",
+      "provides",
+      "guidance"
+    ],
+    [
+      "rituals",
+      "reinforces",
+      "tradition"
+    ],
+    [
+      "rituals",
+      "shapes",
+      "collective identity"
+    ],
+    [
+      "rituals",
+      "shapes",
+      "identity formation"
+    ],
+    [
+      "rituals",
+      "supports",
+      "civilization"
+    ],
+    [
+      "rituals",
+      "supports",
+      "human development"
+    ],
+    [
+      "safety",
+      "enhances",
+      "technology"
+    ],
+    [
+      "safety",
+      "ensures",
+      "diversity"
+    ],
+    [
+      "safety",
+      "ensures",
+      "skills"
+    ],
+    [
+      "safety",
+      "ensures",
+      "tradition"
+    ],
+    [
+      "safety",
+      "fosters",
+      "community bonding"
+    ],
+    [
+      "safety",
+      "threatened by",
+      "environmental sustainability"
+    ],
+    [
+      "skills",
+      "advances",
+      "evolution"
+    ],
+    [
+      "skills",
+      "advances",
+      "technological advancement"
+    ],
+    [
+      "skills",
+      "applied in",
+      "industrial applications"
+    ],
+    [
+      "skills",
+      "contributes to",
+      "civilization"
+    ],
+    [
+      "skills",
+      "contributes to",
+      "human development"
+    ],
+    [
+      "skills",
+      "demonstrates",
+      "fire's role"
+    ],
+    [
+      "skills",
+      "drives",
+      "economic growth"
+    ],
+    [
+      "skills",
+      "embodies",
+      "mystical powers"
+    ],
+    [
+      "skills",
+      "enhances",
+      "community"
+    ],
+    [
+      "skills",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "skills",
+      "enhances",
+      "fire usage"
+    ],
+    [
+      "skills",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "skills",
+      "fosters",
+      "cooperation"
+    ],
+    [
+      "skills",
+      "improves",
+      "nutrition"
+    ],
+    [
+      "skills",
+      "includes",
+      "crafts"
+    ],
+    [
+      "skills",
+      "influences",
+      "fire rituals"
+    ],
+    [
+      "skills",
+      "is countered by",
+      "civilization"
+    ],
+    [
+      "skills",
+      "is developed by",
+      "ancient civilizations"
+    ],
+    [
+      "skills",
+      "leads to",
+      "pottery"
+    ],
+    [
+      "skills",
+      "promotes",
+      "cooperation"
+    ],
+    [
+      "skills",
+      "promotes",
+      "diversity"
+    ],
+    [
+      "skills",
+      "shapes",
+      "human history"
+    ],
+    [
+      "skills",
+      "utilized in",
+      "modern industries"
+    ],
+    [
+      "social structures",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "social structures",
+      "influences",
+      "ceramics"
+    ],
+    [
+      "social structures",
+      "informs",
+      "crafts"
+    ],
+    [
+      "social structures",
+      "is structured by",
+      "tools"
+    ],
+    [
+      "social structures",
+      "shaped by",
+      "interaction"
+    ],
+    [
+      "social structures",
+      "strengthens",
+      "community bonding"
+    ],
+    [
+      "spiritual practices",
+      "advanced by",
+      "technology"
+    ],
+    [
+      "spiritual practices",
+      "affects",
+      "impact on society"
+    ],
+    [
+      "spiritual practices",
+      "creates",
+      "emotional connection"
+    ],
+    [
+      "spiritual practices",
+      "enhances",
+      "cooperation"
+    ],
+    [
+      "spiritual practices",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "spiritual practices",
+      "influences",
+      "human evolution"
+    ],
+    [
+      "spiritual practices",
+      "influences",
+      "identity formation"
+    ],
+    [
+      "spiritual practices",
+      "influences",
+      "mystical powers"
+    ],
+    [
+      "spiritual practices",
+      "involves",
+      "fire management"
+    ],
+    [
+      "spiritual practices",
+      "involves",
+      "worship"
+    ],
+    [
+      "spiritual practices",
+      "seeks",
+      "guidance"
+    ],
+    [
+      "spiritual practices",
+      "shapes",
+      "human history"
+    ],
+    [
+      "spiritual practices",
+      "shapes",
+      "social structures"
+    ],
+    [
+      "spiritual practices",
+      "strengthens",
+      "community bonding"
+    ],
+    [
+      "spiritual practices",
+      "supports",
+      "community development"
+    ],
+    [
+      "spiritual practices",
+      "utilizes",
+      "fire usage"
+    ],
+    [
+      "spirituality",
+      "associated with",
+      "fire usage"
+    ],
+    [
+      "spirituality",
+      "contrasts with",
+      "destruction"
+    ],
+    [
+      "spirituality",
+      "contributes to",
+      "economic growth"
+    ],
+    [
+      "spirituality",
+      "contributes to",
+      "identity formation"
+    ],
+    [
+      "spirituality",
+      "documents",
+      "ancient civilizations"
+    ],
+    [
+      "spirituality",
+      "drives",
+      "innovation"
+    ],
+    [
+      "spirituality",
+      "drives",
+      "technology"
+    ],
+    [
+      "spirituality",
+      "embodies",
+      "cultural significance"
+    ],
+    [
+      "spirituality",
+      "expressed through",
+      "cultural expressions"
+    ],
+    [
+      "spirituality",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "spirituality",
+      "fosters",
+      "cooperation"
+    ],
+    [
+      "spirituality",
+      "illuminates",
+      "light"
+    ],
+    [
+      "spirituality",
+      "influences",
+      "food culture"
+    ],
+    [
+      "spirituality",
+      "influences",
+      "interpersonal relationships"
+    ],
+    [
+      "spirituality",
+      "influences",
+      "tradition"
+    ],
+    [
+      "spirituality",
+      "influences",
+      "worship"
+    ],
+    [
+      "spirituality",
+      "involves",
+      "crafts"
+    ],
+    [
+      "spirituality",
+      "involves",
+      "fire rituals"
+    ],
+    [
+      "spirituality",
+      "is associated with",
+      "renewal"
+    ],
+    [
+      "spirituality",
+      "promotes",
+      "resource conservation"
+    ],
+    [
+      "spirituality",
+      "shapes",
+      "human history"
+    ],
+    [
+      "spirituality",
+      "supports",
+      "sustainable future"
+    ],
+    [
+      "sustainable future",
+      "contributes to",
+      "pottery"
+    ],
+    [
+      "sustainable future",
+      "enables",
+      "identity formation"
+    ],
+    [
+      "sustainable future",
+      "requires",
+      "fire's role"
+    ],
+    [
+      "sustainable future",
+      "results from",
+      "air pollution"
+    ],
+    [
+      "sustainable future",
+      "supports",
+      "ceremonies"
+    ],
+    [
+      "sustainable future",
+      "supports",
+      "social structures"
+    ],
+    [
+      "sustainable practices",
+      "addresses",
+      "environmental challenges"
+    ],
+    [
+      "sustainable practices",
+      "affects",
+      "fire's role"
+    ],
+    [
+      "sustainable practices",
+      "encourages",
+      "cooperation"
+    ],
+    [
+      "sustainable practices",
+      "encourages",
+      "responsible use"
+    ],
+    [
+      "sustainable practices",
+      "enhances",
+      "resource management"
+    ],
+    [
+      "sustainable practices",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "sustainable practices",
+      "increases",
+      "productivity"
+    ],
+    [
+      "sustainable practices",
+      "influences",
+      "identity formation"
+    ],
+    [
+      "sustainable practices",
+      "involves",
+      "ceremonial use"
+    ],
+    [
+      "sustainable practices",
+      "involves",
+      "spiritual practices"
+    ],
+    [
+      "sustainable practices",
+      "is a key to",
+      "indispensable resource"
+    ],
+    [
+      "sustainable practices",
+      "is essential for",
+      "energy sources"
+    ],
+    [
+      "sustainable practices",
+      "is influenced by",
+      "belief systems"
+    ],
+    [
+      "sustainable practices",
+      "is observed in",
+      "ancient civilizations"
+    ],
+    [
+      "sustainable practices",
+      "is practiced by",
+      "worship"
+    ],
+    [
+      "sustainable practices",
+      "preserves",
+      "heritage preservation"
+    ],
+    [
+      "sustainable practices",
+      "produced by",
+      "heat generation"
+    ],
+    [
+      "sustainable practices",
+      "promotes",
+      "fire safety"
+    ],
+    [
+      "sustainable practices",
+      "promotes",
+      "innovation"
+    ],
+    [
+      "sustainable practices",
+      "promotes",
+      "pottery"
+    ],
+    [
+      "sustainable practices",
+      "provides",
+      "warmth"
+    ],
+    [
+      "sustainable practices",
+      "provides",
+      "worship"
+    ],
+    [
+      "sustainable practices",
+      "requires",
+      "rituals"
+    ],
+    [
+      "sustainable practices",
+      "requires",
+      "transformative properties"
+    ],
+    [
+      "sustainable practices",
+      "supports",
+      "civilization"
+    ],
+    [
+      "sustainable practices",
+      "supports",
+      "community development"
+    ],
+    [
+      "sustainable practices",
+      "supports",
+      "resource conservation"
+    ],
+    [
+      "symbolism",
+      "characterizes",
+      "ancient civilizations"
+    ],
+    [
+      "symbolism",
+      "drives",
+      "innovation"
+    ],
+    [
+      "symbolism",
+      "embodies",
+      "mystical powers"
+    ],
+    [
+      "symbolism",
+      "influences",
+      "food culture"
+    ],
+    [
+      "symbolism",
+      "influences",
+      "human history"
+    ],
+    [
+      "symbolism",
+      "influences",
+      "identity formation"
+    ],
+    [
+      "symbolism",
+      "informs",
+      "crafts"
+    ],
+    [
+      "symbolism",
+      "informs",
+      "fire usage"
+    ],
+    [
+      "symbolism",
+      "is expressed through",
+      "worship"
+    ],
+    [
+      "symbolism",
+      "represents",
+      "destruction"
+    ],
+    [
+      "symbolism",
+      "represents",
+      "heat generation"
+    ],
+    [
+      "symbolism",
+      "represents",
+      "light"
+    ],
+    [
+      "symbolism",
+      "worshipped by",
+      "fire deities"
+    ],
+    [
+      "technological advancement",
+      "addresses",
+      "innovation challenges"
+    ],
+    [
+      "technological advancement",
+      "drives",
+      "human evolution"
+    ],
+    [
+      "technological advancement",
+      "drives",
+      "innovation"
+    ],
+    [
+      "technological advancement",
+      "enables",
+      "ceramics"
+    ],
+    [
+      "technological advancement",
+      "enables",
+      "fire usage"
+    ],
+    [
+      "technological advancement",
+      "enables",
+      "indispensable resource"
+    ],
+    [
+      "technological advancement",
+      "enables",
+      "tools"
+    ],
+    [
+      "technological advancement",
+      "enables",
+      "weapons"
+    ],
+    [
+      "technological advancement",
+      "facilitates",
+      "ceremonial use"
+    ],
+    [
+      "technological advancement",
+      "is enhanced by",
+      "interaction"
+    ],
+    [
+      "technological advancement",
+      "is influenced by",
+      "environmental challenges"
+    ],
+    [
+      "technological advancement",
+      "leads to",
+      "crafts"
+    ],
+    [
+      "technological advancement",
+      "shaped by",
+      "social structures"
+    ],
+    [
+      "technology",
+      "advances",
+      "nutrition"
+    ],
+    [
+      "technology",
+      "drives",
+      "human evolution"
+    ],
+    [
+      "technology",
+      "enables",
+      "weapons"
+    ],
+    [
+      "technology",
+      "influences",
+      "renewal"
+    ],
+    [
+      "technology",
+      "is driven by",
+      "fire"
+    ],
+    [
+      "technology",
+      "is impacted by",
+      "crafts"
+    ],
+    [
+      "technology",
+      "is influenced by",
+      "human development"
+    ],
+    [
+      "technology",
+      "supports",
+      "communication"
+    ],
+    [
+      "tools",
+      "derived from",
+      "ceramics"
+    ],
+    [
+      "tools",
+      "developed by",
+      "ancient civilizations"
+    ],
+    [
+      "tools",
+      "developed into",
+      "weapons"
+    ],
+    [
+      "tools",
+      "enabled by",
+      "technology"
+    ],
+    [
+      "tools",
+      "enables",
+      "civilization"
+    ],
+    [
+      "tools",
+      "enables",
+      "diversity"
+    ],
+    [
+      "tools",
+      "enables",
+      "light"
+    ],
+    [
+      "tools",
+      "fosters",
+      "community bonding"
+    ],
+    [
+      "tools",
+      "increases",
+      "productivity"
+    ],
+    [
+      "tools",
+      "influences",
+      "symbolism"
+    ],
+    [
+      "tools",
+      "is enhanced by",
+      "food culture"
+    ],
+    [
+      "tools",
+      "is influenced by",
+      "nutrition"
+    ],
+    [
+      "tools",
+      "provides",
+      "divine protection"
+    ],
+    [
+      "tools",
+      "provides",
+      "fire deities"
+    ],
+    [
+      "tools",
+      "requires",
+      "deforestation"
+    ],
+    [
+      "tools",
+      "requires",
+      "fire usage"
+    ],
+    [
+      "tools",
+      "shapes",
+      "impact on society"
+    ],
+    [
+      "tradition",
+      "affects",
+      "health"
+    ],
+    [
+      "tradition",
+      "boosts",
+      "productivity"
+    ],
+    [
+      "tradition",
+      "derived from",
+      "modern industries"
+    ],
+    [
+      "tradition",
+      "expresses",
+      "cultural expressions"
+    ],
+    [
+      "tradition",
+      "fosters",
+      "community bonding"
+    ],
+    [
+      "tradition",
+      "fosters",
+      "community development"
+    ],
+    [
+      "tradition",
+      "influences",
+      "spiritual practices"
+    ],
+    [
+      "tradition",
+      "involves",
+      "ceremonial use"
+    ],
+    [
+      "tradition",
+      "involves",
+      "fire rituals"
+    ],
+    [
+      "tradition",
+      "involves",
+      "fire usage"
+    ],
+    [
+      "tradition",
+      "preserves",
+      "heritage preservation"
+    ],
+    [
+      "tradition",
+      "preserves",
+      "skills"
+    ],
+    [
+      "tradition",
+      "promotes",
+      "cooperation"
+    ],
+    [
+      "tradition",
+      "promotes",
+      "resource conservation"
+    ],
+    [
+      "tradition",
+      "provides",
+      "light"
+    ],
+    [
+      "tradition",
+      "provides",
+      "warmth"
+    ],
+    [
+      "tradition",
+      "shapes",
+      "civilization"
+    ],
+    [
+      "tradition",
+      "shapes",
+      "human history"
+    ],
+    [
+      "tradition",
+      "symbolizes",
+      "fire"
+    ],
+    [
+      "tradition",
+      "worshipped by",
+      "fire deities"
+    ],
+    [
+      "transformative properties",
+      "creates",
+      "emotional connection"
+    ],
+    [
+      "transformative properties",
+      "drives",
+      "human evolution"
+    ],
+    [
+      "transformative properties",
+      "embodies",
+      "belief systems"
+    ],
+    [
+      "transformative properties",
+      "embodies",
+      "mystical powers"
+    ],
+    [
+      "transformative properties",
+      "enables",
+      "technological advancement"
+    ],
+    [
+      "transformative properties",
+      "enables",
+      "technology"
+    ],
+    [
+      "transformative properties",
+      "enhances",
+      "cooking"
+    ],
+    [
+      "transformative properties",
+      "enhances",
+      "diversity"
+    ],
+    [
+      "transformative properties",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "transformative properties",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "transformative properties",
+      "influenced",
+      "human development"
+    ],
+    [
+      "transformative properties",
+      "influences",
+      "culinary arts"
+    ],
+    [
+      "transformative properties",
+      "is associated with",
+      "environment"
+    ],
+    [
+      "transformative properties",
+      "is enhanced by",
+      "nutrition"
+    ],
+    [
+      "transformative properties",
+      "is enhanced by",
+      "skills"
+    ],
+    [
+      "transformative properties",
+      "is linked to",
+      "ceremonies"
+    ],
+    [
+      "transformative properties",
+      "is revered in",
+      "worship"
+    ],
+    [
+      "transformative properties",
+      "represents",
+      "cultural expressions"
+    ],
+    [
+      "transformative properties",
+      "represents",
+      "symbolism"
+    ],
+    [
+      "transformative properties",
+      "shaped",
+      "human history"
+    ],
+    [
+      "transformative properties",
+      "shapes",
+      "food culture"
+    ],
+    [
+      "values",
+      "enables",
+      "tools"
+    ],
+    [
+      "values",
+      "fosters",
+      "community bonding"
+    ],
+    [
+      "values",
+      "influences",
+      "ceramics"
+    ],
+    [
+      "values",
+      "influences",
+      "ceremonial use"
+    ],
+    [
+      "values",
+      "influences",
+      "cooking"
+    ],
+    [
+      "values",
+      "influences",
+      "cultural expressions"
+    ],
+    [
+      "values",
+      "informs",
+      "food culture"
+    ],
+    [
+      "values",
+      "is represented by",
+      "fire"
+    ],
+    [
+      "values",
+      "is shaped by",
+      "evolution"
+    ],
+    [
+      "values",
+      "provides",
+      "divine protection"
+    ],
+    [
+      "values",
+      "provides",
+      "warmth"
+    ],
+    [
+      "values",
+      "shapes",
+      "belief systems"
+    ],
+    [
+      "values",
+      "shapes",
+      "collective identity"
+    ],
+    [
+      "values",
+      "shapes",
+      "community practices"
+    ],
+    [
+      "values",
+      "shapes",
+      "social structures"
+    ],
+    [
+      "warmth",
+      "affects",
+      "health"
+    ],
+    [
+      "warmth",
+      "contributes to",
+      "identity formation"
+    ],
+    [
+      "warmth",
+      "enables",
+      "tools"
+    ],
+    [
+      "warmth",
+      "enables",
+      "transformative properties"
+    ],
+    [
+      "warmth",
+      "fosters",
+      "community practices"
+    ],
+    [
+      "warmth",
+      "influences",
+      "cultural significance"
+    ],
+    [
+      "warmth",
+      "influences",
+      "food culture"
+    ],
+    [
+      "warmth",
+      "is enhanced by",
+      "human development"
+    ],
+    [
+      "warmth",
+      "offers",
+      "collective identity"
+    ],
+    [
+      "warmth",
+      "provides",
+      "ceremonies"
+    ],
+    [
+      "warmth",
+      "provides",
+      "emotional connection"
+    ],
+    [
+      "warmth",
+      "provides",
+      "environment"
+    ],
+    [
+      "warmth",
+      "provides",
+      "heat generation"
+    ],
+    [
+      "warmth",
+      "provides",
+      "light"
+    ],
+    [
+      "warmth",
+      "provides",
+      "pottery"
+    ],
+    [
+      "warmth",
+      "provides",
+      "rituals"
+    ],
+    [
+      "warmth",
+      "provides",
+      "skills"
+    ],
+    [
+      "warmth",
+      "strengthens",
+      "community bonding"
+    ],
+    [
+      "warmth",
+      "supports",
+      "community development"
+    ],
+    [
+      "warmth",
+      "supports",
+      "industrial applications"
+    ],
+    [
+      "warmth",
+      "utilized by",
+      "modern industries"
+    ],
+    [
+      "weapons",
+      "defended by",
+      "divine protection"
+    ],
+    [
+      "weapons",
+      "is created by",
+      "ancient civilizations"
+    ],
+    [
+      "weapons",
+      "is linked to",
+      "sustainable future"
+    ],
+    [
+      "weapons",
+      "provides",
+      "community development"
+    ],
+    [
+      "weapons",
+      "utilized in",
+      "resource conservation"
+    ],
+    [
+      "worship",
+      "enabled by",
+      "technology"
+    ],
+    [
+      "worship",
+      "influences",
+      "human evolution"
+    ],
+    [
+      "worship",
+      "influences",
+      "innovation"
+    ],
+    [
+      "worship",
+      "is honored by",
+      "health"
+    ],
+    [
+      "worship",
+      "is honored by",
+      "pottery"
+    ],
+    [
+      "worship",
+      "is honored in",
+      "renewal"
+    ],
+    [
+      "worship",
+      "is part of",
+      "cooking"
+    ],
+    [
+      "worship",
+      "is practiced in",
+      "fire rituals"
+    ],
+    [
+      "worship",
+      "is received by",
+      "sustainable practices"
+    ],
+    [
+      "worship",
+      "is revered by",
+      "indispensable resource"
+    ],
+    [
+      "worship",
+      "is worshipped by",
+      "evolution"
+    ],
+    [
+      "worship",
+      "is worshipped by",
+      "human development"
+    ],
+    [
+      "worship",
+      "is worshipped by",
+      "human history"
+    ],
+    [
+      "worship",
+      "is worshipped by",
+      "warmth"
+    ],
+    [
+      "worship",
+      "object of",
+      "fire"
+    ],
+    [
+      "worship",
+      "provides",
+      "guidance"
+    ],
+    [
+      "worship",
+      "represents",
+      "historical significance"
+    ],
+    [
+      "worship",
+      "represents",
+      "mystical powers"
+    ],
+    [
+      "worship",
+      "sacred to",
+      "civilization"
+    ],
+    [
+      "worship",
+      "worshipped by",
+      "heritage preservation"
+    ]
+  ],
+  "edges": [
+    "addresses",
+    "advanced by",
+    "advances",
+    "affected by",
+    "affects",
+    "aids in",
+    "applied in",
+    "applies to",
+    "associated with",
+    "attributed to",
+    "benefited by",
+    "benefits from",
+    "boosts",
+    "caused",
+    "caused by",
+    "causes",
+    "challenges",
+    "characterizes",
+    "communicated by",
+    "connected to",
+    "connects",
+    "contrasts with",
+    "contributed to",
+    "contributes to",
+    "created from",
+    "creates",
+    "defended by",
+    "defines",
+    "demands",
+    "demonstrates",
+    "depends on",
+    "derived from",
+    "developed by",
+    "developed into",
+    "documents",
+    "driven by",
+    "drives",
+    "embodies",
+    "enabled by",
+    "enables",
+    "enables the creation of",
+    "encourages",
+    "enhanced by",
+    "enhances",
+    "ensures",
+    "exacerbates",
+    "exemplifies",
+    "expressed through",
+    "expresses",
+    "faces",
+    "facilitated by",
+    "facilitated communication",
+    "facilitates",
+    "fostered",
+    "fostered by",
+    "fosters",
+    "foundation of",
+    "fuels",
+    "generates",
+    "guides",
+    "highlights",
+    "holds",
+    "illuminated by",
+    "illuminates",
+    "impacted by",
+    "impacts",
+    "improved by",
+    "improves",
+    "includes",
+    "increases",
+    "influenced",
+    "influenced by",
+    "influenced the formation of",
+    "influences",
+    "influences the formation of",
+    "informs",
+    "inspired",
+    "inspired by",
+    "integral to",
+    "integrates",
+    "interacted with",
+    "intersects with",
+    "involves",
+    "is a consequence of",
+    "is a factor in",
+    "is a form of",
+    "is a key factor in",
+    "is a key to",
+    "is a product of",
+    "is a response to",
+    "is a result of",
+    "is a type of",
+    "is a vital component of",
+    "is affected by",
+    "is associated with",
+    "is caused by",
+    "is challenged by",
+    "is countered by",
+    "is created by",
+    "is created through",
+    "is defined by",
+    "is developed by",
+    "is developed through",
+    "is driven by",
+    "is enhanced by",
+    "is enriched by",
+    "is essential for",
+    "is expressed by",
+    "is expressed through",
+    "is guided by",
+    "is honored by",
+    "is honored in",
+    "is illuminated by",
+    "is impacted by",
+    "is influenced by",
+    "is integral to",
+    "is linked to",
+    "is managed by",
+    "is marked by",
+    "is observed in",
+    "is part of",
+    "is practiced by",
+    "is practiced in",
+    "is preserved by",
+    "is received by",
+    "is recognized by",
+    "is represented by",
+    "is represented in",
+    "is revered by",
+    "is revered in",
+    "is rooted in",
+    "is shaped by",
+    "is significant for",
+    "is sought for",
+    "is sought through",
+    "is structured by",
+    "is supported by",
+    "is symbolized by",
+    "is threatened by",
+    "is used for",
+    "is used in",
+    "is utilized for",
+    "is utilized in",
+    "is vital for",
+    "is worshipped by",
+    "leads to",
+    "led to the creation of",
+    "managed by",
+    "managed through",
+    "nurtures",
+    "object of",
+    "offers",
+    "powers",
+    "practiced by",
+    "presents",
+    "preserved by",
+    "preserves",
+    "produced",
+    "produced by",
+    "produces",
+    "promotes",
+    "provides",
+    "received by",
+    "reflects",
+    "reinforces",
+    "represents",
+    "requires",
+    "resulted from",
+    "results from",
+    "results in",
+    "sacred to",
+    "seeks",
+    "serves as",
+    "shaped",
+    "shaped by",
+    "shapes",
+    "signifies",
+    "sought by",
+    "sought for",
+    "strengthened by",
+    "strengthens",
+    "supported by",
+    "supports",
+    "symbolizes",
+    "threatened by",
+    "threatens",
+    "transmits",
+    "used for",
+    "utilized by",
+    "utilized for",
+    "utilized in",
+    "utilizes",
+    "worshipped by"
+  ]
+}

@@ -1,0 +1,2063 @@
+{
+  "entities": [
+    "adaptive responses",
+    "adaptive strategies",
+    "beneficial microbes",
+    "chemical exchange",
+    "chemical release",
+    "chemical signals",
+    "communication mechanisms",
+    "cooperation",
+    "defensive chemicals",
+    "defensive mechanisms",
+    "ecological balance",
+    "ecosystem balance",
+    "ecosystem interactions",
+    "ecosystem sustainability",
+    "environmental adaptation",
+    "environmental stimuli",
+    "growth adjustment",
+    "health enhancement",
+    "herbivore defense",
+    "herbivore deterrence",
+    "insect interactions",
+    "mutual support",
+    "mutualistic relationships",
+    "mycorrhizal fungi",
+    "nectar production",
+    "network communication",
+    "network dynamics",
+    "nitrogen-fixing bacteria",
+    "nutrient exchange",
+    "nutrient uptake",
+    "pathogen protection",
+    "physical cues",
+    "plant behavior",
+    "plant communication",
+    "plant cooperation",
+    "plant detection",
+    "plant interactions",
+    "plant reproduction",
+    "plant resilience",
+    "plant responses",
+    "plant signaling",
+    "pollinator attraction",
+    "resource optimization",
+    "resource sharing",
+    "rhizosphere communication",
+    "root exudates",
+    "sensory perception",
+    "soil interactions",
+    "survival optimization",
+    "survival strategies",
+    "symbiotic relationship",
+    "touch response",
+    "underground networks",
+    "vibration sensing",
+    "volatile organic compounds",
+    "water transfer"
+  ],
+  "relations": [
+    [
+      "adaptive responses",
+      "involves",
+      "plant communication"
+    ],
+    [
+      "adaptive responses",
+      "is influenced by",
+      "volatile organic compounds"
+    ],
+    [
+      "adaptive responses",
+      "maintains",
+      "ecosystem balance"
+    ],
+    [
+      "adaptive responses",
+      "supports",
+      "ecosystem sustainability"
+    ],
+    [
+      "adaptive responses",
+      "triggers",
+      "chemical release"
+    ],
+    [
+      "adaptive strategies",
+      "enables",
+      "mutual support"
+    ],
+    [
+      "adaptive strategies",
+      "enhances",
+      "mutualistic relationships"
+    ],
+    [
+      "adaptive strategies",
+      "influences",
+      "physical cues"
+    ],
+    [
+      "adaptive strategies",
+      "involves",
+      "insect interactions"
+    ],
+    [
+      "adaptive strategies",
+      "provides",
+      "pathogen protection"
+    ],
+    [
+      "beneficial microbes",
+      "contributes to",
+      "health enhancement"
+    ],
+    [
+      "beneficial microbes",
+      "facilitates",
+      "nutrient exchange"
+    ],
+    [
+      "beneficial microbes",
+      "provides",
+      "mutual support"
+    ],
+    [
+      "beneficial microbes",
+      "supports",
+      "ecosystem sustainability"
+    ],
+    [
+      "beneficial microbes",
+      "supports",
+      "nitrogen-fixing bacteria"
+    ],
+    [
+      "beneficial microbes",
+      "supports",
+      "underground networks"
+    ],
+    [
+      "chemical exchange",
+      "creates",
+      "symbiotic relationship"
+    ],
+    [
+      "chemical exchange",
+      "involves",
+      "chemical release"
+    ],
+    [
+      "chemical exchange",
+      "involves",
+      "nectar production"
+    ],
+    [
+      "chemical exchange",
+      "supports",
+      "survival strategies"
+    ],
+    [
+      "chemical release",
+      "enables",
+      "adaptive strategies"
+    ],
+    [
+      "chemical release",
+      "enhances",
+      "resource optimization"
+    ],
+    [
+      "chemical release",
+      "influences",
+      "insect interactions"
+    ],
+    [
+      "chemical release",
+      "is involved in",
+      "volatile organic compounds"
+    ],
+    [
+      "chemical release",
+      "is triggered by",
+      "touch response"
+    ],
+    [
+      "chemical release",
+      "triggers",
+      "physical cues"
+    ],
+    [
+      "chemical release",
+      "triggers",
+      "sensory perception"
+    ],
+    [
+      "chemical signals",
+      "elicits",
+      "plant responses"
+    ],
+    [
+      "chemical signals",
+      "enables",
+      "plant detection"
+    ],
+    [
+      "chemical signals",
+      "facilitates",
+      "plant interactions"
+    ],
+    [
+      "chemical signals",
+      "influences",
+      "environmental stimuli"
+    ],
+    [
+      "chemical signals",
+      "influences",
+      "insect interactions"
+    ],
+    [
+      "chemical signals",
+      "influences",
+      "plant behavior"
+    ],
+    [
+      "chemical signals",
+      "is influenced by",
+      "defensive chemicals"
+    ],
+    [
+      "chemical signals",
+      "is produced by",
+      "root exudates"
+    ],
+    [
+      "communication mechanisms",
+      "enables",
+      "nutrient exchange"
+    ],
+    [
+      "communication mechanisms",
+      "enables",
+      "plant communication"
+    ],
+    [
+      "communication mechanisms",
+      "enables",
+      "symbiotic relationship"
+    ],
+    [
+      "communication mechanisms",
+      "enhances",
+      "plant cooperation"
+    ],
+    [
+      "communication mechanisms",
+      "facilitates",
+      "chemical exchange"
+    ],
+    [
+      "communication mechanisms",
+      "maintains",
+      "ecosystem balance"
+    ],
+    [
+      "communication mechanisms",
+      "produces",
+      "root exudates"
+    ],
+    [
+      "communication mechanisms",
+      "supports",
+      "plant resilience"
+    ],
+    [
+      "communication mechanisms",
+      "triggers",
+      "plant responses"
+    ],
+    [
+      "communication mechanisms",
+      "utilizes",
+      "volatile organic compounds"
+    ],
+    [
+      "cooperation",
+      "enhances",
+      "nitrogen-fixing bacteria"
+    ],
+    [
+      "cooperation",
+      "enhances",
+      "resource optimization"
+    ],
+    [
+      "cooperation",
+      "facilitates",
+      "mutual support"
+    ],
+    [
+      "cooperation",
+      "facilitates",
+      "rhizosphere communication"
+    ],
+    [
+      "cooperation",
+      "influences",
+      "plant responses"
+    ],
+    [
+      "cooperation",
+      "informs",
+      "adaptive strategies"
+    ],
+    [
+      "cooperation",
+      "involves",
+      "root exudates"
+    ],
+    [
+      "cooperation",
+      "involves",
+      "soil interactions"
+    ],
+    [
+      "cooperation",
+      "involves",
+      "volatile organic compounds"
+    ],
+    [
+      "cooperation",
+      "involves",
+      "water transfer"
+    ],
+    [
+      "cooperation",
+      "is a form of",
+      "symbiotic relationship"
+    ],
+    [
+      "cooperation",
+      "promotes",
+      "ecological balance"
+    ],
+    [
+      "defensive chemicals",
+      "defended by",
+      "nitrogen-fixing bacteria"
+    ],
+    [
+      "defensive chemicals",
+      "involves",
+      "chemical release"
+    ],
+    [
+      "defensive chemicals",
+      "produces",
+      "communication mechanisms"
+    ],
+    [
+      "defensive chemicals",
+      "provides",
+      "pathogen protection"
+    ],
+    [
+      "defensive chemicals",
+      "triggered by",
+      "adaptive responses"
+    ],
+    [
+      "defensive chemicals",
+      "utilizes",
+      "herbivore defense"
+    ],
+    [
+      "defensive mechanisms",
+      "attracts",
+      "pollinator attraction"
+    ],
+    [
+      "ecological balance",
+      "contributes to",
+      "nitrogen-fixing bacteria"
+    ],
+    [
+      "ecological balance",
+      "contributes to",
+      "survival optimization"
+    ],
+    [
+      "ecological balance",
+      "facilitates",
+      "water transfer"
+    ],
+    [
+      "ecological balance",
+      "is influenced by",
+      "touch response"
+    ],
+    [
+      "ecosystem balance",
+      "contributes to",
+      "resource sharing"
+    ],
+    [
+      "ecosystem balance",
+      "fosters",
+      "mutualistic relationships"
+    ],
+    [
+      "ecosystem balance",
+      "supports",
+      "root exudates"
+    ],
+    [
+      "ecosystem interactions",
+      "enhances",
+      "nitrogen-fixing bacteria"
+    ],
+    [
+      "ecosystem interactions",
+      "enhances",
+      "nutrient uptake"
+    ],
+    [
+      "ecosystem interactions",
+      "guides",
+      "survival strategies"
+    ],
+    [
+      "ecosystem interactions",
+      "involves",
+      "rhizosphere communication"
+    ],
+    [
+      "ecosystem sustainability",
+      "affects",
+      "insect interactions"
+    ],
+    [
+      "ecosystem sustainability",
+      "enables",
+      "rhizosphere communication"
+    ],
+    [
+      "ecosystem sustainability",
+      "fosters",
+      "mutualistic relationships"
+    ],
+    [
+      "ecosystem sustainability",
+      "involves",
+      "chemical exchange"
+    ],
+    [
+      "ecosystem sustainability",
+      "promotes",
+      "cooperation"
+    ],
+    [
+      "ecosystem sustainability",
+      "promotes",
+      "resource sharing"
+    ],
+    [
+      "ecosystem sustainability",
+      "supports",
+      "soil interactions"
+    ],
+    [
+      "environmental adaptation",
+      "attracts",
+      "pollinator attraction"
+    ],
+    [
+      "environmental adaptation",
+      "enhances",
+      "plant signaling"
+    ],
+    [
+      "environmental adaptation",
+      "enhances",
+      "underground networks"
+    ],
+    [
+      "environmental adaptation",
+      "facilitates",
+      "chemical exchange"
+    ],
+    [
+      "environmental adaptation",
+      "facilitates",
+      "rhizosphere communication"
+    ],
+    [
+      "environmental adaptation",
+      "influences",
+      "insect interactions"
+    ],
+    [
+      "environmental adaptation",
+      "influences",
+      "plant interactions"
+    ],
+    [
+      "environmental adaptation",
+      "informs",
+      "chemical signals"
+    ],
+    [
+      "environmental adaptation",
+      "involves",
+      "chemical release"
+    ],
+    [
+      "environmental adaptation",
+      "involves",
+      "soil interactions"
+    ],
+    [
+      "environmental adaptation",
+      "involves",
+      "volatile organic compounds"
+    ],
+    [
+      "environmental adaptation",
+      "is supported by",
+      "mutual support"
+    ],
+    [
+      "environmental adaptation",
+      "optimizes",
+      "survival optimization"
+    ],
+    [
+      "environmental adaptation",
+      "promotes",
+      "defensive mechanisms"
+    ],
+    [
+      "environmental adaptation",
+      "promotes",
+      "health enhancement"
+    ],
+    [
+      "environmental adaptation",
+      "requires",
+      "cooperation"
+    ],
+    [
+      "environmental stimuli",
+      "deters",
+      "herbivore deterrence"
+    ],
+    [
+      "environmental stimuli",
+      "fosters",
+      "mutualistic relationships"
+    ],
+    [
+      "environmental stimuli",
+      "informs",
+      "adaptive strategies"
+    ],
+    [
+      "environmental stimuli",
+      "triggers",
+      "growth adjustment"
+    ],
+    [
+      "environmental stimuli",
+      "triggers",
+      "sensory perception"
+    ],
+    [
+      "environmental stimuli",
+      "triggers",
+      "volatile organic compounds"
+    ],
+    [
+      "growth adjustment",
+      "improves",
+      "survival optimization"
+    ],
+    [
+      "growth adjustment",
+      "influences",
+      "volatile organic compounds"
+    ],
+    [
+      "growth adjustment",
+      "involves",
+      "chemical exchange"
+    ],
+    [
+      "growth adjustment",
+      "provides",
+      "pathogen protection"
+    ],
+    [
+      "health enhancement",
+      "enhances",
+      "underground networks"
+    ],
+    [
+      "health enhancement",
+      "enhances",
+      "volatile organic compounds"
+    ],
+    [
+      "health enhancement",
+      "influences",
+      "insect interactions"
+    ],
+    [
+      "health enhancement",
+      "is deterred by",
+      "herbivore deterrence"
+    ],
+    [
+      "herbivore defense",
+      "elicits",
+      "touch response"
+    ],
+    [
+      "herbivore defense",
+      "enables",
+      "resource optimization"
+    ],
+    [
+      "herbivore defense",
+      "enhances",
+      "environmental adaptation"
+    ],
+    [
+      "herbivore defense",
+      "enhances",
+      "symbiotic relationship"
+    ],
+    [
+      "herbivore defense",
+      "facilitates",
+      "nutrient exchange"
+    ],
+    [
+      "herbivore defense",
+      "induces",
+      "adaptive responses"
+    ],
+    [
+      "herbivore defense",
+      "informs",
+      "communication mechanisms"
+    ],
+    [
+      "herbivore defense",
+      "informs",
+      "plant behavior"
+    ],
+    [
+      "herbivore defense",
+      "involves",
+      "ecosystem interactions"
+    ],
+    [
+      "herbivore defense",
+      "is achieved through",
+      "volatile organic compounds"
+    ],
+    [
+      "herbivore defense",
+      "responds to",
+      "environmental stimuli"
+    ],
+    [
+      "herbivore defense",
+      "supports",
+      "mycorrhizal fungi"
+    ],
+    [
+      "herbivore defense",
+      "triggers",
+      "chemical release"
+    ],
+    [
+      "herbivore defense",
+      "triggers",
+      "chemical signals"
+    ],
+    [
+      "herbivore defense",
+      "utilizes",
+      "defensive mechanisms"
+    ],
+    [
+      "herbivore deterrence",
+      "deters",
+      "nectar production"
+    ],
+    [
+      "herbivore deterrence",
+      "enables",
+      "plant detection"
+    ],
+    [
+      "herbivore deterrence",
+      "enhances",
+      "health enhancement"
+    ],
+    [
+      "herbivore deterrence",
+      "enhances",
+      "plant resilience"
+    ],
+    [
+      "herbivore deterrence",
+      "involves",
+      "chemical exchange"
+    ],
+    [
+      "herbivore deterrence",
+      "supports",
+      "survival strategies"
+    ],
+    [
+      "herbivore deterrence",
+      "triggers",
+      "defensive mechanisms"
+    ],
+    [
+      "insect interactions",
+      "affects",
+      "ecological balance"
+    ],
+    [
+      "insect interactions",
+      "affects",
+      "underground networks"
+    ],
+    [
+      "insect interactions",
+      "benefits from",
+      "nectar production"
+    ],
+    [
+      "insect interactions",
+      "enhances",
+      "resource optimization"
+    ],
+    [
+      "insect interactions",
+      "influences",
+      "nutrient uptake"
+    ],
+    [
+      "mutual support",
+      "benefits from",
+      "defensive mechanisms"
+    ],
+    [
+      "mutual support",
+      "benefits from",
+      "ecological balance"
+    ],
+    [
+      "mutual support",
+      "is enhanced by",
+      "nutrient uptake"
+    ],
+    [
+      "mutual support",
+      "provides",
+      "underground networks"
+    ],
+    [
+      "mutual support",
+      "supports",
+      "herbivore deterrence"
+    ],
+    [
+      "mutual support",
+      "supports",
+      "physical cues"
+    ],
+    [
+      "mutual support",
+      "supports",
+      "symbiotic relationship"
+    ],
+    [
+      "mutualistic relationships",
+      "creates",
+      "plant cooperation"
+    ],
+    [
+      "mutualistic relationships",
+      "enhances",
+      "physical cues"
+    ],
+    [
+      "mutualistic relationships",
+      "facilitates",
+      "mutual support"
+    ],
+    [
+      "mutualistic relationships",
+      "facilitates",
+      "water transfer"
+    ],
+    [
+      "mutualistic relationships",
+      "involves",
+      "chemical exchange"
+    ],
+    [
+      "mutualistic relationships",
+      "is a type of",
+      "symbiotic relationship"
+    ],
+    [
+      "mutualistic relationships",
+      "is supported by",
+      "plant signaling"
+    ],
+    [
+      "mutualistic relationships",
+      "offers",
+      "pathogen protection"
+    ],
+    [
+      "mutualistic relationships",
+      "supports",
+      "survival strategies"
+    ],
+    [
+      "mycorrhizal fungi",
+      "attracts",
+      "pollinator attraction"
+    ],
+    [
+      "mycorrhizal fungi",
+      "contributes to",
+      "herbivore deterrence"
+    ],
+    [
+      "mycorrhizal fungi",
+      "contributes to",
+      "survival strategies"
+    ],
+    [
+      "mycorrhizal fungi",
+      "enables",
+      "water transfer"
+    ],
+    [
+      "mycorrhizal fungi",
+      "enhances",
+      "nutrient uptake"
+    ],
+    [
+      "mycorrhizal fungi",
+      "enhances",
+      "plant signaling"
+    ],
+    [
+      "mycorrhizal fungi",
+      "facilitates",
+      "nutrient exchange"
+    ],
+    [
+      "mycorrhizal fungi",
+      "informs",
+      "adaptive strategies"
+    ],
+    [
+      "mycorrhizal fungi",
+      "optimizes",
+      "survival optimization"
+    ],
+    [
+      "mycorrhizal fungi",
+      "promotes",
+      "cooperation"
+    ],
+    [
+      "mycorrhizal fungi",
+      "provides",
+      "mutual support"
+    ],
+    [
+      "mycorrhizal fungi",
+      "provides",
+      "pathogen protection"
+    ],
+    [
+      "mycorrhizal fungi",
+      "supports",
+      "beneficial microbes"
+    ],
+    [
+      "mycorrhizal fungi",
+      "supports",
+      "defensive mechanisms"
+    ],
+    [
+      "mycorrhizal fungi",
+      "supports",
+      "plant reproduction"
+    ],
+    [
+      "nectar production",
+      "attracts",
+      "insect interactions"
+    ],
+    [
+      "nectar production",
+      "attracts",
+      "pollinator attraction"
+    ],
+    [
+      "nectar production",
+      "involves",
+      "plant interactions"
+    ],
+    [
+      "nectar production",
+      "is a form of",
+      "plant communication"
+    ],
+    [
+      "nectar production",
+      "is a type of",
+      "symbiotic relationship"
+    ],
+    [
+      "nectar production",
+      "produces",
+      "root exudates"
+    ],
+    [
+      "nectar production",
+      "produces",
+      "volatile organic compounds"
+    ],
+    [
+      "network communication",
+      "defends against",
+      "herbivore defense"
+    ],
+    [
+      "network communication",
+      "enables",
+      "mutual support"
+    ],
+    [
+      "network communication",
+      "enhances",
+      "ecosystem interactions"
+    ],
+    [
+      "network communication",
+      "facilitates",
+      "environmental adaptation"
+    ],
+    [
+      "network communication",
+      "facilitates",
+      "insect interactions"
+    ],
+    [
+      "network communication",
+      "facilitates",
+      "volatile organic compounds"
+    ],
+    [
+      "network communication",
+      "involves",
+      "defensive chemicals"
+    ],
+    [
+      "network communication",
+      "results in",
+      "nectar production"
+    ],
+    [
+      "network communication",
+      "supports",
+      "herbivore deterrence"
+    ],
+    [
+      "network dynamics",
+      "enhances",
+      "resource optimization"
+    ],
+    [
+      "network dynamics",
+      "facilitates",
+      "nutrient exchange"
+    ],
+    [
+      "network dynamics",
+      "influences",
+      "plant signaling"
+    ],
+    [
+      "network dynamics",
+      "involves",
+      "chemical release"
+    ],
+    [
+      "network dynamics",
+      "promotes",
+      "health enhancement"
+    ],
+    [
+      "network dynamics",
+      "provides",
+      "pathogen protection"
+    ],
+    [
+      "nitrogen-fixing bacteria",
+      "enables",
+      "plant communication"
+    ],
+    [
+      "nitrogen-fixing bacteria",
+      "enhances",
+      "nutrient uptake"
+    ],
+    [
+      "nitrogen-fixing bacteria",
+      "produces",
+      "defensive chemicals"
+    ],
+    [
+      "nitrogen-fixing bacteria",
+      "provides",
+      "mutual support"
+    ],
+    [
+      "nitrogen-fixing bacteria",
+      "supports",
+      "plant cooperation"
+    ],
+    [
+      "nutrient exchange",
+      "enhances",
+      "survival strategies"
+    ],
+    [
+      "nutrient exchange",
+      "facilitates",
+      "nitrogen-fixing bacteria"
+    ],
+    [
+      "nutrient exchange",
+      "maintains",
+      "ecosystem balance"
+    ],
+    [
+      "nutrient exchange",
+      "promotes",
+      "growth adjustment"
+    ],
+    [
+      "nutrient exchange",
+      "provides",
+      "pathogen protection"
+    ],
+    [
+      "nutrient exchange",
+      "receives",
+      "plant interactions"
+    ],
+    [
+      "nutrient exchange",
+      "receives nutrients from",
+      "beneficial microbes"
+    ],
+    [
+      "nutrient uptake",
+      "improves",
+      "beneficial microbes"
+    ],
+    [
+      "pathogen protection",
+      "is protected by",
+      "volatile organic compounds"
+    ],
+    [
+      "pathogen protection",
+      "protected by",
+      "rhizosphere communication"
+    ],
+    [
+      "pathogen protection",
+      "provides",
+      "adaptive responses"
+    ],
+    [
+      "pathogen protection",
+      "provides",
+      "ecosystem balance"
+    ],
+    [
+      "pathogen protection",
+      "provides",
+      "ecosystem interactions"
+    ],
+    [
+      "pathogen protection",
+      "provides",
+      "herbivore defense"
+    ],
+    [
+      "pathogen protection",
+      "provides",
+      "symbiotic relationship"
+    ],
+    [
+      "physical cues",
+      "influences",
+      "plant behavior"
+    ],
+    [
+      "physical cues",
+      "informs",
+      "plant signaling"
+    ],
+    [
+      "physical cues",
+      "is triggered by",
+      "defensive chemicals"
+    ],
+    [
+      "physical cues",
+      "triggers",
+      "volatile organic compounds"
+    ],
+    [
+      "plant behavior",
+      "affects",
+      "resource optimization"
+    ],
+    [
+      "plant behavior",
+      "attracts",
+      "pollinator attraction"
+    ],
+    [
+      "plant behavior",
+      "influences",
+      "plant reproduction"
+    ],
+    [
+      "plant behavior",
+      "influences",
+      "root exudates"
+    ],
+    [
+      "plant behavior",
+      "informs",
+      "adaptive strategies"
+    ],
+    [
+      "plant behavior",
+      "triggers",
+      "herbivore deterrence"
+    ],
+    [
+      "plant communication",
+      "communicates through",
+      "herbivore deterrence"
+    ],
+    [
+      "plant communication",
+      "enables",
+      "rhizosphere communication"
+    ],
+    [
+      "plant communication",
+      "enhances",
+      "nutrient uptake"
+    ],
+    [
+      "plant communication",
+      "enhances",
+      "volatile organic compounds"
+    ],
+    [
+      "plant communication",
+      "establishes",
+      "symbiotic relationship"
+    ],
+    [
+      "plant communication",
+      "facilitates",
+      "mycorrhizal fungi"
+    ],
+    [
+      "plant communication",
+      "facilitates",
+      "survival optimization"
+    ],
+    [
+      "plant communication",
+      "informs",
+      "defensive chemicals"
+    ],
+    [
+      "plant communication",
+      "informs",
+      "plant behavior"
+    ],
+    [
+      "plant communication",
+      "informs",
+      "survival strategies"
+    ],
+    [
+      "plant communication",
+      "involves",
+      "chemical exchange"
+    ],
+    [
+      "plant communication",
+      "involves",
+      "physical cues"
+    ],
+    [
+      "plant communication",
+      "produces",
+      "root exudates"
+    ],
+    [
+      "plant communication",
+      "supports",
+      "ecosystem balance"
+    ],
+    [
+      "plant cooperation",
+      "enhances",
+      "pathogen protection"
+    ],
+    [
+      "plant cooperation",
+      "facilitates",
+      "defensive mechanisms"
+    ],
+    [
+      "plant cooperation",
+      "facilitates",
+      "survival optimization"
+    ],
+    [
+      "plant cooperation",
+      "facilitates",
+      "water transfer"
+    ],
+    [
+      "plant cooperation",
+      "influences",
+      "growth adjustment"
+    ],
+    [
+      "plant cooperation",
+      "influences",
+      "physical cues"
+    ],
+    [
+      "plant cooperation",
+      "involves",
+      "insect interactions"
+    ],
+    [
+      "plant cooperation",
+      "is supported by",
+      "resource sharing"
+    ],
+    [
+      "plant cooperation",
+      "results in",
+      "nectar production"
+    ],
+    [
+      "plant cooperation",
+      "supports",
+      "ecological balance"
+    ],
+    [
+      "plant detection",
+      "detected by",
+      "defensive chemicals"
+    ],
+    [
+      "plant detection",
+      "detected by",
+      "plant signaling"
+    ],
+    [
+      "plant detection",
+      "involves",
+      "insect interactions"
+    ],
+    [
+      "plant detection",
+      "triggers",
+      "physical cues"
+    ],
+    [
+      "plant interactions",
+      "affects",
+      "sensory perception"
+    ],
+    [
+      "plant interactions",
+      "benefits from",
+      "beneficial microbes"
+    ],
+    [
+      "plant interactions",
+      "contributes to",
+      "ecological balance"
+    ],
+    [
+      "plant interactions",
+      "enables",
+      "plant communication"
+    ],
+    [
+      "plant interactions",
+      "enhances",
+      "resource optimization"
+    ],
+    [
+      "plant interactions",
+      "fosters",
+      "mutualistic relationships"
+    ],
+    [
+      "plant interactions",
+      "improves",
+      "health enhancement"
+    ],
+    [
+      "plant interactions",
+      "influences",
+      "environmental stimuli"
+    ],
+    [
+      "plant interactions",
+      "influences",
+      "volatile organic compounds"
+    ],
+    [
+      "plant interactions",
+      "releases",
+      "root exudates"
+    ],
+    [
+      "plant interactions",
+      "supports",
+      "nitrogen-fixing bacteria"
+    ],
+    [
+      "plant interactions",
+      "triggers",
+      "chemical release"
+    ],
+    [
+      "plant interactions",
+      "triggers",
+      "touch response"
+    ],
+    [
+      "plant interactions",
+      "utilizes",
+      "defensive mechanisms"
+    ],
+    [
+      "plant reproduction",
+      "enhances",
+      "insect interactions"
+    ],
+    [
+      "plant reproduction",
+      "ensures",
+      "ecosystem balance"
+    ],
+    [
+      "plant reproduction",
+      "facilitates",
+      "root exudates"
+    ],
+    [
+      "plant reproduction",
+      "influences",
+      "plant interactions"
+    ],
+    [
+      "plant reproduction",
+      "involves",
+      "chemical exchange"
+    ],
+    [
+      "plant reproduction",
+      "involves",
+      "chemical release"
+    ],
+    [
+      "plant reproduction",
+      "promotes",
+      "plant cooperation"
+    ],
+    [
+      "plant reproduction",
+      "requires",
+      "cooperation"
+    ],
+    [
+      "plant reproduction",
+      "supports",
+      "beneficial microbes"
+    ],
+    [
+      "plant reproduction",
+      "supports",
+      "herbivore defense"
+    ],
+    [
+      "plant resilience",
+      "enhances",
+      "ecosystem interactions"
+    ],
+    [
+      "plant resilience",
+      "enhances",
+      "health enhancement"
+    ],
+    [
+      "plant resilience",
+      "enhances",
+      "resource sharing"
+    ],
+    [
+      "plant resilience",
+      "influences",
+      "insect interactions"
+    ],
+    [
+      "plant resilience",
+      "strengthens",
+      "underground networks"
+    ],
+    [
+      "plant resilience",
+      "supports",
+      "plant signaling"
+    ],
+    [
+      "plant responses",
+      "influences",
+      "insect interactions"
+    ],
+    [
+      "plant responses",
+      "informs",
+      "survival strategies"
+    ],
+    [
+      "plant signaling",
+      "adjusts",
+      "growth adjustment"
+    ],
+    [
+      "plant signaling",
+      "enhances",
+      "resource optimization"
+    ],
+    [
+      "plant signaling",
+      "facilitates",
+      "nutrient exchange"
+    ],
+    [
+      "plant signaling",
+      "facilitates",
+      "nutrient uptake"
+    ],
+    [
+      "plant signaling",
+      "informs",
+      "chemical signals"
+    ],
+    [
+      "plant signaling",
+      "interacts with",
+      "beneficial microbes"
+    ],
+    [
+      "plant signaling",
+      "produces",
+      "root exudates"
+    ],
+    [
+      "plant signaling",
+      "promotes",
+      "nectar production"
+    ],
+    [
+      "plant signaling",
+      "provides",
+      "pathogen protection"
+    ],
+    [
+      "plant signaling",
+      "supports",
+      "mutualistic relationships"
+    ],
+    [
+      "plant signaling",
+      "supports",
+      "nitrogen-fixing bacteria"
+    ],
+    [
+      "pollinator attraction",
+      "attracted by",
+      "survival optimization"
+    ],
+    [
+      "pollinator attraction",
+      "attracts",
+      "insect interactions"
+    ],
+    [
+      "pollinator attraction",
+      "attracts",
+      "plant communication"
+    ],
+    [
+      "pollinator attraction",
+      "attracts",
+      "symbiotic relationship"
+    ],
+    [
+      "pollinator attraction",
+      "maintains",
+      "ecological balance"
+    ],
+    [
+      "pollinator attraction",
+      "produces",
+      "defensive chemicals"
+    ],
+    [
+      "pollinator attraction",
+      "results in",
+      "chemical exchange"
+    ],
+    [
+      "resource optimization",
+      "enables",
+      "volatile organic compounds"
+    ],
+    [
+      "resource optimization",
+      "optimizes",
+      "beneficial microbes"
+    ],
+    [
+      "resource optimization",
+      "optimizes",
+      "growth adjustment"
+    ],
+    [
+      "resource optimization",
+      "optimizes",
+      "health enhancement"
+    ],
+    [
+      "resource optimization",
+      "optimizes",
+      "nitrogen-fixing bacteria"
+    ],
+    [
+      "resource optimization",
+      "promotes",
+      "mutual support"
+    ],
+    [
+      "resource optimization",
+      "supports",
+      "network communication"
+    ],
+    [
+      "resource sharing",
+      "benefits from",
+      "nitrogen-fixing bacteria"
+    ],
+    [
+      "resource sharing",
+      "facilitates",
+      "beneficial microbes"
+    ],
+    [
+      "resource sharing",
+      "facilitates",
+      "communication mechanisms"
+    ],
+    [
+      "resource sharing",
+      "fosters",
+      "mutualistic relationships"
+    ],
+    [
+      "resource sharing",
+      "influences",
+      "growth adjustment"
+    ],
+    [
+      "resource sharing",
+      "triggers",
+      "defensive mechanisms"
+    ],
+    [
+      "resource sharing",
+      "utilizes",
+      "root exudates"
+    ],
+    [
+      "rhizosphere communication",
+      "creates",
+      "symbiotic relationship"
+    ],
+    [
+      "rhizosphere communication",
+      "enables",
+      "plant interactions"
+    ],
+    [
+      "rhizosphere communication",
+      "enhances",
+      "nutrient uptake"
+    ],
+    [
+      "rhizosphere communication",
+      "enhances",
+      "pathogen protection"
+    ],
+    [
+      "rhizosphere communication",
+      "facilitates",
+      "insect interactions"
+    ],
+    [
+      "rhizosphere communication",
+      "facilitates",
+      "mutual support"
+    ],
+    [
+      "rhizosphere communication",
+      "facilitates",
+      "pollinator attraction"
+    ],
+    [
+      "rhizosphere communication",
+      "involves",
+      "environmental stimuli"
+    ],
+    [
+      "rhizosphere communication",
+      "maintains",
+      "ecological balance"
+    ],
+    [
+      "rhizosphere communication",
+      "promotes",
+      "ecosystem balance"
+    ],
+    [
+      "rhizosphere communication",
+      "supports",
+      "adaptive strategies"
+    ],
+    [
+      "rhizosphere communication",
+      "triggers",
+      "touch response"
+    ],
+    [
+      "root exudates",
+      "attracts",
+      "vibration sensing"
+    ],
+    [
+      "root exudates",
+      "contributes to",
+      "ecological balance"
+    ],
+    [
+      "root exudates",
+      "contributes to",
+      "underground networks"
+    ],
+    [
+      "root exudates",
+      "involves",
+      "adaptive strategies"
+    ],
+    [
+      "root exudates",
+      "is attracted by",
+      "beneficial microbes"
+    ],
+    [
+      "root exudates",
+      "is produced by",
+      "chemical exchange"
+    ],
+    [
+      "root exudates",
+      "optimizes",
+      "resource optimization"
+    ],
+    [
+      "root exudates",
+      "produces",
+      "mycorrhizal fungi"
+    ],
+    [
+      "root exudates",
+      "produces",
+      "nutrient uptake"
+    ],
+    [
+      "root exudates",
+      "provides",
+      "mutual support"
+    ],
+    [
+      "root exudates",
+      "provides through",
+      "pollinator attraction"
+    ],
+    [
+      "sensory perception",
+      "influences",
+      "resource sharing"
+    ],
+    [
+      "sensory perception",
+      "perceived by",
+      "chemical signals"
+    ],
+    [
+      "sensory perception",
+      "perceived by",
+      "physical cues"
+    ],
+    [
+      "sensory perception",
+      "perceived by",
+      "touch response"
+    ],
+    [
+      "sensory perception",
+      "sensed by",
+      "plant responses"
+    ],
+    [
+      "soil interactions",
+      "contributes to",
+      "ecosystem balance"
+    ],
+    [
+      "soil interactions",
+      "enhances",
+      "adaptive strategies"
+    ],
+    [
+      "soil interactions",
+      "produces",
+      "root exudates"
+    ],
+    [
+      "survival optimization",
+      "enhances",
+      "adaptive strategies"
+    ],
+    [
+      "survival optimization",
+      "enhances",
+      "chemical signals"
+    ],
+    [
+      "survival optimization",
+      "enhances",
+      "plant detection"
+    ],
+    [
+      "survival optimization",
+      "promotes",
+      "defensive chemicals"
+    ],
+    [
+      "survival optimization",
+      "promotes",
+      "herbivore deterrence"
+    ],
+    [
+      "survival optimization",
+      "supports",
+      "vibration sensing"
+    ],
+    [
+      "survival strategies",
+      "enables",
+      "water transfer"
+    ],
+    [
+      "symbiotic relationship",
+      "benefits from",
+      "plant interactions"
+    ],
+    [
+      "symbiotic relationship",
+      "creates",
+      "soil interactions"
+    ],
+    [
+      "symbiotic relationship",
+      "forms",
+      "nitrogen-fixing bacteria"
+    ],
+    [
+      "symbiotic relationship",
+      "is a component of",
+      "root exudates"
+    ],
+    [
+      "symbiotic relationship",
+      "is part of",
+      "nutrient uptake"
+    ],
+    [
+      "touch response",
+      "enhances",
+      "pathogen protection"
+    ],
+    [
+      "touch response",
+      "provides",
+      "mutual support"
+    ],
+    [
+      "touch response",
+      "triggered by",
+      "pollinator attraction"
+    ],
+    [
+      "touch response",
+      "triggers",
+      "chemical release"
+    ],
+    [
+      "touch response",
+      "triggers",
+      "nutrient uptake"
+    ],
+    [
+      "underground networks",
+      "enables",
+      "growth adjustment"
+    ],
+    [
+      "underground networks",
+      "enhances",
+      "resource optimization"
+    ],
+    [
+      "underground networks",
+      "supports",
+      "survival strategies"
+    ],
+    [
+      "vibration sensing",
+      "informs",
+      "chemical signals"
+    ],
+    [
+      "vibration sensing",
+      "informs",
+      "plant behavior"
+    ],
+    [
+      "vibration sensing",
+      "interacts with",
+      "nitrogen-fixing bacteria"
+    ],
+    [
+      "vibration sensing",
+      "involves",
+      "volatile organic compounds"
+    ],
+    [
+      "vibration sensing",
+      "promotes",
+      "pollinator attraction"
+    ],
+    [
+      "vibration sensing",
+      "triggered by",
+      "environmental adaptation"
+    ],
+    [
+      "vibration sensing",
+      "triggers",
+      "defensive chemicals"
+    ],
+    [
+      "volatile organic compounds",
+      "contributes to",
+      "symbiotic relationship"
+    ],
+    [
+      "volatile organic compounds",
+      "facilitates",
+      "chemical exchange"
+    ],
+    [
+      "volatile organic compounds",
+      "facilitates",
+      "insect interactions"
+    ],
+    [
+      "volatile organic compounds",
+      "involves",
+      "chemical release"
+    ],
+    [
+      "volatile organic compounds",
+      "is influenced by",
+      "plant behavior"
+    ],
+    [
+      "volatile organic compounds",
+      "is released by",
+      "defensive chemicals"
+    ],
+    [
+      "volatile organic compounds",
+      "maintained by",
+      "ecosystem balance"
+    ],
+    [
+      "volatile organic compounds",
+      "produces",
+      "beneficial microbes"
+    ],
+    [
+      "volatile organic compounds",
+      "provides",
+      "pathogen protection"
+    ],
+    [
+      "volatile organic compounds",
+      "supports",
+      "ecological balance"
+    ],
+    [
+      "volatile organic compounds",
+      "utilizes",
+      "defensive mechanisms"
+    ],
+    [
+      "water transfer",
+      "facilitates",
+      "underground networks"
+    ],
+    [
+      "water transfer",
+      "provides",
+      "mutual support"
+    ],
+    [
+      "water transfer",
+      "receives",
+      "beneficial microbes"
+    ],
+    [
+      "water transfer",
+      "receives",
+      "health enhancement"
+    ]
+  ],
+  "edges": [
+    "adjusts",
+    "affects",
+    "attracted by",
+    "attracts",
+    "benefits from",
+    "communicates through",
+    "contributes to",
+    "creates",
+    "defended by",
+    "defends against",
+    "detected by",
+    "deters",
+    "elicits",
+    "enables",
+    "enhances",
+    "ensures",
+    "establishes",
+    "facilitates",
+    "forms",
+    "fosters",
+    "guides",
+    "improves",
+    "induces",
+    "influences",
+    "informs",
+    "interacts with",
+    "involves",
+    "is a component of",
+    "is a form of",
+    "is a type of",
+    "is achieved through",
+    "is attracted by",
+    "is deterred by",
+    "is enhanced by",
+    "is influenced by",
+    "is involved in",
+    "is part of",
+    "is produced by",
+    "is protected by",
+    "is released by",
+    "is supported by",
+    "is triggered by",
+    "maintained by",
+    "maintains",
+    "offers",
+    "optimizes",
+    "perceived by",
+    "produces",
+    "promotes",
+    "protected by",
+    "provides",
+    "provides through",
+    "receives",
+    "receives nutrients from",
+    "releases",
+    "requires",
+    "responds to",
+    "results in",
+    "sensed by",
+    "strengthens",
+    "supports",
+    "triggered by",
+    "triggers",
+    "utilizes"
+  ]
+}

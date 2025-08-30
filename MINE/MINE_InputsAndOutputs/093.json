@@ -1,0 +1,1988 @@
+{
+  "entities": [
+    "Blue Origin",
+    "Mars habitats",
+    "SpaceX",
+    "Virgin Galactic",
+    "accessibility",
+    "affordable travel",
+    "breakthroughs",
+    "carbon footprint",
+    "collaboration",
+    "convenience",
+    "cost reduction",
+    "data gathering",
+    "eco-friendly technologies",
+    "environmental conservation",
+    "exploration",
+    "future possibilities",
+    "growth potential",
+    "infrastructure development",
+    "innovation",
+    "innovative experiences",
+    "interest surge",
+    "leisure travel",
+    "longer stays",
+    "new discoveries",
+    "opportunities",
+    "passenger transport",
+    "private companies",
+    "recreational activities",
+    "reusable rockets",
+    "scientific research",
+    "space experiences",
+    "space habitats",
+    "space hotels",
+    "space tourism",
+    "space transportation technology",
+    "spacecraft advancements",
+    "sustainability",
+    "sustainable travel",
+    "technological advancements",
+    "travel adventures",
+    "unique challenges"
+  ],
+  "relations": [
+    [
+      "Blue Origin",
+      "collaborates with",
+      "collaboration"
+    ],
+    [
+      "Blue Origin",
+      "contributes to",
+      "breakthroughs"
+    ],
+    [
+      "Blue Origin",
+      "contributes to",
+      "spacecraft advancements"
+    ],
+    [
+      "Blue Origin",
+      "is facilitated by",
+      "travel adventures"
+    ],
+    [
+      "Blue Origin",
+      "provides",
+      "innovative experiences"
+    ],
+    [
+      "SpaceX",
+      "advances",
+      "space transportation technology"
+    ],
+    [
+      "SpaceX",
+      "contributes to",
+      "new discoveries"
+    ],
+    [
+      "SpaceX",
+      "developed by",
+      "space hotels"
+    ],
+    [
+      "SpaceX",
+      "develops",
+      "eco-friendly technologies"
+    ],
+    [
+      "SpaceX",
+      "develops",
+      "reusable rockets"
+    ],
+    [
+      "SpaceX",
+      "develops",
+      "space habitats"
+    ],
+    [
+      "SpaceX",
+      "enables",
+      "exploration"
+    ],
+    [
+      "SpaceX",
+      "enables",
+      "longer stays"
+    ],
+    [
+      "SpaceX",
+      "facilitates",
+      "leisure travel"
+    ],
+    [
+      "SpaceX",
+      "is associated with",
+      "private companies"
+    ],
+    [
+      "SpaceX",
+      "leads to",
+      "cost reduction"
+    ],
+    [
+      "SpaceX",
+      "offers",
+      "travel adventures"
+    ],
+    [
+      "SpaceX",
+      "provides",
+      "innovative experiences"
+    ],
+    [
+      "SpaceX",
+      "supported by",
+      "environmental conservation"
+    ],
+    [
+      "Virgin Galactic",
+      "developed by",
+      "reusable rockets"
+    ],
+    [
+      "Virgin Galactic",
+      "develops",
+      "space transportation technology"
+    ],
+    [
+      "Virgin Galactic",
+      "faces",
+      "unique challenges"
+    ],
+    [
+      "Virgin Galactic",
+      "impacts",
+      "carbon footprint"
+    ],
+    [
+      "Virgin Galactic",
+      "includes",
+      "private companies"
+    ],
+    [
+      "Virgin Galactic",
+      "involves",
+      "collaboration"
+    ],
+    [
+      "Virgin Galactic",
+      "is achieved through",
+      "new discoveries"
+    ],
+    [
+      "Virgin Galactic",
+      "is facilitated by",
+      "travel adventures"
+    ],
+    [
+      "Virgin Galactic",
+      "provided by",
+      "longer stays"
+    ],
+    [
+      "Virgin Galactic",
+      "provided by",
+      "space experiences"
+    ],
+    [
+      "Virgin Galactic",
+      "provides",
+      "leisure travel"
+    ],
+    [
+      "Virgin Galactic",
+      "utilized by",
+      "passenger transport"
+    ],
+    [
+      "Virgin Galactic",
+      "utilized by",
+      "sustainability"
+    ],
+    [
+      "accessibility",
+      "affects",
+      "carbon footprint"
+    ],
+    [
+      "accessibility",
+      "enabled by",
+      "new discoveries"
+    ],
+    [
+      "accessibility",
+      "enhances",
+      "spacecraft advancements"
+    ],
+    [
+      "accessibility",
+      "improves",
+      "space transportation technology"
+    ],
+    [
+      "accessibility",
+      "is improved by",
+      "convenience"
+    ],
+    [
+      "affordable travel",
+      "enables",
+      "collaboration"
+    ],
+    [
+      "affordable travel",
+      "enables",
+      "exploration"
+    ],
+    [
+      "affordable travel",
+      "enables",
+      "longer stays"
+    ],
+    [
+      "affordable travel",
+      "enables",
+      "travel adventures"
+    ],
+    [
+      "affordable travel",
+      "enhances",
+      "spacecraft advancements"
+    ],
+    [
+      "affordable travel",
+      "facilitates",
+      "passenger transport"
+    ],
+    [
+      "affordable travel",
+      "facilitates",
+      "space transportation technology"
+    ],
+    [
+      "affordable travel",
+      "increases",
+      "accessibility"
+    ],
+    [
+      "affordable travel",
+      "is a factor in",
+      "space tourism"
+    ],
+    [
+      "affordable travel",
+      "offers",
+      "Blue Origin"
+    ],
+    [
+      "affordable travel",
+      "promotes",
+      "innovative experiences"
+    ],
+    [
+      "breakthroughs",
+      "contributes to",
+      "growth potential"
+    ],
+    [
+      "breakthroughs",
+      "contributes to",
+      "sustainability"
+    ],
+    [
+      "breakthroughs",
+      "fosters",
+      "collaboration"
+    ],
+    [
+      "breakthroughs",
+      "impacts",
+      "carbon footprint"
+    ],
+    [
+      "breakthroughs",
+      "leads to",
+      "SpaceX"
+    ],
+    [
+      "breakthroughs",
+      "leads to",
+      "new discoveries"
+    ],
+    [
+      "breakthroughs",
+      "resulting in",
+      "longer stays"
+    ],
+    [
+      "breakthroughs",
+      "results in",
+      "private companies"
+    ],
+    [
+      "carbon footprint",
+      "affected by",
+      "SpaceX"
+    ],
+    [
+      "carbon footprint",
+      "impacted by",
+      "eco-friendly technologies"
+    ],
+    [
+      "carbon footprint",
+      "impacts",
+      "affordable travel"
+    ],
+    [
+      "carbon footprint",
+      "impacts",
+      "cost reduction"
+    ],
+    [
+      "carbon footprint",
+      "impacts",
+      "space hotels"
+    ],
+    [
+      "carbon footprint",
+      "influences",
+      "environmental conservation"
+    ],
+    [
+      "carbon footprint",
+      "is affected by",
+      "longer stays"
+    ],
+    [
+      "carbon footprint",
+      "is impacted by",
+      "sustainable travel"
+    ],
+    [
+      "collaboration",
+      "advances",
+      "spacecraft advancements"
+    ],
+    [
+      "collaboration",
+      "enables",
+      "exploration"
+    ],
+    [
+      "collaboration",
+      "enables",
+      "space experiences"
+    ],
+    [
+      "collaboration",
+      "enhances",
+      "leisure travel"
+    ],
+    [
+      "collaboration",
+      "enhances",
+      "passenger transport"
+    ],
+    [
+      "collaboration",
+      "enhances",
+      "space habitats"
+    ],
+    [
+      "collaboration",
+      "fosters",
+      "new discoveries"
+    ],
+    [
+      "collaboration",
+      "presents",
+      "unique challenges"
+    ],
+    [
+      "collaboration",
+      "promotes",
+      "travel adventures"
+    ],
+    [
+      "convenience",
+      "contributes to",
+      "cost reduction"
+    ],
+    [
+      "convenience",
+      "drives",
+      "growth potential"
+    ],
+    [
+      "convenience",
+      "enhances",
+      "affordable travel"
+    ],
+    [
+      "convenience",
+      "enhances",
+      "passenger transport"
+    ],
+    [
+      "convenience",
+      "enhances",
+      "reusable rockets"
+    ],
+    [
+      "convenience",
+      "is enhanced by",
+      "longer stays"
+    ],
+    [
+      "convenience",
+      "is enhanced by",
+      "recreational activities"
+    ],
+    [
+      "convenience",
+      "provides",
+      "innovation"
+    ],
+    [
+      "cost reduction",
+      "benefits from",
+      "Virgin Galactic"
+    ],
+    [
+      "cost reduction",
+      "is impacted by",
+      "environmental conservation"
+    ],
+    [
+      "cost reduction",
+      "is influenced by",
+      "breakthroughs"
+    ],
+    [
+      "cost reduction",
+      "reduces",
+      "Mars habitats"
+    ],
+    [
+      "data gathering",
+      "contributes to",
+      "SpaceX"
+    ],
+    [
+      "data gathering",
+      "facilitates",
+      "cost reduction"
+    ],
+    [
+      "data gathering",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "data gathering",
+      "is supported by",
+      "sustainability"
+    ],
+    [
+      "eco-friendly technologies",
+      "advances",
+      "scientific research"
+    ],
+    [
+      "eco-friendly technologies",
+      "advances",
+      "technological advancements"
+    ],
+    [
+      "eco-friendly technologies",
+      "contributes to",
+      "cost reduction"
+    ],
+    [
+      "eco-friendly technologies",
+      "developed by",
+      "Virgin Galactic"
+    ],
+    [
+      "eco-friendly technologies",
+      "facilitates",
+      "space habitats"
+    ],
+    [
+      "eco-friendly technologies",
+      "improves",
+      "accessibility"
+    ],
+    [
+      "eco-friendly technologies",
+      "is a component of",
+      "reusable rockets"
+    ],
+    [
+      "eco-friendly technologies",
+      "leads to",
+      "new discoveries"
+    ],
+    [
+      "eco-friendly technologies",
+      "promotes",
+      "environmental conservation"
+    ],
+    [
+      "eco-friendly technologies",
+      "promotes",
+      "growth potential"
+    ],
+    [
+      "eco-friendly technologies",
+      "promotes",
+      "innovation"
+    ],
+    [
+      "eco-friendly technologies",
+      "reduces",
+      "carbon footprint"
+    ],
+    [
+      "eco-friendly technologies",
+      "results in",
+      "breakthroughs"
+    ],
+    [
+      "eco-friendly technologies",
+      "shapes",
+      "future possibilities"
+    ],
+    [
+      "eco-friendly technologies",
+      "supports",
+      "infrastructure development"
+    ],
+    [
+      "eco-friendly technologies",
+      "supports",
+      "leisure travel"
+    ],
+    [
+      "eco-friendly technologies",
+      "supports",
+      "longer stays"
+    ],
+    [
+      "eco-friendly technologies",
+      "supports",
+      "recreational activities"
+    ],
+    [
+      "eco-friendly technologies",
+      "supports",
+      "sustainability"
+    ],
+    [
+      "eco-friendly technologies",
+      "utilized by",
+      "private companies"
+    ],
+    [
+      "environmental conservation",
+      "advances",
+      "spacecraft advancements"
+    ],
+    [
+      "environmental conservation",
+      "enhanced by",
+      "affordable travel"
+    ],
+    [
+      "environmental conservation",
+      "enhances",
+      "innovative experiences"
+    ],
+    [
+      "environmental conservation",
+      "facilitates",
+      "collaboration"
+    ],
+    [
+      "environmental conservation",
+      "supports",
+      "sustainability"
+    ],
+    [
+      "exploration",
+      "advances",
+      "spacecraft advancements"
+    ],
+    [
+      "exploration",
+      "contributes to",
+      "breakthroughs"
+    ],
+    [
+      "exploration",
+      "enables",
+      "private companies"
+    ],
+    [
+      "exploration",
+      "facilitates",
+      "Blue Origin"
+    ],
+    [
+      "exploration",
+      "facilitates",
+      "reusable rockets"
+    ],
+    [
+      "exploration",
+      "facilitates",
+      "space transportation technology"
+    ],
+    [
+      "exploration",
+      "is influenced by",
+      "environmental conservation"
+    ],
+    [
+      "exploration",
+      "supports",
+      "space habitats"
+    ],
+    [
+      "future possibilities",
+      "enables",
+      "passenger transport"
+    ],
+    [
+      "future possibilities",
+      "increases",
+      "affordable travel"
+    ],
+    [
+      "future possibilities",
+      "influences",
+      "breakthroughs"
+    ],
+    [
+      "future possibilities",
+      "is influenced by",
+      "longer stays"
+    ],
+    [
+      "future possibilities",
+      "offers",
+      "space experiences"
+    ],
+    [
+      "future possibilities",
+      "shapes",
+      "space habitats"
+    ],
+    [
+      "future possibilities",
+      "shapes",
+      "space transportation technology"
+    ],
+    [
+      "growth potential",
+      "affects",
+      "carbon footprint"
+    ],
+    [
+      "growth potential",
+      "drives",
+      "spacecraft advancements"
+    ],
+    [
+      "growth potential",
+      "facilitates",
+      "collaboration"
+    ],
+    [
+      "growth potential",
+      "fuels",
+      "exploration"
+    ],
+    [
+      "growth potential",
+      "is influenced by",
+      "convenience"
+    ],
+    [
+      "growth potential",
+      "supports",
+      "travel adventures"
+    ],
+    [
+      "infrastructure development",
+      "develops",
+      "SpaceX"
+    ],
+    [
+      "infrastructure development",
+      "drives",
+      "Virgin Galactic"
+    ],
+    [
+      "infrastructure development",
+      "drives",
+      "growth potential"
+    ],
+    [
+      "infrastructure development",
+      "enables",
+      "space experiences"
+    ],
+    [
+      "infrastructure development",
+      "enhances",
+      "space tourism"
+    ],
+    [
+      "infrastructure development",
+      "facilitates",
+      "data gathering"
+    ],
+    [
+      "infrastructure development",
+      "improves",
+      "convenience"
+    ],
+    [
+      "infrastructure development",
+      "is enhanced by",
+      "space transportation technology"
+    ],
+    [
+      "infrastructure development",
+      "opens up",
+      "future possibilities"
+    ],
+    [
+      "infrastructure development",
+      "supports",
+      "exploration"
+    ],
+    [
+      "infrastructure development",
+      "supports",
+      "sustainability"
+    ],
+    [
+      "infrastructure development",
+      "supports",
+      "sustainable travel"
+    ],
+    [
+      "innovation",
+      "advances",
+      "space transportation technology"
+    ],
+    [
+      "innovation",
+      "drives",
+      "SpaceX"
+    ],
+    [
+      "innovation",
+      "drives",
+      "space tourism"
+    ],
+    [
+      "innovation",
+      "improves",
+      "passenger transport"
+    ],
+    [
+      "innovation",
+      "is a result of",
+      "interest surge"
+    ],
+    [
+      "innovation",
+      "is related to",
+      "sustainability"
+    ],
+    [
+      "innovation",
+      "leads to",
+      "new discoveries"
+    ],
+    [
+      "innovation",
+      "offers",
+      "space experiences"
+    ],
+    [
+      "innovation",
+      "opens up",
+      "future possibilities"
+    ],
+    [
+      "innovation",
+      "promotes",
+      "sustainable travel"
+    ],
+    [
+      "innovative experiences",
+      "contributes to",
+      "sustainability"
+    ],
+    [
+      "innovative experiences",
+      "enables",
+      "collaboration"
+    ],
+    [
+      "innovative experiences",
+      "features",
+      "space hotels"
+    ],
+    [
+      "innovative experiences",
+      "inspired by",
+      "convenience"
+    ],
+    [
+      "innovative experiences",
+      "is enhanced by",
+      "space tourism"
+    ],
+    [
+      "innovative experiences",
+      "leads to",
+      "new discoveries"
+    ],
+    [
+      "innovative experiences",
+      "offers",
+      "Virgin Galactic"
+    ],
+    [
+      "innovative experiences",
+      "results in",
+      "spacecraft advancements"
+    ],
+    [
+      "interest surge",
+      "advances",
+      "spacecraft advancements"
+    ],
+    [
+      "interest surge",
+      "creates",
+      "innovative experiences"
+    ],
+    [
+      "interest surge",
+      "creates",
+      "opportunities"
+    ],
+    [
+      "interest surge",
+      "drives",
+      "affordable travel"
+    ],
+    [
+      "interest surge",
+      "drives",
+      "passenger transport"
+    ],
+    [
+      "interest surge",
+      "drives",
+      "space habitats"
+    ],
+    [
+      "interest surge",
+      "is driven by",
+      "accessibility"
+    ],
+    [
+      "interest surge",
+      "is driven by",
+      "infrastructure development"
+    ],
+    [
+      "interest surge",
+      "is driven by",
+      "private companies"
+    ],
+    [
+      "interest surge",
+      "is driven by",
+      "technological advancements"
+    ],
+    [
+      "interest surge",
+      "is influenced by",
+      "space hotels"
+    ],
+    [
+      "interest surge",
+      "is influenced by",
+      "space transportation technology"
+    ],
+    [
+      "interest surge",
+      "leads to",
+      "leisure travel"
+    ],
+    [
+      "interest surge",
+      "promotes",
+      "collaboration"
+    ],
+    [
+      "interest surge",
+      "results in",
+      "Virgin Galactic"
+    ],
+    [
+      "leisure travel",
+      "enables",
+      "sustainable travel"
+    ],
+    [
+      "leisure travel",
+      "enhances",
+      "convenience"
+    ],
+    [
+      "leisure travel",
+      "influences",
+      "sustainability"
+    ],
+    [
+      "leisure travel",
+      "is associated with",
+      "Mars habitats"
+    ],
+    [
+      "longer stays",
+      "developed by",
+      "Blue Origin"
+    ],
+    [
+      "longer stays",
+      "developed by",
+      "Mars habitats"
+    ],
+    [
+      "longer stays",
+      "enabled by",
+      "reusable rockets"
+    ],
+    [
+      "longer stays",
+      "enables",
+      "cost reduction"
+    ],
+    [
+      "longer stays",
+      "enables",
+      "exploration"
+    ],
+    [
+      "longer stays",
+      "enables",
+      "growth potential"
+    ],
+    [
+      "longer stays",
+      "enables",
+      "space experiences"
+    ],
+    [
+      "longer stays",
+      "enhanced by",
+      "travel adventures"
+    ],
+    [
+      "longer stays",
+      "enhances",
+      "innovative experiences"
+    ],
+    [
+      "longer stays",
+      "facilitates",
+      "recreational activities"
+    ],
+    [
+      "longer stays",
+      "fosters",
+      "innovation"
+    ],
+    [
+      "longer stays",
+      "increases",
+      "accessibility"
+    ],
+    [
+      "longer stays",
+      "is enhanced by",
+      "spacecraft advancements"
+    ],
+    [
+      "longer stays",
+      "presents",
+      "unique challenges"
+    ],
+    [
+      "longer stays",
+      "supports",
+      "space hotels"
+    ],
+    [
+      "new discoveries",
+      "drives",
+      "exploration"
+    ],
+    [
+      "new discoveries",
+      "drives",
+      "space transportation technology"
+    ],
+    [
+      "new discoveries",
+      "enabled by",
+      "reusable rockets"
+    ],
+    [
+      "new discoveries",
+      "leads to",
+      "space experiences"
+    ],
+    [
+      "new discoveries",
+      "presents",
+      "unique challenges"
+    ],
+    [
+      "opportunities",
+      "drives",
+      "infrastructure development"
+    ],
+    [
+      "opportunities",
+      "drives",
+      "technological advancements"
+    ],
+    [
+      "opportunities",
+      "enables",
+      "reusable rockets"
+    ],
+    [
+      "opportunities",
+      "enables",
+      "spacecraft advancements"
+    ],
+    [
+      "opportunities",
+      "enables",
+      "travel adventures"
+    ],
+    [
+      "opportunities",
+      "is enhanced by",
+      "eco-friendly technologies"
+    ],
+    [
+      "opportunities",
+      "leads to",
+      "breakthroughs"
+    ],
+    [
+      "opportunities",
+      "leads to",
+      "exploration"
+    ],
+    [
+      "opportunities",
+      "offers",
+      "Virgin Galactic"
+    ],
+    [
+      "opportunities",
+      "provides",
+      "Blue Origin"
+    ],
+    [
+      "opportunities",
+      "provides",
+      "innovative experiences"
+    ],
+    [
+      "opportunities",
+      "provides",
+      "longer stays"
+    ],
+    [
+      "opportunities",
+      "supports",
+      "space tourism"
+    ],
+    [
+      "passenger transport",
+      "enables",
+      "longer stays"
+    ],
+    [
+      "passenger transport",
+      "facilitates",
+      "reusable rockets"
+    ],
+    [
+      "passenger transport",
+      "is influenced by",
+      "space transportation technology"
+    ],
+    [
+      "private companies",
+      "addresses",
+      "environmental conservation"
+    ],
+    [
+      "private companies",
+      "competes with",
+      "Blue Origin"
+    ],
+    [
+      "private companies",
+      "contributes to",
+      "carbon footprint"
+    ],
+    [
+      "private companies",
+      "contributes to",
+      "infrastructure development"
+    ],
+    [
+      "private companies",
+      "created by",
+      "space hotels"
+    ],
+    [
+      "private companies",
+      "creates",
+      "future possibilities"
+    ],
+    [
+      "private companies",
+      "creates",
+      "opportunities"
+    ],
+    [
+      "private companies",
+      "creates",
+      "space habitats"
+    ],
+    [
+      "private companies",
+      "develops",
+      "reusable rockets"
+    ],
+    [
+      "private companies",
+      "develops",
+      "space transportation technology"
+    ],
+    [
+      "private companies",
+      "drives",
+      "space tourism"
+    ],
+    [
+      "private companies",
+      "drives",
+      "spacecraft advancements"
+    ],
+    [
+      "private companies",
+      "enables",
+      "affordable travel"
+    ],
+    [
+      "private companies",
+      "enables",
+      "longer stays"
+    ],
+    [
+      "private companies",
+      "engages in",
+      "collaboration"
+    ],
+    [
+      "private companies",
+      "enhances",
+      "convenience"
+    ],
+    [
+      "private companies",
+      "facilitates",
+      "passenger transport"
+    ],
+    [
+      "private companies",
+      "promotes",
+      "recreational activities"
+    ],
+    [
+      "private companies",
+      "provides",
+      "innovative experiences"
+    ],
+    [
+      "recreational activities",
+      "contributes to",
+      "exploration"
+    ],
+    [
+      "recreational activities",
+      "depends on",
+      "sustainability"
+    ],
+    [
+      "recreational activities",
+      "developed by",
+      "Blue Origin"
+    ],
+    [
+      "recreational activities",
+      "developed by",
+      "SpaceX"
+    ],
+    [
+      "recreational activities",
+      "drives",
+      "innovation"
+    ],
+    [
+      "recreational activities",
+      "enables",
+      "new discoveries"
+    ],
+    [
+      "recreational activities",
+      "enhanced by",
+      "reusable rockets"
+    ],
+    [
+      "recreational activities",
+      "enhances",
+      "space experiences"
+    ],
+    [
+      "recreational activities",
+      "enhances",
+      "spacecraft advancements"
+    ],
+    [
+      "recreational activities",
+      "facilitates",
+      "collaboration"
+    ],
+    [
+      "recreational activities",
+      "includes",
+      "space hotels"
+    ],
+    [
+      "recreational activities",
+      "increases",
+      "affordable travel"
+    ],
+    [
+      "recreational activities",
+      "inspired by",
+      "travel adventures"
+    ],
+    [
+      "recreational activities",
+      "is linked to",
+      "future possibilities"
+    ],
+    [
+      "recreational activities",
+      "is supported by",
+      "sustainable travel"
+    ],
+    [
+      "recreational activities",
+      "leads to",
+      "breakthroughs"
+    ],
+    [
+      "recreational activities",
+      "offered by",
+      "Virgin Galactic"
+    ],
+    [
+      "recreational activities",
+      "offers",
+      "innovative experiences"
+    ],
+    [
+      "recreational activities",
+      "promotes",
+      "space tourism"
+    ],
+    [
+      "reusable rockets",
+      "affects",
+      "carbon footprint"
+    ],
+    [
+      "reusable rockets",
+      "develops",
+      "Blue Origin"
+    ],
+    [
+      "reusable rockets",
+      "enables",
+      "scientific research"
+    ],
+    [
+      "reusable rockets",
+      "enables",
+      "spacecraft advancements"
+    ],
+    [
+      "reusable rockets",
+      "enhances",
+      "innovative experiences"
+    ],
+    [
+      "reusable rockets",
+      "enhances",
+      "space experiences"
+    ],
+    [
+      "reusable rockets",
+      "facilitates",
+      "new discoveries"
+    ],
+    [
+      "reusable rockets",
+      "increases",
+      "accessibility"
+    ],
+    [
+      "reusable rockets",
+      "is a type of",
+      "space transportation technology"
+    ],
+    [
+      "reusable rockets",
+      "offers",
+      "growth potential"
+    ],
+    [
+      "reusable rockets",
+      "promotes",
+      "collaboration"
+    ],
+    [
+      "reusable rockets",
+      "promotes",
+      "sustainability"
+    ],
+    [
+      "reusable rockets",
+      "results in",
+      "breakthroughs"
+    ],
+    [
+      "reusable rockets",
+      "supports",
+      "space habitats"
+    ],
+    [
+      "scientific research",
+      "collaborates with",
+      "Blue Origin"
+    ],
+    [
+      "scientific research",
+      "conducted by",
+      "SpaceX"
+    ],
+    [
+      "scientific research",
+      "contributes to",
+      "data gathering"
+    ],
+    [
+      "scientific research",
+      "contributes to",
+      "exploration"
+    ],
+    [
+      "scientific research",
+      "enables",
+      "collaboration"
+    ],
+    [
+      "scientific research",
+      "enables",
+      "travel adventures"
+    ],
+    [
+      "scientific research",
+      "enhanced by",
+      "space transportation technology"
+    ],
+    [
+      "scientific research",
+      "enhances",
+      "growth potential"
+    ],
+    [
+      "scientific research",
+      "facilitates",
+      "passenger transport"
+    ],
+    [
+      "scientific research",
+      "impacts",
+      "carbon footprint"
+    ],
+    [
+      "scientific research",
+      "informs",
+      "environmental conservation"
+    ],
+    [
+      "scientific research",
+      "inspired by",
+      "recreational activities"
+    ],
+    [
+      "scientific research",
+      "is impacted by",
+      "cost reduction"
+    ],
+    [
+      "scientific research",
+      "leads to",
+      "breakthroughs"
+    ],
+    [
+      "scientific research",
+      "leads to",
+      "new discoveries"
+    ],
+    [
+      "scientific research",
+      "supported by",
+      "space habitats"
+    ],
+    [
+      "scientific research",
+      "supports",
+      "Virgin Galactic"
+    ],
+    [
+      "scientific research",
+      "utilizes",
+      "reusable rockets"
+    ],
+    [
+      "space experiences",
+      "influences",
+      "travel adventures"
+    ],
+    [
+      "space experiences",
+      "inspired by",
+      "convenience"
+    ],
+    [
+      "space experiences",
+      "is influenced by",
+      "space transportation technology"
+    ],
+    [
+      "space experiences",
+      "supports",
+      "Mars habitats"
+    ],
+    [
+      "space habitats",
+      "advances",
+      "spacecraft advancements"
+    ],
+    [
+      "space habitats",
+      "affects",
+      "carbon footprint"
+    ],
+    [
+      "space habitats",
+      "developed by",
+      "Blue Origin"
+    ],
+    [
+      "space habitats",
+      "enabled by",
+      "new discoveries"
+    ],
+    [
+      "space habitats",
+      "enhanced by",
+      "sustainability"
+    ],
+    [
+      "space habitats",
+      "enhances",
+      "breakthroughs"
+    ],
+    [
+      "space habitats",
+      "enhances",
+      "convenience"
+    ],
+    [
+      "space habitats",
+      "facilitates",
+      "passenger transport"
+    ],
+    [
+      "space habitats",
+      "improves",
+      "accessibility"
+    ],
+    [
+      "space habitats",
+      "supports",
+      "travel adventures"
+    ],
+    [
+      "space hotels",
+      "associated with",
+      "collaboration"
+    ],
+    [
+      "space hotels",
+      "competes with",
+      "Blue Origin"
+    ],
+    [
+      "space hotels",
+      "contributes to",
+      "cost reduction"
+    ],
+    [
+      "space hotels",
+      "enables",
+      "data gathering"
+    ],
+    [
+      "space hotels",
+      "enhanced by",
+      "space transportation technology"
+    ],
+    [
+      "space hotels",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "space hotels",
+      "incorporates",
+      "eco-friendly technologies"
+    ],
+    [
+      "space hotels",
+      "is related to",
+      "Mars habitats"
+    ],
+    [
+      "space hotels",
+      "offers",
+      "travel adventures"
+    ],
+    [
+      "space hotels",
+      "provides",
+      "opportunities"
+    ],
+    [
+      "space hotels",
+      "requires",
+      "space habitats"
+    ],
+    [
+      "space hotels",
+      "supports",
+      "growth potential"
+    ],
+    [
+      "space hotels",
+      "supports",
+      "space tourism"
+    ],
+    [
+      "space hotels",
+      "utilizes",
+      "reusable rockets"
+    ],
+    [
+      "space tourism",
+      "competes with",
+      "Virgin Galactic"
+    ],
+    [
+      "space tourism",
+      "developed by",
+      "Blue Origin"
+    ],
+    [
+      "space tourism",
+      "developed by",
+      "SpaceX"
+    ],
+    [
+      "space tourism",
+      "enables",
+      "breakthroughs"
+    ],
+    [
+      "space tourism",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "space tourism",
+      "facilitates",
+      "reusable rockets"
+    ],
+    [
+      "space tourism",
+      "fosters",
+      "collaboration"
+    ],
+    [
+      "space tourism",
+      "holds",
+      "future possibilities"
+    ],
+    [
+      "space tourism",
+      "improves",
+      "accessibility"
+    ],
+    [
+      "space tourism",
+      "includes",
+      "longer stays"
+    ],
+    [
+      "space tourism",
+      "is associated with",
+      "Mars habitats"
+    ],
+    [
+      "space tourism",
+      "leads to",
+      "new discoveries"
+    ],
+    [
+      "space tourism",
+      "offers",
+      "travel adventures"
+    ],
+    [
+      "space tourism",
+      "supported by",
+      "space habitats"
+    ],
+    [
+      "space transportation technology",
+      "advances",
+      "breakthroughs"
+    ],
+    [
+      "space transportation technology",
+      "facilitates",
+      "space tourism"
+    ],
+    [
+      "space transportation technology",
+      "influences",
+      "data gathering"
+    ],
+    [
+      "spacecraft advancements",
+      "is facilitated by",
+      "breakthroughs"
+    ],
+    [
+      "spacecraft advancements",
+      "supports",
+      "space hotels"
+    ],
+    [
+      "sustainability",
+      "enables",
+      "passenger transport"
+    ],
+    [
+      "sustainability",
+      "enhances",
+      "longer stays"
+    ],
+    [
+      "sustainable travel",
+      "enables",
+      "cost reduction"
+    ],
+    [
+      "sustainable travel",
+      "enables",
+      "new discoveries"
+    ],
+    [
+      "sustainable travel",
+      "enables",
+      "reusable rockets"
+    ],
+    [
+      "sustainable travel",
+      "is influenced by",
+      "space hotels"
+    ],
+    [
+      "sustainable travel",
+      "is supported by",
+      "environmental conservation"
+    ],
+    [
+      "sustainable travel",
+      "promotes",
+      "SpaceX"
+    ],
+    [
+      "sustainable travel",
+      "supports",
+      "growth potential"
+    ],
+    [
+      "technological advancements",
+      "drives",
+      "space tourism"
+    ],
+    [
+      "technological advancements",
+      "drives",
+      "space transportation technology"
+    ],
+    [
+      "technological advancements",
+      "enables",
+      "affordable travel"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "space experiences"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "travel adventures"
+    ],
+    [
+      "technological advancements",
+      "improves",
+      "accessibility"
+    ],
+    [
+      "technological advancements",
+      "increases",
+      "growth potential"
+    ],
+    [
+      "technological advancements",
+      "leads to",
+      "breakthroughs"
+    ],
+    [
+      "technological advancements",
+      "leads to",
+      "cost reduction"
+    ],
+    [
+      "technological advancements",
+      "promotes",
+      "data gathering"
+    ],
+    [
+      "technological advancements",
+      "supports",
+      "space habitats"
+    ],
+    [
+      "technological advancements",
+      "transforms",
+      "leisure travel"
+    ],
+    [
+      "travel adventures",
+      "enables",
+      "reusable rockets"
+    ],
+    [
+      "travel adventures",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "travel adventures",
+      "enhances",
+      "passenger transport"
+    ],
+    [
+      "travel adventures",
+      "is enhanced by",
+      "convenience"
+    ],
+    [
+      "travel adventures",
+      "is enhanced by",
+      "spacecraft advancements"
+    ],
+    [
+      "travel adventures",
+      "is impacted by",
+      "environmental conservation"
+    ],
+    [
+      "travel adventures",
+      "is pursued for",
+      "exploration"
+    ],
+    [
+      "travel adventures",
+      "is pursued for",
+      "new discoveries"
+    ],
+    [
+      "travel adventures",
+      "is sought for",
+      "SpaceX"
+    ],
+    [
+      "travel adventures",
+      "offers",
+      "private companies"
+    ],
+    [
+      "unique challenges",
+      "involves",
+      "space experiences"
+    ],
+    [
+      "unique challenges",
+      "poses",
+      "recreational activities"
+    ],
+    [
+      "unique challenges",
+      "presents",
+      "Blue Origin"
+    ],
+    [
+      "unique challenges",
+      "presents",
+      "convenience"
+    ],
+    [
+      "unique challenges",
+      "presents",
+      "technological advancements"
+    ]
+  ],
+  "edges": [
+    "addresses",
+    "advances",
+    "affected by",
+    "affects",
+    "associated with",
+    "benefits from",
+    "collaborates with",
+    "competes with",
+    "conducted by",
+    "contributes to",
+    "created by",
+    "creates",
+    "depends on",
+    "developed by",
+    "develops",
+    "drives",
+    "enabled by",
+    "enables",
+    "engages in",
+    "enhanced by",
+    "enhances",
+    "faces",
+    "facilitates",
+    "features",
+    "fosters",
+    "fuels",
+    "holds",
+    "impacted by",
+    "impacts",
+    "improves",
+    "includes",
+    "incorporates",
+    "increases",
+    "influences",
+    "informs",
+    "inspired by",
+    "involves",
+    "is a component of",
+    "is a factor in",
+    "is a result of",
+    "is a type of",
+    "is achieved through",
+    "is affected by",
+    "is associated with",
+    "is driven by",
+    "is enhanced by",
+    "is facilitated by",
+    "is impacted by",
+    "is improved by",
+    "is influenced by",
+    "is linked to",
+    "is pursued for",
+    "is related to",
+    "is sought for",
+    "is supported by",
+    "leads to",
+    "offered by",
+    "offers",
+    "opens up",
+    "poses",
+    "presents",
+    "promotes",
+    "provided by",
+    "provides",
+    "reduces",
+    "requires",
+    "resulting in",
+    "results in",
+    "shapes",
+    "supported by",
+    "supports",
+    "transforms",
+    "utilized by",
+    "utilizes"
+  ]
+}

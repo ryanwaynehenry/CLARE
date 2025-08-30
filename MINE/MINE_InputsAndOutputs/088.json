@@ -1,0 +1,3134 @@
+{
+  "entities": [
+    "accountability",
+    "accuracy",
+    "advanced instrumentation",
+    "advanced technology",
+    "analytical methods",
+    "analytical skills",
+    "attention to detail",
+    "biological analysis",
+    "cause of death",
+    "chemical analysis",
+    "communication skills",
+    "complex puzzles",
+    "court presentation",
+    "crime investigation",
+    "crime resolution",
+    "crime scene investigation",
+    "criminal justice system",
+    "critical thinking",
+    "data analysis",
+    "evidence analysis",
+    "evidence cataloging",
+    "evidence collection",
+    "evidence preservation",
+    "expert witnesses",
+    "forensic applications",
+    "forensic science",
+    "forensic techniques",
+    "hidden clues",
+    "identity determination",
+    "interdisciplinary approach",
+    "investigation support",
+    "investigative techniques",
+    "justice",
+    "law enforcement collaboration",
+    "legal issues",
+    "logical conclusions",
+    "mass spectrometry",
+    "meticulous documentation",
+    "modern investigations",
+    "physical characteristics",
+    "pressure work",
+    "problem-solving",
+    "problem-solving techniques",
+    "prosecution assistance",
+    "reconstruction",
+    "reliability",
+    "scanning electron microscopy",
+    "scientific methods",
+    "scientific principles",
+    "solving crimes",
+    "sophisticated techniques",
+    "substance identification",
+    "technological advancements",
+    "trace evidence",
+    "valuable evidence"
+  ],
+  "relations": [
+    [
+      "accountability",
+      "enables",
+      "reconstruction"
+    ],
+    [
+      "accountability",
+      "facilitates",
+      "evidence cataloging"
+    ],
+    [
+      "accountability",
+      "requires",
+      "attention to detail"
+    ],
+    [
+      "accountability",
+      "requires",
+      "problem-solving"
+    ],
+    [
+      "accountability",
+      "reveals",
+      "hidden clues"
+    ],
+    [
+      "accountability",
+      "supports",
+      "prosecution assistance"
+    ],
+    [
+      "accuracy",
+      "clarifies",
+      "hidden clues"
+    ],
+    [
+      "accuracy",
+      "enhances",
+      "criminal justice system"
+    ],
+    [
+      "accuracy",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "accuracy",
+      "enhances",
+      "logical conclusions"
+    ],
+    [
+      "accuracy",
+      "examines",
+      "trace evidence"
+    ],
+    [
+      "accuracy",
+      "improves",
+      "problem-solving"
+    ],
+    [
+      "advanced instrumentation",
+      "aids",
+      "evidence preservation"
+    ],
+    [
+      "advanced instrumentation",
+      "enhances",
+      "advanced technology"
+    ],
+    [
+      "advanced instrumentation",
+      "enhances",
+      "biological analysis"
+    ],
+    [
+      "advanced instrumentation",
+      "enhances",
+      "interdisciplinary approach"
+    ],
+    [
+      "advanced instrumentation",
+      "enhances",
+      "sophisticated techniques"
+    ],
+    [
+      "advanced instrumentation",
+      "facilitates",
+      "crime scene investigation"
+    ],
+    [
+      "advanced instrumentation",
+      "facilitates",
+      "substance identification"
+    ],
+    [
+      "advanced instrumentation",
+      "is a component of",
+      "forensic science"
+    ],
+    [
+      "advanced instrumentation",
+      "is improved by",
+      "reliability"
+    ],
+    [
+      "advanced instrumentation",
+      "utilizes",
+      "mass spectrometry"
+    ],
+    [
+      "advanced technology",
+      "aids in",
+      "crime resolution"
+    ],
+    [
+      "advanced technology",
+      "analyzes",
+      "physical characteristics"
+    ],
+    [
+      "advanced technology",
+      "analyzes",
+      "trace evidence"
+    ],
+    [
+      "advanced technology",
+      "applies",
+      "mass spectrometry"
+    ],
+    [
+      "advanced technology",
+      "enhances",
+      "scientific methods"
+    ],
+    [
+      "advanced technology",
+      "ensures",
+      "evidence preservation"
+    ],
+    [
+      "advanced technology",
+      "informs",
+      "scientific principles"
+    ],
+    [
+      "advanced technology",
+      "integrates",
+      "interdisciplinary approach"
+    ],
+    [
+      "advanced technology",
+      "supports",
+      "evidence cataloging"
+    ],
+    [
+      "advanced technology",
+      "supports",
+      "forensic science"
+    ],
+    [
+      "advanced technology",
+      "supports",
+      "prosecution assistance"
+    ],
+    [
+      "advanced technology",
+      "supports",
+      "reconstruction"
+    ],
+    [
+      "advanced technology",
+      "utilizes",
+      "scanning electron microscopy"
+    ],
+    [
+      "analytical methods",
+      "encompasses",
+      "interdisciplinary approach"
+    ],
+    [
+      "analytical methods",
+      "improves",
+      "evidence cataloging"
+    ],
+    [
+      "analytical methods",
+      "includes",
+      "forensic techniques"
+    ],
+    [
+      "analytical methods",
+      "includes",
+      "mass spectrometry"
+    ],
+    [
+      "analytical methods",
+      "informs",
+      "modern investigations"
+    ],
+    [
+      "analytical methods",
+      "promotes",
+      "law enforcement collaboration"
+    ],
+    [
+      "analytical methods",
+      "supports",
+      "evidence preservation"
+    ],
+    [
+      "analytical methods",
+      "utilizes",
+      "court presentation"
+    ],
+    [
+      "analytical methods",
+      "utilizes",
+      "scientific principles"
+    ],
+    [
+      "analytical skills",
+      "applies",
+      "scientific principles"
+    ],
+    [
+      "analytical skills",
+      "complements",
+      "communication skills"
+    ],
+    [
+      "analytical skills",
+      "contributes to",
+      "modern investigations"
+    ],
+    [
+      "analytical skills",
+      "determines",
+      "cause of death"
+    ],
+    [
+      "analytical skills",
+      "enhances",
+      "biological analysis"
+    ],
+    [
+      "analytical skills",
+      "enhances",
+      "law enforcement collaboration"
+    ],
+    [
+      "analytical skills",
+      "enhances",
+      "pressure work"
+    ],
+    [
+      "analytical skills",
+      "enhances",
+      "problem-solving"
+    ],
+    [
+      "analytical skills",
+      "facilitates",
+      "mass spectrometry"
+    ],
+    [
+      "analytical skills",
+      "informs",
+      "forensic science"
+    ],
+    [
+      "analytical skills",
+      "informs",
+      "forensic techniques"
+    ],
+    [
+      "analytical skills",
+      "involves",
+      "interdisciplinary approach"
+    ],
+    [
+      "analytical skills",
+      "requires",
+      "attention to detail"
+    ],
+    [
+      "analytical skills",
+      "reveals",
+      "hidden clues"
+    ],
+    [
+      "analytical skills",
+      "supports",
+      "legal issues"
+    ],
+    [
+      "attention to detail",
+      "demands",
+      "logical conclusions"
+    ],
+    [
+      "attention to detail",
+      "enhances",
+      "court presentation"
+    ],
+    [
+      "attention to detail",
+      "enhances",
+      "investigation support"
+    ],
+    [
+      "attention to detail",
+      "enhances",
+      "valuable evidence"
+    ],
+    [
+      "attention to detail",
+      "ensures",
+      "justice"
+    ],
+    [
+      "attention to detail",
+      "improves",
+      "accuracy"
+    ],
+    [
+      "attention to detail",
+      "influences",
+      "physical characteristics"
+    ],
+    [
+      "attention to detail",
+      "requires",
+      "cause of death"
+    ],
+    [
+      "attention to detail",
+      "reveals",
+      "hidden clues"
+    ],
+    [
+      "biological analysis",
+      "analyzes",
+      "expert witnesses"
+    ],
+    [
+      "biological analysis",
+      "applies",
+      "forensic techniques"
+    ],
+    [
+      "biological analysis",
+      "improves",
+      "problem-solving techniques"
+    ],
+    [
+      "biological analysis",
+      "involves",
+      "substance identification"
+    ],
+    [
+      "biological analysis",
+      "is applied in",
+      "sophisticated techniques"
+    ],
+    [
+      "biological analysis",
+      "is part of",
+      "evidence analysis"
+    ],
+    [
+      "biological analysis",
+      "supports",
+      "advanced technology"
+    ],
+    [
+      "biological analysis",
+      "utilizes",
+      "mass spectrometry"
+    ],
+    [
+      "cause of death",
+      "aids in",
+      "identity determination"
+    ],
+    [
+      "cause of death",
+      "determines",
+      "analytical methods"
+    ],
+    [
+      "cause of death",
+      "determines",
+      "evidence analysis"
+    ],
+    [
+      "cause of death",
+      "determines",
+      "forensic science"
+    ],
+    [
+      "cause of death",
+      "determines",
+      "scanning electron microscopy"
+    ],
+    [
+      "cause of death",
+      "increases",
+      "accuracy"
+    ],
+    [
+      "cause of death",
+      "indicates",
+      "chemical analysis"
+    ],
+    [
+      "cause of death",
+      "indicates",
+      "trace evidence"
+    ],
+    [
+      "cause of death",
+      "informs",
+      "biological analysis"
+    ],
+    [
+      "cause of death",
+      "informs",
+      "forensic applications"
+    ],
+    [
+      "cause of death",
+      "informs",
+      "reconstruction"
+    ],
+    [
+      "cause of death",
+      "is analyzed by",
+      "scientific methods"
+    ],
+    [
+      "cause of death",
+      "is determined by",
+      "modern investigations"
+    ],
+    [
+      "cause of death",
+      "is sought for",
+      "justice"
+    ],
+    [
+      "cause of death",
+      "reveals",
+      "hidden clues"
+    ],
+    [
+      "chemical analysis",
+      "assists",
+      "prosecution assistance"
+    ],
+    [
+      "chemical analysis",
+      "collaborates with",
+      "law enforcement collaboration"
+    ],
+    [
+      "chemical analysis",
+      "contributes to",
+      "crime resolution"
+    ],
+    [
+      "chemical analysis",
+      "enhanced by",
+      "advanced instrumentation"
+    ],
+    [
+      "chemical analysis",
+      "ensures",
+      "reliability"
+    ],
+    [
+      "chemical analysis",
+      "improves",
+      "accuracy"
+    ],
+    [
+      "chemical analysis",
+      "informs",
+      "logical conclusions"
+    ],
+    [
+      "chemical analysis",
+      "involves",
+      "complex puzzles"
+    ],
+    [
+      "chemical analysis",
+      "is informed by",
+      "criminal justice system"
+    ],
+    [
+      "chemical analysis",
+      "supports",
+      "evidence cataloging"
+    ],
+    [
+      "chemical analysis",
+      "supports",
+      "reconstruction"
+    ],
+    [
+      "chemical analysis",
+      "testify as",
+      "expert witnesses"
+    ],
+    [
+      "chemical analysis",
+      "utilizes",
+      "advanced technology"
+    ],
+    [
+      "complex puzzles",
+      "applies",
+      "scientific principles"
+    ],
+    [
+      "complex puzzles",
+      "enhances",
+      "technological advancements"
+    ],
+    [
+      "complex puzzles",
+      "facilitates",
+      "substance identification"
+    ],
+    [
+      "complex puzzles",
+      "informs",
+      "crime scene investigation"
+    ],
+    [
+      "complex puzzles",
+      "involves",
+      "evidence collection"
+    ],
+    [
+      "complex puzzles",
+      "involves",
+      "problem-solving"
+    ],
+    [
+      "complex puzzles",
+      "involves",
+      "reconstruction"
+    ],
+    [
+      "complex puzzles",
+      "presents",
+      "interdisciplinary approach"
+    ],
+    [
+      "complex puzzles",
+      "presents",
+      "sophisticated techniques"
+    ],
+    [
+      "complex puzzles",
+      "provides",
+      "prosecution assistance"
+    ],
+    [
+      "complex puzzles",
+      "requires",
+      "analytical skills"
+    ],
+    [
+      "complex puzzles",
+      "requires",
+      "attention to detail"
+    ],
+    [
+      "complex puzzles",
+      "solves",
+      "forensic science"
+    ],
+    [
+      "complex puzzles",
+      "solves",
+      "hidden clues"
+    ],
+    [
+      "complex puzzles",
+      "solves",
+      "mass spectrometry"
+    ],
+    [
+      "complex puzzles",
+      "solves",
+      "physical characteristics"
+    ],
+    [
+      "court presentation",
+      "addresses",
+      "legal issues"
+    ],
+    [
+      "court presentation",
+      "aids",
+      "reconstruction"
+    ],
+    [
+      "court presentation",
+      "determines",
+      "identity determination"
+    ],
+    [
+      "court presentation",
+      "enhances",
+      "advanced instrumentation"
+    ],
+    [
+      "court presentation",
+      "enhances",
+      "analytical skills"
+    ],
+    [
+      "court presentation",
+      "facilitates",
+      "solving crimes"
+    ],
+    [
+      "court presentation",
+      "informs",
+      "data analysis"
+    ],
+    [
+      "court presentation",
+      "involves",
+      "scientific methods"
+    ],
+    [
+      "court presentation",
+      "involves",
+      "trace evidence"
+    ],
+    [
+      "court presentation",
+      "is used for",
+      "scanning electron microscopy"
+    ],
+    [
+      "court presentation",
+      "provides",
+      "valuable evidence"
+    ],
+    [
+      "court presentation",
+      "requires",
+      "communication skills"
+    ],
+    [
+      "court presentation",
+      "requires",
+      "evidence preservation"
+    ],
+    [
+      "crime investigation",
+      "ensures",
+      "justice"
+    ],
+    [
+      "crime investigation",
+      "facilitates",
+      "reconstruction"
+    ],
+    [
+      "crime investigation",
+      "informs",
+      "accountability"
+    ],
+    [
+      "crime investigation",
+      "involves",
+      "court presentation"
+    ],
+    [
+      "crime investigation",
+      "involves",
+      "substance identification"
+    ],
+    [
+      "crime investigation",
+      "is supported by",
+      "crime scene investigation"
+    ],
+    [
+      "crime investigation",
+      "requires",
+      "problem-solving"
+    ],
+    [
+      "crime investigation",
+      "uncovers",
+      "hidden clues"
+    ],
+    [
+      "crime investigation",
+      "utilizes",
+      "analytical methods"
+    ],
+    [
+      "crime investigation",
+      "utilizes",
+      "problem-solving techniques"
+    ],
+    [
+      "crime investigation",
+      "utilizes",
+      "sophisticated techniques"
+    ],
+    [
+      "crime investigation",
+      "utilizes",
+      "valuable evidence"
+    ],
+    [
+      "crime resolution",
+      "enables",
+      "criminal justice system"
+    ],
+    [
+      "crime resolution",
+      "enhances",
+      "court presentation"
+    ],
+    [
+      "crime resolution",
+      "ensures",
+      "evidence preservation"
+    ],
+    [
+      "crime resolution",
+      "ensures",
+      "justice"
+    ],
+    [
+      "crime resolution",
+      "facilitates",
+      "identity determination"
+    ],
+    [
+      "crime resolution",
+      "facilitates",
+      "reconstruction"
+    ],
+    [
+      "crime resolution",
+      "involves",
+      "forensic applications"
+    ],
+    [
+      "crime resolution",
+      "involves",
+      "problem-solving techniques"
+    ],
+    [
+      "crime resolution",
+      "provides",
+      "investigation support"
+    ],
+    [
+      "crime resolution",
+      "provides",
+      "valuable evidence"
+    ],
+    [
+      "crime resolution",
+      "utilizes",
+      "forensic science"
+    ],
+    [
+      "crime resolution",
+      "utilizes",
+      "forensic techniques"
+    ],
+    [
+      "crime resolution",
+      "utilizes",
+      "scientific methods"
+    ],
+    [
+      "crime scene investigation",
+      "aids",
+      "substance identification"
+    ],
+    [
+      "crime scene investigation",
+      "enhances",
+      "advanced technology"
+    ],
+    [
+      "crime scene investigation",
+      "enhances",
+      "problem-solving techniques"
+    ],
+    [
+      "crime scene investigation",
+      "establishes",
+      "cause of death"
+    ],
+    [
+      "crime scene investigation",
+      "informs",
+      "criminal justice system"
+    ],
+    [
+      "crime scene investigation",
+      "informs",
+      "logical conclusions"
+    ],
+    [
+      "crime scene investigation",
+      "involves",
+      "chemical analysis"
+    ],
+    [
+      "crime scene investigation",
+      "involves",
+      "physical characteristics"
+    ],
+    [
+      "crime scene investigation",
+      "involves",
+      "scientific principles"
+    ],
+    [
+      "crime scene investigation",
+      "is enhanced by",
+      "reliability"
+    ],
+    [
+      "crime scene investigation",
+      "is essential for",
+      "crime investigation"
+    ],
+    [
+      "crime scene investigation",
+      "is part of",
+      "modern investigations"
+    ],
+    [
+      "crime scene investigation",
+      "reveals",
+      "hidden clues"
+    ],
+    [
+      "crime scene investigation",
+      "supports",
+      "expert witnesses"
+    ],
+    [
+      "crime scene investigation",
+      "utilizes",
+      "forensic techniques"
+    ],
+    [
+      "crime scene investigation",
+      "utilizes",
+      "mass spectrometry"
+    ],
+    [
+      "crime scene investigation",
+      "utilizes",
+      "scientific methods"
+    ],
+    [
+      "crime scene investigation",
+      "utilizes",
+      "trace evidence"
+    ],
+    [
+      "criminal justice system",
+      "aids in",
+      "reconstruction"
+    ],
+    [
+      "criminal justice system",
+      "analyzes",
+      "trace evidence"
+    ],
+    [
+      "criminal justice system",
+      "determines",
+      "cause of death"
+    ],
+    [
+      "criminal justice system",
+      "determines",
+      "identity determination"
+    ],
+    [
+      "criminal justice system",
+      "drives",
+      "technological advancements"
+    ],
+    [
+      "criminal justice system",
+      "facilitates",
+      "evidence collection"
+    ],
+    [
+      "criminal justice system",
+      "informs",
+      "investigative techniques"
+    ],
+    [
+      "criminal justice system",
+      "informs",
+      "logical conclusions"
+    ],
+    [
+      "criminal justice system",
+      "involves",
+      "evidence analysis"
+    ],
+    [
+      "criminal justice system",
+      "provides",
+      "investigation support"
+    ],
+    [
+      "criminal justice system",
+      "requires",
+      "attention to detail"
+    ],
+    [
+      "criminal justice system",
+      "reveals",
+      "hidden clues"
+    ],
+    [
+      "criminal justice system",
+      "supports",
+      "crime investigation"
+    ],
+    [
+      "criminal justice system",
+      "supports",
+      "prosecution assistance"
+    ],
+    [
+      "criminal justice system",
+      "upholds",
+      "justice"
+    ],
+    [
+      "criminal justice system",
+      "utilizes",
+      "forensic science"
+    ],
+    [
+      "criminal justice system",
+      "utilizes",
+      "forensic techniques"
+    ],
+    [
+      "criminal justice system",
+      "utilizes",
+      "scientific methods"
+    ],
+    [
+      "critical thinking",
+      "aids",
+      "prosecution assistance"
+    ],
+    [
+      "critical thinking",
+      "analyzes",
+      "physical characteristics"
+    ],
+    [
+      "critical thinking",
+      "enables",
+      "logical conclusions"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "crime investigation"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "expert witnesses"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "problem-solving"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "problem-solving techniques"
+    ],
+    [
+      "critical thinking",
+      "solves",
+      "complex puzzles"
+    ],
+    [
+      "critical thinking",
+      "supports",
+      "interdisciplinary approach"
+    ],
+    [
+      "critical thinking",
+      "supports",
+      "investigation support"
+    ],
+    [
+      "critical thinking",
+      "supports",
+      "valuable evidence"
+    ],
+    [
+      "data analysis",
+      "aids in",
+      "reconstruction"
+    ],
+    [
+      "data analysis",
+      "contributes to",
+      "crime resolution"
+    ],
+    [
+      "data analysis",
+      "describes",
+      "physical characteristics"
+    ],
+    [
+      "data analysis",
+      "determines",
+      "cause of death"
+    ],
+    [
+      "data analysis",
+      "drives",
+      "technological advancements"
+    ],
+    [
+      "data analysis",
+      "enables",
+      "substance identification"
+    ],
+    [
+      "data analysis",
+      "enhances",
+      "crime investigation"
+    ],
+    [
+      "data analysis",
+      "enhances",
+      "evidence collection"
+    ],
+    [
+      "data analysis",
+      "enhances",
+      "modern investigations"
+    ],
+    [
+      "data analysis",
+      "ensures",
+      "evidence preservation"
+    ],
+    [
+      "data analysis",
+      "involves",
+      "forensic techniques"
+    ],
+    [
+      "data analysis",
+      "involves",
+      "trace evidence"
+    ],
+    [
+      "data analysis",
+      "is a part of",
+      "forensic science"
+    ],
+    [
+      "data analysis",
+      "requires",
+      "analytical skills"
+    ],
+    [
+      "data analysis",
+      "supports",
+      "crime scene investigation"
+    ],
+    [
+      "data analysis",
+      "supports",
+      "problem-solving techniques"
+    ],
+    [
+      "data analysis",
+      "utilizes",
+      "mass spectrometry"
+    ],
+    [
+      "data analysis",
+      "utilizes",
+      "scanning electron microscopy"
+    ],
+    [
+      "data analysis",
+      "utilizes",
+      "sophisticated techniques"
+    ],
+    [
+      "evidence analysis",
+      "addresses",
+      "legal issues"
+    ],
+    [
+      "evidence analysis",
+      "applies",
+      "scientific principles"
+    ],
+    [
+      "evidence analysis",
+      "collaborates with",
+      "law enforcement collaboration"
+    ],
+    [
+      "evidence analysis",
+      "complements",
+      "evidence cataloging"
+    ],
+    [
+      "evidence analysis",
+      "contributes to",
+      "crime resolution"
+    ],
+    [
+      "evidence analysis",
+      "improves",
+      "technological advancements"
+    ],
+    [
+      "evidence analysis",
+      "involves",
+      "biological analysis"
+    ],
+    [
+      "evidence analysis",
+      "involves",
+      "chemical analysis"
+    ],
+    [
+      "evidence analysis",
+      "requires",
+      "complex puzzles"
+    ],
+    [
+      "evidence analysis",
+      "reveals",
+      "hidden clues"
+    ],
+    [
+      "evidence analysis",
+      "supports",
+      "modern investigations"
+    ],
+    [
+      "evidence analysis",
+      "utilizes",
+      "analytical methods"
+    ],
+    [
+      "evidence analysis",
+      "utilizes",
+      "interdisciplinary approach"
+    ],
+    [
+      "evidence cataloging",
+      "is part of",
+      "meticulous documentation"
+    ],
+    [
+      "evidence cataloging",
+      "is utilized in",
+      "sophisticated techniques"
+    ],
+    [
+      "evidence cataloging",
+      "supports",
+      "forensic applications"
+    ],
+    [
+      "evidence cataloging",
+      "supports",
+      "valuable evidence"
+    ],
+    [
+      "evidence collection",
+      "analyzes",
+      "physical characteristics"
+    ],
+    [
+      "evidence collection",
+      "contributes to",
+      "crime resolution"
+    ],
+    [
+      "evidence collection",
+      "enhances",
+      "problem-solving techniques"
+    ],
+    [
+      "evidence collection",
+      "enhances",
+      "sophisticated techniques"
+    ],
+    [
+      "evidence collection",
+      "facilitates",
+      "substance identification"
+    ],
+    [
+      "evidence collection",
+      "informs",
+      "scientific principles"
+    ],
+    [
+      "evidence collection",
+      "involves",
+      "biological analysis"
+    ],
+    [
+      "evidence collection",
+      "involves",
+      "expert witnesses"
+    ],
+    [
+      "evidence collection",
+      "involves",
+      "trace evidence"
+    ],
+    [
+      "evidence collection",
+      "is part of",
+      "modern investigations"
+    ],
+    [
+      "evidence collection",
+      "is presented in",
+      "court presentation"
+    ],
+    [
+      "evidence collection",
+      "is utilized in",
+      "mass spectrometry"
+    ],
+    [
+      "evidence collection",
+      "produces",
+      "valuable evidence"
+    ],
+    [
+      "evidence collection",
+      "supports",
+      "crime investigation"
+    ],
+    [
+      "evidence collection",
+      "supports",
+      "reconstruction"
+    ],
+    [
+      "evidence collection",
+      "utilizes",
+      "advanced instrumentation"
+    ],
+    [
+      "evidence collection",
+      "utilizes",
+      "advanced technology"
+    ],
+    [
+      "evidence preservation",
+      "determined by",
+      "cause of death"
+    ],
+    [
+      "evidence preservation",
+      "ensures",
+      "scientific principles"
+    ],
+    [
+      "evidence preservation",
+      "requires",
+      "interdisciplinary approach"
+    ],
+    [
+      "evidence preservation",
+      "requires",
+      "valuable evidence"
+    ],
+    [
+      "evidence preservation",
+      "supports",
+      "problem-solving"
+    ],
+    [
+      "expert witnesses",
+      "aids in",
+      "crime resolution"
+    ],
+    [
+      "expert witnesses",
+      "analyzes",
+      "trace evidence"
+    ],
+    [
+      "expert witnesses",
+      "benefit from",
+      "meticulous documentation"
+    ],
+    [
+      "expert witnesses",
+      "contributes to",
+      "problem-solving"
+    ],
+    [
+      "expert witnesses",
+      "demands",
+      "attention to detail"
+    ],
+    [
+      "expert witnesses",
+      "determines",
+      "cause of death"
+    ],
+    [
+      "expert witnesses",
+      "enhances",
+      "accuracy"
+    ],
+    [
+      "expert witnesses",
+      "facilitates",
+      "evidence cataloging"
+    ],
+    [
+      "expert witnesses",
+      "indicates",
+      "hidden clues"
+    ],
+    [
+      "expert witnesses",
+      "provides",
+      "complex puzzles"
+    ],
+    [
+      "expert witnesses",
+      "provides",
+      "valuable evidence"
+    ],
+    [
+      "expert witnesses",
+      "relies on",
+      "criminal justice system"
+    ],
+    [
+      "expert witnesses",
+      "supports",
+      "law enforcement collaboration"
+    ],
+    [
+      "expert witnesses",
+      "supports",
+      "modern investigations"
+    ],
+    [
+      "expert witnesses",
+      "testifies as",
+      "scientific principles"
+    ],
+    [
+      "expert witnesses",
+      "testifies for",
+      "justice"
+    ],
+    [
+      "expert witnesses",
+      "testify for",
+      "forensic science"
+    ],
+    [
+      "expert witnesses",
+      "utilizes",
+      "forensic techniques"
+    ],
+    [
+      "expert witnesses",
+      "validated by",
+      "reliability"
+    ],
+    [
+      "forensic applications",
+      "applies",
+      "physical characteristics"
+    ],
+    [
+      "forensic applications",
+      "applies",
+      "sophisticated techniques"
+    ],
+    [
+      "forensic applications",
+      "is applied in",
+      "scientific principles"
+    ],
+    [
+      "forensic applications",
+      "supports",
+      "logical conclusions"
+    ],
+    [
+      "forensic applications",
+      "utilizes",
+      "prosecution assistance"
+    ],
+    [
+      "forensic science",
+      "encompasses",
+      "crime scene investigation"
+    ],
+    [
+      "forensic science",
+      "informs",
+      "trace evidence"
+    ],
+    [
+      "forensic science",
+      "is a component of",
+      "reconstruction"
+    ],
+    [
+      "forensic techniques",
+      "encompasses",
+      "forensic science"
+    ],
+    [
+      "forensic techniques",
+      "enhances",
+      "advanced instrumentation"
+    ],
+    [
+      "forensic techniques",
+      "is utilized by",
+      "criminal justice system"
+    ],
+    [
+      "hidden clues",
+      "aids in",
+      "substance identification"
+    ],
+    [
+      "hidden clues",
+      "analyzed by",
+      "mass spectrometry"
+    ],
+    [
+      "hidden clues",
+      "contributes to",
+      "reconstruction"
+    ],
+    [
+      "hidden clues",
+      "employs",
+      "forensic techniques"
+    ],
+    [
+      "hidden clues",
+      "is pursued by",
+      "justice"
+    ],
+    [
+      "hidden clues",
+      "is uncovered by",
+      "solving crimes"
+    ],
+    [
+      "hidden clues",
+      "reveals",
+      "investigation support"
+    ],
+    [
+      "hidden clues",
+      "reveals",
+      "valuable evidence"
+    ],
+    [
+      "hidden clues",
+      "supports",
+      "evidence cataloging"
+    ],
+    [
+      "hidden clues",
+      "supports",
+      "forensic applications"
+    ],
+    [
+      "hidden clues",
+      "supports",
+      "problem-solving"
+    ],
+    [
+      "hidden clues",
+      "supports",
+      "prosecution assistance"
+    ],
+    [
+      "hidden clues",
+      "utilizes",
+      "forensic science"
+    ],
+    [
+      "hidden clues",
+      "utilizes",
+      "problem-solving techniques"
+    ],
+    [
+      "identity determination",
+      "achieved through",
+      "scientific methods"
+    ],
+    [
+      "identity determination",
+      "applies",
+      "forensic applications"
+    ],
+    [
+      "identity determination",
+      "determines",
+      "modern investigations"
+    ],
+    [
+      "identity determination",
+      "determines",
+      "physical characteristics"
+    ],
+    [
+      "identity determination",
+      "employs",
+      "analytical methods"
+    ],
+    [
+      "identity determination",
+      "facilitates",
+      "advanced instrumentation"
+    ],
+    [
+      "identity determination",
+      "facilitates",
+      "evidence preservation"
+    ],
+    [
+      "identity determination",
+      "informs",
+      "data analysis"
+    ],
+    [
+      "identity determination",
+      "involves",
+      "scientific principles"
+    ],
+    [
+      "identity determination",
+      "reveals",
+      "hidden clues"
+    ],
+    [
+      "identity determination",
+      "supports",
+      "technological advancements"
+    ],
+    [
+      "interdisciplinary approach",
+      "informs",
+      "physical characteristics"
+    ],
+    [
+      "interdisciplinary approach",
+      "involves",
+      "evidence cataloging"
+    ],
+    [
+      "interdisciplinary approach",
+      "is supported by",
+      "critical thinking"
+    ],
+    [
+      "investigation support",
+      "assists",
+      "prosecution assistance"
+    ],
+    [
+      "investigation support",
+      "ensures",
+      "justice"
+    ],
+    [
+      "investigation support",
+      "provides",
+      "evidence cataloging"
+    ],
+    [
+      "investigation support",
+      "provides",
+      "legal issues"
+    ],
+    [
+      "investigation support",
+      "provides",
+      "problem-solving"
+    ],
+    [
+      "investigation support",
+      "receives support from",
+      "criminal justice system"
+    ],
+    [
+      "investigation support",
+      "supports",
+      "accuracy"
+    ],
+    [
+      "investigation support",
+      "supports",
+      "complex puzzles"
+    ],
+    [
+      "investigation support",
+      "supports",
+      "court presentation"
+    ],
+    [
+      "investigation support",
+      "supports",
+      "meticulous documentation"
+    ],
+    [
+      "investigative techniques",
+      "addresses",
+      "legal issues"
+    ],
+    [
+      "investigative techniques",
+      "applies",
+      "forensic applications"
+    ],
+    [
+      "investigative techniques",
+      "complements",
+      "forensic techniques"
+    ],
+    [
+      "investigative techniques",
+      "contributes to",
+      "valuable evidence"
+    ],
+    [
+      "investigative techniques",
+      "determines",
+      "cause of death"
+    ],
+    [
+      "investigative techniques",
+      "determines",
+      "identity determination"
+    ],
+    [
+      "investigative techniques",
+      "enhances",
+      "advanced technology"
+    ],
+    [
+      "investigative techniques",
+      "ensures",
+      "reliability"
+    ],
+    [
+      "investigative techniques",
+      "facilitates",
+      "solving crimes"
+    ],
+    [
+      "investigative techniques",
+      "improves",
+      "technological advancements"
+    ],
+    [
+      "investigative techniques",
+      "informs",
+      "forensic science"
+    ],
+    [
+      "investigative techniques",
+      "informs",
+      "physical characteristics"
+    ],
+    [
+      "investigative techniques",
+      "informs",
+      "scientific principles"
+    ],
+    [
+      "investigative techniques",
+      "involves",
+      "scanning electron microscopy"
+    ],
+    [
+      "investigative techniques",
+      "provides",
+      "expert witnesses"
+    ],
+    [
+      "investigative techniques",
+      "requires",
+      "evidence preservation"
+    ],
+    [
+      "investigative techniques",
+      "solves",
+      "complex puzzles"
+    ],
+    [
+      "investigative techniques",
+      "supports",
+      "crime scene investigation"
+    ],
+    [
+      "investigative techniques",
+      "uncovers",
+      "hidden clues"
+    ],
+    [
+      "investigative techniques",
+      "utilizes",
+      "advanced instrumentation"
+    ],
+    [
+      "investigative techniques",
+      "utilizes",
+      "mass spectrometry"
+    ],
+    [
+      "investigative techniques",
+      "utilizes",
+      "trace evidence"
+    ],
+    [
+      "justice",
+      "ensures",
+      "meticulous documentation"
+    ],
+    [
+      "justice",
+      "ensures",
+      "pressure work"
+    ],
+    [
+      "justice",
+      "ensures",
+      "reliability"
+    ],
+    [
+      "justice",
+      "ensures",
+      "solving crimes"
+    ],
+    [
+      "justice",
+      "facilitates",
+      "reconstruction"
+    ],
+    [
+      "justice",
+      "supports",
+      "logical conclusions"
+    ],
+    [
+      "law enforcement collaboration",
+      "aids",
+      "substance identification"
+    ],
+    [
+      "law enforcement collaboration",
+      "facilitates",
+      "advanced instrumentation"
+    ],
+    [
+      "law enforcement collaboration",
+      "facilitates",
+      "criminal justice system"
+    ],
+    [
+      "law enforcement collaboration",
+      "involves",
+      "physical characteristics"
+    ],
+    [
+      "law enforcement collaboration",
+      "provides",
+      "prosecution assistance"
+    ],
+    [
+      "law enforcement collaboration",
+      "requires",
+      "communication skills"
+    ],
+    [
+      "law enforcement collaboration",
+      "requires",
+      "pressure work"
+    ],
+    [
+      "law enforcement collaboration",
+      "supports",
+      "evidence preservation"
+    ],
+    [
+      "legal issues",
+      "addresses",
+      "data analysis"
+    ],
+    [
+      "legal issues",
+      "affects",
+      "logical conclusions"
+    ],
+    [
+      "legal issues",
+      "applies",
+      "forensic applications"
+    ],
+    [
+      "legal issues",
+      "enables",
+      "reconstruction"
+    ],
+    [
+      "legal issues",
+      "ensures",
+      "accountability"
+    ],
+    [
+      "legal issues",
+      "facilitates",
+      "court presentation"
+    ],
+    [
+      "legal issues",
+      "influences",
+      "physical characteristics"
+    ],
+    [
+      "legal issues",
+      "informs",
+      "scientific methods"
+    ],
+    [
+      "legal issues",
+      "involves",
+      "biological analysis"
+    ],
+    [
+      "legal issues",
+      "involves",
+      "chemical analysis"
+    ],
+    [
+      "legal issues",
+      "involves",
+      "crime scene investigation"
+    ],
+    [
+      "legal issues",
+      "involves",
+      "evidence cataloging"
+    ],
+    [
+      "legal issues",
+      "is addressed by",
+      "modern investigations"
+    ],
+    [
+      "legal issues",
+      "is analyzed in",
+      "forensic science"
+    ],
+    [
+      "legal issues",
+      "is informed by",
+      "scientific principles"
+    ],
+    [
+      "legal issues",
+      "is resolved by",
+      "crime resolution"
+    ],
+    [
+      "legal issues",
+      "provides",
+      "valuable evidence"
+    ],
+    [
+      "legal issues",
+      "testifies for",
+      "expert witnesses"
+    ],
+    [
+      "legal issues",
+      "utilizes",
+      "mass spectrometry"
+    ],
+    [
+      "legal issues",
+      "utilizes",
+      "scanning electron microscopy"
+    ],
+    [
+      "logical conclusions",
+      "aids in",
+      "solving crimes"
+    ],
+    [
+      "logical conclusions",
+      "derived from",
+      "expert witnesses"
+    ],
+    [
+      "logical conclusions",
+      "determines",
+      "cause of death"
+    ],
+    [
+      "logical conclusions",
+      "enables",
+      "identity determination"
+    ],
+    [
+      "logical conclusions",
+      "enhances",
+      "law enforcement collaboration"
+    ],
+    [
+      "logical conclusions",
+      "enhances",
+      "technological advancements"
+    ],
+    [
+      "logical conclusions",
+      "informs",
+      "forensic science"
+    ],
+    [
+      "logical conclusions",
+      "informs",
+      "investigative techniques"
+    ],
+    [
+      "logical conclusions",
+      "informs",
+      "scientific methods"
+    ],
+    [
+      "logical conclusions",
+      "involves",
+      "interdisciplinary approach"
+    ],
+    [
+      "logical conclusions",
+      "is derived from",
+      "meticulous documentation"
+    ],
+    [
+      "logical conclusions",
+      "is utilized in",
+      "forensic applications"
+    ],
+    [
+      "logical conclusions",
+      "leads to",
+      "crime resolution"
+    ],
+    [
+      "logical conclusions",
+      "supports",
+      "critical thinking"
+    ],
+    [
+      "logical conclusions",
+      "supports",
+      "investigation support"
+    ],
+    [
+      "logical conclusions",
+      "supports",
+      "modern investigations"
+    ],
+    [
+      "logical conclusions",
+      "utilizes",
+      "scanning electron microscopy"
+    ],
+    [
+      "mass spectrometry",
+      "analyzes",
+      "physical characteristics"
+    ],
+    [
+      "mass spectrometry",
+      "applies",
+      "scientific methods"
+    ],
+    [
+      "mass spectrometry",
+      "enhances",
+      "problem-solving techniques"
+    ],
+    [
+      "mass spectrometry",
+      "enhances",
+      "reliability"
+    ],
+    [
+      "mass spectrometry",
+      "identified by",
+      "cause of death"
+    ],
+    [
+      "mass spectrometry",
+      "informs",
+      "logical conclusions"
+    ],
+    [
+      "mass spectrometry",
+      "is a method used in",
+      "forensic science"
+    ],
+    [
+      "mass spectrometry",
+      "is enhanced by",
+      "prosecution assistance"
+    ],
+    [
+      "mass spectrometry",
+      "utilizes",
+      "criminal justice system"
+    ],
+    [
+      "mass spectrometry",
+      "utilizes",
+      "forensic techniques"
+    ],
+    [
+      "mass spectrometry",
+      "utilizes",
+      "trace evidence"
+    ],
+    [
+      "meticulous documentation",
+      "facilitates",
+      "problem-solving"
+    ],
+    [
+      "meticulous documentation",
+      "facilitates",
+      "reconstruction"
+    ],
+    [
+      "meticulous documentation",
+      "supports",
+      "logical conclusions"
+    ],
+    [
+      "meticulous documentation",
+      "supports",
+      "prosecution assistance"
+    ],
+    [
+      "meticulous documentation",
+      "uncovers",
+      "hidden clues"
+    ],
+    [
+      "modern investigations",
+      "depends on",
+      "solving crimes"
+    ],
+    [
+      "modern investigations",
+      "enhances",
+      "problem-solving techniques"
+    ],
+    [
+      "modern investigations",
+      "involves",
+      "forensic techniques"
+    ],
+    [
+      "modern investigations",
+      "involves",
+      "pressure work"
+    ],
+    [
+      "modern investigations",
+      "involves",
+      "substance identification"
+    ],
+    [
+      "modern investigations",
+      "is part of",
+      "crime investigation"
+    ],
+    [
+      "modern investigations",
+      "provides",
+      "investigation support"
+    ],
+    [
+      "modern investigations",
+      "requires",
+      "attention to detail"
+    ],
+    [
+      "modern investigations",
+      "reveals",
+      "hidden clues"
+    ],
+    [
+      "modern investigations",
+      "supports",
+      "complex puzzles"
+    ],
+    [
+      "modern investigations",
+      "utilizes",
+      "scanning electron microscopy"
+    ],
+    [
+      "modern investigations",
+      "utilizes",
+      "scientific methods"
+    ],
+    [
+      "modern investigations",
+      "utilizes",
+      "sophisticated techniques"
+    ],
+    [
+      "physical characteristics",
+      "involves",
+      "court presentation"
+    ],
+    [
+      "physical characteristics",
+      "is a component of",
+      "forensic science"
+    ],
+    [
+      "physical characteristics",
+      "supports",
+      "justice"
+    ],
+    [
+      "pressure work",
+      "analyzes",
+      "physical characteristics"
+    ],
+    [
+      "pressure work",
+      "enhances",
+      "communication skills"
+    ],
+    [
+      "pressure work",
+      "enhances",
+      "data analysis"
+    ],
+    [
+      "pressure work",
+      "involves",
+      "cause of death"
+    ],
+    [
+      "pressure work",
+      "involves",
+      "problem-solving"
+    ],
+    [
+      "pressure work",
+      "involves",
+      "substance identification"
+    ],
+    [
+      "pressure work",
+      "is influenced by",
+      "evidence analysis"
+    ],
+    [
+      "pressure work",
+      "requires",
+      "advanced instrumentation"
+    ],
+    [
+      "pressure work",
+      "requires",
+      "expert witnesses"
+    ],
+    [
+      "problem-solving techniques",
+      "enhances",
+      "advanced instrumentation"
+    ],
+    [
+      "problem-solving techniques",
+      "enhances",
+      "criminal justice system"
+    ],
+    [
+      "problem-solving techniques",
+      "enhances",
+      "forensic techniques"
+    ],
+    [
+      "prosecution assistance",
+      "enhances",
+      "advanced instrumentation"
+    ],
+    [
+      "prosecution assistance",
+      "enhances",
+      "problem-solving techniques"
+    ],
+    [
+      "prosecution assistance",
+      "facilitates",
+      "evidence cataloging"
+    ],
+    [
+      "prosecution assistance",
+      "facilitates",
+      "reconstruction"
+    ],
+    [
+      "prosecution assistance",
+      "facilitates",
+      "substance identification"
+    ],
+    [
+      "prosecution assistance",
+      "provides",
+      "crime scene investigation"
+    ],
+    [
+      "prosecution assistance",
+      "supports",
+      "biological analysis"
+    ],
+    [
+      "prosecution assistance",
+      "supports",
+      "justice"
+    ],
+    [
+      "reconstruction",
+      "aids",
+      "problem-solving"
+    ],
+    [
+      "reconstruction",
+      "involves",
+      "evidence cataloging"
+    ],
+    [
+      "reconstruction",
+      "supports",
+      "pressure work"
+    ],
+    [
+      "reconstruction",
+      "supports",
+      "sophisticated techniques"
+    ],
+    [
+      "reliability",
+      "affects",
+      "legal issues"
+    ],
+    [
+      "reliability",
+      "contributes to",
+      "crime resolution"
+    ],
+    [
+      "reliability",
+      "depends on",
+      "advanced technology"
+    ],
+    [
+      "reliability",
+      "enhances",
+      "accuracy"
+    ],
+    [
+      "reliability",
+      "enhances",
+      "advanced instrumentation"
+    ],
+    [
+      "reliability",
+      "enhances",
+      "analytical methods"
+    ],
+    [
+      "reliability",
+      "enhances",
+      "forensic science"
+    ],
+    [
+      "reliability",
+      "enhances",
+      "forensic techniques"
+    ],
+    [
+      "reliability",
+      "enhances",
+      "interdisciplinary approach"
+    ],
+    [
+      "reliability",
+      "enhances",
+      "law enforcement collaboration"
+    ],
+    [
+      "reliability",
+      "ensures",
+      "accountability"
+    ],
+    [
+      "reliability",
+      "ensures",
+      "complex puzzles"
+    ],
+    [
+      "reliability",
+      "ensures",
+      "logical conclusions"
+    ],
+    [
+      "reliability",
+      "facilitates",
+      "physical characteristics"
+    ],
+    [
+      "reliability",
+      "improves",
+      "evidence cataloging"
+    ],
+    [
+      "scanning electron microscopy",
+      "analyzes",
+      "trace evidence"
+    ],
+    [
+      "scanning electron microscopy",
+      "applies",
+      "forensic applications"
+    ],
+    [
+      "scanning electron microscopy",
+      "complements",
+      "mass spectrometry"
+    ],
+    [
+      "scanning electron microscopy",
+      "enhances",
+      "accuracy"
+    ],
+    [
+      "scanning electron microscopy",
+      "examines",
+      "physical characteristics"
+    ],
+    [
+      "scanning electron microscopy",
+      "involves",
+      "biological analysis"
+    ],
+    [
+      "scanning electron microscopy",
+      "is performed using",
+      "evidence analysis"
+    ],
+    [
+      "scanning electron microscopy",
+      "is presented in",
+      "court presentation"
+    ],
+    [
+      "scanning electron microscopy",
+      "provides",
+      "valuable evidence"
+    ],
+    [
+      "scanning electron microscopy",
+      "requires",
+      "advanced instrumentation"
+    ],
+    [
+      "scanning electron microscopy",
+      "supports",
+      "evidence cataloging"
+    ],
+    [
+      "scanning electron microscopy",
+      "utilizes",
+      "analytical skills"
+    ],
+    [
+      "scanning electron microscopy",
+      "utilizes",
+      "crime scene investigation"
+    ],
+    [
+      "scanning electron microscopy",
+      "utilizes",
+      "expert witnesses"
+    ],
+    [
+      "scientific methods",
+      "analyzes",
+      "trace evidence"
+    ],
+    [
+      "scientific methods",
+      "comprises",
+      "interdisciplinary approach"
+    ],
+    [
+      "scientific methods",
+      "enhances",
+      "advanced instrumentation"
+    ],
+    [
+      "scientific methods",
+      "includes",
+      "forensic techniques"
+    ],
+    [
+      "scientific methods",
+      "informs",
+      "data analysis"
+    ],
+    [
+      "scientific methods",
+      "informs",
+      "forensic science"
+    ],
+    [
+      "scientific methods",
+      "involves",
+      "evidence cataloging"
+    ],
+    [
+      "scientific methods",
+      "is used for",
+      "reconstruction"
+    ],
+    [
+      "scientific methods",
+      "reveals",
+      "hidden clues"
+    ],
+    [
+      "scientific methods",
+      "supports",
+      "evidence preservation"
+    ],
+    [
+      "scientific methods",
+      "supports",
+      "law enforcement collaboration"
+    ],
+    [
+      "scientific principles",
+      "applies to",
+      "forensic applications"
+    ],
+    [
+      "scientific principles",
+      "guides",
+      "evidence collection"
+    ],
+    [
+      "scientific principles",
+      "informs",
+      "interdisciplinary approach"
+    ],
+    [
+      "scientific principles",
+      "informs",
+      "logical conclusions"
+    ],
+    [
+      "scientific principles",
+      "requires",
+      "communication skills"
+    ],
+    [
+      "scientific principles",
+      "supports",
+      "justice"
+    ],
+    [
+      "scientific principles",
+      "supports",
+      "reliability"
+    ],
+    [
+      "scientific principles",
+      "underpins",
+      "forensic science"
+    ],
+    [
+      "scientific principles",
+      "underpins",
+      "scientific methods"
+    ],
+    [
+      "solving crimes",
+      "achieves",
+      "crime resolution"
+    ],
+    [
+      "solving crimes",
+      "collaborates with",
+      "law enforcement collaboration"
+    ],
+    [
+      "solving crimes",
+      "employs",
+      "problem-solving techniques"
+    ],
+    [
+      "solving crimes",
+      "employs",
+      "scanning electron microscopy"
+    ],
+    [
+      "solving crimes",
+      "enables",
+      "substance identification"
+    ],
+    [
+      "solving crimes",
+      "enhances",
+      "attention to detail"
+    ],
+    [
+      "solving crimes",
+      "facilitates",
+      "chemical analysis"
+    ],
+    [
+      "solving crimes",
+      "facilitates",
+      "modern investigations"
+    ],
+    [
+      "solving crimes",
+      "improves",
+      "accuracy"
+    ],
+    [
+      "solving crimes",
+      "involves",
+      "biological analysis"
+    ],
+    [
+      "solving crimes",
+      "involves",
+      "identity determination"
+    ],
+    [
+      "solving crimes",
+      "involves",
+      "problem-solving"
+    ],
+    [
+      "solving crimes",
+      "is facilitated by",
+      "forensic science"
+    ],
+    [
+      "solving crimes",
+      "is supported by",
+      "forensic techniques"
+    ],
+    [
+      "solving crimes",
+      "provides",
+      "prosecution assistance"
+    ],
+    [
+      "solving crimes",
+      "requires",
+      "communication skills"
+    ],
+    [
+      "solving crimes",
+      "requires",
+      "meticulous documentation"
+    ],
+    [
+      "solving crimes",
+      "reveals",
+      "hidden clues"
+    ],
+    [
+      "solving crimes",
+      "utilizes",
+      "data analysis"
+    ],
+    [
+      "solving crimes",
+      "utilizes",
+      "forensic applications"
+    ],
+    [
+      "solving crimes",
+      "utilizes",
+      "interdisciplinary approach"
+    ],
+    [
+      "solving crimes",
+      "utilizes",
+      "scientific methods"
+    ],
+    [
+      "solving crimes",
+      "utilizes",
+      "sophisticated techniques"
+    ],
+    [
+      "solving crimes",
+      "utilizes",
+      "trace evidence"
+    ],
+    [
+      "sophisticated techniques",
+      "provides",
+      "prosecution assistance"
+    ],
+    [
+      "sophisticated techniques",
+      "reveals",
+      "hidden clues"
+    ],
+    [
+      "sophisticated techniques",
+      "utilizes",
+      "criminal justice system"
+    ],
+    [
+      "substance identification",
+      "enables",
+      "criminal justice system"
+    ],
+    [
+      "substance identification",
+      "facilitates",
+      "forensic techniques"
+    ],
+    [
+      "substance identification",
+      "informs",
+      "identity determination"
+    ],
+    [
+      "substance identification",
+      "is aided by",
+      "law enforcement collaboration"
+    ],
+    [
+      "substance identification",
+      "requires",
+      "evidence cataloging"
+    ],
+    [
+      "substance identification",
+      "utilizes",
+      "interdisciplinary approach"
+    ],
+    [
+      "substance identification",
+      "utilizes",
+      "mass spectrometry"
+    ],
+    [
+      "technological advancements",
+      "advances",
+      "forensic science"
+    ],
+    [
+      "technological advancements",
+      "advances",
+      "scientific methods"
+    ],
+    [
+      "technological advancements",
+      "analyzes",
+      "trace evidence"
+    ],
+    [
+      "technological advancements",
+      "contributes to",
+      "valuable evidence"
+    ],
+    [
+      "technological advancements",
+      "determines",
+      "cause of death"
+    ],
+    [
+      "technological advancements",
+      "enables",
+      "forensic applications"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "advanced technology"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "court presentation"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "crime scene investigation"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "forensic techniques"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "physical characteristics"
+    ],
+    [
+      "technological advancements",
+      "ensures",
+      "evidence preservation"
+    ],
+    [
+      "technological advancements",
+      "facilitates",
+      "mass spectrometry"
+    ],
+    [
+      "technological advancements",
+      "facilitates",
+      "reconstruction"
+    ],
+    [
+      "technological advancements",
+      "improves",
+      "reliability"
+    ],
+    [
+      "technological advancements",
+      "influences",
+      "legal issues"
+    ],
+    [
+      "technological advancements",
+      "provides",
+      "expert witnesses"
+    ],
+    [
+      "technological advancements",
+      "supports",
+      "prosecution assistance"
+    ],
+    [
+      "technological advancements",
+      "underpins",
+      "scientific principles"
+    ],
+    [
+      "technological advancements",
+      "utilizes",
+      "scanning electron microscopy"
+    ],
+    [
+      "trace evidence",
+      "aids in",
+      "crime resolution"
+    ],
+    [
+      "trace evidence",
+      "analyzes",
+      "biological analysis"
+    ],
+    [
+      "trace evidence",
+      "analyzes",
+      "evidence analysis"
+    ],
+    [
+      "trace evidence",
+      "analyzes",
+      "scientific principles"
+    ],
+    [
+      "trace evidence",
+      "enhances",
+      "law enforcement collaboration"
+    ],
+    [
+      "trace evidence",
+      "ensures",
+      "evidence preservation"
+    ],
+    [
+      "trace evidence",
+      "informs",
+      "interdisciplinary approach"
+    ],
+    [
+      "trace evidence",
+      "is analyzed with",
+      "advanced instrumentation"
+    ],
+    [
+      "trace evidence",
+      "provides",
+      "scanning electron microscopy"
+    ],
+    [
+      "trace evidence",
+      "supported by",
+      "logical conclusions"
+    ],
+    [
+      "trace evidence",
+      "supports",
+      "reliability"
+    ],
+    [
+      "trace evidence",
+      "utilizes",
+      "forensic techniques"
+    ],
+    [
+      "valuable evidence",
+      "contributes to",
+      "accuracy"
+    ],
+    [
+      "valuable evidence",
+      "contributes to",
+      "meticulous documentation"
+    ],
+    [
+      "valuable evidence",
+      "enhances",
+      "communication skills"
+    ],
+    [
+      "valuable evidence",
+      "guides",
+      "scientific methods"
+    ],
+    [
+      "valuable evidence",
+      "is a focus of",
+      "forensic science"
+    ],
+    [
+      "valuable evidence",
+      "is based on",
+      "scientific principles"
+    ],
+    [
+      "valuable evidence",
+      "is derived from",
+      "trace evidence"
+    ],
+    [
+      "valuable evidence",
+      "offers",
+      "complex puzzles"
+    ],
+    [
+      "valuable evidence",
+      "provides",
+      "analytical methods"
+    ],
+    [
+      "valuable evidence",
+      "provides",
+      "cause of death"
+    ],
+    [
+      "valuable evidence",
+      "provides",
+      "crime scene investigation"
+    ],
+    [
+      "valuable evidence",
+      "provides",
+      "criminal justice system"
+    ],
+    [
+      "valuable evidence",
+      "provides",
+      "logical conclusions"
+    ],
+    [
+      "valuable evidence",
+      "provides",
+      "modern investigations"
+    ],
+    [
+      "valuable evidence",
+      "provides",
+      "problem-solving"
+    ],
+    [
+      "valuable evidence",
+      "provides",
+      "reliability"
+    ],
+    [
+      "valuable evidence",
+      "provides",
+      "sophisticated techniques"
+    ],
+    [
+      "valuable evidence",
+      "requires",
+      "pressure work"
+    ],
+    [
+      "valuable evidence",
+      "supports",
+      "justice"
+    ],
+    [
+      "valuable evidence",
+      "utilizes",
+      "advanced instrumentation"
+    ]
+  ],
+  "edges": [
+    "achieved through",
+    "achieves",
+    "addresses",
+    "advances",
+    "affects",
+    "aids",
+    "aids in",
+    "analyzed by",
+    "analyzes",
+    "applies",
+    "applies to",
+    "assists",
+    "benefit from",
+    "clarifies",
+    "collaborates with",
+    "complements",
+    "comprises",
+    "contributes to",
+    "demands",
+    "depends on",
+    "derived from",
+    "describes",
+    "determined by",
+    "determines",
+    "drives",
+    "employs",
+    "enables",
+    "encompasses",
+    "enhanced by",
+    "enhances",
+    "ensures",
+    "establishes",
+    "examines",
+    "facilitates",
+    "guides",
+    "identified by",
+    "improves",
+    "includes",
+    "increases",
+    "indicates",
+    "influences",
+    "informs",
+    "integrates",
+    "involves",
+    "is a component of",
+    "is a focus of",
+    "is a method used in",
+    "is a part of",
+    "is addressed by",
+    "is aided by",
+    "is analyzed by",
+    "is analyzed in",
+    "is analyzed with",
+    "is applied in",
+    "is based on",
+    "is derived from",
+    "is determined by",
+    "is enhanced by",
+    "is essential for",
+    "is facilitated by",
+    "is improved by",
+    "is influenced by",
+    "is informed by",
+    "is part of",
+    "is performed using",
+    "is presented in",
+    "is pursued by",
+    "is resolved by",
+    "is sought for",
+    "is supported by",
+    "is uncovered by",
+    "is used for",
+    "is utilized by",
+    "is utilized in",
+    "leads to",
+    "offers",
+    "presents",
+    "produces",
+    "promotes",
+    "provides",
+    "receives support from",
+    "relies on",
+    "requires",
+    "reveals",
+    "solves",
+    "supported by",
+    "supports",
+    "testifies as",
+    "testifies for",
+    "testify as",
+    "testify for",
+    "uncovers",
+    "underpins",
+    "upholds",
+    "utilizes",
+    "validated by"
+  ]
+}

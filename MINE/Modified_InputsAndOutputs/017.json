@@ -1,0 +1,1264 @@
+{
+  "entities": [
+    "Madagascar lemur",
+    "Mexico",
+    "airborne life",
+    "animal adaptations",
+    "axolotl",
+    "aye-aye",
+    "barreleye fish",
+    "biodiversity",
+    "common swift",
+    "deep-sea fish",
+    "efficient gliding",
+    "elongated middle finger",
+    "energy conservation",
+    "environmental challenges",
+    "evolutionary complexity",
+    "evolutionary traits",
+    "extraordinary flying abilities",
+    "flight duration",
+    "foraging techniques",
+    "ingenuity of nature",
+    "insect feeding",
+    "keratin armor",
+    "limb regeneration",
+    "mantis shrimp",
+    "medical research",
+    "migratory journeys",
+    "natural world",
+    "pangolin",
+    "powerful punch",
+    "predator-prey interactions",
+    "prey silhouette",
+    "protective scales",
+    "regenerative abilities",
+    "remarkable creatures",
+    "resilience of life",
+    "salamander",
+    "scientific insights",
+    "specialized behaviors",
+    "survival strategies",
+    "trafficking issues",
+    "tropical waters",
+    "unique features",
+    "unusual adaptations",
+    "wing shape"
+  ],
+  "relations": [
+    [
+      "Madagascar lemur",
+      "features",
+      "natural world"
+    ],
+    [
+      "Madagascar lemur",
+      "includes",
+      "remarkable creatures"
+    ],
+    [
+      "Madagascar lemur",
+      "informs",
+      "survival strategies"
+    ],
+    [
+      "Madagascar lemur",
+      "supports",
+      "biodiversity"
+    ],
+    [
+      "airborne life",
+      "demonstrates",
+      "ingenuity of nature"
+    ],
+    [
+      "airborne life",
+      "depends on",
+      "insect feeding"
+    ],
+    [
+      "airborne life",
+      "facilitates",
+      "migratory journeys"
+    ],
+    [
+      "airborne life",
+      "includes",
+      "common swift"
+    ],
+    [
+      "airborne life",
+      "influences",
+      "animal adaptations"
+    ],
+    [
+      "airborne life",
+      "is influenced by",
+      "predator-prey interactions"
+    ],
+    [
+      "animal adaptations",
+      "characterizes",
+      "protective scales"
+    ],
+    [
+      "animal adaptations",
+      "exemplifies",
+      "aye-aye"
+    ],
+    [
+      "animal adaptations",
+      "influences",
+      "migratory journeys"
+    ],
+    [
+      "animal adaptations",
+      "requires",
+      "energy conservation"
+    ],
+    [
+      "axolotl",
+      "is a",
+      "salamander"
+    ],
+    [
+      "axolotl",
+      "is a feature of",
+      "efficient gliding"
+    ],
+    [
+      "axolotl",
+      "is a feature of",
+      "resilience of life"
+    ],
+    [
+      "axolotl",
+      "is adapted for survival",
+      "extraordinary flying abilities"
+    ],
+    [
+      "axolotl",
+      "is exemplified by",
+      "ingenuity of nature"
+    ],
+    [
+      "axolotl",
+      "is possessed by",
+      "regenerative abilities"
+    ],
+    [
+      "axolotl",
+      "is studied for regeneration",
+      "protective scales"
+    ],
+    [
+      "axolotl",
+      "native to",
+      "Mexico"
+    ],
+    [
+      "aye-aye",
+      "demonstrates",
+      "evolutionary complexity"
+    ],
+    [
+      "aye-aye",
+      "exhibits",
+      "limb regeneration"
+    ],
+    [
+      "aye-aye",
+      "has a",
+      "elongated middle finger"
+    ],
+    [
+      "aye-aye",
+      "supports",
+      "survival strategies"
+    ],
+    [
+      "aye-aye",
+      "uses for foraging",
+      "elongated middle finger"
+    ],
+    [
+      "barreleye fish",
+      "can see",
+      "prey silhouette"
+    ],
+    [
+      "barreleye fish",
+      "contributes to",
+      "biodiversity"
+    ],
+    [
+      "barreleye fish",
+      "enhances",
+      "survival strategies"
+    ],
+    [
+      "barreleye fish",
+      "exhibits",
+      "animal adaptations"
+    ],
+    [
+      "barreleye fish",
+      "feeds on",
+      "insect feeding"
+    ],
+    [
+      "barreleye fish",
+      "inhabits tropical environments",
+      "tropical waters"
+    ],
+    [
+      "barreleye fish",
+      "is a",
+      "deep-sea fish"
+    ],
+    [
+      "barreleye fish",
+      "is adapted for",
+      "efficient gliding"
+    ],
+    [
+      "barreleye fish",
+      "targets",
+      "predator-prey interactions"
+    ],
+    [
+      "barreleye fish",
+      "utilizes",
+      "foraging techniques"
+    ],
+    [
+      "biodiversity",
+      "contributes to",
+      "powerful punch"
+    ],
+    [
+      "biodiversity",
+      "supports",
+      "mantis shrimp"
+    ],
+    [
+      "biodiversity",
+      "supports",
+      "migratory journeys"
+    ],
+    [
+      "common swift",
+      "enhances",
+      "biodiversity"
+    ],
+    [
+      "common swift",
+      "is a feature of",
+      "natural world"
+    ],
+    [
+      "common swift",
+      "is characterized by",
+      "wing shape"
+    ],
+    [
+      "common swift",
+      "is employed by",
+      "foraging techniques"
+    ],
+    [
+      "common swift",
+      "provides",
+      "scientific insights"
+    ],
+    [
+      "deep-sea fish",
+      "facilitates",
+      "energy conservation"
+    ],
+    [
+      "deep-sea fish",
+      "informs",
+      "scientific insights"
+    ],
+    [
+      "deep-sea fish",
+      "utilizes",
+      "efficient gliding"
+    ],
+    [
+      "efficient gliding",
+      "enables",
+      "common swift"
+    ],
+    [
+      "efficient gliding",
+      "enables",
+      "energy conservation"
+    ],
+    [
+      "efficient gliding",
+      "enables",
+      "flight duration"
+    ],
+    [
+      "efficient gliding",
+      "enables",
+      "powerful punch"
+    ],
+    [
+      "efficient gliding",
+      "enables efficient movement",
+      "wing shape"
+    ],
+    [
+      "efficient gliding",
+      "enhances",
+      "keratin armor"
+    ],
+    [
+      "efficient gliding",
+      "facilitates",
+      "insect feeding"
+    ],
+    [
+      "energy conservation",
+      "contributes to",
+      "unusual adaptations"
+    ],
+    [
+      "energy conservation",
+      "enables",
+      "animal adaptations"
+    ],
+    [
+      "energy conservation",
+      "enables",
+      "common swift"
+    ],
+    [
+      "energy conservation",
+      "informs",
+      "scientific insights"
+    ],
+    [
+      "energy conservation",
+      "requires",
+      "airborne life"
+    ],
+    [
+      "energy conservation",
+      "requires",
+      "efficient gliding"
+    ],
+    [
+      "energy conservation",
+      "requires",
+      "flight duration"
+    ],
+    [
+      "environmental challenges",
+      "challenges",
+      "efficient gliding"
+    ],
+    [
+      "environmental challenges",
+      "is challenged by",
+      "resilience of life"
+    ],
+    [
+      "environmental challenges",
+      "pose challenges to",
+      "unusual adaptations"
+    ],
+    [
+      "environmental challenges",
+      "poses challenges to",
+      "migratory journeys"
+    ],
+    [
+      "environmental challenges",
+      "presents challenges to",
+      "ingenuity of nature"
+    ],
+    [
+      "evolutionary complexity",
+      "is characterized by",
+      "airborne life"
+    ],
+    [
+      "evolutionary complexity",
+      "reflects",
+      "remarkable creatures"
+    ],
+    [
+      "evolutionary traits",
+      "exemplifies",
+      "mantis shrimp"
+    ],
+    [
+      "evolutionary traits",
+      "informs",
+      "resilience of life"
+    ],
+    [
+      "extraordinary flying abilities",
+      "faces",
+      "environmental challenges"
+    ],
+    [
+      "extraordinary flying abilities",
+      "informs",
+      "scientific insights"
+    ],
+    [
+      "extraordinary flying abilities",
+      "is a type of adaptation",
+      "unusual adaptations"
+    ],
+    [
+      "extraordinary flying abilities",
+      "showcases",
+      "ingenuity of nature"
+    ],
+    [
+      "flight duration",
+      "enables",
+      "energy conservation"
+    ],
+    [
+      "flight duration",
+      "exemplifies",
+      "unusual adaptations"
+    ],
+    [
+      "flight duration",
+      "exhibits",
+      "common swift"
+    ],
+    [
+      "flight duration",
+      "is influenced by",
+      "unique features"
+    ],
+    [
+      "foraging techniques",
+      "enhances",
+      "survival strategies"
+    ],
+    [
+      "foraging techniques",
+      "informs",
+      "Madagascar lemur"
+    ],
+    [
+      "foraging techniques",
+      "is a behavior of",
+      "aye-aye"
+    ],
+    [
+      "foraging techniques",
+      "is a type of",
+      "animal adaptations"
+    ],
+    [
+      "foraging techniques",
+      "is a type of adaptation",
+      "protective scales"
+    ],
+    [
+      "foraging techniques",
+      "provides",
+      "scientific insights"
+    ],
+    [
+      "foraging techniques",
+      "utilizes",
+      "common swift"
+    ],
+    [
+      "ingenuity of nature",
+      "embodies",
+      "unique features"
+    ],
+    [
+      "ingenuity of nature",
+      "exemplifies",
+      "mantis shrimp"
+    ],
+    [
+      "ingenuity of nature",
+      "informs",
+      "axolotl"
+    ],
+    [
+      "insect feeding",
+      "feeds on",
+      "pangolin"
+    ],
+    [
+      "insect feeding",
+      "is a behavior of",
+      "Madagascar lemur"
+    ],
+    [
+      "insect feeding",
+      "is a form of",
+      "animal adaptations"
+    ],
+    [
+      "insect feeding",
+      "is characterized by",
+      "predator-prey interactions"
+    ],
+    [
+      "insect feeding",
+      "is utilized by",
+      "aye-aye"
+    ],
+    [
+      "insect feeding",
+      "reflects",
+      "ingenuity of nature"
+    ],
+    [
+      "insect feeding",
+      "supports",
+      "biodiversity"
+    ],
+    [
+      "insect feeding",
+      "supports",
+      "natural world"
+    ],
+    [
+      "insect feeding",
+      "supports",
+      "survival strategies"
+    ],
+    [
+      "keratin armor",
+      "contributes to",
+      "biodiversity"
+    ],
+    [
+      "keratin armor",
+      "is a defense mechanism for",
+      "specialized behaviors"
+    ],
+    [
+      "keratin armor",
+      "is supported by",
+      "resilience of life"
+    ],
+    [
+      "limb regeneration",
+      "exemplifies",
+      "axolotl"
+    ],
+    [
+      "limb regeneration",
+      "facilitates",
+      "survival strategies"
+    ],
+    [
+      "limb regeneration",
+      "involves",
+      "regenerative abilities"
+    ],
+    [
+      "limb regeneration",
+      "is affected by",
+      "pangolin"
+    ],
+    [
+      "limb regeneration",
+      "is characterized by",
+      "aye-aye"
+    ],
+    [
+      "limb regeneration",
+      "is exemplified by",
+      "unusual adaptations"
+    ],
+    [
+      "mantis shrimp",
+      "exemplifies",
+      "animal adaptations"
+    ],
+    [
+      "mantis shrimp",
+      "home to",
+      "tropical waters"
+    ],
+    [
+      "mantis shrimp",
+      "is a feature of",
+      "extraordinary flying abilities"
+    ],
+    [
+      "mantis shrimp",
+      "provides",
+      "scientific insights"
+    ],
+    [
+      "medical research",
+      "advances",
+      "Madagascar lemur"
+    ],
+    [
+      "medical research",
+      "guides",
+      "evolutionary complexity"
+    ],
+    [
+      "medical research",
+      "informs",
+      "animal adaptations"
+    ],
+    [
+      "medical research",
+      "informs",
+      "aye-aye"
+    ],
+    [
+      "medical research",
+      "informs",
+      "barreleye fish"
+    ],
+    [
+      "medical research",
+      "informs",
+      "insect feeding"
+    ],
+    [
+      "medical research",
+      "investigated for",
+      "protective scales"
+    ],
+    [
+      "medical research",
+      "studied for",
+      "axolotl"
+    ],
+    [
+      "migratory journeys",
+      "enables",
+      "common swift"
+    ],
+    [
+      "migratory journeys",
+      "is a behavior of",
+      "mantis shrimp"
+    ],
+    [
+      "migratory journeys",
+      "is a behavior of",
+      "unusual adaptations"
+    ],
+    [
+      "natural world",
+      "contains adaptations",
+      "unusual adaptations"
+    ],
+    [
+      "natural world",
+      "is a characteristic of",
+      "resilience of life"
+    ],
+    [
+      "natural world",
+      "is a characteristic of",
+      "wing shape"
+    ],
+    [
+      "natural world",
+      "is influenced by the environment",
+      "migratory journeys"
+    ],
+    [
+      "natural world",
+      "is part of the ecosystem",
+      "efficient gliding"
+    ],
+    [
+      "pangolin",
+      "contributes to",
+      "extraordinary flying abilities"
+    ],
+    [
+      "pangolin",
+      "exemplifies",
+      "evolutionary traits"
+    ],
+    [
+      "pangolin",
+      "food source for",
+      "insect feeding"
+    ],
+    [
+      "pangolin",
+      "informs",
+      "scientific insights"
+    ],
+    [
+      "pangolin",
+      "is a characteristic of",
+      "limb regeneration"
+    ],
+    [
+      "pangolin",
+      "is demonstrated by",
+      "specialized behaviors"
+    ],
+    [
+      "pangolin",
+      "is found in tropical regions",
+      "tropical waters"
+    ],
+    [
+      "pangolin",
+      "possesses",
+      "unique features"
+    ],
+    [
+      "pangolin",
+      "studied for",
+      "medical research"
+    ],
+    [
+      "pangolin",
+      "threatens",
+      "biodiversity"
+    ],
+    [
+      "powerful punch",
+      "demonstrates",
+      "extraordinary flying abilities"
+    ],
+    [
+      "powerful punch",
+      "exemplifies",
+      "remarkable creatures"
+    ],
+    [
+      "powerful punch",
+      "exhibits",
+      "unique features"
+    ],
+    [
+      "powerful punch",
+      "is a characteristic of",
+      "animal adaptations"
+    ],
+    [
+      "powerful punch",
+      "is a feature of",
+      "common swift"
+    ],
+    [
+      "powerful punch",
+      "is enabled by",
+      "efficient gliding"
+    ],
+    [
+      "powerful punch",
+      "is exhibited by",
+      "specialized behaviors"
+    ],
+    [
+      "predator-prey interactions",
+      "affects",
+      "airborne life"
+    ],
+    [
+      "predator-prey interactions",
+      "affects",
+      "resilience of life"
+    ],
+    [
+      "predator-prey interactions",
+      "demonstrates",
+      "regenerative abilities"
+    ],
+    [
+      "predator-prey interactions",
+      "enhances",
+      "biodiversity"
+    ],
+    [
+      "predator-prey interactions",
+      "illustrates",
+      "remarkable creatures"
+    ],
+    [
+      "predator-prey interactions",
+      "influences",
+      "animal adaptations"
+    ],
+    [
+      "predator-prey interactions",
+      "influences",
+      "natural world"
+    ],
+    [
+      "predator-prey interactions",
+      "involves",
+      "axolotl"
+    ],
+    [
+      "predator-prey interactions",
+      "involves",
+      "aye-aye"
+    ],
+    [
+      "predator-prey interactions",
+      "involves",
+      "insect feeding"
+    ],
+    [
+      "predator-prey interactions",
+      "shapes",
+      "evolutionary traits"
+    ],
+    [
+      "protective scales",
+      "enhances",
+      "biodiversity"
+    ],
+    [
+      "protective scales",
+      "is a characteristic of",
+      "animal adaptations"
+    ],
+    [
+      "protective scales",
+      "is a type of adaptation",
+      "unusual adaptations"
+    ],
+    [
+      "protective scales",
+      "protects against",
+      "remarkable creatures"
+    ],
+    [
+      "protective scales",
+      "provides",
+      "barreleye fish"
+    ],
+    [
+      "regenerative abilities",
+      "contributes to",
+      "evolutionary traits"
+    ],
+    [
+      "regenerative abilities",
+      "enhanced by",
+      "resilience of life"
+    ],
+    [
+      "regenerative abilities",
+      "enhances",
+      "biodiversity"
+    ],
+    [
+      "regenerative abilities",
+      "informs",
+      "medical research"
+    ],
+    [
+      "regenerative abilities",
+      "informs adaptations",
+      "animal adaptations"
+    ],
+    [
+      "regenerative abilities",
+      "is a feature of",
+      "unique features"
+    ],
+    [
+      "regenerative abilities",
+      "is enhanced by",
+      "foraging techniques"
+    ],
+    [
+      "regenerative abilities",
+      "possesses",
+      "axolotl"
+    ],
+    [
+      "remarkable creatures",
+      "exemplifies",
+      "mantis shrimp"
+    ],
+    [
+      "remarkable creatures",
+      "includes",
+      "natural world"
+    ],
+    [
+      "remarkable creatures",
+      "is demonstrated by",
+      "powerful punch"
+    ],
+    [
+      "remarkable creatures",
+      "represents",
+      "aye-aye"
+    ],
+    [
+      "remarkable creatures",
+      "supports",
+      "resilience of life"
+    ],
+    [
+      "resilience of life",
+      "is studied for resilience",
+      "barreleye fish"
+    ],
+    [
+      "resilience of life",
+      "supports",
+      "animal adaptations"
+    ],
+    [
+      "resilience of life",
+      "supports",
+      "survival strategies"
+    ],
+    [
+      "scientific insights",
+      "enhances",
+      "efficient gliding"
+    ],
+    [
+      "scientific insights",
+      "enhances",
+      "resilience of life"
+    ],
+    [
+      "scientific insights",
+      "informs",
+      "limb regeneration"
+    ],
+    [
+      "scientific insights",
+      "provides",
+      "remarkable creatures"
+    ],
+    [
+      "scientific insights",
+      "provides",
+      "unusual adaptations"
+    ],
+    [
+      "scientific insights",
+      "provides insights for",
+      "axolotl"
+    ],
+    [
+      "specialized behaviors",
+      "contributes to",
+      "survival strategies"
+    ],
+    [
+      "specialized behaviors",
+      "demonstrates",
+      "pangolin"
+    ],
+    [
+      "specialized behaviors",
+      "exemplifies",
+      "Madagascar lemur"
+    ],
+    [
+      "specialized behaviors",
+      "exhibits",
+      "axolotl"
+    ],
+    [
+      "specialized behaviors",
+      "exhibits",
+      "mantis shrimp"
+    ],
+    [
+      "specialized behaviors",
+      "exhibits",
+      "powerful punch"
+    ],
+    [
+      "specialized behaviors",
+      "influences natural behaviors",
+      "natural world"
+    ],
+    [
+      "specialized behaviors",
+      "informs",
+      "foraging techniques"
+    ],
+    [
+      "specialized behaviors",
+      "informs",
+      "medical research"
+    ],
+    [
+      "specialized behaviors",
+      "is a behavior of",
+      "extraordinary flying abilities"
+    ],
+    [
+      "specialized behaviors",
+      "provides protection against",
+      "keratin armor"
+    ],
+    [
+      "survival strategies",
+      "depends on",
+      "foraging techniques"
+    ],
+    [
+      "survival strategies",
+      "influences",
+      "scientific insights"
+    ],
+    [
+      "survival strategies",
+      "is supported by",
+      "specialized behaviors"
+    ],
+    [
+      "trafficking issues",
+      "affects",
+      "pangolin"
+    ],
+    [
+      "trafficking issues",
+      "exacerbates",
+      "barreleye fish"
+    ],
+    [
+      "trafficking issues",
+      "influences",
+      "unusual adaptations"
+    ],
+    [
+      "tropical waters",
+      "enhances",
+      "scientific insights"
+    ],
+    [
+      "tropical waters",
+      "inhabits",
+      "mantis shrimp"
+    ],
+    [
+      "tropical waters",
+      "inspired by",
+      "ingenuity of nature"
+    ],
+    [
+      "tropical waters",
+      "is a behavior of species",
+      "migratory journeys"
+    ],
+    [
+      "tropical waters",
+      "is found in",
+      "powerful punch"
+    ],
+    [
+      "tropical waters",
+      "is found in tropical regions",
+      "protective scales"
+    ],
+    [
+      "tropical waters",
+      "nurtures",
+      "remarkable creatures"
+    ],
+    [
+      "tropical waters",
+      "shapes",
+      "evolutionary traits"
+    ],
+    [
+      "tropical waters",
+      "supports",
+      "biodiversity"
+    ],
+    [
+      "unique features",
+      "contributes to",
+      "biodiversity"
+    ],
+    [
+      "unique features",
+      "describes",
+      "unusual adaptations"
+    ],
+    [
+      "unique features",
+      "exhibits flying capabilities",
+      "extraordinary flying abilities"
+    ],
+    [
+      "unusual adaptations",
+      "demonstrates",
+      "limb regeneration"
+    ],
+    [
+      "unusual adaptations",
+      "influences",
+      "foraging techniques"
+    ],
+    [
+      "unusual adaptations",
+      "is a type of adaptation",
+      "axolotl"
+    ],
+    [
+      "unusual adaptations",
+      "is exemplified by",
+      "ingenuity of nature"
+    ],
+    [
+      "unusual adaptations",
+      "is exemplified by",
+      "mantis shrimp"
+    ],
+    [
+      "unusual adaptations",
+      "overcome",
+      "environmental challenges"
+    ],
+    [
+      "wing shape",
+      "addresses",
+      "environmental challenges"
+    ],
+    [
+      "wing shape",
+      "contributes to",
+      "extraordinary flying abilities"
+    ],
+    [
+      "wing shape",
+      "enhances",
+      "energy conservation"
+    ],
+    [
+      "wing shape",
+      "enhances",
+      "survival strategies"
+    ],
+    [
+      "wing shape",
+      "facilitates",
+      "migratory journeys"
+    ],
+    [
+      "wing shape",
+      "influences",
+      "evolutionary traits"
+    ],
+    [
+      "wing shape",
+      "is a component of",
+      "animal adaptations"
+    ]
+  ],
+  "edges": [
+    "addresses",
+    "advances",
+    "affects",
+    "can see",
+    "challenges",
+    "characterizes",
+    "contains adaptations",
+    "contributes to",
+    "demonstrates",
+    "depends on",
+    "describes",
+    "embodies",
+    "enables",
+    "enables efficient movement",
+    "enhanced by",
+    "enhances",
+    "exacerbates",
+    "exemplifies",
+    "exhibits",
+    "exhibits flying capabilities",
+    "faces",
+    "facilitates",
+    "features",
+    "feeds on",
+    "food source for",
+    "guides",
+    "has a",
+    "home to",
+    "illustrates",
+    "includes",
+    "influences",
+    "influences natural behaviors",
+    "informs",
+    "informs adaptations",
+    "inhabits",
+    "inhabits tropical environments",
+    "inspired by",
+    "investigated for",
+    "involves",
+    "is a",
+    "is a behavior of",
+    "is a behavior of species",
+    "is a characteristic of",
+    "is a component of",
+    "is a defense mechanism for",
+    "is a feature of",
+    "is a form of",
+    "is a type of",
+    "is a type of adaptation",
+    "is adapted for",
+    "is adapted for survival",
+    "is affected by",
+    "is challenged by",
+    "is characterized by",
+    "is demonstrated by",
+    "is employed by",
+    "is enabled by",
+    "is enhanced by",
+    "is exemplified by",
+    "is exhibited by",
+    "is found in",
+    "is found in tropical regions",
+    "is influenced by",
+    "is influenced by the environment",
+    "is part of the ecosystem",
+    "is possessed by",
+    "is studied for regeneration",
+    "is studied for resilience",
+    "is supported by",
+    "is utilized by",
+    "native to",
+    "nurtures",
+    "overcome",
+    "pose challenges to",
+    "poses challenges to",
+    "possesses",
+    "presents challenges to",
+    "protects against",
+    "provides",
+    "provides insights for",
+    "provides protection against",
+    "reflects",
+    "represents",
+    "requires",
+    "shapes",
+    "showcases",
+    "studied for",
+    "supports",
+    "targets",
+    "threatens",
+    "uses for foraging",
+    "utilizes"
+  ]
+}

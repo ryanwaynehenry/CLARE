@@ -1,0 +1,1952 @@
+{
+  "entities": [
+    "20th century",
+    "Industrial Revolution",
+    "Middle Ages",
+    "Renaissance period",
+    "art and culture",
+    "body positivity",
+    "common people",
+    "cultural identity",
+    "cultural influences",
+    "democratized fashion",
+    "department stores",
+    "designer brands",
+    "designers",
+    "diversity",
+    "eclectic styles",
+    "economic factors",
+    "elaborate garments",
+    "ethical sourcing",
+    "fashion industry",
+    "fashion magazines",
+    "fashion plates",
+    "fashion trends",
+    "historical evolution",
+    "iconic figures",
+    "individualism",
+    "influencers",
+    "luxurious fabrics",
+    "luxury fashion",
+    "mass production",
+    "nobles",
+    "political influences",
+    "printing press",
+    "ready-to-wear",
+    "recycling",
+    "religion influence",
+    "royalty",
+    "self-expression",
+    "simpler clothing",
+    "social commentary",
+    "social hierarchy",
+    "social media",
+    "social movements",
+    "sumptuary laws",
+    "sustainable fashion",
+    "trend dissemination",
+    "upcycling",
+    "wealth and status",
+    "youth culture"
+  ],
+  "relations": [
+    [
+      "20th century",
+      "characterized by",
+      "democratized fashion"
+    ],
+    [
+      "20th century",
+      "characterized by",
+      "diversity"
+    ],
+    [
+      "20th century",
+      "influenced by",
+      "historical evolution"
+    ],
+    [
+      "20th century",
+      "shaped by",
+      "influencers"
+    ],
+    [
+      "Industrial Revolution",
+      "enabled",
+      "mass production"
+    ],
+    [
+      "Industrial Revolution",
+      "facilitated by",
+      "printing press"
+    ],
+    [
+      "Industrial Revolution",
+      "influenced by",
+      "historical evolution"
+    ],
+    [
+      "Industrial Revolution",
+      "shaped by",
+      "fashion industry"
+    ],
+    [
+      "Industrial Revolution",
+      "transformed",
+      "recycling"
+    ],
+    [
+      "Middle Ages",
+      "affected",
+      "political influences"
+    ],
+    [
+      "Middle Ages",
+      "originated from",
+      "ready-to-wear"
+    ],
+    [
+      "art and culture",
+      "facilitated by",
+      "trend dissemination"
+    ],
+    [
+      "art and culture",
+      "impacting",
+      "fashion industry"
+    ],
+    [
+      "art and culture",
+      "influenced",
+      "cultural influences"
+    ],
+    [
+      "art and culture",
+      "influenced",
+      "luxurious fabrics"
+    ],
+    [
+      "art and culture",
+      "influenced by",
+      "iconic figures"
+    ],
+    [
+      "art and culture",
+      "influenced by",
+      "social hierarchy"
+    ],
+    [
+      "art and culture",
+      "informed by",
+      "social commentary"
+    ],
+    [
+      "art and culture",
+      "inspired",
+      "designers"
+    ],
+    [
+      "art and culture",
+      "inspired",
+      "fashion magazines"
+    ],
+    [
+      "art and culture",
+      "inspired by",
+      "elaborate garments"
+    ],
+    [
+      "art and culture",
+      "shaped by",
+      "influencers"
+    ],
+    [
+      "body positivity",
+      "emerged from",
+      "20th century"
+    ],
+    [
+      "body positivity",
+      "influenced by",
+      "historical evolution"
+    ],
+    [
+      "common people",
+      "accessible to",
+      "ethical sourcing"
+    ],
+    [
+      "common people",
+      "compared to",
+      "nobles"
+    ],
+    [
+      "common people",
+      "contrasts with",
+      "individualism"
+    ],
+    [
+      "common people",
+      "contrasts with",
+      "luxury fashion"
+    ],
+    [
+      "common people",
+      "contrasts with",
+      "royalty"
+    ],
+    [
+      "common people",
+      "influenced by",
+      "social media"
+    ],
+    [
+      "common people",
+      "is affected by",
+      "social hierarchy"
+    ],
+    [
+      "common people",
+      "reflects",
+      "social commentary"
+    ],
+    [
+      "common people",
+      "regulated by",
+      "sumptuary laws"
+    ],
+    [
+      "common people",
+      "worn by",
+      "elaborate garments"
+    ],
+    [
+      "common people",
+      "worn by",
+      "fashion plates"
+    ],
+    [
+      "common people",
+      "worn by",
+      "luxurious fabrics"
+    ],
+    [
+      "cultural identity",
+      "associated with",
+      "designer brands"
+    ],
+    [
+      "cultural identity",
+      "expressed through",
+      "eclectic styles"
+    ],
+    [
+      "cultural identity",
+      "influenced",
+      "mass production"
+    ],
+    [
+      "cultural identity",
+      "influenced by",
+      "influencers"
+    ],
+    [
+      "cultural identity",
+      "influenced by",
+      "religion influence"
+    ],
+    [
+      "cultural identity",
+      "influenced by",
+      "social movements"
+    ],
+    [
+      "cultural identity",
+      "informs",
+      "designers"
+    ],
+    [
+      "cultural identity",
+      "promoted",
+      "sustainable fashion"
+    ],
+    [
+      "cultural identity",
+      "reflects",
+      "20th century"
+    ],
+    [
+      "cultural identity",
+      "represents",
+      "body positivity"
+    ],
+    [
+      "cultural influences",
+      "influenced",
+      "common people"
+    ],
+    [
+      "cultural influences",
+      "influenced",
+      "diversity"
+    ],
+    [
+      "cultural influences",
+      "influenced by",
+      "trend dissemination"
+    ],
+    [
+      "cultural influences",
+      "inspired",
+      "fashion plates"
+    ],
+    [
+      "cultural influences",
+      "shaped",
+      "individualism"
+    ],
+    [
+      "cultural influences",
+      "shaped by",
+      "body positivity"
+    ],
+    [
+      "democratized fashion",
+      "affected by",
+      "economic factors"
+    ],
+    [
+      "democratized fashion",
+      "associated with",
+      "luxury fashion"
+    ],
+    [
+      "democratized fashion",
+      "enabled",
+      "printing press"
+    ],
+    [
+      "democratized fashion",
+      "enables",
+      "fashion magazines"
+    ],
+    [
+      "democratized fashion",
+      "facilitated by",
+      "trend dissemination"
+    ],
+    [
+      "democratized fashion",
+      "influenced",
+      "cultural influences"
+    ],
+    [
+      "democratized fashion",
+      "influenced by",
+      "eclectic styles"
+    ],
+    [
+      "democratized fashion",
+      "influenced by",
+      "fashion plates"
+    ],
+    [
+      "democratized fashion",
+      "influenced by",
+      "social movements"
+    ],
+    [
+      "democratized fashion",
+      "represents",
+      "cultural identity"
+    ],
+    [
+      "democratized fashion",
+      "shaped by",
+      "fashion industry"
+    ],
+    [
+      "democratized fashion",
+      "shaped by",
+      "social media"
+    ],
+    [
+      "democratized fashion",
+      "utilizes",
+      "designers"
+    ],
+    [
+      "department stores",
+      "associated with",
+      "fashion plates"
+    ],
+    [
+      "department stores",
+      "collaborates with",
+      "designers"
+    ],
+    [
+      "department stores",
+      "enabled by",
+      "mass production"
+    ],
+    [
+      "department stores",
+      "facilitated by",
+      "trend dissemination"
+    ],
+    [
+      "department stores",
+      "influenced by",
+      "social movements"
+    ],
+    [
+      "department stores",
+      "promoted by",
+      "fashion magazines"
+    ],
+    [
+      "department stores",
+      "promoted by",
+      "sustainable fashion"
+    ],
+    [
+      "department stores",
+      "shaped by",
+      "cultural identity"
+    ],
+    [
+      "department stores",
+      "shaped by",
+      "cultural influences"
+    ],
+    [
+      "department stores",
+      "supports",
+      "self-expression"
+    ],
+    [
+      "designer brands",
+      "associated with",
+      "designers"
+    ],
+    [
+      "designer brands",
+      "associated with",
+      "nobles"
+    ],
+    [
+      "designer brands",
+      "compared to",
+      "simpler clothing"
+    ],
+    [
+      "designer brands",
+      "offered by",
+      "department stores"
+    ],
+    [
+      "designer brands",
+      "popularized by",
+      "fashion plates"
+    ],
+    [
+      "designer brands",
+      "produced through",
+      "mass production"
+    ],
+    [
+      "designer brands",
+      "reflects",
+      "wealth and status"
+    ],
+    [
+      "designer brands",
+      "shaped by",
+      "social media"
+    ],
+    [
+      "designers",
+      "associated with",
+      "luxury fashion"
+    ],
+    [
+      "designers",
+      "created by",
+      "fashion magazines"
+    ],
+    [
+      "designers",
+      "designed by",
+      "simpler clothing"
+    ],
+    [
+      "designers",
+      "disseminates",
+      "printing press"
+    ],
+    [
+      "designers",
+      "illustrated by",
+      "fashion plates"
+    ],
+    [
+      "designers",
+      "influenced by",
+      "eclectic styles"
+    ],
+    [
+      "designers",
+      "influenced by",
+      "social movements"
+    ],
+    [
+      "designers",
+      "inspired by",
+      "self-expression"
+    ],
+    [
+      "designers",
+      "represents",
+      "iconic figures"
+    ],
+    [
+      "diversity",
+      "associated with",
+      "designer brands"
+    ],
+    [
+      "diversity",
+      "drives",
+      "influencers"
+    ],
+    [
+      "diversity",
+      "featured in",
+      "fashion magazines"
+    ],
+    [
+      "diversity",
+      "influenced by",
+      "eclectic styles"
+    ],
+    [
+      "diversity",
+      "influences",
+      "fashion trends"
+    ],
+    [
+      "diversity",
+      "promoted by",
+      "democratized fashion"
+    ],
+    [
+      "eclectic styles",
+      "associated with",
+      "luxury fashion"
+    ],
+    [
+      "eclectic styles",
+      "characterized by",
+      "20th century"
+    ],
+    [
+      "eclectic styles",
+      "influences",
+      "fashion trends"
+    ],
+    [
+      "eclectic styles",
+      "popularized by",
+      "designer brands"
+    ],
+    [
+      "eclectic styles",
+      "promotes",
+      "sustainable fashion"
+    ],
+    [
+      "eclectic styles",
+      "shaped by",
+      "historical evolution"
+    ],
+    [
+      "eclectic styles",
+      "shaped by",
+      "influencers"
+    ],
+    [
+      "economic factors",
+      "affected by",
+      "diversity"
+    ],
+    [
+      "economic factors",
+      "affected by",
+      "recycling"
+    ],
+    [
+      "economic factors",
+      "driven by",
+      "trend dissemination"
+    ],
+    [
+      "economic factors",
+      "enabled by",
+      "mass production"
+    ],
+    [
+      "economic factors",
+      "influenced by",
+      "Industrial Revolution"
+    ],
+    [
+      "economic factors",
+      "influenced by",
+      "upcycling"
+    ],
+    [
+      "economic factors",
+      "promoted by",
+      "sustainable fashion"
+    ],
+    [
+      "economic factors",
+      "shaped",
+      "cultural identity"
+    ],
+    [
+      "economic factors",
+      "shaped",
+      "historical evolution"
+    ],
+    [
+      "elaborate garments",
+      "applied to",
+      "ethical sourcing"
+    ],
+    [
+      "elaborate garments",
+      "compared to",
+      "ready-to-wear"
+    ],
+    [
+      "elaborate garments",
+      "comprised",
+      "luxury fashion"
+    ],
+    [
+      "elaborate garments",
+      "designed for",
+      "designer brands"
+    ],
+    [
+      "elaborate garments",
+      "featured in",
+      "fashion magazines"
+    ],
+    [
+      "elaborate garments",
+      "inspired by",
+      "cultural influences"
+    ],
+    [
+      "elaborate garments",
+      "inspired by",
+      "individualism"
+    ],
+    [
+      "elaborate garments",
+      "produced by",
+      "fashion industry"
+    ],
+    [
+      "elaborate garments",
+      "used in",
+      "luxurious fabrics"
+    ],
+    [
+      "ethical sourcing",
+      "associated with",
+      "luxury fashion"
+    ],
+    [
+      "ethical sourcing",
+      "designed by",
+      "designers"
+    ],
+    [
+      "ethical sourcing",
+      "influenced by",
+      "fashion magazines"
+    ],
+    [
+      "ethical sourcing",
+      "reflects",
+      "wealth and status"
+    ],
+    [
+      "fashion industry",
+      "affected by",
+      "economic factors"
+    ],
+    [
+      "fashion industry",
+      "associated with",
+      "department stores"
+    ],
+    [
+      "fashion industry",
+      "employs",
+      "designers"
+    ],
+    [
+      "fashion industry",
+      "enables",
+      "self-expression"
+    ],
+    [
+      "fashion industry",
+      "illustrated by",
+      "fashion plates"
+    ],
+    [
+      "fashion industry",
+      "influenced by",
+      "social movements"
+    ],
+    [
+      "fashion industry",
+      "influences",
+      "ethical sourcing"
+    ],
+    [
+      "fashion industry",
+      "influences",
+      "fashion trends"
+    ],
+    [
+      "fashion industry",
+      "reflects",
+      "wealth and status"
+    ],
+    [
+      "fashion industry",
+      "shapes",
+      "fashion magazines"
+    ],
+    [
+      "fashion industry",
+      "utilizes",
+      "social media"
+    ],
+    [
+      "fashion magazines",
+      "dictated by",
+      "social hierarchy"
+    ],
+    [
+      "fashion magazines",
+      "featured in",
+      "social commentary"
+    ],
+    [
+      "fashion magazines",
+      "influenced by",
+      "eclectic styles"
+    ],
+    [
+      "fashion magazines",
+      "influenced by",
+      "fashion trends"
+    ],
+    [
+      "fashion magazines",
+      "shaped",
+      "cultural identity"
+    ],
+    [
+      "fashion magazines",
+      "shapes",
+      "influencers"
+    ],
+    [
+      "fashion magazines",
+      "shapes",
+      "social media"
+    ],
+    [
+      "fashion plates",
+      "associated with",
+      "nobles"
+    ],
+    [
+      "fashion plates",
+      "depicted in",
+      "luxurious fabrics"
+    ],
+    [
+      "fashion plates",
+      "depicted in",
+      "royalty"
+    ],
+    [
+      "fashion plates",
+      "illustrated by",
+      "cultural identity"
+    ],
+    [
+      "fashion plates",
+      "illustrated by",
+      "elaborate garments"
+    ],
+    [
+      "fashion plates",
+      "illustrated by",
+      "simpler clothing"
+    ],
+    [
+      "fashion plates",
+      "influenced by",
+      "social media"
+    ],
+    [
+      "fashion plates",
+      "influences",
+      "diversity"
+    ],
+    [
+      "fashion plates",
+      "is represented by",
+      "social commentary"
+    ],
+    [
+      "fashion trends",
+      "expresses",
+      "cultural identity"
+    ],
+    [
+      "fashion trends",
+      "facilitates",
+      "mass production"
+    ],
+    [
+      "fashion trends",
+      "facilitates",
+      "trend dissemination"
+    ],
+    [
+      "fashion trends",
+      "influenced by",
+      "department stores"
+    ],
+    [
+      "fashion trends",
+      "influenced by",
+      "fashion plates"
+    ],
+    [
+      "fashion trends",
+      "influences",
+      "designer brands"
+    ],
+    [
+      "fashion trends",
+      "is influenced by",
+      "printing press"
+    ],
+    [
+      "fashion trends",
+      "shaped by",
+      "influencers"
+    ],
+    [
+      "fashion trends",
+      "shaped by",
+      "social media"
+    ],
+    [
+      "fashion trends",
+      "shaped by",
+      "social movements"
+    ],
+    [
+      "historical evolution",
+      "influenced by",
+      "democratized fashion"
+    ],
+    [
+      "historical evolution",
+      "influenced by",
+      "diversity"
+    ],
+    [
+      "historical evolution",
+      "shaped by",
+      "department stores"
+    ],
+    [
+      "historical evolution",
+      "shaped by",
+      "fashion industry"
+    ],
+    [
+      "historical evolution",
+      "shaped by",
+      "youth culture"
+    ],
+    [
+      "iconic figures",
+      "illustrated by",
+      "historical evolution"
+    ],
+    [
+      "iconic figures",
+      "inspired",
+      "cultural influences"
+    ],
+    [
+      "iconic figures",
+      "inspired",
+      "self-expression"
+    ],
+    [
+      "iconic figures",
+      "inspired by",
+      "democratized fashion"
+    ],
+    [
+      "iconic figures",
+      "popularized by",
+      "eclectic styles"
+    ],
+    [
+      "iconic figures",
+      "popularized by",
+      "fashion magazines"
+    ],
+    [
+      "iconic figures",
+      "popularized by",
+      "upcycling"
+    ],
+    [
+      "iconic figures",
+      "represented",
+      "social commentary"
+    ],
+    [
+      "iconic figures",
+      "represented by",
+      "cultural identity"
+    ],
+    [
+      "iconic figures",
+      "shaped by",
+      "diversity"
+    ],
+    [
+      "individualism",
+      "characterized by",
+      "eclectic styles"
+    ],
+    [
+      "individualism",
+      "contrasts with",
+      "social hierarchy"
+    ],
+    [
+      "individualism",
+      "influenced by",
+      "religion influence"
+    ],
+    [
+      "individualism",
+      "influenced by",
+      "simpler clothing"
+    ],
+    [
+      "individualism",
+      "promoted",
+      "body positivity"
+    ],
+    [
+      "individualism",
+      "promotes",
+      "nobles"
+    ],
+    [
+      "individualism",
+      "reflects",
+      "wealth and status"
+    ],
+    [
+      "influencers",
+      "influenced by",
+      "eclectic styles"
+    ],
+    [
+      "influencers",
+      "influenced by",
+      "fashion industry"
+    ],
+    [
+      "influencers",
+      "shaped by",
+      "democratized fashion"
+    ],
+    [
+      "influencers",
+      "shaped by",
+      "designers"
+    ],
+    [
+      "influencers",
+      "shaped by",
+      "fashion plates"
+    ],
+    [
+      "influencers",
+      "shaped by",
+      "historical evolution"
+    ],
+    [
+      "influencers",
+      "shaped by",
+      "iconic figures"
+    ],
+    [
+      "influencers",
+      "shaped by",
+      "luxury fashion"
+    ],
+    [
+      "luxurious fabrics",
+      "contrasts with",
+      "simpler clothing"
+    ],
+    [
+      "luxurious fabrics",
+      "designed with",
+      "designers"
+    ],
+    [
+      "luxurious fabrics",
+      "featured in",
+      "fashion magazines"
+    ],
+    [
+      "luxurious fabrics",
+      "indicates",
+      "wealth and status"
+    ],
+    [
+      "luxurious fabrics",
+      "influenced by",
+      "individualism"
+    ],
+    [
+      "luxurious fabrics",
+      "made from",
+      "fashion industry"
+    ],
+    [
+      "luxurious fabrics",
+      "made from",
+      "ready-to-wear"
+    ],
+    [
+      "luxurious fabrics",
+      "used in",
+      "religion influence"
+    ],
+    [
+      "luxury fashion",
+      "associated with",
+      "art and culture"
+    ],
+    [
+      "luxury fashion",
+      "associated with",
+      "fashion industry"
+    ],
+    [
+      "luxury fashion",
+      "contrasted",
+      "simpler clothing"
+    ],
+    [
+      "luxury fashion",
+      "dictated by",
+      "social hierarchy"
+    ],
+    [
+      "luxury fashion",
+      "influences",
+      "fashion trends"
+    ],
+    [
+      "luxury fashion",
+      "produced by",
+      "designer brands"
+    ],
+    [
+      "luxury fashion",
+      "promotes",
+      "body positivity"
+    ],
+    [
+      "luxury fashion",
+      "reflects",
+      "social commentary"
+    ],
+    [
+      "luxury fashion",
+      "shaped by",
+      "social media"
+    ],
+    [
+      "luxury fashion",
+      "shapes",
+      "cultural influences"
+    ],
+    [
+      "luxury fashion",
+      "showcased",
+      "fashion magazines"
+    ],
+    [
+      "mass production",
+      "enabled by",
+      "recycling"
+    ],
+    [
+      "mass production",
+      "enabled by",
+      "wealth and status"
+    ],
+    [
+      "mass production",
+      "facilitated by",
+      "ethical sourcing"
+    ],
+    [
+      "mass production",
+      "influenced by",
+      "fashion magazines"
+    ],
+    [
+      "mass production",
+      "produced",
+      "elaborate garments"
+    ],
+    [
+      "mass production",
+      "produced by",
+      "ready-to-wear"
+    ],
+    [
+      "nobles",
+      "associated with",
+      "art and culture"
+    ],
+    [
+      "nobles",
+      "associated with",
+      "ethical sourcing"
+    ],
+    [
+      "nobles",
+      "associated with",
+      "fashion industry"
+    ],
+    [
+      "nobles",
+      "enabled by",
+      "printing press"
+    ],
+    [
+      "nobles",
+      "is targeted by",
+      "fashion magazines"
+    ],
+    [
+      "nobles",
+      "wore",
+      "luxurious fabrics"
+    ],
+    [
+      "nobles",
+      "worn by",
+      "simpler clothing"
+    ],
+    [
+      "printing press",
+      "accessible to",
+      "common people"
+    ],
+    [
+      "printing press",
+      "enabled",
+      "luxury fashion"
+    ],
+    [
+      "printing press",
+      "enabled",
+      "social commentary"
+    ],
+    [
+      "printing press",
+      "enabled by",
+      "department stores"
+    ],
+    [
+      "printing press",
+      "enabled by",
+      "mass production"
+    ],
+    [
+      "printing press",
+      "facilitated by",
+      "economic factors"
+    ],
+    [
+      "printing press",
+      "facilitated by",
+      "historical evolution"
+    ],
+    [
+      "printing press",
+      "produced by",
+      "elaborate garments"
+    ],
+    [
+      "printing press",
+      "shaped by",
+      "influencers"
+    ],
+    [
+      "printing press",
+      "supported by",
+      "sustainable fashion"
+    ],
+    [
+      "printing press",
+      "supports",
+      "designer brands"
+    ],
+    [
+      "ready-to-wear",
+      "promoted by",
+      "social media"
+    ],
+    [
+      "ready-to-wear",
+      "sourced ethically by",
+      "ethical sourcing"
+    ],
+    [
+      "recycling",
+      "contributes to",
+      "sustainable fashion"
+    ],
+    [
+      "recycling",
+      "expressed through",
+      "self-expression"
+    ],
+    [
+      "recycling",
+      "influenced by",
+      "20th century"
+    ],
+    [
+      "recycling",
+      "influenced by",
+      "historical evolution"
+    ],
+    [
+      "recycling",
+      "influenced by",
+      "social movements"
+    ],
+    [
+      "recycling",
+      "influences",
+      "eclectic styles"
+    ],
+    [
+      "recycling",
+      "promoted by",
+      "trend dissemination"
+    ],
+    [
+      "recycling",
+      "shaped by",
+      "influencers"
+    ],
+    [
+      "religion influence",
+      "dictated",
+      "luxury fashion"
+    ],
+    [
+      "religion influence",
+      "dictated",
+      "nobles"
+    ],
+    [
+      "religion influence",
+      "dictated by",
+      "ethical sourcing"
+    ],
+    [
+      "religion influence",
+      "dictated by",
+      "simpler clothing"
+    ],
+    [
+      "religion influence",
+      "dictated by",
+      "wealth and status"
+    ],
+    [
+      "religion influence",
+      "influenced",
+      "influencers"
+    ],
+    [
+      "religion influence",
+      "influenced by",
+      "art and culture"
+    ],
+    [
+      "religion influence",
+      "influenced by",
+      "cultural influences"
+    ],
+    [
+      "religion influence",
+      "influenced by",
+      "designers"
+    ],
+    [
+      "religion influence",
+      "influenced by",
+      "diversity"
+    ],
+    [
+      "religion influence",
+      "influenced by",
+      "eclectic styles"
+    ],
+    [
+      "religion influence",
+      "influenced by",
+      "fashion magazines"
+    ],
+    [
+      "religion influence",
+      "influenced by",
+      "iconic figures"
+    ],
+    [
+      "religion influence",
+      "influenced by",
+      "trend dissemination"
+    ],
+    [
+      "royalty",
+      "contrasted",
+      "individualism"
+    ],
+    [
+      "royalty",
+      "dictated by",
+      "religion influence"
+    ],
+    [
+      "royalty",
+      "influenced",
+      "printing press"
+    ],
+    [
+      "royalty",
+      "worn by",
+      "fashion magazines"
+    ],
+    [
+      "royalty",
+      "worn by",
+      "luxurious fabrics"
+    ],
+    [
+      "royalty",
+      "worn by",
+      "luxury fashion"
+    ],
+    [
+      "royalty",
+      "worn by",
+      "ready-to-wear"
+    ],
+    [
+      "royalty",
+      "worn by",
+      "simpler clothing"
+    ],
+    [
+      "self-expression",
+      "associated with",
+      "designer brands"
+    ],
+    [
+      "self-expression",
+      "enabled by",
+      "printing press"
+    ],
+    [
+      "self-expression",
+      "enables",
+      "mass production"
+    ],
+    [
+      "self-expression",
+      "enables",
+      "social media"
+    ],
+    [
+      "self-expression",
+      "expressed through",
+      "democratized fashion"
+    ],
+    [
+      "self-expression",
+      "facilitates",
+      "cultural identity"
+    ],
+    [
+      "self-expression",
+      "illustrated by",
+      "fashion plates"
+    ],
+    [
+      "self-expression",
+      "inspired by",
+      "social movements"
+    ],
+    [
+      "self-expression",
+      "promotes",
+      "sustainable fashion"
+    ],
+    [
+      "simpler clothing",
+      "associated with",
+      "social hierarchy"
+    ],
+    [
+      "simpler clothing",
+      "contrasts with",
+      "ready-to-wear"
+    ],
+    [
+      "simpler clothing",
+      "influenced",
+      "art and culture"
+    ],
+    [
+      "simpler clothing",
+      "produced",
+      "fashion industry"
+    ],
+    [
+      "social commentary",
+      "associated with",
+      "designer brands"
+    ],
+    [
+      "social commentary",
+      "democratizes",
+      "democratized fashion"
+    ],
+    [
+      "social commentary",
+      "driven by",
+      "social movements"
+    ],
+    [
+      "social commentary",
+      "enhances",
+      "diversity"
+    ],
+    [
+      "social commentary",
+      "enhances",
+      "ethical sourcing"
+    ],
+    [
+      "social commentary",
+      "expresses",
+      "department stores"
+    ],
+    [
+      "social commentary",
+      "facilitated by",
+      "mass production"
+    ],
+    [
+      "social commentary",
+      "illustrates",
+      "fashion plates"
+    ],
+    [
+      "social commentary",
+      "influenced by",
+      "religion influence"
+    ],
+    [
+      "social commentary",
+      "reflected in",
+      "luxurious fabrics"
+    ],
+    [
+      "social commentary",
+      "reflects",
+      "fashion industry"
+    ],
+    [
+      "social commentary",
+      "reflects",
+      "sustainable fashion"
+    ],
+    [
+      "social commentary",
+      "reflects",
+      "trend dissemination"
+    ],
+    [
+      "social commentary",
+      "represents",
+      "self-expression"
+    ],
+    [
+      "social commentary",
+      "shaped by",
+      "cultural influences"
+    ],
+    [
+      "social commentary",
+      "shapes",
+      "social media"
+    ],
+    [
+      "social commentary",
+      "supports",
+      "body positivity"
+    ],
+    [
+      "social hierarchy",
+      "associated with",
+      "luxurious fabrics"
+    ],
+    [
+      "social hierarchy",
+      "associated with",
+      "nobles"
+    ],
+    [
+      "social hierarchy",
+      "dictated by",
+      "ready-to-wear"
+    ],
+    [
+      "social hierarchy",
+      "influences",
+      "elaborate garments"
+    ],
+    [
+      "social hierarchy",
+      "influences",
+      "ethical sourcing"
+    ],
+    [
+      "social hierarchy",
+      "reflects",
+      "wealth and status"
+    ],
+    [
+      "social media",
+      "drives",
+      "influencers"
+    ],
+    [
+      "social media",
+      "transformed",
+      "mass production"
+    ],
+    [
+      "social movements",
+      "defined",
+      "20th century"
+    ],
+    [
+      "social movements",
+      "driven by",
+      "mass production"
+    ],
+    [
+      "social movements",
+      "influenced",
+      "luxury fashion"
+    ],
+    [
+      "social movements",
+      "influenced by",
+      "fashion plates"
+    ],
+    [
+      "social movements",
+      "represented by",
+      "iconic figures"
+    ],
+    [
+      "social movements",
+      "shaped",
+      "eclectic styles"
+    ],
+    [
+      "social movements",
+      "shaped",
+      "historical evolution"
+    ],
+    [
+      "social movements",
+      "shaped",
+      "influencers"
+    ],
+    [
+      "social movements",
+      "shapes",
+      "social media"
+    ],
+    [
+      "social movements",
+      "supported",
+      "printing press"
+    ],
+    [
+      "sumptuary laws",
+      "applied to",
+      "royalty"
+    ],
+    [
+      "sumptuary laws",
+      "applies to",
+      "nobles"
+    ],
+    [
+      "sumptuary laws",
+      "dictated by",
+      "Renaissance period"
+    ],
+    [
+      "sumptuary laws",
+      "dictates",
+      "Middle Ages"
+    ],
+    [
+      "sumptuary laws",
+      "reflects",
+      "wealth and status"
+    ],
+    [
+      "sumptuary laws",
+      "regulated by",
+      "elaborate garments"
+    ],
+    [
+      "sumptuary laws",
+      "regulates",
+      "social hierarchy"
+    ],
+    [
+      "sustainable fashion",
+      "contrasts with",
+      "luxury fashion"
+    ],
+    [
+      "sustainable fashion",
+      "emerged in",
+      "20th century"
+    ],
+    [
+      "sustainable fashion",
+      "facilitated by",
+      "mass production"
+    ],
+    [
+      "sustainable fashion",
+      "is influenced by",
+      "fashion trends"
+    ],
+    [
+      "sustainable fashion",
+      "promotes",
+      "designer brands"
+    ],
+    [
+      "trend dissemination",
+      "enabled",
+      "mass production"
+    ],
+    [
+      "trend dissemination",
+      "facilitated",
+      "fashion plates"
+    ],
+    [
+      "trend dissemination",
+      "facilitated",
+      "self-expression"
+    ],
+    [
+      "trend dissemination",
+      "influenced",
+      "designers"
+    ],
+    [
+      "trend dissemination",
+      "promoted",
+      "sustainable fashion"
+    ],
+    [
+      "trend dissemination",
+      "promoted by",
+      "body positivity"
+    ],
+    [
+      "trend dissemination",
+      "shaped by",
+      "iconic figures"
+    ],
+    [
+      "trend dissemination",
+      "transformed by",
+      "social media"
+    ],
+    [
+      "upcycling",
+      "emerged from",
+      "20th century"
+    ],
+    [
+      "upcycling",
+      "influenced",
+      "democratized fashion"
+    ],
+    [
+      "upcycling",
+      "influences",
+      "fashion trends"
+    ],
+    [
+      "upcycling",
+      "promoted by",
+      "influencers"
+    ],
+    [
+      "upcycling",
+      "promotes",
+      "body positivity"
+    ],
+    [
+      "upcycling",
+      "promotes",
+      "sustainable fashion"
+    ],
+    [
+      "upcycling",
+      "reflects",
+      "historical evolution"
+    ],
+    [
+      "wealth and status",
+      "associated with",
+      "designers"
+    ],
+    [
+      "wealth and status",
+      "associated with",
+      "fashion magazines"
+    ],
+    [
+      "wealth and status",
+      "associated with",
+      "simpler clothing"
+    ],
+    [
+      "wealth and status",
+      "influences",
+      "social media"
+    ],
+    [
+      "wealth and status",
+      "is represented by",
+      "elaborate garments"
+    ],
+    [
+      "wealth and status",
+      "reflects",
+      "ready-to-wear"
+    ],
+    [
+      "wealth and status",
+      "symbolizes",
+      "luxury fashion"
+    ],
+    [
+      "wealth and status",
+      "symbolizes",
+      "printing press"
+    ],
+    [
+      "youth culture",
+      "characterized by",
+      "20th century"
+    ],
+    [
+      "youth culture",
+      "drives",
+      "social movements"
+    ],
+    [
+      "youth culture",
+      "enables",
+      "self-expression"
+    ],
+    [
+      "youth culture",
+      "influenced",
+      "designers"
+    ],
+    [
+      "youth culture",
+      "influenced",
+      "fashion plates"
+    ],
+    [
+      "youth culture",
+      "influenced by",
+      "cultural identity"
+    ],
+    [
+      "youth culture",
+      "influences",
+      "designer brands"
+    ],
+    [
+      "youth culture",
+      "influences",
+      "sustainable fashion"
+    ],
+    [
+      "youth culture",
+      "shaped by",
+      "fashion trends"
+    ],
+    [
+      "youth culture",
+      "shapes",
+      "eclectic styles"
+    ]
+  ],
+  "edges": [
+    "accessible to",
+    "affected",
+    "affected by",
+    "applied to",
+    "applies to",
+    "associated with",
+    "characterized by",
+    "collaborates with",
+    "compared to",
+    "comprised",
+    "contrasted",
+    "contrasts with",
+    "contributes to",
+    "created by",
+    "defined",
+    "democratizes",
+    "depicted in",
+    "designed by",
+    "designed for",
+    "designed with",
+    "dictated",
+    "dictated by",
+    "dictates",
+    "disseminates",
+    "driven by",
+    "drives",
+    "emerged from",
+    "emerged in",
+    "employs",
+    "enabled",
+    "enabled by",
+    "enables",
+    "enhances",
+    "expressed through",
+    "expresses",
+    "facilitated",
+    "facilitated by",
+    "facilitates",
+    "featured in",
+    "illustrated by",
+    "illustrates",
+    "impacting",
+    "indicates",
+    "influenced",
+    "influenced by",
+    "influences",
+    "informed by",
+    "informs",
+    "inspired",
+    "inspired by",
+    "is affected by",
+    "is influenced by",
+    "is represented by",
+    "is targeted by",
+    "made from",
+    "offered by",
+    "originated from",
+    "popularized by",
+    "produced",
+    "produced by",
+    "produced through",
+    "promoted",
+    "promoted by",
+    "promotes",
+    "reflected in",
+    "reflects",
+    "regulated by",
+    "regulates",
+    "represented",
+    "represented by",
+    "represents",
+    "shaped",
+    "shaped by",
+    "shapes",
+    "showcased",
+    "sourced ethically by",
+    "supported",
+    "supported by",
+    "supports",
+    "symbolizes",
+    "transformed",
+    "transformed by",
+    "used in",
+    "utilizes",
+    "wore",
+    "worn by"
+  ]
+}

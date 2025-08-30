@@ -1,0 +1,7415 @@
+{
+  "entities": [
+    "America",
+    "Apollo 11",
+    "Buzz Aldrin",
+    "Cold War",
+    "Illuminati",
+    "Middle East conflict",
+    "Neil Armstrong",
+    "September 11 attacks",
+    "Soviet Union",
+    "World Trade Center",
+    "alternative explanations",
+    "alternative narratives",
+    "anomalies",
+    "assassination of Kennedy",
+    "astronaut behavior",
+    "chaos",
+    "collective belief",
+    "communication channels",
+    "conspiracy theory",
+    "control",
+    "controlled demolitions",
+    "critical examination",
+    "critical thinking",
+    "cultural impact",
+    "debunking",
+    "debunking myths",
+    "distrust of authority",
+    "documentaries",
+    "empowerment",
+    "engagement",
+    "evidence analysis",
+    "global phenomena",
+    "government involvement",
+    "historical events",
+    "historical narrative",
+    "hoax theory",
+    "information age",
+    "information dissemination",
+    "information sharing",
+    "investigations",
+    "lack of evidence",
+    "lunar surface",
+    "manipulation",
+    "media influence",
+    "misinformation",
+    "moon landing",
+    "moon landing hoax",
+    "mystery",
+    "national pride",
+    "nefarious purposes",
+    "official explanations",
+    "official narratives",
+    "online communities",
+    "online discourse",
+    "photographic evidence",
+    "political motivations",
+    "political movements",
+    "psychological appeal",
+    "public discourse",
+    "public imagination",
+    "public opinion",
+    "public perception",
+    "public skepticism",
+    "questions of power",
+    "scientific evidence",
+    "scientific scrutiny",
+    "secrecy",
+    "secret society",
+    "shadowy groups",
+    "skepticism",
+    "social media",
+    "societal anxieties",
+    "space race",
+    "speculations",
+    "studio staging",
+    "subliminal messaging",
+    "symbolism",
+    "technological achievement",
+    "trust in authority",
+    "truth",
+    "truth-seekers",
+    "uncertainty",
+    "video evidence"
+  ],
+  "relations": [
+    [
+      "America",
+      "affects",
+      "cultural impact"
+    ],
+    [
+      "America",
+      "affects",
+      "global phenomena"
+    ],
+    [
+      "America",
+      "analyzes",
+      "evidence analysis"
+    ],
+    [
+      "America",
+      "appeals to",
+      "psychological appeal"
+    ],
+    [
+      "America",
+      "associated with",
+      "Buzz Aldrin"
+    ],
+    [
+      "America",
+      "attracted to",
+      "truth-seekers"
+    ],
+    [
+      "America",
+      "defines",
+      "information age"
+    ],
+    [
+      "America",
+      "fuels",
+      "distrust of authority"
+    ],
+    [
+      "America",
+      "impacts",
+      "assassination of Kennedy"
+    ],
+    [
+      "America",
+      "influences",
+      "public opinion"
+    ],
+    [
+      "America",
+      "involved",
+      "government involvement"
+    ],
+    [
+      "America",
+      "is influenced by",
+      "Soviet Union"
+    ],
+    [
+      "America",
+      "is influenced by",
+      "secrecy"
+    ],
+    [
+      "America",
+      "is influenced by",
+      "social media"
+    ],
+    [
+      "America",
+      "is investigated by",
+      "investigations"
+    ],
+    [
+      "America",
+      "is reflected in",
+      "societal anxieties"
+    ],
+    [
+      "America",
+      "is used by",
+      "video evidence"
+    ],
+    [
+      "America",
+      "perpetuated by",
+      "hoax theory"
+    ],
+    [
+      "America",
+      "questioned by",
+      "lack of evidence"
+    ],
+    [
+      "America",
+      "represents",
+      "technological achievement"
+    ],
+    [
+      "America",
+      "shapes",
+      "political movements"
+    ],
+    [
+      "America",
+      "speculated about",
+      "speculations"
+    ],
+    [
+      "America",
+      "spreads",
+      "misinformation"
+    ],
+    [
+      "Apollo 11",
+      "challenges",
+      "alternative narratives"
+    ],
+    [
+      "Apollo 11",
+      "competed against",
+      "Soviet Union"
+    ],
+    [
+      "Apollo 11",
+      "competes in",
+      "space race"
+    ],
+    [
+      "Apollo 11",
+      "documents",
+      "video evidence"
+    ],
+    [
+      "Apollo 11",
+      "has",
+      "cultural impact"
+    ],
+    [
+      "Apollo 11",
+      "influenced by",
+      "public discourse"
+    ],
+    [
+      "Apollo 11",
+      "involved in",
+      "Neil Armstrong"
+    ],
+    [
+      "Apollo 11",
+      "is a subject of",
+      "conspiracy theory"
+    ],
+    [
+      "Apollo 11",
+      "is associated with",
+      "hoax theory"
+    ],
+    [
+      "Apollo 11",
+      "is questioned by",
+      "anomalies"
+    ],
+    [
+      "Apollo 11",
+      "questions",
+      "lack of evidence"
+    ],
+    [
+      "Apollo 11",
+      "supports",
+      "scientific evidence"
+    ],
+    [
+      "Buzz Aldrin",
+      "associated with",
+      "hoax theory"
+    ],
+    [
+      "Buzz Aldrin",
+      "associated with",
+      "national pride"
+    ],
+    [
+      "Buzz Aldrin",
+      "challenges",
+      "alternative narratives"
+    ],
+    [
+      "Buzz Aldrin",
+      "collaborated with",
+      "Neil Armstrong"
+    ],
+    [
+      "Buzz Aldrin",
+      "engages",
+      "online discourse"
+    ],
+    [
+      "Buzz Aldrin",
+      "engages in debunking by",
+      "debunking"
+    ],
+    [
+      "Buzz Aldrin",
+      "features",
+      "photographic evidence"
+    ],
+    [
+      "Buzz Aldrin",
+      "influenced",
+      "cultural impact"
+    ],
+    [
+      "Buzz Aldrin",
+      "influences",
+      "public opinion"
+    ],
+    [
+      "Buzz Aldrin",
+      "is affected by",
+      "uncertainty"
+    ],
+    [
+      "Buzz Aldrin",
+      "is analyzed by",
+      "evidence analysis"
+    ],
+    [
+      "Buzz Aldrin",
+      "is associated with",
+      "alternative explanations"
+    ],
+    [
+      "Buzz Aldrin",
+      "is associated with",
+      "conspiracy theory"
+    ],
+    [
+      "Buzz Aldrin",
+      "is associated with",
+      "lunar surface"
+    ],
+    [
+      "Buzz Aldrin",
+      "is associated with",
+      "moon landing hoax"
+    ],
+    [
+      "Buzz Aldrin",
+      "is examined by",
+      "critical examination"
+    ],
+    [
+      "Buzz Aldrin",
+      "is linked to",
+      "symbolism"
+    ],
+    [
+      "Buzz Aldrin",
+      "participated in",
+      "moon landing"
+    ],
+    [
+      "Buzz Aldrin",
+      "reflects",
+      "societal anxieties"
+    ],
+    [
+      "Buzz Aldrin",
+      "shapes",
+      "information age"
+    ],
+    [
+      "Cold War",
+      "disproves",
+      "debunking"
+    ],
+    [
+      "Cold War",
+      "facilitates",
+      "communication channels"
+    ],
+    [
+      "Cold War",
+      "influenced by",
+      "manipulation"
+    ],
+    [
+      "Cold War",
+      "influences",
+      "Apollo 11"
+    ],
+    [
+      "Cold War",
+      "influences",
+      "public discourse"
+    ],
+    [
+      "Cold War",
+      "shapes",
+      "alternative narratives"
+    ],
+    [
+      "Illuminati",
+      "affects",
+      "cultural impact"
+    ],
+    [
+      "Illuminati",
+      "attracts",
+      "truth-seekers"
+    ],
+    [
+      "Illuminati",
+      "contradicts",
+      "official explanations"
+    ],
+    [
+      "Illuminati",
+      "drives",
+      "societal anxieties"
+    ],
+    [
+      "Illuminati",
+      "is associated with",
+      "assassination of Kennedy"
+    ],
+    [
+      "Illuminati",
+      "provides",
+      "alternative narratives"
+    ],
+    [
+      "Illuminati",
+      "subject of investigations",
+      "investigations"
+    ],
+    [
+      "Illuminati",
+      "utilizes",
+      "communication channels"
+    ],
+    [
+      "Middle East conflict",
+      "affects",
+      "cultural impact"
+    ],
+    [
+      "Middle East conflict",
+      "captures",
+      "public imagination"
+    ],
+    [
+      "Middle East conflict",
+      "disseminates",
+      "information dissemination"
+    ],
+    [
+      "Middle East conflict",
+      "drives",
+      "political motivations"
+    ],
+    [
+      "Middle East conflict",
+      "is influenced by",
+      "manipulation"
+    ],
+    [
+      "Middle East conflict",
+      "justifies",
+      "nefarious purposes"
+    ],
+    [
+      "Middle East conflict",
+      "offers",
+      "alternative explanations"
+    ],
+    [
+      "Middle East conflict",
+      "shaped",
+      "historical events"
+    ],
+    [
+      "Middle East conflict",
+      "shapes",
+      "alternative narratives"
+    ],
+    [
+      "Middle East conflict",
+      "shapes",
+      "online discourse"
+    ],
+    [
+      "Middle East conflict",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "Middle East conflict",
+      "symbolizes",
+      "symbolism"
+    ],
+    [
+      "Neil Armstrong",
+      "associated with",
+      "secrecy"
+    ],
+    [
+      "Neil Armstrong",
+      "contradicts",
+      "scientific evidence"
+    ],
+    [
+      "Neil Armstrong",
+      "discussed in",
+      "social media"
+    ],
+    [
+      "Neil Armstrong",
+      "documents",
+      "photographic evidence"
+    ],
+    [
+      "Neil Armstrong",
+      "explained by",
+      "alternative explanations"
+    ],
+    [
+      "Neil Armstrong",
+      "explains",
+      "official narratives"
+    ],
+    [
+      "Neil Armstrong",
+      "features",
+      "documentaries"
+    ],
+    [
+      "Neil Armstrong",
+      "influences",
+      "collective belief"
+    ],
+    [
+      "Neil Armstrong",
+      "influences",
+      "cultural impact"
+    ],
+    [
+      "Neil Armstrong",
+      "influences",
+      "public opinion"
+    ],
+    [
+      "Neil Armstrong",
+      "influences critical thinking in",
+      "critical thinking"
+    ],
+    [
+      "Neil Armstrong",
+      "investigated by",
+      "investigations"
+    ],
+    [
+      "Neil Armstrong",
+      "is a subject of",
+      "conspiracy theory"
+    ],
+    [
+      "Neil Armstrong",
+      "is questioned by",
+      "public skepticism"
+    ],
+    [
+      "Neil Armstrong",
+      "is shaped by",
+      "public discourse"
+    ],
+    [
+      "Neil Armstrong",
+      "staged by",
+      "America"
+    ],
+    [
+      "September 11 attacks",
+      "analyzed in relation to",
+      "video evidence"
+    ],
+    [
+      "September 11 attacks",
+      "attracts",
+      "truth-seekers"
+    ],
+    [
+      "September 11 attacks",
+      "discussed in",
+      "communication channels"
+    ],
+    [
+      "September 11 attacks",
+      "drives political motivations behind",
+      "political motivations"
+    ],
+    [
+      "September 11 attacks",
+      "gives rise to",
+      "alternative narratives"
+    ],
+    [
+      "September 11 attacks",
+      "gives rise to",
+      "conspiracy theory"
+    ],
+    [
+      "September 11 attacks",
+      "gives rise to",
+      "speculations"
+    ],
+    [
+      "September 11 attacks",
+      "involves World Trade Center in",
+      "World Trade Center"
+    ],
+    [
+      "September 11 attacks",
+      "linked to",
+      "photographic evidence"
+    ],
+    [
+      "September 11 attacks",
+      "questions",
+      "official explanations"
+    ],
+    [
+      "September 11 attacks",
+      "sparks",
+      "public skepticism"
+    ],
+    [
+      "Soviet Union",
+      "blames",
+      "hoax theory"
+    ],
+    [
+      "Soviet Union",
+      "captures",
+      "public imagination"
+    ],
+    [
+      "Soviet Union",
+      "competed against",
+      "empowerment"
+    ],
+    [
+      "Soviet Union",
+      "contradicts",
+      "scientific evidence"
+    ],
+    [
+      "Soviet Union",
+      "exerts control over",
+      "control"
+    ],
+    [
+      "Soviet Union",
+      "facilitates",
+      "information sharing"
+    ],
+    [
+      "Soviet Union",
+      "influenced by",
+      "assassination of Kennedy"
+    ],
+    [
+      "Soviet Union",
+      "influences",
+      "Cold War"
+    ],
+    [
+      "Soviet Union",
+      "influences",
+      "communication channels"
+    ],
+    [
+      "Soviet Union",
+      "influences",
+      "shadowy groups"
+    ],
+    [
+      "Soviet Union",
+      "influences political movements in",
+      "political movements"
+    ],
+    [
+      "Soviet Union",
+      "investigates",
+      "investigations"
+    ],
+    [
+      "Soviet Union",
+      "is scrutinized by",
+      "scientific scrutiny"
+    ],
+    [
+      "Soviet Union",
+      "is used by",
+      "video evidence"
+    ],
+    [
+      "Soviet Union",
+      "motivates",
+      "political motivations"
+    ],
+    [
+      "Soviet Union",
+      "questioned by",
+      "moon landing"
+    ],
+    [
+      "Soviet Union",
+      "questions",
+      "questions of power"
+    ],
+    [
+      "Soviet Union",
+      "shapes",
+      "public discourse"
+    ],
+    [
+      "Soviet Union",
+      "shapes",
+      "public perception"
+    ],
+    [
+      "Soviet Union",
+      "shapes information age with",
+      "information age"
+    ],
+    [
+      "World Trade Center",
+      "examines",
+      "critical examination"
+    ],
+    [
+      "World Trade Center",
+      "examines",
+      "evidence analysis"
+    ],
+    [
+      "World Trade Center",
+      "is a result of",
+      "technological achievement"
+    ],
+    [
+      "World Trade Center",
+      "is explained by",
+      "official narratives"
+    ],
+    [
+      "World Trade Center",
+      "is related to",
+      "video evidence"
+    ],
+    [
+      "alternative explanations",
+      "affects",
+      "cultural impact"
+    ],
+    [
+      "alternative explanations",
+      "attracts",
+      "truth-seekers"
+    ],
+    [
+      "alternative explanations",
+      "challenges",
+      "secrecy"
+    ],
+    [
+      "alternative explanations",
+      "contradicts",
+      "scientific evidence"
+    ],
+    [
+      "alternative explanations",
+      "creates distrust of",
+      "distrust of authority"
+    ],
+    [
+      "alternative explanations",
+      "exerts",
+      "control"
+    ],
+    [
+      "alternative explanations",
+      "explains",
+      "Apollo 11"
+    ],
+    [
+      "alternative explanations",
+      "explains",
+      "controlled demolitions"
+    ],
+    [
+      "alternative explanations",
+      "explains",
+      "global phenomena"
+    ],
+    [
+      "alternative explanations",
+      "fuels",
+      "public imagination"
+    ],
+    [
+      "alternative explanations",
+      "invites",
+      "scientific scrutiny"
+    ],
+    [
+      "alternative explanations",
+      "is associated with",
+      "Illuminati"
+    ],
+    [
+      "alternative explanations",
+      "is driven by",
+      "manipulation"
+    ],
+    [
+      "alternative explanations",
+      "is influenced by",
+      "America"
+    ],
+    [
+      "alternative explanations",
+      "provides",
+      "engagement"
+    ],
+    [
+      "alternative explanations",
+      "relates to",
+      "World Trade Center"
+    ],
+    [
+      "alternative explanations",
+      "shapes",
+      "online discourse"
+    ],
+    [
+      "alternative explanations",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "alternative explanations",
+      "shapes",
+      "public perception"
+    ],
+    [
+      "alternative explanations",
+      "suggests",
+      "government involvement"
+    ],
+    [
+      "alternative explanations",
+      "supports",
+      "moon landing hoax"
+    ],
+    [
+      "alternative narratives",
+      "contradicts",
+      "debunking myths"
+    ],
+    [
+      "alternative narratives",
+      "contradicts",
+      "studio staging"
+    ],
+    [
+      "alternative narratives",
+      "contrasts with",
+      "official explanations"
+    ],
+    [
+      "alternative narratives",
+      "cultivates",
+      "online communities"
+    ],
+    [
+      "alternative narratives",
+      "fosters",
+      "distrust of authority"
+    ],
+    [
+      "alternative narratives",
+      "fuels",
+      "skepticism"
+    ],
+    [
+      "alternative narratives",
+      "influences",
+      "investigations"
+    ],
+    [
+      "alternative narratives",
+      "is a subject of",
+      "assassination of Kennedy"
+    ],
+    [
+      "alternative narratives",
+      "is shaped by",
+      "political motivations"
+    ],
+    [
+      "alternative narratives",
+      "offers",
+      "historical events"
+    ],
+    [
+      "alternative narratives",
+      "provides",
+      "engagement"
+    ],
+    [
+      "alternative narratives",
+      "provides",
+      "secret society"
+    ],
+    [
+      "alternative narratives",
+      "represents",
+      "Neil Armstrong"
+    ],
+    [
+      "alternative narratives",
+      "supports",
+      "moon landing hoax"
+    ],
+    [
+      "alternative narratives",
+      "utilizes",
+      "symbolism"
+    ],
+    [
+      "anomalies",
+      "affected by",
+      "media influence"
+    ],
+    [
+      "anomalies",
+      "affects",
+      "public perception"
+    ],
+    [
+      "anomalies",
+      "attracts",
+      "truth-seekers"
+    ],
+    [
+      "anomalies",
+      "caused by",
+      "studio staging"
+    ],
+    [
+      "anomalies",
+      "emerges from",
+      "information age"
+    ],
+    [
+      "anomalies",
+      "explains",
+      "video evidence"
+    ],
+    [
+      "anomalies",
+      "is discussed in",
+      "online discourse"
+    ],
+    [
+      "anomalies",
+      "is linked to",
+      "shadowy groups"
+    ],
+    [
+      "anomalies",
+      "reveals",
+      "social media"
+    ],
+    [
+      "anomalies",
+      "serves as",
+      "communication channels"
+    ],
+    [
+      "anomalies",
+      "suggests",
+      "government involvement"
+    ],
+    [
+      "anomalies",
+      "supports",
+      "alternative narratives"
+    ],
+    [
+      "anomalies",
+      "supports",
+      "moon landing hoax"
+    ],
+    [
+      "anomalies",
+      "undergoes",
+      "scientific scrutiny"
+    ],
+    [
+      "assassination of Kennedy",
+      "captures",
+      "public imagination"
+    ],
+    [
+      "assassination of Kennedy",
+      "debunks",
+      "debunking myths"
+    ],
+    [
+      "assassination of Kennedy",
+      "drives",
+      "political motivations"
+    ],
+    [
+      "assassination of Kennedy",
+      "influenced by",
+      "communication channels"
+    ],
+    [
+      "assassination of Kennedy",
+      "influenced by",
+      "political movements"
+    ],
+    [
+      "assassination of Kennedy",
+      "is explained by",
+      "alternative explanations"
+    ],
+    [
+      "assassination of Kennedy",
+      "is linked to",
+      "Illuminati"
+    ],
+    [
+      "assassination of Kennedy",
+      "is related to",
+      "secrecy"
+    ],
+    [
+      "assassination of Kennedy",
+      "reflects",
+      "societal anxieties"
+    ],
+    [
+      "assassination of Kennedy",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "assassination of Kennedy",
+      "suggests",
+      "government involvement"
+    ],
+    [
+      "astronaut behavior",
+      "affects",
+      "hoax theory"
+    ],
+    [
+      "astronaut behavior",
+      "contradicts",
+      "scientific evidence"
+    ],
+    [
+      "astronaut behavior",
+      "demonstrates",
+      "technological achievement"
+    ],
+    [
+      "astronaut behavior",
+      "indicates",
+      "anomalies"
+    ],
+    [
+      "astronaut behavior",
+      "influences",
+      "alternative narratives"
+    ],
+    [
+      "astronaut behavior",
+      "interacted with",
+      "lunar surface"
+    ],
+    [
+      "astronaut behavior",
+      "involves",
+      "Neil Armstrong"
+    ],
+    [
+      "astronaut behavior",
+      "is analyzed by",
+      "lack of evidence"
+    ],
+    [
+      "astronaut behavior",
+      "is influenced by",
+      "engagement"
+    ],
+    [
+      "astronaut behavior",
+      "reflects",
+      "societal anxieties"
+    ],
+    [
+      "astronaut behavior",
+      "shapes",
+      "collective belief"
+    ],
+    [
+      "astronaut behavior",
+      "shapes",
+      "online discourse"
+    ],
+    [
+      "astronaut behavior",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "chaos",
+      "contradicts",
+      "official narratives"
+    ],
+    [
+      "chaos",
+      "contrasts with",
+      "official explanations"
+    ],
+    [
+      "chaos",
+      "creates",
+      "September 11 attacks"
+    ],
+    [
+      "chaos",
+      "creates",
+      "photographic evidence"
+    ],
+    [
+      "chaos",
+      "creates",
+      "uncertainty"
+    ],
+    [
+      "chaos",
+      "evokes",
+      "historical narrative"
+    ],
+    [
+      "chaos",
+      "fosters",
+      "online communities"
+    ],
+    [
+      "chaos",
+      "is a response to",
+      "empowerment"
+    ],
+    [
+      "chaos",
+      "is associated with",
+      "conspiracy theory"
+    ],
+    [
+      "chaos",
+      "is caused by",
+      "trust in authority"
+    ],
+    [
+      "chaos",
+      "is influenced by",
+      "public opinion"
+    ],
+    [
+      "chaos",
+      "reflects",
+      "documentaries"
+    ],
+    [
+      "chaos",
+      "utilizes",
+      "symbolism"
+    ],
+    [
+      "collective belief",
+      "contrasts",
+      "alternative narratives"
+    ],
+    [
+      "collective belief",
+      "exploits",
+      "manipulation"
+    ],
+    [
+      "collective belief",
+      "facilitates",
+      "online discourse"
+    ],
+    [
+      "collective belief",
+      "influenced by",
+      "public opinion"
+    ],
+    [
+      "collective belief",
+      "influences",
+      "cultural impact"
+    ],
+    [
+      "collective belief",
+      "involves",
+      "Illuminati"
+    ],
+    [
+      "collective belief",
+      "is believed by",
+      "photographic evidence"
+    ],
+    [
+      "collective belief",
+      "is found on",
+      "lunar surface"
+    ],
+    [
+      "collective belief",
+      "is fueled by",
+      "conspiracy theory"
+    ],
+    [
+      "collective belief",
+      "is influenced by",
+      "evidence analysis"
+    ],
+    [
+      "collective belief",
+      "reinforced by",
+      "documentaries"
+    ],
+    [
+      "collective belief",
+      "represents",
+      "symbolism"
+    ],
+    [
+      "collective belief",
+      "results in",
+      "distrust of authority"
+    ],
+    [
+      "collective belief",
+      "shapes",
+      "official explanations"
+    ],
+    [
+      "collective belief",
+      "supported by",
+      "controlled demolitions"
+    ],
+    [
+      "communication channels",
+      "influenced by",
+      "public opinion"
+    ],
+    [
+      "communication channels",
+      "utilizes",
+      "Buzz Aldrin"
+    ],
+    [
+      "conspiracy theory",
+      "challenged by",
+      "official explanations"
+    ],
+    [
+      "conspiracy theory",
+      "claims",
+      "moon landing hoax"
+    ],
+    [
+      "conspiracy theory",
+      "explores",
+      "documentaries"
+    ],
+    [
+      "conspiracy theory",
+      "facilitates",
+      "communication channels"
+    ],
+    [
+      "conspiracy theory",
+      "influences",
+      "America"
+    ],
+    [
+      "conspiracy theory",
+      "inspired by",
+      "engagement"
+    ],
+    [
+      "conspiracy theory",
+      "involves",
+      "World Trade Center"
+    ],
+    [
+      "conspiracy theory",
+      "is influenced by",
+      "critical examination"
+    ],
+    [
+      "conspiracy theory",
+      "is questioned by",
+      "technological achievement"
+    ],
+    [
+      "conspiracy theory",
+      "is shaped by",
+      "public opinion"
+    ],
+    [
+      "conspiracy theory",
+      "questions",
+      "lunar surface"
+    ],
+    [
+      "conspiracy theory",
+      "supports",
+      "controlled demolitions"
+    ],
+    [
+      "conspiracy theory",
+      "supports",
+      "photographic evidence"
+    ],
+    [
+      "conspiracy theory",
+      "supports",
+      "truth"
+    ],
+    [
+      "conspiracy theory",
+      "supports conspiracy theory with",
+      "video evidence"
+    ],
+    [
+      "control",
+      "associated with",
+      "Illuminati"
+    ],
+    [
+      "control",
+      "challenges",
+      "official narratives"
+    ],
+    [
+      "control",
+      "fosters",
+      "online communities"
+    ],
+    [
+      "control",
+      "influences",
+      "truth-seekers"
+    ],
+    [
+      "control",
+      "is controlled by",
+      "secret society"
+    ],
+    [
+      "control",
+      "is influenced by",
+      "critical thinking"
+    ],
+    [
+      "control",
+      "is influenced by",
+      "national pride"
+    ],
+    [
+      "control",
+      "is linked to",
+      "September 11 attacks"
+    ],
+    [
+      "control",
+      "is shaped by",
+      "public discourse"
+    ],
+    [
+      "control",
+      "shapes",
+      "cultural impact"
+    ],
+    [
+      "control",
+      "shapes",
+      "online discourse"
+    ],
+    [
+      "control",
+      "spreads",
+      "misinformation"
+    ],
+    [
+      "control",
+      "utilizes",
+      "symbolism"
+    ],
+    [
+      "controlled demolitions",
+      "addresses",
+      "debunking myths"
+    ],
+    [
+      "controlled demolitions",
+      "attracts",
+      "truth-seekers"
+    ],
+    [
+      "controlled demolitions",
+      "contradicts",
+      "truth"
+    ],
+    [
+      "controlled demolitions",
+      "contradicts controlled demolitions with",
+      "scientific evidence"
+    ],
+    [
+      "controlled demolitions",
+      "evidence against",
+      "lack of evidence"
+    ],
+    [
+      "controlled demolitions",
+      "evokes",
+      "public imagination"
+    ],
+    [
+      "controlled demolitions",
+      "explains global phenomena through",
+      "global phenomena"
+    ],
+    [
+      "controlled demolitions",
+      "is a method of",
+      "control"
+    ],
+    [
+      "controlled demolitions",
+      "is discussed in",
+      "online discourse"
+    ],
+    [
+      "controlled demolitions",
+      "is represented by",
+      "symbolism"
+    ],
+    [
+      "controlled demolitions",
+      "subject to",
+      "scientific scrutiny"
+    ],
+    [
+      "controlled demolitions",
+      "supports",
+      "empowerment"
+    ],
+    [
+      "critical examination",
+      "affects cultural impact through",
+      "cultural impact"
+    ],
+    [
+      "critical examination",
+      "analyzes",
+      "symbolism"
+    ],
+    [
+      "critical examination",
+      "combats",
+      "misinformation"
+    ],
+    [
+      "critical examination",
+      "encourages",
+      "alternative explanations"
+    ],
+    [
+      "critical examination",
+      "enhances",
+      "psychological appeal"
+    ],
+    [
+      "critical examination",
+      "examines",
+      "Illuminati"
+    ],
+    [
+      "critical examination",
+      "examines",
+      "controlled demolitions"
+    ],
+    [
+      "critical examination",
+      "examines",
+      "photographic evidence"
+    ],
+    [
+      "critical examination",
+      "fosters",
+      "online communities"
+    ],
+    [
+      "critical examination",
+      "informs",
+      "historical events"
+    ],
+    [
+      "critical examination",
+      "investigates",
+      "September 11 attacks"
+    ],
+    [
+      "critical examination",
+      "motivates",
+      "truth-seekers"
+    ],
+    [
+      "critical examination",
+      "promotes",
+      "engagement"
+    ],
+    [
+      "critical examination",
+      "promotes alternative narratives through",
+      "alternative narratives"
+    ],
+    [
+      "critical examination",
+      "questions",
+      "official explanations"
+    ],
+    [
+      "critical examination",
+      "questions",
+      "official narratives"
+    ],
+    [
+      "critical examination",
+      "questions",
+      "secret society"
+    ],
+    [
+      "critical examination",
+      "reveals",
+      "anomalies"
+    ],
+    [
+      "critical examination",
+      "shapes",
+      "collective belief"
+    ],
+    [
+      "critical examination",
+      "shapes",
+      "public discourse"
+    ],
+    [
+      "critical examination",
+      "supports",
+      "debunking"
+    ],
+    [
+      "critical examination",
+      "supports",
+      "scientific evidence"
+    ],
+    [
+      "critical thinking",
+      "affects",
+      "public perception"
+    ],
+    [
+      "critical thinking",
+      "challenges",
+      "moon landing"
+    ],
+    [
+      "critical thinking",
+      "enables",
+      "debunking myths"
+    ],
+    [
+      "critical thinking",
+      "encourages",
+      "global phenomena"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "information sharing"
+    ],
+    [
+      "critical thinking",
+      "examines",
+      "September 11 attacks"
+    ],
+    [
+      "critical thinking",
+      "examines",
+      "conspiracy theory"
+    ],
+    [
+      "critical thinking",
+      "highlights",
+      "anomalies"
+    ],
+    [
+      "critical thinking",
+      "influences",
+      "public imagination"
+    ],
+    [
+      "critical thinking",
+      "is affected by",
+      "manipulation"
+    ],
+    [
+      "critical thinking",
+      "is enhanced by",
+      "information age"
+    ],
+    [
+      "critical thinking",
+      "is questioned by",
+      "secrecy"
+    ],
+    [
+      "critical thinking",
+      "promotes",
+      "public skepticism"
+    ],
+    [
+      "critical thinking",
+      "provides",
+      "alternative explanations"
+    ],
+    [
+      "critical thinking",
+      "questions",
+      "Illuminati"
+    ],
+    [
+      "critical thinking",
+      "supports",
+      "scientific scrutiny"
+    ],
+    [
+      "cultural impact",
+      "affects",
+      "conspiracy theory"
+    ],
+    [
+      "cultural impact",
+      "affects",
+      "controlled demolitions"
+    ],
+    [
+      "cultural impact",
+      "affects",
+      "photographic evidence"
+    ],
+    [
+      "cultural impact",
+      "influences",
+      "online discourse"
+    ],
+    [
+      "cultural impact",
+      "influences",
+      "symbolism"
+    ],
+    [
+      "cultural impact",
+      "is influenced by",
+      "political motivations"
+    ],
+    [
+      "cultural impact",
+      "is reflected in",
+      "anomalies"
+    ],
+    [
+      "cultural impact",
+      "is shaped by",
+      "moon landing hoax"
+    ],
+    [
+      "cultural impact",
+      "shapes",
+      "communication channels"
+    ],
+    [
+      "cultural impact",
+      "shapes",
+      "distrust of authority"
+    ],
+    [
+      "cultural impact",
+      "shapes",
+      "skepticism"
+    ],
+    [
+      "cultural impact",
+      "shapes",
+      "space race"
+    ],
+    [
+      "cultural impact",
+      "shapes cultural impact on",
+      "truth-seekers"
+    ],
+    [
+      "debunking",
+      "addresses",
+      "World Trade Center"
+    ],
+    [
+      "debunking",
+      "challenges",
+      "technological achievement"
+    ],
+    [
+      "debunking",
+      "challenges",
+      "trust in authority"
+    ],
+    [
+      "debunking",
+      "contradicts",
+      "scientific evidence"
+    ],
+    [
+      "debunking",
+      "contradicts",
+      "secrecy"
+    ],
+    [
+      "debunking",
+      "countered by",
+      "psychological appeal"
+    ],
+    [
+      "debunking",
+      "debunks",
+      "Soviet Union"
+    ],
+    [
+      "debunking",
+      "discredits",
+      "symbolism"
+    ],
+    [
+      "debunking",
+      "disproves",
+      "assassination of Kennedy"
+    ],
+    [
+      "debunking",
+      "disproves",
+      "government involvement"
+    ],
+    [
+      "debunking",
+      "disproves",
+      "official explanations"
+    ],
+    [
+      "debunking",
+      "facilitates",
+      "communication channels"
+    ],
+    [
+      "debunking",
+      "facilitates",
+      "critical thinking"
+    ],
+    [
+      "debunking",
+      "fosters",
+      "distrust of authority"
+    ],
+    [
+      "debunking",
+      "influenced",
+      "public imagination"
+    ],
+    [
+      "debunking",
+      "influences",
+      "public discourse"
+    ],
+    [
+      "debunking",
+      "influences",
+      "social media"
+    ],
+    [
+      "debunking",
+      "is a result of",
+      "public skepticism"
+    ],
+    [
+      "debunking",
+      "is challenged by",
+      "hoax theory"
+    ],
+    [
+      "debunking",
+      "is challenged by",
+      "official narratives"
+    ],
+    [
+      "debunking",
+      "is countered by",
+      "engagement"
+    ],
+    [
+      "debunking",
+      "is countered by",
+      "historical events"
+    ],
+    [
+      "debunking",
+      "is countered by",
+      "moon landing hoax"
+    ],
+    [
+      "debunking",
+      "is questioned by",
+      "Neil Armstrong"
+    ],
+    [
+      "debunking",
+      "is questioned by",
+      "moon landing"
+    ],
+    [
+      "debunking",
+      "is used for",
+      "video evidence"
+    ],
+    [
+      "debunking",
+      "refutes",
+      "subliminal messaging"
+    ],
+    [
+      "debunking myths",
+      "challenges",
+      "America"
+    ],
+    [
+      "debunking myths",
+      "challenges",
+      "control"
+    ],
+    [
+      "debunking myths",
+      "challenges",
+      "secrecy"
+    ],
+    [
+      "debunking myths",
+      "challenges",
+      "secret society"
+    ],
+    [
+      "debunking myths",
+      "challenges",
+      "societal anxieties"
+    ],
+    [
+      "debunking myths",
+      "combats",
+      "information dissemination"
+    ],
+    [
+      "debunking myths",
+      "debunked by",
+      "global phenomena"
+    ],
+    [
+      "debunking myths",
+      "debunks",
+      "Middle East conflict"
+    ],
+    [
+      "debunking myths",
+      "debunks",
+      "photographic evidence"
+    ],
+    [
+      "debunking myths",
+      "disproves",
+      "Apollo 11"
+    ],
+    [
+      "debunking myths",
+      "disproves",
+      "anomalies"
+    ],
+    [
+      "debunking myths",
+      "disproves",
+      "documentaries"
+    ],
+    [
+      "debunking myths",
+      "disproves",
+      "official narratives"
+    ],
+    [
+      "debunking myths",
+      "enhances",
+      "communication channels"
+    ],
+    [
+      "debunking myths",
+      "fuels",
+      "national pride"
+    ],
+    [
+      "debunking myths",
+      "influences",
+      "public opinion"
+    ],
+    [
+      "debunking myths",
+      "is a process of",
+      "debunking"
+    ],
+    [
+      "debunking myths",
+      "is addressed by",
+      "uncertainty"
+    ],
+    [
+      "debunking myths",
+      "is challenged by",
+      "alternative explanations"
+    ],
+    [
+      "debunking myths",
+      "is challenged by",
+      "collective belief"
+    ],
+    [
+      "debunking myths",
+      "is challenged by",
+      "public perception"
+    ],
+    [
+      "debunking myths",
+      "is challenged by",
+      "questions of power"
+    ],
+    [
+      "debunking myths",
+      "is challenged by",
+      "scientific scrutiny"
+    ],
+    [
+      "debunking myths",
+      "is challenged by",
+      "video evidence"
+    ],
+    [
+      "debunking myths",
+      "is countered by",
+      "information age"
+    ],
+    [
+      "debunking myths",
+      "is countered by",
+      "social media"
+    ],
+    [
+      "debunking myths",
+      "is debunked by",
+      "historical events"
+    ],
+    [
+      "debunking myths",
+      "is debunked by",
+      "moon landing"
+    ],
+    [
+      "debunking myths",
+      "is disproven by",
+      "moon landing hoax"
+    ],
+    [
+      "debunking myths",
+      "is facilitated by",
+      "online communities"
+    ],
+    [
+      "debunking myths",
+      "is pursued by",
+      "investigations"
+    ],
+    [
+      "debunking myths",
+      "promotes",
+      "distrust of authority"
+    ],
+    [
+      "distrust of authority",
+      "affects communication channels for",
+      "communication channels"
+    ],
+    [
+      "distrust of authority",
+      "creates",
+      "online communities"
+    ],
+    [
+      "distrust of authority",
+      "fosters",
+      "evidence analysis"
+    ],
+    [
+      "distrust of authority",
+      "fueled by",
+      "anomalies"
+    ],
+    [
+      "distrust of authority",
+      "fueled by",
+      "controlled demolitions"
+    ],
+    [
+      "distrust of authority",
+      "fueled by",
+      "video evidence"
+    ],
+    [
+      "distrust of authority",
+      "fuels",
+      "social media"
+    ],
+    [
+      "distrust of authority",
+      "is a result of",
+      "America"
+    ],
+    [
+      "distrust of authority",
+      "is driven by",
+      "public imagination"
+    ],
+    [
+      "distrust of authority",
+      "is fueled by",
+      "Middle East conflict"
+    ],
+    [
+      "distrust of authority",
+      "is fueled by",
+      "Neil Armstrong"
+    ],
+    [
+      "distrust of authority",
+      "is fueled by",
+      "documentaries"
+    ],
+    [
+      "distrust of authority",
+      "is fueled by",
+      "shadowy groups"
+    ],
+    [
+      "distrust of authority",
+      "is fueled by",
+      "symbolism"
+    ],
+    [
+      "distrust of authority",
+      "is questioned by",
+      "historical narrative"
+    ],
+    [
+      "distrust of authority",
+      "is shaped by",
+      "public opinion"
+    ],
+    [
+      "distrust of authority",
+      "questioned by",
+      "Buzz Aldrin"
+    ],
+    [
+      "distrust of authority",
+      "questioned by",
+      "historical events"
+    ],
+    [
+      "distrust of authority",
+      "results from",
+      "trust in authority"
+    ],
+    [
+      "documentaries",
+      "affects",
+      "cultural impact"
+    ],
+    [
+      "documentaries",
+      "analyzes",
+      "investigations"
+    ],
+    [
+      "documentaries",
+      "appeals to",
+      "psychological appeal"
+    ],
+    [
+      "documentaries",
+      "defines",
+      "information age"
+    ],
+    [
+      "documentaries",
+      "drives documentaries on",
+      "political motivations"
+    ],
+    [
+      "documentaries",
+      "examines",
+      "Soviet Union"
+    ],
+    [
+      "documentaries",
+      "examines",
+      "anomalies"
+    ],
+    [
+      "documentaries",
+      "examines",
+      "official explanations"
+    ],
+    [
+      "documentaries",
+      "examines",
+      "official narratives"
+    ],
+    [
+      "documentaries",
+      "examines",
+      "secret society"
+    ],
+    [
+      "documentaries",
+      "examines government involvement in",
+      "government involvement"
+    ],
+    [
+      "documentaries",
+      "explores",
+      "alternative narratives"
+    ],
+    [
+      "documentaries",
+      "explores",
+      "global phenomena"
+    ],
+    [
+      "documentaries",
+      "generates",
+      "public skepticism"
+    ],
+    [
+      "documentaries",
+      "highlights lack of evidence in",
+      "lack of evidence"
+    ],
+    [
+      "documentaries",
+      "informs",
+      "political movements"
+    ],
+    [
+      "documentaries",
+      "inspired by",
+      "national pride"
+    ],
+    [
+      "documentaries",
+      "investigates",
+      "shadowy groups"
+    ],
+    [
+      "documentaries",
+      "offers",
+      "alternative explanations"
+    ],
+    [
+      "documentaries",
+      "produces documentaries about",
+      "America"
+    ],
+    [
+      "documentaries",
+      "promotes",
+      "critical examination"
+    ],
+    [
+      "documentaries",
+      "promotes",
+      "empowerment"
+    ],
+    [
+      "documentaries",
+      "promotes",
+      "engagement"
+    ],
+    [
+      "documentaries",
+      "provides",
+      "control"
+    ],
+    [
+      "documentaries",
+      "provides",
+      "photographic evidence"
+    ],
+    [
+      "documentaries",
+      "raises",
+      "questions of power"
+    ],
+    [
+      "documentaries",
+      "shapes",
+      "historical narrative"
+    ],
+    [
+      "documentaries",
+      "shapes",
+      "public discourse"
+    ],
+    [
+      "documentaries",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "documentaries",
+      "utilized by",
+      "communication channels"
+    ],
+    [
+      "empowerment",
+      "cultivates",
+      "online communities"
+    ],
+    [
+      "empowerment",
+      "facilitates",
+      "social media"
+    ],
+    [
+      "empowerment",
+      "fuels",
+      "distrust of authority"
+    ],
+    [
+      "empowerment",
+      "offers",
+      "mystery"
+    ],
+    [
+      "empowerment",
+      "provides",
+      "conspiracy theory"
+    ],
+    [
+      "empowerment",
+      "provides",
+      "critical examination"
+    ],
+    [
+      "empowerment",
+      "provides",
+      "historical events"
+    ],
+    [
+      "empowerment",
+      "provides",
+      "public imagination"
+    ],
+    [
+      "empowerment",
+      "provides",
+      "secret society"
+    ],
+    [
+      "empowerment",
+      "provides",
+      "truth-seekers"
+    ],
+    [
+      "empowerment",
+      "shapes",
+      "cultural impact"
+    ],
+    [
+      "empowerment",
+      "shapes",
+      "historical narrative"
+    ],
+    [
+      "empowerment",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "empowerment",
+      "utilizes empowerment for",
+      "Illuminati"
+    ],
+    [
+      "engagement",
+      "demonstrates",
+      "photographic evidence"
+    ],
+    [
+      "engagement",
+      "embodies",
+      "symbolism"
+    ],
+    [
+      "engagement",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "engagement",
+      "facilitates",
+      "communication channels"
+    ],
+    [
+      "engagement",
+      "facilitates",
+      "information sharing"
+    ],
+    [
+      "engagement",
+      "influences",
+      "assassination of Kennedy"
+    ],
+    [
+      "engagement",
+      "involves",
+      "Illuminati"
+    ],
+    [
+      "engagement",
+      "is a method of",
+      "information dissemination"
+    ],
+    [
+      "engagement",
+      "is driven by",
+      "lack of evidence"
+    ],
+    [
+      "engagement",
+      "leads to",
+      "truth"
+    ],
+    [
+      "engagement",
+      "participated in",
+      "Neil Armstrong"
+    ],
+    [
+      "engagement",
+      "reflects",
+      "societal anxieties"
+    ],
+    [
+      "engagement",
+      "reinforces",
+      "collective belief"
+    ],
+    [
+      "engagement",
+      "shapes",
+      "cultural impact"
+    ],
+    [
+      "engagement",
+      "shapes",
+      "historical events"
+    ],
+    [
+      "evidence analysis",
+      "analyzed by",
+      "media influence"
+    ],
+    [
+      "evidence analysis",
+      "analyzes",
+      "Illuminati"
+    ],
+    [
+      "evidence analysis",
+      "cultivates",
+      "online communities"
+    ],
+    [
+      "evidence analysis",
+      "encourages",
+      "engagement"
+    ],
+    [
+      "evidence analysis",
+      "examines",
+      "September 11 attacks"
+    ],
+    [
+      "evidence analysis",
+      "examines",
+      "controlled demolitions"
+    ],
+    [
+      "evidence analysis",
+      "exposes",
+      "misinformation"
+    ],
+    [
+      "evidence analysis",
+      "highlights",
+      "anomalies"
+    ],
+    [
+      "evidence analysis",
+      "influences",
+      "public opinion"
+    ],
+    [
+      "evidence analysis",
+      "informs",
+      "psychological appeal"
+    ],
+    [
+      "evidence analysis",
+      "informs",
+      "public discourse"
+    ],
+    [
+      "evidence analysis",
+      "is analyzed by",
+      "uncertainty"
+    ],
+    [
+      "evidence analysis",
+      "shapes",
+      "cultural impact"
+    ],
+    [
+      "evidence analysis",
+      "suggests",
+      "manipulation"
+    ],
+    [
+      "evidence analysis",
+      "supports",
+      "alternative explanations"
+    ],
+    [
+      "evidence analysis",
+      "supports",
+      "debunking"
+    ],
+    [
+      "global phenomena",
+      "associated with",
+      "conspiracy theory"
+    ],
+    [
+      "global phenomena",
+      "associated with",
+      "government involvement"
+    ],
+    [
+      "global phenomena",
+      "connects",
+      "communication channels"
+    ],
+    [
+      "global phenomena",
+      "drives",
+      "Illuminati"
+    ],
+    [
+      "global phenomena",
+      "influences",
+      "control"
+    ],
+    [
+      "global phenomena",
+      "influences",
+      "cultural impact"
+    ],
+    [
+      "global phenomena",
+      "influences",
+      "symbolism"
+    ],
+    [
+      "global phenomena",
+      "reflects",
+      "public opinion"
+    ],
+    [
+      "global phenomena",
+      "shapes",
+      "online discourse"
+    ],
+    [
+      "global phenomena",
+      "spreads",
+      "misinformation"
+    ],
+    [
+      "global phenomena",
+      "underpins",
+      "photographic evidence"
+    ],
+    [
+      "government involvement",
+      "affects",
+      "cultural impact"
+    ],
+    [
+      "government involvement",
+      "associated with",
+      "symbolism"
+    ],
+    [
+      "government involvement",
+      "attracts",
+      "truth-seekers"
+    ],
+    [
+      "government involvement",
+      "contradicts",
+      "official explanations"
+    ],
+    [
+      "government involvement",
+      "fosters",
+      "distrust of authority"
+    ],
+    [
+      "government involvement",
+      "fuels",
+      "skepticism"
+    ],
+    [
+      "government involvement",
+      "influences public opinion on",
+      "public opinion"
+    ],
+    [
+      "government involvement",
+      "involved in",
+      "Soviet Union"
+    ],
+    [
+      "government involvement",
+      "involves",
+      "critical examination"
+    ],
+    [
+      "government involvement",
+      "involves",
+      "evidence analysis"
+    ],
+    [
+      "government involvement",
+      "involves",
+      "information sharing"
+    ],
+    [
+      "government involvement",
+      "involves",
+      "space race"
+    ],
+    [
+      "government involvement",
+      "linked to",
+      "Illuminati"
+    ],
+    [
+      "government involvement",
+      "reveals government involvement in",
+      "September 11 attacks"
+    ],
+    [
+      "government involvement",
+      "suggests",
+      "manipulation"
+    ],
+    [
+      "historical events",
+      "challenges",
+      "alternative explanations"
+    ],
+    [
+      "historical events",
+      "creates",
+      "mystery"
+    ],
+    [
+      "historical events",
+      "depicts",
+      "documentaries"
+    ],
+    [
+      "historical events",
+      "influenced by",
+      "Soviet Union"
+    ],
+    [
+      "historical events",
+      "influences",
+      "controlled demolitions"
+    ],
+    [
+      "historical events",
+      "involves",
+      "Illuminati"
+    ],
+    [
+      "historical events",
+      "is influenced by",
+      "social media"
+    ],
+    [
+      "historical events",
+      "is part of",
+      "Buzz Aldrin"
+    ],
+    [
+      "historical events",
+      "questioned by",
+      "moon landing hoax"
+    ],
+    [
+      "historical events",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "historical narrative",
+      "contradicts",
+      "hoax theory"
+    ],
+    [
+      "historical narrative",
+      "creates",
+      "mystery"
+    ],
+    [
+      "historical narrative",
+      "influences",
+      "collective belief"
+    ],
+    [
+      "historical narrative",
+      "influences",
+      "cultural impact"
+    ],
+    [
+      "historical narrative",
+      "influences",
+      "public imagination"
+    ],
+    [
+      "historical narrative",
+      "informs",
+      "conspiracy theory"
+    ],
+    [
+      "historical narrative",
+      "informs",
+      "shadowy groups"
+    ],
+    [
+      "historical narrative",
+      "invokes",
+      "skepticism"
+    ],
+    [
+      "historical narrative",
+      "is associated with",
+      "Apollo 11"
+    ],
+    [
+      "historical narrative",
+      "is associated with",
+      "Illuminati"
+    ],
+    [
+      "historical narrative",
+      "is documented in",
+      "assassination of Kennedy"
+    ],
+    [
+      "historical narrative",
+      "shaped",
+      "Soviet Union"
+    ],
+    [
+      "historical narrative",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "historical narrative",
+      "supports",
+      "photographic evidence"
+    ],
+    [
+      "hoax theory",
+      "affects",
+      "cultural impact"
+    ],
+    [
+      "hoax theory",
+      "appeals to",
+      "psychological appeal"
+    ],
+    [
+      "hoax theory",
+      "captures",
+      "public imagination"
+    ],
+    [
+      "hoax theory",
+      "concerns",
+      "moon landing"
+    ],
+    [
+      "hoax theory",
+      "connects",
+      "online communities"
+    ],
+    [
+      "hoax theory",
+      "discussed in",
+      "online discourse"
+    ],
+    [
+      "hoax theory",
+      "discussed in",
+      "public discourse"
+    ],
+    [
+      "hoax theory",
+      "disputes",
+      "lunar surface"
+    ],
+    [
+      "hoax theory",
+      "elicits",
+      "skepticism"
+    ],
+    [
+      "hoax theory",
+      "exacerbates",
+      "societal anxieties"
+    ],
+    [
+      "hoax theory",
+      "facilitates",
+      "information sharing"
+    ],
+    [
+      "hoax theory",
+      "fueled by",
+      "distrust of authority"
+    ],
+    [
+      "hoax theory",
+      "generates",
+      "public skepticism"
+    ],
+    [
+      "hoax theory",
+      "highlights",
+      "anomalies"
+    ],
+    [
+      "hoax theory",
+      "highlights",
+      "lack of evidence"
+    ],
+    [
+      "hoax theory",
+      "illustrates",
+      "symbolism"
+    ],
+    [
+      "hoax theory",
+      "is challenged by",
+      "scientific evidence"
+    ],
+    [
+      "hoax theory",
+      "is linked to",
+      "global phenomena"
+    ],
+    [
+      "hoax theory",
+      "is pursued by",
+      "truth-seekers"
+    ],
+    [
+      "hoax theory",
+      "linked to",
+      "space race"
+    ],
+    [
+      "hoax theory",
+      "refutes",
+      "debunking"
+    ],
+    [
+      "hoax theory",
+      "related to",
+      "secrecy"
+    ],
+    [
+      "hoax theory",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "hoax theory",
+      "spreads",
+      "information dissemination"
+    ],
+    [
+      "hoax theory",
+      "spreads",
+      "misinformation"
+    ],
+    [
+      "hoax theory",
+      "suggests",
+      "government involvement"
+    ],
+    [
+      "hoax theory",
+      "supports",
+      "alternative explanations"
+    ],
+    [
+      "hoax theory",
+      "supports",
+      "video evidence"
+    ],
+    [
+      "hoax theory",
+      "undergoes",
+      "critical examination"
+    ],
+    [
+      "hoax theory",
+      "utilizes",
+      "communication channels"
+    ],
+    [
+      "information age",
+      "drives",
+      "conspiracy theory"
+    ],
+    [
+      "information age",
+      "erodes",
+      "trust in authority"
+    ],
+    [
+      "information age",
+      "explores",
+      "lunar surface"
+    ],
+    [
+      "information age",
+      "facilitates",
+      "online communities"
+    ],
+    [
+      "information age",
+      "fosters",
+      "skepticism"
+    ],
+    [
+      "information age",
+      "fuels",
+      "distrust of authority"
+    ],
+    [
+      "information age",
+      "influences",
+      "public skepticism"
+    ],
+    [
+      "information age",
+      "involves",
+      "Neil Armstrong"
+    ],
+    [
+      "information age",
+      "offers",
+      "alternative explanations"
+    ],
+    [
+      "information age",
+      "shapes",
+      "control"
+    ],
+    [
+      "information age",
+      "shapes",
+      "official narratives"
+    ],
+    [
+      "information age",
+      "shapes",
+      "online discourse"
+    ],
+    [
+      "information age",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "information age",
+      "spreads misinformation in",
+      "misinformation"
+    ],
+    [
+      "information dissemination",
+      "affects",
+      "Buzz Aldrin"
+    ],
+    [
+      "information dissemination",
+      "affects",
+      "astronaut behavior"
+    ],
+    [
+      "information dissemination",
+      "contextualizes",
+      "historical events"
+    ],
+    [
+      "information dissemination",
+      "contributes to",
+      "distrust of authority"
+    ],
+    [
+      "information dissemination",
+      "creates",
+      "chaos"
+    ],
+    [
+      "information dissemination",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "information dissemination",
+      "facilitates",
+      "information sharing"
+    ],
+    [
+      "information dissemination",
+      "facilitates",
+      "online communities"
+    ],
+    [
+      "information dissemination",
+      "facilitates",
+      "social media"
+    ],
+    [
+      "information dissemination",
+      "facilitates dissemination of",
+      "photographic evidence"
+    ],
+    [
+      "information dissemination",
+      "fosters",
+      "collective belief"
+    ],
+    [
+      "information dissemination",
+      "influences",
+      "America"
+    ],
+    [
+      "information dissemination",
+      "influences",
+      "government involvement"
+    ],
+    [
+      "information dissemination",
+      "involves",
+      "Neil Armstrong"
+    ],
+    [
+      "information dissemination",
+      "is impacted by",
+      "secrecy"
+    ],
+    [
+      "information dissemination",
+      "is propagated by",
+      "conspiracy theory"
+    ],
+    [
+      "information dissemination",
+      "linked to",
+      "controlled demolitions"
+    ],
+    [
+      "information dissemination",
+      "reveals",
+      "anomalies"
+    ],
+    [
+      "information dissemination",
+      "shapes",
+      "historical narrative"
+    ],
+    [
+      "information dissemination",
+      "shapes",
+      "political motivations"
+    ],
+    [
+      "information dissemination",
+      "shapes",
+      "public skepticism"
+    ],
+    [
+      "information dissemination",
+      "sparks",
+      "public imagination"
+    ],
+    [
+      "information dissemination",
+      "spreads",
+      "misinformation"
+    ],
+    [
+      "information dissemination",
+      "supports",
+      "truth"
+    ],
+    [
+      "information sharing",
+      "benefits",
+      "America"
+    ],
+    [
+      "information sharing",
+      "combats",
+      "debunking myths"
+    ],
+    [
+      "information sharing",
+      "creates",
+      "chaos"
+    ],
+    [
+      "information sharing",
+      "creates",
+      "mystery"
+    ],
+    [
+      "information sharing",
+      "driven by",
+      "political motivations"
+    ],
+    [
+      "information sharing",
+      "drives",
+      "societal anxieties"
+    ],
+    [
+      "information sharing",
+      "enables",
+      "communication channels"
+    ],
+    [
+      "information sharing",
+      "enables",
+      "control"
+    ],
+    [
+      "information sharing",
+      "enhances",
+      "online discourse"
+    ],
+    [
+      "information sharing",
+      "facilitated by",
+      "critical examination"
+    ],
+    [
+      "information sharing",
+      "facilitates",
+      "controlled demolitions"
+    ],
+    [
+      "information sharing",
+      "facilitates",
+      "lunar surface"
+    ],
+    [
+      "information sharing",
+      "facilitates",
+      "online communities"
+    ],
+    [
+      "information sharing",
+      "facilitates",
+      "skepticism"
+    ],
+    [
+      "information sharing",
+      "facilitates",
+      "social media"
+    ],
+    [
+      "information sharing",
+      "fuels",
+      "public skepticism"
+    ],
+    [
+      "information sharing",
+      "informs",
+      "assassination of Kennedy"
+    ],
+    [
+      "information sharing",
+      "is driven by",
+      "distrust of authority"
+    ],
+    [
+      "information sharing",
+      "provides information to",
+      "truth-seekers"
+    ],
+    [
+      "information sharing",
+      "shapes",
+      "cultural impact"
+    ],
+    [
+      "information sharing",
+      "shared by",
+      "photographic evidence"
+    ],
+    [
+      "information sharing",
+      "supports",
+      "alternative explanations"
+    ],
+    [
+      "information sharing",
+      "supports",
+      "alternative narratives"
+    ],
+    [
+      "information sharing",
+      "supports",
+      "conspiracy theory"
+    ],
+    [
+      "information sharing",
+      "undermines",
+      "trust in authority"
+    ],
+    [
+      "investigations",
+      "attracts",
+      "truth-seekers"
+    ],
+    [
+      "investigations",
+      "contradicts official explanations in",
+      "official explanations"
+    ],
+    [
+      "investigations",
+      "contributes to",
+      "historical narrative"
+    ],
+    [
+      "investigations",
+      "driven by",
+      "social media"
+    ],
+    [
+      "investigations",
+      "explores",
+      "alternative explanations"
+    ],
+    [
+      "investigations",
+      "explores",
+      "mystery"
+    ],
+    [
+      "investigations",
+      "explores",
+      "speculations"
+    ],
+    [
+      "investigations",
+      "fuels",
+      "conspiracy theory"
+    ],
+    [
+      "investigations",
+      "illustrates",
+      "symbolism"
+    ],
+    [
+      "investigations",
+      "influences",
+      "political movements"
+    ],
+    [
+      "investigations",
+      "informs",
+      "evidence analysis"
+    ],
+    [
+      "investigations",
+      "investigates",
+      "anomalies"
+    ],
+    [
+      "investigations",
+      "investigates",
+      "astronaut behavior"
+    ],
+    [
+      "investigations",
+      "investigates",
+      "secret society"
+    ],
+    [
+      "investigations",
+      "investigates misinformation in",
+      "misinformation"
+    ],
+    [
+      "investigations",
+      "investigates official narratives for",
+      "official narratives"
+    ],
+    [
+      "investigations",
+      "is a part of",
+      "control"
+    ],
+    [
+      "investigations",
+      "is a part of",
+      "online communities"
+    ],
+    [
+      "investigations",
+      "is a part of",
+      "online discourse"
+    ],
+    [
+      "investigations",
+      "is driven by",
+      "distrust of authority"
+    ],
+    [
+      "investigations",
+      "is investigated by",
+      "hoax theory"
+    ],
+    [
+      "investigations",
+      "leads to",
+      "global phenomena"
+    ],
+    [
+      "investigations",
+      "leads to",
+      "truth"
+    ],
+    [
+      "investigations",
+      "promotes",
+      "engagement"
+    ],
+    [
+      "investigations",
+      "reveals",
+      "public skepticism"
+    ],
+    [
+      "investigations",
+      "shapes",
+      "public discourse"
+    ],
+    [
+      "investigations",
+      "shapes",
+      "public perception"
+    ],
+    [
+      "investigations",
+      "subject of investigations into",
+      "secrecy"
+    ],
+    [
+      "investigations",
+      "supports",
+      "communication channels"
+    ],
+    [
+      "lack of evidence",
+      "affects",
+      "communication channels"
+    ],
+    [
+      "lack of evidence",
+      "challenges",
+      "evidence analysis"
+    ],
+    [
+      "lack of evidence",
+      "drives",
+      "political motivations"
+    ],
+    [
+      "lack of evidence",
+      "exacerbates",
+      "social media"
+    ],
+    [
+      "lack of evidence",
+      "fuels",
+      "distrust of authority"
+    ],
+    [
+      "lack of evidence",
+      "impacts",
+      "information dissemination"
+    ],
+    [
+      "lack of evidence",
+      "is influenced by",
+      "information age"
+    ],
+    [
+      "lack of evidence",
+      "lacks",
+      "Soviet Union"
+    ],
+    [
+      "lack of evidence",
+      "promotes",
+      "skepticism"
+    ],
+    [
+      "lack of evidence",
+      "reveals",
+      "media influence"
+    ],
+    [
+      "lack of evidence",
+      "suggests",
+      "government involvement"
+    ],
+    [
+      "lack of evidence",
+      "supports",
+      "online communities"
+    ],
+    [
+      "lunar surface",
+      "associated with",
+      "mystery"
+    ],
+    [
+      "lunar surface",
+      "depicted on",
+      "symbolism"
+    ],
+    [
+      "lunar surface",
+      "depicts",
+      "photographic evidence"
+    ],
+    [
+      "lunar surface",
+      "evidence of lunar surface",
+      "video evidence"
+    ],
+    [
+      "lunar surface",
+      "influences",
+      "space race"
+    ],
+    [
+      "lunar surface",
+      "investigates",
+      "investigations"
+    ],
+    [
+      "lunar surface",
+      "involves",
+      "moon landing"
+    ],
+    [
+      "lunar surface",
+      "is associated with",
+      "Illuminati"
+    ],
+    [
+      "lunar surface",
+      "is examined by",
+      "debunking"
+    ],
+    [
+      "lunar surface",
+      "is examined through",
+      "questions of power"
+    ],
+    [
+      "lunar surface",
+      "is explained by",
+      "official narratives"
+    ],
+    [
+      "lunar surface",
+      "is linked to",
+      "national pride"
+    ],
+    [
+      "lunar surface",
+      "is questioned by",
+      "misinformation"
+    ],
+    [
+      "lunar surface",
+      "shaped by",
+      "cultural impact"
+    ],
+    [
+      "manipulation",
+      "contradicts",
+      "official explanations"
+    ],
+    [
+      "manipulation",
+      "exploited for",
+      "official narratives"
+    ],
+    [
+      "manipulation",
+      "exploits",
+      "America"
+    ],
+    [
+      "manipulation",
+      "fosters",
+      "distrust of authority"
+    ],
+    [
+      "manipulation",
+      "influenced by",
+      "astronaut behavior"
+    ],
+    [
+      "manipulation",
+      "influences",
+      "public discourse"
+    ],
+    [
+      "manipulation",
+      "is a result of",
+      "global phenomena"
+    ],
+    [
+      "manipulation",
+      "is associated with",
+      "studio staging"
+    ],
+    [
+      "manipulation",
+      "is manipulated by",
+      "trust in authority"
+    ],
+    [
+      "manipulation",
+      "shapes",
+      "cultural impact"
+    ],
+    [
+      "manipulation",
+      "target of",
+      "truth-seekers"
+    ],
+    [
+      "manipulation",
+      "utilizes",
+      "communication channels"
+    ],
+    [
+      "media influence",
+      "affects",
+      "video evidence"
+    ],
+    [
+      "media influence",
+      "contributes to",
+      "distrust of authority"
+    ],
+    [
+      "media influence",
+      "creates",
+      "chaos"
+    ],
+    [
+      "media influence",
+      "drives",
+      "investigations"
+    ],
+    [
+      "media influence",
+      "drives",
+      "political motivations"
+    ],
+    [
+      "media influence",
+      "encourages",
+      "critical thinking"
+    ],
+    [
+      "media influence",
+      "exploited by",
+      "manipulation"
+    ],
+    [
+      "media influence",
+      "exposes",
+      "controlled demolitions"
+    ],
+    [
+      "media influence",
+      "facilitates",
+      "communication channels"
+    ],
+    [
+      "media influence",
+      "impacts",
+      "government involvement"
+    ],
+    [
+      "media influence",
+      "influences",
+      "astronaut behavior"
+    ],
+    [
+      "media influence",
+      "inspires",
+      "truth-seekers"
+    ],
+    [
+      "media influence",
+      "promotes",
+      "hoax theory"
+    ],
+    [
+      "media influence",
+      "provides",
+      "empowerment"
+    ],
+    [
+      "media influence",
+      "raises",
+      "questions of power"
+    ],
+    [
+      "media influence",
+      "shapes",
+      "Middle East conflict"
+    ],
+    [
+      "media influence",
+      "shapes",
+      "alternative explanations"
+    ],
+    [
+      "media influence",
+      "shapes",
+      "alternative narratives"
+    ],
+    [
+      "media influence",
+      "shapes",
+      "documentaries"
+    ],
+    [
+      "media influence",
+      "shapes",
+      "global phenomena"
+    ],
+    [
+      "media influence",
+      "shapes",
+      "mystery"
+    ],
+    [
+      "media influence",
+      "shapes",
+      "national pride"
+    ],
+    [
+      "media influence",
+      "shapes",
+      "public discourse"
+    ],
+    [
+      "media influence",
+      "shapes",
+      "public imagination"
+    ],
+    [
+      "media influence",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "media influence",
+      "shapes",
+      "uncertainty"
+    ],
+    [
+      "media influence",
+      "shapes media influence on",
+      "online communities"
+    ],
+    [
+      "media influence",
+      "utilizes",
+      "subliminal messaging"
+    ],
+    [
+      "media influence",
+      "utilizes",
+      "symbolism"
+    ],
+    [
+      "misinformation",
+      "contradicts",
+      "debunking myths"
+    ],
+    [
+      "misinformation",
+      "contributes to",
+      "documentaries"
+    ],
+    [
+      "misinformation",
+      "disseminates",
+      "collective belief"
+    ],
+    [
+      "misinformation",
+      "fuels",
+      "conspiracy theory"
+    ],
+    [
+      "misinformation",
+      "is fueled by",
+      "national pride"
+    ],
+    [
+      "misinformation",
+      "is fueled by",
+      "public discourse"
+    ],
+    [
+      "misinformation",
+      "is propagated by",
+      "Apollo 11"
+    ],
+    [
+      "misinformation",
+      "is propagated by",
+      "shadowy groups"
+    ],
+    [
+      "misinformation",
+      "is scrutinized by",
+      "scientific scrutiny"
+    ],
+    [
+      "misinformation",
+      "is shaped by",
+      "public opinion"
+    ],
+    [
+      "misinformation",
+      "is spread by",
+      "online communities"
+    ],
+    [
+      "misinformation",
+      "perpetuates",
+      "moon landing hoax"
+    ],
+    [
+      "misinformation",
+      "propagated by",
+      "Soviet Union"
+    ],
+    [
+      "misinformation",
+      "raises",
+      "questions of power"
+    ],
+    [
+      "misinformation",
+      "resulted from",
+      "September 11 attacks"
+    ],
+    [
+      "misinformation",
+      "spreads",
+      "Neil Armstrong"
+    ],
+    [
+      "misinformation",
+      "spreads",
+      "government involvement"
+    ],
+    [
+      "misinformation",
+      "spreads",
+      "photographic evidence"
+    ],
+    [
+      "moon landing",
+      "affects",
+      "cultural impact"
+    ],
+    [
+      "moon landing",
+      "contradicts",
+      "alternative narratives"
+    ],
+    [
+      "moon landing",
+      "contradicts",
+      "scientific evidence"
+    ],
+    [
+      "moon landing",
+      "exhibits",
+      "anomalies"
+    ],
+    [
+      "moon landing",
+      "is a topic of",
+      "conspiracy theory"
+    ],
+    [
+      "moon landing",
+      "is associated with",
+      "Apollo 11"
+    ],
+    [
+      "moon landing",
+      "is linked to",
+      "speculations"
+    ],
+    [
+      "moon landing",
+      "provides",
+      "alternative explanations"
+    ],
+    [
+      "moon landing",
+      "questioned by",
+      "photographic evidence"
+    ],
+    [
+      "moon landing",
+      "spreads",
+      "misinformation"
+    ],
+    [
+      "moon landing",
+      "was staged in",
+      "studio staging"
+    ],
+    [
+      "moon landing hoax",
+      "attracted to",
+      "truth-seekers"
+    ],
+    [
+      "moon landing hoax",
+      "contradicts",
+      "scientific evidence"
+    ],
+    [
+      "moon landing hoax",
+      "debunked by",
+      "official narratives"
+    ],
+    [
+      "moon landing hoax",
+      "debunked by",
+      "truth"
+    ],
+    [
+      "moon landing hoax",
+      "debunks",
+      "debunking myths"
+    ],
+    [
+      "moon landing hoax",
+      "is associated with",
+      "Apollo 11"
+    ],
+    [
+      "moon landing hoax",
+      "is associated with",
+      "historical narrative"
+    ],
+    [
+      "moon landing hoax",
+      "is associated with",
+      "hoax theory"
+    ],
+    [
+      "moon landing hoax",
+      "is associated with",
+      "mystery"
+    ],
+    [
+      "moon landing hoax",
+      "questions",
+      "photographic evidence"
+    ],
+    [
+      "moon landing hoax",
+      "subject to",
+      "scientific scrutiny"
+    ],
+    [
+      "moon landing hoax",
+      "supports",
+      "controlled demolitions"
+    ],
+    [
+      "mystery",
+      "creates",
+      "Neil Armstrong"
+    ],
+    [
+      "mystery",
+      "evokes",
+      "public imagination"
+    ],
+    [
+      "mystery",
+      "exerts influence over",
+      "control"
+    ],
+    [
+      "mystery",
+      "is linked to",
+      "America"
+    ],
+    [
+      "mystery",
+      "raises",
+      "information age"
+    ],
+    [
+      "national pride",
+      "challenges",
+      "alternative narratives"
+    ],
+    [
+      "national pride",
+      "drives",
+      "Illuminati"
+    ],
+    [
+      "national pride",
+      "drives",
+      "investigations"
+    ],
+    [
+      "national pride",
+      "drives",
+      "space race"
+    ],
+    [
+      "national pride",
+      "drives",
+      "speculations"
+    ],
+    [
+      "national pride",
+      "evokes",
+      "psychological appeal"
+    ],
+    [
+      "national pride",
+      "fosters",
+      "online communities"
+    ],
+    [
+      "national pride",
+      "fuels",
+      "skepticism"
+    ],
+    [
+      "national pride",
+      "influences",
+      "cultural impact"
+    ],
+    [
+      "national pride",
+      "is shaped by",
+      "online discourse"
+    ],
+    [
+      "national pride",
+      "provides",
+      "empowerment"
+    ],
+    [
+      "national pride",
+      "raises",
+      "questions of power"
+    ],
+    [
+      "national pride",
+      "reflects",
+      "distrust of authority"
+    ],
+    [
+      "national pride",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "national pride",
+      "supports",
+      "official explanations"
+    ],
+    [
+      "national pride",
+      "supports",
+      "official narratives"
+    ],
+    [
+      "nefarious purposes",
+      "arises from",
+      "societal anxieties"
+    ],
+    [
+      "nefarious purposes",
+      "attributes",
+      "World Trade Center"
+    ],
+    [
+      "nefarious purposes",
+      "contradicts",
+      "official narratives"
+    ],
+    [
+      "nefarious purposes",
+      "drives",
+      "collective belief"
+    ],
+    [
+      "nefarious purposes",
+      "drives",
+      "engagement"
+    ],
+    [
+      "nefarious purposes",
+      "drives",
+      "global phenomena"
+    ],
+    [
+      "nefarious purposes",
+      "drives",
+      "information dissemination"
+    ],
+    [
+      "nefarious purposes",
+      "drives",
+      "investigations"
+    ],
+    [
+      "nefarious purposes",
+      "drives",
+      "political movements"
+    ],
+    [
+      "nefarious purposes",
+      "drives empowerment through",
+      "empowerment"
+    ],
+    [
+      "nefarious purposes",
+      "enables",
+      "information sharing"
+    ],
+    [
+      "nefarious purposes",
+      "examined critically for",
+      "critical examination"
+    ],
+    [
+      "nefarious purposes",
+      "exploits",
+      "distrust of authority"
+    ],
+    [
+      "nefarious purposes",
+      "exploits",
+      "information age"
+    ],
+    [
+      "nefarious purposes",
+      "influences",
+      "cultural impact"
+    ],
+    [
+      "nefarious purposes",
+      "justifies",
+      "official explanations"
+    ],
+    [
+      "nefarious purposes",
+      "motivates",
+      "September 11 attacks"
+    ],
+    [
+      "nefarious purposes",
+      "motivates",
+      "assassination of Kennedy"
+    ],
+    [
+      "nefarious purposes",
+      "motivates",
+      "conspiracy theory"
+    ],
+    [
+      "nefarious purposes",
+      "serves",
+      "America"
+    ],
+    [
+      "nefarious purposes",
+      "serves",
+      "Illuminati"
+    ],
+    [
+      "nefarious purposes",
+      "serves",
+      "mystery"
+    ],
+    [
+      "nefarious purposes",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "nefarious purposes",
+      "supports",
+      "alternative narratives"
+    ],
+    [
+      "nefarious purposes",
+      "utilized for",
+      "symbolism"
+    ],
+    [
+      "nefarious purposes",
+      "utilizes",
+      "secrecy"
+    ],
+    [
+      "official explanations",
+      "challenges",
+      "America"
+    ],
+    [
+      "official explanations",
+      "challenges",
+      "collective belief"
+    ],
+    [
+      "official explanations",
+      "challenges",
+      "distrust of authority"
+    ],
+    [
+      "official explanations",
+      "challenges",
+      "online discourse"
+    ],
+    [
+      "official explanations",
+      "challenges",
+      "truth-seekers"
+    ],
+    [
+      "official explanations",
+      "contradicts",
+      "evidence analysis"
+    ],
+    [
+      "official explanations",
+      "contradicts",
+      "hoax theory"
+    ],
+    [
+      "official explanations",
+      "debunks",
+      "debunking myths"
+    ],
+    [
+      "official explanations",
+      "explained by",
+      "Middle East conflict"
+    ],
+    [
+      "official explanations",
+      "explained by",
+      "control"
+    ],
+    [
+      "official explanations",
+      "explains",
+      "anomalies"
+    ],
+    [
+      "official explanations",
+      "influences",
+      "public opinion"
+    ],
+    [
+      "official explanations",
+      "is challenged by",
+      "alternative narratives"
+    ],
+    [
+      "official explanations",
+      "is challenged by",
+      "speculations"
+    ],
+    [
+      "official explanations",
+      "is explained by",
+      "symbolism"
+    ],
+    [
+      "official explanations",
+      "is used in",
+      "video evidence"
+    ],
+    [
+      "official explanations",
+      "questions",
+      "critical thinking"
+    ],
+    [
+      "official explanations",
+      "questions",
+      "public skepticism"
+    ],
+    [
+      "official narratives",
+      "challenges",
+      "conspiracy theory"
+    ],
+    [
+      "official narratives",
+      "challenges",
+      "critical thinking"
+    ],
+    [
+      "official narratives",
+      "challenges",
+      "public skepticism"
+    ],
+    [
+      "official narratives",
+      "challenges",
+      "secret society"
+    ],
+    [
+      "official narratives",
+      "contradicted by",
+      "anomalies"
+    ],
+    [
+      "official narratives",
+      "contradicted by",
+      "video evidence"
+    ],
+    [
+      "official narratives",
+      "contradicts",
+      "Soviet Union"
+    ],
+    [
+      "official narratives",
+      "contradicts",
+      "alternative explanations"
+    ],
+    [
+      "official narratives",
+      "contradicts",
+      "assassination of Kennedy"
+    ],
+    [
+      "official narratives",
+      "contradicts",
+      "historical narrative"
+    ],
+    [
+      "official narratives",
+      "contradicts",
+      "media influence"
+    ],
+    [
+      "official narratives",
+      "contradicts",
+      "scientific evidence"
+    ],
+    [
+      "official narratives",
+      "contradicts",
+      "secrecy"
+    ],
+    [
+      "official narratives",
+      "drives",
+      "online discourse"
+    ],
+    [
+      "official narratives",
+      "fuels",
+      "distrust of authority"
+    ],
+    [
+      "official narratives",
+      "influences",
+      "engagement"
+    ],
+    [
+      "official narratives",
+      "influences",
+      "online communities"
+    ],
+    [
+      "official narratives",
+      "is challenged by",
+      "collective belief"
+    ],
+    [
+      "official narratives",
+      "is challenged by",
+      "global phenomena"
+    ],
+    [
+      "official narratives",
+      "is influenced by",
+      "Buzz Aldrin"
+    ],
+    [
+      "official narratives",
+      "is influenced by",
+      "space race"
+    ],
+    [
+      "official narratives",
+      "is supported by",
+      "photographic evidence"
+    ],
+    [
+      "official narratives",
+      "shaped by",
+      "public perception"
+    ],
+    [
+      "official narratives",
+      "shapes",
+      "cultural impact"
+    ],
+    [
+      "official narratives",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "online communities",
+      "connects",
+      "critical thinking"
+    ],
+    [
+      "online communities",
+      "connects",
+      "technological achievement"
+    ],
+    [
+      "online communities",
+      "discussed in",
+      "astronaut behavior"
+    ],
+    [
+      "online communities",
+      "fosters",
+      "historical events"
+    ],
+    [
+      "online communities",
+      "is associated with",
+      "hoax theory"
+    ],
+    [
+      "online communities",
+      "is fostered by",
+      "lunar surface"
+    ],
+    [
+      "online communities",
+      "shaped by",
+      "cultural impact"
+    ],
+    [
+      "online communities",
+      "shaped by",
+      "public perception"
+    ],
+    [
+      "online discourse",
+      "connects",
+      "online communities"
+    ],
+    [
+      "online discourse",
+      "connects",
+      "truth-seekers"
+    ],
+    [
+      "online discourse",
+      "discusses",
+      "World Trade Center"
+    ],
+    [
+      "online discourse",
+      "drives",
+      "conspiracy theory"
+    ],
+    [
+      "online discourse",
+      "fuels",
+      "America"
+    ],
+    [
+      "online discourse",
+      "influenced by",
+      "alternative explanations"
+    ],
+    [
+      "online discourse",
+      "influences",
+      "moon landing hoax"
+    ],
+    [
+      "online discourse",
+      "influences",
+      "national pride"
+    ],
+    [
+      "online discourse",
+      "informs",
+      "scientific evidence"
+    ],
+    [
+      "online discourse",
+      "inspired by",
+      "public imagination"
+    ],
+    [
+      "online discourse",
+      "is expressed through",
+      "empowerment"
+    ],
+    [
+      "online discourse",
+      "is influenced by",
+      "debunking"
+    ],
+    [
+      "online discourse",
+      "is influenced by",
+      "public discourse"
+    ],
+    [
+      "online discourse",
+      "is influenced by",
+      "public perception"
+    ],
+    [
+      "online discourse",
+      "is influenced by",
+      "secrecy"
+    ],
+    [
+      "online discourse",
+      "is shaped by",
+      "truth"
+    ],
+    [
+      "online discourse",
+      "shapes",
+      "distrust of authority"
+    ],
+    [
+      "online discourse",
+      "shapes",
+      "trust in authority"
+    ],
+    [
+      "online discourse",
+      "utilizes symbolism in",
+      "symbolism"
+    ],
+    [
+      "photographic evidence",
+      "analyzes",
+      "evidence analysis"
+    ],
+    [
+      "photographic evidence",
+      "attracts",
+      "truth-seekers"
+    ],
+    [
+      "photographic evidence",
+      "illustrated by",
+      "questions of power"
+    ],
+    [
+      "photographic evidence",
+      "illustrates",
+      "space race"
+    ],
+    [
+      "photographic evidence",
+      "indicates",
+      "manipulation"
+    ],
+    [
+      "photographic evidence",
+      "is analyzed by",
+      "public discourse"
+    ],
+    [
+      "photographic evidence",
+      "is evidenced by",
+      "secrecy"
+    ],
+    [
+      "photographic evidence",
+      "is illustrated by",
+      "uncertainty"
+    ],
+    [
+      "photographic evidence",
+      "provides",
+      "Soviet Union"
+    ],
+    [
+      "photographic evidence",
+      "reveals",
+      "anomalies"
+    ],
+    [
+      "photographic evidence",
+      "sparks",
+      "online discourse"
+    ],
+    [
+      "photographic evidence",
+      "supports",
+      "alternative narratives"
+    ],
+    [
+      "photographic evidence",
+      "symbolizes",
+      "symbolism"
+    ],
+    [
+      "photographic evidence",
+      "utilizes",
+      "communication channels"
+    ],
+    [
+      "political motivations",
+      "challenges",
+      "trust in authority"
+    ],
+    [
+      "political motivations",
+      "drives",
+      "collective belief"
+    ],
+    [
+      "political motivations",
+      "drives",
+      "control"
+    ],
+    [
+      "political motivations",
+      "fuels",
+      "skepticism"
+    ],
+    [
+      "political motivations",
+      "influenced by",
+      "studio staging"
+    ],
+    [
+      "political motivations",
+      "influences",
+      "alternative narratives"
+    ],
+    [
+      "political motivations",
+      "informs",
+      "conspiracy theory"
+    ],
+    [
+      "political motivations",
+      "is linked to",
+      "Illuminati"
+    ],
+    [
+      "political motivations",
+      "motivates",
+      "lunar surface"
+    ],
+    [
+      "political motivations",
+      "shapes",
+      "cultural impact"
+    ],
+    [
+      "political motivations",
+      "shapes",
+      "official narratives"
+    ],
+    [
+      "political motivations",
+      "shapes",
+      "online discourse"
+    ],
+    [
+      "political movements",
+      "affects",
+      "trust in authority"
+    ],
+    [
+      "political movements",
+      "attracts",
+      "truth-seekers"
+    ],
+    [
+      "political movements",
+      "driven by",
+      "distrust of authority"
+    ],
+    [
+      "political movements",
+      "drives",
+      "World Trade Center"
+    ],
+    [
+      "political movements",
+      "drives",
+      "political motivations"
+    ],
+    [
+      "political movements",
+      "exerts",
+      "control"
+    ],
+    [
+      "political movements",
+      "facilitates",
+      "information sharing"
+    ],
+    [
+      "political movements",
+      "impacted by",
+      "government involvement"
+    ],
+    [
+      "political movements",
+      "influences",
+      "alternative narratives"
+    ],
+    [
+      "political movements",
+      "influences",
+      "communication channels"
+    ],
+    [
+      "political movements",
+      "influences",
+      "conspiracy theory"
+    ],
+    [
+      "political movements",
+      "influences",
+      "global phenomena"
+    ],
+    [
+      "political movements",
+      "influences",
+      "information age"
+    ],
+    [
+      "political movements",
+      "influences",
+      "online discourse"
+    ],
+    [
+      "political movements",
+      "influences",
+      "public imagination"
+    ],
+    [
+      "political movements",
+      "influences",
+      "societal anxieties"
+    ],
+    [
+      "political movements",
+      "is driven by",
+      "social media"
+    ],
+    [
+      "political movements",
+      "is related to",
+      "truth"
+    ],
+    [
+      "political movements",
+      "shapes",
+      "cultural impact"
+    ],
+    [
+      "political movements",
+      "shapes",
+      "official explanations"
+    ],
+    [
+      "political movements",
+      "shapes",
+      "official narratives"
+    ],
+    [
+      "political movements",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "political movements",
+      "shapes",
+      "public perception"
+    ],
+    [
+      "psychological appeal",
+      "amplifies",
+      "social media"
+    ],
+    [
+      "psychological appeal",
+      "appeals to",
+      "scientific evidence"
+    ],
+    [
+      "psychological appeal",
+      "attracts",
+      "secret society"
+    ],
+    [
+      "psychological appeal",
+      "attracts",
+      "truth-seekers"
+    ],
+    [
+      "psychological appeal",
+      "captures",
+      "public imagination"
+    ],
+    [
+      "psychological appeal",
+      "contradicts",
+      "official explanations"
+    ],
+    [
+      "psychological appeal",
+      "drives",
+      "global phenomena"
+    ],
+    [
+      "psychological appeal",
+      "drives",
+      "information age"
+    ],
+    [
+      "psychological appeal",
+      "enhances",
+      "Illuminati"
+    ],
+    [
+      "psychological appeal",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "psychological appeal",
+      "exemplifies",
+      "controlled demolitions"
+    ],
+    [
+      "psychological appeal",
+      "exerts",
+      "control"
+    ],
+    [
+      "psychological appeal",
+      "exploited by",
+      "Apollo 11"
+    ],
+    [
+      "psychological appeal",
+      "indicates",
+      "astronaut behavior"
+    ],
+    [
+      "psychological appeal",
+      "influences",
+      "public opinion"
+    ],
+    [
+      "psychological appeal",
+      "influences",
+      "societal anxieties"
+    ],
+    [
+      "psychological appeal",
+      "leverages",
+      "symbolism"
+    ],
+    [
+      "psychological appeal",
+      "shapes",
+      "online discourse"
+    ],
+    [
+      "psychological appeal",
+      "shapes",
+      "political movements"
+    ],
+    [
+      "psychological appeal",
+      "suggests",
+      "studio staging"
+    ],
+    [
+      "public discourse",
+      "affects",
+      "public perception"
+    ],
+    [
+      "public discourse",
+      "attracts",
+      "truth-seekers"
+    ],
+    [
+      "public discourse",
+      "challenges",
+      "official explanations"
+    ],
+    [
+      "public discourse",
+      "challenges",
+      "official narratives"
+    ],
+    [
+      "public discourse",
+      "connects",
+      "online communities"
+    ],
+    [
+      "public discourse",
+      "exerts control over",
+      "control"
+    ],
+    [
+      "public discourse",
+      "fuels",
+      "moon landing hoax"
+    ],
+    [
+      "public discourse",
+      "generates",
+      "speculations"
+    ],
+    [
+      "public discourse",
+      "highlights",
+      "anomalies"
+    ],
+    [
+      "public discourse",
+      "influenced by",
+      "investigations"
+    ],
+    [
+      "public discourse",
+      "influences",
+      "Illuminati"
+    ],
+    [
+      "public discourse",
+      "influences",
+      "World Trade Center"
+    ],
+    [
+      "public discourse",
+      "influences",
+      "cultural impact"
+    ],
+    [
+      "public discourse",
+      "influences",
+      "moon landing"
+    ],
+    [
+      "public discourse",
+      "influences",
+      "psychological appeal"
+    ],
+    [
+      "public discourse",
+      "influences",
+      "scientific evidence"
+    ],
+    [
+      "public discourse",
+      "influences",
+      "social media"
+    ],
+    [
+      "public discourse",
+      "influences",
+      "video evidence"
+    ],
+    [
+      "public discourse",
+      "promotes",
+      "engagement"
+    ],
+    [
+      "public discourse",
+      "provides",
+      "alternative explanations"
+    ],
+    [
+      "public discourse",
+      "reflects",
+      "distrust of authority"
+    ],
+    [
+      "public discourse",
+      "reflects",
+      "societal anxieties"
+    ],
+    [
+      "public discourse",
+      "shapes",
+      "America"
+    ],
+    [
+      "public discourse",
+      "shapes",
+      "collective belief"
+    ],
+    [
+      "public discourse",
+      "shapes",
+      "global phenomena"
+    ],
+    [
+      "public discourse",
+      "shapes",
+      "historical events"
+    ],
+    [
+      "public discourse",
+      "shapes",
+      "online discourse"
+    ],
+    [
+      "public discourse",
+      "shapes public discourse on",
+      "space race"
+    ],
+    [
+      "public discourse",
+      "stimulates",
+      "public imagination"
+    ],
+    [
+      "public imagination",
+      "attracts",
+      "truth-seekers"
+    ],
+    [
+      "public imagination",
+      "captivates",
+      "anomalies"
+    ],
+    [
+      "public imagination",
+      "captures",
+      "Buzz Aldrin"
+    ],
+    [
+      "public imagination",
+      "captures",
+      "Illuminati"
+    ],
+    [
+      "public imagination",
+      "captures public imagination about",
+      "lunar surface"
+    ],
+    [
+      "public imagination",
+      "challenges",
+      "scientific scrutiny"
+    ],
+    [
+      "public imagination",
+      "cultivates",
+      "online communities"
+    ],
+    [
+      "public imagination",
+      "erodes",
+      "trust in authority"
+    ],
+    [
+      "public imagination",
+      "influences",
+      "collective belief"
+    ],
+    [
+      "public imagination",
+      "influences",
+      "lack of evidence"
+    ],
+    [
+      "public imagination",
+      "influences public imagination about",
+      "public opinion"
+    ],
+    [
+      "public imagination",
+      "inspired",
+      "Neil Armstrong"
+    ],
+    [
+      "public imagination",
+      "inspired",
+      "conspiracy theory"
+    ],
+    [
+      "public imagination",
+      "inspired by",
+      "symbolism"
+    ],
+    [
+      "public imagination",
+      "is influenced by",
+      "global phenomena"
+    ],
+    [
+      "public imagination",
+      "is influenced by",
+      "political motivations"
+    ],
+    [
+      "public imagination",
+      "shapes",
+      "America"
+    ],
+    [
+      "public imagination",
+      "shapes",
+      "astronaut behavior"
+    ],
+    [
+      "public imagination",
+      "shapes",
+      "historical events"
+    ],
+    [
+      "public imagination",
+      "shapes",
+      "public perception"
+    ],
+    [
+      "public imagination",
+      "shapes cultural impact on",
+      "cultural impact"
+    ],
+    [
+      "public imagination",
+      "suggests",
+      "government involvement"
+    ],
+    [
+      "public opinion",
+      "affects",
+      "secret society"
+    ],
+    [
+      "public opinion",
+      "influences",
+      "Soviet Union"
+    ],
+    [
+      "public opinion",
+      "is influenced by",
+      "America"
+    ],
+    [
+      "public opinion",
+      "is influenced by",
+      "cultural impact"
+    ],
+    [
+      "public opinion",
+      "is influenced by",
+      "investigations"
+    ],
+    [
+      "public opinion",
+      "is influenced by",
+      "public discourse"
+    ],
+    [
+      "public opinion",
+      "shaped by",
+      "space race"
+    ],
+    [
+      "public opinion",
+      "shapes",
+      "alternative narratives"
+    ],
+    [
+      "public opinion",
+      "shapes",
+      "photographic evidence"
+    ],
+    [
+      "public opinion",
+      "shapes",
+      "public perception"
+    ],
+    [
+      "public perception",
+      "affects",
+      "astronaut behavior"
+    ],
+    [
+      "public perception",
+      "fuels",
+      "mystery"
+    ],
+    [
+      "public perception",
+      "influences",
+      "Buzz Aldrin"
+    ],
+    [
+      "public perception",
+      "interpreted through",
+      "symbolism"
+    ],
+    [
+      "public perception",
+      "is perceived by",
+      "lack of evidence"
+    ],
+    [
+      "public perception",
+      "is shaped by",
+      "historical narrative"
+    ],
+    [
+      "public perception",
+      "is shaped by",
+      "political motivations"
+    ],
+    [
+      "public perception",
+      "shapes",
+      "America"
+    ],
+    [
+      "public perception",
+      "shapes",
+      "alternative narratives"
+    ],
+    [
+      "public perception",
+      "shapes",
+      "controlled demolitions"
+    ],
+    [
+      "public perception",
+      "shapes",
+      "documentaries"
+    ],
+    [
+      "public perception",
+      "shapes",
+      "global phenomena"
+    ],
+    [
+      "public perception",
+      "spreads",
+      "misinformation"
+    ],
+    [
+      "public skepticism",
+      "challenges",
+      "alternative narratives"
+    ],
+    [
+      "public skepticism",
+      "challenges",
+      "photographic evidence"
+    ],
+    [
+      "public skepticism",
+      "challenges",
+      "scientific evidence"
+    ],
+    [
+      "public skepticism",
+      "drives",
+      "conspiracy theory"
+    ],
+    [
+      "public skepticism",
+      "elicits public skepticism towards",
+      "secret society"
+    ],
+    [
+      "public skepticism",
+      "exploits",
+      "manipulation"
+    ],
+    [
+      "public skepticism",
+      "fosters",
+      "online communities"
+    ],
+    [
+      "public skepticism",
+      "fueled by",
+      "secrecy"
+    ],
+    [
+      "public skepticism",
+      "fuels public skepticism towards",
+      "video evidence"
+    ],
+    [
+      "public skepticism",
+      "influenced by",
+      "engagement"
+    ],
+    [
+      "public skepticism",
+      "is driven by",
+      "political motivations"
+    ],
+    [
+      "public skepticism",
+      "is fostered by",
+      "documentaries"
+    ],
+    [
+      "public skepticism",
+      "is met with",
+      "Buzz Aldrin"
+    ],
+    [
+      "public skepticism",
+      "is questioned by",
+      "moon landing"
+    ],
+    [
+      "public skepticism",
+      "is questioned by",
+      "space race"
+    ],
+    [
+      "public skepticism",
+      "questions",
+      "Illuminati"
+    ],
+    [
+      "public skepticism",
+      "reflects",
+      "America"
+    ],
+    [
+      "public skepticism",
+      "utilizes",
+      "communication channels"
+    ],
+    [
+      "public skepticism",
+      "utilizes",
+      "symbolism"
+    ],
+    [
+      "questions of power",
+      "amplified by",
+      "social media"
+    ],
+    [
+      "questions of power",
+      "examines",
+      "controlled demolitions"
+    ],
+    [
+      "questions of power",
+      "involves",
+      "communication channels"
+    ],
+    [
+      "questions of power",
+      "is examined in the context of",
+      "information age"
+    ],
+    [
+      "questions of power",
+      "prompts",
+      "critical thinking"
+    ],
+    [
+      "questions of power",
+      "raises",
+      "political movements"
+    ],
+    [
+      "questions of power",
+      "raises",
+      "psychological appeal"
+    ],
+    [
+      "questions of power",
+      "raises",
+      "secrecy"
+    ],
+    [
+      "questions of power",
+      "raises",
+      "technological achievement"
+    ],
+    [
+      "questions of power",
+      "raises",
+      "video evidence"
+    ],
+    [
+      "questions of power",
+      "reinforced by",
+      "collective belief"
+    ],
+    [
+      "questions of power",
+      "shapes",
+      "public discourse"
+    ],
+    [
+      "questions of power",
+      "stimulates",
+      "public imagination"
+    ],
+    [
+      "scientific evidence",
+      "compares with",
+      "photographic evidence"
+    ],
+    [
+      "scientific evidence",
+      "contradicts",
+      "World Trade Center"
+    ],
+    [
+      "scientific evidence",
+      "contradicts",
+      "anomalies"
+    ],
+    [
+      "scientific evidence",
+      "contradicts",
+      "conspiracy theory"
+    ],
+    [
+      "scientific evidence",
+      "contradicts",
+      "speculations"
+    ],
+    [
+      "scientific evidence",
+      "contradicts",
+      "subliminal messaging"
+    ],
+    [
+      "scientific evidence",
+      "contradicts",
+      "truth-seekers"
+    ],
+    [
+      "scientific evidence",
+      "disproves",
+      "debunking myths"
+    ],
+    [
+      "scientific evidence",
+      "influences",
+      "cultural impact"
+    ],
+    [
+      "scientific evidence",
+      "is challenged by",
+      "uncertainty"
+    ],
+    [
+      "scientific evidence",
+      "is used for",
+      "manipulation"
+    ],
+    [
+      "scientific evidence",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "scientific evidence",
+      "supports",
+      "evidence analysis"
+    ],
+    [
+      "scientific evidence",
+      "supports",
+      "lunar surface"
+    ],
+    [
+      "scientific scrutiny",
+      "challenges",
+      "societal anxieties"
+    ],
+    [
+      "scientific scrutiny",
+      "examines",
+      "conspiracy theory"
+    ],
+    [
+      "scientific scrutiny",
+      "examines",
+      "public opinion"
+    ],
+    [
+      "scientific scrutiny",
+      "fuels",
+      "distrust of authority"
+    ],
+    [
+      "scientific scrutiny",
+      "invokes",
+      "global phenomena"
+    ],
+    [
+      "scientific scrutiny",
+      "is analyzed by",
+      "Neil Armstrong"
+    ],
+    [
+      "scientific scrutiny",
+      "is examined by",
+      "lack of evidence"
+    ],
+    [
+      "scientific scrutiny",
+      "is scrutinized by",
+      "collective belief"
+    ],
+    [
+      "scientific scrutiny",
+      "is scrutinized by",
+      "documentaries"
+    ],
+    [
+      "scientific scrutiny",
+      "is scrutinized by",
+      "moon landing"
+    ],
+    [
+      "scientific scrutiny",
+      "is subjected to",
+      "Buzz Aldrin"
+    ],
+    [
+      "scientific scrutiny",
+      "is subjected to",
+      "public discourse"
+    ],
+    [
+      "scientific scrutiny",
+      "is subjected to",
+      "speculations"
+    ],
+    [
+      "scientific scrutiny",
+      "subject to",
+      "America"
+    ],
+    [
+      "scientific scrutiny",
+      "subject to",
+      "Illuminati"
+    ],
+    [
+      "scientific scrutiny",
+      "subject to",
+      "information age"
+    ],
+    [
+      "scientific scrutiny",
+      "subject to",
+      "uncertainty"
+    ],
+    [
+      "scientific scrutiny",
+      "subjected to",
+      "truth"
+    ],
+    [
+      "scientific scrutiny",
+      "undergoes",
+      "astronaut behavior"
+    ],
+    [
+      "scientific scrutiny",
+      "utilizes",
+      "communication channels"
+    ],
+    [
+      "secrecy",
+      "characterizes",
+      "information age"
+    ],
+    [
+      "secrecy",
+      "contrasts with",
+      "alternative narratives"
+    ],
+    [
+      "secrecy",
+      "creates",
+      "chaos"
+    ],
+    [
+      "secrecy",
+      "drives",
+      "political movements"
+    ],
+    [
+      "secrecy",
+      "exerts",
+      "control"
+    ],
+    [
+      "secrecy",
+      "fuels",
+      "collective belief"
+    ],
+    [
+      "secrecy",
+      "fuels",
+      "public imagination"
+    ],
+    [
+      "secrecy",
+      "fuels",
+      "speculations"
+    ],
+    [
+      "secrecy",
+      "influences",
+      "historical events"
+    ],
+    [
+      "secrecy",
+      "involves",
+      "shadowy groups"
+    ],
+    [
+      "secrecy",
+      "is examined by",
+      "critical examination"
+    ],
+    [
+      "secrecy",
+      "is examined by",
+      "questions of power"
+    ],
+    [
+      "secrecy",
+      "is facilitated by",
+      "social media"
+    ],
+    [
+      "secrecy",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "secrecy",
+      "reflects",
+      "societal anxieties"
+    ],
+    [
+      "secrecy",
+      "reveals secrecy of",
+      "documentaries"
+    ],
+    [
+      "secrecy",
+      "serves",
+      "nefarious purposes"
+    ],
+    [
+      "secrecy",
+      "shapes",
+      "online discourse"
+    ],
+    [
+      "secrecy",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "secrecy",
+      "utilizes",
+      "symbolism"
+    ],
+    [
+      "secret society",
+      "associated with",
+      "shadowy groups"
+    ],
+    [
+      "secret society",
+      "cultivates",
+      "online communities"
+    ],
+    [
+      "secret society",
+      "drives",
+      "political movements"
+    ],
+    [
+      "secret society",
+      "exerts",
+      "manipulation"
+    ],
+    [
+      "secret society",
+      "exerts control over",
+      "control"
+    ],
+    [
+      "secret society",
+      "exploited by",
+      "distrust of authority"
+    ],
+    [
+      "secret society",
+      "exploits",
+      "national pride"
+    ],
+    [
+      "secret society",
+      "exploits",
+      "societal anxieties"
+    ],
+    [
+      "secret society",
+      "fuels conspiracy theory about",
+      "conspiracy theory"
+    ],
+    [
+      "secret society",
+      "influences",
+      "historical events"
+    ],
+    [
+      "secret society",
+      "is characterized by",
+      "symbolism"
+    ],
+    [
+      "secret society",
+      "is linked to",
+      "assassination of Kennedy"
+    ],
+    [
+      "secret society",
+      "is linked to",
+      "controlled demolitions"
+    ],
+    [
+      "secret society",
+      "provides alternative explanations for",
+      "alternative explanations"
+    ],
+    [
+      "secret society",
+      "refutes",
+      "debunking"
+    ],
+    [
+      "secret society",
+      "represents",
+      "technological achievement"
+    ],
+    [
+      "secret society",
+      "shapes cultural impact of",
+      "cultural impact"
+    ],
+    [
+      "shadowy groups",
+      "affects",
+      "cultural impact"
+    ],
+    [
+      "shadowy groups",
+      "affects",
+      "public perception"
+    ],
+    [
+      "shadowy groups",
+      "associated with",
+      "conspiracy theory"
+    ],
+    [
+      "shadowy groups",
+      "engages in",
+      "manipulation"
+    ],
+    [
+      "shadowy groups",
+      "fuels",
+      "public skepticism"
+    ],
+    [
+      "shadowy groups",
+      "influences",
+      "space race"
+    ],
+    [
+      "shadowy groups",
+      "involves",
+      "government involvement"
+    ],
+    [
+      "shadowy groups",
+      "is associated with",
+      "global phenomena"
+    ],
+    [
+      "shadowy groups",
+      "is examined by",
+      "investigations"
+    ],
+    [
+      "shadowy groups",
+      "lacks",
+      "lack of evidence"
+    ],
+    [
+      "shadowy groups",
+      "manipulates",
+      "America"
+    ],
+    [
+      "shadowy groups",
+      "provides",
+      "alternative explanations"
+    ],
+    [
+      "shadowy groups",
+      "provides",
+      "empowerment"
+    ],
+    [
+      "shadowy groups",
+      "provides context for",
+      "evidence analysis"
+    ],
+    [
+      "shadowy groups",
+      "raises",
+      "questions of power"
+    ],
+    [
+      "shadowy groups",
+      "shapes",
+      "political movements"
+    ],
+    [
+      "shadowy groups",
+      "shapes",
+      "public discourse"
+    ],
+    [
+      "shadowy groups",
+      "spreads",
+      "misinformation"
+    ],
+    [
+      "shadowy groups",
+      "supports",
+      "hoax theory"
+    ],
+    [
+      "skepticism",
+      "fueled by",
+      "September 11 attacks"
+    ],
+    [
+      "skepticism",
+      "fueled by",
+      "distrust of authority"
+    ],
+    [
+      "skepticism",
+      "fueled by",
+      "technological achievement"
+    ],
+    [
+      "skepticism",
+      "fuels",
+      "moon landing"
+    ],
+    [
+      "skepticism",
+      "fuels",
+      "space race"
+    ],
+    [
+      "skepticism",
+      "influences",
+      "political motivations"
+    ],
+    [
+      "skepticism",
+      "invokes",
+      "official explanations"
+    ],
+    [
+      "skepticism",
+      "is influenced by",
+      "public perception"
+    ],
+    [
+      "skepticism",
+      "is questioned by",
+      "Neil Armstrong"
+    ],
+    [
+      "skepticism",
+      "is questioned by",
+      "official narratives"
+    ],
+    [
+      "skepticism",
+      "nurtures",
+      "online communities"
+    ],
+    [
+      "skepticism",
+      "supports",
+      "investigations"
+    ],
+    [
+      "social media",
+      "affects",
+      "cultural impact"
+    ],
+    [
+      "social media",
+      "affects",
+      "historical narrative"
+    ],
+    [
+      "social media",
+      "amplifies",
+      "skepticism"
+    ],
+    [
+      "social media",
+      "challenges",
+      "scientific scrutiny"
+    ],
+    [
+      "social media",
+      "challenges official explanations through",
+      "official explanations"
+    ],
+    [
+      "social media",
+      "characterizes",
+      "information age"
+    ],
+    [
+      "social media",
+      "discusses",
+      "Illuminati"
+    ],
+    [
+      "social media",
+      "disseminates",
+      "historical events"
+    ],
+    [
+      "social media",
+      "enables",
+      "technological achievement"
+    ],
+    [
+      "social media",
+      "exacerbates",
+      "public skepticism"
+    ],
+    [
+      "social media",
+      "exacerbates",
+      "societal anxieties"
+    ],
+    [
+      "social media",
+      "exerts",
+      "control"
+    ],
+    [
+      "social media",
+      "facilitates",
+      "communication channels"
+    ],
+    [
+      "social media",
+      "facilitates",
+      "online discourse"
+    ],
+    [
+      "social media",
+      "fuels",
+      "mystery"
+    ],
+    [
+      "social media",
+      "fuels",
+      "speculations"
+    ],
+    [
+      "social media",
+      "influences",
+      "official narratives"
+    ],
+    [
+      "social media",
+      "propagates misinformation through",
+      "misinformation"
+    ],
+    [
+      "social media",
+      "provides",
+      "alternative explanations"
+    ],
+    [
+      "social media",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "social media",
+      "shapes",
+      "public perception"
+    ],
+    [
+      "social media",
+      "spreads",
+      "conspiracy theory"
+    ],
+    [
+      "social media",
+      "supports",
+      "online communities"
+    ],
+    [
+      "social media",
+      "utilizes",
+      "symbolism"
+    ],
+    [
+      "societal anxieties",
+      "creates mystery around",
+      "mystery"
+    ],
+    [
+      "societal anxieties",
+      "drives",
+      "conspiracy theory"
+    ],
+    [
+      "societal anxieties",
+      "drives",
+      "government involvement"
+    ],
+    [
+      "societal anxieties",
+      "drives",
+      "political motivations"
+    ],
+    [
+      "societal anxieties",
+      "fosters",
+      "online communities"
+    ],
+    [
+      "societal anxieties",
+      "fuels",
+      "distrust of authority"
+    ],
+    [
+      "societal anxieties",
+      "fuels",
+      "online discourse"
+    ],
+    [
+      "societal anxieties",
+      "fuels",
+      "public imagination"
+    ],
+    [
+      "societal anxieties",
+      "influences",
+      "communication channels"
+    ],
+    [
+      "societal anxieties",
+      "influences",
+      "cultural impact"
+    ],
+    [
+      "societal anxieties",
+      "influences",
+      "historical events"
+    ],
+    [
+      "societal anxieties",
+      "influences",
+      "official narratives"
+    ],
+    [
+      "societal anxieties",
+      "informs",
+      "alternative explanations"
+    ],
+    [
+      "societal anxieties",
+      "is a cause of",
+      "America"
+    ],
+    [
+      "societal anxieties",
+      "motivates",
+      "truth-seekers"
+    ],
+    [
+      "societal anxieties",
+      "questions",
+      "official explanations"
+    ],
+    [
+      "societal anxieties",
+      "raises",
+      "investigations"
+    ],
+    [
+      "societal anxieties",
+      "reflects",
+      "anomalies"
+    ],
+    [
+      "societal anxieties",
+      "reflects",
+      "global phenomena"
+    ],
+    [
+      "societal anxieties",
+      "reflects",
+      "symbolism"
+    ],
+    [
+      "societal anxieties",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "space race",
+      "captures",
+      "public imagination"
+    ],
+    [
+      "space race",
+      "competed in",
+      "America"
+    ],
+    [
+      "space race",
+      "contributes to",
+      "collective belief"
+    ],
+    [
+      "space race",
+      "creates",
+      "distrust of authority"
+    ],
+    [
+      "space race",
+      "influences",
+      "public opinion"
+    ],
+    [
+      "space race",
+      "is a context for",
+      "Neil Armstrong"
+    ],
+    [
+      "space race",
+      "is a subject of",
+      "conspiracy theory"
+    ],
+    [
+      "space race",
+      "is contradicted by",
+      "scientific evidence"
+    ],
+    [
+      "space race",
+      "is influenced by",
+      "secrecy"
+    ],
+    [
+      "space race",
+      "is linked to",
+      "moon landing hoax"
+    ],
+    [
+      "space race",
+      "leads to",
+      "speculations"
+    ],
+    [
+      "space race",
+      "represents",
+      "technological achievement"
+    ],
+    [
+      "speculations",
+      "affects",
+      "public perception"
+    ],
+    [
+      "speculations",
+      "attracts truth-seekers through",
+      "truth-seekers"
+    ],
+    [
+      "speculations",
+      "based on",
+      "anomalies"
+    ],
+    [
+      "speculations",
+      "challenges",
+      "official narratives"
+    ],
+    [
+      "speculations",
+      "drives",
+      "political motivations"
+    ],
+    [
+      "speculations",
+      "fuels",
+      "public imagination"
+    ],
+    [
+      "speculations",
+      "informs",
+      "Apollo 11"
+    ],
+    [
+      "speculations",
+      "informs",
+      "historical events"
+    ],
+    [
+      "speculations",
+      "inspired by",
+      "video evidence"
+    ],
+    [
+      "speculations",
+      "involves",
+      "government involvement"
+    ],
+    [
+      "speculations",
+      "is a subject of",
+      "Illuminati"
+    ],
+    [
+      "speculations",
+      "is explored in",
+      "documentaries"
+    ],
+    [
+      "speculations",
+      "is influenced by",
+      "secrecy"
+    ],
+    [
+      "speculations",
+      "is questioned by",
+      "scientific evidence"
+    ],
+    [
+      "speculations",
+      "is suggested by",
+      "studio staging"
+    ],
+    [
+      "speculations",
+      "provides",
+      "alternative explanations"
+    ],
+    [
+      "speculations",
+      "questioned by",
+      "lack of evidence"
+    ],
+    [
+      "speculations",
+      "shapes",
+      "online discourse"
+    ],
+    [
+      "speculations",
+      "sparks",
+      "Buzz Aldrin"
+    ],
+    [
+      "speculations",
+      "speculates",
+      "World Trade Center"
+    ],
+    [
+      "speculations",
+      "utilizes",
+      "symbolism"
+    ],
+    [
+      "studio staging",
+      "accused of",
+      "Buzz Aldrin"
+    ],
+    [
+      "studio staging",
+      "exposed by",
+      "official narratives"
+    ],
+    [
+      "studio staging",
+      "facilitates",
+      "communication channels"
+    ],
+    [
+      "studio staging",
+      "involves",
+      "official explanations"
+    ],
+    [
+      "studio staging",
+      "is questioned by",
+      "historical events"
+    ],
+    [
+      "studio staging",
+      "is staged by",
+      "astronaut behavior"
+    ],
+    [
+      "studio staging",
+      "is suggested by",
+      "misinformation"
+    ],
+    [
+      "studio staging",
+      "results from",
+      "public skepticism"
+    ],
+    [
+      "studio staging",
+      "staged in",
+      "Neil Armstrong"
+    ],
+    [
+      "studio staging",
+      "suggests",
+      "controlled demolitions"
+    ],
+    [
+      "subliminal messaging",
+      "affects",
+      "cultural impact"
+    ],
+    [
+      "subliminal messaging",
+      "appeals to",
+      "truth-seekers"
+    ],
+    [
+      "subliminal messaging",
+      "erodes",
+      "trust in authority"
+    ],
+    [
+      "subliminal messaging",
+      "evokes",
+      "societal anxieties"
+    ],
+    [
+      "subliminal messaging",
+      "examined in",
+      "truth"
+    ],
+    [
+      "subliminal messaging",
+      "exploits",
+      "distrust of authority"
+    ],
+    [
+      "subliminal messaging",
+      "facilitates",
+      "information dissemination"
+    ],
+    [
+      "subliminal messaging",
+      "featured in",
+      "documentaries"
+    ],
+    [
+      "subliminal messaging",
+      "fuels",
+      "skepticism"
+    ],
+    [
+      "subliminal messaging",
+      "influences",
+      "lunar surface"
+    ],
+    [
+      "subliminal messaging",
+      "influences",
+      "online discourse"
+    ],
+    [
+      "subliminal messaging",
+      "influences",
+      "social media"
+    ],
+    [
+      "subliminal messaging",
+      "influences",
+      "space race"
+    ],
+    [
+      "subliminal messaging",
+      "influences understanding of",
+      "alternative explanations"
+    ],
+    [
+      "subliminal messaging",
+      "investigated by",
+      "investigations"
+    ],
+    [
+      "subliminal messaging",
+      "invites",
+      "critical examination"
+    ],
+    [
+      "subliminal messaging",
+      "is associated with",
+      "Buzz Aldrin"
+    ],
+    [
+      "subliminal messaging",
+      "is used by",
+      "Soviet Union"
+    ],
+    [
+      "subliminal messaging",
+      "is used for",
+      "control"
+    ],
+    [
+      "subliminal messaging",
+      "is utilized by",
+      "secret society"
+    ],
+    [
+      "subliminal messaging",
+      "leads to",
+      "speculations"
+    ],
+    [
+      "subliminal messaging",
+      "provides",
+      "empowerment"
+    ],
+    [
+      "subliminal messaging",
+      "serves to achieve",
+      "nefarious purposes"
+    ],
+    [
+      "subliminal messaging",
+      "shapes",
+      "public discourse"
+    ],
+    [
+      "subliminal messaging",
+      "shapes",
+      "public imagination"
+    ],
+    [
+      "subliminal messaging",
+      "shapes",
+      "public opinion"
+    ],
+    [
+      "subliminal messaging",
+      "spreads",
+      "misinformation"
+    ],
+    [
+      "subliminal messaging",
+      "supports",
+      "hoax theory"
+    ],
+    [
+      "subliminal messaging",
+      "supports",
+      "video evidence"
+    ],
+    [
+      "subliminal messaging",
+      "used for",
+      "Apollo 11"
+    ],
+    [
+      "subliminal messaging",
+      "utilizes",
+      "Illuminati"
+    ],
+    [
+      "subliminal messaging",
+      "utilizes",
+      "communication channels"
+    ],
+    [
+      "subliminal messaging",
+      "utilizes",
+      "online communities"
+    ],
+    [
+      "subliminal messaging",
+      "utilizes",
+      "psychological appeal"
+    ],
+    [
+      "symbolism",
+      "illustrates",
+      "historical events"
+    ],
+    [
+      "symbolism",
+      "informs",
+      "online communities"
+    ],
+    [
+      "symbolism",
+      "is analyzed by",
+      "evidence analysis"
+    ],
+    [
+      "symbolism",
+      "is represented by",
+      "political motivations"
+    ],
+    [
+      "symbolism",
+      "motivates",
+      "truth-seekers"
+    ],
+    [
+      "symbolism",
+      "sparks skepticism about",
+      "skepticism"
+    ],
+    [
+      "symbolism",
+      "utilizes",
+      "historical narrative"
+    ],
+    [
+      "technological achievement",
+      "achieved on",
+      "lunar surface"
+    ],
+    [
+      "technological achievement",
+      "challenges",
+      "critical examination"
+    ],
+    [
+      "technological achievement",
+      "demonstrates",
+      "controlled demolitions"
+    ],
+    [
+      "technological achievement",
+      "enables",
+      "video evidence"
+    ],
+    [
+      "technological achievement",
+      "fuels",
+      "distrust of authority"
+    ],
+    [
+      "technological achievement",
+      "influences",
+      "public imagination"
+    ],
+    [
+      "technological achievement",
+      "reflects",
+      "public perception"
+    ],
+    [
+      "technological achievement",
+      "subject to",
+      "scientific scrutiny"
+    ],
+    [
+      "technological achievement",
+      "supports",
+      "scientific evidence"
+    ],
+    [
+      "trust in authority",
+      "affects",
+      "government involvement"
+    ],
+    [
+      "trust in authority",
+      "challenges",
+      "historical events"
+    ],
+    [
+      "trust in authority",
+      "connects",
+      "online communities"
+    ],
+    [
+      "trust in authority",
+      "creates",
+      "chaos"
+    ],
+    [
+      "trust in authority",
+      "diminishes",
+      "social media"
+    ],
+    [
+      "trust in authority",
+      "discredits",
+      "debunking myths"
+    ],
+    [
+      "trust in authority",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "trust in authority",
+      "erodes",
+      "assassination of Kennedy"
+    ],
+    [
+      "trust in authority",
+      "erodes",
+      "control"
+    ],
+    [
+      "trust in authority",
+      "erodes",
+      "documentaries"
+    ],
+    [
+      "trust in authority",
+      "erodes",
+      "empowerment"
+    ],
+    [
+      "trust in authority",
+      "erodes",
+      "historical narrative"
+    ],
+    [
+      "trust in authority",
+      "erodes",
+      "lack of evidence"
+    ],
+    [
+      "trust in authority",
+      "erodes",
+      "photographic evidence"
+    ],
+    [
+      "trust in authority",
+      "erodes",
+      "secrecy"
+    ],
+    [
+      "trust in authority",
+      "erodes",
+      "video evidence"
+    ],
+    [
+      "trust in authority",
+      "influences",
+      "conspiracy theory"
+    ],
+    [
+      "trust in authority",
+      "influences",
+      "investigations"
+    ],
+    [
+      "trust in authority",
+      "influences",
+      "national pride"
+    ],
+    [
+      "trust in authority",
+      "influences",
+      "public opinion"
+    ],
+    [
+      "trust in authority",
+      "influences",
+      "public perception"
+    ],
+    [
+      "trust in authority",
+      "influences trust in",
+      "evidence analysis"
+    ],
+    [
+      "trust in authority",
+      "is influenced by",
+      "Buzz Aldrin"
+    ],
+    [
+      "trust in authority",
+      "is influenced by",
+      "media influence"
+    ],
+    [
+      "trust in authority",
+      "is influenced by",
+      "speculations"
+    ],
+    [
+      "trust in authority",
+      "is questioned by",
+      "questions of power"
+    ],
+    [
+      "trust in authority",
+      "is supported by",
+      "collective belief"
+    ],
+    [
+      "trust in authority",
+      "is undermined by",
+      "astronaut behavior"
+    ],
+    [
+      "trust in authority",
+      "shapes public discourse on",
+      "public discourse"
+    ],
+    [
+      "trust in authority",
+      "undermines",
+      "critical thinking"
+    ],
+    [
+      "trust in authority",
+      "undermines",
+      "secret society"
+    ],
+    [
+      "truth",
+      "attracts",
+      "truth-seekers"
+    ],
+    [
+      "truth",
+      "challenges",
+      "lack of evidence"
+    ],
+    [
+      "truth",
+      "contradicts",
+      "anomalies"
+    ],
+    [
+      "truth",
+      "contradicts",
+      "hoax theory"
+    ],
+    [
+      "truth",
+      "drives",
+      "societal anxieties"
+    ],
+    [
+      "truth",
+      "examined by",
+      "critical examination"
+    ],
+    [
+      "truth",
+      "facilitates",
+      "communication channels"
+    ],
+    [
+      "truth",
+      "is associated with",
+      "Illuminati"
+    ],
+    [
+      "truth",
+      "is explained by",
+      "alternative explanations"
+    ],
+    [
+      "truth",
+      "is influenced by",
+      "public discourse"
+    ],
+    [
+      "truth",
+      "is influenced by",
+      "public skepticism"
+    ],
+    [
+      "truth",
+      "is questioned by",
+      "global phenomena"
+    ],
+    [
+      "truth",
+      "is questioned by",
+      "nefarious purposes"
+    ],
+    [
+      "truth",
+      "is validated by",
+      "photographic evidence"
+    ],
+    [
+      "truth",
+      "reflects",
+      "astronaut behavior"
+    ],
+    [
+      "truth",
+      "reflects",
+      "distrust of authority"
+    ],
+    [
+      "truth",
+      "reveals",
+      "evidence analysis"
+    ],
+    [
+      "truth",
+      "reveals",
+      "moon landing"
+    ],
+    [
+      "truth",
+      "reveals",
+      "secret society"
+    ],
+    [
+      "truth",
+      "shaped by",
+      "public opinion"
+    ],
+    [
+      "truth",
+      "supports",
+      "documentaries"
+    ],
+    [
+      "truth",
+      "supports",
+      "video evidence"
+    ],
+    [
+      "truth",
+      "validated by",
+      "Apollo 11"
+    ],
+    [
+      "truth",
+      "validates",
+      "scientific evidence"
+    ],
+    [
+      "truth-seekers",
+      "attracted by",
+      "video evidence"
+    ],
+    [
+      "truth-seekers",
+      "attracts",
+      "World Trade Center"
+    ],
+    [
+      "truth-seekers",
+      "attracts",
+      "astronaut behavior"
+    ],
+    [
+      "truth-seekers",
+      "attracts",
+      "evidence analysis"
+    ],
+    [
+      "truth-seekers",
+      "attracts",
+      "space race"
+    ],
+    [
+      "truth-seekers",
+      "forms",
+      "online communities"
+    ],
+    [
+      "truth-seekers",
+      "influences",
+      "subliminal messaging"
+    ],
+    [
+      "truth-seekers",
+      "inspires",
+      "national pride"
+    ],
+    [
+      "truth-seekers",
+      "is affected by",
+      "control"
+    ],
+    [
+      "truth-seekers",
+      "is challenged by",
+      "scientific evidence"
+    ],
+    [
+      "truth-seekers",
+      "is pursued by",
+      "conspiracy theory"
+    ],
+    [
+      "truth-seekers",
+      "is shaped by",
+      "public opinion"
+    ],
+    [
+      "truth-seekers",
+      "is sought by",
+      "technological achievement"
+    ],
+    [
+      "truth-seekers",
+      "is sought by",
+      "trust in authority"
+    ],
+    [
+      "truth-seekers",
+      "is utilized by",
+      "documentaries"
+    ],
+    [
+      "truth-seekers",
+      "questioned by",
+      "lack of evidence"
+    ],
+    [
+      "truth-seekers",
+      "supported by",
+      "secret society"
+    ],
+    [
+      "uncertainty",
+      "affects",
+      "cultural impact"
+    ],
+    [
+      "uncertainty",
+      "creates",
+      "documentaries"
+    ],
+    [
+      "uncertainty",
+      "drives",
+      "nefarious purposes"
+    ],
+    [
+      "uncertainty",
+      "drives",
+      "online discourse"
+    ],
+    [
+      "uncertainty",
+      "fuels",
+      "secret society"
+    ],
+    [
+      "uncertainty",
+      "highlights",
+      "lack of evidence"
+    ],
+    [
+      "uncertainty",
+      "influences",
+      "political movements"
+    ],
+    [
+      "uncertainty",
+      "influences",
+      "shadowy groups"
+    ],
+    [
+      "uncertainty",
+      "invokes",
+      "critical examination"
+    ],
+    [
+      "uncertainty",
+      "is associated with",
+      "Illuminati"
+    ],
+    [
+      "uncertainty",
+      "is exploited by",
+      "manipulation"
+    ],
+    [
+      "uncertainty",
+      "is influenced by",
+      "collective belief"
+    ],
+    [
+      "uncertainty",
+      "is influenced by",
+      "media influence"
+    ],
+    [
+      "uncertainty",
+      "raises",
+      "questions of power"
+    ],
+    [
+      "uncertainty",
+      "supports",
+      "moon landing hoax"
+    ],
+    [
+      "video evidence",
+      "affects cultural impact on",
+      "public opinion"
+    ],
+    [
+      "video evidence",
+      "captures",
+      "public imagination"
+    ],
+    [
+      "video evidence",
+      "demonstrates",
+      "manipulation"
+    ],
+    [
+      "video evidence",
+      "depicts",
+      "Buzz Aldrin"
+    ],
+    [
+      "video evidence",
+      "depicts",
+      "Illuminati"
+    ],
+    [
+      "video evidence",
+      "documents",
+      "Neil Armstrong"
+    ],
+    [
+      "video evidence",
+      "facilitates",
+      "social media"
+    ],
+    [
+      "video evidence",
+      "illustrates",
+      "symbolism"
+    ],
+    [
+      "video evidence",
+      "influences cultural impact on",
+      "cultural impact"
+    ],
+    [
+      "video evidence",
+      "is linked to",
+      "global phenomena"
+    ],
+    [
+      "video evidence",
+      "is linked to",
+      "secrecy"
+    ],
+    [
+      "video evidence",
+      "is questioned by",
+      "moon landing"
+    ],
+    [
+      "video evidence",
+      "is supported by",
+      "public discourse"
+    ],
+    [
+      "video evidence",
+      "led to",
+      "investigations"
+    ],
+    [
+      "video evidence",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "video evidence",
+      "provides",
+      "alternative explanations"
+    ],
+    [
+      "video evidence",
+      "provides",
+      "documentaries"
+    ],
+    [
+      "video evidence",
+      "provides evidence for",
+      "space race"
+    ],
+    [
+      "video evidence",
+      "reflects",
+      "societal anxieties"
+    ],
+    [
+      "video evidence",
+      "supports",
+      "alternative narratives"
+    ],
+    [
+      "video evidence",
+      "supports",
+      "evidence analysis"
+    ],
+    [
+      "video evidence",
+      "supports",
+      "moon landing hoax"
+    ],
+    [
+      "video evidence",
+      "supports",
+      "national pride"
+    ],
+    [
+      "video evidence",
+      "supports",
+      "scientific evidence"
+    ]
+  ],
+  "edges": [
+    "accused of",
+    "achieved on",
+    "addresses",
+    "affected by",
+    "affects",
+    "affects communication channels for",
+    "affects cultural impact on",
+    "affects cultural impact through",
+    "amplified by",
+    "amplifies",
+    "analyzed by",
+    "analyzed in relation to",
+    "analyzes",
+    "appeals to",
+    "arises from",
+    "associated with",
+    "attracted by",
+    "attracted to",
+    "attracts",
+    "attracts truth-seekers through",
+    "attributes",
+    "based on",
+    "benefits",
+    "blames",
+    "captivates",
+    "captures",
+    "captures public imagination about",
+    "caused by",
+    "challenged by",
+    "challenges",
+    "challenges official explanations through",
+    "characterizes",
+    "claims",
+    "collaborated with",
+    "combats",
+    "compares with",
+    "competed against",
+    "competed in",
+    "competes in",
+    "concerns",
+    "connects",
+    "contextualizes",
+    "contradicted by",
+    "contradicts",
+    "contradicts controlled demolitions with",
+    "contradicts official explanations in",
+    "contrasts",
+    "contrasts with",
+    "contributes to",
+    "countered by",
+    "creates",
+    "creates distrust of",
+    "creates mystery around",
+    "cultivates",
+    "debunked by",
+    "debunks",
+    "defines",
+    "demonstrates",
+    "depicted on",
+    "depicts",
+    "diminishes",
+    "discredits",
+    "discussed in",
+    "discusses",
+    "disproves",
+    "disputes",
+    "disseminates",
+    "documents",
+    "driven by",
+    "drives",
+    "drives documentaries on",
+    "drives empowerment through",
+    "drives political motivations behind",
+    "elicits",
+    "elicits public skepticism towards",
+    "embodies",
+    "emerges from",
+    "enables",
+    "encourages",
+    "engages",
+    "engages in",
+    "engages in debunking by",
+    "enhances",
+    "erodes",
+    "evidence against",
+    "evidence of lunar surface",
+    "evokes",
+    "exacerbates",
+    "examined by",
+    "examined critically for",
+    "examined in",
+    "examines",
+    "examines government involvement in",
+    "exemplifies",
+    "exerts",
+    "exerts control over",
+    "exerts influence over",
+    "exhibits",
+    "explained by",
+    "explains",
+    "explains global phenomena through",
+    "exploited by",
+    "exploited for",
+    "exploits",
+    "explores",
+    "exposed by",
+    "exposes",
+    "facilitated by",
+    "facilitates",
+    "facilitates dissemination of",
+    "featured in",
+    "features",
+    "forms",
+    "fosters",
+    "fueled by",
+    "fuels",
+    "fuels conspiracy theory about",
+    "fuels public skepticism towards",
+    "generates",
+    "gives rise to",
+    "has",
+    "highlights",
+    "highlights lack of evidence in",
+    "illustrated by",
+    "illustrates",
+    "impacted by",
+    "impacts",
+    "indicates",
+    "influenced",
+    "influenced by",
+    "influences",
+    "influences critical thinking in",
+    "influences cultural impact on",
+    "influences political movements in",
+    "influences public imagination about",
+    "influences public opinion on",
+    "influences trust in",
+    "influences understanding of",
+    "informs",
+    "inspired",
+    "inspired by",
+    "inspires",
+    "interacted with",
+    "interpreted through",
+    "investigated by",
+    "investigates",
+    "investigates misinformation in",
+    "investigates official narratives for",
+    "invites",
+    "invokes",
+    "involved",
+    "involved in",
+    "involves",
+    "involves World Trade Center in",
+    "is a cause of",
+    "is a context for",
+    "is a method of",
+    "is a part of",
+    "is a process of",
+    "is a response to",
+    "is a result of",
+    "is a subject of",
+    "is a topic of",
+    "is addressed by",
+    "is affected by",
+    "is analyzed by",
+    "is associated with",
+    "is believed by",
+    "is caused by",
+    "is challenged by",
+    "is characterized by",
+    "is contradicted by",
+    "is controlled by",
+    "is countered by",
+    "is debunked by",
+    "is discussed in",
+    "is disproven by",
+    "is documented in",
+    "is driven by",
+    "is enhanced by",
+    "is evidenced by",
+    "is examined by",
+    "is examined in the context of",
+    "is examined through",
+    "is explained by",
+    "is exploited by",
+    "is explored in",
+    "is expressed through",
+    "is facilitated by",
+    "is fostered by",
+    "is found on",
+    "is fueled by",
+    "is illustrated by",
+    "is impacted by",
+    "is influenced by",
+    "is investigated by",
+    "is linked to",
+    "is manipulated by",
+    "is met with",
+    "is part of",
+    "is perceived by",
+    "is propagated by",
+    "is pursued by",
+    "is questioned by",
+    "is reflected in",
+    "is related to",
+    "is represented by",
+    "is scrutinized by",
+    "is shaped by",
+    "is sought by",
+    "is spread by",
+    "is staged by",
+    "is subjected to",
+    "is suggested by",
+    "is supported by",
+    "is undermined by",
+    "is used by",
+    "is used for",
+    "is used in",
+    "is utilized by",
+    "is validated by",
+    "justifies",
+    "lacks",
+    "leads to",
+    "led to",
+    "leverages",
+    "linked to",
+    "manipulates",
+    "motivates",
+    "nurtures",
+    "offers",
+    "participated in",
+    "perpetuated by",
+    "perpetuates",
+    "produces documentaries about",
+    "promotes",
+    "promotes alternative narratives through",
+    "prompts",
+    "propagated by",
+    "propagates misinformation through",
+    "provides",
+    "provides alternative explanations for",
+    "provides context for",
+    "provides evidence for",
+    "provides information to",
+    "questioned by",
+    "questions",
+    "raises",
+    "reflects",
+    "refutes",
+    "reinforced by",
+    "reinforces",
+    "related to",
+    "relates to",
+    "represents",
+    "resulted from",
+    "results from",
+    "results in",
+    "reveals",
+    "reveals government involvement in",
+    "reveals secrecy of",
+    "serves",
+    "serves as",
+    "serves to achieve",
+    "shaped",
+    "shaped by",
+    "shapes",
+    "shapes cultural impact of",
+    "shapes cultural impact on",
+    "shapes information age with",
+    "shapes media influence on",
+    "shapes public discourse on",
+    "shared by",
+    "sparks",
+    "sparks skepticism about",
+    "speculated about",
+    "speculates",
+    "spreads",
+    "spreads misinformation in",
+    "staged by",
+    "staged in",
+    "stimulates",
+    "subject of investigations",
+    "subject of investigations into",
+    "subject to",
+    "subjected to",
+    "suggests",
+    "supported by",
+    "supports",
+    "supports conspiracy theory with",
+    "symbolizes",
+    "target of",
+    "undergoes",
+    "undermines",
+    "underpins",
+    "used for",
+    "utilized by",
+    "utilized for",
+    "utilizes",
+    "utilizes empowerment for",
+    "utilizes symbolism in",
+    "validated by",
+    "validates",
+    "was staged in"
+  ]
+}

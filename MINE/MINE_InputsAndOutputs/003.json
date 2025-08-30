@@ -1,0 +1,2879 @@
+{
+  "entities": [
+    "AI acceptance",
+    "AI accountability",
+    "AI deployment",
+    "AI development",
+    "AI systems",
+    "addressing bias",
+    "algorithmic fairness",
+    "autonomous systems",
+    "bias",
+    "bias accountability",
+    "biased algorithms",
+    "broader implications",
+    "community well-being",
+    "complex challenges",
+    "corporate power",
+    "data ethics",
+    "data quality",
+    "data usage",
+    "decision-making",
+    "decision-making accountability",
+    "discrimination",
+    "discriminatory outcomes",
+    "diversity",
+    "equity",
+    "ethical AI practices",
+    "ethical considerations",
+    "ethical dilemma",
+    "ethical guidelines",
+    "ethical principles",
+    "facial recognition",
+    "fairness",
+    "fairness in hiring",
+    "gender",
+    "hiring processes",
+    "impact assessment",
+    "inclusion",
+    "incomplete data",
+    "inequality",
+    "job displacement",
+    "privacy concerns",
+    "privacy rights",
+    "race",
+    "regulations",
+    "responsible AI",
+    "responsible development",
+    "social justice",
+    "societal impact",
+    "systemic bias",
+    "technology ethics",
+    "technology impact",
+    "thoughtful solutions",
+    "transparency issues",
+    "transparency promotion",
+    "trust building",
+    "trust in AI"
+  ],
+  "relations": [
+    [
+      "AI acceptance",
+      "faces",
+      "complex challenges"
+    ],
+    [
+      "AI acceptance",
+      "is essential for",
+      "equity"
+    ],
+    [
+      "AI acceptance",
+      "is influenced by",
+      "societal impact"
+    ],
+    [
+      "AI acceptance",
+      "requires",
+      "bias accountability"
+    ],
+    [
+      "AI accountability",
+      "affects",
+      "broader implications"
+    ],
+    [
+      "AI accountability",
+      "contributes to",
+      "bias"
+    ],
+    [
+      "AI accountability",
+      "contributes to",
+      "inequality"
+    ],
+    [
+      "AI accountability",
+      "ensures",
+      "fairness"
+    ],
+    [
+      "AI accountability",
+      "guides",
+      "ethical principles"
+    ],
+    [
+      "AI accountability",
+      "influences",
+      "AI acceptance"
+    ],
+    [
+      "AI accountability",
+      "informs",
+      "ethical AI practices"
+    ],
+    [
+      "AI accountability",
+      "involves",
+      "ethical considerations"
+    ],
+    [
+      "AI accountability",
+      "involves",
+      "hiring processes"
+    ],
+    [
+      "AI accountability",
+      "involves",
+      "inclusion"
+    ],
+    [
+      "AI accountability",
+      "is enhanced by",
+      "transparency promotion"
+    ],
+    [
+      "AI accountability",
+      "is essential for",
+      "AI development"
+    ],
+    [
+      "AI accountability",
+      "is linked to",
+      "bias accountability"
+    ],
+    [
+      "AI accountability",
+      "is linked to",
+      "equity"
+    ],
+    [
+      "AI accountability",
+      "is supported by",
+      "thoughtful solutions"
+    ],
+    [
+      "AI accountability",
+      "supports",
+      "community well-being"
+    ],
+    [
+      "AI deployment",
+      "influences",
+      "fairness in hiring"
+    ],
+    [
+      "AI deployment",
+      "involves",
+      "AI development"
+    ],
+    [
+      "AI deployment",
+      "involves",
+      "data usage"
+    ],
+    [
+      "AI development",
+      "guides",
+      "privacy rights"
+    ],
+    [
+      "AI development",
+      "influences",
+      "discriminatory outcomes"
+    ],
+    [
+      "AI development",
+      "influences",
+      "societal impact"
+    ],
+    [
+      "AI development",
+      "involves",
+      "data usage"
+    ],
+    [
+      "AI development",
+      "is affected by",
+      "technology impact"
+    ],
+    [
+      "AI development",
+      "is characterized by",
+      "ethical dilemma"
+    ],
+    [
+      "AI development",
+      "regulated by",
+      "regulations"
+    ],
+    [
+      "AI development",
+      "requires",
+      "AI accountability"
+    ],
+    [
+      "AI development",
+      "requires",
+      "bias accountability"
+    ],
+    [
+      "AI development",
+      "shapes",
+      "ethical guidelines"
+    ],
+    [
+      "AI development",
+      "utilizes",
+      "facial recognition"
+    ],
+    [
+      "AI systems",
+      "impacts",
+      "societal impact"
+    ],
+    [
+      "AI systems",
+      "influences",
+      "decision-making"
+    ],
+    [
+      "AI systems",
+      "influences",
+      "hiring processes"
+    ],
+    [
+      "AI systems",
+      "is defined by",
+      "algorithmic fairness"
+    ],
+    [
+      "AI systems",
+      "is influenced by",
+      "privacy concerns"
+    ],
+    [
+      "AI systems",
+      "promotes",
+      "equity"
+    ],
+    [
+      "AI systems",
+      "requires",
+      "regulations"
+    ],
+    [
+      "AI systems",
+      "requires addressing",
+      "addressing bias"
+    ],
+    [
+      "AI systems",
+      "supported by",
+      "thoughtful solutions"
+    ],
+    [
+      "AI systems",
+      "supports",
+      "transparency promotion"
+    ],
+    [
+      "addressing bias",
+      "addresses",
+      "inequality"
+    ],
+    [
+      "addressing bias",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "addressing bias",
+      "ensures",
+      "equity"
+    ],
+    [
+      "addressing bias",
+      "facilitated by",
+      "thoughtful solutions"
+    ],
+    [
+      "addressing bias",
+      "facilitates",
+      "AI deployment"
+    ],
+    [
+      "addressing bias",
+      "guides",
+      "ethical principles"
+    ],
+    [
+      "addressing bias",
+      "guides",
+      "technology ethics"
+    ],
+    [
+      "addressing bias",
+      "has broader implications for",
+      "broader implications"
+    ],
+    [
+      "addressing bias",
+      "improves",
+      "decision-making"
+    ],
+    [
+      "addressing bias",
+      "is addressed by",
+      "AI acceptance"
+    ],
+    [
+      "addressing bias",
+      "is addressed by",
+      "biased algorithms"
+    ],
+    [
+      "addressing bias",
+      "is essential for",
+      "responsible AI"
+    ],
+    [
+      "addressing bias",
+      "mitigates",
+      "job displacement"
+    ],
+    [
+      "addressing bias",
+      "presents",
+      "ethical dilemma"
+    ],
+    [
+      "addressing bias",
+      "presents",
+      "systemic bias"
+    ],
+    [
+      "addressing bias",
+      "requires",
+      "regulations"
+    ],
+    [
+      "addressing bias",
+      "results from",
+      "incomplete data"
+    ],
+    [
+      "addressing bias",
+      "results in",
+      "discriminatory outcomes"
+    ],
+    [
+      "algorithmic fairness",
+      "depends on",
+      "data usage"
+    ],
+    [
+      "algorithmic fairness",
+      "enhances",
+      "trust building"
+    ],
+    [
+      "algorithmic fairness",
+      "guides",
+      "technology ethics"
+    ],
+    [
+      "algorithmic fairness",
+      "has implications for",
+      "broader implications"
+    ],
+    [
+      "algorithmic fairness",
+      "involves",
+      "privacy rights"
+    ],
+    [
+      "algorithmic fairness",
+      "is an example of",
+      "ethical dilemma"
+    ],
+    [
+      "algorithmic fairness",
+      "is crucial for",
+      "AI deployment"
+    ],
+    [
+      "algorithmic fairness",
+      "is influenced by",
+      "technology impact"
+    ],
+    [
+      "algorithmic fairness",
+      "is supported by",
+      "ethical AI practices"
+    ],
+    [
+      "algorithmic fairness",
+      "requires",
+      "job displacement"
+    ],
+    [
+      "algorithmic fairness",
+      "results from",
+      "incomplete data"
+    ],
+    [
+      "autonomous systems",
+      "involves",
+      "data usage"
+    ],
+    [
+      "autonomous systems",
+      "is related to",
+      "AI deployment"
+    ],
+    [
+      "autonomous systems",
+      "supports",
+      "equity"
+    ],
+    [
+      "bias",
+      "advocates for",
+      "social justice"
+    ],
+    [
+      "bias",
+      "affected by",
+      "AI accountability"
+    ],
+    [
+      "bias",
+      "affects",
+      "community well-being"
+    ],
+    [
+      "bias",
+      "affects",
+      "decision-making"
+    ],
+    [
+      "bias",
+      "affects",
+      "race"
+    ],
+    [
+      "bias",
+      "contributes to",
+      "inequality"
+    ],
+    [
+      "bias",
+      "influences",
+      "AI development"
+    ],
+    [
+      "bias",
+      "influences",
+      "hiring processes"
+    ],
+    [
+      "bias",
+      "influences",
+      "societal impact"
+    ],
+    [
+      "bias",
+      "is a concern for",
+      "AI systems"
+    ],
+    [
+      "bias",
+      "is characterized by",
+      "systemic bias"
+    ],
+    [
+      "bias",
+      "presents",
+      "complex challenges"
+    ],
+    [
+      "bias",
+      "promotes",
+      "equity"
+    ],
+    [
+      "bias",
+      "promotes",
+      "ethical AI practices"
+    ],
+    [
+      "bias",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "bias",
+      "raises",
+      "ethical considerations"
+    ],
+    [
+      "bias",
+      "raises concerns about",
+      "facial recognition"
+    ],
+    [
+      "bias",
+      "requires",
+      "addressing bias"
+    ],
+    [
+      "bias",
+      "requires",
+      "bias accountability"
+    ],
+    [
+      "bias",
+      "requires",
+      "regulations"
+    ],
+    [
+      "bias",
+      "requires",
+      "thoughtful solutions"
+    ],
+    [
+      "bias",
+      "results in",
+      "discrimination"
+    ],
+    [
+      "bias",
+      "supports",
+      "transparency promotion"
+    ],
+    [
+      "bias",
+      "violates",
+      "privacy rights"
+    ],
+    [
+      "bias accountability",
+      "is a challenge for",
+      "bias"
+    ],
+    [
+      "bias accountability",
+      "is related to",
+      "ethical considerations"
+    ],
+    [
+      "biased algorithms",
+      "affects",
+      "hiring processes"
+    ],
+    [
+      "biased algorithms",
+      "contributes to",
+      "race"
+    ],
+    [
+      "biased algorithms",
+      "demands",
+      "bias accountability"
+    ],
+    [
+      "biased algorithms",
+      "exacerbates",
+      "inequality"
+    ],
+    [
+      "biased algorithms",
+      "guides",
+      "ethical guidelines"
+    ],
+    [
+      "biased algorithms",
+      "informs",
+      "data ethics"
+    ],
+    [
+      "biased algorithms",
+      "is caused by",
+      "AI acceptance"
+    ],
+    [
+      "biased algorithms",
+      "is influenced by",
+      "fairness"
+    ],
+    [
+      "biased algorithms",
+      "is influenced by",
+      "job displacement"
+    ],
+    [
+      "biased algorithms",
+      "needs",
+      "regulations"
+    ],
+    [
+      "biased algorithms",
+      "results in",
+      "bias"
+    ],
+    [
+      "biased algorithms",
+      "supports",
+      "transparency promotion"
+    ],
+    [
+      "broader implications",
+      "affects",
+      "AI deployment"
+    ],
+    [
+      "broader implications",
+      "has consequences for",
+      "biased algorithms"
+    ],
+    [
+      "broader implications",
+      "has implications for",
+      "AI systems"
+    ],
+    [
+      "broader implications",
+      "has implications for",
+      "diversity"
+    ],
+    [
+      "broader implications",
+      "has implications for",
+      "inequality"
+    ],
+    [
+      "broader implications",
+      "has implications for",
+      "transparency issues"
+    ],
+    [
+      "broader implications",
+      "influences",
+      "complex challenges"
+    ],
+    [
+      "broader implications",
+      "presents",
+      "ethical dilemma"
+    ],
+    [
+      "broader implications",
+      "requires",
+      "bias accountability"
+    ],
+    [
+      "community well-being",
+      "affects",
+      "discriminatory outcomes"
+    ],
+    [
+      "community well-being",
+      "contributes to",
+      "algorithmic fairness"
+    ],
+    [
+      "community well-being",
+      "promotes",
+      "social justice"
+    ],
+    [
+      "community well-being",
+      "supports",
+      "facial recognition"
+    ],
+    [
+      "complex challenges",
+      "addresses",
+      "technology ethics"
+    ],
+    [
+      "complex challenges",
+      "complicates",
+      "AI deployment"
+    ],
+    [
+      "complex challenges",
+      "exacerbates",
+      "inequality"
+    ],
+    [
+      "complex challenges",
+      "is a result of",
+      "bias"
+    ],
+    [
+      "complex challenges",
+      "leads to",
+      "ethical principles"
+    ],
+    [
+      "complex challenges",
+      "presents",
+      "AI development"
+    ],
+    [
+      "complex challenges",
+      "presents",
+      "AI systems"
+    ],
+    [
+      "complex challenges",
+      "presents",
+      "responsible AI"
+    ],
+    [
+      "complex challenges",
+      "result from",
+      "transparency issues"
+    ],
+    [
+      "complex challenges",
+      "results in",
+      "discriminatory outcomes"
+    ],
+    [
+      "corporate power",
+      "affects",
+      "responsible development"
+    ],
+    [
+      "corporate power",
+      "affects",
+      "trust in AI"
+    ],
+    [
+      "corporate power",
+      "concentrates",
+      "AI systems"
+    ],
+    [
+      "corporate power",
+      "concentrates",
+      "biased algorithms"
+    ],
+    [
+      "corporate power",
+      "concentrates",
+      "gender"
+    ],
+    [
+      "corporate power",
+      "creates",
+      "ethical dilemma"
+    ],
+    [
+      "corporate power",
+      "drives",
+      "AI development"
+    ],
+    [
+      "corporate power",
+      "guides",
+      "ethical AI practices"
+    ],
+    [
+      "corporate power",
+      "impacts",
+      "community well-being"
+    ],
+    [
+      "corporate power",
+      "influences",
+      "decision-making"
+    ],
+    [
+      "corporate power",
+      "is addressed by",
+      "bias accountability"
+    ],
+    [
+      "corporate power",
+      "is challenged by",
+      "addressing bias"
+    ],
+    [
+      "corporate power",
+      "is influenced by",
+      "AI acceptance"
+    ],
+    [
+      "corporate power",
+      "is influenced by",
+      "inclusion"
+    ],
+    [
+      "corporate power",
+      "is regulated by",
+      "regulations"
+    ],
+    [
+      "corporate power",
+      "shapes",
+      "societal impact"
+    ],
+    [
+      "data ethics",
+      "depends on",
+      "data quality"
+    ],
+    [
+      "data ethics",
+      "ensures",
+      "bias accountability"
+    ],
+    [
+      "data ethics",
+      "establishes",
+      "regulations"
+    ],
+    [
+      "data ethics",
+      "involves",
+      "data usage"
+    ],
+    [
+      "data ethics",
+      "is a concern in",
+      "ethical dilemma"
+    ],
+    [
+      "data ethics",
+      "is related to",
+      "technology ethics"
+    ],
+    [
+      "data quality",
+      "enhances",
+      "diversity"
+    ],
+    [
+      "data quality",
+      "enhances",
+      "transparency promotion"
+    ],
+    [
+      "data quality",
+      "guides",
+      "ethical principles"
+    ],
+    [
+      "data quality",
+      "involves",
+      "ethical considerations"
+    ],
+    [
+      "data quality",
+      "is influenced by",
+      "race"
+    ],
+    [
+      "data quality",
+      "presents",
+      "ethical dilemma"
+    ],
+    [
+      "data usage",
+      "affects",
+      "community well-being"
+    ],
+    [
+      "data usage",
+      "influences",
+      "equity"
+    ],
+    [
+      "data usage",
+      "influences",
+      "trust in AI"
+    ],
+    [
+      "decision-making",
+      "impacted by",
+      "biased algorithms"
+    ],
+    [
+      "decision-making",
+      "influences",
+      "AI development"
+    ],
+    [
+      "decision-making",
+      "informs",
+      "impact assessment"
+    ],
+    [
+      "decision-making",
+      "is influenced by",
+      "equity"
+    ],
+    [
+      "decision-making",
+      "is influenced by",
+      "fairness in hiring"
+    ],
+    [
+      "decision-making",
+      "requires",
+      "bias accountability"
+    ],
+    [
+      "decision-making accountability",
+      "is essential for",
+      "responsible AI"
+    ],
+    [
+      "decision-making accountability",
+      "is essential for",
+      "responsible development"
+    ],
+    [
+      "decision-making accountability",
+      "is guided by",
+      "ethical principles"
+    ],
+    [
+      "decision-making accountability",
+      "is related to",
+      "AI deployment"
+    ],
+    [
+      "decision-making accountability",
+      "is related to",
+      "transparency issues"
+    ],
+    [
+      "decision-making accountability",
+      "requires",
+      "bias accountability"
+    ],
+    [
+      "decision-making accountability",
+      "requires",
+      "diversity"
+    ],
+    [
+      "decision-making accountability",
+      "requires",
+      "thoughtful solutions"
+    ],
+    [
+      "discrimination",
+      "addresses",
+      "algorithmic fairness"
+    ],
+    [
+      "discrimination",
+      "affects",
+      "hiring processes"
+    ],
+    [
+      "discrimination",
+      "contradicts",
+      "fairness in hiring"
+    ],
+    [
+      "discrimination",
+      "exacerbates",
+      "inequality"
+    ],
+    [
+      "discrimination",
+      "has",
+      "broader implications"
+    ],
+    [
+      "discrimination",
+      "is a concern for",
+      "facial recognition"
+    ],
+    [
+      "discrimination",
+      "is a concern for",
+      "transparency issues"
+    ],
+    [
+      "discrimination",
+      "is affected by",
+      "data quality"
+    ],
+    [
+      "discrimination",
+      "is impacted by",
+      "data usage"
+    ],
+    [
+      "discrimination",
+      "leads to",
+      "discriminatory outcomes"
+    ],
+    [
+      "discrimination",
+      "presents",
+      "complex challenges"
+    ],
+    [
+      "discrimination",
+      "promotes",
+      "ethical guidelines"
+    ],
+    [
+      "discrimination",
+      "requires",
+      "addressing bias"
+    ],
+    [
+      "discrimination",
+      "requires",
+      "regulations"
+    ],
+    [
+      "discrimination",
+      "undermines",
+      "trust in AI"
+    ],
+    [
+      "discrimination",
+      "violated by",
+      "privacy rights"
+    ],
+    [
+      "discriminatory outcomes",
+      "is a consequence of",
+      "AI acceptance"
+    ],
+    [
+      "discriminatory outcomes",
+      "is a result of",
+      "fairness"
+    ],
+    [
+      "discriminatory outcomes",
+      "leads to",
+      "bias"
+    ],
+    [
+      "discriminatory outcomes",
+      "raises",
+      "ethical considerations"
+    ],
+    [
+      "discriminatory outcomes",
+      "results in",
+      "AI systems"
+    ],
+    [
+      "discriminatory outcomes",
+      "results in",
+      "biased algorithms"
+    ],
+    [
+      "discriminatory outcomes",
+      "results in",
+      "decision-making"
+    ],
+    [
+      "discriminatory outcomes",
+      "results in",
+      "equity"
+    ],
+    [
+      "discriminatory outcomes",
+      "results in",
+      "hiring processes"
+    ],
+    [
+      "discriminatory outcomes",
+      "results in",
+      "job displacement"
+    ],
+    [
+      "discriminatory outcomes",
+      "results in",
+      "responsible development"
+    ],
+    [
+      "discriminatory outcomes",
+      "results in",
+      "thoughtful solutions"
+    ],
+    [
+      "discriminatory outcomes",
+      "results in",
+      "trust in AI"
+    ],
+    [
+      "diversity",
+      "affects",
+      "decision-making"
+    ],
+    [
+      "diversity",
+      "affects",
+      "technology impact"
+    ],
+    [
+      "diversity",
+      "guides",
+      "ethical guidelines"
+    ],
+    [
+      "diversity",
+      "influences",
+      "decision-making accountability"
+    ],
+    [
+      "diversity",
+      "informs",
+      "data ethics"
+    ],
+    [
+      "diversity",
+      "informs",
+      "impact assessment"
+    ],
+    [
+      "diversity",
+      "is a factor in",
+      "technology ethics"
+    ],
+    [
+      "diversity",
+      "is addressed by",
+      "addressing bias"
+    ],
+    [
+      "diversity",
+      "leads to",
+      "discrimination"
+    ],
+    [
+      "equity",
+      "achieved through",
+      "discrimination"
+    ],
+    [
+      "equity",
+      "affects",
+      "hiring processes"
+    ],
+    [
+      "equity",
+      "ensures",
+      "decision-making accountability"
+    ],
+    [
+      "equity",
+      "guides",
+      "AI development"
+    ],
+    [
+      "equity",
+      "guides",
+      "ethical AI practices"
+    ],
+    [
+      "equity",
+      "guides",
+      "ethical principles"
+    ],
+    [
+      "equity",
+      "influences",
+      "societal impact"
+    ],
+    [
+      "equity",
+      "involves",
+      "AI deployment"
+    ],
+    [
+      "equity",
+      "involves",
+      "ethical considerations"
+    ],
+    [
+      "equity",
+      "is a factor in",
+      "biased algorithms"
+    ],
+    [
+      "equity",
+      "is affected by",
+      "incomplete data"
+    ],
+    [
+      "equity",
+      "supports",
+      "community well-being"
+    ],
+    [
+      "equity",
+      "supports",
+      "inclusion"
+    ],
+    [
+      "ethical AI practices",
+      "influenced by",
+      "transparency issues"
+    ],
+    [
+      "ethical AI practices",
+      "is a challenge for",
+      "incomplete data"
+    ],
+    [
+      "ethical considerations",
+      "is a concern for",
+      "broader implications"
+    ],
+    [
+      "ethical considerations",
+      "is a concern in",
+      "systemic bias"
+    ],
+    [
+      "ethical considerations",
+      "requires",
+      "AI accountability"
+    ],
+    [
+      "ethical dilemma",
+      "is a challenge for",
+      "hiring processes"
+    ],
+    [
+      "ethical dilemma",
+      "is a type of",
+      "decision-making"
+    ],
+    [
+      "ethical dilemma",
+      "is challenged by",
+      "corporate power"
+    ],
+    [
+      "ethical dilemma",
+      "is linked to",
+      "community well-being"
+    ],
+    [
+      "ethical dilemma",
+      "related to",
+      "ethical guidelines"
+    ],
+    [
+      "ethical guidelines",
+      "addresses",
+      "bias accountability"
+    ],
+    [
+      "ethical guidelines",
+      "addresses",
+      "discriminatory outcomes"
+    ],
+    [
+      "ethical guidelines",
+      "addresses",
+      "incomplete data"
+    ],
+    [
+      "ethical guidelines",
+      "enhances",
+      "trust in AI"
+    ],
+    [
+      "ethical guidelines",
+      "facilitates",
+      "AI acceptance"
+    ],
+    [
+      "ethical guidelines",
+      "guides",
+      "AI deployment"
+    ],
+    [
+      "ethical guidelines",
+      "guides",
+      "bias"
+    ],
+    [
+      "ethical guidelines",
+      "guides",
+      "ethical considerations"
+    ],
+    [
+      "ethical guidelines",
+      "guides",
+      "inequality"
+    ],
+    [
+      "ethical guidelines",
+      "guides",
+      "race"
+    ],
+    [
+      "ethical guidelines",
+      "guides",
+      "technology ethics"
+    ],
+    [
+      "ethical guidelines",
+      "impacts",
+      "facial recognition"
+    ],
+    [
+      "ethical guidelines",
+      "influences",
+      "broader implications"
+    ],
+    [
+      "ethical guidelines",
+      "informed by",
+      "thoughtful solutions"
+    ],
+    [
+      "ethical guidelines",
+      "informs",
+      "regulations"
+    ],
+    [
+      "ethical guidelines",
+      "is guided by",
+      "decision-making"
+    ],
+    [
+      "ethical guidelines",
+      "promotes",
+      "community well-being"
+    ],
+    [
+      "ethical guidelines",
+      "protects",
+      "privacy rights"
+    ],
+    [
+      "ethical guidelines",
+      "supports",
+      "transparency promotion"
+    ],
+    [
+      "ethical principles",
+      "establishes",
+      "regulations"
+    ],
+    [
+      "ethical principles",
+      "guides",
+      "AI development"
+    ],
+    [
+      "ethical principles",
+      "guides",
+      "bias"
+    ],
+    [
+      "ethical principles",
+      "guides",
+      "decision-making"
+    ],
+    [
+      "ethical principles",
+      "guides",
+      "societal impact"
+    ],
+    [
+      "ethical principles",
+      "informs",
+      "ethical guidelines"
+    ],
+    [
+      "ethical principles",
+      "involves",
+      "facial recognition"
+    ],
+    [
+      "ethical principles",
+      "is a concern for",
+      "job displacement"
+    ],
+    [
+      "ethical principles",
+      "is guided by",
+      "AI systems"
+    ],
+    [
+      "ethical principles",
+      "is informed by",
+      "hiring processes"
+    ],
+    [
+      "ethical principles",
+      "shapes",
+      "broader implications"
+    ],
+    [
+      "ethical principles",
+      "shapes",
+      "inequality"
+    ],
+    [
+      "facial recognition",
+      "is a concern for",
+      "inequality"
+    ],
+    [
+      "facial recognition",
+      "is addressed by",
+      "bias accountability"
+    ],
+    [
+      "facial recognition",
+      "is influenced by",
+      "societal impact"
+    ],
+    [
+      "facial recognition",
+      "is influenced by",
+      "technology impact"
+    ],
+    [
+      "facial recognition",
+      "is protected by",
+      "privacy rights"
+    ],
+    [
+      "facial recognition",
+      "raises concerns about",
+      "trust in AI"
+    ],
+    [
+      "facial recognition",
+      "utilizes",
+      "biased algorithms"
+    ],
+    [
+      "facial recognition",
+      "utilizes",
+      "fairness in hiring"
+    ],
+    [
+      "fairness",
+      "affects",
+      "facial recognition"
+    ],
+    [
+      "fairness",
+      "enhances",
+      "trust in AI"
+    ],
+    [
+      "fairness",
+      "ensures",
+      "responsible development"
+    ],
+    [
+      "fairness",
+      "has",
+      "broader implications"
+    ],
+    [
+      "fairness",
+      "influences",
+      "gender"
+    ],
+    [
+      "fairness",
+      "is addressed by",
+      "regulations"
+    ],
+    [
+      "fairness",
+      "is essential for",
+      "bias accountability"
+    ],
+    [
+      "fairness",
+      "is related to",
+      "decision-making accountability"
+    ],
+    [
+      "fairness",
+      "leads to",
+      "inequality"
+    ],
+    [
+      "fairness",
+      "promotes",
+      "equity"
+    ],
+    [
+      "fairness",
+      "promotes",
+      "ethical AI practices"
+    ],
+    [
+      "fairness",
+      "promotes",
+      "ethical guidelines"
+    ],
+    [
+      "fairness",
+      "raises",
+      "privacy concerns"
+    ],
+    [
+      "fairness",
+      "requires",
+      "addressing bias"
+    ],
+    [
+      "fairness in hiring",
+      "addresses",
+      "discriminatory outcomes"
+    ],
+    [
+      "fairness in hiring",
+      "affects",
+      "privacy concerns"
+    ],
+    [
+      "fairness in hiring",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "fairness in hiring",
+      "depends on",
+      "data quality"
+    ],
+    [
+      "fairness in hiring",
+      "ensures",
+      "algorithmic fairness"
+    ],
+    [
+      "fairness in hiring",
+      "facilitates",
+      "trust building"
+    ],
+    [
+      "fairness in hiring",
+      "is guided by",
+      "ethical principles"
+    ],
+    [
+      "fairness in hiring",
+      "is influenced by",
+      "inclusion"
+    ],
+    [
+      "fairness in hiring",
+      "promotes",
+      "community well-being"
+    ],
+    [
+      "fairness in hiring",
+      "represents",
+      "ethical dilemma"
+    ],
+    [
+      "gender",
+      "affects",
+      "community well-being"
+    ],
+    [
+      "gender",
+      "affects",
+      "hiring processes"
+    ],
+    [
+      "gender",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "gender",
+      "combated by",
+      "addressing bias"
+    ],
+    [
+      "gender",
+      "contributes to",
+      "discriminatory outcomes"
+    ],
+    [
+      "gender",
+      "influences",
+      "algorithmic fairness"
+    ],
+    [
+      "gender",
+      "influences",
+      "discrimination"
+    ],
+    [
+      "gender",
+      "is essential for",
+      "trust building"
+    ],
+    [
+      "gender",
+      "utilized in",
+      "facial recognition"
+    ],
+    [
+      "hiring processes",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "hiring processes",
+      "enhances",
+      "transparency promotion"
+    ],
+    [
+      "hiring processes",
+      "guides",
+      "ethical guidelines"
+    ],
+    [
+      "hiring processes",
+      "has implications for",
+      "broader implications"
+    ],
+    [
+      "hiring processes",
+      "improves",
+      "addressing bias"
+    ],
+    [
+      "hiring processes",
+      "influences",
+      "AI development"
+    ],
+    [
+      "hiring processes",
+      "influences",
+      "corporate power"
+    ],
+    [
+      "hiring processes",
+      "influences",
+      "race"
+    ],
+    [
+      "hiring processes",
+      "involves",
+      "data usage"
+    ],
+    [
+      "hiring processes",
+      "is guided by",
+      "data ethics"
+    ],
+    [
+      "hiring processes",
+      "is influenced by",
+      "systemic bias"
+    ],
+    [
+      "hiring processes",
+      "is related to",
+      "AI deployment"
+    ],
+    [
+      "hiring processes",
+      "is related to",
+      "technology ethics"
+    ],
+    [
+      "hiring processes",
+      "requires",
+      "regulations"
+    ],
+    [
+      "hiring processes",
+      "requires",
+      "responsible development"
+    ],
+    [
+      "hiring processes",
+      "utilizes",
+      "facial recognition"
+    ],
+    [
+      "impact assessment",
+      "assesses",
+      "fairness"
+    ],
+    [
+      "impact assessment",
+      "evaluates",
+      "corporate power"
+    ],
+    [
+      "impact assessment",
+      "evaluates",
+      "societal impact"
+    ],
+    [
+      "impact assessment",
+      "guides",
+      "AI development"
+    ],
+    [
+      "impact assessment",
+      "guides",
+      "technology ethics"
+    ],
+    [
+      "impact assessment",
+      "involves",
+      "ethical considerations"
+    ],
+    [
+      "impact assessment",
+      "is a concern for",
+      "ethical dilemma"
+    ],
+    [
+      "inclusion",
+      "guides",
+      "ethical guidelines"
+    ],
+    [
+      "inclusion",
+      "involves",
+      "data usage"
+    ],
+    [
+      "inclusion",
+      "is guided by",
+      "ethical principles"
+    ],
+    [
+      "inclusion",
+      "results in",
+      "discriminatory outcomes"
+    ],
+    [
+      "incomplete data",
+      "affects",
+      "community well-being"
+    ],
+    [
+      "incomplete data",
+      "affects",
+      "data quality"
+    ],
+    [
+      "incomplete data",
+      "affects",
+      "social justice"
+    ],
+    [
+      "incomplete data",
+      "is a type of",
+      "ethical dilemma"
+    ],
+    [
+      "incomplete data",
+      "is affected by",
+      "inequality"
+    ],
+    [
+      "incomplete data",
+      "is affected by",
+      "technology ethics"
+    ],
+    [
+      "incomplete data",
+      "is caused by",
+      "bias"
+    ],
+    [
+      "incomplete data",
+      "is challenged by",
+      "AI accountability"
+    ],
+    [
+      "incomplete data",
+      "results from",
+      "data ethics"
+    ],
+    [
+      "incomplete data",
+      "results from",
+      "diversity"
+    ],
+    [
+      "incomplete data",
+      "results from",
+      "fairness in hiring"
+    ],
+    [
+      "inequality",
+      "affects",
+      "community well-being"
+    ],
+    [
+      "inequality",
+      "affects",
+      "race"
+    ],
+    [
+      "inequality",
+      "contrasts with",
+      "equity"
+    ],
+    [
+      "inequality",
+      "contributes to",
+      "data ethics"
+    ],
+    [
+      "inequality",
+      "contributes to",
+      "discriminatory outcomes"
+    ],
+    [
+      "inequality",
+      "contributes to",
+      "diversity"
+    ],
+    [
+      "inequality",
+      "exacerbates",
+      "gender"
+    ],
+    [
+      "inequality",
+      "informs",
+      "ethical AI practices"
+    ],
+    [
+      "inequality",
+      "is influenced by",
+      "decision-making accountability"
+    ],
+    [
+      "inequality",
+      "is promoted by",
+      "transparency promotion"
+    ],
+    [
+      "inequality",
+      "raises",
+      "ethical considerations"
+    ],
+    [
+      "job displacement",
+      "affects",
+      "AI acceptance"
+    ],
+    [
+      "job displacement",
+      "affects",
+      "community well-being"
+    ],
+    [
+      "job displacement",
+      "affects",
+      "race"
+    ],
+    [
+      "job displacement",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "job displacement",
+      "causes",
+      "hiring processes"
+    ],
+    [
+      "job displacement",
+      "exacerbates",
+      "discrimination"
+    ],
+    [
+      "job displacement",
+      "influences",
+      "decision-making"
+    ],
+    [
+      "job displacement",
+      "is a consequence of",
+      "technology impact"
+    ],
+    [
+      "job displacement",
+      "is impacted by",
+      "fairness in hiring"
+    ],
+    [
+      "job displacement",
+      "is influenced by",
+      "gender"
+    ],
+    [
+      "job displacement",
+      "is linked to",
+      "inequality"
+    ],
+    [
+      "job displacement",
+      "results in",
+      "diversity"
+    ],
+    [
+      "job displacement",
+      "results in",
+      "equity"
+    ],
+    [
+      "privacy concerns",
+      "affects",
+      "gender"
+    ],
+    [
+      "privacy concerns",
+      "builds",
+      "trust building"
+    ],
+    [
+      "privacy concerns",
+      "creates",
+      "transparency issues"
+    ],
+    [
+      "privacy concerns",
+      "exacerbates",
+      "inequality"
+    ],
+    [
+      "privacy concerns",
+      "impacts",
+      "algorithmic fairness"
+    ],
+    [
+      "privacy concerns",
+      "informs",
+      "ethical guidelines"
+    ],
+    [
+      "privacy concerns",
+      "is a concern for",
+      "AI development"
+    ],
+    [
+      "privacy concerns",
+      "is raised by",
+      "facial recognition"
+    ],
+    [
+      "privacy concerns",
+      "promotes",
+      "responsible AI"
+    ],
+    [
+      "privacy concerns",
+      "raises",
+      "AI systems"
+    ],
+    [
+      "privacy concerns",
+      "relates to",
+      "data ethics"
+    ],
+    [
+      "privacy concerns",
+      "requires",
+      "decision-making accountability"
+    ],
+    [
+      "privacy concerns",
+      "requires",
+      "impact assessment"
+    ],
+    [
+      "privacy concerns",
+      "results in",
+      "discriminatory outcomes"
+    ],
+    [
+      "privacy rights",
+      "affects",
+      "diversity"
+    ],
+    [
+      "privacy rights",
+      "affects",
+      "inclusion"
+    ],
+    [
+      "privacy rights",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "privacy rights",
+      "infringes on",
+      "addressing bias"
+    ],
+    [
+      "privacy rights",
+      "infringes on",
+      "transparency issues"
+    ],
+    [
+      "privacy rights",
+      "involves",
+      "bias accountability"
+    ],
+    [
+      "privacy rights",
+      "is a concern for",
+      "inequality"
+    ],
+    [
+      "privacy rights",
+      "protects",
+      "data ethics"
+    ],
+    [
+      "privacy rights",
+      "requires",
+      "regulations"
+    ],
+    [
+      "privacy rights",
+      "violates",
+      "biased algorithms"
+    ],
+    [
+      "privacy rights",
+      "violates",
+      "fairness"
+    ],
+    [
+      "race",
+      "affected by",
+      "privacy rights"
+    ],
+    [
+      "race",
+      "affects",
+      "data ethics"
+    ],
+    [
+      "race",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "race",
+      "affects",
+      "transparency issues"
+    ],
+    [
+      "race",
+      "affects",
+      "trust in AI"
+    ],
+    [
+      "race",
+      "influences",
+      "diversity"
+    ],
+    [
+      "race",
+      "is influenced by",
+      "discriminatory outcomes"
+    ],
+    [
+      "race",
+      "requires",
+      "regulations"
+    ],
+    [
+      "regulations",
+      "ensures",
+      "bias accountability"
+    ],
+    [
+      "regulations",
+      "mitigated by",
+      "inequality"
+    ],
+    [
+      "regulations",
+      "regulated by",
+      "facial recognition"
+    ],
+    [
+      "regulations",
+      "supported by",
+      "trust in AI"
+    ],
+    [
+      "responsible AI",
+      "builds",
+      "trust in AI"
+    ],
+    [
+      "responsible AI",
+      "guides",
+      "ethical guidelines"
+    ],
+    [
+      "responsible AI",
+      "influences",
+      "AI development"
+    ],
+    [
+      "responsible AI",
+      "involves",
+      "facial recognition"
+    ],
+    [
+      "responsible AI",
+      "involves",
+      "privacy rights"
+    ],
+    [
+      "responsible AI",
+      "promotes",
+      "community well-being"
+    ],
+    [
+      "responsible development",
+      "contributes to",
+      "community well-being"
+    ],
+    [
+      "responsible development",
+      "influences",
+      "AI deployment"
+    ],
+    [
+      "responsible development",
+      "involves",
+      "ethical AI practices"
+    ],
+    [
+      "responsible development",
+      "involves",
+      "ethical considerations"
+    ],
+    [
+      "responsible development",
+      "is guided by",
+      "ethical principles"
+    ],
+    [
+      "social justice",
+      "challenges",
+      "corporate power"
+    ],
+    [
+      "social justice",
+      "facilitates",
+      "trust building"
+    ],
+    [
+      "social justice",
+      "influences",
+      "biased algorithms"
+    ],
+    [
+      "social justice",
+      "infringes on",
+      "privacy rights"
+    ],
+    [
+      "social justice",
+      "is essential for",
+      "ethical guidelines"
+    ],
+    [
+      "social justice",
+      "is guided by",
+      "ethical principles"
+    ],
+    [
+      "social justice",
+      "is influenced by",
+      "AI deployment"
+    ],
+    [
+      "social justice",
+      "is related to",
+      "algorithmic fairness"
+    ],
+    [
+      "social justice",
+      "is related to",
+      "data ethics"
+    ],
+    [
+      "social justice",
+      "is supported by",
+      "ethical AI practices"
+    ],
+    [
+      "social justice",
+      "results in",
+      "discriminatory outcomes"
+    ],
+    [
+      "social justice",
+      "supports",
+      "fairness"
+    ],
+    [
+      "social justice",
+      "supports",
+      "transparency promotion"
+    ],
+    [
+      "societal impact",
+      "affected by",
+      "fairness"
+    ],
+    [
+      "societal impact",
+      "affects",
+      "algorithmic fairness"
+    ],
+    [
+      "societal impact",
+      "affects",
+      "decision-making"
+    ],
+    [
+      "societal impact",
+      "influences",
+      "data usage"
+    ],
+    [
+      "societal impact",
+      "influences",
+      "discriminatory outcomes"
+    ],
+    [
+      "societal impact",
+      "involves",
+      "bias accountability"
+    ],
+    [
+      "societal impact",
+      "is affected by",
+      "biased algorithms"
+    ],
+    [
+      "societal impact",
+      "is influenced by",
+      "community well-being"
+    ],
+    [
+      "systemic bias",
+      "affects",
+      "data quality"
+    ],
+    [
+      "systemic bias",
+      "affects",
+      "decision-making"
+    ],
+    [
+      "systemic bias",
+      "affects",
+      "hiring processes"
+    ],
+    [
+      "systemic bias",
+      "affects",
+      "trust in AI"
+    ],
+    [
+      "systemic bias",
+      "causes",
+      "job displacement"
+    ],
+    [
+      "systemic bias",
+      "contributes to",
+      "inequality"
+    ],
+    [
+      "systemic bias",
+      "has implications for",
+      "broader implications"
+    ],
+    [
+      "systemic bias",
+      "impacts",
+      "technology impact"
+    ],
+    [
+      "systemic bias",
+      "involves",
+      "ethical considerations"
+    ],
+    [
+      "systemic bias",
+      "is a type of",
+      "bias"
+    ],
+    [
+      "systemic bias",
+      "is influenced by",
+      "gender"
+    ],
+    [
+      "systemic bias",
+      "is influenced by",
+      "race"
+    ],
+    [
+      "systemic bias",
+      "is regulated by",
+      "regulations"
+    ],
+    [
+      "systemic bias",
+      "is related to",
+      "algorithmic fairness"
+    ],
+    [
+      "systemic bias",
+      "provides",
+      "thoughtful solutions"
+    ],
+    [
+      "systemic bias",
+      "requires",
+      "bias accountability"
+    ],
+    [
+      "systemic bias",
+      "requires",
+      "responsible development"
+    ],
+    [
+      "systemic bias",
+      "results from",
+      "incomplete data"
+    ],
+    [
+      "systemic bias",
+      "results in",
+      "discrimination"
+    ],
+    [
+      "systemic bias",
+      "violates",
+      "privacy rights"
+    ],
+    [
+      "technology ethics",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "technology ethics",
+      "encompasses",
+      "data ethics"
+    ],
+    [
+      "technology ethics",
+      "influenced by",
+      "transparency promotion"
+    ],
+    [
+      "technology ethics",
+      "involves",
+      "ethical considerations"
+    ],
+    [
+      "technology ethics",
+      "is influenced by",
+      "diversity"
+    ],
+    [
+      "technology ethics",
+      "promotes",
+      "community well-being"
+    ],
+    [
+      "technology ethics",
+      "promotes",
+      "ethical AI practices"
+    ],
+    [
+      "technology ethics",
+      "results in",
+      "discriminatory outcomes"
+    ],
+    [
+      "technology impact",
+      "affects",
+      "algorithmic fairness"
+    ],
+    [
+      "technology impact",
+      "affects",
+      "facial recognition"
+    ],
+    [
+      "technology impact",
+      "affects",
+      "fairness in hiring"
+    ],
+    [
+      "technology impact",
+      "can lead to",
+      "discriminatory outcomes"
+    ],
+    [
+      "technology impact",
+      "contributes to",
+      "discrimination"
+    ],
+    [
+      "technology impact",
+      "impacts",
+      "AI accountability"
+    ],
+    [
+      "technology impact",
+      "influences",
+      "AI development"
+    ],
+    [
+      "technology impact",
+      "involves",
+      "data usage"
+    ],
+    [
+      "technology impact",
+      "necessitates",
+      "regulations"
+    ],
+    [
+      "technology impact",
+      "requires",
+      "bias accountability"
+    ],
+    [
+      "technology impact",
+      "results in",
+      "biased algorithms"
+    ],
+    [
+      "technology impact",
+      "violates",
+      "privacy rights"
+    ],
+    [
+      "thoughtful solutions",
+      "addresses",
+      "ethical dilemma"
+    ],
+    [
+      "thoughtful solutions",
+      "addresses",
+      "transparency issues"
+    ],
+    [
+      "thoughtful solutions",
+      "depends on",
+      "technology ethics"
+    ],
+    [
+      "thoughtful solutions",
+      "enhances",
+      "decision-making"
+    ],
+    [
+      "thoughtful solutions",
+      "guides",
+      "AI development"
+    ],
+    [
+      "thoughtful solutions",
+      "has implications for",
+      "broader implications"
+    ],
+    [
+      "thoughtful solutions",
+      "improves",
+      "hiring processes"
+    ],
+    [
+      "thoughtful solutions",
+      "involves",
+      "ethical considerations"
+    ],
+    [
+      "thoughtful solutions",
+      "promotes",
+      "equity"
+    ],
+    [
+      "thoughtful solutions",
+      "promotes",
+      "responsible AI"
+    ],
+    [
+      "thoughtful solutions",
+      "promotes",
+      "responsible development"
+    ],
+    [
+      "thoughtful solutions",
+      "requires",
+      "job displacement"
+    ],
+    [
+      "thoughtful solutions",
+      "solved by",
+      "fairness"
+    ],
+    [
+      "thoughtful solutions",
+      "solves",
+      "biased algorithms"
+    ],
+    [
+      "transparency issues",
+      "addresses",
+      "addressing bias"
+    ],
+    [
+      "transparency issues",
+      "affects",
+      "equity"
+    ],
+    [
+      "transparency issues",
+      "affects",
+      "impact assessment"
+    ],
+    [
+      "transparency issues",
+      "complicates",
+      "data usage"
+    ],
+    [
+      "transparency issues",
+      "contributes to",
+      "complex challenges"
+    ],
+    [
+      "transparency issues",
+      "guides",
+      "ethical AI practices"
+    ],
+    [
+      "transparency issues",
+      "guides",
+      "regulations"
+    ],
+    [
+      "transparency issues",
+      "is a concern in",
+      "ethical dilemma"
+    ],
+    [
+      "transparency issues",
+      "promotes",
+      "transparency promotion"
+    ],
+    [
+      "transparency issues",
+      "raises concerns about",
+      "technology ethics"
+    ],
+    [
+      "transparency issues",
+      "raises issues of",
+      "data ethics"
+    ],
+    [
+      "transparency issues",
+      "requires",
+      "bias accountability"
+    ],
+    [
+      "transparency promotion",
+      "addresses",
+      "race"
+    ],
+    [
+      "transparency promotion",
+      "enhances",
+      "decision-making accountability"
+    ],
+    [
+      "transparency promotion",
+      "influences",
+      "societal impact"
+    ],
+    [
+      "transparency promotion",
+      "is impacted by",
+      "incomplete data"
+    ],
+    [
+      "transparency promotion",
+      "promotes",
+      "technology ethics"
+    ],
+    [
+      "transparency promotion",
+      "protects",
+      "privacy rights"
+    ],
+    [
+      "transparency promotion",
+      "supports",
+      "AI development"
+    ],
+    [
+      "trust building",
+      "addresses",
+      "bias accountability"
+    ],
+    [
+      "trust building",
+      "enhances",
+      "trust in AI"
+    ],
+    [
+      "trust building",
+      "facilitates",
+      "regulations"
+    ],
+    [
+      "trust building",
+      "is essential for",
+      "facial recognition"
+    ],
+    [
+      "trust building",
+      "is important for",
+      "AI development"
+    ],
+    [
+      "trust building",
+      "is supported by",
+      "privacy concerns"
+    ],
+    [
+      "trust building",
+      "supports",
+      "impact assessment"
+    ],
+    [
+      "trust in AI",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "trust in AI",
+      "builds",
+      "AI systems"
+    ],
+    [
+      "trust in AI",
+      "builds",
+      "decision-making accountability"
+    ],
+    [
+      "trust in AI",
+      "builds",
+      "diversity"
+    ],
+    [
+      "trust in AI",
+      "depends on",
+      "bias"
+    ],
+    [
+      "trust in AI",
+      "enhanced by",
+      "gender"
+    ],
+    [
+      "trust in AI",
+      "enhances",
+      "equity"
+    ],
+    [
+      "trust in AI",
+      "erodes",
+      "inequality"
+    ],
+    [
+      "trust in AI",
+      "erodes",
+      "privacy concerns"
+    ],
+    [
+      "trust in AI",
+      "is affected by",
+      "privacy rights"
+    ],
+    [
+      "trust in AI",
+      "is built on",
+      "ethical AI practices"
+    ],
+    [
+      "trust in AI",
+      "is built on",
+      "hiring processes"
+    ],
+    [
+      "trust in AI",
+      "requires",
+      "impact assessment"
+    ],
+    [
+      "trust in AI",
+      "shapes",
+      "AI development"
+    ],
+    [
+      "trust in AI",
+      "shapes",
+      "technology ethics"
+    ],
+    [
+      "trust in AI",
+      "undermines",
+      "biased algorithms"
+    ]
+  ],
+  "edges": [
+    "achieved through",
+    "addresses",
+    "advocates for",
+    "affected by",
+    "affects",
+    "assesses",
+    "builds",
+    "can lead to",
+    "causes",
+    "challenges",
+    "combated by",
+    "complicates",
+    "concentrates",
+    "contradicts",
+    "contrasts with",
+    "contributes to",
+    "creates",
+    "demands",
+    "depends on",
+    "drives",
+    "encompasses",
+    "enhanced by",
+    "enhances",
+    "ensures",
+    "erodes",
+    "establishes",
+    "evaluates",
+    "exacerbates",
+    "faces",
+    "facilitated by",
+    "facilitates",
+    "guides",
+    "has",
+    "has broader implications for",
+    "has consequences for",
+    "has implications for",
+    "impacted by",
+    "impacts",
+    "improves",
+    "influenced by",
+    "influences",
+    "informed by",
+    "informs",
+    "infringes on",
+    "involves",
+    "is a challenge for",
+    "is a concern for",
+    "is a concern in",
+    "is a consequence of",
+    "is a factor in",
+    "is a result of",
+    "is a type of",
+    "is addressed by",
+    "is affected by",
+    "is an example of",
+    "is built on",
+    "is caused by",
+    "is challenged by",
+    "is characterized by",
+    "is crucial for",
+    "is defined by",
+    "is enhanced by",
+    "is essential for",
+    "is guided by",
+    "is impacted by",
+    "is important for",
+    "is influenced by",
+    "is informed by",
+    "is linked to",
+    "is promoted by",
+    "is protected by",
+    "is raised by",
+    "is regulated by",
+    "is related to",
+    "is supported by",
+    "leads to",
+    "mitigated by",
+    "mitigates",
+    "necessitates",
+    "needs",
+    "presents",
+    "promotes",
+    "protects",
+    "provides",
+    "raises",
+    "raises concerns about",
+    "raises issues of",
+    "regulated by",
+    "related to",
+    "relates to",
+    "represents",
+    "requires",
+    "requires addressing",
+    "result from",
+    "results from",
+    "results in",
+    "shapes",
+    "solved by",
+    "solves",
+    "supported by",
+    "supports",
+    "undermines",
+    "utilized in",
+    "utilizes",
+    "violated by",
+    "violates"
+  ]
+}

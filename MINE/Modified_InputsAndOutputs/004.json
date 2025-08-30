@@ -1,0 +1,4598 @@
+{
+  "entities": [
+    "Brachiosaurus",
+    "Earth's history",
+    "Mesozoic era",
+    "Tyrannosaurus rex",
+    "adaptations",
+    "allure",
+    "ancient Earth",
+    "ancient past",
+    "ancient world",
+    "appeal",
+    "asteroid impact",
+    "behavior",
+    "blockbuster movies",
+    "carnivorous dinosaurs",
+    "catastrophic end",
+    "ceratopsians",
+    "climate change",
+    "creativity",
+    "creatures",
+    "curiosity",
+    "debate",
+    "diet",
+    "dinosaurs",
+    "diversity",
+    "ecosystem",
+    "environmental change",
+    "environmental stewardship",
+    "events",
+    "evolutionary traits",
+    "exploration",
+    "extinction",
+    "extinction theories",
+    "fascination",
+    "forests",
+    "fragility of life",
+    "habitat",
+    "history",
+    "humbling",
+    "imagination",
+    "impact",
+    "insights",
+    "interconnectedness",
+    "intricate frills",
+    "intriguing",
+    "landscapes",
+    "lessons",
+    "living things",
+    "mystery",
+    "natural world",
+    "ocean",
+    "paleontology",
+    "physical features",
+    "popular culture",
+    "power",
+    "prehistoric giants",
+    "presence",
+    "processes",
+    "questions",
+    "razor-sharp teeth",
+    "resilience",
+    "scientific discovery",
+    "scientific inquiry",
+    "significance",
+    "size",
+    "speculation",
+    "study",
+    "survival",
+    "symbols of strength",
+    "understanding",
+    "unique characteristics",
+    "volcanoes",
+    "wonder"
+  ],
+  "relations": [
+    [
+      "Brachiosaurus",
+      "is a large",
+      "dinosaurs"
+    ],
+    [
+      "Earth's history",
+      "influenced by",
+      "impact"
+    ],
+    [
+      "Earth's history",
+      "informs",
+      "interconnectedness"
+    ],
+    [
+      "Earth's history",
+      "informs",
+      "understanding"
+    ],
+    [
+      "Earth's history",
+      "is influenced by",
+      "diet"
+    ],
+    [
+      "Earth's history",
+      "is informed by",
+      "resilience"
+    ],
+    [
+      "Earth's history",
+      "is recorded in",
+      "landscapes"
+    ],
+    [
+      "Earth's history",
+      "is shaped by",
+      "ancient Earth"
+    ],
+    [
+      "Earth's history",
+      "is shaped by",
+      "environmental change"
+    ],
+    [
+      "Earth's history",
+      "is shaped by",
+      "forests"
+    ],
+    [
+      "Earth's history",
+      "occurred during",
+      "Mesozoic era"
+    ],
+    [
+      "Earth's history",
+      "shaped by",
+      "survival"
+    ],
+    [
+      "Earth's history",
+      "shapes",
+      "history"
+    ],
+    [
+      "Earth's history",
+      "shapes",
+      "ocean"
+    ],
+    [
+      "Earth's history",
+      "shapes",
+      "processes"
+    ],
+    [
+      "Mesozoic era",
+      "characterizes",
+      "resilience"
+    ],
+    [
+      "Mesozoic era",
+      "is a period of",
+      "natural world"
+    ],
+    [
+      "Mesozoic era",
+      "is characterized by",
+      "ancient world"
+    ],
+    [
+      "Mesozoic era",
+      "is characterized by",
+      "forests"
+    ],
+    [
+      "Mesozoic era",
+      "occurred during",
+      "asteroid impact"
+    ],
+    [
+      "Mesozoic era",
+      "precedes",
+      "ancient past"
+    ],
+    [
+      "Mesozoic era",
+      "reflects",
+      "fragility of life"
+    ],
+    [
+      "Mesozoic era",
+      "shaped by",
+      "impact"
+    ],
+    [
+      "Mesozoic era",
+      "shaped by",
+      "processes"
+    ],
+    [
+      "Tyrannosaurus rex",
+      "is a large",
+      "dinosaurs"
+    ],
+    [
+      "adaptations",
+      "advances",
+      "paleontology"
+    ],
+    [
+      "adaptations",
+      "contributes to",
+      "survival"
+    ],
+    [
+      "adaptations",
+      "exemplifies",
+      "carnivorous dinosaurs"
+    ],
+    [
+      "adaptations",
+      "exemplifies",
+      "evolutionary traits"
+    ],
+    [
+      "adaptations",
+      "fuels",
+      "debate"
+    ],
+    [
+      "adaptations",
+      "influences",
+      "environmental change"
+    ],
+    [
+      "adaptations",
+      "provides",
+      "insights"
+    ],
+    [
+      "adaptations",
+      "supports",
+      "ecosystem"
+    ],
+    [
+      "adaptations",
+      "supports",
+      "habitat"
+    ],
+    [
+      "allure",
+      "attracts",
+      "ancient world"
+    ],
+    [
+      "allure",
+      "attracts",
+      "dinosaurs"
+    ],
+    [
+      "allure",
+      "contributes to",
+      "forests"
+    ],
+    [
+      "allure",
+      "creates",
+      "size"
+    ],
+    [
+      "allure",
+      "drives",
+      "scientific discovery"
+    ],
+    [
+      "allure",
+      "enhances",
+      "behavior"
+    ],
+    [
+      "allure",
+      "enhances",
+      "humbling"
+    ],
+    [
+      "allure",
+      "enhances",
+      "interconnectedness"
+    ],
+    [
+      "allure",
+      "enhances",
+      "power"
+    ],
+    [
+      "allure",
+      "evokes",
+      "natural world"
+    ],
+    [
+      "allure",
+      "evokes allure for",
+      "living things"
+    ],
+    [
+      "allure",
+      "is enhanced by",
+      "ocean"
+    ],
+    [
+      "allure",
+      "is enhanced by",
+      "presence"
+    ],
+    [
+      "ancient Earth",
+      "affects",
+      "impact"
+    ],
+    [
+      "ancient Earth",
+      "demonstrates",
+      "fragility of life"
+    ],
+    [
+      "ancient Earth",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "ancient Earth",
+      "informs understanding of",
+      "environmental stewardship"
+    ],
+    [
+      "ancient Earth",
+      "is connected to",
+      "interconnectedness"
+    ],
+    [
+      "ancient Earth",
+      "is part of",
+      "ocean"
+    ],
+    [
+      "ancient Earth",
+      "is studied by",
+      "study"
+    ],
+    [
+      "ancient Earth",
+      "nourishes",
+      "forests"
+    ],
+    [
+      "ancient Earth",
+      "shaped by",
+      "habitat"
+    ],
+    [
+      "ancient Earth",
+      "shapes",
+      "natural world"
+    ],
+    [
+      "ancient Earth",
+      "shapes",
+      "processes"
+    ],
+    [
+      "ancient Earth",
+      "shapes",
+      "volcanoes"
+    ],
+    [
+      "ancient Earth",
+      "shapes ecosystem of",
+      "ecosystem"
+    ],
+    [
+      "ancient past",
+      "drives",
+      "environmental change"
+    ],
+    [
+      "ancient past",
+      "evokes",
+      "intriguing"
+    ],
+    [
+      "ancient past",
+      "explains",
+      "extinction theories"
+    ],
+    [
+      "ancient past",
+      "informs",
+      "environmental stewardship"
+    ],
+    [
+      "ancient past",
+      "is shaped by",
+      "volcanoes"
+    ],
+    [
+      "ancient past",
+      "leads to",
+      "catastrophic end"
+    ],
+    [
+      "ancient past",
+      "provides",
+      "insights"
+    ],
+    [
+      "ancient past",
+      "represents",
+      "dinosaurs"
+    ],
+    [
+      "ancient past",
+      "shaped by",
+      "ecosystem"
+    ],
+    [
+      "ancient past",
+      "shaped by",
+      "events"
+    ],
+    [
+      "ancient past",
+      "shapes",
+      "fascination"
+    ],
+    [
+      "ancient past",
+      "shapes",
+      "landscapes"
+    ],
+    [
+      "ancient world",
+      "defines",
+      "Mesozoic era"
+    ],
+    [
+      "ancient world",
+      "demonstrates power of",
+      "power"
+    ],
+    [
+      "ancient world",
+      "explores",
+      "extinction theories"
+    ],
+    [
+      "ancient world",
+      "influences",
+      "popular culture"
+    ],
+    [
+      "ancient world",
+      "provides",
+      "insights"
+    ],
+    [
+      "ancient world",
+      "represents",
+      "survival"
+    ],
+    [
+      "ancient world",
+      "shaped by",
+      "events"
+    ],
+    [
+      "ancient world",
+      "shapes",
+      "ecosystem"
+    ],
+    [
+      "ancient world",
+      "shapes",
+      "history"
+    ],
+    [
+      "ancient world",
+      "shapes",
+      "landscapes"
+    ],
+    [
+      "ancient world",
+      "sparks",
+      "debate"
+    ],
+    [
+      "appeal",
+      "attracts",
+      "adaptations"
+    ],
+    [
+      "appeal",
+      "contributes to",
+      "environmental stewardship"
+    ],
+    [
+      "appeal",
+      "contributes to",
+      "impact"
+    ],
+    [
+      "appeal",
+      "contributes to",
+      "speculation"
+    ],
+    [
+      "appeal",
+      "enhances",
+      "volcanoes"
+    ],
+    [
+      "appeal",
+      "increases",
+      "extinction"
+    ],
+    [
+      "appeal",
+      "is appreciated for",
+      "scientific discovery"
+    ],
+    [
+      "appeal",
+      "is enhanced by",
+      "diversity"
+    ],
+    [
+      "appeal",
+      "is inspired by",
+      "survival"
+    ],
+    [
+      "asteroid impact",
+      "affects",
+      "processes"
+    ],
+    [
+      "asteroid impact",
+      "caused",
+      "catastrophic end"
+    ],
+    [
+      "asteroid impact",
+      "explained by",
+      "Earth's history"
+    ],
+    [
+      "asteroid impact",
+      "explores",
+      "speculation"
+    ],
+    [
+      "asteroid impact",
+      "influences",
+      "behavior"
+    ],
+    [
+      "asteroid impact",
+      "influences",
+      "diet"
+    ],
+    [
+      "asteroid impact",
+      "influences",
+      "insights"
+    ],
+    [
+      "asteroid impact",
+      "is explored through",
+      "scientific inquiry"
+    ],
+    [
+      "asteroid impact",
+      "is influenced by",
+      "climate change"
+    ],
+    [
+      "asteroid impact",
+      "is influenced by",
+      "questions"
+    ],
+    [
+      "asteroid impact",
+      "is informed by",
+      "understanding"
+    ],
+    [
+      "asteroid impact",
+      "leads to scientific discovery of",
+      "scientific discovery"
+    ],
+    [
+      "asteroid impact",
+      "related to",
+      "mystery"
+    ],
+    [
+      "asteroid impact",
+      "sparks",
+      "debate"
+    ],
+    [
+      "asteroid impact",
+      "teaches lessons about",
+      "lessons"
+    ],
+    [
+      "behavior",
+      "affects",
+      "volcanoes"
+    ],
+    [
+      "behavior",
+      "affects behavior of",
+      "fragility of life"
+    ],
+    [
+      "behavior",
+      "describes",
+      "creatures"
+    ],
+    [
+      "behavior",
+      "drives",
+      "curiosity"
+    ],
+    [
+      "behavior",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "behavior",
+      "guides",
+      "scientific inquiry"
+    ],
+    [
+      "behavior",
+      "influences",
+      "diet"
+    ],
+    [
+      "behavior",
+      "influences",
+      "extinction"
+    ],
+    [
+      "behavior",
+      "influences",
+      "insights"
+    ],
+    [
+      "behavior",
+      "informs",
+      "evolutionary traits"
+    ],
+    [
+      "behavior",
+      "informs",
+      "significance"
+    ],
+    [
+      "behavior",
+      "informs",
+      "study"
+    ],
+    [
+      "behavior",
+      "is examined through",
+      "lessons"
+    ],
+    [
+      "behavior",
+      "is investigated through",
+      "exploration"
+    ],
+    [
+      "behavior",
+      "stimulates",
+      "imagination"
+    ],
+    [
+      "blockbuster movies",
+      "enhances",
+      "allure"
+    ],
+    [
+      "blockbuster movies",
+      "featured in",
+      "volcanoes"
+    ],
+    [
+      "blockbuster movies",
+      "features",
+      "creatures"
+    ],
+    [
+      "blockbuster movies",
+      "features",
+      "ecosystem"
+    ],
+    [
+      "blockbuster movies",
+      "inspired by",
+      "ancient past"
+    ],
+    [
+      "blockbuster movies",
+      "inspired by",
+      "environmental change"
+    ],
+    [
+      "blockbuster movies",
+      "inspired by",
+      "extinction"
+    ],
+    [
+      "blockbuster movies",
+      "inspired by",
+      "impact"
+    ],
+    [
+      "blockbuster movies",
+      "inspired by",
+      "power"
+    ],
+    [
+      "blockbuster movies",
+      "inspired by",
+      "survival"
+    ],
+    [
+      "blockbuster movies",
+      "inspires creativity in",
+      "creativity"
+    ],
+    [
+      "blockbuster movies",
+      "is depicted in",
+      "mystery"
+    ],
+    [
+      "blockbuster movies",
+      "is depicted in",
+      "presence"
+    ],
+    [
+      "blockbuster movies",
+      "is influenced by",
+      "curiosity"
+    ],
+    [
+      "blockbuster movies",
+      "represented by",
+      "symbols of strength"
+    ],
+    [
+      "blockbuster movies",
+      "sparks",
+      "debate"
+    ],
+    [
+      "carnivorous dinosaurs",
+      "contributes to appeal of",
+      "appeal"
+    ],
+    [
+      "carnivorous dinosaurs",
+      "exhibits",
+      "evolutionary traits"
+    ],
+    [
+      "carnivorous dinosaurs",
+      "fuels",
+      "debate"
+    ],
+    [
+      "carnivorous dinosaurs",
+      "had",
+      "razor-sharp teeth"
+    ],
+    [
+      "carnivorous dinosaurs",
+      "influenced by",
+      "extinction"
+    ],
+    [
+      "carnivorous dinosaurs",
+      "is characterized by",
+      "diversity"
+    ],
+    [
+      "carnivorous dinosaurs",
+      "is influenced by",
+      "events"
+    ],
+    [
+      "carnivorous dinosaurs",
+      "provides insights into",
+      "insights"
+    ],
+    [
+      "catastrophic end",
+      "depicts",
+      "blockbuster movies"
+    ],
+    [
+      "catastrophic end",
+      "explains",
+      "insights"
+    ],
+    [
+      "catastrophic end",
+      "highlights fragility of",
+      "fragility of life"
+    ],
+    [
+      "catastrophic end",
+      "is related to",
+      "natural world"
+    ],
+    [
+      "catastrophic end",
+      "leads to",
+      "study"
+    ],
+    [
+      "catastrophic end",
+      "marks",
+      "habitat"
+    ],
+    [
+      "catastrophic end",
+      "resulted from",
+      "extinction theories"
+    ],
+    [
+      "catastrophic end",
+      "resulted from",
+      "forests"
+    ],
+    [
+      "catastrophic end",
+      "resulted in",
+      "ecosystem"
+    ],
+    [
+      "catastrophic end",
+      "results in",
+      "ancient Earth"
+    ],
+    [
+      "catastrophic end",
+      "results in",
+      "diet"
+    ],
+    [
+      "catastrophic end",
+      "results in",
+      "resilience"
+    ],
+    [
+      "catastrophic end",
+      "was caused by",
+      "dinosaurs"
+    ],
+    [
+      "ceratopsians",
+      "existed in",
+      "Mesozoic era"
+    ],
+    [
+      "ceratopsians",
+      "had",
+      "intricate frills"
+    ],
+    [
+      "ceratopsians",
+      "informs",
+      "Earth's history"
+    ],
+    [
+      "ceratopsians",
+      "is part of",
+      "ancient Earth"
+    ],
+    [
+      "climate change",
+      "affects",
+      "carnivorous dinosaurs"
+    ],
+    [
+      "climate change",
+      "affects",
+      "dinosaurs"
+    ],
+    [
+      "climate change",
+      "affects",
+      "history"
+    ],
+    [
+      "climate change",
+      "affects",
+      "impact"
+    ],
+    [
+      "climate change",
+      "affects",
+      "natural world"
+    ],
+    [
+      "climate change",
+      "connects",
+      "interconnectedness"
+    ],
+    [
+      "climate change",
+      "contributes to",
+      "ocean"
+    ],
+    [
+      "climate change",
+      "contributes to",
+      "scientific discovery"
+    ],
+    [
+      "climate change",
+      "drives",
+      "events"
+    ],
+    [
+      "climate change",
+      "drives",
+      "scientific inquiry"
+    ],
+    [
+      "climate change",
+      "examined in relation to",
+      "study"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "landscapes"
+    ],
+    [
+      "climate change",
+      "influences",
+      "paleontology"
+    ],
+    [
+      "climate change",
+      "is affected by",
+      "resilience"
+    ],
+    [
+      "climate change",
+      "is impacted by",
+      "ancient Earth"
+    ],
+    [
+      "climate change",
+      "occurred during",
+      "Mesozoic era"
+    ],
+    [
+      "climate change",
+      "provides",
+      "lessons"
+    ],
+    [
+      "climate change",
+      "shapes",
+      "Earth's history"
+    ],
+    [
+      "climate change",
+      "threatens",
+      "fragility of life"
+    ],
+    [
+      "creativity",
+      "enhances",
+      "behavior"
+    ],
+    [
+      "creativity",
+      "enhances creativity in",
+      "living things"
+    ],
+    [
+      "creativity",
+      "fuels",
+      "landscapes"
+    ],
+    [
+      "creativity",
+      "fuels",
+      "wonder"
+    ],
+    [
+      "creativity",
+      "informs scientific discovery of",
+      "scientific discovery"
+    ],
+    [
+      "creativity",
+      "inspired",
+      "physical features"
+    ],
+    [
+      "creativity",
+      "inspired by",
+      "ancient world"
+    ],
+    [
+      "creativity",
+      "inspired by",
+      "forests"
+    ],
+    [
+      "creativity",
+      "inspires",
+      "ancient past"
+    ],
+    [
+      "creativity",
+      "inspires",
+      "creatures"
+    ],
+    [
+      "creativity",
+      "inspires",
+      "dinosaurs"
+    ],
+    [
+      "creativity",
+      "inspires",
+      "symbols of strength"
+    ],
+    [
+      "creativity",
+      "is inspired by",
+      "habitat"
+    ],
+    [
+      "creativity",
+      "is inspired by",
+      "imagination"
+    ],
+    [
+      "creativity",
+      "is inspired by",
+      "presence"
+    ],
+    [
+      "creativity",
+      "provides lessons for",
+      "lessons"
+    ],
+    [
+      "creativity",
+      "stimulates",
+      "power"
+    ],
+    [
+      "creatures",
+      "characteristic of",
+      "ancient world"
+    ],
+    [
+      "creatures",
+      "characteristic of",
+      "size"
+    ],
+    [
+      "creatures",
+      "evokes",
+      "humbling"
+    ],
+    [
+      "creatures",
+      "inhabited by",
+      "landscapes"
+    ],
+    [
+      "creatures",
+      "inspires",
+      "imagination"
+    ],
+    [
+      "creatures",
+      "is represented by",
+      "presence"
+    ],
+    [
+      "creatures",
+      "is represented by",
+      "significance"
+    ],
+    [
+      "creatures",
+      "provides",
+      "habitat"
+    ],
+    [
+      "creatures",
+      "studied by",
+      "scientific inquiry"
+    ],
+    [
+      "curiosity",
+      "contributes to",
+      "scientific discovery"
+    ],
+    [
+      "curiosity",
+      "drives",
+      "appeal"
+    ],
+    [
+      "curiosity",
+      "drives interest in",
+      "dinosaurs"
+    ],
+    [
+      "curiosity",
+      "enhances",
+      "allure"
+    ],
+    [
+      "curiosity",
+      "fuels",
+      "intriguing"
+    ],
+    [
+      "curiosity",
+      "fuels scientific inquiry into",
+      "scientific inquiry"
+    ],
+    [
+      "curiosity",
+      "informs",
+      "lessons"
+    ],
+    [
+      "curiosity",
+      "inspires",
+      "creativity"
+    ],
+    [
+      "curiosity",
+      "inspires",
+      "creatures"
+    ],
+    [
+      "curiosity",
+      "is a humbling experience for",
+      "humbling"
+    ],
+    [
+      "curiosity",
+      "is a response to",
+      "fascination"
+    ],
+    [
+      "curiosity",
+      "is informed by",
+      "insights"
+    ],
+    [
+      "curiosity",
+      "is inspired by",
+      "blockbuster movies"
+    ],
+    [
+      "curiosity",
+      "promotes",
+      "study"
+    ],
+    [
+      "curiosity",
+      "results in",
+      "impact"
+    ],
+    [
+      "curiosity",
+      "sparked by",
+      "extinction"
+    ],
+    [
+      "curiosity",
+      "sparks",
+      "asteroid impact"
+    ],
+    [
+      "curiosity",
+      "sparks",
+      "imagination"
+    ],
+    [
+      "curiosity",
+      "sparks",
+      "power"
+    ],
+    [
+      "curiosity",
+      "sparks",
+      "volcanoes"
+    ],
+    [
+      "curiosity",
+      "stimulates",
+      "ecosystem"
+    ],
+    [
+      "curiosity",
+      "stimulates",
+      "presence"
+    ],
+    [
+      "debate",
+      "centers on",
+      "processes"
+    ],
+    [
+      "debate",
+      "fuels",
+      "diet"
+    ],
+    [
+      "debate",
+      "fuels",
+      "resilience"
+    ],
+    [
+      "debate",
+      "generates",
+      "ancient past"
+    ],
+    [
+      "debate",
+      "is debated in",
+      "Earth's history"
+    ],
+    [
+      "debate",
+      "is debated in",
+      "natural world"
+    ],
+    [
+      "debate",
+      "is discussed in",
+      "insights"
+    ],
+    [
+      "debate",
+      "is influenced by",
+      "appeal"
+    ],
+    [
+      "debate",
+      "is influenced by",
+      "asteroid impact"
+    ],
+    [
+      "debate",
+      "sparks",
+      "ancient Earth"
+    ],
+    [
+      "debate",
+      "sparks",
+      "behavior"
+    ],
+    [
+      "debate",
+      "sparks",
+      "impact"
+    ],
+    [
+      "debate",
+      "stimulates",
+      "volcanoes"
+    ],
+    [
+      "diet",
+      "informs",
+      "exploration"
+    ],
+    [
+      "diet",
+      "informs",
+      "extinction"
+    ],
+    [
+      "diet",
+      "is affected by",
+      "climate change"
+    ],
+    [
+      "diet",
+      "is analyzed by",
+      "study"
+    ],
+    [
+      "diet",
+      "provides",
+      "insights"
+    ],
+    [
+      "diet",
+      "shaped by",
+      "behavior"
+    ],
+    [
+      "dinosaurs",
+      "affects",
+      "impact"
+    ],
+    [
+      "dinosaurs",
+      "appeals to",
+      "appeal"
+    ],
+    [
+      "dinosaurs",
+      "evokes",
+      "humbling"
+    ],
+    [
+      "dinosaurs",
+      "evokes",
+      "wonder"
+    ],
+    [
+      "dinosaurs",
+      "exhibits",
+      "evolutionary traits"
+    ],
+    [
+      "dinosaurs",
+      "existed during",
+      "Mesozoic era"
+    ],
+    [
+      "dinosaurs",
+      "fascinates",
+      "fascination"
+    ],
+    [
+      "dinosaurs",
+      "features",
+      "blockbuster movies"
+    ],
+    [
+      "dinosaurs",
+      "features in",
+      "popular culture"
+    ],
+    [
+      "dinosaurs",
+      "fuels",
+      "debate"
+    ],
+    [
+      "dinosaurs",
+      "habitat for",
+      "forests"
+    ],
+    [
+      "dinosaurs",
+      "includes",
+      "ancient Earth"
+    ],
+    [
+      "dinosaurs",
+      "informs about",
+      "Earth's history"
+    ],
+    [
+      "dinosaurs",
+      "interacts with",
+      "living things"
+    ],
+    [
+      "dinosaurs",
+      "is a type of",
+      "creatures"
+    ],
+    [
+      "dinosaurs",
+      "is challenged by",
+      "natural world"
+    ],
+    [
+      "dinosaurs",
+      "is characterized by",
+      "extinction"
+    ],
+    [
+      "dinosaurs",
+      "is exhibited by",
+      "behavior"
+    ],
+    [
+      "dinosaurs",
+      "is inhabited by",
+      "ocean"
+    ],
+    [
+      "dinosaurs",
+      "is represented by",
+      "presence"
+    ],
+    [
+      "dinosaurs",
+      "is the subject of",
+      "extinction theories"
+    ],
+    [
+      "dinosaurs",
+      "led to",
+      "catastrophic end"
+    ],
+    [
+      "dinosaurs",
+      "provides",
+      "insights"
+    ],
+    [
+      "dinosaurs",
+      "shapes",
+      "processes"
+    ],
+    [
+      "dinosaurs",
+      "studies",
+      "scientific inquiry"
+    ],
+    [
+      "diversity",
+      "contributes to",
+      "ocean"
+    ],
+    [
+      "diversity",
+      "demonstrates",
+      "evolutionary traits"
+    ],
+    [
+      "diversity",
+      "is explored in",
+      "paleontology"
+    ],
+    [
+      "diversity",
+      "is represented by",
+      "prehistoric giants"
+    ],
+    [
+      "diversity",
+      "is represented by",
+      "survival"
+    ],
+    [
+      "ecosystem",
+      "affects",
+      "impact"
+    ],
+    [
+      "ecosystem",
+      "existed during",
+      "Mesozoic era"
+    ],
+    [
+      "ecosystem",
+      "includes",
+      "dinosaurs"
+    ],
+    [
+      "ecosystem",
+      "influences",
+      "diversity"
+    ],
+    [
+      "ecosystem",
+      "influences",
+      "extinction"
+    ],
+    [
+      "ecosystem",
+      "influences",
+      "processes"
+    ],
+    [
+      "ecosystem",
+      "informs",
+      "study"
+    ],
+    [
+      "ecosystem",
+      "informs",
+      "understanding"
+    ],
+    [
+      "ecosystem",
+      "is inspired by",
+      "curiosity"
+    ],
+    [
+      "ecosystem",
+      "part of",
+      "environmental stewardship"
+    ],
+    [
+      "ecosystem",
+      "part of",
+      "volcanoes"
+    ],
+    [
+      "ecosystem",
+      "provides",
+      "lessons"
+    ],
+    [
+      "ecosystem",
+      "shapes",
+      "evolutionary traits"
+    ],
+    [
+      "ecosystem",
+      "shapes Earth's history through",
+      "Earth's history"
+    ],
+    [
+      "ecosystem",
+      "supports",
+      "carnivorous dinosaurs"
+    ],
+    [
+      "environmental change",
+      "affects",
+      "carnivorous dinosaurs"
+    ],
+    [
+      "environmental change",
+      "affects",
+      "diversity"
+    ],
+    [
+      "environmental change",
+      "characterizes",
+      "Mesozoic era"
+    ],
+    [
+      "environmental change",
+      "contributes to",
+      "scientific discovery"
+    ],
+    [
+      "environmental change",
+      "drives",
+      "exploration"
+    ],
+    [
+      "environmental change",
+      "influences",
+      "evolutionary traits"
+    ],
+    [
+      "environmental change",
+      "influences",
+      "forests"
+    ],
+    [
+      "environmental change",
+      "informs",
+      "Earth's history"
+    ],
+    [
+      "environmental change",
+      "informs",
+      "study"
+    ],
+    [
+      "environmental change",
+      "is associated with",
+      "dinosaurs"
+    ],
+    [
+      "environmental change",
+      "is characterized by",
+      "ecosystem"
+    ],
+    [
+      "environmental change",
+      "is linked to",
+      "interconnectedness"
+    ],
+    [
+      "environmental change",
+      "provides",
+      "insights"
+    ],
+    [
+      "environmental change",
+      "resulted from",
+      "ancient Earth"
+    ],
+    [
+      "environmental change",
+      "resulted in",
+      "catastrophic end"
+    ],
+    [
+      "environmental change",
+      "resulted in",
+      "extinction"
+    ],
+    [
+      "environmental change",
+      "shaped by",
+      "understanding"
+    ],
+    [
+      "environmental change",
+      "shapes",
+      "processes"
+    ],
+    [
+      "environmental change",
+      "sparks",
+      "debate"
+    ],
+    [
+      "environmental change",
+      "stimulates",
+      "curiosity"
+    ],
+    [
+      "environmental change",
+      "studied by",
+      "paleontology"
+    ],
+    [
+      "environmental stewardship",
+      "enhances",
+      "diversity"
+    ],
+    [
+      "environmental stewardship",
+      "enhances",
+      "scientific discovery"
+    ],
+    [
+      "environmental stewardship",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "environmental stewardship",
+      "highlights",
+      "interconnectedness"
+    ],
+    [
+      "environmental stewardship",
+      "influences",
+      "behavior"
+    ],
+    [
+      "environmental stewardship",
+      "informs scientific inquiry on",
+      "scientific inquiry"
+    ],
+    [
+      "environmental stewardship",
+      "involves",
+      "study"
+    ],
+    [
+      "environmental stewardship",
+      "involves",
+      "volcanoes"
+    ],
+    [
+      "environmental stewardship",
+      "is impacted by",
+      "asteroid impact"
+    ],
+    [
+      "environmental stewardship",
+      "is important for",
+      "significance"
+    ],
+    [
+      "environmental stewardship",
+      "is related to",
+      "extinction theories"
+    ],
+    [
+      "environmental stewardship",
+      "provides",
+      "insights"
+    ],
+    [
+      "environmental stewardship",
+      "provides",
+      "lessons"
+    ],
+    [
+      "environmental stewardship",
+      "shapes",
+      "processes"
+    ],
+    [
+      "environmental stewardship",
+      "sparks",
+      "curiosity"
+    ],
+    [
+      "environmental stewardship",
+      "was present during",
+      "Mesozoic era"
+    ],
+    [
+      "events",
+      "connects to",
+      "interconnectedness"
+    ],
+    [
+      "events",
+      "contributes to",
+      "appeal"
+    ],
+    [
+      "events",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "events",
+      "explains",
+      "extinction theories"
+    ],
+    [
+      "events",
+      "influences",
+      "processes"
+    ],
+    [
+      "events",
+      "informs",
+      "scientific inquiry"
+    ],
+    [
+      "events",
+      "involves",
+      "diet"
+    ],
+    [
+      "events",
+      "involves",
+      "dinosaurs"
+    ],
+    [
+      "events",
+      "involves",
+      "evolutionary traits"
+    ],
+    [
+      "events",
+      "is influenced by",
+      "natural world"
+    ],
+    [
+      "events",
+      "is linked to",
+      "asteroid impact"
+    ],
+    [
+      "events",
+      "is shaped by",
+      "resilience"
+    ],
+    [
+      "events",
+      "is studied in",
+      "paleontology"
+    ],
+    [
+      "events",
+      "leads to",
+      "study"
+    ],
+    [
+      "events",
+      "provides",
+      "insights"
+    ],
+    [
+      "events",
+      "provoked",
+      "diversity"
+    ],
+    [
+      "events",
+      "provoked",
+      "speculation"
+    ],
+    [
+      "events",
+      "raises questions about",
+      "questions"
+    ],
+    [
+      "events",
+      "shaped",
+      "forests"
+    ],
+    [
+      "events",
+      "shapes",
+      "Earth's history"
+    ],
+    [
+      "events",
+      "shapes",
+      "landscapes"
+    ],
+    [
+      "events",
+      "stimulates",
+      "curiosity"
+    ],
+    [
+      "events",
+      "triggers",
+      "environmental change"
+    ],
+    [
+      "evolutionary traits",
+      "attracts",
+      "appeal"
+    ],
+    [
+      "evolutionary traits",
+      "informs",
+      "history"
+    ],
+    [
+      "evolutionary traits",
+      "inspires",
+      "curiosity"
+    ],
+    [
+      "evolutionary traits",
+      "is derived from",
+      "insights"
+    ],
+    [
+      "evolutionary traits",
+      "is determined by",
+      "survival"
+    ],
+    [
+      "evolutionary traits",
+      "is studied by",
+      "paleontology"
+    ],
+    [
+      "evolutionary traits",
+      "resulted from",
+      "extinction"
+    ],
+    [
+      "exploration",
+      "advances",
+      "paleontology"
+    ],
+    [
+      "exploration",
+      "attracts",
+      "appeal"
+    ],
+    [
+      "exploration",
+      "examines",
+      "extinction theories"
+    ],
+    [
+      "exploration",
+      "facilitates",
+      "study"
+    ],
+    [
+      "exploration",
+      "facilitates",
+      "understanding"
+    ],
+    [
+      "exploration",
+      "influences",
+      "ecosystem"
+    ],
+    [
+      "exploration",
+      "involves",
+      "processes"
+    ],
+    [
+      "exploration",
+      "is explored by",
+      "ocean"
+    ],
+    [
+      "exploration",
+      "is linked to",
+      "asteroid impact"
+    ],
+    [
+      "exploration",
+      "is motivated by",
+      "environmental change"
+    ],
+    [
+      "exploration",
+      "leads to",
+      "diversity"
+    ],
+    [
+      "exploration",
+      "reveals",
+      "evolutionary traits"
+    ],
+    [
+      "exploration",
+      "sparks",
+      "curiosity"
+    ],
+    [
+      "exploration",
+      "yields",
+      "insights"
+    ],
+    [
+      "extinction",
+      "affected by",
+      "landscapes"
+    ],
+    [
+      "extinction",
+      "affects",
+      "fragility of life"
+    ],
+    [
+      "extinction",
+      "caused by",
+      "asteroid impact"
+    ],
+    [
+      "extinction",
+      "contrasts with",
+      "resilience"
+    ],
+    [
+      "extinction",
+      "contributes to",
+      "diversity"
+    ],
+    [
+      "extinction",
+      "drives",
+      "scientific inquiry"
+    ],
+    [
+      "extinction",
+      "explains",
+      "extinction theories"
+    ],
+    [
+      "extinction",
+      "influences",
+      "natural world"
+    ],
+    [
+      "extinction",
+      "informs",
+      "ancient past"
+    ],
+    [
+      "extinction",
+      "informs",
+      "paleontology"
+    ],
+    [
+      "extinction",
+      "informs",
+      "understanding"
+    ],
+    [
+      "extinction",
+      "is a result of",
+      "volcanoes"
+    ],
+    [
+      "extinction",
+      "is influenced by",
+      "environmental stewardship"
+    ],
+    [
+      "extinction",
+      "is subject of",
+      "study"
+    ],
+    [
+      "extinction",
+      "led to",
+      "events"
+    ],
+    [
+      "extinction",
+      "occurred during",
+      "Mesozoic era"
+    ],
+    [
+      "extinction",
+      "offers",
+      "lessons"
+    ],
+    [
+      "extinction",
+      "represents",
+      "catastrophic end"
+    ],
+    [
+      "extinction",
+      "resulted in",
+      "ancient Earth"
+    ],
+    [
+      "extinction",
+      "results in",
+      "survival"
+    ],
+    [
+      "extinction",
+      "sparks",
+      "debate"
+    ],
+    [
+      "extinction theories",
+      "caused",
+      "catastrophic end"
+    ],
+    [
+      "extinction theories",
+      "explain",
+      "survival"
+    ],
+    [
+      "extinction theories",
+      "explains",
+      "ancient Earth"
+    ],
+    [
+      "extinction theories",
+      "explains",
+      "dinosaurs"
+    ],
+    [
+      "extinction theories",
+      "influences",
+      "diet"
+    ],
+    [
+      "extinction theories",
+      "is analyzed in",
+      "processes"
+    ],
+    [
+      "extinction theories",
+      "is analyzed through",
+      "habitat"
+    ],
+    [
+      "extinction theories",
+      "is explained by",
+      "extinction"
+    ],
+    [
+      "extinction theories",
+      "is the basis for",
+      "ancient past"
+    ],
+    [
+      "fascination",
+      "drives",
+      "behavior"
+    ],
+    [
+      "fascination",
+      "drives",
+      "creativity"
+    ],
+    [
+      "fascination",
+      "drives",
+      "living things"
+    ],
+    [
+      "fascination",
+      "drives",
+      "ocean"
+    ],
+    [
+      "fascination",
+      "evokes",
+      "power"
+    ],
+    [
+      "fascination",
+      "evokes",
+      "presence"
+    ],
+    [
+      "fascination",
+      "indicates",
+      "significance"
+    ],
+    [
+      "fascination",
+      "is directed towards",
+      "creatures"
+    ],
+    [
+      "fascination",
+      "is driven by",
+      "habitat"
+    ],
+    [
+      "fascination",
+      "is driven by",
+      "unique characteristics"
+    ],
+    [
+      "fascination",
+      "is influenced by",
+      "blockbuster movies"
+    ],
+    [
+      "fascination",
+      "is influenced by",
+      "popular culture"
+    ],
+    [
+      "forests",
+      "comprises",
+      "landscapes"
+    ],
+    [
+      "forests",
+      "contributes to",
+      "extinction"
+    ],
+    [
+      "forests",
+      "contributes to",
+      "interconnectedness"
+    ],
+    [
+      "forests",
+      "explains",
+      "extinction theories"
+    ],
+    [
+      "forests",
+      "found in",
+      "adaptations"
+    ],
+    [
+      "forests",
+      "is affected by",
+      "climate change"
+    ],
+    [
+      "forests",
+      "is influenced by",
+      "fascination"
+    ],
+    [
+      "forests",
+      "is inspired by",
+      "popular culture"
+    ],
+    [
+      "forests",
+      "is inspired by",
+      "wonder"
+    ],
+    [
+      "forests",
+      "nourished by",
+      "ancient past"
+    ],
+    [
+      "forests",
+      "nurtures",
+      "creatures"
+    ],
+    [
+      "forests",
+      "shapes",
+      "processes"
+    ],
+    [
+      "forests",
+      "supports",
+      "environmental stewardship"
+    ],
+    [
+      "forests",
+      "supports",
+      "habitat"
+    ],
+    [
+      "fragility of life",
+      "affected by",
+      "presence"
+    ],
+    [
+      "fragility of life",
+      "affects",
+      "environmental change"
+    ],
+    [
+      "fragility of life",
+      "affects",
+      "impact"
+    ],
+    [
+      "fragility of life",
+      "exemplifies",
+      "fascination"
+    ],
+    [
+      "fragility of life",
+      "highlights",
+      "ancient past"
+    ],
+    [
+      "fragility of life",
+      "highlights",
+      "blockbuster movies"
+    ],
+    [
+      "fragility of life",
+      "highlights",
+      "creatures"
+    ],
+    [
+      "fragility of life",
+      "highlights",
+      "dinosaurs"
+    ],
+    [
+      "fragility of life",
+      "highlights",
+      "ecosystem"
+    ],
+    [
+      "fragility of life",
+      "highlights",
+      "forests"
+    ],
+    [
+      "fragility of life",
+      "highlights",
+      "popular culture"
+    ],
+    [
+      "fragility of life",
+      "illustrates",
+      "significance"
+    ],
+    [
+      "fragility of life",
+      "influences",
+      "processes"
+    ],
+    [
+      "fragility of life",
+      "is threatened by",
+      "creativity"
+    ],
+    [
+      "fragility of life",
+      "reveals",
+      "landscapes"
+    ],
+    [
+      "fragility of life",
+      "threatens",
+      "Earth's history"
+    ],
+    [
+      "fragility of life",
+      "underscores",
+      "volcanoes"
+    ],
+    [
+      "habitat",
+      "affects",
+      "extinction"
+    ],
+    [
+      "habitat",
+      "demonstrates",
+      "interconnectedness"
+    ],
+    [
+      "habitat",
+      "enhances",
+      "allure"
+    ],
+    [
+      "habitat",
+      "influences",
+      "processes"
+    ],
+    [
+      "habitat",
+      "is depicted in",
+      "blockbuster movies"
+    ],
+    [
+      "habitat",
+      "is home to",
+      "dinosaurs"
+    ],
+    [
+      "habitat",
+      "provides",
+      "ancient past"
+    ],
+    [
+      "habitat",
+      "provides",
+      "insights"
+    ],
+    [
+      "habitat",
+      "provides environment for",
+      "adaptations"
+    ],
+    [
+      "habitat",
+      "shapes",
+      "events"
+    ],
+    [
+      "habitat",
+      "shapes",
+      "landscapes"
+    ],
+    [
+      "habitat",
+      "sparks",
+      "diversity"
+    ],
+    [
+      "habitat",
+      "supports",
+      "natural world"
+    ],
+    [
+      "habitat",
+      "was present in",
+      "Mesozoic era"
+    ],
+    [
+      "history",
+      "connects to",
+      "wonder"
+    ],
+    [
+      "history",
+      "influences",
+      "debate"
+    ],
+    [
+      "history",
+      "influences",
+      "living things"
+    ],
+    [
+      "history",
+      "informs",
+      "ancient past"
+    ],
+    [
+      "history",
+      "informs",
+      "behavior"
+    ],
+    [
+      "history",
+      "informs",
+      "creativity"
+    ],
+    [
+      "history",
+      "informs",
+      "mystery"
+    ],
+    [
+      "history",
+      "informs",
+      "resilience"
+    ],
+    [
+      "history",
+      "is connected to",
+      "allure"
+    ],
+    [
+      "history",
+      "is defined by",
+      "ancient world"
+    ],
+    [
+      "history",
+      "is informed by",
+      "Earth's history"
+    ],
+    [
+      "history",
+      "is informed by",
+      "habitat"
+    ],
+    [
+      "history",
+      "is informed by",
+      "insights"
+    ],
+    [
+      "history",
+      "is part of",
+      "extinction"
+    ],
+    [
+      "history",
+      "is part of",
+      "volcanoes"
+    ],
+    [
+      "history",
+      "is reflected in",
+      "survival"
+    ],
+    [
+      "history",
+      "reflects",
+      "catastrophic end"
+    ],
+    [
+      "history",
+      "reflects",
+      "symbols of strength"
+    ],
+    [
+      "history",
+      "relates to",
+      "humbling"
+    ],
+    [
+      "history",
+      "shaped by",
+      "creatures"
+    ],
+    [
+      "history",
+      "shapes",
+      "imagination"
+    ],
+    [
+      "history",
+      "shapes",
+      "landscapes"
+    ],
+    [
+      "history",
+      "shapes",
+      "ocean"
+    ],
+    [
+      "history",
+      "shapes history of",
+      "forests"
+    ],
+    [
+      "humbling",
+      "elicits",
+      "landscapes"
+    ],
+    [
+      "humbling",
+      "elicits",
+      "unique characteristics"
+    ],
+    [
+      "humbling",
+      "elicits",
+      "wonder"
+    ],
+    [
+      "humbling",
+      "evokes",
+      "behavior"
+    ],
+    [
+      "humbling",
+      "evokes",
+      "forests"
+    ],
+    [
+      "humbling",
+      "evokes",
+      "habitat"
+    ],
+    [
+      "humbling",
+      "evokes",
+      "size"
+    ],
+    [
+      "humbling",
+      "evokes",
+      "speculation"
+    ],
+    [
+      "humbling",
+      "evokes",
+      "volcanoes"
+    ],
+    [
+      "humbling",
+      "is humbling to",
+      "power"
+    ],
+    [
+      "humbling",
+      "is humbling to",
+      "symbols of strength"
+    ],
+    [
+      "humbling",
+      "is represented in",
+      "blockbuster movies"
+    ],
+    [
+      "imagination",
+      "enhances",
+      "interconnectedness"
+    ],
+    [
+      "imagination",
+      "evokes",
+      "humbling"
+    ],
+    [
+      "imagination",
+      "evokes",
+      "landscapes"
+    ],
+    [
+      "imagination",
+      "fuels",
+      "ocean"
+    ],
+    [
+      "imagination",
+      "inspired by",
+      "power"
+    ],
+    [
+      "imagination",
+      "inspires",
+      "dinosaurs"
+    ],
+    [
+      "imagination",
+      "is influenced by",
+      "popular culture"
+    ],
+    [
+      "imagination",
+      "is inspired by",
+      "symbols of strength"
+    ],
+    [
+      "imagination",
+      "is shaped by",
+      "lessons"
+    ],
+    [
+      "imagination",
+      "sparks imagination in",
+      "living things"
+    ],
+    [
+      "imagination",
+      "stimulates",
+      "creativity"
+    ],
+    [
+      "imagination",
+      "stimulates",
+      "scientific inquiry"
+    ],
+    [
+      "imagination",
+      "stimulates",
+      "size"
+    ],
+    [
+      "imagination",
+      "stimulates",
+      "wonder"
+    ],
+    [
+      "impact",
+      "affected by",
+      "landscapes"
+    ],
+    [
+      "impact",
+      "affected by",
+      "presence"
+    ],
+    [
+      "impact",
+      "affects",
+      "volcanoes"
+    ],
+    [
+      "impact",
+      "enhances",
+      "allure"
+    ],
+    [
+      "impact",
+      "influences",
+      "ancient past"
+    ],
+    [
+      "impact",
+      "influences",
+      "environmental change"
+    ],
+    [
+      "impact",
+      "influences",
+      "fascination"
+    ],
+    [
+      "impact",
+      "influences",
+      "insights"
+    ],
+    [
+      "impact",
+      "influences",
+      "speculation"
+    ],
+    [
+      "impact",
+      "influences processes of",
+      "processes"
+    ],
+    [
+      "impact",
+      "is caused by",
+      "extinction"
+    ],
+    [
+      "impact",
+      "is driven by",
+      "curiosity"
+    ],
+    [
+      "impact",
+      "is explained by",
+      "extinction theories"
+    ],
+    [
+      "impact",
+      "is impacted by",
+      "behavior"
+    ],
+    [
+      "impact",
+      "is related to",
+      "interconnectedness"
+    ],
+    [
+      "impact",
+      "leads to",
+      "scientific discovery"
+    ],
+    [
+      "impact",
+      "provides",
+      "lessons"
+    ],
+    [
+      "impact",
+      "results in",
+      "significance"
+    ],
+    [
+      "impact",
+      "stimulates",
+      "creativity"
+    ],
+    [
+      "insights",
+      "contributes to",
+      "scientific inquiry"
+    ],
+    [
+      "insights",
+      "enhances",
+      "appeal"
+    ],
+    [
+      "insights",
+      "is driven by",
+      "curiosity"
+    ],
+    [
+      "insights",
+      "is shaped by",
+      "behavior"
+    ],
+    [
+      "insights",
+      "provides",
+      "Mesozoic era"
+    ],
+    [
+      "insights",
+      "provides",
+      "extinction theories"
+    ],
+    [
+      "insights",
+      "provides",
+      "forests"
+    ],
+    [
+      "insights",
+      "provides",
+      "history"
+    ],
+    [
+      "insights",
+      "provides",
+      "interconnectedness"
+    ],
+    [
+      "insights",
+      "provides",
+      "processes"
+    ],
+    [
+      "insights",
+      "provides",
+      "understanding"
+    ],
+    [
+      "insights",
+      "provides",
+      "volcanoes"
+    ],
+    [
+      "insights",
+      "provides insights into",
+      "climate change"
+    ],
+    [
+      "insights",
+      "reveals",
+      "diversity"
+    ],
+    [
+      "insights",
+      "shapes",
+      "landscapes"
+    ],
+    [
+      "interconnectedness",
+      "connects",
+      "creatures"
+    ],
+    [
+      "interconnectedness",
+      "demonstrates",
+      "volcanoes"
+    ],
+    [
+      "interconnectedness",
+      "enhances",
+      "creativity"
+    ],
+    [
+      "interconnectedness",
+      "explains",
+      "extinction theories"
+    ],
+    [
+      "interconnectedness",
+      "highlights",
+      "humbling"
+    ],
+    [
+      "interconnectedness",
+      "highlights interconnectedness of",
+      "fragility of life"
+    ],
+    [
+      "interconnectedness",
+      "illustrates",
+      "ancient past"
+    ],
+    [
+      "interconnectedness",
+      "illustrates interconnectedness with",
+      "dinosaurs"
+    ],
+    [
+      "interconnectedness",
+      "influences",
+      "living things"
+    ],
+    [
+      "interconnectedness",
+      "influences",
+      "processes"
+    ],
+    [
+      "interconnectedness",
+      "is exemplified by",
+      "power"
+    ],
+    [
+      "interconnectedness",
+      "is related to",
+      "history"
+    ],
+    [
+      "interconnectedness",
+      "sparks",
+      "intriguing"
+    ],
+    [
+      "intriguing",
+      "captures",
+      "popular culture"
+    ],
+    [
+      "intriguing",
+      "evokes",
+      "dinosaurs"
+    ],
+    [
+      "intriguing",
+      "evokes",
+      "physical features"
+    ],
+    [
+      "intriguing",
+      "is driven by",
+      "fascination"
+    ],
+    [
+      "intriguing",
+      "is linked to",
+      "creatures"
+    ],
+    [
+      "intriguing",
+      "is perceived as",
+      "power"
+    ],
+    [
+      "intriguing",
+      "is perceived as",
+      "symbols of strength"
+    ],
+    [
+      "intriguing",
+      "provokes",
+      "living things"
+    ],
+    [
+      "intriguing",
+      "reveals",
+      "history"
+    ],
+    [
+      "intriguing",
+      "sparks",
+      "ocean"
+    ],
+    [
+      "intriguing",
+      "sparks",
+      "scientific inquiry"
+    ],
+    [
+      "landscapes",
+      "characterizes",
+      "Mesozoic era"
+    ],
+    [
+      "landscapes",
+      "features",
+      "prehistoric giants"
+    ],
+    [
+      "landscapes",
+      "influences",
+      "interconnectedness"
+    ],
+    [
+      "landscapes",
+      "influences",
+      "processes"
+    ],
+    [
+      "landscapes",
+      "influences",
+      "survival"
+    ],
+    [
+      "landscapes",
+      "informs",
+      "environmental stewardship"
+    ],
+    [
+      "landscapes",
+      "inhabited by",
+      "dinosaurs"
+    ],
+    [
+      "landscapes",
+      "is influenced by",
+      "ancient past"
+    ],
+    [
+      "landscapes",
+      "shaped by",
+      "environmental change"
+    ],
+    [
+      "landscapes",
+      "shapes",
+      "ancient Earth"
+    ],
+    [
+      "landscapes",
+      "shapes",
+      "ecosystem"
+    ],
+    [
+      "landscapes",
+      "shapes",
+      "fascination"
+    ],
+    [
+      "landscapes",
+      "shapes",
+      "wonder"
+    ],
+    [
+      "lessons",
+      "contributes to",
+      "allure"
+    ],
+    [
+      "lessons",
+      "highlights",
+      "fragility of life"
+    ],
+    [
+      "lessons",
+      "informs",
+      "creatures"
+    ],
+    [
+      "lessons",
+      "informs",
+      "evolutionary traits"
+    ],
+    [
+      "lessons",
+      "informs",
+      "scientific discovery"
+    ],
+    [
+      "lessons",
+      "is informed by",
+      "ecosystem"
+    ],
+    [
+      "lessons",
+      "is informed by",
+      "impact"
+    ],
+    [
+      "lessons",
+      "is informed by",
+      "understanding"
+    ],
+    [
+      "lessons",
+      "teaches",
+      "dinosaurs"
+    ],
+    [
+      "lessons",
+      "teaches",
+      "humbling"
+    ],
+    [
+      "living things",
+      "affects",
+      "blockbuster movies"
+    ],
+    [
+      "living things",
+      "comprises",
+      "natural world"
+    ],
+    [
+      "living things",
+      "concerns",
+      "mystery"
+    ],
+    [
+      "living things",
+      "exhibits behavior of",
+      "behavior"
+    ],
+    [
+      "living things",
+      "illustrates",
+      "fragility of life"
+    ],
+    [
+      "living things",
+      "informs",
+      "scientific inquiry"
+    ],
+    [
+      "living things",
+      "interconnected with",
+      "ancient world"
+    ],
+    [
+      "living things",
+      "is addressed by",
+      "questions"
+    ],
+    [
+      "living things",
+      "is affected by",
+      "interconnectedness"
+    ],
+    [
+      "living things",
+      "is derived from",
+      "lessons"
+    ],
+    [
+      "living things",
+      "is represented in",
+      "popular culture"
+    ],
+    [
+      "living things",
+      "is studied by",
+      "scientific discovery"
+    ],
+    [
+      "living things",
+      "supports",
+      "habitat"
+    ],
+    [
+      "mystery",
+      "adds to",
+      "fascination"
+    ],
+    [
+      "mystery",
+      "highlights",
+      "resilience"
+    ],
+    [
+      "mystery",
+      "informs",
+      "popular culture"
+    ],
+    [
+      "mystery",
+      "involves",
+      "creatures"
+    ],
+    [
+      "mystery",
+      "is a part of",
+      "ancient Earth"
+    ],
+    [
+      "mystery",
+      "is captivating",
+      "intriguing"
+    ],
+    [
+      "mystery",
+      "is related to",
+      "catastrophic end"
+    ],
+    [
+      "mystery",
+      "raises",
+      "fragility of life"
+    ],
+    [
+      "mystery",
+      "raises",
+      "power"
+    ],
+    [
+      "mystery",
+      "raises mystery about",
+      "behavior"
+    ],
+    [
+      "mystery",
+      "raises questions about",
+      "diet"
+    ],
+    [
+      "mystery",
+      "raises questions about",
+      "symbols of strength"
+    ],
+    [
+      "mystery",
+      "related to",
+      "volcanoes"
+    ],
+    [
+      "natural world",
+      "affects",
+      "ocean"
+    ],
+    [
+      "natural world",
+      "challenges",
+      "power"
+    ],
+    [
+      "natural world",
+      "challenges",
+      "survival"
+    ],
+    [
+      "natural world",
+      "comprises",
+      "ecosystem"
+    ],
+    [
+      "natural world",
+      "defines",
+      "Mesozoic era"
+    ],
+    [
+      "natural world",
+      "explains",
+      "extinction theories"
+    ],
+    [
+      "natural world",
+      "fascinates",
+      "fascination"
+    ],
+    [
+      "natural world",
+      "includes",
+      "creatures"
+    ],
+    [
+      "natural world",
+      "influenced by",
+      "environmental change"
+    ],
+    [
+      "natural world",
+      "influences",
+      "diversity"
+    ],
+    [
+      "natural world",
+      "is illustrated by",
+      "interconnectedness"
+    ],
+    [
+      "natural world",
+      "is influenced by",
+      "resilience"
+    ],
+    [
+      "natural world",
+      "is part of",
+      "forests"
+    ],
+    [
+      "natural world",
+      "provides insights into",
+      "insights"
+    ],
+    [
+      "natural world",
+      "shapes",
+      "Earth's history"
+    ],
+    [
+      "natural world",
+      "shapes",
+      "ancient past"
+    ],
+    [
+      "natural world",
+      "shapes",
+      "processes"
+    ],
+    [
+      "natural world",
+      "symbolizes",
+      "symbols of strength"
+    ],
+    [
+      "ocean",
+      "affected by",
+      "environmental change"
+    ],
+    [
+      "ocean",
+      "contributes to",
+      "allure"
+    ],
+    [
+      "ocean",
+      "fuels",
+      "debate"
+    ],
+    [
+      "ocean",
+      "includes",
+      "prehistoric giants"
+    ],
+    [
+      "ocean",
+      "influences",
+      "ancient past"
+    ],
+    [
+      "ocean",
+      "is connected to",
+      "interconnectedness"
+    ],
+    [
+      "ocean",
+      "is explored by",
+      "ancient world"
+    ],
+    [
+      "ocean",
+      "is influenced by",
+      "environmental stewardship"
+    ],
+    [
+      "ocean",
+      "is part of",
+      "habitat"
+    ],
+    [
+      "ocean",
+      "supports",
+      "survival"
+    ],
+    [
+      "paleontology",
+      "examines",
+      "extinction theories"
+    ],
+    [
+      "paleontology",
+      "informs",
+      "survival"
+    ],
+    [
+      "paleontology",
+      "involves",
+      "processes"
+    ],
+    [
+      "paleontology",
+      "is studied by",
+      "understanding"
+    ],
+    [
+      "paleontology",
+      "reveals",
+      "evolutionary traits"
+    ],
+    [
+      "paleontology",
+      "studied by",
+      "ecosystem"
+    ],
+    [
+      "paleontology",
+      "studies",
+      "ceratopsians"
+    ],
+    [
+      "physical features",
+      "attracts",
+      "allure"
+    ],
+    [
+      "physical features",
+      "describes",
+      "presence"
+    ],
+    [
+      "physical features",
+      "describes",
+      "unique characteristics"
+    ],
+    [
+      "physical features",
+      "evokes",
+      "humbling"
+    ],
+    [
+      "physical features",
+      "influenced",
+      "living things"
+    ],
+    [
+      "physical features",
+      "shapes",
+      "popular culture"
+    ],
+    [
+      "physical features",
+      "sparks",
+      "imagination"
+    ],
+    [
+      "popular culture",
+      "features",
+      "creatures"
+    ],
+    [
+      "popular culture",
+      "fuels",
+      "imagination"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "blockbuster movies"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "habitat"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "impact"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "size"
+    ],
+    [
+      "popular culture",
+      "is a symbol of",
+      "resilience"
+    ],
+    [
+      "popular culture",
+      "is enhanced by",
+      "allure"
+    ],
+    [
+      "popular culture",
+      "shapes",
+      "volcanoes"
+    ],
+    [
+      "popular culture",
+      "stimulates",
+      "curiosity"
+    ],
+    [
+      "popular culture",
+      "teaches",
+      "lessons"
+    ],
+    [
+      "power",
+      "drives",
+      "scientific discovery"
+    ],
+    [
+      "power",
+      "drives",
+      "scientific inquiry"
+    ],
+    [
+      "power",
+      "evokes",
+      "ancient past"
+    ],
+    [
+      "power",
+      "exemplifies",
+      "dinosaurs"
+    ],
+    [
+      "power",
+      "exhibits",
+      "physical features"
+    ],
+    [
+      "power",
+      "exhibits",
+      "unique characteristics"
+    ],
+    [
+      "power",
+      "influences",
+      "volcanoes"
+    ],
+    [
+      "power",
+      "is a form of",
+      "size"
+    ],
+    [
+      "power",
+      "is reflected in",
+      "presence"
+    ],
+    [
+      "power",
+      "represents",
+      "symbols of strength"
+    ],
+    [
+      "prehistoric giants",
+      "includes",
+      "ancient world"
+    ],
+    [
+      "prehistoric giants",
+      "influences",
+      "adaptations"
+    ],
+    [
+      "prehistoric giants",
+      "inhabited by",
+      "habitat"
+    ],
+    [
+      "prehistoric giants",
+      "is characterized by",
+      "diversity"
+    ],
+    [
+      "prehistoric giants",
+      "is represented in",
+      "landscapes"
+    ],
+    [
+      "presence",
+      "influences",
+      "popular culture"
+    ],
+    [
+      "presence",
+      "informs",
+      "behavior"
+    ],
+    [
+      "presence",
+      "is associated with",
+      "habitat"
+    ],
+    [
+      "presence",
+      "is exemplified by",
+      "significance"
+    ],
+    [
+      "presence",
+      "is influenced by",
+      "speculation"
+    ],
+    [
+      "presence",
+      "is part of",
+      "ocean"
+    ],
+    [
+      "presence",
+      "is represented by",
+      "blockbuster movies"
+    ],
+    [
+      "processes",
+      "examines",
+      "study"
+    ],
+    [
+      "processes",
+      "explains",
+      "catastrophic end"
+    ],
+    [
+      "processes",
+      "informs",
+      "diet"
+    ],
+    [
+      "processes",
+      "shaped by",
+      "history"
+    ],
+    [
+      "questions",
+      "drives",
+      "exploration"
+    ],
+    [
+      "questions",
+      "drives",
+      "scientific inquiry"
+    ],
+    [
+      "questions",
+      "generates",
+      "insights"
+    ],
+    [
+      "questions",
+      "informs",
+      "diet"
+    ],
+    [
+      "questions",
+      "is reflected in",
+      "resilience"
+    ],
+    [
+      "questions",
+      "leads to",
+      "scientific discovery"
+    ],
+    [
+      "questions",
+      "offers insights into",
+      "lessons"
+    ],
+    [
+      "questions",
+      "raises",
+      "allure"
+    ],
+    [
+      "questions",
+      "raises",
+      "behavior"
+    ],
+    [
+      "questions",
+      "raises",
+      "climate change"
+    ],
+    [
+      "questions",
+      "raises",
+      "dinosaurs"
+    ],
+    [
+      "questions",
+      "raises",
+      "living things"
+    ],
+    [
+      "questions",
+      "sparks",
+      "fascination"
+    ],
+    [
+      "questions",
+      "sparks",
+      "imagination"
+    ],
+    [
+      "questions",
+      "symbolizes",
+      "symbols of strength"
+    ],
+    [
+      "resilience",
+      "contributes to",
+      "appeal"
+    ],
+    [
+      "resilience",
+      "demonstrates",
+      "evolutionary traits"
+    ],
+    [
+      "resilience",
+      "demonstrates",
+      "ocean"
+    ],
+    [
+      "resilience",
+      "embodies",
+      "living things"
+    ],
+    [
+      "resilience",
+      "embodies",
+      "power"
+    ],
+    [
+      "resilience",
+      "embodies",
+      "symbols of strength"
+    ],
+    [
+      "resilience",
+      "highlights",
+      "fragility of life"
+    ],
+    [
+      "resilience",
+      "illustrates",
+      "impact"
+    ],
+    [
+      "resilience",
+      "influences",
+      "wonder"
+    ],
+    [
+      "resilience",
+      "informs",
+      "processes"
+    ],
+    [
+      "resilience",
+      "inspired",
+      "creativity"
+    ],
+    [
+      "resilience",
+      "inspires",
+      "fascination"
+    ],
+    [
+      "resilience",
+      "is associated with",
+      "intriguing"
+    ],
+    [
+      "resilience",
+      "is exemplified by",
+      "dinosaurs"
+    ],
+    [
+      "resilience",
+      "is influenced by",
+      "environmental change"
+    ],
+    [
+      "resilience",
+      "is related to",
+      "interconnectedness"
+    ],
+    [
+      "resilience",
+      "is supported by",
+      "ancient Earth"
+    ],
+    [
+      "resilience",
+      "stimulates",
+      "imagination"
+    ],
+    [
+      "scientific discovery",
+      "advances",
+      "extinction"
+    ],
+    [
+      "scientific discovery",
+      "contributes to",
+      "history"
+    ],
+    [
+      "scientific discovery",
+      "contributes to",
+      "popular culture"
+    ],
+    [
+      "scientific discovery",
+      "fuels debate on",
+      "debate"
+    ],
+    [
+      "scientific discovery",
+      "highlights fragility of",
+      "fragility of life"
+    ],
+    [
+      "scientific discovery",
+      "is a result of",
+      "impact"
+    ],
+    [
+      "scientific discovery",
+      "is driven by",
+      "environmental change"
+    ],
+    [
+      "scientific discovery",
+      "is enhanced by",
+      "understanding"
+    ],
+    [
+      "scientific discovery",
+      "leads to",
+      "humbling"
+    ],
+    [
+      "scientific inquiry",
+      "driven by",
+      "speculation"
+    ],
+    [
+      "scientific inquiry",
+      "drives",
+      "mystery"
+    ],
+    [
+      "scientific inquiry",
+      "enhances",
+      "appeal"
+    ],
+    [
+      "scientific inquiry",
+      "highlights",
+      "fragility of life"
+    ],
+    [
+      "scientific inquiry",
+      "informs",
+      "evolutionary traits"
+    ],
+    [
+      "scientific inquiry",
+      "inspires",
+      "creativity"
+    ],
+    [
+      "scientific inquiry",
+      "is influenced by",
+      "impact"
+    ],
+    [
+      "scientific inquiry",
+      "is supported by",
+      "study"
+    ],
+    [
+      "significance",
+      "contributes to",
+      "scientific inquiry"
+    ],
+    [
+      "significance",
+      "explains significance of",
+      "asteroid impact"
+    ],
+    [
+      "significance",
+      "indicates",
+      "environmental change"
+    ],
+    [
+      "significance",
+      "inspires",
+      "creativity"
+    ],
+    [
+      "significance",
+      "is",
+      "intriguing"
+    ],
+    [
+      "significance",
+      "shapes",
+      "history"
+    ],
+    [
+      "significance",
+      "shapes",
+      "study"
+    ],
+    [
+      "significance",
+      "sparks",
+      "curiosity"
+    ],
+    [
+      "size",
+      "provokes",
+      "intriguing"
+    ],
+    [
+      "size",
+      "represents",
+      "prehistoric giants"
+    ],
+    [
+      "speculation",
+      "affects",
+      "significance"
+    ],
+    [
+      "speculation",
+      "drives",
+      "behavior"
+    ],
+    [
+      "speculation",
+      "drives",
+      "evolutionary traits"
+    ],
+    [
+      "speculation",
+      "enhances",
+      "environmental stewardship"
+    ],
+    [
+      "speculation",
+      "enhances understanding of",
+      "understanding"
+    ],
+    [
+      "speculation",
+      "fuels",
+      "allure"
+    ],
+    [
+      "speculation",
+      "fuels",
+      "imagination"
+    ],
+    [
+      "speculation",
+      "fuels speculation on",
+      "environmental change"
+    ],
+    [
+      "speculation",
+      "influences",
+      "popular culture"
+    ],
+    [
+      "speculation",
+      "informs",
+      "scientific inquiry"
+    ],
+    [
+      "speculation",
+      "is focused on",
+      "dinosaurs"
+    ],
+    [
+      "speculation",
+      "leads to",
+      "creatures"
+    ],
+    [
+      "speculation",
+      "provides",
+      "insights"
+    ],
+    [
+      "speculation",
+      "provokes",
+      "debate"
+    ],
+    [
+      "speculation",
+      "raises",
+      "survival"
+    ],
+    [
+      "speculation",
+      "raises speculation about",
+      "fragility of life"
+    ],
+    [
+      "speculation",
+      "represents",
+      "symbols of strength"
+    ],
+    [
+      "speculation",
+      "stimulates",
+      "exploration"
+    ],
+    [
+      "study",
+      "drives",
+      "scientific inquiry"
+    ],
+    [
+      "study",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "study",
+      "fuels",
+      "debate"
+    ],
+    [
+      "study",
+      "informs",
+      "Mesozoic era"
+    ],
+    [
+      "study",
+      "informs",
+      "insights"
+    ],
+    [
+      "study",
+      "is a field of",
+      "paleontology"
+    ],
+    [
+      "study",
+      "is driven by",
+      "curiosity"
+    ],
+    [
+      "study",
+      "is enhanced by",
+      "exploration"
+    ],
+    [
+      "study",
+      "leads to",
+      "mystery"
+    ],
+    [
+      "study",
+      "provides insights into",
+      "Earth's history"
+    ],
+    [
+      "study",
+      "study of",
+      "asteroid impact"
+    ],
+    [
+      "survival",
+      "affects",
+      "diet"
+    ],
+    [
+      "survival",
+      "contributes to",
+      "appeal"
+    ],
+    [
+      "survival",
+      "contributes to",
+      "habitat"
+    ],
+    [
+      "survival",
+      "drives",
+      "exploration"
+    ],
+    [
+      "survival",
+      "enhanced",
+      "study"
+    ],
+    [
+      "survival",
+      "highlights",
+      "fragility of life"
+    ],
+    [
+      "survival",
+      "impacts",
+      "impact"
+    ],
+    [
+      "survival",
+      "influences",
+      "behavior"
+    ],
+    [
+      "survival",
+      "influences",
+      "evolutionary traits"
+    ],
+    [
+      "survival",
+      "influences",
+      "volcanoes"
+    ],
+    [
+      "survival",
+      "inspired",
+      "dinosaurs"
+    ],
+    [
+      "survival",
+      "is a form of",
+      "resilience"
+    ],
+    [
+      "survival",
+      "is affected by",
+      "environmental change"
+    ],
+    [
+      "survival",
+      "is influenced by",
+      "climate change"
+    ],
+    [
+      "survival",
+      "is linked to",
+      "scientific inquiry"
+    ],
+    [
+      "survival",
+      "is part of",
+      "ancient Earth"
+    ],
+    [
+      "survival",
+      "is related to",
+      "interconnectedness"
+    ],
+    [
+      "survival",
+      "sparks",
+      "debate"
+    ],
+    [
+      "survival",
+      "teaches",
+      "lessons"
+    ],
+    [
+      "symbols of strength",
+      "contrasts with",
+      "fragility of life"
+    ],
+    [
+      "symbols of strength",
+      "contributes to",
+      "scientific discovery"
+    ],
+    [
+      "symbols of strength",
+      "evokes",
+      "curiosity"
+    ],
+    [
+      "symbols of strength",
+      "has an impact on",
+      "impact"
+    ],
+    [
+      "symbols of strength",
+      "is depicted in",
+      "presence"
+    ],
+    [
+      "symbols of strength",
+      "is influenced by",
+      "fascination"
+    ],
+    [
+      "symbols of strength",
+      "is represented by",
+      "physical features"
+    ],
+    [
+      "symbols of strength",
+      "is represented by",
+      "wonder"
+    ],
+    [
+      "symbols of strength",
+      "represents",
+      "allure"
+    ],
+    [
+      "symbols of strength",
+      "represents",
+      "ancient world"
+    ],
+    [
+      "symbols of strength",
+      "represents",
+      "dinosaurs"
+    ],
+    [
+      "symbols of strength",
+      "represents",
+      "unique characteristics"
+    ],
+    [
+      "symbols of strength",
+      "symbolizes",
+      "behavior"
+    ],
+    [
+      "symbols of strength",
+      "symbolizes",
+      "size"
+    ],
+    [
+      "symbols of strength",
+      "teaches",
+      "lessons"
+    ],
+    [
+      "understanding",
+      "affects",
+      "climate change"
+    ],
+    [
+      "understanding",
+      "enhances",
+      "Mesozoic era"
+    ],
+    [
+      "understanding",
+      "enhances",
+      "survival"
+    ],
+    [
+      "understanding",
+      "informs",
+      "extinction theories"
+    ],
+    [
+      "understanding",
+      "is understood through",
+      "significance"
+    ],
+    [
+      "understanding",
+      "stimulates",
+      "curiosity"
+    ],
+    [
+      "understanding",
+      "surrounds",
+      "mystery"
+    ],
+    [
+      "unique characteristics",
+      "creates",
+      "allure"
+    ],
+    [
+      "unique characteristics",
+      "describes",
+      "creatures"
+    ],
+    [
+      "unique characteristics",
+      "influences",
+      "living things"
+    ],
+    [
+      "unique characteristics",
+      "influences",
+      "popular culture"
+    ],
+    [
+      "unique characteristics",
+      "inspires",
+      "creativity"
+    ],
+    [
+      "unique characteristics",
+      "is exemplified by",
+      "prehistoric giants"
+    ],
+    [
+      "unique characteristics",
+      "provokes",
+      "intriguing"
+    ],
+    [
+      "unique characteristics",
+      "sparks imagination in",
+      "imagination"
+    ],
+    [
+      "volcanoes",
+      "characterizes",
+      "Mesozoic era"
+    ],
+    [
+      "volcanoes",
+      "contributes to",
+      "catastrophic end"
+    ],
+    [
+      "volcanoes",
+      "drives",
+      "scientific inquiry"
+    ],
+    [
+      "volcanoes",
+      "exhibits",
+      "evolutionary traits"
+    ],
+    [
+      "volcanoes",
+      "influences",
+      "ancient past"
+    ],
+    [
+      "volcanoes",
+      "influences",
+      "environmental change"
+    ],
+    [
+      "volcanoes",
+      "inhabited",
+      "dinosaurs"
+    ],
+    [
+      "volcanoes",
+      "leads to",
+      "extinction"
+    ],
+    [
+      "volcanoes",
+      "leads to",
+      "scientific discovery"
+    ],
+    [
+      "volcanoes",
+      "shapes",
+      "ancient world"
+    ],
+    [
+      "volcanoes",
+      "shapes",
+      "landscapes"
+    ],
+    [
+      "volcanoes",
+      "supports",
+      "living things"
+    ],
+    [
+      "volcanoes",
+      "teaches",
+      "lessons"
+    ],
+    [
+      "wonder",
+      "contributes to",
+      "allure"
+    ],
+    [
+      "wonder",
+      "evokes",
+      "ancient past"
+    ],
+    [
+      "wonder",
+      "evokes",
+      "creatures"
+    ],
+    [
+      "wonder",
+      "evokes",
+      "ocean"
+    ],
+    [
+      "wonder",
+      "evokes",
+      "presence"
+    ],
+    [
+      "wonder",
+      "induces",
+      "fascination"
+    ],
+    [
+      "wonder",
+      "influences",
+      "behavior"
+    ],
+    [
+      "wonder",
+      "is influenced by",
+      "popular culture"
+    ],
+    [
+      "wonder",
+      "is inspired by",
+      "power"
+    ],
+    [
+      "wonder",
+      "is represented in",
+      "blockbuster movies"
+    ],
+    [
+      "wonder",
+      "sparks",
+      "curiosity"
+    ]
+  ],
+  "edges": [
+    "adds to",
+    "advances",
+    "affected by",
+    "affects",
+    "affects behavior of",
+    "appeals to",
+    "attracts",
+    "captures",
+    "caused",
+    "caused by",
+    "centers on",
+    "challenges",
+    "characteristic of",
+    "characterizes",
+    "comprises",
+    "concerns",
+    "connects",
+    "connects to",
+    "contrasts with",
+    "contributes to",
+    "contributes to appeal of",
+    "creates",
+    "defines",
+    "demonstrates",
+    "demonstrates power of",
+    "depicts",
+    "describes",
+    "driven by",
+    "drives",
+    "drives interest in",
+    "elicits",
+    "embodies",
+    "enhanced",
+    "enhances",
+    "enhances creativity in",
+    "enhances understanding of",
+    "evokes",
+    "evokes allure for",
+    "examined in relation to",
+    "examines",
+    "exemplifies",
+    "exhibits",
+    "exhibits behavior of",
+    "existed during",
+    "existed in",
+    "explain",
+    "explained by",
+    "explains",
+    "explains significance of",
+    "explores",
+    "facilitates",
+    "fascinates",
+    "featured in",
+    "features",
+    "features in",
+    "found in",
+    "fuels",
+    "fuels debate on",
+    "fuels scientific inquiry into",
+    "fuels speculation on",
+    "generates",
+    "guides",
+    "habitat for",
+    "had",
+    "has an impact on",
+    "highlights",
+    "highlights fragility of",
+    "highlights interconnectedness of",
+    "illustrates",
+    "illustrates interconnectedness with",
+    "impacts",
+    "includes",
+    "increases",
+    "indicates",
+    "induces",
+    "influenced",
+    "influenced by",
+    "influences",
+    "influences processes of",
+    "informs",
+    "informs about",
+    "informs scientific discovery of",
+    "informs scientific inquiry on",
+    "informs understanding of",
+    "inhabited",
+    "inhabited by",
+    "inspired",
+    "inspired by",
+    "inspires",
+    "inspires creativity in",
+    "interacts with",
+    "interconnected with",
+    "involves",
+    "is",
+    "is a field of",
+    "is a form of",
+    "is a humbling experience for",
+    "is a large",
+    "is a part of",
+    "is a period of",
+    "is a response to",
+    "is a result of",
+    "is a symbol of",
+    "is a type of",
+    "is addressed by",
+    "is affected by",
+    "is analyzed by",
+    "is analyzed in",
+    "is analyzed through",
+    "is appreciated for",
+    "is associated with",
+    "is captivating",
+    "is caused by",
+    "is challenged by",
+    "is characterized by",
+    "is connected to",
+    "is debated in",
+    "is defined by",
+    "is depicted in",
+    "is derived from",
+    "is determined by",
+    "is directed towards",
+    "is discussed in",
+    "is driven by",
+    "is enhanced by",
+    "is examined through",
+    "is exemplified by",
+    "is exhibited by",
+    "is explained by",
+    "is explored by",
+    "is explored in",
+    "is explored through",
+    "is focused on",
+    "is home to",
+    "is humbling to",
+    "is illustrated by",
+    "is impacted by",
+    "is important for",
+    "is influenced by",
+    "is informed by",
+    "is inhabited by",
+    "is inspired by",
+    "is investigated through",
+    "is linked to",
+    "is motivated by",
+    "is part of",
+    "is perceived as",
+    "is recorded in",
+    "is reflected in",
+    "is related to",
+    "is represented by",
+    "is represented in",
+    "is shaped by",
+    "is studied by",
+    "is studied in",
+    "is subject of",
+    "is supported by",
+    "is the basis for",
+    "is the subject of",
+    "is threatened by",
+    "is understood through",
+    "leads to",
+    "leads to scientific discovery of",
+    "led to",
+    "marks",
+    "nourished by",
+    "nourishes",
+    "nurtures",
+    "occurred during",
+    "offers",
+    "offers insights into",
+    "part of",
+    "precedes",
+    "promotes",
+    "provides",
+    "provides environment for",
+    "provides insights into",
+    "provides lessons for",
+    "provoked",
+    "provokes",
+    "raises",
+    "raises mystery about",
+    "raises questions about",
+    "raises speculation about",
+    "reflects",
+    "related to",
+    "relates to",
+    "represented by",
+    "represents",
+    "resulted from",
+    "resulted in",
+    "results in",
+    "reveals",
+    "shaped",
+    "shaped by",
+    "shapes",
+    "shapes Earth's history through",
+    "shapes ecosystem of",
+    "shapes history of",
+    "sparked by",
+    "sparks",
+    "sparks imagination in",
+    "stimulates",
+    "studied by",
+    "studies",
+    "study of",
+    "supports",
+    "surrounds",
+    "symbolizes",
+    "teaches",
+    "teaches lessons about",
+    "threatens",
+    "triggers",
+    "underscores",
+    "was caused by",
+    "was present during",
+    "was present in",
+    "yields"
+  ]
+}

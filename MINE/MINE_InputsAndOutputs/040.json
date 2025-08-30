@@ -1,0 +1,6842 @@
+{
+  "entities": [
+    "Maillard reaction",
+    "airy texture",
+    "alcohol",
+    "appreciation of skill",
+    "artisanal breads",
+    "baking fundamentals",
+    "baking outcomes",
+    "baking process",
+    "baking science",
+    "baking techniques",
+    "bread",
+    "bread shaping",
+    "browning",
+    "byproduct",
+    "carbon dioxide",
+    "centuries of tradition",
+    "characteristic taste",
+    "chemical interactions",
+    "chemical processes",
+    "chemical reactions",
+    "chewy texture",
+    "complex flavor",
+    "complex flavors",
+    "complex process",
+    "complex product",
+    "crumb structure",
+    "crust formation",
+    "culinary art",
+    "culinary techniques",
+    "developed flavor",
+    "dough",
+    "dough handling",
+    "dough shaping",
+    "elasticity",
+    "fermentation",
+    "fermentation importance",
+    "fermentation process",
+    "firm crust",
+    "flavor",
+    "flavor compounds",
+    "flavor development",
+    "flour",
+    "full flavor potential",
+    "gas",
+    "gelatinize",
+    "gluten",
+    "gluten structure",
+    "heat",
+    "heat activation",
+    "high temperatures",
+    "humidity",
+    "ingredient interaction",
+    "kneading",
+    "longer fermentation",
+    "network formation",
+    "proper rising",
+    "proteins",
+    "rise",
+    "skill appreciation",
+    "staple food",
+    "starches",
+    "sugars",
+    "temperature",
+    "texture",
+    "traditional methods",
+    "worldwide enjoyment",
+    "yeast activity",
+    "yeast fermentation"
+  ],
+  "relations": [
+    [
+      "Maillard reaction",
+      "activates",
+      "heat activation"
+    ],
+    [
+      "Maillard reaction",
+      "affects",
+      "crumb structure"
+    ],
+    [
+      "Maillard reaction",
+      "affects",
+      "elasticity"
+    ],
+    [
+      "Maillard reaction",
+      "affects",
+      "texture"
+    ],
+    [
+      "Maillard reaction",
+      "causes",
+      "gelatinize"
+    ],
+    [
+      "Maillard reaction",
+      "competes with",
+      "traditional methods"
+    ],
+    [
+      "Maillard reaction",
+      "contributes to",
+      "firm crust"
+    ],
+    [
+      "Maillard reaction",
+      "contributes to",
+      "flavor development"
+    ],
+    [
+      "Maillard reaction",
+      "facilitates",
+      "network formation"
+    ],
+    [
+      "Maillard reaction",
+      "influences",
+      "gluten structure"
+    ],
+    [
+      "Maillard reaction",
+      "influences",
+      "kneading"
+    ],
+    [
+      "Maillard reaction",
+      "informs",
+      "baking science"
+    ],
+    [
+      "Maillard reaction",
+      "interacts with",
+      "starches"
+    ],
+    [
+      "Maillard reaction",
+      "involves",
+      "chemical interactions"
+    ],
+    [
+      "Maillard reaction",
+      "involves",
+      "chemical reactions"
+    ],
+    [
+      "Maillard reaction",
+      "involves",
+      "culinary techniques"
+    ],
+    [
+      "Maillard reaction",
+      "involves",
+      "fermentation"
+    ],
+    [
+      "Maillard reaction",
+      "involves",
+      "flour"
+    ],
+    [
+      "Maillard reaction",
+      "is based on",
+      "baking fundamentals"
+    ],
+    [
+      "Maillard reaction",
+      "is essential for",
+      "bread shaping"
+    ],
+    [
+      "Maillard reaction",
+      "is influenced by",
+      "dough handling"
+    ],
+    [
+      "Maillard reaction",
+      "is part of",
+      "fermentation process"
+    ],
+    [
+      "Maillard reaction",
+      "is related to",
+      "yeast fermentation"
+    ],
+    [
+      "Maillard reaction",
+      "leads to",
+      "browning"
+    ],
+    [
+      "Maillard reaction",
+      "leads to",
+      "developed flavor"
+    ],
+    [
+      "Maillard reaction",
+      "occurs at",
+      "high temperatures"
+    ],
+    [
+      "Maillard reaction",
+      "occurs during",
+      "baking process"
+    ],
+    [
+      "Maillard reaction",
+      "occurs in",
+      "bread"
+    ],
+    [
+      "Maillard reaction",
+      "occurs in",
+      "dough"
+    ],
+    [
+      "Maillard reaction",
+      "produces",
+      "alcohol"
+    ],
+    [
+      "Maillard reaction",
+      "produces",
+      "carbon dioxide"
+    ],
+    [
+      "Maillard reaction",
+      "produces",
+      "complex flavor"
+    ],
+    [
+      "Maillard reaction",
+      "produces",
+      "complex flavors"
+    ],
+    [
+      "Maillard reaction",
+      "produces",
+      "flavor compounds"
+    ],
+    [
+      "Maillard reaction",
+      "reacts with",
+      "proteins"
+    ],
+    [
+      "Maillard reaction",
+      "requires",
+      "temperature"
+    ],
+    [
+      "Maillard reaction",
+      "results in",
+      "baking outcomes"
+    ],
+    [
+      "airy texture",
+      "caused by",
+      "carbon dioxide"
+    ],
+    [
+      "airy texture",
+      "contributes to",
+      "humidity"
+    ],
+    [
+      "airy texture",
+      "contributes to",
+      "kneading"
+    ],
+    [
+      "airy texture",
+      "contributes to",
+      "sugars"
+    ],
+    [
+      "airy texture",
+      "creates",
+      "elasticity"
+    ],
+    [
+      "airy texture",
+      "creates",
+      "gas"
+    ],
+    [
+      "airy texture",
+      "creates",
+      "gluten"
+    ],
+    [
+      "airy texture",
+      "enhanced by",
+      "complex flavors"
+    ],
+    [
+      "airy texture",
+      "enhances",
+      "full flavor potential"
+    ],
+    [
+      "airy texture",
+      "is a result of",
+      "centuries of tradition"
+    ],
+    [
+      "airy texture",
+      "is a result of",
+      "flavor development"
+    ],
+    [
+      "airy texture",
+      "is caused by",
+      "gelatinize"
+    ],
+    [
+      "airy texture",
+      "is influenced by",
+      "flavor"
+    ],
+    [
+      "airy texture",
+      "produced by",
+      "alcohol"
+    ],
+    [
+      "airy texture",
+      "produces",
+      "artisanal breads"
+    ],
+    [
+      "airy texture",
+      "results in",
+      "baking process"
+    ],
+    [
+      "airy texture",
+      "results in",
+      "complex product"
+    ],
+    [
+      "airy texture",
+      "results in",
+      "dough shaping"
+    ],
+    [
+      "airy texture",
+      "results in",
+      "worldwide enjoyment"
+    ],
+    [
+      "alcohol",
+      "affects",
+      "dough handling"
+    ],
+    [
+      "alcohol",
+      "affects",
+      "gluten structure"
+    ],
+    [
+      "alcohol",
+      "affects",
+      "proteins"
+    ],
+    [
+      "alcohol",
+      "affects",
+      "texture"
+    ],
+    [
+      "alcohol",
+      "contributes to",
+      "complex flavor"
+    ],
+    [
+      "alcohol",
+      "contributes to",
+      "complex flavors"
+    ],
+    [
+      "alcohol",
+      "improves",
+      "developed flavor"
+    ],
+    [
+      "alcohol",
+      "is a component of",
+      "complex product"
+    ],
+    [
+      "alcohol",
+      "is a result of",
+      "worldwide enjoyment"
+    ],
+    [
+      "alcohol",
+      "is a result of",
+      "yeast activity"
+    ],
+    [
+      "alcohol",
+      "is enhanced by",
+      "longer fermentation"
+    ],
+    [
+      "alcohol",
+      "is influenced by",
+      "complex process"
+    ],
+    [
+      "alcohol",
+      "is produced by",
+      "proper rising"
+    ],
+    [
+      "alcohol",
+      "is produced in",
+      "bread"
+    ],
+    [
+      "alcohol",
+      "produced by",
+      "browning"
+    ],
+    [
+      "alcohol",
+      "produced by",
+      "yeast fermentation"
+    ],
+    [
+      "alcohol",
+      "produces",
+      "flavor compounds"
+    ],
+    [
+      "appreciation of skill",
+      "enhances",
+      "flavor compounds"
+    ],
+    [
+      "appreciation of skill",
+      "is a result of",
+      "worldwide enjoyment"
+    ],
+    [
+      "appreciation of skill",
+      "is appreciated by",
+      "chemical reactions"
+    ],
+    [
+      "appreciation of skill",
+      "is appreciated for",
+      "alcohol"
+    ],
+    [
+      "appreciation of skill",
+      "is appreciated for",
+      "baking process"
+    ],
+    [
+      "appreciation of skill",
+      "is appreciated for",
+      "flavor"
+    ],
+    [
+      "appreciation of skill",
+      "is enhanced by",
+      "fermentation process"
+    ],
+    [
+      "appreciation of skill",
+      "is linked to",
+      "chewy texture"
+    ],
+    [
+      "appreciation of skill",
+      "is valued for",
+      "centuries of tradition"
+    ],
+    [
+      "appreciation of skill",
+      "leads to",
+      "airy texture"
+    ],
+    [
+      "appreciation of skill",
+      "leads to",
+      "culinary techniques"
+    ],
+    [
+      "appreciation of skill",
+      "leads to",
+      "fermentation"
+    ],
+    [
+      "appreciation of skill",
+      "results in",
+      "flavor development"
+    ],
+    [
+      "appreciation of skill",
+      "results in",
+      "high temperatures"
+    ],
+    [
+      "artisanal breads",
+      "enables",
+      "network formation"
+    ],
+    [
+      "artisanal breads",
+      "feeds on",
+      "sugars"
+    ],
+    [
+      "artisanal breads",
+      "influences",
+      "centuries of tradition"
+    ],
+    [
+      "artisanal breads",
+      "involves",
+      "baking process"
+    ],
+    [
+      "artisanal breads",
+      "is a characteristic of",
+      "complex flavor"
+    ],
+    [
+      "artisanal breads",
+      "is a type of",
+      "bread"
+    ],
+    [
+      "artisanal breads",
+      "is a type of",
+      "firm crust"
+    ],
+    [
+      "artisanal breads",
+      "is enjoyed worldwide",
+      "worldwide enjoyment"
+    ],
+    [
+      "artisanal breads",
+      "is essential for",
+      "fermentation process"
+    ],
+    [
+      "artisanal breads",
+      "is essential for",
+      "gluten"
+    ],
+    [
+      "artisanal breads",
+      "is made from",
+      "flour"
+    ],
+    [
+      "artisanal breads",
+      "is shaped by",
+      "dough"
+    ],
+    [
+      "artisanal breads",
+      "produces",
+      "gas"
+    ],
+    [
+      "artisanal breads",
+      "requires",
+      "dough shaping"
+    ],
+    [
+      "baking fundamentals",
+      "contributes to",
+      "characteristic taste"
+    ],
+    [
+      "baking fundamentals",
+      "creates",
+      "airy texture"
+    ],
+    [
+      "baking fundamentals",
+      "facilitates",
+      "network formation"
+    ],
+    [
+      "baking fundamentals",
+      "fundamentals of",
+      "worldwide enjoyment"
+    ],
+    [
+      "baking fundamentals",
+      "includes",
+      "gluten"
+    ],
+    [
+      "baking fundamentals",
+      "influences",
+      "ingredient interaction"
+    ],
+    [
+      "baking fundamentals",
+      "involves",
+      "bread shaping"
+    ],
+    [
+      "baking fundamentals",
+      "involves",
+      "chemical reactions"
+    ],
+    [
+      "baking fundamentals",
+      "involves",
+      "heat activation"
+    ],
+    [
+      "baking fundamentals",
+      "is a result of",
+      "firm crust"
+    ],
+    [
+      "baking fundamentals",
+      "is a type of",
+      "staple food"
+    ],
+    [
+      "baking fundamentals",
+      "is essential for",
+      "heat"
+    ],
+    [
+      "baking fundamentals",
+      "provides",
+      "elasticity"
+    ],
+    [
+      "baking fundamentals",
+      "requires",
+      "high temperatures"
+    ],
+    [
+      "baking fundamentals",
+      "requires",
+      "longer fermentation"
+    ],
+    [
+      "baking fundamentals",
+      "underpins",
+      "baking techniques"
+    ],
+    [
+      "baking outcomes",
+      "affects",
+      "centuries of tradition"
+    ],
+    [
+      "baking outcomes",
+      "affects",
+      "humidity"
+    ],
+    [
+      "baking outcomes",
+      "affects",
+      "temperature"
+    ],
+    [
+      "baking outcomes",
+      "derived from",
+      "complex flavors"
+    ],
+    [
+      "baking outcomes",
+      "determined by",
+      "characteristic taste"
+    ],
+    [
+      "baking outcomes",
+      "determined by",
+      "crumb structure"
+    ],
+    [
+      "baking outcomes",
+      "influences",
+      "culinary art"
+    ],
+    [
+      "baking outcomes",
+      "result of",
+      "heat activation"
+    ],
+    [
+      "baking outcomes",
+      "results in",
+      "baking techniques"
+    ],
+    [
+      "baking outcomes",
+      "results in",
+      "chemical processes"
+    ],
+    [
+      "baking outcomes",
+      "results in",
+      "complex process"
+    ],
+    [
+      "baking outcomes",
+      "results in",
+      "developed flavor"
+    ],
+    [
+      "baking outcomes",
+      "results in",
+      "gelatinize"
+    ],
+    [
+      "baking outcomes",
+      "results in",
+      "network formation"
+    ],
+    [
+      "baking outcomes",
+      "results in",
+      "worldwide enjoyment"
+    ],
+    [
+      "baking process",
+      "affects",
+      "crumb structure"
+    ],
+    [
+      "baking process",
+      "influences",
+      "complex flavors"
+    ],
+    [
+      "baking process",
+      "involves",
+      "chemical interactions"
+    ],
+    [
+      "baking process",
+      "is a result of",
+      "complex product"
+    ],
+    [
+      "baking process",
+      "is appreciated by",
+      "skill appreciation"
+    ],
+    [
+      "baking process",
+      "is influenced by",
+      "traditional methods"
+    ],
+    [
+      "baking process",
+      "is part of",
+      "centuries of tradition"
+    ],
+    [
+      "baking process",
+      "is part of",
+      "developed flavor"
+    ],
+    [
+      "baking process",
+      "is part of",
+      "flavor"
+    ],
+    [
+      "baking process",
+      "is shaped by",
+      "characteristic taste"
+    ],
+    [
+      "baking process",
+      "leads to",
+      "crust formation"
+    ],
+    [
+      "baking process",
+      "produces",
+      "carbon dioxide"
+    ],
+    [
+      "baking process",
+      "produces",
+      "gas"
+    ],
+    [
+      "baking process",
+      "results in",
+      "baking outcomes"
+    ],
+    [
+      "baking science",
+      "affects",
+      "baking outcomes"
+    ],
+    [
+      "baking science",
+      "affects",
+      "humidity"
+    ],
+    [
+      "baking science",
+      "affects",
+      "starches"
+    ],
+    [
+      "baking science",
+      "contributes to",
+      "airy texture"
+    ],
+    [
+      "baking science",
+      "contributes to",
+      "developed flavor"
+    ],
+    [
+      "baking science",
+      "enables",
+      "full flavor potential"
+    ],
+    [
+      "baking science",
+      "involves",
+      "bread shaping"
+    ],
+    [
+      "baking science",
+      "involves",
+      "chemical reactions"
+    ],
+    [
+      "baking science",
+      "involves",
+      "gluten structure"
+    ],
+    [
+      "baking science",
+      "involves",
+      "kneading"
+    ],
+    [
+      "baking science",
+      "involves",
+      "yeast activity"
+    ],
+    [
+      "baking science",
+      "is a component of",
+      "network formation"
+    ],
+    [
+      "baking science",
+      "is a focus of",
+      "gluten"
+    ],
+    [
+      "baking science",
+      "is a focus of",
+      "sugars"
+    ],
+    [
+      "baking science",
+      "is essential for",
+      "proper rising"
+    ],
+    [
+      "baking science",
+      "is influenced by",
+      "chewy texture"
+    ],
+    [
+      "baking science",
+      "is studied in",
+      "centuries of tradition"
+    ],
+    [
+      "baking science",
+      "promotes",
+      "appreciation of skill"
+    ],
+    [
+      "baking science",
+      "results in",
+      "complex product"
+    ],
+    [
+      "baking techniques",
+      "contributes to",
+      "crust formation"
+    ],
+    [
+      "baking techniques",
+      "creates",
+      "airy texture"
+    ],
+    [
+      "baking techniques",
+      "enhances",
+      "full flavor potential"
+    ],
+    [
+      "baking techniques",
+      "influenced by",
+      "browning"
+    ],
+    [
+      "baking techniques",
+      "influenced by",
+      "developed flavor"
+    ],
+    [
+      "baking techniques",
+      "is based on",
+      "centuries of tradition"
+    ],
+    [
+      "baking techniques",
+      "is developed through",
+      "characteristic taste"
+    ],
+    [
+      "baking techniques",
+      "utilizes",
+      "baking process"
+    ],
+    [
+      "bread",
+      "fosters",
+      "skill appreciation"
+    ],
+    [
+      "bread",
+      "influenced by",
+      "centuries of tradition"
+    ],
+    [
+      "bread",
+      "involves",
+      "bread shaping"
+    ],
+    [
+      "bread",
+      "involves",
+      "dough shaping"
+    ],
+    [
+      "bread",
+      "is a product of",
+      "firm crust"
+    ],
+    [
+      "bread",
+      "is a product of",
+      "rise"
+    ],
+    [
+      "bread",
+      "is a result of",
+      "browning"
+    ],
+    [
+      "bread",
+      "is a result of",
+      "complex process"
+    ],
+    [
+      "bread",
+      "is a type of",
+      "chewy texture"
+    ],
+    [
+      "bread",
+      "is a type of",
+      "texture"
+    ],
+    [
+      "bread",
+      "is appreciated through",
+      "appreciation of skill"
+    ],
+    [
+      "bread",
+      "produces",
+      "airy texture"
+    ],
+    [
+      "bread",
+      "produces",
+      "complex flavors"
+    ],
+    [
+      "bread",
+      "provides",
+      "gluten structure"
+    ],
+    [
+      "bread",
+      "results from",
+      "proper rising"
+    ],
+    [
+      "bread shaping",
+      "contributes to",
+      "crust formation"
+    ],
+    [
+      "bread shaping",
+      "contributes to",
+      "developed flavor"
+    ],
+    [
+      "bread shaping",
+      "informs",
+      "baking techniques"
+    ],
+    [
+      "bread shaping",
+      "is achieved through",
+      "firm crust"
+    ],
+    [
+      "bread shaping",
+      "is associated with",
+      "artisanal breads"
+    ],
+    [
+      "bread shaping",
+      "is enhanced by",
+      "skill appreciation"
+    ],
+    [
+      "bread shaping",
+      "is influenced by",
+      "complex flavors"
+    ],
+    [
+      "bread shaping",
+      "is influenced by",
+      "gluten"
+    ],
+    [
+      "bread shaping",
+      "is influenced by",
+      "gluten structure"
+    ],
+    [
+      "bread shaping",
+      "is influenced by",
+      "sugars"
+    ],
+    [
+      "bread shaping",
+      "is influenced by",
+      "worldwide enjoyment"
+    ],
+    [
+      "bread shaping",
+      "is involved in",
+      "temperature"
+    ],
+    [
+      "bread shaping",
+      "is linked to",
+      "appreciation of skill"
+    ],
+    [
+      "bread shaping",
+      "is necessary for",
+      "proper rising"
+    ],
+    [
+      "bread shaping",
+      "is part of",
+      "complex process"
+    ],
+    [
+      "bread shaping",
+      "is part of",
+      "fermentation process"
+    ],
+    [
+      "bread shaping",
+      "is shaped by",
+      "dough"
+    ],
+    [
+      "bread shaping",
+      "is shaped by",
+      "proteins"
+    ],
+    [
+      "bread shaping",
+      "part of",
+      "culinary art"
+    ],
+    [
+      "bread shaping",
+      "produces",
+      "carbon dioxide"
+    ],
+    [
+      "bread shaping",
+      "result from",
+      "flavor compounds"
+    ],
+    [
+      "browning",
+      "affects",
+      "baking outcomes"
+    ],
+    [
+      "browning",
+      "contributes to",
+      "characteristic taste"
+    ],
+    [
+      "browning",
+      "contributes to",
+      "flavor development"
+    ],
+    [
+      "browning",
+      "depends on",
+      "proper rising"
+    ],
+    [
+      "browning",
+      "enhances",
+      "baking techniques"
+    ],
+    [
+      "browning",
+      "enhances",
+      "complex flavor"
+    ],
+    [
+      "browning",
+      "enhances",
+      "developed flavor"
+    ],
+    [
+      "browning",
+      "enhances",
+      "flavor compounds"
+    ],
+    [
+      "browning",
+      "influences",
+      "sugars"
+    ],
+    [
+      "browning",
+      "involves",
+      "culinary techniques"
+    ],
+    [
+      "browning",
+      "involves",
+      "ingredient interaction"
+    ],
+    [
+      "browning",
+      "involves",
+      "proteins"
+    ],
+    [
+      "browning",
+      "is a result of",
+      "chemical processes"
+    ],
+    [
+      "browning",
+      "is a result of",
+      "complex process"
+    ],
+    [
+      "browning",
+      "is activated by",
+      "heat activation"
+    ],
+    [
+      "browning",
+      "is affected by",
+      "chemical interactions"
+    ],
+    [
+      "browning",
+      "is affected by",
+      "dough handling"
+    ],
+    [
+      "browning",
+      "is associated with",
+      "complex flavors"
+    ],
+    [
+      "browning",
+      "is influenced by",
+      "dough shaping"
+    ],
+    [
+      "browning",
+      "is valued in",
+      "appreciation of skill"
+    ],
+    [
+      "browning",
+      "occurs at",
+      "high temperatures"
+    ],
+    [
+      "browning",
+      "results in",
+      "baking process"
+    ],
+    [
+      "byproduct",
+      "is a byproduct of",
+      "Maillard reaction"
+    ],
+    [
+      "byproduct",
+      "is a byproduct of",
+      "airy texture"
+    ],
+    [
+      "byproduct",
+      "is a byproduct of",
+      "artisanal breads"
+    ],
+    [
+      "byproduct",
+      "is a byproduct of",
+      "browning"
+    ],
+    [
+      "byproduct",
+      "is a byproduct of",
+      "crust formation"
+    ],
+    [
+      "byproduct",
+      "is a byproduct of",
+      "dough"
+    ],
+    [
+      "byproduct",
+      "is a byproduct of",
+      "firm crust"
+    ],
+    [
+      "byproduct",
+      "is a byproduct of",
+      "flavor compounds"
+    ],
+    [
+      "byproduct",
+      "is a byproduct of",
+      "gas"
+    ],
+    [
+      "byproduct",
+      "is a byproduct of",
+      "gluten"
+    ],
+    [
+      "byproduct",
+      "is a byproduct of",
+      "rise"
+    ],
+    [
+      "byproduct",
+      "is a byproduct of",
+      "sugars"
+    ],
+    [
+      "byproduct",
+      "is a byproduct of",
+      "yeast activity"
+    ],
+    [
+      "byproduct",
+      "is a product of",
+      "flour"
+    ],
+    [
+      "byproduct",
+      "is a product of",
+      "gelatinize"
+    ],
+    [
+      "byproduct",
+      "is a result of",
+      "baking process"
+    ],
+    [
+      "byproduct",
+      "is a result of",
+      "chewy texture"
+    ],
+    [
+      "byproduct",
+      "is a result of",
+      "kneading"
+    ],
+    [
+      "byproduct",
+      "is a result of",
+      "proper rising"
+    ],
+    [
+      "byproduct",
+      "is appreciated for",
+      "skill appreciation"
+    ],
+    [
+      "byproduct",
+      "produced as",
+      "proteins"
+    ],
+    [
+      "byproduct",
+      "produced as",
+      "texture"
+    ],
+    [
+      "byproduct",
+      "produced by",
+      "complex flavors"
+    ],
+    [
+      "byproduct",
+      "produced by",
+      "heat"
+    ],
+    [
+      "byproduct",
+      "produces",
+      "baking science"
+    ],
+    [
+      "byproduct",
+      "produces",
+      "complex process"
+    ],
+    [
+      "byproduct",
+      "produces",
+      "culinary art"
+    ],
+    [
+      "byproduct",
+      "produces",
+      "dough handling"
+    ],
+    [
+      "byproduct",
+      "results from",
+      "crumb structure"
+    ],
+    [
+      "byproduct",
+      "results in",
+      "chemical reactions"
+    ],
+    [
+      "carbon dioxide",
+      "influences",
+      "baking science"
+    ],
+    [
+      "carbon dioxide",
+      "is a byproduct of",
+      "culinary art"
+    ],
+    [
+      "carbon dioxide",
+      "is a result of",
+      "byproduct"
+    ],
+    [
+      "carbon dioxide",
+      "is caused by",
+      "proper rising"
+    ],
+    [
+      "carbon dioxide",
+      "is caused by",
+      "rise"
+    ],
+    [
+      "carbon dioxide",
+      "is enhanced by",
+      "appreciation of skill"
+    ],
+    [
+      "carbon dioxide",
+      "is influenced by",
+      "developed flavor"
+    ],
+    [
+      "carbon dioxide",
+      "is produced by",
+      "bread"
+    ],
+    [
+      "carbon dioxide",
+      "is produced by",
+      "characteristic taste"
+    ],
+    [
+      "carbon dioxide",
+      "is produced by",
+      "chemical processes"
+    ],
+    [
+      "carbon dioxide",
+      "is produced by",
+      "complex flavors"
+    ],
+    [
+      "carbon dioxide",
+      "is produced by",
+      "crumb structure"
+    ],
+    [
+      "carbon dioxide",
+      "is produced by",
+      "crust formation"
+    ],
+    [
+      "carbon dioxide",
+      "is produced by",
+      "fermentation process"
+    ],
+    [
+      "carbon dioxide",
+      "is produced by",
+      "firm crust"
+    ],
+    [
+      "carbon dioxide",
+      "is produced by",
+      "flavor"
+    ],
+    [
+      "carbon dioxide",
+      "is produced by",
+      "flavor compounds"
+    ],
+    [
+      "carbon dioxide",
+      "is produced by",
+      "kneading"
+    ],
+    [
+      "carbon dioxide",
+      "is produced by",
+      "staple food"
+    ],
+    [
+      "carbon dioxide",
+      "is produced by",
+      "texture"
+    ],
+    [
+      "carbon dioxide",
+      "is produced by",
+      "yeast activity"
+    ],
+    [
+      "carbon dioxide",
+      "produced by",
+      "alcohol"
+    ],
+    [
+      "carbon dioxide",
+      "produced by",
+      "browning"
+    ],
+    [
+      "carbon dioxide",
+      "produced by",
+      "chewy texture"
+    ],
+    [
+      "carbon dioxide",
+      "produced by",
+      "complex flavor"
+    ],
+    [
+      "carbon dioxide",
+      "produced by",
+      "dough"
+    ],
+    [
+      "carbon dioxide",
+      "produced by",
+      "sugars"
+    ],
+    [
+      "carbon dioxide",
+      "produces",
+      "centuries of tradition"
+    ],
+    [
+      "carbon dioxide",
+      "produces",
+      "complex process"
+    ],
+    [
+      "carbon dioxide",
+      "produces",
+      "fermentation importance"
+    ],
+    [
+      "carbon dioxide",
+      "produces",
+      "flour"
+    ],
+    [
+      "carbon dioxide",
+      "produces",
+      "proteins"
+    ],
+    [
+      "carbon dioxide",
+      "produces",
+      "skill appreciation"
+    ],
+    [
+      "carbon dioxide",
+      "produces",
+      "yeast fermentation"
+    ],
+    [
+      "centuries of tradition",
+      "enhances",
+      "yeast activity"
+    ],
+    [
+      "centuries of tradition",
+      "influenced by",
+      "chewy texture"
+    ],
+    [
+      "centuries of tradition",
+      "influenced by",
+      "firm crust"
+    ],
+    [
+      "centuries of tradition",
+      "influences",
+      "bread shaping"
+    ],
+    [
+      "centuries of tradition",
+      "influences",
+      "developed flavor"
+    ],
+    [
+      "centuries of tradition",
+      "influences",
+      "yeast fermentation"
+    ],
+    [
+      "centuries of tradition",
+      "is a process of",
+      "network formation"
+    ],
+    [
+      "centuries of tradition",
+      "is a result of",
+      "chemical reactions"
+    ],
+    [
+      "centuries of tradition",
+      "is based on",
+      "traditional methods"
+    ],
+    [
+      "centuries of tradition",
+      "is influenced by",
+      "fermentation"
+    ],
+    [
+      "centuries of tradition",
+      "is influenced by",
+      "worldwide enjoyment"
+    ],
+    [
+      "centuries of tradition",
+      "is part of",
+      "alcohol"
+    ],
+    [
+      "centuries of tradition",
+      "is rooted in",
+      "culinary techniques"
+    ],
+    [
+      "centuries of tradition",
+      "is rooted in",
+      "dough handling"
+    ],
+    [
+      "centuries of tradition",
+      "is rooted in",
+      "fermentation importance"
+    ],
+    [
+      "centuries of tradition",
+      "is rooted in",
+      "flavor development"
+    ],
+    [
+      "centuries of tradition",
+      "maximizes",
+      "full flavor potential"
+    ],
+    [
+      "characteristic taste",
+      "affects",
+      "heat"
+    ],
+    [
+      "characteristic taste",
+      "contributes to",
+      "elasticity"
+    ],
+    [
+      "characteristic taste",
+      "contributes to",
+      "flavor compounds"
+    ],
+    [
+      "characteristic taste",
+      "contributes to",
+      "humidity"
+    ],
+    [
+      "characteristic taste",
+      "contributes to",
+      "proper rising"
+    ],
+    [
+      "characteristic taste",
+      "contributes to",
+      "texture"
+    ],
+    [
+      "characteristic taste",
+      "influences",
+      "ingredient interaction"
+    ],
+    [
+      "characteristic taste",
+      "is a result of",
+      "appreciation of skill"
+    ],
+    [
+      "characteristic taste",
+      "is a result of",
+      "flavor"
+    ],
+    [
+      "characteristic taste",
+      "is characterized by",
+      "centuries of tradition"
+    ],
+    [
+      "characteristic taste",
+      "is enhanced by",
+      "complex flavors"
+    ],
+    [
+      "characteristic taste",
+      "is influenced by",
+      "firm crust"
+    ],
+    [
+      "characteristic taste",
+      "produces",
+      "chemical reactions"
+    ],
+    [
+      "characteristic taste",
+      "provides",
+      "worldwide enjoyment"
+    ],
+    [
+      "chemical interactions",
+      "affects",
+      "carbon dioxide"
+    ],
+    [
+      "chemical interactions",
+      "enhances",
+      "full flavor potential"
+    ],
+    [
+      "chemical interactions",
+      "influenced by",
+      "airy texture"
+    ],
+    [
+      "chemical interactions",
+      "influences",
+      "characteristic taste"
+    ],
+    [
+      "chemical interactions",
+      "influences",
+      "complex flavor"
+    ],
+    [
+      "chemical interactions",
+      "involves",
+      "gas"
+    ],
+    [
+      "chemical interactions",
+      "involves",
+      "starches"
+    ],
+    [
+      "chemical interactions",
+      "is enhanced by",
+      "skill appreciation"
+    ],
+    [
+      "chemical interactions",
+      "is influenced by",
+      "crumb structure"
+    ],
+    [
+      "chemical interactions",
+      "result from",
+      "complex product"
+    ],
+    [
+      "chemical processes",
+      "affects",
+      "airy texture"
+    ],
+    [
+      "chemical processes",
+      "affects",
+      "artisanal breads"
+    ],
+    [
+      "chemical processes",
+      "creates",
+      "complex flavor"
+    ],
+    [
+      "chemical processes",
+      "creates",
+      "flavor compounds"
+    ],
+    [
+      "chemical processes",
+      "enhances",
+      "full flavor potential"
+    ],
+    [
+      "chemical processes",
+      "facilitates",
+      "worldwide enjoyment"
+    ],
+    [
+      "chemical processes",
+      "influences",
+      "bread shaping"
+    ],
+    [
+      "chemical processes",
+      "influences",
+      "heat activation"
+    ],
+    [
+      "chemical processes",
+      "involves",
+      "complex process"
+    ],
+    [
+      "chemical processes",
+      "involves",
+      "ingredient interaction"
+    ],
+    [
+      "chemical processes",
+      "involves",
+      "kneading"
+    ],
+    [
+      "chemical processes",
+      "is a type of",
+      "staple food"
+    ],
+    [
+      "chemical processes",
+      "is essential for",
+      "longer fermentation"
+    ],
+    [
+      "chemical processes",
+      "is influenced by",
+      "proper rising"
+    ],
+    [
+      "chemical processes",
+      "is involved in",
+      "crust formation"
+    ],
+    [
+      "chemical processes",
+      "is involved in",
+      "culinary art"
+    ],
+    [
+      "chemical processes",
+      "is part of",
+      "alcohol"
+    ],
+    [
+      "chemical processes",
+      "is part of",
+      "baking process"
+    ],
+    [
+      "chemical processes",
+      "produces",
+      "gas"
+    ],
+    [
+      "chemical processes",
+      "results in",
+      "complex flavors"
+    ],
+    [
+      "chemical reactions",
+      "affects",
+      "artisanal breads"
+    ],
+    [
+      "chemical reactions",
+      "affects",
+      "crumb structure"
+    ],
+    [
+      "chemical reactions",
+      "affects",
+      "dough shaping"
+    ],
+    [
+      "chemical reactions",
+      "affects",
+      "gluten structure"
+    ],
+    [
+      "chemical reactions",
+      "affects",
+      "yeast activity"
+    ],
+    [
+      "chemical reactions",
+      "creates",
+      "complex flavors"
+    ],
+    [
+      "chemical reactions",
+      "facilitates",
+      "network formation"
+    ],
+    [
+      "chemical reactions",
+      "influences",
+      "baking outcomes"
+    ],
+    [
+      "chemical reactions",
+      "influences",
+      "baking techniques"
+    ],
+    [
+      "chemical reactions",
+      "influences",
+      "worldwide enjoyment"
+    ],
+    [
+      "chemical reactions",
+      "involves",
+      "baking process"
+    ],
+    [
+      "chemical reactions",
+      "involves",
+      "complex flavor"
+    ],
+    [
+      "chemical reactions",
+      "involves",
+      "complex process"
+    ],
+    [
+      "chemical reactions",
+      "involves",
+      "gluten"
+    ],
+    [
+      "chemical reactions",
+      "involves",
+      "heat"
+    ],
+    [
+      "chemical reactions",
+      "involves",
+      "starches"
+    ],
+    [
+      "chemical reactions",
+      "involves",
+      "sugars"
+    ],
+    [
+      "chemical reactions",
+      "is affected by",
+      "texture"
+    ],
+    [
+      "chemical reactions",
+      "is involved in",
+      "gelatinize"
+    ],
+    [
+      "chemical reactions",
+      "occurs in",
+      "dough"
+    ],
+    [
+      "chemical reactions",
+      "results in",
+      "chewy texture"
+    ],
+    [
+      "chemical reactions",
+      "results in",
+      "complex product"
+    ],
+    [
+      "chemical reactions",
+      "results in",
+      "developed flavor"
+    ],
+    [
+      "chewy texture",
+      "affects",
+      "bread shaping"
+    ],
+    [
+      "chewy texture",
+      "contributes to",
+      "browning"
+    ],
+    [
+      "chewy texture",
+      "contributes to",
+      "characteristic taste"
+    ],
+    [
+      "chewy texture",
+      "contributes to",
+      "developed flavor"
+    ],
+    [
+      "chewy texture",
+      "developed by",
+      "fermentation process"
+    ],
+    [
+      "chewy texture",
+      "enables",
+      "rise"
+    ],
+    [
+      "chewy texture",
+      "enhances",
+      "complex flavors"
+    ],
+    [
+      "chewy texture",
+      "enhances",
+      "full flavor potential"
+    ],
+    [
+      "chewy texture",
+      "influences",
+      "baking process"
+    ],
+    [
+      "chewy texture",
+      "is a result of",
+      "chemical processes"
+    ],
+    [
+      "chewy texture",
+      "is a result of",
+      "network formation"
+    ],
+    [
+      "chewy texture",
+      "is a type of",
+      "staple food"
+    ],
+    [
+      "chewy texture",
+      "is appreciated by",
+      "worldwide enjoyment"
+    ],
+    [
+      "chewy texture",
+      "is associated with",
+      "artisanal breads"
+    ],
+    [
+      "chewy texture",
+      "is developed by",
+      "kneading"
+    ],
+    [
+      "chewy texture",
+      "is influenced by",
+      "Maillard reaction"
+    ],
+    [
+      "chewy texture",
+      "is influenced by",
+      "firm crust"
+    ],
+    [
+      "chewy texture",
+      "is influenced by",
+      "flavor compounds"
+    ],
+    [
+      "chewy texture",
+      "produces",
+      "fermentation"
+    ],
+    [
+      "chewy texture",
+      "provides",
+      "gluten"
+    ],
+    [
+      "chewy texture",
+      "provides",
+      "gluten structure"
+    ],
+    [
+      "chewy texture",
+      "results from",
+      "ingredient interaction"
+    ],
+    [
+      "chewy texture",
+      "results from",
+      "yeast fermentation"
+    ],
+    [
+      "chewy texture",
+      "results in",
+      "crust formation"
+    ],
+    [
+      "chewy texture",
+      "results in",
+      "gelatinize"
+    ],
+    [
+      "complex flavor",
+      "contributes to",
+      "airy texture"
+    ],
+    [
+      "complex flavor",
+      "contributes to",
+      "bread shaping"
+    ],
+    [
+      "complex flavor",
+      "contributes to",
+      "centuries of tradition"
+    ],
+    [
+      "complex flavor",
+      "contributes to",
+      "proper rising"
+    ],
+    [
+      "complex flavor",
+      "creates",
+      "ingredient interaction"
+    ],
+    [
+      "complex flavor",
+      "enhances",
+      "chewy texture"
+    ],
+    [
+      "complex flavor",
+      "enhances",
+      "gluten structure"
+    ],
+    [
+      "complex flavor",
+      "has",
+      "bread"
+    ],
+    [
+      "complex flavor",
+      "influenced by",
+      "traditional methods"
+    ],
+    [
+      "complex flavor",
+      "involves",
+      "complex process"
+    ],
+    [
+      "complex flavor",
+      "is a result of",
+      "worldwide enjoyment"
+    ],
+    [
+      "complex flavor",
+      "is based on",
+      "baking fundamentals"
+    ],
+    [
+      "complex flavor",
+      "is developed by",
+      "dough"
+    ],
+    [
+      "complex flavor",
+      "is enhanced by",
+      "appreciation of skill"
+    ],
+    [
+      "complex flavor",
+      "is enhanced by",
+      "flour"
+    ],
+    [
+      "complex flavor",
+      "is enhanced by",
+      "gelatinize"
+    ],
+    [
+      "complex flavor",
+      "is linked to",
+      "complex product"
+    ],
+    [
+      "complex flavor",
+      "is related to",
+      "complex flavors"
+    ],
+    [
+      "complex flavor",
+      "produces",
+      "gas"
+    ],
+    [
+      "complex flavor",
+      "results in",
+      "baking outcomes"
+    ],
+    [
+      "complex flavor",
+      "results in",
+      "baking process"
+    ],
+    [
+      "complex flavors",
+      "affects",
+      "gluten structure"
+    ],
+    [
+      "complex flavors",
+      "depends on",
+      "full flavor potential"
+    ],
+    [
+      "complex flavors",
+      "enhances",
+      "flour"
+    ],
+    [
+      "complex flavors",
+      "is created by",
+      "chemical interactions"
+    ],
+    [
+      "complex flavors",
+      "is enhanced by",
+      "worldwide enjoyment"
+    ],
+    [
+      "complex flavors",
+      "is influenced by",
+      "proteins"
+    ],
+    [
+      "complex flavors",
+      "is produced by",
+      "developed flavor"
+    ],
+    [
+      "complex flavors",
+      "is produced by",
+      "flavor compounds"
+    ],
+    [
+      "complex flavors",
+      "is produced by",
+      "gas"
+    ],
+    [
+      "complex flavors",
+      "is recognized for",
+      "appreciation of skill"
+    ],
+    [
+      "complex flavors",
+      "is shaped by",
+      "dough shaping"
+    ],
+    [
+      "complex flavors",
+      "produced by",
+      "fermentation process"
+    ],
+    [
+      "complex flavors",
+      "produces",
+      "fermentation"
+    ],
+    [
+      "complex flavors",
+      "results in",
+      "baking outcomes"
+    ],
+    [
+      "complex flavors",
+      "results in",
+      "complex product"
+    ],
+    [
+      "complex flavors",
+      "results in",
+      "crust formation"
+    ],
+    [
+      "complex flavors",
+      "results in",
+      "dough"
+    ],
+    [
+      "complex process",
+      "creates",
+      "airy texture"
+    ],
+    [
+      "complex process",
+      "influenced by",
+      "flavor development"
+    ],
+    [
+      "complex process",
+      "involves",
+      "baking fundamentals"
+    ],
+    [
+      "complex process",
+      "involves",
+      "baking techniques"
+    ],
+    [
+      "complex process",
+      "involves",
+      "chemical interactions"
+    ],
+    [
+      "complex process",
+      "involves",
+      "fermentation"
+    ],
+    [
+      "complex process",
+      "involves",
+      "heat"
+    ],
+    [
+      "complex process",
+      "involves",
+      "sugars"
+    ],
+    [
+      "complex process",
+      "is a part of",
+      "texture"
+    ],
+    [
+      "complex process",
+      "is a result of",
+      "firm crust"
+    ],
+    [
+      "complex process",
+      "is characterized by",
+      "artisanal breads"
+    ],
+    [
+      "complex process",
+      "is enhanced by",
+      "appreciation of skill"
+    ],
+    [
+      "complex process",
+      "results in",
+      "complex flavors"
+    ],
+    [
+      "complex product",
+      "affects",
+      "gluten structure"
+    ],
+    [
+      "complex product",
+      "affects",
+      "temperature"
+    ],
+    [
+      "complex product",
+      "causes",
+      "rise"
+    ],
+    [
+      "complex product",
+      "contributes to",
+      "gelatinize"
+    ],
+    [
+      "complex product",
+      "is a characteristic of",
+      "chewy texture"
+    ],
+    [
+      "complex product",
+      "is a result of",
+      "flavor development"
+    ],
+    [
+      "complex product",
+      "is a result of",
+      "worldwide enjoyment"
+    ],
+    [
+      "complex product",
+      "is a type of",
+      "browning"
+    ],
+    [
+      "complex product",
+      "is a type of",
+      "staple food"
+    ],
+    [
+      "complex product",
+      "is appreciated for",
+      "skill appreciation"
+    ],
+    [
+      "complex product",
+      "is produced by",
+      "carbon dioxide"
+    ],
+    [
+      "complex product",
+      "is reflected in",
+      "centuries of tradition"
+    ],
+    [
+      "complex product",
+      "is shaped by",
+      "bread shaping"
+    ],
+    [
+      "complex product",
+      "leads to",
+      "crust formation"
+    ],
+    [
+      "complex product",
+      "produces",
+      "artisanal breads"
+    ],
+    [
+      "complex product",
+      "produces",
+      "dough handling"
+    ],
+    [
+      "complex product",
+      "produces",
+      "yeast fermentation"
+    ],
+    [
+      "complex product",
+      "results in",
+      "baking outcomes"
+    ],
+    [
+      "complex product",
+      "results in",
+      "culinary art"
+    ],
+    [
+      "complex product",
+      "results in",
+      "culinary techniques"
+    ],
+    [
+      "complex product",
+      "results in",
+      "firm crust"
+    ],
+    [
+      "crumb structure",
+      "affects",
+      "baking outcomes"
+    ],
+    [
+      "crumb structure",
+      "affects",
+      "dough shaping"
+    ],
+    [
+      "crumb structure",
+      "affects",
+      "yeast activity"
+    ],
+    [
+      "crumb structure",
+      "contributes to",
+      "bread shaping"
+    ],
+    [
+      "crumb structure",
+      "contributes to",
+      "browning"
+    ],
+    [
+      "crumb structure",
+      "contributes to",
+      "centuries of tradition"
+    ],
+    [
+      "crumb structure",
+      "contributes to",
+      "crust formation"
+    ],
+    [
+      "crumb structure",
+      "contributes to",
+      "fermentation"
+    ],
+    [
+      "crumb structure",
+      "depends on",
+      "proper rising"
+    ],
+    [
+      "crumb structure",
+      "is a feature of",
+      "complex flavors"
+    ],
+    [
+      "crumb structure",
+      "is a feature of",
+      "elasticity"
+    ],
+    [
+      "crumb structure",
+      "is a result of",
+      "complex product"
+    ],
+    [
+      "crumb structure",
+      "is a result of",
+      "developed flavor"
+    ],
+    [
+      "crumb structure",
+      "is affected by",
+      "gas"
+    ],
+    [
+      "crumb structure",
+      "is based on",
+      "baking fundamentals"
+    ],
+    [
+      "crumb structure",
+      "is defined by",
+      "firm crust"
+    ],
+    [
+      "crumb structure",
+      "is determined by",
+      "chewy texture"
+    ],
+    [
+      "crumb structure",
+      "is influenced by",
+      "flavor compounds"
+    ],
+    [
+      "crumb structure",
+      "is shaped by",
+      "complex flavor"
+    ],
+    [
+      "crust formation",
+      "contributes to",
+      "airy texture"
+    ],
+    [
+      "crust formation",
+      "contributes to",
+      "dough"
+    ],
+    [
+      "crust formation",
+      "contributes to",
+      "gluten"
+    ],
+    [
+      "crust formation",
+      "contributes to",
+      "gluten structure"
+    ],
+    [
+      "crust formation",
+      "contributes to",
+      "longer fermentation"
+    ],
+    [
+      "crust formation",
+      "depends on",
+      "elasticity"
+    ],
+    [
+      "crust formation",
+      "formed by",
+      "bread shaping"
+    ],
+    [
+      "crust formation",
+      "involves",
+      "baking fundamentals"
+    ],
+    [
+      "crust formation",
+      "is a result of",
+      "artisanal breads"
+    ],
+    [
+      "crust formation",
+      "is a result of",
+      "chemical interactions"
+    ],
+    [
+      "crust formation",
+      "is a result of",
+      "firm crust"
+    ],
+    [
+      "crust formation",
+      "is affected by",
+      "baking science"
+    ],
+    [
+      "crust formation",
+      "is affected by",
+      "yeast fermentation"
+    ],
+    [
+      "crust formation",
+      "is created by",
+      "complex flavor"
+    ],
+    [
+      "crust formation",
+      "is enhanced by",
+      "developed flavor"
+    ],
+    [
+      "crust formation",
+      "is influenced by",
+      "flavor development"
+    ],
+    [
+      "crust formation",
+      "is influenced by",
+      "traditional methods"
+    ],
+    [
+      "crust formation",
+      "results in",
+      "complex process"
+    ],
+    [
+      "culinary art",
+      "affects",
+      "crust formation"
+    ],
+    [
+      "culinary art",
+      "affects",
+      "texture"
+    ],
+    [
+      "culinary art",
+      "affects",
+      "yeast activity"
+    ],
+    [
+      "culinary art",
+      "contributes to",
+      "chewy texture"
+    ],
+    [
+      "culinary art",
+      "contributes to",
+      "developed flavor"
+    ],
+    [
+      "culinary art",
+      "contributes to",
+      "gluten structure"
+    ],
+    [
+      "culinary art",
+      "creates",
+      "complex flavors"
+    ],
+    [
+      "culinary art",
+      "creates",
+      "flavor compounds"
+    ],
+    [
+      "culinary art",
+      "includes",
+      "culinary techniques"
+    ],
+    [
+      "culinary art",
+      "involves",
+      "bread shaping"
+    ],
+    [
+      "culinary art",
+      "involves",
+      "dough handling"
+    ],
+    [
+      "culinary art",
+      "involves",
+      "dough shaping"
+    ],
+    [
+      "culinary art",
+      "involves",
+      "fermentation"
+    ],
+    [
+      "culinary art",
+      "involves",
+      "network formation"
+    ],
+    [
+      "culinary art",
+      "involves",
+      "traditional methods"
+    ],
+    [
+      "culinary art",
+      "involves",
+      "yeast fermentation"
+    ],
+    [
+      "culinary art",
+      "is a form of",
+      "baking techniques"
+    ],
+    [
+      "culinary art",
+      "is enhanced by",
+      "proper rising"
+    ],
+    [
+      "culinary art",
+      "is produced by",
+      "alcohol"
+    ],
+    [
+      "culinary art",
+      "maximizes",
+      "full flavor potential"
+    ],
+    [
+      "culinary art",
+      "requires",
+      "kneading"
+    ],
+    [
+      "culinary techniques",
+      "affects",
+      "airy texture"
+    ],
+    [
+      "culinary techniques",
+      "contributes to",
+      "firm crust"
+    ],
+    [
+      "culinary techniques",
+      "creates",
+      "complex flavor"
+    ],
+    [
+      "culinary techniques",
+      "creates",
+      "complex flavors"
+    ],
+    [
+      "culinary techniques",
+      "enhances",
+      "heat activation"
+    ],
+    [
+      "culinary techniques",
+      "enhances",
+      "worldwide enjoyment"
+    ],
+    [
+      "culinary techniques",
+      "includes",
+      "gluten"
+    ],
+    [
+      "culinary techniques",
+      "includes",
+      "kneading"
+    ],
+    [
+      "culinary techniques",
+      "involves",
+      "baking process"
+    ],
+    [
+      "culinary techniques",
+      "involves",
+      "baking techniques"
+    ],
+    [
+      "culinary techniques",
+      "involves",
+      "bread shaping"
+    ],
+    [
+      "culinary techniques",
+      "involves",
+      "fermentation process"
+    ],
+    [
+      "culinary techniques",
+      "involves",
+      "gluten structure"
+    ],
+    [
+      "culinary techniques",
+      "involves",
+      "ingredient interaction"
+    ],
+    [
+      "culinary techniques",
+      "is a type of",
+      "staple food"
+    ],
+    [
+      "culinary techniques",
+      "is based on",
+      "baking science"
+    ],
+    [
+      "culinary techniques",
+      "is essential for",
+      "crust formation"
+    ],
+    [
+      "culinary techniques",
+      "is essential for",
+      "proteins"
+    ],
+    [
+      "culinary techniques",
+      "is part of",
+      "complex process"
+    ],
+    [
+      "culinary techniques",
+      "requires",
+      "longer fermentation"
+    ],
+    [
+      "culinary techniques",
+      "results in",
+      "developed flavor"
+    ],
+    [
+      "culinary techniques",
+      "utilizes",
+      "chemical reactions"
+    ],
+    [
+      "developed flavor",
+      "contributes to",
+      "chemical processes"
+    ],
+    [
+      "developed flavor",
+      "contributes to",
+      "full flavor potential"
+    ],
+    [
+      "developed flavor",
+      "enhanced by",
+      "baking techniques"
+    ],
+    [
+      "developed flavor",
+      "enhances",
+      "kneading"
+    ],
+    [
+      "developed flavor",
+      "is a factor in",
+      "complex product"
+    ],
+    [
+      "developed flavor",
+      "is a result of",
+      "characteristic taste"
+    ],
+    [
+      "developed flavor",
+      "is a result of",
+      "complex flavor"
+    ],
+    [
+      "developed flavor",
+      "is a result of",
+      "flavor"
+    ],
+    [
+      "developed flavor",
+      "is derived from",
+      "sugars"
+    ],
+    [
+      "developed flavor",
+      "leads to",
+      "baking fundamentals"
+    ],
+    [
+      "developed flavor",
+      "produces",
+      "gas"
+    ],
+    [
+      "developed flavor",
+      "results in",
+      "bread"
+    ],
+    [
+      "developed flavor",
+      "results in",
+      "fermentation"
+    ],
+    [
+      "developed flavor",
+      "results in",
+      "network formation"
+    ],
+    [
+      "developed flavor",
+      "results in",
+      "worldwide enjoyment"
+    ],
+    [
+      "dough",
+      "comprises",
+      "complex process"
+    ],
+    [
+      "dough",
+      "contributes to",
+      "chewy texture"
+    ],
+    [
+      "dough",
+      "creates",
+      "airy texture"
+    ],
+    [
+      "dough",
+      "enhances",
+      "full flavor potential"
+    ],
+    [
+      "dough",
+      "influences",
+      "centuries of tradition"
+    ],
+    [
+      "dough",
+      "influences",
+      "chemical processes"
+    ],
+    [
+      "dough",
+      "is a component of",
+      "worldwide enjoyment"
+    ],
+    [
+      "dough",
+      "is a result of",
+      "developed flavor"
+    ],
+    [
+      "dough",
+      "is a result of",
+      "flavor development"
+    ],
+    [
+      "dough",
+      "is influenced by",
+      "baking process"
+    ],
+    [
+      "dough",
+      "is influenced by",
+      "proper rising"
+    ],
+    [
+      "dough",
+      "is made from",
+      "bread"
+    ],
+    [
+      "dough",
+      "is made from",
+      "complex product"
+    ],
+    [
+      "dough",
+      "is performed on",
+      "dough shaping"
+    ],
+    [
+      "dough",
+      "is shaped by",
+      "texture"
+    ],
+    [
+      "dough",
+      "provides",
+      "firm crust"
+    ],
+    [
+      "dough",
+      "provides",
+      "sugars"
+    ],
+    [
+      "dough handling",
+      "affects",
+      "baking process"
+    ],
+    [
+      "dough handling",
+      "affects",
+      "crumb structure"
+    ],
+    [
+      "dough handling",
+      "affects",
+      "heat"
+    ],
+    [
+      "dough handling",
+      "affects",
+      "sugars"
+    ],
+    [
+      "dough handling",
+      "affects",
+      "yeast activity"
+    ],
+    [
+      "dough handling",
+      "contributes to",
+      "complex flavor"
+    ],
+    [
+      "dough handling",
+      "develops",
+      "gluten structure"
+    ],
+    [
+      "dough handling",
+      "enhances",
+      "developed flavor"
+    ],
+    [
+      "dough handling",
+      "enhances",
+      "full flavor potential"
+    ],
+    [
+      "dough handling",
+      "enhances",
+      "skill appreciation"
+    ],
+    [
+      "dough handling",
+      "facilitates",
+      "chemical interactions"
+    ],
+    [
+      "dough handling",
+      "influences",
+      "rise"
+    ],
+    [
+      "dough handling",
+      "involves",
+      "chemical reactions"
+    ],
+    [
+      "dough handling",
+      "involves",
+      "dough shaping"
+    ],
+    [
+      "dough handling",
+      "involves",
+      "ingredient interaction"
+    ],
+    [
+      "dough handling",
+      "is connected to",
+      "appreciation of skill"
+    ],
+    [
+      "dough handling",
+      "is developed through",
+      "gluten"
+    ],
+    [
+      "dough handling",
+      "is essential for",
+      "artisanal breads"
+    ],
+    [
+      "dough handling",
+      "is essential for",
+      "fermentation process"
+    ],
+    [
+      "dough handling",
+      "is influenced by",
+      "chemical processes"
+    ],
+    [
+      "dough handling",
+      "is part of",
+      "complex process"
+    ],
+    [
+      "dough handling",
+      "is shaped by",
+      "dough"
+    ],
+    [
+      "dough handling",
+      "produces",
+      "bread"
+    ],
+    [
+      "dough handling",
+      "produces",
+      "carbon dioxide"
+    ],
+    [
+      "dough shaping",
+      "affected by",
+      "chemical interactions"
+    ],
+    [
+      "dough shaping",
+      "affects",
+      "starches"
+    ],
+    [
+      "dough shaping",
+      "formed by",
+      "gluten structure"
+    ],
+    [
+      "dough shaping",
+      "influenced by",
+      "centuries of tradition"
+    ],
+    [
+      "dough shaping",
+      "influences",
+      "alcohol"
+    ],
+    [
+      "dough shaping",
+      "influences",
+      "complex flavor"
+    ],
+    [
+      "dough shaping",
+      "involves",
+      "complex product"
+    ],
+    [
+      "dough shaping",
+      "is shaped by",
+      "gas"
+    ],
+    [
+      "dough shaping",
+      "is shaped by",
+      "rise"
+    ],
+    [
+      "dough shaping",
+      "produces",
+      "carbon dioxide"
+    ],
+    [
+      "dough shaping",
+      "requires",
+      "gelatinize"
+    ],
+    [
+      "dough shaping",
+      "results in",
+      "chewy texture"
+    ],
+    [
+      "dough shaping",
+      "results in",
+      "developed flavor"
+    ],
+    [
+      "dough shaping",
+      "results in",
+      "worldwide enjoyment"
+    ],
+    [
+      "elasticity",
+      "activates",
+      "heat activation"
+    ],
+    [
+      "elasticity",
+      "affects",
+      "baking outcomes"
+    ],
+    [
+      "elasticity",
+      "contributes to",
+      "baking process"
+    ],
+    [
+      "elasticity",
+      "contributes to",
+      "firm crust"
+    ],
+    [
+      "elasticity",
+      "contributes to",
+      "network formation"
+    ],
+    [
+      "elasticity",
+      "dependent on",
+      "baking fundamentals"
+    ],
+    [
+      "elasticity",
+      "enables",
+      "bread shaping"
+    ],
+    [
+      "elasticity",
+      "enables",
+      "rise"
+    ],
+    [
+      "elasticity",
+      "involves",
+      "chemical reactions"
+    ],
+    [
+      "elasticity",
+      "is a characteristic of",
+      "staple food"
+    ],
+    [
+      "elasticity",
+      "is a component of",
+      "flour"
+    ],
+    [
+      "elasticity",
+      "is a factor in",
+      "yeast fermentation"
+    ],
+    [
+      "elasticity",
+      "is a property of",
+      "proteins"
+    ],
+    [
+      "elasticity",
+      "is affected by",
+      "texture"
+    ],
+    [
+      "elasticity",
+      "is developed by",
+      "kneading"
+    ],
+    [
+      "elasticity",
+      "is enhanced by",
+      "baking techniques"
+    ],
+    [
+      "elasticity",
+      "is influenced by",
+      "high temperatures"
+    ],
+    [
+      "elasticity",
+      "is necessary for",
+      "dough shaping"
+    ],
+    [
+      "elasticity",
+      "provides",
+      "bread"
+    ],
+    [
+      "elasticity",
+      "provides",
+      "dough"
+    ],
+    [
+      "elasticity",
+      "provides",
+      "fermentation"
+    ],
+    [
+      "elasticity",
+      "provides",
+      "gluten structure"
+    ],
+    [
+      "elasticity",
+      "requires",
+      "artisanal breads"
+    ],
+    [
+      "fermentation",
+      "consumes",
+      "sugars"
+    ],
+    [
+      "fermentation",
+      "contributes to",
+      "crust formation"
+    ],
+    [
+      "fermentation",
+      "creates",
+      "airy texture"
+    ],
+    [
+      "fermentation",
+      "depends on",
+      "proper rising"
+    ],
+    [
+      "fermentation",
+      "develops",
+      "gluten structure"
+    ],
+    [
+      "fermentation",
+      "enables",
+      "full flavor potential"
+    ],
+    [
+      "fermentation",
+      "enhances",
+      "complex flavor"
+    ],
+    [
+      "fermentation",
+      "enhances",
+      "kneading"
+    ],
+    [
+      "fermentation",
+      "influences",
+      "browning"
+    ],
+    [
+      "fermentation",
+      "involves",
+      "chemical reactions"
+    ],
+    [
+      "fermentation",
+      "involves",
+      "dough shaping"
+    ],
+    [
+      "fermentation",
+      "involves",
+      "ingredient interaction"
+    ],
+    [
+      "fermentation",
+      "involves",
+      "proteins"
+    ],
+    [
+      "fermentation",
+      "involves",
+      "yeast fermentation"
+    ],
+    [
+      "fermentation",
+      "is a process involving",
+      "dough"
+    ],
+    [
+      "fermentation",
+      "is a process of",
+      "complex process"
+    ],
+    [
+      "fermentation",
+      "is a type of",
+      "artisanal breads"
+    ],
+    [
+      "fermentation",
+      "is affected by",
+      "humidity"
+    ],
+    [
+      "fermentation",
+      "is driven by",
+      "yeast activity"
+    ],
+    [
+      "fermentation",
+      "is essential for",
+      "flour"
+    ],
+    [
+      "fermentation",
+      "is involved in",
+      "gelatinize"
+    ],
+    [
+      "fermentation",
+      "is part of",
+      "baking process"
+    ],
+    [
+      "fermentation",
+      "is related to",
+      "gluten"
+    ],
+    [
+      "fermentation",
+      "produces",
+      "alcohol"
+    ],
+    [
+      "fermentation",
+      "produces",
+      "byproduct"
+    ],
+    [
+      "fermentation",
+      "produces",
+      "carbon dioxide"
+    ],
+    [
+      "fermentation",
+      "produces",
+      "flavor compounds"
+    ],
+    [
+      "fermentation",
+      "requires",
+      "longer fermentation"
+    ],
+    [
+      "fermentation",
+      "results in",
+      "firm crust"
+    ],
+    [
+      "fermentation importance",
+      "affects",
+      "gluten"
+    ],
+    [
+      "fermentation importance",
+      "affects",
+      "gluten structure"
+    ],
+    [
+      "fermentation importance",
+      "contributes to",
+      "flavor compounds"
+    ],
+    [
+      "fermentation importance",
+      "contributes to",
+      "flavor development"
+    ],
+    [
+      "fermentation importance",
+      "enhances",
+      "chewy texture"
+    ],
+    [
+      "fermentation importance",
+      "enhances",
+      "full flavor potential"
+    ],
+    [
+      "fermentation importance",
+      "enhances",
+      "kneading"
+    ],
+    [
+      "fermentation importance",
+      "enhances",
+      "texture"
+    ],
+    [
+      "fermentation importance",
+      "enhances",
+      "yeast activity"
+    ],
+    [
+      "fermentation importance",
+      "ensures",
+      "proper rising"
+    ],
+    [
+      "fermentation importance",
+      "facilitates",
+      "crust formation"
+    ],
+    [
+      "fermentation importance",
+      "facilitates",
+      "gelatinize"
+    ],
+    [
+      "fermentation importance",
+      "facilitates",
+      "network formation"
+    ],
+    [
+      "fermentation importance",
+      "highlights",
+      "complex process"
+    ],
+    [
+      "fermentation importance",
+      "highlights",
+      "developed flavor"
+    ],
+    [
+      "fermentation importance",
+      "highlights",
+      "dough handling"
+    ],
+    [
+      "fermentation importance",
+      "highlights",
+      "proteins"
+    ],
+    [
+      "fermentation importance",
+      "highlights",
+      "yeast fermentation"
+    ],
+    [
+      "fermentation importance",
+      "influences",
+      "Maillard reaction"
+    ],
+    [
+      "fermentation importance",
+      "influences",
+      "dough shaping"
+    ],
+    [
+      "fermentation importance",
+      "involves",
+      "chemical interactions"
+    ],
+    [
+      "fermentation importance",
+      "is a factor in",
+      "dough"
+    ],
+    [
+      "fermentation importance",
+      "is affected by",
+      "sugars"
+    ],
+    [
+      "fermentation importance",
+      "is crucial for",
+      "bread shaping"
+    ],
+    [
+      "fermentation importance",
+      "is crucial for",
+      "rise"
+    ],
+    [
+      "fermentation importance",
+      "is essential for",
+      "longer fermentation"
+    ],
+    [
+      "fermentation importance",
+      "is related to",
+      "chemical reactions"
+    ],
+    [
+      "fermentation importance",
+      "is significant for",
+      "artisanal breads"
+    ],
+    [
+      "fermentation importance",
+      "is significant for",
+      "complex flavor"
+    ],
+    [
+      "fermentation importance",
+      "produces",
+      "gas"
+    ],
+    [
+      "fermentation process",
+      "affects",
+      "baking outcomes"
+    ],
+    [
+      "fermentation process",
+      "affects",
+      "browning"
+    ],
+    [
+      "fermentation process",
+      "affects",
+      "crumb structure"
+    ],
+    [
+      "fermentation process",
+      "affects",
+      "dough"
+    ],
+    [
+      "fermentation process",
+      "affects",
+      "starches"
+    ],
+    [
+      "fermentation process",
+      "creates",
+      "complex flavor"
+    ],
+    [
+      "fermentation process",
+      "enables",
+      "network formation"
+    ],
+    [
+      "fermentation process",
+      "enhances",
+      "developed flavor"
+    ],
+    [
+      "fermentation process",
+      "facilitates",
+      "proper rising"
+    ],
+    [
+      "fermentation process",
+      "influences",
+      "characteristic taste"
+    ],
+    [
+      "fermentation process",
+      "influences",
+      "dough shaping"
+    ],
+    [
+      "fermentation process",
+      "involves",
+      "chemical interactions"
+    ],
+    [
+      "fermentation process",
+      "involves",
+      "chemical reactions"
+    ],
+    [
+      "fermentation process",
+      "is a precursor to",
+      "baking process"
+    ],
+    [
+      "fermentation process",
+      "is consumed by",
+      "sugars"
+    ],
+    [
+      "fermentation process",
+      "is essential for",
+      "centuries of tradition"
+    ],
+    [
+      "fermentation process",
+      "is influenced by",
+      "texture"
+    ],
+    [
+      "fermentation process",
+      "is involved in",
+      "proteins"
+    ],
+    [
+      "fermentation process",
+      "is produced by",
+      "alcohol"
+    ],
+    [
+      "fermentation process",
+      "leads to",
+      "crust formation"
+    ],
+    [
+      "fermentation process",
+      "produces",
+      "airy texture"
+    ],
+    [
+      "fermentation process",
+      "produces",
+      "gas"
+    ],
+    [
+      "fermentation process",
+      "utilizes",
+      "baking techniques"
+    ],
+    [
+      "firm crust",
+      "affects",
+      "humidity"
+    ],
+    [
+      "firm crust",
+      "contributes to",
+      "alcohol"
+    ],
+    [
+      "firm crust",
+      "contributes to",
+      "browning"
+    ],
+    [
+      "firm crust",
+      "contributes to",
+      "culinary art"
+    ],
+    [
+      "firm crust",
+      "contributes to",
+      "sugars"
+    ],
+    [
+      "firm crust",
+      "involves",
+      "ingredient interaction"
+    ],
+    [
+      "firm crust",
+      "is associated with",
+      "worldwide enjoyment"
+    ],
+    [
+      "firm crust",
+      "is influenced by",
+      "baking process"
+    ],
+    [
+      "firm crust",
+      "is influenced by",
+      "dough shaping"
+    ],
+    [
+      "firm crust",
+      "results from",
+      "chemical interactions"
+    ],
+    [
+      "firm crust",
+      "results in",
+      "baking science"
+    ],
+    [
+      "firm crust",
+      "results in",
+      "heat"
+    ],
+    [
+      "firm crust",
+      "set by",
+      "starches"
+    ],
+    [
+      "flavor",
+      "affects",
+      "dough handling"
+    ],
+    [
+      "flavor",
+      "contributes to",
+      "rise"
+    ],
+    [
+      "flavor",
+      "enhances",
+      "chewy texture"
+    ],
+    [
+      "flavor",
+      "enhances",
+      "fermentation"
+    ],
+    [
+      "flavor",
+      "enhances",
+      "firm crust"
+    ],
+    [
+      "flavor",
+      "enhances",
+      "proper rising"
+    ],
+    [
+      "flavor",
+      "is a result of",
+      "Maillard reaction"
+    ],
+    [
+      "flavor",
+      "is associated with",
+      "artisanal breads"
+    ],
+    [
+      "flavor",
+      "is characterized by",
+      "complex flavor"
+    ],
+    [
+      "flavor",
+      "is derived from",
+      "flavor compounds"
+    ],
+    [
+      "flavor",
+      "is derived from",
+      "flour"
+    ],
+    [
+      "flavor",
+      "is derived from",
+      "sugars"
+    ],
+    [
+      "flavor",
+      "is developed by",
+      "fermentation process"
+    ],
+    [
+      "flavor",
+      "is developed by",
+      "kneading"
+    ],
+    [
+      "flavor",
+      "is enhanced by",
+      "complex flavors"
+    ],
+    [
+      "flavor",
+      "is enhanced by",
+      "dough"
+    ],
+    [
+      "flavor",
+      "is formed by",
+      "network formation"
+    ],
+    [
+      "flavor",
+      "is produced by",
+      "chemical reactions"
+    ],
+    [
+      "flavor",
+      "produced by",
+      "alcohol"
+    ],
+    [
+      "flavor",
+      "produces",
+      "yeast fermentation"
+    ],
+    [
+      "flavor compounds",
+      "contributes to",
+      "full flavor potential"
+    ],
+    [
+      "flavor compounds",
+      "derived from",
+      "proteins"
+    ],
+    [
+      "flavor compounds",
+      "enhances",
+      "bread"
+    ],
+    [
+      "flavor compounds",
+      "enhances",
+      "complex flavor"
+    ],
+    [
+      "flavor compounds",
+      "interacts with",
+      "chemical interactions"
+    ],
+    [
+      "flavor compounds",
+      "is created by",
+      "dough shaping"
+    ],
+    [
+      "flavor compounds",
+      "is enhanced by",
+      "firm crust"
+    ],
+    [
+      "flavor compounds",
+      "is enhanced by",
+      "worldwide enjoyment"
+    ],
+    [
+      "flavor compounds",
+      "is influenced by",
+      "longer fermentation"
+    ],
+    [
+      "flavor compounds",
+      "is influenced by",
+      "proper rising"
+    ],
+    [
+      "flavor compounds",
+      "is influenced by",
+      "texture"
+    ],
+    [
+      "flavor compounds",
+      "is part of",
+      "baking process"
+    ],
+    [
+      "flavor compounds",
+      "is part of",
+      "complex process"
+    ],
+    [
+      "flavor compounds",
+      "is produced by",
+      "developed flavor"
+    ],
+    [
+      "flavor compounds",
+      "is produced by",
+      "yeast fermentation"
+    ],
+    [
+      "flavor compounds",
+      "is studied in",
+      "baking science"
+    ],
+    [
+      "flavor compounds",
+      "is valued in",
+      "skill appreciation"
+    ],
+    [
+      "flavor compounds",
+      "produced by",
+      "artisanal breads"
+    ],
+    [
+      "flavor compounds",
+      "produces",
+      "gas"
+    ],
+    [
+      "flavor development",
+      "creates",
+      "flavor compounds"
+    ],
+    [
+      "flavor development",
+      "enhances",
+      "carbon dioxide"
+    ],
+    [
+      "flavor development",
+      "enhances",
+      "complex process"
+    ],
+    [
+      "flavor development",
+      "enhances",
+      "crumb structure"
+    ],
+    [
+      "flavor development",
+      "enhances",
+      "fermentation process"
+    ],
+    [
+      "flavor development",
+      "enhances",
+      "full flavor potential"
+    ],
+    [
+      "flavor development",
+      "enhances",
+      "staple food"
+    ],
+    [
+      "flavor development",
+      "increases with",
+      "yeast activity"
+    ],
+    [
+      "flavor development",
+      "influences",
+      "baking outcomes"
+    ],
+    [
+      "flavor development",
+      "influences",
+      "temperature"
+    ],
+    [
+      "flavor development",
+      "involves",
+      "proteins"
+    ],
+    [
+      "flavor development",
+      "is a result of",
+      "flavor"
+    ],
+    [
+      "flavor development",
+      "is achieved through",
+      "dough shaping"
+    ],
+    [
+      "flavor development",
+      "is driven by",
+      "yeast fermentation"
+    ],
+    [
+      "flavor development",
+      "is enhanced by",
+      "proper rising"
+    ],
+    [
+      "flavor development",
+      "is foundational to",
+      "baking fundamentals"
+    ],
+    [
+      "flavor development",
+      "is influenced by",
+      "baking techniques"
+    ],
+    [
+      "flavor development",
+      "is influenced by",
+      "chemical interactions"
+    ],
+    [
+      "flavor development",
+      "is influenced by",
+      "chemical reactions"
+    ],
+    [
+      "flavor development",
+      "is influenced by",
+      "sugars"
+    ],
+    [
+      "flavor development",
+      "is part of",
+      "baking process"
+    ],
+    [
+      "flavor development",
+      "is studied in",
+      "baking science"
+    ],
+    [
+      "flavor development",
+      "leads to",
+      "complex flavors"
+    ],
+    [
+      "flavor development",
+      "leads to",
+      "developed flavor"
+    ],
+    [
+      "flavor development",
+      "requires",
+      "longer fermentation"
+    ],
+    [
+      "flavor development",
+      "stimulates",
+      "heat activation"
+    ],
+    [
+      "flour",
+      "affects",
+      "texture"
+    ],
+    [
+      "flour",
+      "contains",
+      "gluten"
+    ],
+    [
+      "flour",
+      "contributes to",
+      "crust formation"
+    ],
+    [
+      "flour",
+      "contributes to",
+      "developed flavor"
+    ],
+    [
+      "flour",
+      "contributes to",
+      "firm crust"
+    ],
+    [
+      "flour",
+      "contributes to",
+      "flavor compounds"
+    ],
+    [
+      "flour",
+      "contributes to",
+      "flavor development"
+    ],
+    [
+      "flour",
+      "creates",
+      "airy texture"
+    ],
+    [
+      "flour",
+      "enables",
+      "rise"
+    ],
+    [
+      "flour",
+      "influences",
+      "chemical interactions"
+    ],
+    [
+      "flour",
+      "initiates",
+      "fermentation process"
+    ],
+    [
+      "flour",
+      "initiates",
+      "yeast fermentation"
+    ],
+    [
+      "flour",
+      "is a component of",
+      "dough"
+    ],
+    [
+      "flour",
+      "is a component of",
+      "gelatinize"
+    ],
+    [
+      "flour",
+      "is an ingredient in",
+      "alcohol"
+    ],
+    [
+      "flour",
+      "is composed of",
+      "proteins"
+    ],
+    [
+      "flour",
+      "is enjoyed by",
+      "worldwide enjoyment"
+    ],
+    [
+      "flour",
+      "is essential for",
+      "crumb structure"
+    ],
+    [
+      "flour",
+      "is essential for",
+      "proper rising"
+    ],
+    [
+      "flour",
+      "is involved in",
+      "baking process"
+    ],
+    [
+      "flour",
+      "is involved in",
+      "chemical reactions"
+    ],
+    [
+      "flour",
+      "is made into",
+      "bread"
+    ],
+    [
+      "flour",
+      "produces",
+      "chewy texture"
+    ],
+    [
+      "flour",
+      "provides",
+      "gluten structure"
+    ],
+    [
+      "flour",
+      "utilizes",
+      "traditional methods"
+    ],
+    [
+      "full flavor potential",
+      "achieved by",
+      "baking outcomes"
+    ],
+    [
+      "full flavor potential",
+      "achieved by",
+      "rise"
+    ],
+    [
+      "full flavor potential",
+      "achieved through",
+      "fermentation process"
+    ],
+    [
+      "full flavor potential",
+      "achieves",
+      "artisanal breads"
+    ],
+    [
+      "full flavor potential",
+      "contributes to",
+      "browning"
+    ],
+    [
+      "full flavor potential",
+      "contributes to",
+      "complex flavor"
+    ],
+    [
+      "full flavor potential",
+      "contributes to",
+      "staple food"
+    ],
+    [
+      "full flavor potential",
+      "enhances",
+      "alcohol"
+    ],
+    [
+      "full flavor potential",
+      "enhances",
+      "characteristic taste"
+    ],
+    [
+      "full flavor potential",
+      "enhances",
+      "flour"
+    ],
+    [
+      "full flavor potential",
+      "enhances",
+      "proteins"
+    ],
+    [
+      "full flavor potential",
+      "enhances",
+      "sugars"
+    ],
+    [
+      "full flavor potential",
+      "is achieved by",
+      "bread"
+    ],
+    [
+      "full flavor potential",
+      "is enhanced by",
+      "flavor"
+    ],
+    [
+      "full flavor potential",
+      "is essential for",
+      "carbon dioxide"
+    ],
+    [
+      "full flavor potential",
+      "is influenced by",
+      "texture"
+    ],
+    [
+      "full flavor potential",
+      "is maximized by",
+      "proper rising"
+    ],
+    [
+      "full flavor potential",
+      "is necessary for",
+      "temperature"
+    ],
+    [
+      "full flavor potential",
+      "maximizes",
+      "ingredient interaction"
+    ],
+    [
+      "gas",
+      "affects",
+      "traditional methods"
+    ],
+    [
+      "gas",
+      "is caused by",
+      "texture"
+    ],
+    [
+      "gas",
+      "is produced by",
+      "appreciation of skill"
+    ],
+    [
+      "gas",
+      "is produced by",
+      "baking science"
+    ],
+    [
+      "gas",
+      "is produced by",
+      "bread"
+    ],
+    [
+      "gas",
+      "is produced by",
+      "characteristic taste"
+    ],
+    [
+      "gas",
+      "is produced by",
+      "firm crust"
+    ],
+    [
+      "gas",
+      "is produced by",
+      "proteins"
+    ],
+    [
+      "gas",
+      "produced by",
+      "alcohol"
+    ],
+    [
+      "gas",
+      "produced by",
+      "chewy texture"
+    ],
+    [
+      "gas",
+      "produced by",
+      "gluten structure"
+    ],
+    [
+      "gas",
+      "produces",
+      "centuries of tradition"
+    ],
+    [
+      "gas",
+      "produces",
+      "dough"
+    ],
+    [
+      "gas",
+      "produces",
+      "fermentation"
+    ],
+    [
+      "gas",
+      "produces",
+      "flavor development"
+    ],
+    [
+      "gas",
+      "produces",
+      "flour"
+    ],
+    [
+      "gas",
+      "produces",
+      "gluten"
+    ],
+    [
+      "gas",
+      "produces",
+      "proper rising"
+    ],
+    [
+      "gas",
+      "produces",
+      "skill appreciation"
+    ],
+    [
+      "gas",
+      "results in",
+      "bread shaping"
+    ],
+    [
+      "gelatinize",
+      "affects",
+      "crumb structure"
+    ],
+    [
+      "gelatinize",
+      "affects",
+      "elasticity"
+    ],
+    [
+      "gelatinize",
+      "affects",
+      "fermentation process"
+    ],
+    [
+      "gelatinize",
+      "affects",
+      "gluten structure"
+    ],
+    [
+      "gelatinize",
+      "affects",
+      "humidity"
+    ],
+    [
+      "gelatinize",
+      "affects",
+      "starches"
+    ],
+    [
+      "gelatinize",
+      "affects",
+      "texture"
+    ],
+    [
+      "gelatinize",
+      "contributes to",
+      "crust formation"
+    ],
+    [
+      "gelatinize",
+      "contributes to",
+      "rise"
+    ],
+    [
+      "gelatinize",
+      "enables",
+      "yeast fermentation"
+    ],
+    [
+      "gelatinize",
+      "enhances",
+      "complex flavors"
+    ],
+    [
+      "gelatinize",
+      "enhances",
+      "full flavor potential"
+    ],
+    [
+      "gelatinize",
+      "influences",
+      "baking science"
+    ],
+    [
+      "gelatinize",
+      "influences",
+      "browning"
+    ],
+    [
+      "gelatinize",
+      "involves",
+      "culinary art"
+    ],
+    [
+      "gelatinize",
+      "is a component of",
+      "dough"
+    ],
+    [
+      "gelatinize",
+      "is a part of",
+      "chemical processes"
+    ],
+    [
+      "gelatinize",
+      "is a process in",
+      "baking fundamentals"
+    ],
+    [
+      "gelatinize",
+      "is a process in",
+      "baking techniques"
+    ],
+    [
+      "gelatinize",
+      "is a process of",
+      "bread"
+    ],
+    [
+      "gelatinize",
+      "is a process of",
+      "complex process"
+    ],
+    [
+      "gelatinize",
+      "is achieved by",
+      "worldwide enjoyment"
+    ],
+    [
+      "gelatinize",
+      "is activated by",
+      "heat activation"
+    ],
+    [
+      "gelatinize",
+      "is affected by",
+      "firm crust"
+    ],
+    [
+      "gelatinize",
+      "is formed by",
+      "gluten"
+    ],
+    [
+      "gelatinize",
+      "is influenced by",
+      "sugars"
+    ],
+    [
+      "gelatinize",
+      "is part of",
+      "baking process"
+    ],
+    [
+      "gelatinize",
+      "occurs at",
+      "high temperatures"
+    ],
+    [
+      "gelatinize",
+      "results in",
+      "developed flavor"
+    ],
+    [
+      "gluten",
+      "contributes to",
+      "developed flavor"
+    ],
+    [
+      "gluten",
+      "enhances",
+      "baking techniques"
+    ],
+    [
+      "gluten",
+      "enhances",
+      "flavor compounds"
+    ],
+    [
+      "gluten",
+      "enhances",
+      "longer fermentation"
+    ],
+    [
+      "gluten",
+      "forms",
+      "dough"
+    ],
+    [
+      "gluten",
+      "forms",
+      "gluten structure"
+    ],
+    [
+      "gluten",
+      "influences",
+      "yeast fermentation"
+    ],
+    [
+      "gluten",
+      "interacts with",
+      "sugars"
+    ],
+    [
+      "gluten",
+      "involves",
+      "chemical processes"
+    ],
+    [
+      "gluten",
+      "is a component of",
+      "bread"
+    ],
+    [
+      "gluten",
+      "is a component of",
+      "complex product"
+    ],
+    [
+      "gluten",
+      "is a property of",
+      "elasticity"
+    ],
+    [
+      "gluten",
+      "is enhanced by",
+      "flavor development"
+    ],
+    [
+      "gluten",
+      "is influenced by",
+      "flavor"
+    ],
+    [
+      "gluten",
+      "is influenced by",
+      "heat activation"
+    ],
+    [
+      "gluten",
+      "is influenced by",
+      "texture"
+    ],
+    [
+      "gluten",
+      "is involved in",
+      "fermentation process"
+    ],
+    [
+      "gluten",
+      "is involved in",
+      "ingredient interaction"
+    ],
+    [
+      "gluten",
+      "is part of",
+      "complex process"
+    ],
+    [
+      "gluten",
+      "produced by",
+      "rise"
+    ],
+    [
+      "gluten",
+      "produces",
+      "carbon dioxide"
+    ],
+    [
+      "gluten",
+      "provides",
+      "crumb structure"
+    ],
+    [
+      "gluten structure",
+      "composed of",
+      "dough"
+    ],
+    [
+      "gluten structure",
+      "composed of",
+      "starches"
+    ],
+    [
+      "gluten structure",
+      "contributes to",
+      "characteristic taste"
+    ],
+    [
+      "gluten structure",
+      "contributes to",
+      "flavor"
+    ],
+    [
+      "gluten structure",
+      "determines",
+      "crumb structure"
+    ],
+    [
+      "gluten structure",
+      "enhances",
+      "full flavor potential"
+    ],
+    [
+      "gluten structure",
+      "influences",
+      "chemical interactions"
+    ],
+    [
+      "gluten structure",
+      "initiates",
+      "byproduct"
+    ],
+    [
+      "gluten structure",
+      "is a result of",
+      "complex process"
+    ],
+    [
+      "gluten structure",
+      "is achieved by",
+      "rise"
+    ],
+    [
+      "gluten structure",
+      "is developed by",
+      "fermentation process"
+    ],
+    [
+      "gluten structure",
+      "is formed by",
+      "flavor compounds"
+    ],
+    [
+      "gluten structure",
+      "is influenced by",
+      "carbon dioxide"
+    ],
+    [
+      "gluten structure",
+      "is influenced by",
+      "ingredient interaction"
+    ],
+    [
+      "gluten structure",
+      "shapes",
+      "dough shaping"
+    ],
+    [
+      "heat",
+      "activates",
+      "gluten"
+    ],
+    [
+      "heat",
+      "affects",
+      "airy texture"
+    ],
+    [
+      "heat",
+      "affects",
+      "crumb structure"
+    ],
+    [
+      "heat",
+      "affects",
+      "dough"
+    ],
+    [
+      "heat",
+      "affects",
+      "starches"
+    ],
+    [
+      "heat",
+      "applied to",
+      "fermentation"
+    ],
+    [
+      "heat",
+      "causes",
+      "gelatinize"
+    ],
+    [
+      "heat",
+      "contributes to",
+      "crust formation"
+    ],
+    [
+      "heat",
+      "facilitates",
+      "bread shaping"
+    ],
+    [
+      "heat",
+      "facilitates",
+      "rise"
+    ],
+    [
+      "heat",
+      "influences",
+      "baking outcomes"
+    ],
+    [
+      "heat",
+      "influences",
+      "chemical interactions"
+    ],
+    [
+      "heat",
+      "influences",
+      "fermentation process"
+    ],
+    [
+      "heat",
+      "influences",
+      "gluten structure"
+    ],
+    [
+      "heat",
+      "influences",
+      "skill appreciation"
+    ],
+    [
+      "heat",
+      "interacts with",
+      "proteins"
+    ],
+    [
+      "heat",
+      "is affected by",
+      "chewy texture"
+    ],
+    [
+      "heat",
+      "is essential for",
+      "artisanal breads"
+    ],
+    [
+      "heat",
+      "is essential for",
+      "bread"
+    ],
+    [
+      "heat",
+      "is influenced by",
+      "Maillard reaction"
+    ],
+    [
+      "heat",
+      "is influenced by",
+      "appreciation of skill"
+    ],
+    [
+      "heat",
+      "is influenced by",
+      "flavor"
+    ],
+    [
+      "heat",
+      "produced by",
+      "flavor compounds"
+    ],
+    [
+      "heat",
+      "produces",
+      "carbon dioxide"
+    ],
+    [
+      "heat",
+      "produces",
+      "gas"
+    ],
+    [
+      "heat activation",
+      "achieves",
+      "full flavor potential"
+    ],
+    [
+      "heat activation",
+      "activates",
+      "characteristic taste"
+    ],
+    [
+      "heat activation",
+      "activates",
+      "crust formation"
+    ],
+    [
+      "heat activation",
+      "activates",
+      "gluten structure"
+    ],
+    [
+      "heat activation",
+      "activates",
+      "kneading"
+    ],
+    [
+      "heat activation",
+      "activates",
+      "starches"
+    ],
+    [
+      "heat activation",
+      "affects",
+      "crumb structure"
+    ],
+    [
+      "heat activation",
+      "affects",
+      "humidity"
+    ],
+    [
+      "heat activation",
+      "contributes to",
+      "bread shaping"
+    ],
+    [
+      "heat activation",
+      "creates",
+      "complex flavors"
+    ],
+    [
+      "heat activation",
+      "enhances",
+      "baking techniques"
+    ],
+    [
+      "heat activation",
+      "enhances",
+      "complex product"
+    ],
+    [
+      "heat activation",
+      "facilitates",
+      "ingredient interaction"
+    ],
+    [
+      "heat activation",
+      "influences",
+      "baking outcomes"
+    ],
+    [
+      "heat activation",
+      "is achieved by",
+      "firm crust"
+    ],
+    [
+      "heat activation",
+      "is enhanced by",
+      "worldwide enjoyment"
+    ],
+    [
+      "heat activation",
+      "is influenced by",
+      "longer fermentation"
+    ],
+    [
+      "heat activation",
+      "leads to",
+      "developed flavor"
+    ],
+    [
+      "heat activation",
+      "results in",
+      "network formation"
+    ],
+    [
+      "heat activation",
+      "triggers",
+      "chemical interactions"
+    ],
+    [
+      "heat activation",
+      "triggers",
+      "chemical reactions"
+    ],
+    [
+      "high temperatures",
+      "affects",
+      "gluten"
+    ],
+    [
+      "high temperatures",
+      "affects",
+      "gluten structure"
+    ],
+    [
+      "high temperatures",
+      "affects",
+      "kneading"
+    ],
+    [
+      "high temperatures",
+      "affects",
+      "proteins"
+    ],
+    [
+      "high temperatures",
+      "affects",
+      "starches"
+    ],
+    [
+      "high temperatures",
+      "affects",
+      "texture"
+    ],
+    [
+      "high temperatures",
+      "contributes to",
+      "crust formation"
+    ],
+    [
+      "high temperatures",
+      "creates",
+      "characteristic taste"
+    ],
+    [
+      "high temperatures",
+      "creates",
+      "complex flavors"
+    ],
+    [
+      "high temperatures",
+      "determines",
+      "baking outcomes"
+    ],
+    [
+      "high temperatures",
+      "enhances",
+      "complex flavor"
+    ],
+    [
+      "high temperatures",
+      "enhances",
+      "developed flavor"
+    ],
+    [
+      "high temperatures",
+      "enhances",
+      "full flavor potential"
+    ],
+    [
+      "high temperatures",
+      "influences",
+      "baking process"
+    ],
+    [
+      "high temperatures",
+      "influences",
+      "crumb structure"
+    ],
+    [
+      "high temperatures",
+      "is affected by",
+      "centuries of tradition"
+    ],
+    [
+      "high temperatures",
+      "is influenced by",
+      "firm crust"
+    ],
+    [
+      "high temperatures",
+      "is involved in",
+      "fermentation process"
+    ],
+    [
+      "high temperatures",
+      "requires",
+      "heat activation"
+    ],
+    [
+      "high temperatures",
+      "triggers",
+      "chemical reactions"
+    ],
+    [
+      "humidity",
+      "affects",
+      "carbon dioxide"
+    ],
+    [
+      "humidity",
+      "affects",
+      "chewy texture"
+    ],
+    [
+      "humidity",
+      "affects",
+      "complex flavor"
+    ],
+    [
+      "humidity",
+      "affects",
+      "gas"
+    ],
+    [
+      "humidity",
+      "affects",
+      "gluten structure"
+    ],
+    [
+      "humidity",
+      "affects",
+      "texture"
+    ],
+    [
+      "humidity",
+      "aids in",
+      "rise"
+    ],
+    [
+      "humidity",
+      "enhanced by",
+      "flavor compounds"
+    ],
+    [
+      "humidity",
+      "enhanced by",
+      "worldwide enjoyment"
+    ],
+    [
+      "humidity",
+      "enhances",
+      "baking techniques"
+    ],
+    [
+      "humidity",
+      "enhances",
+      "developed flavor"
+    ],
+    [
+      "humidity",
+      "enhances",
+      "yeast activity"
+    ],
+    [
+      "humidity",
+      "influences",
+      "dough"
+    ],
+    [
+      "humidity",
+      "is influenced by",
+      "flour"
+    ],
+    [
+      "humidity",
+      "is influenced by",
+      "full flavor potential"
+    ],
+    [
+      "humidity",
+      "is influenced by",
+      "high temperatures"
+    ],
+    [
+      "ingredient interaction",
+      "affects",
+      "baking outcomes"
+    ],
+    [
+      "ingredient interaction",
+      "affects",
+      "developed flavor"
+    ],
+    [
+      "ingredient interaction",
+      "involves",
+      "dough shaping"
+    ],
+    [
+      "ingredient interaction",
+      "involves",
+      "flavor development"
+    ],
+    [
+      "ingredient interaction",
+      "is essential for",
+      "baking process"
+    ],
+    [
+      "ingredient interaction",
+      "is fundamental to",
+      "staple food"
+    ],
+    [
+      "ingredient interaction",
+      "is influenced by",
+      "bread shaping"
+    ],
+    [
+      "ingredient interaction",
+      "produces",
+      "byproduct"
+    ],
+    [
+      "ingredient interaction",
+      "produces",
+      "gas"
+    ],
+    [
+      "ingredient interaction",
+      "results from",
+      "complex product"
+    ],
+    [
+      "kneading",
+      "affects",
+      "crumb structure"
+    ],
+    [
+      "kneading",
+      "affects",
+      "dough shaping"
+    ],
+    [
+      "kneading",
+      "affects",
+      "humidity"
+    ],
+    [
+      "kneading",
+      "affects",
+      "starches"
+    ],
+    [
+      "kneading",
+      "determines",
+      "baking outcomes"
+    ],
+    [
+      "kneading",
+      "develops",
+      "complex flavor"
+    ],
+    [
+      "kneading",
+      "develops",
+      "dough"
+    ],
+    [
+      "kneading",
+      "develops",
+      "gluten structure"
+    ],
+    [
+      "kneading",
+      "develops",
+      "proteins"
+    ],
+    [
+      "kneading",
+      "enhances",
+      "full flavor potential"
+    ],
+    [
+      "kneading",
+      "enhances",
+      "rise"
+    ],
+    [
+      "kneading",
+      "enhances",
+      "yeast activity"
+    ],
+    [
+      "kneading",
+      "facilitates",
+      "browning"
+    ],
+    [
+      "kneading",
+      "facilitates",
+      "gelatinize"
+    ],
+    [
+      "kneading",
+      "facilitates",
+      "network formation"
+    ],
+    [
+      "kneading",
+      "influences",
+      "centuries of tradition"
+    ],
+    [
+      "kneading",
+      "influences",
+      "heat"
+    ],
+    [
+      "kneading",
+      "involves",
+      "traditional methods"
+    ],
+    [
+      "kneading",
+      "is developed by",
+      "firm crust"
+    ],
+    [
+      "kneading",
+      "is developed by",
+      "texture"
+    ],
+    [
+      "kneading",
+      "is enhanced by",
+      "flavor development"
+    ],
+    [
+      "kneading",
+      "is enjoyed by",
+      "worldwide enjoyment"
+    ],
+    [
+      "kneading",
+      "is essential for",
+      "bread"
+    ],
+    [
+      "kneading",
+      "is essential for",
+      "flour"
+    ],
+    [
+      "kneading",
+      "is influenced by",
+      "flavor compounds"
+    ],
+    [
+      "kneading",
+      "is part of",
+      "baking process"
+    ],
+    [
+      "kneading",
+      "is part of",
+      "complex process"
+    ],
+    [
+      "kneading",
+      "is part of",
+      "fermentation process"
+    ],
+    [
+      "kneading",
+      "is produced by",
+      "alcohol"
+    ],
+    [
+      "kneading",
+      "produces",
+      "artisanal breads"
+    ],
+    [
+      "kneading",
+      "produces",
+      "gas"
+    ],
+    [
+      "kneading",
+      "requires",
+      "complex product"
+    ],
+    [
+      "kneading",
+      "triggers",
+      "chemical interactions"
+    ],
+    [
+      "longer fermentation",
+      "affects",
+      "baking outcomes"
+    ],
+    [
+      "longer fermentation",
+      "affects",
+      "chemical interactions"
+    ],
+    [
+      "longer fermentation",
+      "affects",
+      "dough"
+    ],
+    [
+      "longer fermentation",
+      "affects",
+      "ingredient interaction"
+    ],
+    [
+      "longer fermentation",
+      "enables",
+      "flour"
+    ],
+    [
+      "longer fermentation",
+      "enables",
+      "full flavor potential"
+    ],
+    [
+      "longer fermentation",
+      "enhances",
+      "complex flavor"
+    ],
+    [
+      "longer fermentation",
+      "enhances",
+      "kneading"
+    ],
+    [
+      "longer fermentation",
+      "facilitates",
+      "bread shaping"
+    ],
+    [
+      "longer fermentation",
+      "improves",
+      "baking techniques"
+    ],
+    [
+      "longer fermentation",
+      "improves",
+      "gluten structure"
+    ],
+    [
+      "longer fermentation",
+      "influences",
+      "fermentation process"
+    ],
+    [
+      "longer fermentation",
+      "is a result of",
+      "gelatinize"
+    ],
+    [
+      "longer fermentation",
+      "is achieved through",
+      "worldwide enjoyment"
+    ],
+    [
+      "longer fermentation",
+      "is associated with",
+      "complex process"
+    ],
+    [
+      "longer fermentation",
+      "is characteristic of",
+      "artisanal breads"
+    ],
+    [
+      "longer fermentation",
+      "is enhanced by",
+      "browning"
+    ],
+    [
+      "longer fermentation",
+      "is enhanced by",
+      "complex flavors"
+    ],
+    [
+      "longer fermentation",
+      "is enhanced by",
+      "texture"
+    ],
+    [
+      "longer fermentation",
+      "produces",
+      "gas"
+    ],
+    [
+      "longer fermentation",
+      "provides",
+      "sugars"
+    ],
+    [
+      "longer fermentation",
+      "requires",
+      "appreciation of skill"
+    ],
+    [
+      "longer fermentation",
+      "requires",
+      "bread"
+    ],
+    [
+      "longer fermentation",
+      "requires",
+      "culinary art"
+    ],
+    [
+      "longer fermentation",
+      "requires",
+      "dough handling"
+    ],
+    [
+      "longer fermentation",
+      "results from",
+      "complex product"
+    ],
+    [
+      "network formation",
+      "creates",
+      "dough"
+    ],
+    [
+      "network formation",
+      "creates",
+      "gas"
+    ],
+    [
+      "network formation",
+      "facilitates",
+      "complex flavors"
+    ],
+    [
+      "network formation",
+      "involves",
+      "starches"
+    ],
+    [
+      "network formation",
+      "is a result of",
+      "complex product"
+    ],
+    [
+      "network formation",
+      "is a result of",
+      "gelatinize"
+    ],
+    [
+      "network formation",
+      "is a result of",
+      "rise"
+    ],
+    [
+      "network formation",
+      "is essential for",
+      "crust formation"
+    ],
+    [
+      "network formation",
+      "is formed by",
+      "firm crust"
+    ],
+    [
+      "network formation",
+      "is part of",
+      "baking techniques"
+    ],
+    [
+      "network formation",
+      "is utilized in",
+      "sugars"
+    ],
+    [
+      "network formation",
+      "leads to",
+      "full flavor potential"
+    ],
+    [
+      "network formation",
+      "traps",
+      "carbon dioxide"
+    ],
+    [
+      "proper rising",
+      "affects",
+      "temperature"
+    ],
+    [
+      "proper rising",
+      "contributes to",
+      "browning"
+    ],
+    [
+      "proper rising",
+      "determines",
+      "baking outcomes"
+    ],
+    [
+      "proper rising",
+      "ensures",
+      "baking fundamentals"
+    ],
+    [
+      "proper rising",
+      "ensures",
+      "culinary techniques"
+    ],
+    [
+      "proper rising",
+      "ensures",
+      "kneading"
+    ],
+    [
+      "proper rising",
+      "ensures",
+      "rise"
+    ],
+    [
+      "proper rising",
+      "is achieved by",
+      "network formation"
+    ],
+    [
+      "proper rising",
+      "is affected by",
+      "chemical reactions"
+    ],
+    [
+      "proper rising",
+      "is affected by",
+      "heat"
+    ],
+    [
+      "proper rising",
+      "is characteristic of",
+      "artisanal breads"
+    ],
+    [
+      "proper rising",
+      "is influenced by",
+      "sugars"
+    ],
+    [
+      "proper rising",
+      "requires",
+      "baking techniques"
+    ],
+    [
+      "proper rising",
+      "requires",
+      "dough shaping"
+    ],
+    [
+      "proper rising",
+      "results in",
+      "airy texture"
+    ],
+    [
+      "proteins",
+      "composed of",
+      "culinary art"
+    ],
+    [
+      "proteins",
+      "composes",
+      "bread"
+    ],
+    [
+      "proteins",
+      "composes",
+      "crumb structure"
+    ],
+    [
+      "proteins",
+      "comprises",
+      "baking fundamentals"
+    ],
+    [
+      "proteins",
+      "comprises",
+      "gluten structure"
+    ],
+    [
+      "proteins",
+      "contributes to",
+      "crust formation"
+    ],
+    [
+      "proteins",
+      "contributes to",
+      "ingredient interaction"
+    ],
+    [
+      "proteins",
+      "interacts with",
+      "chemical interactions"
+    ],
+    [
+      "proteins",
+      "interacts with",
+      "sugars"
+    ],
+    [
+      "proteins",
+      "involves",
+      "chemical reactions"
+    ],
+    [
+      "proteins",
+      "is based on",
+      "baking science"
+    ],
+    [
+      "proteins",
+      "is influenced by",
+      "characteristic taste"
+    ],
+    [
+      "proteins",
+      "is influenced by",
+      "chemical processes"
+    ],
+    [
+      "proteins",
+      "is influenced by",
+      "chewy texture"
+    ],
+    [
+      "proteins",
+      "is influenced by",
+      "flavor"
+    ],
+    [
+      "proteins",
+      "is influenced by",
+      "yeast activity"
+    ],
+    [
+      "proteins",
+      "is involved in",
+      "baking process"
+    ],
+    [
+      "proteins",
+      "is utilized in",
+      "dough shaping"
+    ],
+    [
+      "proteins",
+      "produces",
+      "rise"
+    ],
+    [
+      "rise",
+      "causes",
+      "airy texture"
+    ],
+    [
+      "rise",
+      "causes",
+      "dough"
+    ],
+    [
+      "rise",
+      "contributes to",
+      "flavor development"
+    ],
+    [
+      "rise",
+      "is a result of",
+      "firm crust"
+    ],
+    [
+      "rise",
+      "is caused by",
+      "chemical interactions"
+    ],
+    [
+      "rise",
+      "is caused by",
+      "fermentation"
+    ],
+    [
+      "rise",
+      "is caused by",
+      "texture"
+    ],
+    [
+      "rise",
+      "is enhanced by",
+      "complex flavor"
+    ],
+    [
+      "rise",
+      "is enhanced by",
+      "complex flavors"
+    ],
+    [
+      "rise",
+      "is part of",
+      "baking process"
+    ],
+    [
+      "rise",
+      "is produced by",
+      "flavor compounds"
+    ],
+    [
+      "rise",
+      "results in",
+      "chemical reactions"
+    ],
+    [
+      "rise",
+      "results in",
+      "worldwide enjoyment"
+    ],
+    [
+      "skill appreciation",
+      "demonstrates",
+      "fermentation process"
+    ],
+    [
+      "skill appreciation",
+      "enhances",
+      "alcohol"
+    ],
+    [
+      "skill appreciation",
+      "informs",
+      "centuries of tradition"
+    ],
+    [
+      "skill appreciation",
+      "is appreciated by",
+      "browning"
+    ],
+    [
+      "skill appreciation",
+      "is appreciated by",
+      "flavor development"
+    ],
+    [
+      "skill appreciation",
+      "is appreciated for",
+      "Maillard reaction"
+    ],
+    [
+      "skill appreciation",
+      "is appreciated for",
+      "elasticity"
+    ],
+    [
+      "skill appreciation",
+      "is appreciated for",
+      "firm crust"
+    ],
+    [
+      "skill appreciation",
+      "is appreciated for",
+      "texture"
+    ],
+    [
+      "skill appreciation",
+      "is enhanced by",
+      "proper rising"
+    ],
+    [
+      "skill appreciation",
+      "is influenced by",
+      "dough shaping"
+    ],
+    [
+      "skill appreciation",
+      "is linked to",
+      "baking science"
+    ],
+    [
+      "skill appreciation",
+      "is valued in",
+      "fermentation"
+    ],
+    [
+      "skill appreciation",
+      "leads to",
+      "complex process"
+    ],
+    [
+      "skill appreciation",
+      "leads to",
+      "full flavor potential"
+    ],
+    [
+      "skill appreciation",
+      "results in",
+      "chewy texture"
+    ],
+    [
+      "staple food",
+      "is a category of",
+      "artisanal breads"
+    ],
+    [
+      "staple food",
+      "is a characteristic of",
+      "alcohol"
+    ],
+    [
+      "staple food",
+      "is a characteristic of",
+      "browning"
+    ],
+    [
+      "staple food",
+      "is a characteristic of",
+      "sugars"
+    ],
+    [
+      "staple food",
+      "is a component of",
+      "flavor"
+    ],
+    [
+      "staple food",
+      "is a component of",
+      "flavor compounds"
+    ],
+    [
+      "staple food",
+      "is a component of",
+      "gluten"
+    ],
+    [
+      "staple food",
+      "is a component of",
+      "proteins"
+    ],
+    [
+      "staple food",
+      "is a factor in",
+      "fermentation process"
+    ],
+    [
+      "staple food",
+      "is a factor in",
+      "humidity"
+    ],
+    [
+      "staple food",
+      "is a result of",
+      "baking outcomes"
+    ],
+    [
+      "staple food",
+      "is a result of",
+      "byproduct"
+    ],
+    [
+      "staple food",
+      "is a result of",
+      "proper rising"
+    ],
+    [
+      "staple food",
+      "is a staple food due to",
+      "chemical interactions"
+    ],
+    [
+      "staple food",
+      "is a type of",
+      "complex flavor"
+    ],
+    [
+      "staple food",
+      "is a type of",
+      "complex process"
+    ],
+    [
+      "staple food",
+      "is a type of",
+      "crust formation"
+    ],
+    [
+      "staple food",
+      "is a type of",
+      "rise"
+    ],
+    [
+      "staple food",
+      "is a type of",
+      "temperature"
+    ],
+    [
+      "staple food",
+      "is appreciated by",
+      "appreciation of skill"
+    ],
+    [
+      "staple food",
+      "is enjoyed by",
+      "heat"
+    ],
+    [
+      "staple food",
+      "is enjoyed worldwide as",
+      "worldwide enjoyment"
+    ],
+    [
+      "staple food",
+      "is essential for",
+      "gluten structure"
+    ],
+    [
+      "staple food",
+      "is influenced by",
+      "dough shaping"
+    ],
+    [
+      "staple food",
+      "is linked to",
+      "skill appreciation"
+    ],
+    [
+      "staple food",
+      "results in",
+      "baking process"
+    ],
+    [
+      "starches",
+      "affects",
+      "baking techniques"
+    ],
+    [
+      "starches",
+      "composed of",
+      "proteins"
+    ],
+    [
+      "starches",
+      "contributes to",
+      "crumb structure"
+    ],
+    [
+      "starches",
+      "derived from",
+      "airy texture"
+    ],
+    [
+      "starches",
+      "derived from",
+      "flavor compounds"
+    ],
+    [
+      "starches",
+      "enhances",
+      "full flavor potential"
+    ],
+    [
+      "starches",
+      "involves",
+      "baking process"
+    ],
+    [
+      "starches",
+      "is a component of",
+      "flour"
+    ],
+    [
+      "starches",
+      "is influenced by",
+      "chewy texture"
+    ],
+    [
+      "starches",
+      "is influenced by",
+      "fermentation"
+    ],
+    [
+      "starches",
+      "is influenced by",
+      "rise"
+    ],
+    [
+      "starches",
+      "is influenced by",
+      "texture"
+    ],
+    [
+      "starches",
+      "is produced by",
+      "gas"
+    ],
+    [
+      "starches",
+      "is related to",
+      "appreciation of skill"
+    ],
+    [
+      "starches",
+      "produces",
+      "carbon dioxide"
+    ],
+    [
+      "sugars",
+      "composed of",
+      "flour"
+    ],
+    [
+      "sugars",
+      "contributes to",
+      "crust formation"
+    ],
+    [
+      "sugars",
+      "derived from",
+      "characteristic taste"
+    ],
+    [
+      "sugars",
+      "feeds on",
+      "centuries of tradition"
+    ],
+    [
+      "sugars",
+      "influences",
+      "dough shaping"
+    ],
+    [
+      "sugars",
+      "involves",
+      "chemical processes"
+    ],
+    [
+      "sugars",
+      "is a component of",
+      "bread"
+    ],
+    [
+      "sugars",
+      "is a source of",
+      "chewy texture"
+    ],
+    [
+      "sugars",
+      "produced by",
+      "rise"
+    ],
+    [
+      "sugars",
+      "produces",
+      "gas"
+    ],
+    [
+      "temperature",
+      "activates",
+      "heat activation"
+    ],
+    [
+      "temperature",
+      "affects",
+      "airy texture"
+    ],
+    [
+      "temperature",
+      "affects",
+      "crust formation"
+    ],
+    [
+      "temperature",
+      "affects",
+      "gluten structure"
+    ],
+    [
+      "temperature",
+      "affects",
+      "proteins"
+    ],
+    [
+      "temperature",
+      "contributes to",
+      "crumb structure"
+    ],
+    [
+      "temperature",
+      "drives",
+      "chemical processes"
+    ],
+    [
+      "temperature",
+      "enables",
+      "network formation"
+    ],
+    [
+      "temperature",
+      "enhances",
+      "complex flavor"
+    ],
+    [
+      "temperature",
+      "enhances",
+      "complex flavors"
+    ],
+    [
+      "temperature",
+      "guides",
+      "baking techniques"
+    ],
+    [
+      "temperature",
+      "influences",
+      "gluten"
+    ],
+    [
+      "temperature",
+      "is affected by",
+      "browning"
+    ],
+    [
+      "temperature",
+      "is essential for",
+      "kneading"
+    ],
+    [
+      "temperature",
+      "is influenced by",
+      "firm crust"
+    ],
+    [
+      "temperature",
+      "triggers",
+      "chemical reactions"
+    ],
+    [
+      "texture",
+      "affects",
+      "baking outcomes"
+    ],
+    [
+      "texture",
+      "affects",
+      "fermentation"
+    ],
+    [
+      "texture",
+      "contributes to",
+      "firm crust"
+    ],
+    [
+      "texture",
+      "determines",
+      "crumb structure"
+    ],
+    [
+      "texture",
+      "influences",
+      "bread shaping"
+    ],
+    [
+      "texture",
+      "is affected by",
+      "dough shaping"
+    ],
+    [
+      "texture",
+      "is affected by",
+      "heat"
+    ],
+    [
+      "texture",
+      "is caused by",
+      "network formation"
+    ],
+    [
+      "texture",
+      "is enhanced by",
+      "flavor development"
+    ],
+    [
+      "texture",
+      "is enjoyed by",
+      "worldwide enjoyment"
+    ],
+    [
+      "texture",
+      "is influenced by",
+      "browning"
+    ],
+    [
+      "texture",
+      "results in",
+      "proper rising"
+    ],
+    [
+      "traditional methods",
+      "achieved through",
+      "developed flavor"
+    ],
+    [
+      "traditional methods",
+      "derived from",
+      "artisanal breads"
+    ],
+    [
+      "traditional methods",
+      "enhances",
+      "flavor development"
+    ],
+    [
+      "traditional methods",
+      "influenced by",
+      "Maillard reaction"
+    ],
+    [
+      "traditional methods",
+      "influenced by",
+      "alcohol"
+    ],
+    [
+      "traditional methods",
+      "influenced by",
+      "bread shaping"
+    ],
+    [
+      "traditional methods",
+      "influenced by",
+      "gas"
+    ],
+    [
+      "traditional methods",
+      "influences",
+      "baking techniques"
+    ],
+    [
+      "traditional methods",
+      "influences",
+      "dough handling"
+    ],
+    [
+      "traditional methods",
+      "influences",
+      "humidity"
+    ],
+    [
+      "traditional methods",
+      "influences",
+      "proteins"
+    ],
+    [
+      "traditional methods",
+      "informs",
+      "yeast activity"
+    ],
+    [
+      "traditional methods",
+      "is associated with",
+      "longer fermentation"
+    ],
+    [
+      "traditional methods",
+      "is based on",
+      "yeast fermentation"
+    ],
+    [
+      "traditional methods",
+      "is influenced by",
+      "browning"
+    ],
+    [
+      "traditional methods",
+      "is influenced by",
+      "complex process"
+    ],
+    [
+      "traditional methods",
+      "is influenced by",
+      "crumb structure"
+    ],
+    [
+      "traditional methods",
+      "is influenced by",
+      "dough"
+    ],
+    [
+      "traditional methods",
+      "is influenced by",
+      "gelatinize"
+    ],
+    [
+      "traditional methods",
+      "utilizes",
+      "bread"
+    ],
+    [
+      "traditional methods",
+      "utilizes",
+      "dough shaping"
+    ],
+    [
+      "traditional methods",
+      "utilizes",
+      "fermentation"
+    ],
+    [
+      "traditional methods",
+      "utilizes",
+      "fermentation process"
+    ],
+    [
+      "traditional methods",
+      "utilizes",
+      "temperature"
+    ],
+    [
+      "worldwide enjoyment",
+      "achieved through",
+      "full flavor potential"
+    ],
+    [
+      "worldwide enjoyment",
+      "is appreciated for",
+      "elasticity"
+    ],
+    [
+      "worldwide enjoyment",
+      "is enhanced by",
+      "proper rising"
+    ],
+    [
+      "worldwide enjoyment",
+      "is enjoyed by",
+      "flavor"
+    ],
+    [
+      "worldwide enjoyment",
+      "is enjoyed worldwide for",
+      "gas"
+    ],
+    [
+      "worldwide enjoyment",
+      "is influenced by",
+      "fermentation"
+    ],
+    [
+      "worldwide enjoyment",
+      "is linked to",
+      "browning"
+    ],
+    [
+      "worldwide enjoyment",
+      "is related to",
+      "starches"
+    ],
+    [
+      "yeast activity",
+      "affects",
+      "bread shaping"
+    ],
+    [
+      "yeast activity",
+      "affects",
+      "crust formation"
+    ],
+    [
+      "yeast activity",
+      "affects",
+      "dough"
+    ],
+    [
+      "yeast activity",
+      "affects",
+      "gluten"
+    ],
+    [
+      "yeast activity",
+      "affects",
+      "starches"
+    ],
+    [
+      "yeast activity",
+      "creates",
+      "airy texture"
+    ],
+    [
+      "yeast activity",
+      "depends on",
+      "chewy texture"
+    ],
+    [
+      "yeast activity",
+      "enhances",
+      "artisanal breads"
+    ],
+    [
+      "yeast activity",
+      "enhances",
+      "developed flavor"
+    ],
+    [
+      "yeast activity",
+      "enhances",
+      "full flavor potential"
+    ],
+    [
+      "yeast activity",
+      "feeds on",
+      "sugars"
+    ],
+    [
+      "yeast activity",
+      "influences",
+      "characteristic taste"
+    ],
+    [
+      "yeast activity",
+      "influences",
+      "dough shaping"
+    ],
+    [
+      "yeast activity",
+      "influences",
+      "flavor compounds"
+    ],
+    [
+      "yeast activity",
+      "influences",
+      "gelatinize"
+    ],
+    [
+      "yeast activity",
+      "influences",
+      "gluten structure"
+    ],
+    [
+      "yeast activity",
+      "influences",
+      "texture"
+    ],
+    [
+      "yeast activity",
+      "involves",
+      "chemical interactions"
+    ],
+    [
+      "yeast activity",
+      "is affected by",
+      "appreciation of skill"
+    ],
+    [
+      "yeast activity",
+      "is essential for",
+      "network formation"
+    ],
+    [
+      "yeast activity",
+      "is influenced by",
+      "worldwide enjoyment"
+    ],
+    [
+      "yeast activity",
+      "is part of",
+      "ingredient interaction"
+    ],
+    [
+      "yeast activity",
+      "produces",
+      "bread"
+    ],
+    [
+      "yeast activity",
+      "produces",
+      "gas"
+    ],
+    [
+      "yeast activity",
+      "results from",
+      "complex product"
+    ],
+    [
+      "yeast fermentation",
+      "affects",
+      "chemical reactions"
+    ],
+    [
+      "yeast fermentation",
+      "affects",
+      "crumb structure"
+    ],
+    [
+      "yeast fermentation",
+      "affects",
+      "gluten structure"
+    ],
+    [
+      "yeast fermentation",
+      "affects",
+      "humidity"
+    ],
+    [
+      "yeast fermentation",
+      "causes",
+      "rise"
+    ],
+    [
+      "yeast fermentation",
+      "contributes to",
+      "complex flavor"
+    ],
+    [
+      "yeast fermentation",
+      "contributes to",
+      "developed flavor"
+    ],
+    [
+      "yeast fermentation",
+      "contributes to",
+      "full flavor potential"
+    ],
+    [
+      "yeast fermentation",
+      "dependent on",
+      "flour"
+    ],
+    [
+      "yeast fermentation",
+      "enhances",
+      "longer fermentation"
+    ],
+    [
+      "yeast fermentation",
+      "feeds on",
+      "sugars"
+    ],
+    [
+      "yeast fermentation",
+      "involves",
+      "proteins"
+    ],
+    [
+      "yeast fermentation",
+      "involves",
+      "yeast activity"
+    ],
+    [
+      "yeast fermentation",
+      "is a type of",
+      "staple food"
+    ],
+    [
+      "yeast fermentation",
+      "is enhanced by",
+      "skill appreciation"
+    ],
+    [
+      "yeast fermentation",
+      "is linked to",
+      "appreciation of skill"
+    ],
+    [
+      "yeast fermentation",
+      "produces",
+      "artisanal breads"
+    ],
+    [
+      "yeast fermentation",
+      "produces",
+      "bread"
+    ],
+    [
+      "yeast fermentation",
+      "produces",
+      "byproduct"
+    ],
+    [
+      "yeast fermentation",
+      "produces",
+      "complex flavors"
+    ],
+    [
+      "yeast fermentation",
+      "produces",
+      "dough"
+    ],
+    [
+      "yeast fermentation",
+      "results from",
+      "worldwide enjoyment"
+    ]
+  ],
+  "edges": [
+    "achieved by",
+    "achieved through",
+    "achieves",
+    "activates",
+    "affected by",
+    "affects",
+    "aids in",
+    "applied to",
+    "caused by",
+    "causes",
+    "competes with",
+    "composed of",
+    "composes",
+    "comprises",
+    "consumes",
+    "contains",
+    "contributes to",
+    "creates",
+    "demonstrates",
+    "dependent on",
+    "depends on",
+    "derived from",
+    "determined by",
+    "determines",
+    "developed by",
+    "develops",
+    "drives",
+    "enables",
+    "enhanced by",
+    "enhances",
+    "ensures",
+    "facilitates",
+    "feeds on",
+    "formed by",
+    "forms",
+    "fosters",
+    "fundamentals of",
+    "guides",
+    "has",
+    "highlights",
+    "improves",
+    "includes",
+    "increases with",
+    "influenced by",
+    "influences",
+    "informs",
+    "initiates",
+    "interacts with",
+    "involves",
+    "is a byproduct of",
+    "is a category of",
+    "is a characteristic of",
+    "is a component of",
+    "is a factor in",
+    "is a feature of",
+    "is a focus of",
+    "is a form of",
+    "is a part of",
+    "is a precursor to",
+    "is a process in",
+    "is a process involving",
+    "is a process of",
+    "is a product of",
+    "is a property of",
+    "is a result of",
+    "is a source of",
+    "is a staple food due to",
+    "is a type of",
+    "is achieved by",
+    "is achieved through",
+    "is activated by",
+    "is affected by",
+    "is an ingredient in",
+    "is appreciated by",
+    "is appreciated for",
+    "is appreciated through",
+    "is associated with",
+    "is based on",
+    "is caused by",
+    "is characteristic of",
+    "is characterized by",
+    "is composed of",
+    "is connected to",
+    "is consumed by",
+    "is created by",
+    "is crucial for",
+    "is defined by",
+    "is derived from",
+    "is determined by",
+    "is developed by",
+    "is developed through",
+    "is driven by",
+    "is enhanced by",
+    "is enjoyed by",
+    "is enjoyed worldwide",
+    "is enjoyed worldwide as",
+    "is enjoyed worldwide for",
+    "is essential for",
+    "is formed by",
+    "is foundational to",
+    "is fundamental to",
+    "is influenced by",
+    "is involved in",
+    "is linked to",
+    "is made from",
+    "is made into",
+    "is maximized by",
+    "is necessary for",
+    "is part of",
+    "is performed on",
+    "is produced by",
+    "is produced in",
+    "is recognized for",
+    "is reflected in",
+    "is related to",
+    "is rooted in",
+    "is shaped by",
+    "is significant for",
+    "is studied in",
+    "is utilized in",
+    "is valued for",
+    "is valued in",
+    "leads to",
+    "maximizes",
+    "occurs at",
+    "occurs during",
+    "occurs in",
+    "part of",
+    "produced as",
+    "produced by",
+    "produces",
+    "promotes",
+    "provides",
+    "reacts with",
+    "requires",
+    "result from",
+    "result of",
+    "results from",
+    "results in",
+    "set by",
+    "shapes",
+    "stimulates",
+    "traps",
+    "triggers",
+    "underpins",
+    "utilizes"
+  ]
+}

@@ -1,0 +1,4316 @@
+{
+  "entities": [
+    "Euclidean geometry",
+    "accuracy",
+    "adaptable designs",
+    "advancements",
+    "algorithms",
+    "angles",
+    "architecture",
+    "art",
+    "artificial intelligence",
+    "balance",
+    "beauty of mathematics",
+    "calculations",
+    "computational origami",
+    "computer science",
+    "creations",
+    "deployable solar panels",
+    "dimensions",
+    "edges",
+    "engineering",
+    "exploration",
+    "folded structure",
+    "folding patterns",
+    "folds",
+    "forms",
+    "geometric concepts",
+    "geometric principles",
+    "graph theory",
+    "innovative structures",
+    "integrity",
+    "intricate designs",
+    "manipulation",
+    "material science",
+    "mathematical concepts",
+    "mathematics",
+    "medical devices",
+    "multidisciplinary field",
+    "origami",
+    "origami artists",
+    "paper folding",
+    "precision",
+    "proportion",
+    "ratio",
+    "repetitions",
+    "robotics",
+    "scaling",
+    "science",
+    "shapes",
+    "software programs",
+    "stability",
+    "structural soundness",
+    "symmetrical designs",
+    "symmetry",
+    "technology",
+    "three-dimensional structures",
+    "transformation",
+    "vertices",
+    "visual appeal"
+  ],
+  "relations": [
+    [
+      "Euclidean geometry",
+      "contributes to",
+      "balance"
+    ],
+    [
+      "Euclidean geometry",
+      "contributes to",
+      "computer science"
+    ],
+    [
+      "Euclidean geometry",
+      "creates",
+      "forms"
+    ],
+    [
+      "Euclidean geometry",
+      "defines",
+      "dimensions"
+    ],
+    [
+      "Euclidean geometry",
+      "defines",
+      "shapes"
+    ],
+    [
+      "Euclidean geometry",
+      "defines",
+      "symmetry"
+    ],
+    [
+      "Euclidean geometry",
+      "defines",
+      "vertices"
+    ],
+    [
+      "Euclidean geometry",
+      "develops",
+      "algorithms"
+    ],
+    [
+      "Euclidean geometry",
+      "facilitates",
+      "intricate designs"
+    ],
+    [
+      "Euclidean geometry",
+      "facilitates",
+      "transformation"
+    ],
+    [
+      "Euclidean geometry",
+      "guides",
+      "folding patterns"
+    ],
+    [
+      "Euclidean geometry",
+      "guides",
+      "manipulation"
+    ],
+    [
+      "Euclidean geometry",
+      "influences",
+      "folded structure"
+    ],
+    [
+      "Euclidean geometry",
+      "informs",
+      "symmetrical designs"
+    ],
+    [
+      "Euclidean geometry",
+      "involves",
+      "angles"
+    ],
+    [
+      "Euclidean geometry",
+      "is applied in",
+      "architecture"
+    ],
+    [
+      "Euclidean geometry",
+      "is applied in",
+      "paper folding"
+    ],
+    [
+      "Euclidean geometry",
+      "utilizes",
+      "repetitions"
+    ],
+    [
+      "accuracy",
+      "enhances",
+      "software programs"
+    ],
+    [
+      "accuracy",
+      "ensures",
+      "folds"
+    ],
+    [
+      "accuracy",
+      "ensures",
+      "paper folding"
+    ],
+    [
+      "accuracy",
+      "ensures",
+      "repetitions"
+    ],
+    [
+      "accuracy",
+      "ensures",
+      "visual appeal"
+    ],
+    [
+      "accuracy",
+      "improves",
+      "edges"
+    ],
+    [
+      "accuracy",
+      "informs",
+      "science"
+    ],
+    [
+      "adaptable designs",
+      "achieves",
+      "precision"
+    ],
+    [
+      "adaptable designs",
+      "applies",
+      "graph theory"
+    ],
+    [
+      "adaptable designs",
+      "applies to",
+      "material science"
+    ],
+    [
+      "adaptable designs",
+      "develops",
+      "algorithms"
+    ],
+    [
+      "adaptable designs",
+      "ensures",
+      "accuracy"
+    ],
+    [
+      "adaptable designs",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "adaptable designs",
+      "includes",
+      "repetitions"
+    ],
+    [
+      "adaptable designs",
+      "inspired by",
+      "deployable solar panels"
+    ],
+    [
+      "adaptable designs",
+      "involves",
+      "mathematics"
+    ],
+    [
+      "adaptable designs",
+      "is represented by",
+      "three-dimensional structures"
+    ],
+    [
+      "adaptable designs",
+      "leads to",
+      "advancements"
+    ],
+    [
+      "adaptable designs",
+      "leads to",
+      "innovative structures"
+    ],
+    [
+      "adaptable designs",
+      "relies on",
+      "proportion"
+    ],
+    [
+      "adaptable designs",
+      "requires",
+      "scaling"
+    ],
+    [
+      "adaptable designs",
+      "utilizes",
+      "engineering"
+    ],
+    [
+      "adaptable designs",
+      "utilizes",
+      "software programs"
+    ],
+    [
+      "advancements",
+      "advances",
+      "computer science"
+    ],
+    [
+      "advancements",
+      "advances",
+      "creations"
+    ],
+    [
+      "advancements",
+      "applies to",
+      "material science"
+    ],
+    [
+      "advancements",
+      "contributes to",
+      "computational origami"
+    ],
+    [
+      "advancements",
+      "driven by",
+      "algorithms"
+    ],
+    [
+      "advancements",
+      "drives",
+      "angles"
+    ],
+    [
+      "advancements",
+      "drives",
+      "vertices"
+    ],
+    [
+      "advancements",
+      "enables",
+      "edges"
+    ],
+    [
+      "advancements",
+      "improves",
+      "folding patterns"
+    ],
+    [
+      "advancements",
+      "inspired by",
+      "geometric concepts"
+    ],
+    [
+      "advancements",
+      "is advanced by",
+      "architecture"
+    ],
+    [
+      "advancements",
+      "is enhanced by",
+      "intricate designs"
+    ],
+    [
+      "advancements",
+      "leads to",
+      "multidisciplinary field"
+    ],
+    [
+      "advancements",
+      "results in",
+      "origami"
+    ],
+    [
+      "algorithms",
+      "creates",
+      "three-dimensional structures"
+    ],
+    [
+      "algorithms",
+      "drives",
+      "exploration"
+    ],
+    [
+      "algorithms",
+      "improves",
+      "accuracy"
+    ],
+    [
+      "algorithms",
+      "is based on",
+      "mathematics"
+    ],
+    [
+      "algorithms",
+      "utilized by",
+      "artificial intelligence"
+    ],
+    [
+      "algorithms",
+      "utilizes",
+      "mathematical concepts"
+    ],
+    [
+      "angles",
+      "affects",
+      "integrity"
+    ],
+    [
+      "angles",
+      "affects",
+      "precision"
+    ],
+    [
+      "angles",
+      "affects",
+      "symmetry"
+    ],
+    [
+      "angles",
+      "contributes to",
+      "intricate designs"
+    ],
+    [
+      "angles",
+      "creates",
+      "symmetrical designs"
+    ],
+    [
+      "angles",
+      "creates",
+      "three-dimensional structures"
+    ],
+    [
+      "angles",
+      "defines",
+      "vertices"
+    ],
+    [
+      "angles",
+      "determined by",
+      "structural soundness"
+    ],
+    [
+      "angles",
+      "determines",
+      "engineering"
+    ],
+    [
+      "angles",
+      "determines",
+      "folding patterns"
+    ],
+    [
+      "angles",
+      "develops",
+      "algorithms"
+    ],
+    [
+      "angles",
+      "forms",
+      "forms"
+    ],
+    [
+      "angles",
+      "guides",
+      "paper folding"
+    ],
+    [
+      "angles",
+      "influences",
+      "innovative structures"
+    ],
+    [
+      "angles",
+      "involves",
+      "creations"
+    ],
+    [
+      "angles",
+      "involves",
+      "folds"
+    ],
+    [
+      "angles",
+      "involves",
+      "geometric concepts"
+    ],
+    [
+      "angles",
+      "involves",
+      "manipulation"
+    ],
+    [
+      "angles",
+      "involves",
+      "repetitions"
+    ],
+    [
+      "angles",
+      "involves",
+      "scaling"
+    ],
+    [
+      "angles",
+      "is a part of",
+      "mathematics"
+    ],
+    [
+      "angles",
+      "is applied in",
+      "computational origami"
+    ],
+    [
+      "angles",
+      "supports",
+      "folded structure"
+    ],
+    [
+      "architecture",
+      "creates",
+      "intricate designs"
+    ],
+    [
+      "architecture",
+      "determines",
+      "angles"
+    ],
+    [
+      "architecture",
+      "ensures",
+      "precision"
+    ],
+    [
+      "architecture",
+      "influences",
+      "adaptable designs"
+    ],
+    [
+      "architecture",
+      "influences",
+      "art"
+    ],
+    [
+      "architecture",
+      "informs",
+      "creations"
+    ],
+    [
+      "architecture",
+      "informs",
+      "shapes"
+    ],
+    [
+      "architecture",
+      "involves",
+      "repetitions"
+    ],
+    [
+      "architecture",
+      "involves",
+      "scaling"
+    ],
+    [
+      "architecture",
+      "utilizes",
+      "computational origami"
+    ],
+    [
+      "art",
+      "ensures",
+      "stability"
+    ],
+    [
+      "art",
+      "influences",
+      "Euclidean geometry"
+    ],
+    [
+      "art",
+      "influences",
+      "engineering"
+    ],
+    [
+      "art",
+      "informs",
+      "mathematical concepts"
+    ],
+    [
+      "art",
+      "involves",
+      "symmetrical designs"
+    ],
+    [
+      "art",
+      "is a concept in",
+      "vertices"
+    ],
+    [
+      "art",
+      "is a principle of",
+      "symmetry"
+    ],
+    [
+      "art",
+      "is expressed as",
+      "forms"
+    ],
+    [
+      "art",
+      "leads to",
+      "exploration"
+    ],
+    [
+      "art",
+      "leads to",
+      "innovative structures"
+    ],
+    [
+      "art",
+      "provides",
+      "balance"
+    ],
+    [
+      "art",
+      "transforms into",
+      "three-dimensional structures"
+    ],
+    [
+      "artificial intelligence",
+      "defines",
+      "vertices"
+    ],
+    [
+      "artificial intelligence",
+      "develops",
+      "computational origami"
+    ],
+    [
+      "artificial intelligence",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "artificial intelligence",
+      "influences",
+      "innovative structures"
+    ],
+    [
+      "artificial intelligence",
+      "influences",
+      "manipulation"
+    ],
+    [
+      "artificial intelligence",
+      "informs",
+      "adaptable designs"
+    ],
+    [
+      "artificial intelligence",
+      "informs",
+      "geometric concepts"
+    ],
+    [
+      "artificial intelligence",
+      "involves",
+      "folds"
+    ],
+    [
+      "artificial intelligence",
+      "produces",
+      "intricate designs"
+    ],
+    [
+      "balance",
+      "achieved by",
+      "engineering"
+    ],
+    [
+      "balance",
+      "achieves",
+      "intricate designs"
+    ],
+    [
+      "balance",
+      "contributes to",
+      "repetitions"
+    ],
+    [
+      "balance",
+      "ensures",
+      "adaptable designs"
+    ],
+    [
+      "balance",
+      "ensures",
+      "exploration"
+    ],
+    [
+      "balance",
+      "ensures",
+      "structural soundness"
+    ],
+    [
+      "balance",
+      "is a characteristic of",
+      "vertices"
+    ],
+    [
+      "balance",
+      "is a factor in",
+      "dimensions"
+    ],
+    [
+      "balance",
+      "is achieved through",
+      "beauty of mathematics"
+    ],
+    [
+      "balance",
+      "is enhanced by",
+      "visual appeal"
+    ],
+    [
+      "beauty of mathematics",
+      "appreciates",
+      "robotics"
+    ],
+    [
+      "beauty of mathematics",
+      "contributes to",
+      "edges"
+    ],
+    [
+      "beauty of mathematics",
+      "demonstrates",
+      "deployable solar panels"
+    ],
+    [
+      "beauty of mathematics",
+      "drives",
+      "exploration"
+    ],
+    [
+      "beauty of mathematics",
+      "enhances",
+      "advancements"
+    ],
+    [
+      "beauty of mathematics",
+      "enhances",
+      "algorithms"
+    ],
+    [
+      "beauty of mathematics",
+      "enhances",
+      "artificial intelligence"
+    ],
+    [
+      "beauty of mathematics",
+      "enhances",
+      "manipulation"
+    ],
+    [
+      "beauty of mathematics",
+      "enhances",
+      "origami"
+    ],
+    [
+      "beauty of mathematics",
+      "enhances",
+      "software programs"
+    ],
+    [
+      "beauty of mathematics",
+      "enhances",
+      "technology"
+    ],
+    [
+      "beauty of mathematics",
+      "includes",
+      "geometric concepts"
+    ],
+    [
+      "beauty of mathematics",
+      "is defined by",
+      "paper folding"
+    ],
+    [
+      "beauty of mathematics",
+      "is enhanced by",
+      "multidisciplinary field"
+    ],
+    [
+      "beauty of mathematics",
+      "is reflected in",
+      "precision"
+    ],
+    [
+      "calculations",
+      "ensures",
+      "accuracy"
+    ],
+    [
+      "calculations",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "calculations",
+      "involves",
+      "art"
+    ],
+    [
+      "calculations",
+      "involves",
+      "computer science"
+    ],
+    [
+      "calculations",
+      "involves",
+      "mathematical concepts"
+    ],
+    [
+      "calculations",
+      "involves",
+      "proportion"
+    ],
+    [
+      "calculations",
+      "involves",
+      "ratio"
+    ],
+    [
+      "calculations",
+      "involves",
+      "three-dimensional structures"
+    ],
+    [
+      "calculations",
+      "is achieved through",
+      "intricate designs"
+    ],
+    [
+      "calculations",
+      "is applied in",
+      "material science"
+    ],
+    [
+      "calculations",
+      "is ensured by",
+      "structural soundness"
+    ],
+    [
+      "calculations",
+      "is maintained by",
+      "integrity"
+    ],
+    [
+      "calculations",
+      "supports",
+      "Euclidean geometry"
+    ],
+    [
+      "calculations",
+      "supports",
+      "stability"
+    ],
+    [
+      "calculations",
+      "underpins",
+      "geometric concepts"
+    ],
+    [
+      "computational origami",
+      "contributes to",
+      "material science"
+    ],
+    [
+      "computational origami",
+      "creates",
+      "forms"
+    ],
+    [
+      "computational origami",
+      "informs",
+      "precision"
+    ],
+    [
+      "computational origami",
+      "involves",
+      "adaptable designs"
+    ],
+    [
+      "computational origami",
+      "involves",
+      "geometric concepts"
+    ],
+    [
+      "computational origami",
+      "involves",
+      "manipulation"
+    ],
+    [
+      "computational origami",
+      "is a type of",
+      "deployable solar panels"
+    ],
+    [
+      "computational origami",
+      "is applied in",
+      "vertices"
+    ],
+    [
+      "computational origami",
+      "is based on",
+      "mathematical concepts"
+    ],
+    [
+      "computational origami",
+      "produces",
+      "folding patterns"
+    ],
+    [
+      "computational origami",
+      "requires",
+      "calculations"
+    ],
+    [
+      "computational origami",
+      "supports",
+      "exploration"
+    ],
+    [
+      "computational origami",
+      "utilizes",
+      "shapes"
+    ],
+    [
+      "computer science",
+      "analyzes",
+      "folding patterns"
+    ],
+    [
+      "computer science",
+      "analyzes",
+      "folds"
+    ],
+    [
+      "computer science",
+      "applies",
+      "geometric concepts"
+    ],
+    [
+      "computer science",
+      "contributes to",
+      "artificial intelligence"
+    ],
+    [
+      "computer science",
+      "contributes to",
+      "creations"
+    ],
+    [
+      "computer science",
+      "develops",
+      "algorithms"
+    ],
+    [
+      "computer science",
+      "enhances",
+      "precision"
+    ],
+    [
+      "computer science",
+      "intersects with",
+      "material science"
+    ],
+    [
+      "computer science",
+      "intersects with",
+      "science"
+    ],
+    [
+      "computer science",
+      "involves",
+      "computational origami"
+    ],
+    [
+      "computer science",
+      "involves",
+      "folded structure"
+    ],
+    [
+      "computer science",
+      "involves",
+      "manipulation"
+    ],
+    [
+      "computer science",
+      "utilizes",
+      "graph theory"
+    ],
+    [
+      "creations",
+      "achieves",
+      "balance"
+    ],
+    [
+      "creations",
+      "drives",
+      "exploration"
+    ],
+    [
+      "creations",
+      "enhances",
+      "artificial intelligence"
+    ],
+    [
+      "creations",
+      "enhances",
+      "repetitions"
+    ],
+    [
+      "creations",
+      "enhances",
+      "visual appeal"
+    ],
+    [
+      "creations",
+      "exemplifies",
+      "symmetry"
+    ],
+    [
+      "creations",
+      "involves",
+      "innovative structures"
+    ],
+    [
+      "creations",
+      "involves",
+      "manipulation"
+    ],
+    [
+      "creations",
+      "is a form of",
+      "art"
+    ],
+    [
+      "creations",
+      "represents",
+      "shapes"
+    ],
+    [
+      "creations",
+      "utilizes",
+      "mathematics"
+    ],
+    [
+      "deployable solar panels",
+      "develops",
+      "engineering"
+    ],
+    [
+      "deployable solar panels",
+      "enables",
+      "exploration"
+    ],
+    [
+      "deployable solar panels",
+      "informs",
+      "algorithms"
+    ],
+    [
+      "deployable solar panels",
+      "inspired",
+      "Euclidean geometry"
+    ],
+    [
+      "deployable solar panels",
+      "inspired by",
+      "computer science"
+    ],
+    [
+      "deployable solar panels",
+      "inspired by",
+      "geometric principles"
+    ],
+    [
+      "deployable solar panels",
+      "inspired by",
+      "innovative structures"
+    ],
+    [
+      "deployable solar panels",
+      "involves",
+      "folding patterns"
+    ],
+    [
+      "deployable solar panels",
+      "is a component of",
+      "folds"
+    ],
+    [
+      "deployable solar panels",
+      "is a result of",
+      "creations"
+    ],
+    [
+      "deployable solar panels",
+      "is a type of",
+      "three-dimensional structures"
+    ],
+    [
+      "deployable solar panels",
+      "produces",
+      "intricate designs"
+    ],
+    [
+      "deployable solar panels",
+      "provides",
+      "balance"
+    ],
+    [
+      "deployable solar panels",
+      "represents",
+      "advancements"
+    ],
+    [
+      "deployable solar panels",
+      "requires",
+      "precision"
+    ],
+    [
+      "deployable solar panels",
+      "requires",
+      "scaling"
+    ],
+    [
+      "deployable solar panels",
+      "utilized in",
+      "shapes"
+    ],
+    [
+      "deployable solar panels",
+      "utilizes",
+      "artificial intelligence"
+    ],
+    [
+      "deployable solar panels",
+      "utilizes",
+      "science"
+    ],
+    [
+      "dimensions",
+      "affects",
+      "angles"
+    ],
+    [
+      "dimensions",
+      "affects",
+      "proportion"
+    ],
+    [
+      "dimensions",
+      "applies to",
+      "mathematics"
+    ],
+    [
+      "dimensions",
+      "defined by",
+      "creations"
+    ],
+    [
+      "dimensions",
+      "defines",
+      "forms"
+    ],
+    [
+      "dimensions",
+      "enables",
+      "adaptable designs"
+    ],
+    [
+      "dimensions",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "dimensions",
+      "involves",
+      "calculations"
+    ],
+    [
+      "dimensions",
+      "involves",
+      "intricate designs"
+    ],
+    [
+      "dimensions",
+      "involves",
+      "material science"
+    ],
+    [
+      "dimensions",
+      "involves",
+      "paper folding"
+    ],
+    [
+      "dimensions",
+      "is a part of",
+      "mathematical concepts"
+    ],
+    [
+      "dimensions",
+      "relates to",
+      "architecture"
+    ],
+    [
+      "edges",
+      "affects",
+      "engineering"
+    ],
+    [
+      "edges",
+      "affects",
+      "scaling"
+    ],
+    [
+      "edges",
+      "comprises",
+      "angles"
+    ],
+    [
+      "edges",
+      "contributes to",
+      "symmetry"
+    ],
+    [
+      "edges",
+      "creates",
+      "intricate designs"
+    ],
+    [
+      "edges",
+      "creates",
+      "three-dimensional structures"
+    ],
+    [
+      "edges",
+      "defines",
+      "dimensions"
+    ],
+    [
+      "edges",
+      "defines",
+      "folding patterns"
+    ],
+    [
+      "edges",
+      "defines",
+      "geometric concepts"
+    ],
+    [
+      "edges",
+      "ensures",
+      "precision"
+    ],
+    [
+      "edges",
+      "forms",
+      "forms"
+    ],
+    [
+      "edges",
+      "involves",
+      "origami"
+    ],
+    [
+      "edges",
+      "is a method of",
+      "manipulation"
+    ],
+    [
+      "edges",
+      "manipulated by",
+      "origami artists"
+    ],
+    [
+      "edges",
+      "utilizes",
+      "algorithms"
+    ],
+    [
+      "engineering",
+      "advances",
+      "artificial intelligence"
+    ],
+    [
+      "engineering",
+      "applies",
+      "geometric principles"
+    ],
+    [
+      "engineering",
+      "applies to",
+      "material science"
+    ],
+    [
+      "engineering",
+      "contributes to",
+      "visual appeal"
+    ],
+    [
+      "engineering",
+      "creates",
+      "forms"
+    ],
+    [
+      "engineering",
+      "creates",
+      "innovative structures"
+    ],
+    [
+      "engineering",
+      "develops",
+      "algorithms"
+    ],
+    [
+      "engineering",
+      "develops",
+      "medical devices"
+    ],
+    [
+      "engineering",
+      "drives",
+      "advancements"
+    ],
+    [
+      "engineering",
+      "drives",
+      "exploration"
+    ],
+    [
+      "engineering",
+      "facilitates",
+      "transformation"
+    ],
+    [
+      "engineering",
+      "influences",
+      "symmetrical designs"
+    ],
+    [
+      "engineering",
+      "informs",
+      "architecture"
+    ],
+    [
+      "engineering",
+      "involves",
+      "symmetry"
+    ],
+    [
+      "engineering",
+      "produces",
+      "creations"
+    ],
+    [
+      "engineering",
+      "results in",
+      "intricate designs"
+    ],
+    [
+      "engineering",
+      "utilizes",
+      "ratio"
+    ],
+    [
+      "exploration",
+      "ensures",
+      "accuracy"
+    ],
+    [
+      "exploration",
+      "explores",
+      "folded structure"
+    ],
+    [
+      "exploration",
+      "explores",
+      "forms"
+    ],
+    [
+      "exploration",
+      "explores",
+      "symmetry"
+    ],
+    [
+      "exploration",
+      "facilitates",
+      "angles"
+    ],
+    [
+      "exploration",
+      "results in",
+      "symmetrical designs"
+    ],
+    [
+      "folded structure",
+      "achieved by",
+      "structural soundness"
+    ],
+    [
+      "folded structure",
+      "composed of",
+      "vertices"
+    ],
+    [
+      "folded structure",
+      "composes",
+      "dimensions"
+    ],
+    [
+      "folded structure",
+      "creates",
+      "three-dimensional structures"
+    ],
+    [
+      "folded structure",
+      "defines",
+      "software programs"
+    ],
+    [
+      "folded structure",
+      "determines",
+      "ratio"
+    ],
+    [
+      "folded structure",
+      "enhances",
+      "advancements"
+    ],
+    [
+      "folded structure",
+      "enhances",
+      "visual appeal"
+    ],
+    [
+      "folded structure",
+      "ensures",
+      "integrity"
+    ],
+    [
+      "folded structure",
+      "forms",
+      "algorithms"
+    ],
+    [
+      "folded structure",
+      "influenced by",
+      "artificial intelligence"
+    ],
+    [
+      "folded structure",
+      "influences",
+      "art"
+    ],
+    [
+      "folded structure",
+      "influences",
+      "geometric principles"
+    ],
+    [
+      "folded structure",
+      "influences",
+      "science"
+    ],
+    [
+      "folded structure",
+      "is a result of",
+      "paper folding"
+    ],
+    [
+      "folded structure",
+      "is achieved through",
+      "precision"
+    ],
+    [
+      "folded structure",
+      "is applied in",
+      "mathematics"
+    ],
+    [
+      "folded structure",
+      "is created as",
+      "forms"
+    ],
+    [
+      "folded structure",
+      "is essential for",
+      "geometric concepts"
+    ],
+    [
+      "folded structure",
+      "is exemplified by",
+      "mathematical concepts"
+    ],
+    [
+      "folded structure",
+      "is manifested in",
+      "beauty of mathematics"
+    ],
+    [
+      "folded structure",
+      "is part of",
+      "repetitions"
+    ],
+    [
+      "folded structure",
+      "is reflected in",
+      "accuracy"
+    ],
+    [
+      "folded structure",
+      "provides",
+      "stability"
+    ],
+    [
+      "folded structure",
+      "results in",
+      "computational origami"
+    ],
+    [
+      "folded structure",
+      "results in",
+      "folds"
+    ],
+    [
+      "folded structure",
+      "supports",
+      "balance"
+    ],
+    [
+      "folding patterns",
+      "enhances",
+      "symmetry"
+    ],
+    [
+      "folding patterns",
+      "influences",
+      "visual appeal"
+    ],
+    [
+      "folding patterns",
+      "involves",
+      "shapes"
+    ],
+    [
+      "folding patterns",
+      "involves",
+      "technology"
+    ],
+    [
+      "folding patterns",
+      "is based on",
+      "mathematical concepts"
+    ],
+    [
+      "folding patterns",
+      "is characterized by",
+      "creations"
+    ],
+    [
+      "folding patterns",
+      "is used in",
+      "medical devices"
+    ],
+    [
+      "folding patterns",
+      "leads to",
+      "innovative structures"
+    ],
+    [
+      "folding patterns",
+      "represents",
+      "geometric concepts"
+    ],
+    [
+      "folding patterns",
+      "results in",
+      "folded structure"
+    ],
+    [
+      "folds",
+      "applies to",
+      "material science"
+    ],
+    [
+      "folds",
+      "comprises",
+      "dimensions"
+    ],
+    [
+      "folds",
+      "comprises",
+      "paper folding"
+    ],
+    [
+      "folds",
+      "creates",
+      "three-dimensional structures"
+    ],
+    [
+      "folds",
+      "defines",
+      "folding patterns"
+    ],
+    [
+      "folds",
+      "enhances",
+      "visual appeal"
+    ],
+    [
+      "folds",
+      "involves",
+      "computational origami"
+    ],
+    [
+      "folds",
+      "involves",
+      "geometric concepts"
+    ],
+    [
+      "folds",
+      "involves",
+      "transformation"
+    ],
+    [
+      "folds",
+      "is a process of",
+      "manipulation"
+    ],
+    [
+      "folds",
+      "is characterized by",
+      "symmetry"
+    ],
+    [
+      "folds",
+      "is part of",
+      "vertices"
+    ],
+    [
+      "folds",
+      "leads to",
+      "innovative structures"
+    ],
+    [
+      "folds",
+      "provides",
+      "stability"
+    ],
+    [
+      "folds",
+      "utilizes",
+      "medical devices"
+    ],
+    [
+      "forms",
+      "forms",
+      "mathematical concepts"
+    ],
+    [
+      "forms",
+      "improves",
+      "accuracy"
+    ],
+    [
+      "forms",
+      "is influenced by",
+      "computer science"
+    ],
+    [
+      "forms",
+      "is influenced by",
+      "structural soundness"
+    ],
+    [
+      "forms",
+      "is related to",
+      "material science"
+    ],
+    [
+      "forms",
+      "shapes",
+      "medical devices"
+    ],
+    [
+      "forms",
+      "shapes",
+      "symmetry"
+    ],
+    [
+      "geometric concepts",
+      "contributes to",
+      "balance"
+    ],
+    [
+      "geometric concepts",
+      "creates",
+      "forms"
+    ],
+    [
+      "geometric concepts",
+      "defines",
+      "precision"
+    ],
+    [
+      "geometric concepts",
+      "enhances",
+      "repetitions"
+    ],
+    [
+      "geometric concepts",
+      "ensures",
+      "stability"
+    ],
+    [
+      "geometric concepts",
+      "influences",
+      "intricate designs"
+    ],
+    [
+      "geometric concepts",
+      "informed by",
+      "software programs"
+    ],
+    [
+      "geometric concepts",
+      "is a concept of",
+      "symmetry"
+    ],
+    [
+      "geometric concepts",
+      "is derived from",
+      "visual appeal"
+    ],
+    [
+      "geometric concepts",
+      "is informed by",
+      "deployable solar panels"
+    ],
+    [
+      "geometric concepts",
+      "is informed by",
+      "medical devices"
+    ],
+    [
+      "geometric principles",
+      "applies",
+      "material science"
+    ],
+    [
+      "geometric principles",
+      "applies to",
+      "robotics"
+    ],
+    [
+      "geometric principles",
+      "contributes to",
+      "science"
+    ],
+    [
+      "geometric principles",
+      "creates",
+      "three-dimensional structures"
+    ],
+    [
+      "geometric principles",
+      "defines",
+      "shapes"
+    ],
+    [
+      "geometric principles",
+      "determines",
+      "forms"
+    ],
+    [
+      "geometric principles",
+      "determines",
+      "vertices"
+    ],
+    [
+      "geometric principles",
+      "enables",
+      "exploration"
+    ],
+    [
+      "geometric principles",
+      "enables",
+      "scaling"
+    ],
+    [
+      "geometric principles",
+      "enhances",
+      "beauty of mathematics"
+    ],
+    [
+      "geometric principles",
+      "enhances",
+      "symmetry"
+    ],
+    [
+      "geometric principles",
+      "enhances",
+      "visual appeal"
+    ],
+    [
+      "geometric principles",
+      "ensures",
+      "accuracy"
+    ],
+    [
+      "geometric principles",
+      "ensures",
+      "precision"
+    ],
+    [
+      "geometric principles",
+      "ensures",
+      "stability"
+    ],
+    [
+      "geometric principles",
+      "ensures",
+      "structural soundness"
+    ],
+    [
+      "geometric principles",
+      "guides",
+      "manipulation"
+    ],
+    [
+      "geometric principles",
+      "guides",
+      "origami"
+    ],
+    [
+      "geometric principles",
+      "guides",
+      "paper folding"
+    ],
+    [
+      "geometric principles",
+      "guides",
+      "ratio"
+    ],
+    [
+      "geometric principles",
+      "guides",
+      "transformation"
+    ],
+    [
+      "geometric principles",
+      "influences",
+      "folding patterns"
+    ],
+    [
+      "geometric principles",
+      "informs",
+      "architecture"
+    ],
+    [
+      "geometric principles",
+      "informs",
+      "artificial intelligence"
+    ],
+    [
+      "geometric principles",
+      "informs",
+      "edges"
+    ],
+    [
+      "geometric principles",
+      "informs",
+      "proportion"
+    ],
+    [
+      "geometric principles",
+      "informs",
+      "technology"
+    ],
+    [
+      "geometric principles",
+      "involves",
+      "repetitions"
+    ],
+    [
+      "geometric principles",
+      "is utilized in",
+      "algorithms"
+    ],
+    [
+      "geometric principles",
+      "is utilized in",
+      "software programs"
+    ],
+    [
+      "geometric principles",
+      "requires",
+      "calculations"
+    ],
+    [
+      "geometric principles",
+      "supports",
+      "adaptable designs"
+    ],
+    [
+      "geometric principles",
+      "supports",
+      "balance"
+    ],
+    [
+      "graph theory",
+      "applies",
+      "paper folding"
+    ],
+    [
+      "graph theory",
+      "applies to",
+      "material science"
+    ],
+    [
+      "graph theory",
+      "applies to",
+      "medical devices"
+    ],
+    [
+      "graph theory",
+      "applies to",
+      "three-dimensional structures"
+    ],
+    [
+      "graph theory",
+      "contributes to",
+      "advancements"
+    ],
+    [
+      "graph theory",
+      "contributes to",
+      "robotics"
+    ],
+    [
+      "graph theory",
+      "describes",
+      "forms"
+    ],
+    [
+      "graph theory",
+      "develops",
+      "software programs"
+    ],
+    [
+      "graph theory",
+      "ensures",
+      "accuracy"
+    ],
+    [
+      "graph theory",
+      "ensures",
+      "precision"
+    ],
+    [
+      "graph theory",
+      "illustrates",
+      "beauty of mathematics"
+    ],
+    [
+      "graph theory",
+      "involves",
+      "geometric concepts"
+    ],
+    [
+      "graph theory",
+      "is a branch of",
+      "mathematics"
+    ],
+    [
+      "graph theory",
+      "is a field of",
+      "multidisciplinary field"
+    ],
+    [
+      "graph theory",
+      "supports",
+      "exploration"
+    ],
+    [
+      "graph theory",
+      "underpins",
+      "origami"
+    ],
+    [
+      "graph theory",
+      "utilizes",
+      "engineering"
+    ],
+    [
+      "innovative structures",
+      "applies to",
+      "Euclidean geometry"
+    ],
+    [
+      "innovative structures",
+      "contributes to",
+      "geometric principles"
+    ],
+    [
+      "innovative structures",
+      "creates",
+      "forms"
+    ],
+    [
+      "innovative structures",
+      "derived from",
+      "medical devices"
+    ],
+    [
+      "innovative structures",
+      "enables",
+      "precision"
+    ],
+    [
+      "innovative structures",
+      "formed by",
+      "vertices"
+    ],
+    [
+      "innovative structures",
+      "influences",
+      "science"
+    ],
+    [
+      "innovative structures",
+      "inspired by",
+      "calculations"
+    ],
+    [
+      "innovative structures",
+      "inspired by",
+      "computer science"
+    ],
+    [
+      "innovative structures",
+      "inspired by",
+      "dimensions"
+    ],
+    [
+      "innovative structures",
+      "involves",
+      "computational origami"
+    ],
+    [
+      "innovative structures",
+      "involves",
+      "geometric concepts"
+    ],
+    [
+      "innovative structures",
+      "is a result of",
+      "advancements"
+    ],
+    [
+      "innovative structures",
+      "is applied in",
+      "graph theory"
+    ],
+    [
+      "innovative structures",
+      "is created by",
+      "intricate designs"
+    ],
+    [
+      "innovative structures",
+      "is expressed through",
+      "beauty of mathematics"
+    ],
+    [
+      "innovative structures",
+      "is realized in",
+      "visual appeal"
+    ],
+    [
+      "innovative structures",
+      "utilizes",
+      "robotics"
+    ],
+    [
+      "integrity",
+      "contributes to",
+      "beauty of mathematics"
+    ],
+    [
+      "integrity",
+      "enables",
+      "transformation"
+    ],
+    [
+      "integrity",
+      "ensures",
+      "balance"
+    ],
+    [
+      "integrity",
+      "ensures",
+      "geometric principles"
+    ],
+    [
+      "integrity",
+      "ensures",
+      "precision"
+    ],
+    [
+      "integrity",
+      "ensures",
+      "proportion"
+    ],
+    [
+      "integrity",
+      "maintained by",
+      "forms"
+    ],
+    [
+      "integrity",
+      "maintains",
+      "scaling"
+    ],
+    [
+      "intricate designs",
+      "applies to",
+      "material science"
+    ],
+    [
+      "intricate designs",
+      "creates",
+      "adaptable designs"
+    ],
+    [
+      "intricate designs",
+      "creates",
+      "three-dimensional structures"
+    ],
+    [
+      "intricate designs",
+      "enhances",
+      "shapes"
+    ],
+    [
+      "intricate designs",
+      "enhances",
+      "symmetry"
+    ],
+    [
+      "intricate designs",
+      "influences",
+      "graph theory"
+    ],
+    [
+      "intricate designs",
+      "involves",
+      "computational origami"
+    ],
+    [
+      "intricate designs",
+      "is part of",
+      "vertices"
+    ],
+    [
+      "intricate designs",
+      "produced by",
+      "computer science"
+    ],
+    [
+      "intricate designs",
+      "provides",
+      "stability"
+    ],
+    [
+      "intricate designs",
+      "requires",
+      "manipulation"
+    ],
+    [
+      "intricate designs",
+      "results in",
+      "folded structure"
+    ],
+    [
+      "intricate designs",
+      "results in",
+      "precision"
+    ],
+    [
+      "manipulation",
+      "achieves",
+      "balance"
+    ],
+    [
+      "manipulation",
+      "affects",
+      "folded structure"
+    ],
+    [
+      "manipulation",
+      "applies to",
+      "material science"
+    ],
+    [
+      "manipulation",
+      "applies to",
+      "medical devices"
+    ],
+    [
+      "manipulation",
+      "contributes to",
+      "innovative structures"
+    ],
+    [
+      "manipulation",
+      "creates",
+      "symmetrical designs"
+    ],
+    [
+      "manipulation",
+      "describes",
+      "folding patterns"
+    ],
+    [
+      "manipulation",
+      "enhances",
+      "accuracy"
+    ],
+    [
+      "manipulation",
+      "ensures",
+      "stability"
+    ],
+    [
+      "manipulation",
+      "involves",
+      "art"
+    ],
+    [
+      "manipulation",
+      "involves",
+      "geometric concepts"
+    ],
+    [
+      "manipulation",
+      "involves",
+      "symmetry"
+    ],
+    [
+      "manipulation",
+      "is a result of",
+      "integrity"
+    ],
+    [
+      "manipulation",
+      "leads to",
+      "exploration"
+    ],
+    [
+      "material science",
+      "applied in",
+      "precision"
+    ],
+    [
+      "material science",
+      "applies to",
+      "Euclidean geometry"
+    ],
+    [
+      "material science",
+      "applies to",
+      "creations"
+    ],
+    [
+      "material science",
+      "applies to",
+      "vertices"
+    ],
+    [
+      "material science",
+      "influences",
+      "engineering"
+    ],
+    [
+      "material science",
+      "relates to",
+      "folded structure"
+    ],
+    [
+      "material science",
+      "utilizes",
+      "geometric concepts"
+    ],
+    [
+      "mathematical concepts",
+      "includes",
+      "accuracy"
+    ],
+    [
+      "mathematical concepts",
+      "informs",
+      "adaptable designs"
+    ],
+    [
+      "mathematical concepts",
+      "informs",
+      "algorithms"
+    ],
+    [
+      "mathematical concepts",
+      "informs",
+      "integrity"
+    ],
+    [
+      "mathematical concepts",
+      "informs",
+      "repetitions"
+    ],
+    [
+      "mathematical concepts",
+      "informs",
+      "structural soundness"
+    ],
+    [
+      "mathematical concepts",
+      "informs",
+      "symmetrical designs"
+    ],
+    [
+      "mathematical concepts",
+      "involves",
+      "creations"
+    ],
+    [
+      "mathematical concepts",
+      "involves",
+      "folds"
+    ],
+    [
+      "mathematical concepts",
+      "involves",
+      "three-dimensional structures"
+    ],
+    [
+      "mathematical concepts",
+      "is a component of",
+      "stability"
+    ],
+    [
+      "mathematical concepts",
+      "is a field of study in",
+      "origami"
+    ],
+    [
+      "mathematical concepts",
+      "is a subset of",
+      "geometric concepts"
+    ],
+    [
+      "mathematical concepts",
+      "is applied in",
+      "technology"
+    ],
+    [
+      "mathematical concepts",
+      "is based on",
+      "innovative structures"
+    ],
+    [
+      "mathematical concepts",
+      "related to",
+      "advancements"
+    ],
+    [
+      "mathematical concepts",
+      "utilizes",
+      "engineering"
+    ],
+    [
+      "mathematical concepts",
+      "utilizes",
+      "software programs"
+    ],
+    [
+      "mathematics",
+      "applied in",
+      "engineering"
+    ],
+    [
+      "mathematics",
+      "applies",
+      "artificial intelligence"
+    ],
+    [
+      "mathematics",
+      "applies",
+      "robotics"
+    ],
+    [
+      "mathematics",
+      "applies to",
+      "folding patterns"
+    ],
+    [
+      "mathematics",
+      "applies to",
+      "geometric principles"
+    ],
+    [
+      "mathematics",
+      "creates",
+      "three-dimensional structures"
+    ],
+    [
+      "mathematics",
+      "enhances",
+      "beauty of mathematics"
+    ],
+    [
+      "mathematics",
+      "informs",
+      "art"
+    ],
+    [
+      "mathematics",
+      "involves",
+      "manipulation"
+    ],
+    [
+      "mathematics",
+      "is a branch of",
+      "Euclidean geometry"
+    ],
+    [
+      "mathematics",
+      "is a field of",
+      "proportion"
+    ],
+    [
+      "mathematics",
+      "is a principle of",
+      "symmetry"
+    ],
+    [
+      "mathematics",
+      "is applied in",
+      "computational origami"
+    ],
+    [
+      "mathematics",
+      "is based on",
+      "deployable solar panels"
+    ],
+    [
+      "mathematics",
+      "is defined by",
+      "visual appeal"
+    ],
+    [
+      "mathematics",
+      "promotes",
+      "exploration"
+    ],
+    [
+      "mathematics",
+      "underpins",
+      "advancements"
+    ],
+    [
+      "mathematics",
+      "underpins",
+      "computer science"
+    ],
+    [
+      "mathematics",
+      "underpins",
+      "integrity"
+    ],
+    [
+      "mathematics",
+      "underpins",
+      "precision"
+    ],
+    [
+      "mathematics",
+      "utilizes",
+      "intricate designs"
+    ],
+    [
+      "medical devices",
+      "applied in",
+      "material science"
+    ],
+    [
+      "medical devices",
+      "applied to",
+      "algorithms"
+    ],
+    [
+      "medical devices",
+      "applies",
+      "technology"
+    ],
+    [
+      "medical devices",
+      "benefits",
+      "advancements"
+    ],
+    [
+      "medical devices",
+      "derives from",
+      "paper folding"
+    ],
+    [
+      "medical devices",
+      "ensures",
+      "structural soundness"
+    ],
+    [
+      "medical devices",
+      "influences",
+      "beauty of mathematics"
+    ],
+    [
+      "medical devices",
+      "is a component of",
+      "folded structure"
+    ],
+    [
+      "medical devices",
+      "utilized in",
+      "computer science"
+    ],
+    [
+      "medical devices",
+      "utilized in",
+      "edges"
+    ],
+    [
+      "medical devices",
+      "utilizes",
+      "adaptable designs"
+    ],
+    [
+      "medical devices",
+      "utilizes",
+      "architecture"
+    ],
+    [
+      "medical devices",
+      "utilizes",
+      "mathematics"
+    ],
+    [
+      "medical devices",
+      "utilizes",
+      "precision"
+    ],
+    [
+      "multidisciplinary field",
+      "applies to",
+      "geometric principles"
+    ],
+    [
+      "multidisciplinary field",
+      "applies to",
+      "mathematics"
+    ],
+    [
+      "multidisciplinary field",
+      "applies to",
+      "medical devices"
+    ],
+    [
+      "multidisciplinary field",
+      "applies to",
+      "science"
+    ],
+    [
+      "multidisciplinary field",
+      "combines with",
+      "art"
+    ],
+    [
+      "multidisciplinary field",
+      "comprises",
+      "mathematical concepts"
+    ],
+    [
+      "multidisciplinary field",
+      "develops",
+      "algorithms"
+    ],
+    [
+      "multidisciplinary field",
+      "enables",
+      "innovative structures"
+    ],
+    [
+      "multidisciplinary field",
+      "encompasses",
+      "creations"
+    ],
+    [
+      "multidisciplinary field",
+      "encompasses",
+      "dimensions"
+    ],
+    [
+      "multidisciplinary field",
+      "encompasses",
+      "three-dimensional structures"
+    ],
+    [
+      "multidisciplinary field",
+      "encompasses",
+      "transformation"
+    ],
+    [
+      "multidisciplinary field",
+      "includes",
+      "angles"
+    ],
+    [
+      "multidisciplinary field",
+      "includes",
+      "origami"
+    ],
+    [
+      "multidisciplinary field",
+      "involves",
+      "calculations"
+    ],
+    [
+      "multidisciplinary field",
+      "involves",
+      "paper folding"
+    ],
+    [
+      "multidisciplinary field",
+      "involves",
+      "precision"
+    ],
+    [
+      "multidisciplinary field",
+      "is a subset of",
+      "engineering"
+    ],
+    [
+      "origami",
+      "applies to",
+      "Euclidean geometry"
+    ],
+    [
+      "origami",
+      "creates",
+      "folded structure"
+    ],
+    [
+      "origami",
+      "creates",
+      "three-dimensional structures"
+    ],
+    [
+      "origami",
+      "developed using",
+      "algorithms"
+    ],
+    [
+      "origami",
+      "develops",
+      "software programs"
+    ],
+    [
+      "origami",
+      "enables",
+      "precision"
+    ],
+    [
+      "origami",
+      "enhances",
+      "technology"
+    ],
+    [
+      "origami",
+      "ensures",
+      "structural soundness"
+    ],
+    [
+      "origami",
+      "includes",
+      "geometric concepts"
+    ],
+    [
+      "origami",
+      "influences",
+      "artificial intelligence"
+    ],
+    [
+      "origami",
+      "influences",
+      "engineering"
+    ],
+    [
+      "origami",
+      "inspired by",
+      "adaptable designs"
+    ],
+    [
+      "origami",
+      "inspired by",
+      "deployable solar panels"
+    ],
+    [
+      "origami",
+      "inspired by",
+      "innovative structures"
+    ],
+    [
+      "origami",
+      "inspired by",
+      "science"
+    ],
+    [
+      "origami",
+      "involves",
+      "angles"
+    ],
+    [
+      "origami",
+      "involves",
+      "calculations"
+    ],
+    [
+      "origami",
+      "involves",
+      "computational origami"
+    ],
+    [
+      "origami",
+      "involves",
+      "folding patterns"
+    ],
+    [
+      "origami",
+      "involves",
+      "mathematics"
+    ],
+    [
+      "origami",
+      "involves",
+      "paper folding"
+    ],
+    [
+      "origami",
+      "involves",
+      "vertices"
+    ],
+    [
+      "origami",
+      "is a form of",
+      "creations"
+    ],
+    [
+      "origami",
+      "is applied in",
+      "medical devices"
+    ],
+    [
+      "origami",
+      "is created through",
+      "shapes"
+    ],
+    [
+      "origami",
+      "produces",
+      "intricate designs"
+    ],
+    [
+      "origami",
+      "provides",
+      "visual appeal"
+    ],
+    [
+      "origami",
+      "requires",
+      "folds"
+    ],
+    [
+      "origami artists",
+      "achieves",
+      "accuracy"
+    ],
+    [
+      "origami artists",
+      "achieves",
+      "precision"
+    ],
+    [
+      "origami artists",
+      "analyzes",
+      "folding patterns"
+    ],
+    [
+      "origami artists",
+      "applies",
+      "geometric concepts"
+    ],
+    [
+      "origami artists",
+      "applies",
+      "mathematics"
+    ],
+    [
+      "origami artists",
+      "applies",
+      "ratio"
+    ],
+    [
+      "origami artists",
+      "applies",
+      "science"
+    ],
+    [
+      "origami artists",
+      "appreciates",
+      "beauty of mathematics"
+    ],
+    [
+      "origami artists",
+      "calculates",
+      "angles"
+    ],
+    [
+      "origami artists",
+      "comprises",
+      "folded structure"
+    ],
+    [
+      "origami artists",
+      "contributes to",
+      "robotics"
+    ],
+    [
+      "origami artists",
+      "create",
+      "innovative structures"
+    ],
+    [
+      "origami artists",
+      "creates",
+      "adaptable designs"
+    ],
+    [
+      "origami artists",
+      "creates",
+      "forms"
+    ],
+    [
+      "origami artists",
+      "creates",
+      "intricate designs"
+    ],
+    [
+      "origami artists",
+      "creates",
+      "shapes"
+    ],
+    [
+      "origami artists",
+      "creates",
+      "three-dimensional structures"
+    ],
+    [
+      "origami artists",
+      "develops",
+      "algorithms"
+    ],
+    [
+      "origami artists",
+      "drives",
+      "advancements"
+    ],
+    [
+      "origami artists",
+      "enables",
+      "transformation"
+    ],
+    [
+      "origami artists",
+      "engages in",
+      "exploration"
+    ],
+    [
+      "origami artists",
+      "enhances",
+      "visual appeal"
+    ],
+    [
+      "origami artists",
+      "executes",
+      "manipulation"
+    ],
+    [
+      "origami artists",
+      "expresses",
+      "art"
+    ],
+    [
+      "origami artists",
+      "informs",
+      "Euclidean geometry"
+    ],
+    [
+      "origami artists",
+      "involves",
+      "engineering"
+    ],
+    [
+      "origami artists",
+      "involves",
+      "proportion"
+    ],
+    [
+      "origami artists",
+      "manipulates",
+      "dimensions"
+    ],
+    [
+      "origami artists",
+      "perform",
+      "calculations"
+    ],
+    [
+      "origami artists",
+      "practices",
+      "origami"
+    ],
+    [
+      "origami artists",
+      "practices",
+      "paper folding"
+    ],
+    [
+      "origami artists",
+      "produces",
+      "creations"
+    ],
+    [
+      "origami artists",
+      "utilizes",
+      "folds"
+    ],
+    [
+      "origami artists",
+      "utilizes",
+      "geometric principles"
+    ],
+    [
+      "origami artists",
+      "utilizes",
+      "graph theory"
+    ],
+    [
+      "origami artists",
+      "utilizes",
+      "mathematical concepts"
+    ],
+    [
+      "origami artists",
+      "utilizes",
+      "symmetry"
+    ],
+    [
+      "paper folding",
+      "allows for",
+      "scaling"
+    ],
+    [
+      "paper folding",
+      "creates",
+      "forms"
+    ],
+    [
+      "paper folding",
+      "includes",
+      "geometric concepts"
+    ],
+    [
+      "paper folding",
+      "influences",
+      "artificial intelligence"
+    ],
+    [
+      "paper folding",
+      "influences",
+      "structural soundness"
+    ],
+    [
+      "paper folding",
+      "inspired by",
+      "deployable solar panels"
+    ],
+    [
+      "paper folding",
+      "inspired by",
+      "innovative structures"
+    ],
+    [
+      "paper folding",
+      "involves",
+      "calculations"
+    ],
+    [
+      "paper folding",
+      "involves",
+      "computational origami"
+    ],
+    [
+      "paper folding",
+      "involves",
+      "engineering"
+    ],
+    [
+      "paper folding",
+      "involves",
+      "manipulation"
+    ],
+    [
+      "paper folding",
+      "involves",
+      "mathematical concepts"
+    ],
+    [
+      "paper folding",
+      "involves",
+      "mathematics"
+    ],
+    [
+      "paper folding",
+      "is a form of",
+      "art"
+    ],
+    [
+      "paper folding",
+      "is a technique in",
+      "shapes"
+    ],
+    [
+      "paper folding",
+      "is achieved through",
+      "creations"
+    ],
+    [
+      "paper folding",
+      "requires",
+      "precision"
+    ],
+    [
+      "paper folding",
+      "results in",
+      "intricate designs"
+    ],
+    [
+      "paper folding",
+      "supports",
+      "integrity"
+    ],
+    [
+      "paper folding",
+      "utilizes",
+      "architecture"
+    ],
+    [
+      "paper folding",
+      "utilizes",
+      "symmetry"
+    ],
+    [
+      "precision",
+      "creates",
+      "symmetrical designs"
+    ],
+    [
+      "precision",
+      "enhances",
+      "folding patterns"
+    ],
+    [
+      "precision",
+      "enhances",
+      "science"
+    ],
+    [
+      "precision",
+      "enhances",
+      "symmetry"
+    ],
+    [
+      "precision",
+      "ensures",
+      "accuracy"
+    ],
+    [
+      "precision",
+      "ensures",
+      "dimensions"
+    ],
+    [
+      "precision",
+      "ensures",
+      "folds"
+    ],
+    [
+      "precision",
+      "involves",
+      "manipulation"
+    ],
+    [
+      "precision",
+      "is characterized by",
+      "transformation"
+    ],
+    [
+      "precision",
+      "is enhanced by",
+      "artificial intelligence"
+    ],
+    [
+      "precision",
+      "promotes",
+      "exploration"
+    ],
+    [
+      "precision",
+      "requires",
+      "calculations"
+    ],
+    [
+      "proportion",
+      "contributes to",
+      "balance"
+    ],
+    [
+      "proportion",
+      "defines",
+      "forms"
+    ],
+    [
+      "proportion",
+      "enhances",
+      "beauty of mathematics"
+    ],
+    [
+      "proportion",
+      "enhances",
+      "repetitions"
+    ],
+    [
+      "proportion",
+      "enhances",
+      "symmetrical designs"
+    ],
+    [
+      "proportion",
+      "enhances",
+      "symmetry"
+    ],
+    [
+      "proportion",
+      "ensures",
+      "stability"
+    ],
+    [
+      "proportion",
+      "influences",
+      "folded structure"
+    ],
+    [
+      "proportion",
+      "influences",
+      "folding patterns"
+    ],
+    [
+      "proportion",
+      "influences",
+      "folds"
+    ],
+    [
+      "proportion",
+      "involves",
+      "engineering"
+    ],
+    [
+      "proportion",
+      "involves",
+      "paper folding"
+    ],
+    [
+      "proportion",
+      "involves",
+      "scaling"
+    ],
+    [
+      "proportion",
+      "is a component of",
+      "mathematical concepts"
+    ],
+    [
+      "proportion",
+      "is applied in",
+      "Euclidean geometry"
+    ],
+    [
+      "proportion",
+      "is determined by",
+      "creations"
+    ],
+    [
+      "proportion",
+      "relates to",
+      "geometric concepts"
+    ],
+    [
+      "ratio",
+      "determines",
+      "shapes"
+    ],
+    [
+      "ratio",
+      "ensures",
+      "precision"
+    ],
+    [
+      "ratio",
+      "influences",
+      "folding patterns"
+    ],
+    [
+      "ratio",
+      "involves",
+      "manipulation"
+    ],
+    [
+      "ratio",
+      "involves",
+      "repetitions"
+    ],
+    [
+      "ratio",
+      "involves",
+      "scaling"
+    ],
+    [
+      "ratio",
+      "is a branch of",
+      "mathematics"
+    ],
+    [
+      "ratio",
+      "is related to",
+      "Euclidean geometry"
+    ],
+    [
+      "ratio",
+      "relates to",
+      "symmetry"
+    ],
+    [
+      "repetitions",
+      "contributes to",
+      "stability"
+    ],
+    [
+      "repetitions",
+      "enhances",
+      "art"
+    ],
+    [
+      "repetitions",
+      "enhances",
+      "precision"
+    ],
+    [
+      "repetitions",
+      "enhances",
+      "symmetry"
+    ],
+    [
+      "repetitions",
+      "ensures",
+      "structural soundness"
+    ],
+    [
+      "repetitions",
+      "involves",
+      "folding patterns"
+    ],
+    [
+      "repetitions",
+      "involves",
+      "folds"
+    ],
+    [
+      "repetitions",
+      "is a concept in",
+      "mathematics"
+    ],
+    [
+      "repetitions",
+      "is influenced by",
+      "dimensions"
+    ],
+    [
+      "robotics",
+      "advances",
+      "advancements"
+    ],
+    [
+      "robotics",
+      "applies to",
+      "Euclidean geometry"
+    ],
+    [
+      "robotics",
+      "develops",
+      "algorithms"
+    ],
+    [
+      "robotics",
+      "ensures",
+      "accuracy"
+    ],
+    [
+      "robotics",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "robotics",
+      "involves",
+      "paper folding"
+    ],
+    [
+      "robotics",
+      "is informed by",
+      "geometric concepts"
+    ],
+    [
+      "robotics",
+      "is related to",
+      "vertices"
+    ],
+    [
+      "robotics",
+      "produces",
+      "intricate designs"
+    ],
+    [
+      "robotics",
+      "utilizes",
+      "computational origami"
+    ],
+    [
+      "robotics",
+      "utilizes",
+      "creations"
+    ],
+    [
+      "robotics",
+      "utilizes",
+      "edges"
+    ],
+    [
+      "robotics",
+      "utilizes",
+      "folds"
+    ],
+    [
+      "scaling",
+      "affects",
+      "folded structure"
+    ],
+    [
+      "scaling",
+      "affects",
+      "folding patterns"
+    ],
+    [
+      "scaling",
+      "determines",
+      "folds"
+    ],
+    [
+      "scaling",
+      "enables",
+      "symmetrical designs"
+    ],
+    [
+      "scaling",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "scaling",
+      "involves",
+      "calculations"
+    ],
+    [
+      "scaling",
+      "involves",
+      "forms"
+    ],
+    [
+      "scaling",
+      "involves",
+      "mathematical concepts"
+    ],
+    [
+      "scaling",
+      "involves",
+      "mathematics"
+    ],
+    [
+      "scaling",
+      "involves",
+      "symmetry"
+    ],
+    [
+      "scaling",
+      "is a form of",
+      "art"
+    ],
+    [
+      "scaling",
+      "requires",
+      "manipulation"
+    ],
+    [
+      "scaling",
+      "requires",
+      "repetitions"
+    ],
+    [
+      "science",
+      "contributes to",
+      "artificial intelligence"
+    ],
+    [
+      "science",
+      "informs",
+      "material science"
+    ],
+    [
+      "science",
+      "intersects with",
+      "technology"
+    ],
+    [
+      "science",
+      "involves",
+      "paper folding"
+    ],
+    [
+      "science",
+      "involves",
+      "scaling"
+    ],
+    [
+      "science",
+      "shapes",
+      "forms"
+    ],
+    [
+      "science",
+      "shapes",
+      "shapes"
+    ],
+    [
+      "science",
+      "underpins",
+      "graph theory"
+    ],
+    [
+      "science",
+      "utilizes",
+      "calculations"
+    ],
+    [
+      "science",
+      "utilizes",
+      "medical devices"
+    ],
+    [
+      "shapes",
+      "creates",
+      "folded structure"
+    ],
+    [
+      "shapes",
+      "creates",
+      "forms"
+    ],
+    [
+      "shapes",
+      "creates",
+      "symmetrical designs"
+    ],
+    [
+      "shapes",
+      "defines",
+      "angles"
+    ],
+    [
+      "shapes",
+      "defines",
+      "vertices"
+    ],
+    [
+      "shapes",
+      "enhances",
+      "robotics"
+    ],
+    [
+      "shapes",
+      "enhances",
+      "visual appeal"
+    ],
+    [
+      "shapes",
+      "influences",
+      "folds"
+    ],
+    [
+      "shapes",
+      "informs",
+      "mathematical concepts"
+    ],
+    [
+      "shapes",
+      "involves",
+      "repetitions"
+    ],
+    [
+      "shapes",
+      "is studied in",
+      "material science"
+    ],
+    [
+      "shapes",
+      "leads to",
+      "innovative structures"
+    ],
+    [
+      "shapes",
+      "relates to",
+      "proportion"
+    ],
+    [
+      "shapes",
+      "represents",
+      "geometric concepts"
+    ],
+    [
+      "shapes",
+      "utilizes",
+      "computer science"
+    ],
+    [
+      "software programs",
+      "analyzes",
+      "folding patterns"
+    ],
+    [
+      "software programs",
+      "creates",
+      "forms"
+    ],
+    [
+      "software programs",
+      "develops",
+      "computational origami"
+    ],
+    [
+      "software programs",
+      "enhances",
+      "vertices"
+    ],
+    [
+      "software programs",
+      "is a tool for",
+      "algorithms"
+    ],
+    [
+      "software programs",
+      "is manipulated by",
+      "manipulation"
+    ],
+    [
+      "software programs",
+      "is supported by",
+      "creations"
+    ],
+    [
+      "software programs",
+      "used in",
+      "medical devices"
+    ],
+    [
+      "software programs",
+      "utilizes",
+      "engineering"
+    ],
+    [
+      "software programs",
+      "utilizes",
+      "paper folding"
+    ],
+    [
+      "software programs",
+      "utilizes",
+      "science"
+    ],
+    [
+      "stability",
+      "contributes to",
+      "visual appeal"
+    ],
+    [
+      "stability",
+      "enhances",
+      "accuracy"
+    ],
+    [
+      "stability",
+      "ensures",
+      "adaptable designs"
+    ],
+    [
+      "stability",
+      "ensures",
+      "balance"
+    ],
+    [
+      "stability",
+      "ensures",
+      "folding patterns"
+    ],
+    [
+      "stability",
+      "ensures",
+      "integrity"
+    ],
+    [
+      "stability",
+      "ensures",
+      "mathematics"
+    ],
+    [
+      "stability",
+      "ensures",
+      "science"
+    ],
+    [
+      "stability",
+      "provides",
+      "beauty of mathematics"
+    ],
+    [
+      "stability",
+      "provides",
+      "deployable solar panels"
+    ],
+    [
+      "stability",
+      "provides",
+      "origami artists"
+    ],
+    [
+      "stability",
+      "provides",
+      "precision"
+    ],
+    [
+      "stability",
+      "provides",
+      "structural soundness"
+    ],
+    [
+      "structural soundness",
+      "applies to",
+      "material science"
+    ],
+    [
+      "structural soundness",
+      "depends on",
+      "precision"
+    ],
+    [
+      "structural soundness",
+      "enables",
+      "innovative structures"
+    ],
+    [
+      "structural soundness",
+      "enhances",
+      "beauty of mathematics"
+    ],
+    [
+      "structural soundness",
+      "enhances",
+      "visual appeal"
+    ],
+    [
+      "structural soundness",
+      "ensures",
+      "advancements"
+    ],
+    [
+      "structural soundness",
+      "ensures",
+      "dimensions"
+    ],
+    [
+      "structural soundness",
+      "ensures",
+      "engineering"
+    ],
+    [
+      "structural soundness",
+      "ensures",
+      "folding patterns"
+    ],
+    [
+      "structural soundness",
+      "ensures",
+      "geometric concepts"
+    ],
+    [
+      "structural soundness",
+      "ensures",
+      "scaling"
+    ],
+    [
+      "structural soundness",
+      "ensures",
+      "shapes"
+    ],
+    [
+      "structural soundness",
+      "ensures",
+      "transformation"
+    ],
+    [
+      "structural soundness",
+      "involves",
+      "graph theory"
+    ],
+    [
+      "structural soundness",
+      "involves",
+      "mathematics"
+    ],
+    [
+      "symmetrical designs",
+      "achieves",
+      "balance"
+    ],
+    [
+      "symmetrical designs",
+      "creates",
+      "forms"
+    ],
+    [
+      "symmetrical designs",
+      "ensures",
+      "accuracy"
+    ],
+    [
+      "symmetrical designs",
+      "influences",
+      "geometric principles"
+    ],
+    [
+      "symmetrical designs",
+      "informs",
+      "architecture"
+    ],
+    [
+      "symmetrical designs",
+      "inspired by",
+      "geometric concepts"
+    ],
+    [
+      "symmetrical designs",
+      "is enhanced by",
+      "integrity"
+    ],
+    [
+      "symmetrical designs",
+      "is represented by",
+      "science"
+    ],
+    [
+      "symmetry",
+      "ensures",
+      "accuracy"
+    ],
+    [
+      "symmetry",
+      "ensures",
+      "stability"
+    ],
+    [
+      "symmetry",
+      "is characterized by",
+      "repetitions"
+    ],
+    [
+      "symmetry",
+      "is ensured by",
+      "integrity"
+    ],
+    [
+      "symmetry",
+      "provides",
+      "balance"
+    ],
+    [
+      "symmetry",
+      "provides",
+      "folded structure"
+    ],
+    [
+      "technology",
+      "advances",
+      "robotics"
+    ],
+    [
+      "technology",
+      "applies to",
+      "computational origami"
+    ],
+    [
+      "technology",
+      "enables",
+      "adaptable designs"
+    ],
+    [
+      "technology",
+      "enhances",
+      "visual appeal"
+    ],
+    [
+      "technology",
+      "ensures",
+      "precision"
+    ],
+    [
+      "technology",
+      "inspired by",
+      "deployable solar panels"
+    ],
+    [
+      "technology",
+      "involves",
+      "geometric concepts"
+    ],
+    [
+      "technology",
+      "involves",
+      "manipulation"
+    ],
+    [
+      "technology",
+      "is applied in",
+      "artificial intelligence"
+    ],
+    [
+      "technology",
+      "supports",
+      "software programs"
+    ],
+    [
+      "three-dimensional structures",
+      "comprises",
+      "creations"
+    ],
+    [
+      "three-dimensional structures",
+      "comprises",
+      "engineering"
+    ],
+    [
+      "three-dimensional structures",
+      "ensures",
+      "accuracy"
+    ],
+    [
+      "three-dimensional structures",
+      "formed by",
+      "folding patterns"
+    ],
+    [
+      "three-dimensional structures",
+      "forms",
+      "vertices"
+    ],
+    [
+      "three-dimensional structures",
+      "inspired by",
+      "advancements"
+    ],
+    [
+      "three-dimensional structures",
+      "is defined by",
+      "geometric concepts"
+    ],
+    [
+      "three-dimensional structures",
+      "produces",
+      "software programs"
+    ],
+    [
+      "three-dimensional structures",
+      "results in",
+      "computational origami"
+    ],
+    [
+      "three-dimensional structures",
+      "results in",
+      "dimensions"
+    ],
+    [
+      "three-dimensional structures",
+      "results in",
+      "paper folding"
+    ],
+    [
+      "three-dimensional structures",
+      "results in",
+      "precision"
+    ],
+    [
+      "three-dimensional structures",
+      "transforms into",
+      "forms"
+    ],
+    [
+      "transformation",
+      "affects",
+      "proportion"
+    ],
+    [
+      "transformation",
+      "applies",
+      "mathematics"
+    ],
+    [
+      "transformation",
+      "creates",
+      "innovative structures"
+    ],
+    [
+      "transformation",
+      "creates",
+      "intricate designs"
+    ],
+    [
+      "transformation",
+      "creates",
+      "shapes"
+    ],
+    [
+      "transformation",
+      "creates",
+      "symmetrical designs"
+    ],
+    [
+      "transformation",
+      "creates",
+      "symmetry"
+    ],
+    [
+      "transformation",
+      "develops",
+      "software programs"
+    ],
+    [
+      "transformation",
+      "enhances",
+      "artificial intelligence"
+    ],
+    [
+      "transformation",
+      "ensures",
+      "accuracy"
+    ],
+    [
+      "transformation",
+      "ensures",
+      "balance"
+    ],
+    [
+      "transformation",
+      "facilitates",
+      "robotics"
+    ],
+    [
+      "transformation",
+      "illustrates",
+      "beauty of mathematics"
+    ],
+    [
+      "transformation",
+      "influences",
+      "architecture"
+    ],
+    [
+      "transformation",
+      "inspired",
+      "deployable solar panels"
+    ],
+    [
+      "transformation",
+      "involves",
+      "adaptable designs"
+    ],
+    [
+      "transformation",
+      "involves",
+      "calculations"
+    ],
+    [
+      "transformation",
+      "involves",
+      "edges"
+    ],
+    [
+      "transformation",
+      "involves",
+      "folded structure"
+    ],
+    [
+      "transformation",
+      "involves",
+      "folding patterns"
+    ],
+    [
+      "transformation",
+      "involves",
+      "manipulation"
+    ],
+    [
+      "transformation",
+      "involves",
+      "origami"
+    ],
+    [
+      "transformation",
+      "involves",
+      "paper folding"
+    ],
+    [
+      "transformation",
+      "involves",
+      "scaling"
+    ],
+    [
+      "transformation",
+      "is a form of",
+      "art"
+    ],
+    [
+      "transformation",
+      "is studied in",
+      "computational origami"
+    ],
+    [
+      "transformation",
+      "results in",
+      "forms"
+    ],
+    [
+      "transformation",
+      "results in",
+      "three-dimensional structures"
+    ],
+    [
+      "vertices",
+      "defines",
+      "forms"
+    ],
+    [
+      "vertices",
+      "defines",
+      "paper folding"
+    ],
+    [
+      "vertices",
+      "influences",
+      "visual appeal"
+    ],
+    [
+      "vertices",
+      "involves",
+      "calculations"
+    ],
+    [
+      "vertices",
+      "involves",
+      "exploration"
+    ],
+    [
+      "vertices",
+      "involves",
+      "geometric concepts"
+    ],
+    [
+      "vertices",
+      "is a concept in",
+      "mathematical concepts"
+    ],
+    [
+      "vertices",
+      "is defined by",
+      "deployable solar panels"
+    ],
+    [
+      "visual appeal",
+      "contributes to",
+      "Euclidean geometry"
+    ],
+    [
+      "visual appeal",
+      "contributes to",
+      "exploration"
+    ],
+    [
+      "visual appeal",
+      "defines",
+      "computational origami"
+    ],
+    [
+      "visual appeal",
+      "enhances",
+      "algorithms"
+    ],
+    [
+      "visual appeal",
+      "enhances",
+      "art"
+    ],
+    [
+      "visual appeal",
+      "enhances",
+      "computer science"
+    ],
+    [
+      "visual appeal",
+      "enhances",
+      "dimensions"
+    ],
+    [
+      "visual appeal",
+      "enhances",
+      "integrity"
+    ],
+    [
+      "visual appeal",
+      "enhances",
+      "proportion"
+    ],
+    [
+      "visual appeal",
+      "enhances",
+      "ratio"
+    ],
+    [
+      "visual appeal",
+      "enhances",
+      "robotics"
+    ],
+    [
+      "visual appeal",
+      "involves",
+      "repetitions"
+    ],
+    [
+      "visual appeal",
+      "leads to",
+      "advancements"
+    ],
+    [
+      "visual appeal",
+      "requires",
+      "scaling"
+    ],
+    [
+      "visual appeal",
+      "results in",
+      "intricate designs"
+    ]
+  ],
+  "edges": [
+    "achieved by",
+    "achieves",
+    "advances",
+    "affects",
+    "allows for",
+    "analyzes",
+    "applied in",
+    "applied to",
+    "applies",
+    "applies to",
+    "appreciates",
+    "benefits",
+    "calculates",
+    "combines with",
+    "composed of",
+    "composes",
+    "comprises",
+    "contributes to",
+    "create",
+    "creates",
+    "defined by",
+    "defines",
+    "demonstrates",
+    "depends on",
+    "derived from",
+    "derives from",
+    "describes",
+    "determined by",
+    "determines",
+    "developed using",
+    "develops",
+    "driven by",
+    "drives",
+    "enables",
+    "encompasses",
+    "engages in",
+    "enhances",
+    "ensures",
+    "executes",
+    "exemplifies",
+    "explores",
+    "expresses",
+    "facilitates",
+    "formed by",
+    "forms",
+    "guides",
+    "illustrates",
+    "improves",
+    "includes",
+    "influenced by",
+    "influences",
+    "informed by",
+    "informs",
+    "inspired",
+    "inspired by",
+    "intersects with",
+    "involves",
+    "is a branch of",
+    "is a characteristic of",
+    "is a component of",
+    "is a concept in",
+    "is a concept of",
+    "is a factor in",
+    "is a field of",
+    "is a field of study in",
+    "is a form of",
+    "is a method of",
+    "is a part of",
+    "is a principle of",
+    "is a process of",
+    "is a result of",
+    "is a subset of",
+    "is a technique in",
+    "is a tool for",
+    "is a type of",
+    "is achieved through",
+    "is advanced by",
+    "is applied in",
+    "is based on",
+    "is characterized by",
+    "is created as",
+    "is created by",
+    "is created through",
+    "is defined by",
+    "is derived from",
+    "is determined by",
+    "is enhanced by",
+    "is ensured by",
+    "is essential for",
+    "is exemplified by",
+    "is expressed as",
+    "is expressed through",
+    "is influenced by",
+    "is informed by",
+    "is maintained by",
+    "is manifested in",
+    "is manipulated by",
+    "is part of",
+    "is realized in",
+    "is reflected in",
+    "is related to",
+    "is represented by",
+    "is studied in",
+    "is supported by",
+    "is used in",
+    "is utilized in",
+    "leads to",
+    "maintained by",
+    "maintains",
+    "manipulated by",
+    "manipulates",
+    "perform",
+    "practices",
+    "produced by",
+    "produces",
+    "promotes",
+    "provides",
+    "related to",
+    "relates to",
+    "relies on",
+    "represents",
+    "requires",
+    "results in",
+    "shapes",
+    "supports",
+    "transforms into",
+    "underpins",
+    "used in",
+    "utilized by",
+    "utilized in",
+    "utilizes"
+  ]
+}

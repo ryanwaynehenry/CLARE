@@ -1,0 +1,3360 @@
+{
+  "entities": [
+    "agricultural residues",
+    "bioenergy",
+    "biofuels",
+    "biogas",
+    "building integration",
+    "clean alternatives",
+    "clean energy",
+    "climate change",
+    "constant energy",
+    "drive turbines",
+    "economic opportunities",
+    "efficiency improvements",
+    "electricity generation",
+    "energy efficiency",
+    "energy innovation",
+    "energy resources",
+    "energy security",
+    "energy storage",
+    "energy systems",
+    "energy technology",
+    "energy transition",
+    "enhanced geothermal systems",
+    "environmental impact",
+    "environmental protection",
+    "fossil fuels",
+    "geothermal energy",
+    "geothermal heat pumps",
+    "geothermal power plants",
+    "government incentives",
+    "greenhouse gas emissions",
+    "grid infrastructure",
+    "heat generation",
+    "heating and cooling",
+    "hot water",
+    "hydropower",
+    "organic materials",
+    "performance improvements",
+    "photovoltaic cells",
+    "policy support",
+    "potential applications",
+    "reliable power source",
+    "renewable energy",
+    "research and development",
+    "solar energy",
+    "solar panels",
+    "stakeholder engagement",
+    "steam",
+    "sustainable energy",
+    "technological advancements",
+    "underground reservoirs",
+    "utility-scale solar",
+    "waste biomass",
+    "wind power"
+  ],
+  "relations": [
+    [
+      "agricultural residues",
+      "advances",
+      "technological advancements"
+    ],
+    [
+      "agricultural residues",
+      "contributes to",
+      "energy resources"
+    ],
+    [
+      "agricultural residues",
+      "contributes to",
+      "greenhouse gas emissions"
+    ],
+    [
+      "agricultural residues",
+      "creates",
+      "economic opportunities"
+    ],
+    [
+      "agricultural residues",
+      "derived from",
+      "fossil fuels"
+    ],
+    [
+      "agricultural residues",
+      "enables",
+      "potential applications"
+    ],
+    [
+      "agricultural residues",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "agricultural residues",
+      "improves",
+      "efficiency improvements"
+    ],
+    [
+      "agricultural residues",
+      "is a source of",
+      "bioenergy"
+    ],
+    [
+      "agricultural residues",
+      "is a type of",
+      "organic materials"
+    ],
+    [
+      "agricultural residues",
+      "is affected by",
+      "environmental impact"
+    ],
+    [
+      "agricultural residues",
+      "mitigates",
+      "climate change"
+    ],
+    [
+      "agricultural residues",
+      "promotes",
+      "environmental protection"
+    ],
+    [
+      "bioenergy",
+      "advances",
+      "energy technology"
+    ],
+    [
+      "bioenergy",
+      "competes with",
+      "fossil fuels"
+    ],
+    [
+      "bioenergy",
+      "derived from",
+      "heat generation"
+    ],
+    [
+      "bioenergy",
+      "derived from",
+      "organic materials"
+    ],
+    [
+      "bioenergy",
+      "derived from",
+      "solar energy"
+    ],
+    [
+      "bioenergy",
+      "drives",
+      "drive turbines"
+    ],
+    [
+      "bioenergy",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "bioenergy",
+      "enables",
+      "electricity generation"
+    ],
+    [
+      "bioenergy",
+      "impacts",
+      "environmental impact"
+    ],
+    [
+      "bioenergy",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "bioenergy",
+      "includes",
+      "renewable energy"
+    ],
+    [
+      "bioenergy",
+      "is a type of",
+      "clean alternatives"
+    ],
+    [
+      "bioenergy",
+      "is derived from",
+      "wind power"
+    ],
+    [
+      "bioenergy",
+      "is driven by",
+      "research and development"
+    ],
+    [
+      "bioenergy",
+      "is produced by",
+      "clean energy"
+    ],
+    [
+      "bioenergy",
+      "is supported by",
+      "energy systems"
+    ],
+    [
+      "bioenergy",
+      "requires",
+      "environmental protection"
+    ],
+    [
+      "bioenergy",
+      "utilizes",
+      "geothermal power plants"
+    ],
+    [
+      "biofuels",
+      "advances",
+      "research and development"
+    ],
+    [
+      "biofuels",
+      "creates",
+      "economic opportunities"
+    ],
+    [
+      "biofuels",
+      "derived from",
+      "fossil fuels"
+    ],
+    [
+      "biofuels",
+      "derived from",
+      "reliable power source"
+    ],
+    [
+      "biofuels",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "biofuels",
+      "facilitates",
+      "energy transition"
+    ],
+    [
+      "biofuels",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "biofuels",
+      "is a form of",
+      "sustainable energy"
+    ],
+    [
+      "biofuels",
+      "is a source of",
+      "renewable energy"
+    ],
+    [
+      "biofuels",
+      "is a type of",
+      "bioenergy"
+    ],
+    [
+      "biofuels",
+      "is a type of",
+      "energy technology"
+    ],
+    [
+      "biofuels",
+      "is derived from",
+      "agricultural residues"
+    ],
+    [
+      "biofuels",
+      "is driven by",
+      "technological advancements"
+    ],
+    [
+      "biofuels",
+      "is produced by",
+      "constant energy"
+    ],
+    [
+      "biofuels",
+      "is utilized in",
+      "potential applications"
+    ],
+    [
+      "biofuels",
+      "produces",
+      "biogas"
+    ],
+    [
+      "biofuels",
+      "reduces",
+      "greenhouse gas emissions"
+    ],
+    [
+      "biofuels",
+      "serves as",
+      "clean alternatives"
+    ],
+    [
+      "biofuels",
+      "supports",
+      "environmental protection"
+    ],
+    [
+      "biofuels",
+      "used for",
+      "electricity generation"
+    ],
+    [
+      "biofuels",
+      "utilizes",
+      "energy systems"
+    ],
+    [
+      "biofuels",
+      "utilizes",
+      "heating and cooling"
+    ],
+    [
+      "biogas",
+      "advances",
+      "research and development"
+    ],
+    [
+      "biogas",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "biogas",
+      "contributes to",
+      "environmental protection"
+    ],
+    [
+      "biogas",
+      "creates",
+      "economic opportunities"
+    ],
+    [
+      "biogas",
+      "derived from",
+      "agricultural residues"
+    ],
+    [
+      "biogas",
+      "derived from",
+      "organic materials"
+    ],
+    [
+      "biogas",
+      "improves",
+      "technological advancements"
+    ],
+    [
+      "biogas",
+      "is a form of",
+      "clean alternatives"
+    ],
+    [
+      "biogas",
+      "is a type of",
+      "bioenergy"
+    ],
+    [
+      "biogas",
+      "is categorized as",
+      "renewable energy"
+    ],
+    [
+      "biogas",
+      "produces",
+      "energy technology"
+    ],
+    [
+      "biogas",
+      "produces",
+      "heat generation"
+    ],
+    [
+      "biogas",
+      "utilizes",
+      "energy resources"
+    ],
+    [
+      "biogas",
+      "utilizes",
+      "geothermal energy"
+    ],
+    [
+      "biogas",
+      "utilizes",
+      "geothermal power plants"
+    ],
+    [
+      "building integration",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "building integration",
+      "is enhanced by",
+      "efficiency improvements"
+    ],
+    [
+      "building integration",
+      "is integrated into",
+      "photovoltaic cells"
+    ],
+    [
+      "building integration",
+      "is integrated into",
+      "utility-scale solar"
+    ],
+    [
+      "clean alternatives",
+      "benefits from",
+      "economic opportunities"
+    ],
+    [
+      "clean alternatives",
+      "ensures",
+      "environmental protection"
+    ],
+    [
+      "clean alternatives",
+      "is a substitute for",
+      "constant energy"
+    ],
+    [
+      "clean alternatives",
+      "is influenced by",
+      "performance improvements"
+    ],
+    [
+      "clean alternatives",
+      "is replaced by",
+      "fossil fuels"
+    ],
+    [
+      "clean alternatives",
+      "is supported by",
+      "research and development"
+    ],
+    [
+      "clean alternatives",
+      "mitigates",
+      "environmental impact"
+    ],
+    [
+      "clean alternatives",
+      "serves as",
+      "energy efficiency"
+    ],
+    [
+      "clean alternatives",
+      "supports",
+      "policy support"
+    ],
+    [
+      "clean energy",
+      "advances",
+      "research and development"
+    ],
+    [
+      "clean energy",
+      "derived from",
+      "geothermal heat pumps"
+    ],
+    [
+      "clean energy",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "clean energy",
+      "drives",
+      "technological advancements"
+    ],
+    [
+      "clean energy",
+      "enables",
+      "electricity generation"
+    ],
+    [
+      "clean energy",
+      "enhances",
+      "energy security"
+    ],
+    [
+      "clean energy",
+      "includes",
+      "solar energy"
+    ],
+    [
+      "clean energy",
+      "integrated into",
+      "energy systems"
+    ],
+    [
+      "clean energy",
+      "is a form of",
+      "hydropower"
+    ],
+    [
+      "clean energy",
+      "is a source of",
+      "reliable power source"
+    ],
+    [
+      "clean energy",
+      "is a type of",
+      "renewable energy"
+    ],
+    [
+      "clean energy",
+      "is produced by",
+      "biofuels"
+    ],
+    [
+      "clean energy",
+      "is synonymous with",
+      "clean alternatives"
+    ],
+    [
+      "clean energy",
+      "mitigates",
+      "climate change"
+    ],
+    [
+      "clean energy",
+      "promotes",
+      "policy support"
+    ],
+    [
+      "clean energy",
+      "supports",
+      "energy transition"
+    ],
+    [
+      "clean energy",
+      "supports",
+      "environmental protection"
+    ],
+    [
+      "clean energy",
+      "utilizes",
+      "enhanced geothermal systems"
+    ],
+    [
+      "climate change",
+      "addresses",
+      "research and development"
+    ],
+    [
+      "climate change",
+      "affected by",
+      "steam"
+    ],
+    [
+      "climate change",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "climate change",
+      "creates",
+      "economic opportunities"
+    ],
+    [
+      "climate change",
+      "exacerbates",
+      "enhanced geothermal systems"
+    ],
+    [
+      "climate change",
+      "influences",
+      "policy support"
+    ],
+    [
+      "climate change",
+      "is impacted by",
+      "hydropower"
+    ],
+    [
+      "climate change",
+      "is mitigated by",
+      "biofuels"
+    ],
+    [
+      "climate change",
+      "mitigates",
+      "bioenergy"
+    ],
+    [
+      "climate change",
+      "mitigates",
+      "biogas"
+    ],
+    [
+      "climate change",
+      "mitigates",
+      "energy security"
+    ],
+    [
+      "constant energy",
+      "enhances",
+      "energy security"
+    ],
+    [
+      "constant energy",
+      "is a form of",
+      "renewable energy"
+    ],
+    [
+      "constant energy",
+      "is complemented by",
+      "energy storage"
+    ],
+    [
+      "constant energy",
+      "is derived from",
+      "bioenergy"
+    ],
+    [
+      "constant energy",
+      "is derived from",
+      "geothermal energy"
+    ],
+    [
+      "constant energy",
+      "is part of",
+      "energy transition"
+    ],
+    [
+      "constant energy",
+      "provides",
+      "reliable power source"
+    ],
+    [
+      "constant energy",
+      "reduces",
+      "greenhouse gas emissions"
+    ],
+    [
+      "constant energy",
+      "represents",
+      "energy innovation"
+    ],
+    [
+      "drive turbines",
+      "drives",
+      "clean alternatives"
+    ],
+    [
+      "drive turbines",
+      "is powered by",
+      "reliable power source"
+    ],
+    [
+      "drive turbines",
+      "is utilized to",
+      "technological advancements"
+    ],
+    [
+      "drive turbines",
+      "operates",
+      "energy systems"
+    ],
+    [
+      "drive turbines",
+      "powered by",
+      "photovoltaic cells"
+    ],
+    [
+      "drive turbines",
+      "powered by",
+      "renewable energy"
+    ],
+    [
+      "drive turbines",
+      "powers",
+      "energy technology"
+    ],
+    [
+      "drive turbines",
+      "utilized by",
+      "potential applications"
+    ],
+    [
+      "economic opportunities",
+      "creates",
+      "bioenergy"
+    ],
+    [
+      "economic opportunities",
+      "creates",
+      "energy resources"
+    ],
+    [
+      "economic opportunities",
+      "creates",
+      "energy technology"
+    ],
+    [
+      "economic opportunities",
+      "creates",
+      "fossil fuels"
+    ],
+    [
+      "economic opportunities",
+      "creates",
+      "heat generation"
+    ],
+    [
+      "economic opportunities",
+      "creates",
+      "renewable energy"
+    ],
+    [
+      "economic opportunities",
+      "creates",
+      "technological advancements"
+    ],
+    [
+      "economic opportunities",
+      "creates",
+      "waste biomass"
+    ],
+    [
+      "economic opportunities",
+      "fueled by",
+      "research and development"
+    ],
+    [
+      "economic opportunities",
+      "is derived from",
+      "organic materials"
+    ],
+    [
+      "economic opportunities",
+      "provides",
+      "geothermal energy"
+    ],
+    [
+      "economic opportunities",
+      "provides",
+      "hydropower"
+    ],
+    [
+      "efficiency improvements",
+      "enables",
+      "technological advancements"
+    ],
+    [
+      "efficiency improvements",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "efficiency improvements",
+      "is enhanced by",
+      "potential applications"
+    ],
+    [
+      "efficiency improvements",
+      "powers",
+      "drive turbines"
+    ],
+    [
+      "electricity generation",
+      "depends on",
+      "hydropower"
+    ],
+    [
+      "electricity generation",
+      "depends on",
+      "renewable energy"
+    ],
+    [
+      "electricity generation",
+      "enables",
+      "reliable power source"
+    ],
+    [
+      "electricity generation",
+      "generates",
+      "waste biomass"
+    ],
+    [
+      "electricity generation",
+      "is generated by",
+      "constant energy"
+    ],
+    [
+      "electricity generation",
+      "is generated by",
+      "fossil fuels"
+    ],
+    [
+      "electricity generation",
+      "is produced by",
+      "energy systems"
+    ],
+    [
+      "electricity generation",
+      "is produced by",
+      "geothermal energy"
+    ],
+    [
+      "electricity generation",
+      "is produced by",
+      "underground reservoirs"
+    ],
+    [
+      "electricity generation",
+      "powers",
+      "drive turbines"
+    ],
+    [
+      "electricity generation",
+      "produces",
+      "hot water"
+    ],
+    [
+      "energy efficiency",
+      "improves",
+      "energy resources"
+    ],
+    [
+      "energy efficiency",
+      "improves",
+      "fossil fuels"
+    ],
+    [
+      "energy efficiency",
+      "improves",
+      "heating and cooling"
+    ],
+    [
+      "energy efficiency",
+      "improves",
+      "waste biomass"
+    ],
+    [
+      "energy efficiency",
+      "is used for",
+      "steam"
+    ],
+    [
+      "energy innovation",
+      "advances",
+      "geothermal energy"
+    ],
+    [
+      "energy innovation",
+      "drives",
+      "photovoltaic cells"
+    ],
+    [
+      "energy innovation",
+      "powers",
+      "drive turbines"
+    ],
+    [
+      "energy resources",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "energy resources",
+      "derived from",
+      "heat generation"
+    ],
+    [
+      "energy resources",
+      "includes",
+      "geothermal energy"
+    ],
+    [
+      "energy resources",
+      "is a factor in",
+      "climate change"
+    ],
+    [
+      "energy resources",
+      "is a type of",
+      "fossil fuels"
+    ],
+    [
+      "energy resources",
+      "is a type of",
+      "hydropower"
+    ],
+    [
+      "energy resources",
+      "is a type of",
+      "solar energy"
+    ],
+    [
+      "energy resources",
+      "is a type of",
+      "waste biomass"
+    ],
+    [
+      "energy resources",
+      "is derived from",
+      "energy storage"
+    ],
+    [
+      "energy resources",
+      "is sourced from",
+      "biofuels"
+    ],
+    [
+      "energy resources",
+      "powers",
+      "drive turbines"
+    ],
+    [
+      "energy resources",
+      "powers",
+      "photovoltaic cells"
+    ],
+    [
+      "energy resources",
+      "requires",
+      "environmental protection"
+    ],
+    [
+      "energy resources",
+      "utilizes",
+      "geothermal heat pumps"
+    ],
+    [
+      "energy security",
+      "enhanced by",
+      "climate change"
+    ],
+    [
+      "energy security",
+      "enhances",
+      "building integration"
+    ],
+    [
+      "energy security",
+      "enhances",
+      "clean alternatives"
+    ],
+    [
+      "energy security",
+      "enhances",
+      "energy innovation"
+    ],
+    [
+      "energy security",
+      "enhances",
+      "energy storage"
+    ],
+    [
+      "energy security",
+      "enhances",
+      "policy support"
+    ],
+    [
+      "energy security",
+      "enhances",
+      "underground reservoirs"
+    ],
+    [
+      "energy security",
+      "is enhanced by",
+      "research and development"
+    ],
+    [
+      "energy storage",
+      "enhances",
+      "energy technology"
+    ],
+    [
+      "energy storage",
+      "enhances",
+      "photovoltaic cells"
+    ],
+    [
+      "energy storage",
+      "enhances",
+      "renewable energy"
+    ],
+    [
+      "energy storage",
+      "integrates with",
+      "building integration"
+    ],
+    [
+      "energy storage",
+      "promotes",
+      "energy innovation"
+    ],
+    [
+      "energy storage",
+      "supports",
+      "electricity generation"
+    ],
+    [
+      "energy storage",
+      "supports",
+      "heat generation"
+    ],
+    [
+      "energy storage",
+      "supports",
+      "potential applications"
+    ],
+    [
+      "energy storage",
+      "supports",
+      "solar panels"
+    ],
+    [
+      "energy storage",
+      "supports",
+      "utility-scale solar"
+    ],
+    [
+      "energy systems",
+      "affects",
+      "climate change"
+    ],
+    [
+      "energy systems",
+      "creates",
+      "economic opportunities"
+    ],
+    [
+      "energy systems",
+      "incorporates",
+      "renewable energy"
+    ],
+    [
+      "energy systems",
+      "produces",
+      "biogas"
+    ],
+    [
+      "energy systems",
+      "requires",
+      "energy storage"
+    ],
+    [
+      "energy systems",
+      "requires",
+      "environmental protection"
+    ],
+    [
+      "energy systems",
+      "supports",
+      "geothermal power plants"
+    ],
+    [
+      "energy technology",
+      "addresses",
+      "climate change"
+    ],
+    [
+      "energy technology",
+      "applies to",
+      "potential applications"
+    ],
+    [
+      "energy technology",
+      "enables",
+      "electricity generation"
+    ],
+    [
+      "energy technology",
+      "is a source of",
+      "hydropower"
+    ],
+    [
+      "energy technology",
+      "is supported by",
+      "clean energy"
+    ],
+    [
+      "energy technology",
+      "is supported by",
+      "constant energy"
+    ],
+    [
+      "energy technology",
+      "is utilized in",
+      "photovoltaic cells"
+    ],
+    [
+      "energy technology",
+      "reduces",
+      "greenhouse gas emissions"
+    ],
+    [
+      "energy transition",
+      "addresses",
+      "climate change"
+    ],
+    [
+      "energy transition",
+      "contributes to",
+      "bioenergy"
+    ],
+    [
+      "energy transition",
+      "creates",
+      "economic opportunities"
+    ],
+    [
+      "energy transition",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "energy transition",
+      "drives",
+      "research and development"
+    ],
+    [
+      "energy transition",
+      "enables",
+      "reliable power source"
+    ],
+    [
+      "energy transition",
+      "enhances",
+      "energy technology"
+    ],
+    [
+      "energy transition",
+      "facilitates",
+      "electricity generation"
+    ],
+    [
+      "energy transition",
+      "facilitates",
+      "enhanced geothermal systems"
+    ],
+    [
+      "energy transition",
+      "facilitates",
+      "hydropower"
+    ],
+    [
+      "energy transition",
+      "facilitates",
+      "photovoltaic cells"
+    ],
+    [
+      "energy transition",
+      "facilitates",
+      "waste biomass"
+    ],
+    [
+      "energy transition",
+      "includes",
+      "energy resources"
+    ],
+    [
+      "energy transition",
+      "influences",
+      "energy systems"
+    ],
+    [
+      "energy transition",
+      "is derived from",
+      "organic materials"
+    ],
+    [
+      "energy transition",
+      "is driven by",
+      "technological advancements"
+    ],
+    [
+      "energy transition",
+      "produces",
+      "biogas"
+    ],
+    [
+      "energy transition",
+      "reduces",
+      "greenhouse gas emissions"
+    ],
+    [
+      "energy transition",
+      "supports",
+      "energy storage"
+    ],
+    [
+      "energy transition",
+      "supports",
+      "heat generation"
+    ],
+    [
+      "energy transition",
+      "supports",
+      "solar energy"
+    ],
+    [
+      "energy transition",
+      "supports",
+      "sustainable energy"
+    ],
+    [
+      "energy transition",
+      "utilizes",
+      "geothermal energy"
+    ],
+    [
+      "enhanced geothermal systems",
+      "competes with",
+      "hydropower"
+    ],
+    [
+      "enhanced geothermal systems",
+      "contributes to",
+      "energy resources"
+    ],
+    [
+      "enhanced geothermal systems",
+      "contributes to",
+      "renewable energy"
+    ],
+    [
+      "enhanced geothermal systems",
+      "enhances",
+      "bioenergy"
+    ],
+    [
+      "enhanced geothermal systems",
+      "enhances",
+      "geothermal energy"
+    ],
+    [
+      "enhanced geothermal systems",
+      "enhances",
+      "research and development"
+    ],
+    [
+      "enhanced geothermal systems",
+      "enhances",
+      "underground reservoirs"
+    ],
+    [
+      "enhanced geothermal systems",
+      "generates",
+      "electricity generation"
+    ],
+    [
+      "enhanced geothermal systems",
+      "incorporates",
+      "energy systems"
+    ],
+    [
+      "enhanced geothermal systems",
+      "is enhanced by",
+      "reliable power source"
+    ],
+    [
+      "enhanced geothermal systems",
+      "is produced by",
+      "biogas"
+    ],
+    [
+      "enhanced geothermal systems",
+      "is produced by",
+      "steam"
+    ],
+    [
+      "enhanced geothermal systems",
+      "utilizes",
+      "heating and cooling"
+    ],
+    [
+      "enhanced geothermal systems",
+      "utilizes",
+      "hot water"
+    ],
+    [
+      "environmental impact",
+      "affects",
+      "biofuels"
+    ],
+    [
+      "environmental impact",
+      "affects",
+      "electricity generation"
+    ],
+    [
+      "environmental impact",
+      "affects",
+      "sustainable energy"
+    ],
+    [
+      "environmental impact",
+      "creates",
+      "economic opportunities"
+    ],
+    [
+      "environmental impact",
+      "impacts",
+      "clean energy"
+    ],
+    [
+      "environmental impact",
+      "impacts",
+      "hydropower"
+    ],
+    [
+      "environmental impact",
+      "informs",
+      "research and development"
+    ],
+    [
+      "environmental protection",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "environmental protection",
+      "is mitigated by",
+      "climate change"
+    ],
+    [
+      "environmental protection",
+      "promotes",
+      "economic opportunities"
+    ],
+    [
+      "environmental protection",
+      "requires protection from",
+      "greenhouse gas emissions"
+    ],
+    [
+      "environmental protection",
+      "supports",
+      "waste biomass"
+    ],
+    [
+      "environmental protection",
+      "utilizes",
+      "organic materials"
+    ],
+    [
+      "fossil fuels",
+      "alternative to",
+      "biofuels"
+    ],
+    [
+      "fossil fuels",
+      "competes with",
+      "clean energy"
+    ],
+    [
+      "fossil fuels",
+      "competes with",
+      "enhanced geothermal systems"
+    ],
+    [
+      "fossil fuels",
+      "competes with",
+      "reliable power source"
+    ],
+    [
+      "fossil fuels",
+      "competes with",
+      "solar panels"
+    ],
+    [
+      "fossil fuels",
+      "competes with",
+      "wind power"
+    ],
+    [
+      "fossil fuels",
+      "impacts",
+      "environmental impact"
+    ],
+    [
+      "fossil fuels",
+      "is reduced by",
+      "energy systems"
+    ],
+    [
+      "fossil fuels",
+      "is replaced by",
+      "energy transition"
+    ],
+    [
+      "fossil fuels",
+      "promotes",
+      "energy innovation"
+    ],
+    [
+      "fossil fuels",
+      "reduces reliance on",
+      "solar energy"
+    ],
+    [
+      "fossil fuels",
+      "replaces",
+      "heating and cooling"
+    ],
+    [
+      "fossil fuels",
+      "requires",
+      "environmental protection"
+    ],
+    [
+      "geothermal energy",
+      "competes with",
+      "fossil fuels"
+    ],
+    [
+      "geothermal energy",
+      "competes with",
+      "solar energy"
+    ],
+    [
+      "geothermal energy",
+      "derived from",
+      "bioenergy"
+    ],
+    [
+      "geothermal energy",
+      "derived from",
+      "hot water"
+    ],
+    [
+      "geothermal energy",
+      "is a source of",
+      "geothermal heat pumps"
+    ],
+    [
+      "geothermal energy",
+      "is a source of",
+      "reliable power source"
+    ],
+    [
+      "geothermal energy",
+      "is addressed by",
+      "climate change"
+    ],
+    [
+      "geothermal energy",
+      "is produced from",
+      "biofuels"
+    ],
+    [
+      "geothermal energy",
+      "is utilized for",
+      "heating and cooling"
+    ],
+    [
+      "geothermal energy",
+      "source of",
+      "underground reservoirs"
+    ],
+    [
+      "geothermal energy",
+      "utilized by",
+      "hydropower"
+    ],
+    [
+      "geothermal heat pumps",
+      "advances",
+      "research and development"
+    ],
+    [
+      "geothermal heat pumps",
+      "enhances",
+      "energy innovation"
+    ],
+    [
+      "geothermal heat pumps",
+      "enhances",
+      "enhanced geothermal systems"
+    ],
+    [
+      "geothermal heat pumps",
+      "generates",
+      "electricity generation"
+    ],
+    [
+      "geothermal heat pumps",
+      "integrates",
+      "energy systems"
+    ],
+    [
+      "geothermal heat pumps",
+      "is a source of",
+      "renewable energy"
+    ],
+    [
+      "geothermal heat pumps",
+      "is a type of",
+      "energy technology"
+    ],
+    [
+      "geothermal heat pumps",
+      "is utilized by",
+      "steam"
+    ],
+    [
+      "geothermal heat pumps",
+      "mitigates",
+      "climate change"
+    ],
+    [
+      "geothermal heat pumps",
+      "provides",
+      "hot water"
+    ],
+    [
+      "geothermal heat pumps",
+      "provides",
+      "reliable power source"
+    ],
+    [
+      "geothermal heat pumps",
+      "replaces",
+      "fossil fuels"
+    ],
+    [
+      "geothermal heat pumps",
+      "supports",
+      "biofuels"
+    ],
+    [
+      "geothermal heat pumps",
+      "supports",
+      "energy transition"
+    ],
+    [
+      "geothermal heat pumps",
+      "supports",
+      "geothermal power plants"
+    ],
+    [
+      "geothermal heat pumps",
+      "supports",
+      "heat generation"
+    ],
+    [
+      "geothermal heat pumps",
+      "utilizes",
+      "bioenergy"
+    ],
+    [
+      "geothermal heat pumps",
+      "utilizes",
+      "underground reservoirs"
+    ],
+    [
+      "geothermal heat pumps",
+      "utilizes",
+      "waste biomass"
+    ],
+    [
+      "geothermal power plants",
+      "advances",
+      "research and development"
+    ],
+    [
+      "geothermal power plants",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "geothermal power plants",
+      "benefits from",
+      "energy transition"
+    ],
+    [
+      "geothermal power plants",
+      "impacts",
+      "environmental protection"
+    ],
+    [
+      "geothermal power plants",
+      "is enhanced by",
+      "enhanced geothermal systems"
+    ],
+    [
+      "geothermal power plants",
+      "is impacted by",
+      "climate change"
+    ],
+    [
+      "geothermal power plants",
+      "produces",
+      "electricity generation"
+    ],
+    [
+      "geothermal power plants",
+      "produces",
+      "geothermal energy"
+    ],
+    [
+      "geothermal power plants",
+      "produces",
+      "heat generation"
+    ],
+    [
+      "geothermal power plants",
+      "reduces",
+      "greenhouse gas emissions"
+    ],
+    [
+      "geothermal power plants",
+      "supplies",
+      "biofuels"
+    ],
+    [
+      "geothermal power plants",
+      "supplies",
+      "fossil fuels"
+    ],
+    [
+      "geothermal power plants",
+      "utilized by",
+      "heating and cooling"
+    ],
+    [
+      "geothermal power plants",
+      "utilized by",
+      "solar energy"
+    ],
+    [
+      "geothermal power plants",
+      "utilizes",
+      "clean energy"
+    ],
+    [
+      "geothermal power plants",
+      "utilizes",
+      "energy resources"
+    ],
+    [
+      "geothermal power plants",
+      "utilizes",
+      "sustainable energy"
+    ],
+    [
+      "geothermal power plants",
+      "utilizes",
+      "underground reservoirs"
+    ],
+    [
+      "government incentives",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "government incentives",
+      "combats",
+      "climate change"
+    ],
+    [
+      "government incentives",
+      "competes with",
+      "fossil fuels"
+    ],
+    [
+      "government incentives",
+      "complements",
+      "policy support"
+    ],
+    [
+      "government incentives",
+      "drives",
+      "efficiency improvements"
+    ],
+    [
+      "government incentives",
+      "encourages",
+      "energy innovation"
+    ],
+    [
+      "government incentives",
+      "facilitates",
+      "performance improvements"
+    ],
+    [
+      "government incentives",
+      "promotes",
+      "bioenergy"
+    ],
+    [
+      "government incentives",
+      "promotes",
+      "biofuels"
+    ],
+    [
+      "government incentives",
+      "promotes",
+      "clean alternatives"
+    ],
+    [
+      "government incentives",
+      "promotes",
+      "solar panels"
+    ],
+    [
+      "government incentives",
+      "promotes",
+      "technological advancements"
+    ],
+    [
+      "government incentives",
+      "supports",
+      "agricultural residues"
+    ],
+    [
+      "government incentives",
+      "supports",
+      "biogas"
+    ],
+    [
+      "government incentives",
+      "supports",
+      "energy security"
+    ],
+    [
+      "government incentives",
+      "supports",
+      "environmental protection"
+    ],
+    [
+      "government incentives",
+      "supports",
+      "research and development"
+    ],
+    [
+      "government incentives",
+      "supports",
+      "utility-scale solar"
+    ],
+    [
+      "greenhouse gas emissions",
+      "contributes to",
+      "biogas"
+    ],
+    [
+      "greenhouse gas emissions",
+      "contributes to",
+      "climate change"
+    ],
+    [
+      "greenhouse gas emissions",
+      "contributes to",
+      "economic opportunities"
+    ],
+    [
+      "greenhouse gas emissions",
+      "contributes to",
+      "enhanced geothermal systems"
+    ],
+    [
+      "greenhouse gas emissions",
+      "contributes to",
+      "fossil fuels"
+    ],
+    [
+      "greenhouse gas emissions",
+      "contributes to",
+      "heat generation"
+    ],
+    [
+      "greenhouse gas emissions",
+      "contributes to",
+      "heating and cooling"
+    ],
+    [
+      "greenhouse gas emissions",
+      "increases",
+      "reliable power source"
+    ],
+    [
+      "greenhouse gas emissions",
+      "influences",
+      "environmental impact"
+    ],
+    [
+      "greenhouse gas emissions",
+      "is impacted by",
+      "energy resources"
+    ],
+    [
+      "greenhouse gas emissions",
+      "is influenced by",
+      "clean energy"
+    ],
+    [
+      "greenhouse gas emissions",
+      "is influenced by",
+      "energy systems"
+    ],
+    [
+      "greenhouse gas emissions",
+      "mitigates",
+      "renewable energy"
+    ],
+    [
+      "greenhouse gas emissions",
+      "reduces",
+      "bioenergy"
+    ],
+    [
+      "greenhouse gas emissions",
+      "reduces",
+      "clean alternatives"
+    ],
+    [
+      "greenhouse gas emissions",
+      "reduces",
+      "electricity generation"
+    ],
+    [
+      "greenhouse gas emissions",
+      "reduces",
+      "energy efficiency"
+    ],
+    [
+      "greenhouse gas emissions",
+      "reduces",
+      "hydropower"
+    ],
+    [
+      "greenhouse gas emissions",
+      "reduces",
+      "solar energy"
+    ],
+    [
+      "greenhouse gas emissions",
+      "reduces",
+      "wind power"
+    ],
+    [
+      "grid infrastructure",
+      "enhances",
+      "policy support"
+    ],
+    [
+      "grid infrastructure",
+      "improves",
+      "efficiency improvements"
+    ],
+    [
+      "grid infrastructure",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "grid infrastructure",
+      "supports",
+      "constant energy"
+    ],
+    [
+      "grid infrastructure",
+      "supports",
+      "energy security"
+    ],
+    [
+      "grid infrastructure",
+      "supports",
+      "reliable power source"
+    ],
+    [
+      "heat generation",
+      "drives",
+      "drive turbines"
+    ],
+    [
+      "heat generation",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "heat generation",
+      "generates",
+      "enhanced geothermal systems"
+    ],
+    [
+      "heat generation",
+      "is derived from",
+      "organic materials"
+    ],
+    [
+      "heat generation",
+      "is driven by",
+      "research and development"
+    ],
+    [
+      "heat generation",
+      "is generated by",
+      "solar energy"
+    ],
+    [
+      "heat generation",
+      "is produced by",
+      "biofuels"
+    ],
+    [
+      "heat generation",
+      "is produced by",
+      "constant energy"
+    ],
+    [
+      "heat generation",
+      "is produced by",
+      "energy systems"
+    ],
+    [
+      "heat generation",
+      "is used for",
+      "steam"
+    ],
+    [
+      "heat generation",
+      "produces",
+      "electricity generation"
+    ],
+    [
+      "heat generation",
+      "produces",
+      "hot water"
+    ],
+    [
+      "heat generation",
+      "provides for",
+      "clean energy"
+    ],
+    [
+      "heat generation",
+      "provides heat for",
+      "fossil fuels"
+    ],
+    [
+      "heat generation",
+      "utilizes",
+      "heating and cooling"
+    ],
+    [
+      "heating and cooling",
+      "advances",
+      "research and development"
+    ],
+    [
+      "heating and cooling",
+      "includes",
+      "energy resources"
+    ],
+    [
+      "heating and cooling",
+      "influences",
+      "climate change"
+    ],
+    [
+      "heating and cooling",
+      "integrates with",
+      "energy systems"
+    ],
+    [
+      "heating and cooling",
+      "powered by",
+      "solar energy"
+    ],
+    [
+      "heating and cooling",
+      "provides",
+      "constant energy"
+    ],
+    [
+      "heating and cooling",
+      "utilizes",
+      "bioenergy"
+    ],
+    [
+      "heating and cooling",
+      "utilizes",
+      "energy technology"
+    ],
+    [
+      "hot water",
+      "affects",
+      "climate change"
+    ],
+    [
+      "hot water",
+      "influences",
+      "environmental impact"
+    ],
+    [
+      "hot water",
+      "influences",
+      "greenhouse gas emissions"
+    ],
+    [
+      "hot water",
+      "is utilized by",
+      "energy resources"
+    ],
+    [
+      "hot water",
+      "produces",
+      "energy systems"
+    ],
+    [
+      "hot water",
+      "produces",
+      "solar energy"
+    ],
+    [
+      "hot water",
+      "produces",
+      "steam"
+    ],
+    [
+      "hot water",
+      "provides",
+      "renewable energy"
+    ],
+    [
+      "hot water",
+      "supports",
+      "environmental protection"
+    ],
+    [
+      "hot water",
+      "used in",
+      "fossil fuels"
+    ],
+    [
+      "hot water",
+      "utilized by",
+      "research and development"
+    ],
+    [
+      "hot water",
+      "utilized in",
+      "biofuels"
+    ],
+    [
+      "hot water",
+      "utilizes",
+      "energy technology"
+    ],
+    [
+      "hot water",
+      "utilizes",
+      "geothermal power plants"
+    ],
+    [
+      "hydropower",
+      "competes with",
+      "fossil fuels"
+    ],
+    [
+      "hydropower",
+      "competes with",
+      "geothermal heat pumps"
+    ],
+    [
+      "hydropower",
+      "competes with",
+      "solar energy"
+    ],
+    [
+      "hydropower",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "hydropower",
+      "enables",
+      "electricity generation"
+    ],
+    [
+      "hydropower",
+      "is a source of",
+      "clean alternatives"
+    ],
+    [
+      "hydropower",
+      "is a source of",
+      "energy systems"
+    ],
+    [
+      "hydropower",
+      "is a type of",
+      "reliable power source"
+    ],
+    [
+      "hydropower",
+      "is generated by",
+      "steam"
+    ],
+    [
+      "hydropower",
+      "powers",
+      "drive turbines"
+    ],
+    [
+      "hydropower",
+      "produces",
+      "heat generation"
+    ],
+    [
+      "organic materials",
+      "affects",
+      "climate change"
+    ],
+    [
+      "organic materials",
+      "composed of",
+      "biofuels"
+    ],
+    [
+      "organic materials",
+      "derived from",
+      "energy resources"
+    ],
+    [
+      "organic materials",
+      "derived from",
+      "geothermal energy"
+    ],
+    [
+      "organic materials",
+      "derived from",
+      "hot water"
+    ],
+    [
+      "organic materials",
+      "derived from",
+      "sustainable energy"
+    ],
+    [
+      "organic materials",
+      "is composed of",
+      "fossil fuels"
+    ],
+    [
+      "organic materials",
+      "is composed of",
+      "waste biomass"
+    ],
+    [
+      "organic materials",
+      "is derived from",
+      "energy efficiency"
+    ],
+    [
+      "organic materials",
+      "is derived from",
+      "renewable energy"
+    ],
+    [
+      "organic materials",
+      "produced from",
+      "drive turbines"
+    ],
+    [
+      "organic materials",
+      "produced from",
+      "environmental impact"
+    ],
+    [
+      "performance improvements",
+      "benefits from",
+      "heating and cooling"
+    ],
+    [
+      "performance improvements",
+      "benefits from",
+      "reliable power source"
+    ],
+    [
+      "performance improvements",
+      "contributes to",
+      "energy security"
+    ],
+    [
+      "performance improvements",
+      "enhances",
+      "constant energy"
+    ],
+    [
+      "performance improvements",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "performance improvements",
+      "enhances",
+      "energy storage"
+    ],
+    [
+      "performance improvements",
+      "enhances",
+      "grid infrastructure"
+    ],
+    [
+      "performance improvements",
+      "enhances",
+      "utility-scale solar"
+    ],
+    [
+      "performance improvements",
+      "improves",
+      "building integration"
+    ],
+    [
+      "performance improvements",
+      "improves",
+      "efficiency improvements"
+    ],
+    [
+      "performance improvements",
+      "is influenced by",
+      "policy support"
+    ],
+    [
+      "performance improvements",
+      "utilizes",
+      "organic materials"
+    ],
+    [
+      "photovoltaic cells",
+      "converted by",
+      "solar energy"
+    ],
+    [
+      "photovoltaic cells",
+      "enables",
+      "constant energy"
+    ],
+    [
+      "photovoltaic cells",
+      "enables",
+      "heat generation"
+    ],
+    [
+      "photovoltaic cells",
+      "is enhanced by",
+      "sustainable energy"
+    ],
+    [
+      "photovoltaic cells",
+      "is generated by",
+      "electricity generation"
+    ],
+    [
+      "photovoltaic cells",
+      "utilized in",
+      "bioenergy"
+    ],
+    [
+      "photovoltaic cells",
+      "utilizes",
+      "enhanced geothermal systems"
+    ],
+    [
+      "photovoltaic cells",
+      "utilizes",
+      "geothermal heat pumps"
+    ],
+    [
+      "photovoltaic cells",
+      "utilizes",
+      "heating and cooling"
+    ],
+    [
+      "photovoltaic cells",
+      "utilizes",
+      "utility-scale solar"
+    ],
+    [
+      "policy support",
+      "benefits from",
+      "biogas"
+    ],
+    [
+      "policy support",
+      "contributes to",
+      "efficiency improvements"
+    ],
+    [
+      "policy support",
+      "enables",
+      "building integration"
+    ],
+    [
+      "policy support",
+      "enables",
+      "utility-scale solar"
+    ],
+    [
+      "policy support",
+      "enhances",
+      "stakeholder engagement"
+    ],
+    [
+      "policy support",
+      "facilitates",
+      "research and development"
+    ],
+    [
+      "policy support",
+      "promotes",
+      "energy innovation"
+    ],
+    [
+      "policy support",
+      "supports",
+      "constant energy"
+    ],
+    [
+      "policy support",
+      "supports",
+      "photovoltaic cells"
+    ],
+    [
+      "potential applications",
+      "derived from",
+      "organic materials"
+    ],
+    [
+      "potential applications",
+      "enables",
+      "clean alternatives"
+    ],
+    [
+      "potential applications",
+      "enables",
+      "electricity generation"
+    ],
+    [
+      "potential applications",
+      "enables",
+      "fossil fuels"
+    ],
+    [
+      "potential applications",
+      "enables",
+      "wind power"
+    ],
+    [
+      "potential applications",
+      "expands",
+      "energy resources"
+    ],
+    [
+      "potential applications",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "potential applications",
+      "includes",
+      "bioenergy"
+    ],
+    [
+      "potential applications",
+      "supports",
+      "environmental protection"
+    ],
+    [
+      "potential applications",
+      "utilizes",
+      "hydropower"
+    ],
+    [
+      "reliable power source",
+      "advances",
+      "energy innovation"
+    ],
+    [
+      "reliable power source",
+      "creates",
+      "economic opportunities"
+    ],
+    [
+      "reliable power source",
+      "enables",
+      "building integration"
+    ],
+    [
+      "reliable power source",
+      "enhances",
+      "energy storage"
+    ],
+    [
+      "reliable power source",
+      "is supported by",
+      "energy systems"
+    ],
+    [
+      "reliable power source",
+      "offers",
+      "potential applications"
+    ],
+    [
+      "reliable power source",
+      "provides",
+      "bioenergy"
+    ],
+    [
+      "reliable power source",
+      "provides",
+      "energy resources"
+    ],
+    [
+      "reliable power source",
+      "provides",
+      "energy technology"
+    ],
+    [
+      "reliable power source",
+      "supports",
+      "sustainable energy"
+    ],
+    [
+      "reliable power source",
+      "utilizes",
+      "heating and cooling"
+    ],
+    [
+      "reliable power source",
+      "utilizes",
+      "photovoltaic cells"
+    ],
+    [
+      "renewable energy",
+      "combats",
+      "climate change"
+    ],
+    [
+      "renewable energy",
+      "competes with",
+      "hydropower"
+    ],
+    [
+      "renewable energy",
+      "comprises",
+      "energy resources"
+    ],
+    [
+      "renewable energy",
+      "contrasts with",
+      "fossil fuels"
+    ],
+    [
+      "renewable energy",
+      "drives",
+      "research and development"
+    ],
+    [
+      "renewable energy",
+      "enables",
+      "electricity generation"
+    ],
+    [
+      "renewable energy",
+      "enables",
+      "energy transition"
+    ],
+    [
+      "renewable energy",
+      "includes",
+      "sustainable energy"
+    ],
+    [
+      "renewable energy",
+      "involves",
+      "energy technology"
+    ],
+    [
+      "renewable energy",
+      "is a source of",
+      "reliable power source"
+    ],
+    [
+      "renewable energy",
+      "is a type of",
+      "clean alternatives"
+    ],
+    [
+      "renewable energy",
+      "is a type of",
+      "solar energy"
+    ],
+    [
+      "renewable energy",
+      "is generated by",
+      "steam"
+    ],
+    [
+      "renewable energy",
+      "offers",
+      "potential applications"
+    ],
+    [
+      "renewable energy",
+      "produces",
+      "heat generation"
+    ],
+    [
+      "renewable energy",
+      "promotes",
+      "energy innovation"
+    ],
+    [
+      "renewable energy",
+      "supplies",
+      "geothermal power plants"
+    ],
+    [
+      "renewable energy",
+      "utilizes",
+      "photovoltaic cells"
+    ],
+    [
+      "research and development",
+      "advances",
+      "energy efficiency"
+    ],
+    [
+      "research and development",
+      "advances",
+      "energy technology"
+    ],
+    [
+      "research and development",
+      "advances",
+      "geothermal energy"
+    ],
+    [
+      "research and development",
+      "advances",
+      "hydropower"
+    ],
+    [
+      "research and development",
+      "benefits from",
+      "stakeholder engagement"
+    ],
+    [
+      "research and development",
+      "drives",
+      "agricultural residues"
+    ],
+    [
+      "research and development",
+      "enhances",
+      "environmental protection"
+    ],
+    [
+      "research and development",
+      "reduces",
+      "greenhouse gas emissions"
+    ],
+    [
+      "research and development",
+      "supports",
+      "underground reservoirs"
+    ],
+    [
+      "solar energy",
+      "advances",
+      "energy technology"
+    ],
+    [
+      "solar energy",
+      "advances",
+      "research and development"
+    ],
+    [
+      "solar energy",
+      "creates",
+      "economic opportunities"
+    ],
+    [
+      "solar energy",
+      "enables",
+      "potential applications"
+    ],
+    [
+      "solar energy",
+      "enhanced by",
+      "technological advancements"
+    ],
+    [
+      "solar energy",
+      "enhances",
+      "energy innovation"
+    ],
+    [
+      "solar energy",
+      "generates",
+      "electricity generation"
+    ],
+    [
+      "solar energy",
+      "is a source of",
+      "reliable power source"
+    ],
+    [
+      "solar energy",
+      "is derived from",
+      "utility-scale solar"
+    ],
+    [
+      "solar energy",
+      "mitigates",
+      "climate change"
+    ],
+    [
+      "solar energy",
+      "provides",
+      "constant energy"
+    ],
+    [
+      "solar panels",
+      "comprises",
+      "photovoltaic cells"
+    ],
+    [
+      "solar panels",
+      "contributes to",
+      "sustainable energy"
+    ],
+    [
+      "solar panels",
+      "enables",
+      "potential applications"
+    ],
+    [
+      "solar panels",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "solar panels",
+      "improves",
+      "performance improvements"
+    ],
+    [
+      "solar panels",
+      "integrated into",
+      "utility-scale solar"
+    ],
+    [
+      "solar panels",
+      "is a source of",
+      "reliable power source"
+    ],
+    [
+      "solar panels",
+      "is a source of",
+      "renewable energy"
+    ],
+    [
+      "solar panels",
+      "is produced by",
+      "constant energy"
+    ],
+    [
+      "solar panels",
+      "promotes",
+      "policy support"
+    ],
+    [
+      "solar panels",
+      "supports",
+      "grid infrastructure"
+    ],
+    [
+      "solar panels",
+      "utilized by",
+      "energy systems"
+    ],
+    [
+      "solar panels",
+      "utilized in",
+      "biofuels"
+    ],
+    [
+      "solar panels",
+      "utilizes",
+      "clean energy"
+    ],
+    [
+      "solar panels",
+      "utilizes",
+      "solar energy"
+    ],
+    [
+      "stakeholder engagement",
+      "addresses",
+      "climate change"
+    ],
+    [
+      "stakeholder engagement",
+      "creates",
+      "economic opportunities"
+    ],
+    [
+      "stakeholder engagement",
+      "enhances",
+      "energy security"
+    ],
+    [
+      "stakeholder engagement",
+      "influences",
+      "environmental impact"
+    ],
+    [
+      "stakeholder engagement",
+      "involves",
+      "geothermal power plants"
+    ],
+    [
+      "stakeholder engagement",
+      "is influenced by",
+      "government incentives"
+    ],
+    [
+      "stakeholder engagement",
+      "promotes",
+      "clean alternatives"
+    ],
+    [
+      "stakeholder engagement",
+      "promotes",
+      "clean energy"
+    ],
+    [
+      "stakeholder engagement",
+      "promotes",
+      "environmental protection"
+    ],
+    [
+      "stakeholder engagement",
+      "supports",
+      "biogas"
+    ],
+    [
+      "stakeholder engagement",
+      "supports",
+      "grid infrastructure"
+    ],
+    [
+      "stakeholder engagement",
+      "supports",
+      "hydropower"
+    ],
+    [
+      "stakeholder engagement",
+      "supports",
+      "research and development"
+    ],
+    [
+      "stakeholder engagement",
+      "supports",
+      "sustainable energy"
+    ],
+    [
+      "steam",
+      "extracted from",
+      "underground reservoirs"
+    ],
+    [
+      "steam",
+      "is utilized by",
+      "geothermal power plants"
+    ],
+    [
+      "steam",
+      "powers",
+      "electricity generation"
+    ],
+    [
+      "steam",
+      "produced by",
+      "energy systems"
+    ],
+    [
+      "steam",
+      "produces",
+      "biogas"
+    ],
+    [
+      "steam",
+      "sources",
+      "energy resources"
+    ],
+    [
+      "sustainable energy",
+      "benefits from",
+      "heating and cooling"
+    ],
+    [
+      "sustainable energy",
+      "creates",
+      "economic opportunities"
+    ],
+    [
+      "sustainable energy",
+      "derived from",
+      "steam"
+    ],
+    [
+      "sustainable energy",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "sustainable energy",
+      "drives",
+      "research and development"
+    ],
+    [
+      "sustainable energy",
+      "enables",
+      "electricity generation"
+    ],
+    [
+      "sustainable energy",
+      "enables",
+      "heat generation"
+    ],
+    [
+      "sustainable energy",
+      "enhances",
+      "energy security"
+    ],
+    [
+      "sustainable energy",
+      "includes",
+      "energy resources"
+    ],
+    [
+      "sustainable energy",
+      "includes",
+      "geothermal energy"
+    ],
+    [
+      "sustainable energy",
+      "is a type of",
+      "energy technology"
+    ],
+    [
+      "sustainable energy",
+      "is derived from",
+      "bioenergy"
+    ],
+    [
+      "sustainable energy",
+      "is supported by",
+      "policy support"
+    ],
+    [
+      "sustainable energy",
+      "mitigates",
+      "climate change"
+    ],
+    [
+      "sustainable energy",
+      "promotes",
+      "environmental protection"
+    ],
+    [
+      "sustainable energy",
+      "provides",
+      "clean alternatives"
+    ],
+    [
+      "sustainable energy",
+      "reduces",
+      "greenhouse gas emissions"
+    ],
+    [
+      "sustainable energy",
+      "supports",
+      "biogas"
+    ],
+    [
+      "sustainable energy",
+      "supports",
+      "clean energy"
+    ],
+    [
+      "sustainable energy",
+      "supports",
+      "wind power"
+    ],
+    [
+      "sustainable energy",
+      "utilized for",
+      "geothermal heat pumps"
+    ],
+    [
+      "technological advancements",
+      "advances",
+      "bioenergy"
+    ],
+    [
+      "technological advancements",
+      "advances",
+      "geothermal energy"
+    ],
+    [
+      "technological advancements",
+      "enables",
+      "potential applications"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "energy technology"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "renewable energy"
+    ],
+    [
+      "technological advancements",
+      "facilitates",
+      "research and development"
+    ],
+    [
+      "technological advancements",
+      "impedes",
+      "fossil fuels"
+    ],
+    [
+      "technological advancements",
+      "improves",
+      "electricity generation"
+    ],
+    [
+      "technological advancements",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "technological advancements",
+      "improves",
+      "heat generation"
+    ],
+    [
+      "technological advancements",
+      "improves",
+      "hydropower"
+    ],
+    [
+      "technological advancements",
+      "influences",
+      "energy resources"
+    ],
+    [
+      "technological advancements",
+      "is driven by",
+      "performance improvements"
+    ],
+    [
+      "technological advancements",
+      "is driven by",
+      "sustainable energy"
+    ],
+    [
+      "technological advancements",
+      "is influenced by",
+      "energy systems"
+    ],
+    [
+      "technological advancements",
+      "results from",
+      "constant energy"
+    ],
+    [
+      "underground reservoirs",
+      "involves",
+      "stakeholder engagement"
+    ],
+    [
+      "underground reservoirs",
+      "is sourced from",
+      "building integration"
+    ],
+    [
+      "underground reservoirs",
+      "sourced from",
+      "biogas"
+    ],
+    [
+      "underground reservoirs",
+      "supports",
+      "grid infrastructure"
+    ],
+    [
+      "underground reservoirs",
+      "supports",
+      "policy support"
+    ],
+    [
+      "underground reservoirs",
+      "utilizes",
+      "heat generation"
+    ],
+    [
+      "underground reservoirs",
+      "utilizes",
+      "sustainable energy"
+    ],
+    [
+      "utility-scale solar",
+      "advances",
+      "energy innovation"
+    ],
+    [
+      "utility-scale solar",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "utility-scale solar",
+      "improves",
+      "efficiency improvements"
+    ],
+    [
+      "utility-scale solar",
+      "integrates with",
+      "building integration"
+    ],
+    [
+      "utility-scale solar",
+      "is a type of",
+      "energy technology"
+    ],
+    [
+      "utility-scale solar",
+      "requires",
+      "grid infrastructure"
+    ],
+    [
+      "utility-scale solar",
+      "utilizes",
+      "constant energy"
+    ],
+    [
+      "waste biomass",
+      "advances",
+      "energy technology"
+    ],
+    [
+      "waste biomass",
+      "composed of",
+      "agricultural residues"
+    ],
+    [
+      "waste biomass",
+      "contributes to",
+      "greenhouse gas emissions"
+    ],
+    [
+      "waste biomass",
+      "contributes to",
+      "renewable energy"
+    ],
+    [
+      "waste biomass",
+      "converted into",
+      "bioenergy"
+    ],
+    [
+      "waste biomass",
+      "derived from",
+      "biofuels"
+    ],
+    [
+      "waste biomass",
+      "derived from",
+      "clean energy"
+    ],
+    [
+      "waste biomass",
+      "drives",
+      "technological advancements"
+    ],
+    [
+      "waste biomass",
+      "enables",
+      "potential applications"
+    ],
+    [
+      "waste biomass",
+      "feeds into",
+      "geothermal power plants"
+    ],
+    [
+      "waste biomass",
+      "is a component of",
+      "sustainable energy"
+    ],
+    [
+      "waste biomass",
+      "is a source of",
+      "geothermal energy"
+    ],
+    [
+      "waste biomass",
+      "is derived from",
+      "energy systems"
+    ],
+    [
+      "waste biomass",
+      "is produced from",
+      "biogas"
+    ],
+    [
+      "waste biomass",
+      "is supported by",
+      "solar energy"
+    ],
+    [
+      "waste biomass",
+      "mitigates",
+      "climate change"
+    ],
+    [
+      "waste biomass",
+      "offers",
+      "clean alternatives"
+    ],
+    [
+      "waste biomass",
+      "powers",
+      "drive turbines"
+    ],
+    [
+      "waste biomass",
+      "provides",
+      "heat generation"
+    ],
+    [
+      "waste biomass",
+      "provides",
+      "hot water"
+    ],
+    [
+      "waste biomass",
+      "reduces",
+      "fossil fuels"
+    ],
+    [
+      "waste biomass",
+      "supports",
+      "hydropower"
+    ],
+    [
+      "wind power",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "wind power",
+      "enables",
+      "electricity generation"
+    ],
+    [
+      "wind power",
+      "enhances",
+      "energy storage"
+    ],
+    [
+      "wind power",
+      "facilitates",
+      "energy transition"
+    ],
+    [
+      "wind power",
+      "generates",
+      "drive turbines"
+    ],
+    [
+      "wind power",
+      "integrates with",
+      "energy systems"
+    ],
+    [
+      "wind power",
+      "is a type of",
+      "clean alternatives"
+    ],
+    [
+      "wind power",
+      "is a type of",
+      "clean energy"
+    ],
+    [
+      "wind power",
+      "is a type of",
+      "renewable energy"
+    ],
+    [
+      "wind power",
+      "is improved by",
+      "technological advancements"
+    ],
+    [
+      "wind power",
+      "produces",
+      "heat generation"
+    ],
+    [
+      "wind power",
+      "provides",
+      "constant energy"
+    ],
+    [
+      "wind power",
+      "provides",
+      "economic opportunities"
+    ],
+    [
+      "wind power",
+      "provides",
+      "energy resources"
+    ],
+    [
+      "wind power",
+      "serves as",
+      "reliable power source"
+    ]
+  ],
+  "edges": [
+    "addresses",
+    "advances",
+    "affected by",
+    "affects",
+    "alternative to",
+    "applies to",
+    "benefits from",
+    "combats",
+    "competes with",
+    "complements",
+    "composed of",
+    "comprises",
+    "contrasts with",
+    "contributes to",
+    "converted by",
+    "converted into",
+    "creates",
+    "depends on",
+    "derived from",
+    "drives",
+    "enables",
+    "encourages",
+    "enhanced by",
+    "enhances",
+    "ensures",
+    "exacerbates",
+    "expands",
+    "extracted from",
+    "facilitates",
+    "feeds into",
+    "fueled by",
+    "generates",
+    "impacts",
+    "impedes",
+    "improves",
+    "includes",
+    "incorporates",
+    "increases",
+    "influences",
+    "informs",
+    "integrated into",
+    "integrates",
+    "integrates with",
+    "involves",
+    "is a component of",
+    "is a factor in",
+    "is a form of",
+    "is a source of",
+    "is a substitute for",
+    "is a type of",
+    "is addressed by",
+    "is affected by",
+    "is categorized as",
+    "is complemented by",
+    "is composed of",
+    "is derived from",
+    "is driven by",
+    "is enhanced by",
+    "is generated by",
+    "is impacted by",
+    "is improved by",
+    "is influenced by",
+    "is integrated into",
+    "is mitigated by",
+    "is part of",
+    "is powered by",
+    "is produced by",
+    "is produced from",
+    "is reduced by",
+    "is replaced by",
+    "is sourced from",
+    "is supported by",
+    "is synonymous with",
+    "is used for",
+    "is utilized by",
+    "is utilized for",
+    "is utilized in",
+    "is utilized to",
+    "mitigates",
+    "offers",
+    "operates",
+    "powered by",
+    "powers",
+    "produced by",
+    "produced from",
+    "produces",
+    "promotes",
+    "provides",
+    "provides for",
+    "provides heat for",
+    "reduces",
+    "reduces reliance on",
+    "replaces",
+    "represents",
+    "requires",
+    "requires protection from",
+    "results from",
+    "serves as",
+    "source of",
+    "sourced from",
+    "sources",
+    "supplies",
+    "supports",
+    "used for",
+    "used in",
+    "utilized by",
+    "utilized for",
+    "utilized in",
+    "utilizes"
+  ]
+}

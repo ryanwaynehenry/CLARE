@@ -1,0 +1,4498 @@
+{
+  "entities": [
+    "Barbary pirates",
+    "Blackbeard",
+    "Calico Jack",
+    "Captain Kidd",
+    "Caribbean",
+    "European ships",
+    "Golden Age",
+    "Mediterranean",
+    "Sea Peoples",
+    "Spanish Empire",
+    "adventure",
+    "ancient times",
+    "anti-piracy laws",
+    "books",
+    "buccaneers",
+    "code of conduct",
+    "colonialism",
+    "common people",
+    "community",
+    "crew decisions",
+    "crew formation",
+    "crew treatment",
+    "decline",
+    "defiance",
+    "division of spoils",
+    "established order",
+    "folklore",
+    "freedom",
+    "heroes",
+    "high seas",
+    "history",
+    "identity",
+    "imperialism",
+    "lawless",
+    "legacy",
+    "legendary figures",
+    "maritime culture",
+    "maritime trade",
+    "movies",
+    "naval patrols",
+    "oppressive forces",
+    "order and discipline",
+    "origins",
+    "pirate life",
+    "pirates",
+    "popular culture",
+    "power vacuum",
+    "raids",
+    "rebellion",
+    "rebels",
+    "romanticized image",
+    "ship governance",
+    "strict code",
+    "strongholds",
+    "swashbuckling adventures",
+    "television shows",
+    "treasure",
+    "treasure hunting"
+  ],
+  "relations": [
+    [
+      "Barbary pirates",
+      "attacked by",
+      "European ships"
+    ],
+    [
+      "Barbary pirates",
+      "characterized by",
+      "pirate life"
+    ],
+    [
+      "Barbary pirates",
+      "competes with",
+      "buccaneers"
+    ],
+    [
+      "Barbary pirates",
+      "conducted",
+      "raids"
+    ],
+    [
+      "Barbary pirates",
+      "documented in",
+      "history"
+    ],
+    [
+      "Barbary pirates",
+      "features",
+      "movies"
+    ],
+    [
+      "Barbary pirates",
+      "governed by",
+      "division of spoils"
+    ],
+    [
+      "Barbary pirates",
+      "governed by",
+      "ship governance"
+    ],
+    [
+      "Barbary pirates",
+      "influenced",
+      "popular culture"
+    ],
+    [
+      "Barbary pirates",
+      "influenced by",
+      "books"
+    ],
+    [
+      "Barbary pirates",
+      "influenced by",
+      "legacy"
+    ],
+    [
+      "Barbary pirates",
+      "influences",
+      "maritime trade"
+    ],
+    [
+      "Barbary pirates",
+      "inspired by",
+      "swashbuckling adventures"
+    ],
+    [
+      "Barbary pirates",
+      "operated in",
+      "Mediterranean"
+    ],
+    [
+      "Barbary pirates",
+      "operated in",
+      "ancient times"
+    ],
+    [
+      "Barbary pirates",
+      "opposes",
+      "colonialism"
+    ],
+    [
+      "Barbary pirates",
+      "raided by",
+      "Caribbean"
+    ],
+    [
+      "Barbary pirates",
+      "reflects",
+      "Sea Peoples"
+    ],
+    [
+      "Barbary pirates",
+      "represented in",
+      "folklore"
+    ],
+    [
+      "Barbary pirates",
+      "supported by",
+      "community"
+    ],
+    [
+      "Blackbeard",
+      "admired by",
+      "common people"
+    ],
+    [
+      "Blackbeard",
+      "associated with",
+      "Barbary pirates"
+    ],
+    [
+      "Blackbeard",
+      "associated with",
+      "division of spoils"
+    ],
+    [
+      "Blackbeard",
+      "associated with",
+      "pirates"
+    ],
+    [
+      "Blackbeard",
+      "attacked",
+      "European ships"
+    ],
+    [
+      "Blackbeard",
+      "characterizes",
+      "Golden Age"
+    ],
+    [
+      "Blackbeard",
+      "embodies",
+      "adventure"
+    ],
+    [
+      "Blackbeard",
+      "embodies",
+      "pirate life"
+    ],
+    [
+      "Blackbeard",
+      "embodies",
+      "rebellion"
+    ],
+    [
+      "Blackbeard",
+      "embodies",
+      "romanticized image"
+    ],
+    [
+      "Blackbeard",
+      "established in",
+      "strongholds"
+    ],
+    [
+      "Blackbeard",
+      "exploited by",
+      "power vacuum"
+    ],
+    [
+      "Blackbeard",
+      "facilitated",
+      "crew formation"
+    ],
+    [
+      "Blackbeard",
+      "featured in",
+      "books"
+    ],
+    [
+      "Blackbeard",
+      "featured in",
+      "swashbuckling adventures"
+    ],
+    [
+      "Blackbeard",
+      "featured in",
+      "television shows"
+    ],
+    [
+      "Blackbeard",
+      "immortalized in",
+      "folklore"
+    ],
+    [
+      "Blackbeard",
+      "influenced",
+      "legacy"
+    ],
+    [
+      "Blackbeard",
+      "navigated by",
+      "high seas"
+    ],
+    [
+      "Blackbeard",
+      "originates from",
+      "origins"
+    ],
+    [
+      "Blackbeard",
+      "popularized by",
+      "popular culture"
+    ],
+    [
+      "Blackbeard",
+      "shapes",
+      "maritime culture"
+    ],
+    [
+      "Blackbeard",
+      "symbolizes",
+      "freedom"
+    ],
+    [
+      "Blackbeard",
+      "symbolizes",
+      "rebels"
+    ],
+    [
+      "Blackbeard",
+      "targeted by",
+      "naval patrols"
+    ],
+    [
+      "Blackbeard",
+      "viewed as",
+      "heroes"
+    ],
+    [
+      "Calico Jack",
+      "associated with",
+      "Barbary pirates"
+    ],
+    [
+      "Calico Jack",
+      "associated with",
+      "buccaneers"
+    ],
+    [
+      "Calico Jack",
+      "associated with",
+      "pirates"
+    ],
+    [
+      "Calico Jack",
+      "conducted by",
+      "raids"
+    ],
+    [
+      "Calico Jack",
+      "contributes to",
+      "crew formation"
+    ],
+    [
+      "Calico Jack",
+      "depicted in",
+      "television shows"
+    ],
+    [
+      "Calico Jack",
+      "embodies",
+      "pirate life"
+    ],
+    [
+      "Calico Jack",
+      "featured in",
+      "movies"
+    ],
+    [
+      "Calico Jack",
+      "influenced",
+      "popular culture"
+    ],
+    [
+      "Calico Jack",
+      "influences",
+      "crew decisions"
+    ],
+    [
+      "Calico Jack",
+      "inspired",
+      "swashbuckling adventures"
+    ],
+    [
+      "Calico Jack",
+      "inspired by",
+      "folklore"
+    ],
+    [
+      "Calico Jack",
+      "is associated with",
+      "Spanish Empire"
+    ],
+    [
+      "Calico Jack",
+      "is categorized as",
+      "legendary figures"
+    ],
+    [
+      "Calico Jack",
+      "operated in",
+      "Caribbean"
+    ],
+    [
+      "Calico Jack",
+      "operates in",
+      "Mediterranean"
+    ],
+    [
+      "Calico Jack",
+      "reflects",
+      "maritime culture"
+    ],
+    [
+      "Calico Jack",
+      "represents",
+      "rebels"
+    ],
+    [
+      "Calico Jack",
+      "sought after",
+      "treasure"
+    ],
+    [
+      "Captain Kidd",
+      "affects",
+      "community"
+    ],
+    [
+      "Captain Kidd",
+      "associated with",
+      "Golden Age"
+    ],
+    [
+      "Captain Kidd",
+      "associated with",
+      "legendary figures"
+    ],
+    [
+      "Captain Kidd",
+      "associated with",
+      "pirates"
+    ],
+    [
+      "Captain Kidd",
+      "conducted by",
+      "raids"
+    ],
+    [
+      "Captain Kidd",
+      "determines",
+      "division of spoils"
+    ],
+    [
+      "Captain Kidd",
+      "documented in",
+      "books"
+    ],
+    [
+      "Captain Kidd",
+      "documented in",
+      "history"
+    ],
+    [
+      "Captain Kidd",
+      "embodies",
+      "pirate life"
+    ],
+    [
+      "Captain Kidd",
+      "enforces",
+      "order and discipline"
+    ],
+    [
+      "Captain Kidd",
+      "experienced by",
+      "crew treatment"
+    ],
+    [
+      "Captain Kidd",
+      "featured in",
+      "adventure"
+    ],
+    [
+      "Captain Kidd",
+      "featured in",
+      "swashbuckling adventures"
+    ],
+    [
+      "Captain Kidd",
+      "governed by",
+      "strict code"
+    ],
+    [
+      "Captain Kidd",
+      "influences",
+      "crew decisions"
+    ],
+    [
+      "Captain Kidd",
+      "influences",
+      "ship governance"
+    ],
+    [
+      "Captain Kidd",
+      "inspired by",
+      "folklore"
+    ],
+    [
+      "Captain Kidd",
+      "is connected to",
+      "origins"
+    ],
+    [
+      "Captain Kidd",
+      "is featured in",
+      "television shows"
+    ],
+    [
+      "Captain Kidd",
+      "navigated by",
+      "high seas"
+    ],
+    [
+      "Captain Kidd",
+      "operated in",
+      "Caribbean"
+    ],
+    [
+      "Captain Kidd",
+      "represents",
+      "freedom"
+    ],
+    [
+      "Captain Kidd",
+      "rivaled",
+      "Blackbeard"
+    ],
+    [
+      "Captain Kidd",
+      "symbolizes",
+      "rebellion"
+    ],
+    [
+      "Caribbean",
+      "associated with",
+      "freedom"
+    ],
+    [
+      "Caribbean",
+      "associated with",
+      "treasure"
+    ],
+    [
+      "Caribbean",
+      "characterizes",
+      "pirate life"
+    ],
+    [
+      "Caribbean",
+      "determines",
+      "division of spoils"
+    ],
+    [
+      "Caribbean",
+      "encompasses",
+      "history"
+    ],
+    [
+      "Caribbean",
+      "facilitates",
+      "treasure hunting"
+    ],
+    [
+      "Caribbean",
+      "is associated with",
+      "Sea Peoples"
+    ],
+    [
+      "Caribbean",
+      "located in",
+      "high seas"
+    ],
+    [
+      "Caribbean",
+      "occurred during",
+      "Golden Age"
+    ],
+    [
+      "Caribbean",
+      "precedes",
+      "ancient times"
+    ],
+    [
+      "Caribbean",
+      "results in",
+      "crew formation"
+    ],
+    [
+      "Caribbean",
+      "set in",
+      "movies"
+    ],
+    [
+      "Caribbean",
+      "supports",
+      "common people"
+    ],
+    [
+      "European ships",
+      "associated with",
+      "pirate life"
+    ],
+    [
+      "European ships",
+      "attacked by",
+      "Captain Kidd"
+    ],
+    [
+      "European ships",
+      "attacked by",
+      "strongholds"
+    ],
+    [
+      "European ships",
+      "depicts",
+      "adventure"
+    ],
+    [
+      "European ships",
+      "exploited by",
+      "power vacuum"
+    ],
+    [
+      "European ships",
+      "facilitated by",
+      "maritime trade"
+    ],
+    [
+      "European ships",
+      "influenced by",
+      "legacy"
+    ],
+    [
+      "European ships",
+      "oppressed by",
+      "rebels"
+    ],
+    [
+      "European ships",
+      "targeted by",
+      "Calico Jack"
+    ],
+    [
+      "European ships",
+      "targeted by",
+      "ancient times"
+    ],
+    [
+      "European ships",
+      "targeted by",
+      "buccaneers"
+    ],
+    [
+      "European ships",
+      "targeted by",
+      "decline"
+    ],
+    [
+      "European ships",
+      "targeted by",
+      "identity"
+    ],
+    [
+      "Golden Age",
+      "associated with",
+      "treasure"
+    ],
+    [
+      "Golden Age",
+      "characterized by",
+      "pirate life"
+    ],
+    [
+      "Golden Age",
+      "characterized by",
+      "strongholds"
+    ],
+    [
+      "Golden Age",
+      "characterizes",
+      "adventure"
+    ],
+    [
+      "Golden Age",
+      "connects",
+      "common people"
+    ],
+    [
+      "Golden Age",
+      "contributed to",
+      "established order"
+    ],
+    [
+      "Golden Age",
+      "curbed by",
+      "naval patrols"
+    ],
+    [
+      "Golden Age",
+      "defined by",
+      "high seas"
+    ],
+    [
+      "Golden Age",
+      "depicted in",
+      "television shows"
+    ],
+    [
+      "Golden Age",
+      "influenced by",
+      "maritime trade"
+    ],
+    [
+      "Golden Age",
+      "influenced by",
+      "popular culture"
+    ],
+    [
+      "Golden Age",
+      "inspired by",
+      "rebels"
+    ],
+    [
+      "Golden Age",
+      "is characterized by",
+      "pirates"
+    ],
+    [
+      "Golden Age",
+      "linked to",
+      "colonialism"
+    ],
+    [
+      "Golden Age",
+      "occurred during",
+      "European ships"
+    ],
+    [
+      "Golden Age",
+      "occurred during",
+      "Mediterranean"
+    ],
+    [
+      "Golden Age",
+      "promotes",
+      "treasure hunting"
+    ],
+    [
+      "Golden Age",
+      "represents",
+      "freedom"
+    ],
+    [
+      "Golden Age",
+      "symbolizes",
+      "defiance"
+    ],
+    [
+      "Golden Age",
+      "symbolizes",
+      "heroes"
+    ],
+    [
+      "Mediterranean",
+      "affected by",
+      "decline"
+    ],
+    [
+      "Mediterranean",
+      "associated with",
+      "division of spoils"
+    ],
+    [
+      "Mediterranean",
+      "associated with",
+      "treasure"
+    ],
+    [
+      "Mediterranean",
+      "influenced by",
+      "rebels"
+    ],
+    [
+      "Mediterranean",
+      "influences",
+      "colonialism"
+    ],
+    [
+      "Mediterranean",
+      "represents",
+      "heroes"
+    ],
+    [
+      "Mediterranean",
+      "resulted in",
+      "crew formation"
+    ],
+    [
+      "Mediterranean",
+      "shaped by",
+      "ancient times"
+    ],
+    [
+      "Sea Peoples",
+      "attacked by",
+      "European ships"
+    ],
+    [
+      "Sea Peoples",
+      "conducted",
+      "raids"
+    ],
+    [
+      "Sea Peoples",
+      "decided by",
+      "crew decisions"
+    ],
+    [
+      "Sea Peoples",
+      "featured in",
+      "folklore"
+    ],
+    [
+      "Sea Peoples",
+      "featured in",
+      "television shows"
+    ],
+    [
+      "Sea Peoples",
+      "influenced by",
+      "Captain Kidd"
+    ],
+    [
+      "Sea Peoples",
+      "influenced by",
+      "legacy"
+    ],
+    [
+      "Sea Peoples",
+      "influenced by",
+      "legendary figures"
+    ],
+    [
+      "Sea Peoples",
+      "influenced by",
+      "maritime trade"
+    ],
+    [
+      "Sea Peoples",
+      "influenced by",
+      "pirate life"
+    ],
+    [
+      "Sea Peoples",
+      "influences",
+      "ship governance"
+    ],
+    [
+      "Sea Peoples",
+      "inspired by",
+      "Blackbeard"
+    ],
+    [
+      "Sea Peoples",
+      "inspired by",
+      "movies"
+    ],
+    [
+      "Sea Peoples",
+      "inspired by",
+      "pirates"
+    ],
+    [
+      "Sea Peoples",
+      "inspired by",
+      "swashbuckling adventures"
+    ],
+    [
+      "Sea Peoples",
+      "inspires",
+      "adventure"
+    ],
+    [
+      "Sea Peoples",
+      "operated in",
+      "Mediterranean"
+    ],
+    [
+      "Sea Peoples",
+      "predecessors of",
+      "buccaneers"
+    ],
+    [
+      "Sea Peoples",
+      "preyed upon by",
+      "decline"
+    ],
+    [
+      "Sea Peoples",
+      "viewed by",
+      "common people"
+    ],
+    [
+      "Sea Peoples",
+      "was targeted by",
+      "colonialism"
+    ],
+    [
+      "Spanish Empire",
+      "affected by",
+      "legacy"
+    ],
+    [
+      "Spanish Empire",
+      "associated with",
+      "Blackbeard"
+    ],
+    [
+      "Spanish Empire",
+      "associated with",
+      "decline"
+    ],
+    [
+      "Spanish Empire",
+      "challenged by",
+      "legendary figures"
+    ],
+    [
+      "Spanish Empire",
+      "challenged by",
+      "pirate life"
+    ],
+    [
+      "Spanish Empire",
+      "challenged by",
+      "strongholds"
+    ],
+    [
+      "Spanish Empire",
+      "challenged by",
+      "swashbuckling adventures"
+    ],
+    [
+      "Spanish Empire",
+      "challenges",
+      "Sea Peoples"
+    ],
+    [
+      "Spanish Empire",
+      "controlled by",
+      "European ships"
+    ],
+    [
+      "Spanish Empire",
+      "declined due to",
+      "Golden Age"
+    ],
+    [
+      "Spanish Empire",
+      "dominates",
+      "imperialism"
+    ],
+    [
+      "Spanish Empire",
+      "exploited by",
+      "division of spoils"
+    ],
+    [
+      "Spanish Empire",
+      "exploits",
+      "Barbary pirates"
+    ],
+    [
+      "Spanish Empire",
+      "facilitated",
+      "crew formation"
+    ],
+    [
+      "Spanish Empire",
+      "impacts",
+      "ship governance"
+    ],
+    [
+      "Spanish Empire",
+      "influenced by",
+      "crew decisions"
+    ],
+    [
+      "Spanish Empire",
+      "influenced by",
+      "movies"
+    ],
+    [
+      "Spanish Empire",
+      "influenced by",
+      "television shows"
+    ],
+    [
+      "Spanish Empire",
+      "is a period of",
+      "ancient times"
+    ],
+    [
+      "Spanish Empire",
+      "opposed by",
+      "rebels"
+    ],
+    [
+      "Spanish Empire",
+      "oppresses",
+      "common people"
+    ],
+    [
+      "Spanish Empire",
+      "overthrown by",
+      "established order"
+    ],
+    [
+      "Spanish Empire",
+      "precedes",
+      "origins"
+    ],
+    [
+      "Spanish Empire",
+      "targeted by",
+      "Captain Kidd"
+    ],
+    [
+      "adventure",
+      "associated with",
+      "treasure"
+    ],
+    [
+      "adventure",
+      "challenges",
+      "established order"
+    ],
+    [
+      "adventure",
+      "contrasted with",
+      "Spanish Empire"
+    ],
+    [
+      "adventure",
+      "enables",
+      "naval patrols"
+    ],
+    [
+      "adventure",
+      "featured in",
+      "television shows"
+    ],
+    [
+      "adventure",
+      "inspired by",
+      "strongholds"
+    ],
+    [
+      "adventure",
+      "is a theme in",
+      "Mediterranean"
+    ],
+    [
+      "adventure",
+      "leads to",
+      "crew formation"
+    ],
+    [
+      "adventure",
+      "shaped by",
+      "crew decisions"
+    ],
+    [
+      "ancient times",
+      "associated with",
+      "colonialism"
+    ],
+    [
+      "ancient times",
+      "documents",
+      "history"
+    ],
+    [
+      "ancient times",
+      "featured in",
+      "television shows"
+    ],
+    [
+      "ancient times",
+      "influenced by",
+      "Mediterranean"
+    ],
+    [
+      "ancient times",
+      "influences",
+      "common people"
+    ],
+    [
+      "ancient times",
+      "initiates",
+      "treasure hunting"
+    ],
+    [
+      "ancient times",
+      "inspires",
+      "adventure"
+    ],
+    [
+      "ancient times",
+      "is associated with",
+      "Sea Peoples"
+    ],
+    [
+      "ancient times",
+      "is associated with",
+      "pirates"
+    ],
+    [
+      "ancient times",
+      "originated from",
+      "Blackbeard"
+    ],
+    [
+      "ancient times",
+      "preceded",
+      "decline"
+    ],
+    [
+      "ancient times",
+      "precedes",
+      "Golden Age"
+    ],
+    [
+      "ancient times",
+      "precedes",
+      "buccaneers"
+    ],
+    [
+      "anti-piracy laws",
+      "challenges",
+      "established order"
+    ],
+    [
+      "anti-piracy laws",
+      "enforced by",
+      "Golden Age"
+    ],
+    [
+      "anti-piracy laws",
+      "enforced by",
+      "ancient times"
+    ],
+    [
+      "anti-piracy laws",
+      "enforced by",
+      "order and discipline"
+    ],
+    [
+      "anti-piracy laws",
+      "enforced by",
+      "rebellion"
+    ],
+    [
+      "anti-piracy laws",
+      "enforced by",
+      "strict code"
+    ],
+    [
+      "anti-piracy laws",
+      "is impacted by",
+      "common people"
+    ],
+    [
+      "anti-piracy laws",
+      "is opposed by",
+      "adventure"
+    ],
+    [
+      "anti-piracy laws",
+      "regulated by",
+      "high seas"
+    ],
+    [
+      "anti-piracy laws",
+      "restricted by",
+      "rebels"
+    ],
+    [
+      "anti-piracy laws",
+      "restricts",
+      "pirate life"
+    ],
+    [
+      "anti-piracy laws",
+      "restricts",
+      "raids"
+    ],
+    [
+      "anti-piracy laws",
+      "targeted by",
+      "European ships"
+    ],
+    [
+      "anti-piracy laws",
+      "targets",
+      "pirates"
+    ],
+    [
+      "books",
+      "based on",
+      "swashbuckling adventures"
+    ],
+    [
+      "books",
+      "celebrated in",
+      "defiance"
+    ],
+    [
+      "books",
+      "challenged by",
+      "established order"
+    ],
+    [
+      "books",
+      "chronicled in",
+      "Sea Peoples"
+    ],
+    [
+      "books",
+      "depicted in",
+      "common people"
+    ],
+    [
+      "books",
+      "depicts",
+      "heroes"
+    ],
+    [
+      "books",
+      "discussed in",
+      "European ships"
+    ],
+    [
+      "books",
+      "documented in",
+      "Golden Age"
+    ],
+    [
+      "books",
+      "documented in",
+      "ancient times"
+    ],
+    [
+      "books",
+      "explored in",
+      "order and discipline"
+    ],
+    [
+      "books",
+      "features",
+      "adventure"
+    ],
+    [
+      "books",
+      "features",
+      "pirates"
+    ],
+    [
+      "books",
+      "influenced by",
+      "maritime trade"
+    ],
+    [
+      "books",
+      "informs",
+      "crew formation"
+    ],
+    [
+      "books",
+      "inspired by",
+      "Caribbean"
+    ],
+    [
+      "books",
+      "inspired by",
+      "power vacuum"
+    ],
+    [
+      "books",
+      "regulates",
+      "division of spoils"
+    ],
+    [
+      "buccaneers",
+      "admired by",
+      "common people"
+    ],
+    [
+      "buccaneers",
+      "are a type of",
+      "pirates"
+    ],
+    [
+      "buccaneers",
+      "associated with",
+      "Blackbeard"
+    ],
+    [
+      "buccaneers",
+      "associated with",
+      "colonialism"
+    ],
+    [
+      "buccaneers",
+      "challenged by",
+      "Spanish Empire"
+    ],
+    [
+      "buccaneers",
+      "conducted by",
+      "raids"
+    ],
+    [
+      "buccaneers",
+      "depicted in",
+      "folklore"
+    ],
+    [
+      "buccaneers",
+      "depicted in",
+      "television shows"
+    ],
+    [
+      "buccaneers",
+      "featured in",
+      "books"
+    ],
+    [
+      "buccaneers",
+      "governed by",
+      "ship governance"
+    ],
+    [
+      "buccaneers",
+      "identifies as",
+      "rebels"
+    ],
+    [
+      "buccaneers",
+      "influences",
+      "popular culture"
+    ],
+    [
+      "buccaneers",
+      "inspired by",
+      "legendary figures"
+    ],
+    [
+      "buccaneers",
+      "involved in",
+      "treasure hunting"
+    ],
+    [
+      "buccaneers",
+      "is governed by",
+      "division of spoils"
+    ],
+    [
+      "buccaneers",
+      "operated in",
+      "Caribbean"
+    ],
+    [
+      "buccaneers",
+      "operated in",
+      "Mediterranean"
+    ],
+    [
+      "buccaneers",
+      "operated in",
+      "high seas"
+    ],
+    [
+      "buccaneers",
+      "originated from",
+      "origins"
+    ],
+    [
+      "buccaneers",
+      "practiced by",
+      "pirate life"
+    ],
+    [
+      "buccaneers",
+      "targets",
+      "naval patrols"
+    ],
+    [
+      "buccaneers",
+      "thrived during",
+      "Golden Age"
+    ],
+    [
+      "code of conduct",
+      "contradicts",
+      "established order"
+    ],
+    [
+      "code of conduct",
+      "dictated by",
+      "crew treatment"
+    ],
+    [
+      "code of conduct",
+      "establishes",
+      "adventure"
+    ],
+    [
+      "code of conduct",
+      "governed by",
+      "Caribbean"
+    ],
+    [
+      "code of conduct",
+      "governed by",
+      "high seas"
+    ],
+    [
+      "code of conduct",
+      "governed by",
+      "swashbuckling adventures"
+    ],
+    [
+      "code of conduct",
+      "influenced by",
+      "popular culture"
+    ],
+    [
+      "code of conduct",
+      "informs",
+      "romanticized image"
+    ],
+    [
+      "code of conduct",
+      "inspired",
+      "books"
+    ],
+    [
+      "code of conduct",
+      "promotes",
+      "freedom"
+    ],
+    [
+      "code of conduct",
+      "provides",
+      "treasure"
+    ],
+    [
+      "code of conduct",
+      "regulated by",
+      "decline"
+    ],
+    [
+      "code of conduct",
+      "upheld by",
+      "common people"
+    ],
+    [
+      "colonialism",
+      "attacked by",
+      "Sea Peoples"
+    ],
+    [
+      "colonialism",
+      "challenged by",
+      "Calico Jack"
+    ],
+    [
+      "colonialism",
+      "challenged by",
+      "freedom"
+    ],
+    [
+      "colonialism",
+      "challenged by",
+      "high seas"
+    ],
+    [
+      "colonialism",
+      "challenged by",
+      "popular culture"
+    ],
+    [
+      "colonialism",
+      "challenges",
+      "heroes"
+    ],
+    [
+      "colonialism",
+      "defied",
+      "defiance"
+    ],
+    [
+      "colonialism",
+      "exploited by",
+      "Caribbean"
+    ],
+    [
+      "colonialism",
+      "exploited by",
+      "power vacuum"
+    ],
+    [
+      "colonialism",
+      "exploits",
+      "Blackbeard"
+    ],
+    [
+      "colonialism",
+      "influenced by",
+      "decline"
+    ],
+    [
+      "colonialism",
+      "opposed by",
+      "naval patrols"
+    ],
+    [
+      "colonialism",
+      "targeted by",
+      "raids"
+    ],
+    [
+      "common people",
+      "affects",
+      "European ships"
+    ],
+    [
+      "common people",
+      "benefits from",
+      "naval patrols"
+    ],
+    [
+      "common people",
+      "championed by",
+      "freedom"
+    ],
+    [
+      "common people",
+      "inspired",
+      "folklore"
+    ],
+    [
+      "common people",
+      "inspired by",
+      "high seas"
+    ],
+    [
+      "common people",
+      "is admired by",
+      "Calico Jack"
+    ],
+    [
+      "common people",
+      "opposed by",
+      "imperialism"
+    ],
+    [
+      "common people",
+      "opposes",
+      "oppressive forces"
+    ],
+    [
+      "common people",
+      "represented in",
+      "popular culture"
+    ],
+    [
+      "common people",
+      "viewed as",
+      "heroes"
+    ],
+    [
+      "common people",
+      "viewed as",
+      "pirates"
+    ],
+    [
+      "common people",
+      "viewed by",
+      "strict code"
+    ],
+    [
+      "common people",
+      "views as",
+      "Barbary pirates"
+    ],
+    [
+      "community",
+      "determines",
+      "division of spoils"
+    ],
+    [
+      "community",
+      "facilitates",
+      "crew formation"
+    ],
+    [
+      "community",
+      "governs",
+      "ship governance"
+    ],
+    [
+      "community",
+      "influenced by",
+      "romanticized image"
+    ],
+    [
+      "community",
+      "inspired by",
+      "adventure"
+    ],
+    [
+      "community",
+      "inspired by",
+      "rebels"
+    ],
+    [
+      "community",
+      "provided",
+      "treasure"
+    ],
+    [
+      "community",
+      "viewed as",
+      "heroes"
+    ],
+    [
+      "crew decisions",
+      "embodies",
+      "freedom"
+    ],
+    [
+      "crew decisions",
+      "ensures",
+      "order and discipline"
+    ],
+    [
+      "crew decisions",
+      "influenced by",
+      "Blackbeard"
+    ],
+    [
+      "crew decisions",
+      "influenced by",
+      "books"
+    ],
+    [
+      "crew decisions",
+      "influenced by",
+      "strongholds"
+    ],
+    [
+      "crew decisions",
+      "influences",
+      "adventure"
+    ],
+    [
+      "crew decisions",
+      "influences",
+      "identity"
+    ],
+    [
+      "crew decisions",
+      "reflects",
+      "imperialism"
+    ],
+    [
+      "crew decisions",
+      "reflects",
+      "maritime culture"
+    ],
+    [
+      "crew decisions",
+      "regulated",
+      "code of conduct"
+    ],
+    [
+      "crew decisions",
+      "shaped by",
+      "Caribbean"
+    ],
+    [
+      "crew decisions",
+      "shapes",
+      "legendary figures"
+    ],
+    [
+      "crew decisions",
+      "shapes",
+      "swashbuckling adventures"
+    ],
+    [
+      "crew formation",
+      "influences",
+      "identity"
+    ],
+    [
+      "crew formation",
+      "opposes",
+      "oppressive forces"
+    ],
+    [
+      "crew formation",
+      "resulted from",
+      "Spanish Empire"
+    ],
+    [
+      "crew formation",
+      "resulted in",
+      "crew decisions"
+    ],
+    [
+      "crew treatment",
+      "affected by",
+      "Spanish Empire"
+    ],
+    [
+      "crew treatment",
+      "affected by",
+      "decline"
+    ],
+    [
+      "crew treatment",
+      "affects",
+      "romanticized image"
+    ],
+    [
+      "crew treatment",
+      "embodies",
+      "defiance"
+    ],
+    [
+      "crew treatment",
+      "influenced by",
+      "Sea Peoples"
+    ],
+    [
+      "crew treatment",
+      "influenced by",
+      "rebellion"
+    ],
+    [
+      "crew treatment",
+      "inspired by",
+      "adventure"
+    ],
+    [
+      "crew treatment",
+      "practiced by",
+      "Barbary pirates"
+    ],
+    [
+      "crew treatment",
+      "promotes",
+      "freedom"
+    ],
+    [
+      "decline",
+      "associated with",
+      "adventure"
+    ],
+    [
+      "decline",
+      "contributed to",
+      "Blackbeard"
+    ],
+    [
+      "decline",
+      "is impacted by",
+      "division of spoils"
+    ],
+    [
+      "decline",
+      "is influenced by",
+      "strict code"
+    ],
+    [
+      "decline",
+      "results in",
+      "raids"
+    ],
+    [
+      "defiance",
+      "challenged by",
+      "European ships"
+    ],
+    [
+      "defiance",
+      "challenged by",
+      "naval patrols"
+    ],
+    [
+      "defiance",
+      "challenged by",
+      "order and discipline"
+    ],
+    [
+      "defiance",
+      "challenged by",
+      "strict code"
+    ],
+    [
+      "defiance",
+      "challenges",
+      "imperialism"
+    ],
+    [
+      "defiance",
+      "defied by",
+      "Spanish Empire"
+    ],
+    [
+      "defiance",
+      "defied by",
+      "oppressive forces"
+    ],
+    [
+      "defiance",
+      "embodies",
+      "common people"
+    ],
+    [
+      "defiance",
+      "is resisted by",
+      "established order"
+    ],
+    [
+      "defiance",
+      "symbolizes",
+      "Blackbeard"
+    ],
+    [
+      "defiance",
+      "symbolizes",
+      "decline"
+    ],
+    [
+      "defiance",
+      "symbolizes",
+      "heroes"
+    ],
+    [
+      "division of spoils",
+      "associated with",
+      "heroes"
+    ],
+    [
+      "division of spoils",
+      "comprises",
+      "treasure"
+    ],
+    [
+      "division of spoils",
+      "determines",
+      "crew formation"
+    ],
+    [
+      "division of spoils",
+      "influenced by",
+      "treasure hunting"
+    ],
+    [
+      "division of spoils",
+      "represents",
+      "defiance"
+    ],
+    [
+      "division of spoils",
+      "represents",
+      "freedom"
+    ],
+    [
+      "division of spoils",
+      "results in",
+      "raids"
+    ],
+    [
+      "division of spoils",
+      "targeted by",
+      "naval patrols"
+    ],
+    [
+      "established order",
+      "challenged",
+      "identity"
+    ],
+    [
+      "established order",
+      "challenged by",
+      "imperialism"
+    ],
+    [
+      "established order",
+      "challenged by",
+      "order and discipline"
+    ],
+    [
+      "established order",
+      "challenged by",
+      "rebels"
+    ],
+    [
+      "established order",
+      "challenges",
+      "defiance"
+    ],
+    [
+      "established order",
+      "disrupted",
+      "Blackbeard"
+    ],
+    [
+      "established order",
+      "governed by",
+      "strict code"
+    ],
+    [
+      "established order",
+      "is challenged by",
+      "maritime trade"
+    ],
+    [
+      "established order",
+      "maintained by",
+      "Spanish Empire"
+    ],
+    [
+      "established order",
+      "maintains",
+      "crew decisions"
+    ],
+    [
+      "established order",
+      "maintains",
+      "power vacuum"
+    ],
+    [
+      "established order",
+      "opposes",
+      "legendary figures"
+    ],
+    [
+      "established order",
+      "sustained by",
+      "Golden Age"
+    ],
+    [
+      "established order",
+      "upheld by",
+      "Captain Kidd"
+    ],
+    [
+      "established order",
+      "upheld by",
+      "decline"
+    ],
+    [
+      "folklore",
+      "associated with",
+      "Mediterranean"
+    ],
+    [
+      "folklore",
+      "associated with",
+      "adventure"
+    ],
+    [
+      "folklore",
+      "challenges",
+      "established order"
+    ],
+    [
+      "folklore",
+      "depicts",
+      "raids"
+    ],
+    [
+      "folklore",
+      "depicts",
+      "television shows"
+    ],
+    [
+      "folklore",
+      "influenced by",
+      "Caribbean"
+    ],
+    [
+      "folklore",
+      "influenced by",
+      "ancient times"
+    ],
+    [
+      "folklore",
+      "influences",
+      "anti-piracy laws"
+    ],
+    [
+      "folklore",
+      "informs",
+      "order and discipline"
+    ],
+    [
+      "folklore",
+      "inspired by",
+      "European ships"
+    ],
+    [
+      "folklore",
+      "inspired by",
+      "Golden Age"
+    ],
+    [
+      "folklore",
+      "inspired by",
+      "Spanish Empire"
+    ],
+    [
+      "folklore",
+      "reflected in",
+      "division of spoils"
+    ],
+    [
+      "folklore",
+      "reflected in",
+      "freedom"
+    ],
+    [
+      "freedom",
+      "challenged by",
+      "established order"
+    ],
+    [
+      "freedom",
+      "depicted in",
+      "television shows"
+    ],
+    [
+      "freedom",
+      "embodies",
+      "adventure"
+    ],
+    [
+      "freedom",
+      "embodies",
+      "defiance"
+    ],
+    [
+      "freedom",
+      "embodies",
+      "heroes"
+    ],
+    [
+      "freedom",
+      "enables",
+      "crew formation"
+    ],
+    [
+      "freedom",
+      "influences",
+      "maritime trade"
+    ],
+    [
+      "freedom",
+      "is associated with",
+      "pirate life"
+    ],
+    [
+      "freedom",
+      "is associated with",
+      "raids"
+    ],
+    [
+      "freedom",
+      "limited",
+      "naval patrols"
+    ],
+    [
+      "freedom",
+      "opposes",
+      "oppressive forces"
+    ],
+    [
+      "freedom",
+      "represents",
+      "Spanish Empire"
+    ],
+    [
+      "freedom",
+      "restricted by",
+      "decline"
+    ],
+    [
+      "freedom",
+      "restricts",
+      "power vacuum"
+    ],
+    [
+      "freedom",
+      "restricts",
+      "strict code"
+    ],
+    [
+      "freedom",
+      "sought by",
+      "European ships"
+    ],
+    [
+      "heroes",
+      "associated with",
+      "ancient times"
+    ],
+    [
+      "heroes",
+      "associated with",
+      "legacy"
+    ],
+    [
+      "heroes",
+      "contrasted with",
+      "anti-piracy laws"
+    ],
+    [
+      "heroes",
+      "coveted by",
+      "treasure"
+    ],
+    [
+      "heroes",
+      "defended by",
+      "strongholds"
+    ],
+    [
+      "heroes",
+      "defies",
+      "oppressive forces"
+    ],
+    [
+      "heroes",
+      "depicted as",
+      "popular culture"
+    ],
+    [
+      "heroes",
+      "depicted in",
+      "naval patrols"
+    ],
+    [
+      "heroes",
+      "inspired",
+      "folklore"
+    ],
+    [
+      "heroes",
+      "inspired by",
+      "adventure"
+    ],
+    [
+      "heroes",
+      "is represented as",
+      "history"
+    ],
+    [
+      "heroes",
+      "portrays",
+      "movies"
+    ],
+    [
+      "heroes",
+      "seen as",
+      "Caribbean"
+    ],
+    [
+      "heroes",
+      "symbolizes",
+      "high seas"
+    ],
+    [
+      "heroes",
+      "viewed as",
+      "legendary figures"
+    ],
+    [
+      "high seas",
+      "associated with",
+      "power vacuum"
+    ],
+    [
+      "high seas",
+      "conducted by",
+      "raids"
+    ],
+    [
+      "high seas",
+      "describes",
+      "lawless"
+    ],
+    [
+      "high seas",
+      "embodies",
+      "freedom"
+    ],
+    [
+      "high seas",
+      "facilitates",
+      "maritime trade"
+    ],
+    [
+      "high seas",
+      "involves",
+      "treasure hunting"
+    ],
+    [
+      "high seas",
+      "located in",
+      "strongholds"
+    ],
+    [
+      "high seas",
+      "represents",
+      "adventure"
+    ],
+    [
+      "high seas",
+      "symbolizes",
+      "defiance"
+    ],
+    [
+      "history",
+      "context for",
+      "Golden Age"
+    ],
+    [
+      "history",
+      "documented in",
+      "Blackbeard"
+    ],
+    [
+      "history",
+      "documented in",
+      "Mediterranean"
+    ],
+    [
+      "history",
+      "documented in",
+      "books"
+    ],
+    [
+      "history",
+      "documented in",
+      "naval patrols"
+    ],
+    [
+      "history",
+      "influenced by",
+      "European ships"
+    ],
+    [
+      "history",
+      "influenced by",
+      "Sea Peoples"
+    ],
+    [
+      "history",
+      "influenced by",
+      "decline"
+    ],
+    [
+      "history",
+      "influenced by",
+      "established order"
+    ],
+    [
+      "history",
+      "influenced by",
+      "swashbuckling adventures"
+    ],
+    [
+      "history",
+      "involves",
+      "adventure"
+    ],
+    [
+      "history",
+      "is a part of",
+      "origins"
+    ],
+    [
+      "history",
+      "opposed",
+      "colonialism"
+    ],
+    [
+      "history",
+      "reflected in",
+      "popular culture"
+    ],
+    [
+      "history",
+      "reflected in",
+      "rebels"
+    ],
+    [
+      "history",
+      "represented in",
+      "common people"
+    ],
+    [
+      "identity",
+      "associated with",
+      "Caribbean"
+    ],
+    [
+      "identity",
+      "challenges",
+      "oppressive forces"
+    ],
+    [
+      "identity",
+      "defines",
+      "pirate life"
+    ],
+    [
+      "identity",
+      "defines",
+      "romanticized image"
+    ],
+    [
+      "identity",
+      "governs",
+      "code of conduct"
+    ],
+    [
+      "identity",
+      "governs",
+      "strict code"
+    ],
+    [
+      "identity",
+      "identified as",
+      "Calico Jack"
+    ],
+    [
+      "identity",
+      "influences",
+      "movies"
+    ],
+    [
+      "identity",
+      "reflected in",
+      "folklore"
+    ],
+    [
+      "identity",
+      "represented in",
+      "books"
+    ],
+    [
+      "identity",
+      "represents",
+      "legacy"
+    ],
+    [
+      "identity",
+      "represents",
+      "pirates"
+    ],
+    [
+      "identity",
+      "shapes",
+      "community"
+    ],
+    [
+      "identity",
+      "shapes",
+      "popular culture"
+    ],
+    [
+      "identity",
+      "traced to",
+      "origins"
+    ],
+    [
+      "imperialism",
+      "attacks",
+      "European ships"
+    ],
+    [
+      "imperialism",
+      "challenged by",
+      "colonialism"
+    ],
+    [
+      "imperialism",
+      "challenged by",
+      "rebels"
+    ],
+    [
+      "imperialism",
+      "contrasts with",
+      "heroes"
+    ],
+    [
+      "imperialism",
+      "depicts",
+      "romanticized image"
+    ],
+    [
+      "imperialism",
+      "enforces",
+      "anti-piracy laws"
+    ],
+    [
+      "imperialism",
+      "exploited by",
+      "Caribbean"
+    ],
+    [
+      "imperialism",
+      "exploited by",
+      "Sea Peoples"
+    ],
+    [
+      "imperialism",
+      "explored in",
+      "books"
+    ],
+    [
+      "imperialism",
+      "impacted by",
+      "Blackbeard"
+    ],
+    [
+      "imperialism",
+      "impacted by",
+      "decline"
+    ],
+    [
+      "imperialism",
+      "influenced by",
+      "naval patrols"
+    ],
+    [
+      "imperialism",
+      "influenced by",
+      "popular culture"
+    ],
+    [
+      "imperialism",
+      "influences",
+      "Mediterranean"
+    ],
+    [
+      "imperialism",
+      "influences",
+      "division of spoils"
+    ],
+    [
+      "imperialism",
+      "inspired by",
+      "adventure"
+    ],
+    [
+      "imperialism",
+      "is associated with",
+      "Barbary pirates"
+    ],
+    [
+      "imperialism",
+      "opposed by",
+      "swashbuckling adventures"
+    ],
+    [
+      "imperialism",
+      "regulated by",
+      "code of conduct"
+    ],
+    [
+      "imperialism",
+      "regulated by",
+      "ship governance"
+    ],
+    [
+      "lawless",
+      "characterized as",
+      "maritime culture"
+    ],
+    [
+      "lawless",
+      "characterized by",
+      "Golden Age"
+    ],
+    [
+      "lawless",
+      "characterized by",
+      "legacy"
+    ],
+    [
+      "lawless",
+      "contrasts with",
+      "oppressive forces"
+    ],
+    [
+      "lawless",
+      "defines",
+      "pirate life"
+    ],
+    [
+      "lawless",
+      "describes",
+      "community"
+    ],
+    [
+      "lawless",
+      "restricted",
+      "naval patrols"
+    ],
+    [
+      "legacy",
+      "associated with",
+      "adventure"
+    ],
+    [
+      "legacy",
+      "challenges",
+      "established order"
+    ],
+    [
+      "legacy",
+      "contributes to",
+      "Captain Kidd"
+    ],
+    [
+      "legacy",
+      "influenced",
+      "popular culture"
+    ],
+    [
+      "legacy",
+      "influenced by",
+      "Golden Age"
+    ],
+    [
+      "legacy",
+      "influences",
+      "anti-piracy laws"
+    ],
+    [
+      "legacy",
+      "influences",
+      "swashbuckling adventures"
+    ],
+    [
+      "legacy",
+      "is associated with",
+      "rebels"
+    ],
+    [
+      "legacy",
+      "is characterized by",
+      "division of spoils"
+    ],
+    [
+      "legacy",
+      "is represented in",
+      "Blackbeard"
+    ],
+    [
+      "legacy",
+      "reflected in",
+      "common people"
+    ],
+    [
+      "legacy",
+      "reflected in",
+      "folklore"
+    ],
+    [
+      "legacy",
+      "represents",
+      "high seas"
+    ],
+    [
+      "legacy",
+      "represents",
+      "pirates"
+    ],
+    [
+      "legacy",
+      "resulted in",
+      "decline"
+    ],
+    [
+      "legacy",
+      "shaped by",
+      "pirate life"
+    ],
+    [
+      "legacy",
+      "shapes",
+      "history"
+    ],
+    [
+      "legacy",
+      "shapes",
+      "imperialism"
+    ],
+    [
+      "legacy",
+      "shapes",
+      "raids"
+    ],
+    [
+      "legacy",
+      "symbolizes",
+      "freedom"
+    ],
+    [
+      "legacy",
+      "traced back to",
+      "ancient times"
+    ],
+    [
+      "legendary figures",
+      "associated with",
+      "strongholds"
+    ],
+    [
+      "legendary figures",
+      "associated with",
+      "treasure"
+    ],
+    [
+      "legendary figures",
+      "attacks",
+      "European ships"
+    ],
+    [
+      "legendary figures",
+      "contributes to",
+      "legacy"
+    ],
+    [
+      "legendary figures",
+      "declined due to",
+      "decline"
+    ],
+    [
+      "legendary figures",
+      "embodies",
+      "defiance"
+    ],
+    [
+      "legendary figures",
+      "embodies",
+      "freedom"
+    ],
+    [
+      "legendary figures",
+      "ensured",
+      "order and discipline"
+    ],
+    [
+      "legendary figures",
+      "established",
+      "code of conduct"
+    ],
+    [
+      "legendary figures",
+      "influenced",
+      "buccaneers"
+    ],
+    [
+      "legendary figures",
+      "influenced",
+      "crew treatment"
+    ],
+    [
+      "legendary figures",
+      "influences",
+      "Caribbean"
+    ],
+    [
+      "legendary figures",
+      "influences",
+      "books"
+    ],
+    [
+      "legendary figures",
+      "influences",
+      "folklore"
+    ],
+    [
+      "legendary figures",
+      "influences",
+      "popular culture"
+    ],
+    [
+      "legendary figures",
+      "involves",
+      "swashbuckling adventures"
+    ],
+    [
+      "legendary figures",
+      "opposes",
+      "colonialism"
+    ],
+    [
+      "legendary figures",
+      "seen as",
+      "rebels"
+    ],
+    [
+      "legendary figures",
+      "shapes",
+      "romanticized image"
+    ],
+    [
+      "maritime culture",
+      "associated with",
+      "Barbary pirates"
+    ],
+    [
+      "maritime culture",
+      "characterized by",
+      "Golden Age"
+    ],
+    [
+      "maritime culture",
+      "depicted in",
+      "adventure"
+    ],
+    [
+      "maritime culture",
+      "depicted in",
+      "movies"
+    ],
+    [
+      "maritime culture",
+      "determines",
+      "division of spoils"
+    ],
+    [
+      "maritime culture",
+      "governs",
+      "ship governance"
+    ],
+    [
+      "maritime culture",
+      "influenced by",
+      "Sea Peoples"
+    ],
+    [
+      "maritime culture",
+      "influences",
+      "raids"
+    ],
+    [
+      "maritime culture",
+      "nurtures",
+      "community"
+    ],
+    [
+      "maritime culture",
+      "originates from",
+      "origins"
+    ],
+    [
+      "maritime culture",
+      "represents",
+      "pirate life"
+    ],
+    [
+      "maritime culture",
+      "shapes",
+      "crew treatment"
+    ],
+    [
+      "maritime culture",
+      "shapes",
+      "identity"
+    ],
+    [
+      "maritime culture",
+      "shapes",
+      "pirates"
+    ],
+    [
+      "maritime culture",
+      "symbolizes",
+      "freedom"
+    ],
+    [
+      "maritime trade",
+      "affected by",
+      "Captain Kidd"
+    ],
+    [
+      "maritime trade",
+      "affected by",
+      "pirate life"
+    ],
+    [
+      "maritime trade",
+      "affects",
+      "anti-piracy laws"
+    ],
+    [
+      "maritime trade",
+      "affects",
+      "decline"
+    ],
+    [
+      "maritime trade",
+      "influenced",
+      "division of spoils"
+    ],
+    [
+      "maritime trade",
+      "influenced by",
+      "Blackbeard"
+    ],
+    [
+      "maritime trade",
+      "influenced by",
+      "common people"
+    ],
+    [
+      "maritime trade",
+      "influenced by",
+      "movies"
+    ],
+    [
+      "maritime trade",
+      "influenced by",
+      "origins"
+    ],
+    [
+      "maritime trade",
+      "influences",
+      "folklore"
+    ],
+    [
+      "maritime trade",
+      "influences",
+      "legacy"
+    ],
+    [
+      "maritime trade",
+      "inspired by",
+      "heroes"
+    ],
+    [
+      "maritime trade",
+      "preceded by",
+      "ancient times"
+    ],
+    [
+      "maritime trade",
+      "raided by",
+      "raids"
+    ],
+    [
+      "maritime trade",
+      "supported by",
+      "Spanish Empire"
+    ],
+    [
+      "maritime trade",
+      "supports",
+      "community"
+    ],
+    [
+      "movies",
+      "depicted in",
+      "freedom"
+    ],
+    [
+      "movies",
+      "depicted in",
+      "high seas"
+    ],
+    [
+      "movies",
+      "depicted in",
+      "lawless"
+    ],
+    [
+      "movies",
+      "depicts",
+      "Golden Age"
+    ],
+    [
+      "movies",
+      "depicts",
+      "Mediterranean"
+    ],
+    [
+      "movies",
+      "depicts",
+      "adventure"
+    ],
+    [
+      "movies",
+      "depicts",
+      "pirate life"
+    ],
+    [
+      "movies",
+      "featured in",
+      "buccaneers"
+    ],
+    [
+      "movies",
+      "featured in",
+      "naval patrols"
+    ],
+    [
+      "movies",
+      "inspired",
+      "order and discipline"
+    ],
+    [
+      "movies",
+      "inspired by",
+      "folklore"
+    ],
+    [
+      "movies",
+      "portrayed in",
+      "Blackbeard"
+    ],
+    [
+      "movies",
+      "reflects",
+      "common people"
+    ],
+    [
+      "movies",
+      "reflects",
+      "popular culture"
+    ],
+    [
+      "naval patrols",
+      "affects",
+      "treasure hunting"
+    ],
+    [
+      "naval patrols",
+      "contributes to",
+      "decline"
+    ],
+    [
+      "naval patrols",
+      "maintains",
+      "order and discipline"
+    ],
+    [
+      "naval patrols",
+      "monitored by",
+      "Captain Kidd"
+    ],
+    [
+      "naval patrols",
+      "patrols",
+      "Caribbean"
+    ],
+    [
+      "naval patrols",
+      "restricted by",
+      "pirate life"
+    ],
+    [
+      "naval patrols",
+      "targeted by",
+      "Barbary pirates"
+    ],
+    [
+      "oppressive forces",
+      "associated with",
+      "Mediterranean"
+    ],
+    [
+      "oppressive forces",
+      "challenged by",
+      "Spanish Empire"
+    ],
+    [
+      "oppressive forces",
+      "challenged by",
+      "established order"
+    ],
+    [
+      "oppressive forces",
+      "challenged by",
+      "movies"
+    ],
+    [
+      "oppressive forces",
+      "depicted in",
+      "television shows"
+    ],
+    [
+      "oppressive forces",
+      "fought against by",
+      "high seas"
+    ],
+    [
+      "oppressive forces",
+      "is influenced by",
+      "division of spoils"
+    ],
+    [
+      "oppressive forces",
+      "linked to",
+      "adventure"
+    ],
+    [
+      "oppressive forces",
+      "opposed by",
+      "code of conduct"
+    ],
+    [
+      "oppressive forces",
+      "opposed by",
+      "strongholds"
+    ],
+    [
+      "oppressive forces",
+      "opposed by",
+      "swashbuckling adventures"
+    ],
+    [
+      "oppressive forces",
+      "opposes",
+      "anti-piracy laws"
+    ],
+    [
+      "oppressive forces",
+      "opposes",
+      "colonialism"
+    ],
+    [
+      "oppressive forces",
+      "opposes",
+      "imperialism"
+    ],
+    [
+      "oppressive forces",
+      "oppressed by",
+      "European ships"
+    ],
+    [
+      "oppressive forces",
+      "oppressed by",
+      "crew treatment"
+    ],
+    [
+      "oppressive forces",
+      "oppresses",
+      "strict code"
+    ],
+    [
+      "order and discipline",
+      "affects",
+      "maritime trade"
+    ],
+    [
+      "order and discipline",
+      "characterizes",
+      "Golden Age"
+    ],
+    [
+      "order and discipline",
+      "established by",
+      "origins"
+    ],
+    [
+      "order and discipline",
+      "fosters",
+      "community"
+    ],
+    [
+      "order and discipline",
+      "fueled",
+      "rebellion"
+    ],
+    [
+      "order and discipline",
+      "governed by",
+      "code of conduct"
+    ],
+    [
+      "order and discipline",
+      "governs",
+      "pirate life"
+    ],
+    [
+      "order and discipline",
+      "governs",
+      "ship governance"
+    ],
+    [
+      "order and discipline",
+      "influenced by",
+      "raids"
+    ],
+    [
+      "order and discipline",
+      "is influenced by",
+      "Spanish Empire"
+    ],
+    [
+      "order and discipline",
+      "maintained by",
+      "Caribbean"
+    ],
+    [
+      "order and discipline",
+      "maintained by",
+      "ancient times"
+    ],
+    [
+      "order and discipline",
+      "maintained by",
+      "decline"
+    ],
+    [
+      "order and discipline",
+      "maintained by",
+      "pirates"
+    ],
+    [
+      "order and discipline",
+      "upheld by",
+      "legacy"
+    ],
+    [
+      "origins",
+      "associated with",
+      "rebels"
+    ],
+    [
+      "origins",
+      "dates back to",
+      "ancient times"
+    ],
+    [
+      "origins",
+      "depicted in",
+      "movies"
+    ],
+    [
+      "origins",
+      "documented in",
+      "books"
+    ],
+    [
+      "origins",
+      "governed by",
+      "division of spoils"
+    ],
+    [
+      "origins",
+      "influenced by",
+      "Caribbean"
+    ],
+    [
+      "origins",
+      "influenced piracy",
+      "European ships"
+    ],
+    [
+      "origins",
+      "influences",
+      "community"
+    ],
+    [
+      "origins",
+      "leads to",
+      "anti-piracy laws"
+    ],
+    [
+      "origins",
+      "linked to",
+      "adventure"
+    ],
+    [
+      "origins",
+      "linked to",
+      "colonialism"
+    ],
+    [
+      "origins",
+      "opposed by",
+      "oppressive forces"
+    ],
+    [
+      "origins",
+      "origin of",
+      "imperialism"
+    ],
+    [
+      "origins",
+      "originated from",
+      "Barbary pirates"
+    ],
+    [
+      "origins",
+      "roots of",
+      "decline"
+    ],
+    [
+      "origins",
+      "traced to",
+      "Mediterranean"
+    ],
+    [
+      "pirate life",
+      "associated with",
+      "ancient times"
+    ],
+    [
+      "pirate life",
+      "challenged by",
+      "established order"
+    ],
+    [
+      "pirate life",
+      "characterized by",
+      "high seas"
+    ],
+    [
+      "pirate life",
+      "depicted in",
+      "television shows"
+    ],
+    [
+      "pirate life",
+      "described in",
+      "books"
+    ],
+    [
+      "pirate life",
+      "embodies",
+      "freedom"
+    ],
+    [
+      "pirate life",
+      "governed by",
+      "division of spoils"
+    ],
+    [
+      "pirate life",
+      "influenced by",
+      "crew decisions"
+    ],
+    [
+      "pirate life",
+      "influenced by",
+      "decline"
+    ],
+    [
+      "pirate life",
+      "influenced by",
+      "swashbuckling adventures"
+    ],
+    [
+      "pirate life",
+      "involves",
+      "crew formation"
+    ],
+    [
+      "pirate life",
+      "is reflected in",
+      "folklore"
+    ],
+    [
+      "pirate life",
+      "portrays",
+      "heroes"
+    ],
+    [
+      "pirates",
+      "affected",
+      "decline"
+    ],
+    [
+      "pirates",
+      "associated with",
+      "high seas"
+    ],
+    [
+      "pirates",
+      "associated with",
+      "lawless"
+    ],
+    [
+      "pirates",
+      "associated with",
+      "strongholds"
+    ],
+    [
+      "pirates",
+      "attacked by",
+      "European ships"
+    ],
+    [
+      "pirates",
+      "celebrated in",
+      "folklore"
+    ],
+    [
+      "pirates",
+      "challenged by",
+      "colonialism"
+    ],
+    [
+      "pirates",
+      "challenged by",
+      "established order"
+    ],
+    [
+      "pirates",
+      "challenged by",
+      "imperialism"
+    ],
+    [
+      "pirates",
+      "conducts",
+      "raids"
+    ],
+    [
+      "pirates",
+      "featured in",
+      "television shows"
+    ],
+    [
+      "pirates",
+      "influences",
+      "popular culture"
+    ],
+    [
+      "pirates",
+      "inspired by",
+      "adventure"
+    ],
+    [
+      "pirates",
+      "involves",
+      "swashbuckling adventures"
+    ],
+    [
+      "pirates",
+      "is governed by",
+      "division of spoils"
+    ],
+    [
+      "pirates",
+      "operated in",
+      "Mediterranean"
+    ],
+    [
+      "pirates",
+      "origin of",
+      "origins"
+    ],
+    [
+      "pirates",
+      "symbolizes",
+      "freedom"
+    ],
+    [
+      "pirates",
+      "symbolizes",
+      "rebels"
+    ],
+    [
+      "pirates",
+      "targeted by",
+      "naval patrols"
+    ],
+    [
+      "popular culture",
+      "depicted in",
+      "European ships"
+    ],
+    [
+      "popular culture",
+      "depicts",
+      "freedom"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "ancient times"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "books"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "folklore"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "lawless"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "maritime trade"
+    ],
+    [
+      "popular culture",
+      "inspired by",
+      "anti-piracy laws"
+    ],
+    [
+      "popular culture",
+      "shaped by",
+      "Caribbean"
+    ],
+    [
+      "popular culture",
+      "shapes",
+      "defiance"
+    ],
+    [
+      "power vacuum",
+      "affected by",
+      "maritime trade"
+    ],
+    [
+      "power vacuum",
+      "benefits from",
+      "common people"
+    ],
+    [
+      "power vacuum",
+      "created by",
+      "Caribbean"
+    ],
+    [
+      "power vacuum",
+      "created by",
+      "defiance"
+    ],
+    [
+      "power vacuum",
+      "created by",
+      "naval patrols"
+    ],
+    [
+      "power vacuum",
+      "creates",
+      "crew formation"
+    ],
+    [
+      "power vacuum",
+      "enables",
+      "freedom"
+    ],
+    [
+      "power vacuum",
+      "exploited",
+      "rebellion"
+    ],
+    [
+      "power vacuum",
+      "linked to",
+      "treasure"
+    ],
+    [
+      "raids",
+      "conducted by",
+      "Blackbeard"
+    ],
+    [
+      "raids",
+      "depicts",
+      "television shows"
+    ],
+    [
+      "raids",
+      "disrupted",
+      "maritime trade"
+    ],
+    [
+      "raids",
+      "exploited by",
+      "established order"
+    ],
+    [
+      "raids",
+      "initiated by",
+      "origins"
+    ],
+    [
+      "raids",
+      "involved in",
+      "pirate life"
+    ],
+    [
+      "raids",
+      "involves",
+      "legendary figures"
+    ],
+    [
+      "raids",
+      "perceived by",
+      "common people"
+    ],
+    [
+      "raids",
+      "perpetrated by",
+      "oppressive forces"
+    ],
+    [
+      "raids",
+      "raided by",
+      "European ships"
+    ],
+    [
+      "raids",
+      "raided by",
+      "Mediterranean"
+    ],
+    [
+      "raids",
+      "seeks",
+      "treasure"
+    ],
+    [
+      "raids",
+      "targeted",
+      "community"
+    ],
+    [
+      "raids",
+      "targeted by",
+      "Spanish Empire"
+    ],
+    [
+      "raids",
+      "targeted by",
+      "naval patrols"
+    ],
+    [
+      "raids",
+      "targeted by",
+      "rebels"
+    ],
+    [
+      "raids",
+      "targeted by",
+      "strongholds"
+    ],
+    [
+      "rebellion",
+      "challenged",
+      "Spanish Empire"
+    ],
+    [
+      "rebellion",
+      "challenges",
+      "oppressive forces"
+    ],
+    [
+      "rebellion",
+      "characterized as",
+      "lawless"
+    ],
+    [
+      "rebellion",
+      "characterized by",
+      "Golden Age"
+    ],
+    [
+      "rebellion",
+      "created by",
+      "power vacuum"
+    ],
+    [
+      "rebellion",
+      "depicted in",
+      "books"
+    ],
+    [
+      "rebellion",
+      "drives",
+      "adventure"
+    ],
+    [
+      "rebellion",
+      "inspired",
+      "strongholds"
+    ],
+    [
+      "rebellion",
+      "leads to",
+      "crew formation"
+    ],
+    [
+      "rebellion",
+      "occurs in",
+      "Caribbean"
+    ],
+    [
+      "rebellion",
+      "opposes",
+      "established order"
+    ],
+    [
+      "rebellion",
+      "reflected in",
+      "popular culture"
+    ],
+    [
+      "rebellion",
+      "represents",
+      "freedom"
+    ],
+    [
+      "rebellion",
+      "represents",
+      "heroes"
+    ],
+    [
+      "rebellion",
+      "supported by",
+      "common people"
+    ],
+    [
+      "rebels",
+      "admired by",
+      "common people"
+    ],
+    [
+      "rebels",
+      "associated with",
+      "Caribbean"
+    ],
+    [
+      "rebels",
+      "associated with",
+      "adventure"
+    ],
+    [
+      "rebels",
+      "associated with",
+      "ancient times"
+    ],
+    [
+      "rebels",
+      "challenges",
+      "maritime culture"
+    ],
+    [
+      "rebels",
+      "characterized as",
+      "lawless"
+    ],
+    [
+      "rebels",
+      "encompasses",
+      "pirate life"
+    ],
+    [
+      "rebels",
+      "facilitates",
+      "crew formation"
+    ],
+    [
+      "rebels",
+      "fought against",
+      "colonialism"
+    ],
+    [
+      "rebels",
+      "identified as",
+      "Sea Peoples"
+    ],
+    [
+      "rebels",
+      "includes",
+      "Barbary pirates"
+    ],
+    [
+      "rebels",
+      "influences",
+      "crew treatment"
+    ],
+    [
+      "rebels",
+      "opposes",
+      "oppressive forces"
+    ],
+    [
+      "rebels",
+      "pursued by",
+      "treasure hunting"
+    ],
+    [
+      "rebels",
+      "reflected in",
+      "popular culture"
+    ],
+    [
+      "rebels",
+      "represents",
+      "folklore"
+    ],
+    [
+      "rebels",
+      "seeking",
+      "treasure"
+    ],
+    [
+      "rebels",
+      "symbolizes",
+      "freedom"
+    ],
+    [
+      "romanticized image",
+      "appeals to",
+      "common people"
+    ],
+    [
+      "romanticized image",
+      "characterizes",
+      "Golden Age"
+    ],
+    [
+      "romanticized image",
+      "contradicts",
+      "anti-piracy laws"
+    ],
+    [
+      "romanticized image",
+      "depicts",
+      "adventure"
+    ],
+    [
+      "romanticized image",
+      "describes",
+      "lawless"
+    ],
+    [
+      "romanticized image",
+      "influences",
+      "division of spoils"
+    ],
+    [
+      "romanticized image",
+      "perceived as",
+      "heroes"
+    ],
+    [
+      "romanticized image",
+      "results from",
+      "power vacuum"
+    ],
+    [
+      "romanticized image",
+      "shaped by",
+      "order and discipline"
+    ],
+    [
+      "romanticized image",
+      "symbolizes",
+      "treasure"
+    ],
+    [
+      "ship governance",
+      "affected",
+      "decline"
+    ],
+    [
+      "ship governance",
+      "associated with",
+      "treasure"
+    ],
+    [
+      "ship governance",
+      "depicts",
+      "television shows"
+    ],
+    [
+      "ship governance",
+      "ensured",
+      "freedom"
+    ],
+    [
+      "ship governance",
+      "governed by",
+      "lawless"
+    ],
+    [
+      "ship governance",
+      "governed by",
+      "romanticized image"
+    ],
+    [
+      "ship governance",
+      "governs",
+      "established order"
+    ],
+    [
+      "ship governance",
+      "influences",
+      "Mediterranean"
+    ],
+    [
+      "ship governance",
+      "influences",
+      "colonialism"
+    ],
+    [
+      "ship governance",
+      "influences",
+      "popular culture"
+    ],
+    [
+      "ship governance",
+      "shapes",
+      "swashbuckling adventures"
+    ],
+    [
+      "ship governance",
+      "upholds",
+      "rebels"
+    ],
+    [
+      "strict code",
+      "contrasts with",
+      "lawless"
+    ],
+    [
+      "strict code",
+      "ensures",
+      "order and discipline"
+    ],
+    [
+      "strict code",
+      "established in",
+      "Caribbean"
+    ],
+    [
+      "strict code",
+      "facilitates",
+      "crew formation"
+    ],
+    [
+      "strict code",
+      "governed",
+      "high seas"
+    ],
+    [
+      "strict code",
+      "governed by",
+      "Blackbeard"
+    ],
+    [
+      "strict code",
+      "governs",
+      "division of spoils"
+    ],
+    [
+      "strict code",
+      "inspired",
+      "rebellion"
+    ],
+    [
+      "strict code",
+      "inspires",
+      "adventure"
+    ],
+    [
+      "strict code",
+      "promotes",
+      "community"
+    ],
+    [
+      "strict code",
+      "regulates",
+      "ship governance"
+    ],
+    [
+      "strict code",
+      "shaped",
+      "romanticized image"
+    ],
+    [
+      "strongholds",
+      "affected by",
+      "decline"
+    ],
+    [
+      "strongholds",
+      "associated with",
+      "Blackbeard"
+    ],
+    [
+      "strongholds",
+      "associated with",
+      "common people"
+    ],
+    [
+      "strongholds",
+      "associated with",
+      "defiance"
+    ],
+    [
+      "strongholds",
+      "associated with",
+      "treasure"
+    ],
+    [
+      "strongholds",
+      "established by",
+      "Captain Kidd"
+    ],
+    [
+      "strongholds",
+      "establishes",
+      "crew formation"
+    ],
+    [
+      "strongholds",
+      "featured in",
+      "movies"
+    ],
+    [
+      "strongholds",
+      "influenced by",
+      "crew treatment"
+    ],
+    [
+      "strongholds",
+      "influenced by",
+      "legacy"
+    ],
+    [
+      "strongholds",
+      "influences",
+      "maritime culture"
+    ],
+    [
+      "strongholds",
+      "influences",
+      "maritime trade"
+    ],
+    [
+      "strongholds",
+      "informs",
+      "ship governance"
+    ],
+    [
+      "strongholds",
+      "is located in",
+      "Mediterranean"
+    ],
+    [
+      "strongholds",
+      "occupied",
+      "buccaneers"
+    ],
+    [
+      "strongholds",
+      "protects",
+      "naval patrols"
+    ],
+    [
+      "strongholds",
+      "supports",
+      "pirate life"
+    ],
+    [
+      "swashbuckling adventures",
+      "arises from",
+      "power vacuum"
+    ],
+    [
+      "swashbuckling adventures",
+      "challenges",
+      "established order"
+    ],
+    [
+      "swashbuckling adventures",
+      "depicted in",
+      "Golden Age"
+    ],
+    [
+      "swashbuckling adventures",
+      "depicts",
+      "raids"
+    ],
+    [
+      "swashbuckling adventures",
+      "described as",
+      "lawless"
+    ],
+    [
+      "swashbuckling adventures",
+      "impact on",
+      "community"
+    ],
+    [
+      "swashbuckling adventures",
+      "influences",
+      "crew treatment"
+    ],
+    [
+      "swashbuckling adventures",
+      "influences",
+      "maritime culture"
+    ],
+    [
+      "swashbuckling adventures",
+      "inspired",
+      "books"
+    ],
+    [
+      "swashbuckling adventures",
+      "inspired",
+      "movies"
+    ],
+    [
+      "swashbuckling adventures",
+      "inspired by",
+      "folklore"
+    ],
+    [
+      "swashbuckling adventures",
+      "inspired by",
+      "television shows"
+    ],
+    [
+      "swashbuckling adventures",
+      "involves",
+      "crew formation"
+    ],
+    [
+      "swashbuckling adventures",
+      "involves",
+      "treasure"
+    ],
+    [
+      "swashbuckling adventures",
+      "is characterized by",
+      "high seas"
+    ],
+    [
+      "swashbuckling adventures",
+      "is depicted in",
+      "maritime trade"
+    ],
+    [
+      "swashbuckling adventures",
+      "linked to",
+      "adventure"
+    ],
+    [
+      "swashbuckling adventures",
+      "represents",
+      "freedom"
+    ],
+    [
+      "swashbuckling adventures",
+      "represents",
+      "rebellion"
+    ],
+    [
+      "swashbuckling adventures",
+      "represents",
+      "rebels"
+    ],
+    [
+      "swashbuckling adventures",
+      "set in",
+      "Caribbean"
+    ],
+    [
+      "swashbuckling adventures",
+      "set in",
+      "ancient times"
+    ],
+    [
+      "swashbuckling adventures",
+      "symbolizes",
+      "defiance"
+    ],
+    [
+      "television shows",
+      "compared to",
+      "books"
+    ],
+    [
+      "television shows",
+      "depicted in",
+      "Caribbean"
+    ],
+    [
+      "television shows",
+      "depicted in",
+      "European ships"
+    ],
+    [
+      "television shows",
+      "depicted in",
+      "colonialism"
+    ],
+    [
+      "television shows",
+      "depicted in",
+      "common people"
+    ],
+    [
+      "television shows",
+      "depicted in",
+      "origins"
+    ],
+    [
+      "television shows",
+      "depicts",
+      "anti-piracy laws"
+    ],
+    [
+      "television shows",
+      "depicts",
+      "defiance"
+    ],
+    [
+      "television shows",
+      "depicts",
+      "treasure hunting"
+    ],
+    [
+      "television shows",
+      "featured in",
+      "legendary figures"
+    ],
+    [
+      "television shows",
+      "features",
+      "Barbary pirates"
+    ],
+    [
+      "television shows",
+      "illustrates",
+      "code of conduct"
+    ],
+    [
+      "television shows",
+      "is depicted in",
+      "maritime trade"
+    ],
+    [
+      "television shows",
+      "shapes",
+      "popular culture"
+    ],
+    [
+      "treasure",
+      "associated with",
+      "history"
+    ],
+    [
+      "treasure",
+      "associated with",
+      "strict code"
+    ],
+    [
+      "treasure",
+      "connected to",
+      "imperialism"
+    ],
+    [
+      "treasure",
+      "coveted by",
+      "Barbary pirates"
+    ],
+    [
+      "treasure",
+      "depicted in",
+      "books"
+    ],
+    [
+      "treasure",
+      "depicts",
+      "movies"
+    ],
+    [
+      "treasure",
+      "protects against",
+      "naval patrols"
+    ],
+    [
+      "treasure",
+      "sought after by",
+      "Blackbeard"
+    ],
+    [
+      "treasure",
+      "sought after by",
+      "Sea Peoples"
+    ],
+    [
+      "treasure",
+      "sought after for",
+      "origins"
+    ],
+    [
+      "treasure",
+      "sought by",
+      "Spanish Empire"
+    ],
+    [
+      "treasure",
+      "sought by",
+      "established order"
+    ],
+    [
+      "treasure",
+      "sought for",
+      "freedom"
+    ],
+    [
+      "treasure hunting",
+      "associated with",
+      "Mediterranean"
+    ],
+    [
+      "treasure hunting",
+      "challenges",
+      "established order"
+    ],
+    [
+      "treasure hunting",
+      "characterized by",
+      "pirate life"
+    ],
+    [
+      "treasure hunting",
+      "conducted by",
+      "Barbary pirates"
+    ],
+    [
+      "treasure hunting",
+      "determines",
+      "division of spoils"
+    ],
+    [
+      "treasure hunting",
+      "diminished by",
+      "decline"
+    ],
+    [
+      "treasure hunting",
+      "engages in",
+      "Sea Peoples"
+    ],
+    [
+      "treasure hunting",
+      "informs",
+      "folklore"
+    ],
+    [
+      "treasure hunting",
+      "is part of",
+      "history"
+    ],
+    [
+      "treasure hunting",
+      "represents",
+      "freedom"
+    ],
+    [
+      "treasure hunting",
+      "restricts",
+      "anti-piracy laws"
+    ]
+  ],
+  "edges": [
+    "admired by",
+    "affected",
+    "affected by",
+    "affects",
+    "appeals to",
+    "are a type of",
+    "arises from",
+    "associated with",
+    "attacked",
+    "attacked by",
+    "attacks",
+    "based on",
+    "benefits from",
+    "celebrated in",
+    "challenged",
+    "challenged by",
+    "challenges",
+    "championed by",
+    "characterized as",
+    "characterized by",
+    "characterizes",
+    "chronicled in",
+    "compared to",
+    "competes with",
+    "comprises",
+    "conducted",
+    "conducted by",
+    "conducts",
+    "connected to",
+    "connects",
+    "context for",
+    "contradicts",
+    "contrasted with",
+    "contrasts with",
+    "contributed to",
+    "contributes to",
+    "controlled by",
+    "coveted by",
+    "created by",
+    "creates",
+    "curbed by",
+    "dates back to",
+    "decided by",
+    "declined due to",
+    "defended by",
+    "defied",
+    "defied by",
+    "defies",
+    "defined by",
+    "defines",
+    "depicted as",
+    "depicted in",
+    "depicts",
+    "described as",
+    "described in",
+    "describes",
+    "determines",
+    "dictated by",
+    "diminished by",
+    "discussed in",
+    "disrupted",
+    "documented in",
+    "documents",
+    "dominates",
+    "drives",
+    "embodies",
+    "enables",
+    "encompasses",
+    "enforced by",
+    "enforces",
+    "engages in",
+    "ensured",
+    "ensures",
+    "established",
+    "established by",
+    "established in",
+    "establishes",
+    "experienced by",
+    "exploited",
+    "exploited by",
+    "exploits",
+    "explored in",
+    "facilitated",
+    "facilitated by",
+    "facilitates",
+    "featured in",
+    "features",
+    "fosters",
+    "fought against",
+    "fought against by",
+    "fueled",
+    "governed",
+    "governed by",
+    "governs",
+    "identified as",
+    "identifies as",
+    "illustrates",
+    "immortalized in",
+    "impact on",
+    "impacted by",
+    "impacts",
+    "includes",
+    "influenced",
+    "influenced by",
+    "influenced piracy",
+    "influences",
+    "informs",
+    "initiated by",
+    "initiates",
+    "inspired",
+    "inspired by",
+    "inspires",
+    "involved in",
+    "involves",
+    "is a part of",
+    "is a period of",
+    "is a theme in",
+    "is admired by",
+    "is associated with",
+    "is categorized as",
+    "is challenged by",
+    "is characterized by",
+    "is connected to",
+    "is depicted in",
+    "is featured in",
+    "is governed by",
+    "is impacted by",
+    "is influenced by",
+    "is located in",
+    "is opposed by",
+    "is part of",
+    "is reflected in",
+    "is represented as",
+    "is represented in",
+    "is resisted by",
+    "leads to",
+    "limited",
+    "linked to",
+    "located in",
+    "maintained by",
+    "maintains",
+    "monitored by",
+    "navigated by",
+    "nurtures",
+    "occupied",
+    "occurred during",
+    "occurs in",
+    "operated in",
+    "operates in",
+    "opposed",
+    "opposed by",
+    "opposes",
+    "oppressed by",
+    "oppresses",
+    "origin of",
+    "originated from",
+    "originates from",
+    "overthrown by",
+    "patrols",
+    "perceived as",
+    "perceived by",
+    "perpetrated by",
+    "popularized by",
+    "portrayed in",
+    "portrays",
+    "practiced by",
+    "preceded",
+    "preceded by",
+    "precedes",
+    "predecessors of",
+    "preyed upon by",
+    "promotes",
+    "protects",
+    "protects against",
+    "provided",
+    "provides",
+    "pursued by",
+    "raided by",
+    "reflected in",
+    "reflects",
+    "regulated",
+    "regulated by",
+    "regulates",
+    "represented in",
+    "represents",
+    "restricted",
+    "restricted by",
+    "restricts",
+    "resulted from",
+    "resulted in",
+    "results from",
+    "results in",
+    "rivaled",
+    "roots of",
+    "seeking",
+    "seeks",
+    "seen as",
+    "set in",
+    "shaped",
+    "shaped by",
+    "shapes",
+    "sought after",
+    "sought after by",
+    "sought after for",
+    "sought by",
+    "sought for",
+    "supported by",
+    "supports",
+    "sustained by",
+    "symbolizes",
+    "targeted",
+    "targeted by",
+    "targets",
+    "thrived during",
+    "traced back to",
+    "traced to",
+    "upheld by",
+    "upholds",
+    "viewed as",
+    "viewed by",
+    "views as",
+    "was targeted by"
+  ]
+}

@@ -1,0 +1,2673 @@
+{
+  "entities": [
+    "N1 Stage",
+    "N2 Stage",
+    "N3 Stage",
+    "REM sleep",
+    "adequate rest",
+    "biological process",
+    "body temperature",
+    "brain activity",
+    "cardiovascular disease",
+    "circadian rhythm",
+    "cognitive function",
+    "deep sleep",
+    "diabetes risk",
+    "dopamine role",
+    "dreaming",
+    "emotional processing",
+    "external influences",
+    "health",
+    "health factors",
+    "heart rate",
+    "immune function",
+    "internal clock",
+    "lifestyle changes",
+    "light exposure",
+    "light sleep",
+    "melatonin release",
+    "memory consolidation",
+    "mental health",
+    "metabolism",
+    "mood regulation",
+    "muscle paralysis",
+    "neurological mechanisms",
+    "neurotransmitter systems",
+    "noise impact",
+    "non-REM sleep",
+    "obesity risk",
+    "physiological mechanisms",
+    "quality of life",
+    "rest prioritization",
+    "serotonin role",
+    "sleep cycle",
+    "sleep deprivation",
+    "sleep disorders",
+    "sleep habits",
+    "sleep importance",
+    "sleep patterns",
+    "sleep quality",
+    "sleep regulation",
+    "sleep science",
+    "sleep stages",
+    "suprachiasmatic nucleus",
+    "temperature effects",
+    "well-being"
+  ],
+  "relations": [
+    [
+      "N1 Stage",
+      "is characterized by",
+      "light sleep"
+    ],
+    [
+      "N2 Stage",
+      "includes decrease in",
+      "body temperature"
+    ],
+    [
+      "N2 Stage",
+      "includes decrease in",
+      "heart rate"
+    ],
+    [
+      "N3 Stage",
+      "is characterized by",
+      "deep sleep"
+    ],
+    [
+      "REM sleep",
+      "is a stage of",
+      "sleep stages"
+    ],
+    [
+      "REM sleep",
+      "is associated with",
+      "adequate rest"
+    ],
+    [
+      "REM sleep",
+      "is compared to",
+      "deep sleep"
+    ],
+    [
+      "REM sleep",
+      "occurs during",
+      "heart rate"
+    ],
+    [
+      "REM sleep",
+      "occurs during",
+      "muscle paralysis"
+    ],
+    [
+      "REM sleep",
+      "supports",
+      "emotional processing"
+    ],
+    [
+      "adequate rest",
+      "influences",
+      "sleep cycle"
+    ],
+    [
+      "adequate rest",
+      "is a stage of",
+      "sleep stages"
+    ],
+    [
+      "adequate rest",
+      "is improved by",
+      "cognitive function"
+    ],
+    [
+      "adequate rest",
+      "is necessary for",
+      "biological process"
+    ],
+    [
+      "adequate rest",
+      "is necessary for",
+      "metabolism"
+    ],
+    [
+      "adequate rest",
+      "promotes",
+      "melatonin release"
+    ],
+    [
+      "adequate rest",
+      "promotes",
+      "rest prioritization"
+    ],
+    [
+      "adequate rest",
+      "regulated by",
+      "circadian rhythm"
+    ],
+    [
+      "adequate rest",
+      "requires",
+      "sleep disorders"
+    ],
+    [
+      "adequate rest",
+      "supports",
+      "health"
+    ],
+    [
+      "adequate rest",
+      "supports",
+      "memory consolidation"
+    ],
+    [
+      "biological process",
+      "affects",
+      "cardiovascular disease"
+    ],
+    [
+      "biological process",
+      "affects",
+      "metabolism"
+    ],
+    [
+      "biological process",
+      "contributes to",
+      "health"
+    ],
+    [
+      "biological process",
+      "increases",
+      "obesity risk"
+    ],
+    [
+      "biological process",
+      "influences",
+      "light exposure"
+    ],
+    [
+      "biological process",
+      "linked to",
+      "sleep deprivation"
+    ],
+    [
+      "biological process",
+      "supports",
+      "cognitive function"
+    ],
+    [
+      "biological process",
+      "supports",
+      "memory consolidation"
+    ],
+    [
+      "body temperature",
+      "affected by",
+      "cardiovascular disease"
+    ],
+    [
+      "body temperature",
+      "affects",
+      "adequate rest"
+    ],
+    [
+      "body temperature",
+      "affects",
+      "health factors"
+    ],
+    [
+      "body temperature",
+      "affects",
+      "non-REM sleep"
+    ],
+    [
+      "body temperature",
+      "affects",
+      "sleep regulation"
+    ],
+    [
+      "body temperature",
+      "influences",
+      "health"
+    ],
+    [
+      "body temperature",
+      "influences",
+      "immune function"
+    ],
+    [
+      "body temperature",
+      "influences",
+      "metabolism"
+    ],
+    [
+      "brain activity",
+      "affects",
+      "body temperature"
+    ],
+    [
+      "brain activity",
+      "affects",
+      "neurotransmitter systems"
+    ],
+    [
+      "brain activity",
+      "facilitates",
+      "dreaming"
+    ],
+    [
+      "brain activity",
+      "facilitates",
+      "memory consolidation"
+    ],
+    [
+      "brain activity",
+      "highlights",
+      "sleep importance"
+    ],
+    [
+      "brain activity",
+      "influences",
+      "deep sleep"
+    ],
+    [
+      "brain activity",
+      "influences",
+      "emotional processing"
+    ],
+    [
+      "brain activity",
+      "influences",
+      "sleep quality"
+    ],
+    [
+      "brain activity",
+      "involves",
+      "neurological mechanisms"
+    ],
+    [
+      "brain activity",
+      "is a characteristic of",
+      "light sleep"
+    ],
+    [
+      "brain activity",
+      "is characterized by",
+      "sleep stages"
+    ],
+    [
+      "brain activity",
+      "is influenced by",
+      "health factors"
+    ],
+    [
+      "cardiovascular disease",
+      "exacerbates",
+      "sleep deprivation"
+    ],
+    [
+      "cardiovascular disease",
+      "impacts",
+      "neurotransmitter systems"
+    ],
+    [
+      "cardiovascular disease",
+      "impacts",
+      "sleep regulation"
+    ],
+    [
+      "cardiovascular disease",
+      "increases",
+      "health factors"
+    ],
+    [
+      "cardiovascular disease",
+      "increases",
+      "temperature effects"
+    ],
+    [
+      "cardiovascular disease",
+      "increases risk of",
+      "obesity risk"
+    ],
+    [
+      "cardiovascular disease",
+      "influences",
+      "cognitive function"
+    ],
+    [
+      "cardiovascular disease",
+      "is influenced by",
+      "dopamine role"
+    ],
+    [
+      "cardiovascular disease",
+      "is influenced by",
+      "melatonin release"
+    ],
+    [
+      "circadian rhythm",
+      "affects",
+      "health"
+    ],
+    [
+      "circadian rhythm",
+      "affects",
+      "light exposure"
+    ],
+    [
+      "circadian rhythm",
+      "affects",
+      "temperature effects"
+    ],
+    [
+      "circadian rhythm",
+      "determines",
+      "sleep patterns"
+    ],
+    [
+      "circadian rhythm",
+      "increases risk of",
+      "obesity risk"
+    ],
+    [
+      "circadian rhythm",
+      "influences",
+      "health factors"
+    ],
+    [
+      "circadian rhythm",
+      "influences",
+      "neurological mechanisms"
+    ],
+    [
+      "circadian rhythm",
+      "influences",
+      "well-being"
+    ],
+    [
+      "circadian rhythm",
+      "is influenced by",
+      "diabetes risk"
+    ],
+    [
+      "circadian rhythm",
+      "is influenced by",
+      "dopamine role"
+    ],
+    [
+      "circadian rhythm",
+      "regulates",
+      "biological process"
+    ],
+    [
+      "circadian rhythm",
+      "regulates",
+      "body temperature"
+    ],
+    [
+      "circadian rhythm",
+      "regulates",
+      "heart rate"
+    ],
+    [
+      "circadian rhythm",
+      "regulates",
+      "neurotransmitter systems"
+    ],
+    [
+      "cognitive function",
+      "affects",
+      "body temperature"
+    ],
+    [
+      "cognitive function",
+      "enhances",
+      "dopamine role"
+    ],
+    [
+      "cognitive function",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "cognitive function",
+      "enhances",
+      "rest prioritization"
+    ],
+    [
+      "cognitive function",
+      "influences",
+      "sleep habits"
+    ],
+    [
+      "cognitive function",
+      "regulates",
+      "circadian rhythm"
+    ],
+    [
+      "deep sleep",
+      "affects",
+      "dopamine role"
+    ],
+    [
+      "deep sleep",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "deep sleep",
+      "exacerbates",
+      "sleep deprivation"
+    ],
+    [
+      "deep sleep",
+      "is a stage of",
+      "sleep stages"
+    ],
+    [
+      "deep sleep",
+      "is characterized by",
+      "body temperature"
+    ],
+    [
+      "deep sleep",
+      "promotes",
+      "adequate rest"
+    ],
+    [
+      "deep sleep",
+      "stimulates",
+      "melatonin release"
+    ],
+    [
+      "diabetes risk",
+      "increases",
+      "adequate rest"
+    ],
+    [
+      "diabetes risk",
+      "increases",
+      "mental health"
+    ],
+    [
+      "diabetes risk",
+      "increases",
+      "physiological mechanisms"
+    ],
+    [
+      "diabetes risk",
+      "increases",
+      "sleep deprivation"
+    ],
+    [
+      "diabetes risk",
+      "increases",
+      "sleep quality"
+    ],
+    [
+      "diabetes risk",
+      "increases",
+      "temperature effects"
+    ],
+    [
+      "diabetes risk",
+      "increases risk of",
+      "biological process"
+    ],
+    [
+      "diabetes risk",
+      "increases risk of",
+      "immune function"
+    ],
+    [
+      "diabetes risk",
+      "increases risk of",
+      "noise impact"
+    ],
+    [
+      "diabetes risk",
+      "increases risk of",
+      "sleep disorders"
+    ],
+    [
+      "diabetes risk",
+      "influences",
+      "mood regulation"
+    ],
+    [
+      "diabetes risk",
+      "influences",
+      "sleep habits"
+    ],
+    [
+      "diabetes risk",
+      "is linked to",
+      "sleep cycle"
+    ],
+    [
+      "diabetes risk",
+      "is linked to",
+      "sleep science"
+    ],
+    [
+      "dopamine role",
+      "contributes to",
+      "sleep science"
+    ],
+    [
+      "dopamine role",
+      "influenced by",
+      "sleep habits"
+    ],
+    [
+      "dopamine role",
+      "influences",
+      "brain activity"
+    ],
+    [
+      "dopamine role",
+      "influences",
+      "health"
+    ],
+    [
+      "dopamine role",
+      "influences",
+      "sleep quality"
+    ],
+    [
+      "dopamine role",
+      "influences",
+      "sleep stages"
+    ],
+    [
+      "dopamine role",
+      "influences",
+      "well-being"
+    ],
+    [
+      "dopamine role",
+      "influences importance of",
+      "sleep importance"
+    ],
+    [
+      "dopamine role",
+      "influences risk of",
+      "obesity risk"
+    ],
+    [
+      "dopamine role",
+      "is influenced by",
+      "biological process"
+    ],
+    [
+      "dopamine role",
+      "is influenced by",
+      "diabetes risk"
+    ],
+    [
+      "dopamine role",
+      "is influenced by",
+      "heart rate"
+    ],
+    [
+      "dopamine role",
+      "is influenced by",
+      "memory consolidation"
+    ],
+    [
+      "dopamine role",
+      "promotes",
+      "immune function"
+    ],
+    [
+      "dreaming",
+      "impacted by",
+      "light exposure"
+    ],
+    [
+      "dreaming",
+      "involves",
+      "sleep cycle"
+    ],
+    [
+      "dreaming",
+      "is associated with",
+      "light sleep"
+    ],
+    [
+      "dreaming",
+      "is characterized by",
+      "sleep stages"
+    ],
+    [
+      "dreaming",
+      "is related to",
+      "adequate rest"
+    ],
+    [
+      "dreaming",
+      "is related to",
+      "emotional processing"
+    ],
+    [
+      "dreaming",
+      "occurs during",
+      "non-REM sleep"
+    ],
+    [
+      "emotional processing",
+      "affects",
+      "noise impact"
+    ],
+    [
+      "emotional processing",
+      "is influenced by",
+      "dopamine role"
+    ],
+    [
+      "external influences",
+      "affected by",
+      "brain activity"
+    ],
+    [
+      "external influences",
+      "affected by",
+      "internal clock"
+    ],
+    [
+      "external influences",
+      "affects",
+      "body temperature"
+    ],
+    [
+      "external influences",
+      "impacts",
+      "serotonin role"
+    ],
+    [
+      "external influences",
+      "impacts",
+      "sleep cycle"
+    ],
+    [
+      "external influences",
+      "impacts",
+      "sleep patterns"
+    ],
+    [
+      "external influences",
+      "increases risk of",
+      "obesity risk"
+    ],
+    [
+      "external influences",
+      "influenced by",
+      "sleep quality"
+    ],
+    [
+      "external influences",
+      "influences importance of",
+      "sleep importance"
+    ],
+    [
+      "external influences",
+      "is affected by",
+      "metabolism"
+    ],
+    [
+      "external influences",
+      "is influenced by",
+      "mental health"
+    ],
+    [
+      "external influences",
+      "leads to",
+      "sleep deprivation"
+    ],
+    [
+      "health",
+      "affects",
+      "external influences"
+    ],
+    [
+      "health",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "health",
+      "influenced by",
+      "metabolism"
+    ],
+    [
+      "health factors",
+      "affects",
+      "metabolism"
+    ],
+    [
+      "health factors",
+      "increases",
+      "diabetes risk"
+    ],
+    [
+      "health factors",
+      "increases risk of",
+      "obesity risk"
+    ],
+    [
+      "health factors",
+      "influences",
+      "dopamine role"
+    ],
+    [
+      "health factors",
+      "influences",
+      "neurotransmitter systems"
+    ],
+    [
+      "health factors",
+      "influences",
+      "sleep cycle"
+    ],
+    [
+      "health factors",
+      "regulates",
+      "internal clock"
+    ],
+    [
+      "health factors",
+      "regulates",
+      "mood regulation"
+    ],
+    [
+      "heart rate",
+      "affected by",
+      "sleep regulation"
+    ],
+    [
+      "heart rate",
+      "affects",
+      "body temperature"
+    ],
+    [
+      "heart rate",
+      "affects",
+      "diabetes risk"
+    ],
+    [
+      "heart rate",
+      "affects",
+      "immune function"
+    ],
+    [
+      "heart rate",
+      "affects",
+      "neurotransmitter systems"
+    ],
+    [
+      "heart rate",
+      "affects",
+      "obesity risk"
+    ],
+    [
+      "heart rate",
+      "characterizes",
+      "sleep stages"
+    ],
+    [
+      "heart rate",
+      "determines",
+      "sleep cycle"
+    ],
+    [
+      "heart rate",
+      "impacted by",
+      "well-being"
+    ],
+    [
+      "heart rate",
+      "increases risk of",
+      "cardiovascular disease"
+    ],
+    [
+      "heart rate",
+      "influences",
+      "brain activity"
+    ],
+    [
+      "heart rate",
+      "influences",
+      "sleep quality"
+    ],
+    [
+      "heart rate",
+      "is affected by",
+      "temperature effects"
+    ],
+    [
+      "immune function",
+      "affects",
+      "mental health"
+    ],
+    [
+      "immune function",
+      "affects",
+      "mood regulation"
+    ],
+    [
+      "immune function",
+      "enhances",
+      "dreaming"
+    ],
+    [
+      "immune function",
+      "impacts",
+      "sleep disorders"
+    ],
+    [
+      "immune function",
+      "impacts",
+      "temperature effects"
+    ],
+    [
+      "immune function",
+      "influences",
+      "cardiovascular disease"
+    ],
+    [
+      "immune function",
+      "influences",
+      "external influences"
+    ],
+    [
+      "immune function",
+      "influences",
+      "serotonin role"
+    ],
+    [
+      "immune function",
+      "is enhanced by",
+      "rest prioritization"
+    ],
+    [
+      "immune function",
+      "promotes",
+      "adequate rest"
+    ],
+    [
+      "immune function",
+      "supports",
+      "brain activity"
+    ],
+    [
+      "immune function",
+      "supports",
+      "cognitive function"
+    ],
+    [
+      "immune function",
+      "supports",
+      "health"
+    ],
+    [
+      "immune function",
+      "supports",
+      "health factors"
+    ],
+    [
+      "immune function",
+      "supports",
+      "memory consolidation"
+    ],
+    [
+      "immune function",
+      "supports",
+      "neurological mechanisms"
+    ],
+    [
+      "internal clock",
+      "affects",
+      "health"
+    ],
+    [
+      "internal clock",
+      "affects",
+      "mental health"
+    ],
+    [
+      "internal clock",
+      "affects",
+      "neurotransmitter systems"
+    ],
+    [
+      "internal clock",
+      "enhances",
+      "memory consolidation"
+    ],
+    [
+      "internal clock",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "internal clock",
+      "influences",
+      "REM sleep"
+    ],
+    [
+      "internal clock",
+      "is influenced by",
+      "adequate rest"
+    ],
+    [
+      "internal clock",
+      "is regulated by",
+      "mood regulation"
+    ],
+    [
+      "internal clock",
+      "regulated by",
+      "sleep disorders"
+    ],
+    [
+      "internal clock",
+      "regulates",
+      "sleep stages"
+    ],
+    [
+      "internal clock",
+      "regulates",
+      "temperature effects"
+    ],
+    [
+      "lifestyle changes",
+      "affected by",
+      "brain activity"
+    ],
+    [
+      "lifestyle changes",
+      "affects",
+      "emotional processing"
+    ],
+    [
+      "lifestyle changes",
+      "affects",
+      "light sleep"
+    ],
+    [
+      "lifestyle changes",
+      "affects",
+      "sleep habits"
+    ],
+    [
+      "lifestyle changes",
+      "affects",
+      "sleep stages"
+    ],
+    [
+      "lifestyle changes",
+      "contributes to",
+      "sleep deprivation"
+    ],
+    [
+      "lifestyle changes",
+      "improved by",
+      "cognitive function"
+    ],
+    [
+      "lifestyle changes",
+      "improves",
+      "health"
+    ],
+    [
+      "lifestyle changes",
+      "improves",
+      "mental health"
+    ],
+    [
+      "lifestyle changes",
+      "increases",
+      "obesity risk"
+    ],
+    [
+      "lifestyle changes",
+      "influences",
+      "REM sleep"
+    ],
+    [
+      "lifestyle changes",
+      "influences",
+      "dreaming"
+    ],
+    [
+      "lifestyle changes",
+      "influences",
+      "serotonin role"
+    ],
+    [
+      "lifestyle changes",
+      "influences",
+      "sleep cycle"
+    ],
+    [
+      "light exposure",
+      "affects",
+      "body temperature"
+    ],
+    [
+      "light exposure",
+      "affects",
+      "mental health"
+    ],
+    [
+      "light exposure",
+      "affects",
+      "mood regulation"
+    ],
+    [
+      "light exposure",
+      "affects",
+      "sleep stages"
+    ],
+    [
+      "light exposure",
+      "contributes to",
+      "sleep deprivation"
+    ],
+    [
+      "light exposure",
+      "disrupts",
+      "neurotransmitter systems"
+    ],
+    [
+      "light exposure",
+      "impacts",
+      "brain activity"
+    ],
+    [
+      "light exposure",
+      "impacts",
+      "cognitive function"
+    ],
+    [
+      "light exposure",
+      "impacts",
+      "sleep quality"
+    ],
+    [
+      "light exposure",
+      "is affected by",
+      "adequate rest"
+    ],
+    [
+      "light exposure",
+      "is affected by",
+      "health factors"
+    ],
+    [
+      "light exposure",
+      "is affected by",
+      "light sleep"
+    ],
+    [
+      "light sleep",
+      "affects",
+      "body temperature"
+    ],
+    [
+      "light sleep",
+      "influenced by",
+      "diabetes risk"
+    ],
+    [
+      "light sleep",
+      "influences",
+      "metabolism"
+    ],
+    [
+      "light sleep",
+      "influences",
+      "physiological mechanisms"
+    ],
+    [
+      "light sleep",
+      "influences",
+      "sleep patterns"
+    ],
+    [
+      "light sleep",
+      "is affected by",
+      "sleep deprivation"
+    ],
+    [
+      "light sleep",
+      "is associated with",
+      "muscle paralysis"
+    ],
+    [
+      "light sleep",
+      "supports",
+      "memory consolidation"
+    ],
+    [
+      "melatonin release",
+      "affected by",
+      "external influences"
+    ],
+    [
+      "melatonin release",
+      "affects",
+      "health"
+    ],
+    [
+      "melatonin release",
+      "affects",
+      "mental health"
+    ],
+    [
+      "melatonin release",
+      "facilitates",
+      "dreaming"
+    ],
+    [
+      "melatonin release",
+      "influences",
+      "dopamine role"
+    ],
+    [
+      "melatonin release",
+      "influences",
+      "immune function"
+    ],
+    [
+      "melatonin release",
+      "influences",
+      "sleep cycle"
+    ],
+    [
+      "melatonin release",
+      "is affected by",
+      "sleep deprivation"
+    ],
+    [
+      "melatonin release",
+      "is associated with",
+      "sleep stages"
+    ],
+    [
+      "melatonin release",
+      "is influenced by",
+      "muscle paralysis"
+    ],
+    [
+      "melatonin release",
+      "is influenced by",
+      "well-being"
+    ],
+    [
+      "melatonin release",
+      "is regulated by",
+      "internal clock"
+    ],
+    [
+      "melatonin release",
+      "is stimulated by",
+      "metabolism"
+    ],
+    [
+      "melatonin release",
+      "promotes",
+      "sleep habits"
+    ],
+    [
+      "melatonin release",
+      "regulated by",
+      "brain activity"
+    ],
+    [
+      "melatonin release",
+      "regulated by",
+      "cognitive function"
+    ],
+    [
+      "melatonin release",
+      "supports",
+      "serotonin role"
+    ],
+    [
+      "memory consolidation",
+      "enhances",
+      "cognitive function"
+    ],
+    [
+      "memory consolidation",
+      "facilitates",
+      "REM sleep"
+    ],
+    [
+      "memory consolidation",
+      "facilitates",
+      "light exposure"
+    ],
+    [
+      "memory consolidation",
+      "facilitates",
+      "sleep stages"
+    ],
+    [
+      "memory consolidation",
+      "influences",
+      "neurotransmitter systems"
+    ],
+    [
+      "memory consolidation",
+      "influences",
+      "sleep patterns"
+    ],
+    [
+      "mental health",
+      "affects",
+      "sleep cycle"
+    ],
+    [
+      "mental health",
+      "impacts",
+      "sleep patterns"
+    ],
+    [
+      "mental health",
+      "informed by",
+      "sleep science"
+    ],
+    [
+      "mental health",
+      "is associated with",
+      "obesity risk"
+    ],
+    [
+      "metabolism",
+      "affects",
+      "deep sleep"
+    ],
+    [
+      "metabolism",
+      "affects",
+      "sleep importance"
+    ],
+    [
+      "metabolism",
+      "affects",
+      "sleep quality"
+    ],
+    [
+      "metabolism",
+      "affects",
+      "well-being"
+    ],
+    [
+      "metabolism",
+      "influences",
+      "lifestyle changes"
+    ],
+    [
+      "metabolism",
+      "influences",
+      "sleep habits"
+    ],
+    [
+      "metabolism",
+      "influences",
+      "sleep patterns"
+    ],
+    [
+      "metabolism",
+      "is studied in",
+      "sleep science"
+    ],
+    [
+      "metabolism",
+      "linked to",
+      "mental health"
+    ],
+    [
+      "metabolism",
+      "regulates",
+      "circadian rhythm"
+    ],
+    [
+      "metabolism",
+      "supports",
+      "health"
+    ],
+    [
+      "mood regulation",
+      "affects",
+      "brain activity"
+    ],
+    [
+      "mood regulation",
+      "affects",
+      "metabolism"
+    ],
+    [
+      "mood regulation",
+      "affects",
+      "sleep cycle"
+    ],
+    [
+      "mood regulation",
+      "affects",
+      "sleep habits"
+    ],
+    [
+      "mood regulation",
+      "impacts",
+      "sleep disorders"
+    ],
+    [
+      "mood regulation",
+      "is influenced by",
+      "sleep importance"
+    ],
+    [
+      "mood regulation",
+      "promotes",
+      "lifestyle changes"
+    ],
+    [
+      "mood regulation",
+      "regulated by",
+      "sleep quality"
+    ],
+    [
+      "mood regulation",
+      "regulates",
+      "body temperature"
+    ],
+    [
+      "mood regulation",
+      "regulates",
+      "heart rate"
+    ],
+    [
+      "muscle paralysis",
+      "affects",
+      "sleep cycle"
+    ],
+    [
+      "muscle paralysis",
+      "enables",
+      "dreaming"
+    ],
+    [
+      "muscle paralysis",
+      "exacerbates",
+      "sleep deprivation"
+    ],
+    [
+      "muscle paralysis",
+      "facilitates",
+      "emotional processing"
+    ],
+    [
+      "muscle paralysis",
+      "influences",
+      "lifestyle changes"
+    ],
+    [
+      "muscle paralysis",
+      "regulated by",
+      "neurotransmitter systems"
+    ],
+    [
+      "muscle paralysis",
+      "supports",
+      "memory consolidation"
+    ],
+    [
+      "neurological mechanisms",
+      "affects",
+      "metabolism"
+    ],
+    [
+      "neurological mechanisms",
+      "associated with",
+      "cardiovascular disease"
+    ],
+    [
+      "neurological mechanisms",
+      "enhances",
+      "cognitive function"
+    ],
+    [
+      "neurological mechanisms",
+      "influenced by",
+      "sleep quality"
+    ],
+    [
+      "neurological mechanisms",
+      "influences",
+      "light exposure"
+    ],
+    [
+      "neurological mechanisms",
+      "influences",
+      "sleep patterns"
+    ],
+    [
+      "neurological mechanisms",
+      "is influenced by",
+      "adequate rest"
+    ],
+    [
+      "neurological mechanisms",
+      "regulates",
+      "body temperature"
+    ],
+    [
+      "neurological mechanisms",
+      "regulates",
+      "internal clock"
+    ],
+    [
+      "neurological mechanisms",
+      "regulates",
+      "mood regulation"
+    ],
+    [
+      "neurological mechanisms",
+      "underpins",
+      "sleep importance"
+    ],
+    [
+      "neurotransmitter systems",
+      "affects",
+      "sleep stages"
+    ],
+    [
+      "neurotransmitter systems",
+      "influenced by",
+      "sleep quality"
+    ],
+    [
+      "neurotransmitter systems",
+      "influences",
+      "dopamine role"
+    ],
+    [
+      "neurotransmitter systems",
+      "is affected by",
+      "light sleep"
+    ],
+    [
+      "neurotransmitter systems",
+      "is influenced by",
+      "adequate rest"
+    ],
+    [
+      "neurotransmitter systems",
+      "is influenced by",
+      "deep sleep"
+    ],
+    [
+      "neurotransmitter systems",
+      "is influenced by",
+      "diabetes risk"
+    ],
+    [
+      "neurotransmitter systems",
+      "is part of",
+      "serotonin role"
+    ],
+    [
+      "neurotransmitter systems",
+      "regulated by",
+      "non-REM sleep"
+    ],
+    [
+      "noise impact",
+      "affects",
+      "body temperature"
+    ],
+    [
+      "noise impact",
+      "affects",
+      "circadian rhythm"
+    ],
+    [
+      "noise impact",
+      "affects",
+      "internal clock"
+    ],
+    [
+      "noise impact",
+      "affects",
+      "light sleep"
+    ],
+    [
+      "noise impact",
+      "affects",
+      "metabolism"
+    ],
+    [
+      "noise impact",
+      "affects",
+      "sleep stages"
+    ],
+    [
+      "noise impact",
+      "impacts",
+      "biological process"
+    ],
+    [
+      "noise impact",
+      "impacts",
+      "cardiovascular disease"
+    ],
+    [
+      "noise impact",
+      "impacts",
+      "muscle paralysis"
+    ],
+    [
+      "noise impact",
+      "impacts",
+      "sleep regulation"
+    ],
+    [
+      "noise impact",
+      "influences",
+      "serotonin role"
+    ],
+    [
+      "noise impact",
+      "inhibits",
+      "melatonin release"
+    ],
+    [
+      "noise impact",
+      "is influenced by",
+      "sleep disorders"
+    ],
+    [
+      "non-REM sleep",
+      "affects",
+      "heart rate"
+    ],
+    [
+      "non-REM sleep",
+      "affects",
+      "sleep patterns"
+    ],
+    [
+      "non-REM sleep",
+      "comprises",
+      "sleep cycle"
+    ],
+    [
+      "non-REM sleep",
+      "comprises",
+      "sleep stages"
+    ],
+    [
+      "non-REM sleep",
+      "enhances",
+      "cognitive function"
+    ],
+    [
+      "non-REM sleep",
+      "enhances",
+      "memory consolidation"
+    ],
+    [
+      "non-REM sleep",
+      "follows",
+      "REM sleep"
+    ],
+    [
+      "non-REM sleep",
+      "includes",
+      "N1 Stage"
+    ],
+    [
+      "non-REM sleep",
+      "includes",
+      "N2 Stage"
+    ],
+    [
+      "non-REM sleep",
+      "includes",
+      "N3 Stage"
+    ],
+    [
+      "non-REM sleep",
+      "influences",
+      "brain activity"
+    ],
+    [
+      "non-REM sleep",
+      "influences",
+      "dopamine role"
+    ],
+    [
+      "non-REM sleep",
+      "influences",
+      "emotional processing"
+    ],
+    [
+      "non-REM sleep",
+      "influences",
+      "sleep regulation"
+    ],
+    [
+      "non-REM sleep",
+      "involves",
+      "neurological mechanisms"
+    ],
+    [
+      "non-REM sleep",
+      "is a type of",
+      "biological process"
+    ],
+    [
+      "non-REM sleep",
+      "is influenced by",
+      "physiological mechanisms"
+    ],
+    [
+      "non-REM sleep",
+      "promotes",
+      "melatonin release"
+    ],
+    [
+      "obesity risk",
+      "affects",
+      "sleep patterns"
+    ],
+    [
+      "obesity risk",
+      "increases",
+      "mood regulation"
+    ],
+    [
+      "obesity risk",
+      "increases",
+      "temperature effects"
+    ],
+    [
+      "obesity risk",
+      "increases risk of",
+      "diabetes risk"
+    ],
+    [
+      "obesity risk",
+      "increases risk of",
+      "metabolism"
+    ],
+    [
+      "obesity risk",
+      "increases risk of",
+      "physiological mechanisms"
+    ],
+    [
+      "obesity risk",
+      "increases risk of",
+      "serotonin role"
+    ],
+    [
+      "obesity risk",
+      "is affected by",
+      "well-being"
+    ],
+    [
+      "obesity risk",
+      "is associated with",
+      "melatonin release"
+    ],
+    [
+      "obesity risk",
+      "is influenced by",
+      "body temperature"
+    ],
+    [
+      "obesity risk",
+      "is influenced by",
+      "neurotransmitter systems"
+    ],
+    [
+      "obesity risk",
+      "is linked to",
+      "brain activity"
+    ],
+    [
+      "obesity risk",
+      "is linked to",
+      "sleep science"
+    ],
+    [
+      "physiological mechanisms",
+      "affected by",
+      "quality of life"
+    ],
+    [
+      "physiological mechanisms",
+      "affects",
+      "mental health"
+    ],
+    [
+      "physiological mechanisms",
+      "affects",
+      "sleep habits"
+    ],
+    [
+      "physiological mechanisms",
+      "exacerbates",
+      "sleep deprivation"
+    ],
+    [
+      "physiological mechanisms",
+      "influences",
+      "dopamine role"
+    ],
+    [
+      "physiological mechanisms",
+      "influences",
+      "sleep quality"
+    ],
+    [
+      "physiological mechanisms",
+      "is affected by",
+      "sleep disorders"
+    ],
+    [
+      "physiological mechanisms",
+      "is linked to",
+      "sleep importance"
+    ],
+    [
+      "physiological mechanisms",
+      "regulated by",
+      "metabolism"
+    ],
+    [
+      "physiological mechanisms",
+      "regulates",
+      "body temperature"
+    ],
+    [
+      "quality of life",
+      "enhanced by",
+      "metabolism"
+    ],
+    [
+      "quality of life",
+      "enhances",
+      "REM sleep"
+    ],
+    [
+      "quality of life",
+      "enhances",
+      "dreaming"
+    ],
+    [
+      "quality of life",
+      "enhances",
+      "sleep habits"
+    ],
+    [
+      "quality of life",
+      "increases",
+      "diabetes risk"
+    ],
+    [
+      "quality of life",
+      "is influenced by",
+      "sleep patterns"
+    ],
+    [
+      "rest prioritization",
+      "affects",
+      "noise impact"
+    ],
+    [
+      "rest prioritization",
+      "enhances",
+      "dreaming"
+    ],
+    [
+      "rest prioritization",
+      "enhances",
+      "memory consolidation"
+    ],
+    [
+      "rest prioritization",
+      "influences",
+      "body temperature"
+    ],
+    [
+      "rest prioritization",
+      "influences",
+      "heart rate"
+    ],
+    [
+      "rest prioritization",
+      "influences",
+      "internal clock"
+    ],
+    [
+      "rest prioritization",
+      "is affected by",
+      "sleep deprivation"
+    ],
+    [
+      "rest prioritization",
+      "is prioritized by",
+      "light sleep"
+    ],
+    [
+      "rest prioritization",
+      "prioritized by",
+      "cognitive function"
+    ],
+    [
+      "rest prioritization",
+      "requires",
+      "lifestyle changes"
+    ],
+    [
+      "serotonin role",
+      "affects",
+      "mental health"
+    ],
+    [
+      "serotonin role",
+      "exacerbates",
+      "sleep deprivation"
+    ],
+    [
+      "serotonin role",
+      "increases",
+      "diabetes risk"
+    ],
+    [
+      "serotonin role",
+      "influences",
+      "body temperature"
+    ],
+    [
+      "serotonin role",
+      "influences",
+      "sleep cycle"
+    ],
+    [
+      "serotonin role",
+      "influences",
+      "sleep habits"
+    ],
+    [
+      "serotonin role",
+      "is influenced by",
+      "cognitive function"
+    ],
+    [
+      "serotonin role",
+      "is influenced by",
+      "metabolism"
+    ],
+    [
+      "serotonin role",
+      "is influenced by",
+      "quality of life"
+    ],
+    [
+      "sleep cycle",
+      "affects",
+      "health"
+    ],
+    [
+      "sleep cycle",
+      "affects",
+      "sleep habits"
+    ],
+    [
+      "sleep cycle",
+      "comprises",
+      "sleep patterns"
+    ],
+    [
+      "sleep cycle",
+      "influences",
+      "brain activity"
+    ],
+    [
+      "sleep cycle",
+      "influences",
+      "cardiovascular disease"
+    ],
+    [
+      "sleep cycle",
+      "influences",
+      "cognitive function"
+    ],
+    [
+      "sleep cycle",
+      "influences",
+      "neurological mechanisms"
+    ],
+    [
+      "sleep cycle",
+      "is influenced by",
+      "sleep importance"
+    ],
+    [
+      "sleep cycle",
+      "is prioritized by",
+      "rest prioritization"
+    ],
+    [
+      "sleep cycle",
+      "is related to",
+      "light sleep"
+    ],
+    [
+      "sleep cycle",
+      "is related to",
+      "sleep science"
+    ],
+    [
+      "sleep deprivation",
+      "affects",
+      "body temperature"
+    ],
+    [
+      "sleep deprivation",
+      "affects",
+      "dopamine role"
+    ],
+    [
+      "sleep deprivation",
+      "causes",
+      "sleep habits"
+    ],
+    [
+      "sleep deprivation",
+      "causes",
+      "sleep patterns"
+    ],
+    [
+      "sleep deprivation",
+      "causes",
+      "well-being"
+    ],
+    [
+      "sleep deprivation",
+      "disrupts",
+      "internal clock"
+    ],
+    [
+      "sleep deprivation",
+      "exacerbates",
+      "dreaming"
+    ],
+    [
+      "sleep deprivation",
+      "hinders",
+      "memory consolidation"
+    ],
+    [
+      "sleep deprivation",
+      "impacted by",
+      "brain activity"
+    ],
+    [
+      "sleep deprivation",
+      "impacted by",
+      "metabolism"
+    ],
+    [
+      "sleep deprivation",
+      "impacts",
+      "cognitive function"
+    ],
+    [
+      "sleep deprivation",
+      "impacts",
+      "health"
+    ],
+    [
+      "sleep deprivation",
+      "impacts",
+      "immune function"
+    ],
+    [
+      "sleep deprivation",
+      "impacts",
+      "mental health"
+    ],
+    [
+      "sleep deprivation",
+      "impacts",
+      "sleep quality"
+    ],
+    [
+      "sleep deprivation",
+      "influences",
+      "sleep cycle"
+    ],
+    [
+      "sleep disorders",
+      "affects",
+      "circadian rhythm"
+    ],
+    [
+      "sleep disorders",
+      "associated with",
+      "body temperature"
+    ],
+    [
+      "sleep disorders",
+      "causes",
+      "sleep cycle"
+    ],
+    [
+      "sleep disorders",
+      "contributes to",
+      "neurological mechanisms"
+    ],
+    [
+      "sleep disorders",
+      "exacerbates",
+      "light sleep"
+    ],
+    [
+      "sleep disorders",
+      "exacerbates",
+      "well-being"
+    ],
+    [
+      "sleep disorders",
+      "impacted by",
+      "heart rate"
+    ],
+    [
+      "sleep disorders",
+      "increases",
+      "obesity risk"
+    ],
+    [
+      "sleep disorders",
+      "influenced by",
+      "light exposure"
+    ],
+    [
+      "sleep disorders",
+      "influences",
+      "health factors"
+    ],
+    [
+      "sleep disorders",
+      "influences",
+      "lifestyle changes"
+    ],
+    [
+      "sleep disorders",
+      "influences",
+      "sleep habits"
+    ],
+    [
+      "sleep disorders",
+      "is critical for",
+      "sleep importance"
+    ],
+    [
+      "sleep habits",
+      "affected by",
+      "deep sleep"
+    ],
+    [
+      "sleep habits",
+      "affected by",
+      "heart rate"
+    ],
+    [
+      "sleep habits",
+      "affected by",
+      "sleep regulation"
+    ],
+    [
+      "sleep habits",
+      "affects",
+      "mental health"
+    ],
+    [
+      "sleep habits",
+      "enhances",
+      "emotional processing"
+    ],
+    [
+      "sleep habits",
+      "enhances",
+      "memory consolidation"
+    ],
+    [
+      "sleep habits",
+      "improves",
+      "immune function"
+    ],
+    [
+      "sleep habits",
+      "influences",
+      "health factors"
+    ],
+    [
+      "sleep habits",
+      "influences",
+      "noise impact"
+    ],
+    [
+      "sleep habits",
+      "influences",
+      "sleep patterns"
+    ],
+    [
+      "sleep habits",
+      "influences",
+      "sleep quality"
+    ],
+    [
+      "sleep habits",
+      "modulates",
+      "dopamine role"
+    ],
+    [
+      "sleep importance",
+      "affects",
+      "body temperature"
+    ],
+    [
+      "sleep importance",
+      "affects",
+      "circadian rhythm"
+    ],
+    [
+      "sleep importance",
+      "affects",
+      "neurotransmitter systems"
+    ],
+    [
+      "sleep importance",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "sleep importance",
+      "highlights",
+      "cardiovascular disease"
+    ],
+    [
+      "sleep importance",
+      "highlights",
+      "sleep stages"
+    ],
+    [
+      "sleep importance",
+      "informs",
+      "sleep patterns"
+    ],
+    [
+      "sleep importance",
+      "informs",
+      "sleep science"
+    ],
+    [
+      "sleep importance",
+      "is linked to",
+      "diabetes risk"
+    ],
+    [
+      "sleep importance",
+      "is linked to",
+      "health factors"
+    ],
+    [
+      "sleep importance",
+      "is linked to",
+      "heart rate"
+    ],
+    [
+      "sleep importance",
+      "is prioritized by",
+      "rest prioritization"
+    ],
+    [
+      "sleep importance",
+      "promotes",
+      "melatonin release"
+    ],
+    [
+      "sleep importance",
+      "supports",
+      "immune function"
+    ],
+    [
+      "sleep patterns",
+      "affects",
+      "noise impact"
+    ],
+    [
+      "sleep patterns",
+      "comprises",
+      "sleep stages"
+    ],
+    [
+      "sleep patterns",
+      "influences",
+      "health"
+    ],
+    [
+      "sleep patterns",
+      "influences",
+      "immune function"
+    ],
+    [
+      "sleep patterns",
+      "is influenced by",
+      "dopamine role"
+    ],
+    [
+      "sleep patterns",
+      "is influenced by",
+      "heart rate"
+    ],
+    [
+      "sleep patterns",
+      "is related to",
+      "health factors"
+    ],
+    [
+      "sleep patterns",
+      "regulates",
+      "body temperature"
+    ],
+    [
+      "sleep quality",
+      "affects",
+      "cognitive function"
+    ],
+    [
+      "sleep quality",
+      "affects",
+      "health factors"
+    ],
+    [
+      "sleep quality",
+      "affects",
+      "mood regulation"
+    ],
+    [
+      "sleep quality",
+      "causes",
+      "sleep disorders"
+    ],
+    [
+      "sleep quality",
+      "influences",
+      "circadian rhythm"
+    ],
+    [
+      "sleep quality",
+      "influences",
+      "sleep patterns"
+    ],
+    [
+      "sleep quality",
+      "informs",
+      "sleep science"
+    ],
+    [
+      "sleep quality",
+      "is influenced by",
+      "rest prioritization"
+    ],
+    [
+      "sleep quality",
+      "is influenced by",
+      "serotonin role"
+    ],
+    [
+      "sleep quality",
+      "promotes",
+      "melatonin release"
+    ],
+    [
+      "sleep quality",
+      "supports",
+      "immune function"
+    ],
+    [
+      "sleep regulation",
+      "affects",
+      "dreaming"
+    ],
+    [
+      "sleep regulation",
+      "affects",
+      "mental health"
+    ],
+    [
+      "sleep regulation",
+      "affects",
+      "sleep quality"
+    ],
+    [
+      "sleep regulation",
+      "controls",
+      "circadian rhythm"
+    ],
+    [
+      "sleep regulation",
+      "determines",
+      "sleep cycle"
+    ],
+    [
+      "sleep regulation",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "sleep regulation",
+      "increases",
+      "diabetes risk"
+    ],
+    [
+      "sleep regulation",
+      "influences",
+      "emotional processing"
+    ],
+    [
+      "sleep regulation",
+      "influences",
+      "lifestyle changes"
+    ],
+    [
+      "sleep regulation",
+      "influences",
+      "sleep habits"
+    ],
+    [
+      "sleep regulation",
+      "influences",
+      "sleep patterns"
+    ],
+    [
+      "sleep regulation",
+      "involves",
+      "physiological mechanisms"
+    ],
+    [
+      "sleep regulation",
+      "is influenced by",
+      "sleep deprivation"
+    ],
+    [
+      "sleep regulation",
+      "is linked to",
+      "obesity risk"
+    ],
+    [
+      "sleep regulation",
+      "promotes",
+      "adequate rest"
+    ],
+    [
+      "sleep regulation",
+      "regulates",
+      "heart rate"
+    ],
+    [
+      "sleep regulation",
+      "regulates",
+      "internal clock"
+    ],
+    [
+      "sleep regulation",
+      "supports",
+      "immune function"
+    ],
+    [
+      "sleep regulation",
+      "supports",
+      "memory consolidation"
+    ],
+    [
+      "sleep science",
+      "impacts",
+      "mental health"
+    ],
+    [
+      "sleep science",
+      "influences",
+      "emotional processing"
+    ],
+    [
+      "sleep science",
+      "informs",
+      "sleep habits"
+    ],
+    [
+      "sleep science",
+      "involves",
+      "dreaming"
+    ],
+    [
+      "sleep science",
+      "is influenced by",
+      "lifestyle changes"
+    ],
+    [
+      "sleep science",
+      "is related to",
+      "REM sleep"
+    ],
+    [
+      "sleep science",
+      "is studied in",
+      "cardiovascular disease"
+    ],
+    [
+      "sleep science",
+      "is studied in",
+      "health factors"
+    ],
+    [
+      "sleep stages",
+      "constituted by",
+      "sleep patterns"
+    ],
+    [
+      "sleep stages",
+      "enhanced by",
+      "immune function"
+    ],
+    [
+      "sleep stages",
+      "influences",
+      "sleep quality"
+    ],
+    [
+      "sleep stages",
+      "is characterized by",
+      "body temperature"
+    ],
+    [
+      "sleep stages",
+      "is composed of",
+      "sleep cycle"
+    ],
+    [
+      "sleep stages",
+      "is influenced by",
+      "metabolism"
+    ],
+    [
+      "sleep stages",
+      "is part of",
+      "biological process"
+    ],
+    [
+      "suprachiasmatic nucleus",
+      "regulates",
+      "melatonin release"
+    ],
+    [
+      "temperature effects",
+      "affects",
+      "mood regulation"
+    ],
+    [
+      "temperature effects",
+      "affects",
+      "muscle paralysis"
+    ],
+    [
+      "temperature effects",
+      "affects",
+      "neurotransmitter systems"
+    ],
+    [
+      "temperature effects",
+      "affects",
+      "sleep habits"
+    ],
+    [
+      "temperature effects",
+      "contributes to",
+      "sleep disorders"
+    ],
+    [
+      "temperature effects",
+      "influences",
+      "metabolism"
+    ],
+    [
+      "temperature effects",
+      "is influenced by",
+      "dopamine role"
+    ],
+    [
+      "well-being",
+      "affects",
+      "mental health"
+    ],
+    [
+      "well-being",
+      "affects",
+      "mood regulation"
+    ],
+    [
+      "well-being",
+      "enhanced by",
+      "brain activity"
+    ],
+    [
+      "well-being",
+      "enhances",
+      "adequate rest"
+    ],
+    [
+      "well-being",
+      "impacts",
+      "light exposure"
+    ],
+    [
+      "well-being",
+      "improves",
+      "sleep habits"
+    ],
+    [
+      "well-being",
+      "is affected by",
+      "noise impact"
+    ],
+    [
+      "well-being",
+      "is influenced by",
+      "physiological mechanisms"
+    ],
+    [
+      "well-being",
+      "supports",
+      "immune function"
+    ]
+  ],
+  "edges": [
+    "affected by",
+    "affects",
+    "associated with",
+    "causes",
+    "characterizes",
+    "comprises",
+    "constituted by",
+    "contributes to",
+    "controls",
+    "determines",
+    "disrupts",
+    "enables",
+    "enhanced by",
+    "enhances",
+    "exacerbates",
+    "facilitates",
+    "follows",
+    "highlights",
+    "hinders",
+    "impacted by",
+    "impacts",
+    "improved by",
+    "improves",
+    "includes",
+    "includes decrease in",
+    "increases",
+    "increases risk of",
+    "influenced by",
+    "influences",
+    "influences importance of",
+    "influences risk of",
+    "informed by",
+    "informs",
+    "inhibits",
+    "involves",
+    "is a characteristic of",
+    "is a stage of",
+    "is a type of",
+    "is affected by",
+    "is associated with",
+    "is characterized by",
+    "is compared to",
+    "is composed of",
+    "is critical for",
+    "is enhanced by",
+    "is improved by",
+    "is influenced by",
+    "is linked to",
+    "is necessary for",
+    "is part of",
+    "is prioritized by",
+    "is regulated by",
+    "is related to",
+    "is stimulated by",
+    "is studied in",
+    "leads to",
+    "linked to",
+    "modulates",
+    "occurs during",
+    "prioritized by",
+    "promotes",
+    "regulated by",
+    "regulates",
+    "requires",
+    "stimulates",
+    "supports",
+    "underpins"
+  ]
+}

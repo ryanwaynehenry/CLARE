@@ -1,0 +1,3296 @@
+{
+  "entities": [
+    "action",
+    "agricultural produce",
+    "agriculture",
+    "almonds",
+    "apples",
+    "bee-friendly flowers",
+    "bees",
+    "biodiversity",
+    "blueberries",
+    "cherries",
+    "climate change",
+    "conservation",
+    "crop production",
+    "decline",
+    "dependence",
+    "diseases",
+    "economic value",
+    "ecosystem health",
+    "ecosystem stability",
+    "ecosystems",
+    "environmental health",
+    "fertilization",
+    "food crops",
+    "food security",
+    "foraging behavior",
+    "fruits",
+    "genetic diversity",
+    "habitat loss",
+    "habitat restoration",
+    "hand pollination",
+    "importance",
+    "incentives",
+    "legislation",
+    "nesting sites",
+    "pesticide use",
+    "plant populations",
+    "plant species",
+    "pollination",
+    "pollinator services",
+    "production costs",
+    "protection",
+    "quality",
+    "seeds",
+    "sustainable farming",
+    "sustainable food",
+    "threats",
+    "vital role",
+    "wildlife survival",
+    "yield"
+  ],
+  "relations": [
+    [
+      "action",
+      "affects",
+      "ecosystems"
+    ],
+    [
+      "action",
+      "is influenced by",
+      "diseases"
+    ],
+    [
+      "action",
+      "is necessary for",
+      "food crops"
+    ],
+    [
+      "action",
+      "regulated by",
+      "legislation"
+    ],
+    [
+      "action",
+      "resulted from",
+      "decline"
+    ],
+    [
+      "agricultural produce",
+      "contributes to",
+      "genetic diversity"
+    ],
+    [
+      "agricultural produce",
+      "depends on",
+      "almonds"
+    ],
+    [
+      "agricultural produce",
+      "depends on",
+      "bee-friendly flowers"
+    ],
+    [
+      "agricultural produce",
+      "depends on",
+      "food security"
+    ],
+    [
+      "agricultural produce",
+      "depends on",
+      "sustainable farming"
+    ],
+    [
+      "agricultural produce",
+      "increases",
+      "production costs"
+    ],
+    [
+      "agricultural produce",
+      "is based on",
+      "importance"
+    ],
+    [
+      "agricultural produce",
+      "is dependent on",
+      "apples"
+    ],
+    [
+      "agricultural produce",
+      "is dependent on",
+      "cherries"
+    ],
+    [
+      "agricultural produce",
+      "is dependent on",
+      "pollination"
+    ],
+    [
+      "agricultural produce",
+      "is enhanced by",
+      "conservation"
+    ],
+    [
+      "agricultural produce",
+      "plays",
+      "vital role"
+    ],
+    [
+      "agricultural produce",
+      "requires",
+      "protection"
+    ],
+    [
+      "agricultural produce",
+      "supports",
+      "plant species"
+    ],
+    [
+      "agriculture",
+      "affects",
+      "yield"
+    ],
+    [
+      "agriculture",
+      "contributes to",
+      "ecosystem stability"
+    ],
+    [
+      "agriculture",
+      "depends on",
+      "agricultural produce"
+    ],
+    [
+      "agriculture",
+      "encourages",
+      "incentives"
+    ],
+    [
+      "agriculture",
+      "facilitates",
+      "pollination"
+    ],
+    [
+      "agriculture",
+      "generates",
+      "economic value"
+    ],
+    [
+      "agriculture",
+      "includes",
+      "crop production"
+    ],
+    [
+      "agriculture",
+      "includes",
+      "fruits"
+    ],
+    [
+      "agriculture",
+      "is essential for",
+      "vital role"
+    ],
+    [
+      "agriculture",
+      "is significant for",
+      "importance"
+    ],
+    [
+      "agriculture",
+      "produces",
+      "cherries"
+    ],
+    [
+      "agriculture",
+      "promotes",
+      "sustainable food"
+    ],
+    [
+      "agriculture",
+      "regulates",
+      "legislation"
+    ],
+    [
+      "agriculture",
+      "requires",
+      "habitat restoration"
+    ],
+    [
+      "agriculture",
+      "requires",
+      "protection"
+    ],
+    [
+      "agriculture",
+      "requires",
+      "wildlife survival"
+    ],
+    [
+      "agriculture",
+      "supports",
+      "ecosystem health"
+    ],
+    [
+      "agriculture",
+      "supports",
+      "plant species"
+    ],
+    [
+      "agriculture",
+      "supports",
+      "quality"
+    ],
+    [
+      "agriculture",
+      "supports",
+      "wildlife survival"
+    ],
+    [
+      "almonds",
+      "affects",
+      "environmental health"
+    ],
+    [
+      "almonds",
+      "benefits from",
+      "habitat restoration"
+    ],
+    [
+      "almonds",
+      "depends on",
+      "dependence"
+    ],
+    [
+      "almonds",
+      "depends on",
+      "plant species"
+    ],
+    [
+      "almonds",
+      "depends on",
+      "quality"
+    ],
+    [
+      "almonds",
+      "influences",
+      "ecosystem health"
+    ],
+    [
+      "almonds",
+      "is impacted by",
+      "diseases"
+    ],
+    [
+      "almonds",
+      "is part of",
+      "sustainable farming"
+    ],
+    [
+      "almonds",
+      "is produced from",
+      "fruits"
+    ],
+    [
+      "almonds",
+      "provides",
+      "nesting sites"
+    ],
+    [
+      "almonds",
+      "supports",
+      "wildlife survival"
+    ],
+    [
+      "almonds",
+      "threatens",
+      "decline"
+    ],
+    [
+      "apples",
+      "depends on",
+      "dependence"
+    ],
+    [
+      "apples",
+      "depends on",
+      "environmental health"
+    ],
+    [
+      "apples",
+      "depends on",
+      "food security"
+    ],
+    [
+      "apples",
+      "enhances",
+      "genetic diversity"
+    ],
+    [
+      "apples",
+      "facilitates",
+      "fertilization"
+    ],
+    [
+      "apples",
+      "includes",
+      "food crops"
+    ],
+    [
+      "apples",
+      "influences",
+      "production costs"
+    ],
+    [
+      "apples",
+      "influences",
+      "yield"
+    ],
+    [
+      "apples",
+      "is a source of",
+      "plant species"
+    ],
+    [
+      "apples",
+      "plays",
+      "vital role"
+    ],
+    [
+      "apples",
+      "pollinates",
+      "bees"
+    ],
+    [
+      "apples",
+      "produces",
+      "fruits"
+    ],
+    [
+      "apples",
+      "provides",
+      "nesting sites"
+    ],
+    [
+      "apples",
+      "supports",
+      "bee-friendly flowers"
+    ],
+    [
+      "apples",
+      "supports",
+      "conservation"
+    ],
+    [
+      "apples",
+      "supports",
+      "ecosystems"
+    ],
+    [
+      "bee-friendly flowers",
+      "benefits from",
+      "food security"
+    ],
+    [
+      "bee-friendly flowers",
+      "contributes to",
+      "ecosystem health"
+    ],
+    [
+      "bee-friendly flowers",
+      "contributes to",
+      "ecosystem stability"
+    ],
+    [
+      "bee-friendly flowers",
+      "enhances",
+      "genetic diversity"
+    ],
+    [
+      "bee-friendly flowers",
+      "facilitates",
+      "fertilization"
+    ],
+    [
+      "bee-friendly flowers",
+      "is supported by",
+      "conservation"
+    ],
+    [
+      "bee-friendly flowers",
+      "produces",
+      "fruits"
+    ],
+    [
+      "bee-friendly flowers",
+      "supports",
+      "almonds"
+    ],
+    [
+      "bee-friendly flowers",
+      "supports",
+      "blueberries"
+    ],
+    [
+      "bee-friendly flowers",
+      "supports",
+      "dependence"
+    ],
+    [
+      "bee-friendly flowers",
+      "supports",
+      "food crops"
+    ],
+    [
+      "bee-friendly flowers",
+      "supports",
+      "foraging behavior"
+    ],
+    [
+      "bee-friendly flowers",
+      "supports",
+      "plant populations"
+    ],
+    [
+      "bee-friendly flowers",
+      "supports",
+      "plant species"
+    ],
+    [
+      "bee-friendly flowers",
+      "supports",
+      "sustainable farming"
+    ],
+    [
+      "bees",
+      "affects",
+      "decline"
+    ],
+    [
+      "bees",
+      "affects",
+      "plant populations"
+    ],
+    [
+      "bees",
+      "affects",
+      "quality"
+    ],
+    [
+      "bees",
+      "contributes to",
+      "biodiversity"
+    ],
+    [
+      "bees",
+      "enhances",
+      "environmental health"
+    ],
+    [
+      "bees",
+      "enhances",
+      "genetic diversity"
+    ],
+    [
+      "bees",
+      "exhibits",
+      "foraging behavior"
+    ],
+    [
+      "bees",
+      "facilitates",
+      "habitat restoration"
+    ],
+    [
+      "bees",
+      "influences",
+      "dependence"
+    ],
+    [
+      "bees",
+      "is crucial for",
+      "importance"
+    ],
+    [
+      "bees",
+      "needs",
+      "protection"
+    ],
+    [
+      "bees",
+      "performs",
+      "pollination"
+    ],
+    [
+      "bees",
+      "produces",
+      "fruits"
+    ],
+    [
+      "bees",
+      "promotes",
+      "legislation"
+    ],
+    [
+      "bees",
+      "provides",
+      "bee-friendly flowers"
+    ],
+    [
+      "bees",
+      "provides",
+      "nesting sites"
+    ],
+    [
+      "bees",
+      "receives",
+      "incentives"
+    ],
+    [
+      "bees",
+      "requires",
+      "hand pollination"
+    ],
+    [
+      "bees",
+      "serves as",
+      "vital role"
+    ],
+    [
+      "bees",
+      "supports",
+      "ecosystems"
+    ],
+    [
+      "bees",
+      "supports",
+      "plant species"
+    ],
+    [
+      "biodiversity",
+      "contributes to",
+      "environmental health"
+    ],
+    [
+      "biodiversity",
+      "enhances",
+      "almonds"
+    ],
+    [
+      "biodiversity",
+      "enhances",
+      "dependence"
+    ],
+    [
+      "biodiversity",
+      "enhances",
+      "habitat restoration"
+    ],
+    [
+      "biodiversity",
+      "enhances",
+      "yield"
+    ],
+    [
+      "biodiversity",
+      "supports",
+      "plant populations"
+    ],
+    [
+      "biodiversity",
+      "supports",
+      "wildlife survival"
+    ],
+    [
+      "biodiversity",
+      "threatens",
+      "decline"
+    ],
+    [
+      "blueberries",
+      "affects",
+      "pesticide use"
+    ],
+    [
+      "blueberries",
+      "benefits from",
+      "conservation"
+    ],
+    [
+      "blueberries",
+      "benefits from",
+      "legislation"
+    ],
+    [
+      "blueberries",
+      "compares to",
+      "apples"
+    ],
+    [
+      "blueberries",
+      "depends on",
+      "bees"
+    ],
+    [
+      "blueberries",
+      "depends on",
+      "ecosystems"
+    ],
+    [
+      "blueberries",
+      "depends on",
+      "plant populations"
+    ],
+    [
+      "blueberries",
+      "impacts",
+      "habitat loss"
+    ],
+    [
+      "blueberries",
+      "increases",
+      "production costs"
+    ],
+    [
+      "blueberries",
+      "is dependent on",
+      "dependence"
+    ],
+    [
+      "blueberries",
+      "is supported by",
+      "hand pollination"
+    ],
+    [
+      "blueberries",
+      "is vital for",
+      "ecosystem health"
+    ],
+    [
+      "blueberries",
+      "produces",
+      "yield"
+    ],
+    [
+      "blueberries",
+      "provides",
+      "nesting sites"
+    ],
+    [
+      "blueberries",
+      "threatens",
+      "decline"
+    ],
+    [
+      "cherries",
+      "depends on",
+      "apples"
+    ],
+    [
+      "cherries",
+      "depends on",
+      "bees"
+    ],
+    [
+      "cherries",
+      "depends on",
+      "food crops"
+    ],
+    [
+      "cherries",
+      "facilitates",
+      "fertilization"
+    ],
+    [
+      "cherries",
+      "is related to",
+      "importance"
+    ],
+    [
+      "cherries",
+      "relates to",
+      "sustainable farming"
+    ],
+    [
+      "cherries",
+      "requires",
+      "pollination"
+    ],
+    [
+      "cherries",
+      "supports",
+      "pollinator services"
+    ],
+    [
+      "climate change",
+      "affected by",
+      "ecosystem health"
+    ],
+    [
+      "climate change",
+      "affected by",
+      "environmental health"
+    ],
+    [
+      "climate change",
+      "affected by",
+      "plant populations"
+    ],
+    [
+      "climate change",
+      "affects",
+      "fertilization"
+    ],
+    [
+      "climate change",
+      "contributes to",
+      "decline"
+    ],
+    [
+      "climate change",
+      "exacerbated by",
+      "habitat restoration"
+    ],
+    [
+      "climate change",
+      "impacted by",
+      "ecosystem stability"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "blueberries"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "dependence"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "nesting sites"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "protection"
+    ],
+    [
+      "climate change",
+      "influences",
+      "production costs"
+    ],
+    [
+      "climate change",
+      "is affected by",
+      "conservation"
+    ],
+    [
+      "climate change",
+      "is affected by",
+      "ecosystems"
+    ],
+    [
+      "climate change",
+      "is caused by",
+      "dependence"
+    ],
+    [
+      "climate change",
+      "is impacted by",
+      "quality"
+    ],
+    [
+      "climate change",
+      "is influenced by",
+      "crop production"
+    ],
+    [
+      "climate change",
+      "is influenced by",
+      "yield"
+    ],
+    [
+      "conservation",
+      "affects",
+      "diseases"
+    ],
+    [
+      "conservation",
+      "encourages",
+      "incentives"
+    ],
+    [
+      "conservation",
+      "enhances",
+      "biodiversity"
+    ],
+    [
+      "conservation",
+      "enhances",
+      "crop production"
+    ],
+    [
+      "conservation",
+      "enhances",
+      "ecosystem health"
+    ],
+    [
+      "conservation",
+      "enhances",
+      "genetic diversity"
+    ],
+    [
+      "conservation",
+      "enhances",
+      "quality"
+    ],
+    [
+      "conservation",
+      "influences",
+      "legislation"
+    ],
+    [
+      "conservation",
+      "is essential for",
+      "fertilization"
+    ],
+    [
+      "conservation",
+      "is essential for",
+      "fruits"
+    ],
+    [
+      "conservation",
+      "is impacted by",
+      "foraging behavior"
+    ],
+    [
+      "conservation",
+      "plays",
+      "vital role"
+    ],
+    [
+      "conservation",
+      "provides",
+      "nesting sites"
+    ],
+    [
+      "conservation",
+      "supported by",
+      "food crops"
+    ],
+    [
+      "conservation",
+      "supports",
+      "ecosystems"
+    ],
+    [
+      "conservation",
+      "supports",
+      "plant species"
+    ],
+    [
+      "conservation",
+      "supports",
+      "sustainable farming"
+    ],
+    [
+      "conservation",
+      "supports",
+      "wildlife survival"
+    ],
+    [
+      "crop production",
+      "affects",
+      "pesticide use"
+    ],
+    [
+      "crop production",
+      "affects",
+      "yield"
+    ],
+    [
+      "crop production",
+      "contributes to",
+      "cherries"
+    ],
+    [
+      "crop production",
+      "enhances",
+      "sustainable farming"
+    ],
+    [
+      "crop production",
+      "impacts",
+      "decline"
+    ],
+    [
+      "crop production",
+      "is determined by",
+      "quality"
+    ],
+    [
+      "crop production",
+      "is enhanced by",
+      "protection"
+    ],
+    [
+      "crop production",
+      "is influenced by",
+      "foraging behavior"
+    ],
+    [
+      "crop production",
+      "produces",
+      "agricultural produce"
+    ],
+    [
+      "crop production",
+      "produces",
+      "seeds"
+    ],
+    [
+      "crop production",
+      "supports",
+      "ecosystems"
+    ],
+    [
+      "decline",
+      "addressed by",
+      "habitat restoration"
+    ],
+    [
+      "decline",
+      "mitigated by",
+      "protection"
+    ],
+    [
+      "decline",
+      "requires",
+      "hand pollination"
+    ],
+    [
+      "decline",
+      "results from",
+      "habitat loss"
+    ],
+    [
+      "decline",
+      "results from",
+      "quality"
+    ],
+    [
+      "decline",
+      "threatened by",
+      "food security"
+    ],
+    [
+      "dependence",
+      "creates challenges for",
+      "almonds"
+    ],
+    [
+      "dependence",
+      "depends on",
+      "food security"
+    ],
+    [
+      "dependence",
+      "facilitates",
+      "fertilization"
+    ],
+    [
+      "dependence",
+      "increases",
+      "production costs"
+    ],
+    [
+      "dependence",
+      "indicates",
+      "vital role"
+    ],
+    [
+      "dependence",
+      "influences",
+      "biodiversity"
+    ],
+    [
+      "dependence",
+      "is influenced by",
+      "quality"
+    ],
+    [
+      "dependence",
+      "is reliant on",
+      "environmental health"
+    ],
+    [
+      "dependence",
+      "promotes",
+      "conservation"
+    ],
+    [
+      "dependence",
+      "provides",
+      "pesticide use"
+    ],
+    [
+      "dependence",
+      "supports",
+      "ecosystem health"
+    ],
+    [
+      "diseases",
+      "affects",
+      "apples"
+    ],
+    [
+      "diseases",
+      "affects",
+      "biodiversity"
+    ],
+    [
+      "diseases",
+      "affects",
+      "incentives"
+    ],
+    [
+      "diseases",
+      "causes",
+      "hand pollination"
+    ],
+    [
+      "diseases",
+      "causes decline in",
+      "ecosystem stability"
+    ],
+    [
+      "diseases",
+      "exacerbated by",
+      "habitat loss"
+    ],
+    [
+      "diseases",
+      "impacted by",
+      "crop production"
+    ],
+    [
+      "diseases",
+      "impacts",
+      "ecosystems"
+    ],
+    [
+      "diseases",
+      "impacts",
+      "fertilization"
+    ],
+    [
+      "diseases",
+      "impacts",
+      "foraging behavior"
+    ],
+    [
+      "diseases",
+      "is affected by",
+      "dependence"
+    ],
+    [
+      "diseases",
+      "is affected by",
+      "environmental health"
+    ],
+    [
+      "diseases",
+      "is impacted by",
+      "blueberries"
+    ],
+    [
+      "diseases",
+      "is impacted by",
+      "yield"
+    ],
+    [
+      "diseases",
+      "threatened by",
+      "pollinator services"
+    ],
+    [
+      "diseases",
+      "threatens",
+      "food security"
+    ],
+    [
+      "diseases",
+      "threatens",
+      "plant populations"
+    ],
+    [
+      "economic value",
+      "affects",
+      "ecosystem health"
+    ],
+    [
+      "economic value",
+      "contributes to",
+      "biodiversity"
+    ],
+    [
+      "economic value",
+      "contributes to",
+      "cherries"
+    ],
+    [
+      "economic value",
+      "contributes to",
+      "ecosystem stability"
+    ],
+    [
+      "economic value",
+      "depends on",
+      "conservation"
+    ],
+    [
+      "economic value",
+      "depends on",
+      "sustainable farming"
+    ],
+    [
+      "economic value",
+      "determines",
+      "production costs"
+    ],
+    [
+      "economic value",
+      "drives",
+      "incentives"
+    ],
+    [
+      "economic value",
+      "facilitates",
+      "ecosystem health"
+    ],
+    [
+      "economic value",
+      "increases",
+      "seeds"
+    ],
+    [
+      "economic value",
+      "is beneficial for",
+      "ecosystems"
+    ],
+    [
+      "economic value",
+      "is dependent on",
+      "food security"
+    ],
+    [
+      "economic value",
+      "is derived from",
+      "quality"
+    ],
+    [
+      "economic value",
+      "is linked to",
+      "sustainable food"
+    ],
+    [
+      "economic value",
+      "is linked to",
+      "vital role"
+    ],
+    [
+      "economic value",
+      "promotes",
+      "legislation"
+    ],
+    [
+      "economic value",
+      "provides",
+      "pollinator services"
+    ],
+    [
+      "economic value",
+      "provides",
+      "protection"
+    ],
+    [
+      "economic value",
+      "supports",
+      "crop production"
+    ],
+    [
+      "economic value",
+      "supports",
+      "plant species"
+    ],
+    [
+      "economic value",
+      "threatens",
+      "decline"
+    ],
+    [
+      "ecosystem health",
+      "affects",
+      "decline"
+    ],
+    [
+      "ecosystem health",
+      "enhanced by",
+      "yield"
+    ],
+    [
+      "ecosystem health",
+      "enhances",
+      "sustainable farming"
+    ],
+    [
+      "ecosystem health",
+      "impacts",
+      "pesticide use"
+    ],
+    [
+      "ecosystem health",
+      "improves",
+      "protection"
+    ],
+    [
+      "ecosystem health",
+      "is influenced by",
+      "production costs"
+    ],
+    [
+      "ecosystem health",
+      "supports",
+      "apples"
+    ],
+    [
+      "ecosystem health",
+      "supports",
+      "hand pollination"
+    ],
+    [
+      "ecosystem health",
+      "threatens",
+      "habitat loss"
+    ],
+    [
+      "ecosystem stability",
+      "affects",
+      "decline"
+    ],
+    [
+      "ecosystem stability",
+      "depends on",
+      "conservation"
+    ],
+    [
+      "ecosystem stability",
+      "enhances",
+      "sustainable farming"
+    ],
+    [
+      "ecosystem stability",
+      "impacts",
+      "apples"
+    ],
+    [
+      "ecosystem stability",
+      "is influenced by",
+      "quality"
+    ],
+    [
+      "ecosystem stability",
+      "is supported by",
+      "blueberries"
+    ],
+    [
+      "ecosystem stability",
+      "is supported by",
+      "incentives"
+    ],
+    [
+      "ecosystem stability",
+      "regulated by",
+      "legislation"
+    ],
+    [
+      "ecosystems",
+      "affects",
+      "hand pollination"
+    ],
+    [
+      "ecosystems",
+      "affects",
+      "quality"
+    ],
+    [
+      "ecosystems",
+      "benefits",
+      "habitat restoration"
+    ],
+    [
+      "ecosystems",
+      "depends on",
+      "food security"
+    ],
+    [
+      "ecosystems",
+      "influenced by",
+      "legislation"
+    ],
+    [
+      "ecosystems",
+      "plays",
+      "vital role"
+    ],
+    [
+      "ecosystems",
+      "supports",
+      "biodiversity"
+    ],
+    [
+      "ecosystems",
+      "supports",
+      "fertilization"
+    ],
+    [
+      "ecosystems",
+      "supports",
+      "wildlife survival"
+    ],
+    [
+      "ecosystems",
+      "supports",
+      "yield"
+    ],
+    [
+      "environmental health",
+      "influences",
+      "crop production"
+    ],
+    [
+      "environmental health",
+      "influences",
+      "quality"
+    ],
+    [
+      "environmental health",
+      "is critical for",
+      "climate change"
+    ],
+    [
+      "environmental health",
+      "plays a role in",
+      "vital role"
+    ],
+    [
+      "environmental health",
+      "promotes",
+      "conservation"
+    ],
+    [
+      "environmental health",
+      "requires",
+      "action"
+    ],
+    [
+      "environmental health",
+      "requires",
+      "foraging behavior"
+    ],
+    [
+      "environmental health",
+      "supports",
+      "fertilization"
+    ],
+    [
+      "environmental health",
+      "supports",
+      "pesticide use"
+    ],
+    [
+      "fertilization",
+      "contributes to",
+      "ecosystem health"
+    ],
+    [
+      "fertilization",
+      "enables",
+      "plant species"
+    ],
+    [
+      "fertilization",
+      "facilitates",
+      "blueberries"
+    ],
+    [
+      "fertilization",
+      "facilitates",
+      "hand pollination"
+    ],
+    [
+      "fertilization",
+      "impacts",
+      "production costs"
+    ],
+    [
+      "fertilization",
+      "is essential for",
+      "vital role"
+    ],
+    [
+      "fertilization",
+      "is influenced by",
+      "quality"
+    ],
+    [
+      "fertilization",
+      "is necessary for",
+      "almonds"
+    ],
+    [
+      "fertilization",
+      "leads to",
+      "fruits"
+    ],
+    [
+      "fertilization",
+      "leads to",
+      "genetic diversity"
+    ],
+    [
+      "fertilization",
+      "poses risks to",
+      "ecosystem health"
+    ],
+    [
+      "fertilization",
+      "promotes",
+      "biodiversity"
+    ],
+    [
+      "food crops",
+      "depends on",
+      "economic value"
+    ],
+    [
+      "food crops",
+      "depends on",
+      "pollination"
+    ],
+    [
+      "food crops",
+      "encourages",
+      "incentives"
+    ],
+    [
+      "food crops",
+      "enhanced by",
+      "quality"
+    ],
+    [
+      "food crops",
+      "includes",
+      "agriculture"
+    ],
+    [
+      "food crops",
+      "includes",
+      "almonds"
+    ],
+    [
+      "food crops",
+      "includes",
+      "fruits"
+    ],
+    [
+      "food crops",
+      "is essential for",
+      "vital role"
+    ],
+    [
+      "food crops",
+      "supports",
+      "plant populations"
+    ],
+    [
+      "food crops",
+      "supports",
+      "plant species"
+    ],
+    [
+      "food security",
+      "depends on",
+      "blueberries"
+    ],
+    [
+      "food security",
+      "depends on",
+      "crop production"
+    ],
+    [
+      "food security",
+      "enhances",
+      "vital role"
+    ],
+    [
+      "food security",
+      "ensures",
+      "agricultural produce"
+    ],
+    [
+      "food security",
+      "is essential for",
+      "food crops"
+    ],
+    [
+      "food security",
+      "is influenced by",
+      "fertilization"
+    ],
+    [
+      "food security",
+      "is threatened by",
+      "conservation"
+    ],
+    [
+      "food security",
+      "requires",
+      "action"
+    ],
+    [
+      "food security",
+      "requires",
+      "hand pollination"
+    ],
+    [
+      "food security",
+      "supported by",
+      "legislation"
+    ],
+    [
+      "food security",
+      "supports",
+      "environmental health"
+    ],
+    [
+      "food security",
+      "threatens",
+      "bees"
+    ],
+    [
+      "foraging behavior",
+      "affects",
+      "plant populations"
+    ],
+    [
+      "foraging behavior",
+      "contributes to",
+      "ecosystem health"
+    ],
+    [
+      "foraging behavior",
+      "facilitates",
+      "fertilization"
+    ],
+    [
+      "foraging behavior",
+      "impacted by",
+      "threats"
+    ],
+    [
+      "foraging behavior",
+      "influenced by",
+      "environmental health"
+    ],
+    [
+      "foraging behavior",
+      "influences",
+      "economic value"
+    ],
+    [
+      "foraging behavior",
+      "influences",
+      "food crops"
+    ],
+    [
+      "foraging behavior",
+      "influences",
+      "food security"
+    ],
+    [
+      "foraging behavior",
+      "is a result of",
+      "environmental health"
+    ],
+    [
+      "foraging behavior",
+      "is influenced by",
+      "ecosystem stability"
+    ],
+    [
+      "foraging behavior",
+      "produces",
+      "fruits"
+    ],
+    [
+      "foraging behavior",
+      "supports",
+      "almonds"
+    ],
+    [
+      "fruits",
+      "is derived from",
+      "economic value"
+    ],
+    [
+      "fruits",
+      "is enhanced by",
+      "sustainable farming"
+    ],
+    [
+      "fruits",
+      "produced by",
+      "yield"
+    ],
+    [
+      "fruits",
+      "produces",
+      "agricultural produce"
+    ],
+    [
+      "fruits",
+      "threatens",
+      "threats"
+    ],
+    [
+      "genetic diversity",
+      "affects",
+      "pesticide use"
+    ],
+    [
+      "genetic diversity",
+      "contributes to",
+      "ecosystem health"
+    ],
+    [
+      "genetic diversity",
+      "contributes to",
+      "ecosystems"
+    ],
+    [
+      "genetic diversity",
+      "encouraged by",
+      "incentives"
+    ],
+    [
+      "genetic diversity",
+      "enhances",
+      "environmental health"
+    ],
+    [
+      "genetic diversity",
+      "enhances",
+      "plant species"
+    ],
+    [
+      "genetic diversity",
+      "increases",
+      "dependence"
+    ],
+    [
+      "genetic diversity",
+      "increases",
+      "yield"
+    ],
+    [
+      "genetic diversity",
+      "influences",
+      "food security"
+    ],
+    [
+      "genetic diversity",
+      "influences",
+      "production costs"
+    ],
+    [
+      "genetic diversity",
+      "is enhanced by",
+      "blueberries"
+    ],
+    [
+      "genetic diversity",
+      "produces",
+      "fruits"
+    ],
+    [
+      "genetic diversity",
+      "supports",
+      "biodiversity"
+    ],
+    [
+      "genetic diversity",
+      "supports",
+      "nesting sites"
+    ],
+    [
+      "genetic diversity",
+      "supports",
+      "plant populations"
+    ],
+    [
+      "habitat loss",
+      "affected by",
+      "seeds"
+    ],
+    [
+      "habitat loss",
+      "affects",
+      "nesting sites"
+    ],
+    [
+      "habitat loss",
+      "caused by",
+      "quality"
+    ],
+    [
+      "habitat loss",
+      "causes",
+      "agriculture"
+    ],
+    [
+      "habitat loss",
+      "causes",
+      "apples"
+    ],
+    [
+      "habitat loss",
+      "contributes to",
+      "foraging behavior"
+    ],
+    [
+      "habitat loss",
+      "contributes to",
+      "pesticide use"
+    ],
+    [
+      "habitat loss",
+      "contributes to",
+      "vital role"
+    ],
+    [
+      "habitat loss",
+      "impacted by",
+      "bee-friendly flowers"
+    ],
+    [
+      "habitat loss",
+      "impacts",
+      "environmental health"
+    ],
+    [
+      "habitat loss",
+      "impacts",
+      "sustainable food"
+    ],
+    [
+      "habitat loss",
+      "influences",
+      "production costs"
+    ],
+    [
+      "habitat loss",
+      "is affected by",
+      "crop production"
+    ],
+    [
+      "habitat loss",
+      "is affected by",
+      "fertilization"
+    ],
+    [
+      "habitat loss",
+      "is affected by",
+      "habitat restoration"
+    ],
+    [
+      "habitat loss",
+      "is caused by",
+      "yield"
+    ],
+    [
+      "habitat loss",
+      "is influenced by",
+      "economic value"
+    ],
+    [
+      "habitat loss",
+      "threatened by",
+      "ecosystems"
+    ],
+    [
+      "habitat loss",
+      "threatened by",
+      "food security"
+    ],
+    [
+      "habitat loss",
+      "threatens",
+      "genetic diversity"
+    ],
+    [
+      "habitat restoration",
+      "addresses",
+      "diseases"
+    ],
+    [
+      "habitat restoration",
+      "benefits",
+      "apples"
+    ],
+    [
+      "habitat restoration",
+      "depends on",
+      "blueberries"
+    ],
+    [
+      "habitat restoration",
+      "enacted by",
+      "legislation"
+    ],
+    [
+      "habitat restoration",
+      "encourages",
+      "incentives"
+    ],
+    [
+      "habitat restoration",
+      "enhances",
+      "ecosystem stability"
+    ],
+    [
+      "habitat restoration",
+      "enhances",
+      "genetic diversity"
+    ],
+    [
+      "habitat restoration",
+      "facilitates",
+      "hand pollination"
+    ],
+    [
+      "habitat restoration",
+      "increases",
+      "production costs"
+    ],
+    [
+      "habitat restoration",
+      "is impacted by",
+      "plant populations"
+    ],
+    [
+      "habitat restoration",
+      "is improved by",
+      "environmental health"
+    ],
+    [
+      "habitat restoration",
+      "is supported by",
+      "incentives"
+    ],
+    [
+      "habitat restoration",
+      "provides",
+      "nesting sites"
+    ],
+    [
+      "habitat restoration",
+      "requires for",
+      "food security"
+    ],
+    [
+      "habitat restoration",
+      "supports",
+      "plant populations"
+    ],
+    [
+      "habitat restoration",
+      "supports",
+      "sustainable food"
+    ],
+    [
+      "hand pollination",
+      "alternative to",
+      "pollination"
+    ],
+    [
+      "hand pollination",
+      "facilitates",
+      "bee-friendly flowers"
+    ],
+    [
+      "hand pollination",
+      "facilitates",
+      "genetic diversity"
+    ],
+    [
+      "hand pollination",
+      "increases",
+      "production costs"
+    ],
+    [
+      "hand pollination",
+      "increases",
+      "yield"
+    ],
+    [
+      "hand pollination",
+      "is compared to",
+      "quality"
+    ],
+    [
+      "hand pollination",
+      "is required for",
+      "almonds"
+    ],
+    [
+      "hand pollination",
+      "replaces",
+      "conservation"
+    ],
+    [
+      "hand pollination",
+      "replaces",
+      "dependence"
+    ],
+    [
+      "hand pollination",
+      "requires",
+      "apples"
+    ],
+    [
+      "hand pollination",
+      "requires",
+      "environmental health"
+    ],
+    [
+      "hand pollination",
+      "requires",
+      "fruits"
+    ],
+    [
+      "hand pollination",
+      "requires",
+      "plant species"
+    ],
+    [
+      "hand pollination",
+      "requires",
+      "protection"
+    ],
+    [
+      "hand pollination",
+      "requires",
+      "sustainable food"
+    ],
+    [
+      "hand pollination",
+      "serves as",
+      "vital role"
+    ],
+    [
+      "hand pollination",
+      "supports",
+      "biodiversity"
+    ],
+    [
+      "importance",
+      "facilitates",
+      "fertilization"
+    ],
+    [
+      "importance",
+      "indicates",
+      "quality"
+    ],
+    [
+      "importance",
+      "is crucial for",
+      "almonds"
+    ],
+    [
+      "importance",
+      "is essential for",
+      "pollination"
+    ],
+    [
+      "importance",
+      "is linked to",
+      "economic value"
+    ],
+    [
+      "importance",
+      "is significant for",
+      "apples"
+    ],
+    [
+      "importance",
+      "supports",
+      "plant species"
+    ],
+    [
+      "incentives",
+      "addresses",
+      "climate change"
+    ],
+    [
+      "incentives",
+      "benefits from",
+      "ecosystems"
+    ],
+    [
+      "incentives",
+      "encouraged by",
+      "bee-friendly flowers"
+    ],
+    [
+      "incentives",
+      "incentivizes",
+      "agricultural produce"
+    ],
+    [
+      "incentives",
+      "influenced by",
+      "threats"
+    ],
+    [
+      "incentives",
+      "influences",
+      "pesticide use"
+    ],
+    [
+      "incentives",
+      "is influenced by",
+      "production costs"
+    ],
+    [
+      "incentives",
+      "is supported by",
+      "importance"
+    ],
+    [
+      "incentives",
+      "promotes",
+      "action"
+    ],
+    [
+      "incentives",
+      "promotes",
+      "almonds"
+    ],
+    [
+      "incentives",
+      "promotes",
+      "sustainable farming"
+    ],
+    [
+      "incentives",
+      "supported by",
+      "food security"
+    ],
+    [
+      "incentives",
+      "supports",
+      "biodiversity"
+    ],
+    [
+      "incentives",
+      "supports",
+      "blueberries"
+    ],
+    [
+      "incentives",
+      "supports",
+      "plant populations"
+    ],
+    [
+      "legislation",
+      "addressed by",
+      "habitat loss"
+    ],
+    [
+      "legislation",
+      "promotes",
+      "bee-friendly flowers"
+    ],
+    [
+      "legislation",
+      "promotes",
+      "biodiversity"
+    ],
+    [
+      "legislation",
+      "regulated by",
+      "crop production"
+    ],
+    [
+      "legislation",
+      "regulated by",
+      "plant species"
+    ],
+    [
+      "legislation",
+      "regulated by",
+      "production costs"
+    ],
+    [
+      "legislation",
+      "regulated by",
+      "yield"
+    ],
+    [
+      "legislation",
+      "regulates",
+      "agricultural produce"
+    ],
+    [
+      "legislation",
+      "regulates",
+      "environmental health"
+    ],
+    [
+      "legislation",
+      "supports",
+      "sustainable farming"
+    ],
+    [
+      "nesting sites",
+      "encouraged by",
+      "bee-friendly flowers"
+    ],
+    [
+      "nesting sites",
+      "enhances",
+      "economic value"
+    ],
+    [
+      "nesting sites",
+      "increases",
+      "production costs"
+    ],
+    [
+      "nesting sites",
+      "is affected by",
+      "diseases"
+    ],
+    [
+      "nesting sites",
+      "is affected by",
+      "habitat restoration"
+    ],
+    [
+      "nesting sites",
+      "is supported by",
+      "seeds"
+    ],
+    [
+      "nesting sites",
+      "provides",
+      "food crops"
+    ],
+    [
+      "nesting sites",
+      "provides for",
+      "agricultural produce"
+    ],
+    [
+      "nesting sites",
+      "provides for",
+      "ecosystems"
+    ],
+    [
+      "nesting sites",
+      "requires",
+      "action"
+    ],
+    [
+      "nesting sites",
+      "requires",
+      "agriculture"
+    ],
+    [
+      "nesting sites",
+      "requires",
+      "ecosystem stability"
+    ],
+    [
+      "nesting sites",
+      "requires",
+      "fertilization"
+    ],
+    [
+      "nesting sites",
+      "supported by",
+      "food security"
+    ],
+    [
+      "nesting sites",
+      "supports",
+      "wildlife survival"
+    ],
+    [
+      "nesting sites",
+      "threatened by",
+      "threats"
+    ],
+    [
+      "pesticide use",
+      "affected by",
+      "dependence"
+    ],
+    [
+      "pesticide use",
+      "affects",
+      "almonds"
+    ],
+    [
+      "pesticide use",
+      "affects",
+      "apples"
+    ],
+    [
+      "pesticide use",
+      "affects",
+      "foraging behavior"
+    ],
+    [
+      "pesticide use",
+      "affects",
+      "sustainable farming"
+    ],
+    [
+      "pesticide use",
+      "complicates",
+      "hand pollination"
+    ],
+    [
+      "pesticide use",
+      "contributes to",
+      "decline"
+    ],
+    [
+      "pesticide use",
+      "impacts",
+      "bees"
+    ],
+    [
+      "pesticide use",
+      "impacts",
+      "economic value"
+    ],
+    [
+      "pesticide use",
+      "impacts",
+      "habitat restoration"
+    ],
+    [
+      "pesticide use",
+      "increases",
+      "production costs"
+    ],
+    [
+      "pesticide use",
+      "is addressed by",
+      "conservation"
+    ],
+    [
+      "pesticide use",
+      "is influenced by",
+      "nesting sites"
+    ],
+    [
+      "pesticide use",
+      "is threatened by",
+      "food security"
+    ],
+    [
+      "pesticide use",
+      "threatened by",
+      "environmental health"
+    ],
+    [
+      "plant populations",
+      "affects",
+      "quality"
+    ],
+    [
+      "plant populations",
+      "depends on",
+      "fruits"
+    ],
+    [
+      "plant populations",
+      "enhances",
+      "sustainable farming"
+    ],
+    [
+      "plant populations",
+      "influenced by",
+      "legislation"
+    ],
+    [
+      "plant populations",
+      "influences",
+      "yield"
+    ],
+    [
+      "plant populations",
+      "is affected by",
+      "decline"
+    ],
+    [
+      "plant populations",
+      "is pollinated by",
+      "almonds"
+    ],
+    [
+      "plant populations",
+      "provides",
+      "nesting sites"
+    ],
+    [
+      "plant populations",
+      "supports",
+      "wildlife survival"
+    ],
+    [
+      "plant populations",
+      "threatens",
+      "habitat loss"
+    ],
+    [
+      "plant species",
+      "affects",
+      "pesticide use"
+    ],
+    [
+      "plant species",
+      "benefits from",
+      "sustainable farming"
+    ],
+    [
+      "plant species",
+      "comprises",
+      "plant populations"
+    ],
+    [
+      "plant species",
+      "depends on",
+      "blueberries"
+    ],
+    [
+      "plant species",
+      "depends on",
+      "crop production"
+    ],
+    [
+      "plant species",
+      "influences",
+      "foraging behavior"
+    ],
+    [
+      "plant species",
+      "provides",
+      "nesting sites"
+    ],
+    [
+      "plant species",
+      "supported by",
+      "incentives"
+    ],
+    [
+      "plant species",
+      "threatens",
+      "threats"
+    ],
+    [
+      "pollination",
+      "determines",
+      "yield"
+    ],
+    [
+      "pollination",
+      "enables",
+      "fertilization"
+    ],
+    [
+      "pollination",
+      "facilitates",
+      "almonds"
+    ],
+    [
+      "pollination",
+      "facilitates",
+      "blueberries"
+    ],
+    [
+      "pollination",
+      "has economic value for",
+      "economic value"
+    ],
+    [
+      "pollination",
+      "is a process of",
+      "action"
+    ],
+    [
+      "pollination",
+      "is essential for",
+      "sustainable farming"
+    ],
+    [
+      "pollination",
+      "is essential for",
+      "vital role"
+    ],
+    [
+      "pollination",
+      "is facilitated by",
+      "apples"
+    ],
+    [
+      "pollination",
+      "results in",
+      "fruits"
+    ],
+    [
+      "pollination",
+      "supports",
+      "plant species"
+    ],
+    [
+      "pollinator services",
+      "benefits",
+      "apples"
+    ],
+    [
+      "pollinator services",
+      "benefits",
+      "blueberries"
+    ],
+    [
+      "pollinator services",
+      "enables",
+      "crop production"
+    ],
+    [
+      "pollinator services",
+      "facilitates",
+      "sustainable farming"
+    ],
+    [
+      "pollinator services",
+      "is provided by",
+      "seeds"
+    ],
+    [
+      "pollinator services",
+      "is reliant on",
+      "agricultural produce"
+    ],
+    [
+      "pollinator services",
+      "promotes",
+      "incentives"
+    ],
+    [
+      "pollinator services",
+      "provides",
+      "bees"
+    ],
+    [
+      "pollinator services",
+      "provides",
+      "food crops"
+    ],
+    [
+      "pollinator services",
+      "provides",
+      "fruits"
+    ],
+    [
+      "pollinator services",
+      "provides",
+      "vital role"
+    ],
+    [
+      "pollinator services",
+      "supports",
+      "food crops"
+    ],
+    [
+      "production costs",
+      "affects",
+      "conservation"
+    ],
+    [
+      "production costs",
+      "affects",
+      "quality"
+    ],
+    [
+      "production costs",
+      "affects",
+      "wildlife survival"
+    ],
+    [
+      "production costs",
+      "increases",
+      "almonds"
+    ],
+    [
+      "production costs",
+      "increases",
+      "food crops"
+    ],
+    [
+      "production costs",
+      "increases",
+      "seeds"
+    ],
+    [
+      "production costs",
+      "increases",
+      "sustainable food"
+    ],
+    [
+      "production costs",
+      "is affected by",
+      "agricultural produce"
+    ],
+    [
+      "production costs",
+      "is affected by",
+      "environmental health"
+    ],
+    [
+      "production costs",
+      "is affected by",
+      "sustainable farming"
+    ],
+    [
+      "production costs",
+      "is impacted by",
+      "ecosystem stability"
+    ],
+    [
+      "production costs",
+      "is influenced by",
+      "foraging behavior"
+    ],
+    [
+      "protection",
+      "affects",
+      "yield"
+    ],
+    [
+      "protection",
+      "depends on",
+      "food security"
+    ],
+    [
+      "protection",
+      "depends on",
+      "quality"
+    ],
+    [
+      "protection",
+      "encourages",
+      "incentives"
+    ],
+    [
+      "protection",
+      "enhances",
+      "genetic diversity"
+    ],
+    [
+      "protection",
+      "ensures",
+      "sustainable food"
+    ],
+    [
+      "protection",
+      "ensures",
+      "vital role"
+    ],
+    [
+      "protection",
+      "facilitates",
+      "fertilization"
+    ],
+    [
+      "protection",
+      "influences",
+      "foraging behavior"
+    ],
+    [
+      "protection",
+      "is essential for",
+      "hand pollination"
+    ],
+    [
+      "protection",
+      "is essential for",
+      "vital role"
+    ],
+    [
+      "protection",
+      "is necessary for",
+      "dependence"
+    ],
+    [
+      "protection",
+      "is supported by",
+      "environmental health"
+    ],
+    [
+      "protection",
+      "mitigates",
+      "diseases"
+    ],
+    [
+      "protection",
+      "promotes",
+      "sustainable farming"
+    ],
+    [
+      "protection",
+      "provides",
+      "nesting sites"
+    ],
+    [
+      "protection",
+      "provides for",
+      "apples"
+    ],
+    [
+      "protection",
+      "supports",
+      "conservation"
+    ],
+    [
+      "protection",
+      "supports",
+      "plant populations"
+    ],
+    [
+      "quality",
+      "influences",
+      "agricultural produce"
+    ],
+    [
+      "quality",
+      "influences",
+      "pollinator services"
+    ],
+    [
+      "quality",
+      "is impacted by",
+      "food security"
+    ],
+    [
+      "quality",
+      "is influenced by",
+      "bee-friendly flowers"
+    ],
+    [
+      "seeds",
+      "contributes to",
+      "ecosystem stability"
+    ],
+    [
+      "seeds",
+      "increases",
+      "genetic diversity"
+    ],
+    [
+      "seeds",
+      "is caused by",
+      "decline"
+    ],
+    [
+      "seeds",
+      "is facilitated by",
+      "pollination"
+    ],
+    [
+      "seeds",
+      "is necessary for",
+      "bee-friendly flowers"
+    ],
+    [
+      "seeds",
+      "is produced by",
+      "agriculture"
+    ],
+    [
+      "seeds",
+      "is produced by",
+      "food crops"
+    ],
+    [
+      "seeds",
+      "is produced from",
+      "cherries"
+    ],
+    [
+      "seeds",
+      "is protected by",
+      "conservation"
+    ],
+    [
+      "seeds",
+      "needs",
+      "protection"
+    ],
+    [
+      "seeds",
+      "produced by",
+      "plant species"
+    ],
+    [
+      "seeds",
+      "produces",
+      "almonds"
+    ],
+    [
+      "seeds",
+      "produces",
+      "apples"
+    ],
+    [
+      "seeds",
+      "produces",
+      "blueberries"
+    ],
+    [
+      "seeds",
+      "produces",
+      "fertilization"
+    ],
+    [
+      "seeds",
+      "promotes",
+      "incentives"
+    ],
+    [
+      "seeds",
+      "requires",
+      "habitat restoration"
+    ],
+    [
+      "seeds",
+      "requires",
+      "hand pollination"
+    ],
+    [
+      "seeds",
+      "supports",
+      "ecosystem health"
+    ],
+    [
+      "seeds",
+      "supports",
+      "plant populations"
+    ],
+    [
+      "seeds",
+      "threatens",
+      "food security"
+    ],
+    [
+      "sustainable farming",
+      "benefits from",
+      "apples"
+    ],
+    [
+      "sustainable farming",
+      "enhanced by",
+      "food crops"
+    ],
+    [
+      "sustainable farming",
+      "impacts",
+      "decline"
+    ],
+    [
+      "sustainable farming",
+      "influences",
+      "quality"
+    ],
+    [
+      "sustainable farming",
+      "influences",
+      "seeds"
+    ],
+    [
+      "sustainable farming",
+      "is improved by",
+      "yield"
+    ],
+    [
+      "sustainable farming",
+      "is reliant on",
+      "dependence"
+    ],
+    [
+      "sustainable farming",
+      "promotes",
+      "biodiversity"
+    ],
+    [
+      "sustainable farming",
+      "promotes",
+      "environmental health"
+    ],
+    [
+      "sustainable farming",
+      "supports",
+      "nesting sites"
+    ],
+    [
+      "sustainable food",
+      "affects",
+      "action"
+    ],
+    [
+      "sustainable food",
+      "contributes to",
+      "apples"
+    ],
+    [
+      "sustainable food",
+      "contributes to",
+      "ecosystem stability"
+    ],
+    [
+      "sustainable food",
+      "depends on",
+      "food security"
+    ],
+    [
+      "sustainable food",
+      "depends on",
+      "plant populations"
+    ],
+    [
+      "sustainable food",
+      "encourages",
+      "incentives"
+    ],
+    [
+      "sustainable food",
+      "enhances",
+      "ecosystem health"
+    ],
+    [
+      "sustainable food",
+      "enhances",
+      "quality"
+    ],
+    [
+      "sustainable food",
+      "plays a role in",
+      "vital role"
+    ],
+    [
+      "sustainable food",
+      "provides",
+      "nesting sites"
+    ],
+    [
+      "threats",
+      "affects",
+      "pesticide use"
+    ],
+    [
+      "threats",
+      "increases",
+      "plant populations"
+    ],
+    [
+      "threats",
+      "influences",
+      "legislation"
+    ],
+    [
+      "threats",
+      "is caused by",
+      "decline"
+    ],
+    [
+      "threats",
+      "is caused by",
+      "dependence"
+    ],
+    [
+      "threats",
+      "is influenced by",
+      "conservation"
+    ],
+    [
+      "threats",
+      "is threatened by",
+      "agriculture"
+    ],
+    [
+      "threats",
+      "is threatened by",
+      "apples"
+    ],
+    [
+      "threats",
+      "is threatened by",
+      "crop production"
+    ],
+    [
+      "threats",
+      "is threatened by",
+      "habitat restoration"
+    ],
+    [
+      "threats",
+      "is threatened by",
+      "quality"
+    ],
+    [
+      "threats",
+      "is vital for",
+      "nesting sites"
+    ],
+    [
+      "threats",
+      "poses a threat to",
+      "ecosystems"
+    ],
+    [
+      "threats",
+      "threatened by",
+      "fertilization"
+    ],
+    [
+      "threats",
+      "threatened by",
+      "food security"
+    ],
+    [
+      "threats",
+      "threatens",
+      "almonds"
+    ],
+    [
+      "threats",
+      "threatens",
+      "bees"
+    ],
+    [
+      "threats",
+      "threatens",
+      "biodiversity"
+    ],
+    [
+      "threats",
+      "threatens",
+      "ecosystem stability"
+    ],
+    [
+      "threats",
+      "threatens",
+      "genetic diversity"
+    ],
+    [
+      "threats",
+      "threatens",
+      "seeds"
+    ],
+    [
+      "threats",
+      "threatens",
+      "sustainable food"
+    ],
+    [
+      "threats",
+      "threatens",
+      "wildlife survival"
+    ],
+    [
+      "vital role",
+      "contributes to",
+      "sustainable farming"
+    ],
+    [
+      "vital role",
+      "enhances",
+      "ecosystem health"
+    ],
+    [
+      "vital role",
+      "is crucial for",
+      "wildlife survival"
+    ],
+    [
+      "vital role",
+      "is essential for",
+      "fruits"
+    ],
+    [
+      "vital role",
+      "is supported by",
+      "ecosystem stability"
+    ],
+    [
+      "vital role",
+      "is supported by",
+      "legislation"
+    ],
+    [
+      "vital role",
+      "is vital for",
+      "blueberries"
+    ],
+    [
+      "vital role",
+      "supports",
+      "biodiversity"
+    ],
+    [
+      "vital role",
+      "supports",
+      "nesting sites"
+    ],
+    [
+      "wildlife survival",
+      "affects",
+      "hand pollination"
+    ],
+    [
+      "wildlife survival",
+      "depends on",
+      "action"
+    ],
+    [
+      "wildlife survival",
+      "depends on",
+      "ecosystem health"
+    ],
+    [
+      "wildlife survival",
+      "is critical for",
+      "economic value"
+    ],
+    [
+      "wildlife survival",
+      "is crucial for",
+      "seeds"
+    ],
+    [
+      "wildlife survival",
+      "is essential for",
+      "blueberries"
+    ],
+    [
+      "wildlife survival",
+      "is essential for",
+      "fertilization"
+    ],
+    [
+      "wildlife survival",
+      "supports",
+      "ecosystem stability"
+    ],
+    [
+      "wildlife survival",
+      "threatens",
+      "decline"
+    ],
+    [
+      "wildlife survival",
+      "threatens",
+      "diseases"
+    ],
+    [
+      "wildlife survival",
+      "threatens",
+      "pesticide use"
+    ],
+    [
+      "yield",
+      "affects",
+      "economic value"
+    ],
+    [
+      "yield",
+      "affects",
+      "production costs"
+    ],
+    [
+      "yield",
+      "affects",
+      "quality"
+    ],
+    [
+      "yield",
+      "depends on",
+      "food security"
+    ],
+    [
+      "yield",
+      "depends on",
+      "genetic diversity"
+    ],
+    [
+      "yield",
+      "impacts",
+      "threats"
+    ],
+    [
+      "yield",
+      "influences",
+      "cherries"
+    ],
+    [
+      "yield",
+      "influences",
+      "food crops"
+    ],
+    [
+      "yield",
+      "influences",
+      "foraging behavior"
+    ],
+    [
+      "yield",
+      "influences",
+      "habitat restoration"
+    ],
+    [
+      "yield",
+      "influences",
+      "importance"
+    ],
+    [
+      "yield",
+      "results in",
+      "decline"
+    ]
+  ],
+  "edges": [
+    "addressed by",
+    "addresses",
+    "affected by",
+    "affects",
+    "alternative to",
+    "benefits",
+    "benefits from",
+    "caused by",
+    "causes",
+    "causes decline in",
+    "compares to",
+    "complicates",
+    "comprises",
+    "contributes to",
+    "creates challenges for",
+    "depends on",
+    "determines",
+    "drives",
+    "enables",
+    "enacted by",
+    "encouraged by",
+    "encourages",
+    "enhanced by",
+    "enhances",
+    "ensures",
+    "exacerbated by",
+    "exhibits",
+    "facilitates",
+    "generates",
+    "has economic value for",
+    "impacted by",
+    "impacts",
+    "improves",
+    "incentivizes",
+    "includes",
+    "increases",
+    "indicates",
+    "influenced by",
+    "influences",
+    "is a process of",
+    "is a result of",
+    "is a source of",
+    "is addressed by",
+    "is affected by",
+    "is based on",
+    "is beneficial for",
+    "is caused by",
+    "is compared to",
+    "is critical for",
+    "is crucial for",
+    "is dependent on",
+    "is derived from",
+    "is determined by",
+    "is enhanced by",
+    "is essential for",
+    "is facilitated by",
+    "is impacted by",
+    "is improved by",
+    "is influenced by",
+    "is linked to",
+    "is necessary for",
+    "is part of",
+    "is pollinated by",
+    "is produced by",
+    "is produced from",
+    "is protected by",
+    "is provided by",
+    "is related to",
+    "is reliant on",
+    "is required for",
+    "is significant for",
+    "is supported by",
+    "is threatened by",
+    "is vital for",
+    "leads to",
+    "mitigated by",
+    "mitigates",
+    "needs",
+    "performs",
+    "plays",
+    "plays a role in",
+    "pollinates",
+    "poses a threat to",
+    "poses risks to",
+    "produced by",
+    "produces",
+    "promotes",
+    "provides",
+    "provides for",
+    "receives",
+    "regulated by",
+    "regulates",
+    "relates to",
+    "replaces",
+    "requires",
+    "requires for",
+    "resulted from",
+    "results from",
+    "results in",
+    "serves as",
+    "supported by",
+    "supports",
+    "threatened by",
+    "threatens"
+  ]
+}

@@ -1,0 +1,2138 @@
+{
+  "entities": [
+    "Proustian effect",
+    "alternative medicine",
+    "ancestors",
+    "anxiety reduction",
+    "appreciation",
+    "aroma",
+    "aromatherapy",
+    "beauty",
+    "behavior",
+    "behavioral influence",
+    "brain signals",
+    "chemical reactions",
+    "childhood memories",
+    "complex interactions",
+    "complexity",
+    "connections",
+    "cultural significance",
+    "danger warning",
+    "emotional impact",
+    "emotional responses",
+    "emotional triggers",
+    "emotions",
+    "evolution",
+    "food choices",
+    "food detection",
+    "fragrance industry",
+    "fragrance preferences",
+    "functions",
+    "geographical variations",
+    "human senses",
+    "importance",
+    "insights",
+    "lasting impressions",
+    "limbic system",
+    "mate identification",
+    "memories",
+    "memories recall",
+    "mysteries",
+    "nasal cavity",
+    "nostalgia",
+    "odor molecules",
+    "olfaction",
+    "olfactory epithelium",
+    "olfactory system",
+    "personal connections",
+    "physical well-being",
+    "predators",
+    "psychological insights",
+    "psychological therapy",
+    "psychological well-being",
+    "receptors",
+    "relationships",
+    "scents in culture",
+    "scents preferences",
+    "smell",
+    "social influence",
+    "survival",
+    "therapeutic applications",
+    "therapeutic effects",
+    "unique preferences",
+    "well-being"
+  ],
+  "relations": [
+    [
+      "Proustian effect",
+      "evokes",
+      "emotions"
+    ],
+    [
+      "Proustian effect",
+      "evokes",
+      "memories"
+    ],
+    [
+      "Proustian effect",
+      "is affected by",
+      "psychological well-being"
+    ],
+    [
+      "Proustian effect",
+      "is associated with",
+      "aroma"
+    ],
+    [
+      "Proustian effect",
+      "is explained by",
+      "complexity"
+    ],
+    [
+      "alternative medicine",
+      "drives",
+      "fragrance industry"
+    ],
+    [
+      "alternative medicine",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "alternative medicine",
+      "influences",
+      "behavior"
+    ],
+    [
+      "alternative medicine",
+      "influences",
+      "emotions"
+    ],
+    [
+      "alternative medicine",
+      "influences",
+      "food choices"
+    ],
+    [
+      "alternative medicine",
+      "informs",
+      "Proustian effect"
+    ],
+    [
+      "alternative medicine",
+      "involves",
+      "smell"
+    ],
+    [
+      "alternative medicine",
+      "is applied in",
+      "memories recall"
+    ],
+    [
+      "alternative medicine",
+      "is utilized in",
+      "anxiety reduction"
+    ],
+    [
+      "alternative medicine",
+      "provides",
+      "functions"
+    ],
+    [
+      "alternative medicine",
+      "utilized in",
+      "nostalgia"
+    ],
+    [
+      "alternative medicine",
+      "utilizes",
+      "aroma"
+    ],
+    [
+      "alternative medicine",
+      "utilizes",
+      "psychological well-being"
+    ],
+    [
+      "alternative medicine",
+      "varies by",
+      "geographical variations"
+    ],
+    [
+      "ancestors",
+      "influences",
+      "food choices"
+    ],
+    [
+      "ancestors",
+      "informs",
+      "receptors"
+    ],
+    [
+      "ancestors",
+      "is significant for",
+      "smell"
+    ],
+    [
+      "anxiety reduction",
+      "affects",
+      "emotions"
+    ],
+    [
+      "anxiety reduction",
+      "facilitates",
+      "importance"
+    ],
+    [
+      "anxiety reduction",
+      "reduces",
+      "nostalgia"
+    ],
+    [
+      "appreciation",
+      "appreciated by",
+      "brain signals"
+    ],
+    [
+      "appreciation",
+      "enhances",
+      "aroma"
+    ],
+    [
+      "appreciation",
+      "enhances",
+      "memories"
+    ],
+    [
+      "appreciation",
+      "enhances",
+      "psychological well-being"
+    ],
+    [
+      "appreciation",
+      "enhances",
+      "therapeutic effects"
+    ],
+    [
+      "appreciation",
+      "evokes",
+      "mysteries"
+    ],
+    [
+      "appreciation",
+      "increases",
+      "food choices"
+    ],
+    [
+      "appreciation",
+      "is appreciated by",
+      "Proustian effect"
+    ],
+    [
+      "appreciation",
+      "is appreciated by",
+      "beauty"
+    ],
+    [
+      "appreciation",
+      "is appreciated for",
+      "emotions"
+    ],
+    [
+      "appreciation",
+      "is valued by",
+      "nostalgia"
+    ],
+    [
+      "appreciation",
+      "is valued for",
+      "smell"
+    ],
+    [
+      "appreciation",
+      "valued by",
+      "alternative medicine"
+    ],
+    [
+      "aroma",
+      "enhances",
+      "psychological well-being"
+    ],
+    [
+      "aroma",
+      "evokes",
+      "beauty"
+    ],
+    [
+      "aroma",
+      "evokes",
+      "nostalgia"
+    ],
+    [
+      "aroma",
+      "influenced by",
+      "behavior"
+    ],
+    [
+      "aroma",
+      "influences",
+      "emotional responses"
+    ],
+    [
+      "aroma",
+      "is associated with",
+      "smell"
+    ],
+    [
+      "aroma",
+      "is influenced by",
+      "emotions"
+    ],
+    [
+      "aroma",
+      "is influenced by",
+      "memories"
+    ],
+    [
+      "aromatherapy",
+      "affects",
+      "behavior"
+    ],
+    [
+      "aromatherapy",
+      "enhances",
+      "appreciation"
+    ],
+    [
+      "aromatherapy",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "aromatherapy",
+      "influences",
+      "emotions"
+    ],
+    [
+      "aromatherapy",
+      "involves",
+      "chemical reactions"
+    ],
+    [
+      "aromatherapy",
+      "is a form of",
+      "alternative medicine"
+    ],
+    [
+      "aromatherapy",
+      "provides",
+      "psychological insights"
+    ],
+    [
+      "aromatherapy",
+      "provides",
+      "therapeutic effects"
+    ],
+    [
+      "aromatherapy",
+      "reflects",
+      "cultural significance"
+    ],
+    [
+      "aromatherapy",
+      "shapes",
+      "social influence"
+    ],
+    [
+      "aromatherapy",
+      "supports",
+      "psychological well-being"
+    ],
+    [
+      "aromatherapy",
+      "triggers",
+      "Proustian effect"
+    ],
+    [
+      "aromatherapy",
+      "triggers",
+      "memories"
+    ],
+    [
+      "aromatherapy",
+      "utilizes",
+      "aroma"
+    ],
+    [
+      "aromatherapy",
+      "utilizes",
+      "nostalgia"
+    ],
+    [
+      "beauty",
+      "enhances",
+      "physical well-being"
+    ],
+    [
+      "beauty",
+      "holds",
+      "importance"
+    ],
+    [
+      "beauty",
+      "influences",
+      "mate identification"
+    ],
+    [
+      "beauty",
+      "influences",
+      "relationships"
+    ],
+    [
+      "beauty",
+      "is a characteristic of",
+      "functions"
+    ],
+    [
+      "behavior",
+      "influences",
+      "smell"
+    ],
+    [
+      "behavior",
+      "influences",
+      "survival"
+    ],
+    [
+      "behavior",
+      "is affected by",
+      "lasting impressions"
+    ],
+    [
+      "behavior",
+      "is influenced by",
+      "emotions"
+    ],
+    [
+      "behavior",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "behavioral influence",
+      "affects",
+      "aroma"
+    ],
+    [
+      "behavioral influence",
+      "affects",
+      "relationships"
+    ],
+    [
+      "behavioral influence",
+      "affects",
+      "scents in culture"
+    ],
+    [
+      "behavioral influence",
+      "enables",
+      "therapeutic applications"
+    ],
+    [
+      "behavioral influence",
+      "enhances",
+      "appreciation"
+    ],
+    [
+      "behavioral influence",
+      "improves",
+      "physical well-being"
+    ],
+    [
+      "behavioral influence",
+      "initiates",
+      "chemical reactions"
+    ],
+    [
+      "behavioral influence",
+      "shapes",
+      "emotions"
+    ],
+    [
+      "behavioral influence",
+      "shapes",
+      "fragrance preferences"
+    ],
+    [
+      "brain signals",
+      "influenced by",
+      "social influence"
+    ],
+    [
+      "brain signals",
+      "influences",
+      "alternative medicine"
+    ],
+    [
+      "brain signals",
+      "is processed by",
+      "mysteries"
+    ],
+    [
+      "brain signals",
+      "signals",
+      "emotional responses"
+    ],
+    [
+      "brain signals",
+      "transmits",
+      "aroma"
+    ],
+    [
+      "brain signals",
+      "transmits",
+      "personal connections"
+    ],
+    [
+      "brain signals",
+      "triggered by",
+      "lasting impressions"
+    ],
+    [
+      "chemical reactions",
+      "affects",
+      "aroma"
+    ],
+    [
+      "chemical reactions",
+      "complicates",
+      "complexity"
+    ],
+    [
+      "chemical reactions",
+      "drives",
+      "behavior"
+    ],
+    [
+      "chemical reactions",
+      "drives",
+      "fragrance industry"
+    ],
+    [
+      "chemical reactions",
+      "provides",
+      "insights"
+    ],
+    [
+      "chemical reactions",
+      "triggered by",
+      "memories recall"
+    ],
+    [
+      "chemical reactions",
+      "triggers",
+      "Proustian effect"
+    ],
+    [
+      "chemical reactions",
+      "triggers",
+      "emotions"
+    ],
+    [
+      "chemical reactions",
+      "triggers",
+      "memories"
+    ],
+    [
+      "childhood memories",
+      "affects",
+      "behavioral influence"
+    ],
+    [
+      "childhood memories",
+      "enhances",
+      "psychological well-being"
+    ],
+    [
+      "childhood memories",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "childhood memories",
+      "evokes",
+      "emotional impact"
+    ],
+    [
+      "childhood memories",
+      "provides",
+      "psychological insights"
+    ],
+    [
+      "childhood memories",
+      "provides",
+      "therapeutic effects"
+    ],
+    [
+      "childhood memories",
+      "reflects",
+      "cultural significance"
+    ],
+    [
+      "childhood memories",
+      "serves as",
+      "functions"
+    ],
+    [
+      "childhood memories",
+      "strengthens",
+      "personal connections"
+    ],
+    [
+      "childhood memories",
+      "supports",
+      "psychological therapy"
+    ],
+    [
+      "complex interactions",
+      "affects",
+      "behavior"
+    ],
+    [
+      "complex interactions",
+      "comprises",
+      "smell"
+    ],
+    [
+      "complex interactions",
+      "fosters",
+      "appreciation"
+    ],
+    [
+      "complex interactions",
+      "influences",
+      "scents in culture"
+    ],
+    [
+      "complex interactions",
+      "involves",
+      "receptors"
+    ],
+    [
+      "complexity",
+      "associated with",
+      "predators"
+    ],
+    [
+      "complexity",
+      "is a component of",
+      "olfaction"
+    ],
+    [
+      "complexity",
+      "is related to",
+      "connections"
+    ],
+    [
+      "complexity",
+      "reveals",
+      "mysteries"
+    ],
+    [
+      "complexity",
+      "transmits",
+      "brain signals"
+    ],
+    [
+      "connections",
+      "influences",
+      "olfaction"
+    ],
+    [
+      "connections",
+      "is influenced by",
+      "olfactory system"
+    ],
+    [
+      "connections",
+      "triggers",
+      "Proustian effect"
+    ],
+    [
+      "cultural significance",
+      "evokes",
+      "memories"
+    ],
+    [
+      "danger warning",
+      "alerts",
+      "behavior"
+    ],
+    [
+      "danger warning",
+      "alerts",
+      "connections"
+    ],
+    [
+      "danger warning",
+      "alerts",
+      "evolution"
+    ],
+    [
+      "danger warning",
+      "alerts to",
+      "beauty"
+    ],
+    [
+      "danger warning",
+      "alerts to",
+      "childhood memories"
+    ],
+    [
+      "danger warning",
+      "alerts to",
+      "food detection"
+    ],
+    [
+      "danger warning",
+      "serves as",
+      "mysteries"
+    ],
+    [
+      "emotional impact",
+      "affects",
+      "aroma"
+    ],
+    [
+      "emotional impact",
+      "enhances",
+      "aromatherapy"
+    ],
+    [
+      "emotional impact",
+      "enhances",
+      "psychological well-being"
+    ],
+    [
+      "emotional impact",
+      "provides",
+      "therapeutic effects"
+    ],
+    [
+      "emotional impact",
+      "shapes",
+      "behavioral influence"
+    ],
+    [
+      "emotional impact",
+      "supports",
+      "psychological therapy"
+    ],
+    [
+      "emotional responses",
+      "enhances",
+      "aromatherapy"
+    ],
+    [
+      "emotional responses",
+      "influences",
+      "mate identification"
+    ],
+    [
+      "emotional responses",
+      "provides",
+      "insights"
+    ],
+    [
+      "emotional responses",
+      "supports",
+      "psychological therapy"
+    ],
+    [
+      "emotional responses",
+      "triggers",
+      "Proustian effect"
+    ],
+    [
+      "emotional triggers",
+      "evokes",
+      "aroma"
+    ],
+    [
+      "emotional triggers",
+      "influences",
+      "therapeutic applications"
+    ],
+    [
+      "emotional triggers",
+      "transmits",
+      "brain signals"
+    ],
+    [
+      "emotional triggers",
+      "triggers",
+      "personal connections"
+    ],
+    [
+      "emotional triggers",
+      "triggers",
+      "physical well-being"
+    ],
+    [
+      "emotions",
+      "affects",
+      "psychological well-being"
+    ],
+    [
+      "emotions",
+      "affects",
+      "scents preferences"
+    ],
+    [
+      "emotions",
+      "evokes",
+      "beauty"
+    ],
+    [
+      "emotions",
+      "evokes",
+      "lasting impressions"
+    ],
+    [
+      "emotions",
+      "influences",
+      "functions"
+    ],
+    [
+      "emotions",
+      "is related to",
+      "mysteries"
+    ],
+    [
+      "emotions",
+      "provides",
+      "insights"
+    ],
+    [
+      "evolution",
+      "influences",
+      "connections"
+    ],
+    [
+      "evolution",
+      "influences",
+      "geographical variations"
+    ],
+    [
+      "evolution",
+      "influences",
+      "limbic system"
+    ],
+    [
+      "evolution",
+      "informs",
+      "survival"
+    ],
+    [
+      "evolution",
+      "is crucial for",
+      "olfactory system"
+    ],
+    [
+      "food choices",
+      "affects",
+      "evolution"
+    ],
+    [
+      "food choices",
+      "guides",
+      "functions"
+    ],
+    [
+      "food choices",
+      "guides",
+      "physical well-being"
+    ],
+    [
+      "food choices",
+      "influences",
+      "aroma"
+    ],
+    [
+      "food choices",
+      "influences",
+      "behavior"
+    ],
+    [
+      "food choices",
+      "influences",
+      "smell"
+    ],
+    [
+      "food choices",
+      "promotes",
+      "well-being"
+    ],
+    [
+      "food detection",
+      "offers",
+      "insights"
+    ],
+    [
+      "fragrance industry",
+      "affects",
+      "emotions"
+    ],
+    [
+      "fragrance industry",
+      "benefits from",
+      "physical well-being"
+    ],
+    [
+      "fragrance industry",
+      "benefits from",
+      "therapeutic applications"
+    ],
+    [
+      "fragrance industry",
+      "driven by",
+      "memories recall"
+    ],
+    [
+      "fragrance industry",
+      "drives",
+      "appreciation"
+    ],
+    [
+      "fragrance industry",
+      "influences",
+      "beauty"
+    ],
+    [
+      "fragrance industry",
+      "influences",
+      "behavior"
+    ],
+    [
+      "fragrance industry",
+      "influences",
+      "food choices"
+    ],
+    [
+      "fragrance industry",
+      "is associated with",
+      "Proustian effect"
+    ],
+    [
+      "fragrance industry",
+      "is driven by",
+      "lasting impressions"
+    ],
+    [
+      "fragrance industry",
+      "is influenced by",
+      "mysteries"
+    ],
+    [
+      "fragrance industry",
+      "produces",
+      "aroma"
+    ],
+    [
+      "fragrance industry",
+      "promotes",
+      "well-being"
+    ],
+    [
+      "fragrance industry",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "fragrance industry",
+      "utilizes",
+      "psychological therapy"
+    ],
+    [
+      "fragrance preferences",
+      "influences",
+      "memories"
+    ],
+    [
+      "fragrance preferences",
+      "shapes",
+      "emotional impact"
+    ],
+    [
+      "functions",
+      "describes",
+      "complexity"
+    ],
+    [
+      "functions",
+      "describes",
+      "olfactory system"
+    ],
+    [
+      "functions",
+      "guides",
+      "aroma"
+    ],
+    [
+      "functions",
+      "is a function of",
+      "nasal cavity"
+    ],
+    [
+      "functions",
+      "supports",
+      "well-being"
+    ],
+    [
+      "geographical variations",
+      "provides",
+      "insights"
+    ],
+    [
+      "human senses",
+      "aids in",
+      "mate identification"
+    ],
+    [
+      "human senses",
+      "guides",
+      "food choices"
+    ],
+    [
+      "human senses",
+      "influences",
+      "smell"
+    ],
+    [
+      "human senses",
+      "interacts with",
+      "receptors"
+    ],
+    [
+      "human senses",
+      "involves",
+      "complex interactions"
+    ],
+    [
+      "human senses",
+      "provides",
+      "insights"
+    ],
+    [
+      "human senses",
+      "warns about",
+      "danger warning"
+    ],
+    [
+      "importance",
+      "determines",
+      "fragrance preferences"
+    ],
+    [
+      "importance",
+      "drives",
+      "fragrance industry"
+    ],
+    [
+      "importance",
+      "emphasizes",
+      "appreciation"
+    ],
+    [
+      "importance",
+      "highlights",
+      "alternative medicine"
+    ],
+    [
+      "importance",
+      "is crucial for",
+      "lasting impressions"
+    ],
+    [
+      "insights",
+      "derived from",
+      "appreciation"
+    ],
+    [
+      "insights",
+      "provides",
+      "Proustian effect"
+    ],
+    [
+      "insights",
+      "provides",
+      "alternative medicine"
+    ],
+    [
+      "insights",
+      "provides",
+      "evolution"
+    ],
+    [
+      "insights",
+      "provides",
+      "functions"
+    ],
+    [
+      "insights",
+      "provides",
+      "mysteries"
+    ],
+    [
+      "insights",
+      "provides",
+      "odor molecules"
+    ],
+    [
+      "insights",
+      "provides",
+      "predators"
+    ],
+    [
+      "insights",
+      "provides",
+      "receptors"
+    ],
+    [
+      "lasting impressions",
+      "enhances",
+      "aromatherapy"
+    ],
+    [
+      "lasting impressions",
+      "influences",
+      "fragrance preferences"
+    ],
+    [
+      "lasting impressions",
+      "is influenced by",
+      "aroma"
+    ],
+    [
+      "lasting impressions",
+      "reduces",
+      "anxiety reduction"
+    ],
+    [
+      "lasting impressions",
+      "triggers",
+      "Proustian effect"
+    ],
+    [
+      "limbic system",
+      "facilitates",
+      "food detection"
+    ],
+    [
+      "limbic system",
+      "influences",
+      "human senses"
+    ],
+    [
+      "limbic system",
+      "interacts with",
+      "olfactory epithelium"
+    ],
+    [
+      "limbic system",
+      "interacts with",
+      "receptors"
+    ],
+    [
+      "limbic system",
+      "processes",
+      "odor molecules"
+    ],
+    [
+      "limbic system",
+      "processes",
+      "olfactory system"
+    ],
+    [
+      "mate identification",
+      "aids",
+      "food detection"
+    ],
+    [
+      "mate identification",
+      "alerts to",
+      "danger warning"
+    ],
+    [
+      "mate identification",
+      "binds to",
+      "receptors"
+    ],
+    [
+      "mate identification",
+      "guides",
+      "food choices"
+    ],
+    [
+      "mate identification",
+      "serves",
+      "functions"
+    ],
+    [
+      "mate identification",
+      "triggers",
+      "chemical reactions"
+    ],
+    [
+      "memories",
+      "associated with",
+      "emotional impact"
+    ],
+    [
+      "memories",
+      "evokes",
+      "emotional responses"
+    ],
+    [
+      "memories",
+      "evokes",
+      "emotional triggers"
+    ],
+    [
+      "memories",
+      "evokes",
+      "emotions"
+    ],
+    [
+      "memories",
+      "evokes",
+      "well-being"
+    ],
+    [
+      "memories",
+      "influences",
+      "behavior"
+    ],
+    [
+      "memories",
+      "is associated with",
+      "alternative medicine"
+    ],
+    [
+      "memories",
+      "triggers",
+      "psychological well-being"
+    ],
+    [
+      "memories recall",
+      "evokes",
+      "emotions"
+    ],
+    [
+      "memories recall",
+      "facilitates",
+      "anxiety reduction"
+    ],
+    [
+      "memories recall",
+      "illustrates",
+      "cultural significance"
+    ],
+    [
+      "memories recall",
+      "triggers",
+      "brain signals"
+    ],
+    [
+      "memories recall",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "mysteries",
+      "is a mystery of",
+      "nasal cavity"
+    ],
+    [
+      "mysteries",
+      "is a part of",
+      "beauty"
+    ],
+    [
+      "mysteries",
+      "is related to",
+      "receptors"
+    ],
+    [
+      "nasal cavity",
+      "alerts to",
+      "danger warning"
+    ],
+    [
+      "nasal cavity",
+      "contains",
+      "receptors"
+    ],
+    [
+      "nasal cavity",
+      "detects",
+      "food detection"
+    ],
+    [
+      "nasal cavity",
+      "has",
+      "unique preferences"
+    ],
+    [
+      "nasal cavity",
+      "involves",
+      "complex interactions"
+    ],
+    [
+      "nasal cavity",
+      "is part of",
+      "olfactory system"
+    ],
+    [
+      "nasal cavity",
+      "receives",
+      "odor molecules"
+    ],
+    [
+      "nostalgia",
+      "evokes",
+      "lasting impressions"
+    ],
+    [
+      "nostalgia",
+      "evokes",
+      "memories"
+    ],
+    [
+      "nostalgia",
+      "influences",
+      "behavioral influence"
+    ],
+    [
+      "nostalgia",
+      "influences",
+      "psychological therapy"
+    ],
+    [
+      "nostalgia",
+      "influences",
+      "social influence"
+    ],
+    [
+      "nostalgia",
+      "provides",
+      "psychological insights"
+    ],
+    [
+      "nostalgia",
+      "triggers",
+      "Proustian effect"
+    ],
+    [
+      "nostalgia",
+      "triggers",
+      "chemical reactions"
+    ],
+    [
+      "nostalgia",
+      "triggers",
+      "psychological well-being"
+    ],
+    [
+      "odor molecules",
+      "affects",
+      "emotions"
+    ],
+    [
+      "odor molecules",
+      "aids in",
+      "mate identification"
+    ],
+    [
+      "odor molecules",
+      "alerts to",
+      "danger warning"
+    ],
+    [
+      "odor molecules",
+      "binds to",
+      "olfactory epithelium"
+    ],
+    [
+      "odor molecules",
+      "contributes to",
+      "complexity"
+    ],
+    [
+      "odor molecules",
+      "enables",
+      "olfaction"
+    ],
+    [
+      "odor molecules",
+      "enters",
+      "nasal cavity"
+    ],
+    [
+      "odor molecules",
+      "establishes",
+      "connections"
+    ],
+    [
+      "odor molecules",
+      "influences",
+      "human senses"
+    ],
+    [
+      "odor molecules",
+      "initiates",
+      "chemical reactions"
+    ],
+    [
+      "odor molecules",
+      "interacts with",
+      "olfactory system"
+    ],
+    [
+      "odor molecules",
+      "involves",
+      "complex interactions"
+    ],
+    [
+      "odor molecules",
+      "shapes",
+      "social influence"
+    ],
+    [
+      "odor molecules",
+      "triggers",
+      "Proustian effect"
+    ],
+    [
+      "odor molecules",
+      "triggers",
+      "brain signals"
+    ],
+    [
+      "olfaction",
+      "affects",
+      "emotions"
+    ],
+    [
+      "olfaction",
+      "offers",
+      "insights"
+    ],
+    [
+      "olfactory epithelium",
+      "aids in",
+      "food detection"
+    ],
+    [
+      "olfactory epithelium",
+      "contains",
+      "receptors"
+    ],
+    [
+      "olfactory epithelium",
+      "enables",
+      "olfaction"
+    ],
+    [
+      "olfactory epithelium",
+      "guides",
+      "food choices"
+    ],
+    [
+      "olfactory epithelium",
+      "informs",
+      "mysteries"
+    ],
+    [
+      "olfactory epithelium",
+      "informs",
+      "predators"
+    ],
+    [
+      "olfactory epithelium",
+      "is linked to",
+      "evolution"
+    ],
+    [
+      "olfactory epithelium",
+      "is related to",
+      "smell"
+    ],
+    [
+      "olfactory epithelium",
+      "part of",
+      "olfactory system"
+    ],
+    [
+      "olfactory epithelium",
+      "performs",
+      "functions"
+    ],
+    [
+      "olfactory epithelium",
+      "provides",
+      "insights"
+    ],
+    [
+      "olfactory system",
+      "contains",
+      "receptors"
+    ],
+    [
+      "olfactory system",
+      "facilitates",
+      "food detection"
+    ],
+    [
+      "olfactory system",
+      "guides",
+      "food choices"
+    ],
+    [
+      "olfactory system",
+      "influences",
+      "limbic system"
+    ],
+    [
+      "olfactory system",
+      "is a component of",
+      "olfaction"
+    ],
+    [
+      "personal connections",
+      "enhances",
+      "appreciation"
+    ],
+    [
+      "personal connections",
+      "enhances",
+      "aroma"
+    ],
+    [
+      "personal connections",
+      "enhances",
+      "therapeutic effects"
+    ],
+    [
+      "personal connections",
+      "evokes",
+      "memories"
+    ],
+    [
+      "personal connections",
+      "influences",
+      "emotions"
+    ],
+    [
+      "personal connections",
+      "shapes",
+      "social influence"
+    ],
+    [
+      "personal connections",
+      "triggers",
+      "chemical reactions"
+    ],
+    [
+      "physical well-being",
+      "associated with",
+      "aroma"
+    ],
+    [
+      "physical well-being",
+      "enhances",
+      "memories recall"
+    ],
+    [
+      "physical well-being",
+      "evokes",
+      "memories"
+    ],
+    [
+      "physical well-being",
+      "influences",
+      "scents preferences"
+    ],
+    [
+      "physical well-being",
+      "promotes",
+      "appreciation"
+    ],
+    [
+      "predators",
+      "alerts",
+      "food detection"
+    ],
+    [
+      "predators",
+      "influences",
+      "connections"
+    ],
+    [
+      "predators",
+      "is detected by",
+      "olfaction"
+    ],
+    [
+      "predators",
+      "is detected by",
+      "receptors"
+    ],
+    [
+      "predators",
+      "serves",
+      "functions"
+    ],
+    [
+      "predators",
+      "supports",
+      "survival"
+    ],
+    [
+      "predators",
+      "threatens",
+      "ancestors"
+    ],
+    [
+      "predators",
+      "threatens",
+      "nasal cavity"
+    ],
+    [
+      "psychological insights",
+      "affects",
+      "behavior"
+    ],
+    [
+      "psychological insights",
+      "highlights",
+      "cultural significance"
+    ],
+    [
+      "psychological insights",
+      "illustrates",
+      "Proustian effect"
+    ],
+    [
+      "psychological insights",
+      "informs",
+      "emotions"
+    ],
+    [
+      "psychological insights",
+      "informs",
+      "therapeutic applications"
+    ],
+    [
+      "psychological insights",
+      "provides",
+      "personal connections"
+    ],
+    [
+      "psychological therapy",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "psychological therapy",
+      "influences",
+      "emotions"
+    ],
+    [
+      "psychological therapy",
+      "utilizes",
+      "brain signals"
+    ],
+    [
+      "psychological well-being",
+      "produces",
+      "therapeutic effects"
+    ],
+    [
+      "psychological well-being",
+      "triggers",
+      "chemical reactions"
+    ],
+    [
+      "receptors",
+      "influences",
+      "beauty"
+    ],
+    [
+      "receptors",
+      "is essential for",
+      "survival"
+    ],
+    [
+      "relationships",
+      "contributes to",
+      "well-being"
+    ],
+    [
+      "relationships",
+      "has",
+      "therapeutic effects"
+    ],
+    [
+      "relationships",
+      "highlights",
+      "importance"
+    ],
+    [
+      "relationships",
+      "influences",
+      "food choices"
+    ],
+    [
+      "relationships",
+      "influences",
+      "memories recall"
+    ],
+    [
+      "relationships",
+      "is influenced by",
+      "lasting impressions"
+    ],
+    [
+      "relationships",
+      "shapes",
+      "social influence"
+    ],
+    [
+      "scents in culture",
+      "affected by",
+      "complex interactions"
+    ],
+    [
+      "scents in culture",
+      "applies to",
+      "therapeutic applications"
+    ],
+    [
+      "scents in culture",
+      "enhances",
+      "appreciation"
+    ],
+    [
+      "scents in culture",
+      "evokes",
+      "emotional triggers"
+    ],
+    [
+      "scents in culture",
+      "evokes",
+      "memories"
+    ],
+    [
+      "scents in culture",
+      "influenced by",
+      "psychological well-being"
+    ],
+    [
+      "scents in culture",
+      "influences",
+      "aroma"
+    ],
+    [
+      "scents in culture",
+      "informs",
+      "alternative medicine"
+    ],
+    [
+      "scents in culture",
+      "initiates",
+      "chemical reactions"
+    ],
+    [
+      "scents in culture",
+      "provides",
+      "insights"
+    ],
+    [
+      "scents preferences",
+      "determines",
+      "importance"
+    ],
+    [
+      "scents preferences",
+      "influences",
+      "aroma"
+    ],
+    [
+      "scents preferences",
+      "shapes",
+      "therapeutic effects"
+    ],
+    [
+      "smell",
+      "associated with",
+      "nasal cavity"
+    ],
+    [
+      "smell",
+      "describes",
+      "complexity"
+    ],
+    [
+      "smell",
+      "evokes",
+      "olfactory system"
+    ],
+    [
+      "smell",
+      "is appreciated for",
+      "beauty"
+    ],
+    [
+      "smell",
+      "is detected by",
+      "predators"
+    ],
+    [
+      "smell",
+      "is influenced by",
+      "well-being"
+    ],
+    [
+      "smell",
+      "is significant for",
+      "evolution"
+    ],
+    [
+      "smell",
+      "serves",
+      "functions"
+    ],
+    [
+      "social influence",
+      "affected by",
+      "lasting impressions"
+    ],
+    [
+      "social influence",
+      "affects",
+      "olfaction"
+    ],
+    [
+      "social influence",
+      "affects",
+      "smell"
+    ],
+    [
+      "social influence",
+      "affects",
+      "therapeutic effects"
+    ],
+    [
+      "social influence",
+      "demonstrates",
+      "Proustian effect"
+    ],
+    [
+      "social influence",
+      "influences",
+      "food choices"
+    ],
+    [
+      "social influence",
+      "influences",
+      "memories recall"
+    ],
+    [
+      "social influence",
+      "shapes",
+      "fragrance preferences"
+    ],
+    [
+      "social influence",
+      "shapes",
+      "memories"
+    ],
+    [
+      "social influence",
+      "utilizes",
+      "alternative medicine"
+    ],
+    [
+      "survival",
+      "drives",
+      "fragrance industry"
+    ],
+    [
+      "survival",
+      "encompasses",
+      "functions"
+    ],
+    [
+      "survival",
+      "is essential for",
+      "beauty"
+    ],
+    [
+      "survival",
+      "relied on by",
+      "ancestors"
+    ],
+    [
+      "survival",
+      "supports",
+      "geographical variations"
+    ],
+    [
+      "survival",
+      "supports",
+      "nasal cavity"
+    ],
+    [
+      "survival",
+      "supports",
+      "olfactory system"
+    ],
+    [
+      "survival",
+      "supports",
+      "physical well-being"
+    ],
+    [
+      "therapeutic applications",
+      "involves",
+      "fragrance preferences"
+    ],
+    [
+      "therapeutic applications",
+      "promotes",
+      "well-being"
+    ],
+    [
+      "therapeutic applications",
+      "provides",
+      "insights"
+    ],
+    [
+      "therapeutic applications",
+      "triggers",
+      "memories"
+    ],
+    [
+      "therapeutic applications",
+      "utilizes",
+      "relationships"
+    ],
+    [
+      "therapeutic effects",
+      "affects",
+      "behavior"
+    ],
+    [
+      "therapeutic effects",
+      "affects",
+      "brain signals"
+    ],
+    [
+      "therapeutic effects",
+      "affects",
+      "emotions"
+    ],
+    [
+      "therapeutic effects",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "therapeutic effects",
+      "has",
+      "aroma"
+    ],
+    [
+      "therapeutic effects",
+      "influences",
+      "fragrance industry"
+    ],
+    [
+      "therapeutic effects",
+      "influences",
+      "memories"
+    ],
+    [
+      "therapeutic effects",
+      "is influenced by",
+      "nostalgia"
+    ],
+    [
+      "therapeutic effects",
+      "result of",
+      "chemical reactions"
+    ],
+    [
+      "therapeutic effects",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "unique preferences",
+      "affects",
+      "receptors"
+    ],
+    [
+      "unique preferences",
+      "contributes to",
+      "well-being"
+    ],
+    [
+      "unique preferences",
+      "guides",
+      "food detection"
+    ],
+    [
+      "unique preferences",
+      "influences",
+      "food choices"
+    ],
+    [
+      "unique preferences",
+      "influences",
+      "olfactory system"
+    ],
+    [
+      "unique preferences",
+      "is characterized by",
+      "smell"
+    ],
+    [
+      "well-being",
+      "contributes to",
+      "survival"
+    ],
+    [
+      "well-being",
+      "enhances",
+      "lasting impressions"
+    ],
+    [
+      "well-being",
+      "improves",
+      "aroma"
+    ],
+    [
+      "well-being",
+      "is connected to",
+      "mysteries"
+    ],
+    [
+      "well-being",
+      "supports",
+      "nostalgia"
+    ]
+  ],
+  "edges": [
+    "affected by",
+    "affects",
+    "aids",
+    "aids in",
+    "alerts",
+    "alerts to",
+    "applies to",
+    "appreciated by",
+    "associated with",
+    "benefits from",
+    "binds to",
+    "complicates",
+    "comprises",
+    "contains",
+    "contributes to",
+    "demonstrates",
+    "derived from",
+    "describes",
+    "detects",
+    "determines",
+    "driven by",
+    "drives",
+    "emphasizes",
+    "enables",
+    "encompasses",
+    "enhances",
+    "enters",
+    "establishes",
+    "evokes",
+    "facilitates",
+    "fosters",
+    "guides",
+    "has",
+    "highlights",
+    "holds",
+    "illustrates",
+    "improves",
+    "increases",
+    "influenced by",
+    "influences",
+    "informs",
+    "initiates",
+    "interacts with",
+    "involves",
+    "is a characteristic of",
+    "is a component of",
+    "is a form of",
+    "is a function of",
+    "is a mystery of",
+    "is a part of",
+    "is affected by",
+    "is applied in",
+    "is appreciated by",
+    "is appreciated for",
+    "is associated with",
+    "is characterized by",
+    "is connected to",
+    "is crucial for",
+    "is detected by",
+    "is driven by",
+    "is essential for",
+    "is explained by",
+    "is influenced by",
+    "is linked to",
+    "is part of",
+    "is processed by",
+    "is related to",
+    "is significant for",
+    "is utilized in",
+    "is valued by",
+    "is valued for",
+    "offers",
+    "part of",
+    "performs",
+    "processes",
+    "produces",
+    "promotes",
+    "provides",
+    "receives",
+    "reduces",
+    "reflects",
+    "relied on by",
+    "result of",
+    "reveals",
+    "serves",
+    "serves as",
+    "shapes",
+    "signals",
+    "strengthens",
+    "supports",
+    "threatens",
+    "transmits",
+    "triggered by",
+    "triggers",
+    "utilized in",
+    "utilizes",
+    "valued by",
+    "varies by",
+    "warns about"
+  ]
+}

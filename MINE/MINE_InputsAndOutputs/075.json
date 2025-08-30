@@ -1,0 +1,3626 @@
+{
+  "entities": [
+    "American Dream",
+    "Industrial Revolution",
+    "Middle Ages",
+    "ancient architecture",
+    "ancient civilizations",
+    "ancient times",
+    "apartment buildings",
+    "architecture",
+    "architecture history",
+    "building materials",
+    "community structures",
+    "cultural influences",
+    "cultural values",
+    "design elements",
+    "design evolution",
+    "domestic life",
+    "early humans",
+    "elaborate architecture",
+    "energy-efficient",
+    "evolution",
+    "fortified homes",
+    "functional spaces",
+    "functionality",
+    "functions of home",
+    "grand homes",
+    "green building",
+    "home as symbol",
+    "home design",
+    "home design changes",
+    "home layout",
+    "home significance",
+    "indoor outdoor integration",
+    "manor house",
+    "mass-produced housing",
+    "modern amenities",
+    "modern home",
+    "modernist movement",
+    "natural light",
+    "open floor plans",
+    "organized societies",
+    "passive solar design",
+    "political life",
+    "rainwater harvesting",
+    "refuge and rest",
+    "religious life",
+    "renewable energy",
+    "settled communities",
+    "smart homes",
+    "smart technology",
+    "social hierarchy",
+    "societal norms",
+    "suburban community",
+    "sustainable design",
+    "technological advancements",
+    "traditional dwellings",
+    "urbanization",
+    "wealth and status"
+  ],
+  "relations": [
+    [
+      "American Dream",
+      "driven by",
+      "urbanization"
+    ],
+    [
+      "American Dream",
+      "embodies",
+      "functionality"
+    ],
+    [
+      "American Dream",
+      "embodies",
+      "modern amenities"
+    ],
+    [
+      "American Dream",
+      "embodies",
+      "modern home"
+    ],
+    [
+      "American Dream",
+      "influences",
+      "community structures"
+    ],
+    [
+      "American Dream",
+      "influences",
+      "evolution"
+    ],
+    [
+      "American Dream",
+      "is associated with",
+      "political life"
+    ],
+    [
+      "American Dream",
+      "is influenced by",
+      "social hierarchy"
+    ],
+    [
+      "American Dream",
+      "is shaped by",
+      "cultural influences"
+    ],
+    [
+      "American Dream",
+      "represents",
+      "home layout"
+    ],
+    [
+      "American Dream",
+      "represents",
+      "home significance"
+    ],
+    [
+      "American Dream",
+      "represents",
+      "passive solar design"
+    ],
+    [
+      "Industrial Revolution",
+      "accelerated",
+      "urbanization"
+    ],
+    [
+      "Industrial Revolution",
+      "affects",
+      "political life"
+    ],
+    [
+      "Industrial Revolution",
+      "drives",
+      "design evolution"
+    ],
+    [
+      "Industrial Revolution",
+      "drives",
+      "smart technology"
+    ],
+    [
+      "Industrial Revolution",
+      "emerged from",
+      "apartment buildings"
+    ],
+    [
+      "Industrial Revolution",
+      "emerges from",
+      "suburban community"
+    ],
+    [
+      "Industrial Revolution",
+      "enhanced by",
+      "functionality"
+    ],
+    [
+      "Industrial Revolution",
+      "impacts",
+      "ancient architecture"
+    ],
+    [
+      "Industrial Revolution",
+      "influenced by",
+      "elaborate architecture"
+    ],
+    [
+      "Industrial Revolution",
+      "inspired",
+      "passive solar design"
+    ],
+    [
+      "Industrial Revolution",
+      "led to",
+      "mass-produced housing"
+    ],
+    [
+      "Industrial Revolution",
+      "led to",
+      "open floor plans"
+    ],
+    [
+      "Industrial Revolution",
+      "led to",
+      "sustainable design"
+    ],
+    [
+      "Industrial Revolution",
+      "promotes",
+      "rainwater harvesting"
+    ],
+    [
+      "Industrial Revolution",
+      "shaped by",
+      "American Dream"
+    ],
+    [
+      "Industrial Revolution",
+      "transformed",
+      "functions of home"
+    ],
+    [
+      "Industrial Revolution",
+      "transformed",
+      "organized societies"
+    ],
+    [
+      "Industrial Revolution",
+      "transformed",
+      "technological advancements"
+    ],
+    [
+      "Industrial Revolution",
+      "transformed by",
+      "home design"
+    ],
+    [
+      "Industrial Revolution",
+      "transforms",
+      "design elements"
+    ],
+    [
+      "Industrial Revolution",
+      "transforms",
+      "home layout"
+    ],
+    [
+      "Industrial Revolution",
+      "transforms",
+      "modern home"
+    ],
+    [
+      "Middle Ages",
+      "contrasts with",
+      "modern home"
+    ],
+    [
+      "Middle Ages",
+      "developed during",
+      "apartment buildings"
+    ],
+    [
+      "Middle Ages",
+      "existed during",
+      "modern amenities"
+    ],
+    [
+      "Middle Ages",
+      "influenced",
+      "home layout"
+    ],
+    [
+      "Middle Ages",
+      "influenced by",
+      "ancient architecture"
+    ],
+    [
+      "Middle Ages",
+      "influenced by",
+      "functions of home"
+    ],
+    [
+      "Middle Ages",
+      "shaped",
+      "home design"
+    ],
+    [
+      "Middle Ages",
+      "was influenced by",
+      "passive solar design"
+    ],
+    [
+      "ancient architecture",
+      "evolves into",
+      "evolution"
+    ],
+    [
+      "ancient architecture",
+      "influenced by",
+      "architecture"
+    ],
+    [
+      "ancient architecture",
+      "influences",
+      "ancient civilizations"
+    ],
+    [
+      "ancient architecture",
+      "influences",
+      "elaborate architecture"
+    ],
+    [
+      "ancient architecture",
+      "influences",
+      "manor house"
+    ],
+    [
+      "ancient architecture",
+      "informs",
+      "building materials"
+    ],
+    [
+      "ancient architecture",
+      "informs",
+      "social hierarchy"
+    ],
+    [
+      "ancient architecture",
+      "originates from",
+      "ancient times"
+    ],
+    [
+      "ancient architecture",
+      "provides",
+      "early humans"
+    ],
+    [
+      "ancient architecture",
+      "provides",
+      "refuge and rest"
+    ],
+    [
+      "ancient architecture",
+      "shapes",
+      "community structures"
+    ],
+    [
+      "ancient civilizations",
+      "constructed by",
+      "manor house"
+    ],
+    [
+      "ancient civilizations",
+      "defined by",
+      "domestic life"
+    ],
+    [
+      "ancient civilizations",
+      "derived from",
+      "apartment buildings"
+    ],
+    [
+      "ancient civilizations",
+      "developed by",
+      "fortified homes"
+    ],
+    [
+      "ancient civilizations",
+      "enhances",
+      "functionality"
+    ],
+    [
+      "ancient civilizations",
+      "evolved from",
+      "modern home"
+    ],
+    [
+      "ancient civilizations",
+      "existed during",
+      "ancient times"
+    ],
+    [
+      "ancient civilizations",
+      "influenced",
+      "design evolution"
+    ],
+    [
+      "ancient civilizations",
+      "influenced by",
+      "social hierarchy"
+    ],
+    [
+      "ancient civilizations",
+      "influences",
+      "community structures"
+    ],
+    [
+      "ancient civilizations",
+      "influences",
+      "rainwater harvesting"
+    ],
+    [
+      "ancient civilizations",
+      "is influenced by",
+      "energy-efficient"
+    ],
+    [
+      "ancient civilizations",
+      "reflects",
+      "cultural values"
+    ],
+    [
+      "ancient civilizations",
+      "shaped",
+      "societal norms"
+    ],
+    [
+      "ancient civilizations",
+      "utilized by",
+      "building materials"
+    ],
+    [
+      "ancient civilizations",
+      "utilized by",
+      "natural light"
+    ],
+    [
+      "ancient times",
+      "characterized by",
+      "domestic life"
+    ],
+    [
+      "ancient times",
+      "evolved from",
+      "grand homes"
+    ],
+    [
+      "ancient times",
+      "inspired by",
+      "smart homes"
+    ],
+    [
+      "ancient times",
+      "inspired by",
+      "smart technology"
+    ],
+    [
+      "ancient times",
+      "originated from",
+      "modern amenities"
+    ],
+    [
+      "ancient times",
+      "originated in",
+      "building materials"
+    ],
+    [
+      "ancient times",
+      "preceded by",
+      "manor house"
+    ],
+    [
+      "ancient times",
+      "preceded by",
+      "suburban community"
+    ],
+    [
+      "ancient times",
+      "precedes",
+      "apartment buildings"
+    ],
+    [
+      "ancient times",
+      "precedes",
+      "modernist movement"
+    ],
+    [
+      "ancient times",
+      "reflects",
+      "elaborate architecture"
+    ],
+    [
+      "ancient times",
+      "reflects",
+      "home as symbol"
+    ],
+    [
+      "ancient times",
+      "reflects",
+      "modern home"
+    ],
+    [
+      "ancient times",
+      "shapes",
+      "home design changes"
+    ],
+    [
+      "ancient times",
+      "shapes",
+      "societal norms"
+    ],
+    [
+      "ancient times",
+      "traces back to",
+      "architecture history"
+    ],
+    [
+      "apartment buildings",
+      "derived from",
+      "indoor outdoor integration"
+    ],
+    [
+      "apartment buildings",
+      "developed from",
+      "modern home"
+    ],
+    [
+      "apartment buildings",
+      "developed from",
+      "settled communities"
+    ],
+    [
+      "apartment buildings",
+      "enhances",
+      "functionality"
+    ],
+    [
+      "apartment buildings",
+      "enhances",
+      "natural light"
+    ],
+    [
+      "apartment buildings",
+      "provides",
+      "modern amenities"
+    ],
+    [
+      "apartment buildings",
+      "represents",
+      "home design changes"
+    ],
+    [
+      "architecture",
+      "defines",
+      "home design"
+    ],
+    [
+      "architecture",
+      "drives",
+      "home design changes"
+    ],
+    [
+      "architecture",
+      "enhanced by",
+      "energy-efficient"
+    ],
+    [
+      "architecture",
+      "enhances",
+      "functionality"
+    ],
+    [
+      "architecture",
+      "includes",
+      "modern amenities"
+    ],
+    [
+      "architecture",
+      "influenced",
+      "sustainable design"
+    ],
+    [
+      "architecture",
+      "influences",
+      "modernist movement"
+    ],
+    [
+      "architecture",
+      "influences",
+      "political life"
+    ],
+    [
+      "architecture",
+      "informs",
+      "rainwater harvesting"
+    ],
+    [
+      "architecture",
+      "is a part of",
+      "design evolution"
+    ],
+    [
+      "architecture",
+      "is characterized by",
+      "design elements"
+    ],
+    [
+      "architecture",
+      "produced",
+      "mass-produced housing"
+    ],
+    [
+      "architecture",
+      "reflects",
+      "wealth and status"
+    ],
+    [
+      "architecture",
+      "represents",
+      "manor house"
+    ],
+    [
+      "architecture history",
+      "includes",
+      "elaborate architecture"
+    ],
+    [
+      "architecture history",
+      "influenced the development of",
+      "suburban community"
+    ],
+    [
+      "architecture history",
+      "influences",
+      "modern amenities"
+    ],
+    [
+      "architecture history",
+      "influences",
+      "traditional dwellings"
+    ],
+    [
+      "architecture history",
+      "shapes",
+      "natural light"
+    ],
+    [
+      "architecture history",
+      "utilizes",
+      "rainwater harvesting"
+    ],
+    [
+      "building materials",
+      "catalyzed by",
+      "Industrial Revolution"
+    ],
+    [
+      "building materials",
+      "creates",
+      "functional spaces"
+    ],
+    [
+      "building materials",
+      "documents",
+      "architecture history"
+    ],
+    [
+      "building materials",
+      "facilitates",
+      "mass-produced housing"
+    ],
+    [
+      "building materials",
+      "includes",
+      "energy-efficient"
+    ],
+    [
+      "building materials",
+      "influenced",
+      "modernist movement"
+    ],
+    [
+      "building materials",
+      "influences",
+      "design evolution"
+    ],
+    [
+      "building materials",
+      "influences",
+      "elaborate architecture"
+    ],
+    [
+      "building materials",
+      "influences",
+      "home design"
+    ],
+    [
+      "building materials",
+      "influences",
+      "home design changes"
+    ],
+    [
+      "building materials",
+      "influences",
+      "modern home"
+    ],
+    [
+      "building materials",
+      "influences",
+      "urbanization"
+    ],
+    [
+      "building materials",
+      "informs",
+      "sustainable design"
+    ],
+    [
+      "building materials",
+      "integrated with",
+      "smart technology"
+    ],
+    [
+      "building materials",
+      "is utilized in",
+      "rainwater harvesting"
+    ],
+    [
+      "building materials",
+      "serves as",
+      "home as symbol"
+    ],
+    [
+      "building materials",
+      "shapes",
+      "societal norms"
+    ],
+    [
+      "building materials",
+      "supports",
+      "green building"
+    ],
+    [
+      "building materials",
+      "supports",
+      "organized societies"
+    ],
+    [
+      "building materials",
+      "supports",
+      "renewable energy"
+    ],
+    [
+      "building materials",
+      "used in",
+      "traditional dwellings"
+    ],
+    [
+      "building materials",
+      "utilizes",
+      "indoor outdoor integration"
+    ],
+    [
+      "community structures",
+      "defines",
+      "home layout"
+    ],
+    [
+      "community structures",
+      "developed during",
+      "Middle Ages"
+    ],
+    [
+      "community structures",
+      "indicates",
+      "wealth and status"
+    ],
+    [
+      "community structures",
+      "influenced by",
+      "home as symbol"
+    ],
+    [
+      "community structures",
+      "influences",
+      "home design changes"
+    ],
+    [
+      "community structures",
+      "is shaped by",
+      "American Dream"
+    ],
+    [
+      "community structures",
+      "provides context for",
+      "ancient times"
+    ],
+    [
+      "community structures",
+      "reflects",
+      "social hierarchy"
+    ],
+    [
+      "community structures",
+      "serves",
+      "manor house"
+    ],
+    [
+      "community structures",
+      "shaped by",
+      "political life"
+    ],
+    [
+      "cultural influences",
+      "affects",
+      "community structures"
+    ],
+    [
+      "cultural influences",
+      "affects",
+      "home layout"
+    ],
+    [
+      "cultural influences",
+      "contributes to",
+      "cultural values"
+    ],
+    [
+      "cultural influences",
+      "enhanced by",
+      "natural light"
+    ],
+    [
+      "cultural influences",
+      "influenced",
+      "functionality"
+    ],
+    [
+      "cultural influences",
+      "influenced the design of",
+      "manor house"
+    ],
+    [
+      "cultural influences",
+      "influences",
+      "elaborate architecture"
+    ],
+    [
+      "cultural influences",
+      "influences",
+      "social hierarchy"
+    ],
+    [
+      "cultural influences",
+      "shaped",
+      "Middle Ages"
+    ],
+    [
+      "cultural influences",
+      "shaped the living conditions of",
+      "early humans"
+    ],
+    [
+      "cultural influences",
+      "shapes",
+      "functional spaces"
+    ],
+    [
+      "cultural influences",
+      "shapes",
+      "organized societies"
+    ],
+    [
+      "cultural influences",
+      "shapes",
+      "societal norms"
+    ],
+    [
+      "cultural influences",
+      "symbolizes",
+      "home as symbol"
+    ],
+    [
+      "cultural values",
+      "incorporates",
+      "passive solar design"
+    ],
+    [
+      "cultural values",
+      "incorporates",
+      "rainwater harvesting"
+    ],
+    [
+      "cultural values",
+      "influenced",
+      "organized societies"
+    ],
+    [
+      "cultural values",
+      "influences",
+      "architecture history"
+    ],
+    [
+      "cultural values",
+      "influences",
+      "early humans"
+    ],
+    [
+      "cultural values",
+      "influences",
+      "modernist movement"
+    ],
+    [
+      "cultural values",
+      "influences",
+      "traditional dwellings"
+    ],
+    [
+      "cultural values",
+      "is reflected in",
+      "religious life"
+    ],
+    [
+      "cultural values",
+      "reflects",
+      "manor house"
+    ],
+    [
+      "cultural values",
+      "reflects",
+      "wealth and status"
+    ],
+    [
+      "cultural values",
+      "shapes",
+      "design evolution"
+    ],
+    [
+      "cultural values",
+      "shapes",
+      "evolution"
+    ],
+    [
+      "cultural values",
+      "shapes",
+      "home design"
+    ],
+    [
+      "cultural values",
+      "shapes",
+      "home layout"
+    ],
+    [
+      "design elements",
+      "affects",
+      "home layout"
+    ],
+    [
+      "design elements",
+      "influences",
+      "home design"
+    ],
+    [
+      "design elements",
+      "represented by",
+      "wealth and status"
+    ],
+    [
+      "design evolution",
+      "affects",
+      "home layout"
+    ],
+    [
+      "design evolution",
+      "influenced by",
+      "smart technology"
+    ],
+    [
+      "design evolution",
+      "is evolved by",
+      "traditional dwellings"
+    ],
+    [
+      "domestic life",
+      "enhanced by",
+      "modern amenities"
+    ],
+    [
+      "domestic life",
+      "enhances",
+      "natural light"
+    ],
+    [
+      "domestic life",
+      "enhances",
+      "smart technology"
+    ],
+    [
+      "domestic life",
+      "influenced by",
+      "evolution"
+    ],
+    [
+      "domestic life",
+      "influences",
+      "early humans"
+    ],
+    [
+      "domestic life",
+      "influences",
+      "indoor outdoor integration"
+    ],
+    [
+      "domestic life",
+      "influences",
+      "mass-produced housing"
+    ],
+    [
+      "domestic life",
+      "influences",
+      "societal norms"
+    ],
+    [
+      "domestic life",
+      "provides",
+      "refuge and rest"
+    ],
+    [
+      "domestic life",
+      "reflects",
+      "American Dream"
+    ],
+    [
+      "domestic life",
+      "serves as",
+      "home as symbol"
+    ],
+    [
+      "domestic life",
+      "shapes",
+      "cultural values"
+    ],
+    [
+      "domestic life",
+      "shapes",
+      "home layout"
+    ],
+    [
+      "domestic life",
+      "shapes",
+      "social hierarchy"
+    ],
+    [
+      "early humans",
+      "drives",
+      "design evolution"
+    ],
+    [
+      "early humans",
+      "influenced by",
+      "urbanization"
+    ],
+    [
+      "early humans",
+      "is related to",
+      "traditional dwellings"
+    ],
+    [
+      "early humans",
+      "preceded by",
+      "technological advancements"
+    ],
+    [
+      "early humans",
+      "precedes",
+      "manor house"
+    ],
+    [
+      "early humans",
+      "provided by",
+      "community structures"
+    ],
+    [
+      "early humans",
+      "provided by",
+      "functional spaces"
+    ],
+    [
+      "early humans",
+      "provided for",
+      "natural light"
+    ],
+    [
+      "early humans",
+      "reflects",
+      "wealth and status"
+    ],
+    [
+      "early humans",
+      "underwent",
+      "evolution"
+    ],
+    [
+      "early humans",
+      "utilized by",
+      "rainwater harvesting"
+    ],
+    [
+      "elaborate architecture",
+      "enhanced by",
+      "energy-efficient"
+    ],
+    [
+      "elaborate architecture",
+      "enhances",
+      "modern amenities"
+    ],
+    [
+      "elaborate architecture",
+      "indicates",
+      "home significance"
+    ],
+    [
+      "elaborate architecture",
+      "inspired by",
+      "apartment buildings"
+    ],
+    [
+      "elaborate architecture",
+      "is characterized by",
+      "natural light"
+    ],
+    [
+      "energy-efficient",
+      "contributes to",
+      "design evolution"
+    ],
+    [
+      "energy-efficient",
+      "contributes to",
+      "evolution"
+    ],
+    [
+      "energy-efficient",
+      "contributes to",
+      "green building"
+    ],
+    [
+      "energy-efficient",
+      "enhanced by",
+      "open floor plans"
+    ],
+    [
+      "energy-efficient",
+      "enhances",
+      "apartment buildings"
+    ],
+    [
+      "energy-efficient",
+      "enhances",
+      "community structures"
+    ],
+    [
+      "energy-efficient",
+      "enhances",
+      "functional spaces"
+    ],
+    [
+      "energy-efficient",
+      "enhances",
+      "modern amenities"
+    ],
+    [
+      "energy-efficient",
+      "improves",
+      "functionality"
+    ],
+    [
+      "energy-efficient",
+      "influences",
+      "home design changes"
+    ],
+    [
+      "energy-efficient",
+      "influences",
+      "modernist movement"
+    ],
+    [
+      "energy-efficient",
+      "informs",
+      "design elements"
+    ],
+    [
+      "energy-efficient",
+      "integrates with",
+      "smart technology"
+    ],
+    [
+      "energy-efficient",
+      "is a characteristic of",
+      "wealth and status"
+    ],
+    [
+      "energy-efficient",
+      "is a feature of",
+      "passive solar design"
+    ],
+    [
+      "energy-efficient",
+      "reflects",
+      "home significance"
+    ],
+    [
+      "energy-efficient",
+      "utilizes",
+      "natural light"
+    ],
+    [
+      "evolution",
+      "drives",
+      "smart technology"
+    ],
+    [
+      "evolution",
+      "evolved from",
+      "open floor plans"
+    ],
+    [
+      "evolution",
+      "influenced by",
+      "ancient civilizations"
+    ],
+    [
+      "evolution",
+      "influenced by",
+      "elaborate architecture"
+    ],
+    [
+      "evolution",
+      "influences",
+      "societal norms"
+    ],
+    [
+      "evolution",
+      "is shaped by",
+      "American Dream"
+    ],
+    [
+      "evolution",
+      "leads to",
+      "mass-produced housing"
+    ],
+    [
+      "evolution",
+      "precedes",
+      "ancient times"
+    ],
+    [
+      "evolution",
+      "reflects",
+      "building materials"
+    ],
+    [
+      "fortified homes",
+      "characterized by",
+      "design elements"
+    ],
+    [
+      "fortified homes",
+      "contrasts with",
+      "smart technology"
+    ],
+    [
+      "fortified homes",
+      "contributed to",
+      "evolution"
+    ],
+    [
+      "fortified homes",
+      "features",
+      "elaborate architecture"
+    ],
+    [
+      "fortified homes",
+      "influenced",
+      "modern home"
+    ],
+    [
+      "fortified homes",
+      "influences",
+      "architecture"
+    ],
+    [
+      "fortified homes",
+      "reflects",
+      "social hierarchy"
+    ],
+    [
+      "fortified homes",
+      "symbolizes",
+      "wealth and status"
+    ],
+    [
+      "fortified homes",
+      "utilizes",
+      "passive solar design"
+    ],
+    [
+      "fortified homes",
+      "utilizes",
+      "rainwater harvesting"
+    ],
+    [
+      "functional spaces",
+      "defined by",
+      "open floor plans"
+    ],
+    [
+      "functional spaces",
+      "defines",
+      "home significance"
+    ],
+    [
+      "functional spaces",
+      "emerged during",
+      "Middle Ages"
+    ],
+    [
+      "functional spaces",
+      "indicates",
+      "social hierarchy"
+    ],
+    [
+      "functional spaces",
+      "indicates",
+      "wealth and status"
+    ],
+    [
+      "functional spaces",
+      "provides",
+      "ancient times"
+    ],
+    [
+      "functionality",
+      "enhances",
+      "smart technology"
+    ],
+    [
+      "functionality",
+      "enhances",
+      "suburban community"
+    ],
+    [
+      "functionality",
+      "guides",
+      "home design"
+    ],
+    [
+      "functionality",
+      "is a characteristic of",
+      "manor house"
+    ],
+    [
+      "functionality",
+      "is a feature of",
+      "early humans"
+    ],
+    [
+      "functionality",
+      "is a feature of",
+      "mass-produced housing"
+    ],
+    [
+      "functionality",
+      "reflects",
+      "organized societies"
+    ],
+    [
+      "functionality",
+      "reflects",
+      "social hierarchy"
+    ],
+    [
+      "functions of home",
+      "characterized by",
+      "suburban community"
+    ],
+    [
+      "functions of home",
+      "defines",
+      "functionality"
+    ],
+    [
+      "functions of home",
+      "defines",
+      "home significance"
+    ],
+    [
+      "functions of home",
+      "drives",
+      "design evolution"
+    ],
+    [
+      "functions of home",
+      "emerged from",
+      "ancient civilizations"
+    ],
+    [
+      "functions of home",
+      "enhanced by",
+      "natural light"
+    ],
+    [
+      "functions of home",
+      "enhances",
+      "smart technology"
+    ],
+    [
+      "functions of home",
+      "evolves",
+      "evolution"
+    ],
+    [
+      "functions of home",
+      "includes",
+      "modern amenities"
+    ],
+    [
+      "functions of home",
+      "incorporates",
+      "rainwater harvesting"
+    ],
+    [
+      "functions of home",
+      "indicates",
+      "wealth and status"
+    ],
+    [
+      "functions of home",
+      "is a part of",
+      "American Dream"
+    ],
+    [
+      "functions of home",
+      "is influenced by",
+      "cultural values"
+    ],
+    [
+      "functions of home",
+      "originated in",
+      "ancient times"
+    ],
+    [
+      "functions of home",
+      "reflects",
+      "societal norms"
+    ],
+    [
+      "functions of home",
+      "shapes",
+      "settled communities"
+    ],
+    [
+      "functions of home",
+      "supports",
+      "community structures"
+    ],
+    [
+      "grand homes",
+      "defines",
+      "functions of home"
+    ],
+    [
+      "grand homes",
+      "features",
+      "elaborate architecture"
+    ],
+    [
+      "grand homes",
+      "features",
+      "indoor outdoor integration"
+    ],
+    [
+      "grand homes",
+      "includes",
+      "design elements"
+    ],
+    [
+      "grand homes",
+      "incorporates",
+      "passive solar design"
+    ],
+    [
+      "grand homes",
+      "influenced",
+      "community structures"
+    ],
+    [
+      "grand homes",
+      "provides",
+      "modern amenities"
+    ],
+    [
+      "grand homes",
+      "provides",
+      "refuge and rest"
+    ],
+    [
+      "grand homes",
+      "reflects",
+      "evolution"
+    ],
+    [
+      "grand homes",
+      "reflects",
+      "social hierarchy"
+    ],
+    [
+      "grand homes",
+      "represents",
+      "home significance"
+    ],
+    [
+      "grand homes",
+      "shapes",
+      "domestic life"
+    ],
+    [
+      "green building",
+      "constructed by",
+      "manor house"
+    ],
+    [
+      "green building",
+      "contributes to",
+      "evolution"
+    ],
+    [
+      "green building",
+      "enhances",
+      "functional spaces"
+    ],
+    [
+      "green building",
+      "enhances",
+      "functionality"
+    ],
+    [
+      "green building",
+      "includes",
+      "modern amenities"
+    ],
+    [
+      "green building",
+      "incorporates",
+      "fortified homes"
+    ],
+    [
+      "green building",
+      "incorporates",
+      "passive solar design"
+    ],
+    [
+      "green building",
+      "influenced the development of",
+      "Industrial Revolution"
+    ],
+    [
+      "green building",
+      "utilizes",
+      "rainwater harvesting"
+    ],
+    [
+      "home as symbol",
+      "embodies",
+      "home significance"
+    ],
+    [
+      "home as symbol",
+      "enhanced by",
+      "modern amenities"
+    ],
+    [
+      "home as symbol",
+      "represents",
+      "community structures"
+    ],
+    [
+      "home as symbol",
+      "represents",
+      "evolution"
+    ],
+    [
+      "home as symbol",
+      "represents",
+      "smart technology"
+    ],
+    [
+      "home as symbol",
+      "symbolizes",
+      "apartment buildings"
+    ],
+    [
+      "home as symbol",
+      "symbolizes",
+      "fortified homes"
+    ],
+    [
+      "home as symbol",
+      "symbolizes",
+      "home layout"
+    ],
+    [
+      "home as symbol",
+      "symbolizes",
+      "political life"
+    ],
+    [
+      "home design",
+      "determines",
+      "home layout"
+    ],
+    [
+      "home design",
+      "influenced by",
+      "architecture history"
+    ],
+    [
+      "home design",
+      "integrates",
+      "smart technology"
+    ],
+    [
+      "home design",
+      "reflects",
+      "home significance"
+    ],
+    [
+      "home design",
+      "reflects",
+      "wealth and status"
+    ],
+    [
+      "home design changes",
+      "affects",
+      "home layout"
+    ],
+    [
+      "home design changes",
+      "affects",
+      "home significance"
+    ],
+    [
+      "home design changes",
+      "drives",
+      "design evolution"
+    ],
+    [
+      "home design changes",
+      "enhances",
+      "functionality"
+    ],
+    [
+      "home design changes",
+      "influenced",
+      "manor house"
+    ],
+    [
+      "home design changes",
+      "influenced by",
+      "refuge and rest"
+    ],
+    [
+      "home design changes",
+      "influences",
+      "American Dream"
+    ],
+    [
+      "home design changes",
+      "is shaped by",
+      "functional spaces"
+    ],
+    [
+      "home design changes",
+      "part of",
+      "open floor plans"
+    ],
+    [
+      "home design changes",
+      "resulted in",
+      "functions of home"
+    ],
+    [
+      "home layout",
+      "comprises",
+      "functional spaces"
+    ],
+    [
+      "home layout",
+      "influences",
+      "ancient architecture"
+    ],
+    [
+      "home layout",
+      "is influenced by",
+      "ancient civilizations"
+    ],
+    [
+      "home layout",
+      "shaped",
+      "political life"
+    ],
+    [
+      "home layout",
+      "shaped by",
+      "suburban community"
+    ],
+    [
+      "home significance",
+      "enhanced by",
+      "domestic life"
+    ],
+    [
+      "home significance",
+      "enhances",
+      "smart technology"
+    ],
+    [
+      "home significance",
+      "illustrates",
+      "design evolution"
+    ],
+    [
+      "home significance",
+      "influences",
+      "organized societies"
+    ],
+    [
+      "home significance",
+      "informs",
+      "design elements"
+    ],
+    [
+      "home significance",
+      "is significant for",
+      "manor house"
+    ],
+    [
+      "home significance",
+      "is significant for",
+      "smart homes"
+    ],
+    [
+      "home significance",
+      "is symbolized by",
+      "grand homes"
+    ],
+    [
+      "home significance",
+      "originates from",
+      "ancient times"
+    ],
+    [
+      "home significance",
+      "reflects",
+      "wealth and status"
+    ],
+    [
+      "indoor outdoor integration",
+      "characterizes",
+      "fortified homes"
+    ],
+    [
+      "indoor outdoor integration",
+      "characterizes",
+      "mass-produced housing"
+    ],
+    [
+      "indoor outdoor integration",
+      "creates",
+      "functional spaces"
+    ],
+    [
+      "indoor outdoor integration",
+      "drives",
+      "technological advancements"
+    ],
+    [
+      "indoor outdoor integration",
+      "enhances",
+      "settled communities"
+    ],
+    [
+      "indoor outdoor integration",
+      "incorporates",
+      "passive solar design"
+    ],
+    [
+      "indoor outdoor integration",
+      "incorporates",
+      "rainwater harvesting"
+    ],
+    [
+      "indoor outdoor integration",
+      "incorporates",
+      "renewable energy"
+    ],
+    [
+      "indoor outdoor integration",
+      "influenced",
+      "home design"
+    ],
+    [
+      "indoor outdoor integration",
+      "influenced",
+      "organized societies"
+    ],
+    [
+      "indoor outdoor integration",
+      "integrates",
+      "Middle Ages"
+    ],
+    [
+      "indoor outdoor integration",
+      "integrates with",
+      "architecture"
+    ],
+    [
+      "indoor outdoor integration",
+      "is characterized by",
+      "energy-efficient"
+    ],
+    [
+      "indoor outdoor integration",
+      "is driven by",
+      "urbanization"
+    ],
+    [
+      "indoor outdoor integration",
+      "is influenced by",
+      "modernist movement"
+    ],
+    [
+      "indoor outdoor integration",
+      "promotes",
+      "green building"
+    ],
+    [
+      "indoor outdoor integration",
+      "promotes",
+      "sustainable design"
+    ],
+    [
+      "indoor outdoor integration",
+      "reflects",
+      "home design changes"
+    ],
+    [
+      "indoor outdoor integration",
+      "shaped by",
+      "evolution"
+    ],
+    [
+      "indoor outdoor integration",
+      "shapes",
+      "cultural influences"
+    ],
+    [
+      "manor house",
+      "includes",
+      "functional spaces"
+    ],
+    [
+      "manor house",
+      "influenced by",
+      "Industrial Revolution"
+    ],
+    [
+      "manor house",
+      "influenced by",
+      "technological advancements"
+    ],
+    [
+      "manor house",
+      "influences",
+      "elaborate architecture"
+    ],
+    [
+      "manor house",
+      "informs",
+      "design elements"
+    ],
+    [
+      "manor house",
+      "inspired by",
+      "open floor plans"
+    ],
+    [
+      "manor house",
+      "is a predecessor to",
+      "modern home"
+    ],
+    [
+      "manor house",
+      "is associated with",
+      "traditional dwellings"
+    ],
+    [
+      "manor house",
+      "led to",
+      "design evolution"
+    ],
+    [
+      "mass-produced housing",
+      "derived from",
+      "modern home"
+    ],
+    [
+      "mass-produced housing",
+      "enabled by",
+      "organized societies"
+    ],
+    [
+      "mass-produced housing",
+      "influenced by",
+      "elaborate architecture"
+    ],
+    [
+      "mass-produced housing",
+      "influenced by",
+      "passive solar design"
+    ],
+    [
+      "mass-produced housing",
+      "influenced by",
+      "religious life"
+    ],
+    [
+      "mass-produced housing",
+      "influences",
+      "home design"
+    ],
+    [
+      "mass-produced housing",
+      "represents",
+      "design evolution"
+    ],
+    [
+      "mass-produced housing",
+      "result of",
+      "apartment buildings"
+    ],
+    [
+      "mass-produced housing",
+      "transformed into",
+      "traditional dwellings"
+    ],
+    [
+      "modern amenities",
+      "characterized the development of",
+      "suburban community"
+    ],
+    [
+      "modern amenities",
+      "drives",
+      "design evolution"
+    ],
+    [
+      "modern amenities",
+      "emerges from",
+      "organized societies"
+    ],
+    [
+      "modern amenities",
+      "enhanced",
+      "home significance"
+    ],
+    [
+      "modern amenities",
+      "enhanced by",
+      "ancient architecture"
+    ],
+    [
+      "modern amenities",
+      "enhanced by",
+      "natural light"
+    ],
+    [
+      "modern amenities",
+      "enhances",
+      "functionality"
+    ],
+    [
+      "modern amenities",
+      "includes",
+      "mass-produced housing"
+    ],
+    [
+      "modern amenities",
+      "incorporates",
+      "passive solar design"
+    ],
+    [
+      "modern amenities",
+      "influenced by",
+      "societal norms"
+    ],
+    [
+      "modern amenities",
+      "integrates",
+      "rainwater harvesting"
+    ],
+    [
+      "modern amenities",
+      "provides",
+      "refuge and rest"
+    ],
+    [
+      "modern amenities",
+      "reflects",
+      "evolution"
+    ],
+    [
+      "modern amenities",
+      "reflects",
+      "wealth and status"
+    ],
+    [
+      "modern amenities",
+      "shapes",
+      "home layout"
+    ],
+    [
+      "modern amenities",
+      "utilizes",
+      "smart technology"
+    ],
+    [
+      "modern home",
+      "defined by",
+      "functions of home"
+    ],
+    [
+      "modern home",
+      "defines",
+      "home layout"
+    ],
+    [
+      "modern home",
+      "evolved from",
+      "grand homes"
+    ],
+    [
+      "modern home",
+      "features",
+      "elaborate architecture"
+    ],
+    [
+      "modern home",
+      "features",
+      "open floor plans"
+    ],
+    [
+      "modern home",
+      "includes",
+      "functional spaces"
+    ],
+    [
+      "modern home",
+      "incorporates",
+      "design elements"
+    ],
+    [
+      "modern home",
+      "incorporates",
+      "green building"
+    ],
+    [
+      "modern home",
+      "incorporates",
+      "natural light"
+    ],
+    [
+      "modern home",
+      "incorporates",
+      "smart technology"
+    ],
+    [
+      "modern home",
+      "is defined by",
+      "functionality"
+    ],
+    [
+      "modern home",
+      "is enhanced by",
+      "sustainable design"
+    ],
+    [
+      "modern home",
+      "is represented by",
+      "home as symbol"
+    ],
+    [
+      "modern home",
+      "reflects",
+      "home design changes"
+    ],
+    [
+      "modern home",
+      "reflects",
+      "societal norms"
+    ],
+    [
+      "modern home",
+      "shapes",
+      "community structures"
+    ],
+    [
+      "modernist movement",
+      "contrasted with",
+      "elaborate architecture"
+    ],
+    [
+      "modernist movement",
+      "influenced",
+      "apartment buildings"
+    ],
+    [
+      "modernist movement",
+      "influenced",
+      "home design"
+    ],
+    [
+      "modernist movement",
+      "influenced",
+      "mass-produced housing"
+    ],
+    [
+      "modernist movement",
+      "influenced",
+      "open floor plans"
+    ],
+    [
+      "modernist movement",
+      "influenced by",
+      "architecture history"
+    ],
+    [
+      "modernist movement",
+      "influenced by",
+      "green building"
+    ],
+    [
+      "modernist movement",
+      "influenced by",
+      "manor house"
+    ],
+    [
+      "modernist movement",
+      "influences",
+      "home significance"
+    ],
+    [
+      "modernist movement",
+      "inspired",
+      "settled communities"
+    ],
+    [
+      "modernist movement",
+      "inspired by",
+      "modern amenities"
+    ],
+    [
+      "modernist movement",
+      "inspired by",
+      "smart technology"
+    ],
+    [
+      "modernist movement",
+      "is influenced by",
+      "Middle Ages"
+    ],
+    [
+      "modernist movement",
+      "is influenced by",
+      "ancient civilizations"
+    ],
+    [
+      "modernist movement",
+      "shapes",
+      "design elements"
+    ],
+    [
+      "modernist movement",
+      "shapes",
+      "evolution"
+    ],
+    [
+      "modernist movement",
+      "shapes",
+      "social hierarchy"
+    ],
+    [
+      "modernist movement",
+      "shapes",
+      "wealth and status"
+    ],
+    [
+      "natural light",
+      "enhances",
+      "design elements"
+    ],
+    [
+      "natural light",
+      "enhances",
+      "green building"
+    ],
+    [
+      "natural light",
+      "facilitates",
+      "functional spaces"
+    ],
+    [
+      "natural light",
+      "influences",
+      "renewable energy"
+    ],
+    [
+      "natural light",
+      "inspired",
+      "modernist movement"
+    ],
+    [
+      "natural light",
+      "integrated into",
+      "home design"
+    ],
+    [
+      "natural light",
+      "is enhanced by",
+      "Industrial Revolution"
+    ],
+    [
+      "natural light",
+      "provides",
+      "societal norms"
+    ],
+    [
+      "natural light",
+      "reflects",
+      "cultural values"
+    ],
+    [
+      "natural light",
+      "utilized in",
+      "mass-produced housing"
+    ],
+    [
+      "open floor plans",
+      "characterized by",
+      "home design"
+    ],
+    [
+      "open floor plans",
+      "characterizes",
+      "suburban community"
+    ],
+    [
+      "open floor plans",
+      "enhances",
+      "natural light"
+    ],
+    [
+      "open floor plans",
+      "enhances",
+      "smart technology"
+    ],
+    [
+      "open floor plans",
+      "incorporates",
+      "passive solar design"
+    ],
+    [
+      "open floor plans",
+      "incorporates",
+      "rainwater harvesting"
+    ],
+    [
+      "open floor plans",
+      "influenced by",
+      "urbanization"
+    ],
+    [
+      "open floor plans",
+      "influences",
+      "apartment buildings"
+    ],
+    [
+      "open floor plans",
+      "redefined by",
+      "functionality"
+    ],
+    [
+      "organized societies",
+      "adopted by",
+      "passive solar design"
+    ],
+    [
+      "organized societies",
+      "determines",
+      "design elements"
+    ],
+    [
+      "organized societies",
+      "determines",
+      "home layout"
+    ],
+    [
+      "organized societies",
+      "facilitates",
+      "smart technology"
+    ],
+    [
+      "organized societies",
+      "influenced by",
+      "manor house"
+    ],
+    [
+      "organized societies",
+      "influences",
+      "home as symbol"
+    ],
+    [
+      "organized societies",
+      "is influenced by",
+      "Middle Ages"
+    ],
+    [
+      "organized societies",
+      "organized by",
+      "traditional dwellings"
+    ],
+    [
+      "organized societies",
+      "reflects",
+      "cultural values"
+    ],
+    [
+      "organized societies",
+      "shaped by",
+      "home design changes"
+    ],
+    [
+      "organized societies",
+      "supported by",
+      "energy-efficient"
+    ],
+    [
+      "passive solar design",
+      "enhances",
+      "home significance"
+    ],
+    [
+      "passive solar design",
+      "incorporates",
+      "functionality"
+    ],
+    [
+      "passive solar design",
+      "informs",
+      "design elements"
+    ],
+    [
+      "passive solar design",
+      "informs",
+      "home design"
+    ],
+    [
+      "passive solar design",
+      "informs",
+      "home layout"
+    ],
+    [
+      "passive solar design",
+      "is a principle of",
+      "early humans"
+    ],
+    [
+      "passive solar design",
+      "utilizes",
+      "apartment buildings"
+    ],
+    [
+      "political life",
+      "affects",
+      "home significance"
+    ],
+    [
+      "political life",
+      "affects",
+      "suburban community"
+    ],
+    [
+      "political life",
+      "drives",
+      "urbanization"
+    ],
+    [
+      "political life",
+      "influenced by",
+      "functions of home"
+    ],
+    [
+      "political life",
+      "influences",
+      "community structures"
+    ],
+    [
+      "political life",
+      "influences",
+      "home design"
+    ],
+    [
+      "political life",
+      "influences",
+      "sustainable design"
+    ],
+    [
+      "political life",
+      "is influenced by",
+      "modernist movement"
+    ],
+    [
+      "political life",
+      "is shaped by",
+      "functionality"
+    ],
+    [
+      "political life",
+      "is supported by",
+      "energy-efficient"
+    ],
+    [
+      "political life",
+      "reflects",
+      "wealth and status"
+    ],
+    [
+      "political life",
+      "shapes",
+      "ancient civilizations"
+    ],
+    [
+      "political life",
+      "shapes",
+      "design evolution"
+    ],
+    [
+      "political life",
+      "shapes",
+      "social hierarchy"
+    ],
+    [
+      "political life",
+      "transforms",
+      "smart technology"
+    ],
+    [
+      "political life",
+      "undergoes",
+      "evolution"
+    ],
+    [
+      "rainwater harvesting",
+      "affects",
+      "home layout"
+    ],
+    [
+      "rainwater harvesting",
+      "complements",
+      "passive solar design"
+    ],
+    [
+      "rainwater harvesting",
+      "contributed to",
+      "design evolution"
+    ],
+    [
+      "rainwater harvesting",
+      "enhances",
+      "functionality"
+    ],
+    [
+      "rainwater harvesting",
+      "incorporates",
+      "home design"
+    ],
+    [
+      "rainwater harvesting",
+      "incorporates",
+      "refuge and rest"
+    ],
+    [
+      "rainwater harvesting",
+      "influences",
+      "home design changes"
+    ],
+    [
+      "rainwater harvesting",
+      "influences",
+      "modernist movement"
+    ],
+    [
+      "rainwater harvesting",
+      "is a practice of",
+      "renewable energy"
+    ],
+    [
+      "rainwater harvesting",
+      "reflects",
+      "evolution"
+    ],
+    [
+      "rainwater harvesting",
+      "related to",
+      "social hierarchy"
+    ],
+    [
+      "rainwater harvesting",
+      "utilizes",
+      "domestic life"
+    ],
+    [
+      "rainwater harvesting",
+      "utilizes",
+      "home as symbol"
+    ],
+    [
+      "refuge and rest",
+      "characterizes",
+      "ancient times"
+    ],
+    [
+      "refuge and rest",
+      "determines",
+      "home layout"
+    ],
+    [
+      "refuge and rest",
+      "incorporates",
+      "passive solar design"
+    ],
+    [
+      "refuge and rest",
+      "influences",
+      "modernist movement"
+    ],
+    [
+      "refuge and rest",
+      "provided",
+      "early humans"
+    ],
+    [
+      "refuge and rest",
+      "provides",
+      "cultural values"
+    ],
+    [
+      "refuge and rest",
+      "provides",
+      "energy-efficient"
+    ],
+    [
+      "refuge and rest",
+      "provides",
+      "functionality"
+    ],
+    [
+      "refuge and rest",
+      "provides",
+      "home design"
+    ],
+    [
+      "refuge and rest",
+      "provides",
+      "modern home"
+    ],
+    [
+      "refuge and rest",
+      "provides",
+      "societal norms"
+    ],
+    [
+      "refuge and rest",
+      "provides",
+      "traditional dwellings"
+    ],
+    [
+      "refuge and rest",
+      "reflects",
+      "evolution"
+    ],
+    [
+      "refuge and rest",
+      "reflects",
+      "social hierarchy"
+    ],
+    [
+      "refuge and rest",
+      "serves as",
+      "apartment buildings"
+    ],
+    [
+      "refuge and rest",
+      "transforms",
+      "smart technology"
+    ],
+    [
+      "religious life",
+      "centered around",
+      "ancient times"
+    ],
+    [
+      "religious life",
+      "embodies",
+      "elaborate architecture"
+    ],
+    [
+      "religious life",
+      "influenced by",
+      "home layout"
+    ],
+    [
+      "religious life",
+      "influences",
+      "design elements"
+    ],
+    [
+      "religious life",
+      "influences",
+      "indoor outdoor integration"
+    ],
+    [
+      "religious life",
+      "influences",
+      "organized societies"
+    ],
+    [
+      "religious life",
+      "symbolizes",
+      "home as symbol"
+    ],
+    [
+      "renewable energy",
+      "drives",
+      "evolution"
+    ],
+    [
+      "renewable energy",
+      "influenced by",
+      "architecture history"
+    ],
+    [
+      "renewable energy",
+      "influenced by",
+      "elaborate architecture"
+    ],
+    [
+      "renewable energy",
+      "influences",
+      "home design"
+    ],
+    [
+      "renewable energy",
+      "inspired the principles of",
+      "modernist movement"
+    ],
+    [
+      "renewable energy",
+      "integrates with",
+      "smart technology"
+    ],
+    [
+      "renewable energy",
+      "is supported by",
+      "open floor plans"
+    ],
+    [
+      "renewable energy",
+      "supports",
+      "mass-produced housing"
+    ],
+    [
+      "renewable energy",
+      "utilizes",
+      "design elements"
+    ],
+    [
+      "renewable energy",
+      "utilizes",
+      "passive solar design"
+    ],
+    [
+      "settled communities",
+      "contributes to",
+      "design evolution"
+    ],
+    [
+      "settled communities",
+      "drives",
+      "home design changes"
+    ],
+    [
+      "settled communities",
+      "emerges from",
+      "organized societies"
+    ],
+    [
+      "settled communities",
+      "facilitates",
+      "mass-produced housing"
+    ],
+    [
+      "settled communities",
+      "features",
+      "open floor plans"
+    ],
+    [
+      "settled communities",
+      "includes",
+      "manor house"
+    ],
+    [
+      "settled communities",
+      "includes",
+      "suburban community"
+    ],
+    [
+      "settled communities",
+      "influences",
+      "elaborate architecture"
+    ],
+    [
+      "settled communities",
+      "integrated with",
+      "renewable energy"
+    ],
+    [
+      "settled communities",
+      "is part of",
+      "evolution"
+    ],
+    [
+      "settled communities",
+      "offers",
+      "modern amenities"
+    ],
+    [
+      "settled communities",
+      "preceded",
+      "early humans"
+    ],
+    [
+      "settled communities",
+      "promoted by",
+      "sustainable design"
+    ],
+    [
+      "settled communities",
+      "provides",
+      "refuge and rest"
+    ],
+    [
+      "settled communities",
+      "represents",
+      "modern home"
+    ],
+    [
+      "settled communities",
+      "shapes",
+      "cultural influences"
+    ],
+    [
+      "smart homes",
+      "emerged from",
+      "Industrial Revolution"
+    ],
+    [
+      "smart homes",
+      "enabled by",
+      "technological advancements"
+    ],
+    [
+      "smart homes",
+      "enhanced by",
+      "domestic life"
+    ],
+    [
+      "smart homes",
+      "enhances",
+      "functionality"
+    ],
+    [
+      "smart homes",
+      "enhances",
+      "functions of home"
+    ],
+    [
+      "smart homes",
+      "enhances",
+      "home significance"
+    ],
+    [
+      "smart homes",
+      "features",
+      "design elements"
+    ],
+    [
+      "smart homes",
+      "incorporates",
+      "open floor plans"
+    ],
+    [
+      "smart homes",
+      "incorporates",
+      "passive solar design"
+    ],
+    [
+      "smart homes",
+      "incorporates",
+      "renewable energy"
+    ],
+    [
+      "smart homes",
+      "incorporates",
+      "sustainable design"
+    ],
+    [
+      "smart homes",
+      "influenced by",
+      "design evolution"
+    ],
+    [
+      "smart homes",
+      "influences",
+      "modernist movement"
+    ],
+    [
+      "smart homes",
+      "is a component of",
+      "green building"
+    ],
+    [
+      "smart homes",
+      "is influenced by",
+      "home design changes"
+    ],
+    [
+      "smart homes",
+      "promotes",
+      "energy-efficient"
+    ],
+    [
+      "smart homes",
+      "provides",
+      "modern amenities"
+    ],
+    [
+      "smart homes",
+      "provides",
+      "refuge and rest"
+    ],
+    [
+      "smart homes",
+      "reflects",
+      "evolution"
+    ],
+    [
+      "smart homes",
+      "represents",
+      "American Dream"
+    ],
+    [
+      "smart homes",
+      "represents",
+      "modern home"
+    ],
+    [
+      "smart homes",
+      "utilizes",
+      "building materials"
+    ],
+    [
+      "smart homes",
+      "utilizes",
+      "rainwater harvesting"
+    ],
+    [
+      "smart technology",
+      "influenced by",
+      "domestic life"
+    ],
+    [
+      "smart technology",
+      "integrated with",
+      "apartment buildings"
+    ],
+    [
+      "smart technology",
+      "integrated with",
+      "traditional dwellings"
+    ],
+    [
+      "social hierarchy",
+      "defined by",
+      "ancient times"
+    ],
+    [
+      "social hierarchy",
+      "determines",
+      "building materials"
+    ],
+    [
+      "social hierarchy",
+      "determines",
+      "home design"
+    ],
+    [
+      "social hierarchy",
+      "dictated by",
+      "home layout"
+    ],
+    [
+      "social hierarchy",
+      "indicates",
+      "home significance"
+    ],
+    [
+      "social hierarchy",
+      "influenced by",
+      "modern amenities"
+    ],
+    [
+      "social hierarchy",
+      "is influenced by",
+      "suburban community"
+    ],
+    [
+      "social hierarchy",
+      "reflected in",
+      "design elements"
+    ],
+    [
+      "social hierarchy",
+      "reflects",
+      "elaborate architecture"
+    ],
+    [
+      "social hierarchy",
+      "reflects",
+      "indoor outdoor integration"
+    ],
+    [
+      "social hierarchy",
+      "shapes",
+      "societal norms"
+    ],
+    [
+      "social hierarchy",
+      "supported by",
+      "settled communities"
+    ],
+    [
+      "societal norms",
+      "affects",
+      "home significance"
+    ],
+    [
+      "societal norms",
+      "drives",
+      "home design changes"
+    ],
+    [
+      "societal norms",
+      "influenced by",
+      "apartment buildings"
+    ],
+    [
+      "societal norms",
+      "influences",
+      "mass-produced housing"
+    ],
+    [
+      "societal norms",
+      "influences",
+      "suburban community"
+    ],
+    [
+      "societal norms",
+      "reflects",
+      "home as symbol"
+    ],
+    [
+      "societal norms",
+      "reflects",
+      "wealth and status"
+    ],
+    [
+      "societal norms",
+      "shaped",
+      "modernist movement"
+    ],
+    [
+      "societal norms",
+      "shaped",
+      "religious life"
+    ],
+    [
+      "suburban community",
+      "associated with",
+      "energy-efficient"
+    ],
+    [
+      "suburban community",
+      "evolved from",
+      "design evolution"
+    ],
+    [
+      "suburban community",
+      "influenced",
+      "cultural influences"
+    ],
+    [
+      "suburban community",
+      "influenced by",
+      "ancient architecture"
+    ],
+    [
+      "suburban community",
+      "influenced by",
+      "modernist movement"
+    ],
+    [
+      "suburban community",
+      "influenced by",
+      "smart homes"
+    ],
+    [
+      "suburban community",
+      "influences",
+      "home design"
+    ],
+    [
+      "suburban community",
+      "influences",
+      "home design changes"
+    ],
+    [
+      "suburban community",
+      "integrates",
+      "renewable energy"
+    ],
+    [
+      "suburban community",
+      "integrates",
+      "smart technology"
+    ],
+    [
+      "suburban community",
+      "is a feature of",
+      "religious life"
+    ],
+    [
+      "suburban community",
+      "produced by",
+      "mass-produced housing"
+    ],
+    [
+      "suburban community",
+      "reflects",
+      "modern home"
+    ],
+    [
+      "suburban community",
+      "supports",
+      "building materials"
+    ],
+    [
+      "sustainable design",
+      "contrasts with",
+      "mass-produced housing"
+    ],
+    [
+      "sustainable design",
+      "contrasts with",
+      "traditional dwellings"
+    ],
+    [
+      "sustainable design",
+      "driven by",
+      "urbanization"
+    ],
+    [
+      "sustainable design",
+      "drives",
+      "home design changes"
+    ],
+    [
+      "sustainable design",
+      "includes",
+      "modern amenities"
+    ],
+    [
+      "sustainable design",
+      "incorporates",
+      "rainwater harvesting"
+    ],
+    [
+      "sustainable design",
+      "influences",
+      "ancient architecture"
+    ],
+    [
+      "sustainable design",
+      "influences",
+      "architecture history"
+    ],
+    [
+      "sustainable design",
+      "influences",
+      "design elements"
+    ],
+    [
+      "sustainable design",
+      "influences",
+      "elaborate architecture"
+    ],
+    [
+      "sustainable design",
+      "influences",
+      "home design"
+    ],
+    [
+      "sustainable design",
+      "integrates",
+      "smart technology"
+    ],
+    [
+      "sustainable design",
+      "is influenced by",
+      "evolution"
+    ],
+    [
+      "sustainable design",
+      "promotes",
+      "green building"
+    ],
+    [
+      "sustainable design",
+      "shapes",
+      "design evolution"
+    ],
+    [
+      "sustainable design",
+      "utilizes",
+      "renewable energy"
+    ],
+    [
+      "technological advancements",
+      "contributed to",
+      "urbanization"
+    ],
+    [
+      "technological advancements",
+      "drives",
+      "design evolution"
+    ],
+    [
+      "technological advancements",
+      "drives",
+      "energy-efficient"
+    ],
+    [
+      "technological advancements",
+      "drives",
+      "home design changes"
+    ],
+    [
+      "technological advancements",
+      "drives",
+      "suburban community"
+    ],
+    [
+      "technological advancements",
+      "enables",
+      "rainwater harvesting"
+    ],
+    [
+      "technological advancements",
+      "enables",
+      "smart technology"
+    ],
+    [
+      "technological advancements",
+      "enhanced",
+      "renewable energy"
+    ],
+    [
+      "technological advancements",
+      "facilitated by",
+      "apartment buildings"
+    ],
+    [
+      "technological advancements",
+      "illuminates",
+      "natural light"
+    ],
+    [
+      "technological advancements",
+      "impacted",
+      "Middle Ages"
+    ],
+    [
+      "technological advancements",
+      "impacted by",
+      "functions of home"
+    ],
+    [
+      "technological advancements",
+      "influenced",
+      "mass-produced housing"
+    ],
+    [
+      "technological advancements",
+      "influences",
+      "ancient civilizations"
+    ],
+    [
+      "technological advancements",
+      "influences",
+      "modernist movement"
+    ],
+    [
+      "technological advancements",
+      "influences",
+      "open floor plans"
+    ],
+    [
+      "technological advancements",
+      "influences",
+      "passive solar design"
+    ],
+    [
+      "technological advancements",
+      "shaped",
+      "functional spaces"
+    ],
+    [
+      "technological advancements",
+      "shaped",
+      "settled communities"
+    ],
+    [
+      "technological advancements",
+      "shaped the design of",
+      "modern home"
+    ],
+    [
+      "technological advancements",
+      "shapes",
+      "cultural influences"
+    ],
+    [
+      "technological advancements",
+      "shapes",
+      "design elements"
+    ],
+    [
+      "technological advancements",
+      "shapes",
+      "home design"
+    ],
+    [
+      "technological advancements",
+      "shapes",
+      "societal norms"
+    ],
+    [
+      "technological advancements",
+      "transformed by",
+      "domestic life"
+    ],
+    [
+      "traditional dwellings",
+      "affects",
+      "religious life"
+    ],
+    [
+      "traditional dwellings",
+      "contrasts with",
+      "smart homes"
+    ],
+    [
+      "traditional dwellings",
+      "defined by",
+      "functionality"
+    ],
+    [
+      "traditional dwellings",
+      "defined by",
+      "functions of home"
+    ],
+    [
+      "traditional dwellings",
+      "evolved from",
+      "grand homes"
+    ],
+    [
+      "traditional dwellings",
+      "illuminates",
+      "natural light"
+    ],
+    [
+      "traditional dwellings",
+      "includes",
+      "functional spaces"
+    ],
+    [
+      "traditional dwellings",
+      "incorporates",
+      "renewable energy"
+    ],
+    [
+      "traditional dwellings",
+      "influenced",
+      "Middle Ages"
+    ],
+    [
+      "traditional dwellings",
+      "influenced",
+      "home design changes"
+    ],
+    [
+      "traditional dwellings",
+      "influenced",
+      "societal norms"
+    ],
+    [
+      "traditional dwellings",
+      "influenced by",
+      "green building"
+    ],
+    [
+      "traditional dwellings",
+      "influences",
+      "community structures"
+    ],
+    [
+      "traditional dwellings",
+      "influences",
+      "home design"
+    ],
+    [
+      "traditional dwellings",
+      "influences",
+      "settled communities"
+    ],
+    [
+      "traditional dwellings",
+      "informs",
+      "design elements"
+    ],
+    [
+      "traditional dwellings",
+      "marks",
+      "evolution"
+    ],
+    [
+      "traditional dwellings",
+      "symbolizes",
+      "home as symbol"
+    ],
+    [
+      "traditional dwellings",
+      "transforms",
+      "modern amenities"
+    ],
+    [
+      "urbanization",
+      "affects",
+      "home significance"
+    ],
+    [
+      "urbanization",
+      "driven by",
+      "cultural values"
+    ],
+    [
+      "urbanization",
+      "drives",
+      "design elements"
+    ],
+    [
+      "urbanization",
+      "drives",
+      "evolution"
+    ],
+    [
+      "urbanization",
+      "drives",
+      "home design changes"
+    ],
+    [
+      "urbanization",
+      "drives",
+      "mass-produced housing"
+    ],
+    [
+      "urbanization",
+      "enhances",
+      "modern amenities"
+    ],
+    [
+      "urbanization",
+      "influenced by",
+      "grand homes"
+    ],
+    [
+      "urbanization",
+      "influences",
+      "elaborate architecture"
+    ],
+    [
+      "urbanization",
+      "influences",
+      "home layout"
+    ],
+    [
+      "urbanization",
+      "influences",
+      "passive solar design"
+    ],
+    [
+      "urbanization",
+      "influences",
+      "social hierarchy"
+    ],
+    [
+      "urbanization",
+      "offers",
+      "refuge and rest"
+    ],
+    [
+      "urbanization",
+      "shaped",
+      "community structures"
+    ],
+    [
+      "urbanization",
+      "shapes",
+      "cultural influences"
+    ],
+    [
+      "wealth and status",
+      "associated with",
+      "ancient civilizations"
+    ],
+    [
+      "wealth and status",
+      "associated with",
+      "green building"
+    ],
+    [
+      "wealth and status",
+      "embodies",
+      "manor house"
+    ],
+    [
+      "wealth and status",
+      "influences",
+      "home design"
+    ],
+    [
+      "wealth and status",
+      "reflects",
+      "apartment buildings"
+    ],
+    [
+      "wealth and status",
+      "reflects",
+      "design evolution"
+    ],
+    [
+      "wealth and status",
+      "reflects",
+      "elaborate architecture"
+    ],
+    [
+      "wealth and status",
+      "reflects",
+      "modern home"
+    ],
+    [
+      "wealth and status",
+      "reflects",
+      "suburban community"
+    ],
+    [
+      "wealth and status",
+      "symbolizes",
+      "grand homes"
+    ]
+  ],
+  "edges": [
+    "accelerated",
+    "adopted by",
+    "affects",
+    "associated with",
+    "catalyzed by",
+    "centered around",
+    "characterized by",
+    "characterized the development of",
+    "characterizes",
+    "complements",
+    "comprises",
+    "constructed by",
+    "contrasted with",
+    "contrasts with",
+    "contributed to",
+    "contributes to",
+    "creates",
+    "defined by",
+    "defines",
+    "derived from",
+    "determines",
+    "developed by",
+    "developed during",
+    "developed from",
+    "dictated by",
+    "documents",
+    "driven by",
+    "drives",
+    "embodies",
+    "emerged during",
+    "emerged from",
+    "emerges from",
+    "enabled by",
+    "enables",
+    "enhanced",
+    "enhanced by",
+    "enhances",
+    "evolved from",
+    "evolves",
+    "evolves into",
+    "existed during",
+    "facilitated by",
+    "facilitates",
+    "features",
+    "guides",
+    "illuminates",
+    "illustrates",
+    "impacted",
+    "impacted by",
+    "impacts",
+    "improves",
+    "includes",
+    "incorporates",
+    "indicates",
+    "influenced",
+    "influenced by",
+    "influenced the design of",
+    "influenced the development of",
+    "influences",
+    "informs",
+    "inspired",
+    "inspired by",
+    "inspired the principles of",
+    "integrated into",
+    "integrated with",
+    "integrates",
+    "integrates with",
+    "is a characteristic of",
+    "is a component of",
+    "is a feature of",
+    "is a part of",
+    "is a practice of",
+    "is a predecessor to",
+    "is a principle of",
+    "is associated with",
+    "is characterized by",
+    "is defined by",
+    "is driven by",
+    "is enhanced by",
+    "is evolved by",
+    "is influenced by",
+    "is part of",
+    "is reflected in",
+    "is related to",
+    "is represented by",
+    "is shaped by",
+    "is significant for",
+    "is supported by",
+    "is symbolized by",
+    "is utilized in",
+    "leads to",
+    "led to",
+    "marks",
+    "offers",
+    "organized by",
+    "originated from",
+    "originated in",
+    "originates from",
+    "part of",
+    "preceded",
+    "preceded by",
+    "precedes",
+    "produced",
+    "produced by",
+    "promoted by",
+    "promotes",
+    "provided",
+    "provided by",
+    "provided for",
+    "provides",
+    "provides context for",
+    "redefined by",
+    "reflected in",
+    "reflects",
+    "related to",
+    "represented by",
+    "represents",
+    "result of",
+    "resulted in",
+    "serves",
+    "serves as",
+    "shaped",
+    "shaped by",
+    "shaped the design of",
+    "shaped the living conditions of",
+    "shapes",
+    "supported by",
+    "supports",
+    "symbolizes",
+    "traces back to",
+    "transformed",
+    "transformed by",
+    "transformed into",
+    "transforms",
+    "undergoes",
+    "underwent",
+    "used in",
+    "utilized by",
+    "utilized in",
+    "utilizes",
+    "was influenced by"
+  ]
+}

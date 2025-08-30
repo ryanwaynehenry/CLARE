@@ -1,0 +1,4347 @@
+{
+  "entities": [
+    "adaptation",
+    "adaptation needs",
+    "adaptation practices",
+    "adaptation strategies",
+    "agricultural challenges",
+    "agricultural practices",
+    "agricultural resilience",
+    "agricultural responses",
+    "agricultural sustainability",
+    "agriculture",
+    "agroecology",
+    "agroforestry",
+    "biodiversity protection",
+    "challenges",
+    "changing seasons",
+    "changing water availability",
+    "climate adaptation",
+    "climate change",
+    "climate resilience",
+    "climate risks",
+    "crop production",
+    "crop rotation",
+    "crop yields",
+    "drought-resistant crops",
+    "efficient irrigation",
+    "environmental co-benefits",
+    "environmental health",
+    "evaporation rates",
+    "extreme weather",
+    "food production",
+    "food security",
+    "food shortages",
+    "food systems",
+    "future sustainability",
+    "global agriculture",
+    "global challenges",
+    "greenhouse gas reduction",
+    "human health",
+    "impacts",
+    "innovation",
+    "livelihoods",
+    "mitigation",
+    "opportunities",
+    "organic farming",
+    "pests and diseases",
+    "precipitation patterns",
+    "precision agriculture",
+    "price spikes",
+    "rainwater harvesting",
+    "research investment",
+    "resilience",
+    "soil health",
+    "supply chains",
+    "sustainable farming",
+    "sustainable practices",
+    "sustainable water management",
+    "technology",
+    "temperature rise",
+    "water availability",
+    "water resources",
+    "water scarcity",
+    "weather patterns"
+  ],
+  "relations": [
+    [
+      "adaptation",
+      "affects",
+      "water availability"
+    ],
+    [
+      "adaptation",
+      "challenges",
+      "extreme weather"
+    ],
+    [
+      "adaptation",
+      "drives",
+      "innovation"
+    ],
+    [
+      "adaptation",
+      "enhances",
+      "agricultural resilience"
+    ],
+    [
+      "adaptation",
+      "exacerbates",
+      "water scarcity"
+    ],
+    [
+      "adaptation",
+      "facilitated by",
+      "efficient irrigation"
+    ],
+    [
+      "adaptation",
+      "facilitates",
+      "sustainable farming"
+    ],
+    [
+      "adaptation",
+      "improves",
+      "crop yields"
+    ],
+    [
+      "adaptation",
+      "includes",
+      "drought-resistant crops"
+    ],
+    [
+      "adaptation",
+      "influences",
+      "crop production"
+    ],
+    [
+      "adaptation",
+      "influences",
+      "weather patterns"
+    ],
+    [
+      "adaptation",
+      "involves",
+      "agricultural practices"
+    ],
+    [
+      "adaptation",
+      "involves",
+      "agricultural responses"
+    ],
+    [
+      "adaptation",
+      "involves",
+      "rainwater harvesting"
+    ],
+    [
+      "adaptation",
+      "is a process of",
+      "agriculture"
+    ],
+    [
+      "adaptation",
+      "is a strategy for",
+      "organic farming"
+    ],
+    [
+      "adaptation",
+      "is driven by",
+      "technology"
+    ],
+    [
+      "adaptation",
+      "provides",
+      "environmental co-benefits"
+    ],
+    [
+      "adaptation",
+      "requires",
+      "supply chains"
+    ],
+    [
+      "adaptation",
+      "responds to",
+      "changing water availability"
+    ],
+    [
+      "adaptation",
+      "results from",
+      "impacts"
+    ],
+    [
+      "adaptation",
+      "supports",
+      "food security"
+    ],
+    [
+      "adaptation",
+      "supports",
+      "livelihoods"
+    ],
+    [
+      "adaptation needs",
+      "drives",
+      "impacts"
+    ],
+    [
+      "adaptation needs",
+      "influences",
+      "crop yields"
+    ],
+    [
+      "adaptation needs",
+      "promotes",
+      "biodiversity protection"
+    ],
+    [
+      "adaptation needs",
+      "requires",
+      "efficient irrigation"
+    ],
+    [
+      "adaptation needs",
+      "requires",
+      "food shortages"
+    ],
+    [
+      "adaptation needs",
+      "results in",
+      "water scarcity"
+    ],
+    [
+      "adaptation needs",
+      "shapes",
+      "global challenges"
+    ],
+    [
+      "adaptation practices",
+      "addresses",
+      "agricultural challenges"
+    ],
+    [
+      "adaptation practices",
+      "develops",
+      "drought-resistant crops"
+    ],
+    [
+      "adaptation practices",
+      "enhances",
+      "crop yields"
+    ],
+    [
+      "adaptation practices",
+      "enhances",
+      "livelihoods"
+    ],
+    [
+      "adaptation practices",
+      "enhances",
+      "precision agriculture"
+    ],
+    [
+      "adaptation practices",
+      "enhances",
+      "sustainable practices"
+    ],
+    [
+      "adaptation practices",
+      "exacerbates",
+      "price spikes"
+    ],
+    [
+      "adaptation practices",
+      "improves",
+      "human health"
+    ],
+    [
+      "adaptation practices",
+      "improves",
+      "soil health"
+    ],
+    [
+      "adaptation practices",
+      "increases",
+      "pests and diseases"
+    ],
+    [
+      "adaptation practices",
+      "influences",
+      "water availability"
+    ],
+    [
+      "adaptation practices",
+      "influences",
+      "weather patterns"
+    ],
+    [
+      "adaptation practices",
+      "informs",
+      "agricultural sustainability"
+    ],
+    [
+      "adaptation practices",
+      "informs",
+      "agriculture"
+    ],
+    [
+      "adaptation practices",
+      "involves",
+      "crop rotation"
+    ],
+    [
+      "adaptation practices",
+      "promotes",
+      "sustainable farming"
+    ],
+    [
+      "adaptation practices",
+      "requires",
+      "sustainable water management"
+    ],
+    [
+      "adaptation practices",
+      "responds to",
+      "extreme weather"
+    ],
+    [
+      "adaptation practices",
+      "supports",
+      "food production"
+    ],
+    [
+      "adaptation practices",
+      "supports",
+      "food systems"
+    ],
+    [
+      "adaptation strategies",
+      "addresses",
+      "climate risks"
+    ],
+    [
+      "adaptation strategies",
+      "addresses",
+      "global challenges"
+    ],
+    [
+      "adaptation strategies",
+      "addresses",
+      "water scarcity"
+    ],
+    [
+      "adaptation strategies",
+      "affects",
+      "crop production"
+    ],
+    [
+      "adaptation strategies",
+      "enhances",
+      "efficient irrigation"
+    ],
+    [
+      "adaptation strategies",
+      "guides",
+      "technology"
+    ],
+    [
+      "adaptation strategies",
+      "improves",
+      "crop rotation"
+    ],
+    [
+      "adaptation strategies",
+      "increases",
+      "temperature rise"
+    ],
+    [
+      "adaptation strategies",
+      "is supported by",
+      "research investment"
+    ],
+    [
+      "adaptation strategies",
+      "requires",
+      "challenges"
+    ],
+    [
+      "adaptation strategies",
+      "requires",
+      "sustainable water management"
+    ],
+    [
+      "adaptation strategies",
+      "responds to",
+      "changing water availability"
+    ],
+    [
+      "adaptation strategies",
+      "responds to",
+      "extreme weather"
+    ],
+    [
+      "adaptation strategies",
+      "shapes",
+      "food systems"
+    ],
+    [
+      "adaptation strategies",
+      "supports",
+      "water resources"
+    ],
+    [
+      "agricultural challenges",
+      "addresses",
+      "rainwater harvesting"
+    ],
+    [
+      "agricultural challenges",
+      "causes",
+      "price spikes"
+    ],
+    [
+      "agricultural challenges",
+      "creates",
+      "changing seasons"
+    ],
+    [
+      "agricultural challenges",
+      "creates",
+      "impacts"
+    ],
+    [
+      "agricultural challenges",
+      "creates",
+      "resilience"
+    ],
+    [
+      "agricultural challenges",
+      "faces",
+      "sustainable farming"
+    ],
+    [
+      "agricultural challenges",
+      "involves",
+      "crop rotation"
+    ],
+    [
+      "agricultural challenges",
+      "is addressed by",
+      "sustainable water management"
+    ],
+    [
+      "agricultural challenges",
+      "presents challenges to",
+      "climate resilience"
+    ],
+    [
+      "agricultural challenges",
+      "promotes",
+      "organic farming"
+    ],
+    [
+      "agricultural challenges",
+      "results from",
+      "agricultural resilience"
+    ],
+    [
+      "agricultural practices",
+      "addresses",
+      "livelihoods"
+    ],
+    [
+      "agricultural practices",
+      "affects",
+      "crop yields"
+    ],
+    [
+      "agricultural practices",
+      "contributes to",
+      "mitigation"
+    ],
+    [
+      "agricultural practices",
+      "enhances",
+      "precision agriculture"
+    ],
+    [
+      "agricultural practices",
+      "faces",
+      "agricultural challenges"
+    ],
+    [
+      "agricultural practices",
+      "improves",
+      "human health"
+    ],
+    [
+      "agricultural practices",
+      "improves",
+      "soil health"
+    ],
+    [
+      "agricultural practices",
+      "includes",
+      "crop rotation"
+    ],
+    [
+      "agricultural practices",
+      "includes",
+      "sustainable farming"
+    ],
+    [
+      "agricultural practices",
+      "influences",
+      "climate change"
+    ],
+    [
+      "agricultural practices",
+      "influences",
+      "crop production"
+    ],
+    [
+      "agricultural practices",
+      "influences",
+      "supply chains"
+    ],
+    [
+      "agricultural practices",
+      "integrates",
+      "rainwater harvesting"
+    ],
+    [
+      "agricultural practices",
+      "is a type of",
+      "agroforestry"
+    ],
+    [
+      "agricultural practices",
+      "is impacted by",
+      "temperature rise"
+    ],
+    [
+      "agricultural practices",
+      "reduces",
+      "greenhouse gas reduction"
+    ],
+    [
+      "agricultural practices",
+      "requires",
+      "research investment"
+    ],
+    [
+      "agricultural practices",
+      "requires",
+      "sustainable water management"
+    ],
+    [
+      "agricultural practices",
+      "supports",
+      "food security"
+    ],
+    [
+      "agricultural practices",
+      "utilizes",
+      "technology"
+    ],
+    [
+      "agricultural resilience",
+      "affects",
+      "crop yields"
+    ],
+    [
+      "agricultural resilience",
+      "affects",
+      "water availability"
+    ],
+    [
+      "agricultural resilience",
+      "contributes to",
+      "future sustainability"
+    ],
+    [
+      "agricultural resilience",
+      "depends on",
+      "supply chains"
+    ],
+    [
+      "agricultural resilience",
+      "enhances",
+      "food production"
+    ],
+    [
+      "agricultural resilience",
+      "enhances",
+      "organic farming"
+    ],
+    [
+      "agricultural resilience",
+      "enhances",
+      "sustainable practices"
+    ],
+    [
+      "agricultural resilience",
+      "facilitates",
+      "greenhouse gas reduction"
+    ],
+    [
+      "agricultural resilience",
+      "facilitates",
+      "precision agriculture"
+    ],
+    [
+      "agricultural resilience",
+      "improves",
+      "human health"
+    ],
+    [
+      "agricultural resilience",
+      "informs",
+      "adaptation strategies"
+    ],
+    [
+      "agricultural resilience",
+      "informs",
+      "agricultural responses"
+    ],
+    [
+      "agricultural resilience",
+      "is enhanced by",
+      "mitigation"
+    ],
+    [
+      "agricultural resilience",
+      "is impacted by",
+      "changing water availability"
+    ],
+    [
+      "agricultural resilience",
+      "promotes",
+      "sustainable farming"
+    ],
+    [
+      "agricultural resilience",
+      "requires",
+      "research investment"
+    ],
+    [
+      "agricultural resilience",
+      "requires",
+      "sustainable water management"
+    ],
+    [
+      "agricultural resilience",
+      "supports",
+      "biodiversity protection"
+    ],
+    [
+      "agricultural resilience",
+      "supports",
+      "food systems"
+    ],
+    [
+      "agricultural resilience",
+      "supports",
+      "water resources"
+    ],
+    [
+      "agricultural resilience",
+      "utilizes",
+      "rainwater harvesting"
+    ],
+    [
+      "agricultural responses",
+      "addresses",
+      "pests and diseases"
+    ],
+    [
+      "agricultural responses",
+      "contributes to",
+      "biodiversity protection"
+    ],
+    [
+      "agricultural responses",
+      "develops",
+      "drought-resistant crops"
+    ],
+    [
+      "agricultural responses",
+      "elicits",
+      "impacts"
+    ],
+    [
+      "agricultural responses",
+      "faces",
+      "global challenges"
+    ],
+    [
+      "agricultural responses",
+      "improves",
+      "soil health"
+    ],
+    [
+      "agricultural responses",
+      "influences",
+      "changing water availability"
+    ],
+    [
+      "agricultural responses",
+      "informs",
+      "adaptation strategies"
+    ],
+    [
+      "agricultural responses",
+      "informs",
+      "mitigation"
+    ],
+    [
+      "agricultural responses",
+      "responded to by",
+      "innovation"
+    ],
+    [
+      "agricultural responses",
+      "responds to",
+      "resilience"
+    ],
+    [
+      "agricultural sustainability",
+      "affects",
+      "impacts"
+    ],
+    [
+      "agricultural sustainability",
+      "builds",
+      "resilience"
+    ],
+    [
+      "agricultural sustainability",
+      "contributes to",
+      "greenhouse gas reduction"
+    ],
+    [
+      "agricultural sustainability",
+      "develops",
+      "drought-resistant crops"
+    ],
+    [
+      "agricultural sustainability",
+      "ensures",
+      "food security"
+    ],
+    [
+      "agricultural sustainability",
+      "ensures",
+      "future sustainability"
+    ],
+    [
+      "agricultural sustainability",
+      "improves",
+      "human health"
+    ],
+    [
+      "agricultural sustainability",
+      "improves",
+      "soil health"
+    ],
+    [
+      "agricultural sustainability",
+      "increases",
+      "crop yields"
+    ],
+    [
+      "agricultural sustainability",
+      "is affected by",
+      "changing water availability"
+    ],
+    [
+      "agricultural sustainability",
+      "is challenged by",
+      "extreme weather"
+    ],
+    [
+      "agricultural sustainability",
+      "is essential for",
+      "adaptation"
+    ],
+    [
+      "agricultural sustainability",
+      "presents",
+      "global challenges"
+    ],
+    [
+      "agricultural sustainability",
+      "promotes",
+      "biodiversity protection"
+    ],
+    [
+      "agricultural sustainability",
+      "promotes",
+      "climate resilience"
+    ],
+    [
+      "agricultural sustainability",
+      "supports",
+      "adaptation strategies"
+    ],
+    [
+      "agricultural sustainability",
+      "supports",
+      "food systems"
+    ],
+    [
+      "agricultural sustainability",
+      "supports",
+      "rainwater harvesting"
+    ],
+    [
+      "agriculture",
+      "affects",
+      "soil health"
+    ],
+    [
+      "agriculture",
+      "benefits from",
+      "research investment"
+    ],
+    [
+      "agriculture",
+      "enhances",
+      "sustainable water management"
+    ],
+    [
+      "agriculture",
+      "ensures",
+      "food security"
+    ],
+    [
+      "agriculture",
+      "impacted by",
+      "extreme weather"
+    ],
+    [
+      "agriculture",
+      "involves",
+      "crop rotation"
+    ],
+    [
+      "agriculture",
+      "is supported by",
+      "agricultural resilience"
+    ],
+    [
+      "agriculture",
+      "is supported by",
+      "agricultural sustainability"
+    ],
+    [
+      "agriculture",
+      "is supported by",
+      "sustainable farming"
+    ],
+    [
+      "agriculture",
+      "supports",
+      "supply chains"
+    ],
+    [
+      "agriculture",
+      "utilizes",
+      "rainwater harvesting"
+    ],
+    [
+      "agroecology",
+      "affected by",
+      "temperature rise"
+    ],
+    [
+      "agroecology",
+      "affects",
+      "global agriculture"
+    ],
+    [
+      "agroecology",
+      "affects",
+      "water resources"
+    ],
+    [
+      "agroecology",
+      "contributes to",
+      "food systems"
+    ],
+    [
+      "agroecology",
+      "contributes to",
+      "mitigation"
+    ],
+    [
+      "agroecology",
+      "depends on",
+      "water availability"
+    ],
+    [
+      "agroecology",
+      "drives",
+      "innovation"
+    ],
+    [
+      "agroecology",
+      "enhances",
+      "climate resilience"
+    ],
+    [
+      "agroecology",
+      "enhances",
+      "crop yields"
+    ],
+    [
+      "agroecology",
+      "enhances",
+      "efficient irrigation"
+    ],
+    [
+      "agroecology",
+      "enhances",
+      "food security"
+    ],
+    [
+      "agroecology",
+      "enhances",
+      "precision agriculture"
+    ],
+    [
+      "agroecology",
+      "enhances",
+      "rainwater harvesting"
+    ],
+    [
+      "agroecology",
+      "enhances",
+      "soil health"
+    ],
+    [
+      "agroecology",
+      "facilitates",
+      "adaptation"
+    ],
+    [
+      "agroecology",
+      "facilitates",
+      "climate adaptation"
+    ],
+    [
+      "agroecology",
+      "impacts",
+      "extreme weather"
+    ],
+    [
+      "agroecology",
+      "improves",
+      "environmental health"
+    ],
+    [
+      "agroecology",
+      "improves",
+      "human health"
+    ],
+    [
+      "agroecology",
+      "influences",
+      "changing seasons"
+    ],
+    [
+      "agroecology",
+      "is affected by",
+      "pests and diseases"
+    ],
+    [
+      "agroecology",
+      "is influenced by",
+      "climate change"
+    ],
+    [
+      "agroecology",
+      "is related to",
+      "agroforestry"
+    ],
+    [
+      "agroecology",
+      "mitigates",
+      "climate risks"
+    ],
+    [
+      "agroecology",
+      "presents",
+      "challenges"
+    ],
+    [
+      "agroecology",
+      "promotes",
+      "future sustainability"
+    ],
+    [
+      "agroecology",
+      "promotes",
+      "organic farming"
+    ],
+    [
+      "agroecology",
+      "promotes",
+      "sustainable farming"
+    ],
+    [
+      "agroecology",
+      "provides",
+      "opportunities"
+    ],
+    [
+      "agroecology",
+      "reduces",
+      "greenhouse gas reduction"
+    ],
+    [
+      "agroecology",
+      "requires",
+      "research investment"
+    ],
+    [
+      "agroecology",
+      "responds to",
+      "agricultural responses"
+    ],
+    [
+      "agroecology",
+      "supports",
+      "agriculture"
+    ],
+    [
+      "agroecology",
+      "supports",
+      "biodiversity protection"
+    ],
+    [
+      "agroecology",
+      "supports",
+      "livelihoods"
+    ],
+    [
+      "agroecology",
+      "supports",
+      "resilience"
+    ],
+    [
+      "agroecology",
+      "utilizes",
+      "technology"
+    ],
+    [
+      "agroforestry",
+      "affects",
+      "human health"
+    ],
+    [
+      "agroforestry",
+      "affects",
+      "pests and diseases"
+    ],
+    [
+      "agroforestry",
+      "affects",
+      "weather patterns"
+    ],
+    [
+      "agroforestry",
+      "contributes to",
+      "future sustainability"
+    ],
+    [
+      "agroforestry",
+      "contributes to",
+      "mitigation"
+    ],
+    [
+      "agroforestry",
+      "drives",
+      "innovation"
+    ],
+    [
+      "agroforestry",
+      "enhances",
+      "efficient irrigation"
+    ],
+    [
+      "agroforestry",
+      "enhances",
+      "sustainable farming"
+    ],
+    [
+      "agroforestry",
+      "facilitates",
+      "adaptation"
+    ],
+    [
+      "agroforestry",
+      "facilitates",
+      "adaptation practices"
+    ],
+    [
+      "agroforestry",
+      "impacted by",
+      "supply chains"
+    ],
+    [
+      "agroforestry",
+      "is a result of",
+      "impacts"
+    ],
+    [
+      "agroforestry",
+      "is influenced by",
+      "climate change"
+    ],
+    [
+      "agroforestry",
+      "poses",
+      "climate risks"
+    ],
+    [
+      "agroforestry",
+      "promotes",
+      "sustainable practices"
+    ],
+    [
+      "agroforestry",
+      "provides",
+      "adaptation strategies"
+    ],
+    [
+      "agroforestry",
+      "requires",
+      "research investment"
+    ],
+    [
+      "agroforestry",
+      "supports",
+      "agriculture"
+    ],
+    [
+      "agroforestry",
+      "supports",
+      "biodiversity protection"
+    ],
+    [
+      "agroforestry",
+      "supports",
+      "food production"
+    ],
+    [
+      "agroforestry",
+      "supports",
+      "livelihoods"
+    ],
+    [
+      "agroforestry",
+      "supports",
+      "organic farming"
+    ],
+    [
+      "agroforestry",
+      "supports",
+      "rainwater harvesting"
+    ],
+    [
+      "agroforestry",
+      "supports",
+      "technology"
+    ],
+    [
+      "biodiversity protection",
+      "addresses",
+      "mitigation"
+    ],
+    [
+      "biodiversity protection",
+      "benefits from",
+      "weather patterns"
+    ],
+    [
+      "biodiversity protection",
+      "enhances",
+      "human health"
+    ],
+    [
+      "biodiversity protection",
+      "faces",
+      "global challenges"
+    ],
+    [
+      "biodiversity protection",
+      "supported by",
+      "sustainable water management"
+    ],
+    [
+      "biodiversity protection",
+      "supports",
+      "soil health"
+    ],
+    [
+      "challenges",
+      "addresses",
+      "agroforestry"
+    ],
+    [
+      "challenges",
+      "affects",
+      "crop production"
+    ],
+    [
+      "challenges",
+      "affects",
+      "evaporation rates"
+    ],
+    [
+      "challenges",
+      "affects",
+      "global agriculture"
+    ],
+    [
+      "challenges",
+      "affects",
+      "water availability"
+    ],
+    [
+      "challenges",
+      "competes with",
+      "water resources"
+    ],
+    [
+      "challenges",
+      "complicates",
+      "sustainable water management"
+    ],
+    [
+      "challenges",
+      "contrasts with",
+      "opportunities"
+    ],
+    [
+      "challenges",
+      "contributes to",
+      "pests and diseases"
+    ],
+    [
+      "challenges",
+      "disrupts",
+      "supply chains"
+    ],
+    [
+      "challenges",
+      "enhances",
+      "precision agriculture"
+    ],
+    [
+      "challenges",
+      "impacts",
+      "livelihoods"
+    ],
+    [
+      "challenges",
+      "is addressed by",
+      "agricultural resilience"
+    ],
+    [
+      "challenges",
+      "poses",
+      "adaptation"
+    ],
+    [
+      "challenges",
+      "poses",
+      "crop rotation"
+    ],
+    [
+      "challenges",
+      "presents",
+      "agricultural practices"
+    ],
+    [
+      "challenges",
+      "presents",
+      "agriculture"
+    ],
+    [
+      "challenges",
+      "presents",
+      "changing water availability"
+    ],
+    [
+      "challenges",
+      "presents",
+      "extreme weather"
+    ],
+    [
+      "challenges",
+      "presents",
+      "weather patterns"
+    ],
+    [
+      "changing seasons",
+      "affected by",
+      "supply chains"
+    ],
+    [
+      "changing seasons",
+      "affects",
+      "crop rotation"
+    ],
+    [
+      "changing seasons",
+      "affects",
+      "soil health"
+    ],
+    [
+      "changing seasons",
+      "impacts",
+      "changing water availability"
+    ],
+    [
+      "changing seasons",
+      "leads to",
+      "pests and diseases"
+    ],
+    [
+      "changing seasons",
+      "requires",
+      "agricultural responses"
+    ],
+    [
+      "changing seasons",
+      "requires",
+      "mitigation"
+    ],
+    [
+      "changing water availability",
+      "affects",
+      "crop production"
+    ],
+    [
+      "changing water availability",
+      "affects",
+      "future sustainability"
+    ],
+    [
+      "changing water availability",
+      "affects",
+      "soil health"
+    ],
+    [
+      "changing water availability",
+      "impacted by",
+      "supply chains"
+    ],
+    [
+      "changing water availability",
+      "impacts",
+      "agroecology"
+    ],
+    [
+      "changing water availability",
+      "impacts",
+      "organic farming"
+    ],
+    [
+      "changing water availability",
+      "impacts",
+      "resilience"
+    ],
+    [
+      "changing water availability",
+      "influences",
+      "greenhouse gas reduction"
+    ],
+    [
+      "changing water availability",
+      "is affected by",
+      "human health"
+    ],
+    [
+      "changing water availability",
+      "is affected by",
+      "water resources"
+    ],
+    [
+      "changing water availability",
+      "leads to",
+      "water scarcity"
+    ],
+    [
+      "changing water availability",
+      "requires",
+      "sustainable water management"
+    ],
+    [
+      "changing water availability",
+      "utilizes",
+      "precision agriculture"
+    ],
+    [
+      "climate adaptation",
+      "addresses",
+      "agricultural challenges"
+    ],
+    [
+      "climate adaptation",
+      "creates",
+      "opportunities"
+    ],
+    [
+      "climate adaptation",
+      "develops",
+      "drought-resistant crops"
+    ],
+    [
+      "climate adaptation",
+      "enhances",
+      "resilience"
+    ],
+    [
+      "climate adaptation",
+      "enhances",
+      "sustainable farming"
+    ],
+    [
+      "climate adaptation",
+      "ensures",
+      "future sustainability"
+    ],
+    [
+      "climate adaptation",
+      "facilitates",
+      "sustainable water management"
+    ],
+    [
+      "climate adaptation",
+      "facilitates",
+      "technology"
+    ],
+    [
+      "climate adaptation",
+      "fosters",
+      "innovation"
+    ],
+    [
+      "climate adaptation",
+      "impacted by",
+      "water availability"
+    ],
+    [
+      "climate adaptation",
+      "influences",
+      "changing seasons"
+    ],
+    [
+      "climate adaptation",
+      "influences",
+      "crop production"
+    ],
+    [
+      "climate adaptation",
+      "influences",
+      "crop yields"
+    ],
+    [
+      "climate adaptation",
+      "informs",
+      "adaptation practices"
+    ],
+    [
+      "climate adaptation",
+      "informs",
+      "agricultural practices"
+    ],
+    [
+      "climate adaptation",
+      "involves",
+      "agroforestry"
+    ],
+    [
+      "climate adaptation",
+      "is affected by",
+      "climate change"
+    ],
+    [
+      "climate adaptation",
+      "is affected by",
+      "precipitation patterns"
+    ],
+    [
+      "climate adaptation",
+      "is applied to",
+      "agriculture"
+    ],
+    [
+      "climate adaptation",
+      "is influenced by",
+      "food security"
+    ],
+    [
+      "climate adaptation",
+      "leads to",
+      "price spikes"
+    ],
+    [
+      "climate adaptation",
+      "promotes",
+      "sustainable practices"
+    ],
+    [
+      "climate adaptation",
+      "reduces",
+      "greenhouse gas reduction"
+    ],
+    [
+      "climate adaptation",
+      "requires",
+      "challenges"
+    ],
+    [
+      "climate adaptation",
+      "requires",
+      "research investment"
+    ],
+    [
+      "climate adaptation",
+      "supports",
+      "crop rotation"
+    ],
+    [
+      "climate adaptation",
+      "supports",
+      "food production"
+    ],
+    [
+      "climate adaptation",
+      "supports",
+      "livelihoods"
+    ],
+    [
+      "climate adaptation",
+      "supports",
+      "organic farming"
+    ],
+    [
+      "climate change",
+      "affected by",
+      "global agriculture"
+    ],
+    [
+      "climate change",
+      "affects",
+      "agriculture"
+    ],
+    [
+      "climate change",
+      "affects",
+      "changing water availability"
+    ],
+    [
+      "climate change",
+      "affects",
+      "human health"
+    ],
+    [
+      "climate change",
+      "affects",
+      "livelihoods"
+    ],
+    [
+      "climate change",
+      "drives",
+      "changing seasons"
+    ],
+    [
+      "climate change",
+      "enhances",
+      "agricultural resilience"
+    ],
+    [
+      "climate change",
+      "enhances",
+      "technology"
+    ],
+    [
+      "climate change",
+      "impacted by",
+      "agricultural sustainability"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "crop production"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "environmental health"
+    ],
+    [
+      "climate change",
+      "increases",
+      "evaporation rates"
+    ],
+    [
+      "climate change",
+      "increases",
+      "pests and diseases"
+    ],
+    [
+      "climate change",
+      "influences",
+      "crop rotation"
+    ],
+    [
+      "climate change",
+      "influences",
+      "water resources"
+    ],
+    [
+      "climate change",
+      "influences",
+      "weather patterns"
+    ],
+    [
+      "climate change",
+      "informs",
+      "adaptation practices"
+    ],
+    [
+      "climate change",
+      "is a response to",
+      "adaptation"
+    ],
+    [
+      "climate change",
+      "is necessary for",
+      "mitigation"
+    ],
+    [
+      "climate change",
+      "leads to",
+      "water scarcity"
+    ],
+    [
+      "climate change",
+      "necessitates",
+      "adaptation strategies"
+    ],
+    [
+      "climate change",
+      "presents",
+      "climate risks"
+    ],
+    [
+      "climate change",
+      "presents",
+      "global challenges"
+    ],
+    [
+      "climate change",
+      "shapes",
+      "impacts"
+    ],
+    [
+      "climate resilience",
+      "develops",
+      "drought-resistant crops"
+    ],
+    [
+      "climate resilience",
+      "enhances",
+      "agricultural practices"
+    ],
+    [
+      "climate resilience",
+      "enhances",
+      "crop rotation"
+    ],
+    [
+      "climate resilience",
+      "ensures",
+      "food security"
+    ],
+    [
+      "climate resilience",
+      "ensures",
+      "future sustainability"
+    ],
+    [
+      "climate resilience",
+      "exacerbates",
+      "food shortages"
+    ],
+    [
+      "climate resilience",
+      "improves",
+      "crop yields"
+    ],
+    [
+      "climate resilience",
+      "informs",
+      "agricultural responses"
+    ],
+    [
+      "climate resilience",
+      "requires",
+      "adaptation needs"
+    ],
+    [
+      "climate resilience",
+      "requires",
+      "research investment"
+    ],
+    [
+      "climate resilience",
+      "supports",
+      "rainwater harvesting"
+    ],
+    [
+      "climate risks",
+      "affects",
+      "crop yields"
+    ],
+    [
+      "climate risks",
+      "exacerbates",
+      "price spikes"
+    ],
+    [
+      "climate risks",
+      "exposed to",
+      "food systems"
+    ],
+    [
+      "climate risks",
+      "exposes",
+      "agricultural practices"
+    ],
+    [
+      "climate risks",
+      "exposes to",
+      "resilience"
+    ],
+    [
+      "climate risks",
+      "influences",
+      "precipitation patterns"
+    ],
+    [
+      "climate risks",
+      "informs",
+      "precision agriculture"
+    ],
+    [
+      "climate risks",
+      "is threatened by",
+      "climate resilience"
+    ],
+    [
+      "crop production",
+      "affects",
+      "crop yields"
+    ],
+    [
+      "crop production",
+      "affects",
+      "pests and diseases"
+    ],
+    [
+      "crop production",
+      "benefits from",
+      "agroforestry"
+    ],
+    [
+      "crop production",
+      "depends on",
+      "livelihoods"
+    ],
+    [
+      "crop production",
+      "improves",
+      "precision agriculture"
+    ],
+    [
+      "crop production",
+      "influences",
+      "supply chains"
+    ],
+    [
+      "crop production",
+      "influences",
+      "weather patterns"
+    ],
+    [
+      "crop production",
+      "is improved by",
+      "greenhouse gas reduction"
+    ],
+    [
+      "crop production",
+      "is influenced by",
+      "impacts"
+    ],
+    [
+      "crop production",
+      "requires",
+      "sustainable water management"
+    ],
+    [
+      "crop rotation",
+      "benefits from",
+      "sustainable farming"
+    ],
+    [
+      "crop rotation",
+      "complements",
+      "precision agriculture"
+    ],
+    [
+      "crop rotation",
+      "enhances",
+      "efficient irrigation"
+    ],
+    [
+      "crop rotation",
+      "enhances",
+      "soil health"
+    ],
+    [
+      "crop rotation",
+      "enhances",
+      "technology"
+    ],
+    [
+      "crop rotation",
+      "increases",
+      "crop yields"
+    ],
+    [
+      "crop rotation",
+      "influences",
+      "changing water availability"
+    ],
+    [
+      "crop rotation",
+      "is a method of",
+      "agroforestry"
+    ],
+    [
+      "crop rotation",
+      "is affected by",
+      "extreme weather"
+    ],
+    [
+      "crop rotation",
+      "is supported by",
+      "livelihoods"
+    ],
+    [
+      "crop rotation",
+      "mitigates",
+      "climate risks"
+    ],
+    [
+      "crop rotation",
+      "presents",
+      "global challenges"
+    ],
+    [
+      "crop rotation",
+      "supports",
+      "food systems"
+    ],
+    [
+      "crop rotation",
+      "supports",
+      "organic farming"
+    ],
+    [
+      "crop yields",
+      "affected by",
+      "weather patterns"
+    ],
+    [
+      "crop yields",
+      "affects",
+      "agriculture"
+    ],
+    [
+      "crop yields",
+      "affects",
+      "impacts"
+    ],
+    [
+      "crop yields",
+      "affects",
+      "pests and diseases"
+    ],
+    [
+      "crop yields",
+      "affects",
+      "precipitation patterns"
+    ],
+    [
+      "crop yields",
+      "enhanced by",
+      "biodiversity protection"
+    ],
+    [
+      "crop yields",
+      "impacts",
+      "changing water availability"
+    ],
+    [
+      "crop yields",
+      "influences",
+      "global agriculture"
+    ],
+    [
+      "crop yields",
+      "influences",
+      "livelihoods"
+    ],
+    [
+      "crop yields",
+      "influences",
+      "soil health"
+    ],
+    [
+      "crop yields",
+      "influences",
+      "sustainable practices"
+    ],
+    [
+      "crop yields",
+      "is influenced by",
+      "human health"
+    ],
+    [
+      "crop yields",
+      "reduces",
+      "evaporation rates"
+    ],
+    [
+      "crop yields",
+      "reduces",
+      "extreme weather"
+    ],
+    [
+      "crop yields",
+      "supports",
+      "future sustainability"
+    ],
+    [
+      "drought-resistant crops",
+      "developed for",
+      "weather patterns"
+    ],
+    [
+      "drought-resistant crops",
+      "develops",
+      "agriculture"
+    ],
+    [
+      "drought-resistant crops",
+      "improve",
+      "crop yields"
+    ],
+    [
+      "drought-resistant crops",
+      "improves",
+      "crop production"
+    ],
+    [
+      "drought-resistant crops",
+      "requires",
+      "efficient irrigation"
+    ],
+    [
+      "drought-resistant crops",
+      "requires",
+      "research investment"
+    ],
+    [
+      "drought-resistant crops",
+      "supports",
+      "agricultural resilience"
+    ],
+    [
+      "drought-resistant crops",
+      "supports",
+      "biodiversity protection"
+    ],
+    [
+      "drought-resistant crops",
+      "supports",
+      "resilience"
+    ],
+    [
+      "efficient irrigation",
+      "depends on",
+      "livelihoods"
+    ],
+    [
+      "efficient irrigation",
+      "enables",
+      "future sustainability"
+    ],
+    [
+      "efficient irrigation",
+      "enhances",
+      "agricultural practices"
+    ],
+    [
+      "efficient irrigation",
+      "enhances",
+      "crop production"
+    ],
+    [
+      "efficient irrigation",
+      "improves",
+      "crop yields"
+    ],
+    [
+      "efficient irrigation",
+      "is facilitated by",
+      "adaptation strategies"
+    ],
+    [
+      "efficient irrigation",
+      "supports",
+      "sustainable water management"
+    ],
+    [
+      "environmental co-benefits",
+      "addresses",
+      "adaptation needs"
+    ],
+    [
+      "environmental co-benefits",
+      "enhanced by",
+      "efficient irrigation"
+    ],
+    [
+      "environmental co-benefits",
+      "enhances",
+      "adaptation strategies"
+    ],
+    [
+      "environmental co-benefits",
+      "enhances",
+      "future sustainability"
+    ],
+    [
+      "environmental co-benefits",
+      "enhances",
+      "water resources"
+    ],
+    [
+      "environmental co-benefits",
+      "improves",
+      "soil health"
+    ],
+    [
+      "environmental co-benefits",
+      "influences",
+      "agricultural responses"
+    ],
+    [
+      "environmental co-benefits",
+      "is enhanced by",
+      "biodiversity protection"
+    ],
+    [
+      "environmental co-benefits",
+      "is influenced by",
+      "technology"
+    ],
+    [
+      "environmental co-benefits",
+      "promotes",
+      "organic farming"
+    ],
+    [
+      "environmental co-benefits",
+      "provides",
+      "agriculture"
+    ],
+    [
+      "environmental co-benefits",
+      "provides",
+      "challenges"
+    ],
+    [
+      "environmental co-benefits",
+      "results in",
+      "innovation"
+    ],
+    [
+      "environmental health",
+      "affects",
+      "crop yields"
+    ],
+    [
+      "environmental health",
+      "affects",
+      "human health"
+    ],
+    [
+      "environmental health",
+      "contributes to",
+      "biodiversity protection"
+    ],
+    [
+      "environmental health",
+      "drives",
+      "innovation"
+    ],
+    [
+      "environmental health",
+      "enables",
+      "rainwater harvesting"
+    ],
+    [
+      "environmental health",
+      "enhanced by",
+      "soil health"
+    ],
+    [
+      "environmental health",
+      "enhances",
+      "resilience"
+    ],
+    [
+      "environmental health",
+      "enhances",
+      "sustainable practices"
+    ],
+    [
+      "environmental health",
+      "facilitates",
+      "greenhouse gas reduction"
+    ],
+    [
+      "environmental health",
+      "improves",
+      "sustainable farming"
+    ],
+    [
+      "environmental health",
+      "informs",
+      "adaptation practices"
+    ],
+    [
+      "environmental health",
+      "provides",
+      "environmental co-benefits"
+    ],
+    [
+      "environmental health",
+      "supported by",
+      "sustainable water management"
+    ],
+    [
+      "environmental health",
+      "supports",
+      "organic farming"
+    ],
+    [
+      "evaporation rates",
+      "affected by",
+      "adaptation"
+    ],
+    [
+      "evaporation rates",
+      "affects",
+      "drought-resistant crops"
+    ],
+    [
+      "evaporation rates",
+      "affects",
+      "food security"
+    ],
+    [
+      "evaporation rates",
+      "causes",
+      "food shortages"
+    ],
+    [
+      "evaporation rates",
+      "contributes to",
+      "changing water availability"
+    ],
+    [
+      "evaporation rates",
+      "contributes to",
+      "water scarcity"
+    ],
+    [
+      "evaporation rates",
+      "influenced by",
+      "water resources"
+    ],
+    [
+      "evaporation rates",
+      "influences",
+      "adaptation strategies"
+    ],
+    [
+      "evaporation rates",
+      "influences",
+      "environmental health"
+    ],
+    [
+      "evaporation rates",
+      "is influenced by",
+      "impacts"
+    ],
+    [
+      "extreme weather",
+      "affects",
+      "human health"
+    ],
+    [
+      "extreme weather",
+      "causes",
+      "price spikes"
+    ],
+    [
+      "extreme weather",
+      "challenges",
+      "resilience"
+    ],
+    [
+      "extreme weather",
+      "disrupted by",
+      "supply chains"
+    ],
+    [
+      "extreme weather",
+      "exacerbated by",
+      "agricultural practices"
+    ],
+    [
+      "extreme weather",
+      "exacerbates",
+      "global agriculture"
+    ],
+    [
+      "extreme weather",
+      "impacted by",
+      "livelihoods"
+    ],
+    [
+      "extreme weather",
+      "impacts",
+      "soil health"
+    ],
+    [
+      "extreme weather",
+      "impacts",
+      "water resources"
+    ],
+    [
+      "extreme weather",
+      "increases",
+      "evaporation rates"
+    ],
+    [
+      "extreme weather",
+      "is influenced by",
+      "water availability"
+    ],
+    [
+      "extreme weather",
+      "promotes",
+      "precision agriculture"
+    ],
+    [
+      "extreme weather",
+      "threatens",
+      "agricultural resilience"
+    ],
+    [
+      "food production",
+      "enhances",
+      "environmental co-benefits"
+    ],
+    [
+      "food production",
+      "faces",
+      "global challenges"
+    ],
+    [
+      "food production",
+      "requires",
+      "adaptation needs"
+    ],
+    [
+      "food production",
+      "supported by",
+      "climate resilience"
+    ],
+    [
+      "food production",
+      "utilizes",
+      "precision agriculture"
+    ],
+    [
+      "food security",
+      "dependent on",
+      "water resources"
+    ],
+    [
+      "food security",
+      "depends on",
+      "crop production"
+    ],
+    [
+      "food security",
+      "enhances",
+      "crop rotation"
+    ],
+    [
+      "food security",
+      "enhances",
+      "technology"
+    ],
+    [
+      "food security",
+      "ensures",
+      "future sustainability"
+    ],
+    [
+      "food security",
+      "impacts",
+      "water availability"
+    ],
+    [
+      "food security",
+      "improves",
+      "precision agriculture"
+    ],
+    [
+      "food security",
+      "improves",
+      "soil health"
+    ],
+    [
+      "food security",
+      "influences",
+      "human health"
+    ],
+    [
+      "food security",
+      "is essential for",
+      "sustainable water management"
+    ],
+    [
+      "food security",
+      "is impacted by",
+      "water scarcity"
+    ],
+    [
+      "food security",
+      "is influenced by",
+      "pests and diseases"
+    ],
+    [
+      "food security",
+      "supports",
+      "biodiversity protection"
+    ],
+    [
+      "food security",
+      "supports",
+      "rainwater harvesting"
+    ],
+    [
+      "food security",
+      "threatens",
+      "challenges"
+    ],
+    [
+      "food shortages",
+      "causes",
+      "precipitation patterns"
+    ],
+    [
+      "food shortages",
+      "exacerbated by",
+      "climate risks"
+    ],
+    [
+      "food shortages",
+      "exacerbates",
+      "adaptation strategies"
+    ],
+    [
+      "food shortages",
+      "is addressed by",
+      "technology"
+    ],
+    [
+      "food shortages",
+      "is affected by",
+      "pests and diseases"
+    ],
+    [
+      "food shortages",
+      "leads to",
+      "crop yields"
+    ],
+    [
+      "food shortages",
+      "leads to",
+      "price spikes"
+    ],
+    [
+      "food shortages",
+      "leads to",
+      "supply chains"
+    ],
+    [
+      "food shortages",
+      "leads to",
+      "water resources"
+    ],
+    [
+      "food shortages",
+      "results in",
+      "climate change"
+    ],
+    [
+      "food shortages",
+      "results in",
+      "human health"
+    ],
+    [
+      "food shortages",
+      "results in",
+      "water scarcity"
+    ],
+    [
+      "food shortages",
+      "results in",
+      "weather patterns"
+    ],
+    [
+      "food systems",
+      "enhances",
+      "efficient irrigation"
+    ],
+    [
+      "food systems",
+      "requires",
+      "research investment"
+    ],
+    [
+      "future sustainability",
+      "influences",
+      "crop production"
+    ],
+    [
+      "future sustainability",
+      "informs",
+      "adaptation needs"
+    ],
+    [
+      "future sustainability",
+      "informs",
+      "adaptation strategies"
+    ],
+    [
+      "future sustainability",
+      "promotes",
+      "biodiversity protection"
+    ],
+    [
+      "future sustainability",
+      "requires",
+      "research investment"
+    ],
+    [
+      "global agriculture",
+      "affects",
+      "human health"
+    ],
+    [
+      "global agriculture",
+      "affects",
+      "weather patterns"
+    ],
+    [
+      "global agriculture",
+      "benefits",
+      "agroforestry"
+    ],
+    [
+      "global agriculture",
+      "builds",
+      "resilience"
+    ],
+    [
+      "global agriculture",
+      "contributes to",
+      "agricultural resilience"
+    ],
+    [
+      "global agriculture",
+      "contributes to",
+      "climate resilience"
+    ],
+    [
+      "global agriculture",
+      "contributes to",
+      "crop production"
+    ],
+    [
+      "global agriculture",
+      "demands",
+      "adaptation needs"
+    ],
+    [
+      "global agriculture",
+      "drives",
+      "innovation"
+    ],
+    [
+      "global agriculture",
+      "drives",
+      "technology"
+    ],
+    [
+      "global agriculture",
+      "encourages",
+      "sustainable practices"
+    ],
+    [
+      "global agriculture",
+      "ensures",
+      "food security"
+    ],
+    [
+      "global agriculture",
+      "improves",
+      "soil health"
+    ],
+    [
+      "global agriculture",
+      "influences",
+      "crop rotation"
+    ],
+    [
+      "global agriculture",
+      "influences",
+      "impacts"
+    ],
+    [
+      "global agriculture",
+      "involves",
+      "agricultural practices"
+    ],
+    [
+      "global agriculture",
+      "is enhanced by",
+      "sustainable water management"
+    ],
+    [
+      "global agriculture",
+      "is influenced by",
+      "climate adaptation"
+    ],
+    [
+      "global agriculture",
+      "presents",
+      "agricultural challenges"
+    ],
+    [
+      "global agriculture",
+      "promotes",
+      "sustainable farming"
+    ],
+    [
+      "global agriculture",
+      "provides",
+      "opportunities"
+    ],
+    [
+      "global agriculture",
+      "requires",
+      "adaptation"
+    ],
+    [
+      "global agriculture",
+      "supports",
+      "food production"
+    ],
+    [
+      "global agriculture",
+      "supports",
+      "livelihoods"
+    ],
+    [
+      "global agriculture",
+      "utilizes",
+      "precision agriculture"
+    ],
+    [
+      "global challenges",
+      "address",
+      "adaptation practices"
+    ],
+    [
+      "global challenges",
+      "addresses",
+      "drought-resistant crops"
+    ],
+    [
+      "global challenges",
+      "contributes to",
+      "evaporation rates"
+    ],
+    [
+      "global challenges",
+      "exacerbated by",
+      "climate adaptation"
+    ],
+    [
+      "global challenges",
+      "faces",
+      "food systems"
+    ],
+    [
+      "global challenges",
+      "is a response to",
+      "greenhouse gas reduction"
+    ],
+    [
+      "global challenges",
+      "is challenged by",
+      "soil health"
+    ],
+    [
+      "global challenges",
+      "requires",
+      "sustainable water management"
+    ],
+    [
+      "greenhouse gas reduction",
+      "affects",
+      "food systems"
+    ],
+    [
+      "greenhouse gas reduction",
+      "facilitates",
+      "adaptation practices"
+    ],
+    [
+      "greenhouse gas reduction",
+      "facilitates",
+      "technology"
+    ],
+    [
+      "greenhouse gas reduction",
+      "improves",
+      "livelihoods"
+    ],
+    [
+      "greenhouse gas reduction",
+      "supports",
+      "drought-resistant crops"
+    ],
+    [
+      "greenhouse gas reduction",
+      "supports",
+      "future sustainability"
+    ],
+    [
+      "human health",
+      "affects",
+      "impacts"
+    ],
+    [
+      "human health",
+      "affects",
+      "pests and diseases"
+    ],
+    [
+      "human health",
+      "benefits from",
+      "drought-resistant crops"
+    ],
+    [
+      "human health",
+      "impacts",
+      "agriculture"
+    ],
+    [
+      "human health",
+      "impacts",
+      "changing seasons"
+    ],
+    [
+      "human health",
+      "impacts",
+      "weather patterns"
+    ],
+    [
+      "human health",
+      "improves",
+      "sustainable practices"
+    ],
+    [
+      "human health",
+      "influences",
+      "adaptation needs"
+    ],
+    [
+      "human health",
+      "influences",
+      "precipitation patterns"
+    ],
+    [
+      "human health",
+      "is improved by",
+      "soil health"
+    ],
+    [
+      "human health",
+      "is influenced by",
+      "sustainable water management"
+    ],
+    [
+      "impacts",
+      "affects",
+      "agriculture"
+    ],
+    [
+      "impacts",
+      "causes",
+      "food shortages"
+    ],
+    [
+      "impacts",
+      "drives",
+      "agricultural practices"
+    ],
+    [
+      "impacts",
+      "improves",
+      "agroecology"
+    ],
+    [
+      "impacts",
+      "influences",
+      "agricultural resilience"
+    ],
+    [
+      "impacts",
+      "influences",
+      "food production"
+    ],
+    [
+      "impacts",
+      "influences",
+      "sustainable farming"
+    ],
+    [
+      "impacts",
+      "is influenced by",
+      "rainwater harvesting"
+    ],
+    [
+      "impacts",
+      "shapes",
+      "adaptation strategies"
+    ],
+    [
+      "impacts",
+      "supports",
+      "resilience"
+    ],
+    [
+      "innovation",
+      "affects",
+      "changing water availability"
+    ],
+    [
+      "innovation",
+      "benefits",
+      "organic farming"
+    ],
+    [
+      "innovation",
+      "drives",
+      "adaptation strategies"
+    ],
+    [
+      "innovation",
+      "drives",
+      "agricultural responses"
+    ],
+    [
+      "innovation",
+      "drives",
+      "crop rotation"
+    ],
+    [
+      "innovation",
+      "drives",
+      "sustainable practices"
+    ],
+    [
+      "innovation",
+      "drives",
+      "technology"
+    ],
+    [
+      "innovation",
+      "enhances",
+      "livelihoods"
+    ],
+    [
+      "innovation",
+      "identifies",
+      "adaptation needs"
+    ],
+    [
+      "innovation",
+      "improves",
+      "efficient irrigation"
+    ],
+    [
+      "innovation",
+      "improves",
+      "human health"
+    ],
+    [
+      "innovation",
+      "improves",
+      "soil health"
+    ],
+    [
+      "innovation",
+      "improves",
+      "water availability"
+    ],
+    [
+      "innovation",
+      "involves",
+      "rainwater harvesting"
+    ],
+    [
+      "innovation",
+      "leads to",
+      "greenhouse gas reduction"
+    ],
+    [
+      "innovation",
+      "presents",
+      "global challenges"
+    ],
+    [
+      "innovation",
+      "promotes",
+      "sustainable farming"
+    ],
+    [
+      "innovation",
+      "supports",
+      "food security"
+    ],
+    [
+      "innovation",
+      "supports",
+      "sustainable water management"
+    ],
+    [
+      "innovation",
+      "transforms",
+      "agriculture"
+    ],
+    [
+      "innovation",
+      "transforms",
+      "food systems"
+    ],
+    [
+      "innovation",
+      "utilizes",
+      "precision agriculture"
+    ],
+    [
+      "livelihoods",
+      "affects",
+      "weather patterns"
+    ],
+    [
+      "livelihoods",
+      "benefits from",
+      "agricultural sustainability"
+    ],
+    [
+      "livelihoods",
+      "dependent on",
+      "water resources"
+    ],
+    [
+      "livelihoods",
+      "depends on",
+      "environmental health"
+    ],
+    [
+      "livelihoods",
+      "guides",
+      "adaptation strategies"
+    ],
+    [
+      "livelihoods",
+      "impacts",
+      "changing water availability"
+    ],
+    [
+      "livelihoods",
+      "is addressed by",
+      "mitigation"
+    ],
+    [
+      "livelihoods",
+      "is affected by",
+      "pests and diseases"
+    ],
+    [
+      "livelihoods",
+      "is influenced by",
+      "climate resilience"
+    ],
+    [
+      "livelihoods",
+      "is influenced by",
+      "human health"
+    ],
+    [
+      "livelihoods",
+      "is influenced by",
+      "impacts"
+    ],
+    [
+      "livelihoods",
+      "is supported by",
+      "resilience"
+    ],
+    [
+      "livelihoods",
+      "promotes",
+      "sustainable practices"
+    ],
+    [
+      "livelihoods",
+      "supported by",
+      "agricultural resilience"
+    ],
+    [
+      "livelihoods",
+      "supports",
+      "agricultural responses"
+    ],
+    [
+      "livelihoods",
+      "supports",
+      "food security"
+    ],
+    [
+      "livelihoods",
+      "supports",
+      "organic farming"
+    ],
+    [
+      "mitigation",
+      "addresses",
+      "climate risks"
+    ],
+    [
+      "mitigation",
+      "dependent on",
+      "technology"
+    ],
+    [
+      "mitigation",
+      "enhances",
+      "food production"
+    ],
+    [
+      "mitigation",
+      "improves",
+      "efficient irrigation"
+    ],
+    [
+      "mitigation",
+      "informs",
+      "challenges"
+    ],
+    [
+      "mitigation",
+      "poses",
+      "global challenges"
+    ],
+    [
+      "mitigation",
+      "promotes",
+      "organic farming"
+    ],
+    [
+      "mitigation",
+      "reduces",
+      "adaptation"
+    ],
+    [
+      "mitigation",
+      "reduces",
+      "precision agriculture"
+    ],
+    [
+      "opportunities",
+      "affects",
+      "changing water availability"
+    ],
+    [
+      "opportunities",
+      "contributes to",
+      "mitigation"
+    ],
+    [
+      "opportunities",
+      "creates",
+      "food production"
+    ],
+    [
+      "opportunities",
+      "creates",
+      "impacts"
+    ],
+    [
+      "opportunities",
+      "creates",
+      "livelihoods"
+    ],
+    [
+      "opportunities",
+      "enhances",
+      "climate resilience"
+    ],
+    [
+      "opportunities",
+      "enhances",
+      "crop production"
+    ],
+    [
+      "opportunities",
+      "enhances",
+      "crop yields"
+    ],
+    [
+      "opportunities",
+      "enhances",
+      "soil health"
+    ],
+    [
+      "opportunities",
+      "includes",
+      "drought-resistant crops"
+    ],
+    [
+      "opportunities",
+      "involves",
+      "rainwater harvesting"
+    ],
+    [
+      "opportunities",
+      "is driven by",
+      "technology"
+    ],
+    [
+      "opportunities",
+      "leads to",
+      "adaptation"
+    ],
+    [
+      "opportunities",
+      "leads to",
+      "environmental co-benefits"
+    ],
+    [
+      "opportunities",
+      "leads to",
+      "greenhouse gas reduction"
+    ],
+    [
+      "opportunities",
+      "offers",
+      "agriculture"
+    ],
+    [
+      "opportunities",
+      "promotes",
+      "agricultural practices"
+    ],
+    [
+      "opportunities",
+      "promotes",
+      "agricultural resilience"
+    ],
+    [
+      "opportunities",
+      "promotes",
+      "organic farming"
+    ],
+    [
+      "opportunities",
+      "promotes",
+      "sustainable farming"
+    ],
+    [
+      "opportunities",
+      "provides",
+      "agricultural sustainability"
+    ],
+    [
+      "opportunities",
+      "provides",
+      "efficient irrigation"
+    ],
+    [
+      "opportunities",
+      "provides",
+      "resilience"
+    ],
+    [
+      "opportunities",
+      "supports",
+      "precision agriculture"
+    ],
+    [
+      "opportunities",
+      "supports",
+      "sustainable water management"
+    ],
+    [
+      "organic farming",
+      "addresses",
+      "global challenges"
+    ],
+    [
+      "organic farming",
+      "benefits from",
+      "agriculture"
+    ],
+    [
+      "organic farming",
+      "benefits from",
+      "global agriculture"
+    ],
+    [
+      "organic farming",
+      "benefits from",
+      "water resources"
+    ],
+    [
+      "organic farming",
+      "contributes to",
+      "food production"
+    ],
+    [
+      "organic farming",
+      "enhanced by",
+      "human health"
+    ],
+    [
+      "organic farming",
+      "improves",
+      "crop yields"
+    ],
+    [
+      "organic farming",
+      "improves",
+      "efficient irrigation"
+    ],
+    [
+      "organic farming",
+      "improves",
+      "soil health"
+    ],
+    [
+      "organic farming",
+      "is impacted by",
+      "water scarcity"
+    ],
+    [
+      "organic farming",
+      "is supported by",
+      "food security"
+    ],
+    [
+      "organic farming",
+      "promotes",
+      "agricultural sustainability"
+    ],
+    [
+      "organic farming",
+      "utilizes",
+      "precision agriculture"
+    ],
+    [
+      "pests and diseases",
+      "affects",
+      "agricultural sustainability"
+    ],
+    [
+      "pests and diseases",
+      "affects",
+      "food systems"
+    ],
+    [
+      "pests and diseases",
+      "affects",
+      "impacts"
+    ],
+    [
+      "pests and diseases",
+      "exacerbates",
+      "environmental health"
+    ],
+    [
+      "pests and diseases",
+      "exacerbates",
+      "extreme weather"
+    ],
+    [
+      "pests and diseases",
+      "exacerbates",
+      "weather patterns"
+    ],
+    [
+      "pests and diseases",
+      "impacted by",
+      "crop rotation"
+    ],
+    [
+      "pests and diseases",
+      "impacted by",
+      "global agriculture"
+    ],
+    [
+      "pests and diseases",
+      "increases",
+      "climate risks"
+    ],
+    [
+      "pests and diseases",
+      "influences",
+      "precipitation patterns"
+    ],
+    [
+      "pests and diseases",
+      "informs",
+      "adaptation needs"
+    ],
+    [
+      "pests and diseases",
+      "is affected by",
+      "agricultural resilience"
+    ],
+    [
+      "pests and diseases",
+      "is supported by",
+      "price spikes"
+    ],
+    [
+      "pests and diseases",
+      "represents",
+      "global challenges"
+    ],
+    [
+      "pests and diseases",
+      "threatens",
+      "biodiversity protection"
+    ],
+    [
+      "precipitation patterns",
+      "affects",
+      "challenges"
+    ],
+    [
+      "precipitation patterns",
+      "affects",
+      "evaporation rates"
+    ],
+    [
+      "precipitation patterns",
+      "influences",
+      "impacts"
+    ],
+    [
+      "precipitation patterns",
+      "influences",
+      "water availability"
+    ],
+    [
+      "precipitation patterns",
+      "requires",
+      "adaptation strategies"
+    ],
+    [
+      "precision agriculture",
+      "benefits from",
+      "human health"
+    ],
+    [
+      "precision agriculture",
+      "facilitates",
+      "adaptation"
+    ],
+    [
+      "precision agriculture",
+      "is managed by",
+      "pests and diseases"
+    ],
+    [
+      "precision agriculture",
+      "supports",
+      "sustainable water management"
+    ],
+    [
+      "price spikes",
+      "affected by",
+      "food security"
+    ],
+    [
+      "price spikes",
+      "causes",
+      "agriculture"
+    ],
+    [
+      "price spikes",
+      "causes",
+      "challenges"
+    ],
+    [
+      "price spikes",
+      "causes",
+      "changing seasons"
+    ],
+    [
+      "price spikes",
+      "causes",
+      "climate change"
+    ],
+    [
+      "price spikes",
+      "causes",
+      "livelihoods"
+    ],
+    [
+      "price spikes",
+      "causes",
+      "supply chains"
+    ],
+    [
+      "price spikes",
+      "causes",
+      "water resources"
+    ],
+    [
+      "price spikes",
+      "contributes to",
+      "agroforestry"
+    ],
+    [
+      "price spikes",
+      "contributes to",
+      "climate resilience"
+    ],
+    [
+      "price spikes",
+      "contributes to",
+      "crop rotation"
+    ],
+    [
+      "price spikes",
+      "contributes to",
+      "evaporation rates"
+    ],
+    [
+      "price spikes",
+      "impacts",
+      "agricultural practices"
+    ],
+    [
+      "price spikes",
+      "influences",
+      "precipitation patterns"
+    ],
+    [
+      "price spikes",
+      "influences",
+      "resilience"
+    ],
+    [
+      "price spikes",
+      "is affected by",
+      "adaptation"
+    ],
+    [
+      "price spikes",
+      "results in",
+      "global agriculture"
+    ],
+    [
+      "price spikes",
+      "results in",
+      "temperature rise"
+    ],
+    [
+      "price spikes",
+      "results in",
+      "water scarcity"
+    ],
+    [
+      "price spikes",
+      "threatens",
+      "biodiversity protection"
+    ],
+    [
+      "rainwater harvesting",
+      "addresses",
+      "changing water availability"
+    ],
+    [
+      "rainwater harvesting",
+      "benefits from",
+      "livelihoods"
+    ],
+    [
+      "rainwater harvesting",
+      "complements",
+      "organic farming"
+    ],
+    [
+      "rainwater harvesting",
+      "develops",
+      "drought-resistant crops"
+    ],
+    [
+      "rainwater harvesting",
+      "facilitates",
+      "sustainable practices"
+    ],
+    [
+      "rainwater harvesting",
+      "improves",
+      "efficient irrigation"
+    ],
+    [
+      "rainwater harvesting",
+      "improves",
+      "soil health"
+    ],
+    [
+      "rainwater harvesting",
+      "increases",
+      "crop yields"
+    ],
+    [
+      "rainwater harvesting",
+      "is a method of",
+      "sustainable water management"
+    ],
+    [
+      "rainwater harvesting",
+      "is supported by",
+      "sustainable farming"
+    ],
+    [
+      "rainwater harvesting",
+      "supports",
+      "biodiversity protection"
+    ],
+    [
+      "rainwater harvesting",
+      "supports",
+      "crop production"
+    ],
+    [
+      "rainwater harvesting",
+      "utilizes",
+      "global agriculture"
+    ],
+    [
+      "rainwater harvesting",
+      "utilizes",
+      "technology"
+    ],
+    [
+      "research investment",
+      "addresses",
+      "global challenges"
+    ],
+    [
+      "research investment",
+      "benefits from",
+      "human health"
+    ],
+    [
+      "research investment",
+      "enhances",
+      "precision agriculture"
+    ],
+    [
+      "research investment",
+      "enhances",
+      "soil health"
+    ],
+    [
+      "research investment",
+      "facilitates",
+      "sustainable water management"
+    ],
+    [
+      "research investment",
+      "funds",
+      "rainwater harvesting"
+    ],
+    [
+      "research investment",
+      "requires",
+      "water availability"
+    ],
+    [
+      "research investment",
+      "supports",
+      "efficient irrigation"
+    ],
+    [
+      "research investment",
+      "supports",
+      "food production"
+    ],
+    [
+      "research investment",
+      "supports",
+      "technology"
+    ],
+    [
+      "resilience",
+      "affects",
+      "human health"
+    ],
+    [
+      "resilience",
+      "contributes to",
+      "greenhouse gas reduction"
+    ],
+    [
+      "resilience",
+      "depends on",
+      "water resources"
+    ],
+    [
+      "resilience",
+      "drives",
+      "innovation"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "efficient irrigation"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "food security"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "organic farming"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "pests and diseases"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "precision agriculture"
+    ],
+    [
+      "resilience",
+      "guides",
+      "adaptation strategies"
+    ],
+    [
+      "resilience",
+      "is affected by",
+      "climate change"
+    ],
+    [
+      "resilience",
+      "is challenged by",
+      "challenges"
+    ],
+    [
+      "resilience",
+      "is impacted by",
+      "water availability"
+    ],
+    [
+      "resilience",
+      "is supported by",
+      "mitigation"
+    ],
+    [
+      "resilience",
+      "promotes",
+      "sustainable farming"
+    ],
+    [
+      "resilience",
+      "provides",
+      "environmental co-benefits"
+    ],
+    [
+      "resilience",
+      "requires",
+      "research investment"
+    ],
+    [
+      "resilience",
+      "supports",
+      "crop rotation"
+    ],
+    [
+      "resilience",
+      "supports",
+      "rainwater harvesting"
+    ],
+    [
+      "soil health",
+      "enhances",
+      "food systems"
+    ],
+    [
+      "soil health",
+      "impacts",
+      "evaporation rates"
+    ],
+    [
+      "soil health",
+      "improves",
+      "adaptation"
+    ],
+    [
+      "soil health",
+      "improves",
+      "adaptation strategies"
+    ],
+    [
+      "soil health",
+      "improves",
+      "impacts"
+    ],
+    [
+      "soil health",
+      "improves",
+      "technology"
+    ],
+    [
+      "soil health",
+      "influences",
+      "agricultural challenges"
+    ],
+    [
+      "soil health",
+      "is affected by",
+      "precipitation patterns"
+    ],
+    [
+      "soil health",
+      "is enhanced by",
+      "sustainable water management"
+    ],
+    [
+      "soil health",
+      "supports",
+      "food production"
+    ],
+    [
+      "supply chains",
+      "affects",
+      "evaporation rates"
+    ],
+    [
+      "supply chains",
+      "benefits from",
+      "sustainable farming"
+    ],
+    [
+      "supply chains",
+      "contributes to",
+      "greenhouse gas reduction"
+    ],
+    [
+      "supply chains",
+      "influences",
+      "water availability"
+    ],
+    [
+      "supply chains",
+      "is affected by",
+      "food security"
+    ],
+    [
+      "supply chains",
+      "is enhanced by",
+      "rainwater harvesting"
+    ],
+    [
+      "supply chains",
+      "is impacted by",
+      "pests and diseases"
+    ],
+    [
+      "supply chains",
+      "is supported by",
+      "adaptation strategies"
+    ],
+    [
+      "supply chains",
+      "is supported by",
+      "resilience"
+    ],
+    [
+      "supply chains",
+      "supports",
+      "sustainable practices"
+    ],
+    [
+      "sustainable farming",
+      "addresses",
+      "changing water availability"
+    ],
+    [
+      "sustainable farming",
+      "benefits",
+      "human health"
+    ],
+    [
+      "sustainable farming",
+      "confronts",
+      "global challenges"
+    ],
+    [
+      "sustainable farming",
+      "drives",
+      "technology"
+    ],
+    [
+      "sustainable farming",
+      "enhances",
+      "efficient irrigation"
+    ],
+    [
+      "sustainable farming",
+      "enhances",
+      "food security"
+    ],
+    [
+      "sustainable farming",
+      "enhances",
+      "precision agriculture"
+    ],
+    [
+      "sustainable farming",
+      "ensures",
+      "future sustainability"
+    ],
+    [
+      "sustainable farming",
+      "impacts",
+      "water availability"
+    ],
+    [
+      "sustainable farming",
+      "improves",
+      "crop yields"
+    ],
+    [
+      "sustainable farming",
+      "improves",
+      "soil health"
+    ],
+    [
+      "sustainable farming",
+      "is a type of",
+      "organic farming"
+    ],
+    [
+      "sustainable farming",
+      "meets",
+      "adaptation needs"
+    ],
+    [
+      "sustainable farming",
+      "supports",
+      "food production"
+    ],
+    [
+      "sustainable farming",
+      "supports",
+      "livelihoods"
+    ],
+    [
+      "sustainable farming",
+      "supports",
+      "mitigation"
+    ],
+    [
+      "sustainable farming",
+      "supports",
+      "sustainable water management"
+    ],
+    [
+      "sustainable practices",
+      "affects",
+      "changing water availability"
+    ],
+    [
+      "sustainable practices",
+      "aids in",
+      "mitigation"
+    ],
+    [
+      "sustainable practices",
+      "develops",
+      "drought-resistant crops"
+    ],
+    [
+      "sustainable practices",
+      "drives",
+      "technology"
+    ],
+    [
+      "sustainable practices",
+      "enhances",
+      "efficient irrigation"
+    ],
+    [
+      "sustainable practices",
+      "involves",
+      "crop rotation"
+    ],
+    [
+      "sustainable practices",
+      "is facilitated by",
+      "greenhouse gas reduction"
+    ],
+    [
+      "sustainable practices",
+      "promotes",
+      "biodiversity protection"
+    ],
+    [
+      "sustainable practices",
+      "promotes",
+      "organic farming"
+    ],
+    [
+      "sustainable practices",
+      "requires",
+      "research investment"
+    ],
+    [
+      "sustainable practices",
+      "requires",
+      "sustainable water management"
+    ],
+    [
+      "sustainable water management",
+      "enhances",
+      "food production"
+    ],
+    [
+      "sustainable water management",
+      "improves",
+      "technology"
+    ],
+    [
+      "sustainable water management",
+      "requires",
+      "crop yields"
+    ],
+    [
+      "technology",
+      "drives",
+      "challenges"
+    ],
+    [
+      "technology",
+      "enhanced by",
+      "livelihoods"
+    ],
+    [
+      "technology",
+      "enhances",
+      "crop production"
+    ],
+    [
+      "technology",
+      "exacerbates",
+      "water scarcity"
+    ],
+    [
+      "technology",
+      "facilitates",
+      "mitigation"
+    ],
+    [
+      "technology",
+      "improves",
+      "crop yields"
+    ],
+    [
+      "technology",
+      "influences",
+      "extreme weather"
+    ],
+    [
+      "technology",
+      "influences",
+      "price spikes"
+    ],
+    [
+      "technology",
+      "is influenced by",
+      "human health"
+    ],
+    [
+      "technology",
+      "requires",
+      "research investment"
+    ],
+    [
+      "technology",
+      "responds to",
+      "changing water availability"
+    ],
+    [
+      "technology",
+      "supports",
+      "organic farming"
+    ],
+    [
+      "temperature rise",
+      "affected by",
+      "crop production"
+    ],
+    [
+      "temperature rise",
+      "contributes to",
+      "global challenges"
+    ],
+    [
+      "temperature rise",
+      "contributes to",
+      "precipitation patterns"
+    ],
+    [
+      "temperature rise",
+      "exacerbates",
+      "adaptation practices"
+    ],
+    [
+      "temperature rise",
+      "exacerbates",
+      "agricultural challenges"
+    ],
+    [
+      "temperature rise",
+      "impacted by",
+      "agricultural resilience"
+    ],
+    [
+      "temperature rise",
+      "increases",
+      "technology"
+    ],
+    [
+      "temperature rise",
+      "influenced by",
+      "resilience"
+    ],
+    [
+      "temperature rise",
+      "influences",
+      "agriculture"
+    ],
+    [
+      "temperature rise",
+      "influences",
+      "climate risks"
+    ],
+    [
+      "temperature rise",
+      "influences",
+      "water resources"
+    ],
+    [
+      "temperature rise",
+      "is affected by",
+      "global agriculture"
+    ],
+    [
+      "temperature rise",
+      "is influenced by",
+      "biodiversity protection"
+    ],
+    [
+      "temperature rise",
+      "is influenced by",
+      "climate resilience"
+    ],
+    [
+      "temperature rise",
+      "responds to",
+      "agricultural responses"
+    ],
+    [
+      "temperature rise",
+      "results from",
+      "evaporation rates"
+    ],
+    [
+      "temperature rise",
+      "results from",
+      "impacts"
+    ],
+    [
+      "water availability",
+      "affected by",
+      "human health"
+    ],
+    [
+      "water availability",
+      "affected by",
+      "livelihoods"
+    ],
+    [
+      "water availability",
+      "affects",
+      "food systems"
+    ],
+    [
+      "water availability",
+      "affects",
+      "soil health"
+    ],
+    [
+      "water availability",
+      "depends on",
+      "organic farming"
+    ],
+    [
+      "water availability",
+      "enhanced by",
+      "efficient irrigation"
+    ],
+    [
+      "water availability",
+      "impacts",
+      "changing seasons"
+    ],
+    [
+      "water availability",
+      "is a challenge for",
+      "global challenges"
+    ],
+    [
+      "water availability",
+      "poses",
+      "climate risks"
+    ],
+    [
+      "water resources",
+      "affects",
+      "changing seasons"
+    ],
+    [
+      "water resources",
+      "affects",
+      "weather patterns"
+    ],
+    [
+      "water resources",
+      "dependent on",
+      "adaptation"
+    ],
+    [
+      "water resources",
+      "impacts",
+      "human health"
+    ],
+    [
+      "water resources",
+      "requires",
+      "sustainable water management"
+    ],
+    [
+      "water resources",
+      "supports",
+      "adaptation practices"
+    ],
+    [
+      "water resources",
+      "supports",
+      "climate resilience"
+    ],
+    [
+      "water resources",
+      "supports",
+      "efficient irrigation"
+    ],
+    [
+      "water resources",
+      "supports",
+      "rainwater harvesting"
+    ],
+    [
+      "water scarcity",
+      "aggravates",
+      "drought-resistant crops"
+    ],
+    [
+      "water scarcity",
+      "causes",
+      "environmental health"
+    ],
+    [
+      "water scarcity",
+      "causes",
+      "precipitation patterns"
+    ],
+    [
+      "water scarcity",
+      "contributes to",
+      "changing seasons"
+    ],
+    [
+      "water scarcity",
+      "contributes to",
+      "water availability"
+    ],
+    [
+      "water scarcity",
+      "contributes to",
+      "weather patterns"
+    ],
+    [
+      "water scarcity",
+      "exacerbates",
+      "efficient irrigation"
+    ],
+    [
+      "water scarcity",
+      "exacerbates",
+      "food systems"
+    ],
+    [
+      "water scarcity",
+      "impacted by",
+      "supply chains"
+    ],
+    [
+      "water scarcity",
+      "is impacted by",
+      "climate adaptation"
+    ],
+    [
+      "water scarcity",
+      "managed by",
+      "sustainable water management"
+    ],
+    [
+      "weather patterns",
+      "affects",
+      "climate resilience"
+    ],
+    [
+      "weather patterns",
+      "affects",
+      "food security"
+    ],
+    [
+      "weather patterns",
+      "affects",
+      "food systems"
+    ],
+    [
+      "weather patterns",
+      "affects",
+      "precision agriculture"
+    ],
+    [
+      "weather patterns",
+      "causes",
+      "temperature rise"
+    ],
+    [
+      "weather patterns",
+      "creates",
+      "agricultural challenges"
+    ],
+    [
+      "weather patterns",
+      "guides",
+      "adaptation strategies"
+    ],
+    [
+      "weather patterns",
+      "impacted by",
+      "supply chains"
+    ],
+    [
+      "weather patterns",
+      "influences",
+      "agricultural practices"
+    ],
+    [
+      "weather patterns",
+      "influences",
+      "agriculture"
+    ],
+    [
+      "weather patterns",
+      "influences",
+      "changing seasons"
+    ],
+    [
+      "weather patterns",
+      "influences",
+      "precipitation patterns"
+    ]
+  ],
+  "edges": [
+    "address",
+    "addresses",
+    "affected by",
+    "affects",
+    "aggravates",
+    "aids in",
+    "benefits",
+    "benefits from",
+    "builds",
+    "causes",
+    "challenges",
+    "competes with",
+    "complements",
+    "complicates",
+    "confronts",
+    "contrasts with",
+    "contributes to",
+    "creates",
+    "demands",
+    "dependent on",
+    "depends on",
+    "developed for",
+    "develops",
+    "disrupted by",
+    "disrupts",
+    "drives",
+    "elicits",
+    "enables",
+    "encourages",
+    "enhanced by",
+    "enhances",
+    "ensures",
+    "exacerbated by",
+    "exacerbates",
+    "exposed to",
+    "exposes",
+    "exposes to",
+    "faces",
+    "facilitated by",
+    "facilitates",
+    "fosters",
+    "funds",
+    "guides",
+    "identifies",
+    "impacted by",
+    "impacts",
+    "improve",
+    "improves",
+    "includes",
+    "increases",
+    "influenced by",
+    "influences",
+    "informs",
+    "integrates",
+    "involves",
+    "is a challenge for",
+    "is a method of",
+    "is a process of",
+    "is a response to",
+    "is a result of",
+    "is a strategy for",
+    "is a type of",
+    "is addressed by",
+    "is affected by",
+    "is applied to",
+    "is challenged by",
+    "is driven by",
+    "is enhanced by",
+    "is essential for",
+    "is facilitated by",
+    "is impacted by",
+    "is improved by",
+    "is influenced by",
+    "is managed by",
+    "is necessary for",
+    "is related to",
+    "is supported by",
+    "is threatened by",
+    "leads to",
+    "managed by",
+    "meets",
+    "mitigates",
+    "necessitates",
+    "offers",
+    "poses",
+    "presents",
+    "presents challenges to",
+    "promotes",
+    "provides",
+    "reduces",
+    "represents",
+    "requires",
+    "responded to by",
+    "responds to",
+    "results from",
+    "results in",
+    "shapes",
+    "supported by",
+    "supports",
+    "threatens",
+    "transforms",
+    "utilizes"
+  ]
+}

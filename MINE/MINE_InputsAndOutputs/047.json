@@ -1,0 +1,3493 @@
+{
+  "entities": [
+    "animal interactions",
+    "behaviors",
+    "biodiversity",
+    "biodiversity decline",
+    "biological control",
+    "bird populations",
+    "bird roles",
+    "bird species",
+    "chemical pesticides",
+    "climate change",
+    "conservation efforts",
+    "conservation importance",
+    "distributions",
+    "ecological balance",
+    "ecological contributions",
+    "ecological processes",
+    "ecological roles",
+    "ecosystem contributions",
+    "ecosystem functions",
+    "ecosystem health",
+    "ecosystem quality",
+    "ecosystem resilience",
+    "ecosystem services",
+    "ecosystem stability",
+    "environmental health",
+    "environmental impact",
+    "environmental indicators",
+    "environmental stability",
+    "essential roles",
+    "food webs",
+    "forest biodiversity",
+    "forest ecosystems",
+    "forest health",
+    "fruit and seeds",
+    "fruit production",
+    "genetic diversity",
+    "global ecosystems",
+    "habitat dynamics",
+    "habitat loss",
+    "habitat protection",
+    "habitat quality",
+    "habitat support",
+    "health of ecosystems",
+    "insect populations",
+    "marine environments",
+    "monitoring",
+    "natural balance",
+    "natural pest control",
+    "nutrient cycling",
+    "pest control",
+    "plant diversity",
+    "plant growth",
+    "plant interactions",
+    "plant populations",
+    "plant regeneration",
+    "plant reproduction",
+    "plant species",
+    "plant-pollinator relationships",
+    "pollination",
+    "protection of habitats",
+    "resilience",
+    "seabirds",
+    "seed dispersal",
+    "shifts in populations",
+    "soil enrichment",
+    "species indicators",
+    "vegetation growth",
+    "vegetation health"
+  ],
+  "relations": [
+    [
+      "animal interactions",
+      "affects",
+      "environmental indicators"
+    ],
+    [
+      "behaviors",
+      "affects",
+      "biodiversity"
+    ],
+    [
+      "behaviors",
+      "affects",
+      "bird species"
+    ],
+    [
+      "behaviors",
+      "encompasses",
+      "essential roles"
+    ],
+    [
+      "behaviors",
+      "facilitates",
+      "natural pest control"
+    ],
+    [
+      "behaviors",
+      "influences",
+      "ecosystem stability"
+    ],
+    [
+      "behaviors",
+      "involves",
+      "monitoring"
+    ],
+    [
+      "behaviors",
+      "provides",
+      "ecosystem services"
+    ],
+    [
+      "behaviors",
+      "serves as",
+      "species indicators"
+    ],
+    [
+      "behaviors",
+      "supports",
+      "habitat protection"
+    ],
+    [
+      "biodiversity",
+      "affects",
+      "ecosystem quality"
+    ],
+    [
+      "biodiversity",
+      "contributes to",
+      "bird roles"
+    ],
+    [
+      "biodiversity",
+      "drives",
+      "conservation efforts"
+    ],
+    [
+      "biodiversity",
+      "enhances",
+      "plant species"
+    ],
+    [
+      "biodiversity",
+      "facilitates",
+      "pollination"
+    ],
+    [
+      "biodiversity",
+      "indicates",
+      "environmental indicators"
+    ],
+    [
+      "biodiversity",
+      "is indicated by",
+      "environmental health"
+    ],
+    [
+      "biodiversity",
+      "reduces",
+      "habitat loss"
+    ],
+    [
+      "biodiversity",
+      "supports",
+      "distributions"
+    ],
+    [
+      "biodiversity",
+      "supports",
+      "environmental stability"
+    ],
+    [
+      "biodiversity",
+      "supports",
+      "plant reproduction"
+    ],
+    [
+      "biodiversity decline",
+      "affects",
+      "environmental health"
+    ],
+    [
+      "biodiversity decline",
+      "is impacted by",
+      "behaviors"
+    ],
+    [
+      "biodiversity decline",
+      "results in",
+      "forest health"
+    ],
+    [
+      "biological control",
+      "benefits from",
+      "plant species"
+    ],
+    [
+      "biological control",
+      "enables",
+      "monitoring"
+    ],
+    [
+      "biological control",
+      "enhances",
+      "genetic diversity"
+    ],
+    [
+      "biological control",
+      "enhances",
+      "nutrient cycling"
+    ],
+    [
+      "biological control",
+      "impedes",
+      "habitat loss"
+    ],
+    [
+      "biological control",
+      "regulates",
+      "insect populations"
+    ],
+    [
+      "biological control",
+      "supports",
+      "environmental stability"
+    ],
+    [
+      "bird populations",
+      "affects",
+      "distributions"
+    ],
+    [
+      "bird populations",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "bird populations",
+      "affects",
+      "environmental stability"
+    ],
+    [
+      "bird populations",
+      "benefits from",
+      "ecosystem services"
+    ],
+    [
+      "bird populations",
+      "contributes to",
+      "ecosystem contributions"
+    ],
+    [
+      "bird populations",
+      "enhances",
+      "ecosystem stability"
+    ],
+    [
+      "bird populations",
+      "enhances",
+      "genetic diversity"
+    ],
+    [
+      "bird populations",
+      "enhances",
+      "seed dispersal"
+    ],
+    [
+      "bird populations",
+      "facilitates",
+      "pollination"
+    ],
+    [
+      "bird populations",
+      "fulfills",
+      "ecological roles"
+    ],
+    [
+      "bird populations",
+      "impacted by",
+      "habitat quality"
+    ],
+    [
+      "bird populations",
+      "indicates",
+      "environmental health"
+    ],
+    [
+      "bird populations",
+      "influence",
+      "natural balance"
+    ],
+    [
+      "bird populations",
+      "influences",
+      "bird roles"
+    ],
+    [
+      "bird populations",
+      "influences",
+      "plant species"
+    ],
+    [
+      "bird populations",
+      "is affected by",
+      "insect populations"
+    ],
+    [
+      "bird populations",
+      "is indicated by",
+      "behaviors"
+    ],
+    [
+      "bird populations",
+      "is influenced by",
+      "shifts in populations"
+    ],
+    [
+      "bird populations",
+      "is represented by",
+      "bird species"
+    ],
+    [
+      "bird populations",
+      "supports",
+      "soil enrichment"
+    ],
+    [
+      "bird populations",
+      "threatens",
+      "habitat loss"
+    ],
+    [
+      "bird roles",
+      "benefits from",
+      "plant populations"
+    ],
+    [
+      "bird roles",
+      "controlled by",
+      "insect populations"
+    ],
+    [
+      "bird roles",
+      "enhances",
+      "ecosystem resilience"
+    ],
+    [
+      "bird roles",
+      "influences",
+      "plant-pollinator relationships"
+    ],
+    [
+      "bird roles",
+      "informs about",
+      "monitoring"
+    ],
+    [
+      "bird roles",
+      "involves",
+      "ecological processes"
+    ],
+    [
+      "bird roles",
+      "is a type of",
+      "ecological roles"
+    ],
+    [
+      "bird roles",
+      "is influenced by",
+      "distributions"
+    ],
+    [
+      "bird roles",
+      "performed by",
+      "natural pest control"
+    ],
+    [
+      "bird roles",
+      "supports",
+      "conservation efforts"
+    ],
+    [
+      "bird roles",
+      "supports",
+      "ecosystem stability"
+    ],
+    [
+      "bird roles",
+      "supports",
+      "forest ecosystems"
+    ],
+    [
+      "bird species",
+      "affects",
+      "distributions"
+    ],
+    [
+      "bird species",
+      "affects",
+      "forest health"
+    ],
+    [
+      "bird species",
+      "contributes to",
+      "pollination"
+    ],
+    [
+      "bird species",
+      "contributes to",
+      "resilience"
+    ],
+    [
+      "bird species",
+      "enables",
+      "plant regeneration"
+    ],
+    [
+      "bird species",
+      "enhances",
+      "ecosystem resilience"
+    ],
+    [
+      "bird species",
+      "enhances",
+      "plant diversity"
+    ],
+    [
+      "bird species",
+      "ensures",
+      "ecosystem stability"
+    ],
+    [
+      "bird species",
+      "facilitates",
+      "seed dispersal"
+    ],
+    [
+      "bird species",
+      "indicates",
+      "environmental indicators"
+    ],
+    [
+      "bird species",
+      "interacts with",
+      "animal interactions"
+    ],
+    [
+      "bird species",
+      "is pollinated by",
+      "plant species"
+    ],
+    [
+      "bird species",
+      "maintain",
+      "natural balance"
+    ],
+    [
+      "bird species",
+      "preys on",
+      "insect populations"
+    ],
+    [
+      "bird species",
+      "promotes",
+      "conservation efforts"
+    ],
+    [
+      "bird species",
+      "provides",
+      "ecosystem services"
+    ],
+    [
+      "bird species",
+      "reflects",
+      "environmental health"
+    ],
+    [
+      "bird species",
+      "serve as",
+      "species indicators"
+    ],
+    [
+      "bird species",
+      "serves as",
+      "biological control"
+    ],
+    [
+      "bird species",
+      "supports",
+      "forest ecosystems"
+    ],
+    [
+      "bird species",
+      "supports",
+      "plant growth"
+    ],
+    [
+      "bird species",
+      "supports",
+      "soil enrichment"
+    ],
+    [
+      "chemical pesticides",
+      "affects",
+      "vegetation health"
+    ],
+    [
+      "chemical pesticides",
+      "increases",
+      "natural pest control"
+    ],
+    [
+      "chemical pesticides",
+      "is influenced by",
+      "insect populations"
+    ],
+    [
+      "chemical pesticides",
+      "is reduced by",
+      "plant growth"
+    ],
+    [
+      "chemical pesticides",
+      "reduce reliance on",
+      "pest control"
+    ],
+    [
+      "chemical pesticides",
+      "reduces",
+      "habitat dynamics"
+    ],
+    [
+      "chemical pesticides",
+      "reduces the need for",
+      "behaviors"
+    ],
+    [
+      "chemical pesticides",
+      "reduces the need for",
+      "soil enrichment"
+    ],
+    [
+      "climate change",
+      "affected by",
+      "ecosystem quality"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "biodiversity"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "environmental health"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "plant growth"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "vegetation health"
+    ],
+    [
+      "climate change",
+      "influenced by",
+      "bird populations"
+    ],
+    [
+      "climate change",
+      "influenced by",
+      "shifts in populations"
+    ],
+    [
+      "climate change",
+      "influences",
+      "distributions"
+    ],
+    [
+      "climate change",
+      "influences",
+      "environmental impact"
+    ],
+    [
+      "climate change",
+      "influences",
+      "species indicators"
+    ],
+    [
+      "climate change",
+      "is affected by",
+      "behaviors"
+    ],
+    [
+      "climate change",
+      "is impacted by",
+      "ecosystem functions"
+    ],
+    [
+      "climate change",
+      "is influenced by",
+      "biological control"
+    ],
+    [
+      "climate change",
+      "is influenced by",
+      "forest health"
+    ],
+    [
+      "conservation efforts",
+      "drives",
+      "forest health"
+    ],
+    [
+      "conservation efforts",
+      "guides",
+      "ecosystem quality"
+    ],
+    [
+      "conservation efforts",
+      "guides",
+      "environmental health"
+    ],
+    [
+      "conservation efforts",
+      "improves",
+      "nutrient cycling"
+    ],
+    [
+      "conservation efforts",
+      "influences",
+      "animal interactions"
+    ],
+    [
+      "conservation efforts",
+      "informs",
+      "shifts in populations"
+    ],
+    [
+      "conservation efforts",
+      "is influenced by",
+      "environmental impact"
+    ],
+    [
+      "conservation efforts",
+      "is supported by",
+      "marine environments"
+    ],
+    [
+      "conservation efforts",
+      "maintains",
+      "ecological balance"
+    ],
+    [
+      "conservation efforts",
+      "supports",
+      "bird populations"
+    ],
+    [
+      "conservation efforts",
+      "supports",
+      "ecological roles"
+    ],
+    [
+      "conservation efforts",
+      "supports",
+      "environmental stability"
+    ],
+    [
+      "conservation importance",
+      "affects",
+      "health of ecosystems"
+    ],
+    [
+      "conservation importance",
+      "enhances",
+      "ecosystem resilience"
+    ],
+    [
+      "conservation importance",
+      "enhances",
+      "plant growth"
+    ],
+    [
+      "conservation importance",
+      "ensures",
+      "ecosystem stability"
+    ],
+    [
+      "conservation importance",
+      "influences",
+      "animal interactions"
+    ],
+    [
+      "conservation importance",
+      "maintains",
+      "ecological balance"
+    ],
+    [
+      "conservation importance",
+      "supports",
+      "biodiversity"
+    ],
+    [
+      "conservation importance",
+      "supports",
+      "bird populations"
+    ],
+    [
+      "conservation importance",
+      "supports",
+      "forest biodiversity"
+    ],
+    [
+      "conservation importance",
+      "supports",
+      "global ecosystems"
+    ],
+    [
+      "distributions",
+      "enhances",
+      "resilience"
+    ],
+    [
+      "distributions",
+      "highlights",
+      "conservation importance"
+    ],
+    [
+      "distributions",
+      "indicates",
+      "environmental health"
+    ],
+    [
+      "distributions",
+      "influences",
+      "ecological processes"
+    ],
+    [
+      "distributions",
+      "influences",
+      "marine environments"
+    ],
+    [
+      "distributions",
+      "promotes",
+      "genetic diversity"
+    ],
+    [
+      "distributions",
+      "promotes",
+      "vegetation growth"
+    ],
+    [
+      "distributions",
+      "support reproduction of",
+      "plant species"
+    ],
+    [
+      "ecological balance",
+      "indicates",
+      "environmental indicators"
+    ],
+    [
+      "ecological balance",
+      "maintains",
+      "health of ecosystems"
+    ],
+    [
+      "ecological balance",
+      "threatens",
+      "biodiversity decline"
+    ],
+    [
+      "ecological contributions",
+      "contributes to",
+      "nutrient cycling"
+    ],
+    [
+      "ecological contributions",
+      "enhance",
+      "biodiversity"
+    ],
+    [
+      "ecological contributions",
+      "enhances",
+      "ecosystem resilience"
+    ],
+    [
+      "ecological contributions",
+      "enhances",
+      "forest biodiversity"
+    ],
+    [
+      "ecological contributions",
+      "enhances",
+      "genetic diversity"
+    ],
+    [
+      "ecological contributions",
+      "facilitates",
+      "pollination"
+    ],
+    [
+      "ecological contributions",
+      "influences",
+      "animal interactions"
+    ],
+    [
+      "ecological contributions",
+      "involves",
+      "plant-pollinator relationships"
+    ],
+    [
+      "ecological contributions",
+      "promotes",
+      "vegetation growth"
+    ],
+    [
+      "ecological contributions",
+      "supports",
+      "bird populations"
+    ],
+    [
+      "ecological processes",
+      "affects",
+      "ecosystem stability"
+    ],
+    [
+      "ecological processes",
+      "affects",
+      "insect populations"
+    ],
+    [
+      "ecological processes",
+      "affects",
+      "vegetation health"
+    ],
+    [
+      "ecological processes",
+      "enhances",
+      "ecosystem resilience"
+    ],
+    [
+      "ecological processes",
+      "facilitates",
+      "plant growth"
+    ],
+    [
+      "ecological processes",
+      "facilitates",
+      "plant regeneration"
+    ],
+    [
+      "ecological processes",
+      "influences",
+      "environmental stability"
+    ],
+    [
+      "ecological processes",
+      "influences",
+      "soil enrichment"
+    ],
+    [
+      "ecological processes",
+      "involves",
+      "fruit and seeds"
+    ],
+    [
+      "ecological processes",
+      "involves",
+      "plant interactions"
+    ],
+    [
+      "ecological processes",
+      "involves",
+      "seabirds"
+    ],
+    [
+      "ecological processes",
+      "maintains",
+      "ecological balance"
+    ],
+    [
+      "ecological processes",
+      "provides",
+      "habitat support"
+    ],
+    [
+      "ecological processes",
+      "supports",
+      "plant species"
+    ],
+    [
+      "ecological roles",
+      "contributes to",
+      "resilience"
+    ],
+    [
+      "ecological roles",
+      "defines",
+      "species indicators"
+    ],
+    [
+      "ecological roles",
+      "enables",
+      "seed dispersal"
+    ],
+    [
+      "ecological roles",
+      "includes",
+      "biological control"
+    ],
+    [
+      "ecological roles",
+      "indicates",
+      "forest health"
+    ],
+    [
+      "ecological roles",
+      "influences",
+      "biodiversity decline"
+    ],
+    [
+      "ecological roles",
+      "informs",
+      "environmental health"
+    ],
+    [
+      "ecological roles",
+      "is influenced by",
+      "ecosystem quality"
+    ],
+    [
+      "ecosystem contributions",
+      "contributes to",
+      "ecological balance"
+    ],
+    [
+      "ecosystem contributions",
+      "facilitates",
+      "seed dispersal"
+    ],
+    [
+      "ecosystem functions",
+      "enables",
+      "bird species"
+    ],
+    [
+      "ecosystem functions",
+      "facilitates",
+      "plant growth"
+    ],
+    [
+      "ecosystem functions",
+      "guides",
+      "conservation efforts"
+    ],
+    [
+      "ecosystem functions",
+      "influences",
+      "shifts in populations"
+    ],
+    [
+      "ecosystem functions",
+      "maintains",
+      "ecological balance"
+    ],
+    [
+      "ecosystem functions",
+      "promotes",
+      "vegetation growth"
+    ],
+    [
+      "ecosystem functions",
+      "provides",
+      "essential roles"
+    ],
+    [
+      "ecosystem functions",
+      "supports",
+      "seabirds"
+    ],
+    [
+      "ecosystem health",
+      "affects",
+      "habitat loss"
+    ],
+    [
+      "ecosystem health",
+      "benefits from",
+      "protection of habitats"
+    ],
+    [
+      "ecosystem health",
+      "depends on",
+      "resilience"
+    ],
+    [
+      "ecosystem health",
+      "supports",
+      "essential roles"
+    ],
+    [
+      "ecosystem health",
+      "supports",
+      "plant species"
+    ],
+    [
+      "ecosystem quality",
+      "affects",
+      "ecological balance"
+    ],
+    [
+      "ecosystem quality",
+      "affects",
+      "plant species"
+    ],
+    [
+      "ecosystem quality",
+      "benefits from",
+      "biological control"
+    ],
+    [
+      "ecosystem quality",
+      "enhanced by",
+      "habitat support"
+    ],
+    [
+      "ecosystem quality",
+      "enhances",
+      "ecosystem resilience"
+    ],
+    [
+      "ecosystem quality",
+      "enhances",
+      "genetic diversity"
+    ],
+    [
+      "ecosystem quality",
+      "indicates",
+      "behaviors"
+    ],
+    [
+      "ecosystem quality",
+      "indicates",
+      "bird populations"
+    ],
+    [
+      "ecosystem quality",
+      "indicates",
+      "distributions"
+    ],
+    [
+      "ecosystem quality",
+      "influences",
+      "habitat dynamics"
+    ],
+    [
+      "ecosystem quality",
+      "is affected by",
+      "plant populations"
+    ],
+    [
+      "ecosystem quality",
+      "is essential for",
+      "natural balance"
+    ],
+    [
+      "ecosystem quality",
+      "is influenced by",
+      "plant growth"
+    ],
+    [
+      "ecosystem resilience",
+      "contributes to",
+      "distributions"
+    ],
+    [
+      "ecosystem resilience",
+      "contributes to",
+      "ecosystem contributions"
+    ],
+    [
+      "ecosystem resilience",
+      "enhances",
+      "biological control"
+    ],
+    [
+      "ecosystem resilience",
+      "enhances",
+      "ecosystem stability"
+    ],
+    [
+      "ecosystem resilience",
+      "enhances",
+      "global ecosystems"
+    ],
+    [
+      "ecosystem resilience",
+      "enhances",
+      "monitoring"
+    ],
+    [
+      "ecosystem resilience",
+      "enhances",
+      "plant species"
+    ],
+    [
+      "ecosystem resilience",
+      "is supported by",
+      "ecosystem functions"
+    ],
+    [
+      "ecosystem resilience",
+      "promotes",
+      "vegetation growth"
+    ],
+    [
+      "ecosystem resilience",
+      "supports",
+      "genetic diversity"
+    ],
+    [
+      "ecosystem resilience",
+      "threatens",
+      "biodiversity decline"
+    ],
+    [
+      "ecosystem resilience",
+      "threatens",
+      "habitat loss"
+    ],
+    [
+      "ecosystem services",
+      "contributes to",
+      "ecosystem stability"
+    ],
+    [
+      "ecosystem services",
+      "enhances",
+      "biodiversity"
+    ],
+    [
+      "ecosystem services",
+      "enhances",
+      "ecosystem resilience"
+    ],
+    [
+      "ecosystem services",
+      "enhances",
+      "monitoring"
+    ],
+    [
+      "ecosystem services",
+      "enhances",
+      "vegetation growth"
+    ],
+    [
+      "ecosystem services",
+      "includes",
+      "ecological roles"
+    ],
+    [
+      "ecosystem services",
+      "involves",
+      "plant interactions"
+    ],
+    [
+      "ecosystem services",
+      "provides",
+      "forest ecosystems"
+    ],
+    [
+      "ecosystem services",
+      "provides",
+      "nutrient cycling"
+    ],
+    [
+      "ecosystem services",
+      "provides",
+      "pest control"
+    ],
+    [
+      "ecosystem stability",
+      "contributes to",
+      "forest health"
+    ],
+    [
+      "ecosystem stability",
+      "contributes to",
+      "nutrient cycling"
+    ],
+    [
+      "ecosystem stability",
+      "is supported by",
+      "bird roles"
+    ],
+    [
+      "ecosystem stability",
+      "is supported by",
+      "plant growth"
+    ],
+    [
+      "ecosystem stability",
+      "supports",
+      "plant populations"
+    ],
+    [
+      "environmental health",
+      "affects",
+      "behaviors"
+    ],
+    [
+      "environmental health",
+      "affects",
+      "resilience"
+    ],
+    [
+      "environmental health",
+      "contributes to",
+      "ecosystem contributions"
+    ],
+    [
+      "environmental health",
+      "determines",
+      "ecosystem health"
+    ],
+    [
+      "environmental health",
+      "enhances",
+      "soil enrichment"
+    ],
+    [
+      "environmental health",
+      "provides",
+      "habitat support"
+    ],
+    [
+      "environmental impact",
+      "affected by",
+      "forest health"
+    ],
+    [
+      "environmental impact",
+      "affects",
+      "animal interactions"
+    ],
+    [
+      "environmental impact",
+      "affects",
+      "biodiversity"
+    ],
+    [
+      "environmental impact",
+      "affects",
+      "environmental stability"
+    ],
+    [
+      "environmental impact",
+      "indicates",
+      "shifts in populations"
+    ],
+    [
+      "environmental impact",
+      "influences",
+      "ecological balance"
+    ],
+    [
+      "environmental indicators",
+      "affects",
+      "environmental stability"
+    ],
+    [
+      "environmental indicators",
+      "contributes to",
+      "ecosystem contributions"
+    ],
+    [
+      "environmental indicators",
+      "defines",
+      "bird roles"
+    ],
+    [
+      "environmental indicators",
+      "facilitate",
+      "seed dispersal"
+    ],
+    [
+      "environmental indicators",
+      "highlights",
+      "conservation importance"
+    ],
+    [
+      "environmental indicators",
+      "indicates",
+      "ecosystem health"
+    ],
+    [
+      "environmental indicators",
+      "indicates",
+      "ecosystem quality"
+    ],
+    [
+      "environmental indicators",
+      "indicates",
+      "environmental health"
+    ],
+    [
+      "environmental indicators",
+      "indicates",
+      "forest health"
+    ],
+    [
+      "environmental indicators",
+      "indicates",
+      "genetic diversity"
+    ],
+    [
+      "environmental indicators",
+      "indicates",
+      "plant populations"
+    ],
+    [
+      "environmental indicators",
+      "indicates",
+      "plant regeneration"
+    ],
+    [
+      "environmental indicators",
+      "indicates",
+      "seabirds"
+    ],
+    [
+      "environmental indicators",
+      "promotes",
+      "plant growth"
+    ],
+    [
+      "environmental stability",
+      "contributes to",
+      "bird species"
+    ],
+    [
+      "environmental stability",
+      "contributes to",
+      "ecological contributions"
+    ],
+    [
+      "environmental stability",
+      "contributes to",
+      "ecosystem contributions"
+    ],
+    [
+      "environmental stability",
+      "contributes to",
+      "forest health"
+    ],
+    [
+      "environmental stability",
+      "contributes to",
+      "seabirds"
+    ],
+    [
+      "environmental stability",
+      "enhances",
+      "genetic diversity"
+    ],
+    [
+      "environmental stability",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "environmental stability",
+      "interacts with",
+      "animal interactions"
+    ],
+    [
+      "environmental stability",
+      "maintains",
+      "natural balance"
+    ],
+    [
+      "environmental stability",
+      "promotes",
+      "vegetation growth"
+    ],
+    [
+      "environmental stability",
+      "supports",
+      "plant species"
+    ],
+    [
+      "essential roles",
+      "drives",
+      "conservation efforts"
+    ],
+    [
+      "essential roles",
+      "facilitates",
+      "seed dispersal"
+    ],
+    [
+      "essential roles",
+      "includes",
+      "ecosystem services"
+    ],
+    [
+      "essential roles",
+      "influences",
+      "plant interactions"
+    ],
+    [
+      "essential roles",
+      "is a function of",
+      "pest control"
+    ],
+    [
+      "essential roles",
+      "is crucial for",
+      "conservation importance"
+    ],
+    [
+      "essential roles",
+      "is essential for",
+      "forest health"
+    ],
+    [
+      "essential roles",
+      "promotes",
+      "vegetation growth"
+    ],
+    [
+      "essential roles",
+      "provides",
+      "biological control"
+    ],
+    [
+      "essential roles",
+      "provides",
+      "bird species"
+    ],
+    [
+      "food webs",
+      "interacts with",
+      "plant interactions"
+    ],
+    [
+      "food webs",
+      "maintains",
+      "ecological balance"
+    ],
+    [
+      "food webs",
+      "supports",
+      "bird populations"
+    ],
+    [
+      "food webs",
+      "supports",
+      "resilience"
+    ],
+    [
+      "food webs",
+      "supports",
+      "vegetation health"
+    ],
+    [
+      "forest biodiversity",
+      "benefits from",
+      "protection of habitats"
+    ],
+    [
+      "forest biodiversity",
+      "enhances",
+      "plant diversity"
+    ],
+    [
+      "forest biodiversity",
+      "enhances",
+      "vegetation health"
+    ],
+    [
+      "forest biodiversity",
+      "influences",
+      "animal interactions"
+    ],
+    [
+      "forest biodiversity",
+      "is enhanced by",
+      "soil enrichment"
+    ],
+    [
+      "forest biodiversity",
+      "is impacted by",
+      "habitat loss"
+    ],
+    [
+      "forest biodiversity",
+      "is part of",
+      "forest ecosystems"
+    ],
+    [
+      "forest biodiversity",
+      "produces",
+      "fruit and seeds"
+    ],
+    [
+      "forest biodiversity",
+      "supports",
+      "marine environments"
+    ],
+    [
+      "forest biodiversity",
+      "supports",
+      "plant populations"
+    ],
+    [
+      "forest biodiversity",
+      "supports",
+      "seed dispersal"
+    ],
+    [
+      "forest ecosystems",
+      "affects",
+      "biodiversity decline"
+    ],
+    [
+      "forest ecosystems",
+      "affects",
+      "environmental health"
+    ],
+    [
+      "forest ecosystems",
+      "benefits from",
+      "ecosystem health"
+    ],
+    [
+      "forest ecosystems",
+      "contributes to",
+      "ecosystem stability"
+    ],
+    [
+      "forest ecosystems",
+      "impacts",
+      "habitat loss"
+    ],
+    [
+      "forest ecosystems",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "forest ecosystems",
+      "supports",
+      "habitat quality"
+    ],
+    [
+      "forest health",
+      "affects",
+      "behaviors"
+    ],
+    [
+      "forest health",
+      "contributes to",
+      "ecosystem contributions"
+    ],
+    [
+      "forest health",
+      "enhances",
+      "habitat support"
+    ],
+    [
+      "forest health",
+      "influences",
+      "plant interactions"
+    ],
+    [
+      "forest health",
+      "promotes",
+      "plant growth"
+    ],
+    [
+      "forest health",
+      "supports",
+      "food webs"
+    ],
+    [
+      "fruit and seeds",
+      "contributes to",
+      "soil enrichment"
+    ],
+    [
+      "fruit and seeds",
+      "is produced by",
+      "fruit production"
+    ],
+    [
+      "fruit and seeds",
+      "produced by",
+      "vegetation health"
+    ],
+    [
+      "fruit and seeds",
+      "produces",
+      "bird populations"
+    ],
+    [
+      "fruit and seeds",
+      "produces",
+      "plant populations"
+    ],
+    [
+      "fruit and seeds",
+      "produces",
+      "species indicators"
+    ],
+    [
+      "fruit and seeds",
+      "provides",
+      "forest ecosystems"
+    ],
+    [
+      "fruit and seeds",
+      "provides",
+      "insect populations"
+    ],
+    [
+      "fruit and seeds",
+      "provides",
+      "natural pest control"
+    ],
+    [
+      "fruit and seeds",
+      "results in",
+      "plant growth"
+    ],
+    [
+      "fruit production",
+      "enhances",
+      "vegetation growth"
+    ],
+    [
+      "fruit production",
+      "facilitates",
+      "seed dispersal"
+    ],
+    [
+      "fruit production",
+      "is influenced by",
+      "ecosystem functions"
+    ],
+    [
+      "fruit production",
+      "supports",
+      "plant reproduction"
+    ],
+    [
+      "genetic diversity",
+      "affects",
+      "plant-pollinator relationships"
+    ],
+    [
+      "genetic diversity",
+      "facilitates",
+      "pollination"
+    ],
+    [
+      "genetic diversity",
+      "facilitates",
+      "seed dispersal"
+    ],
+    [
+      "genetic diversity",
+      "is affected by",
+      "habitat loss"
+    ],
+    [
+      "genetic diversity",
+      "is affected by",
+      "insect populations"
+    ],
+    [
+      "genetic diversity",
+      "promotes",
+      "plant species"
+    ],
+    [
+      "global ecosystems",
+      "affects",
+      "biodiversity decline"
+    ],
+    [
+      "global ecosystems",
+      "affects",
+      "vegetation health"
+    ],
+    [
+      "global ecosystems",
+      "contributes to",
+      "ecosystem stability"
+    ],
+    [
+      "global ecosystems",
+      "influences",
+      "animal interactions"
+    ],
+    [
+      "global ecosystems",
+      "involves",
+      "plant interactions"
+    ],
+    [
+      "global ecosystems",
+      "is influenced by",
+      "forest health"
+    ],
+    [
+      "global ecosystems",
+      "maintains",
+      "natural balance"
+    ],
+    [
+      "habitat dynamics",
+      "affects",
+      "ecosystem health"
+    ],
+    [
+      "habitat dynamics",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "habitat dynamics",
+      "influences",
+      "food webs"
+    ],
+    [
+      "habitat dynamics",
+      "influences",
+      "forest biodiversity"
+    ],
+    [
+      "habitat dynamics",
+      "influences",
+      "shifts in populations"
+    ],
+    [
+      "habitat dynamics",
+      "involves",
+      "monitoring"
+    ],
+    [
+      "habitat dynamics",
+      "is essential for",
+      "habitat protection"
+    ],
+    [
+      "habitat dynamics",
+      "maintains",
+      "natural balance"
+    ],
+    [
+      "habitat loss",
+      "disrupts",
+      "natural balance"
+    ],
+    [
+      "habitat loss",
+      "is threatened by",
+      "forest health"
+    ],
+    [
+      "habitat loss",
+      "results from",
+      "bird species"
+    ],
+    [
+      "habitat loss",
+      "results in",
+      "distributions"
+    ],
+    [
+      "habitat loss",
+      "results in",
+      "plant species"
+    ],
+    [
+      "habitat loss",
+      "threatened by",
+      "protection of habitats"
+    ],
+    [
+      "habitat loss",
+      "threatens",
+      "seabirds"
+    ],
+    [
+      "habitat protection",
+      "enhances",
+      "ecosystem resilience"
+    ],
+    [
+      "habitat protection",
+      "ensures",
+      "biodiversity"
+    ],
+    [
+      "habitat protection",
+      "ensures",
+      "ecosystem stability"
+    ],
+    [
+      "habitat protection",
+      "is caused by",
+      "habitat loss"
+    ],
+    [
+      "habitat protection",
+      "supports",
+      "biological control"
+    ],
+    [
+      "habitat protection",
+      "supports",
+      "food webs"
+    ],
+    [
+      "habitat protection",
+      "supports",
+      "forest biodiversity"
+    ],
+    [
+      "habitat quality",
+      "affects",
+      "biodiversity"
+    ],
+    [
+      "habitat quality",
+      "determines",
+      "ecosystem health"
+    ],
+    [
+      "habitat quality",
+      "determines",
+      "ecosystem quality"
+    ],
+    [
+      "habitat quality",
+      "determines",
+      "marine environments"
+    ],
+    [
+      "habitat quality",
+      "determines",
+      "plant species"
+    ],
+    [
+      "habitat quality",
+      "enables",
+      "seed dispersal"
+    ],
+    [
+      "habitat quality",
+      "enhances",
+      "essential roles"
+    ],
+    [
+      "habitat quality",
+      "highlights",
+      "conservation importance"
+    ],
+    [
+      "habitat quality",
+      "impacts",
+      "habitat loss"
+    ],
+    [
+      "habitat quality",
+      "promotes",
+      "genetic diversity"
+    ],
+    [
+      "habitat support",
+      "depends on",
+      "plant growth"
+    ],
+    [
+      "habitat support",
+      "enables",
+      "monitoring"
+    ],
+    [
+      "habitat support",
+      "encompasses",
+      "ecological roles"
+    ],
+    [
+      "habitat support",
+      "facilitates",
+      "behaviors"
+    ],
+    [
+      "habitat support",
+      "impacts",
+      "habitat loss"
+    ],
+    [
+      "habitat support",
+      "provides",
+      "biodiversity"
+    ],
+    [
+      "habitat support",
+      "provides",
+      "ecosystem functions"
+    ],
+    [
+      "habitat support",
+      "supports",
+      "conservation importance"
+    ],
+    [
+      "habitat support",
+      "supports",
+      "ecological balance"
+    ],
+    [
+      "habitat support",
+      "supports",
+      "ecosystem stability"
+    ],
+    [
+      "habitat support",
+      "supports",
+      "food webs"
+    ],
+    [
+      "habitat support",
+      "supports",
+      "seabirds"
+    ],
+    [
+      "health of ecosystems",
+      "affects",
+      "biodiversity decline"
+    ],
+    [
+      "health of ecosystems",
+      "affects",
+      "conservation efforts"
+    ],
+    [
+      "health of ecosystems",
+      "affects",
+      "global ecosystems"
+    ],
+    [
+      "health of ecosystems",
+      "affects",
+      "habitat loss"
+    ],
+    [
+      "health of ecosystems",
+      "contributes to",
+      "bird populations"
+    ],
+    [
+      "health of ecosystems",
+      "contributes to",
+      "bird species"
+    ],
+    [
+      "health of ecosystems",
+      "contributes to",
+      "natural pest control"
+    ],
+    [
+      "health of ecosystems",
+      "depends on",
+      "ecosystem services"
+    ],
+    [
+      "health of ecosystems",
+      "depends on",
+      "environmental health"
+    ],
+    [
+      "health of ecosystems",
+      "influences",
+      "habitat support"
+    ],
+    [
+      "health of ecosystems",
+      "is affected by",
+      "bird roles"
+    ],
+    [
+      "health of ecosystems",
+      "is affected by",
+      "environmental impact"
+    ],
+    [
+      "health of ecosystems",
+      "is determined by",
+      "ecosystem quality"
+    ],
+    [
+      "health of ecosystems",
+      "is influenced by",
+      "marine environments"
+    ],
+    [
+      "health of ecosystems",
+      "supports",
+      "biodiversity"
+    ],
+    [
+      "health of ecosystems",
+      "supports",
+      "essential roles"
+    ],
+    [
+      "health of ecosystems",
+      "supports",
+      "plant species"
+    ],
+    [
+      "insect populations",
+      "affects",
+      "biodiversity"
+    ],
+    [
+      "insect populations",
+      "contributes to",
+      "nutrient cycling"
+    ],
+    [
+      "insect populations",
+      "facilitates",
+      "seed dispersal"
+    ],
+    [
+      "insect populations",
+      "impacts",
+      "plant growth"
+    ],
+    [
+      "insect populations",
+      "manages",
+      "natural pest control"
+    ],
+    [
+      "insect populations",
+      "supports",
+      "vegetation growth"
+    ],
+    [
+      "marine environments",
+      "affects",
+      "ecosystem health"
+    ],
+    [
+      "marine environments",
+      "affects",
+      "resilience"
+    ],
+    [
+      "marine environments",
+      "benefits from",
+      "monitoring"
+    ],
+    [
+      "marine environments",
+      "facilitates",
+      "nutrient cycling"
+    ],
+    [
+      "marine environments",
+      "facilitates",
+      "seed dispersal"
+    ],
+    [
+      "marine environments",
+      "influences",
+      "environmental health"
+    ],
+    [
+      "marine environments",
+      "influences",
+      "plant interactions"
+    ],
+    [
+      "marine environments",
+      "inhabits",
+      "bird species"
+    ],
+    [
+      "marine environments",
+      "inhabits",
+      "seabirds"
+    ],
+    [
+      "marine environments",
+      "is affected by",
+      "behaviors"
+    ],
+    [
+      "marine environments",
+      "is influenced by",
+      "shifts in populations"
+    ],
+    [
+      "marine environments",
+      "provides",
+      "ecological roles"
+    ],
+    [
+      "marine environments",
+      "provides",
+      "ecosystem services"
+    ],
+    [
+      "marine environments",
+      "supports",
+      "biodiversity"
+    ],
+    [
+      "marine environments",
+      "supports",
+      "food webs"
+    ],
+    [
+      "monitoring",
+      "affects",
+      "health of ecosystems"
+    ],
+    [
+      "monitoring",
+      "aids",
+      "habitat protection"
+    ],
+    [
+      "monitoring",
+      "assess",
+      "ecosystem quality"
+    ],
+    [
+      "monitoring",
+      "indicates",
+      "distributions"
+    ],
+    [
+      "monitoring",
+      "indicates",
+      "environmental stability"
+    ],
+    [
+      "monitoring",
+      "informs",
+      "climate change"
+    ],
+    [
+      "monitoring",
+      "informs",
+      "plant diversity"
+    ],
+    [
+      "monitoring",
+      "monitors",
+      "biodiversity"
+    ],
+    [
+      "monitoring",
+      "monitors",
+      "bird populations"
+    ],
+    [
+      "monitoring",
+      "provides",
+      "environmental indicators"
+    ],
+    [
+      "monitoring",
+      "reduces",
+      "chemical pesticides"
+    ],
+    [
+      "monitoring",
+      "requires",
+      "resilience"
+    ],
+    [
+      "monitoring",
+      "supports",
+      "conservation efforts"
+    ],
+    [
+      "monitoring",
+      "supports",
+      "genetic diversity"
+    ],
+    [
+      "natural balance",
+      "contributes to",
+      "food webs"
+    ],
+    [
+      "natural balance",
+      "is influenced by",
+      "biodiversity decline"
+    ],
+    [
+      "natural balance",
+      "maintains",
+      "ecosystem resilience"
+    ],
+    [
+      "natural balance",
+      "supports",
+      "conservation importance"
+    ],
+    [
+      "natural balance",
+      "supports",
+      "genetic diversity"
+    ],
+    [
+      "natural pest control",
+      "contributes to",
+      "ecosystem services"
+    ],
+    [
+      "natural pest control",
+      "enables",
+      "ecosystem functions"
+    ],
+    [
+      "natural pest control",
+      "enhances",
+      "ecological contributions"
+    ],
+    [
+      "natural pest control",
+      "enhances",
+      "ecosystem contributions"
+    ],
+    [
+      "natural pest control",
+      "enhances",
+      "habitat protection"
+    ],
+    [
+      "natural pest control",
+      "impacts",
+      "plant growth"
+    ],
+    [
+      "natural pest control",
+      "indicates",
+      "environmental health"
+    ],
+    [
+      "natural pest control",
+      "informs",
+      "monitoring"
+    ],
+    [
+      "natural pest control",
+      "interacts with",
+      "animal interactions"
+    ],
+    [
+      "natural pest control",
+      "is enhanced by",
+      "pollination"
+    ],
+    [
+      "natural pest control",
+      "is influenced by",
+      "fruit production"
+    ],
+    [
+      "natural pest control",
+      "maintains",
+      "natural balance"
+    ],
+    [
+      "natural pest control",
+      "promotes",
+      "vegetation health"
+    ],
+    [
+      "natural pest control",
+      "provides",
+      "essential roles"
+    ],
+    [
+      "nutrient cycling",
+      "affects",
+      "habitat loss"
+    ],
+    [
+      "nutrient cycling",
+      "contributes to",
+      "resilience"
+    ],
+    [
+      "nutrient cycling",
+      "enhances",
+      "vegetation health"
+    ],
+    [
+      "nutrient cycling",
+      "facilitates",
+      "forest ecosystems"
+    ],
+    [
+      "nutrient cycling",
+      "facilitates",
+      "seed dispersal"
+    ],
+    [
+      "nutrient cycling",
+      "influences",
+      "fruit production"
+    ],
+    [
+      "nutrient cycling",
+      "influences",
+      "health of ecosystems"
+    ],
+    [
+      "nutrient cycling",
+      "is affected by",
+      "biodiversity decline"
+    ],
+    [
+      "nutrient cycling",
+      "is cycled by",
+      "soil enrichment"
+    ],
+    [
+      "nutrient cycling",
+      "is supported by",
+      "ecosystem quality"
+    ],
+    [
+      "nutrient cycling",
+      "produces",
+      "fruit and seeds"
+    ],
+    [
+      "nutrient cycling",
+      "supports",
+      "biodiversity"
+    ],
+    [
+      "nutrient cycling",
+      "supports",
+      "pollination"
+    ],
+    [
+      "pest control",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "pest control",
+      "enhances",
+      "health of ecosystems"
+    ],
+    [
+      "pest control",
+      "is a form of",
+      "natural pest control"
+    ],
+    [
+      "pest control",
+      "is managed by",
+      "environmental health"
+    ],
+    [
+      "pest control",
+      "is supported by",
+      "plant growth"
+    ],
+    [
+      "pest control",
+      "regulates",
+      "insect populations"
+    ],
+    [
+      "pest control",
+      "serves as",
+      "biological control"
+    ],
+    [
+      "pest control",
+      "supports",
+      "behaviors"
+    ],
+    [
+      "plant diversity",
+      "affects",
+      "behaviors"
+    ],
+    [
+      "plant diversity",
+      "affects",
+      "bird roles"
+    ],
+    [
+      "plant diversity",
+      "contributes to",
+      "ecosystem contributions"
+    ],
+    [
+      "plant diversity",
+      "enhances",
+      "resilience"
+    ],
+    [
+      "plant diversity",
+      "facilitates",
+      "seed dispersal"
+    ],
+    [
+      "plant diversity",
+      "influences",
+      "environmental health"
+    ],
+    [
+      "plant diversity",
+      "influences",
+      "habitat dynamics"
+    ],
+    [
+      "plant diversity",
+      "promotes",
+      "plant growth"
+    ],
+    [
+      "plant diversity",
+      "supports",
+      "ecosystem functions"
+    ],
+    [
+      "plant diversity",
+      "supports",
+      "global ecosystems"
+    ],
+    [
+      "plant diversity",
+      "supports",
+      "nutrient cycling"
+    ],
+    [
+      "plant diversity",
+      "supports",
+      "plant populations"
+    ],
+    [
+      "plant growth",
+      "affects",
+      "vegetation health"
+    ],
+    [
+      "plant growth",
+      "impedes",
+      "habitat loss"
+    ],
+    [
+      "plant growth",
+      "is affected by",
+      "environmental impact"
+    ],
+    [
+      "plant growth",
+      "is facilitated by",
+      "nutrient cycling"
+    ],
+    [
+      "plant growth",
+      "is influenced by",
+      "ecosystem contributions"
+    ],
+    [
+      "plant growth",
+      "is supported by",
+      "genetic diversity"
+    ],
+    [
+      "plant growth",
+      "supports",
+      "environmental health"
+    ],
+    [
+      "plant growth",
+      "supports",
+      "plant populations"
+    ],
+    [
+      "plant interactions",
+      "affects",
+      "habitat loss"
+    ],
+    [
+      "plant interactions",
+      "facilitates",
+      "seed dispersal"
+    ],
+    [
+      "plant interactions",
+      "maintains",
+      "ecological balance"
+    ],
+    [
+      "plant interactions",
+      "produces",
+      "fruit and seeds"
+    ],
+    [
+      "plant interactions",
+      "supports",
+      "ecosystem stability"
+    ],
+    [
+      "plant populations",
+      "affects",
+      "bird populations"
+    ],
+    [
+      "plant populations",
+      "affects",
+      "distributions"
+    ],
+    [
+      "plant populations",
+      "benefits from",
+      "conservation efforts"
+    ],
+    [
+      "plant populations",
+      "facilitates",
+      "seed dispersal"
+    ],
+    [
+      "plant populations",
+      "impacts",
+      "insect populations"
+    ],
+    [
+      "plant populations",
+      "promotes",
+      "genetic diversity"
+    ],
+    [
+      "plant populations",
+      "supports",
+      "bird species"
+    ],
+    [
+      "plant populations",
+      "supports",
+      "ecological processes"
+    ],
+    [
+      "plant populations",
+      "supports",
+      "environmental health"
+    ],
+    [
+      "plant populations",
+      "supports",
+      "environmental stability"
+    ],
+    [
+      "plant populations",
+      "supports",
+      "marine environments"
+    ],
+    [
+      "plant populations",
+      "supports",
+      "seabirds"
+    ],
+    [
+      "plant populations",
+      "supports",
+      "species indicators"
+    ],
+    [
+      "plant populations",
+      "supports",
+      "vegetation health"
+    ],
+    [
+      "plant regeneration",
+      "affects",
+      "biodiversity decline"
+    ],
+    [
+      "plant regeneration",
+      "affects",
+      "environmental health"
+    ],
+    [
+      "plant regeneration",
+      "enables",
+      "pest control"
+    ],
+    [
+      "plant regeneration",
+      "enhances",
+      "biological control"
+    ],
+    [
+      "plant regeneration",
+      "enhances",
+      "conservation importance"
+    ],
+    [
+      "plant regeneration",
+      "enhances",
+      "ecosystem resilience"
+    ],
+    [
+      "plant regeneration",
+      "enhances",
+      "genetic diversity"
+    ],
+    [
+      "plant regeneration",
+      "facilitates",
+      "distributions"
+    ],
+    [
+      "plant regeneration",
+      "facilitates",
+      "natural pest control"
+    ],
+    [
+      "plant regeneration",
+      "facilitates",
+      "nutrient cycling"
+    ],
+    [
+      "plant regeneration",
+      "facilitates",
+      "seed dispersal"
+    ],
+    [
+      "plant regeneration",
+      "influences",
+      "plant-pollinator relationships"
+    ],
+    [
+      "plant regeneration",
+      "maintains",
+      "natural balance"
+    ],
+    [
+      "plant regeneration",
+      "promotes",
+      "behaviors"
+    ],
+    [
+      "plant regeneration",
+      "promotes",
+      "monitoring"
+    ],
+    [
+      "plant regeneration",
+      "promotes",
+      "vegetation growth"
+    ],
+    [
+      "plant regeneration",
+      "provides",
+      "ecosystem services"
+    ],
+    [
+      "plant regeneration",
+      "supports",
+      "food webs"
+    ],
+    [
+      "plant regeneration",
+      "supports",
+      "forest biodiversity"
+    ],
+    [
+      "plant regeneration",
+      "supports",
+      "forest health"
+    ],
+    [
+      "plant reproduction",
+      "affects",
+      "vegetation health"
+    ],
+    [
+      "plant reproduction",
+      "enhances",
+      "nutrient cycling"
+    ],
+    [
+      "plant reproduction",
+      "facilitates",
+      "plant regeneration"
+    ],
+    [
+      "plant reproduction",
+      "is supported by",
+      "biological control"
+    ],
+    [
+      "plant reproduction",
+      "promotes",
+      "plant growth"
+    ],
+    [
+      "plant reproduction",
+      "supports",
+      "forest biodiversity"
+    ],
+    [
+      "plant species",
+      "acts as",
+      "species indicators"
+    ],
+    [
+      "plant species",
+      "affects",
+      "plant interactions"
+    ],
+    [
+      "plant species",
+      "comprises",
+      "forest ecosystems"
+    ],
+    [
+      "plant species",
+      "depends on",
+      "environmental health"
+    ],
+    [
+      "plant species",
+      "enhances",
+      "forest biodiversity"
+    ],
+    [
+      "plant species",
+      "ensures",
+      "habitat protection"
+    ],
+    [
+      "plant species",
+      "facilitates",
+      "seed dispersal"
+    ],
+    [
+      "plant species",
+      "maintains",
+      "natural balance"
+    ],
+    [
+      "plant species",
+      "promotes",
+      "plant growth"
+    ],
+    [
+      "plant species",
+      "promotes",
+      "vegetation growth"
+    ],
+    [
+      "plant species",
+      "supports",
+      "habitat support"
+    ],
+    [
+      "plant species",
+      "supports",
+      "nutrient cycling"
+    ],
+    [
+      "plant species",
+      "threatens",
+      "biodiversity decline"
+    ],
+    [
+      "plant-pollinator relationships",
+      "affects",
+      "chemical pesticides"
+    ],
+    [
+      "plant-pollinator relationships",
+      "enhances",
+      "vegetation growth"
+    ],
+    [
+      "plant-pollinator relationships",
+      "facilitates",
+      "fruit production"
+    ],
+    [
+      "plant-pollinator relationships",
+      "supports",
+      "pest control"
+    ],
+    [
+      "pollination",
+      "contributes to",
+      "ecological roles"
+    ],
+    [
+      "pollination",
+      "enhance",
+      "plant interactions"
+    ],
+    [
+      "pollination",
+      "enhances",
+      "plant-pollinator relationships"
+    ],
+    [
+      "pollination",
+      "facilitates",
+      "fruit and seeds"
+    ],
+    [
+      "pollination",
+      "facilitates",
+      "insect populations"
+    ],
+    [
+      "pollination",
+      "facilitates",
+      "plant growth"
+    ],
+    [
+      "pollination",
+      "is necessary for",
+      "fruit production"
+    ],
+    [
+      "pollination",
+      "promotes",
+      "vegetation growth"
+    ],
+    [
+      "protection of habitats",
+      "contributes to",
+      "ecological contributions"
+    ],
+    [
+      "protection of habitats",
+      "contributes to",
+      "ecosystem resilience"
+    ],
+    [
+      "protection of habitats",
+      "enhances",
+      "biological control"
+    ],
+    [
+      "protection of habitats",
+      "enhances",
+      "resilience"
+    ],
+    [
+      "protection of habitats",
+      "facilitates",
+      "ecological processes"
+    ],
+    [
+      "protection of habitats",
+      "improves",
+      "habitat quality"
+    ],
+    [
+      "protection of habitats",
+      "promotes",
+      "ecological balance"
+    ],
+    [
+      "protection of habitats",
+      "promotes",
+      "genetic diversity"
+    ],
+    [
+      "protection of habitats",
+      "reduces",
+      "chemical pesticides"
+    ],
+    [
+      "protection of habitats",
+      "supports",
+      "bird populations"
+    ],
+    [
+      "protection of habitats",
+      "supports",
+      "plant populations"
+    ],
+    [
+      "protection of habitats",
+      "supports",
+      "plant species"
+    ],
+    [
+      "protection of habitats",
+      "supports",
+      "seed dispersal"
+    ],
+    [
+      "resilience",
+      "affects",
+      "behaviors"
+    ],
+    [
+      "resilience",
+      "contributes to",
+      "ecological contributions"
+    ],
+    [
+      "resilience",
+      "contributes to",
+      "ecosystem contributions"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "ecosystem services"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "soil enrichment"
+    ],
+    [
+      "resilience",
+      "facilitates",
+      "seed dispersal"
+    ],
+    [
+      "resilience",
+      "informs",
+      "conservation importance"
+    ],
+    [
+      "resilience",
+      "provides",
+      "habitat support"
+    ],
+    [
+      "resilience",
+      "supports",
+      "forest biodiversity"
+    ],
+    [
+      "seabirds",
+      "contributes to",
+      "biodiversity decline"
+    ],
+    [
+      "seabirds",
+      "contributes to",
+      "ecological contributions"
+    ],
+    [
+      "seabirds",
+      "contributes to",
+      "habitat protection"
+    ],
+    [
+      "seabirds",
+      "enhances",
+      "ecosystem quality"
+    ],
+    [
+      "seabirds",
+      "enhances",
+      "forest health"
+    ],
+    [
+      "seabirds",
+      "facilitates",
+      "seed dispersal"
+    ],
+    [
+      "seabirds",
+      "indicate changes in",
+      "shifts in populations"
+    ],
+    [
+      "seabirds",
+      "interacts with",
+      "animal interactions"
+    ],
+    [
+      "seabirds",
+      "is influenced by",
+      "distributions"
+    ],
+    [
+      "seabirds",
+      "maintains",
+      "ecological balance"
+    ],
+    [
+      "seabirds",
+      "plays a role in",
+      "ecological roles"
+    ],
+    [
+      "seabirds",
+      "promotes",
+      "genetic diversity"
+    ],
+    [
+      "seabirds",
+      "provides",
+      "biological control"
+    ],
+    [
+      "seabirds",
+      "provides",
+      "ecosystem services"
+    ],
+    [
+      "seabirds",
+      "provides",
+      "natural pest control"
+    ],
+    [
+      "seabirds",
+      "provides",
+      "pest control"
+    ],
+    [
+      "seabirds",
+      "supports",
+      "ecosystem stability"
+    ],
+    [
+      "seabirds",
+      "supports",
+      "nutrient cycling"
+    ],
+    [
+      "seabirds",
+      "supports",
+      "plant species"
+    ],
+    [
+      "seed dispersal",
+      "contributes to",
+      "ecosystem stability"
+    ],
+    [
+      "seed dispersal",
+      "enables",
+      "biodiversity"
+    ],
+    [
+      "seed dispersal",
+      "enables",
+      "conservation importance"
+    ],
+    [
+      "seed dispersal",
+      "facilitates",
+      "conservation efforts"
+    ],
+    [
+      "seed dispersal",
+      "facilitates",
+      "distributions"
+    ],
+    [
+      "seed dispersal",
+      "is enabled by",
+      "vegetation growth"
+    ],
+    [
+      "seed dispersal",
+      "is facilitated by",
+      "pest control"
+    ],
+    [
+      "seed dispersal",
+      "is produced by",
+      "fruit production"
+    ],
+    [
+      "seed dispersal",
+      "is supported by",
+      "plant growth"
+    ],
+    [
+      "seed dispersal",
+      "results in",
+      "biodiversity decline"
+    ],
+    [
+      "seed dispersal",
+      "supports",
+      "vegetation health"
+    ],
+    [
+      "shifts in populations",
+      "contributes to",
+      "ecological contributions"
+    ],
+    [
+      "shifts in populations",
+      "highlights",
+      "conservation importance"
+    ],
+    [
+      "shifts in populations",
+      "impacts",
+      "vegetation health"
+    ],
+    [
+      "shifts in populations",
+      "indicates",
+      "ecosystem health"
+    ],
+    [
+      "shifts in populations",
+      "indicates changes in",
+      "bird species"
+    ],
+    [
+      "shifts in populations",
+      "influences",
+      "forest ecosystems"
+    ],
+    [
+      "shifts in populations",
+      "informs",
+      "bird roles"
+    ],
+    [
+      "shifts in populations",
+      "is influenced by",
+      "behaviors"
+    ],
+    [
+      "shifts in populations",
+      "promote",
+      "plant regeneration"
+    ],
+    [
+      "shifts in populations",
+      "provides",
+      "ecosystem contributions"
+    ],
+    [
+      "soil enrichment",
+      "contributes to",
+      "ecological contributions"
+    ],
+    [
+      "soil enrichment",
+      "contributes to",
+      "ecosystem contributions"
+    ],
+    [
+      "soil enrichment",
+      "contributes to",
+      "ecosystem stability"
+    ],
+    [
+      "soil enrichment",
+      "contributes to",
+      "plant species"
+    ],
+    [
+      "soil enrichment",
+      "enhances",
+      "forest biodiversity"
+    ],
+    [
+      "soil enrichment",
+      "enhances",
+      "genetic diversity"
+    ],
+    [
+      "soil enrichment",
+      "enhances",
+      "habitat support"
+    ],
+    [
+      "soil enrichment",
+      "enhances",
+      "pest control"
+    ],
+    [
+      "soil enrichment",
+      "enhances",
+      "pollination"
+    ],
+    [
+      "soil enrichment",
+      "enrich",
+      "forest ecosystems"
+    ],
+    [
+      "soil enrichment",
+      "enriches",
+      "ecosystem functions"
+    ],
+    [
+      "soil enrichment",
+      "enriches",
+      "marine environments"
+    ],
+    [
+      "soil enrichment",
+      "enriches",
+      "nutrient cycling"
+    ],
+    [
+      "soil enrichment",
+      "facilitates",
+      "habitat protection"
+    ],
+    [
+      "soil enrichment",
+      "improves",
+      "ecosystem quality"
+    ],
+    [
+      "soil enrichment",
+      "improves",
+      "habitat quality"
+    ],
+    [
+      "soil enrichment",
+      "maintains",
+      "natural balance"
+    ],
+    [
+      "soil enrichment",
+      "promotes",
+      "vegetation growth"
+    ],
+    [
+      "soil enrichment",
+      "supports",
+      "biodiversity"
+    ],
+    [
+      "soil enrichment",
+      "supports",
+      "conservation importance"
+    ],
+    [
+      "soil enrichment",
+      "supports",
+      "seed dispersal"
+    ],
+    [
+      "species indicators",
+      "affects",
+      "bird populations"
+    ],
+    [
+      "species indicators",
+      "aids",
+      "habitat protection"
+    ],
+    [
+      "species indicators",
+      "indicates",
+      "biodiversity"
+    ],
+    [
+      "species indicators",
+      "indicates",
+      "ecosystem contributions"
+    ],
+    [
+      "species indicators",
+      "indicates",
+      "forest ecosystems"
+    ],
+    [
+      "species indicators",
+      "indicates",
+      "insect populations"
+    ],
+    [
+      "species indicators",
+      "indicates",
+      "marine environments"
+    ],
+    [
+      "species indicators",
+      "indicates",
+      "soil enrichment"
+    ],
+    [
+      "species indicators",
+      "indicators of",
+      "plant reproduction"
+    ],
+    [
+      "species indicators",
+      "involves",
+      "animal interactions"
+    ],
+    [
+      "species indicators",
+      "is caused by",
+      "habitat loss"
+    ],
+    [
+      "species indicators",
+      "is indicated by",
+      "habitat dynamics"
+    ],
+    [
+      "species indicators",
+      "provides insights into",
+      "monitoring"
+    ],
+    [
+      "vegetation growth",
+      "enables",
+      "seed dispersal"
+    ],
+    [
+      "vegetation growth",
+      "impacts",
+      "habitat loss"
+    ],
+    [
+      "vegetation growth",
+      "supports",
+      "bird populations"
+    ],
+    [
+      "vegetation growth",
+      "supports",
+      "fruit and seeds"
+    ],
+    [
+      "vegetation growth",
+      "supports",
+      "nutrient cycling"
+    ],
+    [
+      "vegetation health",
+      "affects",
+      "biodiversity decline"
+    ],
+    [
+      "vegetation health",
+      "affects",
+      "ecosystem health"
+    ],
+    [
+      "vegetation health",
+      "affects",
+      "fruit production"
+    ],
+    [
+      "vegetation health",
+      "is promoted by",
+      "natural pest control"
+    ],
+    [
+      "vegetation health",
+      "supports",
+      "conservation efforts"
+    ],
+    [
+      "vegetation health",
+      "supports",
+      "plant diversity"
+    ]
+  ],
+  "edges": [
+    "acts as",
+    "affected by",
+    "affects",
+    "aids",
+    "assess",
+    "benefits from",
+    "comprises",
+    "contributes to",
+    "controlled by",
+    "defines",
+    "depends on",
+    "determines",
+    "disrupts",
+    "drives",
+    "enables",
+    "encompasses",
+    "enhance",
+    "enhanced by",
+    "enhances",
+    "enrich",
+    "enriches",
+    "ensures",
+    "facilitate",
+    "facilitates",
+    "fulfills",
+    "guides",
+    "highlights",
+    "impacted by",
+    "impacts",
+    "impedes",
+    "improves",
+    "includes",
+    "increases",
+    "indicate changes in",
+    "indicates",
+    "indicates changes in",
+    "indicators of",
+    "influence",
+    "influenced by",
+    "influences",
+    "informs",
+    "informs about",
+    "inhabits",
+    "interacts with",
+    "involves",
+    "is a form of",
+    "is a function of",
+    "is a type of",
+    "is affected by",
+    "is caused by",
+    "is crucial for",
+    "is cycled by",
+    "is determined by",
+    "is enabled by",
+    "is enhanced by",
+    "is essential for",
+    "is facilitated by",
+    "is impacted by",
+    "is indicated by",
+    "is influenced by",
+    "is managed by",
+    "is necessary for",
+    "is part of",
+    "is pollinated by",
+    "is produced by",
+    "is promoted by",
+    "is reduced by",
+    "is represented by",
+    "is supported by",
+    "is threatened by",
+    "maintain",
+    "maintains",
+    "manages",
+    "monitors",
+    "performed by",
+    "plays a role in",
+    "preys on",
+    "produced by",
+    "produces",
+    "promote",
+    "promotes",
+    "provides",
+    "provides insights into",
+    "reduce reliance on",
+    "reduces",
+    "reduces the need for",
+    "reflects",
+    "regulates",
+    "requires",
+    "results from",
+    "results in",
+    "serve as",
+    "serves as",
+    "support reproduction of",
+    "supports",
+    "threatened by",
+    "threatens"
+  ]
+}

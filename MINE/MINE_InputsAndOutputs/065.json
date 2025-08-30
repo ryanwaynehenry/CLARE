@@ -1,0 +1,2838 @@
+{
+  "entities": [
+    "acute hearing",
+    "acute sense",
+    "adaptations",
+    "aquatic environment",
+    "blood chemicals",
+    "camouflage detection",
+    "chemical analysis",
+    "complex environment",
+    "detect prey",
+    "efficient processing",
+    "electrical signals",
+    "electroreception",
+    "environmental awareness",
+    "evolution",
+    "food chain",
+    "great white shark",
+    "hearing",
+    "hearing vibrations",
+    "hunting efficiency",
+    "hunting success",
+    "keen sense",
+    "large olfactory bulbs",
+    "lateral line system",
+    "low light conditions",
+    "low visibility",
+    "marine animals",
+    "marine ecosystem",
+    "marine hunting",
+    "marine hunting strategies",
+    "marine predators",
+    "marine sensory systems",
+    "navigation",
+    "prey capture",
+    "prey detection",
+    "prey detection efficiency",
+    "prey location",
+    "sensitive receptors",
+    "sensory adaptations",
+    "shark biology",
+    "shark olfactory system",
+    "sharks",
+    "smell",
+    "specialized cells",
+    "specialized structures",
+    "top predators",
+    "touch",
+    "vision",
+    "water movements",
+    "water pressure"
+  ],
+  "relations": [
+    [
+      "acute hearing",
+      "contributes to",
+      "sensory adaptations"
+    ],
+    [
+      "acute hearing",
+      "is supported by",
+      "low visibility"
+    ],
+    [
+      "acute sense",
+      "aids in",
+      "prey location"
+    ],
+    [
+      "acute sense",
+      "enables",
+      "blood chemicals"
+    ],
+    [
+      "acute sense",
+      "enables",
+      "efficient processing"
+    ],
+    [
+      "acute sense",
+      "enables detection of",
+      "complex environment"
+    ],
+    [
+      "acute sense",
+      "enhances",
+      "hunting efficiency"
+    ],
+    [
+      "acute sense",
+      "enhances",
+      "low visibility"
+    ],
+    [
+      "acute sense",
+      "equips with",
+      "marine predators"
+    ],
+    [
+      "acute sense",
+      "facilitates",
+      "detect prey"
+    ],
+    [
+      "acute sense",
+      "improves",
+      "acute hearing"
+    ],
+    [
+      "acute sense",
+      "improves",
+      "lateral line system"
+    ],
+    [
+      "acute sense",
+      "improves",
+      "prey detection efficiency"
+    ],
+    [
+      "acute sense",
+      "is a characteristic of",
+      "food chain"
+    ],
+    [
+      "acute sense",
+      "is a type of",
+      "electrical signals"
+    ],
+    [
+      "acute sense",
+      "is a type of",
+      "sensory adaptations"
+    ],
+    [
+      "acute sense",
+      "is a type of",
+      "smell"
+    ],
+    [
+      "acute sense",
+      "is enhanced by",
+      "large olfactory bulbs"
+    ],
+    [
+      "acute sense",
+      "is enhanced by",
+      "prey capture"
+    ],
+    [
+      "acute sense",
+      "possess",
+      "marine animals"
+    ],
+    [
+      "adaptations",
+      "comprises",
+      "acute sense"
+    ],
+    [
+      "adaptations",
+      "enables",
+      "detect prey"
+    ],
+    [
+      "adaptations",
+      "improves",
+      "prey detection efficiency"
+    ],
+    [
+      "adaptations",
+      "includes",
+      "hearing"
+    ],
+    [
+      "adaptations",
+      "influences",
+      "food chain"
+    ],
+    [
+      "adaptations",
+      "is a feature of",
+      "acute hearing"
+    ],
+    [
+      "adaptations",
+      "is associated with",
+      "great white shark"
+    ],
+    [
+      "adaptations",
+      "is characterized by",
+      "keen sense"
+    ],
+    [
+      "aquatic environment",
+      "detected in",
+      "detect prey"
+    ],
+    [
+      "aquatic environment",
+      "detected in",
+      "electrical signals"
+    ],
+    [
+      "aquatic environment",
+      "exists in",
+      "adaptations"
+    ],
+    [
+      "aquatic environment",
+      "exists in",
+      "keen sense"
+    ],
+    [
+      "aquatic environment",
+      "influences",
+      "blood chemicals"
+    ],
+    [
+      "aquatic environment",
+      "influences",
+      "hunting success"
+    ],
+    [
+      "aquatic environment",
+      "supports",
+      "vision"
+    ],
+    [
+      "blood chemicals",
+      "affects",
+      "marine ecosystem"
+    ],
+    [
+      "blood chemicals",
+      "attracts",
+      "marine predators"
+    ],
+    [
+      "blood chemicals",
+      "detected by",
+      "electroreception"
+    ],
+    [
+      "blood chemicals",
+      "detected by",
+      "smell"
+    ],
+    [
+      "blood chemicals",
+      "detects",
+      "hearing vibrations"
+    ],
+    [
+      "blood chemicals",
+      "enhances",
+      "hunting efficiency"
+    ],
+    [
+      "blood chemicals",
+      "enhances",
+      "keen sense"
+    ],
+    [
+      "blood chemicals",
+      "enhances",
+      "prey detection efficiency"
+    ],
+    [
+      "blood chemicals",
+      "facilitates",
+      "efficient processing"
+    ],
+    [
+      "blood chemicals",
+      "increases",
+      "hunting success"
+    ],
+    [
+      "blood chemicals",
+      "informs",
+      "environmental awareness"
+    ],
+    [
+      "blood chemicals",
+      "informs",
+      "sensory adaptations"
+    ],
+    [
+      "blood chemicals",
+      "involves",
+      "sharks"
+    ],
+    [
+      "blood chemicals",
+      "is detected by",
+      "detect prey"
+    ],
+    [
+      "blood chemicals",
+      "is part of",
+      "food chain"
+    ],
+    [
+      "camouflage detection",
+      "aids in",
+      "navigation"
+    ],
+    [
+      "camouflage detection",
+      "aids in",
+      "prey location"
+    ],
+    [
+      "camouflage detection",
+      "aids in",
+      "vision"
+    ],
+    [
+      "camouflage detection",
+      "detects",
+      "water movements"
+    ],
+    [
+      "camouflage detection",
+      "enables",
+      "sensitive receptors"
+    ],
+    [
+      "camouflage detection",
+      "enables",
+      "top predators"
+    ],
+    [
+      "camouflage detection",
+      "enables detection of",
+      "detect prey"
+    ],
+    [
+      "camouflage detection",
+      "enhances",
+      "efficient processing"
+    ],
+    [
+      "camouflage detection",
+      "enhances",
+      "prey detection efficiency"
+    ],
+    [
+      "camouflage detection",
+      "facilitates",
+      "acute sense"
+    ],
+    [
+      "camouflage detection",
+      "improves",
+      "hunting efficiency"
+    ],
+    [
+      "camouflage detection",
+      "is influenced by",
+      "water pressure"
+    ],
+    [
+      "camouflage detection",
+      "utilizes",
+      "smell"
+    ],
+    [
+      "chemical analysis",
+      "enhances",
+      "hunting efficiency"
+    ],
+    [
+      "chemical analysis",
+      "facilitates",
+      "marine ecosystem"
+    ],
+    [
+      "chemical analysis",
+      "improves",
+      "prey detection efficiency"
+    ],
+    [
+      "chemical analysis",
+      "involves",
+      "smell"
+    ],
+    [
+      "chemical analysis",
+      "is utilized in",
+      "electroreception"
+    ],
+    [
+      "chemical analysis",
+      "supports",
+      "prey detection"
+    ],
+    [
+      "complex environment",
+      "aids in",
+      "navigation"
+    ],
+    [
+      "complex environment",
+      "enables",
+      "lateral line system"
+    ],
+    [
+      "complex environment",
+      "facilitates",
+      "specialized cells"
+    ],
+    [
+      "complex environment",
+      "influences",
+      "water movements"
+    ],
+    [
+      "complex environment",
+      "is enhanced by",
+      "vision"
+    ],
+    [
+      "complex environment",
+      "is influenced by",
+      "evolution"
+    ],
+    [
+      "complex environment",
+      "shapes",
+      "sensory adaptations"
+    ],
+    [
+      "complex environment",
+      "supports",
+      "large olfactory bulbs"
+    ],
+    [
+      "detect prey",
+      "detected by",
+      "electrical signals"
+    ],
+    [
+      "detect prey",
+      "influences",
+      "water pressure"
+    ],
+    [
+      "detect prey",
+      "is detected by",
+      "water movements"
+    ],
+    [
+      "detect prey",
+      "is enhanced by",
+      "marine hunting strategies"
+    ],
+    [
+      "detect prey",
+      "preyed upon by",
+      "top predators"
+    ],
+    [
+      "efficient processing",
+      "drives",
+      "evolution"
+    ],
+    [
+      "efficient processing",
+      "enables",
+      "low light conditions"
+    ],
+    [
+      "efficient processing",
+      "enhances",
+      "detect prey"
+    ],
+    [
+      "efficient processing",
+      "enhances",
+      "hunting efficiency"
+    ],
+    [
+      "efficient processing",
+      "improves",
+      "prey detection efficiency"
+    ],
+    [
+      "efficient processing",
+      "is essential for",
+      "sensory adaptations"
+    ],
+    [
+      "efficient processing",
+      "is facilitated by",
+      "prey capture"
+    ],
+    [
+      "efficient processing",
+      "is improved by",
+      "sensitive receptors"
+    ],
+    [
+      "efficient processing",
+      "requires",
+      "navigation"
+    ],
+    [
+      "electrical signals",
+      "detected by",
+      "specialized cells"
+    ],
+    [
+      "electrical signals",
+      "detected by",
+      "specialized structures"
+    ],
+    [
+      "electrical signals",
+      "enables",
+      "efficient processing"
+    ],
+    [
+      "electrical signals",
+      "guides",
+      "marine hunting strategies"
+    ],
+    [
+      "electrical signals",
+      "informs",
+      "sensory adaptations"
+    ],
+    [
+      "electrical signals",
+      "is detected by",
+      "large olfactory bulbs"
+    ],
+    [
+      "electrical signals",
+      "is detected by",
+      "marine animals"
+    ],
+    [
+      "electroreception",
+      "aids in",
+      "navigation"
+    ],
+    [
+      "electroreception",
+      "contributes to",
+      "hunting success"
+    ],
+    [
+      "electroreception",
+      "detects",
+      "water pressure"
+    ],
+    [
+      "electroreception",
+      "enables",
+      "detect prey"
+    ],
+    [
+      "electroreception",
+      "enables",
+      "sensory adaptations"
+    ],
+    [
+      "electroreception",
+      "enables detection in",
+      "aquatic environment"
+    ],
+    [
+      "electroreception",
+      "enhances",
+      "acute hearing"
+    ],
+    [
+      "electroreception",
+      "enhances",
+      "acute sense"
+    ],
+    [
+      "electroreception",
+      "enhances",
+      "efficient processing"
+    ],
+    [
+      "electroreception",
+      "enhances",
+      "hearing vibrations"
+    ],
+    [
+      "electroreception",
+      "is a type of",
+      "adaptations"
+    ],
+    [
+      "electroreception",
+      "is utilized by",
+      "water movements"
+    ],
+    [
+      "environmental awareness",
+      "aids in",
+      "navigation"
+    ],
+    [
+      "environmental awareness",
+      "contains",
+      "specialized cells"
+    ],
+    [
+      "environmental awareness",
+      "enables",
+      "detect prey"
+    ],
+    [
+      "environmental awareness",
+      "enhances",
+      "acute hearing"
+    ],
+    [
+      "environmental awareness",
+      "enhances",
+      "acute sense"
+    ],
+    [
+      "environmental awareness",
+      "enhances",
+      "efficient processing"
+    ],
+    [
+      "environmental awareness",
+      "improves",
+      "prey detection efficiency"
+    ],
+    [
+      "environmental awareness",
+      "informs",
+      "camouflage detection"
+    ],
+    [
+      "environmental awareness",
+      "informs",
+      "chemical analysis"
+    ],
+    [
+      "environmental awareness",
+      "informs",
+      "marine animals"
+    ],
+    [
+      "environmental awareness",
+      "informs",
+      "sensitive receptors"
+    ],
+    [
+      "environmental awareness",
+      "is characterized by",
+      "keen sense"
+    ],
+    [
+      "environmental awareness",
+      "is enhanced by",
+      "sensory adaptations"
+    ],
+    [
+      "environmental awareness",
+      "is essential for",
+      "aquatic environment"
+    ],
+    [
+      "evolution",
+      "drives",
+      "prey location"
+    ],
+    [
+      "evolution",
+      "enables",
+      "detect prey"
+    ],
+    [
+      "evolution",
+      "enhances",
+      "hunting success"
+    ],
+    [
+      "evolution",
+      "evolves from",
+      "acute sense"
+    ],
+    [
+      "evolution",
+      "is a result of",
+      "specialized structures"
+    ],
+    [
+      "evolution",
+      "is shaped by",
+      "marine ecosystem"
+    ],
+    [
+      "evolution",
+      "results in",
+      "large olfactory bulbs"
+    ],
+    [
+      "evolution",
+      "results in",
+      "sensory adaptations"
+    ],
+    [
+      "food chain",
+      "enables",
+      "water pressure"
+    ],
+    [
+      "food chain",
+      "influences",
+      "electroreception"
+    ],
+    [
+      "food chain",
+      "influences",
+      "low visibility"
+    ],
+    [
+      "food chain",
+      "is supported by",
+      "prey detection"
+    ],
+    [
+      "food chain",
+      "nourishes",
+      "complex environment"
+    ],
+    [
+      "food chain",
+      "supports",
+      "marine animals"
+    ],
+    [
+      "food chain",
+      "supports",
+      "shark olfactory system"
+    ],
+    [
+      "great white shark",
+      "achieves",
+      "hunting success"
+    ],
+    [
+      "great white shark",
+      "detects",
+      "hearing vibrations"
+    ],
+    [
+      "great white shark",
+      "enhances",
+      "electroreception"
+    ],
+    [
+      "great white shark",
+      "enhances",
+      "hearing"
+    ],
+    [
+      "great white shark",
+      "enhances",
+      "prey detection efficiency"
+    ],
+    [
+      "great white shark",
+      "exhibits",
+      "sensory adaptations"
+    ],
+    [
+      "great white shark",
+      "has",
+      "vision"
+    ],
+    [
+      "great white shark",
+      "has a keen sense of",
+      "keen sense"
+    ],
+    [
+      "great white shark",
+      "is a feature of",
+      "acute hearing"
+    ],
+    [
+      "great white shark",
+      "is a type of",
+      "sharks"
+    ],
+    [
+      "great white shark",
+      "is associated with",
+      "prey location"
+    ],
+    [
+      "great white shark",
+      "is classified as",
+      "top predators"
+    ],
+    [
+      "great white shark",
+      "is guided by",
+      "navigation"
+    ],
+    [
+      "great white shark",
+      "is known for",
+      "smell"
+    ],
+    [
+      "great white shark",
+      "performed by",
+      "prey capture"
+    ],
+    [
+      "great white shark",
+      "possesses",
+      "large olfactory bulbs"
+    ],
+    [
+      "great white shark",
+      "preys on",
+      "food chain"
+    ],
+    [
+      "great white shark",
+      "thrives in",
+      "aquatic environment"
+    ],
+    [
+      "great white shark",
+      "utilizes",
+      "camouflage detection"
+    ],
+    [
+      "great white shark",
+      "utilizes",
+      "chemical analysis"
+    ],
+    [
+      "great white shark",
+      "utilizes",
+      "specialized cells"
+    ],
+    [
+      "hearing",
+      "aids in",
+      "lateral line system"
+    ],
+    [
+      "hearing",
+      "contributes to",
+      "hunting success"
+    ],
+    [
+      "hearing",
+      "contributes to",
+      "sensory adaptations"
+    ],
+    [
+      "hearing",
+      "detected by",
+      "water movements"
+    ],
+    [
+      "hearing",
+      "detects",
+      "specialized cells"
+    ],
+    [
+      "hearing",
+      "enhanced by",
+      "navigation"
+    ],
+    [
+      "hearing",
+      "enhances",
+      "low light conditions"
+    ],
+    [
+      "hearing",
+      "enhances",
+      "marine hunting"
+    ],
+    [
+      "hearing",
+      "improves",
+      "efficient processing"
+    ],
+    [
+      "hearing",
+      "is complemented by",
+      "shark olfactory system"
+    ],
+    [
+      "hearing",
+      "is supported by",
+      "hunting efficiency"
+    ],
+    [
+      "hearing vibrations",
+      "detected by",
+      "specialized cells"
+    ],
+    [
+      "hearing vibrations",
+      "detected by",
+      "water movements"
+    ],
+    [
+      "hearing vibrations",
+      "detects",
+      "marine animals"
+    ],
+    [
+      "hearing vibrations",
+      "enhanced by",
+      "prey capture"
+    ],
+    [
+      "hearing vibrations",
+      "enhances",
+      "marine ecosystem"
+    ],
+    [
+      "hearing vibrations",
+      "is facilitated by",
+      "detect prey"
+    ],
+    [
+      "hearing vibrations",
+      "supports",
+      "navigation"
+    ],
+    [
+      "hunting efficiency",
+      "benefits from",
+      "marine animals"
+    ],
+    [
+      "hunting efficiency",
+      "enhances",
+      "adaptations"
+    ],
+    [
+      "hunting efficiency",
+      "enhances",
+      "prey detection"
+    ],
+    [
+      "hunting efficiency",
+      "improves",
+      "acute hearing"
+    ],
+    [
+      "hunting efficiency",
+      "is improved by",
+      "low visibility"
+    ],
+    [
+      "hunting success",
+      "achieved by",
+      "top predators"
+    ],
+    [
+      "hunting success",
+      "achieves",
+      "marine animals"
+    ],
+    [
+      "hunting success",
+      "contributes to",
+      "acute hearing"
+    ],
+    [
+      "hunting success",
+      "contributes to",
+      "camouflage detection"
+    ],
+    [
+      "hunting success",
+      "contributes to",
+      "detect prey"
+    ],
+    [
+      "hunting success",
+      "contributes to",
+      "efficient processing"
+    ],
+    [
+      "hunting success",
+      "contributes to",
+      "sensitive receptors"
+    ],
+    [
+      "hunting success",
+      "contributes to",
+      "shark biology"
+    ],
+    [
+      "hunting success",
+      "contributes to",
+      "vision"
+    ],
+    [
+      "hunting success",
+      "enhanced by",
+      "prey detection"
+    ],
+    [
+      "hunting success",
+      "enhances",
+      "navigation"
+    ],
+    [
+      "hunting success",
+      "is influenced by",
+      "hearing vibrations"
+    ],
+    [
+      "keen sense",
+      "contributes to",
+      "hunting success"
+    ],
+    [
+      "keen sense",
+      "detected by",
+      "electrical signals"
+    ],
+    [
+      "keen sense",
+      "detects",
+      "hearing vibrations"
+    ],
+    [
+      "keen sense",
+      "enables",
+      "detect prey"
+    ],
+    [
+      "keen sense",
+      "enhances",
+      "low light conditions"
+    ],
+    [
+      "keen sense",
+      "enhances",
+      "touch"
+    ],
+    [
+      "keen sense",
+      "enhances",
+      "water movements"
+    ],
+    [
+      "keen sense",
+      "informs",
+      "water pressure"
+    ],
+    [
+      "keen sense",
+      "is a feature of",
+      "specialized cells"
+    ],
+    [
+      "keen sense",
+      "is characterized by",
+      "prey detection"
+    ],
+    [
+      "keen sense",
+      "is characterized by",
+      "top predators"
+    ],
+    [
+      "keen sense",
+      "is enhanced by",
+      "shark olfactory system"
+    ],
+    [
+      "keen sense",
+      "supports",
+      "large olfactory bulbs"
+    ],
+    [
+      "keen sense",
+      "supports",
+      "lateral line system"
+    ],
+    [
+      "large olfactory bulbs",
+      "detected by",
+      "prey detection"
+    ],
+    [
+      "large olfactory bulbs",
+      "enables",
+      "detect prey"
+    ],
+    [
+      "large olfactory bulbs",
+      "enhanced by",
+      "complex environment"
+    ],
+    [
+      "large olfactory bulbs",
+      "enhances",
+      "acute hearing"
+    ],
+    [
+      "large olfactory bulbs",
+      "enhances",
+      "hearing"
+    ],
+    [
+      "large olfactory bulbs",
+      "is associated with",
+      "food chain"
+    ],
+    [
+      "large olfactory bulbs",
+      "is influenced by",
+      "hunting efficiency"
+    ],
+    [
+      "large olfactory bulbs",
+      "is part of",
+      "specialized cells"
+    ],
+    [
+      "large olfactory bulbs",
+      "is supported by",
+      "camouflage detection"
+    ],
+    [
+      "large olfactory bulbs",
+      "provides",
+      "marine ecosystem"
+    ],
+    [
+      "large olfactory bulbs",
+      "requires",
+      "chemical analysis"
+    ],
+    [
+      "large olfactory bulbs",
+      "supports",
+      "efficient processing"
+    ],
+    [
+      "large olfactory bulbs",
+      "supports",
+      "marine predators"
+    ],
+    [
+      "large olfactory bulbs",
+      "supports",
+      "sensitive receptors"
+    ],
+    [
+      "large olfactory bulbs",
+      "supports",
+      "shark biology"
+    ],
+    [
+      "large olfactory bulbs",
+      "supports",
+      "top predators"
+    ],
+    [
+      "large olfactory bulbs",
+      "supports",
+      "water pressure"
+    ],
+    [
+      "lateral line system",
+      "aids",
+      "low visibility"
+    ],
+    [
+      "lateral line system",
+      "complements",
+      "electroreception"
+    ],
+    [
+      "lateral line system",
+      "comprises",
+      "specialized cells"
+    ],
+    [
+      "lateral line system",
+      "contributes to",
+      "adaptations"
+    ],
+    [
+      "lateral line system",
+      "detected by",
+      "water movements"
+    ],
+    [
+      "lateral line system",
+      "enhances",
+      "acute hearing"
+    ],
+    [
+      "lateral line system",
+      "enhances",
+      "great white shark"
+    ],
+    [
+      "lateral line system",
+      "enhances",
+      "vision"
+    ],
+    [
+      "lateral line system",
+      "is associated with",
+      "smell"
+    ],
+    [
+      "lateral line system",
+      "is utilized by",
+      "electrical signals"
+    ],
+    [
+      "lateral line system",
+      "supports",
+      "navigation"
+    ],
+    [
+      "lateral line system",
+      "utilizes",
+      "blood chemicals"
+    ],
+    [
+      "low light conditions",
+      "enhances",
+      "electroreception"
+    ],
+    [
+      "low light conditions",
+      "facilitates",
+      "detect prey"
+    ],
+    [
+      "low light conditions",
+      "improves",
+      "vision"
+    ],
+    [
+      "low light conditions",
+      "influences",
+      "adaptations"
+    ],
+    [
+      "low light conditions",
+      "is adapted to",
+      "large olfactory bulbs"
+    ],
+    [
+      "low light conditions",
+      "supports",
+      "aquatic environment"
+    ],
+    [
+      "low visibility",
+      "affects",
+      "camouflage detection"
+    ],
+    [
+      "low visibility",
+      "affects",
+      "electrical signals"
+    ],
+    [
+      "low visibility",
+      "affects",
+      "large olfactory bulbs"
+    ],
+    [
+      "low visibility",
+      "affects",
+      "sharks"
+    ],
+    [
+      "low visibility",
+      "complicates",
+      "prey location"
+    ],
+    [
+      "low visibility",
+      "enables",
+      "detect prey"
+    ],
+    [
+      "low visibility",
+      "enhances",
+      "prey detection efficiency"
+    ],
+    [
+      "low visibility",
+      "impacts",
+      "hearing"
+    ],
+    [
+      "low visibility",
+      "improves ability for",
+      "prey detection"
+    ],
+    [
+      "low visibility",
+      "influences",
+      "marine hunting"
+    ],
+    [
+      "marine animals",
+      "are found in",
+      "specialized cells"
+    ],
+    [
+      "marine animals",
+      "improves",
+      "prey detection efficiency"
+    ],
+    [
+      "marine animals",
+      "indicates",
+      "large olfactory bulbs"
+    ],
+    [
+      "marine animals",
+      "influences",
+      "adaptations"
+    ],
+    [
+      "marine animals",
+      "is detected by",
+      "detect prey"
+    ],
+    [
+      "marine animals",
+      "is preyed upon by",
+      "low visibility"
+    ],
+    [
+      "marine animals",
+      "predator of",
+      "sharks"
+    ],
+    [
+      "marine animals",
+      "utilize",
+      "lateral line system"
+    ],
+    [
+      "marine animals",
+      "utilize",
+      "vision"
+    ],
+    [
+      "marine animals",
+      "utilizes",
+      "electroreception"
+    ],
+    [
+      "marine animals",
+      "utilizes",
+      "hearing"
+    ],
+    [
+      "marine ecosystem",
+      "affects",
+      "low visibility"
+    ],
+    [
+      "marine ecosystem",
+      "enables",
+      "acute sense"
+    ],
+    [
+      "marine ecosystem",
+      "enables",
+      "detect prey"
+    ],
+    [
+      "marine ecosystem",
+      "enhances",
+      "keen sense"
+    ],
+    [
+      "marine ecosystem",
+      "enhances",
+      "vision"
+    ],
+    [
+      "marine ecosystem",
+      "facilitates",
+      "prey detection"
+    ],
+    [
+      "marine ecosystem",
+      "includes",
+      "sensitive receptors"
+    ],
+    [
+      "marine ecosystem",
+      "includes",
+      "specialized cells"
+    ],
+    [
+      "marine ecosystem",
+      "influences",
+      "adaptations"
+    ],
+    [
+      "marine ecosystem",
+      "influences",
+      "prey capture"
+    ],
+    [
+      "marine ecosystem",
+      "influences",
+      "prey location"
+    ],
+    [
+      "marine ecosystem",
+      "inhabit",
+      "marine animals"
+    ],
+    [
+      "marine ecosystem",
+      "inhabits",
+      "sharks"
+    ],
+    [
+      "marine ecosystem",
+      "is a feature of",
+      "lateral line system"
+    ],
+    [
+      "marine ecosystem",
+      "is influenced by",
+      "shark olfactory system"
+    ],
+    [
+      "marine ecosystem",
+      "is linked to",
+      "hunting success"
+    ],
+    [
+      "marine ecosystem",
+      "is related to",
+      "hearing"
+    ],
+    [
+      "marine ecosystem",
+      "supports",
+      "sensory adaptations"
+    ],
+    [
+      "marine ecosystem",
+      "thrives in",
+      "low light conditions"
+    ],
+    [
+      "marine hunting",
+      "assists",
+      "navigation"
+    ],
+    [
+      "marine hunting",
+      "contributes to",
+      "hunting success"
+    ],
+    [
+      "marine hunting",
+      "enhances",
+      "acute sense"
+    ],
+    [
+      "marine hunting",
+      "increases",
+      "hunting efficiency"
+    ],
+    [
+      "marine hunting",
+      "informs",
+      "water movements"
+    ],
+    [
+      "marine hunting",
+      "involves",
+      "chemical analysis"
+    ],
+    [
+      "marine hunting",
+      "involves",
+      "detect prey"
+    ],
+    [
+      "marine hunting",
+      "involves",
+      "efficient processing"
+    ],
+    [
+      "marine hunting",
+      "involves",
+      "prey detection"
+    ],
+    [
+      "marine hunting",
+      "is a type of",
+      "great white shark"
+    ],
+    [
+      "marine hunting",
+      "is adapted to",
+      "aquatic environment"
+    ],
+    [
+      "marine hunting",
+      "is essential for",
+      "food chain"
+    ],
+    [
+      "marine hunting",
+      "positions",
+      "top predators"
+    ],
+    [
+      "marine hunting",
+      "requires",
+      "prey location"
+    ],
+    [
+      "marine hunting",
+      "utilizes",
+      "electroreception"
+    ],
+    [
+      "marine hunting",
+      "utilizes",
+      "sensitive receptors"
+    ],
+    [
+      "marine hunting strategies",
+      "enhances",
+      "hearing"
+    ],
+    [
+      "marine hunting strategies",
+      "enhances",
+      "large olfactory bulbs"
+    ],
+    [
+      "marine hunting strategies",
+      "improves",
+      "prey detection efficiency"
+    ],
+    [
+      "marine hunting strategies",
+      "influences",
+      "marine ecosystem"
+    ],
+    [
+      "marine hunting strategies",
+      "informs",
+      "vision"
+    ],
+    [
+      "marine hunting strategies",
+      "involves",
+      "adaptations"
+    ],
+    [
+      "marine hunting strategies",
+      "is improved by",
+      "hunting efficiency"
+    ],
+    [
+      "marine hunting strategies",
+      "occurs in",
+      "aquatic environment"
+    ],
+    [
+      "marine hunting strategies",
+      "utilizes",
+      "electroreception"
+    ],
+    [
+      "marine predators",
+      "drawn to",
+      "blood chemicals"
+    ],
+    [
+      "marine predators",
+      "enhances",
+      "hearing"
+    ],
+    [
+      "marine predators",
+      "enhances",
+      "specialized cells"
+    ],
+    [
+      "marine predators",
+      "improves",
+      "efficient processing"
+    ],
+    [
+      "marine predators",
+      "influences",
+      "water movements"
+    ],
+    [
+      "marine predators",
+      "involves",
+      "adaptations"
+    ],
+    [
+      "marine predators",
+      "is a type of",
+      "great white shark"
+    ],
+    [
+      "marine predators",
+      "is utilized by",
+      "camouflage detection"
+    ],
+    [
+      "marine predators",
+      "preys on",
+      "marine animals"
+    ],
+    [
+      "marine predators",
+      "targets",
+      "chemical analysis"
+    ],
+    [
+      "marine predators",
+      "targets",
+      "low visibility"
+    ],
+    [
+      "marine predators",
+      "utilizes",
+      "lateral line system"
+    ],
+    [
+      "marine predators",
+      "utilizes",
+      "prey capture"
+    ],
+    [
+      "marine sensory systems",
+      "comprises",
+      "shark olfactory system"
+    ],
+    [
+      "marine sensory systems",
+      "detects",
+      "water movements"
+    ],
+    [
+      "marine sensory systems",
+      "enables",
+      "aquatic environment"
+    ],
+    [
+      "marine sensory systems",
+      "enables",
+      "detect prey"
+    ],
+    [
+      "marine sensory systems",
+      "enhances",
+      "acute hearing"
+    ],
+    [
+      "marine sensory systems",
+      "enhances",
+      "efficient processing"
+    ],
+    [
+      "marine sensory systems",
+      "enhances",
+      "vision"
+    ],
+    [
+      "marine sensory systems",
+      "facilitates",
+      "hearing"
+    ],
+    [
+      "marine sensory systems",
+      "facilitates",
+      "prey location"
+    ],
+    [
+      "marine sensory systems",
+      "facilitates detection of",
+      "electroreception"
+    ],
+    [
+      "marine sensory systems",
+      "guides",
+      "navigation"
+    ],
+    [
+      "marine sensory systems",
+      "includes",
+      "lateral line system"
+    ],
+    [
+      "marine sensory systems",
+      "includes",
+      "sensitive receptors"
+    ],
+    [
+      "marine sensory systems",
+      "inform",
+      "marine hunting strategies"
+    ],
+    [
+      "marine sensory systems",
+      "provides",
+      "sensory adaptations"
+    ],
+    [
+      "marine sensory systems",
+      "supports",
+      "large olfactory bulbs"
+    ],
+    [
+      "navigation",
+      "aids",
+      "acute hearing"
+    ],
+    [
+      "navigation",
+      "assists",
+      "prey detection"
+    ],
+    [
+      "navigation",
+      "enhances",
+      "hunting efficiency"
+    ],
+    [
+      "navigation",
+      "enhances",
+      "keen sense"
+    ],
+    [
+      "navigation",
+      "enhances",
+      "vision"
+    ],
+    [
+      "navigation",
+      "increases",
+      "prey detection efficiency"
+    ],
+    [
+      "navigation",
+      "relies on",
+      "electroreception"
+    ],
+    [
+      "prey capture",
+      "achieves",
+      "top predators"
+    ],
+    [
+      "prey capture",
+      "affected by",
+      "low light conditions"
+    ],
+    [
+      "prey capture",
+      "aids",
+      "electroreception"
+    ],
+    [
+      "prey capture",
+      "depends on",
+      "prey detection efficiency"
+    ],
+    [
+      "prey capture",
+      "enhanced by",
+      "smell"
+    ],
+    [
+      "prey capture",
+      "facilitates",
+      "water movements"
+    ],
+    [
+      "prey capture",
+      "improves",
+      "hunting efficiency"
+    ],
+    [
+      "prey capture",
+      "influences",
+      "evolution"
+    ],
+    [
+      "prey capture",
+      "involves",
+      "marine hunting"
+    ],
+    [
+      "prey capture",
+      "is achieved through",
+      "sensitive receptors"
+    ],
+    [
+      "prey capture",
+      "is characterized by",
+      "large olfactory bulbs"
+    ],
+    [
+      "prey capture",
+      "is facilitated by",
+      "adaptations"
+    ],
+    [
+      "prey capture",
+      "occurs in",
+      "aquatic environment"
+    ],
+    [
+      "prey capture",
+      "targets",
+      "marine animals"
+    ],
+    [
+      "prey detection",
+      "depends on",
+      "prey capture"
+    ],
+    [
+      "prey detection",
+      "drives",
+      "adaptations"
+    ],
+    [
+      "prey detection",
+      "enables",
+      "electroreception"
+    ],
+    [
+      "prey detection",
+      "enables",
+      "sensory adaptations"
+    ],
+    [
+      "prey detection",
+      "facilitates",
+      "camouflage detection"
+    ],
+    [
+      "prey detection",
+      "influences",
+      "water movements"
+    ],
+    [
+      "prey detection",
+      "is a method to",
+      "detect prey"
+    ],
+    [
+      "prey detection",
+      "is part of",
+      "marine hunting strategies"
+    ],
+    [
+      "prey detection",
+      "occurs in",
+      "aquatic environment"
+    ],
+    [
+      "prey detection efficiency",
+      "contributes to",
+      "hunting success"
+    ],
+    [
+      "prey detection efficiency",
+      "drives",
+      "evolution"
+    ],
+    [
+      "prey detection efficiency",
+      "improves",
+      "detect prey"
+    ],
+    [
+      "prey detection efficiency",
+      "improves",
+      "prey location"
+    ],
+    [
+      "prey detection efficiency",
+      "is influenced by",
+      "hunting efficiency"
+    ],
+    [
+      "prey detection efficiency",
+      "is influenced by",
+      "water movements"
+    ],
+    [
+      "prey location",
+      "enables",
+      "electrical signals"
+    ],
+    [
+      "prey location",
+      "enables",
+      "electroreception"
+    ],
+    [
+      "prey location",
+      "facilitates",
+      "hearing vibrations"
+    ],
+    [
+      "prey location",
+      "influences",
+      "prey capture"
+    ],
+    [
+      "prey location",
+      "informs",
+      "chemical analysis"
+    ],
+    [
+      "prey location",
+      "informs",
+      "marine hunting strategies"
+    ],
+    [
+      "prey location",
+      "involves",
+      "prey detection"
+    ],
+    [
+      "prey location",
+      "is influenced by",
+      "adaptations"
+    ],
+    [
+      "prey location",
+      "requires",
+      "efficient processing"
+    ],
+    [
+      "sensitive receptors",
+      "detected by",
+      "marine animals"
+    ],
+    [
+      "sensitive receptors",
+      "detected by",
+      "prey location"
+    ],
+    [
+      "sensitive receptors",
+      "detects",
+      "electrical signals"
+    ],
+    [
+      "sensitive receptors",
+      "detects",
+      "hearing"
+    ],
+    [
+      "sensitive receptors",
+      "detects",
+      "smell"
+    ],
+    [
+      "sensitive receptors",
+      "detects",
+      "water movements"
+    ],
+    [
+      "sensitive receptors",
+      "enhances",
+      "acute hearing"
+    ],
+    [
+      "sensitive receptors",
+      "enhances",
+      "keen sense"
+    ],
+    [
+      "sensitive receptors",
+      "improves",
+      "prey detection"
+    ],
+    [
+      "sensitive receptors",
+      "improves",
+      "prey detection efficiency"
+    ],
+    [
+      "sensitive receptors",
+      "is a component of",
+      "shark biology"
+    ],
+    [
+      "sensitive receptors",
+      "is a type of",
+      "sensory adaptations"
+    ],
+    [
+      "sensitive receptors",
+      "is part of",
+      "food chain"
+    ],
+    [
+      "sensitive receptors",
+      "supports",
+      "aquatic environment"
+    ],
+    [
+      "sensitive receptors",
+      "supports",
+      "electroreception"
+    ],
+    [
+      "sensitive receptors",
+      "utilized by",
+      "detect prey"
+    ],
+    [
+      "sensitive receptors",
+      "utilizes",
+      "marine predators"
+    ],
+    [
+      "sensory adaptations",
+      "benefits from",
+      "marine animals"
+    ],
+    [
+      "sensory adaptations",
+      "enable",
+      "detect prey"
+    ],
+    [
+      "sensory adaptations",
+      "includes",
+      "large olfactory bulbs"
+    ],
+    [
+      "sensory adaptations",
+      "includes",
+      "smell"
+    ],
+    [
+      "sensory adaptations",
+      "includes",
+      "vision"
+    ],
+    [
+      "sensory adaptations",
+      "is a type of",
+      "electroreception"
+    ],
+    [
+      "shark biology",
+      "affects",
+      "blood chemicals"
+    ],
+    [
+      "shark biology",
+      "describes",
+      "food chain"
+    ],
+    [
+      "shark biology",
+      "enables",
+      "detect prey"
+    ],
+    [
+      "shark biology",
+      "exists in",
+      "aquatic environment"
+    ],
+    [
+      "shark biology",
+      "includes",
+      "keen sense"
+    ],
+    [
+      "shark biology",
+      "increases",
+      "hunting efficiency"
+    ],
+    [
+      "shark biology",
+      "influences",
+      "hearing"
+    ],
+    [
+      "shark biology",
+      "informs",
+      "complex environment"
+    ],
+    [
+      "shark biology",
+      "informs",
+      "prey detection"
+    ],
+    [
+      "shark biology",
+      "involves",
+      "hearing vibrations"
+    ],
+    [
+      "shark biology",
+      "is a feature of",
+      "vision"
+    ],
+    [
+      "shark biology",
+      "is part of",
+      "water movements"
+    ],
+    [
+      "shark biology",
+      "is studied in",
+      "low visibility"
+    ],
+    [
+      "shark biology",
+      "is studied in",
+      "prey capture"
+    ],
+    [
+      "shark biology",
+      "is studied in relation to",
+      "great white shark"
+    ],
+    [
+      "shark biology",
+      "supports",
+      "efficient processing"
+    ],
+    [
+      "shark olfactory system",
+      "affects",
+      "water movements"
+    ],
+    [
+      "shark olfactory system",
+      "aids",
+      "prey location"
+    ],
+    [
+      "shark olfactory system",
+      "contains",
+      "specialized structures"
+    ],
+    [
+      "shark olfactory system",
+      "contributes to",
+      "environmental awareness"
+    ],
+    [
+      "shark olfactory system",
+      "detects",
+      "blood chemicals"
+    ],
+    [
+      "shark olfactory system",
+      "detects",
+      "detect prey"
+    ],
+    [
+      "shark olfactory system",
+      "detects",
+      "marine animals"
+    ],
+    [
+      "shark olfactory system",
+      "enables",
+      "aquatic environment"
+    ],
+    [
+      "shark olfactory system",
+      "enables",
+      "touch"
+    ],
+    [
+      "shark olfactory system",
+      "facilitates",
+      "chemical analysis"
+    ],
+    [
+      "shark olfactory system",
+      "facilitates",
+      "prey capture"
+    ],
+    [
+      "shark olfactory system",
+      "guides",
+      "marine hunting strategies"
+    ],
+    [
+      "shark olfactory system",
+      "increases",
+      "hunting efficiency"
+    ],
+    [
+      "shark olfactory system",
+      "increases",
+      "hunting success"
+    ],
+    [
+      "shark olfactory system",
+      "is a characteristic of",
+      "sharks"
+    ],
+    [
+      "shark olfactory system",
+      "is challenged by",
+      "low visibility"
+    ],
+    [
+      "shark olfactory system",
+      "is crucial for",
+      "smell"
+    ],
+    [
+      "shark olfactory system",
+      "is utilized by",
+      "great white shark"
+    ],
+    [
+      "shark olfactory system",
+      "navigates",
+      "complex environment"
+    ],
+    [
+      "shark olfactory system",
+      "supports",
+      "large olfactory bulbs"
+    ],
+    [
+      "sharks",
+      "adapted to",
+      "low light conditions"
+    ],
+    [
+      "sharks",
+      "are classified as",
+      "top predators"
+    ],
+    [
+      "sharks",
+      "detects",
+      "detect prey"
+    ],
+    [
+      "sharks",
+      "detects",
+      "electrical signals"
+    ],
+    [
+      "sharks",
+      "detects",
+      "hearing vibrations"
+    ],
+    [
+      "sharks",
+      "detects",
+      "smell"
+    ],
+    [
+      "sharks",
+      "detects",
+      "water movements"
+    ],
+    [
+      "sharks",
+      "enhances",
+      "environmental awareness"
+    ],
+    [
+      "sharks",
+      "facilitates",
+      "efficient processing"
+    ],
+    [
+      "sharks",
+      "involves",
+      "chemical analysis"
+    ],
+    [
+      "sharks",
+      "involves",
+      "marine hunting"
+    ],
+    [
+      "sharks",
+      "is characterized by",
+      "acute sense"
+    ],
+    [
+      "sharks",
+      "navigates",
+      "aquatic environment"
+    ],
+    [
+      "sharks",
+      "possesses",
+      "adaptations"
+    ],
+    [
+      "sharks",
+      "possesses",
+      "sensitive receptors"
+    ],
+    [
+      "sharks",
+      "prey of",
+      "marine animals"
+    ],
+    [
+      "sharks",
+      "supports",
+      "food chain"
+    ],
+    [
+      "sharks",
+      "utilizes",
+      "electroreception"
+    ],
+    [
+      "sharks",
+      "utilizes",
+      "marine hunting strategies"
+    ],
+    [
+      "smell",
+      "enhanced by",
+      "hunting efficiency"
+    ],
+    [
+      "smell",
+      "enhances",
+      "efficient processing"
+    ],
+    [
+      "smell",
+      "facilitates",
+      "detect prey"
+    ],
+    [
+      "smell",
+      "informs",
+      "acute hearing"
+    ],
+    [
+      "smell",
+      "is influenced by",
+      "hearing"
+    ],
+    [
+      "smell",
+      "supports",
+      "large olfactory bulbs"
+    ],
+    [
+      "specialized cells",
+      "associated with",
+      "top predators"
+    ],
+    [
+      "specialized cells",
+      "comprises",
+      "shark olfactory system"
+    ],
+    [
+      "specialized cells",
+      "detects",
+      "low visibility"
+    ],
+    [
+      "specialized cells",
+      "includes",
+      "adaptations"
+    ],
+    [
+      "specialized cells",
+      "is associated with",
+      "smell"
+    ],
+    [
+      "specialized cells",
+      "is found in",
+      "aquatic environment"
+    ],
+    [
+      "specialized cells",
+      "is part of",
+      "electroreception"
+    ],
+    [
+      "specialized structures",
+      "aid in",
+      "navigation"
+    ],
+    [
+      "specialized structures",
+      "are part of",
+      "sensory adaptations"
+    ],
+    [
+      "specialized structures",
+      "comprises",
+      "lateral line system"
+    ],
+    [
+      "specialized structures",
+      "enables",
+      "efficient processing"
+    ],
+    [
+      "specialized structures",
+      "enhances",
+      "smell"
+    ],
+    [
+      "specialized structures",
+      "is a result of",
+      "large olfactory bulbs"
+    ],
+    [
+      "specialized structures",
+      "is influenced by",
+      "water pressure"
+    ],
+    [
+      "specialized structures",
+      "provides",
+      "acute sense"
+    ],
+    [
+      "specialized structures",
+      "support",
+      "top predators"
+    ],
+    [
+      "specialized structures",
+      "utilizes",
+      "marine animals"
+    ],
+    [
+      "top predators",
+      "are",
+      "smell"
+    ],
+    [
+      "top predators",
+      "associated with",
+      "complex environment"
+    ],
+    [
+      "top predators",
+      "dominates",
+      "low visibility"
+    ],
+    [
+      "top predators",
+      "enables",
+      "adaptations"
+    ],
+    [
+      "top predators",
+      "includes",
+      "marine ecosystem"
+    ],
+    [
+      "top predators",
+      "informs",
+      "environmental awareness"
+    ],
+    [
+      "top predators",
+      "is a characteristic of",
+      "efficient processing"
+    ],
+    [
+      "top predators",
+      "is essential for",
+      "hearing"
+    ],
+    [
+      "top predators",
+      "prey on",
+      "marine animals"
+    ],
+    [
+      "top predators",
+      "results from",
+      "evolution"
+    ],
+    [
+      "top predators",
+      "results in",
+      "hunting efficiency"
+    ],
+    [
+      "top predators",
+      "results in",
+      "prey detection"
+    ],
+    [
+      "top predators",
+      "supports",
+      "blood chemicals"
+    ],
+    [
+      "top predators",
+      "supports",
+      "food chain"
+    ],
+    [
+      "touch",
+      "detects",
+      "blood chemicals"
+    ],
+    [
+      "touch",
+      "detects",
+      "marine animals"
+    ],
+    [
+      "touch",
+      "detects",
+      "sharks"
+    ],
+    [
+      "touch",
+      "enables",
+      "detect prey"
+    ],
+    [
+      "touch",
+      "enhances",
+      "marine hunting strategies"
+    ],
+    [
+      "touch",
+      "facilitates",
+      "prey capture"
+    ],
+    [
+      "touch",
+      "includes",
+      "sensitive receptors"
+    ],
+    [
+      "touch",
+      "interacts with",
+      "marine ecosystem"
+    ],
+    [
+      "touch",
+      "is found in",
+      "large olfactory bulbs"
+    ],
+    [
+      "touch",
+      "is related to",
+      "hearing"
+    ],
+    [
+      "touch",
+      "navigates",
+      "aquatic environment"
+    ],
+    [
+      "touch",
+      "supports",
+      "chemical analysis"
+    ],
+    [
+      "touch",
+      "supports",
+      "prey detection"
+    ],
+    [
+      "touch",
+      "utilizes",
+      "lateral line system"
+    ],
+    [
+      "vision",
+      "aids",
+      "low visibility"
+    ],
+    [
+      "vision",
+      "complements",
+      "hearing"
+    ],
+    [
+      "vision",
+      "is a characteristic of",
+      "great white shark"
+    ],
+    [
+      "vision",
+      "is influenced by",
+      "hunting efficiency"
+    ],
+    [
+      "water movements",
+      "affects",
+      "marine animals"
+    ],
+    [
+      "water movements",
+      "aids",
+      "vision"
+    ],
+    [
+      "water movements",
+      "assists",
+      "navigation"
+    ],
+    [
+      "water movements",
+      "enables detection of",
+      "lateral line system"
+    ],
+    [
+      "water movements",
+      "enhances",
+      "acute hearing"
+    ],
+    [
+      "water movements",
+      "enhances",
+      "hunting efficiency"
+    ],
+    [
+      "water movements",
+      "influences",
+      "marine ecosystem"
+    ],
+    [
+      "water movements",
+      "informs",
+      "adaptations"
+    ],
+    [
+      "water movements",
+      "informs",
+      "marine hunting strategies"
+    ],
+    [
+      "water movements",
+      "informs",
+      "specialized structures"
+    ],
+    [
+      "water movements",
+      "informs",
+      "top predators"
+    ],
+    [
+      "water movements",
+      "is detected by",
+      "electrical signals"
+    ],
+    [
+      "water movements",
+      "is detected by",
+      "specialized cells"
+    ],
+    [
+      "water movements",
+      "is influenced by",
+      "prey location"
+    ],
+    [
+      "water pressure",
+      "affects",
+      "hunting efficiency"
+    ],
+    [
+      "water pressure",
+      "informs",
+      "environmental awareness"
+    ],
+    [
+      "water pressure",
+      "is affected by",
+      "prey detection efficiency"
+    ]
+  ],
+  "edges": [
+    "achieved by",
+    "achieves",
+    "adapted to",
+    "affected by",
+    "affects",
+    "aid in",
+    "aids",
+    "aids in",
+    "are",
+    "are classified as",
+    "are found in",
+    "are part of",
+    "assists",
+    "associated with",
+    "attracts",
+    "benefits from",
+    "complements",
+    "complicates",
+    "comprises",
+    "contains",
+    "contributes to",
+    "depends on",
+    "describes",
+    "detected by",
+    "detected in",
+    "detects",
+    "dominates",
+    "drawn to",
+    "drives",
+    "enable",
+    "enables",
+    "enables detection in",
+    "enables detection of",
+    "enhanced by",
+    "enhances",
+    "equips with",
+    "evolves from",
+    "exhibits",
+    "exists in",
+    "facilitates",
+    "facilitates detection of",
+    "guides",
+    "has",
+    "has a keen sense of",
+    "impacts",
+    "improves",
+    "improves ability for",
+    "includes",
+    "increases",
+    "indicates",
+    "influences",
+    "inform",
+    "informs",
+    "inhabit",
+    "inhabits",
+    "interacts with",
+    "involves",
+    "is a characteristic of",
+    "is a component of",
+    "is a feature of",
+    "is a method to",
+    "is a result of",
+    "is a type of",
+    "is achieved through",
+    "is adapted to",
+    "is affected by",
+    "is associated with",
+    "is challenged by",
+    "is characterized by",
+    "is classified as",
+    "is complemented by",
+    "is crucial for",
+    "is detected by",
+    "is enhanced by",
+    "is essential for",
+    "is facilitated by",
+    "is found in",
+    "is guided by",
+    "is improved by",
+    "is influenced by",
+    "is known for",
+    "is linked to",
+    "is part of",
+    "is preyed upon by",
+    "is related to",
+    "is shaped by",
+    "is studied in",
+    "is studied in relation to",
+    "is supported by",
+    "is utilized by",
+    "is utilized in",
+    "navigates",
+    "nourishes",
+    "occurs in",
+    "performed by",
+    "positions",
+    "possess",
+    "possesses",
+    "predator of",
+    "prey of",
+    "prey on",
+    "preyed upon by",
+    "preys on",
+    "provides",
+    "relies on",
+    "requires",
+    "results from",
+    "results in",
+    "shapes",
+    "support",
+    "supports",
+    "targets",
+    "thrives in",
+    "utilize",
+    "utilized by",
+    "utilizes"
+  ]
+}

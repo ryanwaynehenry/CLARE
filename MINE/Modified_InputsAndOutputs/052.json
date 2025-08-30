@@ -1,0 +1,2767 @@
+{
+  "entities": [
+    "assertiveness",
+    "attentiveness",
+    "attraction",
+    "authority",
+    "body language",
+    "clarity",
+    "communication",
+    "confidence",
+    "conflict resolution",
+    "connections",
+    "cultural cues",
+    "defensiveness",
+    "discomfort",
+    "disinterest",
+    "dynamics",
+    "effectiveness",
+    "emotions",
+    "engagement",
+    "eye contact",
+    "facial expressions",
+    "feelings",
+    "gestures",
+    "happiness",
+    "insecurity",
+    "intimacy",
+    "leaning in",
+    "meaningful interactions",
+    "mirroring gestures",
+    "nodding",
+    "nonverbal cues",
+    "posture",
+    "proxemics",
+    "rapport",
+    "relationships",
+    "signals",
+    "slouching",
+    "smiling",
+    "social interactions",
+    "subtle cues",
+    "thoughts",
+    "understanding"
+  ],
+  "relations": [
+    [
+      "assertiveness",
+      "contrasts with",
+      "defensiveness"
+    ],
+    [
+      "assertiveness",
+      "demonstrates",
+      "confidence"
+    ],
+    [
+      "assertiveness",
+      "demonstrates",
+      "facial expressions"
+    ],
+    [
+      "assertiveness",
+      "demonstrates",
+      "understanding"
+    ],
+    [
+      "assertiveness",
+      "demonstrates assertiveness",
+      "rapport"
+    ],
+    [
+      "assertiveness",
+      "enhances",
+      "eye contact"
+    ],
+    [
+      "assertiveness",
+      "enhances",
+      "meaningful interactions"
+    ],
+    [
+      "assertiveness",
+      "enhances",
+      "nodding"
+    ],
+    [
+      "assertiveness",
+      "enhances",
+      "social interactions"
+    ],
+    [
+      "assertiveness",
+      "is demonstrated by",
+      "communication"
+    ],
+    [
+      "assertiveness",
+      "is influenced by",
+      "emotions"
+    ],
+    [
+      "assertiveness",
+      "reflects",
+      "disinterest"
+    ],
+    [
+      "assertiveness",
+      "signals",
+      "attraction"
+    ],
+    [
+      "attraction",
+      "contrasts with",
+      "disinterest"
+    ],
+    [
+      "attraction",
+      "enhances",
+      "meaningful interactions"
+    ],
+    [
+      "attraction",
+      "indicates",
+      "defensiveness"
+    ],
+    [
+      "attraction",
+      "influences",
+      "proxemics"
+    ],
+    [
+      "attraction",
+      "is expressed through",
+      "body language"
+    ],
+    [
+      "attraction",
+      "is expressed through",
+      "emotions"
+    ],
+    [
+      "attraction",
+      "is signaled by",
+      "eye contact"
+    ],
+    [
+      "attraction",
+      "signals",
+      "communication"
+    ],
+    [
+      "attraction",
+      "signals",
+      "effectiveness"
+    ],
+    [
+      "attraction",
+      "signals",
+      "intimacy"
+    ],
+    [
+      "attraction",
+      "signals",
+      "nodding"
+    ],
+    [
+      "attraction",
+      "signals",
+      "posture"
+    ],
+    [
+      "attraction",
+      "signals",
+      "relationships"
+    ],
+    [
+      "attraction",
+      "signals",
+      "signals"
+    ],
+    [
+      "attraction",
+      "signals attraction",
+      "connections"
+    ],
+    [
+      "attraction",
+      "signals attraction through",
+      "facial expressions"
+    ],
+    [
+      "authority",
+      "can signal",
+      "attraction"
+    ],
+    [
+      "authority",
+      "contrasts with",
+      "defensiveness"
+    ],
+    [
+      "authority",
+      "contrasts with",
+      "intimacy"
+    ],
+    [
+      "authority",
+      "contributes to",
+      "meaningful interactions"
+    ],
+    [
+      "authority",
+      "demonstrates",
+      "effectiveness"
+    ],
+    [
+      "authority",
+      "demonstrates",
+      "leaning in"
+    ],
+    [
+      "authority",
+      "enhances",
+      "conflict resolution"
+    ],
+    [
+      "authority",
+      "influences",
+      "proxemics"
+    ],
+    [
+      "authority",
+      "informs",
+      "subtle cues"
+    ],
+    [
+      "authority",
+      "is conveyed by",
+      "signals"
+    ],
+    [
+      "authority",
+      "is demonstrated by",
+      "mirroring gestures"
+    ],
+    [
+      "authority",
+      "is expressed through",
+      "body language"
+    ],
+    [
+      "authority",
+      "projected by",
+      "communication"
+    ],
+    [
+      "authority",
+      "projects",
+      "assertiveness"
+    ],
+    [
+      "authority",
+      "projects",
+      "facial expressions"
+    ],
+    [
+      "body language",
+      "comprises",
+      "posture"
+    ],
+    [
+      "body language",
+      "conveys",
+      "emotions"
+    ],
+    [
+      "body language",
+      "conveys",
+      "signals"
+    ],
+    [
+      "body language",
+      "enables",
+      "conflict resolution"
+    ],
+    [
+      "body language",
+      "enhances",
+      "clarity"
+    ],
+    [
+      "body language",
+      "enhances",
+      "intimacy"
+    ],
+    [
+      "body language",
+      "enhances",
+      "meaningful interactions"
+    ],
+    [
+      "body language",
+      "expresses",
+      "defensiveness"
+    ],
+    [
+      "body language",
+      "expresses",
+      "smiling"
+    ],
+    [
+      "body language",
+      "fosters",
+      "rapport"
+    ],
+    [
+      "body language",
+      "indicates",
+      "assertiveness"
+    ],
+    [
+      "body language",
+      "indicates",
+      "disinterest"
+    ],
+    [
+      "body language",
+      "indicates",
+      "eye contact"
+    ],
+    [
+      "body language",
+      "influences",
+      "relationships"
+    ],
+    [
+      "body language",
+      "influences",
+      "social interactions"
+    ],
+    [
+      "body language",
+      "informs",
+      "facial expressions"
+    ],
+    [
+      "body language",
+      "is enhanced by",
+      "engagement"
+    ],
+    [
+      "body language",
+      "is influenced by",
+      "effectiveness"
+    ],
+    [
+      "clarity",
+      "demonstrates assertiveness",
+      "assertiveness"
+    ],
+    [
+      "clarity",
+      "enhances",
+      "emotions"
+    ],
+    [
+      "clarity",
+      "enhances",
+      "nodding"
+    ],
+    [
+      "clarity",
+      "enhances",
+      "signals"
+    ],
+    [
+      "clarity",
+      "improves",
+      "proxemics"
+    ],
+    [
+      "clarity",
+      "is clarified by cultural cues in",
+      "cultural cues"
+    ],
+    [
+      "clarity",
+      "is improved by",
+      "dynamics"
+    ],
+    [
+      "clarity",
+      "signals",
+      "eye contact"
+    ],
+    [
+      "communication",
+      "encompasses",
+      "body language"
+    ],
+    [
+      "communication",
+      "enhances",
+      "clarity"
+    ],
+    [
+      "communication",
+      "enhances rapport",
+      "rapport"
+    ],
+    [
+      "communication",
+      "improves",
+      "understanding"
+    ],
+    [
+      "communication",
+      "influences",
+      "proxemics"
+    ],
+    [
+      "communication",
+      "influences communication",
+      "defensiveness"
+    ],
+    [
+      "communication",
+      "is conveyed through",
+      "emotions"
+    ],
+    [
+      "confidence",
+      "contrasts with",
+      "discomfort"
+    ],
+    [
+      "confidence",
+      "indicates",
+      "clarity"
+    ],
+    [
+      "confidence",
+      "indicates",
+      "facial expressions"
+    ],
+    [
+      "confidence",
+      "indicates",
+      "smiling"
+    ],
+    [
+      "confidence",
+      "indicates",
+      "subtle cues"
+    ],
+    [
+      "confidence",
+      "indicates confidence",
+      "slouching"
+    ],
+    [
+      "confidence",
+      "is a",
+      "feelings"
+    ],
+    [
+      "confidence",
+      "is demonstrated by",
+      "authority"
+    ],
+    [
+      "confidence",
+      "is enhanced by",
+      "attraction"
+    ],
+    [
+      "confidence",
+      "is indicated by",
+      "disinterest"
+    ],
+    [
+      "confidence",
+      "is indicated by",
+      "posture"
+    ],
+    [
+      "confidence",
+      "is indicated by cultural cues in",
+      "cultural cues"
+    ],
+    [
+      "confidence",
+      "is influenced by",
+      "emotions"
+    ],
+    [
+      "confidence",
+      "is influenced by",
+      "social interactions"
+    ],
+    [
+      "confidence",
+      "is reflected in",
+      "dynamics"
+    ],
+    [
+      "confidence",
+      "opposite of",
+      "insecurity"
+    ],
+    [
+      "confidence",
+      "projects confidence",
+      "communication"
+    ],
+    [
+      "confidence",
+      "supports",
+      "relationships"
+    ],
+    [
+      "conflict resolution",
+      "affects dynamics of",
+      "dynamics"
+    ],
+    [
+      "conflict resolution",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "conflict resolution",
+      "facilitates",
+      "assertiveness"
+    ],
+    [
+      "conflict resolution",
+      "facilitates",
+      "meaningful interactions"
+    ],
+    [
+      "conflict resolution",
+      "facilitates",
+      "social interactions"
+    ],
+    [
+      "conflict resolution",
+      "facilitates conflict resolution via",
+      "nodding"
+    ],
+    [
+      "conflict resolution",
+      "improves communication in",
+      "communication"
+    ],
+    [
+      "conflict resolution",
+      "influences",
+      "emotions"
+    ],
+    [
+      "conflict resolution",
+      "involves",
+      "signals"
+    ],
+    [
+      "conflict resolution",
+      "is influenced by",
+      "facial expressions"
+    ],
+    [
+      "conflict resolution",
+      "is resolved by",
+      "defensiveness"
+    ],
+    [
+      "conflict resolution",
+      "is supported by",
+      "proxemics"
+    ],
+    [
+      "conflict resolution",
+      "requires",
+      "mirroring gestures"
+    ],
+    [
+      "connections",
+      "builds",
+      "facial expressions"
+    ],
+    [
+      "connections",
+      "builds",
+      "rapport"
+    ],
+    [
+      "connections",
+      "enhances",
+      "clarity"
+    ],
+    [
+      "connections",
+      "enhances",
+      "communication"
+    ],
+    [
+      "connections",
+      "enhances",
+      "eye contact"
+    ],
+    [
+      "connections",
+      "enhances",
+      "nonverbal cues"
+    ],
+    [
+      "connections",
+      "enhances",
+      "smiling"
+    ],
+    [
+      "connections",
+      "enhances",
+      "social interactions"
+    ],
+    [
+      "connections",
+      "facilitates",
+      "nodding"
+    ],
+    [
+      "connections",
+      "facilitates",
+      "proxemics"
+    ],
+    [
+      "connections",
+      "hinders",
+      "defensiveness"
+    ],
+    [
+      "connections",
+      "influences",
+      "emotions"
+    ],
+    [
+      "connections",
+      "influences",
+      "signals"
+    ],
+    [
+      "connections",
+      "informs",
+      "cultural cues"
+    ],
+    [
+      "connections",
+      "signals",
+      "intimacy"
+    ],
+    [
+      "connections",
+      "supports",
+      "effectiveness"
+    ],
+    [
+      "cultural cues",
+      "affects",
+      "engagement"
+    ],
+    [
+      "cultural cues",
+      "affects",
+      "eye contact"
+    ],
+    [
+      "cultural cues",
+      "informs",
+      "nonverbal cues"
+    ],
+    [
+      "cultural cues",
+      "informs",
+      "posture"
+    ],
+    [
+      "cultural cues",
+      "informs",
+      "proxemics"
+    ],
+    [
+      "cultural cues",
+      "informs",
+      "relationships"
+    ],
+    [
+      "cultural cues",
+      "informs",
+      "social interactions"
+    ],
+    [
+      "cultural cues",
+      "is conveyed through cultural cues in",
+      "signals"
+    ],
+    [
+      "cultural cues",
+      "is expressed through",
+      "nodding"
+    ],
+    [
+      "cultural cues",
+      "is indicated by defensiveness in",
+      "defensiveness"
+    ],
+    [
+      "cultural cues",
+      "is influenced by",
+      "leaning in"
+    ],
+    [
+      "cultural cues",
+      "is influenced by cultural cues in",
+      "communication"
+    ],
+    [
+      "cultural cues",
+      "is influenced by cultural cues in",
+      "effectiveness"
+    ],
+    [
+      "cultural cues",
+      "is influenced by cultural cues in",
+      "understanding"
+    ],
+    [
+      "cultural cues",
+      "is shaped by",
+      "connections"
+    ],
+    [
+      "defensiveness",
+      "affects",
+      "proxemics"
+    ],
+    [
+      "defensiveness",
+      "can be affected by",
+      "relationships"
+    ],
+    [
+      "defensiveness",
+      "enhances",
+      "nodding"
+    ],
+    [
+      "defensiveness",
+      "expresses",
+      "emotions"
+    ],
+    [
+      "defensiveness",
+      "improves",
+      "clarity"
+    ],
+    [
+      "defensiveness",
+      "indicates",
+      "signals"
+    ],
+    [
+      "defensiveness",
+      "indicates",
+      "subtle cues"
+    ],
+    [
+      "defensiveness",
+      "indicates defensiveness",
+      "engagement"
+    ],
+    [
+      "defensiveness",
+      "is associated with",
+      "insecurity"
+    ],
+    [
+      "defensiveness",
+      "signals",
+      "gestures"
+    ],
+    [
+      "defensiveness",
+      "signals",
+      "mirroring gestures"
+    ],
+    [
+      "defensiveness",
+      "signals defensiveness",
+      "facial expressions"
+    ],
+    [
+      "discomfort",
+      "can indicate",
+      "leaning in"
+    ],
+    [
+      "discomfort",
+      "can lead to",
+      "assertiveness"
+    ],
+    [
+      "discomfort",
+      "causes discomfort",
+      "engagement"
+    ],
+    [
+      "discomfort",
+      "creates discomfort for",
+      "rapport"
+    ],
+    [
+      "discomfort",
+      "indicates",
+      "communication"
+    ],
+    [
+      "discomfort",
+      "indicates",
+      "effectiveness"
+    ],
+    [
+      "discomfort",
+      "indicates",
+      "emotions"
+    ],
+    [
+      "discomfort",
+      "indicates",
+      "gestures"
+    ],
+    [
+      "discomfort",
+      "indicates",
+      "proxemics"
+    ],
+    [
+      "discomfort",
+      "indicates",
+      "relationships"
+    ],
+    [
+      "discomfort",
+      "indicates",
+      "signals"
+    ],
+    [
+      "discomfort",
+      "indicates",
+      "subtle cues"
+    ],
+    [
+      "discomfort",
+      "indicates discomfort",
+      "slouching"
+    ],
+    [
+      "discomfort",
+      "is a",
+      "feelings"
+    ],
+    [
+      "discomfort",
+      "is affected by",
+      "dynamics"
+    ],
+    [
+      "discomfort",
+      "is affected by",
+      "social interactions"
+    ],
+    [
+      "discomfort",
+      "is associated with",
+      "authority"
+    ],
+    [
+      "discomfort",
+      "is associated with",
+      "nonverbal cues"
+    ],
+    [
+      "discomfort",
+      "is indicated by cultural cues in",
+      "cultural cues"
+    ],
+    [
+      "discomfort",
+      "is signaled by",
+      "posture"
+    ],
+    [
+      "discomfort",
+      "signals",
+      "clarity"
+    ],
+    [
+      "discomfort",
+      "signals",
+      "facial expressions"
+    ],
+    [
+      "disinterest",
+      "associated with",
+      "effectiveness"
+    ],
+    [
+      "disinterest",
+      "indicates",
+      "defensiveness"
+    ],
+    [
+      "disinterest",
+      "indicates",
+      "leaning in"
+    ],
+    [
+      "disinterest",
+      "indicates",
+      "nonverbal cues"
+    ],
+    [
+      "disinterest",
+      "indicates",
+      "signals"
+    ],
+    [
+      "disinterest",
+      "is affected by",
+      "mirroring gestures"
+    ],
+    [
+      "disinterest",
+      "is affected by",
+      "relationships"
+    ],
+    [
+      "disinterest",
+      "is diminished by",
+      "engagement"
+    ],
+    [
+      "disinterest",
+      "is indicated by",
+      "facial expressions"
+    ],
+    [
+      "disinterest",
+      "reflects",
+      "authority"
+    ],
+    [
+      "disinterest",
+      "reflects",
+      "emotions"
+    ],
+    [
+      "disinterest",
+      "signals",
+      "gestures"
+    ],
+    [
+      "disinterest",
+      "signals disinterest",
+      "subtle cues"
+    ],
+    [
+      "dynamics",
+      "affects",
+      "connections"
+    ],
+    [
+      "dynamics",
+      "affects",
+      "defensiveness"
+    ],
+    [
+      "dynamics",
+      "affects",
+      "facial expressions"
+    ],
+    [
+      "dynamics",
+      "affects the dynamics of",
+      "engagement"
+    ],
+    [
+      "dynamics",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "dynamics",
+      "indicates",
+      "assertiveness"
+    ],
+    [
+      "dynamics",
+      "influences",
+      "disinterest"
+    ],
+    [
+      "dynamics",
+      "influences",
+      "posture"
+    ],
+    [
+      "dynamics",
+      "informs",
+      "proxemics"
+    ],
+    [
+      "dynamics",
+      "reveals",
+      "insecurity"
+    ],
+    [
+      "dynamics",
+      "shapes",
+      "attraction"
+    ],
+    [
+      "dynamics",
+      "shapes",
+      "authority"
+    ],
+    [
+      "effectiveness",
+      "contributes to",
+      "assertiveness"
+    ],
+    [
+      "effectiveness",
+      "enhanced by",
+      "leaning in"
+    ],
+    [
+      "effectiveness",
+      "enhances",
+      "communication"
+    ],
+    [
+      "effectiveness",
+      "enhances",
+      "nodding"
+    ],
+    [
+      "effectiveness",
+      "improves",
+      "clarity"
+    ],
+    [
+      "effectiveness",
+      "improves",
+      "defensiveness"
+    ],
+    [
+      "effectiveness",
+      "indicates",
+      "confidence"
+    ],
+    [
+      "effectiveness",
+      "is influenced by",
+      "proxemics"
+    ],
+    [
+      "emotions",
+      "affects",
+      "confidence"
+    ],
+    [
+      "emotions",
+      "can express",
+      "nonverbal cues"
+    ],
+    [
+      "emotions",
+      "can influence",
+      "authority"
+    ],
+    [
+      "emotions",
+      "conveys emotions",
+      "insecurity"
+    ],
+    [
+      "emotions",
+      "enhances",
+      "effectiveness"
+    ],
+    [
+      "emotions",
+      "enhances",
+      "eye contact"
+    ],
+    [
+      "emotions",
+      "is affected by",
+      "conflict resolution"
+    ],
+    [
+      "emotions",
+      "is conveyed by",
+      "smiling"
+    ],
+    [
+      "engagement",
+      "affects",
+      "proxemics"
+    ],
+    [
+      "engagement",
+      "boosts",
+      "confidence"
+    ],
+    [
+      "engagement",
+      "builds",
+      "rapport"
+    ],
+    [
+      "engagement",
+      "demonstrates",
+      "eye contact"
+    ],
+    [
+      "engagement",
+      "enhances",
+      "communication"
+    ],
+    [
+      "engagement",
+      "enhances",
+      "effectiveness"
+    ],
+    [
+      "engagement",
+      "enhances",
+      "subtle cues"
+    ],
+    [
+      "engagement",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "engagement",
+      "enhances clarity",
+      "clarity"
+    ],
+    [
+      "engagement",
+      "indicates",
+      "attraction"
+    ],
+    [
+      "engagement",
+      "indicates",
+      "nodding"
+    ],
+    [
+      "engagement",
+      "influences",
+      "body language"
+    ],
+    [
+      "engagement",
+      "influences",
+      "relationships"
+    ],
+    [
+      "engagement",
+      "is demonstrated by",
+      "assertiveness"
+    ],
+    [
+      "engagement",
+      "is influenced by",
+      "emotions"
+    ],
+    [
+      "engagement",
+      "promotes",
+      "mirroring gestures"
+    ],
+    [
+      "engagement",
+      "signals",
+      "intimacy"
+    ],
+    [
+      "eye contact",
+      "complements",
+      "smiling"
+    ],
+    [
+      "eye contact",
+      "conveys eye contact",
+      "signals"
+    ],
+    [
+      "eye contact",
+      "demonstrated by",
+      "authority"
+    ],
+    [
+      "eye contact",
+      "enhances",
+      "rapport"
+    ],
+    [
+      "eye contact",
+      "enhances effectiveness",
+      "effectiveness"
+    ],
+    [
+      "eye contact",
+      "facilitates",
+      "conflict resolution"
+    ],
+    [
+      "eye contact",
+      "indicates",
+      "nodding"
+    ],
+    [
+      "eye contact",
+      "indicates",
+      "slouching"
+    ],
+    [
+      "eye contact",
+      "is affected by",
+      "social interactions"
+    ],
+    [
+      "eye contact",
+      "is enhanced by",
+      "leaning in"
+    ],
+    [
+      "eye contact",
+      "is indicated by",
+      "defensiveness"
+    ],
+    [
+      "eye contact",
+      "is indicated by",
+      "disinterest"
+    ],
+    [
+      "eye contact",
+      "is related to",
+      "proxemics"
+    ],
+    [
+      "eye contact",
+      "signals",
+      "attentiveness"
+    ],
+    [
+      "eye contact",
+      "signals",
+      "communication"
+    ],
+    [
+      "eye contact",
+      "signals",
+      "emotions"
+    ],
+    [
+      "facial expressions",
+      "builds",
+      "rapport"
+    ],
+    [
+      "facial expressions",
+      "conveys",
+      "emotions"
+    ],
+    [
+      "facial expressions",
+      "enhances",
+      "communication"
+    ],
+    [
+      "facial expressions",
+      "enhances",
+      "effectiveness"
+    ],
+    [
+      "facial expressions",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "facial expressions",
+      "enhances",
+      "gestures"
+    ],
+    [
+      "facial expressions",
+      "facilitates",
+      "conflict resolution"
+    ],
+    [
+      "facial expressions",
+      "facilitates",
+      "understanding"
+    ],
+    [
+      "facial expressions",
+      "improves",
+      "clarity"
+    ],
+    [
+      "facial expressions",
+      "indicates",
+      "nodding"
+    ],
+    [
+      "facial expressions",
+      "influences",
+      "posture"
+    ],
+    [
+      "facial expressions",
+      "is influenced by",
+      "proxemics"
+    ],
+    [
+      "facial expressions",
+      "provides signals for",
+      "signals"
+    ],
+    [
+      "facial expressions",
+      "signals",
+      "cultural cues"
+    ],
+    [
+      "facial expressions",
+      "signals",
+      "eye contact"
+    ],
+    [
+      "gestures",
+      "affects",
+      "dynamics"
+    ],
+    [
+      "gestures",
+      "aids",
+      "conflict resolution"
+    ],
+    [
+      "gestures",
+      "conveys",
+      "emotions"
+    ],
+    [
+      "gestures",
+      "conveys",
+      "signals"
+    ],
+    [
+      "gestures",
+      "enhances",
+      "connections"
+    ],
+    [
+      "gestures",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "gestures",
+      "enhances",
+      "leaning in"
+    ],
+    [
+      "gestures",
+      "enhances meaningful interactions through",
+      "meaningful interactions"
+    ],
+    [
+      "gestures",
+      "improves",
+      "clarity"
+    ],
+    [
+      "gestures",
+      "improves",
+      "effectiveness"
+    ],
+    [
+      "gestures",
+      "influences",
+      "relationships"
+    ],
+    [
+      "gestures",
+      "influences",
+      "social interactions"
+    ],
+    [
+      "gestures",
+      "informs",
+      "cultural cues"
+    ],
+    [
+      "gestures",
+      "informs",
+      "proxemics"
+    ],
+    [
+      "gestures",
+      "is conveyed through",
+      "communication"
+    ],
+    [
+      "gestures",
+      "is expressed through",
+      "nodding"
+    ],
+    [
+      "gestures",
+      "projects",
+      "authority"
+    ],
+    [
+      "gestures",
+      "represents",
+      "body language"
+    ],
+    [
+      "gestures",
+      "represents",
+      "nonverbal cues"
+    ],
+    [
+      "gestures",
+      "signals",
+      "attraction"
+    ],
+    [
+      "gestures",
+      "signals intimacy",
+      "intimacy"
+    ],
+    [
+      "insecurity",
+      "affects",
+      "clarity"
+    ],
+    [
+      "insecurity",
+      "affects",
+      "dynamics"
+    ],
+    [
+      "insecurity",
+      "associated with",
+      "communication"
+    ],
+    [
+      "insecurity",
+      "builds",
+      "rapport"
+    ],
+    [
+      "insecurity",
+      "causes",
+      "discomfort"
+    ],
+    [
+      "insecurity",
+      "contrasts with",
+      "authority"
+    ],
+    [
+      "insecurity",
+      "contrasts with",
+      "mirroring gestures"
+    ],
+    [
+      "insecurity",
+      "impedes effectiveness of",
+      "effectiveness"
+    ],
+    [
+      "insecurity",
+      "indicates",
+      "gestures"
+    ],
+    [
+      "insecurity",
+      "indicates",
+      "leaning in"
+    ],
+    [
+      "insecurity",
+      "indicates",
+      "posture"
+    ],
+    [
+      "insecurity",
+      "indicates insecurity",
+      "attraction"
+    ],
+    [
+      "insecurity",
+      "indicates insecurity",
+      "body language"
+    ],
+    [
+      "insecurity",
+      "influences",
+      "social interactions"
+    ],
+    [
+      "insecurity",
+      "is affected by",
+      "facial expressions"
+    ],
+    [
+      "insecurity",
+      "is affected by insecurity in",
+      "connections"
+    ],
+    [
+      "insecurity",
+      "is indicated by",
+      "disinterest"
+    ],
+    [
+      "insecurity",
+      "manifests as",
+      "slouching"
+    ],
+    [
+      "insecurity",
+      "reveals",
+      "conflict resolution"
+    ],
+    [
+      "insecurity",
+      "reveals",
+      "subtle cues"
+    ],
+    [
+      "insecurity",
+      "suggests",
+      "eye contact"
+    ],
+    [
+      "insecurity",
+      "suggests",
+      "nonverbal cues"
+    ],
+    [
+      "intimacy",
+      "can hinder",
+      "discomfort"
+    ],
+    [
+      "intimacy",
+      "contrasts with",
+      "insecurity"
+    ],
+    [
+      "intimacy",
+      "is expressed through",
+      "communication"
+    ],
+    [
+      "intimacy",
+      "signals",
+      "confidence"
+    ],
+    [
+      "intimacy",
+      "signals",
+      "effectiveness"
+    ],
+    [
+      "intimacy",
+      "signals",
+      "emotions"
+    ],
+    [
+      "intimacy",
+      "signals",
+      "eye contact"
+    ],
+    [
+      "intimacy",
+      "signals",
+      "signals"
+    ],
+    [
+      "intimacy",
+      "signals intimacy",
+      "assertiveness"
+    ],
+    [
+      "leaning in",
+      "affects",
+      "posture"
+    ],
+    [
+      "leaning in",
+      "affects",
+      "social interactions"
+    ],
+    [
+      "leaning in",
+      "can result in",
+      "defensiveness"
+    ],
+    [
+      "leaning in",
+      "contrasts with",
+      "slouching"
+    ],
+    [
+      "leaning in",
+      "demonstrates",
+      "assertiveness"
+    ],
+    [
+      "leaning in",
+      "enhances",
+      "body language"
+    ],
+    [
+      "leaning in",
+      "enhances meaningful interactions by",
+      "meaningful interactions"
+    ],
+    [
+      "leaning in",
+      "establishes",
+      "rapport"
+    ],
+    [
+      "leaning in",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "leaning in",
+      "facilitates",
+      "conflict resolution"
+    ],
+    [
+      "leaning in",
+      "improves",
+      "clarity"
+    ],
+    [
+      "leaning in",
+      "indicates",
+      "nodding"
+    ],
+    [
+      "leaning in",
+      "influences",
+      "dynamics"
+    ],
+    [
+      "leaning in",
+      "informs",
+      "cultural cues"
+    ],
+    [
+      "leaning in",
+      "is enhanced by",
+      "smiling"
+    ],
+    [
+      "leaning in",
+      "signals",
+      "attraction"
+    ],
+    [
+      "leaning in",
+      "signals",
+      "eye contact"
+    ],
+    [
+      "leaning in",
+      "signals",
+      "signals"
+    ],
+    [
+      "leaning in",
+      "signals intimacy",
+      "intimacy"
+    ],
+    [
+      "leaning in",
+      "supports",
+      "facial expressions"
+    ],
+    [
+      "meaningful interactions",
+      "enhances",
+      "effectiveness"
+    ],
+    [
+      "meaningful interactions",
+      "enhances meaningful interactions through",
+      "emotions"
+    ],
+    [
+      "meaningful interactions",
+      "fosters intimacy in",
+      "intimacy"
+    ],
+    [
+      "meaningful interactions",
+      "is enhanced by",
+      "eye contact"
+    ],
+    [
+      "meaningful interactions",
+      "is established through",
+      "authority"
+    ],
+    [
+      "meaningful interactions",
+      "is expressed through",
+      "body language"
+    ],
+    [
+      "meaningful interactions",
+      "is signaled by",
+      "attraction"
+    ],
+    [
+      "mirroring gestures",
+      "affects",
+      "dynamics"
+    ],
+    [
+      "mirroring gestures",
+      "benefits from",
+      "engagement"
+    ],
+    [
+      "mirroring gestures",
+      "communicates",
+      "signals"
+    ],
+    [
+      "mirroring gestures",
+      "complements",
+      "nodding"
+    ],
+    [
+      "mirroring gestures",
+      "demonstrates",
+      "assertiveness"
+    ],
+    [
+      "mirroring gestures",
+      "enhances",
+      "body language"
+    ],
+    [
+      "mirroring gestures",
+      "enhances",
+      "connections"
+    ],
+    [
+      "mirroring gestures",
+      "enhances",
+      "effectiveness"
+    ],
+    [
+      "mirroring gestures",
+      "enhances",
+      "facial expressions"
+    ],
+    [
+      "mirroring gestures",
+      "enhances",
+      "posture"
+    ],
+    [
+      "mirroring gestures",
+      "establishes",
+      "authority"
+    ],
+    [
+      "mirroring gestures",
+      "establishes",
+      "proxemics"
+    ],
+    [
+      "mirroring gestures",
+      "establishes",
+      "rapport"
+    ],
+    [
+      "mirroring gestures",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "mirroring gestures",
+      "facilitates",
+      "conflict resolution"
+    ],
+    [
+      "mirroring gestures",
+      "facilitates",
+      "leaning in"
+    ],
+    [
+      "mirroring gestures",
+      "improves",
+      "clarity"
+    ],
+    [
+      "mirroring gestures",
+      "improves",
+      "understanding"
+    ],
+    [
+      "mirroring gestures",
+      "influences",
+      "cultural cues"
+    ],
+    [
+      "mirroring gestures",
+      "influences",
+      "social interactions"
+    ],
+    [
+      "mirroring gestures",
+      "is enhanced by",
+      "eye contact"
+    ],
+    [
+      "mirroring gestures",
+      "signals",
+      "attraction"
+    ],
+    [
+      "mirroring gestures",
+      "signals",
+      "intimacy"
+    ],
+    [
+      "mirroring gestures",
+      "strengthens relationships through",
+      "relationships"
+    ],
+    [
+      "nodding",
+      "affects",
+      "dynamics"
+    ],
+    [
+      "nodding",
+      "contrasts with",
+      "slouching"
+    ],
+    [
+      "nodding",
+      "indicates",
+      "disinterest"
+    ],
+    [
+      "nodding",
+      "indicates",
+      "posture"
+    ],
+    [
+      "nodding",
+      "indicates",
+      "subtle cues"
+    ],
+    [
+      "nodding",
+      "is improved by",
+      "effectiveness"
+    ],
+    [
+      "nodding",
+      "is indicated by",
+      "discomfort"
+    ],
+    [
+      "nodding",
+      "is indicated by",
+      "signals"
+    ],
+    [
+      "nodding",
+      "is reciprocated by",
+      "smiling"
+    ],
+    [
+      "nodding",
+      "reflects",
+      "confidence"
+    ],
+    [
+      "nonverbal cues",
+      "conveys",
+      "facial expressions"
+    ],
+    [
+      "nonverbal cues",
+      "conveys",
+      "signals"
+    ],
+    [
+      "nonverbal cues",
+      "demonstrates",
+      "assertiveness"
+    ],
+    [
+      "nonverbal cues",
+      "enhances",
+      "communication"
+    ],
+    [
+      "nonverbal cues",
+      "enhances",
+      "effectiveness"
+    ],
+    [
+      "nonverbal cues",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "nonverbal cues",
+      "enhances understanding of",
+      "understanding"
+    ],
+    [
+      "nonverbal cues",
+      "facilitates",
+      "rapport"
+    ],
+    [
+      "nonverbal cues",
+      "facilitates conflict resolution through",
+      "conflict resolution"
+    ],
+    [
+      "nonverbal cues",
+      "fosters",
+      "connections"
+    ],
+    [
+      "nonverbal cues",
+      "indicates",
+      "nodding"
+    ],
+    [
+      "nonverbal cues",
+      "influences",
+      "leaning in"
+    ],
+    [
+      "nonverbal cues",
+      "influences",
+      "proxemics"
+    ],
+    [
+      "nonverbal cues",
+      "influences",
+      "relationships"
+    ],
+    [
+      "nonverbal cues",
+      "influences dynamics",
+      "dynamics"
+    ],
+    [
+      "nonverbal cues",
+      "influences social interactions",
+      "social interactions"
+    ],
+    [
+      "nonverbal cues",
+      "is conveyed through",
+      "eye contact"
+    ],
+    [
+      "nonverbal cues",
+      "is expressed through",
+      "body language"
+    ],
+    [
+      "nonverbal cues",
+      "is expressed through",
+      "mirroring gestures"
+    ],
+    [
+      "nonverbal cues",
+      "projects",
+      "authority"
+    ],
+    [
+      "nonverbal cues",
+      "provides",
+      "clarity"
+    ],
+    [
+      "nonverbal cues",
+      "signals",
+      "attraction"
+    ],
+    [
+      "posture",
+      "affects",
+      "social interactions"
+    ],
+    [
+      "posture",
+      "conveys",
+      "authority"
+    ],
+    [
+      "posture",
+      "enhances",
+      "gestures"
+    ],
+    [
+      "posture",
+      "enhances understanding of",
+      "understanding"
+    ],
+    [
+      "posture",
+      "indicates",
+      "assertiveness"
+    ],
+    [
+      "posture",
+      "indicates",
+      "intimacy"
+    ],
+    [
+      "posture",
+      "influenced by",
+      "mirroring gestures"
+    ],
+    [
+      "posture",
+      "informs",
+      "proxemics"
+    ],
+    [
+      "posture",
+      "is indicated by",
+      "defensiveness"
+    ],
+    [
+      "posture",
+      "is influenced by",
+      "engagement"
+    ],
+    [
+      "posture",
+      "is influenced by",
+      "relationships"
+    ],
+    [
+      "posture",
+      "reflects",
+      "emotions"
+    ],
+    [
+      "posture",
+      "reveals",
+      "feelings"
+    ],
+    [
+      "posture",
+      "reveals",
+      "thoughts"
+    ],
+    [
+      "proxemics",
+      "affects",
+      "disinterest"
+    ],
+    [
+      "proxemics",
+      "influences",
+      "clarity"
+    ],
+    [
+      "proxemics",
+      "influences smiling",
+      "smiling"
+    ],
+    [
+      "proxemics",
+      "is influenced by",
+      "insecurity"
+    ],
+    [
+      "proxemics",
+      "is influenced by",
+      "signals"
+    ],
+    [
+      "rapport",
+      "affects",
+      "emotions"
+    ],
+    [
+      "rapport",
+      "enhances",
+      "clarity"
+    ],
+    [
+      "rapport",
+      "enhances",
+      "confidence"
+    ],
+    [
+      "rapport",
+      "enhances",
+      "intimacy"
+    ],
+    [
+      "rapport",
+      "enhances",
+      "meaningful interactions"
+    ],
+    [
+      "rapport",
+      "enhances",
+      "smiling"
+    ],
+    [
+      "rapport",
+      "enhances rapport",
+      "signals"
+    ],
+    [
+      "rapport",
+      "is built by",
+      "authority"
+    ],
+    [
+      "rapport",
+      "is established by",
+      "posture"
+    ],
+    [
+      "rapport",
+      "signals",
+      "defensiveness"
+    ],
+    [
+      "rapport",
+      "supports",
+      "conflict resolution"
+    ],
+    [
+      "relationships",
+      "builds",
+      "rapport"
+    ],
+    [
+      "relationships",
+      "conveys",
+      "emotions"
+    ],
+    [
+      "relationships",
+      "enhances",
+      "clarity"
+    ],
+    [
+      "relationships",
+      "enhances",
+      "smiling"
+    ],
+    [
+      "relationships",
+      "influences",
+      "assertiveness"
+    ],
+    [
+      "relationships",
+      "influences",
+      "eye contact"
+    ],
+    [
+      "relationships",
+      "influences",
+      "facial expressions"
+    ],
+    [
+      "relationships",
+      "is expressed through",
+      "body language"
+    ],
+    [
+      "relationships",
+      "signals",
+      "intimacy"
+    ],
+    [
+      "signals",
+      "conveys",
+      "effectiveness"
+    ],
+    [
+      "signals",
+      "conveys",
+      "emotions"
+    ],
+    [
+      "signals",
+      "conveys",
+      "engagement"
+    ],
+    [
+      "signals",
+      "conveys",
+      "meaningful interactions"
+    ],
+    [
+      "signals",
+      "conveys",
+      "relationships"
+    ],
+    [
+      "signals",
+      "indicates signals",
+      "insecurity"
+    ],
+    [
+      "signals",
+      "influences",
+      "dynamics"
+    ],
+    [
+      "signals",
+      "influences signals",
+      "social interactions"
+    ],
+    [
+      "signals",
+      "signals",
+      "assertiveness"
+    ],
+    [
+      "slouching",
+      "can indicate",
+      "connections"
+    ],
+    [
+      "slouching",
+      "contrasts with",
+      "assertiveness"
+    ],
+    [
+      "slouching",
+      "indicates",
+      "authority"
+    ],
+    [
+      "slouching",
+      "indicates",
+      "clarity"
+    ],
+    [
+      "slouching",
+      "indicates",
+      "facial expressions"
+    ],
+    [
+      "slouching",
+      "indicates",
+      "mirroring gestures"
+    ],
+    [
+      "slouching",
+      "indicates",
+      "understanding"
+    ],
+    [
+      "slouching",
+      "indicates discomfort",
+      "effectiveness"
+    ],
+    [
+      "slouching",
+      "indicates slouching",
+      "signals"
+    ],
+    [
+      "slouching",
+      "influences",
+      "cultural cues"
+    ],
+    [
+      "slouching",
+      "is affected by",
+      "nonverbal cues"
+    ],
+    [
+      "slouching",
+      "is indicated by",
+      "attraction"
+    ],
+    [
+      "slouching",
+      "is indicated by",
+      "defensiveness"
+    ],
+    [
+      "slouching",
+      "reveals",
+      "engagement"
+    ],
+    [
+      "slouching",
+      "signals",
+      "proxemics"
+    ],
+    [
+      "slouching",
+      "suggests",
+      "subtle cues"
+    ],
+    [
+      "smiling",
+      "contrasts",
+      "defensiveness"
+    ],
+    [
+      "smiling",
+      "contrasts",
+      "disinterest"
+    ],
+    [
+      "smiling",
+      "conveys",
+      "authority"
+    ],
+    [
+      "smiling",
+      "conveys",
+      "nonverbal cues"
+    ],
+    [
+      "smiling",
+      "expresses",
+      "discomfort"
+    ],
+    [
+      "smiling",
+      "expresses",
+      "gestures"
+    ],
+    [
+      "smiling",
+      "indicates",
+      "insecurity"
+    ],
+    [
+      "smiling",
+      "influences smiling",
+      "dynamics"
+    ],
+    [
+      "smiling",
+      "is associated with",
+      "happiness"
+    ],
+    [
+      "smiling",
+      "is complemented by",
+      "mirroring gestures"
+    ],
+    [
+      "smiling",
+      "is enhanced by",
+      "clarity"
+    ],
+    [
+      "smiling",
+      "is expressed by",
+      "engagement"
+    ],
+    [
+      "smiling",
+      "is indicated by",
+      "assertiveness"
+    ],
+    [
+      "smiling",
+      "is indicated by",
+      "facial expressions"
+    ],
+    [
+      "smiling",
+      "is signaled by",
+      "understanding"
+    ],
+    [
+      "smiling",
+      "signals",
+      "attraction"
+    ],
+    [
+      "social interactions",
+      "affects",
+      "disinterest"
+    ],
+    [
+      "social interactions",
+      "builds",
+      "rapport"
+    ],
+    [
+      "social interactions",
+      "conveys",
+      "smiling"
+    ],
+    [
+      "social interactions",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "social interactions",
+      "impacts",
+      "defensiveness"
+    ],
+    [
+      "social interactions",
+      "improves",
+      "clarity"
+    ],
+    [
+      "social interactions",
+      "influences social interactions",
+      "attraction"
+    ],
+    [
+      "social interactions",
+      "influences social interactions",
+      "authority"
+    ],
+    [
+      "social interactions",
+      "reflects",
+      "emotions"
+    ],
+    [
+      "social interactions",
+      "signals",
+      "intimacy"
+    ],
+    [
+      "subtle cues",
+      "affects",
+      "dynamics"
+    ],
+    [
+      "subtle cues",
+      "builds rapport through",
+      "rapport"
+    ],
+    [
+      "subtle cues",
+      "conveys",
+      "emotions"
+    ],
+    [
+      "subtle cues",
+      "enhances",
+      "clarity"
+    ],
+    [
+      "subtle cues",
+      "enhances",
+      "communication"
+    ],
+    [
+      "subtle cues",
+      "enhances",
+      "effectiveness"
+    ],
+    [
+      "subtle cues",
+      "enhances",
+      "mirroring gestures"
+    ],
+    [
+      "subtle cues",
+      "expresses",
+      "smiling"
+    ],
+    [
+      "subtle cues",
+      "facilitates",
+      "leaning in"
+    ],
+    [
+      "subtle cues",
+      "improves",
+      "understanding"
+    ],
+    [
+      "subtle cues",
+      "indicates assertiveness",
+      "assertiveness"
+    ],
+    [
+      "subtle cues",
+      "influences",
+      "proxemics"
+    ],
+    [
+      "subtle cues",
+      "informs",
+      "nonverbal cues"
+    ],
+    [
+      "subtle cues",
+      "is expressed through",
+      "gestures"
+    ],
+    [
+      "subtle cues",
+      "is influenced by",
+      "connections"
+    ],
+    [
+      "subtle cues",
+      "signals",
+      "eye contact"
+    ],
+    [
+      "subtle cues",
+      "supports",
+      "facial expressions"
+    ],
+    [
+      "understanding",
+      "enhances",
+      "effectiveness"
+    ],
+    [
+      "understanding",
+      "enhances",
+      "smiling"
+    ],
+    [
+      "understanding",
+      "facilitates understanding of",
+      "insecurity"
+    ],
+    [
+      "understanding",
+      "impedes",
+      "disinterest"
+    ],
+    [
+      "understanding",
+      "improves",
+      "clarity"
+    ],
+    [
+      "understanding",
+      "improves",
+      "defensiveness"
+    ],
+    [
+      "understanding",
+      "indicates agreement",
+      "nodding"
+    ],
+    [
+      "understanding",
+      "influences proxemics",
+      "proxemics"
+    ],
+    [
+      "understanding",
+      "is improved by",
+      "engagement"
+    ],
+    [
+      "understanding",
+      "is understood through",
+      "attraction"
+    ],
+    [
+      "understanding",
+      "is understood through",
+      "authority"
+    ],
+    [
+      "understanding",
+      "reflects",
+      "emotions"
+    ],
+    [
+      "understanding",
+      "signals",
+      "eye contact"
+    ],
+    [
+      "understanding",
+      "signals",
+      "signals"
+    ]
+  ],
+  "edges": [
+    "affects",
+    "affects dynamics of",
+    "affects the dynamics of",
+    "aids",
+    "associated with",
+    "benefits from",
+    "boosts",
+    "builds",
+    "builds rapport through",
+    "can be affected by",
+    "can express",
+    "can hinder",
+    "can indicate",
+    "can influence",
+    "can lead to",
+    "can result in",
+    "can signal",
+    "causes",
+    "causes discomfort",
+    "communicates",
+    "complements",
+    "comprises",
+    "contrasts",
+    "contrasts with",
+    "contributes to",
+    "conveys",
+    "conveys emotions",
+    "conveys eye contact",
+    "creates discomfort for",
+    "demonstrated by",
+    "demonstrates",
+    "demonstrates assertiveness",
+    "enables",
+    "encompasses",
+    "enhanced by",
+    "enhances",
+    "enhances clarity",
+    "enhances effectiveness",
+    "enhances meaningful interactions by",
+    "enhances meaningful interactions through",
+    "enhances rapport",
+    "enhances understanding of",
+    "establishes",
+    "expresses",
+    "facilitates",
+    "facilitates conflict resolution through",
+    "facilitates conflict resolution via",
+    "facilitates understanding of",
+    "fosters",
+    "fosters intimacy in",
+    "hinders",
+    "impacts",
+    "impedes",
+    "impedes effectiveness of",
+    "improves",
+    "improves communication in",
+    "indicates",
+    "indicates agreement",
+    "indicates assertiveness",
+    "indicates confidence",
+    "indicates defensiveness",
+    "indicates discomfort",
+    "indicates insecurity",
+    "indicates signals",
+    "indicates slouching",
+    "influenced by",
+    "influences",
+    "influences communication",
+    "influences dynamics",
+    "influences proxemics",
+    "influences signals",
+    "influences smiling",
+    "influences social interactions",
+    "informs",
+    "involves",
+    "is a",
+    "is affected by",
+    "is affected by insecurity in",
+    "is associated with",
+    "is built by",
+    "is clarified by cultural cues in",
+    "is complemented by",
+    "is conveyed by",
+    "is conveyed through",
+    "is conveyed through cultural cues in",
+    "is demonstrated by",
+    "is diminished by",
+    "is enhanced by",
+    "is established by",
+    "is established through",
+    "is expressed by",
+    "is expressed through",
+    "is improved by",
+    "is indicated by",
+    "is indicated by cultural cues in",
+    "is indicated by defensiveness in",
+    "is influenced by",
+    "is influenced by cultural cues in",
+    "is reciprocated by",
+    "is reflected in",
+    "is related to",
+    "is resolved by",
+    "is shaped by",
+    "is signaled by",
+    "is supported by",
+    "is understood through",
+    "manifests as",
+    "opposite of",
+    "projected by",
+    "projects",
+    "projects confidence",
+    "promotes",
+    "provides",
+    "provides signals for",
+    "reflects",
+    "represents",
+    "requires",
+    "reveals",
+    "shapes",
+    "signals",
+    "signals attraction",
+    "signals attraction through",
+    "signals defensiveness",
+    "signals disinterest",
+    "signals intimacy",
+    "strengthens relationships through",
+    "suggests",
+    "supports"
+  ]
+}

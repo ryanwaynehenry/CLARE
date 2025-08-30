@@ -1,0 +1,2732 @@
+{
+  "entities": [
+    "19th century",
+    "20th century",
+    "Tour de France",
+    "accidents",
+    "adoption",
+    "agility",
+    "aluminum bikes",
+    "bicycle evolution",
+    "bicycle history",
+    "bike styles",
+    "boneshaker",
+    "carbon fiber",
+    "chain drive",
+    "comfort",
+    "commuter cycling",
+    "competitive sport",
+    "cycling culture",
+    "cycling milestones",
+    "cycling popularity",
+    "design evolution",
+    "design transformation",
+    "early prototypes",
+    "eco-friendly option",
+    "efficiency",
+    "electric bikes",
+    "endurance",
+    "high-wheel bicycle",
+    "human ingenuity",
+    "innovation",
+    "leisure activity",
+    "lightweight frames",
+    "materials advancement",
+    "mechanical design",
+    "penny-farthing",
+    "performance",
+    "performance improvement",
+    "pneumatic tires",
+    "propulsion",
+    "racing machines",
+    "recreational cycling",
+    "ride dynamics",
+    "ride experience",
+    "ride safety",
+    "rider preferences",
+    "safety bicycle",
+    "societal impact",
+    "stability",
+    "steel frames",
+    "sustainable transport",
+    "technological advancements",
+    "technological development",
+    "titanium alternatives",
+    "transport evolution",
+    "transportation",
+    "urban mobility",
+    "velocipede"
+  ],
+  "relations": [
+    [
+      "19th century",
+      "characterized by",
+      "transportation"
+    ],
+    [
+      "19th century",
+      "marks",
+      "cycling milestones"
+    ],
+    [
+      "19th century",
+      "originated in",
+      "velocipede"
+    ],
+    [
+      "20th century",
+      "introduced",
+      "safety bicycle"
+    ],
+    [
+      "Tour de France",
+      "featured in",
+      "accidents"
+    ],
+    [
+      "Tour de France",
+      "featured in",
+      "high-wheel bicycle"
+    ],
+    [
+      "Tour de France",
+      "is featured in",
+      "commuter cycling"
+    ],
+    [
+      "Tour de France",
+      "is showcased in",
+      "racing machines"
+    ],
+    [
+      "Tour de France",
+      "is showcased in",
+      "societal impact"
+    ],
+    [
+      "Tour de France",
+      "marks",
+      "cycling milestones"
+    ],
+    [
+      "Tour de France",
+      "shapes",
+      "cycling culture"
+    ],
+    [
+      "Tour de France",
+      "showcases",
+      "electric bikes"
+    ],
+    [
+      "Tour de France",
+      "showcases",
+      "ride dynamics"
+    ],
+    [
+      "Tour de France",
+      "transforms",
+      "design transformation"
+    ],
+    [
+      "accidents",
+      "caused by",
+      "early prototypes"
+    ],
+    [
+      "accidents",
+      "caused by",
+      "ride dynamics"
+    ],
+    [
+      "accidents",
+      "caused by",
+      "sustainable transport"
+    ],
+    [
+      "accidents",
+      "causes",
+      "high-wheel bicycle"
+    ],
+    [
+      "accidents",
+      "causes",
+      "propulsion"
+    ],
+    [
+      "accidents",
+      "demonstrates",
+      "human ingenuity"
+    ],
+    [
+      "accidents",
+      "influenced by",
+      "bicycle evolution"
+    ],
+    [
+      "accidents",
+      "influences",
+      "design evolution"
+    ],
+    [
+      "accidents",
+      "is a concern for",
+      "recreational cycling"
+    ],
+    [
+      "adoption",
+      "driven by",
+      "human ingenuity"
+    ],
+    [
+      "adoption",
+      "enhances",
+      "bike styles"
+    ],
+    [
+      "adoption",
+      "fueled by",
+      "transport evolution"
+    ],
+    [
+      "adoption",
+      "increased",
+      "electric bikes"
+    ],
+    [
+      "adoption",
+      "influenced",
+      "ride experience"
+    ],
+    [
+      "adoption",
+      "is shaped by",
+      "bicycle history"
+    ],
+    [
+      "agility",
+      "drives",
+      "design evolution"
+    ],
+    [
+      "agility",
+      "enhances",
+      "aluminum bikes"
+    ],
+    [
+      "agility",
+      "enhances",
+      "racing machines"
+    ],
+    [
+      "agility",
+      "facilitates",
+      "adoption"
+    ],
+    [
+      "agility",
+      "improved by",
+      "electric bikes"
+    ],
+    [
+      "agility",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "agility",
+      "resulted in",
+      "design transformation"
+    ],
+    [
+      "aluminum bikes",
+      "designed for",
+      "commuter cycling"
+    ],
+    [
+      "aluminum bikes",
+      "enhances",
+      "recreational cycling"
+    ],
+    [
+      "aluminum bikes",
+      "influences",
+      "bike styles"
+    ],
+    [
+      "aluminum bikes",
+      "influences",
+      "design evolution"
+    ],
+    [
+      "aluminum bikes",
+      "influences",
+      "mechanical design"
+    ],
+    [
+      "aluminum bikes",
+      "is a result of",
+      "human ingenuity"
+    ],
+    [
+      "aluminum bikes",
+      "is a result of",
+      "technological development"
+    ],
+    [
+      "aluminum bikes",
+      "provides",
+      "comfort"
+    ],
+    [
+      "aluminum bikes",
+      "reflects",
+      "bicycle evolution"
+    ],
+    [
+      "aluminum bikes",
+      "supports",
+      "urban mobility"
+    ],
+    [
+      "bicycle evolution",
+      "demonstrates",
+      "human ingenuity"
+    ],
+    [
+      "bicycle evolution",
+      "enhances",
+      "urban mobility"
+    ],
+    [
+      "bicycle evolution",
+      "evolved from",
+      "competitive sport"
+    ],
+    [
+      "bicycle evolution",
+      "evolves from",
+      "agility"
+    ],
+    [
+      "bicycle evolution",
+      "improves",
+      "ride safety"
+    ],
+    [
+      "bicycle evolution",
+      "increases",
+      "cycling popularity"
+    ],
+    [
+      "bicycle evolution",
+      "influenced",
+      "19th century"
+    ],
+    [
+      "bicycle evolution",
+      "influenced",
+      "commuter cycling"
+    ],
+    [
+      "bicycle evolution",
+      "is a result of",
+      "racing machines"
+    ],
+    [
+      "bicycle evolution",
+      "part of",
+      "chain drive"
+    ],
+    [
+      "bicycle evolution",
+      "promotes",
+      "leisure activity"
+    ],
+    [
+      "bicycle evolution",
+      "represents",
+      "design transformation"
+    ],
+    [
+      "bicycle evolution",
+      "shaped",
+      "societal impact"
+    ],
+    [
+      "bicycle evolution",
+      "showcases",
+      "Tour de France"
+    ],
+    [
+      "bicycle history",
+      "illustrates",
+      "design transformation"
+    ],
+    [
+      "bicycle history",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "bicycle history",
+      "influences",
+      "societal impact"
+    ],
+    [
+      "bicycle history",
+      "influences",
+      "transport evolution"
+    ],
+    [
+      "bike styles",
+      "affects",
+      "performance"
+    ],
+    [
+      "bike styles",
+      "influenced by",
+      "racing machines"
+    ],
+    [
+      "bike styles",
+      "informs",
+      "bicycle history"
+    ],
+    [
+      "bike styles",
+      "is a category of",
+      "lightweight frames"
+    ],
+    [
+      "bike styles",
+      "is a type of",
+      "steel frames"
+    ],
+    [
+      "bike styles",
+      "is categorized as",
+      "transportation"
+    ],
+    [
+      "bike styles",
+      "reflects",
+      "rider preferences"
+    ],
+    [
+      "boneshaker",
+      "caused by",
+      "accidents"
+    ],
+    [
+      "boneshaker",
+      "demonstrates",
+      "human ingenuity"
+    ],
+    [
+      "boneshaker",
+      "influenced by",
+      "commuter cycling"
+    ],
+    [
+      "boneshaker",
+      "influenced by",
+      "innovation"
+    ],
+    [
+      "boneshaker",
+      "influenced by",
+      "societal impact"
+    ],
+    [
+      "boneshaker",
+      "inspired",
+      "transportation"
+    ],
+    [
+      "boneshaker",
+      "lacked",
+      "efficiency"
+    ],
+    [
+      "boneshaker",
+      "limited by",
+      "ride safety"
+    ],
+    [
+      "boneshaker",
+      "preceded",
+      "early prototypes"
+    ],
+    [
+      "boneshaker",
+      "precedes",
+      "Tour de France"
+    ],
+    [
+      "boneshaker",
+      "precedes",
+      "cycling milestones"
+    ],
+    [
+      "boneshaker",
+      "predecessor of",
+      "penny-farthing"
+    ],
+    [
+      "boneshaker",
+      "predecessor of",
+      "pneumatic tires"
+    ],
+    [
+      "boneshaker",
+      "supports",
+      "urban mobility"
+    ],
+    [
+      "carbon fiber",
+      "contributes to",
+      "design evolution"
+    ],
+    [
+      "carbon fiber",
+      "encourages",
+      "leisure activity"
+    ],
+    [
+      "carbon fiber",
+      "enhanced by",
+      "competitive sport"
+    ],
+    [
+      "carbon fiber",
+      "enhanced by",
+      "transportation"
+    ],
+    [
+      "carbon fiber",
+      "enhances",
+      "comfort"
+    ],
+    [
+      "carbon fiber",
+      "enhances",
+      "endurance"
+    ],
+    [
+      "carbon fiber",
+      "enhances",
+      "mechanical design"
+    ],
+    [
+      "carbon fiber",
+      "enhances",
+      "ride safety"
+    ],
+    [
+      "carbon fiber",
+      "improved by",
+      "velocipede"
+    ],
+    [
+      "carbon fiber",
+      "improves",
+      "performance"
+    ],
+    [
+      "carbon fiber",
+      "improves",
+      "safety bicycle"
+    ],
+    [
+      "carbon fiber",
+      "increases",
+      "cycling popularity"
+    ],
+    [
+      "carbon fiber",
+      "increases",
+      "efficiency"
+    ],
+    [
+      "carbon fiber",
+      "influences",
+      "bike styles"
+    ],
+    [
+      "carbon fiber",
+      "shapes",
+      "cycling culture"
+    ],
+    [
+      "carbon fiber",
+      "supports",
+      "urban mobility"
+    ],
+    [
+      "chain drive",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "chain drive",
+      "contributes to",
+      "cycling popularity"
+    ],
+    [
+      "chain drive",
+      "developed into",
+      "early prototypes"
+    ],
+    [
+      "chain drive",
+      "enables",
+      "design transformation"
+    ],
+    [
+      "chain drive",
+      "enables",
+      "propulsion"
+    ],
+    [
+      "chain drive",
+      "enables",
+      "urban mobility"
+    ],
+    [
+      "chain drive",
+      "facilitates",
+      "adoption"
+    ],
+    [
+      "chain drive",
+      "facilitates",
+      "commuter cycling"
+    ],
+    [
+      "chain drive",
+      "features",
+      "velocipede"
+    ],
+    [
+      "chain drive",
+      "increases",
+      "efficiency"
+    ],
+    [
+      "chain drive",
+      "influenced",
+      "bicycle history"
+    ],
+    [
+      "chain drive",
+      "is a part of",
+      "cycling milestones"
+    ],
+    [
+      "chain drive",
+      "provides",
+      "stability"
+    ],
+    [
+      "chain drive",
+      "utilizes",
+      "safety bicycle"
+    ],
+    [
+      "chain drive",
+      "was used in",
+      "boneshaker"
+    ],
+    [
+      "comfort",
+      "enhanced by",
+      "endurance"
+    ],
+    [
+      "comfort",
+      "impacts",
+      "accidents"
+    ],
+    [
+      "comfort",
+      "influences",
+      "efficiency"
+    ],
+    [
+      "commuter cycling",
+      "affects",
+      "mechanical design"
+    ],
+    [
+      "commuter cycling",
+      "contrasts with",
+      "racing machines"
+    ],
+    [
+      "commuter cycling",
+      "drives",
+      "design evolution"
+    ],
+    [
+      "commuter cycling",
+      "enhances",
+      "comfort"
+    ],
+    [
+      "commuter cycling",
+      "enhances",
+      "efficiency"
+    ],
+    [
+      "commuter cycling",
+      "evolved from",
+      "velocipede"
+    ],
+    [
+      "commuter cycling",
+      "has an impact on",
+      "societal impact"
+    ],
+    [
+      "commuter cycling",
+      "improves",
+      "ride safety"
+    ],
+    [
+      "commuter cycling",
+      "is influenced by",
+      "transport evolution"
+    ],
+    [
+      "commuter cycling",
+      "originates from",
+      "19th century"
+    ],
+    [
+      "commuter cycling",
+      "provides",
+      "stability"
+    ],
+    [
+      "commuter cycling",
+      "requires",
+      "endurance"
+    ],
+    [
+      "commuter cycling",
+      "shapes",
+      "bike styles"
+    ],
+    [
+      "competitive sport",
+      "contributes to",
+      "performance improvement"
+    ],
+    [
+      "competitive sport",
+      "drives",
+      "cycling popularity"
+    ],
+    [
+      "competitive sport",
+      "drives",
+      "materials advancement"
+    ],
+    [
+      "competitive sport",
+      "enhanced by",
+      "agility"
+    ],
+    [
+      "competitive sport",
+      "evolves from",
+      "design evolution"
+    ],
+    [
+      "competitive sport",
+      "facilitates",
+      "transportation"
+    ],
+    [
+      "competitive sport",
+      "facilitates",
+      "urban mobility"
+    ],
+    [
+      "competitive sport",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "competitive sport",
+      "improves",
+      "performance"
+    ],
+    [
+      "competitive sport",
+      "inspired by",
+      "human ingenuity"
+    ],
+    [
+      "competitive sport",
+      "is a form of",
+      "Tour de France"
+    ],
+    [
+      "cycling culture",
+      "affects",
+      "titanium alternatives"
+    ],
+    [
+      "cycling culture",
+      "expands",
+      "electric bikes"
+    ],
+    [
+      "cycling culture",
+      "influences",
+      "design evolution"
+    ],
+    [
+      "cycling culture",
+      "influences",
+      "performance improvement"
+    ],
+    [
+      "cycling culture",
+      "is part of",
+      "steel frames"
+    ],
+    [
+      "cycling culture",
+      "promotes",
+      "adoption"
+    ],
+    [
+      "cycling culture",
+      "shaped",
+      "transport evolution"
+    ],
+    [
+      "cycling culture",
+      "shapes",
+      "bike styles"
+    ],
+    [
+      "cycling culture",
+      "shapes",
+      "efficiency"
+    ],
+    [
+      "cycling milestones",
+      "enhances",
+      "urban mobility"
+    ],
+    [
+      "cycling milestones",
+      "influenced by",
+      "ride experience"
+    ],
+    [
+      "cycling milestones",
+      "introduces",
+      "electric bikes"
+    ],
+    [
+      "cycling milestones",
+      "marks",
+      "ride safety"
+    ],
+    [
+      "cycling milestones",
+      "provides",
+      "eco-friendly option"
+    ],
+    [
+      "cycling milestones",
+      "resulted from",
+      "design transformation"
+    ],
+    [
+      "cycling popularity",
+      "contributed to",
+      "steel frames"
+    ],
+    [
+      "cycling popularity",
+      "demonstrates",
+      "human ingenuity"
+    ],
+    [
+      "cycling popularity",
+      "enhances",
+      "urban mobility"
+    ],
+    [
+      "cycling popularity",
+      "resulted from",
+      "design transformation"
+    ],
+    [
+      "design evolution",
+      "improves",
+      "comfort"
+    ],
+    [
+      "design evolution",
+      "is influenced by",
+      "efficiency"
+    ],
+    [
+      "design evolution",
+      "is influenced by",
+      "racing machines"
+    ],
+    [
+      "design transformation",
+      "affects",
+      "performance"
+    ],
+    [
+      "design transformation",
+      "influenced by",
+      "electric bikes"
+    ],
+    [
+      "design transformation",
+      "provides",
+      "eco-friendly option"
+    ],
+    [
+      "design transformation",
+      "transformed by",
+      "carbon fiber"
+    ],
+    [
+      "early prototypes",
+      "demonstrates",
+      "human ingenuity"
+    ],
+    [
+      "early prototypes",
+      "evolves from",
+      "commuter cycling"
+    ],
+    [
+      "early prototypes",
+      "inspired",
+      "societal impact"
+    ],
+    [
+      "early prototypes",
+      "is linked to",
+      "transportation"
+    ],
+    [
+      "early prototypes",
+      "led to",
+      "accidents"
+    ],
+    [
+      "early prototypes",
+      "marks",
+      "cycling milestones"
+    ],
+    [
+      "early prototypes",
+      "produced",
+      "19th century"
+    ],
+    [
+      "early prototypes",
+      "provides",
+      "stability"
+    ],
+    [
+      "early prototypes",
+      "supports",
+      "urban mobility"
+    ],
+    [
+      "eco-friendly option",
+      "enhances",
+      "ride experience"
+    ],
+    [
+      "eco-friendly option",
+      "is a benefit of",
+      "efficiency"
+    ],
+    [
+      "eco-friendly option",
+      "is a factor in",
+      "carbon fiber"
+    ],
+    [
+      "eco-friendly option",
+      "offers",
+      "commuter cycling"
+    ],
+    [
+      "eco-friendly option",
+      "offers",
+      "cycling popularity"
+    ],
+    [
+      "eco-friendly option",
+      "provides",
+      "accidents"
+    ],
+    [
+      "eco-friendly option",
+      "provides",
+      "agility"
+    ],
+    [
+      "eco-friendly option",
+      "provides",
+      "endurance"
+    ],
+    [
+      "eco-friendly option",
+      "provides",
+      "human ingenuity"
+    ],
+    [
+      "eco-friendly option",
+      "provides",
+      "performance improvement"
+    ],
+    [
+      "eco-friendly option",
+      "serves as",
+      "ride safety"
+    ],
+    [
+      "efficiency",
+      "affects",
+      "bike styles"
+    ],
+    [
+      "efficiency",
+      "affects",
+      "penny-farthing"
+    ],
+    [
+      "efficiency",
+      "drives",
+      "cycling popularity"
+    ],
+    [
+      "efficiency",
+      "enhanced by",
+      "carbon fiber"
+    ],
+    [
+      "efficiency",
+      "enhances",
+      "ride safety"
+    ],
+    [
+      "efficiency",
+      "reflects",
+      "rider preferences"
+    ],
+    [
+      "efficiency",
+      "results in",
+      "design transformation"
+    ],
+    [
+      "electric bikes",
+      "enhanced by",
+      "pneumatic tires"
+    ],
+    [
+      "electric bikes",
+      "influenced",
+      "early prototypes"
+    ],
+    [
+      "electric bikes",
+      "inspired by",
+      "human ingenuity"
+    ],
+    [
+      "electric bikes",
+      "utilizes",
+      "transportation"
+    ],
+    [
+      "endurance",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "endurance",
+      "enables",
+      "lightweight frames"
+    ],
+    [
+      "endurance",
+      "facilitates",
+      "transportation"
+    ],
+    [
+      "endurance",
+      "influenced by",
+      "ride experience"
+    ],
+    [
+      "endurance",
+      "influences",
+      "mechanical design"
+    ],
+    [
+      "endurance",
+      "reflects",
+      "human ingenuity"
+    ],
+    [
+      "endurance",
+      "shapes",
+      "bicycle evolution"
+    ],
+    [
+      "high-wheel bicycle",
+      "driven by",
+      "human ingenuity"
+    ],
+    [
+      "high-wheel bicycle",
+      "facilitated by",
+      "transportation"
+    ],
+    [
+      "high-wheel bicycle",
+      "improved by",
+      "pneumatic tires"
+    ],
+    [
+      "high-wheel bicycle",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "high-wheel bicycle",
+      "represents",
+      "materials advancement"
+    ],
+    [
+      "high-wheel bicycle",
+      "represents",
+      "technological development"
+    ],
+    [
+      "human ingenuity",
+      "demonstrated by",
+      "penny-farthing"
+    ],
+    [
+      "human ingenuity",
+      "demonstrates",
+      "carbon fiber"
+    ],
+    [
+      "human ingenuity",
+      "demonstrates",
+      "societal impact"
+    ],
+    [
+      "human ingenuity",
+      "demonstrates",
+      "sustainable transport"
+    ],
+    [
+      "human ingenuity",
+      "enhances",
+      "performance"
+    ],
+    [
+      "human ingenuity",
+      "fueled by",
+      "transportation"
+    ],
+    [
+      "human ingenuity",
+      "improves",
+      "comfort"
+    ],
+    [
+      "human ingenuity",
+      "inspired by",
+      "cycling milestones"
+    ],
+    [
+      "human ingenuity",
+      "inspired by",
+      "safety bicycle"
+    ],
+    [
+      "innovation",
+      "contributes to",
+      "lightweight frames"
+    ],
+    [
+      "innovation",
+      "demonstrated by",
+      "comfort"
+    ],
+    [
+      "innovation",
+      "demonstrates",
+      "human ingenuity"
+    ],
+    [
+      "innovation",
+      "drives",
+      "competitive sport"
+    ],
+    [
+      "innovation",
+      "drives",
+      "design transformation"
+    ],
+    [
+      "innovation",
+      "drives",
+      "recreational cycling"
+    ],
+    [
+      "innovation",
+      "drives",
+      "technological development"
+    ],
+    [
+      "innovation",
+      "drives",
+      "transport evolution"
+    ],
+    [
+      "innovation",
+      "enables",
+      "chain drive"
+    ],
+    [
+      "innovation",
+      "enhances",
+      "performance improvement"
+    ],
+    [
+      "innovation",
+      "influenced",
+      "transportation"
+    ],
+    [
+      "innovation",
+      "influenced by",
+      "bike styles"
+    ],
+    [
+      "innovation",
+      "influences",
+      "mechanical design"
+    ],
+    [
+      "innovation",
+      "inspired",
+      "electric bikes"
+    ],
+    [
+      "innovation",
+      "inspired",
+      "velocipede"
+    ],
+    [
+      "innovation",
+      "inspired by",
+      "penny-farthing"
+    ],
+    [
+      "innovation",
+      "introduced",
+      "carbon fiber"
+    ],
+    [
+      "innovation",
+      "is a result of",
+      "eco-friendly option"
+    ],
+    [
+      "innovation",
+      "leads to",
+      "adoption"
+    ],
+    [
+      "innovation",
+      "led to",
+      "racing machines"
+    ],
+    [
+      "innovation",
+      "marks",
+      "cycling milestones"
+    ],
+    [
+      "innovation",
+      "occurred in",
+      "19th century"
+    ],
+    [
+      "innovation",
+      "represented by",
+      "safety bicycle"
+    ],
+    [
+      "innovation",
+      "resulted in",
+      "high-wheel bicycle"
+    ],
+    [
+      "innovation",
+      "shapes",
+      "societal impact"
+    ],
+    [
+      "innovation",
+      "showcases",
+      "Tour de France"
+    ],
+    [
+      "innovation",
+      "supports",
+      "stability"
+    ],
+    [
+      "innovation",
+      "supports",
+      "urban mobility"
+    ],
+    [
+      "leisure activity",
+      "enhanced by",
+      "comfort"
+    ],
+    [
+      "leisure activity",
+      "facilitates",
+      "lightweight frames"
+    ],
+    [
+      "leisure activity",
+      "impacted by",
+      "accidents"
+    ],
+    [
+      "leisure activity",
+      "increases",
+      "cycling popularity"
+    ],
+    [
+      "leisure activity",
+      "is associated with",
+      "velocipede"
+    ],
+    [
+      "leisure activity",
+      "reflects",
+      "design evolution"
+    ],
+    [
+      "lightweight frames",
+      "contributes to",
+      "cycling popularity"
+    ],
+    [
+      "lightweight frames",
+      "facilitates",
+      "urban mobility"
+    ],
+    [
+      "lightweight frames",
+      "improves",
+      "mechanical design"
+    ],
+    [
+      "lightweight frames",
+      "improves",
+      "racing machines"
+    ],
+    [
+      "lightweight frames",
+      "influences",
+      "design evolution"
+    ],
+    [
+      "lightweight frames",
+      "is influenced by",
+      "design transformation"
+    ],
+    [
+      "lightweight frames",
+      "provides",
+      "aluminum bikes"
+    ],
+    [
+      "lightweight frames",
+      "shapes",
+      "cycling culture"
+    ],
+    [
+      "materials advancement",
+      "drives",
+      "cycling popularity"
+    ],
+    [
+      "materials advancement",
+      "drives",
+      "technological development"
+    ],
+    [
+      "materials advancement",
+      "includes",
+      "carbon fiber"
+    ],
+    [
+      "materials advancement",
+      "is influenced by",
+      "endurance"
+    ],
+    [
+      "materials advancement",
+      "marks",
+      "cycling milestones"
+    ],
+    [
+      "materials advancement",
+      "transforms",
+      "design transformation"
+    ],
+    [
+      "mechanical design",
+      "affects",
+      "performance"
+    ],
+    [
+      "mechanical design",
+      "enhances",
+      "comfort"
+    ],
+    [
+      "mechanical design",
+      "provides",
+      "eco-friendly option"
+    ],
+    [
+      "penny-farthing",
+      "associated with",
+      "accidents"
+    ],
+    [
+      "penny-farthing",
+      "enhances",
+      "urban mobility"
+    ],
+    [
+      "penny-farthing",
+      "evolved from",
+      "boneshaker"
+    ],
+    [
+      "penny-farthing",
+      "evolved from",
+      "safety bicycle"
+    ],
+    [
+      "penny-farthing",
+      "is influenced by",
+      "bicycle history"
+    ],
+    [
+      "performance",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "performance",
+      "benefits from",
+      "human ingenuity"
+    ],
+    [
+      "performance",
+      "enhanced by",
+      "velocipede"
+    ],
+    [
+      "performance",
+      "impacts",
+      "accidents"
+    ],
+    [
+      "performance",
+      "improves",
+      "commuter cycling"
+    ],
+    [
+      "performance",
+      "improves",
+      "ride safety"
+    ],
+    [
+      "performance",
+      "measured by",
+      "endurance"
+    ],
+    [
+      "performance improvement",
+      "contributes to",
+      "bike styles"
+    ],
+    [
+      "performance improvement",
+      "contributes to",
+      "velocipede"
+    ],
+    [
+      "performance improvement",
+      "drives",
+      "cycling popularity"
+    ],
+    [
+      "performance improvement",
+      "enhanced by",
+      "endurance"
+    ],
+    [
+      "performance improvement",
+      "enhances",
+      "electric bikes"
+    ],
+    [
+      "performance improvement",
+      "enhances",
+      "ride safety"
+    ],
+    [
+      "performance improvement",
+      "improved by",
+      "accidents"
+    ],
+    [
+      "performance improvement",
+      "marks",
+      "cycling milestones"
+    ],
+    [
+      "pneumatic tires",
+      "advances",
+      "technological advancements"
+    ],
+    [
+      "pneumatic tires",
+      "boosts",
+      "cycling popularity"
+    ],
+    [
+      "pneumatic tires",
+      "contributed to",
+      "transport evolution"
+    ],
+    [
+      "pneumatic tires",
+      "demonstrates",
+      "human ingenuity"
+    ],
+    [
+      "pneumatic tires",
+      "enables",
+      "propulsion"
+    ],
+    [
+      "pneumatic tires",
+      "enhanced by",
+      "performance"
+    ],
+    [
+      "pneumatic tires",
+      "enhances",
+      "recreational cycling"
+    ],
+    [
+      "pneumatic tires",
+      "enhances",
+      "safety bicycle"
+    ],
+    [
+      "pneumatic tires",
+      "enhances",
+      "transportation"
+    ],
+    [
+      "pneumatic tires",
+      "improved by",
+      "velocipede"
+    ],
+    [
+      "pneumatic tires",
+      "improves",
+      "agility"
+    ],
+    [
+      "pneumatic tires",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "pneumatic tires",
+      "improves",
+      "racing machines"
+    ],
+    [
+      "pneumatic tires",
+      "influences",
+      "bike styles"
+    ],
+    [
+      "pneumatic tires",
+      "leads to",
+      "performance improvement"
+    ],
+    [
+      "pneumatic tires",
+      "marked by",
+      "cycling milestones"
+    ],
+    [
+      "pneumatic tires",
+      "supports",
+      "commuter cycling"
+    ],
+    [
+      "propulsion",
+      "boosts",
+      "cycling popularity"
+    ],
+    [
+      "propulsion",
+      "drives",
+      "bicycle evolution"
+    ],
+    [
+      "propulsion",
+      "enabled",
+      "electric bikes"
+    ],
+    [
+      "propulsion",
+      "enhances",
+      "agility"
+    ],
+    [
+      "propulsion",
+      "enhances",
+      "competitive sport"
+    ],
+    [
+      "propulsion",
+      "fosters",
+      "technological development"
+    ],
+    [
+      "propulsion",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "propulsion",
+      "influences",
+      "transport evolution"
+    ],
+    [
+      "propulsion",
+      "leads to",
+      "design transformation"
+    ],
+    [
+      "propulsion",
+      "utilizes",
+      "steel frames"
+    ],
+    [
+      "racing machines",
+      "affected by",
+      "accidents"
+    ],
+    [
+      "racing machines",
+      "constructed from",
+      "carbon fiber"
+    ],
+    [
+      "racing machines",
+      "demonstrates",
+      "performance improvement"
+    ],
+    [
+      "racing machines",
+      "driven by",
+      "technological development"
+    ],
+    [
+      "racing machines",
+      "facilitates",
+      "adoption"
+    ],
+    [
+      "racing machines",
+      "influenced by",
+      "velocipede"
+    ],
+    [
+      "recreational cycling",
+      "affects",
+      "performance"
+    ],
+    [
+      "recreational cycling",
+      "benefits from",
+      "stability"
+    ],
+    [
+      "recreational cycling",
+      "drives",
+      "design transformation"
+    ],
+    [
+      "recreational cycling",
+      "enhances",
+      "ride safety"
+    ],
+    [
+      "recreational cycling",
+      "enhances",
+      "urban mobility"
+    ],
+    [
+      "recreational cycling",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "recreational cycling",
+      "influenced by",
+      "cycling culture"
+    ],
+    [
+      "recreational cycling",
+      "influences",
+      "design evolution"
+    ],
+    [
+      "ride dynamics",
+      "affects",
+      "mechanical design"
+    ],
+    [
+      "ride dynamics",
+      "affects",
+      "performance improvement"
+    ],
+    [
+      "ride dynamics",
+      "affects",
+      "ride experience"
+    ],
+    [
+      "ride dynamics",
+      "demonstrates",
+      "human ingenuity"
+    ],
+    [
+      "ride dynamics",
+      "enables",
+      "chain drive"
+    ],
+    [
+      "ride dynamics",
+      "enables",
+      "propulsion"
+    ],
+    [
+      "ride dynamics",
+      "enhances",
+      "efficiency"
+    ],
+    [
+      "ride dynamics",
+      "enhances",
+      "lightweight frames"
+    ],
+    [
+      "ride dynamics",
+      "enhances",
+      "racing machines"
+    ],
+    [
+      "ride dynamics",
+      "improves",
+      "comfort"
+    ],
+    [
+      "ride dynamics",
+      "influences",
+      "bicycle evolution"
+    ],
+    [
+      "ride dynamics",
+      "influences",
+      "cycling popularity"
+    ],
+    [
+      "ride dynamics",
+      "influences",
+      "technological advancements"
+    ],
+    [
+      "ride dynamics",
+      "influences",
+      "transport evolution"
+    ],
+    [
+      "ride dynamics",
+      "influences",
+      "transportation"
+    ],
+    [
+      "ride dynamics",
+      "is a form of",
+      "leisure activity"
+    ],
+    [
+      "ride dynamics",
+      "is part of",
+      "bicycle history"
+    ],
+    [
+      "ride dynamics",
+      "is shaped by",
+      "materials advancement"
+    ],
+    [
+      "ride experience",
+      "drives",
+      "technological advancements"
+    ],
+    [
+      "ride experience",
+      "enhances",
+      "agility"
+    ],
+    [
+      "ride experience",
+      "enhances",
+      "competitive sport"
+    ],
+    [
+      "ride experience",
+      "enhances",
+      "performance improvement"
+    ],
+    [
+      "ride experience",
+      "enhances",
+      "racing machines"
+    ],
+    [
+      "ride experience",
+      "enhances",
+      "recreational cycling"
+    ],
+    [
+      "ride experience",
+      "influences",
+      "cycling popularity"
+    ],
+    [
+      "ride experience",
+      "influences",
+      "performance"
+    ],
+    [
+      "ride experience",
+      "is affected by",
+      "design transformation"
+    ],
+    [
+      "ride experience",
+      "reflects",
+      "bicycle evolution"
+    ],
+    [
+      "ride experience",
+      "supports",
+      "urban mobility"
+    ],
+    [
+      "ride safety",
+      "affects",
+      "bike styles"
+    ],
+    [
+      "ride safety",
+      "affects",
+      "propulsion"
+    ],
+    [
+      "ride safety",
+      "enhanced by",
+      "cycling popularity"
+    ],
+    [
+      "ride safety",
+      "enhanced by",
+      "leisure activity"
+    ],
+    [
+      "ride safety",
+      "enhances",
+      "urban mobility"
+    ],
+    [
+      "ride safety",
+      "influences",
+      "Tour de France"
+    ],
+    [
+      "ride safety",
+      "is improved by",
+      "design transformation"
+    ],
+    [
+      "ride safety",
+      "prioritizes",
+      "rider preferences"
+    ],
+    [
+      "rider preferences",
+      "adopted by",
+      "carbon fiber"
+    ],
+    [
+      "rider preferences",
+      "affects",
+      "comfort"
+    ],
+    [
+      "rider preferences",
+      "affects",
+      "performance improvement"
+    ],
+    [
+      "rider preferences",
+      "drives",
+      "cycling popularity"
+    ],
+    [
+      "rider preferences",
+      "influences",
+      "racing machines"
+    ],
+    [
+      "rider preferences",
+      "influences",
+      "sustainable transport"
+    ],
+    [
+      "rider preferences",
+      "informs",
+      "technological development"
+    ],
+    [
+      "rider preferences",
+      "is influenced by",
+      "high-wheel bicycle"
+    ],
+    [
+      "rider preferences",
+      "led to",
+      "safety bicycle"
+    ],
+    [
+      "rider preferences",
+      "offers",
+      "eco-friendly option"
+    ],
+    [
+      "rider preferences",
+      "reflects",
+      "lightweight frames"
+    ],
+    [
+      "rider preferences",
+      "shapes",
+      "cycling culture"
+    ],
+    [
+      "rider preferences",
+      "shapes",
+      "transport evolution"
+    ],
+    [
+      "safety bicycle",
+      "developed in",
+      "19th century"
+    ],
+    [
+      "safety bicycle",
+      "enhanced by",
+      "agility"
+    ],
+    [
+      "safety bicycle",
+      "enhanced by",
+      "efficiency"
+    ],
+    [
+      "safety bicycle",
+      "enhanced by",
+      "endurance"
+    ],
+    [
+      "safety bicycle",
+      "enhanced by",
+      "performance"
+    ],
+    [
+      "safety bicycle",
+      "evolved into",
+      "high-wheel bicycle"
+    ],
+    [
+      "safety bicycle",
+      "improved by",
+      "transportation"
+    ],
+    [
+      "safety bicycle",
+      "improves",
+      "ride safety"
+    ],
+    [
+      "safety bicycle",
+      "influenced",
+      "competitive sport"
+    ],
+    [
+      "safety bicycle",
+      "inspired by",
+      "commuter cycling"
+    ],
+    [
+      "safety bicycle",
+      "is enhanced by",
+      "stability"
+    ],
+    [
+      "safety bicycle",
+      "led to",
+      "early prototypes"
+    ],
+    [
+      "safety bicycle",
+      "predecessor of",
+      "penny-farthing"
+    ],
+    [
+      "safety bicycle",
+      "provides",
+      "comfort"
+    ],
+    [
+      "safety bicycle",
+      "provides",
+      "eco-friendly option"
+    ],
+    [
+      "safety bicycle",
+      "reduced by",
+      "accidents"
+    ],
+    [
+      "safety bicycle",
+      "replaced",
+      "boneshaker"
+    ],
+    [
+      "safety bicycle",
+      "represents",
+      "cycling milestones"
+    ],
+    [
+      "societal impact",
+      "affected by",
+      "comfort"
+    ],
+    [
+      "societal impact",
+      "affects",
+      "velocipede"
+    ],
+    [
+      "societal impact",
+      "demonstrates",
+      "adoption"
+    ],
+    [
+      "societal impact",
+      "impacts",
+      "high-wheel bicycle"
+    ],
+    [
+      "societal impact",
+      "influenced",
+      "cycling milestones"
+    ],
+    [
+      "societal impact",
+      "influenced by",
+      "safety bicycle"
+    ],
+    [
+      "societal impact",
+      "influenced by",
+      "titanium alternatives"
+    ],
+    [
+      "societal impact",
+      "reflects",
+      "penny-farthing"
+    ],
+    [
+      "societal impact",
+      "shapes",
+      "19th century"
+    ],
+    [
+      "stability",
+      "boosts",
+      "cycling popularity"
+    ],
+    [
+      "stability",
+      "contributed to",
+      "bicycle evolution"
+    ],
+    [
+      "stability",
+      "contributes to",
+      "eco-friendly option"
+    ],
+    [
+      "stability",
+      "drives",
+      "design transformation"
+    ],
+    [
+      "stability",
+      "enhances",
+      "transport evolution"
+    ],
+    [
+      "stability",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "stability",
+      "influenced by",
+      "design evolution"
+    ],
+    [
+      "stability",
+      "marks",
+      "cycling milestones"
+    ],
+    [
+      "stability",
+      "requires",
+      "competitive sport"
+    ],
+    [
+      "steel frames",
+      "constructed with",
+      "high-wheel bicycle"
+    ],
+    [
+      "steel frames",
+      "contributes to",
+      "bicycle evolution"
+    ],
+    [
+      "steel frames",
+      "contributes to",
+      "transport evolution"
+    ],
+    [
+      "steel frames",
+      "enhances",
+      "agility"
+    ],
+    [
+      "steel frames",
+      "enhances",
+      "comfort"
+    ],
+    [
+      "steel frames",
+      "enhances",
+      "competitive sport"
+    ],
+    [
+      "steel frames",
+      "influences",
+      "ride experience"
+    ],
+    [
+      "steel frames",
+      "replaced by",
+      "lightweight frames"
+    ],
+    [
+      "sustainable transport",
+      "affects",
+      "ride safety"
+    ],
+    [
+      "sustainable transport",
+      "contributes to",
+      "cycling popularity"
+    ],
+    [
+      "sustainable transport",
+      "contributes to",
+      "lightweight frames"
+    ],
+    [
+      "sustainable transport",
+      "enabled advancements in",
+      "materials advancement"
+    ],
+    [
+      "sustainable transport",
+      "enables",
+      "propulsion"
+    ],
+    [
+      "sustainable transport",
+      "enhances",
+      "ride experience"
+    ],
+    [
+      "sustainable transport",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "sustainable transport",
+      "includes",
+      "electric bikes"
+    ],
+    [
+      "sustainable transport",
+      "influences",
+      "bike styles"
+    ],
+    [
+      "sustainable transport",
+      "influences",
+      "design evolution"
+    ],
+    [
+      "sustainable transport",
+      "influences",
+      "societal impact"
+    ],
+    [
+      "sustainable transport",
+      "promotes",
+      "aluminum bikes"
+    ],
+    [
+      "sustainable transport",
+      "promotes",
+      "commuter cycling"
+    ],
+    [
+      "sustainable transport",
+      "serves as",
+      "eco-friendly option"
+    ],
+    [
+      "sustainable transport",
+      "supports",
+      "leisure activity"
+    ],
+    [
+      "sustainable transport",
+      "supports",
+      "urban mobility"
+    ],
+    [
+      "sustainable transport",
+      "transforms",
+      "design transformation"
+    ],
+    [
+      "technological advancements",
+      "advances",
+      "carbon fiber"
+    ],
+    [
+      "technological advancements",
+      "advances",
+      "commuter cycling"
+    ],
+    [
+      "technological advancements",
+      "enabled by",
+      "chain drive"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "agility"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "competitive sport"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "urban mobility"
+    ],
+    [
+      "technological advancements",
+      "increases",
+      "cycling popularity"
+    ],
+    [
+      "technological advancements",
+      "influenced by",
+      "design transformation"
+    ],
+    [
+      "technological advancements",
+      "influences",
+      "Tour de France"
+    ],
+    [
+      "technological advancements",
+      "influences",
+      "velocipede"
+    ],
+    [
+      "technological advancements",
+      "leads to",
+      "electric bikes"
+    ],
+    [
+      "technological advancements",
+      "leads to",
+      "materials advancement"
+    ],
+    [
+      "technological advancements",
+      "led to",
+      "lightweight frames"
+    ],
+    [
+      "technological advancements",
+      "shapes",
+      "rider preferences"
+    ],
+    [
+      "technological advancements",
+      "shapes",
+      "transport evolution"
+    ],
+    [
+      "technological advancements",
+      "transformed",
+      "transportation"
+    ],
+    [
+      "technological development",
+      "driven by",
+      "human ingenuity"
+    ],
+    [
+      "technological development",
+      "drives",
+      "cycling culture"
+    ],
+    [
+      "technological development",
+      "drives",
+      "design transformation"
+    ],
+    [
+      "technological development",
+      "facilitates",
+      "urban mobility"
+    ],
+    [
+      "technological development",
+      "improves",
+      "ride safety"
+    ],
+    [
+      "technological development",
+      "increases",
+      "cycling popularity"
+    ],
+    [
+      "technological development",
+      "shapes",
+      "bicycle evolution"
+    ],
+    [
+      "technological development",
+      "shapes",
+      "bike styles"
+    ],
+    [
+      "technological development",
+      "supports",
+      "leisure activity"
+    ],
+    [
+      "titanium alternatives",
+      "competes with",
+      "lightweight frames"
+    ],
+    [
+      "titanium alternatives",
+      "competes with",
+      "steel frames"
+    ],
+    [
+      "titanium alternatives",
+      "contributes to",
+      "cycling popularity"
+    ],
+    [
+      "titanium alternatives",
+      "enhances",
+      "comfort"
+    ],
+    [
+      "titanium alternatives",
+      "influenced",
+      "competitive sport"
+    ],
+    [
+      "titanium alternatives",
+      "offers",
+      "performance"
+    ],
+    [
+      "titanium alternatives",
+      "provides",
+      "performance improvement"
+    ],
+    [
+      "transport evolution",
+      "advances",
+      "materials advancement"
+    ],
+    [
+      "transport evolution",
+      "affects",
+      "endurance"
+    ],
+    [
+      "transport evolution",
+      "affects",
+      "ride safety"
+    ],
+    [
+      "transport evolution",
+      "drives",
+      "carbon fiber"
+    ],
+    [
+      "transport evolution",
+      "drives",
+      "design transformation"
+    ],
+    [
+      "transport evolution",
+      "drives",
+      "technological development"
+    ],
+    [
+      "transport evolution",
+      "enhances",
+      "comfort"
+    ],
+    [
+      "transport evolution",
+      "impacts",
+      "accidents"
+    ],
+    [
+      "transport evolution",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "transport evolution",
+      "influences",
+      "racing machines"
+    ],
+    [
+      "transport evolution",
+      "provides",
+      "eco-friendly option"
+    ],
+    [
+      "transport evolution",
+      "showcases",
+      "Tour de France"
+    ],
+    [
+      "transport evolution",
+      "transformed into",
+      "leisure activity"
+    ],
+    [
+      "transportation",
+      "enhances",
+      "ride safety"
+    ],
+    [
+      "transportation",
+      "enhances",
+      "urban mobility"
+    ],
+    [
+      "transportation",
+      "increases",
+      "cycling popularity"
+    ],
+    [
+      "transportation",
+      "is part of",
+      "bicycle evolution"
+    ],
+    [
+      "urban mobility",
+      "enhances",
+      "stability"
+    ],
+    [
+      "urban mobility",
+      "influenced by",
+      "technological advancements"
+    ],
+    [
+      "urban mobility",
+      "influences",
+      "propulsion"
+    ],
+    [
+      "velocipede",
+      "caused by",
+      "accidents"
+    ],
+    [
+      "velocipede",
+      "developed into",
+      "transportation"
+    ],
+    [
+      "velocipede",
+      "evolved from",
+      "boneshaker"
+    ],
+    [
+      "velocipede",
+      "evolved into",
+      "safety bicycle"
+    ],
+    [
+      "velocipede",
+      "is a part of",
+      "mechanical design"
+    ],
+    [
+      "velocipede",
+      "led to",
+      "bicycle history"
+    ],
+    [
+      "velocipede",
+      "led to",
+      "technological development"
+    ],
+    [
+      "velocipede",
+      "marks",
+      "cycling milestones"
+    ],
+    [
+      "velocipede",
+      "precedes",
+      "high-wheel bicycle"
+    ],
+    [
+      "velocipede",
+      "reflects",
+      "human ingenuity"
+    ],
+    [
+      "velocipede",
+      "resulted from",
+      "innovation"
+    ],
+    [
+      "velocipede",
+      "supported by",
+      "endurance"
+    ],
+    [
+      "velocipede",
+      "underwent",
+      "design transformation"
+    ]
+  ],
+  "edges": [
+    "adopted by",
+    "advances",
+    "affected by",
+    "affects",
+    "associated with",
+    "benefits from",
+    "boosts",
+    "caused by",
+    "causes",
+    "characterized by",
+    "competes with",
+    "constructed from",
+    "constructed with",
+    "contrasts with",
+    "contributed to",
+    "contributes to",
+    "demonstrated by",
+    "demonstrates",
+    "designed for",
+    "developed in",
+    "developed into",
+    "driven by",
+    "drives",
+    "enabled",
+    "enabled advancements in",
+    "enabled by",
+    "enables",
+    "encourages",
+    "enhanced by",
+    "enhances",
+    "evolved from",
+    "evolved into",
+    "evolves from",
+    "expands",
+    "facilitated by",
+    "facilitates",
+    "featured in",
+    "features",
+    "fosters",
+    "fueled by",
+    "has an impact on",
+    "illustrates",
+    "impacted by",
+    "impacts",
+    "improved by",
+    "improves",
+    "includes",
+    "increased",
+    "increases",
+    "influenced",
+    "influenced by",
+    "influences",
+    "informs",
+    "inspired",
+    "inspired by",
+    "introduced",
+    "introduces",
+    "is a benefit of",
+    "is a category of",
+    "is a concern for",
+    "is a factor in",
+    "is a form of",
+    "is a part of",
+    "is a result of",
+    "is a type of",
+    "is affected by",
+    "is associated with",
+    "is categorized as",
+    "is enhanced by",
+    "is featured in",
+    "is improved by",
+    "is influenced by",
+    "is linked to",
+    "is part of",
+    "is shaped by",
+    "is showcased in",
+    "lacked",
+    "leads to",
+    "led to",
+    "limited by",
+    "marked by",
+    "marks",
+    "measured by",
+    "occurred in",
+    "offers",
+    "originated in",
+    "originates from",
+    "part of",
+    "preceded",
+    "precedes",
+    "predecessor of",
+    "prioritizes",
+    "produced",
+    "promotes",
+    "provides",
+    "reduced by",
+    "reflects",
+    "replaced",
+    "replaced by",
+    "represented by",
+    "represents",
+    "requires",
+    "resulted from",
+    "resulted in",
+    "results in",
+    "serves as",
+    "shaped",
+    "shapes",
+    "showcases",
+    "supported by",
+    "supports",
+    "transformed",
+    "transformed by",
+    "transformed into",
+    "transforms",
+    "underwent",
+    "utilizes",
+    "was used in"
+  ]
+}

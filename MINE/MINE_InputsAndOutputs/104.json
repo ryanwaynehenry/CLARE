@@ -1,0 +1,3220 @@
+{
+  "entities": [
+    "K-pop phenomenon",
+    "artistic collaboration",
+    "brand influence",
+    "celebrity endorsements",
+    "celebrity worship",
+    "community building",
+    "community engagement",
+    "consumer behavior",
+    "consumerism critique",
+    "creative expression",
+    "creativity spark",
+    "cultural appropriation",
+    "cultural exchange",
+    "diverse representations",
+    "entertainment impact",
+    "entertainment technology",
+    "fashion influence",
+    "fast fashion",
+    "gender representation",
+    "global culture",
+    "global trends",
+    "globalized fashion",
+    "identity formation",
+    "inclusivity promotion",
+    "innovation spread",
+    "mainstream lifestyle",
+    "market dynamics",
+    "marketing strategies",
+    "mass media",
+    "material obsession",
+    "media representation",
+    "misrepresentation",
+    "music impact",
+    "online shopping",
+    "pop culture influence",
+    "popular media",
+    "positive impact",
+    "public attitudes",
+    "public personas",
+    "race representation",
+    "sexuality visibility",
+    "shared experiences",
+    "social change",
+    "social media influence",
+    "social values",
+    "societal norms",
+    "superficiality concerns",
+    "technology advancements",
+    "technology integration",
+    "traditional notions",
+    "transnational connections",
+    "trend dissemination",
+    "trending hashtags",
+    "trendsetting",
+    "viral challenges",
+    "viral trends",
+    "visual culture"
+  ],
+  "relations": [
+    [
+      "K-pop phenomenon",
+      "affects",
+      "market dynamics"
+    ],
+    [
+      "K-pop phenomenon",
+      "creates",
+      "shared experiences"
+    ],
+    [
+      "K-pop phenomenon",
+      "creates",
+      "transnational connections"
+    ],
+    [
+      "K-pop phenomenon",
+      "drives",
+      "online shopping"
+    ],
+    [
+      "K-pop phenomenon",
+      "drives",
+      "technology advancements"
+    ],
+    [
+      "K-pop phenomenon",
+      "facilitates",
+      "community building"
+    ],
+    [
+      "K-pop phenomenon",
+      "facilitates",
+      "innovation spread"
+    ],
+    [
+      "K-pop phenomenon",
+      "influences",
+      "marketing strategies"
+    ],
+    [
+      "K-pop phenomenon",
+      "influences",
+      "music impact"
+    ],
+    [
+      "K-pop phenomenon",
+      "promotes",
+      "cultural exchange"
+    ],
+    [
+      "K-pop phenomenon",
+      "promotes",
+      "diverse representations"
+    ],
+    [
+      "K-pop phenomenon",
+      "promotes",
+      "inclusivity promotion"
+    ],
+    [
+      "K-pop phenomenon",
+      "promotes",
+      "social change"
+    ],
+    [
+      "K-pop phenomenon",
+      "sets trends for",
+      "trendsetting"
+    ],
+    [
+      "K-pop phenomenon",
+      "shapes",
+      "popular media"
+    ],
+    [
+      "K-pop phenomenon",
+      "shapes",
+      "social values"
+    ],
+    [
+      "artistic collaboration",
+      "affects",
+      "entertainment impact"
+    ],
+    [
+      "artistic collaboration",
+      "creates",
+      "positive impact"
+    ],
+    [
+      "artistic collaboration",
+      "enhances",
+      "creative expression"
+    ],
+    [
+      "artistic collaboration",
+      "enhances",
+      "globalized fashion"
+    ],
+    [
+      "artistic collaboration",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "artistic collaboration",
+      "influences",
+      "public attitudes"
+    ],
+    [
+      "artistic collaboration",
+      "inspires",
+      "viral challenges"
+    ],
+    [
+      "brand influence",
+      "drives",
+      "technology advancements"
+    ],
+    [
+      "brand influence",
+      "drives",
+      "trending hashtags"
+    ],
+    [
+      "brand influence",
+      "drives",
+      "viral trends"
+    ],
+    [
+      "brand influence",
+      "guides",
+      "marketing strategies"
+    ],
+    [
+      "brand influence",
+      "influences",
+      "innovation spread"
+    ],
+    [
+      "brand influence",
+      "shapes",
+      "cultural exchange"
+    ],
+    [
+      "brand influence",
+      "shapes",
+      "entertainment technology"
+    ],
+    [
+      "brand influence",
+      "shapes",
+      "global culture"
+    ],
+    [
+      "brand influence",
+      "shapes",
+      "global trends"
+    ],
+    [
+      "celebrity endorsements",
+      "benefits from",
+      "community engagement"
+    ],
+    [
+      "celebrity endorsements",
+      "creates",
+      "trending hashtags"
+    ],
+    [
+      "celebrity endorsements",
+      "criticizes",
+      "superficiality concerns"
+    ],
+    [
+      "celebrity endorsements",
+      "drives",
+      "viral challenges"
+    ],
+    [
+      "celebrity endorsements",
+      "endorsed by",
+      "gender representation"
+    ],
+    [
+      "celebrity endorsements",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "celebrity endorsements",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "celebrity endorsements",
+      "influences",
+      "market dynamics"
+    ],
+    [
+      "celebrity endorsements",
+      "leads to",
+      "misrepresentation"
+    ],
+    [
+      "celebrity worship",
+      "driven by",
+      "online shopping"
+    ],
+    [
+      "celebrity worship",
+      "drives",
+      "mainstream lifestyle"
+    ],
+    [
+      "celebrity worship",
+      "fosters",
+      "societal norms"
+    ],
+    [
+      "celebrity worship",
+      "fosters",
+      "trendsetting"
+    ],
+    [
+      "celebrity worship",
+      "influences",
+      "social media influence"
+    ],
+    [
+      "celebrity worship",
+      "is driven by",
+      "gender representation"
+    ],
+    [
+      "celebrity worship",
+      "promotes",
+      "viral challenges"
+    ],
+    [
+      "celebrity worship",
+      "reflects",
+      "global culture"
+    ],
+    [
+      "celebrity worship",
+      "shapes",
+      "public attitudes"
+    ],
+    [
+      "celebrity worship",
+      "utilizes",
+      "marketing strategies"
+    ],
+    [
+      "celebrity worship",
+      "worshipped by",
+      "media representation"
+    ],
+    [
+      "community building",
+      "encourages",
+      "creative expression"
+    ],
+    [
+      "community building",
+      "enhanced by",
+      "superficiality concerns"
+    ],
+    [
+      "community building",
+      "enhances",
+      "entertainment impact"
+    ],
+    [
+      "community building",
+      "enhances",
+      "trending hashtags"
+    ],
+    [
+      "community building",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "community building",
+      "fosters",
+      "inclusivity promotion"
+    ],
+    [
+      "community building",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "community building",
+      "is driven by",
+      "celebrity endorsements"
+    ],
+    [
+      "community building",
+      "supports",
+      "traditional notions"
+    ],
+    [
+      "community engagement",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "community engagement",
+      "affects",
+      "entertainment impact"
+    ],
+    [
+      "community engagement",
+      "challenges",
+      "traditional notions"
+    ],
+    [
+      "community engagement",
+      "drives",
+      "social change"
+    ],
+    [
+      "community engagement",
+      "drives",
+      "viral challenges"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "celebrity endorsements"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "online shopping"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "social media influence"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "technology advancements"
+    ],
+    [
+      "community engagement",
+      "fosters",
+      "artistic collaboration"
+    ],
+    [
+      "community engagement",
+      "fosters",
+      "community building"
+    ],
+    [
+      "community engagement",
+      "guides",
+      "marketing strategies"
+    ],
+    [
+      "community engagement",
+      "is challenged by",
+      "cultural appropriation"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "cultural exchange"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "inclusivity promotion"
+    ],
+    [
+      "community engagement",
+      "shapes",
+      "pop culture influence"
+    ],
+    [
+      "community engagement",
+      "shapes",
+      "societal norms"
+    ],
+    [
+      "consumer behavior",
+      "driven by",
+      "superficiality concerns"
+    ],
+    [
+      "consumer behavior",
+      "drives",
+      "entertainment technology"
+    ],
+    [
+      "consumer behavior",
+      "influenced by",
+      "race representation"
+    ],
+    [
+      "consumer behavior",
+      "influences",
+      "brand influence"
+    ],
+    [
+      "consumer behavior",
+      "influences",
+      "creative expression"
+    ],
+    [
+      "consumer behavior",
+      "influences",
+      "sexuality visibility"
+    ],
+    [
+      "consumer behavior",
+      "is affected by",
+      "diverse representations"
+    ],
+    [
+      "consumer behavior",
+      "is shaped by",
+      "global trends"
+    ],
+    [
+      "consumer behavior",
+      "shaped by",
+      "shared experiences"
+    ],
+    [
+      "consumer behavior",
+      "shaped by",
+      "social values"
+    ],
+    [
+      "consumer behavior",
+      "shaped by",
+      "trending hashtags"
+    ],
+    [
+      "consumer behavior",
+      "shapes",
+      "popular media"
+    ],
+    [
+      "consumer behavior",
+      "shapes",
+      "social media influence"
+    ],
+    [
+      "consumerism critique",
+      "challenges",
+      "celebrity worship"
+    ],
+    [
+      "consumerism critique",
+      "criticizes",
+      "positive impact"
+    ],
+    [
+      "consumerism critique",
+      "critiqued by",
+      "entertainment impact"
+    ],
+    [
+      "consumerism critique",
+      "critiqued by",
+      "identity formation"
+    ],
+    [
+      "consumerism critique",
+      "critiqued by",
+      "public personas"
+    ],
+    [
+      "consumerism critique",
+      "critiques",
+      "consumer behavior"
+    ],
+    [
+      "consumerism critique",
+      "critiques",
+      "diverse representations"
+    ],
+    [
+      "consumerism critique",
+      "critiques",
+      "online shopping"
+    ],
+    [
+      "consumerism critique",
+      "critiques",
+      "societal norms"
+    ],
+    [
+      "consumerism critique",
+      "is critiqued by",
+      "creative expression"
+    ],
+    [
+      "consumerism critique",
+      "is critiqued for",
+      "global culture"
+    ],
+    [
+      "consumerism critique",
+      "reflects",
+      "public attitudes"
+    ],
+    [
+      "creative expression",
+      "affects",
+      "public attitudes"
+    ],
+    [
+      "creative expression",
+      "enhances",
+      "entertainment technology"
+    ],
+    [
+      "creative expression",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "creative expression",
+      "facilitates",
+      "innovation spread"
+    ],
+    [
+      "creative expression",
+      "influences",
+      "sexuality visibility"
+    ],
+    [
+      "creative expression",
+      "influences",
+      "trending hashtags"
+    ],
+    [
+      "creative expression",
+      "inspires",
+      "viral challenges"
+    ],
+    [
+      "creative expression",
+      "is influenced by",
+      "inclusivity promotion"
+    ],
+    [
+      "creativity spark",
+      "drives",
+      "fast fashion"
+    ],
+    [
+      "creativity spark",
+      "drives",
+      "global culture"
+    ],
+    [
+      "creativity spark",
+      "enhances",
+      "entertainment technology"
+    ],
+    [
+      "creativity spark",
+      "fosters",
+      "community building"
+    ],
+    [
+      "creativity spark",
+      "fosters",
+      "community engagement"
+    ],
+    [
+      "creativity spark",
+      "fosters",
+      "transnational connections"
+    ],
+    [
+      "creativity spark",
+      "fuels",
+      "innovation spread"
+    ],
+    [
+      "creativity spark",
+      "highlights",
+      "race representation"
+    ],
+    [
+      "creativity spark",
+      "influences",
+      "brand influence"
+    ],
+    [
+      "creativity spark",
+      "influences",
+      "entertainment impact"
+    ],
+    [
+      "creativity spark",
+      "influences",
+      "fashion influence"
+    ],
+    [
+      "creativity spark",
+      "influences",
+      "global trends"
+    ],
+    [
+      "creativity spark",
+      "influences",
+      "mainstream lifestyle"
+    ],
+    [
+      "creativity spark",
+      "influences",
+      "public personas"
+    ],
+    [
+      "creativity spark",
+      "shapes",
+      "consumer behavior"
+    ],
+    [
+      "creativity spark",
+      "sparks",
+      "creative expression"
+    ],
+    [
+      "creativity spark",
+      "sparks",
+      "identity formation"
+    ],
+    [
+      "creativity spark",
+      "sparks",
+      "pop culture influence"
+    ],
+    [
+      "creativity spark",
+      "sparks",
+      "popular media"
+    ],
+    [
+      "creativity spark",
+      "sparks",
+      "public attitudes"
+    ],
+    [
+      "creativity spark",
+      "sparks",
+      "sexuality visibility"
+    ],
+    [
+      "creativity spark",
+      "sparks",
+      "social values"
+    ],
+    [
+      "creativity spark",
+      "sparks",
+      "trend dissemination"
+    ],
+    [
+      "creativity spark",
+      "sparks",
+      "viral trends"
+    ],
+    [
+      "creativity spark",
+      "stimulates",
+      "market dynamics"
+    ],
+    [
+      "cultural appropriation",
+      "appropriated by",
+      "public personas"
+    ],
+    [
+      "cultural appropriation",
+      "challenges",
+      "diverse representations"
+    ],
+    [
+      "cultural appropriation",
+      "challenges",
+      "technology integration"
+    ],
+    [
+      "cultural appropriation",
+      "influenced by",
+      "identity formation"
+    ],
+    [
+      "cultural appropriation",
+      "influences",
+      "creative expression"
+    ],
+    [
+      "cultural appropriation",
+      "influences",
+      "viral challenges"
+    ],
+    [
+      "cultural appropriation",
+      "intersects with",
+      "entertainment technology"
+    ],
+    [
+      "cultural appropriation",
+      "is associated with",
+      "trending hashtags"
+    ],
+    [
+      "cultural appropriation",
+      "is criticized for",
+      "celebrity worship"
+    ],
+    [
+      "cultural appropriation",
+      "is criticized for",
+      "mainstream lifestyle"
+    ],
+    [
+      "cultural appropriation",
+      "is criticized for",
+      "popular media"
+    ],
+    [
+      "cultural appropriation",
+      "leads to",
+      "celebrity endorsements"
+    ],
+    [
+      "cultural appropriation",
+      "promotes",
+      "inclusivity promotion"
+    ],
+    [
+      "cultural appropriation",
+      "raises concerns about",
+      "superficiality concerns"
+    ],
+    [
+      "cultural appropriation",
+      "utilizes",
+      "marketing strategies"
+    ],
+    [
+      "cultural exchange",
+      "critiques",
+      "consumerism critique"
+    ],
+    [
+      "cultural exchange",
+      "drives",
+      "globalized fashion"
+    ],
+    [
+      "cultural exchange",
+      "facilitates",
+      "technology advancements"
+    ],
+    [
+      "cultural exchange",
+      "facilitates",
+      "viral challenges"
+    ],
+    [
+      "cultural exchange",
+      "facilitates",
+      "viral trends"
+    ],
+    [
+      "cultural exchange",
+      "has",
+      "positive impact"
+    ],
+    [
+      "cultural exchange",
+      "influenced by",
+      "media representation"
+    ],
+    [
+      "cultural exchange",
+      "shapes",
+      "public attitudes"
+    ],
+    [
+      "diverse representations",
+      "contributes to",
+      "positive impact"
+    ],
+    [
+      "diverse representations",
+      "enables",
+      "creative expression"
+    ],
+    [
+      "diverse representations",
+      "enhances",
+      "entertainment technology"
+    ],
+    [
+      "diverse representations",
+      "facilitates",
+      "innovation spread"
+    ],
+    [
+      "diverse representations",
+      "facilitates",
+      "online shopping"
+    ],
+    [
+      "diverse representations",
+      "fosters",
+      "shared experiences"
+    ],
+    [
+      "diverse representations",
+      "influences",
+      "public attitudes"
+    ],
+    [
+      "diverse representations",
+      "influences",
+      "trending hashtags"
+    ],
+    [
+      "diverse representations",
+      "promotes",
+      "community building"
+    ],
+    [
+      "diverse representations",
+      "promotes",
+      "social change"
+    ],
+    [
+      "diverse representations",
+      "shapes",
+      "pop culture influence"
+    ],
+    [
+      "entertainment impact",
+      "advances",
+      "entertainment technology"
+    ],
+    [
+      "entertainment impact",
+      "affected by",
+      "social values"
+    ],
+    [
+      "entertainment impact",
+      "affects",
+      "public attitudes"
+    ],
+    [
+      "entertainment impact",
+      "affects",
+      "trendsetting"
+    ],
+    [
+      "entertainment impact",
+      "creates",
+      "trending hashtags"
+    ],
+    [
+      "entertainment impact",
+      "drives",
+      "innovation spread"
+    ],
+    [
+      "entertainment impact",
+      "drives",
+      "technology advancements"
+    ],
+    [
+      "entertainment impact",
+      "drives",
+      "viral challenges"
+    ],
+    [
+      "entertainment impact",
+      "enhances",
+      "creative expression"
+    ],
+    [
+      "entertainment impact",
+      "impacts",
+      "superficiality concerns"
+    ],
+    [
+      "entertainment impact",
+      "promotes",
+      "cultural appropriation"
+    ],
+    [
+      "entertainment impact",
+      "shapes",
+      "market dynamics"
+    ],
+    [
+      "entertainment impact",
+      "shapes",
+      "marketing strategies"
+    ],
+    [
+      "entertainment impact",
+      "shapes",
+      "music impact"
+    ],
+    [
+      "entertainment technology",
+      "advances",
+      "technology advancements"
+    ],
+    [
+      "entertainment technology",
+      "has",
+      "positive impact"
+    ],
+    [
+      "entertainment technology",
+      "is criticized for",
+      "trendsetting"
+    ],
+    [
+      "entertainment technology",
+      "is shaped by",
+      "global trends"
+    ],
+    [
+      "entertainment technology",
+      "utilizes",
+      "gender representation"
+    ],
+    [
+      "fashion influence",
+      "advances",
+      "technology advancements"
+    ],
+    [
+      "fashion influence",
+      "drives",
+      "innovation spread"
+    ],
+    [
+      "fashion influence",
+      "guides",
+      "marketing strategies"
+    ],
+    [
+      "fashion influence",
+      "influences",
+      "market dynamics"
+    ],
+    [
+      "fashion influence",
+      "influences",
+      "viral trends"
+    ],
+    [
+      "fashion influence",
+      "integrates",
+      "entertainment technology"
+    ],
+    [
+      "fashion influence",
+      "shapes",
+      "consumer behavior"
+    ],
+    [
+      "fashion influence",
+      "shapes",
+      "viral challenges"
+    ],
+    [
+      "fast fashion",
+      "accelerates",
+      "innovation spread"
+    ],
+    [
+      "fast fashion",
+      "affects",
+      "market dynamics"
+    ],
+    [
+      "fast fashion",
+      "challenged by",
+      "traditional notions"
+    ],
+    [
+      "fast fashion",
+      "contributes to",
+      "globalized fashion"
+    ],
+    [
+      "fast fashion",
+      "drives",
+      "global trends"
+    ],
+    [
+      "gender representation",
+      "affects",
+      "market dynamics"
+    ],
+    [
+      "gender representation",
+      "enables",
+      "creative expression"
+    ],
+    [
+      "gender representation",
+      "encourages",
+      "community engagement"
+    ],
+    [
+      "gender representation",
+      "influences",
+      "mainstream lifestyle"
+    ],
+    [
+      "gender representation",
+      "influences",
+      "sexuality visibility"
+    ],
+    [
+      "gender representation",
+      "influences",
+      "trendsetting"
+    ],
+    [
+      "gender representation",
+      "informs",
+      "public personas"
+    ],
+    [
+      "gender representation",
+      "promotes",
+      "inclusivity promotion"
+    ],
+    [
+      "gender representation",
+      "shapes",
+      "public attitudes"
+    ],
+    [
+      "gender representation",
+      "shapes",
+      "social values"
+    ],
+    [
+      "gender representation",
+      "triggers",
+      "viral challenges"
+    ],
+    [
+      "global culture",
+      "affects",
+      "fashion influence"
+    ],
+    [
+      "global culture",
+      "challenges",
+      "traditional notions"
+    ],
+    [
+      "global culture",
+      "drives",
+      "entertainment technology"
+    ],
+    [
+      "global culture",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "global culture",
+      "facilitates",
+      "innovation spread"
+    ],
+    [
+      "global culture",
+      "generates",
+      "viral trends"
+    ],
+    [
+      "global culture",
+      "influences",
+      "creative expression"
+    ],
+    [
+      "global culture",
+      "influences",
+      "pop culture influence"
+    ],
+    [
+      "global culture",
+      "influences",
+      "sexuality visibility"
+    ],
+    [
+      "global culture",
+      "reflects",
+      "mainstream lifestyle"
+    ],
+    [
+      "global culture",
+      "reflects",
+      "shared experiences"
+    ],
+    [
+      "global culture",
+      "shapes",
+      "mass media"
+    ],
+    [
+      "global culture",
+      "shapes",
+      "social media influence"
+    ],
+    [
+      "global trends",
+      "drives",
+      "viral trends"
+    ],
+    [
+      "global trends",
+      "facilitates",
+      "innovation spread"
+    ],
+    [
+      "global trends",
+      "influences",
+      "technology advancements"
+    ],
+    [
+      "global trends",
+      "is influenced by",
+      "online shopping"
+    ],
+    [
+      "global trends",
+      "is shaped by",
+      "trending hashtags"
+    ],
+    [
+      "global trends",
+      "shaped by",
+      "societal norms"
+    ],
+    [
+      "global trends",
+      "triggers",
+      "viral challenges"
+    ],
+    [
+      "globalized fashion",
+      "driven by",
+      "brand influence"
+    ],
+    [
+      "globalized fashion",
+      "drives",
+      "global trends"
+    ],
+    [
+      "globalized fashion",
+      "drives",
+      "viral trends"
+    ],
+    [
+      "globalized fashion",
+      "facilitates",
+      "innovation spread"
+    ],
+    [
+      "globalized fashion",
+      "influenced by",
+      "creative expression"
+    ],
+    [
+      "globalized fashion",
+      "influenced by",
+      "traditional notions"
+    ],
+    [
+      "globalized fashion",
+      "influences",
+      "societal norms"
+    ],
+    [
+      "identity formation",
+      "driven by",
+      "technology advancements"
+    ],
+    [
+      "identity formation",
+      "drives",
+      "entertainment technology"
+    ],
+    [
+      "identity formation",
+      "drives",
+      "innovation spread"
+    ],
+    [
+      "identity formation",
+      "drives",
+      "social change"
+    ],
+    [
+      "identity formation",
+      "influences",
+      "online shopping"
+    ],
+    [
+      "identity formation",
+      "influences",
+      "race representation"
+    ],
+    [
+      "identity formation",
+      "influences",
+      "sexuality visibility"
+    ],
+    [
+      "identity formation",
+      "influences",
+      "viral challenges"
+    ],
+    [
+      "identity formation",
+      "integrates",
+      "technology integration"
+    ],
+    [
+      "identity formation",
+      "is shaped by",
+      "marketing strategies"
+    ],
+    [
+      "identity formation",
+      "promotes",
+      "inclusivity promotion"
+    ],
+    [
+      "identity formation",
+      "shapes",
+      "market dynamics"
+    ],
+    [
+      "identity formation",
+      "shapes",
+      "public personas"
+    ],
+    [
+      "identity formation",
+      "shapes",
+      "social values"
+    ],
+    [
+      "inclusivity promotion",
+      "affects",
+      "entertainment impact"
+    ],
+    [
+      "inclusivity promotion",
+      "enhances",
+      "entertainment technology"
+    ],
+    [
+      "inclusivity promotion",
+      "facilitates",
+      "innovation spread"
+    ],
+    [
+      "inclusivity promotion",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "inclusivity promotion",
+      "is driven by",
+      "viral challenges"
+    ],
+    [
+      "inclusivity promotion",
+      "is utilized in",
+      "marketing strategies"
+    ],
+    [
+      "inclusivity promotion",
+      "shapes",
+      "public attitudes"
+    ],
+    [
+      "innovation spread",
+      "drives",
+      "sexuality visibility"
+    ],
+    [
+      "innovation spread",
+      "facilitates",
+      "mainstream lifestyle"
+    ],
+    [
+      "innovation spread",
+      "influenced by",
+      "shared experiences"
+    ],
+    [
+      "innovation spread",
+      "influences",
+      "cultural appropriation"
+    ],
+    [
+      "innovation spread",
+      "influences",
+      "market dynamics"
+    ],
+    [
+      "innovation spread",
+      "is driven by",
+      "consumer behavior"
+    ],
+    [
+      "innovation spread",
+      "is influenced by",
+      "gender representation"
+    ],
+    [
+      "mainstream lifestyle",
+      "drives",
+      "trend dissemination"
+    ],
+    [
+      "mainstream lifestyle",
+      "engages with",
+      "community engagement"
+    ],
+    [
+      "mainstream lifestyle",
+      "influences",
+      "celebrity endorsements"
+    ],
+    [
+      "mainstream lifestyle",
+      "influences",
+      "viral challenges"
+    ],
+    [
+      "mainstream lifestyle",
+      "is influenced by",
+      "social change"
+    ],
+    [
+      "mainstream lifestyle",
+      "is shaped by",
+      "mass media"
+    ],
+    [
+      "mainstream lifestyle",
+      "promotes",
+      "inclusivity promotion"
+    ],
+    [
+      "mainstream lifestyle",
+      "sets",
+      "trendsetting"
+    ],
+    [
+      "mainstream lifestyle",
+      "shapes",
+      "music impact"
+    ],
+    [
+      "mainstream lifestyle",
+      "shapes",
+      "societal norms"
+    ],
+    [
+      "market dynamics",
+      "affects",
+      "diverse representations"
+    ],
+    [
+      "market dynamics",
+      "affects",
+      "online shopping"
+    ],
+    [
+      "market dynamics",
+      "influences",
+      "viral challenges"
+    ],
+    [
+      "market dynamics",
+      "is influenced by",
+      "celebrity worship"
+    ],
+    [
+      "market dynamics",
+      "results in",
+      "material obsession"
+    ],
+    [
+      "market dynamics",
+      "shaped by",
+      "inclusivity promotion"
+    ],
+    [
+      "market dynamics",
+      "shapes",
+      "global trends"
+    ],
+    [
+      "marketing strategies",
+      "advances",
+      "entertainment technology"
+    ],
+    [
+      "marketing strategies",
+      "affects",
+      "market dynamics"
+    ],
+    [
+      "marketing strategies",
+      "influenced by",
+      "music impact"
+    ],
+    [
+      "marketing strategies",
+      "influences",
+      "technology advancements"
+    ],
+    [
+      "marketing strategies",
+      "informed by",
+      "traditional notions"
+    ],
+    [
+      "marketing strategies",
+      "informs",
+      "innovation spread"
+    ],
+    [
+      "marketing strategies",
+      "promotes",
+      "cultural exchange"
+    ],
+    [
+      "marketing strategies",
+      "shapes",
+      "global trends"
+    ],
+    [
+      "marketing strategies",
+      "shapes",
+      "globalized fashion"
+    ],
+    [
+      "marketing strategies",
+      "utilizes",
+      "celebrity endorsements"
+    ],
+    [
+      "marketing strategies",
+      "utilizes",
+      "viral challenges"
+    ],
+    [
+      "mass media",
+      "disseminates",
+      "trend dissemination"
+    ],
+    [
+      "mass media",
+      "enhances",
+      "community engagement"
+    ],
+    [
+      "mass media",
+      "enhances",
+      "sexuality visibility"
+    ],
+    [
+      "mass media",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "mass media",
+      "fosters",
+      "community building"
+    ],
+    [
+      "mass media",
+      "shapes",
+      "consumer behavior"
+    ],
+    [
+      "mass media",
+      "shapes",
+      "entertainment impact"
+    ],
+    [
+      "mass media",
+      "shapes",
+      "identity formation"
+    ],
+    [
+      "mass media",
+      "shapes",
+      "market dynamics"
+    ],
+    [
+      "mass media",
+      "shapes",
+      "popular media"
+    ],
+    [
+      "mass media",
+      "shapes",
+      "public attitudes"
+    ],
+    [
+      "mass media",
+      "shapes",
+      "public personas"
+    ],
+    [
+      "mass media",
+      "shapes",
+      "trending hashtags"
+    ],
+    [
+      "mass media",
+      "shapes",
+      "visual culture"
+    ],
+    [
+      "material obsession",
+      "associated with",
+      "mainstream lifestyle"
+    ],
+    [
+      "material obsession",
+      "exemplifies",
+      "shared experiences"
+    ],
+    [
+      "material obsession",
+      "is criticized for",
+      "positive impact"
+    ],
+    [
+      "material obsession",
+      "leads to",
+      "mass media"
+    ],
+    [
+      "material obsession",
+      "linked to",
+      "sexuality visibility"
+    ],
+    [
+      "material obsession",
+      "results in",
+      "consumer behavior"
+    ],
+    [
+      "material obsession",
+      "results in",
+      "global culture"
+    ],
+    [
+      "material obsession",
+      "results in",
+      "identity formation"
+    ],
+    [
+      "material obsession",
+      "results in",
+      "marketing strategies"
+    ],
+    [
+      "material obsession",
+      "results in",
+      "social change"
+    ],
+    [
+      "material obsession",
+      "results in",
+      "societal norms"
+    ],
+    [
+      "media representation",
+      "contributes to",
+      "community building"
+    ],
+    [
+      "media representation",
+      "depicts",
+      "race representation"
+    ],
+    [
+      "media representation",
+      "drives",
+      "K-pop phenomenon"
+    ],
+    [
+      "media representation",
+      "enhances",
+      "sexuality visibility"
+    ],
+    [
+      "media representation",
+      "enhances",
+      "shared experiences"
+    ],
+    [
+      "media representation",
+      "fosters",
+      "artistic collaboration"
+    ],
+    [
+      "media representation",
+      "influences",
+      "creative expression"
+    ],
+    [
+      "media representation",
+      "influences",
+      "market dynamics"
+    ],
+    [
+      "media representation",
+      "influences",
+      "trendsetting"
+    ],
+    [
+      "media representation",
+      "is influenced by",
+      "celebrity endorsements"
+    ],
+    [
+      "media representation",
+      "is represented by",
+      "mainstream lifestyle"
+    ],
+    [
+      "media representation",
+      "promotes",
+      "cultural exchange"
+    ],
+    [
+      "media representation",
+      "promotes",
+      "diverse representations"
+    ],
+    [
+      "media representation",
+      "promotes",
+      "inclusivity promotion"
+    ],
+    [
+      "media representation",
+      "promotes",
+      "positive impact"
+    ],
+    [
+      "media representation",
+      "shapes",
+      "global culture"
+    ],
+    [
+      "media representation",
+      "shapes",
+      "music impact"
+    ],
+    [
+      "media representation",
+      "shapes",
+      "social media influence"
+    ],
+    [
+      "media representation",
+      "triggers",
+      "trending hashtags"
+    ],
+    [
+      "misrepresentation",
+      "influences",
+      "creativity spark"
+    ],
+    [
+      "misrepresentation",
+      "is affected by",
+      "consumer behavior"
+    ],
+    [
+      "misrepresentation",
+      "is affected by",
+      "global culture"
+    ],
+    [
+      "misrepresentation",
+      "is criticized for",
+      "gender representation"
+    ],
+    [
+      "misrepresentation",
+      "is critiqued for",
+      "creative expression"
+    ],
+    [
+      "misrepresentation",
+      "leads to",
+      "marketing strategies"
+    ],
+    [
+      "misrepresentation",
+      "questions",
+      "positive impact"
+    ],
+    [
+      "misrepresentation",
+      "results in",
+      "mainstream lifestyle"
+    ],
+    [
+      "misrepresentation",
+      "results in",
+      "market dynamics"
+    ],
+    [
+      "misrepresentation",
+      "results in",
+      "popular media"
+    ],
+    [
+      "music impact",
+      "affects",
+      "fashion influence"
+    ],
+    [
+      "music impact",
+      "creates",
+      "shared experiences"
+    ],
+    [
+      "music impact",
+      "drives",
+      "creative expression"
+    ],
+    [
+      "music impact",
+      "drives",
+      "technology advancements"
+    ],
+    [
+      "music impact",
+      "drives",
+      "viral trends"
+    ],
+    [
+      "music impact",
+      "enhances",
+      "transnational connections"
+    ],
+    [
+      "music impact",
+      "influences",
+      "brand influence"
+    ],
+    [
+      "music impact",
+      "influences",
+      "online shopping"
+    ],
+    [
+      "music impact",
+      "shapes",
+      "global culture"
+    ],
+    [
+      "music impact",
+      "shapes",
+      "globalized fashion"
+    ],
+    [
+      "music impact",
+      "shapes",
+      "public attitudes"
+    ],
+    [
+      "music impact",
+      "trends",
+      "trending hashtags"
+    ],
+    [
+      "online shopping",
+      "affects",
+      "race representation"
+    ],
+    [
+      "online shopping",
+      "affects",
+      "social values"
+    ],
+    [
+      "online shopping",
+      "contributes to",
+      "globalized fashion"
+    ],
+    [
+      "online shopping",
+      "enables",
+      "fast fashion"
+    ],
+    [
+      "online shopping",
+      "enhances",
+      "community building"
+    ],
+    [
+      "online shopping",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "online shopping",
+      "facilitates",
+      "societal norms"
+    ],
+    [
+      "online shopping",
+      "facilitates",
+      "technology advancements"
+    ],
+    [
+      "online shopping",
+      "facilitates",
+      "trending hashtags"
+    ],
+    [
+      "online shopping",
+      "facilitates",
+      "trendsetting"
+    ],
+    [
+      "online shopping",
+      "guides",
+      "marketing strategies"
+    ],
+    [
+      "online shopping",
+      "has",
+      "positive impact"
+    ],
+    [
+      "online shopping",
+      "shapes",
+      "public personas"
+    ],
+    [
+      "pop culture influence",
+      "affects",
+      "public attitudes"
+    ],
+    [
+      "pop culture influence",
+      "drives",
+      "globalized fashion"
+    ],
+    [
+      "pop culture influence",
+      "facilitates",
+      "artistic collaboration"
+    ],
+    [
+      "pop culture influence",
+      "has",
+      "positive impact"
+    ],
+    [
+      "pop culture influence",
+      "influences",
+      "music impact"
+    ],
+    [
+      "pop culture influence",
+      "influences",
+      "social media influence"
+    ],
+    [
+      "pop culture influence",
+      "influences",
+      "superficiality concerns"
+    ],
+    [
+      "pop culture influence",
+      "influences",
+      "viral challenges"
+    ],
+    [
+      "pop culture influence",
+      "is influenced by",
+      "traditional notions"
+    ],
+    [
+      "pop culture influence",
+      "shaped by",
+      "mainstream lifestyle"
+    ],
+    [
+      "pop culture influence",
+      "shapes",
+      "fast fashion"
+    ],
+    [
+      "popular media",
+      "affects",
+      "public attitudes"
+    ],
+    [
+      "popular media",
+      "affects",
+      "social media influence"
+    ],
+    [
+      "popular media",
+      "drives",
+      "viral challenges"
+    ],
+    [
+      "popular media",
+      "encourages",
+      "artistic collaboration"
+    ],
+    [
+      "popular media",
+      "facilitates",
+      "innovation spread"
+    ],
+    [
+      "popular media",
+      "influenced by",
+      "societal norms"
+    ],
+    [
+      "popular media",
+      "influences",
+      "visual culture"
+    ],
+    [
+      "popular media",
+      "integrates",
+      "entertainment technology"
+    ],
+    [
+      "popular media",
+      "promotes",
+      "celebrity endorsements"
+    ],
+    [
+      "popular media",
+      "promotes",
+      "community building"
+    ],
+    [
+      "popular media",
+      "promotes",
+      "inclusivity promotion"
+    ],
+    [
+      "popular media",
+      "sets",
+      "trendsetting"
+    ],
+    [
+      "popular media",
+      "shapes",
+      "global culture"
+    ],
+    [
+      "positive impact",
+      "benefits from",
+      "consumer behavior"
+    ],
+    [
+      "positive impact",
+      "benefits from",
+      "societal norms"
+    ],
+    [
+      "positive impact",
+      "drives",
+      "creative expression"
+    ],
+    [
+      "positive impact",
+      "impacted by",
+      "traditional notions"
+    ],
+    [
+      "public attitudes",
+      "influences",
+      "shared experiences"
+    ],
+    [
+      "public attitudes",
+      "is influenced by",
+      "community engagement"
+    ],
+    [
+      "public personas",
+      "drives",
+      "viral challenges"
+    ],
+    [
+      "public personas",
+      "enables",
+      "artistic collaboration"
+    ],
+    [
+      "public personas",
+      "enhances",
+      "inclusivity promotion"
+    ],
+    [
+      "public personas",
+      "fuels",
+      "celebrity worship"
+    ],
+    [
+      "public personas",
+      "influences",
+      "global culture"
+    ],
+    [
+      "public personas",
+      "influences",
+      "social media influence"
+    ],
+    [
+      "public personas",
+      "leads to",
+      "misrepresentation"
+    ],
+    [
+      "public personas",
+      "promotes",
+      "celebrity endorsements"
+    ],
+    [
+      "public personas",
+      "shapes",
+      "public attitudes"
+    ],
+    [
+      "public personas",
+      "shapes",
+      "shared experiences"
+    ],
+    [
+      "public personas",
+      "shapes",
+      "traditional notions"
+    ],
+    [
+      "public personas",
+      "supports",
+      "marketing strategies"
+    ],
+    [
+      "race representation",
+      "affects",
+      "social media influence"
+    ],
+    [
+      "race representation",
+      "affects",
+      "societal norms"
+    ],
+    [
+      "race representation",
+      "critiques",
+      "consumerism critique"
+    ],
+    [
+      "race representation",
+      "enhances",
+      "creative expression"
+    ],
+    [
+      "race representation",
+      "influences",
+      "global culture"
+    ],
+    [
+      "race representation",
+      "influences",
+      "viral challenges"
+    ],
+    [
+      "race representation",
+      "informs",
+      "marketing strategies"
+    ],
+    [
+      "race representation",
+      "is influenced by",
+      "trending hashtags"
+    ],
+    [
+      "race representation",
+      "promotes",
+      "celebrity endorsements"
+    ],
+    [
+      "race representation",
+      "promotes",
+      "material obsession"
+    ],
+    [
+      "race representation",
+      "shapes",
+      "popular media"
+    ],
+    [
+      "sexuality visibility",
+      "influences",
+      "entertainment impact"
+    ],
+    [
+      "sexuality visibility",
+      "influences",
+      "social values"
+    ],
+    [
+      "sexuality visibility",
+      "influences",
+      "trending hashtags"
+    ],
+    [
+      "sexuality visibility",
+      "promotes",
+      "artistic collaboration"
+    ],
+    [
+      "sexuality visibility",
+      "promotes",
+      "celebrity endorsements"
+    ],
+    [
+      "sexuality visibility",
+      "promotes",
+      "inclusivity promotion"
+    ],
+    [
+      "sexuality visibility",
+      "promotes",
+      "popular media"
+    ],
+    [
+      "shared experiences",
+      "creates",
+      "positive impact"
+    ],
+    [
+      "shared experiences",
+      "creates",
+      "viral challenges"
+    ],
+    [
+      "shared experiences",
+      "enhances",
+      "entertainment technology"
+    ],
+    [
+      "shared experiences",
+      "facilitates",
+      "innovation spread"
+    ],
+    [
+      "shared experiences",
+      "facilitates",
+      "trend dissemination"
+    ],
+    [
+      "shared experiences",
+      "fosters",
+      "artistic collaboration"
+    ],
+    [
+      "shared experiences",
+      "fosters",
+      "celebrity endorsements"
+    ],
+    [
+      "shared experiences",
+      "influences",
+      "cultural appropriation"
+    ],
+    [
+      "shared experiences",
+      "influences",
+      "online shopping"
+    ],
+    [
+      "shared experiences",
+      "promotes",
+      "inclusivity promotion"
+    ],
+    [
+      "shared experiences",
+      "shapes",
+      "popular media"
+    ],
+    [
+      "shared experiences",
+      "shapes",
+      "societal norms"
+    ],
+    [
+      "social change",
+      "affects",
+      "social media influence"
+    ],
+    [
+      "social change",
+      "critiques",
+      "consumerism critique"
+    ],
+    [
+      "social change",
+      "drives",
+      "celebrity worship"
+    ],
+    [
+      "social change",
+      "drives",
+      "innovation spread"
+    ],
+    [
+      "social change",
+      "drives",
+      "popular media"
+    ],
+    [
+      "social change",
+      "drives",
+      "trendsetting"
+    ],
+    [
+      "social change",
+      "encourages",
+      "creative expression"
+    ],
+    [
+      "social change",
+      "influences",
+      "global culture"
+    ],
+    [
+      "social change",
+      "influences",
+      "viral challenges"
+    ],
+    [
+      "social change",
+      "is influenced by",
+      "misrepresentation"
+    ],
+    [
+      "social change",
+      "promotes",
+      "celebrity endorsements"
+    ],
+    [
+      "social change",
+      "promotes",
+      "sexuality visibility"
+    ],
+    [
+      "social change",
+      "promotes",
+      "social values"
+    ],
+    [
+      "social change",
+      "shapes",
+      "public personas"
+    ],
+    [
+      "social media influence",
+      "drives",
+      "fashion influence"
+    ],
+    [
+      "social media influence",
+      "drives",
+      "trending hashtags"
+    ],
+    [
+      "social media influence",
+      "enables",
+      "celebrity endorsements"
+    ],
+    [
+      "social media influence",
+      "encourages",
+      "inclusivity promotion"
+    ],
+    [
+      "social media influence",
+      "enhances",
+      "artistic collaboration"
+    ],
+    [
+      "social media influence",
+      "facilitates",
+      "globalized fashion"
+    ],
+    [
+      "social media influence",
+      "influences",
+      "cultural appropriation"
+    ],
+    [
+      "social media influence",
+      "influences",
+      "fast fashion"
+    ],
+    [
+      "social media influence",
+      "influences",
+      "mainstream lifestyle"
+    ],
+    [
+      "social media influence",
+      "influences",
+      "music impact"
+    ],
+    [
+      "social media influence",
+      "influences",
+      "sexuality visibility"
+    ],
+    [
+      "social media influence",
+      "is influenced by",
+      "superficiality concerns"
+    ],
+    [
+      "social media influence",
+      "shapes",
+      "entertainment technology"
+    ],
+    [
+      "social media influence",
+      "shapes",
+      "public attitudes"
+    ],
+    [
+      "social media influence",
+      "shapes",
+      "social values"
+    ],
+    [
+      "social media influence",
+      "shapes",
+      "viral trends"
+    ],
+    [
+      "social values",
+      "critiques",
+      "consumerism critique"
+    ],
+    [
+      "social values",
+      "encourages",
+      "creative expression"
+    ],
+    [
+      "social values",
+      "guides",
+      "marketing strategies"
+    ],
+    [
+      "social values",
+      "has",
+      "positive impact"
+    ],
+    [
+      "social values",
+      "influences",
+      "celebrity endorsements"
+    ],
+    [
+      "social values",
+      "influences",
+      "traditional notions"
+    ],
+    [
+      "social values",
+      "is shaped by",
+      "trending hashtags"
+    ],
+    [
+      "social values",
+      "reflects",
+      "shared experiences"
+    ],
+    [
+      "social values",
+      "shaped by",
+      "global culture"
+    ],
+    [
+      "social values",
+      "shapes",
+      "mass media"
+    ],
+    [
+      "social values",
+      "shapes",
+      "public attitudes"
+    ],
+    [
+      "social values",
+      "supports",
+      "inclusivity promotion"
+    ],
+    [
+      "societal norms",
+      "affects",
+      "social media influence"
+    ],
+    [
+      "societal norms",
+      "contributes to",
+      "misrepresentation"
+    ],
+    [
+      "societal norms",
+      "drives",
+      "innovation spread"
+    ],
+    [
+      "societal norms",
+      "influences",
+      "fashion influence"
+    ],
+    [
+      "societal norms",
+      "influences",
+      "identity formation"
+    ],
+    [
+      "societal norms",
+      "influences",
+      "market dynamics"
+    ],
+    [
+      "societal norms",
+      "influences",
+      "social values"
+    ],
+    [
+      "societal norms",
+      "influences",
+      "viral trends"
+    ],
+    [
+      "societal norms",
+      "shapes",
+      "entertainment technology"
+    ],
+    [
+      "societal norms",
+      "shapes",
+      "global culture"
+    ],
+    [
+      "societal norms",
+      "shapes",
+      "public personas"
+    ],
+    [
+      "superficiality concerns",
+      "encourages",
+      "inclusivity promotion"
+    ],
+    [
+      "superficiality concerns",
+      "is concerned with",
+      "sexuality visibility"
+    ],
+    [
+      "superficiality concerns",
+      "is criticized for",
+      "mainstream lifestyle"
+    ],
+    [
+      "superficiality concerns",
+      "raises",
+      "marketing strategies"
+    ],
+    [
+      "superficiality concerns",
+      "raises",
+      "online shopping"
+    ],
+    [
+      "superficiality concerns",
+      "raises",
+      "popular media"
+    ],
+    [
+      "superficiality concerns",
+      "raises concerns about",
+      "K-pop phenomenon"
+    ],
+    [
+      "superficiality concerns",
+      "raises concerns about",
+      "celebrity worship"
+    ],
+    [
+      "superficiality concerns",
+      "raises concerns about",
+      "diverse representations"
+    ],
+    [
+      "superficiality concerns",
+      "raises concerns about",
+      "gender representation"
+    ],
+    [
+      "superficiality concerns",
+      "raises concerns about",
+      "misrepresentation"
+    ],
+    [
+      "superficiality concerns",
+      "shapes",
+      "public attitudes"
+    ],
+    [
+      "technology advancements",
+      "advances",
+      "celebrity worship"
+    ],
+    [
+      "technology advancements",
+      "advances",
+      "pop culture influence"
+    ],
+    [
+      "technology advancements",
+      "driven by",
+      "superficiality concerns"
+    ],
+    [
+      "technology advancements",
+      "impacts",
+      "public attitudes"
+    ],
+    [
+      "technology advancements",
+      "influences",
+      "market dynamics"
+    ],
+    [
+      "technology integration",
+      "advances",
+      "technology advancements"
+    ],
+    [
+      "technology integration",
+      "affects",
+      "celebrity worship"
+    ],
+    [
+      "technology integration",
+      "affects",
+      "sexuality visibility"
+    ],
+    [
+      "technology integration",
+      "facilitates",
+      "artistic collaboration"
+    ],
+    [
+      "technology integration",
+      "facilitates",
+      "trendsetting"
+    ],
+    [
+      "technology integration",
+      "facilitates",
+      "viral challenges"
+    ],
+    [
+      "technology integration",
+      "facilitates",
+      "viral trends"
+    ],
+    [
+      "technology integration",
+      "influences",
+      "fashion influence"
+    ],
+    [
+      "technology integration",
+      "influences",
+      "global trends"
+    ],
+    [
+      "technology integration",
+      "integrates",
+      "gender representation"
+    ],
+    [
+      "technology integration",
+      "leverages",
+      "celebrity endorsements"
+    ],
+    [
+      "technology integration",
+      "shapes",
+      "global culture"
+    ],
+    [
+      "technology integration",
+      "shapes",
+      "market dynamics"
+    ],
+    [
+      "technology integration",
+      "shapes",
+      "social media influence"
+    ],
+    [
+      "technology integration",
+      "shapes",
+      "visual culture"
+    ],
+    [
+      "technology integration",
+      "strengthens",
+      "transnational connections"
+    ],
+    [
+      "technology integration",
+      "utilizes",
+      "marketing strategies"
+    ],
+    [
+      "traditional notions",
+      "challenges",
+      "gender representation"
+    ],
+    [
+      "traditional notions",
+      "challenges",
+      "music impact"
+    ],
+    [
+      "traditional notions",
+      "challenges",
+      "race representation"
+    ],
+    [
+      "traditional notions",
+      "challenges",
+      "sexuality visibility"
+    ],
+    [
+      "traditional notions",
+      "challenges",
+      "viral challenges"
+    ],
+    [
+      "traditional notions",
+      "encourages",
+      "artistic collaboration"
+    ],
+    [
+      "traditional notions",
+      "influenced by",
+      "mainstream lifestyle"
+    ],
+    [
+      "traditional notions",
+      "influences",
+      "trendsetting"
+    ],
+    [
+      "traditional notions",
+      "is challenged by",
+      "shared experiences"
+    ],
+    [
+      "traditional notions",
+      "is shaped by",
+      "social media influence"
+    ],
+    [
+      "traditional notions",
+      "shapes",
+      "fashion influence"
+    ],
+    [
+      "transnational connections",
+      "advances",
+      "technology advancements"
+    ],
+    [
+      "transnational connections",
+      "affects",
+      "fashion influence"
+    ],
+    [
+      "transnational connections",
+      "affects",
+      "market dynamics"
+    ],
+    [
+      "transnational connections",
+      "enables",
+      "viral challenges"
+    ],
+    [
+      "transnational connections",
+      "enhances",
+      "entertainment technology"
+    ],
+    [
+      "transnational connections",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "transnational connections",
+      "facilitates",
+      "innovation spread"
+    ],
+    [
+      "transnational connections",
+      "facilitates",
+      "online shopping"
+    ],
+    [
+      "transnational connections",
+      "facilitates",
+      "trendsetting"
+    ],
+    [
+      "transnational connections",
+      "informs",
+      "marketing strategies"
+    ],
+    [
+      "transnational connections",
+      "raises",
+      "superficiality concerns"
+    ],
+    [
+      "transnational connections",
+      "shapes",
+      "societal norms"
+    ],
+    [
+      "trend dissemination",
+      "affects",
+      "market dynamics"
+    ],
+    [
+      "trend dissemination",
+      "contributes to",
+      "positive impact"
+    ],
+    [
+      "trend dissemination",
+      "disseminates",
+      "global culture"
+    ],
+    [
+      "trend dissemination",
+      "drives",
+      "viral trends"
+    ],
+    [
+      "trend dissemination",
+      "facilitates",
+      "creative expression"
+    ],
+    [
+      "trend dissemination",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "trend dissemination",
+      "facilitates",
+      "globalized fashion"
+    ],
+    [
+      "trend dissemination",
+      "facilitates",
+      "innovation spread"
+    ],
+    [
+      "trend dissemination",
+      "influences",
+      "entertainment impact"
+    ],
+    [
+      "trend dissemination",
+      "influences",
+      "fashion influence"
+    ],
+    [
+      "trend dissemination",
+      "influences",
+      "music impact"
+    ],
+    [
+      "trend dissemination",
+      "influences",
+      "visual culture"
+    ],
+    [
+      "trend dissemination",
+      "integrates",
+      "technology integration"
+    ],
+    [
+      "trend dissemination",
+      "promotes",
+      "community engagement"
+    ],
+    [
+      "trend dissemination",
+      "promotes",
+      "inclusivity promotion"
+    ],
+    [
+      "trend dissemination",
+      "utilizes",
+      "entertainment technology"
+    ],
+    [
+      "trending hashtags",
+      "dictated by",
+      "mainstream lifestyle"
+    ],
+    [
+      "trending hashtags",
+      "influences",
+      "identity formation"
+    ],
+    [
+      "trending hashtags",
+      "is shaped by",
+      "creative expression"
+    ],
+    [
+      "trending hashtags",
+      "reflects",
+      "shared experiences"
+    ],
+    [
+      "trending hashtags",
+      "represents",
+      "viral trends"
+    ],
+    [
+      "trending hashtags",
+      "shaped by",
+      "market dynamics"
+    ],
+    [
+      "trendsetting",
+      "drives",
+      "celebrity endorsements"
+    ],
+    [
+      "trendsetting",
+      "drives",
+      "market dynamics"
+    ],
+    [
+      "trendsetting",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "trendsetting",
+      "influences",
+      "fashion influence"
+    ],
+    [
+      "trendsetting",
+      "promotes",
+      "cultural exchange"
+    ],
+    [
+      "trendsetting",
+      "raises",
+      "superficiality concerns"
+    ],
+    [
+      "viral challenges",
+      "affected by",
+      "social media influence"
+    ],
+    [
+      "viral challenges",
+      "drives",
+      "diverse representations"
+    ],
+    [
+      "viral challenges",
+      "has",
+      "positive impact"
+    ],
+    [
+      "viral challenges",
+      "is influenced by",
+      "superficiality concerns"
+    ],
+    [
+      "viral trends",
+      "influenced by",
+      "technology integration"
+    ],
+    [
+      "viral trends",
+      "influences",
+      "market dynamics"
+    ],
+    [
+      "viral trends",
+      "spreads",
+      "innovation spread"
+    ],
+    [
+      "visual culture",
+      "advances",
+      "technology advancements"
+    ],
+    [
+      "visual culture",
+      "affects",
+      "market dynamics"
+    ],
+    [
+      "visual culture",
+      "affects",
+      "societal norms"
+    ],
+    [
+      "visual culture",
+      "builds",
+      "community building"
+    ],
+    [
+      "visual culture",
+      "drives",
+      "fast fashion"
+    ],
+    [
+      "visual culture",
+      "drives",
+      "viral challenges"
+    ],
+    [
+      "visual culture",
+      "drives",
+      "viral trends"
+    ],
+    [
+      "visual culture",
+      "enhances",
+      "community engagement"
+    ],
+    [
+      "visual culture",
+      "facilitates",
+      "innovation spread"
+    ],
+    [
+      "visual culture",
+      "guides",
+      "marketing strategies"
+    ],
+    [
+      "visual culture",
+      "has",
+      "positive impact"
+    ],
+    [
+      "visual culture",
+      "influences",
+      "celebrity endorsements"
+    ],
+    [
+      "visual culture",
+      "influences",
+      "globalized fashion"
+    ],
+    [
+      "visual culture",
+      "initiates",
+      "trendsetting"
+    ],
+    [
+      "visual culture",
+      "involves",
+      "artistic collaboration"
+    ],
+    [
+      "visual culture",
+      "leads to",
+      "misrepresentation"
+    ],
+    [
+      "visual culture",
+      "promotes",
+      "celebrity worship"
+    ],
+    [
+      "visual culture",
+      "promotes",
+      "diverse representations"
+    ],
+    [
+      "visual culture",
+      "raises",
+      "cultural appropriation"
+    ],
+    [
+      "visual culture",
+      "shapes",
+      "entertainment technology"
+    ],
+    [
+      "visual culture",
+      "shapes",
+      "global culture"
+    ],
+    [
+      "visual culture",
+      "shapes",
+      "public attitudes"
+    ],
+    [
+      "visual culture",
+      "supports",
+      "inclusivity promotion"
+    ]
+  ],
+  "edges": [
+    "accelerates",
+    "advances",
+    "affected by",
+    "affects",
+    "appropriated by",
+    "associated with",
+    "benefits from",
+    "builds",
+    "challenged by",
+    "challenges",
+    "contributes to",
+    "creates",
+    "criticizes",
+    "critiqued by",
+    "critiques",
+    "depicts",
+    "dictated by",
+    "disseminates",
+    "driven by",
+    "drives",
+    "enables",
+    "encourages",
+    "endorsed by",
+    "engages with",
+    "enhanced by",
+    "enhances",
+    "exemplifies",
+    "facilitates",
+    "fosters",
+    "fuels",
+    "generates",
+    "guides",
+    "has",
+    "highlights",
+    "impacted by",
+    "impacts",
+    "influenced by",
+    "influences",
+    "informed by",
+    "informs",
+    "initiates",
+    "inspires",
+    "integrates",
+    "intersects with",
+    "involves",
+    "is affected by",
+    "is associated with",
+    "is challenged by",
+    "is concerned with",
+    "is criticized for",
+    "is critiqued by",
+    "is critiqued for",
+    "is driven by",
+    "is influenced by",
+    "is represented by",
+    "is shaped by",
+    "is utilized in",
+    "leads to",
+    "leverages",
+    "linked to",
+    "promotes",
+    "questions",
+    "raises",
+    "raises concerns about",
+    "reflects",
+    "represents",
+    "results in",
+    "sets",
+    "sets trends for",
+    "shaped by",
+    "shapes",
+    "sparks",
+    "spreads",
+    "stimulates",
+    "strengthens",
+    "supports",
+    "trends",
+    "triggers",
+    "utilizes",
+    "worshipped by"
+  ]
+}

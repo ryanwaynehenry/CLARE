@@ -1,0 +1,3872 @@
+{
+  "entities": [
+    "alignment",
+    "attitudes",
+    "behavior influences",
+    "beliefs",
+    "brand image",
+    "brand loyalty",
+    "complexity",
+    "consumer behavior",
+    "consumer interactions",
+    "consumer preferences",
+    "consumer psychology",
+    "consumer values",
+    "cultural differences",
+    "customs",
+    "decision influences",
+    "decision-making",
+    "discounts",
+    "emotional factors",
+    "emotional triggers",
+    "emotions",
+    "engaging experiences",
+    "external factors",
+    "extrinsic motivation",
+    "group harmony",
+    "impulse purchases",
+    "influences",
+    "information search",
+    "internal factors",
+    "intrinsic motivation",
+    "marketing influence",
+    "marketing messages",
+    "marketing strategies",
+    "motivation sources",
+    "motivation types",
+    "negative attitudes",
+    "norms",
+    "peer pressure",
+    "perception",
+    "personal preferences",
+    "positive attitudes",
+    "preference factors",
+    "product alignment",
+    "product placements",
+    "psychological factors",
+    "purchase intentions",
+    "purchasing decisions",
+    "self-expression",
+    "social influence",
+    "social norms",
+    "tailored marketing",
+    "value alignment",
+    "values"
+  ],
+  "relations": [
+    [
+      "alignment",
+      "affects",
+      "consumer interactions"
+    ],
+    [
+      "alignment",
+      "affects",
+      "product placements"
+    ],
+    [
+      "alignment",
+      "aligns with",
+      "brand loyalty"
+    ],
+    [
+      "alignment",
+      "aligns with",
+      "consumer values"
+    ],
+    [
+      "alignment",
+      "creates",
+      "product alignment"
+    ],
+    [
+      "alignment",
+      "influences",
+      "brand image"
+    ],
+    [
+      "alignment",
+      "shapes",
+      "consumer behavior"
+    ],
+    [
+      "attitudes",
+      "aligns with",
+      "product alignment"
+    ],
+    [
+      "attitudes",
+      "influences",
+      "consumer psychology"
+    ],
+    [
+      "attitudes",
+      "influences",
+      "emotional factors"
+    ],
+    [
+      "attitudes",
+      "influences",
+      "marketing strategies"
+    ],
+    [
+      "attitudes",
+      "influences",
+      "preference factors"
+    ],
+    [
+      "attitudes",
+      "influences",
+      "purchase intentions"
+    ],
+    [
+      "attitudes",
+      "influences",
+      "purchasing decisions"
+    ],
+    [
+      "attitudes",
+      "is influenced by",
+      "brand image"
+    ],
+    [
+      "attitudes",
+      "shaped by",
+      "brand loyalty"
+    ],
+    [
+      "attitudes",
+      "shaped by",
+      "decision-making"
+    ],
+    [
+      "attitudes",
+      "shapes",
+      "emotions"
+    ],
+    [
+      "attitudes",
+      "shapes",
+      "information search"
+    ],
+    [
+      "attitudes",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "behavior influences",
+      "affects",
+      "brand loyalty"
+    ],
+    [
+      "behavior influences",
+      "affects",
+      "cultural differences"
+    ],
+    [
+      "behavior influences",
+      "affects",
+      "discounts"
+    ],
+    [
+      "behavior influences",
+      "affects",
+      "purchasing decisions"
+    ],
+    [
+      "behavior influences",
+      "aligns with",
+      "value alignment"
+    ],
+    [
+      "behavior influences",
+      "influences",
+      "brand image"
+    ],
+    [
+      "behavior influences",
+      "influences",
+      "emotional factors"
+    ],
+    [
+      "behavior influences",
+      "influences",
+      "impulse purchases"
+    ],
+    [
+      "behavior influences",
+      "influences",
+      "negative attitudes"
+    ],
+    [
+      "behavior influences",
+      "influences",
+      "peer pressure"
+    ],
+    [
+      "behavior influences",
+      "influences",
+      "personal preferences"
+    ],
+    [
+      "behavior influences",
+      "shaped by",
+      "external factors"
+    ],
+    [
+      "behavior influences",
+      "shapes",
+      "consumer interactions"
+    ],
+    [
+      "beliefs",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "beliefs",
+      "affects",
+      "decision influences"
+    ],
+    [
+      "beliefs",
+      "aligns with",
+      "product alignment"
+    ],
+    [
+      "beliefs",
+      "guides",
+      "personal preferences"
+    ],
+    [
+      "beliefs",
+      "influenced by",
+      "influences"
+    ],
+    [
+      "beliefs",
+      "influences",
+      "customs"
+    ],
+    [
+      "beliefs",
+      "influences",
+      "discounts"
+    ],
+    [
+      "beliefs",
+      "influences",
+      "norms"
+    ],
+    [
+      "beliefs",
+      "influences",
+      "peer pressure"
+    ],
+    [
+      "beliefs",
+      "informs",
+      "consumer values"
+    ],
+    [
+      "beliefs",
+      "reflects",
+      "engaging experiences"
+    ],
+    [
+      "beliefs",
+      "shaped by",
+      "brand loyalty"
+    ],
+    [
+      "beliefs",
+      "shapes",
+      "attitudes"
+    ],
+    [
+      "beliefs",
+      "shapes",
+      "brand image"
+    ],
+    [
+      "beliefs",
+      "shapes",
+      "purchasing decisions"
+    ],
+    [
+      "beliefs",
+      "sources of",
+      "motivation sources"
+    ],
+    [
+      "beliefs",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "brand image",
+      "affects",
+      "decision influences"
+    ],
+    [
+      "brand image",
+      "affects",
+      "marketing influence"
+    ],
+    [
+      "brand image",
+      "affects",
+      "purchase intentions"
+    ],
+    [
+      "brand image",
+      "affects",
+      "purchasing decisions"
+    ],
+    [
+      "brand image",
+      "aligns with",
+      "product alignment"
+    ],
+    [
+      "brand image",
+      "impacts",
+      "decision-making"
+    ],
+    [
+      "brand image",
+      "influenced by",
+      "consumer preferences"
+    ],
+    [
+      "brand image",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "brand image",
+      "influences",
+      "consumer interactions"
+    ],
+    [
+      "brand image",
+      "influences",
+      "preference factors"
+    ],
+    [
+      "brand image",
+      "is influenced by",
+      "consumer psychology"
+    ],
+    [
+      "brand image",
+      "shaped by",
+      "external factors"
+    ],
+    [
+      "brand image",
+      "shapes",
+      "emotional factors"
+    ],
+    [
+      "brand image",
+      "shapes",
+      "emotions"
+    ],
+    [
+      "brand image",
+      "shapes",
+      "group harmony"
+    ],
+    [
+      "brand image",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "brand loyalty",
+      "depends on",
+      "product alignment"
+    ],
+    [
+      "brand loyalty",
+      "enhances",
+      "engaging experiences"
+    ],
+    [
+      "brand loyalty",
+      "influenced by",
+      "cultural differences"
+    ],
+    [
+      "brand loyalty",
+      "influenced by",
+      "social influence"
+    ],
+    [
+      "brand loyalty",
+      "influences",
+      "decision influences"
+    ],
+    [
+      "brand loyalty",
+      "influences",
+      "emotions"
+    ],
+    [
+      "brand loyalty",
+      "influences",
+      "group harmony"
+    ],
+    [
+      "brand loyalty",
+      "influences",
+      "impulse purchases"
+    ],
+    [
+      "brand loyalty",
+      "influences",
+      "marketing strategies"
+    ],
+    [
+      "brand loyalty",
+      "influences",
+      "purchasing decisions"
+    ],
+    [
+      "brand loyalty",
+      "is affected by",
+      "complexity"
+    ],
+    [
+      "brand loyalty",
+      "is influenced by",
+      "marketing influence"
+    ],
+    [
+      "complexity",
+      "affects",
+      "attitudes"
+    ],
+    [
+      "complexity",
+      "affects",
+      "marketing influence"
+    ],
+    [
+      "complexity",
+      "contributes to",
+      "beliefs"
+    ],
+    [
+      "complexity",
+      "contributes to",
+      "emotional factors"
+    ],
+    [
+      "complexity",
+      "shapes",
+      "consumer values"
+    ],
+    [
+      "consumer behavior",
+      "influenced by",
+      "norms"
+    ],
+    [
+      "consumer behavior",
+      "influenced by",
+      "social norms"
+    ],
+    [
+      "consumer behavior",
+      "is influenced by",
+      "behavior influences"
+    ],
+    [
+      "consumer behavior",
+      "is influenced by",
+      "external factors"
+    ],
+    [
+      "consumer behavior",
+      "is influenced by",
+      "influences"
+    ],
+    [
+      "consumer behavior",
+      "shapes",
+      "consumer interactions"
+    ],
+    [
+      "consumer behavior",
+      "shapes",
+      "negative attitudes"
+    ],
+    [
+      "consumer interactions",
+      "affects",
+      "emotional factors"
+    ],
+    [
+      "consumer interactions",
+      "affects",
+      "impulse purchases"
+    ],
+    [
+      "consumer interactions",
+      "are influenced by",
+      "negative attitudes"
+    ],
+    [
+      "consumer interactions",
+      "is influenced by",
+      "purchase intentions"
+    ],
+    [
+      "consumer interactions",
+      "shapes",
+      "brand loyalty"
+    ],
+    [
+      "consumer preferences",
+      "affects",
+      "attitudes"
+    ],
+    [
+      "consumer preferences",
+      "affects",
+      "norms"
+    ],
+    [
+      "consumer preferences",
+      "deter",
+      "negative attitudes"
+    ],
+    [
+      "consumer preferences",
+      "drives",
+      "consumer behavior"
+    ],
+    [
+      "consumer preferences",
+      "influenced by",
+      "engaging experiences"
+    ],
+    [
+      "consumer preferences",
+      "influenced by",
+      "intrinsic motivation"
+    ],
+    [
+      "consumer preferences",
+      "influenced by",
+      "peer pressure"
+    ],
+    [
+      "consumer preferences",
+      "influences",
+      "beliefs"
+    ],
+    [
+      "consumer preferences",
+      "influences",
+      "decision influences"
+    ],
+    [
+      "consumer preferences",
+      "influences",
+      "emotional factors"
+    ],
+    [
+      "consumer preferences",
+      "influences",
+      "emotional triggers"
+    ],
+    [
+      "consumer preferences",
+      "influences",
+      "emotions"
+    ],
+    [
+      "consumer preferences",
+      "influences",
+      "product placements"
+    ],
+    [
+      "consumer preferences",
+      "influences",
+      "purchase intentions"
+    ],
+    [
+      "consumer preferences",
+      "influences",
+      "purchasing decisions"
+    ],
+    [
+      "consumer preferences",
+      "reflects",
+      "consumer values"
+    ],
+    [
+      "consumer preferences",
+      "shapes",
+      "consumer psychology"
+    ],
+    [
+      "consumer preferences",
+      "shapes",
+      "cultural differences"
+    ],
+    [
+      "consumer preferences",
+      "shapes",
+      "marketing strategies"
+    ],
+    [
+      "consumer psychology",
+      "affects",
+      "brand image"
+    ],
+    [
+      "consumer psychology",
+      "affects",
+      "influences"
+    ],
+    [
+      "consumer psychology",
+      "aligns with",
+      "value alignment"
+    ],
+    [
+      "consumer psychology",
+      "facilitates",
+      "self-expression"
+    ],
+    [
+      "consumer psychology",
+      "influenced by",
+      "group harmony"
+    ],
+    [
+      "consumer psychology",
+      "influences",
+      "decision influences"
+    ],
+    [
+      "consumer psychology",
+      "influences",
+      "decision-making"
+    ],
+    [
+      "consumer psychology",
+      "influences",
+      "impulse purchases"
+    ],
+    [
+      "consumer psychology",
+      "influences",
+      "peer pressure"
+    ],
+    [
+      "consumer psychology",
+      "influences",
+      "perception"
+    ],
+    [
+      "consumer psychology",
+      "influences",
+      "positive attitudes"
+    ],
+    [
+      "consumer psychology",
+      "influences",
+      "purchasing decisions"
+    ],
+    [
+      "consumer psychology",
+      "influences",
+      "social norms"
+    ],
+    [
+      "consumer psychology",
+      "informs",
+      "marketing messages"
+    ],
+    [
+      "consumer psychology",
+      "informs",
+      "product placements"
+    ],
+    [
+      "consumer psychology",
+      "shapes",
+      "consumer values"
+    ],
+    [
+      "consumer psychology",
+      "sources of",
+      "motivation sources"
+    ],
+    [
+      "consumer values",
+      "affects",
+      "tailored marketing"
+    ],
+    [
+      "consumer values",
+      "influenced by",
+      "behavior influences"
+    ],
+    [
+      "consumer values",
+      "influenced by",
+      "consumer behavior"
+    ],
+    [
+      "consumer values",
+      "influenced by",
+      "extrinsic motivation"
+    ],
+    [
+      "consumer values",
+      "influences",
+      "brand loyalty"
+    ],
+    [
+      "consumer values",
+      "influences",
+      "external factors"
+    ],
+    [
+      "consumer values",
+      "influences",
+      "influences"
+    ],
+    [
+      "consumer values",
+      "influences",
+      "motivation sources"
+    ],
+    [
+      "consumer values",
+      "influences",
+      "purchasing decisions"
+    ],
+    [
+      "consumer values",
+      "is a component of",
+      "internal factors"
+    ],
+    [
+      "consumer values",
+      "reflects",
+      "discounts"
+    ],
+    [
+      "consumer values",
+      "reflects",
+      "product placements"
+    ],
+    [
+      "consumer values",
+      "shaped by",
+      "decision-making"
+    ],
+    [
+      "consumer values",
+      "shaped by",
+      "purchase intentions"
+    ],
+    [
+      "consumer values",
+      "shapes",
+      "cultural differences"
+    ],
+    [
+      "consumer values",
+      "shapes",
+      "norms"
+    ],
+    [
+      "consumer values",
+      "shapes",
+      "psychological factors"
+    ],
+    [
+      "consumer values",
+      "shapes",
+      "social norms"
+    ],
+    [
+      "cultural differences",
+      "affects",
+      "consumer interactions"
+    ],
+    [
+      "cultural differences",
+      "affects",
+      "personal preferences"
+    ],
+    [
+      "cultural differences",
+      "affects",
+      "purchasing decisions"
+    ],
+    [
+      "cultural differences",
+      "influenced by",
+      "peer pressure"
+    ],
+    [
+      "cultural differences",
+      "influences",
+      "beliefs"
+    ],
+    [
+      "cultural differences",
+      "influences",
+      "marketing influence"
+    ],
+    [
+      "cultural differences",
+      "shaped by",
+      "influences"
+    ],
+    [
+      "cultural differences",
+      "shaped by",
+      "intrinsic motivation"
+    ],
+    [
+      "cultural differences",
+      "shapes",
+      "consumer behavior"
+    ],
+    [
+      "cultural differences",
+      "shapes",
+      "customs"
+    ],
+    [
+      "cultural differences",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "customs",
+      "influenced by",
+      "brand image"
+    ],
+    [
+      "customs",
+      "influences",
+      "consumer interactions"
+    ],
+    [
+      "customs",
+      "influences",
+      "consumer psychology"
+    ],
+    [
+      "customs",
+      "influences",
+      "extrinsic motivation"
+    ],
+    [
+      "customs",
+      "influences",
+      "intrinsic motivation"
+    ],
+    [
+      "customs",
+      "influences",
+      "marketing influence"
+    ],
+    [
+      "customs",
+      "shaped by",
+      "consumer behavior"
+    ],
+    [
+      "customs",
+      "shapes",
+      "emotional factors"
+    ],
+    [
+      "decision influences",
+      "affects",
+      "consumer interactions"
+    ],
+    [
+      "decision influences",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "decision influences",
+      "influences",
+      "emotions"
+    ],
+    [
+      "decision influences",
+      "influences",
+      "group harmony"
+    ],
+    [
+      "decision influences",
+      "influences",
+      "positive attitudes"
+    ],
+    [
+      "decision influences",
+      "is influenced by",
+      "engaging experiences"
+    ],
+    [
+      "decision influences",
+      "is influenced by",
+      "marketing messages"
+    ],
+    [
+      "decision influences",
+      "is influenced by",
+      "peer pressure"
+    ],
+    [
+      "decision influences",
+      "shapes",
+      "customs"
+    ],
+    [
+      "decision influences",
+      "shapes",
+      "decision-making"
+    ],
+    [
+      "decision influences",
+      "shapes",
+      "marketing influence"
+    ],
+    [
+      "decision-making",
+      "affects",
+      "impulse purchases"
+    ],
+    [
+      "decision-making",
+      "affects",
+      "influences"
+    ],
+    [
+      "decision-making",
+      "affects",
+      "purchasing decisions"
+    ],
+    [
+      "decision-making",
+      "aligns with",
+      "value alignment"
+    ],
+    [
+      "decision-making",
+      "drives",
+      "purchase intentions"
+    ],
+    [
+      "decision-making",
+      "enhances",
+      "tailored marketing"
+    ],
+    [
+      "decision-making",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "decision-making",
+      "influences",
+      "discounts"
+    ],
+    [
+      "decision-making",
+      "influences",
+      "information search"
+    ],
+    [
+      "decision-making",
+      "influences",
+      "intrinsic motivation"
+    ],
+    [
+      "decision-making",
+      "influences",
+      "perception"
+    ],
+    [
+      "decision-making",
+      "influences",
+      "personal preferences"
+    ],
+    [
+      "decision-making",
+      "influences",
+      "positive attitudes"
+    ],
+    [
+      "decision-making",
+      "involves",
+      "self-expression"
+    ],
+    [
+      "decision-making",
+      "is aligned with",
+      "product alignment"
+    ],
+    [
+      "decision-making",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "decision-making",
+      "shapes",
+      "cultural differences"
+    ],
+    [
+      "decision-making",
+      "shapes",
+      "marketing strategies"
+    ],
+    [
+      "decision-making",
+      "shapes",
+      "social norms"
+    ],
+    [
+      "decision-making",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "discounts",
+      "affects",
+      "brand image"
+    ],
+    [
+      "discounts",
+      "affects",
+      "decision influences"
+    ],
+    [
+      "discounts",
+      "affects",
+      "influences"
+    ],
+    [
+      "discounts",
+      "affects",
+      "product alignment"
+    ],
+    [
+      "discounts",
+      "affects",
+      "purchasing decisions"
+    ],
+    [
+      "discounts",
+      "drives",
+      "marketing strategies"
+    ],
+    [
+      "discounts",
+      "drives",
+      "purchase intentions"
+    ],
+    [
+      "discounts",
+      "influenced by",
+      "perception"
+    ],
+    [
+      "discounts",
+      "influences",
+      "emotional triggers"
+    ],
+    [
+      "discounts",
+      "influences",
+      "emotions"
+    ],
+    [
+      "discounts",
+      "influences",
+      "external factors"
+    ],
+    [
+      "discounts",
+      "influences",
+      "information search"
+    ],
+    [
+      "discounts",
+      "influences",
+      "marketing influence"
+    ],
+    [
+      "discounts",
+      "influences",
+      "positive attitudes"
+    ],
+    [
+      "discounts",
+      "influences",
+      "self-expression"
+    ],
+    [
+      "discounts",
+      "is influenced by",
+      "brand loyalty"
+    ],
+    [
+      "discounts",
+      "is influenced by",
+      "consumer preferences"
+    ],
+    [
+      "discounts",
+      "is influenced by",
+      "values"
+    ],
+    [
+      "discounts",
+      "shapes",
+      "attitudes"
+    ],
+    [
+      "emotional factors",
+      "affects",
+      "decision influences"
+    ],
+    [
+      "emotional factors",
+      "affects",
+      "decision-making"
+    ],
+    [
+      "emotional factors",
+      "affects",
+      "influences"
+    ],
+    [
+      "emotional factors",
+      "affects",
+      "purchasing decisions"
+    ],
+    [
+      "emotional factors",
+      "drives",
+      "purchase intentions"
+    ],
+    [
+      "emotional factors",
+      "influences",
+      "consumer psychology"
+    ],
+    [
+      "emotional factors",
+      "influences",
+      "consumer values"
+    ],
+    [
+      "emotional factors",
+      "influences",
+      "personal preferences"
+    ],
+    [
+      "emotional factors",
+      "influences",
+      "positive attitudes"
+    ],
+    [
+      "emotional factors",
+      "influences",
+      "psychological factors"
+    ],
+    [
+      "emotional factors",
+      "promotes",
+      "self-expression"
+    ],
+    [
+      "emotional factors",
+      "shapes",
+      "marketing messages"
+    ],
+    [
+      "emotional factors",
+      "tailors",
+      "tailored marketing"
+    ],
+    [
+      "emotional triggers",
+      "drives",
+      "decision influences"
+    ],
+    [
+      "emotional triggers",
+      "drives",
+      "purchase intentions"
+    ],
+    [
+      "emotional triggers",
+      "influences",
+      "alignment"
+    ],
+    [
+      "emotional triggers",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "emotional triggers",
+      "influences",
+      "consumer values"
+    ],
+    [
+      "emotional triggers",
+      "influences",
+      "customs"
+    ],
+    [
+      "emotional triggers",
+      "influences",
+      "purchasing decisions"
+    ],
+    [
+      "emotional triggers",
+      "shapes",
+      "marketing influence"
+    ],
+    [
+      "emotional triggers",
+      "shapes",
+      "preference factors"
+    ],
+    [
+      "emotions",
+      "affects",
+      "preference factors"
+    ],
+    [
+      "emotions",
+      "drives",
+      "purchase intentions"
+    ],
+    [
+      "emotions",
+      "influenced by",
+      "influences"
+    ],
+    [
+      "emotions",
+      "influences",
+      "complexity"
+    ],
+    [
+      "emotions",
+      "influences",
+      "engaging experiences"
+    ],
+    [
+      "emotions",
+      "influences",
+      "external factors"
+    ],
+    [
+      "emotions",
+      "influences",
+      "motivation sources"
+    ],
+    [
+      "emotions",
+      "influences",
+      "product placements"
+    ],
+    [
+      "emotions",
+      "influences",
+      "self-expression"
+    ],
+    [
+      "emotions",
+      "shaped by",
+      "decision-making"
+    ],
+    [
+      "emotions",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "engaging experiences",
+      "aligns with",
+      "product alignment"
+    ],
+    [
+      "engaging experiences",
+      "creates",
+      "brand image"
+    ],
+    [
+      "engaging experiences",
+      "creates",
+      "internal factors"
+    ],
+    [
+      "engaging experiences",
+      "drives",
+      "purchase intentions"
+    ],
+    [
+      "engaging experiences",
+      "enhances",
+      "consumer interactions"
+    ],
+    [
+      "engaging experiences",
+      "enhances",
+      "motivation sources"
+    ],
+    [
+      "engaging experiences",
+      "enhances",
+      "product placements"
+    ],
+    [
+      "engaging experiences",
+      "enhances",
+      "tailored marketing"
+    ],
+    [
+      "engaging experiences",
+      "influences",
+      "attitudes"
+    ],
+    [
+      "engaging experiences",
+      "influences",
+      "behavior influences"
+    ],
+    [
+      "engaging experiences",
+      "influences",
+      "preference factors"
+    ],
+    [
+      "engaging experiences",
+      "reflects",
+      "personal preferences"
+    ],
+    [
+      "engaging experiences",
+      "shapes",
+      "consumer psychology"
+    ],
+    [
+      "engaging experiences",
+      "shapes",
+      "marketing influence"
+    ],
+    [
+      "external factors",
+      "affects",
+      "consumer interactions"
+    ],
+    [
+      "external factors",
+      "affects",
+      "influences"
+    ],
+    [
+      "external factors",
+      "influenced by",
+      "consumer preferences"
+    ],
+    [
+      "external factors",
+      "influenced by",
+      "emotional triggers"
+    ],
+    [
+      "external factors",
+      "influenced by",
+      "impulse purchases"
+    ],
+    [
+      "external factors",
+      "influenced by",
+      "information search"
+    ],
+    [
+      "external factors",
+      "influenced by",
+      "intrinsic motivation"
+    ],
+    [
+      "external factors",
+      "influenced by",
+      "perception"
+    ],
+    [
+      "external factors",
+      "influenced by",
+      "personal preferences"
+    ],
+    [
+      "external factors",
+      "influenced by",
+      "self-expression"
+    ],
+    [
+      "external factors",
+      "influences",
+      "marketing strategies"
+    ],
+    [
+      "external factors",
+      "influences",
+      "peer pressure"
+    ],
+    [
+      "external factors",
+      "influences",
+      "purchasing decisions"
+    ],
+    [
+      "external factors",
+      "is influenced by",
+      "decision-making"
+    ],
+    [
+      "extrinsic motivation",
+      "affects",
+      "brand image"
+    ],
+    [
+      "extrinsic motivation",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "extrinsic motivation",
+      "affects",
+      "influences"
+    ],
+    [
+      "extrinsic motivation",
+      "affects",
+      "product placements"
+    ],
+    [
+      "extrinsic motivation",
+      "affects",
+      "purchase intentions"
+    ],
+    [
+      "extrinsic motivation",
+      "aligns with",
+      "alignment"
+    ],
+    [
+      "extrinsic motivation",
+      "aligns with",
+      "product alignment"
+    ],
+    [
+      "extrinsic motivation",
+      "aligns with",
+      "value alignment"
+    ],
+    [
+      "extrinsic motivation",
+      "contrasts with",
+      "intrinsic motivation"
+    ],
+    [
+      "extrinsic motivation",
+      "drives",
+      "impulse purchases"
+    ],
+    [
+      "extrinsic motivation",
+      "drives",
+      "information search"
+    ],
+    [
+      "extrinsic motivation",
+      "encourages",
+      "discounts"
+    ],
+    [
+      "extrinsic motivation",
+      "enhances",
+      "engaging experiences"
+    ],
+    [
+      "extrinsic motivation",
+      "influences",
+      "brand loyalty"
+    ],
+    [
+      "extrinsic motivation",
+      "influences",
+      "marketing messages"
+    ],
+    [
+      "extrinsic motivation",
+      "influences",
+      "motivation types"
+    ],
+    [
+      "extrinsic motivation",
+      "influences",
+      "perception"
+    ],
+    [
+      "extrinsic motivation",
+      "influences",
+      "personal preferences"
+    ],
+    [
+      "extrinsic motivation",
+      "influences",
+      "psychological factors"
+    ],
+    [
+      "extrinsic motivation",
+      "influences",
+      "social influence"
+    ],
+    [
+      "extrinsic motivation",
+      "influences",
+      "tailored marketing"
+    ],
+    [
+      "extrinsic motivation",
+      "is influenced by",
+      "external factors"
+    ],
+    [
+      "extrinsic motivation",
+      "leads to",
+      "positive attitudes"
+    ],
+    [
+      "extrinsic motivation",
+      "promotes",
+      "self-expression"
+    ],
+    [
+      "extrinsic motivation",
+      "provides",
+      "motivation sources"
+    ],
+    [
+      "extrinsic motivation",
+      "shapes",
+      "attitudes"
+    ],
+    [
+      "extrinsic motivation",
+      "shapes",
+      "consumer preferences"
+    ],
+    [
+      "extrinsic motivation",
+      "shapes",
+      "consumer psychology"
+    ],
+    [
+      "extrinsic motivation",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "group harmony",
+      "affects",
+      "social influence"
+    ],
+    [
+      "group harmony",
+      "aligns with",
+      "value alignment"
+    ],
+    [
+      "group harmony",
+      "drives",
+      "extrinsic motivation"
+    ],
+    [
+      "group harmony",
+      "enhances",
+      "product placements"
+    ],
+    [
+      "group harmony",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "group harmony",
+      "influences",
+      "impulse purchases"
+    ],
+    [
+      "group harmony",
+      "influences",
+      "marketing influence"
+    ],
+    [
+      "group harmony",
+      "influences",
+      "purchase intentions"
+    ],
+    [
+      "group harmony",
+      "influences",
+      "social norms"
+    ],
+    [
+      "group harmony",
+      "prioritizes",
+      "discounts"
+    ],
+    [
+      "group harmony",
+      "promotes",
+      "positive attitudes"
+    ],
+    [
+      "group harmony",
+      "reflects",
+      "consumer values"
+    ],
+    [
+      "group harmony",
+      "shapes",
+      "attitudes"
+    ],
+    [
+      "group harmony",
+      "shapes",
+      "customs"
+    ],
+    [
+      "impulse purchases",
+      "affects",
+      "purchasing decisions"
+    ],
+    [
+      "impulse purchases",
+      "aligns with",
+      "product alignment"
+    ],
+    [
+      "impulse purchases",
+      "deters",
+      "negative attitudes"
+    ],
+    [
+      "impulse purchases",
+      "driven by",
+      "peer pressure"
+    ],
+    [
+      "impulse purchases",
+      "drives",
+      "consumer behavior"
+    ],
+    [
+      "impulse purchases",
+      "drives",
+      "decision influences"
+    ],
+    [
+      "impulse purchases",
+      "drives",
+      "emotional triggers"
+    ],
+    [
+      "impulse purchases",
+      "drives",
+      "internal factors"
+    ],
+    [
+      "impulse purchases",
+      "drives",
+      "personal preferences"
+    ],
+    [
+      "impulse purchases",
+      "drives",
+      "psychological factors"
+    ],
+    [
+      "impulse purchases",
+      "drives",
+      "tailored marketing"
+    ],
+    [
+      "impulse purchases",
+      "encourages",
+      "discounts"
+    ],
+    [
+      "impulse purchases",
+      "enhances",
+      "engaging experiences"
+    ],
+    [
+      "impulse purchases",
+      "influenced by",
+      "attitudes"
+    ],
+    [
+      "impulse purchases",
+      "influences",
+      "brand image"
+    ],
+    [
+      "impulse purchases",
+      "influences",
+      "influences"
+    ],
+    [
+      "impulse purchases",
+      "influences",
+      "marketing influence"
+    ],
+    [
+      "impulse purchases",
+      "influences",
+      "product placements"
+    ],
+    [
+      "impulse purchases",
+      "influences",
+      "social norms"
+    ],
+    [
+      "impulse purchases",
+      "is influenced by",
+      "social influence"
+    ],
+    [
+      "impulse purchases",
+      "leads to",
+      "purchase intentions"
+    ],
+    [
+      "impulse purchases",
+      "reflects",
+      "consumer values"
+    ],
+    [
+      "impulse purchases",
+      "result from",
+      "positive attitudes"
+    ],
+    [
+      "impulse purchases",
+      "utilizes",
+      "marketing strategies"
+    ],
+    [
+      "influences",
+      "affects",
+      "peer pressure"
+    ],
+    [
+      "influences",
+      "affects",
+      "social influence"
+    ],
+    [
+      "influences",
+      "influenced by",
+      "brand loyalty"
+    ],
+    [
+      "influences",
+      "influenced by",
+      "information search"
+    ],
+    [
+      "influences",
+      "is influenced by",
+      "value alignment"
+    ],
+    [
+      "influences",
+      "shapes",
+      "marketing strategies"
+    ],
+    [
+      "influences",
+      "shapes",
+      "purchasing decisions"
+    ],
+    [
+      "information search",
+      "affects",
+      "decision influences"
+    ],
+    [
+      "information search",
+      "affects",
+      "marketing influence"
+    ],
+    [
+      "information search",
+      "affects",
+      "negative attitudes"
+    ],
+    [
+      "information search",
+      "affects",
+      "purchase intentions"
+    ],
+    [
+      "information search",
+      "driven by",
+      "intrinsic motivation"
+    ],
+    [
+      "information search",
+      "driven by",
+      "motivation sources"
+    ],
+    [
+      "information search",
+      "enhances",
+      "engaging experiences"
+    ],
+    [
+      "information search",
+      "influenced by",
+      "peer pressure"
+    ],
+    [
+      "information search",
+      "influences",
+      "brand image"
+    ],
+    [
+      "information search",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "information search",
+      "influences",
+      "consumer preferences"
+    ],
+    [
+      "information search",
+      "influences",
+      "cultural differences"
+    ],
+    [
+      "information search",
+      "influences",
+      "customs"
+    ],
+    [
+      "information search",
+      "influences",
+      "personal preferences"
+    ],
+    [
+      "information search",
+      "influences",
+      "purchasing decisions"
+    ],
+    [
+      "information search",
+      "informs",
+      "consumer psychology"
+    ],
+    [
+      "information search",
+      "involves",
+      "alignment"
+    ],
+    [
+      "information search",
+      "tailors",
+      "tailored marketing"
+    ],
+    [
+      "internal factors",
+      "influenced by",
+      "decision-making"
+    ],
+    [
+      "internal factors",
+      "influences",
+      "brand loyalty"
+    ],
+    [
+      "internal factors",
+      "influences",
+      "customs"
+    ],
+    [
+      "internal factors",
+      "influences",
+      "emotions"
+    ],
+    [
+      "internal factors",
+      "influences",
+      "information search"
+    ],
+    [
+      "internal factors",
+      "influences",
+      "intrinsic motivation"
+    ],
+    [
+      "internal factors",
+      "influences",
+      "psychological factors"
+    ],
+    [
+      "internal factors",
+      "influences",
+      "purchasing decisions"
+    ],
+    [
+      "internal factors",
+      "influences",
+      "social norms"
+    ],
+    [
+      "internal factors",
+      "informs",
+      "tailored marketing"
+    ],
+    [
+      "internal factors",
+      "is influenced by",
+      "extrinsic motivation"
+    ],
+    [
+      "internal factors",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "internal factors",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "intrinsic motivation",
+      "affects",
+      "brand image"
+    ],
+    [
+      "intrinsic motivation",
+      "affects",
+      "influences"
+    ],
+    [
+      "intrinsic motivation",
+      "creates",
+      "product alignment"
+    ],
+    [
+      "intrinsic motivation",
+      "drives",
+      "consumer behavior"
+    ],
+    [
+      "intrinsic motivation",
+      "drives",
+      "emotional factors"
+    ],
+    [
+      "intrinsic motivation",
+      "drives",
+      "impulse purchases"
+    ],
+    [
+      "intrinsic motivation",
+      "drives",
+      "purchase intentions"
+    ],
+    [
+      "intrinsic motivation",
+      "drives",
+      "purchasing decisions"
+    ],
+    [
+      "intrinsic motivation",
+      "enhances",
+      "positive attitudes"
+    ],
+    [
+      "intrinsic motivation",
+      "includes",
+      "motivation types"
+    ],
+    [
+      "intrinsic motivation",
+      "influenced by",
+      "negative attitudes"
+    ],
+    [
+      "intrinsic motivation",
+      "influences",
+      "attitudes"
+    ],
+    [
+      "intrinsic motivation",
+      "influences",
+      "consumer interactions"
+    ],
+    [
+      "intrinsic motivation",
+      "influences",
+      "emotional triggers"
+    ],
+    [
+      "intrinsic motivation",
+      "influences",
+      "emotions"
+    ],
+    [
+      "intrinsic motivation",
+      "influences",
+      "marketing strategies"
+    ],
+    [
+      "intrinsic motivation",
+      "informs",
+      "tailored marketing"
+    ],
+    [
+      "intrinsic motivation",
+      "is influenced by",
+      "perception"
+    ],
+    [
+      "intrinsic motivation",
+      "motivates",
+      "consumer psychology"
+    ],
+    [
+      "intrinsic motivation",
+      "promotes",
+      "alignment"
+    ],
+    [
+      "intrinsic motivation",
+      "promotes",
+      "self-expression"
+    ],
+    [
+      "intrinsic motivation",
+      "reflects",
+      "consumer values"
+    ],
+    [
+      "marketing influence",
+      "affects",
+      "brand loyalty"
+    ],
+    [
+      "marketing influence",
+      "affects",
+      "external factors"
+    ],
+    [
+      "marketing influence",
+      "affects",
+      "positive attitudes"
+    ],
+    [
+      "marketing influence",
+      "influenced by",
+      "decision-making"
+    ],
+    [
+      "marketing influence",
+      "influences",
+      "alignment"
+    ],
+    [
+      "marketing influence",
+      "influences",
+      "beliefs"
+    ],
+    [
+      "marketing influence",
+      "influences",
+      "consumer psychology"
+    ],
+    [
+      "marketing influence",
+      "influences",
+      "consumer values"
+    ],
+    [
+      "marketing influence",
+      "influences",
+      "emotional factors"
+    ],
+    [
+      "marketing influence",
+      "influences",
+      "intrinsic motivation"
+    ],
+    [
+      "marketing influence",
+      "influences",
+      "peer pressure"
+    ],
+    [
+      "marketing influence",
+      "influences",
+      "preference factors"
+    ],
+    [
+      "marketing influence",
+      "influences",
+      "value alignment"
+    ],
+    [
+      "marketing influence",
+      "is influenced by",
+      "emotional triggers"
+    ],
+    [
+      "marketing influence",
+      "shapes",
+      "consumer interactions"
+    ],
+    [
+      "marketing influence",
+      "shapes",
+      "emotions"
+    ],
+    [
+      "marketing messages",
+      "affects",
+      "decision influences"
+    ],
+    [
+      "marketing messages",
+      "affects",
+      "emotions"
+    ],
+    [
+      "marketing messages",
+      "affects",
+      "external factors"
+    ],
+    [
+      "marketing messages",
+      "affects",
+      "marketing influence"
+    ],
+    [
+      "marketing messages",
+      "affects",
+      "purchasing decisions"
+    ],
+    [
+      "marketing messages",
+      "aligns with",
+      "product alignment"
+    ],
+    [
+      "marketing messages",
+      "aligns with",
+      "value alignment"
+    ],
+    [
+      "marketing messages",
+      "enhances",
+      "product placements"
+    ],
+    [
+      "marketing messages",
+      "facilitates",
+      "consumer interactions"
+    ],
+    [
+      "marketing messages",
+      "influenced by",
+      "impulse purchases"
+    ],
+    [
+      "marketing messages",
+      "influenced by",
+      "influences"
+    ],
+    [
+      "marketing messages",
+      "influenced by",
+      "internal factors"
+    ],
+    [
+      "marketing messages",
+      "influenced by",
+      "psychological factors"
+    ],
+    [
+      "marketing messages",
+      "influences",
+      "behavior influences"
+    ],
+    [
+      "marketing messages",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "marketing messages",
+      "influences",
+      "purchase intentions"
+    ],
+    [
+      "marketing messages",
+      "influences",
+      "tailored marketing"
+    ],
+    [
+      "marketing messages",
+      "informs",
+      "beliefs"
+    ],
+    [
+      "marketing messages",
+      "serves as",
+      "motivation sources"
+    ],
+    [
+      "marketing messages",
+      "shapes",
+      "attitudes"
+    ],
+    [
+      "marketing messages",
+      "shapes",
+      "brand image"
+    ],
+    [
+      "marketing messages",
+      "shapes",
+      "consumer preferences"
+    ],
+    [
+      "marketing messages",
+      "shapes",
+      "consumer values"
+    ],
+    [
+      "marketing messages",
+      "shapes",
+      "customs"
+    ],
+    [
+      "marketing messages",
+      "shapes",
+      "norms"
+    ],
+    [
+      "marketing messages",
+      "shapes",
+      "personal preferences"
+    ],
+    [
+      "marketing messages",
+      "supports",
+      "alignment"
+    ],
+    [
+      "marketing messages",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "marketing strategies",
+      "influenced by",
+      "personal preferences"
+    ],
+    [
+      "marketing strategies",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "marketing strategies",
+      "influences",
+      "consumer interactions"
+    ],
+    [
+      "marketing strategies",
+      "influences",
+      "customs"
+    ],
+    [
+      "marketing strategies",
+      "influences",
+      "perception"
+    ],
+    [
+      "marketing strategies",
+      "influences",
+      "purchasing decisions"
+    ],
+    [
+      "marketing strategies",
+      "informed by",
+      "beliefs"
+    ],
+    [
+      "marketing strategies",
+      "informed by",
+      "consumer psychology"
+    ],
+    [
+      "marketing strategies",
+      "informed by",
+      "emotional factors"
+    ],
+    [
+      "marketing strategies",
+      "shapes",
+      "consumer values"
+    ],
+    [
+      "marketing strategies",
+      "shapes",
+      "emotions"
+    ],
+    [
+      "marketing strategies",
+      "shapes",
+      "purchase intentions"
+    ],
+    [
+      "marketing strategies",
+      "supports",
+      "information search"
+    ],
+    [
+      "motivation sources",
+      "affects",
+      "consumer interactions"
+    ],
+    [
+      "motivation sources",
+      "aligns with",
+      "alignment"
+    ],
+    [
+      "motivation sources",
+      "derived from",
+      "intrinsic motivation"
+    ],
+    [
+      "motivation sources",
+      "drives",
+      "personal preferences"
+    ],
+    [
+      "motivation sources",
+      "guides",
+      "marketing strategies"
+    ],
+    [
+      "motivation sources",
+      "influences",
+      "brand image"
+    ],
+    [
+      "motivation sources",
+      "influences",
+      "complexity"
+    ],
+    [
+      "motivation sources",
+      "influences",
+      "product placements"
+    ],
+    [
+      "motivation sources",
+      "influences",
+      "value alignment"
+    ],
+    [
+      "motivation sources",
+      "is influenced by",
+      "decision-making"
+    ],
+    [
+      "motivation sources",
+      "shapes",
+      "consumer preferences"
+    ],
+    [
+      "motivation sources",
+      "shapes",
+      "cultural differences"
+    ],
+    [
+      "motivation sources",
+      "shapes",
+      "external factors"
+    ],
+    [
+      "motivation sources",
+      "shapes",
+      "purchase intentions"
+    ],
+    [
+      "motivation types",
+      "affects",
+      "attitudes"
+    ],
+    [
+      "motivation types",
+      "affects",
+      "decision influences"
+    ],
+    [
+      "motivation types",
+      "drives",
+      "marketing influence"
+    ],
+    [
+      "motivation types",
+      "drives",
+      "purchase intentions"
+    ],
+    [
+      "motivation types",
+      "fosters",
+      "brand loyalty"
+    ],
+    [
+      "motivation types",
+      "includes",
+      "external factors"
+    ],
+    [
+      "motivation types",
+      "includes",
+      "psychological factors"
+    ],
+    [
+      "motivation types",
+      "influences",
+      "consumer preferences"
+    ],
+    [
+      "motivation types",
+      "influences",
+      "discounts"
+    ],
+    [
+      "motivation types",
+      "influences",
+      "marketing strategies"
+    ],
+    [
+      "motivation types",
+      "influences",
+      "perception"
+    ],
+    [
+      "motivation types",
+      "influences",
+      "preference factors"
+    ],
+    [
+      "motivation types",
+      "informs",
+      "beliefs"
+    ],
+    [
+      "motivation types",
+      "informs",
+      "emotions"
+    ],
+    [
+      "motivation types",
+      "informs",
+      "information search"
+    ],
+    [
+      "motivation types",
+      "informs",
+      "marketing messages"
+    ],
+    [
+      "motivation types",
+      "is a factor in",
+      "product placements"
+    ],
+    [
+      "motivation types",
+      "promotes",
+      "positive attitudes"
+    ],
+    [
+      "motivation types",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "negative attitudes",
+      "affects",
+      "attitudes"
+    ],
+    [
+      "negative attitudes",
+      "affects",
+      "brand image"
+    ],
+    [
+      "negative attitudes",
+      "affects",
+      "brand loyalty"
+    ],
+    [
+      "negative attitudes",
+      "affects",
+      "decision influences"
+    ],
+    [
+      "negative attitudes",
+      "affects",
+      "emotional factors"
+    ],
+    [
+      "negative attitudes",
+      "affects",
+      "group harmony"
+    ],
+    [
+      "negative attitudes",
+      "affects",
+      "product placements"
+    ],
+    [
+      "negative attitudes",
+      "affects",
+      "purchasing decisions"
+    ],
+    [
+      "negative attitudes",
+      "affects",
+      "tailored marketing"
+    ],
+    [
+      "negative attitudes",
+      "impacts",
+      "consumer interactions"
+    ],
+    [
+      "negative attitudes",
+      "impacts",
+      "decision-making"
+    ],
+    [
+      "negative attitudes",
+      "influences",
+      "customs"
+    ],
+    [
+      "negative attitudes",
+      "influences",
+      "marketing influence"
+    ],
+    [
+      "negative attitudes",
+      "influences",
+      "social influence"
+    ],
+    [
+      "negative attitudes",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "norms",
+      "adds to",
+      "complexity"
+    ],
+    [
+      "norms",
+      "affects",
+      "product placements"
+    ],
+    [
+      "norms",
+      "affects",
+      "purchase intentions"
+    ],
+    [
+      "norms",
+      "affects",
+      "purchasing decisions"
+    ],
+    [
+      "norms",
+      "influenced by",
+      "group harmony"
+    ],
+    [
+      "norms",
+      "influenced by",
+      "internal factors"
+    ],
+    [
+      "norms",
+      "influences",
+      "brand loyalty"
+    ],
+    [
+      "norms",
+      "influences",
+      "marketing influence"
+    ],
+    [
+      "norms",
+      "influences",
+      "personal preferences"
+    ],
+    [
+      "norms",
+      "is influenced by",
+      "values"
+    ],
+    [
+      "norms",
+      "shapes",
+      "attitudes"
+    ],
+    [
+      "peer pressure",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "peer pressure",
+      "affects",
+      "decision influences"
+    ],
+    [
+      "peer pressure",
+      "drives",
+      "purchase intentions"
+    ],
+    [
+      "peer pressure",
+      "influenced by",
+      "brand loyalty"
+    ],
+    [
+      "peer pressure",
+      "influenced by",
+      "intrinsic motivation"
+    ],
+    [
+      "peer pressure",
+      "influences",
+      "customs"
+    ],
+    [
+      "peer pressure",
+      "influences",
+      "discounts"
+    ],
+    [
+      "peer pressure",
+      "influences",
+      "purchasing decisions"
+    ],
+    [
+      "peer pressure",
+      "influences",
+      "social influence"
+    ],
+    [
+      "peer pressure",
+      "is influenced by",
+      "decision-making"
+    ],
+    [
+      "peer pressure",
+      "is influenced by",
+      "emotional factors"
+    ],
+    [
+      "peer pressure",
+      "is shaped by",
+      "consumer psychology"
+    ],
+    [
+      "peer pressure",
+      "shapes",
+      "consumer values"
+    ],
+    [
+      "peer pressure",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "perception",
+      "affects",
+      "behavior influences"
+    ],
+    [
+      "perception",
+      "affects",
+      "decision influences"
+    ],
+    [
+      "perception",
+      "affects",
+      "marketing influence"
+    ],
+    [
+      "perception",
+      "affects",
+      "purchasing decisions"
+    ],
+    [
+      "perception",
+      "aligns with",
+      "value alignment"
+    ],
+    [
+      "perception",
+      "enhances",
+      "engaging experiences"
+    ],
+    [
+      "perception",
+      "influences",
+      "beliefs"
+    ],
+    [
+      "perception",
+      "influences",
+      "brand loyalty"
+    ],
+    [
+      "perception",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "perception",
+      "influences",
+      "emotions"
+    ],
+    [
+      "perception",
+      "influences",
+      "impulse purchases"
+    ],
+    [
+      "perception",
+      "influences",
+      "information search"
+    ],
+    [
+      "perception",
+      "influences",
+      "positive attitudes"
+    ],
+    [
+      "perception",
+      "influences",
+      "product alignment"
+    ],
+    [
+      "perception",
+      "is shaped by",
+      "negative attitudes"
+    ],
+    [
+      "perception",
+      "shapes",
+      "attitudes"
+    ],
+    [
+      "perception",
+      "shapes",
+      "brand image"
+    ],
+    [
+      "perception",
+      "shapes",
+      "consumer interactions"
+    ],
+    [
+      "perception",
+      "shapes",
+      "consumer preferences"
+    ],
+    [
+      "perception",
+      "shapes",
+      "consumer values"
+    ],
+    [
+      "perception",
+      "shapes",
+      "marketing messages"
+    ],
+    [
+      "perception",
+      "shapes",
+      "product placements"
+    ],
+    [
+      "perception",
+      "shapes",
+      "social influence"
+    ],
+    [
+      "perception",
+      "shapes",
+      "social norms"
+    ],
+    [
+      "personal preferences",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "personal preferences",
+      "affects",
+      "decision influences"
+    ],
+    [
+      "personal preferences",
+      "aligns with",
+      "product alignment"
+    ],
+    [
+      "personal preferences",
+      "drives",
+      "purchase intentions"
+    ],
+    [
+      "personal preferences",
+      "influences",
+      "attitudes"
+    ],
+    [
+      "personal preferences",
+      "influences",
+      "influences"
+    ],
+    [
+      "personal preferences",
+      "influences",
+      "psychological factors"
+    ],
+    [
+      "personal preferences",
+      "influences",
+      "purchasing decisions"
+    ],
+    [
+      "personal preferences",
+      "is influenced by",
+      "alignment"
+    ],
+    [
+      "personal preferences",
+      "is influenced by",
+      "discounts"
+    ],
+    [
+      "personal preferences",
+      "shaped by",
+      "perception"
+    ],
+    [
+      "personal preferences",
+      "shapes",
+      "consumer values"
+    ],
+    [
+      "personal preferences",
+      "shapes",
+      "customs"
+    ],
+    [
+      "positive attitudes",
+      "affects",
+      "personal preferences"
+    ],
+    [
+      "positive attitudes",
+      "based on",
+      "beliefs"
+    ],
+    [
+      "positive attitudes",
+      "connected to",
+      "emotions"
+    ],
+    [
+      "positive attitudes",
+      "contrasts with",
+      "negative attitudes"
+    ],
+    [
+      "positive attitudes",
+      "drives",
+      "consumer preferences"
+    ],
+    [
+      "positive attitudes",
+      "influenced by",
+      "brand loyalty"
+    ],
+    [
+      "positive attitudes",
+      "influences",
+      "consumer interactions"
+    ],
+    [
+      "positive attitudes",
+      "influences",
+      "customs"
+    ],
+    [
+      "positive attitudes",
+      "influences",
+      "marketing strategies"
+    ],
+    [
+      "positive attitudes",
+      "influences",
+      "preference factors"
+    ],
+    [
+      "positive attitudes",
+      "influences",
+      "product placements"
+    ],
+    [
+      "positive attitudes",
+      "promotes",
+      "purchase intentions"
+    ],
+    [
+      "positive attitudes",
+      "promotes",
+      "purchasing decisions"
+    ],
+    [
+      "positive attitudes",
+      "reflects",
+      "alignment"
+    ],
+    [
+      "positive attitudes",
+      "reflects",
+      "consumer values"
+    ],
+    [
+      "positive attitudes",
+      "results in",
+      "tailored marketing"
+    ],
+    [
+      "positive attitudes",
+      "shaped by",
+      "information search"
+    ],
+    [
+      "positive attitudes",
+      "shapes",
+      "consumer behavior"
+    ],
+    [
+      "positive attitudes",
+      "shapes",
+      "social influence"
+    ],
+    [
+      "positive attitudes",
+      "triggered by",
+      "emotional triggers"
+    ],
+    [
+      "preference factors",
+      "influenced by",
+      "impulse purchases"
+    ],
+    [
+      "preference factors",
+      "influences",
+      "alignment"
+    ],
+    [
+      "preference factors",
+      "influences",
+      "beliefs"
+    ],
+    [
+      "preference factors",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "preference factors",
+      "influences",
+      "consumer interactions"
+    ],
+    [
+      "preference factors",
+      "influences",
+      "customs"
+    ],
+    [
+      "preference factors",
+      "influences",
+      "intrinsic motivation"
+    ],
+    [
+      "preference factors",
+      "influences",
+      "negative attitudes"
+    ],
+    [
+      "preference factors",
+      "shapes",
+      "information search"
+    ],
+    [
+      "product alignment",
+      "aligns with",
+      "consumer interactions"
+    ],
+    [
+      "product alignment",
+      "aligns with",
+      "value alignment"
+    ],
+    [
+      "product alignment",
+      "drives",
+      "purchase intentions"
+    ],
+    [
+      "product alignment",
+      "guides",
+      "marketing strategies"
+    ],
+    [
+      "product alignment",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "product alignment",
+      "influences",
+      "consumer psychology"
+    ],
+    [
+      "product alignment",
+      "influences",
+      "preference factors"
+    ],
+    [
+      "product placements",
+      "affects",
+      "beliefs"
+    ],
+    [
+      "product placements",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "product placements",
+      "affects",
+      "decision influences"
+    ],
+    [
+      "product placements",
+      "affects",
+      "personal preferences"
+    ],
+    [
+      "product placements",
+      "affects",
+      "product alignment"
+    ],
+    [
+      "product placements",
+      "affects",
+      "purchase intentions"
+    ],
+    [
+      "product placements",
+      "aligns with",
+      "value alignment"
+    ],
+    [
+      "product placements",
+      "influenced by",
+      "influences"
+    ],
+    [
+      "product placements",
+      "influences",
+      "purchasing decisions"
+    ],
+    [
+      "product placements",
+      "is influenced by",
+      "internal factors"
+    ],
+    [
+      "product placements",
+      "reflects",
+      "customs"
+    ],
+    [
+      "product placements",
+      "shapes",
+      "attitudes"
+    ],
+    [
+      "product placements",
+      "supports",
+      "marketing strategies"
+    ],
+    [
+      "product placements",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "psychological factors",
+      "affects",
+      "behavior influences"
+    ],
+    [
+      "psychological factors",
+      "affects",
+      "peer pressure"
+    ],
+    [
+      "psychological factors",
+      "aligns with",
+      "value alignment"
+    ],
+    [
+      "psychological factors",
+      "influenced by",
+      "decision-making"
+    ],
+    [
+      "psychological factors",
+      "influences",
+      "consumer psychology"
+    ],
+    [
+      "psychological factors",
+      "influences",
+      "customs"
+    ],
+    [
+      "psychological factors",
+      "influences",
+      "emotions"
+    ],
+    [
+      "psychological factors",
+      "influences",
+      "external factors"
+    ],
+    [
+      "psychological factors",
+      "influences",
+      "social norms"
+    ],
+    [
+      "psychological factors",
+      "informs",
+      "tailored marketing"
+    ],
+    [
+      "psychological factors",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "psychological factors",
+      "shapes",
+      "brand image"
+    ],
+    [
+      "psychological factors",
+      "shapes",
+      "marketing influence"
+    ],
+    [
+      "psychological factors",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "purchase intentions",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "purchase intentions",
+      "is influenced by",
+      "discounts"
+    ],
+    [
+      "purchase intentions",
+      "leads to",
+      "alignment"
+    ],
+    [
+      "purchasing decisions",
+      "influences",
+      "decision influences"
+    ],
+    [
+      "purchasing decisions",
+      "influences",
+      "marketing influence"
+    ],
+    [
+      "purchasing decisions",
+      "influences",
+      "motivation sources"
+    ],
+    [
+      "purchasing decisions",
+      "influences",
+      "social influence"
+    ],
+    [
+      "purchasing decisions",
+      "is influenced by",
+      "emotional factors"
+    ],
+    [
+      "self-expression",
+      "deters",
+      "negative attitudes"
+    ],
+    [
+      "self-expression",
+      "enhances",
+      "product placements"
+    ],
+    [
+      "self-expression",
+      "influences",
+      "attitudes"
+    ],
+    [
+      "self-expression",
+      "influences",
+      "cultural differences"
+    ],
+    [
+      "self-expression",
+      "influences",
+      "impulse purchases"
+    ],
+    [
+      "self-expression",
+      "influences",
+      "information search"
+    ],
+    [
+      "self-expression",
+      "influences",
+      "marketing influence"
+    ],
+    [
+      "self-expression",
+      "influences",
+      "preference factors"
+    ],
+    [
+      "self-expression",
+      "influences",
+      "purchase intentions"
+    ],
+    [
+      "self-expression",
+      "influences",
+      "purchasing decisions"
+    ],
+    [
+      "self-expression",
+      "informs",
+      "tailored marketing"
+    ],
+    [
+      "self-expression",
+      "is influenced by",
+      "consumer psychology"
+    ],
+    [
+      "self-expression",
+      "is influenced by",
+      "marketing messages"
+    ],
+    [
+      "self-expression",
+      "leads to",
+      "decision influences"
+    ],
+    [
+      "self-expression",
+      "promotes",
+      "positive attitudes"
+    ],
+    [
+      "self-expression",
+      "shapes",
+      "brand image"
+    ],
+    [
+      "self-expression",
+      "shapes",
+      "consumer behavior"
+    ],
+    [
+      "self-expression",
+      "triggers",
+      "emotional triggers"
+    ],
+    [
+      "social influence",
+      "affected by",
+      "behavior influences"
+    ],
+    [
+      "social influence",
+      "affects",
+      "brand image"
+    ],
+    [
+      "social influence",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "social influence",
+      "affects",
+      "decision influences"
+    ],
+    [
+      "social influence",
+      "affects",
+      "discounts"
+    ],
+    [
+      "social influence",
+      "affects",
+      "external factors"
+    ],
+    [
+      "social influence",
+      "affects",
+      "norms"
+    ],
+    [
+      "social influence",
+      "aligns with",
+      "product alignment"
+    ],
+    [
+      "social influence",
+      "aligns with",
+      "value alignment"
+    ],
+    [
+      "social influence",
+      "influenced by",
+      "information search"
+    ],
+    [
+      "social influence",
+      "influences",
+      "consumer preferences"
+    ],
+    [
+      "social influence",
+      "influences",
+      "consumer values"
+    ],
+    [
+      "social influence",
+      "influences",
+      "internal factors"
+    ],
+    [
+      "social influence",
+      "influences",
+      "purchase intentions"
+    ],
+    [
+      "social influence",
+      "serves as",
+      "motivation sources"
+    ],
+    [
+      "social influence",
+      "shapes",
+      "attitudes"
+    ],
+    [
+      "social influence",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "social influence",
+      "shapes",
+      "consumer interactions"
+    ],
+    [
+      "social influence",
+      "shapes",
+      "consumer psychology"
+    ],
+    [
+      "social influence",
+      "shapes",
+      "cultural differences"
+    ],
+    [
+      "social influence",
+      "shapes",
+      "customs"
+    ],
+    [
+      "social influence",
+      "shapes",
+      "emotional factors"
+    ],
+    [
+      "social influence",
+      "shapes",
+      "intrinsic motivation"
+    ],
+    [
+      "social influence",
+      "shapes",
+      "marketing strategies"
+    ],
+    [
+      "social norms",
+      "affects",
+      "discounts"
+    ],
+    [
+      "social norms",
+      "affects",
+      "purchase intentions"
+    ],
+    [
+      "social norms",
+      "affects",
+      "purchasing decisions"
+    ],
+    [
+      "social norms",
+      "affects",
+      "social influence"
+    ],
+    [
+      "social norms",
+      "influences",
+      "decision influences"
+    ],
+    [
+      "social norms",
+      "influences",
+      "marketing messages"
+    ],
+    [
+      "social norms",
+      "influences",
+      "personal preferences"
+    ],
+    [
+      "social norms",
+      "influences",
+      "product alignment"
+    ],
+    [
+      "social norms",
+      "influences",
+      "product placements"
+    ],
+    [
+      "social norms",
+      "shapes",
+      "attitudes"
+    ],
+    [
+      "social norms",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "social norms",
+      "shapes",
+      "cultural differences"
+    ],
+    [
+      "social norms",
+      "shapes",
+      "customs"
+    ],
+    [
+      "social norms",
+      "shapes",
+      "influences"
+    ],
+    [
+      "social norms",
+      "shapes",
+      "positive attitudes"
+    ],
+    [
+      "social norms",
+      "shapes",
+      "tailored marketing"
+    ],
+    [
+      "tailored marketing",
+      "affects",
+      "emotions"
+    ],
+    [
+      "tailored marketing",
+      "affects",
+      "peer pressure"
+    ],
+    [
+      "tailored marketing",
+      "enhances",
+      "consumer interactions"
+    ],
+    [
+      "tailored marketing",
+      "influenced by",
+      "brand loyalty"
+    ],
+    [
+      "tailored marketing",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "tailored marketing",
+      "influences",
+      "cultural differences"
+    ],
+    [
+      "tailored marketing",
+      "influences",
+      "emotional triggers"
+    ],
+    [
+      "tailored marketing",
+      "influences",
+      "external factors"
+    ],
+    [
+      "tailored marketing",
+      "influences",
+      "marketing influence"
+    ],
+    [
+      "tailored marketing",
+      "influences",
+      "norms"
+    ],
+    [
+      "tailored marketing",
+      "informs",
+      "beliefs"
+    ],
+    [
+      "tailored marketing",
+      "is shaped by",
+      "self-expression"
+    ],
+    [
+      "tailored marketing",
+      "shapes",
+      "attitudes"
+    ],
+    [
+      "tailored marketing",
+      "shapes",
+      "behavior influences"
+    ],
+    [
+      "tailored marketing",
+      "shapes",
+      "personal preferences"
+    ],
+    [
+      "tailored marketing",
+      "utilizes",
+      "marketing strategies"
+    ],
+    [
+      "value alignment",
+      "affects",
+      "decision influences"
+    ],
+    [
+      "value alignment",
+      "aligns with",
+      "brand image"
+    ],
+    [
+      "value alignment",
+      "aligns with",
+      "engaging experiences"
+    ],
+    [
+      "value alignment",
+      "is a factor in",
+      "alignment"
+    ],
+    [
+      "value alignment",
+      "is a factor in",
+      "beliefs"
+    ],
+    [
+      "value alignment",
+      "is a factor in",
+      "emotional factors"
+    ],
+    [
+      "value alignment",
+      "is a factor in",
+      "intrinsic motivation"
+    ],
+    [
+      "value alignment",
+      "is influenced by",
+      "consumer psychology"
+    ],
+    [
+      "value alignment",
+      "is influenced by",
+      "negative attitudes"
+    ],
+    [
+      "value alignment",
+      "shapes",
+      "preference factors"
+    ],
+    [
+      "values",
+      "affects",
+      "attitudes"
+    ],
+    [
+      "values",
+      "affects",
+      "brand image"
+    ],
+    [
+      "values",
+      "affects",
+      "marketing influence"
+    ],
+    [
+      "values",
+      "affects",
+      "marketing messages"
+    ],
+    [
+      "values",
+      "creates",
+      "alignment"
+    ],
+    [
+      "values",
+      "drives",
+      "impulse purchases"
+    ],
+    [
+      "values",
+      "drives",
+      "intrinsic motivation"
+    ],
+    [
+      "values",
+      "drives",
+      "purchase intentions"
+    ],
+    [
+      "values",
+      "enables",
+      "self-expression"
+    ],
+    [
+      "values",
+      "enhances",
+      "engaging experiences"
+    ],
+    [
+      "values",
+      "influenced by",
+      "peer pressure"
+    ],
+    [
+      "values",
+      "influences",
+      "behavior influences"
+    ],
+    [
+      "values",
+      "influences",
+      "cultural differences"
+    ],
+    [
+      "values",
+      "influences",
+      "decision influences"
+    ],
+    [
+      "values",
+      "influences",
+      "internal factors"
+    ],
+    [
+      "values",
+      "influences",
+      "negative attitudes"
+    ],
+    [
+      "values",
+      "influences",
+      "product placements"
+    ],
+    [
+      "values",
+      "influences",
+      "social norms"
+    ],
+    [
+      "values",
+      "promotes",
+      "brand loyalty"
+    ],
+    [
+      "values",
+      "shaped by",
+      "emotional factors"
+    ],
+    [
+      "values",
+      "shapes",
+      "perception"
+    ],
+    [
+      "values",
+      "shapes",
+      "positive attitudes"
+    ],
+    [
+      "values",
+      "triggers",
+      "emotional triggers"
+    ]
+  ],
+  "edges": [
+    "adds to",
+    "affected by",
+    "affects",
+    "aligns with",
+    "are influenced by",
+    "based on",
+    "connected to",
+    "contrasts with",
+    "contributes to",
+    "creates",
+    "depends on",
+    "derived from",
+    "deter",
+    "deters",
+    "driven by",
+    "drives",
+    "enables",
+    "encourages",
+    "enhances",
+    "facilitates",
+    "fosters",
+    "guides",
+    "impacts",
+    "includes",
+    "influenced by",
+    "influences",
+    "informed by",
+    "informs",
+    "involves",
+    "is a component of",
+    "is a factor in",
+    "is affected by",
+    "is aligned with",
+    "is influenced by",
+    "is shaped by",
+    "leads to",
+    "motivates",
+    "prioritizes",
+    "promotes",
+    "provides",
+    "reflects",
+    "result from",
+    "results in",
+    "serves as",
+    "shaped by",
+    "shapes",
+    "sources of",
+    "supports",
+    "tailors",
+    "triggered by",
+    "triggers",
+    "utilizes"
+  ]
+}

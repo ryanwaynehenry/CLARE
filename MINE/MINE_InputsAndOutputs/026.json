@@ -1,0 +1,4048 @@
+{
+  "entities": [
+    "actuators",
+    "advanced systems",
+    "aerodynamics considerations",
+    "aerospace engineering",
+    "body construction",
+    "complex endeavor",
+    "component assembly",
+    "creative process",
+    "critical components",
+    "design plans",
+    "design process",
+    "design specifications",
+    "educational experience",
+    "electric propulsion",
+    "electronics installation",
+    "engineering principles",
+    "exploration inspiration",
+    "flight control",
+    "ground tests",
+    "guidance systems",
+    "hybrid engines",
+    "launch preparation",
+    "lightweight materials",
+    "liquid fuel engines",
+    "material gathering",
+    "onboard computers",
+    "passion for exploration",
+    "payload capacity",
+    "performance verification",
+    "physics understanding",
+    "potential issues",
+    "precise execution",
+    "propulsion system",
+    "purpose definition",
+    "rocket building",
+    "rocket design",
+    "rocket launch",
+    "safety measures",
+    "safety regulations",
+    "sensors",
+    "solid fuel engines",
+    "space exploration",
+    "stability factors",
+    "stability testing",
+    "step-by-step guide",
+    "successful launch",
+    "system testing",
+    "technology integration",
+    "test flights",
+    "thorough planning",
+    "thorough testing",
+    "thrust generation"
+  ],
+  "relations": [
+    [
+      "actuators",
+      "assessed by",
+      "thorough testing"
+    ],
+    [
+      "actuators",
+      "contributes to",
+      "successful launch"
+    ],
+    [
+      "actuators",
+      "controls",
+      "flight control"
+    ],
+    [
+      "actuators",
+      "controls",
+      "propulsion system"
+    ],
+    [
+      "actuators",
+      "defines",
+      "purpose definition"
+    ],
+    [
+      "actuators",
+      "enhances",
+      "space exploration"
+    ],
+    [
+      "actuators",
+      "is part of",
+      "body construction"
+    ],
+    [
+      "actuators",
+      "is part of",
+      "technology integration"
+    ],
+    [
+      "actuators",
+      "requires",
+      "precise execution"
+    ],
+    [
+      "actuators",
+      "requires",
+      "thorough planning"
+    ],
+    [
+      "actuators",
+      "tested by",
+      "ground tests"
+    ],
+    [
+      "advanced systems",
+      "affects",
+      "stability factors"
+    ],
+    [
+      "advanced systems",
+      "complements",
+      "lightweight materials"
+    ],
+    [
+      "advanced systems",
+      "controls",
+      "flight control"
+    ],
+    [
+      "advanced systems",
+      "enables",
+      "rocket launch"
+    ],
+    [
+      "advanced systems",
+      "improves",
+      "stability testing"
+    ],
+    [
+      "advanced systems",
+      "integrates",
+      "propulsion system"
+    ],
+    [
+      "advanced systems",
+      "involves",
+      "aerodynamics considerations"
+    ],
+    [
+      "advanced systems",
+      "involves",
+      "technology integration"
+    ],
+    [
+      "advanced systems",
+      "is a challenge of",
+      "complex endeavor"
+    ],
+    [
+      "advanced systems",
+      "is characterized by",
+      "design plans"
+    ],
+    [
+      "advanced systems",
+      "is explained in",
+      "step-by-step guide"
+    ],
+    [
+      "advanced systems",
+      "is governed by",
+      "safety regulations"
+    ],
+    [
+      "advanced systems",
+      "offers",
+      "educational experience"
+    ],
+    [
+      "advanced systems",
+      "requires",
+      "precise execution"
+    ],
+    [
+      "advanced systems",
+      "requires",
+      "thorough planning"
+    ],
+    [
+      "advanced systems",
+      "supports",
+      "critical components"
+    ],
+    [
+      "advanced systems",
+      "supports",
+      "guidance systems"
+    ],
+    [
+      "advanced systems",
+      "utilized in",
+      "onboard computers"
+    ],
+    [
+      "advanced systems",
+      "utilizes",
+      "aerospace engineering"
+    ],
+    [
+      "aerodynamics considerations",
+      "considers",
+      "performance verification"
+    ],
+    [
+      "aerodynamics considerations",
+      "determines",
+      "payload capacity"
+    ],
+    [
+      "aerodynamics considerations",
+      "influences",
+      "passion for exploration"
+    ],
+    [
+      "aerodynamics considerations",
+      "influences",
+      "stability testing"
+    ],
+    [
+      "aerodynamics considerations",
+      "informs",
+      "design specifications"
+    ],
+    [
+      "aerodynamics considerations",
+      "informs",
+      "test flights"
+    ],
+    [
+      "aerodynamics considerations",
+      "involves",
+      "potential issues"
+    ],
+    [
+      "aerodynamics considerations",
+      "requires consideration of",
+      "electric propulsion"
+    ],
+    [
+      "aerodynamics considerations",
+      "requires consideration of",
+      "flight control"
+    ],
+    [
+      "aerospace engineering",
+      "benefits from",
+      "thorough testing"
+    ],
+    [
+      "aerospace engineering",
+      "cultivates",
+      "passion for exploration"
+    ],
+    [
+      "aerospace engineering",
+      "enhances",
+      "creative process"
+    ],
+    [
+      "aerospace engineering",
+      "ensures",
+      "safety measures"
+    ],
+    [
+      "aerospace engineering",
+      "guides",
+      "purpose definition"
+    ],
+    [
+      "aerospace engineering",
+      "includes",
+      "aerodynamics considerations"
+    ],
+    [
+      "aerospace engineering",
+      "includes",
+      "critical components"
+    ],
+    [
+      "aerospace engineering",
+      "informs",
+      "engineering principles"
+    ],
+    [
+      "aerospace engineering",
+      "informs",
+      "launch preparation"
+    ],
+    [
+      "aerospace engineering",
+      "inspires",
+      "exploration inspiration"
+    ],
+    [
+      "aerospace engineering",
+      "integrates",
+      "electronics installation"
+    ],
+    [
+      "aerospace engineering",
+      "involves",
+      "body construction"
+    ],
+    [
+      "aerospace engineering",
+      "involves",
+      "rocket launch"
+    ],
+    [
+      "aerospace engineering",
+      "provides",
+      "step-by-step guide"
+    ],
+    [
+      "aerospace engineering",
+      "requires",
+      "physics understanding"
+    ],
+    [
+      "aerospace engineering",
+      "utilizes",
+      "actuators"
+    ],
+    [
+      "aerospace engineering",
+      "utilizes",
+      "guidance systems"
+    ],
+    [
+      "aerospace engineering",
+      "validates",
+      "system testing"
+    ],
+    [
+      "body construction",
+      "comprises",
+      "solid fuel engines"
+    ],
+    [
+      "body construction",
+      "considers",
+      "aerodynamics considerations"
+    ],
+    [
+      "body construction",
+      "enhances",
+      "technology integration"
+    ],
+    [
+      "body construction",
+      "ensures",
+      "stability testing"
+    ],
+    [
+      "body construction",
+      "informs",
+      "ground tests"
+    ],
+    [
+      "body construction",
+      "involves",
+      "complex endeavor"
+    ],
+    [
+      "body construction",
+      "is essential for",
+      "passion for exploration"
+    ],
+    [
+      "body construction",
+      "is inspired by",
+      "exploration inspiration"
+    ],
+    [
+      "body construction",
+      "is outlined in",
+      "step-by-step guide"
+    ],
+    [
+      "body construction",
+      "is powered by",
+      "propulsion system"
+    ],
+    [
+      "body construction",
+      "must adhere to",
+      "safety regulations"
+    ],
+    [
+      "body construction",
+      "requires",
+      "liquid fuel engines"
+    ],
+    [
+      "body construction",
+      "requires",
+      "system testing"
+    ],
+    [
+      "body construction",
+      "requires",
+      "thorough planning"
+    ],
+    [
+      "body construction",
+      "requires",
+      "thrust generation"
+    ],
+    [
+      "body construction",
+      "utilizes",
+      "lightweight materials"
+    ],
+    [
+      "complex endeavor",
+      "describes",
+      "step-by-step guide"
+    ],
+    [
+      "complex endeavor",
+      "includes",
+      "electronics installation"
+    ],
+    [
+      "complex endeavor",
+      "involves",
+      "component assembly"
+    ],
+    [
+      "complex endeavor",
+      "involves",
+      "stability factors"
+    ],
+    [
+      "complex endeavor",
+      "is a challenge for",
+      "exploration inspiration"
+    ],
+    [
+      "complex endeavor",
+      "requires",
+      "purpose definition"
+    ],
+    [
+      "complex endeavor",
+      "requires",
+      "thorough planning"
+    ],
+    [
+      "component assembly",
+      "affects",
+      "flight control"
+    ],
+    [
+      "component assembly",
+      "determines",
+      "payload capacity"
+    ],
+    [
+      "component assembly",
+      "ensures",
+      "performance verification"
+    ],
+    [
+      "component assembly",
+      "ensures",
+      "stability testing"
+    ],
+    [
+      "component assembly",
+      "facilitates",
+      "technology integration"
+    ],
+    [
+      "component assembly",
+      "includes",
+      "sensors"
+    ],
+    [
+      "component assembly",
+      "influences",
+      "aerodynamics considerations"
+    ],
+    [
+      "component assembly",
+      "informs",
+      "design specifications"
+    ],
+    [
+      "component assembly",
+      "informs",
+      "test flights"
+    ],
+    [
+      "component assembly",
+      "integrates",
+      "guidance systems"
+    ],
+    [
+      "component assembly",
+      "involves",
+      "aerospace engineering"
+    ],
+    [
+      "component assembly",
+      "involves",
+      "space exploration"
+    ],
+    [
+      "component assembly",
+      "is outlined in",
+      "step-by-step guide"
+    ],
+    [
+      "component assembly",
+      "is part of",
+      "hybrid engines"
+    ],
+    [
+      "component assembly",
+      "is part of",
+      "system testing"
+    ],
+    [
+      "component assembly",
+      "must comply with",
+      "safety regulations"
+    ],
+    [
+      "component assembly",
+      "requires",
+      "advanced systems"
+    ],
+    [
+      "component assembly",
+      "requires",
+      "liquid fuel engines"
+    ],
+    [
+      "component assembly",
+      "requires",
+      "rocket launch"
+    ],
+    [
+      "component assembly",
+      "used in",
+      "actuators"
+    ],
+    [
+      "component assembly",
+      "utilizes",
+      "lightweight materials"
+    ],
+    [
+      "creative process",
+      "defines",
+      "design specifications"
+    ],
+    [
+      "creative process",
+      "determines",
+      "payload capacity"
+    ],
+    [
+      "creative process",
+      "encourages",
+      "advanced systems"
+    ],
+    [
+      "creative process",
+      "enhances",
+      "ground tests"
+    ],
+    [
+      "creative process",
+      "enhances",
+      "performance verification"
+    ],
+    [
+      "creative process",
+      "improves",
+      "physics understanding"
+    ],
+    [
+      "creative process",
+      "influences",
+      "launch preparation"
+    ],
+    [
+      "creative process",
+      "informs",
+      "step-by-step guide"
+    ],
+    [
+      "creative process",
+      "is a result of",
+      "body construction"
+    ],
+    [
+      "critical components",
+      "assesses",
+      "ground tests"
+    ],
+    [
+      "critical components",
+      "comprises",
+      "actuators"
+    ],
+    [
+      "critical components",
+      "comprises",
+      "body construction"
+    ],
+    [
+      "critical components",
+      "comprises",
+      "material gathering"
+    ],
+    [
+      "critical components",
+      "ensures",
+      "safety measures"
+    ],
+    [
+      "critical components",
+      "evaluates",
+      "system testing"
+    ],
+    [
+      "critical components",
+      "includes",
+      "educational experience"
+    ],
+    [
+      "critical components",
+      "includes",
+      "stability testing"
+    ],
+    [
+      "critical components",
+      "is a component of",
+      "guidance systems"
+    ],
+    [
+      "critical components",
+      "part of",
+      "onboard computers"
+    ],
+    [
+      "critical components",
+      "requires",
+      "aerodynamics considerations"
+    ],
+    [
+      "design plans",
+      "defines",
+      "purpose definition"
+    ],
+    [
+      "design plans",
+      "ensures",
+      "safety regulations"
+    ],
+    [
+      "design plans",
+      "facilitates",
+      "component assembly"
+    ],
+    [
+      "design plans",
+      "guides",
+      "electric propulsion"
+    ],
+    [
+      "design plans",
+      "guides",
+      "ground tests"
+    ],
+    [
+      "design plans",
+      "guides",
+      "launch preparation"
+    ],
+    [
+      "design plans",
+      "guides",
+      "stability testing"
+    ],
+    [
+      "design plans",
+      "guides",
+      "thorough planning"
+    ],
+    [
+      "design plans",
+      "guides",
+      "thorough testing"
+    ],
+    [
+      "design plans",
+      "includes",
+      "sensors"
+    ],
+    [
+      "design plans",
+      "informs",
+      "body construction"
+    ],
+    [
+      "design plans",
+      "informs",
+      "lightweight materials"
+    ],
+    [
+      "design plans",
+      "informs",
+      "test flights"
+    ],
+    [
+      "design plans",
+      "involves",
+      "aerodynamics considerations"
+    ],
+    [
+      "design plans",
+      "is defined by",
+      "thrust generation"
+    ],
+    [
+      "design plans",
+      "is facilitated by",
+      "space exploration"
+    ],
+    [
+      "design plans",
+      "sparks",
+      "exploration inspiration"
+    ],
+    [
+      "design plans",
+      "specifies",
+      "critical components"
+    ],
+    [
+      "design process",
+      "affects",
+      "payload capacity"
+    ],
+    [
+      "design process",
+      "considers",
+      "aerodynamics considerations"
+    ],
+    [
+      "design process",
+      "enables",
+      "flight control"
+    ],
+    [
+      "design process",
+      "ensures",
+      "performance verification"
+    ],
+    [
+      "design process",
+      "fosters",
+      "passion for exploration"
+    ],
+    [
+      "design process",
+      "guides",
+      "design plans"
+    ],
+    [
+      "design process",
+      "includes",
+      "advanced systems"
+    ],
+    [
+      "design process",
+      "includes",
+      "electronics installation"
+    ],
+    [
+      "design process",
+      "includes",
+      "propulsion system"
+    ],
+    [
+      "design process",
+      "incorporates",
+      "technology integration"
+    ],
+    [
+      "design process",
+      "involves",
+      "lightweight materials"
+    ],
+    [
+      "design process",
+      "involves",
+      "rocket building"
+    ],
+    [
+      "design process",
+      "is outlined in",
+      "step-by-step guide"
+    ],
+    [
+      "design process",
+      "is part of",
+      "component assembly"
+    ],
+    [
+      "design process",
+      "is part of",
+      "rocket design"
+    ],
+    [
+      "design process",
+      "leads to",
+      "successful launch"
+    ],
+    [
+      "design process",
+      "motivates",
+      "exploration inspiration"
+    ],
+    [
+      "design process",
+      "requires",
+      "physics understanding"
+    ],
+    [
+      "design process",
+      "requires",
+      "stability testing"
+    ],
+    [
+      "design process",
+      "utilizes",
+      "electric propulsion"
+    ],
+    [
+      "design process",
+      "utilizes",
+      "guidance systems"
+    ],
+    [
+      "design process",
+      "utilizes",
+      "sensors"
+    ],
+    [
+      "design specifications",
+      "defines",
+      "electric propulsion"
+    ],
+    [
+      "design specifications",
+      "determines",
+      "payload capacity"
+    ],
+    [
+      "design specifications",
+      "guides",
+      "safety measures"
+    ],
+    [
+      "design specifications",
+      "guides",
+      "safety regulations"
+    ],
+    [
+      "design specifications",
+      "influences",
+      "exploration inspiration"
+    ],
+    [
+      "design specifications",
+      "informs",
+      "ground tests"
+    ],
+    [
+      "design specifications",
+      "informs",
+      "guidance systems"
+    ],
+    [
+      "design specifications",
+      "informs",
+      "test flights"
+    ],
+    [
+      "design specifications",
+      "informs",
+      "thorough testing"
+    ],
+    [
+      "design specifications",
+      "is constructed from",
+      "lightweight materials"
+    ],
+    [
+      "design specifications",
+      "is defined by",
+      "performance verification"
+    ],
+    [
+      "design specifications",
+      "is defined by",
+      "precise execution"
+    ],
+    [
+      "educational experience",
+      "enhances",
+      "body construction"
+    ],
+    [
+      "educational experience",
+      "enhances",
+      "design plans"
+    ],
+    [
+      "educational experience",
+      "enhances",
+      "electronics installation"
+    ],
+    [
+      "educational experience",
+      "enhances",
+      "physics understanding"
+    ],
+    [
+      "educational experience",
+      "enhances",
+      "thorough testing"
+    ],
+    [
+      "educational experience",
+      "includes",
+      "aerodynamics considerations"
+    ],
+    [
+      "educational experience",
+      "involves",
+      "component assembly"
+    ],
+    [
+      "educational experience",
+      "involves",
+      "stability testing"
+    ],
+    [
+      "educational experience",
+      "is a result of",
+      "purpose definition"
+    ],
+    [
+      "educational experience",
+      "provides",
+      "aerospace engineering"
+    ],
+    [
+      "educational experience",
+      "provides",
+      "ground tests"
+    ],
+    [
+      "educational experience",
+      "provides",
+      "material gathering"
+    ],
+    [
+      "educational experience",
+      "provides",
+      "propulsion system"
+    ],
+    [
+      "electric propulsion",
+      "controls",
+      "flight control"
+    ],
+    [
+      "electric propulsion",
+      "is a field of",
+      "aerospace engineering"
+    ],
+    [
+      "electric propulsion",
+      "is a part of",
+      "critical components"
+    ],
+    [
+      "electronics installation",
+      "affects",
+      "stability factors"
+    ],
+    [
+      "electronics installation",
+      "aligns with",
+      "purpose definition"
+    ],
+    [
+      "electronics installation",
+      "completes",
+      "critical components"
+    ],
+    [
+      "electronics installation",
+      "contributes to",
+      "successful launch"
+    ],
+    [
+      "electronics installation",
+      "enables",
+      "flight control"
+    ],
+    [
+      "electronics installation",
+      "enhances",
+      "creative process"
+    ],
+    [
+      "electronics installation",
+      "ensures",
+      "performance verification"
+    ],
+    [
+      "electronics installation",
+      "guides",
+      "design plans"
+    ],
+    [
+      "electronics installation",
+      "is enhanced by",
+      "system testing"
+    ],
+    [
+      "electronics installation",
+      "is essential for",
+      "propulsion system"
+    ],
+    [
+      "electronics installation",
+      "is essential for",
+      "technology integration"
+    ],
+    [
+      "electronics installation",
+      "is implemented during",
+      "actuators"
+    ],
+    [
+      "electronics installation",
+      "is implemented in",
+      "rocket design"
+    ],
+    [
+      "electronics installation",
+      "is outlined in",
+      "step-by-step guide"
+    ],
+    [
+      "electronics installation",
+      "is part of",
+      "complex endeavor"
+    ],
+    [
+      "electronics installation",
+      "is part of",
+      "component assembly"
+    ],
+    [
+      "electronics installation",
+      "is preceded by",
+      "thorough testing"
+    ],
+    [
+      "electronics installation",
+      "prepares",
+      "test flights"
+    ],
+    [
+      "electronics installation",
+      "requires",
+      "body construction"
+    ],
+    [
+      "electronics installation",
+      "requires",
+      "rocket launch"
+    ],
+    [
+      "electronics installation",
+      "utilizes",
+      "sensors"
+    ],
+    [
+      "engineering principles",
+      "applies",
+      "system testing"
+    ],
+    [
+      "engineering principles",
+      "based on",
+      "thrust generation"
+    ],
+    [
+      "engineering principles",
+      "guides",
+      "purpose definition"
+    ],
+    [
+      "engineering principles",
+      "informs",
+      "aerodynamics considerations"
+    ],
+    [
+      "engineering principles",
+      "informs",
+      "body construction"
+    ],
+    [
+      "engineering principles",
+      "informs",
+      "design plans"
+    ],
+    [
+      "engineering principles",
+      "informs",
+      "performance verification"
+    ],
+    [
+      "engineering principles",
+      "informs",
+      "physics understanding"
+    ],
+    [
+      "engineering principles",
+      "informs",
+      "rocket building"
+    ],
+    [
+      "engineering principles",
+      "involves",
+      "electronics installation"
+    ],
+    [
+      "engineering principles",
+      "involves",
+      "stability factors"
+    ],
+    [
+      "engineering principles",
+      "is based on",
+      "precise execution"
+    ],
+    [
+      "engineering principles",
+      "supports",
+      "space exploration"
+    ],
+    [
+      "engineering principles",
+      "underpins",
+      "step-by-step guide"
+    ],
+    [
+      "engineering principles",
+      "utilizes",
+      "sensors"
+    ],
+    [
+      "exploration inspiration",
+      "drives",
+      "thrust generation"
+    ],
+    [
+      "exploration inspiration",
+      "enhances",
+      "payload capacity"
+    ],
+    [
+      "exploration inspiration",
+      "influences",
+      "flight control"
+    ],
+    [
+      "exploration inspiration",
+      "inspired by",
+      "creative process"
+    ],
+    [
+      "exploration inspiration",
+      "inspired by",
+      "ground tests"
+    ],
+    [
+      "exploration inspiration",
+      "inspired by",
+      "purpose definition"
+    ],
+    [
+      "exploration inspiration",
+      "inspired by",
+      "rocket design"
+    ],
+    [
+      "exploration inspiration",
+      "inspires",
+      "component assembly"
+    ],
+    [
+      "exploration inspiration",
+      "inspires",
+      "critical components"
+    ],
+    [
+      "exploration inspiration",
+      "is informed by",
+      "solid fuel engines"
+    ],
+    [
+      "exploration inspiration",
+      "motivates",
+      "advanced systems"
+    ],
+    [
+      "exploration inspiration",
+      "motivates",
+      "electric propulsion"
+    ],
+    [
+      "exploration inspiration",
+      "results in",
+      "successful launch"
+    ],
+    [
+      "exploration inspiration",
+      "sparks",
+      "educational experience"
+    ],
+    [
+      "exploration inspiration",
+      "sparks",
+      "sensors"
+    ],
+    [
+      "exploration inspiration",
+      "stimulates",
+      "thorough planning"
+    ],
+    [
+      "flight control",
+      "affects",
+      "stability factors"
+    ],
+    [
+      "flight control",
+      "enhances",
+      "thorough testing"
+    ],
+    [
+      "flight control",
+      "identifies",
+      "potential issues"
+    ],
+    [
+      "flight control",
+      "informs",
+      "engineering principles"
+    ],
+    [
+      "flight control",
+      "involves",
+      "precise execution"
+    ],
+    [
+      "flight control",
+      "is achieved through",
+      "successful launch"
+    ],
+    [
+      "flight control",
+      "is guided by",
+      "design plans"
+    ],
+    [
+      "flight control",
+      "is validated by",
+      "system testing"
+    ],
+    [
+      "flight control",
+      "provides",
+      "educational experience"
+    ],
+    [
+      "flight control",
+      "requires",
+      "thorough planning"
+    ],
+    [
+      "flight control",
+      "specifies",
+      "design specifications"
+    ],
+    [
+      "ground tests",
+      "affects",
+      "stability factors"
+    ],
+    [
+      "ground tests",
+      "considered in",
+      "aerodynamics considerations"
+    ],
+    [
+      "ground tests",
+      "evaluates",
+      "guidance systems"
+    ],
+    [
+      "ground tests",
+      "evaluates",
+      "onboard computers"
+    ],
+    [
+      "ground tests",
+      "involves",
+      "aerospace engineering"
+    ],
+    [
+      "ground tests",
+      "involves",
+      "electronics installation"
+    ],
+    [
+      "ground tests",
+      "is outlined in",
+      "step-by-step guide"
+    ],
+    [
+      "ground tests",
+      "supports",
+      "stability testing"
+    ],
+    [
+      "ground tests",
+      "validates",
+      "electric propulsion"
+    ],
+    [
+      "ground tests",
+      "validates",
+      "precise execution"
+    ],
+    [
+      "guidance systems",
+      "controls",
+      "flight control"
+    ],
+    [
+      "guidance systems",
+      "enhances",
+      "system testing"
+    ],
+    [
+      "guidance systems",
+      "facilitates",
+      "technology integration"
+    ],
+    [
+      "guidance systems",
+      "influences",
+      "aerodynamics considerations"
+    ],
+    [
+      "guidance systems",
+      "informs",
+      "stability factors"
+    ],
+    [
+      "guidance systems",
+      "inspires",
+      "exploration inspiration"
+    ],
+    [
+      "guidance systems",
+      "integrates with",
+      "body construction"
+    ],
+    [
+      "guidance systems",
+      "is managed by",
+      "propulsion system"
+    ],
+    [
+      "guidance systems",
+      "must comply with",
+      "safety regulations"
+    ],
+    [
+      "guidance systems",
+      "requires",
+      "physics understanding"
+    ],
+    [
+      "guidance systems",
+      "supports",
+      "stability testing"
+    ],
+    [
+      "hybrid engines",
+      "affects",
+      "stability factors"
+    ],
+    [
+      "hybrid engines",
+      "competes with",
+      "solid fuel engines"
+    ],
+    [
+      "hybrid engines",
+      "controls",
+      "flight control"
+    ],
+    [
+      "hybrid engines",
+      "enables",
+      "rocket launch"
+    ],
+    [
+      "hybrid engines",
+      "facilitates",
+      "launch preparation"
+    ],
+    [
+      "hybrid engines",
+      "facilitates",
+      "rocket building"
+    ],
+    [
+      "hybrid engines",
+      "includes",
+      "actuators"
+    ],
+    [
+      "hybrid engines",
+      "includes",
+      "complex endeavor"
+    ],
+    [
+      "hybrid engines",
+      "influences",
+      "rocket design"
+    ],
+    [
+      "hybrid engines",
+      "inspires",
+      "passion for exploration"
+    ],
+    [
+      "hybrid engines",
+      "integrates",
+      "technology integration"
+    ],
+    [
+      "hybrid engines",
+      "is a type of",
+      "advanced systems"
+    ],
+    [
+      "hybrid engines",
+      "is influenced by",
+      "aerodynamics considerations"
+    ],
+    [
+      "hybrid engines",
+      "is part of",
+      "body construction"
+    ],
+    [
+      "hybrid engines",
+      "is tested in",
+      "ground tests"
+    ],
+    [
+      "hybrid engines",
+      "provides",
+      "step-by-step guide"
+    ],
+    [
+      "hybrid engines",
+      "requires",
+      "electronics installation"
+    ],
+    [
+      "hybrid engines",
+      "requires",
+      "lightweight materials"
+    ],
+    [
+      "hybrid engines",
+      "requires",
+      "performance verification"
+    ],
+    [
+      "hybrid engines",
+      "stimulates",
+      "creative process"
+    ],
+    [
+      "hybrid engines",
+      "undergoes",
+      "stability testing"
+    ],
+    [
+      "launch preparation",
+      "facilitates",
+      "component assembly"
+    ],
+    [
+      "launch preparation",
+      "identifies",
+      "potential issues"
+    ],
+    [
+      "launch preparation",
+      "includes",
+      "critical components"
+    ],
+    [
+      "launch preparation",
+      "includes",
+      "ground tests"
+    ],
+    [
+      "launch preparation",
+      "includes",
+      "sensors"
+    ],
+    [
+      "launch preparation",
+      "informs",
+      "design process"
+    ],
+    [
+      "launch preparation",
+      "involves",
+      "aerodynamics considerations"
+    ],
+    [
+      "launch preparation",
+      "involves",
+      "flight control"
+    ],
+    [
+      "launch preparation",
+      "involves",
+      "rocket building"
+    ],
+    [
+      "launch preparation",
+      "involves",
+      "stability factors"
+    ],
+    [
+      "launch preparation",
+      "involves",
+      "stability testing"
+    ],
+    [
+      "launch preparation",
+      "involves",
+      "technology integration"
+    ],
+    [
+      "launch preparation",
+      "is essential for",
+      "propulsion system"
+    ],
+    [
+      "launch preparation",
+      "is necessary for",
+      "precise execution"
+    ],
+    [
+      "launch preparation",
+      "is outlined in",
+      "step-by-step guide"
+    ],
+    [
+      "launch preparation",
+      "is part of",
+      "body construction"
+    ],
+    [
+      "launch preparation",
+      "motivates",
+      "exploration inspiration"
+    ],
+    [
+      "launch preparation",
+      "precedes",
+      "rocket launch"
+    ],
+    [
+      "launch preparation",
+      "prepares for",
+      "advanced systems"
+    ],
+    [
+      "launch preparation",
+      "prepares for",
+      "material gathering"
+    ],
+    [
+      "launch preparation",
+      "prepares for",
+      "system testing"
+    ],
+    [
+      "launch preparation",
+      "requires",
+      "electronics installation"
+    ],
+    [
+      "launch preparation",
+      "requires",
+      "physics understanding"
+    ],
+    [
+      "launch preparation",
+      "requires",
+      "safety measures"
+    ],
+    [
+      "launch preparation",
+      "requires",
+      "thorough planning"
+    ],
+    [
+      "launch preparation",
+      "results in",
+      "successful launch"
+    ],
+    [
+      "launch preparation",
+      "utilizes",
+      "actuators"
+    ],
+    [
+      "lightweight materials",
+      "complements",
+      "safety measures"
+    ],
+    [
+      "lightweight materials",
+      "considers",
+      "aerodynamics considerations"
+    ],
+    [
+      "lightweight materials",
+      "constructed from",
+      "ground tests"
+    ],
+    [
+      "lightweight materials",
+      "constructed from",
+      "sensors"
+    ],
+    [
+      "lightweight materials",
+      "determines",
+      "payload capacity"
+    ],
+    [
+      "lightweight materials",
+      "informs",
+      "test flights"
+    ],
+    [
+      "lightweight materials",
+      "involves",
+      "launch preparation"
+    ],
+    [
+      "lightweight materials",
+      "is governed by",
+      "safety regulations"
+    ],
+    [
+      "lightweight materials",
+      "requires",
+      "electric propulsion"
+    ],
+    [
+      "lightweight materials",
+      "stimulates",
+      "exploration inspiration"
+    ],
+    [
+      "lightweight materials",
+      "utilizes",
+      "aerospace engineering"
+    ],
+    [
+      "lightweight materials",
+      "utilizes",
+      "creative process"
+    ],
+    [
+      "lightweight materials",
+      "utilizes",
+      "flight control"
+    ],
+    [
+      "lightweight materials",
+      "utilizes",
+      "rocket launch"
+    ],
+    [
+      "lightweight materials",
+      "utilizes",
+      "space exploration"
+    ],
+    [
+      "lightweight materials",
+      "utilizes",
+      "thorough testing"
+    ],
+    [
+      "liquid fuel engines",
+      "facilitates",
+      "flight control"
+    ],
+    [
+      "liquid fuel engines",
+      "is a component of",
+      "launch preparation"
+    ],
+    [
+      "liquid fuel engines",
+      "is a type of",
+      "critical components"
+    ],
+    [
+      "liquid fuel engines",
+      "is a type of",
+      "thrust generation"
+    ],
+    [
+      "liquid fuel engines",
+      "is associated with",
+      "rocket launch"
+    ],
+    [
+      "liquid fuel engines",
+      "is constructed from",
+      "lightweight materials"
+    ],
+    [
+      "liquid fuel engines",
+      "is part of",
+      "propulsion system"
+    ],
+    [
+      "liquid fuel engines",
+      "is used in",
+      "body construction"
+    ],
+    [
+      "liquid fuel engines",
+      "is utilized by",
+      "safety measures"
+    ],
+    [
+      "liquid fuel engines",
+      "is utilized in",
+      "onboard computers"
+    ],
+    [
+      "liquid fuel engines",
+      "utilizes",
+      "aerospace engineering"
+    ],
+    [
+      "liquid fuel engines",
+      "utilizes",
+      "material gathering"
+    ],
+    [
+      "liquid fuel engines",
+      "utilizes",
+      "test flights"
+    ],
+    [
+      "material gathering",
+      "enhances",
+      "aerospace engineering"
+    ],
+    [
+      "material gathering",
+      "enhances",
+      "thorough planning"
+    ],
+    [
+      "material gathering",
+      "facilitates",
+      "body construction"
+    ],
+    [
+      "material gathering",
+      "facilitates",
+      "technology integration"
+    ],
+    [
+      "material gathering",
+      "fuels",
+      "creative process"
+    ],
+    [
+      "material gathering",
+      "fuels",
+      "passion for exploration"
+    ],
+    [
+      "material gathering",
+      "guides",
+      "purpose definition"
+    ],
+    [
+      "material gathering",
+      "identifies",
+      "potential issues"
+    ],
+    [
+      "material gathering",
+      "informs",
+      "engineering principles"
+    ],
+    [
+      "material gathering",
+      "informs",
+      "guidance systems"
+    ],
+    [
+      "material gathering",
+      "informs",
+      "rocket design"
+    ],
+    [
+      "material gathering",
+      "is necessary for",
+      "component assembly"
+    ],
+    [
+      "material gathering",
+      "is part of",
+      "complex endeavor"
+    ],
+    [
+      "material gathering",
+      "is tested by",
+      "test flights"
+    ],
+    [
+      "material gathering",
+      "precedes",
+      "system testing"
+    ],
+    [
+      "material gathering",
+      "produces",
+      "solid fuel engines"
+    ],
+    [
+      "material gathering",
+      "supports",
+      "advanced systems"
+    ],
+    [
+      "material gathering",
+      "supports",
+      "design process"
+    ],
+    [
+      "material gathering",
+      "supports",
+      "flight control"
+    ],
+    [
+      "material gathering",
+      "supports",
+      "ground tests"
+    ],
+    [
+      "material gathering",
+      "supports",
+      "sensors"
+    ],
+    [
+      "material gathering",
+      "supports",
+      "stability factors"
+    ],
+    [
+      "onboard computers",
+      "facilitates",
+      "component assembly"
+    ],
+    [
+      "onboard computers",
+      "influences",
+      "stability factors"
+    ],
+    [
+      "onboard computers",
+      "interacts with",
+      "actuators"
+    ],
+    [
+      "onboard computers",
+      "involves",
+      "electronics installation"
+    ],
+    [
+      "onboard computers",
+      "is integrated with",
+      "guidance systems"
+    ],
+    [
+      "onboard computers",
+      "is utilized in",
+      "electric propulsion"
+    ],
+    [
+      "onboard computers",
+      "supports",
+      "flight control"
+    ],
+    [
+      "onboard computers",
+      "supports",
+      "launch preparation"
+    ],
+    [
+      "onboard computers",
+      "utilizes",
+      "aerospace engineering"
+    ],
+    [
+      "passion for exploration",
+      "cultivates",
+      "rocket design"
+    ],
+    [
+      "passion for exploration",
+      "drives",
+      "precise execution"
+    ],
+    [
+      "passion for exploration",
+      "drives",
+      "purpose definition"
+    ],
+    [
+      "passion for exploration",
+      "drives",
+      "technology integration"
+    ],
+    [
+      "passion for exploration",
+      "fosters",
+      "system testing"
+    ],
+    [
+      "passion for exploration",
+      "fuels",
+      "complex endeavor"
+    ],
+    [
+      "passion for exploration",
+      "fuels",
+      "physics understanding"
+    ],
+    [
+      "passion for exploration",
+      "inspired by",
+      "step-by-step guide"
+    ],
+    [
+      "passion for exploration",
+      "inspires",
+      "educational experience"
+    ],
+    [
+      "passion for exploration",
+      "inspires",
+      "stability factors"
+    ],
+    [
+      "passion for exploration",
+      "is driven by",
+      "thorough testing"
+    ],
+    [
+      "passion for exploration",
+      "motivates",
+      "successful launch"
+    ],
+    [
+      "payload capacity",
+      "achieved by",
+      "successful launch"
+    ],
+    [
+      "payload capacity",
+      "affects",
+      "complex endeavor"
+    ],
+    [
+      "payload capacity",
+      "affects",
+      "flight control"
+    ],
+    [
+      "payload capacity",
+      "determines",
+      "electronics installation"
+    ],
+    [
+      "payload capacity",
+      "determines",
+      "hybrid engines"
+    ],
+    [
+      "payload capacity",
+      "influences",
+      "precise execution"
+    ],
+    [
+      "payload capacity",
+      "is assessed by",
+      "stability testing"
+    ],
+    [
+      "payload capacity",
+      "specifies",
+      "design plans"
+    ],
+    [
+      "payload capacity",
+      "supports",
+      "engineering principles"
+    ],
+    [
+      "payload capacity",
+      "supports",
+      "guidance systems"
+    ],
+    [
+      "payload capacity",
+      "verifies",
+      "performance verification"
+    ],
+    [
+      "performance verification",
+      "assessed by",
+      "thrust generation"
+    ],
+    [
+      "performance verification",
+      "confirms",
+      "ground tests"
+    ],
+    [
+      "performance verification",
+      "contributes to",
+      "onboard computers"
+    ],
+    [
+      "performance verification",
+      "enhances",
+      "educational experience"
+    ],
+    [
+      "performance verification",
+      "is a prerequisite for",
+      "rocket launch"
+    ],
+    [
+      "performance verification",
+      "is assessed through",
+      "advanced systems"
+    ],
+    [
+      "performance verification",
+      "is evaluated through",
+      "rocket design"
+    ],
+    [
+      "performance verification",
+      "is necessary for",
+      "step-by-step guide"
+    ],
+    [
+      "performance verification",
+      "is verified by",
+      "electric propulsion"
+    ],
+    [
+      "performance verification",
+      "is verified by",
+      "solid fuel engines"
+    ],
+    [
+      "performance verification",
+      "requires",
+      "critical components"
+    ],
+    [
+      "performance verification",
+      "validated by",
+      "design plans"
+    ],
+    [
+      "physics understanding",
+      "affects",
+      "payload capacity"
+    ],
+    [
+      "physics understanding",
+      "enables understanding of",
+      "electric propulsion"
+    ],
+    [
+      "physics understanding",
+      "enhances",
+      "liquid fuel engines"
+    ],
+    [
+      "physics understanding",
+      "enhances",
+      "material gathering"
+    ],
+    [
+      "physics understanding",
+      "enhances",
+      "thorough testing"
+    ],
+    [
+      "physics understanding",
+      "enhances understanding of",
+      "flight control"
+    ],
+    [
+      "physics understanding",
+      "facilitates",
+      "technology integration"
+    ],
+    [
+      "physics understanding",
+      "informs",
+      "design plans"
+    ],
+    [
+      "physics understanding",
+      "informs",
+      "design specifications"
+    ],
+    [
+      "physics understanding",
+      "informs",
+      "potential issues"
+    ],
+    [
+      "physics understanding",
+      "informs",
+      "test flights"
+    ],
+    [
+      "physics understanding",
+      "informs understanding of",
+      "thrust generation"
+    ],
+    [
+      "physics understanding",
+      "inspires",
+      "exploration inspiration"
+    ],
+    [
+      "physics understanding",
+      "is based on",
+      "step-by-step guide"
+    ],
+    [
+      "physics understanding",
+      "requires",
+      "actuators"
+    ],
+    [
+      "physics understanding",
+      "requires",
+      "complex endeavor"
+    ],
+    [
+      "physics understanding",
+      "requires",
+      "electronics installation"
+    ],
+    [
+      "physics understanding",
+      "requires",
+      "performance verification"
+    ],
+    [
+      "potential issues",
+      "addresses",
+      "electronics installation"
+    ],
+    [
+      "potential issues",
+      "affects",
+      "exploration inspiration"
+    ],
+    [
+      "potential issues",
+      "affects",
+      "lightweight materials"
+    ],
+    [
+      "potential issues",
+      "highlights",
+      "propulsion system"
+    ],
+    [
+      "potential issues",
+      "identifies",
+      "design process"
+    ],
+    [
+      "potential issues",
+      "identifies",
+      "precise execution"
+    ],
+    [
+      "potential issues",
+      "is addressed by",
+      "thorough planning"
+    ],
+    [
+      "potential issues",
+      "is related to",
+      "performance verification"
+    ],
+    [
+      "potential issues",
+      "presents",
+      "complex endeavor"
+    ],
+    [
+      "precise execution",
+      "demands",
+      "lightweight materials"
+    ],
+    [
+      "precise execution",
+      "enables",
+      "material gathering"
+    ],
+    [
+      "precise execution",
+      "enables",
+      "rocket launch"
+    ],
+    [
+      "precise execution",
+      "enables",
+      "successful launch"
+    ],
+    [
+      "precise execution",
+      "guides",
+      "design plans"
+    ],
+    [
+      "precise execution",
+      "influences",
+      "stability factors"
+    ],
+    [
+      "precise execution",
+      "informs",
+      "purpose definition"
+    ],
+    [
+      "precise execution",
+      "involves",
+      "aerodynamics considerations"
+    ],
+    [
+      "precise execution",
+      "involves",
+      "electronics installation"
+    ],
+    [
+      "precise execution",
+      "involves",
+      "launch preparation"
+    ],
+    [
+      "precise execution",
+      "involves",
+      "solid fuel engines"
+    ],
+    [
+      "precise execution",
+      "is enhanced by",
+      "technology integration"
+    ],
+    [
+      "precise execution",
+      "is essential for",
+      "rocket building"
+    ],
+    [
+      "precise execution",
+      "requires",
+      "aerospace engineering"
+    ],
+    [
+      "precise execution",
+      "requires",
+      "component assembly"
+    ],
+    [
+      "precise execution",
+      "requires",
+      "design specifications"
+    ],
+    [
+      "precise execution",
+      "requires",
+      "propulsion system"
+    ],
+    [
+      "precise execution",
+      "requires",
+      "safety measures"
+    ],
+    [
+      "precise execution",
+      "requires",
+      "stability testing"
+    ],
+    [
+      "precise execution",
+      "requires",
+      "system testing"
+    ],
+    [
+      "precise execution",
+      "requires",
+      "thorough testing"
+    ],
+    [
+      "propulsion system",
+      "affects",
+      "aerodynamics considerations"
+    ],
+    [
+      "propulsion system",
+      "comprises",
+      "critical components"
+    ],
+    [
+      "propulsion system",
+      "controls",
+      "flight control"
+    ],
+    [
+      "propulsion system",
+      "controls",
+      "onboard computers"
+    ],
+    [
+      "propulsion system",
+      "determines",
+      "purpose definition"
+    ],
+    [
+      "propulsion system",
+      "guides",
+      "thorough planning"
+    ],
+    [
+      "propulsion system",
+      "identifies",
+      "thorough testing"
+    ],
+    [
+      "propulsion system",
+      "informs",
+      "design plans"
+    ],
+    [
+      "propulsion system",
+      "is involved in",
+      "component assembly"
+    ],
+    [
+      "propulsion system",
+      "powers",
+      "electric propulsion"
+    ],
+    [
+      "propulsion system",
+      "requires",
+      "safety measures"
+    ],
+    [
+      "propulsion system",
+      "tests",
+      "ground tests"
+    ],
+    [
+      "propulsion system",
+      "tests",
+      "stability testing"
+    ],
+    [
+      "purpose definition",
+      "addresses",
+      "potential issues"
+    ],
+    [
+      "purpose definition",
+      "contributes to",
+      "successful launch"
+    ],
+    [
+      "purpose definition",
+      "defines",
+      "advanced systems"
+    ],
+    [
+      "purpose definition",
+      "defines",
+      "rocket launch"
+    ],
+    [
+      "purpose definition",
+      "determines",
+      "design specifications"
+    ],
+    [
+      "purpose definition",
+      "determines",
+      "payload capacity"
+    ],
+    [
+      "purpose definition",
+      "ensures",
+      "stability testing"
+    ],
+    [
+      "purpose definition",
+      "guides",
+      "test flights"
+    ],
+    [
+      "purpose definition",
+      "informs",
+      "ground tests"
+    ],
+    [
+      "purpose definition",
+      "informs",
+      "guidance systems"
+    ],
+    [
+      "purpose definition",
+      "informs",
+      "performance verification"
+    ],
+    [
+      "purpose definition",
+      "integrates",
+      "technology integration"
+    ],
+    [
+      "purpose definition",
+      "involves",
+      "aerodynamics considerations"
+    ],
+    [
+      "purpose definition",
+      "is essential for",
+      "thorough testing"
+    ],
+    [
+      "purpose definition",
+      "is outlined in",
+      "step-by-step guide"
+    ],
+    [
+      "purpose definition",
+      "leads to",
+      "component assembly"
+    ],
+    [
+      "purpose definition",
+      "requires",
+      "thorough planning"
+    ],
+    [
+      "purpose definition",
+      "requires adherence to",
+      "safety regulations"
+    ],
+    [
+      "purpose definition",
+      "utilizes",
+      "sensors"
+    ],
+    [
+      "rocket building",
+      "determines",
+      "payload capacity"
+    ],
+    [
+      "rocket building",
+      "facilitates",
+      "thrust generation"
+    ],
+    [
+      "rocket building",
+      "guided by",
+      "design plans"
+    ],
+    [
+      "rocket building",
+      "guides",
+      "purpose definition"
+    ],
+    [
+      "rocket building",
+      "identifies",
+      "potential issues"
+    ],
+    [
+      "rocket building",
+      "influences",
+      "stability factors"
+    ],
+    [
+      "rocket building",
+      "involves",
+      "body construction"
+    ],
+    [
+      "rocket building",
+      "involves",
+      "design specifications"
+    ],
+    [
+      "rocket building",
+      "involves",
+      "flight control"
+    ],
+    [
+      "rocket building",
+      "involves",
+      "technology integration"
+    ],
+    [
+      "rocket building",
+      "is a part of",
+      "creative process"
+    ],
+    [
+      "rocket building",
+      "is a precursor to",
+      "complex endeavor"
+    ],
+    [
+      "rocket building",
+      "is outlined in",
+      "step-by-step guide"
+    ],
+    [
+      "rocket building",
+      "requires",
+      "performance verification"
+    ],
+    [
+      "rocket building",
+      "requires",
+      "propulsion system"
+    ],
+    [
+      "rocket building",
+      "requires",
+      "thorough planning"
+    ],
+    [
+      "rocket design",
+      "affects",
+      "stability factors"
+    ],
+    [
+      "rocket design",
+      "defines",
+      "purpose definition"
+    ],
+    [
+      "rocket design",
+      "designed for",
+      "hybrid engines"
+    ],
+    [
+      "rocket design",
+      "determines",
+      "design specifications"
+    ],
+    [
+      "rocket design",
+      "determines",
+      "payload capacity"
+    ],
+    [
+      "rocket design",
+      "evaluates",
+      "stability testing"
+    ],
+    [
+      "rocket design",
+      "identifies",
+      "potential issues"
+    ],
+    [
+      "rocket design",
+      "includes",
+      "propulsion system"
+    ],
+    [
+      "rocket design",
+      "influences",
+      "flight control"
+    ],
+    [
+      "rocket design",
+      "influences",
+      "precise execution"
+    ],
+    [
+      "rocket design",
+      "influences",
+      "thorough testing"
+    ],
+    [
+      "rocket design",
+      "informs",
+      "aerodynamics considerations"
+    ],
+    [
+      "rocket design",
+      "informs",
+      "system testing"
+    ],
+    [
+      "rocket design",
+      "involves",
+      "rocket building"
+    ],
+    [
+      "rocket design",
+      "is based on",
+      "design plans"
+    ],
+    [
+      "rocket design",
+      "is based on",
+      "physics understanding"
+    ],
+    [
+      "rocket design",
+      "is enhanced by",
+      "educational experience"
+    ],
+    [
+      "rocket design",
+      "is part of",
+      "technology integration"
+    ],
+    [
+      "rocket design",
+      "utilizes",
+      "lightweight materials"
+    ],
+    [
+      "rocket launch",
+      "achieved through",
+      "complex endeavor"
+    ],
+    [
+      "rocket launch",
+      "achieved through",
+      "rocket building"
+    ],
+    [
+      "rocket launch",
+      "follows",
+      "performance verification"
+    ],
+    [
+      "rocket launch",
+      "identifies",
+      "potential issues"
+    ],
+    [
+      "rocket launch",
+      "includes",
+      "critical components"
+    ],
+    [
+      "rocket launch",
+      "involves",
+      "creative process"
+    ],
+    [
+      "rocket launch",
+      "precedes",
+      "system testing"
+    ],
+    [
+      "rocket launch",
+      "relies on",
+      "guidance systems"
+    ],
+    [
+      "rocket launch",
+      "requires",
+      "flight control"
+    ],
+    [
+      "rocket launch",
+      "requires",
+      "safety measures"
+    ],
+    [
+      "safety measures",
+      "enhances",
+      "educational experience"
+    ],
+    [
+      "safety measures",
+      "enhances",
+      "flight control"
+    ],
+    [
+      "safety measures",
+      "enhances",
+      "guidance systems"
+    ],
+    [
+      "safety measures",
+      "enhances",
+      "technology integration"
+    ],
+    [
+      "safety measures",
+      "ensures",
+      "ground tests"
+    ],
+    [
+      "safety measures",
+      "ensures",
+      "onboard computers"
+    ],
+    [
+      "safety measures",
+      "ensures",
+      "payload capacity"
+    ],
+    [
+      "safety measures",
+      "ensures",
+      "solid fuel engines"
+    ],
+    [
+      "safety measures",
+      "ensures",
+      "system testing"
+    ],
+    [
+      "safety measures",
+      "ensures adherence to",
+      "engineering principles"
+    ],
+    [
+      "safety measures",
+      "validates",
+      "performance verification"
+    ],
+    [
+      "safety regulations",
+      "complies with",
+      "material gathering"
+    ],
+    [
+      "safety regulations",
+      "ensures",
+      "system testing"
+    ],
+    [
+      "safety regulations",
+      "facilitates",
+      "technology integration"
+    ],
+    [
+      "safety regulations",
+      "guides",
+      "stability testing"
+    ],
+    [
+      "safety regulations",
+      "influences",
+      "stability factors"
+    ],
+    [
+      "safety regulations",
+      "informs",
+      "aerodynamics considerations"
+    ],
+    [
+      "safety regulations",
+      "is governed by",
+      "electronics installation"
+    ],
+    [
+      "safety regulations",
+      "is governed by",
+      "rocket building"
+    ],
+    [
+      "safety regulations",
+      "is influenced by",
+      "performance verification"
+    ],
+    [
+      "safety regulations",
+      "is regulated by",
+      "rocket design"
+    ],
+    [
+      "safety regulations",
+      "mandates",
+      "potential issues"
+    ],
+    [
+      "safety regulations",
+      "requires adherence to",
+      "ground tests"
+    ],
+    [
+      "sensors",
+      "controls",
+      "guidance systems"
+    ],
+    [
+      "sensors",
+      "enables",
+      "flight control"
+    ],
+    [
+      "sensors",
+      "enhances",
+      "educational experience"
+    ],
+    [
+      "sensors",
+      "enhances",
+      "stability factors"
+    ],
+    [
+      "sensors",
+      "ensures",
+      "safety regulations"
+    ],
+    [
+      "sensors",
+      "informs",
+      "aerodynamics considerations"
+    ],
+    [
+      "sensors",
+      "integrates",
+      "propulsion system"
+    ],
+    [
+      "sensors",
+      "integrates with",
+      "technology integration"
+    ],
+    [
+      "sensors",
+      "requires",
+      "precise execution"
+    ],
+    [
+      "sensors",
+      "requires",
+      "thorough planning"
+    ],
+    [
+      "sensors",
+      "utilizes",
+      "actuators"
+    ],
+    [
+      "sensors",
+      "utilizes",
+      "aerospace engineering"
+    ],
+    [
+      "sensors",
+      "utilizes",
+      "liquid fuel engines"
+    ],
+    [
+      "sensors",
+      "utilizes",
+      "solid fuel engines"
+    ],
+    [
+      "sensors",
+      "utilizes",
+      "thorough testing"
+    ],
+    [
+      "sensors",
+      "validates",
+      "stability testing"
+    ],
+    [
+      "solid fuel engines",
+      "comprises",
+      "actuators"
+    ],
+    [
+      "solid fuel engines",
+      "determines",
+      "payload capacity"
+    ],
+    [
+      "solid fuel engines",
+      "enables",
+      "successful launch"
+    ],
+    [
+      "solid fuel engines",
+      "evaluates",
+      "test flights"
+    ],
+    [
+      "solid fuel engines",
+      "follows",
+      "safety regulations"
+    ],
+    [
+      "solid fuel engines",
+      "includes",
+      "critical components"
+    ],
+    [
+      "solid fuel engines",
+      "informs",
+      "advanced systems"
+    ],
+    [
+      "solid fuel engines",
+      "involves",
+      "component assembly"
+    ],
+    [
+      "solid fuel engines",
+      "is a component of",
+      "aerospace engineering"
+    ],
+    [
+      "solid fuel engines",
+      "is a type of",
+      "hybrid engines"
+    ],
+    [
+      "solid fuel engines",
+      "is based on",
+      "engineering principles"
+    ],
+    [
+      "solid fuel engines",
+      "is powered by",
+      "thrust generation"
+    ],
+    [
+      "solid fuel engines",
+      "requires",
+      "aerodynamics considerations"
+    ],
+    [
+      "solid fuel engines",
+      "supports",
+      "onboard computers"
+    ],
+    [
+      "solid fuel engines",
+      "undergoes",
+      "ground tests"
+    ],
+    [
+      "solid fuel engines",
+      "utilizes",
+      "space exploration"
+    ],
+    [
+      "space exploration",
+      "advances",
+      "rocket launch"
+    ],
+    [
+      "space exploration",
+      "determines",
+      "design specifications"
+    ],
+    [
+      "space exploration",
+      "enables",
+      "flight control"
+    ],
+    [
+      "space exploration",
+      "enables",
+      "thrust generation"
+    ],
+    [
+      "space exploration",
+      "fuels",
+      "passion for exploration"
+    ],
+    [
+      "space exploration",
+      "inspires",
+      "exploration inspiration"
+    ],
+    [
+      "space exploration",
+      "integrates",
+      "electronics installation"
+    ],
+    [
+      "space exploration",
+      "involves",
+      "aerodynamics considerations"
+    ],
+    [
+      "space exploration",
+      "involves",
+      "electric propulsion"
+    ],
+    [
+      "space exploration",
+      "involves",
+      "purpose definition"
+    ],
+    [
+      "space exploration",
+      "involves",
+      "stability factors"
+    ],
+    [
+      "space exploration",
+      "is part of",
+      "design process"
+    ],
+    [
+      "space exploration",
+      "is part of",
+      "propulsion system"
+    ],
+    [
+      "space exploration",
+      "prepares for",
+      "launch preparation"
+    ],
+    [
+      "space exploration",
+      "requires",
+      "ground tests"
+    ],
+    [
+      "space exploration",
+      "requires",
+      "physics understanding"
+    ],
+    [
+      "space exploration",
+      "requires",
+      "thorough planning"
+    ],
+    [
+      "space exploration",
+      "supports",
+      "rocket building"
+    ],
+    [
+      "space exploration",
+      "utilizes",
+      "sensors"
+    ],
+    [
+      "stability factors",
+      "affects",
+      "propulsion system"
+    ],
+    [
+      "stability factors",
+      "affects",
+      "test flights"
+    ],
+    [
+      "stability factors",
+      "complements",
+      "lightweight materials"
+    ],
+    [
+      "stability factors",
+      "enhances",
+      "safety measures"
+    ],
+    [
+      "stability factors",
+      "identifies",
+      "potential issues"
+    ],
+    [
+      "stability factors",
+      "influences",
+      "aerodynamics considerations"
+    ],
+    [
+      "stability factors",
+      "informs",
+      "system testing"
+    ],
+    [
+      "stability factors",
+      "is influenced by",
+      "educational experience"
+    ],
+    [
+      "stability factors",
+      "necessitates",
+      "thorough planning"
+    ],
+    [
+      "stability factors",
+      "requires",
+      "stability testing"
+    ],
+    [
+      "stability testing",
+      "ensures",
+      "potential issues"
+    ],
+    [
+      "stability testing",
+      "informs",
+      "engineering principles"
+    ],
+    [
+      "stability testing",
+      "involves",
+      "passion for exploration"
+    ],
+    [
+      "stability testing",
+      "is assessed by",
+      "aerospace engineering"
+    ],
+    [
+      "stability testing",
+      "is guided by",
+      "design specifications"
+    ],
+    [
+      "stability testing",
+      "is tested by",
+      "space exploration"
+    ],
+    [
+      "stability testing",
+      "is validated by",
+      "successful launch"
+    ],
+    [
+      "stability testing",
+      "requires",
+      "electric propulsion"
+    ],
+    [
+      "stability testing",
+      "requires",
+      "flight control"
+    ],
+    [
+      "stability testing",
+      "requires",
+      "rocket launch"
+    ],
+    [
+      "stability testing",
+      "tests for",
+      "performance verification"
+    ],
+    [
+      "stability testing",
+      "utilizes",
+      "lightweight materials"
+    ],
+    [
+      "stability testing",
+      "verifies",
+      "test flights"
+    ],
+    [
+      "step-by-step guide",
+      "considers",
+      "aerodynamics considerations"
+    ],
+    [
+      "step-by-step guide",
+      "described by",
+      "electric propulsion"
+    ],
+    [
+      "step-by-step guide",
+      "described in",
+      "test flights"
+    ],
+    [
+      "step-by-step guide",
+      "describes",
+      "critical components"
+    ],
+    [
+      "step-by-step guide",
+      "describes",
+      "propulsion system"
+    ],
+    [
+      "step-by-step guide",
+      "describes",
+      "solid fuel engines"
+    ],
+    [
+      "step-by-step guide",
+      "dictates",
+      "safety regulations"
+    ],
+    [
+      "step-by-step guide",
+      "explained in",
+      "actuators"
+    ],
+    [
+      "step-by-step guide",
+      "facilitates",
+      "technology integration"
+    ],
+    [
+      "step-by-step guide",
+      "includes",
+      "educational experience"
+    ],
+    [
+      "step-by-step guide",
+      "informs",
+      "stability testing"
+    ],
+    [
+      "step-by-step guide",
+      "inspires",
+      "exploration inspiration"
+    ],
+    [
+      "step-by-step guide",
+      "is a resource for",
+      "guidance systems"
+    ],
+    [
+      "step-by-step guide",
+      "is detailed in",
+      "rocket launch"
+    ],
+    [
+      "step-by-step guide",
+      "is structured by",
+      "engineering principles"
+    ],
+    [
+      "step-by-step guide",
+      "part of",
+      "onboard computers"
+    ],
+    [
+      "step-by-step guide",
+      "provides",
+      "flight control"
+    ],
+    [
+      "step-by-step guide",
+      "provides",
+      "precise execution"
+    ],
+    [
+      "step-by-step guide",
+      "requires",
+      "thorough planning"
+    ],
+    [
+      "successful launch",
+      "achieved by",
+      "liquid fuel engines"
+    ],
+    [
+      "successful launch",
+      "affects",
+      "potential issues"
+    ],
+    [
+      "successful launch",
+      "contributes to",
+      "advanced systems"
+    ],
+    [
+      "successful launch",
+      "contributes to",
+      "aerospace engineering"
+    ],
+    [
+      "successful launch",
+      "contributes to",
+      "critical components"
+    ],
+    [
+      "successful launch",
+      "contributes to",
+      "onboard computers"
+    ],
+    [
+      "successful launch",
+      "contributes to",
+      "sensors"
+    ],
+    [
+      "successful launch",
+      "demonstrates",
+      "physics understanding"
+    ],
+    [
+      "successful launch",
+      "enables",
+      "component assembly"
+    ],
+    [
+      "successful launch",
+      "enables",
+      "design plans"
+    ],
+    [
+      "successful launch",
+      "enables",
+      "electric propulsion"
+    ],
+    [
+      "successful launch",
+      "enables",
+      "engineering principles"
+    ],
+    [
+      "successful launch",
+      "enables",
+      "ground tests"
+    ],
+    [
+      "successful launch",
+      "enables",
+      "propulsion system"
+    ],
+    [
+      "successful launch",
+      "ensures",
+      "safety measures"
+    ],
+    [
+      "successful launch",
+      "ensures",
+      "system testing"
+    ],
+    [
+      "successful launch",
+      "ensures",
+      "thorough testing"
+    ],
+    [
+      "successful launch",
+      "is achieved through",
+      "rocket design"
+    ],
+    [
+      "successful launch",
+      "is guided by",
+      "step-by-step guide"
+    ],
+    [
+      "successful launch",
+      "is the result of",
+      "rocket launch"
+    ],
+    [
+      "successful launch",
+      "results in",
+      "educational experience"
+    ],
+    [
+      "successful launch",
+      "results in",
+      "test flights"
+    ],
+    [
+      "system testing",
+      "enhances",
+      "creative process"
+    ],
+    [
+      "system testing",
+      "enhances",
+      "design process"
+    ],
+    [
+      "system testing",
+      "enhances",
+      "educational experience"
+    ],
+    [
+      "system testing",
+      "evaluates",
+      "sensors"
+    ],
+    [
+      "system testing",
+      "identifies",
+      "thorough planning"
+    ],
+    [
+      "system testing",
+      "informs",
+      "purpose definition"
+    ],
+    [
+      "system testing",
+      "inspires",
+      "exploration inspiration"
+    ],
+    [
+      "system testing",
+      "involves",
+      "ground tests"
+    ],
+    [
+      "system testing",
+      "is evaluated through",
+      "potential issues"
+    ],
+    [
+      "system testing",
+      "is part of",
+      "test flights"
+    ],
+    [
+      "system testing",
+      "requires",
+      "component assembly"
+    ],
+    [
+      "technology integration",
+      "considers",
+      "aerodynamics considerations"
+    ],
+    [
+      "technology integration",
+      "enhances",
+      "performance verification"
+    ],
+    [
+      "technology integration",
+      "facilitates",
+      "thorough planning"
+    ],
+    [
+      "technology integration",
+      "improves",
+      "stability testing"
+    ],
+    [
+      "technology integration",
+      "informs",
+      "ground tests"
+    ],
+    [
+      "technology integration",
+      "is addressed by",
+      "potential issues"
+    ],
+    [
+      "technology integration",
+      "is based on",
+      "design plans"
+    ],
+    [
+      "technology integration",
+      "is defined by",
+      "design specifications"
+    ],
+    [
+      "technology integration",
+      "is enhanced by",
+      "space exploration"
+    ],
+    [
+      "technology integration",
+      "is enhanced by",
+      "successful launch"
+    ],
+    [
+      "test flights",
+      "confirms",
+      "performance verification"
+    ],
+    [
+      "test flights",
+      "enhances",
+      "educational experience"
+    ],
+    [
+      "test flights",
+      "evaluated by",
+      "advanced systems"
+    ],
+    [
+      "test flights",
+      "evaluated by",
+      "propulsion system"
+    ],
+    [
+      "test flights",
+      "facilitates",
+      "actuators"
+    ],
+    [
+      "test flights",
+      "facilitates",
+      "launch preparation"
+    ],
+    [
+      "test flights",
+      "informs",
+      "engineering principles"
+    ],
+    [
+      "test flights",
+      "informs",
+      "safety measures"
+    ],
+    [
+      "test flights",
+      "inspires",
+      "exploration inspiration"
+    ],
+    [
+      "test flights",
+      "is validated by",
+      "design plans"
+    ],
+    [
+      "test flights",
+      "is verified by",
+      "rocket launch"
+    ],
+    [
+      "test flights",
+      "requires",
+      "thorough planning"
+    ],
+    [
+      "test flights",
+      "validated by",
+      "body construction"
+    ],
+    [
+      "test flights",
+      "validated by",
+      "design process"
+    ],
+    [
+      "test flights",
+      "validated by",
+      "ground tests"
+    ],
+    [
+      "test flights",
+      "validated by",
+      "rocket design"
+    ],
+    [
+      "test flights",
+      "validated by",
+      "space exploration"
+    ],
+    [
+      "test flights",
+      "validated by",
+      "thorough testing"
+    ],
+    [
+      "test flights",
+      "validates",
+      "critical components"
+    ],
+    [
+      "thorough planning",
+      "depends on",
+      "guidance systems"
+    ],
+    [
+      "thorough planning",
+      "determines",
+      "payload capacity"
+    ],
+    [
+      "thorough planning",
+      "enables",
+      "successful launch"
+    ],
+    [
+      "thorough planning",
+      "ensures",
+      "stability testing"
+    ],
+    [
+      "thorough planning",
+      "informs",
+      "design specifications"
+    ],
+    [
+      "thorough planning",
+      "inspired by",
+      "passion for exploration"
+    ],
+    [
+      "thorough planning",
+      "involves",
+      "aerodynamics considerations"
+    ],
+    [
+      "thorough planning",
+      "is facilitated by",
+      "performance verification"
+    ],
+    [
+      "thorough planning",
+      "is guided by",
+      "rocket design"
+    ],
+    [
+      "thorough planning",
+      "requires",
+      "electric propulsion"
+    ],
+    [
+      "thorough planning",
+      "requires",
+      "ground tests"
+    ],
+    [
+      "thorough planning",
+      "requires",
+      "safety measures"
+    ],
+    [
+      "thorough testing",
+      "affects",
+      "aerodynamics considerations"
+    ],
+    [
+      "thorough testing",
+      "applies",
+      "engineering principles"
+    ],
+    [
+      "thorough testing",
+      "benefits from",
+      "space exploration"
+    ],
+    [
+      "thorough testing",
+      "enhances",
+      "creative process"
+    ],
+    [
+      "thorough testing",
+      "ensures",
+      "body construction"
+    ],
+    [
+      "thorough testing",
+      "ensures",
+      "critical components"
+    ],
+    [
+      "thorough testing",
+      "ensures",
+      "performance verification"
+    ],
+    [
+      "thorough testing",
+      "ensures",
+      "safety regulations"
+    ],
+    [
+      "thorough testing",
+      "ensures",
+      "stability testing"
+    ],
+    [
+      "thorough testing",
+      "facilitates",
+      "technology integration"
+    ],
+    [
+      "thorough testing",
+      "follows",
+      "component assembly"
+    ],
+    [
+      "thorough testing",
+      "informs",
+      "design process"
+    ],
+    [
+      "thorough testing",
+      "informs",
+      "system testing"
+    ],
+    [
+      "thorough testing",
+      "requires",
+      "material gathering"
+    ],
+    [
+      "thorough testing",
+      "requires",
+      "thorough planning"
+    ],
+    [
+      "thorough testing",
+      "requires",
+      "thrust generation"
+    ],
+    [
+      "thorough testing",
+      "validated by",
+      "hybrid engines"
+    ],
+    [
+      "thrust generation",
+      "achieved by",
+      "electric propulsion"
+    ],
+    [
+      "thrust generation",
+      "determines",
+      "payload capacity"
+    ],
+    [
+      "thrust generation",
+      "enables",
+      "complex endeavor"
+    ],
+    [
+      "thrust generation",
+      "enables",
+      "material gathering"
+    ],
+    [
+      "thrust generation",
+      "ensures",
+      "stability testing"
+    ],
+    [
+      "thrust generation",
+      "informs",
+      "design process"
+    ],
+    [
+      "thrust generation",
+      "informs",
+      "design specifications"
+    ],
+    [
+      "thrust generation",
+      "informs",
+      "ground tests"
+    ],
+    [
+      "thrust generation",
+      "is a result of",
+      "rocket design"
+    ],
+    [
+      "thrust generation",
+      "is essential for",
+      "successful launch"
+    ],
+    [
+      "thrust generation",
+      "is produced by",
+      "propulsion system"
+    ],
+    [
+      "thrust generation",
+      "is provided by",
+      "guidance systems"
+    ],
+    [
+      "thrust generation",
+      "presents",
+      "potential issues"
+    ],
+    [
+      "thrust generation",
+      "provides",
+      "actuators"
+    ],
+    [
+      "thrust generation",
+      "requires",
+      "thorough planning"
+    ],
+    [
+      "thrust generation",
+      "supports",
+      "launch preparation"
+    ],
+    [
+      "thrust generation",
+      "utilizes",
+      "advanced systems"
+    ],
+    [
+      "thrust generation",
+      "utilizes",
+      "hybrid engines"
+    ],
+    [
+      "thrust generation",
+      "verifies",
+      "test flights"
+    ]
+  ],
+  "edges": [
+    "achieved by",
+    "achieved through",
+    "addresses",
+    "advances",
+    "affects",
+    "aligns with",
+    "applies",
+    "assessed by",
+    "assesses",
+    "based on",
+    "benefits from",
+    "competes with",
+    "complements",
+    "completes",
+    "complies with",
+    "comprises",
+    "confirms",
+    "considered in",
+    "considers",
+    "constructed from",
+    "contributes to",
+    "controls",
+    "cultivates",
+    "defines",
+    "demands",
+    "demonstrates",
+    "depends on",
+    "described by",
+    "described in",
+    "describes",
+    "designed for",
+    "determines",
+    "dictates",
+    "drives",
+    "enables",
+    "enables understanding of",
+    "encourages",
+    "enhances",
+    "enhances understanding of",
+    "ensures",
+    "ensures adherence to",
+    "evaluated by",
+    "evaluates",
+    "explained in",
+    "facilitates",
+    "follows",
+    "fosters",
+    "fuels",
+    "guided by",
+    "guides",
+    "highlights",
+    "identifies",
+    "improves",
+    "includes",
+    "incorporates",
+    "influences",
+    "informs",
+    "informs understanding of",
+    "inspired by",
+    "inspires",
+    "integrates",
+    "integrates with",
+    "interacts with",
+    "involves",
+    "is a challenge for",
+    "is a challenge of",
+    "is a component of",
+    "is a field of",
+    "is a part of",
+    "is a precursor to",
+    "is a prerequisite for",
+    "is a resource for",
+    "is a result of",
+    "is a type of",
+    "is achieved through",
+    "is addressed by",
+    "is assessed by",
+    "is assessed through",
+    "is associated with",
+    "is based on",
+    "is characterized by",
+    "is constructed from",
+    "is defined by",
+    "is detailed in",
+    "is driven by",
+    "is enhanced by",
+    "is essential for",
+    "is evaluated through",
+    "is explained in",
+    "is facilitated by",
+    "is governed by",
+    "is guided by",
+    "is implemented during",
+    "is implemented in",
+    "is influenced by",
+    "is informed by",
+    "is inspired by",
+    "is integrated with",
+    "is involved in",
+    "is managed by",
+    "is necessary for",
+    "is outlined in",
+    "is part of",
+    "is powered by",
+    "is preceded by",
+    "is produced by",
+    "is provided by",
+    "is regulated by",
+    "is related to",
+    "is structured by",
+    "is tested by",
+    "is tested in",
+    "is the result of",
+    "is used in",
+    "is utilized by",
+    "is utilized in",
+    "is validated by",
+    "is verified by",
+    "leads to",
+    "mandates",
+    "motivates",
+    "must adhere to",
+    "must comply with",
+    "necessitates",
+    "offers",
+    "part of",
+    "powers",
+    "precedes",
+    "prepares",
+    "prepares for",
+    "presents",
+    "produces",
+    "provides",
+    "relies on",
+    "requires",
+    "requires adherence to",
+    "requires consideration of",
+    "results in",
+    "sparks",
+    "specifies",
+    "stimulates",
+    "supports",
+    "tested by",
+    "tests",
+    "tests for",
+    "undergoes",
+    "underpins",
+    "used in",
+    "utilized in",
+    "utilizes",
+    "validated by",
+    "validates",
+    "verifies"
+  ]
+}

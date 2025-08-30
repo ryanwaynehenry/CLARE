@@ -1,0 +1,1960 @@
+{
+  "entities": [
+    "Arab Spring",
+    "Black Lives Matter",
+    "Bolsheviks",
+    "Declaration of Independence",
+    "French Revolution",
+    "Martin Luther King Jr",
+    "Romanov dynasty",
+    "Russian Revolution",
+    "Tiananmen Square",
+    "Vladimir Lenin",
+    "accountability",
+    "activism",
+    "authoritarian regimes",
+    "civil rights",
+    "civil rights movement",
+    "communist state",
+    "democracy",
+    "equality",
+    "fraternity",
+    "global movements",
+    "historical legacy",
+    "historical significance",
+    "human rights",
+    "human spirit",
+    "just society",
+    "liberty",
+    "monarchy",
+    "oppression",
+    "oppressive regimes",
+    "ordinary people",
+    "peaceful demonstrations",
+    "police brutality",
+    "political change",
+    "political dissent",
+    "political landscape",
+    "political rights",
+    "protests",
+    "republic",
+    "resilience",
+    "revolutions",
+    "social justice",
+    "social movements",
+    "socialist movements",
+    "strikes",
+    "systemic racism",
+    "transformation",
+    "unalienable rights",
+    "uprisings",
+    "violent uprisings"
+  ],
+  "relations": [
+    [
+      "Arab Spring",
+      "aimed for",
+      "democracy"
+    ],
+    [
+      "Arab Spring",
+      "challenged",
+      "oppressive regimes"
+    ],
+    [
+      "Arab Spring",
+      "challenged by",
+      "authoritarian regimes"
+    ],
+    [
+      "Arab Spring",
+      "influenced",
+      "historical significance"
+    ],
+    [
+      "Arab Spring",
+      "inspired by",
+      "global movements"
+    ],
+    [
+      "Arab Spring",
+      "leads to",
+      "political change"
+    ],
+    [
+      "Arab Spring",
+      "led to",
+      "revolutions"
+    ],
+    [
+      "Arab Spring",
+      "shaped by",
+      "political landscape"
+    ],
+    [
+      "Arab Spring",
+      "sparked by",
+      "peaceful demonstrations"
+    ],
+    [
+      "Arab Spring",
+      "sparked by",
+      "violent uprisings"
+    ],
+    [
+      "Black Lives Matter",
+      "advocates for",
+      "democracy"
+    ],
+    [
+      "Black Lives Matter",
+      "advocates for",
+      "human rights"
+    ],
+    [
+      "Black Lives Matter",
+      "advocates for",
+      "just society"
+    ],
+    [
+      "Black Lives Matter",
+      "challenges",
+      "political dissent"
+    ],
+    [
+      "Black Lives Matter",
+      "demands",
+      "equality"
+    ],
+    [
+      "Black Lives Matter",
+      "galvanized",
+      "political change"
+    ],
+    [
+      "Black Lives Matter",
+      "influences",
+      "global movements"
+    ],
+    [
+      "Black Lives Matter",
+      "initiated",
+      "peaceful demonstrations"
+    ],
+    [
+      "Black Lives Matter",
+      "opposes",
+      "authoritarian regimes"
+    ],
+    [
+      "Black Lives Matter",
+      "responded to",
+      "police brutality"
+    ],
+    [
+      "Black Lives Matter",
+      "responded to",
+      "systemic racism"
+    ],
+    [
+      "Black Lives Matter",
+      "shapes",
+      "political landscape"
+    ],
+    [
+      "Bolsheviks",
+      "established by",
+      "communist state"
+    ],
+    [
+      "Bolsheviks",
+      "initiated by",
+      "strikes"
+    ],
+    [
+      "Bolsheviks",
+      "inspired by",
+      "socialist movements"
+    ],
+    [
+      "Bolsheviks",
+      "led by",
+      "historical significance"
+    ],
+    [
+      "Bolsheviks",
+      "led by",
+      "violent uprisings"
+    ],
+    [
+      "Bolsheviks",
+      "overthrew",
+      "Romanov dynasty"
+    ],
+    [
+      "Bolsheviks",
+      "overthrew",
+      "authoritarian regimes"
+    ],
+    [
+      "Bolsheviks",
+      "overthrown by",
+      "monarchy"
+    ],
+    [
+      "Bolsheviks",
+      "suppressed by",
+      "political dissent"
+    ],
+    [
+      "Declaration of Independence",
+      "influenced by",
+      "political landscape"
+    ],
+    [
+      "Declaration of Independence",
+      "inspired by",
+      "ordinary people"
+    ],
+    [
+      "Declaration of Independence",
+      "inspired by",
+      "uprisings"
+    ],
+    [
+      "Declaration of Independence",
+      "inspired by",
+      "violent uprisings"
+    ],
+    [
+      "French Revolution",
+      "established",
+      "republic"
+    ],
+    [
+      "French Revolution",
+      "inspired by",
+      "Russian Revolution"
+    ],
+    [
+      "French Revolution",
+      "overthrew",
+      "monarchy"
+    ],
+    [
+      "Martin Luther King Jr",
+      "advocated for",
+      "liberty"
+    ],
+    [
+      "Martin Luther King Jr",
+      "fought for",
+      "equality"
+    ],
+    [
+      "Martin Luther King Jr",
+      "led",
+      "civil rights movement"
+    ],
+    [
+      "Martin Luther King Jr",
+      "represents",
+      "human spirit"
+    ],
+    [
+      "Romanov dynasty",
+      "influenced by",
+      "Declaration of Independence"
+    ],
+    [
+      "Romanov dynasty",
+      "influenced by",
+      "political landscape"
+    ],
+    [
+      "Romanov dynasty",
+      "inspired by",
+      "human spirit"
+    ],
+    [
+      "Romanov dynasty",
+      "overthrew",
+      "democracy"
+    ],
+    [
+      "Romanov dynasty",
+      "overthrew",
+      "ordinary people"
+    ],
+    [
+      "Romanov dynasty",
+      "overthrew",
+      "revolutions"
+    ],
+    [
+      "Romanov dynasty",
+      "overthrown by",
+      "French Revolution"
+    ],
+    [
+      "Romanov dynasty",
+      "overthrown by",
+      "Vladimir Lenin"
+    ],
+    [
+      "Romanov dynasty",
+      "overthrown by",
+      "authoritarian regimes"
+    ],
+    [
+      "Romanov dynasty",
+      "overthrown by",
+      "human rights"
+    ],
+    [
+      "Romanov dynasty",
+      "overthrown by",
+      "political change"
+    ],
+    [
+      "Romanov dynasty",
+      "overthrown by",
+      "republic"
+    ],
+    [
+      "Romanov dynasty",
+      "overthrown by",
+      "resilience"
+    ],
+    [
+      "Romanov dynasty",
+      "transformed",
+      "transformation"
+    ],
+    [
+      "Russian Revolution",
+      "ended",
+      "Romanov dynasty"
+    ],
+    [
+      "Russian Revolution",
+      "established by",
+      "communist state"
+    ],
+    [
+      "Russian Revolution",
+      "established by",
+      "republic"
+    ],
+    [
+      "Russian Revolution",
+      "inspired",
+      "revolutions"
+    ],
+    [
+      "Russian Revolution",
+      "inspired by",
+      "socialist movements"
+    ],
+    [
+      "Russian Revolution",
+      "modeled after",
+      "French Revolution"
+    ],
+    [
+      "Russian Revolution",
+      "resulted in",
+      "transformation"
+    ],
+    [
+      "Russian Revolution",
+      "sparked by",
+      "political dissent"
+    ],
+    [
+      "Russian Revolution",
+      "sparked by",
+      "protests"
+    ],
+    [
+      "Russian Revolution",
+      "sparked by",
+      "uprisings"
+    ],
+    [
+      "Tiananmen Square",
+      "affected by",
+      "political landscape"
+    ],
+    [
+      "Tiananmen Square",
+      "challenged by",
+      "political rights"
+    ],
+    [
+      "Tiananmen Square",
+      "challenges",
+      "oppressive regimes"
+    ],
+    [
+      "Tiananmen Square",
+      "influenced",
+      "Declaration of Independence"
+    ],
+    [
+      "Tiananmen Square",
+      "influences",
+      "social movements"
+    ],
+    [
+      "Tiananmen Square",
+      "met with",
+      "political dissent"
+    ],
+    [
+      "Tiananmen Square",
+      "met with",
+      "strikes"
+    ],
+    [
+      "Tiananmen Square",
+      "repressed by",
+      "peaceful demonstrations"
+    ],
+    [
+      "Tiananmen Square",
+      "resulted in",
+      "oppression"
+    ],
+    [
+      "Tiananmen Square",
+      "sparked by",
+      "revolutions"
+    ],
+    [
+      "Tiananmen Square",
+      "was suppressed at",
+      "human rights"
+    ],
+    [
+      "Vladimir Lenin",
+      "contributes to",
+      "historical significance"
+    ],
+    [
+      "Vladimir Lenin",
+      "established",
+      "communist state"
+    ],
+    [
+      "Vladimir Lenin",
+      "inspired by",
+      "political rights"
+    ],
+    [
+      "Vladimir Lenin",
+      "led",
+      "Bolsheviks"
+    ],
+    [
+      "Vladimir Lenin",
+      "led",
+      "revolutions"
+    ],
+    [
+      "Vladimir Lenin",
+      "led",
+      "socialist movements"
+    ],
+    [
+      "Vladimir Lenin",
+      "shaped by",
+      "historical legacy"
+    ],
+    [
+      "accountability",
+      "demands",
+      "political dissent"
+    ],
+    [
+      "accountability",
+      "drives",
+      "activism"
+    ],
+    [
+      "accountability",
+      "ensures",
+      "human rights"
+    ],
+    [
+      "accountability",
+      "fueled by",
+      "global movements"
+    ],
+    [
+      "accountability",
+      "requires",
+      "democracy"
+    ],
+    [
+      "accountability",
+      "requires",
+      "revolutions"
+    ],
+    [
+      "activism",
+      "creates",
+      "just society"
+    ],
+    [
+      "activism",
+      "drives",
+      "social movements"
+    ],
+    [
+      "activism",
+      "fueled by",
+      "violent uprisings"
+    ],
+    [
+      "activism",
+      "influenced by",
+      "Declaration of Independence"
+    ],
+    [
+      "activism",
+      "influences",
+      "global movements"
+    ],
+    [
+      "activism",
+      "influences",
+      "historical legacy"
+    ],
+    [
+      "activism",
+      "influences",
+      "socialist movements"
+    ],
+    [
+      "activism",
+      "inspired by",
+      "Arab Spring"
+    ],
+    [
+      "authoritarian regimes",
+      "challenged by",
+      "human rights"
+    ],
+    [
+      "authoritarian regimes",
+      "drives",
+      "political change"
+    ],
+    [
+      "authoritarian regimes",
+      "maintained by",
+      "oppression"
+    ],
+    [
+      "authoritarian regimes",
+      "opposed by",
+      "socialist movements"
+    ],
+    [
+      "authoritarian regimes",
+      "opposes",
+      "just society"
+    ],
+    [
+      "authoritarian regimes",
+      "oppressed by",
+      "civil rights"
+    ],
+    [
+      "authoritarian regimes",
+      "supported by",
+      "Vladimir Lenin"
+    ],
+    [
+      "civil rights",
+      "challenges",
+      "oppression"
+    ],
+    [
+      "civil rights",
+      "creates",
+      "just society"
+    ],
+    [
+      "civil rights",
+      "embodies",
+      "human spirit"
+    ],
+    [
+      "civil rights",
+      "influenced by",
+      "civil rights movement"
+    ],
+    [
+      "civil rights",
+      "inspired by",
+      "Black Lives Matter"
+    ],
+    [
+      "civil rights",
+      "promotes",
+      "equality"
+    ],
+    [
+      "civil rights",
+      "promotes",
+      "liberty"
+    ],
+    [
+      "communist state",
+      "established by",
+      "Tiananmen Square"
+    ],
+    [
+      "communist state",
+      "established by",
+      "authoritarian regimes"
+    ],
+    [
+      "communist state",
+      "established by",
+      "global movements"
+    ],
+    [
+      "communist state",
+      "established by",
+      "human rights"
+    ],
+    [
+      "communist state",
+      "established by",
+      "political change"
+    ],
+    [
+      "communist state",
+      "established by",
+      "transformation"
+    ],
+    [
+      "communist state",
+      "established by",
+      "uprisings"
+    ],
+    [
+      "democracy",
+      "based on",
+      "republic"
+    ],
+    [
+      "democracy",
+      "inspired by",
+      "revolutions"
+    ],
+    [
+      "democracy",
+      "is opposed by",
+      "oppression"
+    ],
+    [
+      "democracy",
+      "leads to",
+      "uprisings"
+    ],
+    [
+      "democracy",
+      "opposed by",
+      "authoritarian regimes"
+    ],
+    [
+      "democracy",
+      "opposes",
+      "communist state"
+    ],
+    [
+      "democracy",
+      "promoted by",
+      "Tiananmen Square"
+    ],
+    [
+      "democracy",
+      "promotes",
+      "human rights"
+    ],
+    [
+      "equality",
+      "challenges",
+      "systemic racism"
+    ],
+    [
+      "equality",
+      "contrasts with",
+      "unalienable rights"
+    ],
+    [
+      "equality",
+      "opposes",
+      "oppressive regimes"
+    ],
+    [
+      "equality",
+      "promotes",
+      "democracy"
+    ],
+    [
+      "equality",
+      "results in",
+      "political change"
+    ],
+    [
+      "global movements",
+      "advocated by",
+      "unalienable rights"
+    ],
+    [
+      "global movements",
+      "exposed by",
+      "police brutality"
+    ],
+    [
+      "global movements",
+      "inspired by",
+      "protests"
+    ],
+    [
+      "global movements",
+      "is challenged by",
+      "oppression"
+    ],
+    [
+      "global movements",
+      "promotes",
+      "equality"
+    ],
+    [
+      "historical legacy",
+      "contributes to",
+      "just society"
+    ],
+    [
+      "historical legacy",
+      "demands",
+      "accountability"
+    ],
+    [
+      "historical legacy",
+      "embodies",
+      "human spirit"
+    ],
+    [
+      "historical legacy",
+      "influences",
+      "transformation"
+    ],
+    [
+      "historical legacy",
+      "shaped by",
+      "political change"
+    ],
+    [
+      "historical legacy",
+      "shaped by",
+      "political dissent"
+    ],
+    [
+      "historical legacy",
+      "shapes",
+      "protests"
+    ],
+    [
+      "historical significance",
+      "associated with",
+      "political change"
+    ],
+    [
+      "historical significance",
+      "shapes",
+      "social movements"
+    ],
+    [
+      "human rights",
+      "asserts",
+      "Declaration of Independence"
+    ],
+    [
+      "human rights",
+      "challenged by",
+      "systemic racism"
+    ],
+    [
+      "human rights",
+      "influences",
+      "political change"
+    ],
+    [
+      "human rights",
+      "sparked by",
+      "Arab Spring"
+    ],
+    [
+      "human rights",
+      "supports",
+      "liberty"
+    ],
+    [
+      "human spirit",
+      "embodies",
+      "resilience"
+    ],
+    [
+      "human spirit",
+      "inspired by",
+      "republic"
+    ],
+    [
+      "just society",
+      "aims for",
+      "socialist movements"
+    ],
+    [
+      "just society",
+      "challenges",
+      "oppression"
+    ],
+    [
+      "just society",
+      "contributes to",
+      "transformation"
+    ],
+    [
+      "just society",
+      "pursued by",
+      "Bolsheviks"
+    ],
+    [
+      "just society",
+      "resulted in",
+      "Russian Revolution"
+    ],
+    [
+      "just society",
+      "sought by",
+      "global movements"
+    ],
+    [
+      "liberty",
+      "contrasts with",
+      "oppression"
+    ],
+    [
+      "liberty",
+      "inspired by",
+      "Black Lives Matter"
+    ],
+    [
+      "monarchy",
+      "ended by",
+      "Russian Revolution"
+    ],
+    [
+      "monarchy",
+      "overthrew",
+      "Romanov dynasty"
+    ],
+    [
+      "monarchy",
+      "overthrew",
+      "ordinary people"
+    ],
+    [
+      "monarchy",
+      "overthrew",
+      "socialist movements"
+    ],
+    [
+      "monarchy",
+      "overthrown by",
+      "Declaration of Independence"
+    ],
+    [
+      "monarchy",
+      "overthrown by",
+      "political change"
+    ],
+    [
+      "monarchy",
+      "overthrown by",
+      "transformation"
+    ],
+    [
+      "monarchy",
+      "replaced by",
+      "communist state"
+    ],
+    [
+      "monarchy",
+      "replaced by",
+      "republic"
+    ],
+    [
+      "monarchy",
+      "upheld by",
+      "human rights"
+    ],
+    [
+      "oppression",
+      "challenged by",
+      "Arab Spring"
+    ],
+    [
+      "oppression",
+      "challenged by",
+      "protests"
+    ],
+    [
+      "oppression",
+      "denied by",
+      "unalienable rights"
+    ],
+    [
+      "oppression",
+      "enforced by",
+      "political dissent"
+    ],
+    [
+      "oppression",
+      "perpetuated by",
+      "oppressive regimes"
+    ],
+    [
+      "oppression",
+      "perpetuated by",
+      "social justice"
+    ],
+    [
+      "oppression",
+      "perpetuated by",
+      "strikes"
+    ],
+    [
+      "oppression",
+      "perpetuates",
+      "just society"
+    ],
+    [
+      "oppression",
+      "suppressed by",
+      "uprisings"
+    ],
+    [
+      "oppression",
+      "sustained by",
+      "political landscape"
+    ],
+    [
+      "oppressive regimes",
+      "challenged by",
+      "Black Lives Matter"
+    ],
+    [
+      "oppressive regimes",
+      "challenged by",
+      "oppression"
+    ],
+    [
+      "oppressive regimes",
+      "controlled by",
+      "accountability"
+    ],
+    [
+      "oppressive regimes",
+      "enforced by",
+      "police brutality"
+    ],
+    [
+      "oppressive regimes",
+      "is challenged by",
+      "social movements"
+    ],
+    [
+      "oppressive regimes",
+      "maintained by",
+      "political landscape"
+    ],
+    [
+      "oppressive regimes",
+      "opposed by",
+      "peaceful demonstrations"
+    ],
+    [
+      "oppressive regimes",
+      "oppresses",
+      "authoritarian regimes"
+    ],
+    [
+      "oppressive regimes",
+      "overthrown by",
+      "communist state"
+    ],
+    [
+      "oppressive regimes",
+      "restricted by",
+      "political rights"
+    ],
+    [
+      "oppressive regimes",
+      "suppressed by",
+      "activism"
+    ],
+    [
+      "oppressive regimes",
+      "suppresses",
+      "political dissent"
+    ],
+    [
+      "ordinary people",
+      "challenged by",
+      "police brutality"
+    ],
+    [
+      "ordinary people",
+      "defined by",
+      "historical significance"
+    ],
+    [
+      "ordinary people",
+      "demonstrated by",
+      "peaceful demonstrations"
+    ],
+    [
+      "ordinary people",
+      "drive",
+      "social movements"
+    ],
+    [
+      "ordinary people",
+      "empowered by",
+      "French Revolution"
+    ],
+    [
+      "ordinary people",
+      "established",
+      "republic"
+    ],
+    [
+      "ordinary people",
+      "initiated",
+      "revolutions"
+    ],
+    [
+      "ordinary people",
+      "inspired",
+      "Russian Revolution"
+    ],
+    [
+      "ordinary people",
+      "inspired by",
+      "uprisings"
+    ],
+    [
+      "ordinary people",
+      "inspired by",
+      "violent uprisings"
+    ],
+    [
+      "ordinary people",
+      "mobilized by",
+      "Arab Spring"
+    ],
+    [
+      "peaceful demonstrations",
+      "contrasted with",
+      "protests"
+    ],
+    [
+      "peaceful demonstrations",
+      "contrasts with",
+      "violent uprisings"
+    ],
+    [
+      "peaceful demonstrations",
+      "fosters",
+      "social movements"
+    ],
+    [
+      "peaceful demonstrations",
+      "inspired by",
+      "activism"
+    ],
+    [
+      "peaceful demonstrations",
+      "inspired by",
+      "historical legacy"
+    ],
+    [
+      "peaceful demonstrations",
+      "inspired by",
+      "political dissent"
+    ],
+    [
+      "peaceful demonstrations",
+      "is a form of",
+      "global movements"
+    ],
+    [
+      "peaceful demonstrations",
+      "led to",
+      "revolutions"
+    ],
+    [
+      "peaceful demonstrations",
+      "opposed by",
+      "oppression"
+    ],
+    [
+      "peaceful demonstrations",
+      "protested against",
+      "Tiananmen Square"
+    ],
+    [
+      "police brutality",
+      "challenged by",
+      "socialist movements"
+    ],
+    [
+      "police brutality",
+      "drives",
+      "social movements"
+    ],
+    [
+      "police brutality",
+      "exacerbated by",
+      "Arab Spring"
+    ],
+    [
+      "police brutality",
+      "exacerbated by",
+      "historical legacy"
+    ],
+    [
+      "police brutality",
+      "exacerbated by",
+      "just society"
+    ],
+    [
+      "police brutality",
+      "exacerbated by",
+      "oppression"
+    ],
+    [
+      "police brutality",
+      "exacerbated by",
+      "strikes"
+    ],
+    [
+      "police brutality",
+      "is a response to",
+      "uprisings"
+    ],
+    [
+      "police brutality",
+      "perpetrated by",
+      "peaceful demonstrations"
+    ],
+    [
+      "police brutality",
+      "perpetuated by",
+      "accountability"
+    ],
+    [
+      "police brutality",
+      "result of",
+      "systemic racism"
+    ],
+    [
+      "police brutality",
+      "resulted from",
+      "protests"
+    ],
+    [
+      "political change",
+      "leads to",
+      "democracy"
+    ],
+    [
+      "political change",
+      "resulted in",
+      "transformation"
+    ],
+    [
+      "political change",
+      "shapes",
+      "social movements"
+    ],
+    [
+      "political dissent",
+      "challenges",
+      "just society"
+    ],
+    [
+      "political dissent",
+      "exacerbates",
+      "police brutality"
+    ],
+    [
+      "political dissent",
+      "expressed through",
+      "uprisings"
+    ],
+    [
+      "political dissent",
+      "represented by",
+      "ordinary people"
+    ],
+    [
+      "political dissent",
+      "sparked",
+      "Arab Spring"
+    ],
+    [
+      "political landscape",
+      "influenced by",
+      "political rights"
+    ],
+    [
+      "political landscape",
+      "influences",
+      "social movements"
+    ],
+    [
+      "political landscape",
+      "shaped by",
+      "political change"
+    ],
+    [
+      "political rights",
+      "asserted by",
+      "Declaration of Independence"
+    ],
+    [
+      "political rights",
+      "demanded by",
+      "accountability"
+    ],
+    [
+      "political rights",
+      "demanded by",
+      "revolutions"
+    ],
+    [
+      "political rights",
+      "ensured by",
+      "democracy"
+    ],
+    [
+      "political rights",
+      "ensures",
+      "equality"
+    ],
+    [
+      "political rights",
+      "established by",
+      "communist state"
+    ],
+    [
+      "political rights",
+      "established by",
+      "republic"
+    ],
+    [
+      "political rights",
+      "is a component of",
+      "liberty"
+    ],
+    [
+      "political rights",
+      "is a fundamental aspect of",
+      "human rights"
+    ],
+    [
+      "political rights",
+      "is a precursor to",
+      "social movements"
+    ],
+    [
+      "political rights",
+      "is advocated by",
+      "global movements"
+    ],
+    [
+      "political rights",
+      "opposed by",
+      "oppression"
+    ],
+    [
+      "political rights",
+      "promotes",
+      "political change"
+    ],
+    [
+      "political rights",
+      "shapes",
+      "historical legacy"
+    ],
+    [
+      "political rights",
+      "sparked by",
+      "Arab Spring"
+    ],
+    [
+      "protests",
+      "challenged by",
+      "Tiananmen Square"
+    ],
+    [
+      "protests",
+      "challenges",
+      "systemic racism"
+    ],
+    [
+      "protests",
+      "contributes to",
+      "just society"
+    ],
+    [
+      "protests",
+      "demanded",
+      "accountability"
+    ],
+    [
+      "protests",
+      "drives",
+      "political dissent"
+    ],
+    [
+      "protests",
+      "empowered by",
+      "ordinary people"
+    ],
+    [
+      "protests",
+      "holds",
+      "historical significance"
+    ],
+    [
+      "protests",
+      "includes",
+      "social movements"
+    ],
+    [
+      "protests",
+      "inspired",
+      "socialist movements"
+    ],
+    [
+      "protests",
+      "inspired by",
+      "Declaration of Independence"
+    ],
+    [
+      "protests",
+      "inspired by",
+      "uprisings"
+    ],
+    [
+      "protests",
+      "involves",
+      "activism"
+    ],
+    [
+      "protests",
+      "sparked by",
+      "Black Lives Matter"
+    ],
+    [
+      "protests",
+      "sparked by",
+      "revolutions"
+    ],
+    [
+      "republic",
+      "ensured by",
+      "human rights"
+    ],
+    [
+      "republic",
+      "established by",
+      "Declaration of Independence"
+    ],
+    [
+      "republic",
+      "established by",
+      "political landscape"
+    ],
+    [
+      "republic",
+      "established by",
+      "transformation"
+    ],
+    [
+      "republic",
+      "gives rise to",
+      "revolutions"
+    ],
+    [
+      "republic",
+      "opposes",
+      "authoritarian regimes"
+    ],
+    [
+      "republic",
+      "resulted in",
+      "political change"
+    ],
+    [
+      "resilience",
+      "drives",
+      "activism"
+    ],
+    [
+      "resilience",
+      "embodies",
+      "liberty"
+    ],
+    [
+      "resilience",
+      "inspired by",
+      "Declaration of Independence"
+    ],
+    [
+      "resilience",
+      "supports",
+      "political dissent"
+    ],
+    [
+      "revolutions",
+      "drives",
+      "political change"
+    ],
+    [
+      "revolutions",
+      "exacerbates",
+      "police brutality"
+    ],
+    [
+      "revolutions",
+      "inspired by",
+      "socialist movements"
+    ],
+    [
+      "revolutions",
+      "overthrew",
+      "monarchy"
+    ],
+    [
+      "social justice",
+      "advocates for",
+      "Black Lives Matter"
+    ],
+    [
+      "social justice",
+      "advocates for",
+      "civil rights"
+    ],
+    [
+      "social justice",
+      "advocates for",
+      "systemic racism"
+    ],
+    [
+      "social justice",
+      "aimed for",
+      "political change"
+    ],
+    [
+      "social justice",
+      "challenged",
+      "oppressive regimes"
+    ],
+    [
+      "social justice",
+      "demands",
+      "accountability"
+    ],
+    [
+      "social justice",
+      "demands",
+      "political rights"
+    ],
+    [
+      "social justice",
+      "promoted by",
+      "Martin Luther King Jr"
+    ],
+    [
+      "social justice",
+      "promotes",
+      "equality"
+    ],
+    [
+      "social justice",
+      "pursued by",
+      "democracy"
+    ],
+    [
+      "social justice",
+      "requires",
+      "human rights"
+    ],
+    [
+      "social justice",
+      "requires",
+      "unalienable rights"
+    ],
+    [
+      "social movements",
+      "influenced by",
+      "Declaration of Independence"
+    ],
+    [
+      "socialist movements",
+      "emerged from",
+      "Romanov dynasty"
+    ],
+    [
+      "socialist movements",
+      "influenced by",
+      "political dissent"
+    ],
+    [
+      "socialist movements",
+      "inspired",
+      "Arab Spring"
+    ],
+    [
+      "socialist movements",
+      "inspired",
+      "French Revolution"
+    ],
+    [
+      "socialist movements",
+      "inspired by",
+      "Declaration of Independence"
+    ],
+    [
+      "socialist movements",
+      "inspired by",
+      "peaceful demonstrations"
+    ],
+    [
+      "socialist movements",
+      "inspired by",
+      "uprisings"
+    ],
+    [
+      "strikes",
+      "catalyzes",
+      "revolutions"
+    ],
+    [
+      "strikes",
+      "challenged by",
+      "oppressive regimes"
+    ],
+    [
+      "strikes",
+      "contributed to",
+      "Russian Revolution"
+    ],
+    [
+      "strikes",
+      "contributes to",
+      "just society"
+    ],
+    [
+      "strikes",
+      "includes",
+      "peaceful demonstrations"
+    ],
+    [
+      "strikes",
+      "includes",
+      "protests"
+    ],
+    [
+      "strikes",
+      "influenced by",
+      "historical legacy"
+    ],
+    [
+      "strikes",
+      "inspired",
+      "Arab Spring"
+    ],
+    [
+      "strikes",
+      "inspired by",
+      "socialist movements"
+    ],
+    [
+      "strikes",
+      "inspired by",
+      "uprisings"
+    ],
+    [
+      "strikes",
+      "involves",
+      "ordinary people"
+    ],
+    [
+      "strikes",
+      "protested against",
+      "Black Lives Matter"
+    ],
+    [
+      "strikes",
+      "resulted from",
+      "resilience"
+    ],
+    [
+      "strikes",
+      "resulted from",
+      "systemic racism"
+    ],
+    [
+      "strikes",
+      "supported by",
+      "Bolsheviks"
+    ],
+    [
+      "systemic racism",
+      "contradicts",
+      "liberty"
+    ],
+    [
+      "systemic racism",
+      "driven by",
+      "activism"
+    ],
+    [
+      "systemic racism",
+      "drives",
+      "global movements"
+    ],
+    [
+      "systemic racism",
+      "drives",
+      "social movements"
+    ],
+    [
+      "systemic racism",
+      "enforced by",
+      "oppressive regimes"
+    ],
+    [
+      "systemic racism",
+      "exacerbates",
+      "police brutality"
+    ],
+    [
+      "systemic racism",
+      "perpetuated by",
+      "oppression"
+    ],
+    [
+      "transformation",
+      "achieved through",
+      "democracy"
+    ],
+    [
+      "transformation",
+      "achieved through",
+      "political rights"
+    ],
+    [
+      "transformation",
+      "driven by",
+      "socialist movements"
+    ],
+    [
+      "transformation",
+      "drives",
+      "revolutions"
+    ],
+    [
+      "transformation",
+      "enables",
+      "accountability"
+    ],
+    [
+      "transformation",
+      "is a principle of",
+      "fraternity"
+    ],
+    [
+      "transformation",
+      "leads to",
+      "human rights"
+    ],
+    [
+      "transformation",
+      "overthrown by",
+      "authoritarian regimes"
+    ],
+    [
+      "transformation",
+      "shaped by",
+      "ordinary people"
+    ],
+    [
+      "transformation",
+      "shapes",
+      "political landscape"
+    ],
+    [
+      "transformation",
+      "transformed by",
+      "Bolsheviks"
+    ],
+    [
+      "unalienable rights",
+      "advocates for",
+      "activism"
+    ],
+    [
+      "unalienable rights",
+      "asserted",
+      "violent uprisings"
+    ],
+    [
+      "unalienable rights",
+      "asserted in",
+      "Declaration of Independence"
+    ],
+    [
+      "unalienable rights",
+      "includes",
+      "human rights"
+    ],
+    [
+      "unalienable rights",
+      "influenced by",
+      "historical legacy"
+    ],
+    [
+      "unalienable rights",
+      "inspired",
+      "revolutions"
+    ],
+    [
+      "unalienable rights",
+      "inspired by",
+      "Black Lives Matter"
+    ],
+    [
+      "unalienable rights",
+      "nurtures",
+      "human spirit"
+    ],
+    [
+      "unalienable rights",
+      "supports",
+      "democracy"
+    ],
+    [
+      "unalienable rights",
+      "underpins",
+      "liberty"
+    ],
+    [
+      "uprisings",
+      "drives",
+      "activism"
+    ],
+    [
+      "uprisings",
+      "emerges from",
+      "social movements"
+    ],
+    [
+      "uprisings",
+      "inspired by",
+      "Arab Spring"
+    ],
+    [
+      "uprisings",
+      "led by",
+      "Bolsheviks"
+    ],
+    [
+      "uprisings",
+      "results in",
+      "political change"
+    ],
+    [
+      "uprisings",
+      "shaped",
+      "political landscape"
+    ],
+    [
+      "violent uprisings",
+      "exacerbates",
+      "police brutality"
+    ],
+    [
+      "violent uprisings",
+      "includes",
+      "social movements"
+    ],
+    [
+      "violent uprisings",
+      "influenced by",
+      "historical legacy"
+    ],
+    [
+      "violent uprisings",
+      "occurred at",
+      "Tiananmen Square"
+    ],
+    [
+      "violent uprisings",
+      "opposes",
+      "oppression"
+    ],
+    [
+      "violent uprisings",
+      "resulted from",
+      "strikes"
+    ]
+  ],
+  "edges": [
+    "achieved through",
+    "advocated by",
+    "advocated for",
+    "advocates for",
+    "affected by",
+    "aimed for",
+    "aims for",
+    "asserted",
+    "asserted by",
+    "asserted in",
+    "asserts",
+    "associated with",
+    "based on",
+    "catalyzes",
+    "challenged",
+    "challenged by",
+    "challenges",
+    "contradicts",
+    "contrasted with",
+    "contrasts with",
+    "contributed to",
+    "contributes to",
+    "controlled by",
+    "creates",
+    "defined by",
+    "demanded",
+    "demanded by",
+    "demands",
+    "demonstrated by",
+    "denied by",
+    "drive",
+    "driven by",
+    "drives",
+    "embodies",
+    "emerged from",
+    "emerges from",
+    "empowered by",
+    "enables",
+    "ended",
+    "ended by",
+    "enforced by",
+    "ensured by",
+    "ensures",
+    "established",
+    "established by",
+    "exacerbated by",
+    "exacerbates",
+    "exposed by",
+    "expressed through",
+    "fosters",
+    "fought for",
+    "fueled by",
+    "galvanized",
+    "gives rise to",
+    "holds",
+    "includes",
+    "influenced",
+    "influenced by",
+    "influences",
+    "initiated",
+    "initiated by",
+    "inspired",
+    "inspired by",
+    "involves",
+    "is a component of",
+    "is a form of",
+    "is a fundamental aspect of",
+    "is a precursor to",
+    "is a principle of",
+    "is a response to",
+    "is advocated by",
+    "is challenged by",
+    "is opposed by",
+    "leads to",
+    "led",
+    "led by",
+    "led to",
+    "maintained by",
+    "met with",
+    "mobilized by",
+    "modeled after",
+    "nurtures",
+    "occurred at",
+    "opposed by",
+    "opposes",
+    "oppressed by",
+    "oppresses",
+    "overthrew",
+    "overthrown by",
+    "perpetrated by",
+    "perpetuated by",
+    "perpetuates",
+    "promoted by",
+    "promotes",
+    "protested against",
+    "pursued by",
+    "replaced by",
+    "represented by",
+    "represents",
+    "repressed by",
+    "requires",
+    "responded to",
+    "restricted by",
+    "result of",
+    "resulted from",
+    "resulted in",
+    "results in",
+    "shaped",
+    "shaped by",
+    "shapes",
+    "sought by",
+    "sparked",
+    "sparked by",
+    "supported by",
+    "supports",
+    "suppressed by",
+    "suppresses",
+    "sustained by",
+    "transformed",
+    "transformed by",
+    "underpins",
+    "upheld by",
+    "was suppressed at"
+  ]
+}

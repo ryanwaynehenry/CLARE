@@ -1,0 +1,2540 @@
+{
+  "entities": [
+    "19th century",
+    "20th century",
+    "Baroque period",
+    "Calling of Saint Matthew",
+    "Caravaggio",
+    "Creation of Adam",
+    "Cubism",
+    "Impressionists",
+    "Kahlo",
+    "Last Judgment",
+    "Les Demoiselles d'Avignon",
+    "Michelangelo",
+    "Mona Lisa",
+    "Monet",
+    "Pablo Picasso",
+    "Renaissance",
+    "Sistine Chapel",
+    "Van Gogh",
+    "abstract art",
+    "academic traditions",
+    "anatomy",
+    "art history",
+    "art movement",
+    "art movements",
+    "artistic boundaries",
+    "artistic evolution",
+    "artistic expression",
+    "artistic legacy",
+    "artistic techniques",
+    "atmosphere",
+    "attention to detail",
+    "awe",
+    "contrast",
+    "creativity",
+    "da Vinci",
+    "dark",
+    "deep emotions",
+    "drama",
+    "dramatic light",
+    "dynamic compositions",
+    "emotional charge",
+    "emotional depth",
+    "enigmatic smile",
+    "exploration",
+    "frescoes",
+    "groundbreaking",
+    "influence",
+    "influential artists",
+    "innovation",
+    "inspiration",
+    "intense realism",
+    "intensity",
+    "inventor",
+    "landscapes",
+    "lasting impact",
+    "lifelike figures",
+    "light",
+    "loose brushwork",
+    "masterpieces",
+    "modern art",
+    "movement",
+    "multiple viewpoints",
+    "perspective",
+    "provocation",
+    "recognizable paintings",
+    "representation",
+    "scientist",
+    "self-portraits",
+    "shadow",
+    "technical skill",
+    "traditional notions",
+    "unique vision",
+    "vibrant colors",
+    "wonder"
+  ],
+  "relations": [
+    [
+      "19th century",
+      "characteristic of",
+      "dynamic compositions"
+    ],
+    [
+      "19th century",
+      "depicted in",
+      "lifelike figures"
+    ],
+    [
+      "19th century",
+      "is shaped by",
+      "influence"
+    ],
+    [
+      "19th century",
+      "shapes",
+      "art movements"
+    ],
+    [
+      "20th century",
+      "associated with",
+      "Les Demoiselles d'Avignon"
+    ],
+    [
+      "20th century",
+      "challenges",
+      "provocation"
+    ],
+    [
+      "20th century",
+      "defines",
+      "artistic boundaries"
+    ],
+    [
+      "20th century",
+      "drives",
+      "exploration"
+    ],
+    [
+      "20th century",
+      "emerged in",
+      "Cubism"
+    ],
+    [
+      "20th century",
+      "is influenced by",
+      "influence"
+    ],
+    [
+      "Baroque period",
+      "associated with",
+      "Michelangelo"
+    ],
+    [
+      "Baroque period",
+      "defines",
+      "frescoes"
+    ],
+    [
+      "Baroque period",
+      "features",
+      "Creation of Adam"
+    ],
+    [
+      "Baroque period",
+      "features",
+      "Last Judgment"
+    ],
+    [
+      "Baroque period",
+      "features",
+      "Sistine Chapel"
+    ],
+    [
+      "Calling of Saint Matthew",
+      "inspired by",
+      "awe"
+    ],
+    [
+      "Calling of Saint Matthew",
+      "is depicted in",
+      "Renaissance"
+    ],
+    [
+      "Caravaggio",
+      "associated with",
+      "Baroque period"
+    ],
+    [
+      "Caravaggio",
+      "decorated by",
+      "Sistine Chapel"
+    ],
+    [
+      "Caravaggio",
+      "depicted in",
+      "Creation of Adam"
+    ],
+    [
+      "Caravaggio",
+      "depicts",
+      "Calling of Saint Matthew"
+    ],
+    [
+      "Caravaggio",
+      "influencer of",
+      "Renaissance"
+    ],
+    [
+      "Creation of Adam",
+      "depicted in",
+      "da Vinci"
+    ],
+    [
+      "Creation of Adam",
+      "depicted in",
+      "enigmatic smile"
+    ],
+    [
+      "Creation of Adam",
+      "depicted in",
+      "lasting impact"
+    ],
+    [
+      "Creation of Adam",
+      "depicted in",
+      "unique vision"
+    ],
+    [
+      "Creation of Adam",
+      "evokes",
+      "wonder"
+    ],
+    [
+      "Creation of Adam",
+      "located in",
+      "Sistine Chapel"
+    ],
+    [
+      "Cubism",
+      "defines",
+      "representation"
+    ],
+    [
+      "Cubism",
+      "drives",
+      "inspiration"
+    ],
+    [
+      "Cubism",
+      "explored by",
+      "exploration"
+    ],
+    [
+      "Cubism",
+      "foundation of",
+      "abstract art"
+    ],
+    [
+      "Cubism",
+      "influenced by",
+      "Monet"
+    ],
+    [
+      "Cubism",
+      "influences",
+      "recognizable paintings"
+    ],
+    [
+      "Cubism",
+      "influences",
+      "self-portraits"
+    ],
+    [
+      "Cubism",
+      "inspired by",
+      "emotional charge"
+    ],
+    [
+      "Cubism",
+      "is a work of",
+      "Les Demoiselles d'Avignon"
+    ],
+    [
+      "Cubism",
+      "is associated with",
+      "groundbreaking"
+    ],
+    [
+      "Cubism",
+      "provokes",
+      "provocation"
+    ],
+    [
+      "Cubism",
+      "shaped",
+      "artistic legacy"
+    ],
+    [
+      "Impressionists",
+      "captures",
+      "atmosphere"
+    ],
+    [
+      "Impressionists",
+      "characterized by",
+      "loose brushwork"
+    ],
+    [
+      "Impressionists",
+      "demonstrates",
+      "anatomy"
+    ],
+    [
+      "Impressionists",
+      "depicts",
+      "perspective"
+    ],
+    [
+      "Impressionists",
+      "exemplifies",
+      "intense realism"
+    ],
+    [
+      "Impressionists",
+      "influenced by",
+      "Les Demoiselles d'Avignon"
+    ],
+    [
+      "Impressionists",
+      "inspired by",
+      "emotional depth"
+    ],
+    [
+      "Impressionists",
+      "inspired by",
+      "recognizable paintings"
+    ],
+    [
+      "Impressionists",
+      "is associated with",
+      "19th century"
+    ],
+    [
+      "Impressionists",
+      "part of",
+      "art movements"
+    ],
+    [
+      "Impressionists",
+      "pioneered",
+      "innovation"
+    ],
+    [
+      "Impressionists",
+      "pushes",
+      "artistic boundaries"
+    ],
+    [
+      "Impressionists",
+      "shaped by",
+      "influence"
+    ],
+    [
+      "Impressionists",
+      "transforms",
+      "artistic evolution"
+    ],
+    [
+      "Kahlo",
+      "compared to",
+      "landscapes"
+    ],
+    [
+      "Kahlo",
+      "defines",
+      "artistic legacy"
+    ],
+    [
+      "Kahlo",
+      "inspired by",
+      "art movements"
+    ],
+    [
+      "Last Judgment",
+      "is depicted in",
+      "awe"
+    ],
+    [
+      "Last Judgment",
+      "is depicted in",
+      "masterpieces"
+    ],
+    [
+      "Last Judgment",
+      "located in",
+      "Sistine Chapel"
+    ],
+    [
+      "Les Demoiselles d'Avignon",
+      "challenged by",
+      "representation"
+    ],
+    [
+      "Les Demoiselles d'Avignon",
+      "challenges",
+      "perspective"
+    ],
+    [
+      "Les Demoiselles d'Avignon",
+      "created",
+      "Pablo Picasso"
+    ],
+    [
+      "Les Demoiselles d'Avignon",
+      "creates",
+      "atmosphere"
+    ],
+    [
+      "Les Demoiselles d'Avignon",
+      "demonstrates",
+      "creativity"
+    ],
+    [
+      "Les Demoiselles d'Avignon",
+      "depicts",
+      "multiple viewpoints"
+    ],
+    [
+      "Les Demoiselles d'Avignon",
+      "exemplifies",
+      "vibrant colors"
+    ],
+    [
+      "Les Demoiselles d'Avignon",
+      "influenced by",
+      "abstract art"
+    ],
+    [
+      "Les Demoiselles d'Avignon",
+      "influenced by",
+      "academic traditions"
+    ],
+    [
+      "Les Demoiselles d'Avignon",
+      "influenced by",
+      "influential artists"
+    ],
+    [
+      "Les Demoiselles d'Avignon",
+      "pioneered",
+      "Cubism"
+    ],
+    [
+      "Les Demoiselles d'Avignon",
+      "provides",
+      "inspiration"
+    ],
+    [
+      "Les Demoiselles d'Avignon",
+      "represents",
+      "art movement"
+    ],
+    [
+      "Les Demoiselles d'Avignon",
+      "represents",
+      "artistic evolution"
+    ],
+    [
+      "Michelangelo",
+      "compared to",
+      "da Vinci"
+    ],
+    [
+      "Michelangelo",
+      "created",
+      "Last Judgment"
+    ],
+    [
+      "Michelangelo",
+      "created by",
+      "masterpieces"
+    ],
+    [
+      "Michelangelo",
+      "created for",
+      "Sistine Chapel"
+    ],
+    [
+      "Michelangelo",
+      "creates",
+      "frescoes"
+    ],
+    [
+      "Michelangelo",
+      "demonstrated by",
+      "technical skill"
+    ],
+    [
+      "Michelangelo",
+      "depicts",
+      "Creation of Adam"
+    ],
+    [
+      "Michelangelo",
+      "has a",
+      "lasting impact"
+    ],
+    [
+      "Michelangelo",
+      "inspired",
+      "Calling of Saint Matthew"
+    ],
+    [
+      "Mona Lisa",
+      "depicted in",
+      "lifelike figures"
+    ],
+    [
+      "Mona Lisa",
+      "is exemplified by",
+      "recognizable paintings"
+    ],
+    [
+      "Monet",
+      "belongs to",
+      "19th century"
+    ],
+    [
+      "Monet",
+      "captures",
+      "movement"
+    ],
+    [
+      "Monet",
+      "characterized by",
+      "intense realism"
+    ],
+    [
+      "Monet",
+      "characterized by",
+      "loose brushwork"
+    ],
+    [
+      "Monet",
+      "characterizes",
+      "shadow"
+    ],
+    [
+      "Monet",
+      "creates",
+      "atmosphere"
+    ],
+    [
+      "Monet",
+      "influenced by",
+      "abstract art"
+    ],
+    [
+      "Monet",
+      "influences",
+      "representation"
+    ],
+    [
+      "Monet",
+      "inspired by",
+      "Impressionists"
+    ],
+    [
+      "Monet",
+      "inspired by",
+      "dynamic compositions"
+    ],
+    [
+      "Monet",
+      "inspired by",
+      "enigmatic smile"
+    ],
+    [
+      "Monet",
+      "inspires",
+      "creativity"
+    ],
+    [
+      "Monet",
+      "is associated with",
+      "modern art"
+    ],
+    [
+      "Monet",
+      "motivates",
+      "inspiration"
+    ],
+    [
+      "Monet",
+      "represents",
+      "artistic legacy"
+    ],
+    [
+      "Monet",
+      "shaped by",
+      "art history"
+    ],
+    [
+      "Monet",
+      "utilizes",
+      "artistic techniques"
+    ],
+    [
+      "Pablo Picasso",
+      "associated with",
+      "inventor"
+    ],
+    [
+      "Pablo Picasso",
+      "created",
+      "groundbreaking"
+    ],
+    [
+      "Pablo Picasso",
+      "created by",
+      "shadow"
+    ],
+    [
+      "Pablo Picasso",
+      "exemplifies",
+      "intense realism"
+    ],
+    [
+      "Pablo Picasso",
+      "expressed through",
+      "artistic expression"
+    ],
+    [
+      "Pablo Picasso",
+      "influenced by",
+      "dramatic light"
+    ],
+    [
+      "Pablo Picasso",
+      "inspired",
+      "inspiration"
+    ],
+    [
+      "Pablo Picasso",
+      "pioneered",
+      "Cubism"
+    ],
+    [
+      "Pablo Picasso",
+      "pioneered",
+      "art movement"
+    ],
+    [
+      "Pablo Picasso",
+      "pioneered",
+      "movement"
+    ],
+    [
+      "Pablo Picasso",
+      "provokes",
+      "provocation"
+    ],
+    [
+      "Pablo Picasso",
+      "shaped by",
+      "artistic boundaries"
+    ],
+    [
+      "Pablo Picasso",
+      "shapes",
+      "art history"
+    ],
+    [
+      "Pablo Picasso",
+      "utilized by",
+      "perspective"
+    ],
+    [
+      "Pablo Picasso",
+      "utilizes",
+      "loose brushwork"
+    ],
+    [
+      "Renaissance",
+      "influenced by",
+      "Caravaggio"
+    ],
+    [
+      "Renaissance",
+      "inspired",
+      "frescoes"
+    ],
+    [
+      "Sistine Chapel",
+      "contains",
+      "masterpieces"
+    ],
+    [
+      "Sistine Chapel",
+      "influenced by",
+      "da Vinci"
+    ],
+    [
+      "Sistine Chapel",
+      "influenced by",
+      "lasting impact"
+    ],
+    [
+      "Sistine Chapel",
+      "located in",
+      "awe"
+    ],
+    [
+      "Sistine Chapel",
+      "the work of",
+      "Michelangelo"
+    ],
+    [
+      "Van Gogh",
+      "compares to",
+      "enigmatic smile"
+    ],
+    [
+      "Van Gogh",
+      "evokes",
+      "movement"
+    ],
+    [
+      "Van Gogh",
+      "influenced by",
+      "Monet"
+    ],
+    [
+      "Van Gogh",
+      "inspired by",
+      "dramatic light"
+    ],
+    [
+      "abstract art",
+      "evokes",
+      "emotional charge"
+    ],
+    [
+      "abstract art",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "abstract art",
+      "influenced",
+      "modern art"
+    ],
+    [
+      "abstract art",
+      "influenced by",
+      "influence"
+    ],
+    [
+      "abstract art",
+      "is a characteristic of",
+      "groundbreaking"
+    ],
+    [
+      "abstract art",
+      "is a form of",
+      "creativity"
+    ],
+    [
+      "abstract art",
+      "is a product of",
+      "movement"
+    ],
+    [
+      "abstract art",
+      "represents",
+      "artistic evolution"
+    ],
+    [
+      "academic traditions",
+      "fosters",
+      "innovation"
+    ],
+    [
+      "academic traditions",
+      "influenced by",
+      "modern art"
+    ],
+    [
+      "academic traditions",
+      "informs",
+      "anatomy"
+    ],
+    [
+      "anatomy",
+      "influences",
+      "inspiration"
+    ],
+    [
+      "anatomy",
+      "informs",
+      "artistic evolution"
+    ],
+    [
+      "anatomy",
+      "is influenced by",
+      "landscapes"
+    ],
+    [
+      "anatomy",
+      "provokes",
+      "provocation"
+    ],
+    [
+      "art history",
+      "contributed to",
+      "inventor"
+    ],
+    [
+      "art history",
+      "influenced by",
+      "Cubism"
+    ],
+    [
+      "art history",
+      "is influenced by",
+      "groundbreaking"
+    ],
+    [
+      "art history",
+      "is shaped by",
+      "creativity"
+    ],
+    [
+      "art history",
+      "shaped by",
+      "influence"
+    ],
+    [
+      "art history",
+      "shapes",
+      "artistic evolution"
+    ],
+    [
+      "art movement",
+      "associated with",
+      "artistic techniques"
+    ],
+    [
+      "art movement",
+      "includes",
+      "art movements"
+    ],
+    [
+      "art movement",
+      "influenced by",
+      "Pablo Picasso"
+    ],
+    [
+      "art movements",
+      "influenced by",
+      "academic traditions"
+    ],
+    [
+      "art movements",
+      "influenced by",
+      "landscapes"
+    ],
+    [
+      "art movements",
+      "influenced by",
+      "recognizable paintings"
+    ],
+    [
+      "art movements",
+      "informs",
+      "lifelike figures"
+    ],
+    [
+      "art movements",
+      "part of",
+      "Cubism"
+    ],
+    [
+      "art movements",
+      "provokes",
+      "provocation"
+    ],
+    [
+      "art movements",
+      "shapes",
+      "Les Demoiselles d'Avignon"
+    ],
+    [
+      "art movements",
+      "shapes",
+      "multiple viewpoints"
+    ],
+    [
+      "artistic boundaries",
+      "challenges",
+      "perspective"
+    ],
+    [
+      "artistic boundaries",
+      "defined by",
+      "contrast"
+    ],
+    [
+      "artistic boundaries",
+      "pushes",
+      "recognizable paintings"
+    ],
+    [
+      "artistic boundaries",
+      "pushes",
+      "self-portraits"
+    ],
+    [
+      "artistic boundaries",
+      "shaped by",
+      "academic traditions"
+    ],
+    [
+      "artistic evolution",
+      "challenges",
+      "traditional notions"
+    ],
+    [
+      "artistic evolution",
+      "evolved from",
+      "inspiration"
+    ],
+    [
+      "artistic evolution",
+      "indicates",
+      "movement"
+    ],
+    [
+      "artistic evolution",
+      "influences",
+      "perspective"
+    ],
+    [
+      "artistic evolution",
+      "shapes",
+      "Kahlo"
+    ],
+    [
+      "artistic expression",
+      "challenges",
+      "provocation"
+    ],
+    [
+      "artistic expression",
+      "defines",
+      "artistic boundaries"
+    ],
+    [
+      "artistic expression",
+      "enhances",
+      "intensity"
+    ],
+    [
+      "artistic expression",
+      "influenced by",
+      "Kahlo"
+    ],
+    [
+      "artistic expression",
+      "inspired by",
+      "inspiration"
+    ],
+    [
+      "artistic expression",
+      "is characterized by",
+      "intense realism"
+    ],
+    [
+      "artistic expression",
+      "is characterized by",
+      "loose brushwork"
+    ],
+    [
+      "artistic expression",
+      "shapes",
+      "art movements"
+    ],
+    [
+      "artistic legacy",
+      "influenced by",
+      "Impressionists"
+    ],
+    [
+      "artistic legacy",
+      "influenced by",
+      "artistic boundaries"
+    ],
+    [
+      "artistic legacy",
+      "influenced by",
+      "shadow"
+    ],
+    [
+      "artistic legacy",
+      "is influenced by",
+      "Cubism"
+    ],
+    [
+      "artistic legacy",
+      "shaped by",
+      "art movement"
+    ],
+    [
+      "artistic legacy",
+      "shaped by",
+      "emotional depth"
+    ],
+    [
+      "artistic legacy",
+      "shaped by",
+      "landscapes"
+    ],
+    [
+      "artistic legacy",
+      "shaped by",
+      "lifelike figures"
+    ],
+    [
+      "artistic legacy",
+      "shaped by",
+      "modern art"
+    ],
+    [
+      "artistic techniques",
+      "creates",
+      "atmosphere"
+    ],
+    [
+      "artistic techniques",
+      "creates",
+      "lifelike figures"
+    ],
+    [
+      "artistic techniques",
+      "defines",
+      "Cubism"
+    ],
+    [
+      "artistic techniques",
+      "enhances",
+      "dynamic compositions"
+    ],
+    [
+      "artistic techniques",
+      "enhances",
+      "intensity"
+    ],
+    [
+      "artistic techniques",
+      "evolved into",
+      "artistic evolution"
+    ],
+    [
+      "artistic techniques",
+      "informs",
+      "anatomy"
+    ],
+    [
+      "artistic techniques",
+      "informs",
+      "influential artists"
+    ],
+    [
+      "artistic techniques",
+      "pushes",
+      "artistic boundaries"
+    ],
+    [
+      "artistic techniques",
+      "shapes",
+      "influence"
+    ],
+    [
+      "atmosphere",
+      "contrasts with",
+      "traditional notions"
+    ],
+    [
+      "atmosphere",
+      "creates",
+      "dark"
+    ],
+    [
+      "atmosphere",
+      "creates",
+      "intensity"
+    ],
+    [
+      "atmosphere",
+      "creates",
+      "shadow"
+    ],
+    [
+      "attention to detail",
+      "captures",
+      "awe"
+    ],
+    [
+      "attention to detail",
+      "demonstrated in",
+      "Mona Lisa"
+    ],
+    [
+      "attention to detail",
+      "reflects",
+      "lasting impact"
+    ],
+    [
+      "awe",
+      "elicits",
+      "groundbreaking"
+    ],
+    [
+      "awe",
+      "evokes",
+      "Creation of Adam"
+    ],
+    [
+      "awe",
+      "evokes",
+      "Mona Lisa"
+    ],
+    [
+      "awe",
+      "evokes",
+      "wonder"
+    ],
+    [
+      "contrast",
+      "contrasts",
+      "dramatic light"
+    ],
+    [
+      "contrast",
+      "contrasts with",
+      "Les Demoiselles d'Avignon"
+    ],
+    [
+      "contrast",
+      "contributes to",
+      "emotional depth"
+    ],
+    [
+      "contrast",
+      "contributes to",
+      "intensity"
+    ],
+    [
+      "contrast",
+      "drives",
+      "innovation"
+    ],
+    [
+      "contrast",
+      "enhanced by",
+      "shadow"
+    ],
+    [
+      "contrast",
+      "stimulates",
+      "provocation"
+    ],
+    [
+      "creativity",
+      "emerged during",
+      "19th century"
+    ],
+    [
+      "creativity",
+      "influences",
+      "art movements"
+    ],
+    [
+      "creativity",
+      "inspired by",
+      "recognizable paintings"
+    ],
+    [
+      "creativity",
+      "limits",
+      "academic traditions"
+    ],
+    [
+      "da Vinci",
+      "created by",
+      "Mona Lisa"
+    ],
+    [
+      "da Vinci",
+      "demonstrated by",
+      "attention to detail"
+    ],
+    [
+      "da Vinci",
+      "demonstrates",
+      "technical skill"
+    ],
+    [
+      "da Vinci",
+      "evokes",
+      "awe"
+    ],
+    [
+      "da Vinci",
+      "is compared to",
+      "Caravaggio"
+    ],
+    [
+      "da Vinci",
+      "utilizes",
+      "shadow"
+    ],
+    [
+      "dark",
+      "contrasts with",
+      "intensity"
+    ],
+    [
+      "dark",
+      "creates",
+      "drama"
+    ],
+    [
+      "dark",
+      "leads to",
+      "provocation"
+    ],
+    [
+      "deep emotions",
+      "depicts",
+      "lifelike figures"
+    ],
+    [
+      "deep emotions",
+      "drives",
+      "art movement"
+    ],
+    [
+      "deep emotions",
+      "drives",
+      "innovation"
+    ],
+    [
+      "deep emotions",
+      "drives",
+      "inspiration"
+    ],
+    [
+      "deep emotions",
+      "evokes",
+      "artistic expression"
+    ],
+    [
+      "deep emotions",
+      "evokes",
+      "emotional depth"
+    ],
+    [
+      "deep emotions",
+      "informs",
+      "art movements"
+    ],
+    [
+      "deep emotions",
+      "leaves",
+      "lasting impact"
+    ],
+    [
+      "deep emotions",
+      "reflected in",
+      "dynamic compositions"
+    ],
+    [
+      "deep emotions",
+      "reflects",
+      "modern art"
+    ],
+    [
+      "deep emotions",
+      "serves as",
+      "Les Demoiselles d'Avignon"
+    ],
+    [
+      "dramatic light",
+      "creates",
+      "atmosphere"
+    ],
+    [
+      "dramatic light",
+      "creates",
+      "drama"
+    ],
+    [
+      "dramatic light",
+      "depicted by",
+      "anatomy"
+    ],
+    [
+      "dramatic light",
+      "depicts",
+      "multiple viewpoints"
+    ],
+    [
+      "dramatic light",
+      "enhances",
+      "artistic expression"
+    ],
+    [
+      "dramatic light",
+      "enhances",
+      "artistic techniques"
+    ],
+    [
+      "dramatic light",
+      "enhances",
+      "emotional depth"
+    ],
+    [
+      "dramatic light",
+      "enhances",
+      "movement"
+    ],
+    [
+      "dramatic light",
+      "fuels",
+      "inspiration"
+    ],
+    [
+      "dramatic light",
+      "influences",
+      "art movements"
+    ],
+    [
+      "dramatic light",
+      "influences",
+      "artistic boundaries"
+    ],
+    [
+      "dramatic light",
+      "inspired by",
+      "influence"
+    ],
+    [
+      "dramatic light",
+      "inspires",
+      "Impressionists"
+    ],
+    [
+      "dramatic light",
+      "reflects",
+      "deep emotions"
+    ],
+    [
+      "dramatic light",
+      "stimulates",
+      "provocation"
+    ],
+    [
+      "dramatic light",
+      "utilizes",
+      "light"
+    ],
+    [
+      "dynamic compositions",
+      "characterized by",
+      "lifelike figures"
+    ],
+    [
+      "dynamic compositions",
+      "creates",
+      "movement"
+    ],
+    [
+      "dynamic compositions",
+      "exemplifies",
+      "intense realism"
+    ],
+    [
+      "dynamic compositions",
+      "influenced by",
+      "influence"
+    ],
+    [
+      "dynamic compositions",
+      "influenced by",
+      "multiple viewpoints"
+    ],
+    [
+      "dynamic compositions",
+      "provokes",
+      "provocation"
+    ],
+    [
+      "dynamic compositions",
+      "reflects",
+      "artistic evolution"
+    ],
+    [
+      "dynamic compositions",
+      "related to",
+      "inventor"
+    ],
+    [
+      "dynamic compositions",
+      "represents",
+      "innovation"
+    ],
+    [
+      "emotional charge",
+      "characterizes",
+      "loose brushwork"
+    ],
+    [
+      "emotional charge",
+      "creates",
+      "atmosphere"
+    ],
+    [
+      "emotional charge",
+      "creates",
+      "drama"
+    ],
+    [
+      "emotional charge",
+      "elicits",
+      "provocation"
+    ],
+    [
+      "emotional charge",
+      "evokes",
+      "Van Gogh"
+    ],
+    [
+      "emotional charge",
+      "exemplifies",
+      "intense realism"
+    ],
+    [
+      "emotional charge",
+      "expressed through",
+      "vibrant colors"
+    ],
+    [
+      "emotional charge",
+      "informs",
+      "unique vision"
+    ],
+    [
+      "emotional depth",
+      "drives",
+      "innovation"
+    ],
+    [
+      "emotional depth",
+      "enhanced by",
+      "shadow"
+    ],
+    [
+      "emotional depth",
+      "enhances",
+      "atmosphere"
+    ],
+    [
+      "emotional depth",
+      "enhances",
+      "movement"
+    ],
+    [
+      "emotional depth",
+      "evokes",
+      "artistic expression"
+    ],
+    [
+      "emotional depth",
+      "exhibits",
+      "Les Demoiselles d'Avignon"
+    ],
+    [
+      "emotional depth",
+      "influences",
+      "lasting impact"
+    ],
+    [
+      "emotional depth",
+      "informs",
+      "art movements"
+    ],
+    [
+      "enigmatic smile",
+      "demonstrates",
+      "attention to detail"
+    ],
+    [
+      "enigmatic smile",
+      "enhances",
+      "shadow"
+    ],
+    [
+      "exploration",
+      "contributes to",
+      "artistic legacy"
+    ],
+    [
+      "exploration",
+      "drives",
+      "innovation"
+    ],
+    [
+      "exploration",
+      "encourages",
+      "creativity"
+    ],
+    [
+      "exploration",
+      "evokes",
+      "deep emotions"
+    ],
+    [
+      "exploration",
+      "explored by",
+      "Pablo Picasso"
+    ],
+    [
+      "exploration",
+      "influences",
+      "Impressionists"
+    ],
+    [
+      "exploration",
+      "inspired",
+      "Les Demoiselles d'Avignon"
+    ],
+    [
+      "exploration",
+      "inspired by",
+      "Van Gogh"
+    ],
+    [
+      "exploration",
+      "reflected in",
+      "dynamic compositions"
+    ],
+    [
+      "exploration",
+      "sparks",
+      "inspiration"
+    ],
+    [
+      "exploration",
+      "sparks",
+      "provocation"
+    ],
+    [
+      "frescoes",
+      "located in",
+      "Sistine Chapel"
+    ],
+    [
+      "groundbreaking",
+      "contributes to",
+      "drama"
+    ],
+    [
+      "groundbreaking",
+      "defines",
+      "art movement"
+    ],
+    [
+      "groundbreaking",
+      "inspired by",
+      "Pablo Picasso"
+    ],
+    [
+      "groundbreaking",
+      "inspired by",
+      "influence"
+    ],
+    [
+      "groundbreaking",
+      "revolutionized by",
+      "academic traditions"
+    ],
+    [
+      "influence",
+      "expands",
+      "artistic boundaries"
+    ],
+    [
+      "influence",
+      "influenced",
+      "Monet"
+    ],
+    [
+      "influence",
+      "influenced",
+      "Pablo Picasso"
+    ],
+    [
+      "influence",
+      "provides",
+      "inspiration"
+    ],
+    [
+      "influence",
+      "shapes",
+      "artistic evolution"
+    ],
+    [
+      "influence",
+      "shapes",
+      "influential artists"
+    ],
+    [
+      "influence",
+      "shapes",
+      "vibrant colors"
+    ],
+    [
+      "influential artists",
+      "challenges",
+      "traditional notions"
+    ],
+    [
+      "influential artists",
+      "contributes to",
+      "art movements"
+    ],
+    [
+      "influential artists",
+      "contributes to",
+      "emotional depth"
+    ],
+    [
+      "influential artists",
+      "created by",
+      "landscapes"
+    ],
+    [
+      "influential artists",
+      "evokes",
+      "awe"
+    ],
+    [
+      "influential artists",
+      "evokes",
+      "wonder"
+    ],
+    [
+      "influential artists",
+      "influences",
+      "Kahlo"
+    ],
+    [
+      "influential artists",
+      "is influenced by",
+      "shadow"
+    ],
+    [
+      "influential artists",
+      "provides",
+      "inspiration"
+    ],
+    [
+      "influential artists",
+      "pushes",
+      "artistic boundaries"
+    ],
+    [
+      "influential artists",
+      "shaped",
+      "artistic evolution"
+    ],
+    [
+      "influential artists",
+      "shapes",
+      "art movement"
+    ],
+    [
+      "innovation",
+      "advances",
+      "artistic evolution"
+    ],
+    [
+      "innovation",
+      "contributes to",
+      "artistic legacy"
+    ],
+    [
+      "innovation",
+      "enhances",
+      "atmosphere"
+    ],
+    [
+      "innovation",
+      "influences",
+      "Cubism"
+    ],
+    [
+      "innovation",
+      "influences",
+      "modern art"
+    ],
+    [
+      "innovation",
+      "transforms",
+      "representation"
+    ],
+    [
+      "inspiration",
+      "creates",
+      "intensity"
+    ],
+    [
+      "inspiration",
+      "drives",
+      "emotional charge"
+    ],
+    [
+      "inspiration",
+      "influences",
+      "modern art"
+    ],
+    [
+      "inspiration",
+      "inspired by",
+      "art movement"
+    ],
+    [
+      "inspiration",
+      "inspired by",
+      "contrast"
+    ],
+    [
+      "inspiration",
+      "shaped by",
+      "19th century"
+    ],
+    [
+      "inspiration",
+      "shapes",
+      "art movements"
+    ],
+    [
+      "intense realism",
+      "characterized by",
+      "light"
+    ],
+    [
+      "intense realism",
+      "contrasts with",
+      "abstract art"
+    ],
+    [
+      "intense realism",
+      "defines",
+      "artistic boundaries"
+    ],
+    [
+      "intense realism",
+      "demonstrates",
+      "anatomy"
+    ],
+    [
+      "intense realism",
+      "enhances",
+      "movement"
+    ],
+    [
+      "intense realism",
+      "evokes",
+      "drama"
+    ],
+    [
+      "intense realism",
+      "influences",
+      "art history"
+    ],
+    [
+      "intense realism",
+      "shaped by",
+      "influence"
+    ],
+    [
+      "intensity",
+      "drives",
+      "innovation"
+    ],
+    [
+      "inventor",
+      "created by",
+      "artistic techniques"
+    ],
+    [
+      "inventor",
+      "developed",
+      "Cubism"
+    ],
+    [
+      "inventor",
+      "drives",
+      "creativity"
+    ],
+    [
+      "landscapes",
+      "demonstrates",
+      "artistic expression"
+    ],
+    [
+      "landscapes",
+      "depicts",
+      "Monet"
+    ],
+    [
+      "landscapes",
+      "driven by",
+      "innovation"
+    ],
+    [
+      "landscapes",
+      "drives",
+      "exploration"
+    ],
+    [
+      "landscapes",
+      "evokes",
+      "emotional charge"
+    ],
+    [
+      "lasting impact",
+      "affected by",
+      "shadow"
+    ],
+    [
+      "lasting impact",
+      "demonstrates",
+      "Calling of Saint Matthew"
+    ],
+    [
+      "lasting impact",
+      "evokes",
+      "awe"
+    ],
+    [
+      "lasting impact",
+      "exemplified by",
+      "lifelike figures"
+    ],
+    [
+      "lasting impact",
+      "has",
+      "influential artists"
+    ],
+    [
+      "lasting impact",
+      "influenced by",
+      "Mona Lisa"
+    ],
+    [
+      "lasting impact",
+      "leaves",
+      "Kahlo"
+    ],
+    [
+      "lifelike figures",
+      "features",
+      "Les Demoiselles d'Avignon"
+    ],
+    [
+      "lifelike figures",
+      "illustrates",
+      "self-portraits"
+    ],
+    [
+      "lifelike figures",
+      "is characterized by",
+      "groundbreaking"
+    ],
+    [
+      "light",
+      "contrasts with",
+      "dark"
+    ],
+    [
+      "light",
+      "creates",
+      "Monet"
+    ],
+    [
+      "light",
+      "creates",
+      "atmosphere"
+    ],
+    [
+      "loose brushwork",
+      "characterized by",
+      "groundbreaking"
+    ],
+    [
+      "loose brushwork",
+      "characterized by",
+      "lifelike figures"
+    ],
+    [
+      "loose brushwork",
+      "characterized by",
+      "vibrant colors"
+    ],
+    [
+      "loose brushwork",
+      "characterizes",
+      "art movement"
+    ],
+    [
+      "loose brushwork",
+      "contrasts with",
+      "abstract art"
+    ],
+    [
+      "loose brushwork",
+      "contrasts with",
+      "dynamic compositions"
+    ],
+    [
+      "loose brushwork",
+      "contributes to",
+      "artistic legacy"
+    ],
+    [
+      "loose brushwork",
+      "contributes to",
+      "atmosphere"
+    ],
+    [
+      "loose brushwork",
+      "influenced by",
+      "artistic boundaries"
+    ],
+    [
+      "loose brushwork",
+      "influenced by",
+      "influence"
+    ],
+    [
+      "loose brushwork",
+      "influenced by",
+      "light"
+    ],
+    [
+      "loose brushwork",
+      "influences",
+      "art history"
+    ],
+    [
+      "loose brushwork",
+      "utilizes",
+      "art movements"
+    ],
+    [
+      "masterpieces",
+      "contrasts with",
+      "academic traditions"
+    ],
+    [
+      "masterpieces",
+      "created",
+      "da Vinci"
+    ],
+    [
+      "masterpieces",
+      "defines",
+      "modern art"
+    ],
+    [
+      "masterpieces",
+      "demonstrates",
+      "technical skill"
+    ],
+    [
+      "masterpieces",
+      "evokes",
+      "awe"
+    ],
+    [
+      "masterpieces",
+      "evokes",
+      "wonder"
+    ],
+    [
+      "masterpieces",
+      "has a",
+      "lasting impact"
+    ],
+    [
+      "masterpieces",
+      "includes",
+      "self-portraits"
+    ],
+    [
+      "masterpieces",
+      "inspired",
+      "Creation of Adam"
+    ],
+    [
+      "modern art",
+      "challenges",
+      "artistic boundaries"
+    ],
+    [
+      "modern art",
+      "challenges",
+      "traditional notions"
+    ],
+    [
+      "modern art",
+      "influenced by",
+      "Cubism"
+    ],
+    [
+      "modern art",
+      "influences",
+      "enigmatic smile"
+    ],
+    [
+      "modern art",
+      "is a type of",
+      "art movement"
+    ],
+    [
+      "modern art",
+      "shaped by",
+      "art history"
+    ],
+    [
+      "modern art",
+      "shaped by",
+      "lasting impact"
+    ],
+    [
+      "movement",
+      "shapes",
+      "art history"
+    ],
+    [
+      "multiple viewpoints",
+      "characteristic of",
+      "Pablo Picasso"
+    ],
+    [
+      "multiple viewpoints",
+      "conveys",
+      "emotional depth"
+    ],
+    [
+      "multiple viewpoints",
+      "creates",
+      "movement"
+    ],
+    [
+      "multiple viewpoints",
+      "defines",
+      "Cubism"
+    ],
+    [
+      "multiple viewpoints",
+      "defines",
+      "art movement"
+    ],
+    [
+      "multiple viewpoints",
+      "drives",
+      "artistic evolution"
+    ],
+    [
+      "multiple viewpoints",
+      "related to",
+      "perspective"
+    ],
+    [
+      "perspective",
+      "illuminates",
+      "light"
+    ],
+    [
+      "perspective",
+      "influenced by",
+      "art movements"
+    ],
+    [
+      "perspective",
+      "inspired by",
+      "inspiration"
+    ],
+    [
+      "provocation",
+      "drives",
+      "art movement"
+    ],
+    [
+      "provocation",
+      "drives",
+      "movement"
+    ],
+    [
+      "recognizable paintings",
+      "created by",
+      "Monet"
+    ],
+    [
+      "recognizable paintings",
+      "inspired by",
+      "influential artists"
+    ],
+    [
+      "recognizable paintings",
+      "provides",
+      "inspiration"
+    ],
+    [
+      "representation",
+      "depicted through",
+      "artistic techniques"
+    ],
+    [
+      "representation",
+      "illustrates",
+      "lifelike figures"
+    ],
+    [
+      "representation",
+      "influences",
+      "lasting impact"
+    ],
+    [
+      "representation",
+      "inspired by",
+      "inspiration"
+    ],
+    [
+      "representation",
+      "is a result of",
+      "influence"
+    ],
+    [
+      "scientist",
+      "explored by",
+      "exploration"
+    ],
+    [
+      "scientist",
+      "influenced by",
+      "influence"
+    ],
+    [
+      "scientist",
+      "influenced by",
+      "inspiration"
+    ],
+    [
+      "scientist",
+      "related to",
+      "inventor"
+    ],
+    [
+      "self-portraits",
+      "created by",
+      "Kahlo"
+    ],
+    [
+      "self-portraits",
+      "created by",
+      "Pablo Picasso"
+    ],
+    [
+      "self-portraits",
+      "explores",
+      "exploration"
+    ],
+    [
+      "self-portraits",
+      "expresses",
+      "artistic expression"
+    ],
+    [
+      "self-portraits",
+      "expresses",
+      "creativity"
+    ],
+    [
+      "self-portraits",
+      "expresses",
+      "deep emotions"
+    ],
+    [
+      "self-portraits",
+      "features",
+      "enigmatic smile"
+    ],
+    [
+      "self-portraits",
+      "has a",
+      "lasting impact"
+    ],
+    [
+      "self-portraits",
+      "inspired by",
+      "influence"
+    ],
+    [
+      "self-portraits",
+      "reflects",
+      "artistic evolution"
+    ],
+    [
+      "shadow",
+      "characterized by",
+      "Caravaggio"
+    ],
+    [
+      "shadow",
+      "contrasts with",
+      "light"
+    ],
+    [
+      "shadow",
+      "creates",
+      "intensity"
+    ],
+    [
+      "shadow",
+      "highlights",
+      "attention to detail"
+    ],
+    [
+      "technical skill",
+      "demonstrated in",
+      "Calling of Saint Matthew"
+    ],
+    [
+      "technical skill",
+      "demonstrates",
+      "Mona Lisa"
+    ],
+    [
+      "technical skill",
+      "demonstrates",
+      "lasting impact"
+    ],
+    [
+      "traditional notions",
+      "challenged",
+      "Pablo Picasso"
+    ],
+    [
+      "traditional notions",
+      "challenged",
+      "multiple viewpoints"
+    ],
+    [
+      "traditional notions",
+      "challenged by",
+      "dynamic compositions"
+    ],
+    [
+      "traditional notions",
+      "challenged by",
+      "groundbreaking"
+    ],
+    [
+      "traditional notions",
+      "challenges",
+      "abstract art"
+    ],
+    [
+      "traditional notions",
+      "challenges",
+      "artistic boundaries"
+    ],
+    [
+      "traditional notions",
+      "challenges",
+      "dramatic light"
+    ],
+    [
+      "traditional notions",
+      "challenges",
+      "intensity"
+    ],
+    [
+      "traditional notions",
+      "challenges",
+      "lifelike figures"
+    ],
+    [
+      "traditional notions",
+      "challenges",
+      "provocation"
+    ],
+    [
+      "traditional notions",
+      "contrasted with",
+      "Van Gogh"
+    ],
+    [
+      "traditional notions",
+      "shapes",
+      "art movements"
+    ],
+    [
+      "unique vision",
+      "conveys",
+      "intensity"
+    ],
+    [
+      "unique vision",
+      "creates",
+      "atmosphere"
+    ],
+    [
+      "unique vision",
+      "inspired by",
+      "Monet"
+    ],
+    [
+      "unique vision",
+      "is characterized by",
+      "groundbreaking"
+    ],
+    [
+      "vibrant colors",
+      "characterized by",
+      "Cubism"
+    ],
+    [
+      "vibrant colors",
+      "characterized by",
+      "Impressionists"
+    ],
+    [
+      "vibrant colors",
+      "characterized by",
+      "recognizable paintings"
+    ],
+    [
+      "vibrant colors",
+      "characterizes",
+      "Pablo Picasso"
+    ],
+    [
+      "vibrant colors",
+      "creates",
+      "movement"
+    ],
+    [
+      "vibrant colors",
+      "defined by",
+      "intense realism"
+    ],
+    [
+      "vibrant colors",
+      "enhances",
+      "creativity"
+    ],
+    [
+      "vibrant colors",
+      "enhances",
+      "lifelike figures"
+    ],
+    [
+      "vibrant colors",
+      "enhances",
+      "loose brushwork"
+    ],
+    [
+      "vibrant colors",
+      "enhances",
+      "representation"
+    ],
+    [
+      "vibrant colors",
+      "influenced",
+      "Van Gogh"
+    ],
+    [
+      "vibrant colors",
+      "influenced by",
+      "scientist"
+    ],
+    [
+      "vibrant colors",
+      "influences",
+      "Kahlo"
+    ],
+    [
+      "vibrant colors",
+      "inspired by",
+      "inspiration"
+    ],
+    [
+      "vibrant colors",
+      "is",
+      "groundbreaking"
+    ],
+    [
+      "vibrant colors",
+      "provokes",
+      "provocation"
+    ],
+    [
+      "vibrant colors",
+      "pushes",
+      "artistic boundaries"
+    ],
+    [
+      "vibrant colors",
+      "shapes",
+      "art history"
+    ],
+    [
+      "wonder",
+      "elicits",
+      "Mona Lisa"
+    ],
+    [
+      "wonder",
+      "inspired by",
+      "masterpieces"
+    ],
+    [
+      "wonder",
+      "inspires",
+      "lifelike figures"
+    ]
+  ],
+  "edges": [
+    "advances",
+    "affected by",
+    "associated with",
+    "belongs to",
+    "captures",
+    "challenged",
+    "challenged by",
+    "challenges",
+    "characteristic of",
+    "characterized by",
+    "characterizes",
+    "compared to",
+    "compares to",
+    "contains",
+    "contrasted with",
+    "contrasts",
+    "contrasts with",
+    "contributed to",
+    "contributes to",
+    "conveys",
+    "created",
+    "created by",
+    "created for",
+    "creates",
+    "decorated by",
+    "defined by",
+    "defines",
+    "demonstrated by",
+    "demonstrated in",
+    "demonstrates",
+    "depicted by",
+    "depicted in",
+    "depicted through",
+    "depicts",
+    "developed",
+    "driven by",
+    "drives",
+    "elicits",
+    "emerged during",
+    "emerged in",
+    "encourages",
+    "enhanced by",
+    "enhances",
+    "evokes",
+    "evolved from",
+    "evolved into",
+    "exemplified by",
+    "exemplifies",
+    "exhibits",
+    "expands",
+    "explored by",
+    "explores",
+    "expressed through",
+    "expresses",
+    "facilitates",
+    "features",
+    "fosters",
+    "foundation of",
+    "fuels",
+    "has",
+    "has a",
+    "highlights",
+    "illuminates",
+    "illustrates",
+    "includes",
+    "indicates",
+    "influenced",
+    "influenced by",
+    "influencer of",
+    "influences",
+    "informs",
+    "inspired",
+    "inspired by",
+    "inspires",
+    "is",
+    "is a characteristic of",
+    "is a form of",
+    "is a product of",
+    "is a result of",
+    "is a type of",
+    "is a work of",
+    "is associated with",
+    "is characterized by",
+    "is compared to",
+    "is depicted in",
+    "is exemplified by",
+    "is influenced by",
+    "is shaped by",
+    "leads to",
+    "leaves",
+    "limits",
+    "located in",
+    "motivates",
+    "part of",
+    "pioneered",
+    "provides",
+    "provokes",
+    "pushes",
+    "reflected in",
+    "reflects",
+    "related to",
+    "represents",
+    "revolutionized by",
+    "serves as",
+    "shaped",
+    "shaped by",
+    "shapes",
+    "sparks",
+    "stimulates",
+    "the work of",
+    "transforms",
+    "utilized by",
+    "utilizes"
+  ]
+}

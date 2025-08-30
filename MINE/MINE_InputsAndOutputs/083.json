@@ -1,0 +1,6350 @@
+{
+  "entities": [
+    "B cells",
+    "T cells",
+    "acidic environment",
+    "adaptive immunity",
+    "antibodies",
+    "antigen presentation",
+    "autoimmune diseases",
+    "bacteria",
+    "body dysfunction",
+    "body protection",
+    "cancer",
+    "cellular communication",
+    "chronic inflammation",
+    "complement proteins",
+    "complex interplay",
+    "coordinated responses",
+    "cytokines",
+    "defense mechanisms",
+    "dendritic cells",
+    "diabetes",
+    "digestive tract",
+    "disease",
+    "first responders",
+    "full-blown infection",
+    "fungi",
+    "health",
+    "health complications",
+    "heart disease",
+    "immune cells",
+    "immune response",
+    "immune response coordination",
+    "immune response regulation",
+    "immune system",
+    "immune system activation",
+    "immune system balance",
+    "immune system components",
+    "immune system dysregulation",
+    "immune system efficiency",
+    "immune system malfunction",
+    "immune system network",
+    "immune system signaling",
+    "immunological memory",
+    "infection prevention",
+    "infections",
+    "innate immunity",
+    "lupus",
+    "lymphocytes",
+    "macrophages",
+    "memory cells",
+    "mucous membranes",
+    "multiple sclerosis",
+    "natural killer cells",
+    "neutrophils",
+    "parasites",
+    "pathogen destruction",
+    "pathogen detection",
+    "pathogen elimination",
+    "pathogen recognition",
+    "pathogens",
+    "phagocytosis",
+    "physical barriers",
+    "protective barrier",
+    "rapid response",
+    "resilience",
+    "respiratory tract",
+    "rheumatoid arthritis",
+    "specific defense mechanisms",
+    "tissue damage",
+    "treatment strategies",
+    "vaccination",
+    "viruses",
+    "white blood cells"
+  ],
+  "relations": [
+    [
+      "B cells",
+      "aids in",
+      "pathogen recognition"
+    ],
+    [
+      "B cells",
+      "attacks",
+      "bacteria"
+    ],
+    [
+      "B cells",
+      "contributes to",
+      "adaptive immunity"
+    ],
+    [
+      "B cells",
+      "contributes to",
+      "immune response"
+    ],
+    [
+      "B cells",
+      "coordinates",
+      "immune response coordination"
+    ],
+    [
+      "B cells",
+      "facilitates",
+      "pathogen detection"
+    ],
+    [
+      "B cells",
+      "integrates into",
+      "immune system network"
+    ],
+    [
+      "B cells",
+      "interact with",
+      "T cells"
+    ],
+    [
+      "B cells",
+      "interacts with",
+      "dendritic cells"
+    ],
+    [
+      "B cells",
+      "is a component of",
+      "immune system"
+    ],
+    [
+      "B cells",
+      "is a type of",
+      "white blood cells"
+    ],
+    [
+      "B cells",
+      "is produced by",
+      "protective barrier"
+    ],
+    [
+      "B cells",
+      "prevents",
+      "full-blown infection"
+    ],
+    [
+      "B cells",
+      "produce",
+      "immune cells"
+    ],
+    [
+      "B cells",
+      "produces",
+      "antibodies"
+    ],
+    [
+      "B cells",
+      "produces",
+      "memory cells"
+    ],
+    [
+      "B cells",
+      "provides",
+      "specific defense mechanisms"
+    ],
+    [
+      "B cells",
+      "regulated by",
+      "cytokines"
+    ],
+    [
+      "B cells",
+      "regulates",
+      "immune response regulation"
+    ],
+    [
+      "B cells",
+      "target",
+      "pathogens"
+    ],
+    [
+      "B cells",
+      "targets",
+      "fungi"
+    ],
+    [
+      "B cells",
+      "targets",
+      "infections"
+    ],
+    [
+      "T cells",
+      "activated by",
+      "macrophages"
+    ],
+    [
+      "T cells",
+      "caused by",
+      "tissue damage"
+    ],
+    [
+      "T cells",
+      "combats",
+      "full-blown infection"
+    ],
+    [
+      "T cells",
+      "contributes to",
+      "adaptive immunity"
+    ],
+    [
+      "T cells",
+      "influenced by",
+      "complex interplay"
+    ],
+    [
+      "T cells",
+      "interacts with",
+      "antibodies"
+    ],
+    [
+      "T cells",
+      "is activated by",
+      "immune cells"
+    ],
+    [
+      "T cells",
+      "is attacked by",
+      "pathogens"
+    ],
+    [
+      "T cells",
+      "is supported by",
+      "first responders"
+    ],
+    [
+      "T cells",
+      "regulated by",
+      "immune response regulation"
+    ],
+    [
+      "T cells",
+      "targets",
+      "pathogen destruction"
+    ],
+    [
+      "T cells",
+      "utilizes",
+      "treatment strategies"
+    ],
+    [
+      "acidic environment",
+      "affects",
+      "digestive tract"
+    ],
+    [
+      "acidic environment",
+      "affects",
+      "immune system dysregulation"
+    ],
+    [
+      "acidic environment",
+      "affects",
+      "immune system malfunction"
+    ],
+    [
+      "acidic environment",
+      "contributes to",
+      "multiple sclerosis"
+    ],
+    [
+      "acidic environment",
+      "enhances",
+      "pathogen recognition"
+    ],
+    [
+      "acidic environment",
+      "influenced by",
+      "fungi"
+    ],
+    [
+      "acidic environment",
+      "influences",
+      "immune system signaling"
+    ],
+    [
+      "acidic environment",
+      "inhibits",
+      "neutrophils"
+    ],
+    [
+      "acidic environment",
+      "is a component of",
+      "defense mechanisms"
+    ],
+    [
+      "acidic environment",
+      "is affected by",
+      "cytokines"
+    ],
+    [
+      "acidic environment",
+      "is supported by",
+      "immune system balance"
+    ],
+    [
+      "acidic environment",
+      "kill",
+      "parasites"
+    ],
+    [
+      "acidic environment",
+      "kills",
+      "viruses"
+    ],
+    [
+      "acidic environment",
+      "neutralizes",
+      "chronic inflammation"
+    ],
+    [
+      "acidic environment",
+      "neutralizes",
+      "white blood cells"
+    ],
+    [
+      "acidic environment",
+      "regulates",
+      "immune response regulation"
+    ],
+    [
+      "acidic environment",
+      "supports",
+      "resilience"
+    ],
+    [
+      "adaptive immunity",
+      "contrasts with",
+      "innate immunity"
+    ],
+    [
+      "adaptive immunity",
+      "contributes to",
+      "body dysfunction"
+    ],
+    [
+      "adaptive immunity",
+      "enhanced by",
+      "immune system signaling"
+    ],
+    [
+      "adaptive immunity",
+      "enhanced by",
+      "macrophages"
+    ],
+    [
+      "adaptive immunity",
+      "improves",
+      "immune system efficiency"
+    ],
+    [
+      "adaptive immunity",
+      "influenced by",
+      "cancer"
+    ],
+    [
+      "adaptive immunity",
+      "influences",
+      "lupus"
+    ],
+    [
+      "adaptive immunity",
+      "influences",
+      "multiple sclerosis"
+    ],
+    [
+      "adaptive immunity",
+      "involves",
+      "viruses"
+    ],
+    [
+      "adaptive immunity",
+      "is a part of",
+      "phagocytosis"
+    ],
+    [
+      "adaptive immunity",
+      "is influenced by",
+      "health complications"
+    ],
+    [
+      "adaptive immunity",
+      "is related to",
+      "immune response"
+    ],
+    [
+      "adaptive immunity",
+      "is supported by",
+      "physical barriers"
+    ],
+    [
+      "adaptive immunity",
+      "promotes",
+      "disease"
+    ],
+    [
+      "adaptive immunity",
+      "relies on",
+      "pathogens"
+    ],
+    [
+      "adaptive immunity",
+      "requires",
+      "full-blown infection"
+    ],
+    [
+      "adaptive immunity",
+      "supports",
+      "infections"
+    ],
+    [
+      "adaptive immunity",
+      "supports",
+      "neutrophils"
+    ],
+    [
+      "antibodies",
+      "associated with",
+      "rheumatoid arthritis"
+    ],
+    [
+      "antibodies",
+      "contributes to",
+      "disease"
+    ],
+    [
+      "antibodies",
+      "contributes to",
+      "specific defense mechanisms"
+    ],
+    [
+      "antibodies",
+      "enhances",
+      "natural killer cells"
+    ],
+    [
+      "antibodies",
+      "facilitates",
+      "pathogen detection"
+    ],
+    [
+      "antibodies",
+      "impairs",
+      "immune system dysregulation"
+    ],
+    [
+      "antibodies",
+      "involves",
+      "innate immunity"
+    ],
+    [
+      "antibodies",
+      "is a component of",
+      "adaptive immunity"
+    ],
+    [
+      "antibodies",
+      "neutralizes",
+      "pathogens"
+    ],
+    [
+      "antibodies",
+      "produced by",
+      "bacteria"
+    ],
+    [
+      "antibodies",
+      "produced by",
+      "first responders"
+    ],
+    [
+      "antibodies",
+      "produced by",
+      "immune cells"
+    ],
+    [
+      "antibodies",
+      "produced by",
+      "memory cells"
+    ],
+    [
+      "antibodies",
+      "produces",
+      "respiratory tract"
+    ],
+    [
+      "antibodies",
+      "provides",
+      "body protection"
+    ],
+    [
+      "antibodies",
+      "regulates",
+      "immune response regulation"
+    ],
+    [
+      "antibodies",
+      "serve as",
+      "defense mechanisms"
+    ],
+    [
+      "antibodies",
+      "targeted by",
+      "immune system malfunction"
+    ],
+    [
+      "antibodies",
+      "targets",
+      "cancer"
+    ],
+    [
+      "antibodies",
+      "targets",
+      "physical barriers"
+    ],
+    [
+      "antigen presentation",
+      "activates",
+      "immune cells"
+    ],
+    [
+      "antigen presentation",
+      "activates",
+      "lymphocytes"
+    ],
+    [
+      "antigen presentation",
+      "can lead to",
+      "full-blown infection"
+    ],
+    [
+      "antigen presentation",
+      "facilitates",
+      "defense mechanisms"
+    ],
+    [
+      "antigen presentation",
+      "facilitates",
+      "physical barriers"
+    ],
+    [
+      "antigen presentation",
+      "facilitates",
+      "rapid response"
+    ],
+    [
+      "antigen presentation",
+      "involves",
+      "complex interplay"
+    ],
+    [
+      "antigen presentation",
+      "involves",
+      "immune system balance"
+    ],
+    [
+      "antigen presentation",
+      "is essential for",
+      "pathogen detection"
+    ],
+    [
+      "antigen presentation",
+      "supports",
+      "cellular communication"
+    ],
+    [
+      "antigen presentation",
+      "supports",
+      "specific defense mechanisms"
+    ],
+    [
+      "autoimmune diseases",
+      "affects",
+      "immune system efficiency"
+    ],
+    [
+      "autoimmune diseases",
+      "affects",
+      "pathogen detection"
+    ],
+    [
+      "autoimmune diseases",
+      "associated with",
+      "rheumatoid arthritis"
+    ],
+    [
+      "autoimmune diseases",
+      "attacked by",
+      "pathogens"
+    ],
+    [
+      "autoimmune diseases",
+      "caused by",
+      "pathogen elimination"
+    ],
+    [
+      "autoimmune diseases",
+      "caused by",
+      "pathogen recognition"
+    ],
+    [
+      "autoimmune diseases",
+      "causes",
+      "immune system activation"
+    ],
+    [
+      "autoimmune diseases",
+      "causes",
+      "immune system components"
+    ],
+    [
+      "autoimmune diseases",
+      "contributes to",
+      "immunological memory"
+    ],
+    [
+      "autoimmune diseases",
+      "exacerbates",
+      "full-blown infection"
+    ],
+    [
+      "autoimmune diseases",
+      "exacerbates",
+      "infections"
+    ],
+    [
+      "autoimmune diseases",
+      "impacts",
+      "defense mechanisms"
+    ],
+    [
+      "autoimmune diseases",
+      "impairs",
+      "rapid response"
+    ],
+    [
+      "autoimmune diseases",
+      "is a type of",
+      "disease"
+    ],
+    [
+      "autoimmune diseases",
+      "is affected by",
+      "antibodies"
+    ],
+    [
+      "autoimmune diseases",
+      "is affected by",
+      "innate immunity"
+    ],
+    [
+      "autoimmune diseases",
+      "provides",
+      "body protection"
+    ],
+    [
+      "autoimmune diseases",
+      "result in",
+      "tissue damage"
+    ],
+    [
+      "autoimmune diseases",
+      "triggered by",
+      "bacteria"
+    ],
+    [
+      "bacteria",
+      "affects",
+      "acidic environment"
+    ],
+    [
+      "bacteria",
+      "attacked by",
+      "immune cells"
+    ],
+    [
+      "bacteria",
+      "caused by",
+      "body dysfunction"
+    ],
+    [
+      "bacteria",
+      "caused by",
+      "infections"
+    ],
+    [
+      "bacteria",
+      "causes",
+      "disease"
+    ],
+    [
+      "bacteria",
+      "combats",
+      "physical barriers"
+    ],
+    [
+      "bacteria",
+      "impacts",
+      "immune system balance"
+    ],
+    [
+      "bacteria",
+      "includes",
+      "pathogens"
+    ],
+    [
+      "bacteria",
+      "influences",
+      "adaptive immunity"
+    ],
+    [
+      "bacteria",
+      "influences",
+      "immune system signaling"
+    ],
+    [
+      "bacteria",
+      "interacts with",
+      "dendritic cells"
+    ],
+    [
+      "bacteria",
+      "invades",
+      "fungi"
+    ],
+    [
+      "bacteria",
+      "is targeted by",
+      "lymphocytes"
+    ],
+    [
+      "bacteria",
+      "is targeted by",
+      "pathogen elimination"
+    ],
+    [
+      "bacteria",
+      "responds to",
+      "immune system activation"
+    ],
+    [
+      "bacteria",
+      "targeted by",
+      "antibodies"
+    ],
+    [
+      "bacteria",
+      "targeted by",
+      "immune system components"
+    ],
+    [
+      "bacteria",
+      "targeted by",
+      "phagocytosis"
+    ],
+    [
+      "bacteria",
+      "targets",
+      "pathogen destruction"
+    ],
+    [
+      "bacteria",
+      "triggered by",
+      "tissue damage"
+    ],
+    [
+      "body dysfunction",
+      "caused by",
+      "infection prevention"
+    ],
+    [
+      "body dysfunction",
+      "causes",
+      "chronic inflammation"
+    ],
+    [
+      "body dysfunction",
+      "causes",
+      "immune system balance"
+    ],
+    [
+      "body dysfunction",
+      "causes",
+      "pathogen recognition"
+    ],
+    [
+      "body dysfunction",
+      "causes",
+      "pathogens"
+    ],
+    [
+      "body dysfunction",
+      "causes",
+      "protective barrier"
+    ],
+    [
+      "body dysfunction",
+      "contributes to",
+      "respiratory tract"
+    ],
+    [
+      "body dysfunction",
+      "exacerbated by",
+      "antibodies"
+    ],
+    [
+      "body dysfunction",
+      "exacerbated by",
+      "heart disease"
+    ],
+    [
+      "body dysfunction",
+      "leads to",
+      "immune system components"
+    ],
+    [
+      "body dysfunction",
+      "leads to",
+      "mucous membranes"
+    ],
+    [
+      "body dysfunction",
+      "results from",
+      "treatment strategies"
+    ],
+    [
+      "body dysfunction",
+      "results in",
+      "autoimmune diseases"
+    ],
+    [
+      "body dysfunction",
+      "results in",
+      "immune response"
+    ],
+    [
+      "body dysfunction",
+      "results in",
+      "immune system dysregulation"
+    ],
+    [
+      "body protection",
+      "ensures",
+      "immune system balance"
+    ],
+    [
+      "body protection",
+      "facilitates",
+      "chronic inflammation"
+    ],
+    [
+      "body protection",
+      "facilitates",
+      "immune system signaling"
+    ],
+    [
+      "body protection",
+      "protects",
+      "immune system activation"
+    ],
+    [
+      "body protection",
+      "protects against",
+      "bacteria"
+    ],
+    [
+      "body protection",
+      "provides",
+      "respiratory tract"
+    ],
+    [
+      "body protection",
+      "provides",
+      "specific defense mechanisms"
+    ],
+    [
+      "cancer",
+      "affects",
+      "immune response"
+    ],
+    [
+      "cancer",
+      "aggravates",
+      "chronic inflammation"
+    ],
+    [
+      "cancer",
+      "associated with",
+      "autoimmune diseases"
+    ],
+    [
+      "cancer",
+      "is influenced by",
+      "immune system activation"
+    ],
+    [
+      "cancer",
+      "offers",
+      "body protection"
+    ],
+    [
+      "cellular communication",
+      "activates",
+      "T cells"
+    ],
+    [
+      "cellular communication",
+      "enhanced by",
+      "body protection"
+    ],
+    [
+      "cellular communication",
+      "facilitates",
+      "adaptive immunity"
+    ],
+    [
+      "cellular communication",
+      "facilitates",
+      "immune system signaling"
+    ],
+    [
+      "cellular communication",
+      "facilitates",
+      "infections"
+    ],
+    [
+      "cellular communication",
+      "involves",
+      "complex interplay"
+    ],
+    [
+      "cellular communication",
+      "involves",
+      "immune cells"
+    ],
+    [
+      "cellular communication",
+      "involves",
+      "rapid response"
+    ],
+    [
+      "cellular communication",
+      "supports",
+      "defense mechanisms"
+    ],
+    [
+      "cellular communication",
+      "supports",
+      "specific defense mechanisms"
+    ],
+    [
+      "cellular communication",
+      "targets",
+      "pathogens"
+    ],
+    [
+      "chronic inflammation",
+      "affects",
+      "pathogens"
+    ],
+    [
+      "chronic inflammation",
+      "causes",
+      "immune system dysregulation"
+    ],
+    [
+      "chronic inflammation",
+      "causes",
+      "parasites"
+    ],
+    [
+      "chronic inflammation",
+      "contributes to",
+      "cytokines"
+    ],
+    [
+      "chronic inflammation",
+      "contributes to",
+      "disease"
+    ],
+    [
+      "chronic inflammation",
+      "exacerbated by",
+      "heart disease"
+    ],
+    [
+      "chronic inflammation",
+      "exacerbates",
+      "full-blown infection"
+    ],
+    [
+      "chronic inflammation",
+      "exacerbates",
+      "resilience"
+    ],
+    [
+      "chronic inflammation",
+      "influences",
+      "immune system balance"
+    ],
+    [
+      "chronic inflammation",
+      "interacts with",
+      "complement proteins"
+    ],
+    [
+      "chronic inflammation",
+      "involves",
+      "macrophages"
+    ],
+    [
+      "chronic inflammation",
+      "involves",
+      "neutrophils"
+    ],
+    [
+      "chronic inflammation",
+      "is exacerbated by",
+      "physical barriers"
+    ],
+    [
+      "chronic inflammation",
+      "is influenced by",
+      "bacteria"
+    ],
+    [
+      "chronic inflammation",
+      "is linked to",
+      "autoimmune diseases"
+    ],
+    [
+      "chronic inflammation",
+      "linked to",
+      "multiple sclerosis"
+    ],
+    [
+      "chronic inflammation",
+      "produces",
+      "antibodies"
+    ],
+    [
+      "chronic inflammation",
+      "protects against",
+      "mucous membranes"
+    ],
+    [
+      "chronic inflammation",
+      "results in",
+      "immune system malfunction"
+    ],
+    [
+      "chronic inflammation",
+      "results in",
+      "tissue damage"
+    ],
+    [
+      "complement proteins",
+      "affects",
+      "health"
+    ],
+    [
+      "complement proteins",
+      "affects",
+      "respiratory tract"
+    ],
+    [
+      "complement proteins",
+      "aids in",
+      "pathogen elimination"
+    ],
+    [
+      "complement proteins",
+      "aids in",
+      "pathogen recognition"
+    ],
+    [
+      "complement proteins",
+      "attacks",
+      "parasites"
+    ],
+    [
+      "complement proteins",
+      "combats",
+      "infections"
+    ],
+    [
+      "complement proteins",
+      "contributes to",
+      "autoimmune diseases"
+    ],
+    [
+      "complement proteins",
+      "contributes to",
+      "immune system signaling"
+    ],
+    [
+      "complement proteins",
+      "enhance",
+      "B cells"
+    ],
+    [
+      "complement proteins",
+      "enhance",
+      "immune cells"
+    ],
+    [
+      "complement proteins",
+      "enhance the function of",
+      "lymphocytes"
+    ],
+    [
+      "complement proteins",
+      "enhances",
+      "T cells"
+    ],
+    [
+      "complement proteins",
+      "enhances",
+      "adaptive immunity"
+    ],
+    [
+      "complement proteins",
+      "enhances",
+      "antibodies"
+    ],
+    [
+      "complement proteins",
+      "enhances",
+      "cellular communication"
+    ],
+    [
+      "complement proteins",
+      "enhances",
+      "defense mechanisms"
+    ],
+    [
+      "complement proteins",
+      "enhances",
+      "fungi"
+    ],
+    [
+      "complement proteins",
+      "enhances",
+      "immune response coordination"
+    ],
+    [
+      "complement proteins",
+      "enhances",
+      "immune system"
+    ],
+    [
+      "complement proteins",
+      "enhances",
+      "immune system efficiency"
+    ],
+    [
+      "complement proteins",
+      "enhances",
+      "pathogen detection"
+    ],
+    [
+      "complement proteins",
+      "enhances",
+      "phagocytosis"
+    ],
+    [
+      "complement proteins",
+      "enhances",
+      "vaccination"
+    ],
+    [
+      "complement proteins",
+      "enhances",
+      "viruses"
+    ],
+    [
+      "complement proteins",
+      "enhances",
+      "white blood cells"
+    ],
+    [
+      "complement proteins",
+      "interact with",
+      "natural killer cells"
+    ],
+    [
+      "complement proteins",
+      "interacts with",
+      "dendritic cells"
+    ],
+    [
+      "complement proteins",
+      "involved in",
+      "heart disease"
+    ],
+    [
+      "complement proteins",
+      "is involved in",
+      "immune response"
+    ],
+    [
+      "complement proteins",
+      "provides",
+      "body protection"
+    ],
+    [
+      "complement proteins",
+      "supports",
+      "immune system balance"
+    ],
+    [
+      "complement proteins",
+      "supports",
+      "neutrophils"
+    ],
+    [
+      "complement proteins",
+      "supports",
+      "specific defense mechanisms"
+    ],
+    [
+      "complement proteins",
+      "targeted by",
+      "bacteria"
+    ],
+    [
+      "complement proteins",
+      "targets",
+      "pathogens"
+    ],
+    [
+      "complex interplay",
+      "involves",
+      "phagocytosis"
+    ],
+    [
+      "complex interplay",
+      "is facilitated by",
+      "rapid response"
+    ],
+    [
+      "coordinated responses",
+      "activates",
+      "T cells"
+    ],
+    [
+      "coordinated responses",
+      "enables",
+      "adaptive immunity"
+    ],
+    [
+      "coordinated responses",
+      "involves",
+      "immune response coordination"
+    ],
+    [
+      "coordinated responses",
+      "involves",
+      "immune system signaling"
+    ],
+    [
+      "coordinated responses",
+      "involves",
+      "phagocytosis"
+    ],
+    [
+      "coordinated responses",
+      "is part of",
+      "antibodies"
+    ],
+    [
+      "coordinated responses",
+      "requires",
+      "specific defense mechanisms"
+    ],
+    [
+      "cytokines",
+      "activate",
+      "T cells"
+    ],
+    [
+      "cytokines",
+      "activates",
+      "dendritic cells"
+    ],
+    [
+      "cytokines",
+      "activates",
+      "immune cells"
+    ],
+    [
+      "cytokines",
+      "affects",
+      "fungi"
+    ],
+    [
+      "cytokines",
+      "aids in",
+      "pathogen detection"
+    ],
+    [
+      "cytokines",
+      "aids in",
+      "pathogen elimination"
+    ],
+    [
+      "cytokines",
+      "are influenced by",
+      "natural killer cells"
+    ],
+    [
+      "cytokines",
+      "causes",
+      "autoimmune diseases"
+    ],
+    [
+      "cytokines",
+      "contributes to",
+      "innate immunity"
+    ],
+    [
+      "cytokines",
+      "enhances",
+      "infection prevention"
+    ],
+    [
+      "cytokines",
+      "enhances",
+      "phagocytosis"
+    ],
+    [
+      "cytokines",
+      "facilitates",
+      "coordinated responses"
+    ],
+    [
+      "cytokines",
+      "improves",
+      "immune system efficiency"
+    ],
+    [
+      "cytokines",
+      "is regulated by",
+      "first responders"
+    ],
+    [
+      "cytokines",
+      "is targeted by",
+      "viruses"
+    ],
+    [
+      "cytokines",
+      "provides",
+      "body protection"
+    ],
+    [
+      "cytokines",
+      "regulate",
+      "antibodies"
+    ],
+    [
+      "cytokines",
+      "regulate",
+      "lymphocytes"
+    ],
+    [
+      "cytokines",
+      "regulated by",
+      "mucous membranes"
+    ],
+    [
+      "cytokines",
+      "regulates",
+      "immune system signaling"
+    ],
+    [
+      "cytokines",
+      "regulates",
+      "infections"
+    ],
+    [
+      "cytokines",
+      "regulates",
+      "memory cells"
+    ],
+    [
+      "cytokines",
+      "regulates",
+      "neutrophils"
+    ],
+    [
+      "cytokines",
+      "regulates",
+      "pathogens"
+    ],
+    [
+      "cytokines",
+      "regulates",
+      "white blood cells"
+    ],
+    [
+      "cytokines",
+      "supports",
+      "adaptive immunity"
+    ],
+    [
+      "cytokines",
+      "targeted by",
+      "treatment strategies"
+    ],
+    [
+      "cytokines",
+      "worsens",
+      "rheumatoid arthritis"
+    ],
+    [
+      "defense mechanisms",
+      "defends against",
+      "viruses"
+    ],
+    [
+      "defense mechanisms",
+      "includes",
+      "specific defense mechanisms"
+    ],
+    [
+      "defense mechanisms",
+      "involves",
+      "immune system signaling"
+    ],
+    [
+      "defense mechanisms",
+      "is a component of",
+      "mucous membranes"
+    ],
+    [
+      "defense mechanisms",
+      "is supported by",
+      "immune system efficiency"
+    ],
+    [
+      "defense mechanisms",
+      "protects against",
+      "bacteria"
+    ],
+    [
+      "defense mechanisms",
+      "protects against",
+      "infections"
+    ],
+    [
+      "defense mechanisms",
+      "results in",
+      "body dysfunction"
+    ],
+    [
+      "defense mechanisms",
+      "supports",
+      "adaptive immunity"
+    ],
+    [
+      "dendritic cells",
+      "activates",
+      "T cells"
+    ],
+    [
+      "dendritic cells",
+      "activates",
+      "immune cells"
+    ],
+    [
+      "dendritic cells",
+      "are influenced by",
+      "protective barrier"
+    ],
+    [
+      "dendritic cells",
+      "contributes to",
+      "specific defense mechanisms"
+    ],
+    [
+      "dendritic cells",
+      "involves",
+      "phagocytosis"
+    ],
+    [
+      "dendritic cells",
+      "presented to",
+      "antibodies"
+    ],
+    [
+      "dendritic cells",
+      "targeted by",
+      "full-blown infection"
+    ],
+    [
+      "dendritic cells",
+      "targeted by",
+      "infections"
+    ],
+    [
+      "diabetes",
+      "affected by",
+      "health"
+    ],
+    [
+      "diabetes",
+      "associated with",
+      "antibodies"
+    ],
+    [
+      "diabetes",
+      "associated with",
+      "innate immunity"
+    ],
+    [
+      "diabetes",
+      "can lead to",
+      "immune system activation"
+    ],
+    [
+      "diabetes",
+      "complicated by",
+      "respiratory tract"
+    ],
+    [
+      "diabetes",
+      "contributes to",
+      "immune system dysregulation"
+    ],
+    [
+      "diabetes",
+      "contributes to",
+      "immune system signaling"
+    ],
+    [
+      "diabetes",
+      "contributes to",
+      "resilience"
+    ],
+    [
+      "diabetes",
+      "exacerbated by",
+      "chronic inflammation"
+    ],
+    [
+      "diabetes",
+      "exacerbated by",
+      "immune response regulation"
+    ],
+    [
+      "diabetes",
+      "exacerbates",
+      "tissue damage"
+    ],
+    [
+      "diabetes",
+      "impairs",
+      "immune system efficiency"
+    ],
+    [
+      "diabetes",
+      "influences",
+      "pathogen recognition"
+    ],
+    [
+      "diabetes",
+      "is associated with",
+      "heart disease"
+    ],
+    [
+      "diabetes",
+      "is associated with",
+      "immunological memory"
+    ],
+    [
+      "diabetes",
+      "is linked to",
+      "body dysfunction"
+    ],
+    [
+      "diabetes",
+      "is linked to",
+      "pathogen elimination"
+    ],
+    [
+      "digestive tract",
+      "affects",
+      "immune system malfunction"
+    ],
+    [
+      "digestive tract",
+      "affects",
+      "parasites"
+    ],
+    [
+      "digestive tract",
+      "can lead to",
+      "infections"
+    ],
+    [
+      "digestive tract",
+      "causes",
+      "tissue damage"
+    ],
+    [
+      "digestive tract",
+      "exposed to",
+      "pathogens"
+    ],
+    [
+      "digestive tract",
+      "facilitates",
+      "rapid response"
+    ],
+    [
+      "digestive tract",
+      "is supported by",
+      "infection prevention"
+    ],
+    [
+      "digestive tract",
+      "protects",
+      "protective barrier"
+    ],
+    [
+      "digestive tract",
+      "protects against",
+      "physical barriers"
+    ],
+    [
+      "digestive tract",
+      "provides",
+      "body protection"
+    ],
+    [
+      "digestive tract",
+      "supports",
+      "immune system balance"
+    ],
+    [
+      "disease",
+      "a type of",
+      "heart disease"
+    ],
+    [
+      "disease",
+      "associated with",
+      "innate immunity"
+    ],
+    [
+      "disease",
+      "associated with",
+      "protective barrier"
+    ],
+    [
+      "disease",
+      "caused by",
+      "chronic inflammation"
+    ],
+    [
+      "disease",
+      "causes",
+      "full-blown infection"
+    ],
+    [
+      "disease",
+      "causes",
+      "pathogen destruction"
+    ],
+    [
+      "disease",
+      "counteracts",
+      "defense mechanisms"
+    ],
+    [
+      "disease",
+      "is a type of",
+      "multiple sclerosis"
+    ],
+    [
+      "disease",
+      "is affected by",
+      "immune system"
+    ],
+    [
+      "disease",
+      "is caused by",
+      "parasites"
+    ],
+    [
+      "disease",
+      "leads to",
+      "body protection"
+    ],
+    [
+      "disease",
+      "leads to",
+      "infections"
+    ],
+    [
+      "disease",
+      "leads to",
+      "rapid response"
+    ],
+    [
+      "disease",
+      "opposes",
+      "health"
+    ],
+    [
+      "disease",
+      "results in",
+      "body dysfunction"
+    ],
+    [
+      "disease",
+      "utilizes",
+      "specific defense mechanisms"
+    ],
+    [
+      "first responders",
+      "benefits from",
+      "immunological memory"
+    ],
+    [
+      "first responders",
+      "causes",
+      "tissue damage"
+    ],
+    [
+      "first responders",
+      "facilitates",
+      "pathogen detection"
+    ],
+    [
+      "first responders",
+      "includes",
+      "neutrophils"
+    ],
+    [
+      "first responders",
+      "includes",
+      "white blood cells"
+    ],
+    [
+      "first responders",
+      "initiates",
+      "immune system activation"
+    ],
+    [
+      "first responders",
+      "interacts with",
+      "B cells"
+    ],
+    [
+      "first responders",
+      "interacts with",
+      "natural killer cells"
+    ],
+    [
+      "first responders",
+      "involves",
+      "coordinated responses"
+    ],
+    [
+      "first responders",
+      "neutralizes",
+      "acidic environment"
+    ],
+    [
+      "first responders",
+      "performed by",
+      "pathogen destruction"
+    ],
+    [
+      "first responders",
+      "provides",
+      "rapid response"
+    ],
+    [
+      "first responders",
+      "respond to",
+      "immune cells"
+    ],
+    [
+      "first responders",
+      "responds to",
+      "bacteria"
+    ],
+    [
+      "first responders",
+      "responds to",
+      "lymphocytes"
+    ],
+    [
+      "first responders",
+      "utilizes",
+      "complement proteins"
+    ],
+    [
+      "full-blown infection",
+      "associated with",
+      "white blood cells"
+    ],
+    [
+      "full-blown infection",
+      "can lead to",
+      "immune system network"
+    ],
+    [
+      "full-blown infection",
+      "cause",
+      "fungi"
+    ],
+    [
+      "full-blown infection",
+      "contribute to",
+      "macrophages"
+    ],
+    [
+      "full-blown infection",
+      "contributes to",
+      "complement proteins"
+    ],
+    [
+      "full-blown infection",
+      "exacerbated by",
+      "digestive tract"
+    ],
+    [
+      "full-blown infection",
+      "exacerbated by",
+      "neutrophils"
+    ],
+    [
+      "full-blown infection",
+      "impairs",
+      "immune system efficiency"
+    ],
+    [
+      "full-blown infection",
+      "increases risk of",
+      "diabetes"
+    ],
+    [
+      "full-blown infection",
+      "influences",
+      "first responders"
+    ],
+    [
+      "full-blown infection",
+      "is a consequence of",
+      "bacteria"
+    ],
+    [
+      "full-blown infection",
+      "is exacerbated by",
+      "immune system balance"
+    ],
+    [
+      "full-blown infection",
+      "is prevented by",
+      "health"
+    ],
+    [
+      "full-blown infection",
+      "is prevented by",
+      "immune response coordination"
+    ],
+    [
+      "full-blown infection",
+      "leads to",
+      "innate immunity"
+    ],
+    [
+      "full-blown infection",
+      "prevent",
+      "protective barrier"
+    ],
+    [
+      "full-blown infection",
+      "prevent",
+      "vaccination"
+    ],
+    [
+      "full-blown infection",
+      "prevented by",
+      "acidic environment"
+    ],
+    [
+      "full-blown infection",
+      "prevented by",
+      "pathogen destruction"
+    ],
+    [
+      "full-blown infection",
+      "prevents",
+      "antibodies"
+    ],
+    [
+      "full-blown infection",
+      "prevents",
+      "immune system activation"
+    ],
+    [
+      "full-blown infection",
+      "prevents",
+      "immune system components"
+    ],
+    [
+      "full-blown infection",
+      "prevents",
+      "infection prevention"
+    ],
+    [
+      "full-blown infection",
+      "prevents",
+      "pathogen elimination"
+    ],
+    [
+      "full-blown infection",
+      "results in",
+      "infections"
+    ],
+    [
+      "full-blown infection",
+      "results in",
+      "tissue damage"
+    ],
+    [
+      "full-blown infection",
+      "threatened by",
+      "body protection"
+    ],
+    [
+      "fungi",
+      "affects",
+      "digestive tract"
+    ],
+    [
+      "fungi",
+      "affects",
+      "immune system balance"
+    ],
+    [
+      "fungi",
+      "are targeted by",
+      "T cells"
+    ],
+    [
+      "fungi",
+      "causes",
+      "disease"
+    ],
+    [
+      "fungi",
+      "causes",
+      "infections"
+    ],
+    [
+      "fungi",
+      "defends against",
+      "defense mechanisms"
+    ],
+    [
+      "fungi",
+      "destroys",
+      "natural killer cells"
+    ],
+    [
+      "fungi",
+      "involves",
+      "adaptive immunity"
+    ],
+    [
+      "fungi",
+      "involves",
+      "phagocytosis"
+    ],
+    [
+      "fungi",
+      "is targeted by",
+      "pathogen destruction"
+    ],
+    [
+      "fungi",
+      "provides",
+      "body protection"
+    ],
+    [
+      "fungi",
+      "targeted by",
+      "lymphocytes"
+    ],
+    [
+      "fungi",
+      "targets",
+      "immune system components"
+    ],
+    [
+      "health",
+      "affects",
+      "body dysfunction"
+    ],
+    [
+      "health",
+      "affects",
+      "chronic inflammation"
+    ],
+    [
+      "health",
+      "affects",
+      "fungi"
+    ],
+    [
+      "health",
+      "affects",
+      "respiratory tract"
+    ],
+    [
+      "health",
+      "impacted by",
+      "autoimmune diseases"
+    ],
+    [
+      "health",
+      "impacts",
+      "cancer"
+    ],
+    [
+      "health",
+      "impacts",
+      "infections"
+    ],
+    [
+      "health",
+      "improves",
+      "treatment strategies"
+    ],
+    [
+      "health",
+      "promotes",
+      "antibodies"
+    ],
+    [
+      "health",
+      "promotes",
+      "immune system balance"
+    ],
+    [
+      "health",
+      "promotes",
+      "infection prevention"
+    ],
+    [
+      "health",
+      "promotes",
+      "physical barriers"
+    ],
+    [
+      "health",
+      "promotes",
+      "rapid response"
+    ],
+    [
+      "health",
+      "supports",
+      "defense mechanisms"
+    ],
+    [
+      "health",
+      "supports",
+      "pathogen destruction"
+    ],
+    [
+      "health",
+      "threatens",
+      "parasites"
+    ],
+    [
+      "health complications",
+      "associated with",
+      "digestive tract"
+    ],
+    [
+      "health complications",
+      "associated with",
+      "disease"
+    ],
+    [
+      "health complications",
+      "can cause",
+      "vaccination"
+    ],
+    [
+      "health complications",
+      "can lead to",
+      "protective barrier"
+    ],
+    [
+      "health complications",
+      "causes",
+      "antibodies"
+    ],
+    [
+      "health complications",
+      "causes",
+      "bacteria"
+    ],
+    [
+      "health complications",
+      "causes",
+      "chronic inflammation"
+    ],
+    [
+      "health complications",
+      "causes",
+      "immune response"
+    ],
+    [
+      "health complications",
+      "causes",
+      "immune system balance"
+    ],
+    [
+      "health complications",
+      "causes",
+      "pathogen detection"
+    ],
+    [
+      "health complications",
+      "causes",
+      "physical barriers"
+    ],
+    [
+      "health complications",
+      "causes",
+      "viruses"
+    ],
+    [
+      "health complications",
+      "contributes to",
+      "immune system malfunction"
+    ],
+    [
+      "health complications",
+      "contributes to",
+      "innate immunity"
+    ],
+    [
+      "health complications",
+      "contributes to",
+      "mucous membranes"
+    ],
+    [
+      "health complications",
+      "is a complication of",
+      "heart disease"
+    ],
+    [
+      "health complications",
+      "is a consequence of",
+      "resilience"
+    ],
+    [
+      "health complications",
+      "leads to",
+      "health"
+    ],
+    [
+      "health complications",
+      "leads to",
+      "pathogen destruction"
+    ],
+    [
+      "health complications",
+      "results in",
+      "acidic environment"
+    ],
+    [
+      "health complications",
+      "results in",
+      "body dysfunction"
+    ],
+    [
+      "health complications",
+      "results in",
+      "body protection"
+    ],
+    [
+      "health complications",
+      "results in",
+      "cancer"
+    ],
+    [
+      "health complications",
+      "results in",
+      "full-blown infection"
+    ],
+    [
+      "health complications",
+      "results in",
+      "fungi"
+    ],
+    [
+      "health complications",
+      "results in",
+      "pathogen elimination"
+    ],
+    [
+      "health complications",
+      "results in",
+      "tissue damage"
+    ],
+    [
+      "heart disease",
+      "exacerbates",
+      "cancer"
+    ],
+    [
+      "heart disease",
+      "regulated by",
+      "cytokines"
+    ],
+    [
+      "immune cells",
+      "involves",
+      "immunological memory"
+    ],
+    [
+      "immune cells",
+      "is maintained by",
+      "immune system balance"
+    ],
+    [
+      "immune cells",
+      "targeted by",
+      "full-blown infection"
+    ],
+    [
+      "immune response",
+      "affects",
+      "digestive tract"
+    ],
+    [
+      "immune response",
+      "can lead to",
+      "autoimmune diseases"
+    ],
+    [
+      "immune response",
+      "combat",
+      "viruses"
+    ],
+    [
+      "immune response",
+      "elicits",
+      "respiratory tract"
+    ],
+    [
+      "immune response",
+      "eliminates",
+      "pathogens"
+    ],
+    [
+      "immune response",
+      "enables",
+      "immune system network"
+    ],
+    [
+      "immune response",
+      "enhances",
+      "natural killer cells"
+    ],
+    [
+      "immune response",
+      "ensures",
+      "body protection"
+    ],
+    [
+      "immune response",
+      "improves",
+      "immune system efficiency"
+    ],
+    [
+      "immune response",
+      "induces",
+      "vaccination"
+    ],
+    [
+      "immune response",
+      "influences",
+      "disease"
+    ],
+    [
+      "immune response",
+      "informs",
+      "treatment strategies"
+    ],
+    [
+      "immune response",
+      "involved in",
+      "dendritic cells"
+    ],
+    [
+      "immune response",
+      "involves",
+      "T cells"
+    ],
+    [
+      "immune response",
+      "involves",
+      "antibodies"
+    ],
+    [
+      "immune response",
+      "is a function of",
+      "defense mechanisms"
+    ],
+    [
+      "immune response",
+      "is initiated by",
+      "first responders"
+    ],
+    [
+      "immune response",
+      "promotes",
+      "health"
+    ],
+    [
+      "immune response",
+      "responds to",
+      "infections"
+    ],
+    [
+      "immune response",
+      "targets",
+      "bacteria"
+    ],
+    [
+      "immune response",
+      "targets",
+      "parasites"
+    ],
+    [
+      "immune response coordination",
+      "contributes to",
+      "autoimmune diseases"
+    ],
+    [
+      "immune response coordination",
+      "coordinates",
+      "defense mechanisms"
+    ],
+    [
+      "immune response coordination",
+      "coordinates",
+      "digestive tract"
+    ],
+    [
+      "immune response coordination",
+      "coordinates",
+      "immune cells"
+    ],
+    [
+      "immune response coordination",
+      "coordinates",
+      "lymphocytes"
+    ],
+    [
+      "immune response coordination",
+      "coordinates",
+      "mucous membranes"
+    ],
+    [
+      "immune response coordination",
+      "enables",
+      "pathogen elimination"
+    ],
+    [
+      "immune response coordination",
+      "enables",
+      "rapid response"
+    ],
+    [
+      "immune response coordination",
+      "enhances",
+      "antibodies"
+    ],
+    [
+      "immune response coordination",
+      "improves",
+      "pathogen detection"
+    ],
+    [
+      "immune response coordination",
+      "involves",
+      "T cells"
+    ],
+    [
+      "immune response coordination",
+      "involves",
+      "antigen presentation"
+    ],
+    [
+      "immune response coordination",
+      "involves",
+      "natural killer cells"
+    ],
+    [
+      "immune response coordination",
+      "involves",
+      "specific defense mechanisms"
+    ],
+    [
+      "immune response coordination",
+      "is affected by",
+      "cancer"
+    ],
+    [
+      "immune response coordination",
+      "is coordinated by",
+      "pathogen destruction"
+    ],
+    [
+      "immune response coordination",
+      "is influenced by",
+      "lupus"
+    ],
+    [
+      "immune response coordination",
+      "is linked to",
+      "diabetes"
+    ],
+    [
+      "immune response coordination",
+      "regulates",
+      "cytokines"
+    ],
+    [
+      "immune response regulation",
+      "aids",
+      "pathogen detection"
+    ],
+    [
+      "immune response regulation",
+      "facilitates",
+      "pathogen elimination"
+    ],
+    [
+      "immune response regulation",
+      "impacts",
+      "cancer"
+    ],
+    [
+      "immune response regulation",
+      "impacts",
+      "immune system malfunction"
+    ],
+    [
+      "immune response regulation",
+      "influences",
+      "phagocytosis"
+    ],
+    [
+      "immune response regulation",
+      "is influenced by",
+      "heart disease"
+    ],
+    [
+      "immune response regulation",
+      "is regulated by",
+      "dendritic cells"
+    ],
+    [
+      "immune response regulation",
+      "is regulated by",
+      "infections"
+    ],
+    [
+      "immune response regulation",
+      "modulates",
+      "specific defense mechanisms"
+    ],
+    [
+      "immune response regulation",
+      "regulated by",
+      "body dysfunction"
+    ],
+    [
+      "immune response regulation",
+      "regulated by",
+      "immune system efficiency"
+    ],
+    [
+      "immune response regulation",
+      "regulated by",
+      "pathogen recognition"
+    ],
+    [
+      "immune response regulation",
+      "regulates",
+      "complement proteins"
+    ],
+    [
+      "immune response regulation",
+      "regulates",
+      "immune cells"
+    ],
+    [
+      "immune response regulation",
+      "regulates",
+      "immune system signaling"
+    ],
+    [
+      "immune response regulation",
+      "regulates",
+      "pathogen destruction"
+    ],
+    [
+      "immune response regulation",
+      "regulates",
+      "resilience"
+    ],
+    [
+      "immune system",
+      "affects",
+      "immune system malfunction"
+    ],
+    [
+      "immune system",
+      "causes",
+      "autoimmune diseases"
+    ],
+    [
+      "immune system",
+      "comprises",
+      "lymphocytes"
+    ],
+    [
+      "immune system",
+      "coordinates",
+      "immune response coordination"
+    ],
+    [
+      "immune system",
+      "defends against",
+      "infections"
+    ],
+    [
+      "immune system",
+      "defends against",
+      "viruses"
+    ],
+    [
+      "immune system",
+      "enables",
+      "coordinated responses"
+    ],
+    [
+      "immune system",
+      "enables",
+      "pathogen elimination"
+    ],
+    [
+      "immune system",
+      "enhances",
+      "immune system efficiency"
+    ],
+    [
+      "immune system",
+      "facilitates",
+      "pathogen destruction"
+    ],
+    [
+      "immune system",
+      "influences",
+      "chronic inflammation"
+    ],
+    [
+      "immune system",
+      "interacts with",
+      "dendritic cells"
+    ],
+    [
+      "immune system",
+      "interacts with",
+      "natural killer cells"
+    ],
+    [
+      "immune system",
+      "involves",
+      "T cells"
+    ],
+    [
+      "immune system",
+      "is supported by",
+      "physical barriers"
+    ],
+    [
+      "immune system",
+      "is targeted by",
+      "cancer"
+    ],
+    [
+      "immune system",
+      "produces",
+      "antibodies"
+    ],
+    [
+      "immune system",
+      "produces",
+      "memory cells"
+    ],
+    [
+      "immune system",
+      "provides",
+      "body protection"
+    ],
+    [
+      "immune system",
+      "regulates",
+      "cytokines"
+    ],
+    [
+      "immune system",
+      "targets",
+      "bacteria"
+    ],
+    [
+      "immune system",
+      "targets",
+      "fungi"
+    ],
+    [
+      "immune system",
+      "targets",
+      "pathogens"
+    ],
+    [
+      "immune system",
+      "utilizes",
+      "phagocytosis"
+    ],
+    [
+      "immune system activation",
+      "activated by",
+      "B cells"
+    ],
+    [
+      "immune system activation",
+      "activates",
+      "digestive tract"
+    ],
+    [
+      "immune system activation",
+      "activates",
+      "immune cells"
+    ],
+    [
+      "immune system activation",
+      "activates",
+      "innate immunity"
+    ],
+    [
+      "immune system activation",
+      "activates",
+      "mucous membranes"
+    ],
+    [
+      "immune system activation",
+      "enables",
+      "cellular communication"
+    ],
+    [
+      "immune system activation",
+      "enhances",
+      "pathogen detection"
+    ],
+    [
+      "immune system activation",
+      "exacerbates",
+      "multiple sclerosis"
+    ],
+    [
+      "immune system activation",
+      "involves",
+      "antigen presentation"
+    ],
+    [
+      "immune system activation",
+      "involves",
+      "complex interplay"
+    ],
+    [
+      "immune system activation",
+      "involves",
+      "lymphocytes"
+    ],
+    [
+      "immune system activation",
+      "involves",
+      "phagocytosis"
+    ],
+    [
+      "immune system activation",
+      "is influenced by",
+      "dendritic cells"
+    ],
+    [
+      "immune system activation",
+      "is initiated by",
+      "pathogen destruction"
+    ],
+    [
+      "immune system activation",
+      "leads to",
+      "pathogen elimination"
+    ],
+    [
+      "immune system activation",
+      "produces",
+      "antibodies"
+    ],
+    [
+      "immune system activation",
+      "responds to",
+      "parasites"
+    ],
+    [
+      "immune system activation",
+      "stimulates",
+      "neutrophils"
+    ],
+    [
+      "immune system activation",
+      "triggers",
+      "complement proteins"
+    ],
+    [
+      "immune system activation",
+      "triggers",
+      "immune system dysregulation"
+    ],
+    [
+      "immune system activation",
+      "triggers",
+      "immune system signaling"
+    ],
+    [
+      "immune system activation",
+      "triggers",
+      "rapid response"
+    ],
+    [
+      "immune system balance",
+      "affects",
+      "immune system activation"
+    ],
+    [
+      "immune system balance",
+      "aids in",
+      "infection prevention"
+    ],
+    [
+      "immune system balance",
+      "ensures",
+      "rapid response"
+    ],
+    [
+      "immune system balance",
+      "involves",
+      "complex interplay"
+    ],
+    [
+      "immune system balance",
+      "is affected by",
+      "immune system dysregulation"
+    ],
+    [
+      "immune system balance",
+      "leads to",
+      "disease"
+    ],
+    [
+      "immune system balance",
+      "maintains",
+      "immunological memory"
+    ],
+    [
+      "immune system balance",
+      "regulates",
+      "cytokines"
+    ],
+    [
+      "immune system components",
+      "aids in",
+      "infection prevention"
+    ],
+    [
+      "immune system components",
+      "comprises",
+      "complement proteins"
+    ],
+    [
+      "immune system components",
+      "comprises",
+      "defense mechanisms"
+    ],
+    [
+      "immune system components",
+      "comprises",
+      "immune cells"
+    ],
+    [
+      "immune system components",
+      "constitutes",
+      "innate immunity"
+    ],
+    [
+      "immune system components",
+      "contributes to",
+      "health"
+    ],
+    [
+      "immune system components",
+      "contributes to",
+      "immune system efficiency"
+    ],
+    [
+      "immune system components",
+      "contributes to",
+      "rapid response"
+    ],
+    [
+      "immune system components",
+      "enables",
+      "coordinated responses"
+    ],
+    [
+      "immune system components",
+      "enables",
+      "pathogen destruction"
+    ],
+    [
+      "immune system components",
+      "enables",
+      "specific defense mechanisms"
+    ],
+    [
+      "immune system components",
+      "enhanced by",
+      "resilience"
+    ],
+    [
+      "immune system components",
+      "enhances",
+      "body protection"
+    ],
+    [
+      "immune system components",
+      "enhances",
+      "immunological memory"
+    ],
+    [
+      "immune system components",
+      "facilitates",
+      "pathogen detection"
+    ],
+    [
+      "immune system components",
+      "forms",
+      "immune system network"
+    ],
+    [
+      "immune system components",
+      "includes",
+      "T cells"
+    ],
+    [
+      "immune system components",
+      "includes",
+      "adaptive immunity"
+    ],
+    [
+      "immune system components",
+      "includes",
+      "dendritic cells"
+    ],
+    [
+      "immune system components",
+      "includes",
+      "first responders"
+    ],
+    [
+      "immune system components",
+      "includes",
+      "lymphocytes"
+    ],
+    [
+      "immune system components",
+      "includes",
+      "macrophages"
+    ],
+    [
+      "immune system components",
+      "includes",
+      "memory cells"
+    ],
+    [
+      "immune system components",
+      "includes",
+      "phagocytosis"
+    ],
+    [
+      "immune system components",
+      "includes",
+      "physical barriers"
+    ],
+    [
+      "immune system components",
+      "includes",
+      "white blood cells"
+    ],
+    [
+      "immune system components",
+      "influences",
+      "cancer"
+    ],
+    [
+      "immune system components",
+      "interacts with",
+      "parasites"
+    ],
+    [
+      "immune system components",
+      "interacts with",
+      "respiratory tract"
+    ],
+    [
+      "immune system components",
+      "is influenced by",
+      "immune system dysregulation"
+    ],
+    [
+      "immune system components",
+      "is targeted by",
+      "infections"
+    ],
+    [
+      "immune system components",
+      "leads to",
+      "health complications"
+    ],
+    [
+      "immune system components",
+      "maintains",
+      "immune system balance"
+    ],
+    [
+      "immune system components",
+      "produces",
+      "antibodies"
+    ],
+    [
+      "immune system components",
+      "supports",
+      "immune response"
+    ],
+    [
+      "immune system dysregulation",
+      "affects",
+      "defense mechanisms"
+    ],
+    [
+      "immune system dysregulation",
+      "affects",
+      "immune response regulation"
+    ],
+    [
+      "immune system dysregulation",
+      "exacerbated by",
+      "resilience"
+    ],
+    [
+      "immune system dysregulation",
+      "exacerbates",
+      "heart disease"
+    ],
+    [
+      "immune system dysregulation",
+      "impairs",
+      "immune response"
+    ],
+    [
+      "immune system dysregulation",
+      "impairs",
+      "infection prevention"
+    ],
+    [
+      "immune system dysregulation",
+      "impairs",
+      "physical barriers"
+    ],
+    [
+      "immune system dysregulation",
+      "impairs",
+      "rapid response"
+    ],
+    [
+      "immune system dysregulation",
+      "leads to",
+      "autoimmune diseases"
+    ],
+    [
+      "immune system dysregulation",
+      "leads to",
+      "disease"
+    ],
+    [
+      "immune system dysregulation",
+      "leads to",
+      "treatment strategies"
+    ],
+    [
+      "immune system dysregulation",
+      "results from",
+      "cancer"
+    ],
+    [
+      "immune system efficiency",
+      "affects",
+      "chronic inflammation"
+    ],
+    [
+      "immune system efficiency",
+      "contributes to",
+      "immune response coordination"
+    ],
+    [
+      "immune system efficiency",
+      "enhanced by",
+      "pathogen elimination"
+    ],
+    [
+      "immune system efficiency",
+      "enhances",
+      "B cells"
+    ],
+    [
+      "immune system efficiency",
+      "enhances",
+      "antigen presentation"
+    ],
+    [
+      "immune system efficiency",
+      "enhances",
+      "body protection"
+    ],
+    [
+      "immune system efficiency",
+      "enhances",
+      "dendritic cells"
+    ],
+    [
+      "immune system efficiency",
+      "enhances",
+      "immune cells"
+    ],
+    [
+      "immune system efficiency",
+      "enhances",
+      "mucous membranes"
+    ],
+    [
+      "immune system efficiency",
+      "enhances",
+      "natural killer cells"
+    ],
+    [
+      "immune system efficiency",
+      "enhances",
+      "parasites"
+    ],
+    [
+      "immune system efficiency",
+      "enhances",
+      "pathogen detection"
+    ],
+    [
+      "immune system efficiency",
+      "facilitates",
+      "cellular communication"
+    ],
+    [
+      "immune system efficiency",
+      "impacts",
+      "lupus"
+    ],
+    [
+      "immune system efficiency",
+      "improved by",
+      "resilience"
+    ],
+    [
+      "immune system efficiency",
+      "improves",
+      "immunological memory"
+    ],
+    [
+      "immune system efficiency",
+      "improves",
+      "treatment strategies"
+    ],
+    [
+      "immune system efficiency",
+      "is affected by",
+      "cancer"
+    ],
+    [
+      "immune system efficiency",
+      "supports",
+      "coordinated responses"
+    ],
+    [
+      "immune system efficiency",
+      "targets",
+      "pathogens"
+    ],
+    [
+      "immune system malfunction",
+      "affects",
+      "cytokines"
+    ],
+    [
+      "immune system malfunction",
+      "affects",
+      "neutrophils"
+    ],
+    [
+      "immune system malfunction",
+      "causes",
+      "autoimmune diseases"
+    ],
+    [
+      "immune system malfunction",
+      "causes",
+      "body dysfunction"
+    ],
+    [
+      "immune system malfunction",
+      "exacerbated by",
+      "cancer"
+    ],
+    [
+      "immune system malfunction",
+      "impairs",
+      "immunological memory"
+    ],
+    [
+      "immune system malfunction",
+      "impairs",
+      "specific defense mechanisms"
+    ],
+    [
+      "immune system malfunction",
+      "leads to",
+      "full-blown infection"
+    ],
+    [
+      "immune system malfunction",
+      "results from",
+      "first responders"
+    ],
+    [
+      "immune system malfunction",
+      "results from",
+      "immune system balance"
+    ],
+    [
+      "immune system malfunction",
+      "results from",
+      "infection prevention"
+    ],
+    [
+      "immune system malfunction",
+      "results from",
+      "resilience"
+    ],
+    [
+      "immune system malfunction",
+      "results in",
+      "pathogen destruction"
+    ],
+    [
+      "immune system network",
+      "comprises",
+      "complex interplay"
+    ],
+    [
+      "immune system network",
+      "comprises",
+      "defense mechanisms"
+    ],
+    [
+      "immune system network",
+      "comprises",
+      "innate immunity"
+    ],
+    [
+      "immune system network",
+      "contributes to",
+      "autoimmune diseases"
+    ],
+    [
+      "immune system network",
+      "contributes to",
+      "physical barriers"
+    ],
+    [
+      "immune system network",
+      "coordinates",
+      "immune response coordination"
+    ],
+    [
+      "immune system network",
+      "defends against",
+      "parasites"
+    ],
+    [
+      "immune system network",
+      "disrupts",
+      "immune system malfunction"
+    ],
+    [
+      "immune system network",
+      "enables",
+      "coordinated responses"
+    ],
+    [
+      "immune system network",
+      "enables",
+      "rapid response"
+    ],
+    [
+      "immune system network",
+      "enhances",
+      "immune system efficiency"
+    ],
+    [
+      "immune system network",
+      "enhances",
+      "treatment strategies"
+    ],
+    [
+      "immune system network",
+      "facilitates",
+      "antigen presentation"
+    ],
+    [
+      "immune system network",
+      "facilitates",
+      "cellular communication"
+    ],
+    [
+      "immune system network",
+      "facilitates",
+      "pathogen detection"
+    ],
+    [
+      "immune system network",
+      "includes",
+      "lymphocytes"
+    ],
+    [
+      "immune system network",
+      "includes",
+      "natural killer cells"
+    ],
+    [
+      "immune system network",
+      "includes",
+      "white blood cells"
+    ],
+    [
+      "immune system network",
+      "interacts with",
+      "digestive tract"
+    ],
+    [
+      "immune system network",
+      "involves",
+      "infections"
+    ],
+    [
+      "immune system network",
+      "is associated with",
+      "multiple sclerosis"
+    ],
+    [
+      "immune system network",
+      "is associated with",
+      "rheumatoid arthritis"
+    ],
+    [
+      "immune system network",
+      "is regulated by",
+      "chronic inflammation"
+    ],
+    [
+      "immune system network",
+      "is supported by",
+      "resilience"
+    ],
+    [
+      "immune system network",
+      "provides",
+      "body protection"
+    ],
+    [
+      "immune system network",
+      "provides",
+      "specific defense mechanisms"
+    ],
+    [
+      "immune system network",
+      "supports",
+      "mucous membranes"
+    ],
+    [
+      "immune system network",
+      "supports",
+      "pathogen destruction"
+    ],
+    [
+      "immune system network",
+      "supports",
+      "vaccination"
+    ],
+    [
+      "immune system signaling",
+      "activates",
+      "dendritic cells"
+    ],
+    [
+      "immune system signaling",
+      "affects",
+      "autoimmune diseases"
+    ],
+    [
+      "immune system signaling",
+      "contributes to",
+      "rheumatoid arthritis"
+    ],
+    [
+      "immune system signaling",
+      "influences",
+      "lupus"
+    ],
+    [
+      "immune system signaling",
+      "is affected by",
+      "immune system malfunction"
+    ],
+    [
+      "immune system signaling",
+      "is facilitated by",
+      "infection prevention"
+    ],
+    [
+      "immune system signaling",
+      "regulated by",
+      "full-blown infection"
+    ],
+    [
+      "immune system signaling",
+      "regulated by",
+      "immune response"
+    ],
+    [
+      "immune system signaling",
+      "supports",
+      "white blood cells"
+    ],
+    [
+      "immunological memory",
+      "affects",
+      "multiple sclerosis"
+    ],
+    [
+      "immunological memory",
+      "enables",
+      "rapid response"
+    ],
+    [
+      "immunological memory",
+      "enhances",
+      "adaptive immunity"
+    ],
+    [
+      "immunological memory",
+      "enhances",
+      "cellular communication"
+    ],
+    [
+      "immunological memory",
+      "enhances",
+      "immune response coordination"
+    ],
+    [
+      "immunological memory",
+      "exacerbates",
+      "chronic inflammation"
+    ],
+    [
+      "immunological memory",
+      "facilitates",
+      "immune response"
+    ],
+    [
+      "immunological memory",
+      "influences",
+      "immune response regulation"
+    ],
+    [
+      "immunological memory",
+      "informs",
+      "treatment strategies"
+    ],
+    [
+      "immunological memory",
+      "involves",
+      "B cells"
+    ],
+    [
+      "immunological memory",
+      "involves",
+      "coordinated responses"
+    ],
+    [
+      "immunological memory",
+      "involves",
+      "lymphocytes"
+    ],
+    [
+      "immunological memory",
+      "is utilized by",
+      "T cells"
+    ],
+    [
+      "immunological memory",
+      "presented by",
+      "dendritic cells"
+    ],
+    [
+      "immunological memory",
+      "produced by",
+      "antibodies"
+    ],
+    [
+      "immunological memory",
+      "produced by",
+      "memory cells"
+    ],
+    [
+      "immunological memory",
+      "supports",
+      "immune system"
+    ],
+    [
+      "immunological memory",
+      "supports",
+      "immune system network"
+    ],
+    [
+      "immunological memory",
+      "triggers",
+      "immune system activation"
+    ],
+    [
+      "immunological memory",
+      "utilizes",
+      "natural killer cells"
+    ],
+    [
+      "infection prevention",
+      "achieved through",
+      "phagocytosis"
+    ],
+    [
+      "infection prevention",
+      "achieves",
+      "pathogen elimination"
+    ],
+    [
+      "infection prevention",
+      "contributes to",
+      "acidic environment"
+    ],
+    [
+      "infection prevention",
+      "enables",
+      "rapid response"
+    ],
+    [
+      "infection prevention",
+      "enhances",
+      "adaptive immunity"
+    ],
+    [
+      "infection prevention",
+      "enhances",
+      "antibodies"
+    ],
+    [
+      "infection prevention",
+      "enhances",
+      "complement proteins"
+    ],
+    [
+      "infection prevention",
+      "facilitates",
+      "pathogen detection"
+    ],
+    [
+      "infection prevention",
+      "facilitates",
+      "pathogen recognition"
+    ],
+    [
+      "infection prevention",
+      "improves",
+      "immune system efficiency"
+    ],
+    [
+      "infection prevention",
+      "involves",
+      "macrophages"
+    ],
+    [
+      "infection prevention",
+      "involves",
+      "specific defense mechanisms"
+    ],
+    [
+      "infection prevention",
+      "is facilitated by",
+      "antigen presentation"
+    ],
+    [
+      "infection prevention",
+      "is mitigated by",
+      "cancer"
+    ],
+    [
+      "infection prevention",
+      "prevents",
+      "heart disease"
+    ],
+    [
+      "infection prevention",
+      "protects against",
+      "viruses"
+    ],
+    [
+      "infection prevention",
+      "provides",
+      "body protection"
+    ],
+    [
+      "infection prevention",
+      "provides",
+      "mucous membranes"
+    ],
+    [
+      "infection prevention",
+      "requires",
+      "cellular communication"
+    ],
+    [
+      "infection prevention",
+      "requires",
+      "immune response coordination"
+    ],
+    [
+      "infection prevention",
+      "supports",
+      "immune system network"
+    ],
+    [
+      "infections",
+      "affected by",
+      "immune system balance"
+    ],
+    [
+      "infections",
+      "combats",
+      "antibodies"
+    ],
+    [
+      "infections",
+      "combats",
+      "pathogen elimination"
+    ],
+    [
+      "infections",
+      "contributes to",
+      "heart disease"
+    ],
+    [
+      "infections",
+      "destroys",
+      "natural killer cells"
+    ],
+    [
+      "infections",
+      "enables",
+      "pathogen detection"
+    ],
+    [
+      "infections",
+      "includes",
+      "pathogens"
+    ],
+    [
+      "infections",
+      "involves",
+      "immune system signaling"
+    ],
+    [
+      "infections",
+      "is affected by",
+      "first responders"
+    ],
+    [
+      "infections",
+      "is affected by",
+      "infection prevention"
+    ],
+    [
+      "infections",
+      "is caused by",
+      "parasites"
+    ],
+    [
+      "infections",
+      "linked to",
+      "diabetes"
+    ],
+    [
+      "infections",
+      "prevents",
+      "physical barriers"
+    ],
+    [
+      "infections",
+      "provides",
+      "body protection"
+    ],
+    [
+      "infections",
+      "requires",
+      "antigen presentation"
+    ],
+    [
+      "infections",
+      "responds to",
+      "white blood cells"
+    ],
+    [
+      "infections",
+      "results in",
+      "pathogen destruction"
+    ],
+    [
+      "infections",
+      "targeted by",
+      "T cells"
+    ],
+    [
+      "infections",
+      "targets",
+      "immune cells"
+    ],
+    [
+      "infections",
+      "targets",
+      "lymphocytes"
+    ],
+    [
+      "infections",
+      "targets",
+      "neutrophils"
+    ],
+    [
+      "infections",
+      "trigger",
+      "chronic inflammation"
+    ],
+    [
+      "infections",
+      "utilizes",
+      "specific defense mechanisms"
+    ],
+    [
+      "innate immunity",
+      "affects",
+      "immune system dysregulation"
+    ],
+    [
+      "innate immunity",
+      "associated with",
+      "multiple sclerosis"
+    ],
+    [
+      "innate immunity",
+      "defends against",
+      "parasites"
+    ],
+    [
+      "innate immunity",
+      "enables",
+      "cellular communication"
+    ],
+    [
+      "innate immunity",
+      "enables",
+      "pathogen detection"
+    ],
+    [
+      "innate immunity",
+      "enables",
+      "pathogen elimination"
+    ],
+    [
+      "innate immunity",
+      "improves",
+      "immune system efficiency"
+    ],
+    [
+      "innate immunity",
+      "includes",
+      "neutrophils"
+    ],
+    [
+      "innate immunity",
+      "influences",
+      "immune system signaling"
+    ],
+    [
+      "innate immunity",
+      "interacts with",
+      "T cells"
+    ],
+    [
+      "innate immunity",
+      "involves",
+      "coordinated responses"
+    ],
+    [
+      "innate immunity",
+      "involves",
+      "dendritic cells"
+    ],
+    [
+      "innate immunity",
+      "involves",
+      "immune response coordination"
+    ],
+    [
+      "innate immunity",
+      "is influenced by",
+      "heart disease"
+    ],
+    [
+      "innate immunity",
+      "is part of",
+      "pathogen recognition"
+    ],
+    [
+      "innate immunity",
+      "is supported by",
+      "infection prevention"
+    ],
+    [
+      "innate immunity",
+      "is supported by",
+      "pathogen destruction"
+    ],
+    [
+      "innate immunity",
+      "provides",
+      "body protection"
+    ],
+    [
+      "innate immunity",
+      "provides",
+      "rapid response"
+    ],
+    [
+      "innate immunity",
+      "regulates",
+      "immune response regulation"
+    ],
+    [
+      "innate immunity",
+      "supports",
+      "complement proteins"
+    ],
+    [
+      "innate immunity",
+      "supports",
+      "health"
+    ],
+    [
+      "innate immunity",
+      "targets",
+      "bacteria"
+    ],
+    [
+      "lupus",
+      "associated with",
+      "chronic inflammation"
+    ],
+    [
+      "lupus",
+      "associated with",
+      "defense mechanisms"
+    ],
+    [
+      "lupus",
+      "attacked by",
+      "parasites"
+    ],
+    [
+      "lupus",
+      "exacerbated by",
+      "respiratory tract"
+    ],
+    [
+      "lupus",
+      "exacerbates",
+      "immune system dysregulation"
+    ],
+    [
+      "lupus",
+      "exacerbates",
+      "infection prevention"
+    ],
+    [
+      "lupus",
+      "exacerbates",
+      "resilience"
+    ],
+    [
+      "lupus",
+      "is a consequence of",
+      "body dysfunction"
+    ],
+    [
+      "lupus",
+      "is a type of",
+      "autoimmune diseases"
+    ],
+    [
+      "lupus",
+      "is linked to",
+      "heart disease"
+    ],
+    [
+      "lupus",
+      "is linked to",
+      "immunological memory"
+    ],
+    [
+      "lupus",
+      "is triggered by",
+      "immune system activation"
+    ],
+    [
+      "lupus",
+      "linked to",
+      "innate immunity"
+    ],
+    [
+      "lupus",
+      "provides",
+      "body protection"
+    ],
+    [
+      "lupus",
+      "utilizes",
+      "specific defense mechanisms"
+    ],
+    [
+      "lymphocytes",
+      "caused by",
+      "tissue damage"
+    ],
+    [
+      "lymphocytes",
+      "cooperate with",
+      "neutrophils"
+    ],
+    [
+      "lymphocytes",
+      "facilitates",
+      "phagocytosis"
+    ],
+    [
+      "lymphocytes",
+      "improves",
+      "immune system efficiency"
+    ],
+    [
+      "lymphocytes",
+      "includes",
+      "T cells"
+    ],
+    [
+      "lymphocytes",
+      "interacts with",
+      "dendritic cells"
+    ],
+    [
+      "lymphocytes",
+      "involves",
+      "adaptive immunity"
+    ],
+    [
+      "lymphocytes",
+      "involves",
+      "coordinated responses"
+    ],
+    [
+      "lymphocytes",
+      "involves",
+      "innate immunity"
+    ],
+    [
+      "lymphocytes",
+      "is a type of",
+      "immune cells"
+    ],
+    [
+      "lymphocytes",
+      "is achieved by",
+      "pathogen elimination"
+    ],
+    [
+      "lymphocytes",
+      "is maintained by",
+      "immune system balance"
+    ],
+    [
+      "lymphocytes",
+      "is prevented by",
+      "full-blown infection"
+    ],
+    [
+      "lymphocytes",
+      "produced by",
+      "antibodies"
+    ],
+    [
+      "macrophages",
+      "activates",
+      "immune system activation"
+    ],
+    [
+      "macrophages",
+      "affects",
+      "digestive tract"
+    ],
+    [
+      "macrophages",
+      "affects",
+      "respiratory tract"
+    ],
+    [
+      "macrophages",
+      "are targeted by",
+      "antibodies"
+    ],
+    [
+      "macrophages",
+      "associated with",
+      "autoimmune diseases"
+    ],
+    [
+      "macrophages",
+      "attacks",
+      "bacteria"
+    ],
+    [
+      "macrophages",
+      "attacks",
+      "fungi"
+    ],
+    [
+      "macrophages",
+      "cause",
+      "tissue damage"
+    ],
+    [
+      "macrophages",
+      "destroyed by",
+      "viruses"
+    ],
+    [
+      "macrophages",
+      "destroys",
+      "infections"
+    ],
+    [
+      "macrophages",
+      "destroys",
+      "pathogens"
+    ],
+    [
+      "macrophages",
+      "detects",
+      "pathogen detection"
+    ],
+    [
+      "macrophages",
+      "influences",
+      "heart disease"
+    ],
+    [
+      "macrophages",
+      "interact with",
+      "memory cells"
+    ],
+    [
+      "macrophages",
+      "interacts with",
+      "B cells"
+    ],
+    [
+      "macrophages",
+      "interacts with",
+      "dendritic cells"
+    ],
+    [
+      "macrophages",
+      "interacts with",
+      "immune cells"
+    ],
+    [
+      "macrophages",
+      "interacts with",
+      "lymphocytes"
+    ],
+    [
+      "macrophages",
+      "involved in",
+      "rheumatoid arthritis"
+    ],
+    [
+      "macrophages",
+      "involves",
+      "coordinated responses"
+    ],
+    [
+      "macrophages",
+      "is a component of",
+      "innate immunity"
+    ],
+    [
+      "macrophages",
+      "is supported by",
+      "first responders"
+    ],
+    [
+      "macrophages",
+      "maintained by",
+      "immune system balance"
+    ],
+    [
+      "macrophages",
+      "mediates",
+      "immune response"
+    ],
+    [
+      "macrophages",
+      "regulates",
+      "cytokines"
+    ],
+    [
+      "macrophages",
+      "regulates",
+      "immune response regulation"
+    ],
+    [
+      "macrophages",
+      "utilizes",
+      "phagocytosis"
+    ],
+    [
+      "macrophages",
+      "works alongside",
+      "natural killer cells"
+    ],
+    [
+      "memory cells",
+      "coordinate",
+      "coordinated responses"
+    ],
+    [
+      "memory cells",
+      "differentiates into",
+      "T cells"
+    ],
+    [
+      "memory cells",
+      "differentiates into",
+      "first responders"
+    ],
+    [
+      "memory cells",
+      "differentiates into",
+      "lymphocytes"
+    ],
+    [
+      "memory cells",
+      "enables",
+      "cellular communication"
+    ],
+    [
+      "memory cells",
+      "enables",
+      "specific defense mechanisms"
+    ],
+    [
+      "memory cells",
+      "enhances",
+      "dendritic cells"
+    ],
+    [
+      "memory cells",
+      "enhances",
+      "immune cells"
+    ],
+    [
+      "memory cells",
+      "enhances",
+      "immune response coordination"
+    ],
+    [
+      "memory cells",
+      "enhances",
+      "natural killer cells"
+    ],
+    [
+      "memory cells",
+      "influences",
+      "physical barriers"
+    ],
+    [
+      "memory cells",
+      "involves",
+      "antigen presentation"
+    ],
+    [
+      "memory cells",
+      "is supported by",
+      "innate immunity"
+    ],
+    [
+      "memory cells",
+      "supports",
+      "adaptive immunity"
+    ],
+    [
+      "mucous membranes",
+      "activates",
+      "T cells"
+    ],
+    [
+      "mucous membranes",
+      "acts as",
+      "protective barrier"
+    ],
+    [
+      "mucous membranes",
+      "affects",
+      "immune system dysregulation"
+    ],
+    [
+      "mucous membranes",
+      "aids in",
+      "immune system balance"
+    ],
+    [
+      "mucous membranes",
+      "aids in",
+      "pathogen elimination"
+    ],
+    [
+      "mucous membranes",
+      "blocks",
+      "viruses"
+    ],
+    [
+      "mucous membranes",
+      "causes",
+      "tissue damage"
+    ],
+    [
+      "mucous membranes",
+      "composed of",
+      "physical barriers"
+    ],
+    [
+      "mucous membranes",
+      "contributes to",
+      "immune response"
+    ],
+    [
+      "mucous membranes",
+      "defend against",
+      "pathogens"
+    ],
+    [
+      "mucous membranes",
+      "defends against",
+      "fungi"
+    ],
+    [
+      "mucous membranes",
+      "enables",
+      "cellular communication"
+    ],
+    [
+      "mucous membranes",
+      "enables",
+      "rapid response"
+    ],
+    [
+      "mucous membranes",
+      "enhances",
+      "vaccination"
+    ],
+    [
+      "mucous membranes",
+      "facilitates",
+      "phagocytosis"
+    ],
+    [
+      "mucous membranes",
+      "influences",
+      "treatment strategies"
+    ],
+    [
+      "mucous membranes",
+      "interacts with",
+      "neutrophils"
+    ],
+    [
+      "mucous membranes",
+      "interacts with",
+      "white blood cells"
+    ],
+    [
+      "mucous membranes",
+      "lines the",
+      "digestive tract"
+    ],
+    [
+      "mucous membranes",
+      "prevent",
+      "infections"
+    ],
+    [
+      "mucous membranes",
+      "protect against",
+      "bacteria"
+    ],
+    [
+      "mucous membranes",
+      "protects against",
+      "parasites"
+    ],
+    [
+      "mucous membranes",
+      "regulates",
+      "immune response regulation"
+    ],
+    [
+      "mucous membranes",
+      "supports",
+      "defense mechanisms"
+    ],
+    [
+      "mucous membranes",
+      "supports",
+      "immune system"
+    ],
+    [
+      "mucous membranes",
+      "works with",
+      "acidic environment"
+    ],
+    [
+      "multiple sclerosis",
+      "associated with",
+      "immune response"
+    ],
+    [
+      "multiple sclerosis",
+      "exacerbated by",
+      "rapid response"
+    ],
+    [
+      "multiple sclerosis",
+      "exacerbates",
+      "infection prevention"
+    ],
+    [
+      "multiple sclerosis",
+      "exacerbates",
+      "physical barriers"
+    ],
+    [
+      "multiple sclerosis",
+      "impacted by",
+      "immune response coordination"
+    ],
+    [
+      "multiple sclerosis",
+      "impacts",
+      "protective barrier"
+    ],
+    [
+      "multiple sclerosis",
+      "influences",
+      "cancer"
+    ],
+    [
+      "multiple sclerosis",
+      "involves",
+      "respiratory tract"
+    ],
+    [
+      "multiple sclerosis",
+      "is affected by",
+      "immune response regulation"
+    ],
+    [
+      "multiple sclerosis",
+      "is affected by",
+      "immune system balance"
+    ],
+    [
+      "multiple sclerosis",
+      "is caused by",
+      "immune system malfunction"
+    ],
+    [
+      "multiple sclerosis",
+      "is involved in",
+      "immune system components"
+    ],
+    [
+      "multiple sclerosis",
+      "is produced against",
+      "antibodies"
+    ],
+    [
+      "multiple sclerosis",
+      "utilizes",
+      "defense mechanisms"
+    ],
+    [
+      "natural killer cells",
+      "attack",
+      "pathogens"
+    ],
+    [
+      "natural killer cells",
+      "collaborate with",
+      "T cells"
+    ],
+    [
+      "natural killer cells",
+      "destroyed by",
+      "bacteria"
+    ],
+    [
+      "natural killer cells",
+      "facilitates",
+      "coordinated responses"
+    ],
+    [
+      "natural killer cells",
+      "includes",
+      "immune system components"
+    ],
+    [
+      "natural killer cells",
+      "interacts with",
+      "dendritic cells"
+    ],
+    [
+      "natural killer cells",
+      "is a type of",
+      "immune cells"
+    ],
+    [
+      "natural killer cells",
+      "is targeted by",
+      "antigen presentation"
+    ],
+    [
+      "natural killer cells",
+      "modulates",
+      "immune system signaling"
+    ],
+    [
+      "natural killer cells",
+      "provides",
+      "specific defense mechanisms"
+    ],
+    [
+      "natural killer cells",
+      "regulates",
+      "immune response regulation"
+    ],
+    [
+      "neutrophils",
+      "are enhanced by",
+      "antibodies"
+    ],
+    [
+      "neutrophils",
+      "attack",
+      "parasites"
+    ],
+    [
+      "neutrophils",
+      "attacks",
+      "bacteria"
+    ],
+    [
+      "neutrophils",
+      "attacks",
+      "viruses"
+    ],
+    [
+      "neutrophils",
+      "composed of",
+      "immune system"
+    ],
+    [
+      "neutrophils",
+      "comprises",
+      "white blood cells"
+    ],
+    [
+      "neutrophils",
+      "coordinated by",
+      "immune response coordination"
+    ],
+    [
+      "neutrophils",
+      "coordinates",
+      "coordinated responses"
+    ],
+    [
+      "neutrophils",
+      "detects",
+      "pathogen detection"
+    ],
+    [
+      "neutrophils",
+      "differentiates into",
+      "memory cells"
+    ],
+    [
+      "neutrophils",
+      "enables",
+      "phagocytosis"
+    ],
+    [
+      "neutrophils",
+      "increases risk of",
+      "autoimmune diseases"
+    ],
+    [
+      "neutrophils",
+      "induce",
+      "tissue damage"
+    ],
+    [
+      "neutrophils",
+      "involves",
+      "immune response"
+    ],
+    [
+      "neutrophils",
+      "involves",
+      "immune system network"
+    ],
+    [
+      "neutrophils",
+      "is a type of",
+      "immune cells"
+    ],
+    [
+      "neutrophils",
+      "is composed of",
+      "immune system components"
+    ],
+    [
+      "neutrophils",
+      "regulates",
+      "immune response regulation"
+    ],
+    [
+      "neutrophils",
+      "targets",
+      "pathogens"
+    ],
+    [
+      "parasites",
+      "causes",
+      "autoimmune diseases"
+    ],
+    [
+      "parasites",
+      "causes",
+      "immune system malfunction"
+    ],
+    [
+      "parasites",
+      "causes",
+      "tissue damage"
+    ],
+    [
+      "parasites",
+      "competes with",
+      "bacteria"
+    ],
+    [
+      "parasites",
+      "defends against",
+      "defense mechanisms"
+    ],
+    [
+      "parasites",
+      "exploits",
+      "immune system dysregulation"
+    ],
+    [
+      "parasites",
+      "facilitates",
+      "cellular communication"
+    ],
+    [
+      "parasites",
+      "facilitates",
+      "rapid response"
+    ],
+    [
+      "parasites",
+      "involves",
+      "immune system signaling"
+    ],
+    [
+      "parasites",
+      "is associated with",
+      "multiple sclerosis"
+    ],
+    [
+      "parasites",
+      "is associated with",
+      "rheumatoid arthritis"
+    ],
+    [
+      "parasites",
+      "is caused by",
+      "body dysfunction"
+    ],
+    [
+      "parasites",
+      "is challenged by",
+      "immune system"
+    ],
+    [
+      "parasites",
+      "is eliminated by",
+      "phagocytosis"
+    ],
+    [
+      "parasites",
+      "is targeted by",
+      "white blood cells"
+    ],
+    [
+      "parasites",
+      "neutralizes",
+      "antibodies"
+    ],
+    [
+      "parasites",
+      "prevents",
+      "protective barrier"
+    ],
+    [
+      "parasites",
+      "targeted by",
+      "adaptive immunity"
+    ],
+    [
+      "parasites",
+      "targets",
+      "macrophages"
+    ],
+    [
+      "parasites",
+      "targets",
+      "pathogen destruction"
+    ],
+    [
+      "parasites",
+      "threatens",
+      "body protection"
+    ],
+    [
+      "pathogen destruction",
+      "achieved by",
+      "neutrophils"
+    ],
+    [
+      "pathogen destruction",
+      "destroys",
+      "macrophages"
+    ],
+    [
+      "pathogen destruction",
+      "enhances",
+      "immune system efficiency"
+    ],
+    [
+      "pathogen destruction",
+      "impacted by",
+      "heart disease"
+    ],
+    [
+      "pathogen destruction",
+      "is essential for",
+      "adaptive immunity"
+    ],
+    [
+      "pathogen destruction",
+      "is performed by",
+      "natural killer cells"
+    ],
+    [
+      "pathogen destruction",
+      "mediated by",
+      "cytokines"
+    ],
+    [
+      "pathogen destruction",
+      "performs",
+      "lymphocytes"
+    ],
+    [
+      "pathogen destruction",
+      "provides",
+      "body protection"
+    ],
+    [
+      "pathogen detection",
+      "activates",
+      "T cells"
+    ],
+    [
+      "pathogen detection",
+      "affects",
+      "chronic inflammation"
+    ],
+    [
+      "pathogen detection",
+      "aids in",
+      "heart disease"
+    ],
+    [
+      "pathogen detection",
+      "enables",
+      "phagocytosis"
+    ],
+    [
+      "pathogen detection",
+      "enables",
+      "protective barrier"
+    ],
+    [
+      "pathogen detection",
+      "enables",
+      "respiratory tract"
+    ],
+    [
+      "pathogen detection",
+      "facilitates",
+      "cellular communication"
+    ],
+    [
+      "pathogen detection",
+      "facilitates",
+      "natural killer cells"
+    ],
+    [
+      "pathogen detection",
+      "influences",
+      "tissue damage"
+    ],
+    [
+      "pathogen detection",
+      "informs",
+      "immune cells"
+    ],
+    [
+      "pathogen detection",
+      "involves",
+      "health"
+    ],
+    [
+      "pathogen detection",
+      "involves",
+      "pathogen destruction"
+    ],
+    [
+      "pathogen detection",
+      "is identified by",
+      "pathogens"
+    ],
+    [
+      "pathogen detection",
+      "is informed by",
+      "treatment strategies"
+    ],
+    [
+      "pathogen detection",
+      "performed by",
+      "dendritic cells"
+    ],
+    [
+      "pathogen detection",
+      "results from",
+      "body dysfunction"
+    ],
+    [
+      "pathogen elimination",
+      "achieved by",
+      "immune response"
+    ],
+    [
+      "pathogen elimination",
+      "ensures",
+      "body protection"
+    ],
+    [
+      "pathogen elimination",
+      "impedes",
+      "immune system malfunction"
+    ],
+    [
+      "pathogen elimination",
+      "involves",
+      "digestive tract"
+    ],
+    [
+      "pathogen elimination",
+      "is achieved by",
+      "defense mechanisms"
+    ],
+    [
+      "pathogen elimination",
+      "is achieved through",
+      "antigen presentation"
+    ],
+    [
+      "pathogen elimination",
+      "is facilitated by",
+      "immune system signaling"
+    ],
+    [
+      "pathogen elimination",
+      "is performed by",
+      "dendritic cells"
+    ],
+    [
+      "pathogen elimination",
+      "mediates",
+      "antibodies"
+    ],
+    [
+      "pathogen elimination",
+      "performed by",
+      "T cells"
+    ],
+    [
+      "pathogen recognition",
+      "affects",
+      "immune system malfunction"
+    ],
+    [
+      "pathogen recognition",
+      "enables",
+      "pathogen detection"
+    ],
+    [
+      "pathogen recognition",
+      "facilitates",
+      "immune system network"
+    ],
+    [
+      "pathogen recognition",
+      "facilitates",
+      "protective barrier"
+    ],
+    [
+      "pathogen recognition",
+      "informs",
+      "specific defense mechanisms"
+    ],
+    [
+      "pathogen recognition",
+      "involves",
+      "fungi"
+    ],
+    [
+      "pathogen recognition",
+      "involves",
+      "immune cells"
+    ],
+    [
+      "pathogen recognition",
+      "is a function of",
+      "adaptive immunity"
+    ],
+    [
+      "pathogen recognition",
+      "is achieved by",
+      "pathogen destruction"
+    ],
+    [
+      "pathogen recognition",
+      "is related to",
+      "disease"
+    ],
+    [
+      "pathogen recognition",
+      "is related to",
+      "heart disease"
+    ],
+    [
+      "pathogen recognition",
+      "leads to",
+      "pathogen elimination"
+    ],
+    [
+      "pathogen recognition",
+      "produces",
+      "antibodies"
+    ],
+    [
+      "pathogen recognition",
+      "provides",
+      "body protection"
+    ],
+    [
+      "pathogen recognition",
+      "responds to",
+      "natural killer cells"
+    ],
+    [
+      "pathogen recognition",
+      "supports",
+      "defense mechanisms"
+    ],
+    [
+      "pathogen recognition",
+      "supports",
+      "health"
+    ],
+    [
+      "pathogen recognition",
+      "targets",
+      "parasites"
+    ],
+    [
+      "pathogen recognition",
+      "targets",
+      "pathogens"
+    ],
+    [
+      "pathogen recognition",
+      "triggers",
+      "immune response"
+    ],
+    [
+      "pathogens",
+      "affects",
+      "heart disease"
+    ],
+    [
+      "pathogens",
+      "attacked by",
+      "lymphocytes"
+    ],
+    [
+      "pathogens",
+      "attacked by",
+      "white blood cells"
+    ],
+    [
+      "pathogens",
+      "captures",
+      "dendritic cells"
+    ],
+    [
+      "pathogens",
+      "caused by",
+      "full-blown infection"
+    ],
+    [
+      "pathogens",
+      "causes",
+      "tissue damage"
+    ],
+    [
+      "pathogens",
+      "combat",
+      "vaccination"
+    ],
+    [
+      "pathogens",
+      "defends against",
+      "body protection"
+    ],
+    [
+      "pathogens",
+      "invaded by",
+      "fungi"
+    ],
+    [
+      "pathogens",
+      "is a result of",
+      "pathogen destruction"
+    ],
+    [
+      "pathogens",
+      "is affected by",
+      "respiratory tract"
+    ],
+    [
+      "pathogens",
+      "is influenced by",
+      "immune response regulation"
+    ],
+    [
+      "pathogens",
+      "is targeted by",
+      "immune system components"
+    ],
+    [
+      "pathogens",
+      "prevent",
+      "protective barrier"
+    ],
+    [
+      "pathogens",
+      "protects against",
+      "infection prevention"
+    ],
+    [
+      "pathogens",
+      "targets",
+      "acidic environment"
+    ],
+    [
+      "pathogens",
+      "targets",
+      "first responders"
+    ],
+    [
+      "pathogens",
+      "targets",
+      "immune cells"
+    ],
+    [
+      "pathogens",
+      "targets",
+      "innate immunity"
+    ],
+    [
+      "pathogens",
+      "targets",
+      "pathogen elimination"
+    ],
+    [
+      "pathogens",
+      "threatens",
+      "health"
+    ],
+    [
+      "phagocytosis",
+      "eliminated by",
+      "infections"
+    ],
+    [
+      "phagocytosis",
+      "eliminated by",
+      "viruses"
+    ],
+    [
+      "phagocytosis",
+      "enhances",
+      "immune system efficiency"
+    ],
+    [
+      "phagocytosis",
+      "facilitated by",
+      "full-blown infection"
+    ],
+    [
+      "phagocytosis",
+      "facilitates",
+      "antibodies"
+    ],
+    [
+      "phagocytosis",
+      "facilitates",
+      "first responders"
+    ],
+    [
+      "phagocytosis",
+      "facilitates",
+      "immune system signaling"
+    ],
+    [
+      "phagocytosis",
+      "impairs",
+      "immune system malfunction"
+    ],
+    [
+      "phagocytosis",
+      "involves",
+      "immune cells"
+    ],
+    [
+      "phagocytosis",
+      "involves",
+      "immune response"
+    ],
+    [
+      "phagocytosis",
+      "involves",
+      "immune system balance"
+    ],
+    [
+      "phagocytosis",
+      "involves",
+      "immune system network"
+    ],
+    [
+      "phagocytosis",
+      "involves",
+      "respiratory tract"
+    ],
+    [
+      "phagocytosis",
+      "resulting from",
+      "tissue damage"
+    ],
+    [
+      "phagocytosis",
+      "targeted by",
+      "pathogens"
+    ],
+    [
+      "physical barriers",
+      "activates",
+      "immune system activation"
+    ],
+    [
+      "physical barriers",
+      "affected by",
+      "heart disease"
+    ],
+    [
+      "physical barriers",
+      "aids in",
+      "pathogen detection"
+    ],
+    [
+      "physical barriers",
+      "comprises",
+      "defense mechanisms"
+    ],
+    [
+      "physical barriers",
+      "contributes to",
+      "body protection"
+    ],
+    [
+      "physical barriers",
+      "contributes to",
+      "specific defense mechanisms"
+    ],
+    [
+      "physical barriers",
+      "defends against",
+      "fungi"
+    ],
+    [
+      "physical barriers",
+      "enables",
+      "pathogen recognition"
+    ],
+    [
+      "physical barriers",
+      "enhance",
+      "natural killer cells"
+    ],
+    [
+      "physical barriers",
+      "enhances",
+      "dendritic cells"
+    ],
+    [
+      "physical barriers",
+      "enhances",
+      "immune response coordination"
+    ],
+    [
+      "physical barriers",
+      "impedes",
+      "cancer"
+    ],
+    [
+      "physical barriers",
+      "improves",
+      "immune system efficiency"
+    ],
+    [
+      "physical barriers",
+      "interacts with",
+      "complement proteins"
+    ],
+    [
+      "physical barriers",
+      "is a form of",
+      "innate immunity"
+    ],
+    [
+      "physical barriers",
+      "kills",
+      "acidic environment"
+    ],
+    [
+      "physical barriers",
+      "linked to",
+      "autoimmune diseases"
+    ],
+    [
+      "physical barriers",
+      "located in",
+      "digestive tract"
+    ],
+    [
+      "physical barriers",
+      "prevent",
+      "pathogens"
+    ],
+    [
+      "physical barriers",
+      "prevents",
+      "parasites"
+    ],
+    [
+      "physical barriers",
+      "protect",
+      "immune cells"
+    ],
+    [
+      "physical barriers",
+      "reduces risk of",
+      "full-blown infection"
+    ],
+    [
+      "physical barriers",
+      "serves as",
+      "protective barrier"
+    ],
+    [
+      "physical barriers",
+      "support",
+      "B cells"
+    ],
+    [
+      "physical barriers",
+      "supports",
+      "immune system balance"
+    ],
+    [
+      "physical barriers",
+      "triggers",
+      "immune response"
+    ],
+    [
+      "protective barrier",
+      "enables",
+      "pathogen elimination"
+    ],
+    [
+      "protective barrier",
+      "enhances",
+      "immune response coordination"
+    ],
+    [
+      "protective barrier",
+      "enhances",
+      "resilience"
+    ],
+    [
+      "protective barrier",
+      "exacerbates",
+      "chronic inflammation"
+    ],
+    [
+      "protective barrier",
+      "facilitates",
+      "antigen presentation"
+    ],
+    [
+      "protective barrier",
+      "facilitates",
+      "coordinated responses"
+    ],
+    [
+      "protective barrier",
+      "impedes",
+      "heart disease"
+    ],
+    [
+      "protective barrier",
+      "is linked to",
+      "autoimmune diseases"
+    ],
+    [
+      "protective barrier",
+      "is part of",
+      "immune system network"
+    ],
+    [
+      "protective barrier",
+      "is part of",
+      "specific defense mechanisms"
+    ],
+    [
+      "protective barrier",
+      "is produced by",
+      "memory cells"
+    ],
+    [
+      "protective barrier",
+      "offers",
+      "body protection"
+    ],
+    [
+      "protective barrier",
+      "prevents entry of",
+      "bacteria"
+    ],
+    [
+      "protective barrier",
+      "protect against",
+      "infections"
+    ],
+    [
+      "protective barrier",
+      "protects against",
+      "fungi"
+    ],
+    [
+      "protective barrier",
+      "serves as",
+      "respiratory tract"
+    ],
+    [
+      "protective barrier",
+      "supports",
+      "health"
+    ],
+    [
+      "protective barrier",
+      "supports",
+      "immune cells"
+    ],
+    [
+      "protective barrier",
+      "supports",
+      "immune system"
+    ],
+    [
+      "protective barrier",
+      "supports",
+      "immune system balance"
+    ],
+    [
+      "protective barrier",
+      "supports",
+      "immune system efficiency"
+    ],
+    [
+      "protective barrier",
+      "supports",
+      "immune system signaling"
+    ],
+    [
+      "protective barrier",
+      "weakens",
+      "immune system dysregulation"
+    ],
+    [
+      "rapid response",
+      "enhances",
+      "defense mechanisms"
+    ],
+    [
+      "rapid response",
+      "enhances",
+      "immune system efficiency"
+    ],
+    [
+      "rapid response",
+      "involves",
+      "lymphocytes"
+    ],
+    [
+      "rapid response",
+      "is supported by",
+      "immune response"
+    ],
+    [
+      "resilience",
+      "activated by",
+      "T cells"
+    ],
+    [
+      "resilience",
+      "enables",
+      "rapid response"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "adaptive immunity"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "immune system signaling"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "vaccination"
+    ],
+    [
+      "resilience",
+      "impacts",
+      "cancer"
+    ],
+    [
+      "resilience",
+      "informs",
+      "treatment strategies"
+    ],
+    [
+      "resilience",
+      "is a feature of",
+      "innate immunity"
+    ],
+    [
+      "resilience",
+      "supports",
+      "health"
+    ],
+    [
+      "resilience",
+      "supports",
+      "immune system balance"
+    ],
+    [
+      "resilience",
+      "supports",
+      "infection prevention"
+    ],
+    [
+      "resilience",
+      "triggers",
+      "immune system activation"
+    ],
+    [
+      "respiratory tract",
+      "affects",
+      "cancer"
+    ],
+    [
+      "respiratory tract",
+      "causes",
+      "chronic inflammation"
+    ],
+    [
+      "respiratory tract",
+      "facilitates",
+      "pathogen elimination"
+    ],
+    [
+      "respiratory tract",
+      "hosts",
+      "bacteria"
+    ],
+    [
+      "respiratory tract",
+      "influenced by",
+      "pathogen destruction"
+    ],
+    [
+      "respiratory tract",
+      "involves",
+      "immune system signaling"
+    ],
+    [
+      "respiratory tract",
+      "involves",
+      "infection prevention"
+    ],
+    [
+      "respiratory tract",
+      "is affected by",
+      "immune system malfunction"
+    ],
+    [
+      "respiratory tract",
+      "is associated with",
+      "immune system dysregulation"
+    ],
+    [
+      "respiratory tract",
+      "is associated with",
+      "rheumatoid arthritis"
+    ],
+    [
+      "respiratory tract",
+      "is defended by",
+      "neutrophils"
+    ],
+    [
+      "respiratory tract",
+      "kills",
+      "acidic environment"
+    ],
+    [
+      "respiratory tract",
+      "protects",
+      "physical barriers"
+    ],
+    [
+      "respiratory tract",
+      "provides",
+      "defense mechanisms"
+    ],
+    [
+      "respiratory tract",
+      "supports",
+      "resilience"
+    ],
+    [
+      "rheumatoid arthritis",
+      "addresses",
+      "treatment strategies"
+    ],
+    [
+      "rheumatoid arthritis",
+      "associated with",
+      "immune response"
+    ],
+    [
+      "rheumatoid arthritis",
+      "associated with",
+      "pathogen destruction"
+    ],
+    [
+      "rheumatoid arthritis",
+      "causes",
+      "health complications"
+    ],
+    [
+      "rheumatoid arthritis",
+      "contributes to",
+      "health"
+    ],
+    [
+      "rheumatoid arthritis",
+      "contributes to",
+      "mucous membranes"
+    ],
+    [
+      "rheumatoid arthritis",
+      "contributes to",
+      "physical barriers"
+    ],
+    [
+      "rheumatoid arthritis",
+      "exacerbated by",
+      "chronic inflammation"
+    ],
+    [
+      "rheumatoid arthritis",
+      "exacerbated by",
+      "full-blown infection"
+    ],
+    [
+      "rheumatoid arthritis",
+      "exacerbates",
+      "immune response coordination"
+    ],
+    [
+      "rheumatoid arthritis",
+      "exacerbates",
+      "immune system activation"
+    ],
+    [
+      "rheumatoid arthritis",
+      "impairs",
+      "immune system efficiency"
+    ],
+    [
+      "rheumatoid arthritis",
+      "is affected by",
+      "pathogen elimination"
+    ],
+    [
+      "rheumatoid arthritis",
+      "is associated with",
+      "cancer"
+    ],
+    [
+      "rheumatoid arthritis",
+      "is caused by",
+      "body dysfunction"
+    ],
+    [
+      "rheumatoid arthritis",
+      "is impacted by",
+      "body protection"
+    ],
+    [
+      "rheumatoid arthritis",
+      "linked to",
+      "defense mechanisms"
+    ],
+    [
+      "rheumatoid arthritis",
+      "linked to",
+      "diabetes"
+    ],
+    [
+      "rheumatoid arthritis",
+      "linked to",
+      "immune system"
+    ],
+    [
+      "rheumatoid arthritis",
+      "triggers",
+      "pathogens"
+    ],
+    [
+      "specific defense mechanisms",
+      "combated by",
+      "bacteria"
+    ],
+    [
+      "specific defense mechanisms",
+      "enables",
+      "immune system balance"
+    ],
+    [
+      "specific defense mechanisms",
+      "facilitates",
+      "pathogen detection"
+    ],
+    [
+      "specific defense mechanisms",
+      "involves",
+      "immune cells"
+    ],
+    [
+      "specific defense mechanisms",
+      "is a component of",
+      "adaptive immunity"
+    ],
+    [
+      "specific defense mechanisms",
+      "is addressed by",
+      "pathogens"
+    ],
+    [
+      "specific defense mechanisms",
+      "is prevented by",
+      "full-blown infection"
+    ],
+    [
+      "specific defense mechanisms",
+      "utilizes",
+      "pathogen destruction"
+    ],
+    [
+      "tissue damage",
+      "caused by",
+      "heart disease"
+    ],
+    [
+      "tissue damage",
+      "causes",
+      "complement proteins"
+    ],
+    [
+      "tissue damage",
+      "causes",
+      "fungi"
+    ],
+    [
+      "tissue damage",
+      "causes",
+      "immune response"
+    ],
+    [
+      "tissue damage",
+      "impacts",
+      "resilience"
+    ],
+    [
+      "tissue damage",
+      "is threatened by",
+      "body protection"
+    ],
+    [
+      "tissue damage",
+      "reduces",
+      "infection prevention"
+    ],
+    [
+      "tissue damage",
+      "results in",
+      "infections"
+    ],
+    [
+      "tissue damage",
+      "results in",
+      "pathogen elimination"
+    ],
+    [
+      "tissue damage",
+      "results in",
+      "rapid response"
+    ],
+    [
+      "tissue damage",
+      "results in",
+      "respiratory tract"
+    ],
+    [
+      "tissue damage",
+      "results in",
+      "rheumatoid arthritis"
+    ],
+    [
+      "tissue damage",
+      "results in",
+      "treatment strategies"
+    ],
+    [
+      "treatment strategies",
+      "addresses",
+      "autoimmune diseases"
+    ],
+    [
+      "treatment strategies",
+      "addresses",
+      "diabetes"
+    ],
+    [
+      "treatment strategies",
+      "addresses",
+      "immune system malfunction"
+    ],
+    [
+      "treatment strategies",
+      "enhances",
+      "rapid response"
+    ],
+    [
+      "treatment strategies",
+      "facilitates",
+      "pathogen elimination"
+    ],
+    [
+      "treatment strategies",
+      "guides",
+      "immune system balance"
+    ],
+    [
+      "treatment strategies",
+      "improves",
+      "full-blown infection"
+    ],
+    [
+      "treatment strategies",
+      "informs",
+      "immune system components"
+    ],
+    [
+      "treatment strategies",
+      "involves",
+      "lymphocytes"
+    ],
+    [
+      "treatment strategies",
+      "is addressed by",
+      "cancer"
+    ],
+    [
+      "treatment strategies",
+      "is included in",
+      "complement proteins"
+    ],
+    [
+      "treatment strategies",
+      "utilizes",
+      "immune cells"
+    ],
+    [
+      "treatment strategies",
+      "utilizes",
+      "natural killer cells"
+    ],
+    [
+      "vaccination",
+      "associated with",
+      "multiple sclerosis"
+    ],
+    [
+      "vaccination",
+      "can lead to",
+      "autoimmune diseases"
+    ],
+    [
+      "vaccination",
+      "combats",
+      "parasites"
+    ],
+    [
+      "vaccination",
+      "enables",
+      "specific defense mechanisms"
+    ],
+    [
+      "vaccination",
+      "enhanced by",
+      "pathogen destruction"
+    ],
+    [
+      "vaccination",
+      "enhanced by",
+      "physical barriers"
+    ],
+    [
+      "vaccination",
+      "enhances",
+      "immune response coordination"
+    ],
+    [
+      "vaccination",
+      "enhances",
+      "immune system dysregulation"
+    ],
+    [
+      "vaccination",
+      "enhances",
+      "immune system signaling"
+    ],
+    [
+      "vaccination",
+      "enhances",
+      "pathogen detection"
+    ],
+    [
+      "vaccination",
+      "enhances",
+      "pathogen recognition"
+    ],
+    [
+      "vaccination",
+      "facilitates",
+      "pathogen elimination"
+    ],
+    [
+      "vaccination",
+      "improves",
+      "immune system efficiency"
+    ],
+    [
+      "vaccination",
+      "involves",
+      "antigen presentation"
+    ],
+    [
+      "vaccination",
+      "is affected by",
+      "immune system malfunction"
+    ],
+    [
+      "vaccination",
+      "is influenced by",
+      "immune system balance"
+    ],
+    [
+      "vaccination",
+      "is supported by",
+      "immune system"
+    ],
+    [
+      "vaccination",
+      "prevent",
+      "infections"
+    ],
+    [
+      "vaccination",
+      "prevented by",
+      "heart disease"
+    ],
+    [
+      "vaccination",
+      "prevents",
+      "disease"
+    ],
+    [
+      "vaccination",
+      "produced by",
+      "antibodies"
+    ],
+    [
+      "vaccination",
+      "promotes",
+      "adaptive immunity"
+    ],
+    [
+      "vaccination",
+      "promotes",
+      "health"
+    ],
+    [
+      "vaccination",
+      "protects against",
+      "bacteria"
+    ],
+    [
+      "vaccination",
+      "provides",
+      "body protection"
+    ],
+    [
+      "vaccination",
+      "targets",
+      "fungi"
+    ],
+    [
+      "vaccination",
+      "targets",
+      "viruses"
+    ],
+    [
+      "vaccination",
+      "utilizes",
+      "defense mechanisms"
+    ],
+    [
+      "viruses",
+      "affects",
+      "cancer"
+    ],
+    [
+      "viruses",
+      "affects",
+      "immune system balance"
+    ],
+    [
+      "viruses",
+      "causes",
+      "disease"
+    ],
+    [
+      "viruses",
+      "causes",
+      "full-blown infection"
+    ],
+    [
+      "viruses",
+      "causes",
+      "tissue damage"
+    ],
+    [
+      "viruses",
+      "defends against",
+      "physical barriers"
+    ],
+    [
+      "viruses",
+      "impacts",
+      "resilience"
+    ],
+    [
+      "viruses",
+      "informs",
+      "immune system signaling"
+    ],
+    [
+      "viruses",
+      "involves",
+      "antigen presentation"
+    ],
+    [
+      "viruses",
+      "involves",
+      "pathogen detection"
+    ],
+    [
+      "viruses",
+      "is attacked by",
+      "respiratory tract"
+    ],
+    [
+      "viruses",
+      "is caused by",
+      "infections"
+    ],
+    [
+      "viruses",
+      "is targeted by",
+      "antibodies"
+    ],
+    [
+      "viruses",
+      "protects against",
+      "body protection"
+    ],
+    [
+      "viruses",
+      "targeted by",
+      "immune response coordination"
+    ],
+    [
+      "viruses",
+      "targeted by",
+      "white blood cells"
+    ],
+    [
+      "viruses",
+      "targets",
+      "immune system components"
+    ],
+    [
+      "viruses",
+      "targets",
+      "immune system network"
+    ],
+    [
+      "viruses",
+      "targets",
+      "pathogen elimination"
+    ],
+    [
+      "viruses",
+      "targets",
+      "rapid response"
+    ],
+    [
+      "viruses",
+      "threatened by",
+      "pathogen destruction"
+    ],
+    [
+      "viruses",
+      "vulnerable to",
+      "protective barrier"
+    ],
+    [
+      "white blood cells",
+      "are influenced by",
+      "memory cells"
+    ],
+    [
+      "white blood cells",
+      "attacks",
+      "bacteria"
+    ],
+    [
+      "white blood cells",
+      "causes",
+      "tissue damage"
+    ],
+    [
+      "white blood cells",
+      "comprises",
+      "immune system"
+    ],
+    [
+      "white blood cells",
+      "contributes to",
+      "adaptive immunity"
+    ],
+    [
+      "white blood cells",
+      "contributes to",
+      "autoimmune diseases"
+    ],
+    [
+      "white blood cells",
+      "coordinates",
+      "immune response coordination"
+    ],
+    [
+      "white blood cells",
+      "drives",
+      "immune response"
+    ],
+    [
+      "white blood cells",
+      "enables",
+      "pathogen recognition"
+    ],
+    [
+      "white blood cells",
+      "enables",
+      "phagocytosis"
+    ],
+    [
+      "white blood cells",
+      "ensures",
+      "body protection"
+    ],
+    [
+      "white blood cells",
+      "facilitates",
+      "pathogen elimination"
+    ],
+    [
+      "white blood cells",
+      "include",
+      "lymphocytes"
+    ],
+    [
+      "white blood cells",
+      "includes",
+      "immune cells"
+    ],
+    [
+      "white blood cells",
+      "includes",
+      "macrophages"
+    ],
+    [
+      "white blood cells",
+      "informs",
+      "treatment strategies"
+    ],
+    [
+      "white blood cells",
+      "involves",
+      "complex interplay"
+    ],
+    [
+      "white blood cells",
+      "involves",
+      "coordinated responses"
+    ],
+    [
+      "white blood cells",
+      "involves",
+      "respiratory tract"
+    ],
+    [
+      "white blood cells",
+      "is affected by",
+      "immune system malfunction"
+    ],
+    [
+      "white blood cells",
+      "is influenced by",
+      "immune system balance"
+    ],
+    [
+      "white blood cells",
+      "is targeted by",
+      "chronic inflammation"
+    ],
+    [
+      "white blood cells",
+      "performed by",
+      "pathogen destruction"
+    ],
+    [
+      "white blood cells",
+      "produce",
+      "antibodies"
+    ],
+    [
+      "white blood cells",
+      "supports",
+      "innate immunity"
+    ],
+    [
+      "white blood cells",
+      "targets",
+      "fungi"
+    ]
+  ],
+  "edges": [
+    "a type of",
+    "achieved by",
+    "achieved through",
+    "achieves",
+    "activate",
+    "activated by",
+    "activates",
+    "acts as",
+    "addresses",
+    "affected by",
+    "affects",
+    "aggravates",
+    "aids",
+    "aids in",
+    "are enhanced by",
+    "are influenced by",
+    "are targeted by",
+    "associated with",
+    "attack",
+    "attacked by",
+    "attacks",
+    "benefits from",
+    "blocks",
+    "can cause",
+    "can lead to",
+    "captures",
+    "cause",
+    "caused by",
+    "causes",
+    "collaborate with",
+    "combat",
+    "combated by",
+    "combats",
+    "competes with",
+    "complicated by",
+    "composed of",
+    "comprises",
+    "constitutes",
+    "contrasts with",
+    "contribute to",
+    "contributes to",
+    "cooperate with",
+    "coordinate",
+    "coordinated by",
+    "coordinates",
+    "counteracts",
+    "defend against",
+    "defends against",
+    "destroyed by",
+    "destroys",
+    "detects",
+    "differentiates into",
+    "disrupts",
+    "drives",
+    "elicits",
+    "eliminated by",
+    "eliminates",
+    "enables",
+    "enhance",
+    "enhance the function of",
+    "enhanced by",
+    "enhances",
+    "ensures",
+    "exacerbated by",
+    "exacerbates",
+    "exploits",
+    "exposed to",
+    "facilitated by",
+    "facilitates",
+    "forms",
+    "guides",
+    "hosts",
+    "impacted by",
+    "impacts",
+    "impairs",
+    "impedes",
+    "improved by",
+    "improves",
+    "include",
+    "includes",
+    "increases risk of",
+    "induce",
+    "induces",
+    "influenced by",
+    "influences",
+    "informs",
+    "inhibits",
+    "initiates",
+    "integrates into",
+    "interact with",
+    "interacts with",
+    "invaded by",
+    "invades",
+    "involved in",
+    "involves",
+    "is a complication of",
+    "is a component of",
+    "is a consequence of",
+    "is a feature of",
+    "is a form of",
+    "is a function of",
+    "is a part of",
+    "is a result of",
+    "is a type of",
+    "is achieved by",
+    "is achieved through",
+    "is activated by",
+    "is addressed by",
+    "is affected by",
+    "is associated with",
+    "is attacked by",
+    "is caused by",
+    "is challenged by",
+    "is composed of",
+    "is coordinated by",
+    "is defended by",
+    "is eliminated by",
+    "is essential for",
+    "is exacerbated by",
+    "is facilitated by",
+    "is identified by",
+    "is impacted by",
+    "is included in",
+    "is influenced by",
+    "is informed by",
+    "is initiated by",
+    "is involved in",
+    "is linked to",
+    "is maintained by",
+    "is mitigated by",
+    "is part of",
+    "is performed by",
+    "is prevented by",
+    "is produced against",
+    "is produced by",
+    "is regulated by",
+    "is related to",
+    "is supported by",
+    "is targeted by",
+    "is threatened by",
+    "is triggered by",
+    "is utilized by",
+    "kill",
+    "kills",
+    "leads to",
+    "lines the",
+    "linked to",
+    "located in",
+    "maintained by",
+    "maintains",
+    "mediated by",
+    "mediates",
+    "modulates",
+    "neutralizes",
+    "offers",
+    "opposes",
+    "performed by",
+    "performs",
+    "presented by",
+    "presented to",
+    "prevent",
+    "prevented by",
+    "prevents",
+    "prevents entry of",
+    "produce",
+    "produced by",
+    "produces",
+    "promotes",
+    "protect",
+    "protect against",
+    "protects",
+    "protects against",
+    "provides",
+    "reduces",
+    "reduces risk of",
+    "regulate",
+    "regulated by",
+    "regulates",
+    "relies on",
+    "requires",
+    "respond to",
+    "responds to",
+    "result in",
+    "resulting from",
+    "results from",
+    "results in",
+    "serve as",
+    "serves as",
+    "stimulates",
+    "support",
+    "supports",
+    "target",
+    "targeted by",
+    "targets",
+    "threatened by",
+    "threatens",
+    "trigger",
+    "triggered by",
+    "triggers",
+    "utilizes",
+    "vulnerable to",
+    "weakens",
+    "works alongside",
+    "works with",
+    "worsens"
+  ]
+}

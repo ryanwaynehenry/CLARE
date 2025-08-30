@@ -1,0 +1,6161 @@
+{
+  "entities": [
+    "achievements",
+    "adult lives",
+    "advancing rights",
+    "behaviors",
+    "beliefs",
+    "challenging authority",
+    "critical thinking",
+    "criticism of education",
+    "cultural appreciation",
+    "cultural celebration",
+    "cultural change",
+    "cultural differences",
+    "cultural empowerment",
+    "cultural evolution",
+    "cultural hegemony",
+    "cultural heritage",
+    "cultural narratives",
+    "cultural norms",
+    "cultural richness",
+    "cultural roots",
+    "cultural teachings",
+    "cultural understanding",
+    "culture",
+    "diversity",
+    "dominant values",
+    "education",
+    "educational impact",
+    "educational systems",
+    "empathy",
+    "empowerment",
+    "equitable culture",
+    "equitable society",
+    "erasure of voices",
+    "evolution",
+    "fostering respect",
+    "gender equality",
+    "generations",
+    "globalized world",
+    "harmonious society",
+    "history",
+    "human experiences",
+    "identity",
+    "impact",
+    "inclusive culture",
+    "inclusivity",
+    "innovation",
+    "institutions",
+    "knowledge",
+    "knowledge transmission",
+    "marginalized groups",
+    "marginalized voices",
+    "minority perspectives",
+    "perspectives",
+    "power dynamics",
+    "preservation",
+    "pride",
+    "questioning norms",
+    "representation",
+    "schools",
+    "shaping",
+    "social change",
+    "social environment",
+    "social identity",
+    "societal progress",
+    "societal values",
+    "teaching",
+    "tolerance",
+    "traditional customs",
+    "traditional roles",
+    "transformation",
+    "transformative education",
+    "transmission",
+    "understanding",
+    "values"
+  ],
+  "relations": [
+    [
+      "achievements",
+      "celebrates",
+      "cultural celebration"
+    ],
+    [
+      "achievements",
+      "drives",
+      "cultural change"
+    ],
+    [
+      "achievements",
+      "drives",
+      "cultural evolution"
+    ],
+    [
+      "achievements",
+      "drives",
+      "innovation"
+    ],
+    [
+      "achievements",
+      "drives",
+      "social change"
+    ],
+    [
+      "achievements",
+      "empowers",
+      "cultural empowerment"
+    ],
+    [
+      "achievements",
+      "enables",
+      "empowerment"
+    ],
+    [
+      "achievements",
+      "enhances",
+      "cultural understanding"
+    ],
+    [
+      "achievements",
+      "ensures",
+      "preservation"
+    ],
+    [
+      "achievements",
+      "facilitates",
+      "transmission"
+    ],
+    [
+      "achievements",
+      "fosters",
+      "fostering respect"
+    ],
+    [
+      "achievements",
+      "influenced by",
+      "traditional customs"
+    ],
+    [
+      "achievements",
+      "informs",
+      "beliefs"
+    ],
+    [
+      "achievements",
+      "is conveyed through",
+      "teaching"
+    ],
+    [
+      "achievements",
+      "is facilitated by",
+      "education"
+    ],
+    [
+      "achievements",
+      "leads to",
+      "erasure of voices"
+    ],
+    [
+      "achievements",
+      "promotes",
+      "cultural appreciation"
+    ],
+    [
+      "achievements",
+      "represents",
+      "diversity"
+    ],
+    [
+      "achievements",
+      "requires",
+      "representation"
+    ],
+    [
+      "achievements",
+      "supports",
+      "advancing rights"
+    ],
+    [
+      "achievements",
+      "supports",
+      "equitable society"
+    ],
+    [
+      "adult lives",
+      "contributes to",
+      "equitable culture"
+    ],
+    [
+      "adult lives",
+      "encourages",
+      "fostering respect"
+    ],
+    [
+      "adult lives",
+      "encourages",
+      "questioning norms"
+    ],
+    [
+      "adult lives",
+      "influences",
+      "cultural teachings"
+    ],
+    [
+      "adult lives",
+      "influences",
+      "education"
+    ],
+    [
+      "adult lives",
+      "influences",
+      "human experiences"
+    ],
+    [
+      "adult lives",
+      "influences",
+      "minority perspectives"
+    ],
+    [
+      "adult lives",
+      "informs",
+      "diversity"
+    ],
+    [
+      "adult lives",
+      "is influenced by",
+      "achievements"
+    ],
+    [
+      "adult lives",
+      "is influenced by",
+      "inclusive culture"
+    ],
+    [
+      "adult lives",
+      "is influenced by",
+      "preservation"
+    ],
+    [
+      "adult lives",
+      "shaped by",
+      "transformation"
+    ],
+    [
+      "advancing rights",
+      "advances",
+      "human experiences"
+    ],
+    [
+      "advancing rights",
+      "advances societal values through",
+      "societal values"
+    ],
+    [
+      "advancing rights",
+      "enhances",
+      "knowledge"
+    ],
+    [
+      "advancing rights",
+      "impedes",
+      "erasure of voices"
+    ],
+    [
+      "advancing rights",
+      "supports",
+      "cultural narratives"
+    ],
+    [
+      "advancing rights",
+      "supports",
+      "pride"
+    ],
+    [
+      "behaviors",
+      "advances",
+      "advancing rights"
+    ],
+    [
+      "behaviors",
+      "affects",
+      "power dynamics"
+    ],
+    [
+      "behaviors",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "behaviors",
+      "facilitates",
+      "teaching"
+    ],
+    [
+      "behaviors",
+      "influenced by",
+      "traditional customs"
+    ],
+    [
+      "behaviors",
+      "influences",
+      "achievements"
+    ],
+    [
+      "behaviors",
+      "influences",
+      "cultural richness"
+    ],
+    [
+      "behaviors",
+      "influences",
+      "marginalized voices"
+    ],
+    [
+      "behaviors",
+      "influences",
+      "pride"
+    ],
+    [
+      "behaviors",
+      "influences",
+      "values"
+    ],
+    [
+      "behaviors",
+      "is shaped by",
+      "empathy"
+    ],
+    [
+      "behaviors",
+      "shapes",
+      "culture"
+    ],
+    [
+      "behaviors",
+      "shapes",
+      "dominant values"
+    ],
+    [
+      "behaviors",
+      "shapes",
+      "generations"
+    ],
+    [
+      "beliefs",
+      "affects",
+      "behaviors"
+    ],
+    [
+      "beliefs",
+      "contributes to",
+      "harmonious society"
+    ],
+    [
+      "beliefs",
+      "enhances",
+      "cultural understanding"
+    ],
+    [
+      "beliefs",
+      "fosters",
+      "empathy"
+    ],
+    [
+      "beliefs",
+      "influences",
+      "challenging authority"
+    ],
+    [
+      "beliefs",
+      "influences",
+      "cultural narratives"
+    ],
+    [
+      "beliefs",
+      "influences",
+      "traditional roles"
+    ],
+    [
+      "beliefs",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "beliefs",
+      "informs",
+      "societal values"
+    ],
+    [
+      "beliefs",
+      "informs",
+      "understanding"
+    ],
+    [
+      "beliefs",
+      "informs",
+      "values"
+    ],
+    [
+      "beliefs",
+      "is conveyed through",
+      "teaching"
+    ],
+    [
+      "beliefs",
+      "is influenced by",
+      "traditional customs"
+    ],
+    [
+      "beliefs",
+      "is taught in",
+      "institutions"
+    ],
+    [
+      "beliefs",
+      "shaped by",
+      "adult lives"
+    ],
+    [
+      "beliefs",
+      "shaped by",
+      "identity"
+    ],
+    [
+      "beliefs",
+      "shapes",
+      "generations"
+    ],
+    [
+      "beliefs",
+      "shapes",
+      "human experiences"
+    ],
+    [
+      "beliefs",
+      "shapes",
+      "social identity"
+    ],
+    [
+      "beliefs",
+      "shapes",
+      "societal progress"
+    ],
+    [
+      "challenging authority",
+      "affects",
+      "behaviors"
+    ],
+    [
+      "challenging authority",
+      "affects",
+      "social environment"
+    ],
+    [
+      "challenging authority",
+      "challenged by",
+      "dominant values"
+    ],
+    [
+      "challenging authority",
+      "challenges",
+      "adult lives"
+    ],
+    [
+      "challenging authority",
+      "challenges",
+      "equitable society"
+    ],
+    [
+      "challenging authority",
+      "drives",
+      "innovation"
+    ],
+    [
+      "challenging authority",
+      "facilitates",
+      "teaching"
+    ],
+    [
+      "challenging authority",
+      "influences",
+      "schools"
+    ],
+    [
+      "challenging authority",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "challenging authority",
+      "is challenged by",
+      "achievements"
+    ],
+    [
+      "challenging authority",
+      "is challenged by",
+      "cultural hegemony"
+    ],
+    [
+      "challenging authority",
+      "promotes",
+      "gender equality"
+    ],
+    [
+      "challenging authority",
+      "supports",
+      "advancing rights"
+    ],
+    [
+      "critical thinking",
+      "advances",
+      "advancing rights"
+    ],
+    [
+      "critical thinking",
+      "affects",
+      "marginalized groups"
+    ],
+    [
+      "critical thinking",
+      "celebrates",
+      "empathy"
+    ],
+    [
+      "critical thinking",
+      "challenges",
+      "criticism of education"
+    ],
+    [
+      "critical thinking",
+      "challenges",
+      "cultural norms"
+    ],
+    [
+      "critical thinking",
+      "drives",
+      "innovation"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "history"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "critical thinking",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "critical thinking",
+      "influences",
+      "culture"
+    ],
+    [
+      "critical thinking",
+      "influences",
+      "perspectives"
+    ],
+    [
+      "critical thinking",
+      "influences",
+      "pride"
+    ],
+    [
+      "critical thinking",
+      "informs",
+      "cultural heritage"
+    ],
+    [
+      "critical thinking",
+      "informs",
+      "identity"
+    ],
+    [
+      "critical thinking",
+      "is developed by",
+      "institutions"
+    ],
+    [
+      "critical thinking",
+      "is shaped by",
+      "globalized world"
+    ],
+    [
+      "critical thinking",
+      "promotes",
+      "gender equality"
+    ],
+    [
+      "critical thinking",
+      "requires",
+      "adult lives"
+    ],
+    [
+      "critical thinking",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "critical thinking",
+      "shapes",
+      "cultural narratives"
+    ],
+    [
+      "critical thinking",
+      "shapes",
+      "social identity"
+    ],
+    [
+      "criticism of education",
+      "challenged by",
+      "social change"
+    ],
+    [
+      "criticism of education",
+      "challenges",
+      "cultural empowerment"
+    ],
+    [
+      "criticism of education",
+      "challenges",
+      "knowledge transmission"
+    ],
+    [
+      "criticism of education",
+      "challenges",
+      "perspectives"
+    ],
+    [
+      "criticism of education",
+      "criticized by",
+      "equitable society"
+    ],
+    [
+      "criticism of education",
+      "criticized by",
+      "generations"
+    ],
+    [
+      "criticism of education",
+      "criticized by",
+      "representation"
+    ],
+    [
+      "criticism of education",
+      "criticizes",
+      "transformative education"
+    ],
+    [
+      "criticism of education",
+      "critiques",
+      "cultural narratives"
+    ],
+    [
+      "criticism of education",
+      "faces",
+      "fostering respect"
+    ],
+    [
+      "criticism of education",
+      "highlights",
+      "erasure of voices"
+    ],
+    [
+      "criticism of education",
+      "is a subject of",
+      "power dynamics"
+    ],
+    [
+      "criticism of education",
+      "is criticized by",
+      "societal values"
+    ],
+    [
+      "criticism of education",
+      "is critiqued by",
+      "achievements"
+    ],
+    [
+      "criticism of education",
+      "is critiqued by",
+      "challenging authority"
+    ],
+    [
+      "criticism of education",
+      "is critiqued by",
+      "empowerment"
+    ],
+    [
+      "cultural appreciation",
+      "broadens",
+      "perspectives"
+    ],
+    [
+      "cultural appreciation",
+      "contributes to",
+      "harmonious society"
+    ],
+    [
+      "cultural appreciation",
+      "drives",
+      "cultural change"
+    ],
+    [
+      "cultural appreciation",
+      "drives",
+      "innovation"
+    ],
+    [
+      "cultural appreciation",
+      "drives",
+      "societal progress"
+    ],
+    [
+      "cultural appreciation",
+      "encourages",
+      "fostering respect"
+    ],
+    [
+      "cultural appreciation",
+      "encourages",
+      "tolerance"
+    ],
+    [
+      "cultural appreciation",
+      "enhanced by",
+      "education"
+    ],
+    [
+      "cultural appreciation",
+      "enhances",
+      "history"
+    ],
+    [
+      "cultural appreciation",
+      "facilitates",
+      "knowledge transmission"
+    ],
+    [
+      "cultural appreciation",
+      "fosters",
+      "cultural empowerment"
+    ],
+    [
+      "cultural appreciation",
+      "fosters",
+      "inclusive culture"
+    ],
+    [
+      "cultural appreciation",
+      "fosters",
+      "understanding"
+    ],
+    [
+      "cultural appreciation",
+      "influences",
+      "adult lives"
+    ],
+    [
+      "cultural appreciation",
+      "influences",
+      "educational impact"
+    ],
+    [
+      "cultural appreciation",
+      "is empowered by",
+      "minority perspectives"
+    ],
+    [
+      "cultural appreciation",
+      "is facilitated by",
+      "teaching"
+    ],
+    [
+      "cultural appreciation",
+      "is impacted by",
+      "marginalized groups"
+    ],
+    [
+      "cultural appreciation",
+      "is passed down through",
+      "generations"
+    ],
+    [
+      "cultural appreciation",
+      "is rooted in",
+      "cultural heritage"
+    ],
+    [
+      "cultural appreciation",
+      "is shaped by",
+      "beliefs"
+    ],
+    [
+      "cultural appreciation",
+      "leads to",
+      "cultural celebration"
+    ],
+    [
+      "cultural appreciation",
+      "occurs in",
+      "schools"
+    ],
+    [
+      "cultural appreciation",
+      "plays a role in",
+      "shaping"
+    ],
+    [
+      "cultural appreciation",
+      "provides",
+      "knowledge"
+    ],
+    [
+      "cultural appreciation",
+      "shapes",
+      "cultural norms"
+    ],
+    [
+      "cultural appreciation",
+      "supported by",
+      "educational systems"
+    ],
+    [
+      "cultural appreciation",
+      "supports",
+      "preservation"
+    ],
+    [
+      "cultural celebration",
+      "celebrated by",
+      "evolution"
+    ],
+    [
+      "cultural celebration",
+      "celebrated by",
+      "traditional customs"
+    ],
+    [
+      "cultural celebration",
+      "celebrates cultural differences through",
+      "cultural differences"
+    ],
+    [
+      "cultural celebration",
+      "contributes to",
+      "harmonious society"
+    ],
+    [
+      "cultural celebration",
+      "defines",
+      "social identity"
+    ],
+    [
+      "cultural celebration",
+      "enhanced by",
+      "education"
+    ],
+    [
+      "cultural celebration",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "cultural celebration",
+      "facilitates",
+      "teaching"
+    ],
+    [
+      "cultural celebration",
+      "fosters",
+      "empathy"
+    ],
+    [
+      "cultural celebration",
+      "influences",
+      "social environment"
+    ],
+    [
+      "cultural celebration",
+      "informs",
+      "history"
+    ],
+    [
+      "cultural celebration",
+      "is a form of",
+      "culture"
+    ],
+    [
+      "cultural celebration",
+      "is enhanced by",
+      "cultural richness"
+    ],
+    [
+      "cultural celebration",
+      "reinforces",
+      "identity"
+    ],
+    [
+      "cultural celebration",
+      "supports",
+      "societal progress"
+    ],
+    [
+      "cultural change",
+      "challenges",
+      "perspectives"
+    ],
+    [
+      "cultural change",
+      "drives",
+      "behaviors"
+    ],
+    [
+      "cultural change",
+      "drives",
+      "cultural narratives"
+    ],
+    [
+      "cultural change",
+      "drives",
+      "erasure of voices"
+    ],
+    [
+      "cultural change",
+      "drives",
+      "history"
+    ],
+    [
+      "cultural change",
+      "drives",
+      "knowledge"
+    ],
+    [
+      "cultural change",
+      "drives",
+      "societal values"
+    ],
+    [
+      "cultural change",
+      "facilitates",
+      "teaching"
+    ],
+    [
+      "cultural change",
+      "facilitates",
+      "understanding"
+    ],
+    [
+      "cultural change",
+      "fosters",
+      "empathy"
+    ],
+    [
+      "cultural change",
+      "influences",
+      "cultural heritage"
+    ],
+    [
+      "cultural change",
+      "influences",
+      "generations"
+    ],
+    [
+      "cultural change",
+      "influences",
+      "shaping"
+    ],
+    [
+      "cultural change",
+      "influences",
+      "social environment"
+    ],
+    [
+      "cultural change",
+      "is driven by",
+      "critical thinking"
+    ],
+    [
+      "cultural change",
+      "is facilitated by",
+      "schools"
+    ],
+    [
+      "cultural change",
+      "promotes",
+      "cultural understanding"
+    ],
+    [
+      "cultural change",
+      "requires",
+      "representation"
+    ],
+    [
+      "cultural change",
+      "transforms",
+      "beliefs"
+    ],
+    [
+      "cultural change",
+      "transforms",
+      "cultural norms"
+    ],
+    [
+      "cultural change",
+      "transforms",
+      "culture"
+    ],
+    [
+      "cultural differences",
+      "celebrated by",
+      "culture"
+    ],
+    [
+      "cultural differences",
+      "encourages",
+      "empathy"
+    ],
+    [
+      "cultural differences",
+      "imposes",
+      "cultural hegemony"
+    ],
+    [
+      "cultural differences",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "cultural differences",
+      "is taught in",
+      "schools"
+    ],
+    [
+      "cultural differences",
+      "reflects",
+      "behaviors"
+    ],
+    [
+      "cultural differences",
+      "shapes",
+      "adult lives"
+    ],
+    [
+      "cultural empowerment",
+      "advances",
+      "advancing rights"
+    ],
+    [
+      "cultural empowerment",
+      "advances",
+      "gender equality"
+    ],
+    [
+      "cultural empowerment",
+      "celebrates",
+      "cultural celebration"
+    ],
+    [
+      "cultural empowerment",
+      "challenged by",
+      "cultural hegemony"
+    ],
+    [
+      "cultural empowerment",
+      "challenges",
+      "challenging authority"
+    ],
+    [
+      "cultural empowerment",
+      "contributes to harmonious society through",
+      "harmonious society"
+    ],
+    [
+      "cultural empowerment",
+      "drives",
+      "cultural change"
+    ],
+    [
+      "cultural empowerment",
+      "drives",
+      "innovation"
+    ],
+    [
+      "cultural empowerment",
+      "drives",
+      "social change"
+    ],
+    [
+      "cultural empowerment",
+      "facilitates",
+      "transmission"
+    ],
+    [
+      "cultural empowerment",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "cultural empowerment",
+      "influences",
+      "cultural norms"
+    ],
+    [
+      "cultural empowerment",
+      "influences",
+      "societal values"
+    ],
+    [
+      "cultural empowerment",
+      "nurtures",
+      "schools"
+    ],
+    [
+      "cultural empowerment",
+      "promotes",
+      "cultural differences"
+    ],
+    [
+      "cultural empowerment",
+      "promotes",
+      "empathy"
+    ],
+    [
+      "cultural empowerment",
+      "provides",
+      "knowledge"
+    ],
+    [
+      "cultural empowerment",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "cultural evolution",
+      "affects",
+      "impact"
+    ],
+    [
+      "cultural evolution",
+      "celebrates",
+      "cultural celebration"
+    ],
+    [
+      "cultural evolution",
+      "drives",
+      "cultural change"
+    ],
+    [
+      "cultural evolution",
+      "drives",
+      "innovation"
+    ],
+    [
+      "cultural evolution",
+      "enhances",
+      "cultural understanding"
+    ],
+    [
+      "cultural evolution",
+      "evolves into",
+      "cultural richness"
+    ],
+    [
+      "cultural evolution",
+      "facilitates",
+      "teaching"
+    ],
+    [
+      "cultural evolution",
+      "influences",
+      "dominant values"
+    ],
+    [
+      "cultural evolution",
+      "is facilitated by",
+      "schools"
+    ],
+    [
+      "cultural evolution",
+      "reflects",
+      "pride"
+    ],
+    [
+      "cultural evolution",
+      "shaped by",
+      "adult lives"
+    ],
+    [
+      "cultural evolution",
+      "shapes",
+      "institutions"
+    ],
+    [
+      "cultural hegemony",
+      "affects",
+      "cultural evolution"
+    ],
+    [
+      "cultural hegemony",
+      "affects",
+      "identity"
+    ],
+    [
+      "cultural hegemony",
+      "affects",
+      "social change"
+    ],
+    [
+      "cultural hegemony",
+      "can hinder",
+      "innovation"
+    ],
+    [
+      "cultural hegemony",
+      "can lead to",
+      "tolerance"
+    ],
+    [
+      "cultural hegemony",
+      "challenges",
+      "cultural change"
+    ],
+    [
+      "cultural hegemony",
+      "enforces",
+      "educational systems"
+    ],
+    [
+      "cultural hegemony",
+      "imposed by",
+      "traditional customs"
+    ],
+    [
+      "cultural hegemony",
+      "imposes",
+      "cultural richness"
+    ],
+    [
+      "cultural hegemony",
+      "influences",
+      "cultural celebration"
+    ],
+    [
+      "cultural hegemony",
+      "influences",
+      "cultural heritage"
+    ],
+    [
+      "cultural hegemony",
+      "influences",
+      "cultural narratives"
+    ],
+    [
+      "cultural hegemony",
+      "influences",
+      "cultural norms"
+    ],
+    [
+      "cultural hegemony",
+      "influences",
+      "societal values"
+    ],
+    [
+      "cultural hegemony",
+      "is a result of",
+      "knowledge transmission"
+    ],
+    [
+      "cultural hegemony",
+      "is critiqued by",
+      "criticism of education"
+    ],
+    [
+      "cultural hegemony",
+      "is influenced by",
+      "cultural teachings"
+    ],
+    [
+      "cultural hegemony",
+      "is perpetuated by",
+      "cultural roots"
+    ],
+    [
+      "cultural hegemony",
+      "is propagated by",
+      "schools"
+    ],
+    [
+      "cultural hegemony",
+      "operates within",
+      "institutions"
+    ],
+    [
+      "cultural hegemony",
+      "opposes",
+      "cultural appreciation"
+    ],
+    [
+      "cultural hegemony",
+      "perpetuated by",
+      "equitable culture"
+    ],
+    [
+      "cultural hegemony",
+      "reinforced by",
+      "minority perspectives"
+    ],
+    [
+      "cultural hegemony",
+      "reinforces",
+      "gender equality"
+    ],
+    [
+      "cultural hegemony",
+      "results from",
+      "inclusivity"
+    ],
+    [
+      "cultural hegemony",
+      "results in",
+      "diversity"
+    ],
+    [
+      "cultural hegemony",
+      "shapes",
+      "behaviors"
+    ],
+    [
+      "cultural hegemony",
+      "shapes",
+      "perspectives"
+    ],
+    [
+      "cultural heritage",
+      "drives",
+      "innovation"
+    ],
+    [
+      "cultural heritage",
+      "enhances",
+      "cultural understanding"
+    ],
+    [
+      "cultural heritage",
+      "ensures",
+      "preservation"
+    ],
+    [
+      "cultural heritage",
+      "fosters",
+      "empathy"
+    ],
+    [
+      "cultural heritage",
+      "fosters",
+      "fostering respect"
+    ],
+    [
+      "cultural heritage",
+      "influenced by",
+      "adult lives"
+    ],
+    [
+      "cultural heritage",
+      "influenced by",
+      "equitable culture"
+    ],
+    [
+      "cultural heritage",
+      "influences",
+      "shaping"
+    ],
+    [
+      "cultural heritage",
+      "informs",
+      "behaviors"
+    ],
+    [
+      "cultural heritage",
+      "informs",
+      "cultural celebration"
+    ],
+    [
+      "cultural heritage",
+      "informs",
+      "cultural differences"
+    ],
+    [
+      "cultural heritage",
+      "informs",
+      "culture"
+    ],
+    [
+      "cultural heritage",
+      "informs",
+      "diversity"
+    ],
+    [
+      "cultural heritage",
+      "informs",
+      "human experiences"
+    ],
+    [
+      "cultural heritage",
+      "informs",
+      "traditional customs"
+    ],
+    [
+      "cultural heritage",
+      "informs",
+      "values"
+    ],
+    [
+      "cultural heritage",
+      "is rooted in",
+      "achievements"
+    ],
+    [
+      "cultural heritage",
+      "provides",
+      "knowledge"
+    ],
+    [
+      "cultural heritage",
+      "transmits",
+      "schools"
+    ],
+    [
+      "cultural narratives",
+      "contrasts with",
+      "cultural differences"
+    ],
+    [
+      "cultural narratives",
+      "enhances",
+      "cultural understanding"
+    ],
+    [
+      "cultural narratives",
+      "fosters respect for",
+      "fostering respect"
+    ],
+    [
+      "cultural narratives",
+      "influenced by",
+      "questioning norms"
+    ],
+    [
+      "cultural narratives",
+      "influences",
+      "equitable culture"
+    ],
+    [
+      "cultural narratives",
+      "influences",
+      "globalized world"
+    ],
+    [
+      "cultural narratives",
+      "influences",
+      "harmonious society"
+    ],
+    [
+      "cultural narratives",
+      "influences",
+      "shaping"
+    ],
+    [
+      "cultural narratives",
+      "influences",
+      "traditional roles"
+    ],
+    [
+      "cultural narratives",
+      "informed by",
+      "cultural appreciation"
+    ],
+    [
+      "cultural narratives",
+      "informs",
+      "traditional customs"
+    ],
+    [
+      "cultural narratives",
+      "is caused by",
+      "erasure of voices"
+    ],
+    [
+      "cultural narratives",
+      "is influenced by",
+      "inclusivity"
+    ],
+    [
+      "cultural narratives",
+      "is shaped by",
+      "cultural roots"
+    ],
+    [
+      "cultural narratives",
+      "promotes",
+      "understanding"
+    ],
+    [
+      "cultural narratives",
+      "requires representation of",
+      "representation"
+    ],
+    [
+      "cultural narratives",
+      "shapes",
+      "cultural richness"
+    ],
+    [
+      "cultural narratives",
+      "shapes",
+      "diversity"
+    ],
+    [
+      "cultural narratives",
+      "shapes",
+      "educational systems"
+    ],
+    [
+      "cultural narratives",
+      "supports",
+      "preservation"
+    ],
+    [
+      "cultural norms",
+      "contrasts with",
+      "cultural differences"
+    ],
+    [
+      "cultural norms",
+      "guides",
+      "beliefs"
+    ],
+    [
+      "cultural norms",
+      "influences",
+      "culture"
+    ],
+    [
+      "cultural norms",
+      "influences",
+      "diversity"
+    ],
+    [
+      "cultural norms",
+      "influences",
+      "human experiences"
+    ],
+    [
+      "cultural norms",
+      "influences",
+      "inclusive culture"
+    ],
+    [
+      "cultural norms",
+      "influences",
+      "shaping"
+    ],
+    [
+      "cultural norms",
+      "influences",
+      "traditional customs"
+    ],
+    [
+      "cultural norms",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "cultural norms",
+      "informs",
+      "teaching"
+    ],
+    [
+      "cultural norms",
+      "informs",
+      "understanding"
+    ],
+    [
+      "cultural norms",
+      "is impacted by",
+      "impact"
+    ],
+    [
+      "cultural norms",
+      "is taught in",
+      "schools"
+    ],
+    [
+      "cultural norms",
+      "requires",
+      "representation"
+    ],
+    [
+      "cultural norms",
+      "shapes",
+      "cultural narratives"
+    ],
+    [
+      "cultural norms",
+      "shapes",
+      "generations"
+    ],
+    [
+      "cultural norms",
+      "shapes",
+      "identity"
+    ],
+    [
+      "cultural norms",
+      "shapes",
+      "perspectives"
+    ],
+    [
+      "cultural norms",
+      "shapes",
+      "values"
+    ],
+    [
+      "cultural norms",
+      "supports",
+      "preservation"
+    ],
+    [
+      "cultural richness",
+      "advances",
+      "gender equality"
+    ],
+    [
+      "cultural richness",
+      "contributes to",
+      "achievements"
+    ],
+    [
+      "cultural richness",
+      "contributes to",
+      "culture"
+    ],
+    [
+      "cultural richness",
+      "contributes to",
+      "impact"
+    ],
+    [
+      "cultural richness",
+      "contributes to",
+      "inclusive culture"
+    ],
+    [
+      "cultural richness",
+      "enables",
+      "empowerment"
+    ],
+    [
+      "cultural richness",
+      "encourages questioning of",
+      "questioning norms"
+    ],
+    [
+      "cultural richness",
+      "enhances",
+      "cultural understanding"
+    ],
+    [
+      "cultural richness",
+      "enhances",
+      "education"
+    ],
+    [
+      "cultural richness",
+      "enhances",
+      "teaching"
+    ],
+    [
+      "cultural richness",
+      "impacts",
+      "educational impact"
+    ],
+    [
+      "cultural richness",
+      "informs",
+      "values"
+    ],
+    [
+      "cultural richness",
+      "instills",
+      "pride"
+    ],
+    [
+      "cultural richness",
+      "is supported by",
+      "schools"
+    ],
+    [
+      "cultural richness",
+      "promotes",
+      "tolerance"
+    ],
+    [
+      "cultural roots",
+      "celebrates",
+      "cultural celebration"
+    ],
+    [
+      "cultural roots",
+      "celebrates",
+      "diversity"
+    ],
+    [
+      "cultural roots",
+      "contributes to",
+      "harmonious society"
+    ],
+    [
+      "cultural roots",
+      "drives",
+      "societal progress"
+    ],
+    [
+      "cultural roots",
+      "empowers",
+      "cultural empowerment"
+    ],
+    [
+      "cultural roots",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "cultural roots",
+      "enhances",
+      "cultural richness"
+    ],
+    [
+      "cultural roots",
+      "facilitates",
+      "teaching"
+    ],
+    [
+      "cultural roots",
+      "influences",
+      "achievements"
+    ],
+    [
+      "cultural roots",
+      "influences",
+      "shaping"
+    ],
+    [
+      "cultural roots",
+      "influences",
+      "traditional roles"
+    ],
+    [
+      "cultural roots",
+      "influences",
+      "transformation"
+    ],
+    [
+      "cultural roots",
+      "informs",
+      "history"
+    ],
+    [
+      "cultural roots",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "cultural roots",
+      "informs",
+      "perspectives"
+    ],
+    [
+      "cultural roots",
+      "informs",
+      "values"
+    ],
+    [
+      "cultural roots",
+      "is foundational for identity of",
+      "identity"
+    ],
+    [
+      "cultural roots",
+      "promotes",
+      "fostering respect"
+    ],
+    [
+      "cultural roots",
+      "promotes",
+      "inclusivity"
+    ],
+    [
+      "cultural roots",
+      "reflects",
+      "societal values"
+    ],
+    [
+      "cultural roots",
+      "shapes",
+      "pride"
+    ],
+    [
+      "cultural roots",
+      "shapes social identity through",
+      "social identity"
+    ],
+    [
+      "cultural teachings",
+      "contributes to",
+      "equitable culture"
+    ],
+    [
+      "cultural teachings",
+      "contributes to",
+      "shaping"
+    ],
+    [
+      "cultural teachings",
+      "drives",
+      "cultural evolution"
+    ],
+    [
+      "cultural teachings",
+      "encompasses",
+      "human experiences"
+    ],
+    [
+      "cultural teachings",
+      "enhances",
+      "cultural understanding"
+    ],
+    [
+      "cultural teachings",
+      "enhances critical thinking through",
+      "critical thinking"
+    ],
+    [
+      "cultural teachings",
+      "facilitates",
+      "cultural change"
+    ],
+    [
+      "cultural teachings",
+      "influences",
+      "educational impact"
+    ],
+    [
+      "cultural teachings",
+      "influences",
+      "evolution"
+    ],
+    [
+      "cultural teachings",
+      "influences",
+      "societal values"
+    ],
+    [
+      "cultural teachings",
+      "informs",
+      "cultural norms"
+    ],
+    [
+      "cultural teachings",
+      "instills",
+      "pride"
+    ],
+    [
+      "cultural teachings",
+      "is taught in",
+      "schools"
+    ],
+    [
+      "cultural teachings",
+      "is taught through",
+      "traditional customs"
+    ],
+    [
+      "cultural teachings",
+      "leads to",
+      "erasure of voices"
+    ],
+    [
+      "cultural teachings",
+      "promotes",
+      "cultural appreciation"
+    ],
+    [
+      "cultural teachings",
+      "promotes",
+      "tolerance"
+    ],
+    [
+      "cultural teachings",
+      "represents",
+      "achievements"
+    ],
+    [
+      "cultural teachings",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "cultural teachings",
+      "shapes",
+      "culture"
+    ],
+    [
+      "cultural understanding",
+      "contributes to",
+      "knowledge"
+    ],
+    [
+      "cultural understanding",
+      "enhances",
+      "cultural differences"
+    ],
+    [
+      "cultural understanding",
+      "hinders",
+      "erasure of voices"
+    ],
+    [
+      "cultural understanding",
+      "influences",
+      "social identity"
+    ],
+    [
+      "cultural understanding",
+      "provided by",
+      "schools"
+    ],
+    [
+      "cultural understanding",
+      "supports",
+      "preservation"
+    ],
+    [
+      "culture",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "culture",
+      "influences",
+      "cultural hegemony"
+    ],
+    [
+      "culture",
+      "influences",
+      "human experiences"
+    ],
+    [
+      "culture",
+      "influences",
+      "shaping"
+    ],
+    [
+      "culture",
+      "informs",
+      "history"
+    ],
+    [
+      "culture",
+      "is defined by",
+      "cultural narratives"
+    ],
+    [
+      "culture",
+      "is influenced by",
+      "tolerance"
+    ],
+    [
+      "culture",
+      "is shaped by",
+      "equitable culture"
+    ],
+    [
+      "culture",
+      "is shaped by",
+      "traditional roles"
+    ],
+    [
+      "culture",
+      "marginalizes",
+      "marginalized groups"
+    ],
+    [
+      "culture",
+      "shaped by",
+      "adult lives"
+    ],
+    [
+      "culture",
+      "shaped by",
+      "impact"
+    ],
+    [
+      "culture",
+      "supports",
+      "preservation"
+    ],
+    [
+      "culture",
+      "teaches",
+      "teaching"
+    ],
+    [
+      "diversity",
+      "advances",
+      "gender equality"
+    ],
+    [
+      "diversity",
+      "contrasts with",
+      "cultural differences"
+    ],
+    [
+      "diversity",
+      "contributes to",
+      "inclusive culture"
+    ],
+    [
+      "diversity",
+      "drives",
+      "cultural change"
+    ],
+    [
+      "diversity",
+      "drives",
+      "innovation"
+    ],
+    [
+      "diversity",
+      "drives",
+      "social change"
+    ],
+    [
+      "diversity",
+      "enables",
+      "equitable society"
+    ],
+    [
+      "diversity",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "diversity",
+      "enhances",
+      "education"
+    ],
+    [
+      "diversity",
+      "enhances",
+      "inclusivity"
+    ],
+    [
+      "diversity",
+      "enriches",
+      "human experiences"
+    ],
+    [
+      "diversity",
+      "facilitates",
+      "teaching"
+    ],
+    [
+      "diversity",
+      "informs",
+      "cultural teachings"
+    ],
+    [
+      "diversity",
+      "informs",
+      "perspectives"
+    ],
+    [
+      "diversity",
+      "informs",
+      "values"
+    ],
+    [
+      "diversity",
+      "is enhanced by",
+      "cultural appreciation"
+    ],
+    [
+      "diversity",
+      "is facilitated by",
+      "institutions"
+    ],
+    [
+      "diversity",
+      "is promoted by",
+      "schools"
+    ],
+    [
+      "diversity",
+      "is shaped by",
+      "educational systems"
+    ],
+    [
+      "diversity",
+      "leads to",
+      "transformation"
+    ],
+    [
+      "diversity",
+      "promotes",
+      "empathy"
+    ],
+    [
+      "diversity",
+      "promotes",
+      "tolerance"
+    ],
+    [
+      "diversity",
+      "shapes",
+      "behaviors"
+    ],
+    [
+      "diversity",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "diversity",
+      "supports",
+      "preservation"
+    ],
+    [
+      "dominant values",
+      "advances",
+      "advancing rights"
+    ],
+    [
+      "dominant values",
+      "dominates",
+      "perspectives"
+    ],
+    [
+      "dominant values",
+      "drives",
+      "cultural change"
+    ],
+    [
+      "dominant values",
+      "drives",
+      "innovation"
+    ],
+    [
+      "dominant values",
+      "drives",
+      "social change"
+    ],
+    [
+      "dominant values",
+      "imposes",
+      "traditional customs"
+    ],
+    [
+      "dominant values",
+      "is critiqued by",
+      "criticism of education"
+    ],
+    [
+      "dominant values",
+      "is shaped by",
+      "values"
+    ],
+    [
+      "dominant values",
+      "shapes",
+      "identity"
+    ],
+    [
+      "dominant values",
+      "supports",
+      "gender equality"
+    ],
+    [
+      "education",
+      "affects",
+      "marginalized groups"
+    ],
+    [
+      "education",
+      "broadens",
+      "perspectives"
+    ],
+    [
+      "education",
+      "contributes to",
+      "harmonious society"
+    ],
+    [
+      "education",
+      "cultivates",
+      "empathy"
+    ],
+    [
+      "education",
+      "driven by",
+      "cultural change"
+    ],
+    [
+      "education",
+      "enables",
+      "transformative education"
+    ],
+    [
+      "education",
+      "enables",
+      "transmission"
+    ],
+    [
+      "education",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "education",
+      "establishes",
+      "institutions"
+    ],
+    [
+      "education",
+      "facilitates",
+      "advancing rights"
+    ],
+    [
+      "education",
+      "facilitates",
+      "teaching"
+    ],
+    [
+      "education",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "education",
+      "influences",
+      "beliefs"
+    ],
+    [
+      "education",
+      "influences",
+      "cultural differences"
+    ],
+    [
+      "education",
+      "influences",
+      "traditional customs"
+    ],
+    [
+      "education",
+      "is provided by",
+      "cultural teachings"
+    ],
+    [
+      "education",
+      "promotes",
+      "tolerance"
+    ],
+    [
+      "education",
+      "provides",
+      "educational systems"
+    ],
+    [
+      "education",
+      "provides",
+      "knowledge"
+    ],
+    [
+      "education",
+      "requires",
+      "representation"
+    ],
+    [
+      "education",
+      "shapes",
+      "cultural narratives"
+    ],
+    [
+      "education",
+      "shapes",
+      "cultural roots"
+    ],
+    [
+      "education",
+      "shapes",
+      "culture"
+    ],
+    [
+      "education",
+      "shapes",
+      "globalized world"
+    ],
+    [
+      "education",
+      "shapes",
+      "social identity"
+    ],
+    [
+      "education",
+      "supports",
+      "equitable culture"
+    ],
+    [
+      "educational impact",
+      "contributes to",
+      "societal progress"
+    ],
+    [
+      "educational impact",
+      "drives",
+      "transformative education"
+    ],
+    [
+      "educational impact",
+      "enhances knowledge through",
+      "knowledge"
+    ],
+    [
+      "educational impact",
+      "facilitates",
+      "advancing rights"
+    ],
+    [
+      "educational impact",
+      "facilitates",
+      "knowledge transmission"
+    ],
+    [
+      "educational impact",
+      "influences",
+      "cultural differences"
+    ],
+    [
+      "educational impact",
+      "influences",
+      "shaping"
+    ],
+    [
+      "educational impact",
+      "involves",
+      "challenging authority"
+    ],
+    [
+      "educational impact",
+      "is influenced by",
+      "globalized world"
+    ],
+    [
+      "educational impact",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "educational impact",
+      "shapes",
+      "cultural heritage"
+    ],
+    [
+      "educational systems",
+      "affects",
+      "impact"
+    ],
+    [
+      "educational systems",
+      "comprises",
+      "institutions"
+    ],
+    [
+      "educational systems",
+      "contributes to",
+      "equitable society"
+    ],
+    [
+      "educational systems",
+      "contributes to",
+      "harmonious society"
+    ],
+    [
+      "educational systems",
+      "contributes to",
+      "societal progress"
+    ],
+    [
+      "educational systems",
+      "determines",
+      "representation"
+    ],
+    [
+      "educational systems",
+      "drives",
+      "cultural evolution"
+    ],
+    [
+      "educational systems",
+      "enables",
+      "transformative education"
+    ],
+    [
+      "educational systems",
+      "encourages",
+      "critical thinking"
+    ],
+    [
+      "educational systems",
+      "encourages",
+      "fostering respect"
+    ],
+    [
+      "educational systems",
+      "enhances",
+      "cultural empowerment"
+    ],
+    [
+      "educational systems",
+      "facilitates",
+      "preservation"
+    ],
+    [
+      "educational systems",
+      "facilitates",
+      "teaching"
+    ],
+    [
+      "educational systems",
+      "facilitates",
+      "transmission"
+    ],
+    [
+      "educational systems",
+      "fosters",
+      "empathy"
+    ],
+    [
+      "educational systems",
+      "informs",
+      "human experiences"
+    ],
+    [
+      "educational systems",
+      "instills",
+      "pride"
+    ],
+    [
+      "educational systems",
+      "is influenced by",
+      "cultural richness"
+    ],
+    [
+      "educational systems",
+      "is subject to criticism of",
+      "criticism of education"
+    ],
+    [
+      "educational systems",
+      "marginalizes",
+      "marginalized groups"
+    ],
+    [
+      "educational systems",
+      "preserves",
+      "cultural heritage"
+    ],
+    [
+      "educational systems",
+      "promotes",
+      "cultural celebration"
+    ],
+    [
+      "educational systems",
+      "promotes",
+      "gender equality"
+    ],
+    [
+      "educational systems",
+      "promotes",
+      "tolerance"
+    ],
+    [
+      "educational systems",
+      "provides",
+      "knowledge"
+    ],
+    [
+      "educational systems",
+      "reinforced by",
+      "power dynamics"
+    ],
+    [
+      "educational systems",
+      "shaped by",
+      "achievements"
+    ],
+    [
+      "educational systems",
+      "shapes",
+      "behaviors"
+    ],
+    [
+      "educational systems",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "educational systems",
+      "shapes",
+      "identity"
+    ],
+    [
+      "educational systems",
+      "shapes",
+      "perspectives"
+    ],
+    [
+      "educational systems",
+      "shapes",
+      "values"
+    ],
+    [
+      "empathy",
+      "encourages",
+      "harmonious society"
+    ],
+    [
+      "empathy",
+      "enhances",
+      "identity"
+    ],
+    [
+      "empathy",
+      "enhances",
+      "knowledge"
+    ],
+    [
+      "empathy",
+      "facilitates",
+      "teaching"
+    ],
+    [
+      "empathy",
+      "fosters",
+      "cultural norms"
+    ],
+    [
+      "empathy",
+      "fosters",
+      "culture"
+    ],
+    [
+      "empathy",
+      "fosters",
+      "equitable culture"
+    ],
+    [
+      "empathy",
+      "informs",
+      "generations"
+    ],
+    [
+      "empathy",
+      "is influenced by",
+      "achievements"
+    ],
+    [
+      "empathy",
+      "is influenced by",
+      "power dynamics"
+    ],
+    [
+      "empowerment",
+      "advances",
+      "representation"
+    ],
+    [
+      "empowerment",
+      "contributes to",
+      "harmonious society"
+    ],
+    [
+      "empowerment",
+      "creates",
+      "impact"
+    ],
+    [
+      "empowerment",
+      "drives",
+      "evolution"
+    ],
+    [
+      "empowerment",
+      "drives",
+      "social change"
+    ],
+    [
+      "empowerment",
+      "enables",
+      "challenging authority"
+    ],
+    [
+      "empowerment",
+      "enables",
+      "critical thinking"
+    ],
+    [
+      "empowerment",
+      "enables",
+      "cultural empowerment"
+    ],
+    [
+      "empowerment",
+      "enables",
+      "dominant values"
+    ],
+    [
+      "empowerment",
+      "facilitates",
+      "knowledge transmission"
+    ],
+    [
+      "empowerment",
+      "facilitates",
+      "power dynamics"
+    ],
+    [
+      "empowerment",
+      "facilitates",
+      "teaching"
+    ],
+    [
+      "empowerment",
+      "promotes",
+      "tolerance"
+    ],
+    [
+      "empowerment",
+      "shapes",
+      "societal values"
+    ],
+    [
+      "empowerment",
+      "supports",
+      "institutions"
+    ],
+    [
+      "equitable culture",
+      "advances",
+      "achievements"
+    ],
+    [
+      "equitable culture",
+      "broadens perspectives on",
+      "perspectives"
+    ],
+    [
+      "equitable culture",
+      "contributes to development of",
+      "equitable society"
+    ],
+    [
+      "equitable culture",
+      "fosters",
+      "pride"
+    ],
+    [
+      "equitable culture",
+      "fosters",
+      "understanding"
+    ],
+    [
+      "equitable culture",
+      "fosters respect for",
+      "fostering respect"
+    ],
+    [
+      "equitable culture",
+      "influences cultural norms in",
+      "cultural norms"
+    ],
+    [
+      "equitable culture",
+      "informs",
+      "history"
+    ],
+    [
+      "equitable culture",
+      "reinforces",
+      "dominant values"
+    ],
+    [
+      "equitable culture",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "equitable culture",
+      "supports",
+      "schools"
+    ],
+    [
+      "equitable culture",
+      "supports preservation of",
+      "preservation"
+    ],
+    [
+      "equitable society",
+      "contributes to",
+      "adult lives"
+    ],
+    [
+      "equitable society",
+      "contributes to",
+      "harmonious society"
+    ],
+    [
+      "equitable society",
+      "creates",
+      "transformative education"
+    ],
+    [
+      "equitable society",
+      "drives innovation in",
+      "innovation"
+    ],
+    [
+      "equitable society",
+      "encourages",
+      "fostering respect"
+    ],
+    [
+      "equitable society",
+      "fosters",
+      "empathy"
+    ],
+    [
+      "equitable society",
+      "impacts",
+      "erasure of voices"
+    ],
+    [
+      "equitable society",
+      "influences",
+      "educational impact"
+    ],
+    [
+      "equitable society",
+      "shapes",
+      "behaviors"
+    ],
+    [
+      "erasure of voices",
+      "has an impact on",
+      "impact"
+    ],
+    [
+      "erasure of voices",
+      "influences",
+      "cultural norms"
+    ],
+    [
+      "erasure of voices",
+      "is affected by",
+      "adult lives"
+    ],
+    [
+      "erasure of voices",
+      "is affected by",
+      "cultural roots"
+    ],
+    [
+      "erasure of voices",
+      "is challenged by",
+      "knowledge"
+    ],
+    [
+      "erasure of voices",
+      "is impacted by",
+      "marginalized voices"
+    ],
+    [
+      "erasure of voices",
+      "leads to",
+      "human experiences"
+    ],
+    [
+      "erasure of voices",
+      "reinforced by",
+      "dominant values"
+    ],
+    [
+      "erasure of voices",
+      "results in",
+      "educational systems"
+    ],
+    [
+      "erasure of voices",
+      "results in",
+      "evolution"
+    ],
+    [
+      "erasure of voices",
+      "results in",
+      "transformation"
+    ],
+    [
+      "evolution",
+      "advances",
+      "gender equality"
+    ],
+    [
+      "evolution",
+      "affects",
+      "marginalized groups"
+    ],
+    [
+      "evolution",
+      "affects",
+      "representation"
+    ],
+    [
+      "evolution",
+      "drives",
+      "innovation"
+    ],
+    [
+      "evolution",
+      "empowers",
+      "cultural empowerment"
+    ],
+    [
+      "evolution",
+      "encourages",
+      "challenging authority"
+    ],
+    [
+      "evolution",
+      "enhances",
+      "teaching"
+    ],
+    [
+      "evolution",
+      "facilitates",
+      "knowledge transmission"
+    ],
+    [
+      "evolution",
+      "facilitates",
+      "social change"
+    ],
+    [
+      "evolution",
+      "fosters",
+      "fostering respect"
+    ],
+    [
+      "evolution",
+      "fosters",
+      "inclusive culture"
+    ],
+    [
+      "evolution",
+      "influences",
+      "schools"
+    ],
+    [
+      "evolution",
+      "informs",
+      "cultural understanding"
+    ],
+    [
+      "evolution",
+      "promotes",
+      "advancing rights"
+    ],
+    [
+      "evolution",
+      "promotes",
+      "tolerance"
+    ],
+    [
+      "evolution",
+      "reflects",
+      "achievements"
+    ],
+    [
+      "evolution",
+      "shapes",
+      "cultural roots"
+    ],
+    [
+      "fostering respect",
+      "enhances",
+      "social identity"
+    ],
+    [
+      "fostering respect",
+      "influences",
+      "cultural norms"
+    ],
+    [
+      "fostering respect",
+      "promotes",
+      "perspectives"
+    ],
+    [
+      "fostering respect",
+      "supports",
+      "advancing rights"
+    ],
+    [
+      "fostering respect",
+      "supports",
+      "preservation"
+    ],
+    [
+      "gender equality",
+      "advances",
+      "achievements"
+    ],
+    [
+      "gender equality",
+      "affects",
+      "impact"
+    ],
+    [
+      "gender equality",
+      "affects",
+      "social environment"
+    ],
+    [
+      "gender equality",
+      "challenges",
+      "beliefs"
+    ],
+    [
+      "gender equality",
+      "contributes to",
+      "harmonious society"
+    ],
+    [
+      "gender equality",
+      "drives",
+      "innovation"
+    ],
+    [
+      "gender equality",
+      "drives",
+      "social change"
+    ],
+    [
+      "gender equality",
+      "encourages",
+      "questioning norms"
+    ],
+    [
+      "gender equality",
+      "fosters",
+      "fostering respect"
+    ],
+    [
+      "gender equality",
+      "influences",
+      "adult lives"
+    ],
+    [
+      "gender equality",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "gender equality",
+      "influences",
+      "globalized world"
+    ],
+    [
+      "gender equality",
+      "influences",
+      "perspectives"
+    ],
+    [
+      "gender equality",
+      "influences",
+      "schools"
+    ],
+    [
+      "gender equality",
+      "influences",
+      "social identity"
+    ],
+    [
+      "gender equality",
+      "influences",
+      "societal values"
+    ],
+    [
+      "gender equality",
+      "is driven by",
+      "transformative education"
+    ],
+    [
+      "gender equality",
+      "is influenced by",
+      "cultural narratives"
+    ],
+    [
+      "gender equality",
+      "is promoted by",
+      "education"
+    ],
+    [
+      "gender equality",
+      "is taught through",
+      "teaching"
+    ],
+    [
+      "gender equality",
+      "promotes",
+      "advancing rights"
+    ],
+    [
+      "gender equality",
+      "promotes",
+      "empathy"
+    ],
+    [
+      "gender equality",
+      "shapes",
+      "shaping"
+    ],
+    [
+      "generations",
+      "drives",
+      "social change"
+    ],
+    [
+      "generations",
+      "enables",
+      "transformative education"
+    ],
+    [
+      "generations",
+      "ensures",
+      "preservation"
+    ],
+    [
+      "generations",
+      "influences",
+      "achievements"
+    ],
+    [
+      "generations",
+      "influences",
+      "power dynamics"
+    ],
+    [
+      "generations",
+      "influences",
+      "shaping"
+    ],
+    [
+      "generations",
+      "influences",
+      "social environment"
+    ],
+    [
+      "generations",
+      "informs",
+      "cultural understanding"
+    ],
+    [
+      "generations",
+      "involves",
+      "teaching"
+    ],
+    [
+      "generations",
+      "is passed down through",
+      "cultural celebration"
+    ],
+    [
+      "generations",
+      "is passed down through",
+      "cultural richness"
+    ],
+    [
+      "generations",
+      "is shaped by",
+      "tolerance"
+    ],
+    [
+      "generations",
+      "is transmitted through",
+      "history"
+    ],
+    [
+      "generations",
+      "passed down through",
+      "traditional customs"
+    ],
+    [
+      "generations",
+      "shaped by",
+      "societal progress"
+    ],
+    [
+      "generations",
+      "shapes",
+      "adult lives"
+    ],
+    [
+      "generations",
+      "shapes",
+      "culture"
+    ],
+    [
+      "generations",
+      "shapes",
+      "education"
+    ],
+    [
+      "generations",
+      "shapes",
+      "gender equality"
+    ],
+    [
+      "generations",
+      "transmits",
+      "cultural heritage"
+    ],
+    [
+      "generations",
+      "transmits",
+      "identity"
+    ],
+    [
+      "generations",
+      "transmits",
+      "pride"
+    ],
+    [
+      "generations",
+      "transmitted through",
+      "minority perspectives"
+    ],
+    [
+      "globalized world",
+      "exists within",
+      "inclusive culture"
+    ],
+    [
+      "globalized world",
+      "facilitates",
+      "teaching"
+    ],
+    [
+      "globalized world",
+      "influenced by",
+      "adult lives"
+    ],
+    [
+      "globalized world",
+      "influences",
+      "perspectives"
+    ],
+    [
+      "globalized world",
+      "influences",
+      "pride"
+    ],
+    [
+      "globalized world",
+      "influences",
+      "questioning norms"
+    ],
+    [
+      "globalized world",
+      "influences",
+      "schools"
+    ],
+    [
+      "globalized world",
+      "influences",
+      "values"
+    ],
+    [
+      "globalized world",
+      "is affected by",
+      "power dynamics"
+    ],
+    [
+      "globalized world",
+      "is influenced by",
+      "achievements"
+    ],
+    [
+      "globalized world",
+      "is influenced by",
+      "understanding"
+    ],
+    [
+      "globalized world",
+      "is informed by",
+      "knowledge"
+    ],
+    [
+      "globalized world",
+      "shaped by",
+      "dominant values"
+    ],
+    [
+      "globalized world",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "globalized world",
+      "shapes",
+      "generations"
+    ],
+    [
+      "globalized world",
+      "shapes",
+      "representation"
+    ],
+    [
+      "globalized world",
+      "shapes",
+      "transmission"
+    ],
+    [
+      "harmonious society",
+      "affects",
+      "marginalized groups"
+    ],
+    [
+      "harmonious society",
+      "contributes to",
+      "achievements"
+    ],
+    [
+      "harmonious society",
+      "contributes to",
+      "adult lives"
+    ],
+    [
+      "harmonious society",
+      "contributes to",
+      "cultural change"
+    ],
+    [
+      "harmonious society",
+      "contributes to",
+      "cultural differences"
+    ],
+    [
+      "harmonious society",
+      "contributes to",
+      "equitable culture"
+    ],
+    [
+      "harmonious society",
+      "contributes to",
+      "human experiences"
+    ],
+    [
+      "harmonious society",
+      "contributes to",
+      "power dynamics"
+    ],
+    [
+      "harmonious society",
+      "contributes to",
+      "social change"
+    ],
+    [
+      "harmonious society",
+      "contributes to",
+      "transmission"
+    ],
+    [
+      "harmonious society",
+      "enhances",
+      "marginalized voices"
+    ],
+    [
+      "harmonious society",
+      "fosters",
+      "diversity"
+    ],
+    [
+      "harmonious society",
+      "fosters",
+      "understanding"
+    ],
+    [
+      "harmonious society",
+      "is challenged by",
+      "challenging authority"
+    ],
+    [
+      "harmonious society",
+      "is fostered by",
+      "transformative education"
+    ],
+    [
+      "harmonious society",
+      "is shaped by",
+      "inclusive culture"
+    ],
+    [
+      "harmonious society",
+      "promotes",
+      "cultural teachings"
+    ],
+    [
+      "harmonious society",
+      "promotes",
+      "teaching"
+    ],
+    [
+      "harmonious society",
+      "shapes",
+      "behaviors"
+    ],
+    [
+      "harmonious society",
+      "supports",
+      "advancing rights"
+    ],
+    [
+      "history",
+      "documented in",
+      "cultural evolution"
+    ],
+    [
+      "history",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "history",
+      "fosters",
+      "empathy"
+    ],
+    [
+      "history",
+      "influenced by",
+      "adult lives"
+    ],
+    [
+      "history",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "history",
+      "influences",
+      "beliefs"
+    ],
+    [
+      "history",
+      "influences",
+      "cultural hegemony"
+    ],
+    [
+      "history",
+      "influences",
+      "dominant values"
+    ],
+    [
+      "history",
+      "influences",
+      "shaping"
+    ],
+    [
+      "history",
+      "influences",
+      "traditional roles"
+    ],
+    [
+      "history",
+      "influences",
+      "values"
+    ],
+    [
+      "history",
+      "informs",
+      "cultural richness"
+    ],
+    [
+      "history",
+      "informs",
+      "diversity"
+    ],
+    [
+      "history",
+      "informs",
+      "education"
+    ],
+    [
+      "history",
+      "informs",
+      "traditional customs"
+    ],
+    [
+      "history",
+      "is documented in",
+      "erasure of voices"
+    ],
+    [
+      "history",
+      "is represented in",
+      "cultural narratives"
+    ],
+    [
+      "history",
+      "provides",
+      "knowledge"
+    ],
+    [
+      "history",
+      "shapes",
+      "identity"
+    ],
+    [
+      "history",
+      "shapes",
+      "societal values"
+    ],
+    [
+      "human experiences",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "human experiences",
+      "enhances",
+      "education"
+    ],
+    [
+      "human experiences",
+      "enhances",
+      "empathy"
+    ],
+    [
+      "human experiences",
+      "facilitates",
+      "knowledge transmission"
+    ],
+    [
+      "human experiences",
+      "facilitates",
+      "transmission"
+    ],
+    [
+      "human experiences",
+      "influenced by",
+      "transformation"
+    ],
+    [
+      "human experiences",
+      "is encouraged by",
+      "tolerance"
+    ],
+    [
+      "human experiences",
+      "is related to",
+      "cultural differences"
+    ],
+    [
+      "human experiences",
+      "promotes",
+      "equitable culture"
+    ],
+    [
+      "human experiences",
+      "promotes",
+      "gender equality"
+    ],
+    [
+      "human experiences",
+      "questions",
+      "challenging authority"
+    ],
+    [
+      "human experiences",
+      "shaped by",
+      "values"
+    ],
+    [
+      "human experiences",
+      "shapes",
+      "social environment"
+    ],
+    [
+      "identity",
+      "affects",
+      "cultural differences"
+    ],
+    [
+      "identity",
+      "affects",
+      "erasure of voices"
+    ],
+    [
+      "identity",
+      "defines",
+      "cultural richness"
+    ],
+    [
+      "identity",
+      "develops",
+      "teaching"
+    ],
+    [
+      "identity",
+      "drives",
+      "social change"
+    ],
+    [
+      "identity",
+      "encourages",
+      "questioning norms"
+    ],
+    [
+      "identity",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "identity",
+      "influences",
+      "adult lives"
+    ],
+    [
+      "identity",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "identity",
+      "is defined by",
+      "equitable society"
+    ],
+    [
+      "identity",
+      "is fostered by",
+      "tolerance"
+    ],
+    [
+      "identity",
+      "is fostered by",
+      "transformative education"
+    ],
+    [
+      "identity",
+      "is rooted in",
+      "cultural heritage"
+    ],
+    [
+      "identity",
+      "shapes",
+      "cultural change"
+    ],
+    [
+      "identity",
+      "shapes",
+      "education"
+    ],
+    [
+      "identity",
+      "shapes",
+      "globalized world"
+    ],
+    [
+      "identity",
+      "shapes",
+      "transmission"
+    ],
+    [
+      "impact",
+      "affects",
+      "dominant values"
+    ],
+    [
+      "impact",
+      "affects",
+      "institutions"
+    ],
+    [
+      "impact",
+      "affects",
+      "social environment"
+    ],
+    [
+      "impact",
+      "has an effect on",
+      "cultural teachings"
+    ],
+    [
+      "impact",
+      "influences",
+      "minority perspectives"
+    ],
+    [
+      "impact",
+      "influences",
+      "shaping"
+    ],
+    [
+      "impact",
+      "results in",
+      "transformative education"
+    ],
+    [
+      "inclusive culture",
+      "contributes to",
+      "harmonious society"
+    ],
+    [
+      "inclusive culture",
+      "contributes to",
+      "power dynamics"
+    ],
+    [
+      "inclusive culture",
+      "drives",
+      "cultural change"
+    ],
+    [
+      "inclusive culture",
+      "enables",
+      "challenging authority"
+    ],
+    [
+      "inclusive culture",
+      "enables",
+      "transformative education"
+    ],
+    [
+      "inclusive culture",
+      "encourages",
+      "cultural celebration"
+    ],
+    [
+      "inclusive culture",
+      "enhances",
+      "fostering respect"
+    ],
+    [
+      "inclusive culture",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "inclusive culture",
+      "fosters",
+      "empathy"
+    ],
+    [
+      "inclusive culture",
+      "invokes",
+      "criticism of education"
+    ],
+    [
+      "inclusive culture",
+      "is challenged by",
+      "dominant values"
+    ],
+    [
+      "inclusive culture",
+      "is influenced by",
+      "beliefs"
+    ],
+    [
+      "inclusive culture",
+      "is influenced by",
+      "shaping"
+    ],
+    [
+      "inclusive culture",
+      "is informed by",
+      "cultural heritage"
+    ],
+    [
+      "inclusive culture",
+      "promotes",
+      "cultural understanding"
+    ],
+    [
+      "inclusive culture",
+      "promotes",
+      "education"
+    ],
+    [
+      "inclusive culture",
+      "promotes",
+      "equitable society"
+    ],
+    [
+      "inclusive culture",
+      "promotes",
+      "teaching"
+    ],
+    [
+      "inclusive culture",
+      "promotes",
+      "tolerance"
+    ],
+    [
+      "inclusive culture",
+      "provides",
+      "knowledge"
+    ],
+    [
+      "inclusive culture",
+      "reflects",
+      "cultural narratives"
+    ],
+    [
+      "inclusive culture",
+      "requires",
+      "critical thinking"
+    ],
+    [
+      "inclusive culture",
+      "shapes",
+      "behaviors"
+    ],
+    [
+      "inclusive culture",
+      "shapes",
+      "identity"
+    ],
+    [
+      "inclusive culture",
+      "shapes",
+      "perspectives"
+    ],
+    [
+      "inclusive culture",
+      "supports",
+      "preservation"
+    ],
+    [
+      "inclusive culture",
+      "supports",
+      "societal progress"
+    ],
+    [
+      "inclusive culture",
+      "supports",
+      "societal values"
+    ],
+    [
+      "inclusive culture",
+      "supports",
+      "transmission"
+    ],
+    [
+      "inclusivity",
+      "celebrates",
+      "cultural differences"
+    ],
+    [
+      "inclusivity",
+      "contributes to",
+      "harmonious society"
+    ],
+    [
+      "inclusivity",
+      "creates",
+      "equitable culture"
+    ],
+    [
+      "inclusivity",
+      "encourages",
+      "empathy"
+    ],
+    [
+      "inclusivity",
+      "encourages",
+      "questioning norms"
+    ],
+    [
+      "inclusivity",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "inclusivity",
+      "enhances",
+      "education"
+    ],
+    [
+      "inclusivity",
+      "facilitates",
+      "cultural celebration"
+    ],
+    [
+      "inclusivity",
+      "facilitates",
+      "teaching"
+    ],
+    [
+      "inclusivity",
+      "fosters",
+      "understanding"
+    ],
+    [
+      "inclusivity",
+      "fosters tolerance through",
+      "tolerance"
+    ],
+    [
+      "inclusivity",
+      "influences",
+      "societal values"
+    ],
+    [
+      "inclusivity",
+      "involves",
+      "transmission"
+    ],
+    [
+      "inclusivity",
+      "promotes",
+      "achievements"
+    ],
+    [
+      "inclusivity",
+      "promotes",
+      "cultural empowerment"
+    ],
+    [
+      "inclusivity",
+      "promotes",
+      "evolution"
+    ],
+    [
+      "inclusivity",
+      "promotes",
+      "perspectives"
+    ],
+    [
+      "inclusivity",
+      "promotes",
+      "social change"
+    ],
+    [
+      "inclusivity",
+      "promotes",
+      "societal progress"
+    ],
+    [
+      "inclusivity",
+      "questions",
+      "challenging authority"
+    ],
+    [
+      "inclusivity",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "inclusivity",
+      "shapes",
+      "culture"
+    ],
+    [
+      "inclusivity",
+      "shapes",
+      "values"
+    ],
+    [
+      "inclusivity",
+      "supports",
+      "educational systems"
+    ],
+    [
+      "inclusivity",
+      "teaches",
+      "history"
+    ],
+    [
+      "inclusivity",
+      "transmits",
+      "generations"
+    ],
+    [
+      "innovation",
+      "affects",
+      "power dynamics"
+    ],
+    [
+      "innovation",
+      "contributes to",
+      "harmonious society"
+    ],
+    [
+      "innovation",
+      "drives",
+      "behaviors"
+    ],
+    [
+      "innovation",
+      "drives",
+      "erasure of voices"
+    ],
+    [
+      "innovation",
+      "drives",
+      "identity"
+    ],
+    [
+      "innovation",
+      "drives",
+      "pride"
+    ],
+    [
+      "innovation",
+      "encourages",
+      "fostering respect"
+    ],
+    [
+      "innovation",
+      "enhances",
+      "cultural understanding"
+    ],
+    [
+      "innovation",
+      "enhances",
+      "empathy"
+    ],
+    [
+      "innovation",
+      "enhances",
+      "teaching"
+    ],
+    [
+      "innovation",
+      "facilitates",
+      "preservation"
+    ],
+    [
+      "innovation",
+      "utilizes",
+      "schools"
+    ],
+    [
+      "institutions",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "institutions",
+      "facilitates",
+      "equitable society"
+    ],
+    [
+      "institutions",
+      "facilitates",
+      "teaching"
+    ],
+    [
+      "institutions",
+      "includes",
+      "schools"
+    ],
+    [
+      "institutions",
+      "influenced by",
+      "identity"
+    ],
+    [
+      "institutions",
+      "influenced by",
+      "power dynamics"
+    ],
+    [
+      "institutions",
+      "influences",
+      "cultural narratives"
+    ],
+    [
+      "institutions",
+      "influences",
+      "empathy"
+    ],
+    [
+      "institutions",
+      "influences",
+      "generations"
+    ],
+    [
+      "institutions",
+      "influences",
+      "social environment"
+    ],
+    [
+      "institutions",
+      "influences",
+      "values"
+    ],
+    [
+      "institutions",
+      "informs",
+      "traditional customs"
+    ],
+    [
+      "institutions",
+      "is influenced by",
+      "shaping"
+    ],
+    [
+      "institutions",
+      "is utilized by",
+      "adult lives"
+    ],
+    [
+      "institutions",
+      "managed by",
+      "cultural richness"
+    ],
+    [
+      "institutions",
+      "overseen by",
+      "erasure of voices"
+    ],
+    [
+      "institutions",
+      "provides",
+      "cultural roots"
+    ],
+    [
+      "institutions",
+      "provides",
+      "fostering respect"
+    ],
+    [
+      "institutions",
+      "provides",
+      "representation"
+    ],
+    [
+      "institutions",
+      "reflects",
+      "societal values"
+    ],
+    [
+      "institutions",
+      "shapes",
+      "culture"
+    ],
+    [
+      "institutions",
+      "silenced by",
+      "marginalized voices"
+    ],
+    [
+      "institutions",
+      "supported by",
+      "inclusive culture"
+    ],
+    [
+      "institutions",
+      "supports",
+      "advancing rights"
+    ],
+    [
+      "institutions",
+      "supports",
+      "innovation"
+    ],
+    [
+      "institutions",
+      "supports",
+      "social change"
+    ],
+    [
+      "institutions",
+      "utilizes",
+      "human experiences"
+    ],
+    [
+      "knowledge",
+      "derived from",
+      "equitable culture"
+    ],
+    [
+      "knowledge",
+      "derived from",
+      "understanding"
+    ],
+    [
+      "knowledge",
+      "enhances",
+      "achievements"
+    ],
+    [
+      "knowledge",
+      "influenced by",
+      "adult lives"
+    ],
+    [
+      "knowledge",
+      "influences",
+      "evolution"
+    ],
+    [
+      "knowledge",
+      "influences",
+      "marginalized voices"
+    ],
+    [
+      "knowledge",
+      "informs",
+      "human experiences"
+    ],
+    [
+      "knowledge",
+      "informs",
+      "social change"
+    ],
+    [
+      "knowledge",
+      "informs",
+      "societal values"
+    ],
+    [
+      "knowledge",
+      "is based on",
+      "pride"
+    ],
+    [
+      "knowledge",
+      "is influenced by",
+      "behaviors"
+    ],
+    [
+      "knowledge",
+      "is informed by",
+      "cultural narratives"
+    ],
+    [
+      "knowledge",
+      "is informed by",
+      "equitable society"
+    ],
+    [
+      "knowledge",
+      "provides",
+      "generations"
+    ],
+    [
+      "knowledge",
+      "questions",
+      "criticism of education"
+    ],
+    [
+      "knowledge transmission",
+      "affects",
+      "impact"
+    ],
+    [
+      "knowledge transmission",
+      "drives",
+      "cultural change"
+    ],
+    [
+      "knowledge transmission",
+      "enables",
+      "challenging authority"
+    ],
+    [
+      "knowledge transmission",
+      "enables",
+      "social change"
+    ],
+    [
+      "knowledge transmission",
+      "facilitates",
+      "cultural differences"
+    ],
+    [
+      "knowledge transmission",
+      "facilitates",
+      "understanding"
+    ],
+    [
+      "knowledge transmission",
+      "involves",
+      "teaching"
+    ],
+    [
+      "knowledge transmission",
+      "results from",
+      "adult lives"
+    ],
+    [
+      "marginalized groups",
+      "advancing rights for",
+      "advancing rights"
+    ],
+    [
+      "marginalized groups",
+      "affected by",
+      "gender equality"
+    ],
+    [
+      "marginalized groups",
+      "affected by",
+      "societal progress"
+    ],
+    [
+      "marginalized groups",
+      "affects",
+      "achievements"
+    ],
+    [
+      "marginalized groups",
+      "affects",
+      "behaviors"
+    ],
+    [
+      "marginalized groups",
+      "affects",
+      "beliefs"
+    ],
+    [
+      "marginalized groups",
+      "affects",
+      "challenging authority"
+    ],
+    [
+      "marginalized groups",
+      "affects",
+      "cultural differences"
+    ],
+    [
+      "marginalized groups",
+      "affects",
+      "cultural richness"
+    ],
+    [
+      "marginalized groups",
+      "affects",
+      "inclusive culture"
+    ],
+    [
+      "marginalized groups",
+      "affects",
+      "perspectives"
+    ],
+    [
+      "marginalized groups",
+      "affects",
+      "shaping"
+    ],
+    [
+      "marginalized groups",
+      "affects",
+      "social identity"
+    ],
+    [
+      "marginalized groups",
+      "affects",
+      "tolerance"
+    ],
+    [
+      "marginalized groups",
+      "benefits",
+      "cultural empowerment"
+    ],
+    [
+      "marginalized groups",
+      "faces",
+      "criticism of education"
+    ],
+    [
+      "marginalized groups",
+      "impacts",
+      "schools"
+    ],
+    [
+      "marginalized groups",
+      "is affected by",
+      "cultural understanding"
+    ],
+    [
+      "marginalized groups",
+      "is affected by",
+      "empathy"
+    ],
+    [
+      "marginalized groups",
+      "is affected by",
+      "identity"
+    ],
+    [
+      "marginalized groups",
+      "is challenged by",
+      "cultural celebration"
+    ],
+    [
+      "marginalized groups",
+      "is experienced by",
+      "pride"
+    ],
+    [
+      "marginalized groups",
+      "marginalizes",
+      "innovation"
+    ],
+    [
+      "marginalized groups",
+      "marginalizes",
+      "values"
+    ],
+    [
+      "marginalized groups",
+      "overlooked by",
+      "cultural teachings"
+    ],
+    [
+      "marginalized groups",
+      "provides",
+      "knowledge"
+    ],
+    [
+      "marginalized groups",
+      "silences",
+      "cultural narratives"
+    ],
+    [
+      "marginalized groups",
+      "supports",
+      "preservation"
+    ],
+    [
+      "marginalized groups",
+      "understands",
+      "understanding"
+    ],
+    [
+      "marginalized voices",
+      "amplifies",
+      "inclusivity"
+    ],
+    [
+      "marginalized voices",
+      "challenges",
+      "beliefs"
+    ],
+    [
+      "marginalized voices",
+      "challenges",
+      "challenging authority"
+    ],
+    [
+      "marginalized voices",
+      "contributes to",
+      "equitable society"
+    ],
+    [
+      "marginalized voices",
+      "empowers",
+      "cultural empowerment"
+    ],
+    [
+      "marginalized voices",
+      "encourages",
+      "fostering respect"
+    ],
+    [
+      "marginalized voices",
+      "fosters",
+      "empathy"
+    ],
+    [
+      "marginalized voices",
+      "fosters",
+      "tolerance"
+    ],
+    [
+      "marginalized voices",
+      "informs social identity of",
+      "social identity"
+    ],
+    [
+      "marginalized voices",
+      "is affected by",
+      "educational impact"
+    ],
+    [
+      "marginalized voices",
+      "is affected by",
+      "equitable culture"
+    ],
+    [
+      "marginalized voices",
+      "is influenced by",
+      "education"
+    ],
+    [
+      "marginalized voices",
+      "is integral to identity of",
+      "identity"
+    ],
+    [
+      "marginalized voices",
+      "is represented by",
+      "diversity"
+    ],
+    [
+      "marginalized voices",
+      "is represented by",
+      "minority perspectives"
+    ],
+    [
+      "marginalized voices",
+      "overrides",
+      "dominant values"
+    ],
+    [
+      "marginalized voices",
+      "represented by",
+      "institutions"
+    ],
+    [
+      "marginalized voices",
+      "requires",
+      "critical thinking"
+    ],
+    [
+      "marginalized voices",
+      "silences",
+      "cultural hegemony"
+    ],
+    [
+      "marginalized voices",
+      "supported by",
+      "preservation"
+    ],
+    [
+      "minority perspectives",
+      "challenges",
+      "challenging authority"
+    ],
+    [
+      "minority perspectives",
+      "challenges",
+      "cultural narratives"
+    ],
+    [
+      "minority perspectives",
+      "contributes to",
+      "harmonious society"
+    ],
+    [
+      "minority perspectives",
+      "empowers",
+      "cultural empowerment"
+    ],
+    [
+      "minority perspectives",
+      "encourages",
+      "questioning norms"
+    ],
+    [
+      "minority perspectives",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "minority perspectives",
+      "enhances knowledge of",
+      "knowledge"
+    ],
+    [
+      "minority perspectives",
+      "facilitates",
+      "transformative education"
+    ],
+    [
+      "minority perspectives",
+      "fosters",
+      "empathy"
+    ],
+    [
+      "minority perspectives",
+      "influences",
+      "cultural heritage"
+    ],
+    [
+      "minority perspectives",
+      "is taught by",
+      "teaching"
+    ],
+    [
+      "minority perspectives",
+      "overrides",
+      "dominant values"
+    ],
+    [
+      "minority perspectives",
+      "promotes",
+      "equitable culture"
+    ],
+    [
+      "minority perspectives",
+      "promotes",
+      "inclusive culture"
+    ],
+    [
+      "minority perspectives",
+      "promotes",
+      "societal progress"
+    ],
+    [
+      "minority perspectives",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "minority perspectives",
+      "shapes",
+      "social identity"
+    ],
+    [
+      "minority perspectives",
+      "supports",
+      "advancing rights"
+    ],
+    [
+      "perspectives",
+      "influences",
+      "erasure of voices"
+    ],
+    [
+      "perspectives",
+      "influences",
+      "social change"
+    ],
+    [
+      "perspectives",
+      "influences",
+      "traditional customs"
+    ],
+    [
+      "perspectives",
+      "informed by",
+      "marginalized voices"
+    ],
+    [
+      "perspectives",
+      "informs",
+      "cultural differences"
+    ],
+    [
+      "perspectives",
+      "informs",
+      "cultural heritage"
+    ],
+    [
+      "perspectives",
+      "informs",
+      "cultural narratives"
+    ],
+    [
+      "perspectives",
+      "informs",
+      "culture"
+    ],
+    [
+      "perspectives",
+      "informs",
+      "teaching"
+    ],
+    [
+      "perspectives",
+      "inspired by",
+      "innovation"
+    ],
+    [
+      "perspectives",
+      "is informed by",
+      "adult lives"
+    ],
+    [
+      "perspectives",
+      "is informed by",
+      "human experiences"
+    ],
+    [
+      "perspectives",
+      "provides",
+      "institutions"
+    ],
+    [
+      "perspectives",
+      "requires",
+      "equitable society"
+    ],
+    [
+      "perspectives",
+      "shapes",
+      "behaviors"
+    ],
+    [
+      "perspectives",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "perspectives",
+      "shapes",
+      "values"
+    ],
+    [
+      "power dynamics",
+      "affects",
+      "educational impact"
+    ],
+    [
+      "power dynamics",
+      "affects",
+      "gender equality"
+    ],
+    [
+      "power dynamics",
+      "affects",
+      "marginalized groups"
+    ],
+    [
+      "power dynamics",
+      "affects",
+      "social environment"
+    ],
+    [
+      "power dynamics",
+      "affects",
+      "tolerance"
+    ],
+    [
+      "power dynamics",
+      "drives",
+      "cultural change"
+    ],
+    [
+      "power dynamics",
+      "is influenced by",
+      "shaping"
+    ],
+    [
+      "power dynamics",
+      "is influenced by",
+      "social change"
+    ],
+    [
+      "power dynamics",
+      "is questioned by",
+      "questioning norms"
+    ],
+    [
+      "power dynamics",
+      "reinforces",
+      "cultural hegemony"
+    ],
+    [
+      "power dynamics",
+      "reinforces",
+      "minority perspectives"
+    ],
+    [
+      "preservation",
+      "contributes to preservation of",
+      "behaviors"
+    ],
+    [
+      "preservation",
+      "enables preservation of",
+      "societal progress"
+    ],
+    [
+      "preservation",
+      "influences",
+      "social environment"
+    ],
+    [
+      "preservation",
+      "is maintained by",
+      "identity"
+    ],
+    [
+      "preservation",
+      "is preserved by",
+      "harmonious society"
+    ],
+    [
+      "preservation",
+      "requires",
+      "equitable society"
+    ],
+    [
+      "preservation",
+      "supports",
+      "empathy"
+    ],
+    [
+      "preservation",
+      "supports",
+      "globalized world"
+    ],
+    [
+      "preservation",
+      "threatens",
+      "erasure of voices"
+    ],
+    [
+      "pride",
+      "contributes to",
+      "identity"
+    ],
+    [
+      "pride",
+      "drives",
+      "social change"
+    ],
+    [
+      "pride",
+      "encourages",
+      "questioning norms"
+    ],
+    [
+      "pride",
+      "enhances",
+      "cultural empowerment"
+    ],
+    [
+      "pride",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "pride",
+      "facilitates",
+      "transmission"
+    ],
+    [
+      "pride",
+      "facilitates transformative education for",
+      "transformative education"
+    ],
+    [
+      "pride",
+      "fosters",
+      "empathy"
+    ],
+    [
+      "pride",
+      "influences",
+      "perspectives"
+    ],
+    [
+      "pride",
+      "inspired by",
+      "values"
+    ],
+    [
+      "pride",
+      "instills",
+      "achievements"
+    ],
+    [
+      "pride",
+      "instills",
+      "cultural appreciation"
+    ],
+    [
+      "pride",
+      "instills",
+      "inclusive culture"
+    ],
+    [
+      "pride",
+      "is conveyed through",
+      "teaching"
+    ],
+    [
+      "pride",
+      "is derived from",
+      "beliefs"
+    ],
+    [
+      "pride",
+      "is derived from",
+      "cultural heritage"
+    ],
+    [
+      "pride",
+      "reflects",
+      "culture"
+    ],
+    [
+      "pride",
+      "reinforces",
+      "power dynamics"
+    ],
+    [
+      "pride",
+      "requires",
+      "representation"
+    ],
+    [
+      "pride",
+      "shapes",
+      "social identity"
+    ],
+    [
+      "questioning norms",
+      "affects",
+      "marginalized groups"
+    ],
+    [
+      "questioning norms",
+      "challenges",
+      "beliefs"
+    ],
+    [
+      "questioning norms",
+      "contributes to",
+      "harmonious society"
+    ],
+    [
+      "questioning norms",
+      "enhances",
+      "knowledge"
+    ],
+    [
+      "questioning norms",
+      "facilitates",
+      "transformative education"
+    ],
+    [
+      "questioning norms",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "questioning norms",
+      "influences",
+      "tolerance"
+    ],
+    [
+      "questioning norms",
+      "involves",
+      "teaching"
+    ],
+    [
+      "questioning norms",
+      "is a process of",
+      "shaping"
+    ],
+    [
+      "questioning norms",
+      "is questioned by",
+      "adult lives"
+    ],
+    [
+      "representation",
+      "influences",
+      "dominant values"
+    ],
+    [
+      "representation",
+      "is influenced by",
+      "adult lives"
+    ],
+    [
+      "representation",
+      "is influenced by",
+      "cultural teachings"
+    ],
+    [
+      "representation",
+      "is represented by",
+      "minority perspectives"
+    ],
+    [
+      "representation",
+      "requires",
+      "cultural richness"
+    ],
+    [
+      "representation",
+      "requires",
+      "gender equality"
+    ],
+    [
+      "representation",
+      "shapes",
+      "impact"
+    ],
+    [
+      "schools",
+      "facilitates",
+      "preservation"
+    ],
+    [
+      "schools",
+      "influences",
+      "dominant values"
+    ],
+    [
+      "schools",
+      "is affected by",
+      "erasure of voices"
+    ],
+    [
+      "schools",
+      "is taught in",
+      "traditional customs"
+    ],
+    [
+      "schools",
+      "promotes",
+      "advancing rights"
+    ],
+    [
+      "schools",
+      "provides",
+      "knowledge"
+    ],
+    [
+      "schools",
+      "shapes",
+      "identity"
+    ],
+    [
+      "schools",
+      "shapes",
+      "power dynamics"
+    ],
+    [
+      "schools",
+      "shapes",
+      "social environment"
+    ],
+    [
+      "schools",
+      "shapes",
+      "social identity"
+    ],
+    [
+      "schools",
+      "taught in",
+      "beliefs"
+    ],
+    [
+      "schools",
+      "teaches",
+      "history"
+    ],
+    [
+      "shaping",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "shaping",
+      "influences",
+      "cultural differences"
+    ],
+    [
+      "shaping",
+      "influences",
+      "perspectives"
+    ],
+    [
+      "social change",
+      "drives",
+      "behaviors"
+    ],
+    [
+      "social change",
+      "drives",
+      "cultural narratives"
+    ],
+    [
+      "social change",
+      "drives",
+      "marginalized groups"
+    ],
+    [
+      "social change",
+      "enables",
+      "preservation"
+    ],
+    [
+      "social change",
+      "encourages",
+      "fostering respect"
+    ],
+    [
+      "social change",
+      "facilitates",
+      "teaching"
+    ],
+    [
+      "social change",
+      "fosters",
+      "schools"
+    ],
+    [
+      "social change",
+      "influences",
+      "social environment"
+    ],
+    [
+      "social change",
+      "is affected by",
+      "inclusive culture"
+    ],
+    [
+      "social change",
+      "shapes",
+      "social identity"
+    ],
+    [
+      "social environment",
+      "affects",
+      "criticism of education"
+    ],
+    [
+      "social environment",
+      "affects",
+      "cultural richness"
+    ],
+    [
+      "social environment",
+      "affects",
+      "erasure of voices"
+    ],
+    [
+      "social environment",
+      "affects",
+      "globalized world"
+    ],
+    [
+      "social environment",
+      "affects",
+      "societal progress"
+    ],
+    [
+      "social environment",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "social environment",
+      "is influenced by",
+      "shaping"
+    ],
+    [
+      "social environment",
+      "is navigated by",
+      "cultural differences"
+    ],
+    [
+      "social environment",
+      "is navigated by",
+      "cultural heritage"
+    ],
+    [
+      "social environment",
+      "shapes",
+      "behaviors"
+    ],
+    [
+      "social environment",
+      "shapes",
+      "dominant values"
+    ],
+    [
+      "social environment",
+      "shapes",
+      "educational systems"
+    ],
+    [
+      "social identity",
+      "influenced by",
+      "advancing rights"
+    ],
+    [
+      "social identity",
+      "influences",
+      "traditional customs"
+    ],
+    [
+      "social identity",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "social identity",
+      "is shaped by",
+      "dominant values"
+    ],
+    [
+      "social identity",
+      "shaped by",
+      "cultural richness"
+    ],
+    [
+      "social identity",
+      "shapes",
+      "erasure of voices"
+    ],
+    [
+      "social identity",
+      "shapes",
+      "power dynamics"
+    ],
+    [
+      "societal progress",
+      "advances",
+      "advancing rights"
+    ],
+    [
+      "societal progress",
+      "contributes to",
+      "harmonious society"
+    ],
+    [
+      "societal progress",
+      "contributes to creation of",
+      "equitable society"
+    ],
+    [
+      "societal progress",
+      "drives",
+      "cultural teachings"
+    ],
+    [
+      "societal progress",
+      "drives",
+      "equitable culture"
+    ],
+    [
+      "societal progress",
+      "drives",
+      "history"
+    ],
+    [
+      "societal progress",
+      "drives",
+      "human experiences"
+    ],
+    [
+      "societal progress",
+      "drives",
+      "innovation"
+    ],
+    [
+      "societal progress",
+      "drives",
+      "knowledge"
+    ],
+    [
+      "societal progress",
+      "drives",
+      "social change"
+    ],
+    [
+      "societal progress",
+      "facilitates",
+      "education"
+    ],
+    [
+      "societal progress",
+      "is a result of",
+      "adult lives"
+    ],
+    [
+      "societal progress",
+      "is influenced by",
+      "shaping"
+    ],
+    [
+      "societal progress",
+      "is taught by",
+      "teaching"
+    ],
+    [
+      "societal progress",
+      "promotes",
+      "cultural differences"
+    ],
+    [
+      "societal progress",
+      "promotes",
+      "questioning norms"
+    ],
+    [
+      "societal progress",
+      "promotes fostering respect for",
+      "fostering respect"
+    ],
+    [
+      "societal progress",
+      "requires",
+      "critical thinking"
+    ],
+    [
+      "societal progress",
+      "supports",
+      "cultural heritage"
+    ],
+    [
+      "societal progress",
+      "supports",
+      "schools"
+    ],
+    [
+      "societal values",
+      "influences",
+      "dominant values"
+    ],
+    [
+      "societal values",
+      "influences",
+      "evolution"
+    ],
+    [
+      "societal values",
+      "reflects",
+      "harmonious society"
+    ],
+    [
+      "societal values",
+      "reflects",
+      "identity"
+    ],
+    [
+      "societal values",
+      "shaped by",
+      "generations"
+    ],
+    [
+      "societal values",
+      "shapes",
+      "impact"
+    ],
+    [
+      "societal values",
+      "shapes",
+      "perspectives"
+    ],
+    [
+      "societal values",
+      "shapes",
+      "representation"
+    ],
+    [
+      "teaching",
+      "affects",
+      "social environment"
+    ],
+    [
+      "teaching",
+      "influenced by",
+      "human experiences"
+    ],
+    [
+      "teaching",
+      "informs",
+      "marginalized groups"
+    ],
+    [
+      "teaching",
+      "is achieved through",
+      "educational impact"
+    ],
+    [
+      "teaching",
+      "results from",
+      "adult lives"
+    ],
+    [
+      "tolerance",
+      "affects",
+      "cultural narratives"
+    ],
+    [
+      "tolerance",
+      "broadens",
+      "perspectives"
+    ],
+    [
+      "tolerance",
+      "challenges",
+      "challenging authority"
+    ],
+    [
+      "tolerance",
+      "contributes to",
+      "equitable society"
+    ],
+    [
+      "tolerance",
+      "enhanced by",
+      "knowledge"
+    ],
+    [
+      "tolerance",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "tolerance",
+      "enhances",
+      "understanding"
+    ],
+    [
+      "tolerance",
+      "facilitates",
+      "fostering respect"
+    ],
+    [
+      "tolerance",
+      "fosters",
+      "cultural differences"
+    ],
+    [
+      "tolerance",
+      "influences",
+      "cultural norms"
+    ],
+    [
+      "tolerance",
+      "is enhanced by",
+      "innovation"
+    ],
+    [
+      "tolerance",
+      "is fostered by",
+      "schools"
+    ],
+    [
+      "tolerance",
+      "is influenced by",
+      "adult lives"
+    ],
+    [
+      "tolerance",
+      "is taught through",
+      "teaching"
+    ],
+    [
+      "tolerance",
+      "promotes",
+      "behaviors"
+    ],
+    [
+      "tolerance",
+      "promotes",
+      "cultural understanding"
+    ],
+    [
+      "tolerance",
+      "promotes",
+      "erasure of voices"
+    ],
+    [
+      "tolerance",
+      "supports",
+      "institutions"
+    ],
+    [
+      "tolerance",
+      "supports",
+      "preservation"
+    ],
+    [
+      "traditional customs",
+      "affects",
+      "marginalized groups"
+    ],
+    [
+      "traditional customs",
+      "encourages",
+      "fostering respect"
+    ],
+    [
+      "traditional customs",
+      "facilitates",
+      "teaching"
+    ],
+    [
+      "traditional customs",
+      "influences",
+      "shaping"
+    ],
+    [
+      "traditional customs",
+      "is associated with",
+      "pride"
+    ],
+    [
+      "traditional customs",
+      "is influenced by",
+      "diversity"
+    ],
+    [
+      "traditional customs",
+      "is supported by",
+      "inclusive culture"
+    ],
+    [
+      "traditional customs",
+      "is understood through",
+      "understanding"
+    ],
+    [
+      "traditional customs",
+      "promotes",
+      "cultural appreciation"
+    ],
+    [
+      "traditional customs",
+      "promotes",
+      "societal progress"
+    ],
+    [
+      "traditional customs",
+      "promotes",
+      "tolerance"
+    ],
+    [
+      "traditional customs",
+      "provides",
+      "knowledge"
+    ],
+    [
+      "traditional customs",
+      "supports",
+      "cultural empowerment"
+    ],
+    [
+      "traditional customs",
+      "supports",
+      "harmonious society"
+    ],
+    [
+      "traditional customs",
+      "supports",
+      "preservation"
+    ],
+    [
+      "traditional customs",
+      "upheld by",
+      "values"
+    ],
+    [
+      "traditional roles",
+      "defines",
+      "cultural norms"
+    ],
+    [
+      "traditional roles",
+      "drives",
+      "social change"
+    ],
+    [
+      "traditional roles",
+      "empowers",
+      "cultural empowerment"
+    ],
+    [
+      "traditional roles",
+      "encourages",
+      "questioning norms"
+    ],
+    [
+      "traditional roles",
+      "facilitates",
+      "knowledge transmission"
+    ],
+    [
+      "traditional roles",
+      "influences",
+      "equitable culture"
+    ],
+    [
+      "traditional roles",
+      "influences",
+      "evolution"
+    ],
+    [
+      "traditional roles",
+      "is critiqued in education for",
+      "criticism of education"
+    ],
+    [
+      "traditional roles",
+      "is impacted by education on",
+      "educational impact"
+    ],
+    [
+      "traditional roles",
+      "is passed down through",
+      "generations"
+    ],
+    [
+      "traditional roles",
+      "reflects",
+      "societal values"
+    ],
+    [
+      "traditional roles",
+      "requires",
+      "critical thinking"
+    ],
+    [
+      "traditional roles",
+      "requires",
+      "representation"
+    ],
+    [
+      "traditional roles",
+      "shapes",
+      "educational systems"
+    ],
+    [
+      "traditional roles",
+      "taught by",
+      "teaching"
+    ],
+    [
+      "traditional roles",
+      "transmits",
+      "transmission"
+    ],
+    [
+      "traditional roles",
+      "undergoes",
+      "transformation"
+    ],
+    [
+      "transformation",
+      "advances",
+      "gender equality"
+    ],
+    [
+      "transformation",
+      "contributes to",
+      "harmonious society"
+    ],
+    [
+      "transformation",
+      "drives",
+      "advancing rights"
+    ],
+    [
+      "transformation",
+      "drives",
+      "societal progress"
+    ],
+    [
+      "transformation",
+      "enables",
+      "cultural empowerment"
+    ],
+    [
+      "transformation",
+      "enables",
+      "transformative education"
+    ],
+    [
+      "transformation",
+      "facilitates",
+      "knowledge transmission"
+    ],
+    [
+      "transformation",
+      "fosters",
+      "empathy"
+    ],
+    [
+      "transformation",
+      "fosters",
+      "inclusive culture"
+    ],
+    [
+      "transformation",
+      "highlights",
+      "minority perspectives"
+    ],
+    [
+      "transformation",
+      "influences",
+      "identity"
+    ],
+    [
+      "transformation",
+      "influences",
+      "power dynamics"
+    ],
+    [
+      "transformation",
+      "informs",
+      "cultural teachings"
+    ],
+    [
+      "transformation",
+      "instills",
+      "pride"
+    ],
+    [
+      "transformation",
+      "involves",
+      "challenging authority"
+    ],
+    [
+      "transformation",
+      "involves",
+      "cultural differences"
+    ],
+    [
+      "transformation",
+      "shapes",
+      "cultural narratives"
+    ],
+    [
+      "transformative education",
+      "affects",
+      "social environment"
+    ],
+    [
+      "transformative education",
+      "enables",
+      "transmission"
+    ],
+    [
+      "transformative education",
+      "enhances",
+      "representation"
+    ],
+    [
+      "transformative education",
+      "faces",
+      "criticism of education"
+    ],
+    [
+      "transformative education",
+      "facilitates",
+      "societal progress"
+    ],
+    [
+      "transformative education",
+      "facilitates",
+      "understanding"
+    ],
+    [
+      "transformative education",
+      "fosters",
+      "empathy"
+    ],
+    [
+      "transformative education",
+      "influenced by",
+      "equitable culture"
+    ],
+    [
+      "transformative education",
+      "interacts with",
+      "globalized world"
+    ],
+    [
+      "transformative education",
+      "is shaped by",
+      "adult lives"
+    ],
+    [
+      "transformative education",
+      "provides",
+      "institutions"
+    ],
+    [
+      "transformative education",
+      "provides",
+      "perspectives"
+    ],
+    [
+      "transformative education",
+      "shapes",
+      "societal values"
+    ],
+    [
+      "transmission",
+      "affects",
+      "impact"
+    ],
+    [
+      "transmission",
+      "contributes to",
+      "social identity"
+    ],
+    [
+      "transmission",
+      "drives",
+      "social change"
+    ],
+    [
+      "transmission",
+      "encourages",
+      "questioning norms"
+    ],
+    [
+      "transmission",
+      "enhances",
+      "empathy"
+    ],
+    [
+      "transmission",
+      "facilitates",
+      "adult lives"
+    ],
+    [
+      "transmission",
+      "facilitates",
+      "understanding"
+    ],
+    [
+      "transmission",
+      "influences",
+      "social environment"
+    ],
+    [
+      "transmission",
+      "influences",
+      "societal values"
+    ],
+    [
+      "transmission",
+      "informs",
+      "dominant values"
+    ],
+    [
+      "transmission",
+      "is challenged by",
+      "challenging authority"
+    ],
+    [
+      "transmission",
+      "is facilitated by",
+      "teaching"
+    ],
+    [
+      "transmission",
+      "is passed down through",
+      "generations"
+    ],
+    [
+      "transmission",
+      "provides",
+      "institutions"
+    ],
+    [
+      "transmission",
+      "provides",
+      "perspectives"
+    ],
+    [
+      "transmission",
+      "requires",
+      "critical thinking"
+    ],
+    [
+      "transmission",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "transmission",
+      "transmits",
+      "cultural narratives"
+    ],
+    [
+      "understanding",
+      "enhances",
+      "achievements"
+    ],
+    [
+      "understanding",
+      "enhances",
+      "adult lives"
+    ],
+    [
+      "understanding",
+      "enhances",
+      "cultural differences"
+    ],
+    [
+      "understanding",
+      "enhances",
+      "cultural heritage"
+    ],
+    [
+      "understanding",
+      "enhances understanding of",
+      "traditional roles"
+    ],
+    [
+      "understanding",
+      "facilitates",
+      "social change"
+    ],
+    [
+      "understanding",
+      "is achieved through",
+      "teaching"
+    ],
+    [
+      "understanding",
+      "is shaped by",
+      "generations"
+    ],
+    [
+      "understanding",
+      "promotes",
+      "advancing rights"
+    ],
+    [
+      "understanding",
+      "provided by",
+      "schools"
+    ],
+    [
+      "understanding",
+      "shapes",
+      "social environment"
+    ],
+    [
+      "values",
+      "challenges",
+      "challenging authority"
+    ],
+    [
+      "values",
+      "contrasts with",
+      "cultural differences"
+    ],
+    [
+      "values",
+      "contributes to",
+      "equitable society"
+    ],
+    [
+      "values",
+      "drives",
+      "cultural change"
+    ],
+    [
+      "values",
+      "drives",
+      "cultural evolution"
+    ],
+    [
+      "values",
+      "drives",
+      "empowerment"
+    ],
+    [
+      "values",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "values",
+      "enhances",
+      "cultural empowerment"
+    ],
+    [
+      "values",
+      "enhances",
+      "cultural understanding"
+    ],
+    [
+      "values",
+      "influences",
+      "gender equality"
+    ],
+    [
+      "values",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "values",
+      "informs",
+      "social identity"
+    ],
+    [
+      "values",
+      "is conveyed through",
+      "transmission"
+    ],
+    [
+      "values",
+      "is essential for",
+      "preservation"
+    ],
+    [
+      "values",
+      "is influenced by",
+      "social change"
+    ],
+    [
+      "values",
+      "promotes",
+      "cultural appreciation"
+    ],
+    [
+      "values",
+      "promotes",
+      "tolerance"
+    ],
+    [
+      "values",
+      "shapes",
+      "harmonious society"
+    ],
+    [
+      "values",
+      "shapes",
+      "shaping"
+    ],
+    [
+      "values",
+      "supports",
+      "advancing rights"
+    ],
+    [
+      "values",
+      "taught in",
+      "schools"
+    ],
+    [
+      "values",
+      "undergoes evolution in",
+      "evolution"
+    ]
+  ],
+  "edges": [
+    "advances",
+    "advances societal values through",
+    "advancing rights for",
+    "affected by",
+    "affects",
+    "amplifies",
+    "benefits",
+    "broadens",
+    "broadens perspectives on",
+    "can hinder",
+    "can lead to",
+    "celebrated by",
+    "celebrates",
+    "celebrates cultural differences through",
+    "challenged by",
+    "challenges",
+    "comprises",
+    "contrasts with",
+    "contributes to",
+    "contributes to creation of",
+    "contributes to development of",
+    "contributes to harmonious society through",
+    "contributes to preservation of",
+    "creates",
+    "criticized by",
+    "criticizes",
+    "critiques",
+    "cultivates",
+    "defines",
+    "derived from",
+    "determines",
+    "develops",
+    "documented in",
+    "dominates",
+    "driven by",
+    "drives",
+    "drives innovation in",
+    "empowers",
+    "enables",
+    "enables preservation of",
+    "encompasses",
+    "encourages",
+    "encourages questioning of",
+    "enforces",
+    "enhanced by",
+    "enhances",
+    "enhances critical thinking through",
+    "enhances knowledge of",
+    "enhances knowledge through",
+    "enhances understanding of",
+    "enriches",
+    "ensures",
+    "establishes",
+    "evolves into",
+    "exists within",
+    "faces",
+    "facilitates",
+    "facilitates transformative education for",
+    "fosters",
+    "fosters respect for",
+    "fosters tolerance through",
+    "guides",
+    "has an effect on",
+    "has an impact on",
+    "highlights",
+    "hinders",
+    "impacts",
+    "impedes",
+    "imposed by",
+    "imposes",
+    "includes",
+    "influenced by",
+    "influences",
+    "influences cultural norms in",
+    "informed by",
+    "informs",
+    "informs social identity of",
+    "inspired by",
+    "instills",
+    "interacts with",
+    "invokes",
+    "involves",
+    "is a form of",
+    "is a process of",
+    "is a result of",
+    "is a subject of",
+    "is achieved through",
+    "is affected by",
+    "is associated with",
+    "is based on",
+    "is caused by",
+    "is challenged by",
+    "is conveyed through",
+    "is criticized by",
+    "is critiqued by",
+    "is critiqued in education for",
+    "is defined by",
+    "is derived from",
+    "is developed by",
+    "is documented in",
+    "is driven by",
+    "is empowered by",
+    "is encouraged by",
+    "is enhanced by",
+    "is essential for",
+    "is experienced by",
+    "is facilitated by",
+    "is fostered by",
+    "is foundational for identity of",
+    "is impacted by",
+    "is impacted by education on",
+    "is influenced by",
+    "is informed by",
+    "is integral to identity of",
+    "is maintained by",
+    "is navigated by",
+    "is passed down through",
+    "is perpetuated by",
+    "is preserved by",
+    "is promoted by",
+    "is propagated by",
+    "is provided by",
+    "is questioned by",
+    "is related to",
+    "is represented by",
+    "is represented in",
+    "is rooted in",
+    "is shaped by",
+    "is subject to criticism of",
+    "is supported by",
+    "is taught by",
+    "is taught in",
+    "is taught through",
+    "is transmitted through",
+    "is understood through",
+    "is utilized by",
+    "leads to",
+    "managed by",
+    "marginalizes",
+    "nurtures",
+    "occurs in",
+    "operates within",
+    "opposes",
+    "overlooked by",
+    "overrides",
+    "overseen by",
+    "passed down through",
+    "perpetuated by",
+    "plays a role in",
+    "preserves",
+    "promotes",
+    "promotes fostering respect for",
+    "provided by",
+    "provides",
+    "questions",
+    "reflects",
+    "reinforced by",
+    "reinforces",
+    "represented by",
+    "represents",
+    "requires",
+    "requires representation of",
+    "results from",
+    "results in",
+    "shaped by",
+    "shapes",
+    "shapes social identity through",
+    "silenced by",
+    "silences",
+    "supported by",
+    "supports",
+    "supports preservation of",
+    "taught by",
+    "taught in",
+    "teaches",
+    "threatens",
+    "transforms",
+    "transmits",
+    "transmitted through",
+    "undergoes",
+    "undergoes evolution in",
+    "understands",
+    "upheld by",
+    "utilizes"
+  ]
+}

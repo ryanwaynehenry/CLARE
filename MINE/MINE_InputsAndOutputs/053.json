@@ -1,0 +1,8075 @@
+{
+  "entities": [
+    "achievements",
+    "action",
+    "athlete advocacy",
+    "athletes",
+    "barriers",
+    "belonging",
+    "branding",
+    "breaking boundaries",
+    "bridging divides",
+    "camaraderie",
+    "celebration",
+    "celebrity athletes",
+    "challenging norms",
+    "collaboration",
+    "collective goals",
+    "collective identity",
+    "commercialization",
+    "common passion",
+    "community building",
+    "community development",
+    "community engagement",
+    "community pride",
+    "competition",
+    "cultural exchange",
+    "cultural significance",
+    "culture",
+    "discipline",
+    "discrimination",
+    "diversity",
+    "economic contribution",
+    "empowerment",
+    "endorsements",
+    "engagement",
+    "fair play",
+    "fan engagement",
+    "fans",
+    "financial growth",
+    "fostering connections",
+    "gender equality",
+    "global economy",
+    "global events",
+    "global reach",
+    "healthy society",
+    "importance of sports",
+    "inclusion",
+    "inclusivity",
+    "inspiration",
+    "international competition",
+    "international tournaments",
+    "investment",
+    "job creation",
+    "justice",
+    "life lessons",
+    "life skills",
+    "local economies",
+    "local games",
+    "local pride",
+    "major events",
+    "market influence",
+    "media coverage",
+    "networking opportunities",
+    "overcoming obstacles",
+    "participation",
+    "perseverance",
+    "personal growth",
+    "platforms",
+    "positive change",
+    "powerful means",
+    "pride",
+    "public interest",
+    "recognition",
+    "resilience",
+    "revenue generation",
+    "role of sports",
+    "shared experiences",
+    "social change",
+    "social impact",
+    "sporting events",
+    "sports industry",
+    "stereotypes",
+    "success and failure",
+    "team dynamics",
+    "teams",
+    "teamwork",
+    "tourism boost",
+    "traditions",
+    "transcendence",
+    "transcending barriers",
+    "unity",
+    "values"
+  ],
+  "relations": [
+    [
+      "achievements",
+      "achieved through",
+      "transcendence"
+    ],
+    [
+      "achievements",
+      "bridges",
+      "bridging divides"
+    ],
+    [
+      "achievements",
+      "celebrates",
+      "celebration"
+    ],
+    [
+      "achievements",
+      "develops",
+      "life skills"
+    ],
+    [
+      "achievements",
+      "drives",
+      "social change"
+    ],
+    [
+      "achievements",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "achievements",
+      "highlights",
+      "justice"
+    ],
+    [
+      "achievements",
+      "illustrates",
+      "role of sports"
+    ],
+    [
+      "achievements",
+      "influences",
+      "team dynamics"
+    ],
+    [
+      "achievements",
+      "informs",
+      "traditions"
+    ],
+    [
+      "achievements",
+      "is celebrated by",
+      "competition"
+    ],
+    [
+      "achievements",
+      "is cultivated through",
+      "discipline"
+    ],
+    [
+      "achievements",
+      "is enhanced by",
+      "inclusion"
+    ],
+    [
+      "achievements",
+      "is reflected in",
+      "success and failure"
+    ],
+    [
+      "achievements",
+      "leads to",
+      "empowerment"
+    ],
+    [
+      "achievements",
+      "provides",
+      "inspiration"
+    ],
+    [
+      "achievements",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "action",
+      "contributes to",
+      "economic contribution"
+    ],
+    [
+      "action",
+      "drives",
+      "common passion"
+    ],
+    [
+      "action",
+      "drives",
+      "teamwork"
+    ],
+    [
+      "action",
+      "enables",
+      "financial growth"
+    ],
+    [
+      "action",
+      "enables",
+      "inclusivity"
+    ],
+    [
+      "action",
+      "facilitates",
+      "community building"
+    ],
+    [
+      "action",
+      "inspired by",
+      "pride"
+    ],
+    [
+      "action",
+      "motivates",
+      "athletes"
+    ],
+    [
+      "action",
+      "receives",
+      "media coverage"
+    ],
+    [
+      "action",
+      "stimulates",
+      "local economies"
+    ],
+    [
+      "action",
+      "transcends",
+      "transcending barriers"
+    ],
+    [
+      "athlete advocacy",
+      "advocates for",
+      "gender equality"
+    ],
+    [
+      "athlete advocacy",
+      "advocates for",
+      "inclusion"
+    ],
+    [
+      "athlete advocacy",
+      "aligns with",
+      "collective goals"
+    ],
+    [
+      "athlete advocacy",
+      "challenges",
+      "barriers"
+    ],
+    [
+      "athlete advocacy",
+      "creates",
+      "social impact"
+    ],
+    [
+      "athlete advocacy",
+      "enhances",
+      "branding"
+    ],
+    [
+      "athlete advocacy",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "athlete advocacy",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "athlete advocacy",
+      "extends",
+      "global reach"
+    ],
+    [
+      "athlete advocacy",
+      "generates",
+      "revenue generation"
+    ],
+    [
+      "athlete advocacy",
+      "impacts",
+      "commercialization"
+    ],
+    [
+      "athlete advocacy",
+      "influences",
+      "culture"
+    ],
+    [
+      "athlete advocacy",
+      "influences",
+      "global economy"
+    ],
+    [
+      "athlete advocacy",
+      "influences",
+      "media coverage"
+    ],
+    [
+      "athlete advocacy",
+      "influences",
+      "sports industry"
+    ],
+    [
+      "athlete advocacy",
+      "instills",
+      "pride"
+    ],
+    [
+      "athlete advocacy",
+      "promotes",
+      "engagement"
+    ],
+    [
+      "athlete advocacy",
+      "promotes",
+      "international tournaments"
+    ],
+    [
+      "athlete advocacy",
+      "promotes",
+      "local games"
+    ],
+    [
+      "athlete advocacy",
+      "promotes",
+      "social change"
+    ],
+    [
+      "athlete advocacy",
+      "promotes",
+      "transcendence"
+    ],
+    [
+      "athlete advocacy",
+      "requires",
+      "discipline"
+    ],
+    [
+      "athlete advocacy",
+      "serves",
+      "public interest"
+    ],
+    [
+      "athlete advocacy",
+      "shapes",
+      "traditions"
+    ],
+    [
+      "athlete advocacy",
+      "supports",
+      "community development"
+    ],
+    [
+      "athletes",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "athletes",
+      "attracts",
+      "public interest"
+    ],
+    [
+      "athletes",
+      "benefits from",
+      "endorsements"
+    ],
+    [
+      "athletes",
+      "benefits from",
+      "global economy"
+    ],
+    [
+      "athletes",
+      "benefits from",
+      "local economies"
+    ],
+    [
+      "athletes",
+      "competes",
+      "teamwork"
+    ],
+    [
+      "athletes",
+      "develops",
+      "perseverance"
+    ],
+    [
+      "athletes",
+      "drives",
+      "positive change"
+    ],
+    [
+      "athletes",
+      "entertains",
+      "fans"
+    ],
+    [
+      "athletes",
+      "facilitates",
+      "bridging divides"
+    ],
+    [
+      "athletes",
+      "generates",
+      "media coverage"
+    ],
+    [
+      "athletes",
+      "influences",
+      "personal growth"
+    ],
+    [
+      "athletes",
+      "inspired by",
+      "powerful means"
+    ],
+    [
+      "athletes",
+      "inspired by",
+      "transcendence"
+    ],
+    [
+      "athletes",
+      "involves",
+      "competition"
+    ],
+    [
+      "athletes",
+      "is influenced by",
+      "stereotypes"
+    ],
+    [
+      "athletes",
+      "participates in",
+      "international tournaments"
+    ],
+    [
+      "athletes",
+      "participates in",
+      "success and failure"
+    ],
+    [
+      "athletes",
+      "represented by",
+      "culture"
+    ],
+    [
+      "athletes",
+      "represents",
+      "teams"
+    ],
+    [
+      "athletes",
+      "shares",
+      "common passion"
+    ],
+    [
+      "athletes",
+      "supported by",
+      "belonging"
+    ],
+    [
+      "barriers",
+      "breaks down",
+      "celebrity athletes"
+    ],
+    [
+      "barriers",
+      "breaks down",
+      "resilience"
+    ],
+    [
+      "barriers",
+      "challenge",
+      "athletes"
+    ],
+    [
+      "barriers",
+      "challenges",
+      "camaraderie"
+    ],
+    [
+      "barriers",
+      "creates",
+      "success and failure"
+    ],
+    [
+      "barriers",
+      "drives",
+      "commercialization"
+    ],
+    [
+      "barriers",
+      "drives",
+      "social change"
+    ],
+    [
+      "barriers",
+      "expands",
+      "global reach"
+    ],
+    [
+      "barriers",
+      "facilitates",
+      "community building"
+    ],
+    [
+      "barriers",
+      "facilitates",
+      "transcendence"
+    ],
+    [
+      "barriers",
+      "impedes",
+      "collaboration"
+    ],
+    [
+      "barriers",
+      "is overcome by",
+      "perseverance"
+    ],
+    [
+      "barriers",
+      "overcomes",
+      "transcending barriers"
+    ],
+    [
+      "barriers",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "barriers",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "barriers",
+      "transcends",
+      "common passion"
+    ],
+    [
+      "barriers",
+      "transcends",
+      "international tournaments"
+    ],
+    [
+      "belonging",
+      "achieves",
+      "collective goals"
+    ],
+    [
+      "belonging",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "belonging",
+      "creates",
+      "fans"
+    ],
+    [
+      "belonging",
+      "creates",
+      "personal growth"
+    ],
+    [
+      "belonging",
+      "creates",
+      "platforms"
+    ],
+    [
+      "belonging",
+      "creates",
+      "traditions"
+    ],
+    [
+      "belonging",
+      "cultivates",
+      "achievements"
+    ],
+    [
+      "belonging",
+      "defines",
+      "role of sports"
+    ],
+    [
+      "belonging",
+      "derived from",
+      "life lessons"
+    ],
+    [
+      "belonging",
+      "encourages",
+      "positive change"
+    ],
+    [
+      "belonging",
+      "enhances",
+      "fair play"
+    ],
+    [
+      "belonging",
+      "enhances",
+      "life skills"
+    ],
+    [
+      "belonging",
+      "extends",
+      "global reach"
+    ],
+    [
+      "belonging",
+      "fosters",
+      "competition"
+    ],
+    [
+      "belonging",
+      "fosters",
+      "engagement"
+    ],
+    [
+      "belonging",
+      "fosters",
+      "inspiration"
+    ],
+    [
+      "belonging",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "belonging",
+      "promotes",
+      "justice"
+    ],
+    [
+      "belonging",
+      "promotes",
+      "social change"
+    ],
+    [
+      "belonging",
+      "provides",
+      "recognition"
+    ],
+    [
+      "belonging",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "belonging",
+      "supports",
+      "perseverance"
+    ],
+    [
+      "branding",
+      "associated with",
+      "discrimination"
+    ],
+    [
+      "branding",
+      "associated with",
+      "platforms"
+    ],
+    [
+      "branding",
+      "contributes to",
+      "economic contribution"
+    ],
+    [
+      "branding",
+      "cultivates",
+      "common passion"
+    ],
+    [
+      "branding",
+      "drives",
+      "competition"
+    ],
+    [
+      "branding",
+      "enhances",
+      "achievements"
+    ],
+    [
+      "branding",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "branding",
+      "enhances",
+      "international tournaments"
+    ],
+    [
+      "branding",
+      "enhances",
+      "personal growth"
+    ],
+    [
+      "branding",
+      "facilitates",
+      "overcoming obstacles"
+    ],
+    [
+      "branding",
+      "fosters",
+      "belonging"
+    ],
+    [
+      "branding",
+      "helps in",
+      "transcending barriers"
+    ],
+    [
+      "branding",
+      "highlights",
+      "importance of sports"
+    ],
+    [
+      "branding",
+      "increases",
+      "fan engagement"
+    ],
+    [
+      "branding",
+      "influences",
+      "media coverage"
+    ],
+    [
+      "branding",
+      "instills",
+      "discipline"
+    ],
+    [
+      "branding",
+      "is improved by",
+      "empowerment"
+    ],
+    [
+      "branding",
+      "promotes",
+      "gender equality"
+    ],
+    [
+      "branding",
+      "supports",
+      "healthy society"
+    ],
+    [
+      "breaking boundaries",
+      "affects",
+      "global economy"
+    ],
+    [
+      "breaking boundaries",
+      "bridges",
+      "bridging divides"
+    ],
+    [
+      "breaking boundaries",
+      "challenges",
+      "barriers"
+    ],
+    [
+      "breaking boundaries",
+      "challenges",
+      "discipline"
+    ],
+    [
+      "breaking boundaries",
+      "creates",
+      "belonging"
+    ],
+    [
+      "breaking boundaries",
+      "creates",
+      "social impact"
+    ],
+    [
+      "breaking boundaries",
+      "drives",
+      "action"
+    ],
+    [
+      "breaking boundaries",
+      "enables",
+      "commercialization"
+    ],
+    [
+      "breaking boundaries",
+      "enables",
+      "empowerment"
+    ],
+    [
+      "breaking boundaries",
+      "encourages",
+      "celebration"
+    ],
+    [
+      "breaking boundaries",
+      "encourages",
+      "collaboration"
+    ],
+    [
+      "breaking boundaries",
+      "encourages",
+      "perseverance"
+    ],
+    [
+      "breaking boundaries",
+      "enhances",
+      "branding"
+    ],
+    [
+      "breaking boundaries",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "breaking boundaries",
+      "enhances",
+      "life skills"
+    ],
+    [
+      "breaking boundaries",
+      "enhances",
+      "local pride"
+    ],
+    [
+      "breaking boundaries",
+      "facilitates",
+      "international tournaments"
+    ],
+    [
+      "breaking boundaries",
+      "fosters",
+      "community pride"
+    ],
+    [
+      "breaking boundaries",
+      "inspires",
+      "inspiration"
+    ],
+    [
+      "breaking boundaries",
+      "involves",
+      "celebrity athletes"
+    ],
+    [
+      "breaking boundaries",
+      "promotes",
+      "gender equality"
+    ],
+    [
+      "breaking boundaries",
+      "promotes",
+      "justice"
+    ],
+    [
+      "breaking boundaries",
+      "promotes",
+      "positive change"
+    ],
+    [
+      "breaking boundaries",
+      "promotes",
+      "unity"
+    ],
+    [
+      "breaking boundaries",
+      "receives",
+      "recognition"
+    ],
+    [
+      "breaking boundaries",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "breaking boundaries",
+      "supports",
+      "fair play"
+    ],
+    [
+      "bridging divides",
+      "enhances",
+      "perseverance"
+    ],
+    [
+      "bridging divides",
+      "facilitates",
+      "transcending barriers"
+    ],
+    [
+      "camaraderie",
+      "aligns with",
+      "collective goals"
+    ],
+    [
+      "camaraderie",
+      "builds",
+      "collective identity"
+    ],
+    [
+      "camaraderie",
+      "builds",
+      "teams"
+    ],
+    [
+      "camaraderie",
+      "creates",
+      "unity"
+    ],
+    [
+      "camaraderie",
+      "encourages",
+      "positive change"
+    ],
+    [
+      "camaraderie",
+      "enhances",
+      "common passion"
+    ],
+    [
+      "camaraderie",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "camaraderie",
+      "enhances",
+      "fostering connections"
+    ],
+    [
+      "camaraderie",
+      "enhances",
+      "resilience"
+    ],
+    [
+      "camaraderie",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "camaraderie",
+      "facilitates",
+      "community building"
+    ],
+    [
+      "camaraderie",
+      "fosters",
+      "community engagement"
+    ],
+    [
+      "camaraderie",
+      "fosters",
+      "empowerment"
+    ],
+    [
+      "camaraderie",
+      "fosters",
+      "local games"
+    ],
+    [
+      "camaraderie",
+      "fosters",
+      "sporting events"
+    ],
+    [
+      "camaraderie",
+      "highlights",
+      "importance of sports"
+    ],
+    [
+      "camaraderie",
+      "involves",
+      "participation"
+    ],
+    [
+      "camaraderie",
+      "nurtures",
+      "traditions"
+    ],
+    [
+      "camaraderie",
+      "overcomes",
+      "transcending barriers"
+    ],
+    [
+      "camaraderie",
+      "promotes",
+      "breaking boundaries"
+    ],
+    [
+      "camaraderie",
+      "promotes",
+      "engagement"
+    ],
+    [
+      "camaraderie",
+      "promotes",
+      "gender equality"
+    ],
+    [
+      "camaraderie",
+      "provides",
+      "networking opportunities"
+    ],
+    [
+      "camaraderie",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "camaraderie",
+      "supports",
+      "local economies"
+    ],
+    [
+      "camaraderie",
+      "supports",
+      "perseverance"
+    ],
+    [
+      "camaraderie",
+      "supports",
+      "personal growth"
+    ],
+    [
+      "celebration",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "celebration",
+      "celebrates",
+      "competition"
+    ],
+    [
+      "celebration",
+      "celebrates",
+      "fans"
+    ],
+    [
+      "celebration",
+      "celebrates",
+      "financial growth"
+    ],
+    [
+      "celebration",
+      "celebrates",
+      "global events"
+    ],
+    [
+      "celebration",
+      "celebrates",
+      "life skills"
+    ],
+    [
+      "celebration",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "celebration",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "celebration",
+      "facilitates",
+      "community building"
+    ],
+    [
+      "celebration",
+      "influences",
+      "media coverage"
+    ],
+    [
+      "celebration",
+      "inspires",
+      "social change"
+    ],
+    [
+      "celebration",
+      "is a result of",
+      "engagement"
+    ],
+    [
+      "celebration",
+      "promotes",
+      "local games"
+    ],
+    [
+      "celebration",
+      "reflects",
+      "cultural significance"
+    ],
+    [
+      "celebration",
+      "shapes",
+      "culture"
+    ],
+    [
+      "celebration",
+      "underscores",
+      "importance of sports"
+    ],
+    [
+      "celebrity athletes",
+      "bridges",
+      "bridging divides"
+    ],
+    [
+      "celebrity athletes",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "celebrity athletes",
+      "collaborates with",
+      "collaboration"
+    ],
+    [
+      "celebrity athletes",
+      "competes in",
+      "competition"
+    ],
+    [
+      "celebrity athletes",
+      "creates",
+      "social impact"
+    ],
+    [
+      "celebrity athletes",
+      "drives",
+      "commercialization"
+    ],
+    [
+      "celebrity athletes",
+      "drives",
+      "revenue generation"
+    ],
+    [
+      "celebrity athletes",
+      "embodies",
+      "cultural significance"
+    ],
+    [
+      "celebrity athletes",
+      "facilitates",
+      "community building"
+    ],
+    [
+      "celebrity athletes",
+      "fosters",
+      "unity"
+    ],
+    [
+      "celebrity athletes",
+      "inspires",
+      "action"
+    ],
+    [
+      "celebrity athletes",
+      "instills",
+      "discipline"
+    ],
+    [
+      "celebrity athletes",
+      "promotes",
+      "engagement"
+    ],
+    [
+      "celebrity athletes",
+      "promotes",
+      "fair play"
+    ],
+    [
+      "celebrity athletes",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "celebrity athletes",
+      "provides",
+      "inspiration"
+    ],
+    [
+      "celebrity athletes",
+      "receives",
+      "endorsements"
+    ],
+    [
+      "celebrity athletes",
+      "receives",
+      "recognition"
+    ],
+    [
+      "celebrity athletes",
+      "supports",
+      "community development"
+    ],
+    [
+      "celebrity athletes",
+      "teaches",
+      "life lessons"
+    ],
+    [
+      "celebrity athletes",
+      "unites",
+      "collective goals"
+    ],
+    [
+      "challenging norms",
+      "challenges",
+      "discipline"
+    ],
+    [
+      "challenging norms",
+      "challenges",
+      "diversity"
+    ],
+    [
+      "challenging norms",
+      "challenges",
+      "fair play"
+    ],
+    [
+      "challenging norms",
+      "challenges",
+      "inclusivity"
+    ],
+    [
+      "challenging norms",
+      "challenges",
+      "teamwork"
+    ],
+    [
+      "challenging norms",
+      "creates",
+      "common passion"
+    ],
+    [
+      "challenging norms",
+      "is affected by",
+      "social impact"
+    ],
+    [
+      "challenging norms",
+      "is challenged by",
+      "branding"
+    ],
+    [
+      "challenging norms",
+      "is challenged by",
+      "bridging divides"
+    ],
+    [
+      "collaboration",
+      "achieves",
+      "collective goals"
+    ],
+    [
+      "collaboration",
+      "addresses",
+      "discrimination"
+    ],
+    [
+      "collaboration",
+      "boosts",
+      "local economies"
+    ],
+    [
+      "collaboration",
+      "boosts",
+      "tourism boost"
+    ],
+    [
+      "collaboration",
+      "builds",
+      "community building"
+    ],
+    [
+      "collaboration",
+      "comprises",
+      "teams"
+    ],
+    [
+      "collaboration",
+      "contributes to",
+      "community development"
+    ],
+    [
+      "collaboration",
+      "contributes to",
+      "economic contribution"
+    ],
+    [
+      "collaboration",
+      "cultivates",
+      "pride"
+    ],
+    [
+      "collaboration",
+      "drives",
+      "commercialization"
+    ],
+    [
+      "collaboration",
+      "drives",
+      "social impact"
+    ],
+    [
+      "collaboration",
+      "enables",
+      "overcoming obstacles"
+    ],
+    [
+      "collaboration",
+      "encourages",
+      "positive change"
+    ],
+    [
+      "collaboration",
+      "enhances",
+      "branding"
+    ],
+    [
+      "collaboration",
+      "enhances",
+      "inclusion"
+    ],
+    [
+      "collaboration",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "collaboration",
+      "facilitates",
+      "bridging divides"
+    ],
+    [
+      "collaboration",
+      "facilitates",
+      "global events"
+    ],
+    [
+      "collaboration",
+      "facilitates",
+      "international tournaments"
+    ],
+    [
+      "collaboration",
+      "facilitates",
+      "transcending barriers"
+    ],
+    [
+      "collaboration",
+      "fosters",
+      "common passion"
+    ],
+    [
+      "collaboration",
+      "inspires",
+      "inspiration"
+    ],
+    [
+      "collaboration",
+      "involves",
+      "athletes"
+    ],
+    [
+      "collaboration",
+      "involves",
+      "local games"
+    ],
+    [
+      "collaboration",
+      "involves",
+      "sporting events"
+    ],
+    [
+      "collaboration",
+      "promotes",
+      "social change"
+    ],
+    [
+      "collaboration",
+      "promotes",
+      "unity"
+    ],
+    [
+      "collaboration",
+      "requires",
+      "discipline"
+    ],
+    [
+      "collaboration",
+      "results from",
+      "recognition"
+    ],
+    [
+      "collaboration",
+      "supports",
+      "gender equality"
+    ],
+    [
+      "collaboration",
+      "teaches",
+      "life lessons"
+    ],
+    [
+      "collaboration",
+      "teaches",
+      "life skills"
+    ],
+    [
+      "collective goals",
+      "achieves",
+      "breaking boundaries"
+    ],
+    [
+      "collective goals",
+      "achieves",
+      "teams"
+    ],
+    [
+      "collective goals",
+      "advances",
+      "gender equality"
+    ],
+    [
+      "collective goals",
+      "aligns with",
+      "branding"
+    ],
+    [
+      "collective goals",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "collective goals",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "collective goals",
+      "creates",
+      "networking opportunities"
+    ],
+    [
+      "collective goals",
+      "drives",
+      "competition"
+    ],
+    [
+      "collective goals",
+      "emphasizes",
+      "importance of sports"
+    ],
+    [
+      "collective goals",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "collective goals",
+      "fosters",
+      "common passion"
+    ],
+    [
+      "collective goals",
+      "influences",
+      "commercialization"
+    ],
+    [
+      "collective goals",
+      "influences",
+      "media coverage"
+    ],
+    [
+      "collective goals",
+      "overcomes",
+      "transcending barriers"
+    ],
+    [
+      "collective goals",
+      "requires",
+      "perseverance"
+    ],
+    [
+      "collective goals",
+      "serves",
+      "public interest"
+    ],
+    [
+      "collective goals",
+      "supports",
+      "economic contribution"
+    ],
+    [
+      "collective goals",
+      "supports",
+      "healthy society"
+    ],
+    [
+      "collective identity",
+      "achieves",
+      "recognition"
+    ],
+    [
+      "collective identity",
+      "contributes to",
+      "bridging divides"
+    ],
+    [
+      "collective identity",
+      "contributes to",
+      "healthy society"
+    ],
+    [
+      "collective identity",
+      "empowers",
+      "empowerment"
+    ],
+    [
+      "collective identity",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "collective identity",
+      "fosters",
+      "fostering connections"
+    ],
+    [
+      "collective identity",
+      "involves",
+      "commercialization"
+    ],
+    [
+      "collective identity",
+      "is shaped by",
+      "sporting events"
+    ],
+    [
+      "collective identity",
+      "represents",
+      "teams"
+    ],
+    [
+      "collective identity",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "collective identity",
+      "shapes",
+      "branding"
+    ],
+    [
+      "collective identity",
+      "teaches",
+      "life skills"
+    ],
+    [
+      "commercialization",
+      "affects",
+      "personal growth"
+    ],
+    [
+      "commercialization",
+      "boosts",
+      "tourism boost"
+    ],
+    [
+      "commercialization",
+      "defines",
+      "role of sports"
+    ],
+    [
+      "commercialization",
+      "driven by",
+      "shared experiences"
+    ],
+    [
+      "commercialization",
+      "drives",
+      "celebration"
+    ],
+    [
+      "commercialization",
+      "drives",
+      "fostering connections"
+    ],
+    [
+      "commercialization",
+      "drives",
+      "international tournaments"
+    ],
+    [
+      "commercialization",
+      "drives",
+      "positive change"
+    ],
+    [
+      "commercialization",
+      "drives",
+      "pride"
+    ],
+    [
+      "commercialization",
+      "drives",
+      "sports industry"
+    ],
+    [
+      "commercialization",
+      "facilitates",
+      "bridging divides"
+    ],
+    [
+      "commercialization",
+      "increases",
+      "fan engagement"
+    ],
+    [
+      "commercialization",
+      "influences",
+      "values"
+    ],
+    [
+      "commercialization",
+      "is affected by",
+      "fair play"
+    ],
+    [
+      "commercialization",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "commercialization",
+      "requires",
+      "discipline"
+    ],
+    [
+      "commercialization",
+      "requires",
+      "teamwork"
+    ],
+    [
+      "commercialization",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "commercialization",
+      "stimulates",
+      "local economies"
+    ],
+    [
+      "commercialization",
+      "supports",
+      "community development"
+    ],
+    [
+      "common passion",
+      "drives",
+      "media coverage"
+    ],
+    [
+      "common passion",
+      "fosters",
+      "achievements"
+    ],
+    [
+      "common passion",
+      "fosters",
+      "teamwork"
+    ],
+    [
+      "common passion",
+      "is inspired by",
+      "teams"
+    ],
+    [
+      "common passion",
+      "unites",
+      "fans"
+    ],
+    [
+      "community building",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "community building",
+      "engages",
+      "fans"
+    ],
+    [
+      "community building",
+      "fosters",
+      "local pride"
+    ],
+    [
+      "community building",
+      "illustrates",
+      "role of sports"
+    ],
+    [
+      "community building",
+      "shapes",
+      "media coverage"
+    ],
+    [
+      "community development",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "community development",
+      "aligns with",
+      "collective goals"
+    ],
+    [
+      "community development",
+      "celebrates",
+      "celebration"
+    ],
+    [
+      "community development",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "community development",
+      "contributes to",
+      "economic contribution"
+    ],
+    [
+      "community development",
+      "creates",
+      "traditions"
+    ],
+    [
+      "community development",
+      "drives",
+      "local economies"
+    ],
+    [
+      "community development",
+      "drives",
+      "sports industry"
+    ],
+    [
+      "community development",
+      "enables",
+      "transcending barriers"
+    ],
+    [
+      "community development",
+      "enhances",
+      "media coverage"
+    ],
+    [
+      "community development",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "community development",
+      "fosters",
+      "common passion"
+    ],
+    [
+      "community development",
+      "fosters",
+      "local pride"
+    ],
+    [
+      "community development",
+      "fosters",
+      "pride"
+    ],
+    [
+      "community development",
+      "highlights",
+      "importance of sports"
+    ],
+    [
+      "community development",
+      "illustrates",
+      "role of sports"
+    ],
+    [
+      "community development",
+      "promotes",
+      "local games"
+    ],
+    [
+      "community development",
+      "promotes",
+      "positive change"
+    ],
+    [
+      "community development",
+      "stimulates",
+      "revenue generation"
+    ],
+    [
+      "community development",
+      "stimulates",
+      "tourism boost"
+    ],
+    [
+      "community development",
+      "supports",
+      "endorsements"
+    ],
+    [
+      "community development",
+      "supports",
+      "global reach"
+    ],
+    [
+      "community engagement",
+      "creates",
+      "belonging"
+    ],
+    [
+      "community engagement",
+      "drives",
+      "competition"
+    ],
+    [
+      "community engagement",
+      "engages",
+      "celebrity athletes"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "branding"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "global reach"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "media coverage"
+    ],
+    [
+      "community engagement",
+      "fosters",
+      "empowerment"
+    ],
+    [
+      "community engagement",
+      "fosters",
+      "pride"
+    ],
+    [
+      "community engagement",
+      "fosters",
+      "teamwork"
+    ],
+    [
+      "community engagement",
+      "influences",
+      "success and failure"
+    ],
+    [
+      "community engagement",
+      "leads to",
+      "recognition"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "fair play"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "local games"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "overcoming obstacles"
+    ],
+    [
+      "community engagement",
+      "provides",
+      "networking opportunities"
+    ],
+    [
+      "community engagement",
+      "reinforces",
+      "traditions"
+    ],
+    [
+      "community engagement",
+      "requires",
+      "investment"
+    ],
+    [
+      "community engagement",
+      "requires",
+      "perseverance"
+    ],
+    [
+      "community engagement",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "community engagement",
+      "stimulates",
+      "local economies"
+    ],
+    [
+      "community engagement",
+      "teaches",
+      "life lessons"
+    ],
+    [
+      "community engagement",
+      "utilizes",
+      "platforms"
+    ],
+    [
+      "community pride",
+      "achieve",
+      "collective goals"
+    ],
+    [
+      "community pride",
+      "boosts",
+      "platforms"
+    ],
+    [
+      "community pride",
+      "cultivates",
+      "traditions"
+    ],
+    [
+      "community pride",
+      "drives",
+      "positive change"
+    ],
+    [
+      "community pride",
+      "encourages",
+      "overcoming obstacles"
+    ],
+    [
+      "community pride",
+      "enhances",
+      "branding"
+    ],
+    [
+      "community pride",
+      "enhances",
+      "endorsements"
+    ],
+    [
+      "community pride",
+      "enhances",
+      "sporting events"
+    ],
+    [
+      "community pride",
+      "extends",
+      "global reach"
+    ],
+    [
+      "community pride",
+      "facilitates",
+      "bridging divides"
+    ],
+    [
+      "community pride",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "community pride",
+      "fosters",
+      "empowerment"
+    ],
+    [
+      "community pride",
+      "fosters",
+      "perseverance"
+    ],
+    [
+      "community pride",
+      "fosters",
+      "teams"
+    ],
+    [
+      "community pride",
+      "fosters",
+      "teamwork"
+    ],
+    [
+      "community pride",
+      "generates",
+      "public interest"
+    ],
+    [
+      "community pride",
+      "influences",
+      "team dynamics"
+    ],
+    [
+      "community pride",
+      "instills",
+      "life lessons"
+    ],
+    [
+      "community pride",
+      "shapes",
+      "collective identity"
+    ],
+    [
+      "competition",
+      "breaks down",
+      "transcending barriers"
+    ],
+    [
+      "competition",
+      "bridges",
+      "bridging divides"
+    ],
+    [
+      "competition",
+      "competes with",
+      "gender equality"
+    ],
+    [
+      "competition",
+      "contributes to",
+      "economic contribution"
+    ],
+    [
+      "competition",
+      "contributes to",
+      "healthy society"
+    ],
+    [
+      "competition",
+      "drives",
+      "camaraderie"
+    ],
+    [
+      "competition",
+      "enables",
+      "overcoming obstacles"
+    ],
+    [
+      "competition",
+      "enables",
+      "platforms"
+    ],
+    [
+      "competition",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "competition",
+      "generates",
+      "revenue generation"
+    ],
+    [
+      "competition",
+      "influenced by",
+      "traditions"
+    ],
+    [
+      "competition",
+      "influences",
+      "action"
+    ],
+    [
+      "competition",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "competition",
+      "shapes",
+      "culture"
+    ],
+    [
+      "competition",
+      "stimulates",
+      "local economies"
+    ],
+    [
+      "competition",
+      "teaches",
+      "life skills"
+    ],
+    [
+      "competition",
+      "tested by",
+      "resilience"
+    ],
+    [
+      "cultural exchange",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "cultural exchange",
+      "connects",
+      "fans"
+    ],
+    [
+      "cultural exchange",
+      "contributes to",
+      "economic contribution"
+    ],
+    [
+      "cultural exchange",
+      "creates",
+      "common passion"
+    ],
+    [
+      "cultural exchange",
+      "encourages",
+      "positive change"
+    ],
+    [
+      "cultural exchange",
+      "enhances",
+      "camaraderie"
+    ],
+    [
+      "cultural exchange",
+      "transcends",
+      "transcending barriers"
+    ],
+    [
+      "cultural significance",
+      "demonstrates",
+      "perseverance"
+    ],
+    [
+      "cultural significance",
+      "reflects",
+      "culture"
+    ],
+    [
+      "cultural significance",
+      "represents",
+      "teams"
+    ],
+    [
+      "culture",
+      "bridges",
+      "bridging divides"
+    ],
+    [
+      "culture",
+      "develops",
+      "life skills"
+    ],
+    [
+      "culture",
+      "fosters",
+      "local pride"
+    ],
+    [
+      "culture",
+      "highlights",
+      "importance of sports"
+    ],
+    [
+      "culture",
+      "influenced by",
+      "barriers"
+    ],
+    [
+      "culture",
+      "influences",
+      "fans"
+    ],
+    [
+      "culture",
+      "influences",
+      "transcendence"
+    ],
+    [
+      "culture",
+      "is influenced by",
+      "competition"
+    ],
+    [
+      "culture",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "culture",
+      "shaped by",
+      "international tournaments"
+    ],
+    [
+      "culture",
+      "shaped by",
+      "pride"
+    ],
+    [
+      "culture",
+      "shapes",
+      "local games"
+    ],
+    [
+      "culture",
+      "shapes",
+      "personal growth"
+    ],
+    [
+      "culture",
+      "shapes",
+      "resilience"
+    ],
+    [
+      "culture",
+      "shapes",
+      "team dynamics"
+    ],
+    [
+      "discipline",
+      "bridges",
+      "bridging divides"
+    ],
+    [
+      "discipline",
+      "contributes to",
+      "healthy society"
+    ],
+    [
+      "discipline",
+      "demonstrated by",
+      "athletes"
+    ],
+    [
+      "discipline",
+      "encourages",
+      "inclusion"
+    ],
+    [
+      "discipline",
+      "enhances",
+      "life skills"
+    ],
+    [
+      "discipline",
+      "enhances",
+      "perseverance"
+    ],
+    [
+      "discipline",
+      "fosters",
+      "local pride"
+    ],
+    [
+      "discipline",
+      "influences",
+      "traditions"
+    ],
+    [
+      "discipline",
+      "is promoted by",
+      "justice"
+    ],
+    [
+      "discipline",
+      "promotes",
+      "gender equality"
+    ],
+    [
+      "discipline",
+      "promotes",
+      "positive change"
+    ],
+    [
+      "discipline",
+      "promotes",
+      "role of sports"
+    ],
+    [
+      "discipline",
+      "requires",
+      "action"
+    ],
+    [
+      "discipline",
+      "requires",
+      "fair play"
+    ],
+    [
+      "discipline",
+      "requires",
+      "sporting events"
+    ],
+    [
+      "discipline",
+      "requires",
+      "teamwork"
+    ],
+    [
+      "discipline",
+      "requires",
+      "unity"
+    ],
+    [
+      "discipline",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "discipline",
+      "shapes",
+      "culture"
+    ],
+    [
+      "discipline",
+      "shapes",
+      "success and failure"
+    ],
+    [
+      "discipline",
+      "supports",
+      "collective goals"
+    ],
+    [
+      "discipline",
+      "teaches",
+      "overcoming obstacles"
+    ],
+    [
+      "discipline",
+      "transcends",
+      "transcending barriers"
+    ],
+    [
+      "discrimination",
+      "affects",
+      "sports industry"
+    ],
+    [
+      "discrimination",
+      "affects",
+      "team dynamics"
+    ],
+    [
+      "discrimination",
+      "aligns with",
+      "collective goals"
+    ],
+    [
+      "discrimination",
+      "challenges",
+      "competition"
+    ],
+    [
+      "discrimination",
+      "challenges",
+      "diversity"
+    ],
+    [
+      "discrimination",
+      "challenges",
+      "justice"
+    ],
+    [
+      "discrimination",
+      "challenges",
+      "role of sports"
+    ],
+    [
+      "discrimination",
+      "challenges",
+      "shared experiences"
+    ],
+    [
+      "discrimination",
+      "challenges",
+      "traditions"
+    ],
+    [
+      "discrimination",
+      "confronted by",
+      "resilience"
+    ],
+    [
+      "discrimination",
+      "creates",
+      "networking opportunities"
+    ],
+    [
+      "discrimination",
+      "drives",
+      "social change"
+    ],
+    [
+      "discrimination",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "discrimination",
+      "fosters",
+      "community building"
+    ],
+    [
+      "discrimination",
+      "highlights",
+      "importance of sports"
+    ],
+    [
+      "discrimination",
+      "is addressed by",
+      "overcoming obstacles"
+    ],
+    [
+      "discrimination",
+      "is challenged by",
+      "powerful means"
+    ],
+    [
+      "discrimination",
+      "is challenged by",
+      "success and failure"
+    ],
+    [
+      "discrimination",
+      "perpetuates",
+      "celebrity athletes"
+    ],
+    [
+      "discrimination",
+      "promotes",
+      "life skills"
+    ],
+    [
+      "discrimination",
+      "receives",
+      "media coverage"
+    ],
+    [
+      "discrimination",
+      "reinforces",
+      "stereotypes"
+    ],
+    [
+      "discrimination",
+      "utilizes",
+      "platforms"
+    ],
+    [
+      "diversity",
+      "acts as",
+      "powerful means"
+    ],
+    [
+      "diversity",
+      "builds",
+      "resilience"
+    ],
+    [
+      "diversity",
+      "celebrates",
+      "celebration"
+    ],
+    [
+      "diversity",
+      "challenges",
+      "breaking boundaries"
+    ],
+    [
+      "diversity",
+      "creates",
+      "barriers"
+    ],
+    [
+      "diversity",
+      "drives",
+      "competition"
+    ],
+    [
+      "diversity",
+      "drives",
+      "social change"
+    ],
+    [
+      "diversity",
+      "encourages",
+      "inclusivity"
+    ],
+    [
+      "diversity",
+      "enhances",
+      "community pride"
+    ],
+    [
+      "diversity",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "diversity",
+      "fosters",
+      "local pride"
+    ],
+    [
+      "diversity",
+      "fosters",
+      "pride"
+    ],
+    [
+      "diversity",
+      "influences",
+      "culture"
+    ],
+    [
+      "diversity",
+      "influences",
+      "team dynamics"
+    ],
+    [
+      "diversity",
+      "promotes",
+      "community engagement"
+    ],
+    [
+      "diversity",
+      "promotes",
+      "cultural exchange"
+    ],
+    [
+      "diversity",
+      "receives",
+      "recognition"
+    ],
+    [
+      "diversity",
+      "teaches",
+      "life lessons"
+    ],
+    [
+      "economic contribution",
+      "contributes to",
+      "camaraderie"
+    ],
+    [
+      "economic contribution",
+      "contributes to",
+      "success and failure"
+    ],
+    [
+      "economic contribution",
+      "drives",
+      "platforms"
+    ],
+    [
+      "economic contribution",
+      "supports",
+      "life skills"
+    ],
+    [
+      "empowerment",
+      "advocates for",
+      "gender equality"
+    ],
+    [
+      "empowerment",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "empowerment",
+      "contributes to",
+      "healthy society"
+    ],
+    [
+      "empowerment",
+      "creates",
+      "belonging"
+    ],
+    [
+      "empowerment",
+      "drives",
+      "commercialization"
+    ],
+    [
+      "empowerment",
+      "drives",
+      "competition"
+    ],
+    [
+      "empowerment",
+      "drives",
+      "sporting events"
+    ],
+    [
+      "empowerment",
+      "empowers",
+      "fans"
+    ],
+    [
+      "empowerment",
+      "encourages",
+      "celebration"
+    ],
+    [
+      "empowerment",
+      "encourages",
+      "perseverance"
+    ],
+    [
+      "empowerment",
+      "encourages",
+      "transcendence"
+    ],
+    [
+      "empowerment",
+      "enhances",
+      "branding"
+    ],
+    [
+      "empowerment",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "empowerment",
+      "enhances",
+      "team dynamics"
+    ],
+    [
+      "empowerment",
+      "generates",
+      "public interest"
+    ],
+    [
+      "empowerment",
+      "inspires",
+      "action"
+    ],
+    [
+      "empowerment",
+      "instills",
+      "pride"
+    ],
+    [
+      "empowerment",
+      "overcomes",
+      "barriers"
+    ],
+    [
+      "empowerment",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "empowerment",
+      "shapes",
+      "culture"
+    ],
+    [
+      "empowerment",
+      "supports",
+      "teams"
+    ],
+    [
+      "endorsements",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "endorsements",
+      "attracts",
+      "market influence"
+    ],
+    [
+      "endorsements",
+      "attracts",
+      "pride"
+    ],
+    [
+      "endorsements",
+      "benefits from",
+      "breaking boundaries"
+    ],
+    [
+      "endorsements",
+      "benefits from",
+      "personal growth"
+    ],
+    [
+      "endorsements",
+      "contributes to",
+      "global economy"
+    ],
+    [
+      "endorsements",
+      "contributes to",
+      "positive change"
+    ],
+    [
+      "endorsements",
+      "creates",
+      "revenue generation"
+    ],
+    [
+      "endorsements",
+      "drives",
+      "sports industry"
+    ],
+    [
+      "endorsements",
+      "enhances",
+      "healthy society"
+    ],
+    [
+      "endorsements",
+      "generates",
+      "platforms"
+    ],
+    [
+      "endorsements",
+      "helps in",
+      "transcending barriers"
+    ],
+    [
+      "endorsements",
+      "influences",
+      "competition"
+    ],
+    [
+      "endorsements",
+      "is developed through",
+      "resilience"
+    ],
+    [
+      "endorsements",
+      "is generated by",
+      "inspiration"
+    ],
+    [
+      "endorsements",
+      "provides",
+      "economic contribution"
+    ],
+    [
+      "endorsements",
+      "provides",
+      "networking opportunities"
+    ],
+    [
+      "endorsements",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "endorsements",
+      "supported by",
+      "barriers"
+    ],
+    [
+      "endorsements",
+      "supports",
+      "gender equality"
+    ],
+    [
+      "engagement",
+      "aids in",
+      "bridging divides"
+    ],
+    [
+      "engagement",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "engagement",
+      "drives",
+      "competition"
+    ],
+    [
+      "engagement",
+      "drives",
+      "social change"
+    ],
+    [
+      "engagement",
+      "drives",
+      "sports industry"
+    ],
+    [
+      "engagement",
+      "encourages",
+      "fair play"
+    ],
+    [
+      "engagement",
+      "encourages",
+      "positive change"
+    ],
+    [
+      "engagement",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "engagement",
+      "extends",
+      "global reach"
+    ],
+    [
+      "engagement",
+      "influences",
+      "life lessons"
+    ],
+    [
+      "engagement",
+      "promotes",
+      "healthy society"
+    ],
+    [
+      "engagement",
+      "requires",
+      "perseverance"
+    ],
+    [
+      "engagement",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "engagement",
+      "utilizes",
+      "platforms"
+    ],
+    [
+      "fair play",
+      "drives",
+      "social change"
+    ],
+    [
+      "fair play",
+      "encourages",
+      "participation"
+    ],
+    [
+      "fair play",
+      "encourages",
+      "unity"
+    ],
+    [
+      "fair play",
+      "enhances",
+      "branding"
+    ],
+    [
+      "fair play",
+      "fosters",
+      "empowerment"
+    ],
+    [
+      "fair play",
+      "highlights",
+      "importance of sports"
+    ],
+    [
+      "fair play",
+      "motivates",
+      "inspiration"
+    ],
+    [
+      "fair play",
+      "practiced by",
+      "athletes"
+    ],
+    [
+      "fair play",
+      "promotes",
+      "competition"
+    ],
+    [
+      "fair play",
+      "promotes",
+      "gender equality"
+    ],
+    [
+      "fair play",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "fair play",
+      "promotes",
+      "local pride"
+    ],
+    [
+      "fair play",
+      "promotes",
+      "personal growth"
+    ],
+    [
+      "fair play",
+      "promotes",
+      "social impact"
+    ],
+    [
+      "fair play",
+      "receives",
+      "recognition"
+    ],
+    [
+      "fair play",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "fair play",
+      "supports",
+      "athlete advocacy"
+    ],
+    [
+      "fair play",
+      "supports",
+      "healthy society"
+    ],
+    [
+      "fair play",
+      "upholds",
+      "achievements"
+    ],
+    [
+      "fan engagement",
+      "contributes to",
+      "economic contribution"
+    ],
+    [
+      "fan engagement",
+      "cultivates",
+      "common passion"
+    ],
+    [
+      "fan engagement",
+      "develops",
+      "life skills"
+    ],
+    [
+      "fan engagement",
+      "drives",
+      "positive change"
+    ],
+    [
+      "fan engagement",
+      "engages",
+      "culture"
+    ],
+    [
+      "fan engagement",
+      "enhances",
+      "platforms"
+    ],
+    [
+      "fan engagement",
+      "facilitates",
+      "transcending barriers"
+    ],
+    [
+      "fan engagement",
+      "fosters",
+      "local pride"
+    ],
+    [
+      "fan engagement",
+      "generates",
+      "revenue generation"
+    ],
+    [
+      "fan engagement",
+      "highlights",
+      "importance of sports"
+    ],
+    [
+      "fan engagement",
+      "illustrates",
+      "role of sports"
+    ],
+    [
+      "fan engagement",
+      "involves",
+      "fans"
+    ],
+    [
+      "fan engagement",
+      "is influenced by",
+      "engagement"
+    ],
+    [
+      "fan engagement",
+      "signifies",
+      "cultural significance"
+    ],
+    [
+      "fan engagement",
+      "stimulates",
+      "local economies"
+    ],
+    [
+      "fan engagement",
+      "strengthens",
+      "community building"
+    ],
+    [
+      "fans",
+      "attracts",
+      "endorsements"
+    ],
+    [
+      "fans",
+      "attracts",
+      "fair play"
+    ],
+    [
+      "fans",
+      "attracts",
+      "global economy"
+    ],
+    [
+      "fans",
+      "attracts",
+      "role of sports"
+    ],
+    [
+      "fans",
+      "celebrated by",
+      "achievements"
+    ],
+    [
+      "fans",
+      "celebrated by",
+      "traditions"
+    ],
+    [
+      "fans",
+      "creates a sense of belonging for",
+      "unity"
+    ],
+    [
+      "fans",
+      "engages",
+      "engagement"
+    ],
+    [
+      "fans",
+      "engages",
+      "justice"
+    ],
+    [
+      "fans",
+      "engages",
+      "participation"
+    ],
+    [
+      "fans",
+      "engages",
+      "platforms"
+    ],
+    [
+      "fans",
+      "engages",
+      "powerful means"
+    ],
+    [
+      "fans",
+      "influences",
+      "athlete advocacy"
+    ],
+    [
+      "fans",
+      "influences",
+      "importance of sports"
+    ],
+    [
+      "fans",
+      "influences",
+      "social change"
+    ],
+    [
+      "fans",
+      "informs",
+      "life skills"
+    ],
+    [
+      "fans",
+      "inspires",
+      "inspiration"
+    ],
+    [
+      "fans",
+      "inspires",
+      "positive change"
+    ],
+    [
+      "fans",
+      "is celebrated by",
+      "success and failure"
+    ],
+    [
+      "fans",
+      "is formed by",
+      "collective identity"
+    ],
+    [
+      "fans",
+      "is influenced by",
+      "discrimination"
+    ],
+    [
+      "fans",
+      "is influenced by",
+      "values"
+    ],
+    [
+      "fans",
+      "is supported by",
+      "teamwork"
+    ],
+    [
+      "fans",
+      "overcome",
+      "barriers"
+    ],
+    [
+      "fans",
+      "receives",
+      "recognition"
+    ],
+    [
+      "fans",
+      "supported by",
+      "overcoming obstacles"
+    ],
+    [
+      "financial growth",
+      "advances",
+      "gender equality"
+    ],
+    [
+      "financial growth",
+      "benefits",
+      "athletes"
+    ],
+    [
+      "financial growth",
+      "drives",
+      "collective goals"
+    ],
+    [
+      "financial growth",
+      "drives",
+      "platforms"
+    ],
+    [
+      "financial growth",
+      "drives",
+      "positive change"
+    ],
+    [
+      "financial growth",
+      "drives",
+      "transcendence"
+    ],
+    [
+      "financial growth",
+      "empowers",
+      "empowerment"
+    ],
+    [
+      "financial growth",
+      "enables",
+      "collaboration"
+    ],
+    [
+      "financial growth",
+      "enhances",
+      "branding"
+    ],
+    [
+      "financial growth",
+      "enhances",
+      "global reach"
+    ],
+    [
+      "financial growth",
+      "enhances",
+      "pride"
+    ],
+    [
+      "financial growth",
+      "fuels",
+      "endorsements"
+    ],
+    [
+      "financial growth",
+      "promotes",
+      "community building"
+    ],
+    [
+      "financial growth",
+      "stimulates",
+      "local games"
+    ],
+    [
+      "financial growth",
+      "supports",
+      "community development"
+    ],
+    [
+      "financial growth",
+      "supports",
+      "global events"
+    ],
+    [
+      "fostering connections",
+      "advocates for",
+      "gender equality"
+    ],
+    [
+      "fostering connections",
+      "breaks down",
+      "barriers"
+    ],
+    [
+      "fostering connections",
+      "builds",
+      "fans"
+    ],
+    [
+      "fostering connections",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "fostering connections",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "fostering connections",
+      "connects",
+      "athletes"
+    ],
+    [
+      "fostering connections",
+      "contributes to",
+      "healthy society"
+    ],
+    [
+      "fostering connections",
+      "creates",
+      "belonging"
+    ],
+    [
+      "fostering connections",
+      "cultivates",
+      "local pride"
+    ],
+    [
+      "fostering connections",
+      "enables",
+      "transcendence"
+    ],
+    [
+      "fostering connections",
+      "encourages",
+      "action"
+    ],
+    [
+      "fostering connections",
+      "encourages",
+      "celebration"
+    ],
+    [
+      "fostering connections",
+      "encourages",
+      "engagement"
+    ],
+    [
+      "fostering connections",
+      "encourages",
+      "perseverance"
+    ],
+    [
+      "fostering connections",
+      "encourages",
+      "positive change"
+    ],
+    [
+      "fostering connections",
+      "enhances",
+      "community building"
+    ],
+    [
+      "fostering connections",
+      "enhances",
+      "community development"
+    ],
+    [
+      "fostering connections",
+      "enhances",
+      "competition"
+    ],
+    [
+      "fostering connections",
+      "enhances",
+      "cultural significance"
+    ],
+    [
+      "fostering connections",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "fostering connections",
+      "facilitates",
+      "global events"
+    ],
+    [
+      "fostering connections",
+      "fosters",
+      "pride"
+    ],
+    [
+      "fostering connections",
+      "helps in",
+      "overcoming obstacles"
+    ],
+    [
+      "fostering connections",
+      "illustrates",
+      "role of sports"
+    ],
+    [
+      "fostering connections",
+      "instills",
+      "discipline"
+    ],
+    [
+      "fostering connections",
+      "promotes",
+      "social change"
+    ],
+    [
+      "fostering connections",
+      "shapes",
+      "culture"
+    ],
+    [
+      "fostering connections",
+      "stimulates",
+      "global economy"
+    ],
+    [
+      "fostering connections",
+      "supports",
+      "athlete advocacy"
+    ],
+    [
+      "fostering connections",
+      "supports",
+      "branding"
+    ],
+    [
+      "fostering connections",
+      "teaches",
+      "life skills"
+    ],
+    [
+      "gender equality",
+      "advances",
+      "inclusion"
+    ],
+    [
+      "gender equality",
+      "advances",
+      "success and failure"
+    ],
+    [
+      "gender equality",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "gender equality",
+      "bridges",
+      "bridging divides"
+    ],
+    [
+      "gender equality",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "gender equality",
+      "contributes to",
+      "economic contribution"
+    ],
+    [
+      "gender equality",
+      "contributes to",
+      "global economy"
+    ],
+    [
+      "gender equality",
+      "contributes to",
+      "healthy society"
+    ],
+    [
+      "gender equality",
+      "drives",
+      "sports industry"
+    ],
+    [
+      "gender equality",
+      "enhances",
+      "global reach"
+    ],
+    [
+      "gender equality",
+      "facilitates",
+      "community building"
+    ],
+    [
+      "gender equality",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "gender equality",
+      "is a focus of",
+      "role of sports"
+    ],
+    [
+      "gender equality",
+      "promotes",
+      "achievements"
+    ],
+    [
+      "gender equality",
+      "promotes",
+      "common passion"
+    ],
+    [
+      "gender equality",
+      "promotes",
+      "importance of sports"
+    ],
+    [
+      "gender equality",
+      "promotes",
+      "inclusivity"
+    ],
+    [
+      "gender equality",
+      "receives",
+      "media coverage"
+    ],
+    [
+      "gender equality",
+      "stimulates",
+      "local economies"
+    ],
+    [
+      "global economy",
+      "benefits from",
+      "community engagement"
+    ],
+    [
+      "global economy",
+      "benefits from",
+      "team dynamics"
+    ],
+    [
+      "global economy",
+      "benefits from",
+      "teams"
+    ],
+    [
+      "global economy",
+      "contributes to",
+      "personal growth"
+    ],
+    [
+      "global economy",
+      "contributes to",
+      "positive change"
+    ],
+    [
+      "global economy",
+      "drives",
+      "competition"
+    ],
+    [
+      "global economy",
+      "drives",
+      "cultural significance"
+    ],
+    [
+      "global economy",
+      "drives",
+      "platforms"
+    ],
+    [
+      "global economy",
+      "influences",
+      "collective identity"
+    ],
+    [
+      "global economy",
+      "influences",
+      "culture"
+    ],
+    [
+      "global economy",
+      "influences",
+      "local economies"
+    ],
+    [
+      "global economy",
+      "influences",
+      "values"
+    ],
+    [
+      "global economy",
+      "is influenced by",
+      "traditions"
+    ],
+    [
+      "global economy",
+      "stimulates",
+      "local games"
+    ],
+    [
+      "global events",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "global events",
+      "contributes to",
+      "healthy society"
+    ],
+    [
+      "global events",
+      "creates",
+      "networking opportunities"
+    ],
+    [
+      "global events",
+      "creates",
+      "traditions"
+    ],
+    [
+      "global events",
+      "generates",
+      "economic contribution"
+    ],
+    [
+      "global events",
+      "generates",
+      "revenue generation"
+    ],
+    [
+      "global events",
+      "provides",
+      "media coverage"
+    ],
+    [
+      "global events",
+      "shapes",
+      "culture"
+    ],
+    [
+      "global reach",
+      "attracts",
+      "fans"
+    ],
+    [
+      "global reach",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "global reach",
+      "contributes to",
+      "economic contribution"
+    ],
+    [
+      "global reach",
+      "enables",
+      "transcendence"
+    ],
+    [
+      "global reach",
+      "expands",
+      "fan engagement"
+    ],
+    [
+      "global reach",
+      "expands",
+      "media coverage"
+    ],
+    [
+      "global reach",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "global reach",
+      "facilitates",
+      "transcending barriers"
+    ],
+    [
+      "global reach",
+      "fosters",
+      "common passion"
+    ],
+    [
+      "global reach",
+      "perpetuates",
+      "stereotypes"
+    ],
+    [
+      "global reach",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "global reach",
+      "shapes",
+      "culture"
+    ],
+    [
+      "healthy society",
+      "bridges",
+      "bridging divides"
+    ],
+    [
+      "healthy society",
+      "contributes to",
+      "achievements"
+    ],
+    [
+      "healthy society",
+      "contributes to",
+      "economic contribution"
+    ],
+    [
+      "healthy society",
+      "contributes to",
+      "local pride"
+    ],
+    [
+      "healthy society",
+      "contributes to",
+      "pride"
+    ],
+    [
+      "healthy society",
+      "contributes to",
+      "resilience"
+    ],
+    [
+      "healthy society",
+      "contributes to",
+      "success and failure"
+    ],
+    [
+      "healthy society",
+      "fosters",
+      "community building"
+    ],
+    [
+      "healthy society",
+      "is essential for",
+      "teamwork"
+    ],
+    [
+      "healthy society",
+      "is supported by",
+      "global economy"
+    ],
+    [
+      "healthy society",
+      "promotes",
+      "action"
+    ],
+    [
+      "healthy society",
+      "promotes",
+      "belonging"
+    ],
+    [
+      "healthy society",
+      "provides",
+      "networking opportunities"
+    ],
+    [
+      "healthy society",
+      "supports",
+      "camaraderie"
+    ],
+    [
+      "healthy society",
+      "supports",
+      "inclusivity"
+    ],
+    [
+      "healthy society",
+      "supports",
+      "platforms"
+    ],
+    [
+      "healthy society",
+      "supports",
+      "teams"
+    ],
+    [
+      "importance of sports",
+      "creates",
+      "common passion"
+    ],
+    [
+      "importance of sports",
+      "emphasizes",
+      "revenue generation"
+    ],
+    [
+      "importance of sports",
+      "highlights",
+      "economic contribution"
+    ],
+    [
+      "importance of sports",
+      "highlights",
+      "financial growth"
+    ],
+    [
+      "importance of sports",
+      "highlights",
+      "international tournaments"
+    ],
+    [
+      "importance of sports",
+      "highlights",
+      "teams"
+    ],
+    [
+      "importance of sports",
+      "highlights",
+      "teamwork"
+    ],
+    [
+      "importance of sports",
+      "is emphasized by",
+      "local games"
+    ],
+    [
+      "importance of sports",
+      "supports",
+      "healthy society"
+    ],
+    [
+      "inclusion",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "inclusion",
+      "bridges",
+      "bridging divides"
+    ],
+    [
+      "inclusion",
+      "challenged by",
+      "stereotypes"
+    ],
+    [
+      "inclusion",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "inclusion",
+      "contributes to",
+      "healthy society"
+    ],
+    [
+      "inclusion",
+      "drives",
+      "sports industry"
+    ],
+    [
+      "inclusion",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "inclusion",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "inclusion",
+      "facilitates",
+      "teams"
+    ],
+    [
+      "inclusion",
+      "facilitates",
+      "transcending barriers"
+    ],
+    [
+      "inclusion",
+      "fosters",
+      "common passion"
+    ],
+    [
+      "inclusion",
+      "influenced by",
+      "success and failure"
+    ],
+    [
+      "inclusion",
+      "involves",
+      "athletes"
+    ],
+    [
+      "inclusion",
+      "promotes",
+      "positive change"
+    ],
+    [
+      "inclusion",
+      "promotes",
+      "sporting events"
+    ],
+    [
+      "inclusion",
+      "promotes",
+      "teamwork"
+    ],
+    [
+      "inclusion",
+      "promotes",
+      "traditions"
+    ],
+    [
+      "inclusion",
+      "stimulates",
+      "local economies"
+    ],
+    [
+      "inclusion",
+      "supports",
+      "endorsements"
+    ],
+    [
+      "inclusion",
+      "supports",
+      "perseverance"
+    ],
+    [
+      "inclusivity",
+      "achieves",
+      "collective goals"
+    ],
+    [
+      "inclusivity",
+      "advocates for",
+      "athlete advocacy"
+    ],
+    [
+      "inclusivity",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "inclusivity",
+      "advocates for",
+      "social change"
+    ],
+    [
+      "inclusivity",
+      "celebrates",
+      "celebration"
+    ],
+    [
+      "inclusivity",
+      "challenges",
+      "barriers"
+    ],
+    [
+      "inclusivity",
+      "contributes to",
+      "financial growth"
+    ],
+    [
+      "inclusivity",
+      "creates",
+      "common passion"
+    ],
+    [
+      "inclusivity",
+      "cultivates",
+      "pride"
+    ],
+    [
+      "inclusivity",
+      "embodies",
+      "values"
+    ],
+    [
+      "inclusivity",
+      "empowers",
+      "athletes"
+    ],
+    [
+      "inclusivity",
+      "encourages",
+      "positive change"
+    ],
+    [
+      "inclusivity",
+      "enhances",
+      "discipline"
+    ],
+    [
+      "inclusivity",
+      "enhances",
+      "fostering connections"
+    ],
+    [
+      "inclusivity",
+      "enhances",
+      "life skills"
+    ],
+    [
+      "inclusivity",
+      "enhances",
+      "perseverance"
+    ],
+    [
+      "inclusivity",
+      "enhances",
+      "resilience"
+    ],
+    [
+      "inclusivity",
+      "facilitates",
+      "overcoming obstacles"
+    ],
+    [
+      "inclusivity",
+      "facilitates",
+      "powerful means"
+    ],
+    [
+      "inclusivity",
+      "fosters",
+      "personal growth"
+    ],
+    [
+      "inclusivity",
+      "fosters",
+      "teamwork"
+    ],
+    [
+      "inclusivity",
+      "highlights",
+      "importance of sports"
+    ],
+    [
+      "inclusivity",
+      "includes",
+      "sporting events"
+    ],
+    [
+      "inclusivity",
+      "influences",
+      "team dynamics"
+    ],
+    [
+      "inclusivity",
+      "influences",
+      "traditions"
+    ],
+    [
+      "inclusivity",
+      "leads to",
+      "endorsements"
+    ],
+    [
+      "inclusivity",
+      "promotes",
+      "breaking boundaries"
+    ],
+    [
+      "inclusivity",
+      "promotes",
+      "engagement"
+    ],
+    [
+      "inclusivity",
+      "promotes",
+      "role of sports"
+    ],
+    [
+      "inclusivity",
+      "promotes",
+      "transcending barriers"
+    ],
+    [
+      "inclusivity",
+      "sparks",
+      "inspiration"
+    ],
+    [
+      "inclusivity",
+      "supports",
+      "community development"
+    ],
+    [
+      "inclusivity",
+      "utilizes",
+      "platforms"
+    ],
+    [
+      "inspiration",
+      "addresses",
+      "barriers"
+    ],
+    [
+      "inspiration",
+      "advocates for",
+      "inclusion"
+    ],
+    [
+      "inspiration",
+      "contributes to",
+      "economic contribution"
+    ],
+    [
+      "inspiration",
+      "creates",
+      "pride"
+    ],
+    [
+      "inspiration",
+      "drives",
+      "athletes"
+    ],
+    [
+      "inspiration",
+      "drives",
+      "community development"
+    ],
+    [
+      "inspiration",
+      "drives",
+      "competition"
+    ],
+    [
+      "inspiration",
+      "drives",
+      "engagement"
+    ],
+    [
+      "inspiration",
+      "drives",
+      "financial growth"
+    ],
+    [
+      "inspiration",
+      "drives",
+      "positive change"
+    ],
+    [
+      "inspiration",
+      "drives",
+      "role of sports"
+    ],
+    [
+      "inspiration",
+      "drives",
+      "social change"
+    ],
+    [
+      "inspiration",
+      "encourages",
+      "community building"
+    ],
+    [
+      "inspiration",
+      "extends",
+      "global reach"
+    ],
+    [
+      "inspiration",
+      "facilitates",
+      "bridging divides"
+    ],
+    [
+      "inspiration",
+      "fosters",
+      "local pride"
+    ],
+    [
+      "inspiration",
+      "fosters",
+      "teamwork"
+    ],
+    [
+      "inspiration",
+      "highlights",
+      "importance of sports"
+    ],
+    [
+      "inspiration",
+      "influences",
+      "branding"
+    ],
+    [
+      "inspiration",
+      "influences",
+      "media coverage"
+    ],
+    [
+      "inspiration",
+      "inspires",
+      "local games"
+    ],
+    [
+      "inspiration",
+      "inspires",
+      "transcendence"
+    ],
+    [
+      "inspiration",
+      "motivates",
+      "international tournaments"
+    ],
+    [
+      "inspiration",
+      "motivates",
+      "teams"
+    ],
+    [
+      "inspiration",
+      "promotes",
+      "cultural exchange"
+    ],
+    [
+      "inspiration",
+      "promotes",
+      "discipline"
+    ],
+    [
+      "inspiration",
+      "provides",
+      "life lessons"
+    ],
+    [
+      "inspiration",
+      "shapes",
+      "culture"
+    ],
+    [
+      "inspiration",
+      "shapes",
+      "traditions"
+    ],
+    [
+      "inspiration",
+      "stimulates",
+      "local economies"
+    ],
+    [
+      "inspiration",
+      "teaches",
+      "life skills"
+    ],
+    [
+      "inspiration",
+      "utilized by",
+      "platforms"
+    ],
+    [
+      "international competition",
+      "affects",
+      "global economy"
+    ],
+    [
+      "international competition",
+      "affects",
+      "market influence"
+    ],
+    [
+      "international competition",
+      "affects",
+      "team dynamics"
+    ],
+    [
+      "international competition",
+      "attracts",
+      "fans"
+    ],
+    [
+      "international competition",
+      "boosts",
+      "tourism boost"
+    ],
+    [
+      "international competition",
+      "challenges",
+      "breaking boundaries"
+    ],
+    [
+      "international competition",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "international competition",
+      "drives",
+      "major events"
+    ],
+    [
+      "international competition",
+      "enhances",
+      "personal growth"
+    ],
+    [
+      "international competition",
+      "enhances",
+      "role of sports"
+    ],
+    [
+      "international competition",
+      "fosters",
+      "belonging"
+    ],
+    [
+      "international competition",
+      "generates",
+      "job creation"
+    ],
+    [
+      "international competition",
+      "generates",
+      "revenue generation"
+    ],
+    [
+      "international competition",
+      "includes",
+      "sporting events"
+    ],
+    [
+      "international competition",
+      "increases",
+      "global reach"
+    ],
+    [
+      "international competition",
+      "inspires",
+      "inspiration"
+    ],
+    [
+      "international competition",
+      "involves",
+      "international tournaments"
+    ],
+    [
+      "international competition",
+      "promotes",
+      "action"
+    ],
+    [
+      "international competition",
+      "promotes",
+      "fair play"
+    ],
+    [
+      "international competition",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "international competition",
+      "requires",
+      "teamwork"
+    ],
+    [
+      "international competition",
+      "shapes",
+      "culture"
+    ],
+    [
+      "international competition",
+      "shapes",
+      "traditions"
+    ],
+    [
+      "international competition",
+      "supports",
+      "athlete advocacy"
+    ],
+    [
+      "international competition",
+      "teaches",
+      "life skills"
+    ],
+    [
+      "international tournaments",
+      "advocates for",
+      "gender equality"
+    ],
+    [
+      "international tournaments",
+      "affects",
+      "global economy"
+    ],
+    [
+      "international tournaments",
+      "attracts",
+      "endorsements"
+    ],
+    [
+      "international tournaments",
+      "bridges",
+      "bridging divides"
+    ],
+    [
+      "international tournaments",
+      "celebrates",
+      "unity"
+    ],
+    [
+      "international tournaments",
+      "contributes to",
+      "community development"
+    ],
+    [
+      "international tournaments",
+      "fosters",
+      "belonging"
+    ],
+    [
+      "international tournaments",
+      "fosters",
+      "common passion"
+    ],
+    [
+      "international tournaments",
+      "generates",
+      "revenue generation"
+    ],
+    [
+      "international tournaments",
+      "holds",
+      "cultural significance"
+    ],
+    [
+      "international tournaments",
+      "includes",
+      "global events"
+    ],
+    [
+      "international tournaments",
+      "influenced by",
+      "success and failure"
+    ],
+    [
+      "international tournaments",
+      "involves",
+      "competition"
+    ],
+    [
+      "international tournaments",
+      "is governed by",
+      "fair play"
+    ],
+    [
+      "international tournaments",
+      "is showcased in",
+      "shared experiences"
+    ],
+    [
+      "international tournaments",
+      "leads to",
+      "celebration"
+    ],
+    [
+      "international tournaments",
+      "promotes",
+      "cultural exchange"
+    ],
+    [
+      "international tournaments",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "international tournaments",
+      "promotes",
+      "positive change"
+    ],
+    [
+      "international tournaments",
+      "provides",
+      "economic contribution"
+    ],
+    [
+      "international tournaments",
+      "provides",
+      "networking opportunities"
+    ],
+    [
+      "international tournaments",
+      "questions",
+      "stereotypes"
+    ],
+    [
+      "international tournaments",
+      "requires",
+      "perseverance"
+    ],
+    [
+      "international tournaments",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "international tournaments",
+      "shapes",
+      "traditions"
+    ],
+    [
+      "international tournaments",
+      "stimulates",
+      "local economies"
+    ],
+    [
+      "investment",
+      "affects",
+      "social impact"
+    ],
+    [
+      "investment",
+      "affects",
+      "team dynamics"
+    ],
+    [
+      "investment",
+      "celebrates",
+      "celebration"
+    ],
+    [
+      "investment",
+      "contributes to",
+      "economic contribution"
+    ],
+    [
+      "investment",
+      "drives",
+      "competition"
+    ],
+    [
+      "investment",
+      "drives",
+      "engagement"
+    ],
+    [
+      "investment",
+      "drives",
+      "public interest"
+    ],
+    [
+      "investment",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "investment",
+      "expands",
+      "global reach"
+    ],
+    [
+      "investment",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "investment",
+      "facilitates",
+      "transcendence"
+    ],
+    [
+      "investment",
+      "fosters",
+      "community pride"
+    ],
+    [
+      "investment",
+      "funds",
+      "global events"
+    ],
+    [
+      "investment",
+      "inspires",
+      "inspiration"
+    ],
+    [
+      "investment",
+      "involves",
+      "branding"
+    ],
+    [
+      "investment",
+      "leads to",
+      "action"
+    ],
+    [
+      "investment",
+      "promotes",
+      "gender equality"
+    ],
+    [
+      "investment",
+      "provides",
+      "life lessons"
+    ],
+    [
+      "investment",
+      "requires",
+      "teamwork"
+    ],
+    [
+      "investment",
+      "stimulates",
+      "local economies"
+    ],
+    [
+      "investment",
+      "supports",
+      "positive change"
+    ],
+    [
+      "investment",
+      "supports",
+      "teams"
+    ],
+    [
+      "investment",
+      "utilizes",
+      "platforms"
+    ],
+    [
+      "job creation",
+      "benefits from",
+      "celebrity athletes"
+    ],
+    [
+      "job creation",
+      "celebrates",
+      "celebration"
+    ],
+    [
+      "job creation",
+      "creates",
+      "collaboration"
+    ],
+    [
+      "job creation",
+      "creates",
+      "platforms"
+    ],
+    [
+      "job creation",
+      "drives",
+      "economic contribution"
+    ],
+    [
+      "job creation",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "job creation",
+      "facilitates",
+      "fostering connections"
+    ],
+    [
+      "job creation",
+      "fosters",
+      "unity"
+    ],
+    [
+      "job creation",
+      "generates",
+      "international tournaments"
+    ],
+    [
+      "job creation",
+      "leads to",
+      "positive change"
+    ],
+    [
+      "job creation",
+      "leads to",
+      "social impact"
+    ],
+    [
+      "job creation",
+      "promotes",
+      "community engagement"
+    ],
+    [
+      "job creation",
+      "promotes",
+      "fair play"
+    ],
+    [
+      "job creation",
+      "promotes",
+      "life skills"
+    ],
+    [
+      "job creation",
+      "provides",
+      "life lessons"
+    ],
+    [
+      "job creation",
+      "requires",
+      "investment"
+    ],
+    [
+      "job creation",
+      "results in",
+      "discipline"
+    ],
+    [
+      "job creation",
+      "results in",
+      "success and failure"
+    ],
+    [
+      "job creation",
+      "stimulates",
+      "financial growth"
+    ],
+    [
+      "job creation",
+      "stimulates",
+      "tourism boost"
+    ],
+    [
+      "job creation",
+      "supports",
+      "community development"
+    ],
+    [
+      "justice",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "justice",
+      "facilitates",
+      "transcending barriers"
+    ],
+    [
+      "justice",
+      "fosters",
+      "common passion"
+    ],
+    [
+      "justice",
+      "is promoted by",
+      "healthy society"
+    ],
+    [
+      "justice",
+      "is pursued by",
+      "camaraderie"
+    ],
+    [
+      "justice",
+      "leads to",
+      "positive change"
+    ],
+    [
+      "justice",
+      "promotes",
+      "local pride"
+    ],
+    [
+      "justice",
+      "promotes",
+      "perseverance"
+    ],
+    [
+      "life lessons",
+      "advocates for",
+      "gender equality"
+    ],
+    [
+      "life lessons",
+      "contributes to",
+      "healthy society"
+    ],
+    [
+      "life lessons",
+      "derived from",
+      "sporting events"
+    ],
+    [
+      "life lessons",
+      "drives",
+      "social change"
+    ],
+    [
+      "life lessons",
+      "illustrates",
+      "role of sports"
+    ],
+    [
+      "life lessons",
+      "teaches",
+      "collective goals"
+    ],
+    [
+      "life lessons",
+      "teaches",
+      "endorsements"
+    ],
+    [
+      "life lessons",
+      "teaches",
+      "fair play"
+    ],
+    [
+      "life lessons",
+      "teaches",
+      "local pride"
+    ],
+    [
+      "life lessons",
+      "teaches",
+      "perseverance"
+    ],
+    [
+      "life skills",
+      "contributes to",
+      "local economies"
+    ],
+    [
+      "life skills",
+      "cultivates",
+      "common passion"
+    ],
+    [
+      "life skills",
+      "develops",
+      "action"
+    ],
+    [
+      "life skills",
+      "develops",
+      "athletes"
+    ],
+    [
+      "life skills",
+      "develops",
+      "fair play"
+    ],
+    [
+      "life skills",
+      "develops",
+      "pride"
+    ],
+    [
+      "life skills",
+      "develops",
+      "traditions"
+    ],
+    [
+      "life skills",
+      "enhanced by",
+      "inclusion"
+    ],
+    [
+      "life skills",
+      "enhances",
+      "endorsements"
+    ],
+    [
+      "life skills",
+      "facilitates",
+      "community building"
+    ],
+    [
+      "life skills",
+      "helps in",
+      "transcending barriers"
+    ],
+    [
+      "life skills",
+      "is supported by",
+      "global economy"
+    ],
+    [
+      "life skills",
+      "promotes",
+      "positive change"
+    ],
+    [
+      "life skills",
+      "promotes",
+      "role of sports"
+    ],
+    [
+      "life skills",
+      "teaches",
+      "commercialization"
+    ],
+    [
+      "local economies",
+      "affects",
+      "discrimination"
+    ],
+    [
+      "local economies",
+      "benefits",
+      "powerful means"
+    ],
+    [
+      "local economies",
+      "boosts",
+      "platforms"
+    ],
+    [
+      "local economies",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "local economies",
+      "impacts",
+      "culture"
+    ],
+    [
+      "local economies",
+      "stimulated by",
+      "teamwork"
+    ],
+    [
+      "local economies",
+      "stimulates",
+      "belonging"
+    ],
+    [
+      "local economies",
+      "stimulates",
+      "endorsements"
+    ],
+    [
+      "local economies",
+      "stimulates",
+      "revenue generation"
+    ],
+    [
+      "local economies",
+      "stimulates",
+      "shared experiences"
+    ],
+    [
+      "local economies",
+      "stimulates",
+      "sports industry"
+    ],
+    [
+      "local economies",
+      "supported by",
+      "unity"
+    ],
+    [
+      "local economies",
+      "supports",
+      "cultural significance"
+    ],
+    [
+      "local economies",
+      "supports",
+      "values"
+    ],
+    [
+      "local games",
+      "advances",
+      "gender equality"
+    ],
+    [
+      "local games",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "local games",
+      "contributes to",
+      "economic contribution"
+    ],
+    [
+      "local games",
+      "contributes to",
+      "revenue generation"
+    ],
+    [
+      "local games",
+      "enhances",
+      "perseverance"
+    ],
+    [
+      "local games",
+      "establishes",
+      "traditions"
+    ],
+    [
+      "local games",
+      "fosters",
+      "common passion"
+    ],
+    [
+      "local games",
+      "highlights",
+      "importance of sports"
+    ],
+    [
+      "local games",
+      "influenced by",
+      "barriers"
+    ],
+    [
+      "local games",
+      "influences",
+      "discrimination"
+    ],
+    [
+      "local games",
+      "influences",
+      "international competition"
+    ],
+    [
+      "local games",
+      "inspired by",
+      "fostering connections"
+    ],
+    [
+      "local games",
+      "involves",
+      "competition"
+    ],
+    [
+      "local games",
+      "involves",
+      "teams"
+    ],
+    [
+      "local games",
+      "promotes",
+      "positive change"
+    ],
+    [
+      "local games",
+      "reinforces",
+      "stereotypes"
+    ],
+    [
+      "local games",
+      "stimulates",
+      "public interest"
+    ],
+    [
+      "local games",
+      "supports",
+      "endorsements"
+    ],
+    [
+      "local games",
+      "supports",
+      "healthy society"
+    ],
+    [
+      "local games",
+      "supports",
+      "local economies"
+    ],
+    [
+      "local games",
+      "teaches",
+      "life skills"
+    ],
+    [
+      "local pride",
+      "embodies",
+      "teams"
+    ],
+    [
+      "local pride",
+      "enhances",
+      "fans"
+    ],
+    [
+      "local pride",
+      "fosters",
+      "collaboration"
+    ],
+    [
+      "local pride",
+      "fosters",
+      "common passion"
+    ],
+    [
+      "local pride",
+      "fosters",
+      "life skills"
+    ],
+    [
+      "local pride",
+      "fosters",
+      "perseverance"
+    ],
+    [
+      "local pride",
+      "is enhanced by",
+      "belonging"
+    ],
+    [
+      "major events",
+      "attracts",
+      "fans"
+    ],
+    [
+      "major events",
+      "boosts",
+      "tourism boost"
+    ],
+    [
+      "major events",
+      "celebrates",
+      "celebration"
+    ],
+    [
+      "major events",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "major events",
+      "contributes to",
+      "global economy"
+    ],
+    [
+      "major events",
+      "creates",
+      "belonging"
+    ],
+    [
+      "major events",
+      "creates",
+      "shared experiences"
+    ],
+    [
+      "major events",
+      "drives",
+      "sports industry"
+    ],
+    [
+      "major events",
+      "enhances",
+      "branding"
+    ],
+    [
+      "major events",
+      "fosters",
+      "collaboration"
+    ],
+    [
+      "major events",
+      "fosters",
+      "collective identity"
+    ],
+    [
+      "major events",
+      "fosters",
+      "local pride"
+    ],
+    [
+      "major events",
+      "generates",
+      "revenue generation"
+    ],
+    [
+      "major events",
+      "illustrates",
+      "role of sports"
+    ],
+    [
+      "major events",
+      "influences",
+      "team dynamics"
+    ],
+    [
+      "major events",
+      "promotes",
+      "personal growth"
+    ],
+    [
+      "major events",
+      "provides",
+      "networking opportunities"
+    ],
+    [
+      "market influence",
+      "advocates for",
+      "athlete advocacy"
+    ],
+    [
+      "market influence",
+      "affects",
+      "economic contribution"
+    ],
+    [
+      "market influence",
+      "affects",
+      "team dynamics"
+    ],
+    [
+      "market influence",
+      "boosts",
+      "local pride"
+    ],
+    [
+      "market influence",
+      "creates",
+      "barriers"
+    ],
+    [
+      "market influence",
+      "drives",
+      "competition"
+    ],
+    [
+      "market influence",
+      "drives",
+      "social change"
+    ],
+    [
+      "market influence",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "market influence",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "market influence",
+      "influences",
+      "challenging norms"
+    ],
+    [
+      "market influence",
+      "influences",
+      "fans"
+    ],
+    [
+      "market influence",
+      "influences",
+      "international tournaments"
+    ],
+    [
+      "market influence",
+      "reinforces",
+      "stereotypes"
+    ],
+    [
+      "market influence",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "market influence",
+      "shapes",
+      "collective identity"
+    ],
+    [
+      "market influence",
+      "shapes",
+      "cultural significance"
+    ],
+    [
+      "market influence",
+      "shapes",
+      "culture"
+    ],
+    [
+      "market influence",
+      "shapes",
+      "role of sports"
+    ],
+    [
+      "media coverage",
+      "enhanced by",
+      "teamwork"
+    ],
+    [
+      "media coverage",
+      "influenced by",
+      "local economies"
+    ],
+    [
+      "media coverage",
+      "receives",
+      "belonging"
+    ],
+    [
+      "media coverage",
+      "receives",
+      "life lessons"
+    ],
+    [
+      "media coverage",
+      "receives",
+      "resilience"
+    ],
+    [
+      "media coverage",
+      "reported by",
+      "pride"
+    ],
+    [
+      "networking opportunities",
+      "contributes to",
+      "economic contribution"
+    ],
+    [
+      "networking opportunities",
+      "facilitates",
+      "positive change"
+    ],
+    [
+      "networking opportunities",
+      "promotes",
+      "justice"
+    ],
+    [
+      "overcoming obstacles",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "overcoming obstacles",
+      "assists in",
+      "shared experiences"
+    ],
+    [
+      "overcoming obstacles",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "overcoming obstacles",
+      "confronts",
+      "stereotypes"
+    ],
+    [
+      "overcoming obstacles",
+      "contributes to",
+      "economic contribution"
+    ],
+    [
+      "overcoming obstacles",
+      "develops",
+      "life skills"
+    ],
+    [
+      "overcoming obstacles",
+      "enables",
+      "recognition"
+    ],
+    [
+      "overcoming obstacles",
+      "enables",
+      "transcendence"
+    ],
+    [
+      "overcoming obstacles",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "overcoming obstacles",
+      "enhances",
+      "global reach"
+    ],
+    [
+      "overcoming obstacles",
+      "facilitates",
+      "celebration"
+    ],
+    [
+      "overcoming obstacles",
+      "promotes",
+      "community building"
+    ],
+    [
+      "overcoming obstacles",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "overcoming obstacles",
+      "promotes",
+      "social change"
+    ],
+    [
+      "overcoming obstacles",
+      "requires",
+      "athletes"
+    ],
+    [
+      "overcoming obstacles",
+      "unites",
+      "common passion"
+    ],
+    [
+      "participation",
+      "advocates for",
+      "gender equality"
+    ],
+    [
+      "participation",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "participation",
+      "challenges",
+      "barriers"
+    ],
+    [
+      "participation",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "participation",
+      "contributes to",
+      "economic contribution"
+    ],
+    [
+      "participation",
+      "contributes to",
+      "healthy society"
+    ],
+    [
+      "participation",
+      "contributes to",
+      "sports industry"
+    ],
+    [
+      "participation",
+      "creates",
+      "shared experiences"
+    ],
+    [
+      "participation",
+      "creates",
+      "traditions"
+    ],
+    [
+      "participation",
+      "develops",
+      "resilience"
+    ],
+    [
+      "participation",
+      "drives",
+      "social change"
+    ],
+    [
+      "participation",
+      "enables",
+      "breaking boundaries"
+    ],
+    [
+      "participation",
+      "enables",
+      "overcoming obstacles"
+    ],
+    [
+      "participation",
+      "enables",
+      "transcending barriers"
+    ],
+    [
+      "participation",
+      "enhances",
+      "branding"
+    ],
+    [
+      "participation",
+      "enhances",
+      "competition"
+    ],
+    [
+      "participation",
+      "enhances",
+      "inclusivity"
+    ],
+    [
+      "participation",
+      "enhances",
+      "perseverance"
+    ],
+    [
+      "participation",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "participation",
+      "fosters",
+      "belonging"
+    ],
+    [
+      "participation",
+      "fosters",
+      "common passion"
+    ],
+    [
+      "participation",
+      "fosters",
+      "local pride"
+    ],
+    [
+      "participation",
+      "fosters",
+      "personal growth"
+    ],
+    [
+      "participation",
+      "illustrates",
+      "role of sports"
+    ],
+    [
+      "participation",
+      "instills",
+      "values"
+    ],
+    [
+      "participation",
+      "involves",
+      "success and failure"
+    ],
+    [
+      "participation",
+      "involves",
+      "teams"
+    ],
+    [
+      "participation",
+      "is a",
+      "powerful means"
+    ],
+    [
+      "participation",
+      "is challenged by",
+      "stereotypes"
+    ],
+    [
+      "participation",
+      "is confronted by",
+      "discrimination"
+    ],
+    [
+      "participation",
+      "leads to",
+      "celebration"
+    ],
+    [
+      "participation",
+      "leads to",
+      "recognition"
+    ],
+    [
+      "participation",
+      "promotes",
+      "diversity"
+    ],
+    [
+      "participation",
+      "promotes",
+      "positive change"
+    ],
+    [
+      "participation",
+      "promotes",
+      "unity"
+    ],
+    [
+      "participation",
+      "shapes",
+      "collective identity"
+    ],
+    [
+      "participation",
+      "supports",
+      "athlete advocacy"
+    ],
+    [
+      "participation",
+      "teaches",
+      "life lessons"
+    ],
+    [
+      "participation",
+      "teaches",
+      "life skills"
+    ],
+    [
+      "participation",
+      "utilizes",
+      "platforms"
+    ],
+    [
+      "perseverance",
+      "drives",
+      "inspiration"
+    ],
+    [
+      "perseverance",
+      "enhances",
+      "endorsements"
+    ],
+    [
+      "perseverance",
+      "enhances",
+      "healthy society"
+    ],
+    [
+      "perseverance",
+      "enhances",
+      "life skills"
+    ],
+    [
+      "perseverance",
+      "influences",
+      "media coverage"
+    ],
+    [
+      "perseverance",
+      "is a means of",
+      "powerful means"
+    ],
+    [
+      "perseverance",
+      "is challenged by",
+      "discrimination"
+    ],
+    [
+      "perseverance",
+      "is influenced by",
+      "culture"
+    ],
+    [
+      "perseverance",
+      "requires",
+      "financial growth"
+    ],
+    [
+      "perseverance",
+      "requires",
+      "global events"
+    ],
+    [
+      "perseverance",
+      "requires",
+      "sports industry"
+    ],
+    [
+      "perseverance",
+      "requires",
+      "stereotypes"
+    ],
+    [
+      "perseverance",
+      "requires",
+      "unity"
+    ],
+    [
+      "perseverance",
+      "supports",
+      "revenue generation"
+    ],
+    [
+      "personal growth",
+      "contributes to",
+      "collective goals"
+    ],
+    [
+      "personal growth",
+      "contributes to",
+      "community development"
+    ],
+    [
+      "personal growth",
+      "contributes to",
+      "healthy society"
+    ],
+    [
+      "personal growth",
+      "creates",
+      "networking opportunities"
+    ],
+    [
+      "personal growth",
+      "enables",
+      "empowerment"
+    ],
+    [
+      "personal growth",
+      "enables",
+      "transcending barriers"
+    ],
+    [
+      "personal growth",
+      "encourages",
+      "engagement"
+    ],
+    [
+      "personal growth",
+      "encourages",
+      "social change"
+    ],
+    [
+      "personal growth",
+      "enhances",
+      "perseverance"
+    ],
+    [
+      "personal growth",
+      "enhances",
+      "team dynamics"
+    ],
+    [
+      "personal growth",
+      "expands",
+      "global reach"
+    ],
+    [
+      "personal growth",
+      "facilitates",
+      "bridging divides"
+    ],
+    [
+      "personal growth",
+      "fosters",
+      "common passion"
+    ],
+    [
+      "personal growth",
+      "influences",
+      "global events"
+    ],
+    [
+      "personal growth",
+      "promotes",
+      "gender equality"
+    ],
+    [
+      "personal growth",
+      "promotes",
+      "life skills"
+    ],
+    [
+      "personal growth",
+      "promotes",
+      "unity"
+    ],
+    [
+      "personal growth",
+      "stimulates",
+      "local economies"
+    ],
+    [
+      "personal growth",
+      "supports",
+      "economic contribution"
+    ],
+    [
+      "platforms",
+      "advocates for",
+      "gender equality"
+    ],
+    [
+      "platforms",
+      "advocates for",
+      "positive change"
+    ],
+    [
+      "platforms",
+      "affects",
+      "media coverage"
+    ],
+    [
+      "platforms",
+      "amplifies",
+      "resilience"
+    ],
+    [
+      "platforms",
+      "amplifies",
+      "success and failure"
+    ],
+    [
+      "platforms",
+      "breaks down",
+      "barriers"
+    ],
+    [
+      "platforms",
+      "demonstrates",
+      "importance of sports"
+    ],
+    [
+      "platforms",
+      "drives",
+      "sports industry"
+    ],
+    [
+      "platforms",
+      "enables",
+      "challenging norms"
+    ],
+    [
+      "platforms",
+      "enables",
+      "overcoming obstacles"
+    ],
+    [
+      "platforms",
+      "enables",
+      "transcending barriers"
+    ],
+    [
+      "platforms",
+      "facilitates",
+      "fostering connections"
+    ],
+    [
+      "platforms",
+      "highlights",
+      "role of sports"
+    ],
+    [
+      "platforms",
+      "influences",
+      "traditions"
+    ],
+    [
+      "platforms",
+      "involves",
+      "local games"
+    ],
+    [
+      "platforms",
+      "promotes",
+      "unity"
+    ],
+    [
+      "platforms",
+      "reinforces",
+      "stereotypes"
+    ],
+    [
+      "platforms",
+      "serves as",
+      "justice"
+    ],
+    [
+      "platforms",
+      "showcases",
+      "international tournaments"
+    ],
+    [
+      "platforms",
+      "supports",
+      "powerful means"
+    ],
+    [
+      "platforms",
+      "utilized by",
+      "fair play"
+    ],
+    [
+      "platforms",
+      "utilizes",
+      "achievements"
+    ],
+    [
+      "platforms",
+      "utilizes",
+      "personal growth"
+    ],
+    [
+      "positive change",
+      "benefits from",
+      "local economies"
+    ],
+    [
+      "positive change",
+      "drives",
+      "success and failure"
+    ],
+    [
+      "positive change",
+      "inspires",
+      "common passion"
+    ],
+    [
+      "positive change",
+      "promotes",
+      "perseverance"
+    ],
+    [
+      "positive change",
+      "promotes",
+      "resilience"
+    ],
+    [
+      "powerful means",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "powerful means",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "powerful means",
+      "drives",
+      "global economy"
+    ],
+    [
+      "powerful means",
+      "enables",
+      "branding"
+    ],
+    [
+      "powerful means",
+      "enhances",
+      "life skills"
+    ],
+    [
+      "powerful means",
+      "facilitates",
+      "bridging divides"
+    ],
+    [
+      "powerful means",
+      "facilitates",
+      "challenging norms"
+    ],
+    [
+      "powerful means",
+      "facilitates",
+      "inclusion"
+    ],
+    [
+      "powerful means",
+      "facilitates",
+      "positive change"
+    ],
+    [
+      "powerful means",
+      "serves as",
+      "athlete advocacy"
+    ],
+    [
+      "powerful means",
+      "serves as",
+      "healthy society"
+    ],
+    [
+      "powerful means",
+      "serves as",
+      "success and failure"
+    ],
+    [
+      "powerful means",
+      "serves as",
+      "transcending barriers"
+    ],
+    [
+      "powerful means",
+      "supports",
+      "teams"
+    ],
+    [
+      "pride",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "pride",
+      "associated with",
+      "teams"
+    ],
+    [
+      "pride",
+      "bridges",
+      "bridging divides"
+    ],
+    [
+      "pride",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "pride",
+      "challenges",
+      "discrimination"
+    ],
+    [
+      "pride",
+      "creates",
+      "belonging"
+    ],
+    [
+      "pride",
+      "creates",
+      "success and failure"
+    ],
+    [
+      "pride",
+      "embodies",
+      "branding"
+    ],
+    [
+      "pride",
+      "evokes",
+      "camaraderie"
+    ],
+    [
+      "pride",
+      "evokes",
+      "platforms"
+    ],
+    [
+      "pride",
+      "fosters",
+      "positive change"
+    ],
+    [
+      "pride",
+      "fosters",
+      "resilience"
+    ],
+    [
+      "pride",
+      "generates",
+      "sports industry"
+    ],
+    [
+      "pride",
+      "is overcome by",
+      "barriers"
+    ],
+    [
+      "pride",
+      "promotes",
+      "community building"
+    ],
+    [
+      "pride",
+      "promotes",
+      "gender equality"
+    ],
+    [
+      "pride",
+      "reflects",
+      "public interest"
+    ],
+    [
+      "pride",
+      "represents",
+      "athletes"
+    ],
+    [
+      "pride",
+      "shapes",
+      "traditions"
+    ],
+    [
+      "public interest",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "public interest",
+      "affects",
+      "global economy"
+    ],
+    [
+      "public interest",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "public interest",
+      "creates",
+      "networking opportunities"
+    ],
+    [
+      "public interest",
+      "driven by",
+      "recognition"
+    ],
+    [
+      "public interest",
+      "fosters",
+      "community building"
+    ],
+    [
+      "public interest",
+      "generates",
+      "revenue generation"
+    ],
+    [
+      "public interest",
+      "stimulates",
+      "financial growth"
+    ],
+    [
+      "public interest",
+      "stimulates",
+      "life skills"
+    ],
+    [
+      "public interest",
+      "stimulates",
+      "tourism boost"
+    ],
+    [
+      "recognition",
+      "acknowledged by",
+      "success and failure"
+    ],
+    [
+      "recognition",
+      "enables",
+      "transcendence"
+    ],
+    [
+      "recognition",
+      "enhances",
+      "life skills"
+    ],
+    [
+      "recognition",
+      "generates",
+      "revenue generation"
+    ],
+    [
+      "recognition",
+      "highlights",
+      "sporting events"
+    ],
+    [
+      "recognition",
+      "instills",
+      "pride"
+    ],
+    [
+      "recognition",
+      "involves",
+      "traditions"
+    ],
+    [
+      "recognition",
+      "leads to",
+      "financial growth"
+    ],
+    [
+      "recognition",
+      "promotes",
+      "athlete advocacy"
+    ],
+    [
+      "recognition",
+      "promotes",
+      "fostering connections"
+    ],
+    [
+      "recognition",
+      "provides",
+      "networking opportunities"
+    ],
+    [
+      "recognition",
+      "receives",
+      "achievements"
+    ],
+    [
+      "recognition",
+      "reinforces",
+      "teamwork"
+    ],
+    [
+      "recognition",
+      "sparks",
+      "inspiration"
+    ],
+    [
+      "recognition",
+      "utilizes",
+      "platforms"
+    ],
+    [
+      "resilience",
+      "affects",
+      "sports industry"
+    ],
+    [
+      "resilience",
+      "breaks",
+      "breaking boundaries"
+    ],
+    [
+      "resilience",
+      "develops",
+      "life skills"
+    ],
+    [
+      "resilience",
+      "drives",
+      "financial growth"
+    ],
+    [
+      "resilience",
+      "embodies",
+      "traditions"
+    ],
+    [
+      "resilience",
+      "enables",
+      "transcendence"
+    ],
+    [
+      "resilience",
+      "encourages",
+      "fair play"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "belonging"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "fostering connections"
+    ],
+    [
+      "resilience",
+      "facilitates",
+      "community building"
+    ],
+    [
+      "resilience",
+      "generates",
+      "community development"
+    ],
+    [
+      "resilience",
+      "highlights",
+      "importance of sports"
+    ],
+    [
+      "resilience",
+      "leads to",
+      "recognition"
+    ],
+    [
+      "resilience",
+      "promotes",
+      "empowerment"
+    ],
+    [
+      "resilience",
+      "requires",
+      "discipline"
+    ],
+    [
+      "resilience",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "resilience",
+      "strengthens",
+      "teams"
+    ],
+    [
+      "resilience",
+      "supports",
+      "collective goals"
+    ],
+    [
+      "resilience",
+      "teaches",
+      "life lessons"
+    ],
+    [
+      "resilience",
+      "teaches",
+      "success and failure"
+    ],
+    [
+      "revenue generation",
+      "benefits from",
+      "team dynamics"
+    ],
+    [
+      "revenue generation",
+      "generates",
+      "community pride"
+    ],
+    [
+      "revenue generation",
+      "generates",
+      "overcoming obstacles"
+    ],
+    [
+      "revenue generation",
+      "generates",
+      "pride"
+    ],
+    [
+      "revenue generation",
+      "is facilitated by",
+      "personal growth"
+    ],
+    [
+      "revenue generation",
+      "supports",
+      "positive change"
+    ],
+    [
+      "role of sports",
+      "celebrates",
+      "fair play"
+    ],
+    [
+      "role of sports",
+      "contributes to",
+      "healthy society"
+    ],
+    [
+      "role of sports",
+      "influences",
+      "global economy"
+    ],
+    [
+      "role of sports",
+      "influences",
+      "resilience"
+    ],
+    [
+      "role of sports",
+      "influences",
+      "success and failure"
+    ],
+    [
+      "role of sports",
+      "promotes",
+      "positive change"
+    ],
+    [
+      "role of sports",
+      "shapes",
+      "common passion"
+    ],
+    [
+      "shared experiences",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "shared experiences",
+      "boosts",
+      "tourism boost"
+    ],
+    [
+      "shared experiences",
+      "celebrates",
+      "achievements"
+    ],
+    [
+      "shared experiences",
+      "connects",
+      "fans"
+    ],
+    [
+      "shared experiences",
+      "creates",
+      "branding"
+    ],
+    [
+      "shared experiences",
+      "creates",
+      "common passion"
+    ],
+    [
+      "shared experiences",
+      "creates",
+      "resilience"
+    ],
+    [
+      "shared experiences",
+      "creates",
+      "teams"
+    ],
+    [
+      "shared experiences",
+      "creates",
+      "traditions"
+    ],
+    [
+      "shared experiences",
+      "drives",
+      "social change"
+    ],
+    [
+      "shared experiences",
+      "enables",
+      "community building"
+    ],
+    [
+      "shared experiences",
+      "enables",
+      "transcendence"
+    ],
+    [
+      "shared experiences",
+      "encourages",
+      "fair play"
+    ],
+    [
+      "shared experiences",
+      "encourages",
+      "inclusion"
+    ],
+    [
+      "shared experiences",
+      "enhances",
+      "life skills"
+    ],
+    [
+      "shared experiences",
+      "enhances",
+      "perseverance"
+    ],
+    [
+      "shared experiences",
+      "expands",
+      "global reach"
+    ],
+    [
+      "shared experiences",
+      "fosters",
+      "belonging"
+    ],
+    [
+      "shared experiences",
+      "fosters",
+      "teamwork"
+    ],
+    [
+      "shared experiences",
+      "highlights",
+      "importance of sports"
+    ],
+    [
+      "shared experiences",
+      "highlights",
+      "role of sports"
+    ],
+    [
+      "shared experiences",
+      "includes",
+      "sporting events"
+    ],
+    [
+      "shared experiences",
+      "instills",
+      "pride"
+    ],
+    [
+      "shared experiences",
+      "involves",
+      "athletes"
+    ],
+    [
+      "shared experiences",
+      "involves",
+      "local games"
+    ],
+    [
+      "shared experiences",
+      "is facilitated by",
+      "powerful means"
+    ],
+    [
+      "shared experiences",
+      "is influenced by",
+      "financial growth"
+    ],
+    [
+      "shared experiences",
+      "leads to",
+      "celebration"
+    ],
+    [
+      "shared experiences",
+      "promotes",
+      "community development"
+    ],
+    [
+      "shared experiences",
+      "promotes",
+      "inclusivity"
+    ],
+    [
+      "shared experiences",
+      "shapes",
+      "collective identity"
+    ],
+    [
+      "shared experiences",
+      "teaches",
+      "discipline"
+    ],
+    [
+      "social change",
+      "advocates for",
+      "athletes"
+    ],
+    [
+      "social change",
+      "develops",
+      "life skills"
+    ],
+    [
+      "social change",
+      "drives",
+      "economic contribution"
+    ],
+    [
+      "social change",
+      "drives",
+      "global economy"
+    ],
+    [
+      "social change",
+      "drives",
+      "global reach"
+    ],
+    [
+      "social change",
+      "drives",
+      "inclusion"
+    ],
+    [
+      "social change",
+      "drives",
+      "perseverance"
+    ],
+    [
+      "social change",
+      "drives",
+      "public interest"
+    ],
+    [
+      "social change",
+      "enables",
+      "cultural exchange"
+    ],
+    [
+      "social change",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "social change",
+      "facilitates",
+      "transcending barriers"
+    ],
+    [
+      "social change",
+      "fosters",
+      "common passion"
+    ],
+    [
+      "social change",
+      "fosters",
+      "community building"
+    ],
+    [
+      "social change",
+      "influences",
+      "teams"
+    ],
+    [
+      "social change",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "social change",
+      "shapes",
+      "culture"
+    ],
+    [
+      "social change",
+      "stimulates",
+      "local economies"
+    ],
+    [
+      "social impact",
+      "affects",
+      "local games"
+    ],
+    [
+      "social impact",
+      "aligns with",
+      "collective goals"
+    ],
+    [
+      "social impact",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "social impact",
+      "contributes to",
+      "cultural significance"
+    ],
+    [
+      "social impact",
+      "creates",
+      "engagement"
+    ],
+    [
+      "social impact",
+      "extends",
+      "global reach"
+    ],
+    [
+      "social impact",
+      "facilitates",
+      "community building"
+    ],
+    [
+      "social impact",
+      "generates",
+      "endorsements"
+    ],
+    [
+      "social impact",
+      "influences",
+      "media coverage"
+    ],
+    [
+      "social impact",
+      "inspires",
+      "action"
+    ],
+    [
+      "social impact",
+      "promotes",
+      "cultural exchange"
+    ],
+    [
+      "social impact",
+      "provides",
+      "life lessons"
+    ],
+    [
+      "social impact",
+      "reinforces",
+      "stereotypes"
+    ],
+    [
+      "social impact",
+      "represents",
+      "powerful means"
+    ],
+    [
+      "social impact",
+      "results in",
+      "commercialization"
+    ],
+    [
+      "social impact",
+      "shapes",
+      "culture"
+    ],
+    [
+      "social impact",
+      "supports",
+      "economic contribution"
+    ],
+    [
+      "sporting events",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "sporting events",
+      "aligns with",
+      "collective goals"
+    ],
+    [
+      "sporting events",
+      "attracts",
+      "fans"
+    ],
+    [
+      "sporting events",
+      "boosts",
+      "local economies"
+    ],
+    [
+      "sporting events",
+      "celebrates",
+      "achievements"
+    ],
+    [
+      "sporting events",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "sporting events",
+      "creates",
+      "common passion"
+    ],
+    [
+      "sporting events",
+      "develops",
+      "life skills"
+    ],
+    [
+      "sporting events",
+      "encourages",
+      "perseverance"
+    ],
+    [
+      "sporting events",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "sporting events",
+      "establishes",
+      "traditions"
+    ],
+    [
+      "sporting events",
+      "facilitates",
+      "bridging divides"
+    ],
+    [
+      "sporting events",
+      "fosters",
+      "belonging"
+    ],
+    [
+      "sporting events",
+      "generates",
+      "revenue generation"
+    ],
+    [
+      "sporting events",
+      "generates",
+      "role of sports"
+    ],
+    [
+      "sporting events",
+      "helps in",
+      "overcoming obstacles"
+    ],
+    [
+      "sporting events",
+      "holds",
+      "cultural significance"
+    ],
+    [
+      "sporting events",
+      "includes",
+      "international tournaments"
+    ],
+    [
+      "sporting events",
+      "includes",
+      "local games"
+    ],
+    [
+      "sporting events",
+      "influences",
+      "branding"
+    ],
+    [
+      "sporting events",
+      "influences",
+      "resilience"
+    ],
+    [
+      "sporting events",
+      "influences",
+      "team dynamics"
+    ],
+    [
+      "sporting events",
+      "involves",
+      "participation"
+    ],
+    [
+      "sporting events",
+      "involves",
+      "teams"
+    ],
+    [
+      "sporting events",
+      "promotes",
+      "cultural exchange"
+    ],
+    [
+      "sporting events",
+      "provides",
+      "economic contribution"
+    ],
+    [
+      "sporting events",
+      "requires",
+      "teamwork"
+    ],
+    [
+      "sporting events",
+      "serves as",
+      "powerful means"
+    ],
+    [
+      "sporting events",
+      "shapes",
+      "culture"
+    ],
+    [
+      "sporting events",
+      "transcends",
+      "transcending barriers"
+    ],
+    [
+      "sports industry",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "sports industry",
+      "affects",
+      "overcoming obstacles"
+    ],
+    [
+      "sports industry",
+      "attracts",
+      "fans"
+    ],
+    [
+      "sports industry",
+      "benefits from",
+      "healthy society"
+    ],
+    [
+      "sports industry",
+      "benefits from",
+      "inclusivity"
+    ],
+    [
+      "sports industry",
+      "benefits from",
+      "unity"
+    ],
+    [
+      "sports industry",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "sports industry",
+      "contributes to",
+      "sporting events"
+    ],
+    [
+      "sports industry",
+      "driven by",
+      "life skills"
+    ],
+    [
+      "sports industry",
+      "drives",
+      "collective goals"
+    ],
+    [
+      "sports industry",
+      "drives",
+      "competition"
+    ],
+    [
+      "sports industry",
+      "drives",
+      "positive change"
+    ],
+    [
+      "sports industry",
+      "drives",
+      "teamwork"
+    ],
+    [
+      "sports industry",
+      "drives",
+      "transcendence"
+    ],
+    [
+      "sports industry",
+      "facilitates",
+      "bridging divides"
+    ],
+    [
+      "sports industry",
+      "facilitates",
+      "transcending barriers"
+    ],
+    [
+      "sports industry",
+      "fuels",
+      "global events"
+    ],
+    [
+      "sports industry",
+      "influences",
+      "action"
+    ],
+    [
+      "sports industry",
+      "influences",
+      "life lessons"
+    ],
+    [
+      "sports industry",
+      "is influenced by",
+      "powerful means"
+    ],
+    [
+      "sports industry",
+      "is supported by",
+      "major events"
+    ],
+    [
+      "sports industry",
+      "represents",
+      "achievements"
+    ],
+    [
+      "sports industry",
+      "supports",
+      "athletes"
+    ],
+    [
+      "sports industry",
+      "supports",
+      "international tournaments"
+    ],
+    [
+      "sports industry",
+      "supports",
+      "teams"
+    ],
+    [
+      "stereotypes",
+      "challenged by",
+      "resilience"
+    ],
+    [
+      "stereotypes",
+      "challenges",
+      "achievements"
+    ],
+    [
+      "stereotypes",
+      "challenges",
+      "belonging"
+    ],
+    [
+      "stereotypes",
+      "challenges",
+      "bridging divides"
+    ],
+    [
+      "stereotypes",
+      "challenges",
+      "camaraderie"
+    ],
+    [
+      "stereotypes",
+      "challenges",
+      "common passion"
+    ],
+    [
+      "stereotypes",
+      "challenges",
+      "community engagement"
+    ],
+    [
+      "stereotypes",
+      "challenges",
+      "culture"
+    ],
+    [
+      "stereotypes",
+      "challenges",
+      "gender equality"
+    ],
+    [
+      "stereotypes",
+      "challenges",
+      "healthy society"
+    ],
+    [
+      "stereotypes",
+      "challenges",
+      "inspiration"
+    ],
+    [
+      "stereotypes",
+      "challenges",
+      "justice"
+    ],
+    [
+      "stereotypes",
+      "challenges",
+      "pride"
+    ],
+    [
+      "stereotypes",
+      "challenges",
+      "shared experiences"
+    ],
+    [
+      "stereotypes",
+      "challenges",
+      "teamwork"
+    ],
+    [
+      "stereotypes",
+      "influences",
+      "action"
+    ],
+    [
+      "stereotypes",
+      "is addressed by",
+      "positive change"
+    ],
+    [
+      "stereotypes",
+      "is challenged by",
+      "teams"
+    ],
+    [
+      "stereotypes",
+      "is influenced by",
+      "social impact"
+    ],
+    [
+      "stereotypes",
+      "promotes",
+      "cultural exchange"
+    ],
+    [
+      "stereotypes",
+      "reinforced by",
+      "traditions"
+    ],
+    [
+      "stereotypes",
+      "reinforces",
+      "branding"
+    ],
+    [
+      "stereotypes",
+      "reinforces",
+      "celebrity athletes"
+    ],
+    [
+      "stereotypes",
+      "reinforces",
+      "community development"
+    ],
+    [
+      "stereotypes",
+      "reinforces",
+      "diversity"
+    ],
+    [
+      "stereotypes",
+      "reinforces",
+      "fair play"
+    ],
+    [
+      "stereotypes",
+      "reinforces",
+      "inclusivity"
+    ],
+    [
+      "stereotypes",
+      "reinforces",
+      "local economies"
+    ],
+    [
+      "stereotypes",
+      "transcends",
+      "transcending barriers"
+    ],
+    [
+      "success and failure",
+      "affects",
+      "team dynamics"
+    ],
+    [
+      "success and failure",
+      "experienced during",
+      "sporting events"
+    ],
+    [
+      "success and failure",
+      "fosters",
+      "fostering connections"
+    ],
+    [
+      "success and failure",
+      "helps in",
+      "transcending barriers"
+    ],
+    [
+      "success and failure",
+      "influences",
+      "branding"
+    ],
+    [
+      "success and failure",
+      "influences",
+      "competition"
+    ],
+    [
+      "success and failure",
+      "influences",
+      "financial growth"
+    ],
+    [
+      "success and failure",
+      "influences",
+      "sports industry"
+    ],
+    [
+      "success and failure",
+      "is experienced by",
+      "teams"
+    ],
+    [
+      "success and failure",
+      "leads to",
+      "empowerment"
+    ],
+    [
+      "success and failure",
+      "reflected in",
+      "traditions"
+    ],
+    [
+      "success and failure",
+      "reflects",
+      "culture"
+    ],
+    [
+      "success and failure",
+      "teaches",
+      "life lessons"
+    ],
+    [
+      "team dynamics",
+      "boosts",
+      "tourism boost"
+    ],
+    [
+      "team dynamics",
+      "builds",
+      "pride"
+    ],
+    [
+      "team dynamics",
+      "celebrates",
+      "celebration"
+    ],
+    [
+      "team dynamics",
+      "enhances",
+      "cultural significance"
+    ],
+    [
+      "team dynamics",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "team dynamics",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "team dynamics",
+      "enhances",
+      "perseverance"
+    ],
+    [
+      "team dynamics",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "team dynamics",
+      "influences",
+      "collective goals"
+    ],
+    [
+      "team dynamics",
+      "influences",
+      "international tournaments"
+    ],
+    [
+      "team dynamics",
+      "influences",
+      "social impact"
+    ],
+    [
+      "team dynamics",
+      "influences",
+      "sports industry"
+    ],
+    [
+      "team dynamics",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "team dynamics",
+      "promotes",
+      "positive change"
+    ],
+    [
+      "team dynamics",
+      "promotes",
+      "social change"
+    ],
+    [
+      "team dynamics",
+      "provides",
+      "networking opportunities"
+    ],
+    [
+      "team dynamics",
+      "requires",
+      "discipline"
+    ],
+    [
+      "team dynamics",
+      "shapes",
+      "traditions"
+    ],
+    [
+      "teams",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "teams",
+      "advocates for",
+      "positive change"
+    ],
+    [
+      "teams",
+      "associated with",
+      "branding"
+    ],
+    [
+      "teams",
+      "attracts",
+      "fans"
+    ],
+    [
+      "teams",
+      "benefits from",
+      "financial growth"
+    ],
+    [
+      "teams",
+      "celebrated by",
+      "celebration"
+    ],
+    [
+      "teams",
+      "celebrates",
+      "achievements"
+    ],
+    [
+      "teams",
+      "challenged by",
+      "discrimination"
+    ],
+    [
+      "teams",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "teams",
+      "defines",
+      "role of sports"
+    ],
+    [
+      "teams",
+      "developed through",
+      "life skills"
+    ],
+    [
+      "teams",
+      "includes",
+      "international tournaments"
+    ],
+    [
+      "teams",
+      "influences",
+      "traditions"
+    ],
+    [
+      "teams",
+      "provides",
+      "economic contribution"
+    ],
+    [
+      "teams",
+      "recognized by",
+      "recognition"
+    ],
+    [
+      "teams",
+      "represents",
+      "local economies"
+    ],
+    [
+      "teams",
+      "requires",
+      "perseverance"
+    ],
+    [
+      "teams",
+      "supported by",
+      "fan engagement"
+    ],
+    [
+      "teams",
+      "supports",
+      "athlete advocacy"
+    ],
+    [
+      "teams",
+      "supports",
+      "endorsements"
+    ],
+    [
+      "teams",
+      "supports",
+      "overcoming obstacles"
+    ],
+    [
+      "teamwork",
+      "achieves",
+      "collective goals"
+    ],
+    [
+      "teamwork",
+      "advocates for",
+      "gender equality"
+    ],
+    [
+      "teamwork",
+      "advocates for",
+      "justice"
+    ],
+    [
+      "teamwork",
+      "boosts",
+      "tourism boost"
+    ],
+    [
+      "teamwork",
+      "challenges",
+      "discrimination"
+    ],
+    [
+      "teamwork",
+      "comprises",
+      "teams"
+    ],
+    [
+      "teamwork",
+      "contributes to",
+      "economic contribution"
+    ],
+    [
+      "teamwork",
+      "creates",
+      "traditions"
+    ],
+    [
+      "teamwork",
+      "develops",
+      "life skills"
+    ],
+    [
+      "teamwork",
+      "drives",
+      "positive change"
+    ],
+    [
+      "teamwork",
+      "drives",
+      "public interest"
+    ],
+    [
+      "teamwork",
+      "enhances",
+      "cultural exchange"
+    ],
+    [
+      "teamwork",
+      "enhances",
+      "global events"
+    ],
+    [
+      "teamwork",
+      "enhances",
+      "local games"
+    ],
+    [
+      "teamwork",
+      "enhances",
+      "perseverance"
+    ],
+    [
+      "teamwork",
+      "enhances",
+      "platforms"
+    ],
+    [
+      "teamwork",
+      "facilitates",
+      "overcoming obstacles"
+    ],
+    [
+      "teamwork",
+      "illustrates",
+      "role of sports"
+    ],
+    [
+      "teamwork",
+      "is supported by",
+      "barriers"
+    ],
+    [
+      "teamwork",
+      "leads to",
+      "celebration"
+    ],
+    [
+      "teamwork",
+      "promotes",
+      "engagement"
+    ],
+    [
+      "teamwork",
+      "promotes",
+      "social change"
+    ],
+    [
+      "teamwork",
+      "shapes",
+      "culture"
+    ],
+    [
+      "teamwork",
+      "supports",
+      "branding"
+    ],
+    [
+      "tourism boost",
+      "benefits from",
+      "community development"
+    ],
+    [
+      "tourism boost",
+      "boosts",
+      "traditions"
+    ],
+    [
+      "tourism boost",
+      "contributes to",
+      "perseverance"
+    ],
+    [
+      "tourism boost",
+      "creates",
+      "networking opportunities"
+    ],
+    [
+      "tourism boost",
+      "enhances",
+      "cultural exchange"
+    ],
+    [
+      "tourism boost",
+      "increases",
+      "revenue generation"
+    ],
+    [
+      "tourism boost",
+      "stimulates",
+      "global economy"
+    ],
+    [
+      "traditions",
+      "affects",
+      "commercialization"
+    ],
+    [
+      "traditions",
+      "cultivates",
+      "common passion"
+    ],
+    [
+      "traditions",
+      "drives",
+      "positive change"
+    ],
+    [
+      "traditions",
+      "facilitates",
+      "community building"
+    ],
+    [
+      "traditions",
+      "influences",
+      "overcoming obstacles"
+    ],
+    [
+      "traditions",
+      "influences",
+      "social change"
+    ],
+    [
+      "traditions",
+      "inspired by",
+      "engagement"
+    ],
+    [
+      "traditions",
+      "is a powerful means of",
+      "powerful means"
+    ],
+    [
+      "traditions",
+      "is formed by",
+      "international competition"
+    ],
+    [
+      "traditions",
+      "is formed by",
+      "shared experiences"
+    ],
+    [
+      "traditions",
+      "promotes",
+      "justice"
+    ],
+    [
+      "traditions",
+      "requires",
+      "perseverance"
+    ],
+    [
+      "traditions",
+      "transcends",
+      "transcending barriers"
+    ],
+    [
+      "transcendence",
+      "contributes to",
+      "healthy society"
+    ],
+    [
+      "transcendence",
+      "emphasizes",
+      "importance of sports"
+    ],
+    [
+      "transcendence",
+      "enhances",
+      "fan engagement"
+    ],
+    [
+      "transcendence",
+      "influences",
+      "media coverage"
+    ],
+    [
+      "transcendence",
+      "promotes",
+      "community building"
+    ],
+    [
+      "transcendence",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "transcending barriers",
+      "benefits from",
+      "inclusivity"
+    ],
+    [
+      "transcending barriers",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "transcending barriers",
+      "highlights",
+      "importance of sports"
+    ],
+    [
+      "unity",
+      "aligns with",
+      "collective goals"
+    ],
+    [
+      "unity",
+      "boosts",
+      "local economies"
+    ],
+    [
+      "unity",
+      "breaks down",
+      "barriers"
+    ],
+    [
+      "unity",
+      "challenges",
+      "challenging norms"
+    ],
+    [
+      "unity",
+      "contributes to",
+      "healthy society"
+    ],
+    [
+      "unity",
+      "creates",
+      "pride"
+    ],
+    [
+      "unity",
+      "creates",
+      "shared experiences"
+    ],
+    [
+      "unity",
+      "drives",
+      "positive change"
+    ],
+    [
+      "unity",
+      "drives",
+      "social change"
+    ],
+    [
+      "unity",
+      "embodies",
+      "role of sports"
+    ],
+    [
+      "unity",
+      "embodies",
+      "values"
+    ],
+    [
+      "unity",
+      "enhances",
+      "belonging"
+    ],
+    [
+      "unity",
+      "enhances",
+      "team dynamics"
+    ],
+    [
+      "unity",
+      "fosters",
+      "achievements"
+    ],
+    [
+      "unity",
+      "fosters",
+      "competition"
+    ],
+    [
+      "unity",
+      "fosters",
+      "life skills"
+    ],
+    [
+      "unity",
+      "fosters",
+      "local pride"
+    ],
+    [
+      "unity",
+      "fosters",
+      "teamwork"
+    ],
+    [
+      "unity",
+      "is a",
+      "powerful means"
+    ],
+    [
+      "unity",
+      "nurtures",
+      "common passion"
+    ],
+    [
+      "unity",
+      "promotes",
+      "community development"
+    ],
+    [
+      "unity",
+      "promotes",
+      "discrimination"
+    ],
+    [
+      "unity",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "unity",
+      "promotes",
+      "stereotypes"
+    ],
+    [
+      "unity",
+      "provides",
+      "networking opportunities"
+    ],
+    [
+      "unity",
+      "reinforces",
+      "traditions"
+    ],
+    [
+      "unity",
+      "represents",
+      "teams"
+    ],
+    [
+      "unity",
+      "supports",
+      "gender equality"
+    ],
+    [
+      "values",
+      "drives",
+      "job creation"
+    ],
+    [
+      "values",
+      "drives",
+      "social change"
+    ],
+    [
+      "values",
+      "embodied by",
+      "athletes"
+    ],
+    [
+      "values",
+      "enhances",
+      "perseverance"
+    ],
+    [
+      "values",
+      "extends to",
+      "global reach"
+    ],
+    [
+      "values",
+      "fosters",
+      "life skills"
+    ],
+    [
+      "values",
+      "generates",
+      "revenue generation"
+    ],
+    [
+      "values",
+      "influences",
+      "branding"
+    ],
+    [
+      "values",
+      "influences",
+      "sporting events"
+    ],
+    [
+      "values",
+      "informs",
+      "discipline"
+    ],
+    [
+      "values",
+      "informs",
+      "role of sports"
+    ],
+    [
+      "values",
+      "informs",
+      "shared experiences"
+    ],
+    [
+      "values",
+      "inspires",
+      "common passion"
+    ],
+    [
+      "values",
+      "is influenced by",
+      "sports industry"
+    ],
+    [
+      "values",
+      "is reflected in",
+      "traditions"
+    ],
+    [
+      "values",
+      "promotes",
+      "achievements"
+    ],
+    [
+      "values",
+      "promotes",
+      "celebration"
+    ],
+    [
+      "values",
+      "promotes",
+      "justice"
+    ],
+    [
+      "values",
+      "promotes",
+      "local games"
+    ],
+    [
+      "values",
+      "promotes",
+      "teamwork"
+    ],
+    [
+      "values",
+      "reflects",
+      "global events"
+    ],
+    [
+      "values",
+      "shapes",
+      "collective identity"
+    ],
+    [
+      "values",
+      "shapes",
+      "culture"
+    ],
+    [
+      "values",
+      "stimulates",
+      "tourism boost"
+    ],
+    [
+      "values",
+      "supports",
+      "collective goals"
+    ],
+    [
+      "values",
+      "supports",
+      "community building"
+    ],
+    [
+      "values",
+      "supports",
+      "community development"
+    ],
+    [
+      "values",
+      "supports",
+      "community engagement"
+    ],
+    [
+      "values",
+      "transcends",
+      "transcendence"
+    ],
+    [
+      "values",
+      "utilizes",
+      "platforms"
+    ]
+  ],
+  "edges": [
+    "achieve",
+    "achieved through",
+    "achieves",
+    "acknowledged by",
+    "acts as",
+    "addresses",
+    "advances",
+    "advocates for",
+    "affects",
+    "aids in",
+    "aligns with",
+    "amplifies",
+    "assists in",
+    "associated with",
+    "attracts",
+    "benefits",
+    "benefits from",
+    "boosts",
+    "breaks",
+    "breaks down",
+    "bridges",
+    "builds",
+    "celebrated by",
+    "celebrates",
+    "challenge",
+    "challenged by",
+    "challenges",
+    "collaborates with",
+    "competes",
+    "competes in",
+    "competes with",
+    "comprises",
+    "confronted by",
+    "confronts",
+    "connects",
+    "contributes to",
+    "creates",
+    "creates a sense of belonging for",
+    "cultivates",
+    "defines",
+    "demonstrated by",
+    "demonstrates",
+    "derived from",
+    "developed through",
+    "develops",
+    "driven by",
+    "drives",
+    "embodied by",
+    "embodies",
+    "emphasizes",
+    "empowers",
+    "enables",
+    "encourages",
+    "engages",
+    "enhanced by",
+    "enhances",
+    "entertains",
+    "establishes",
+    "evokes",
+    "expands",
+    "experienced during",
+    "extends",
+    "extends to",
+    "facilitates",
+    "fosters",
+    "fuels",
+    "funds",
+    "generates",
+    "helps in",
+    "highlights",
+    "holds",
+    "illustrates",
+    "impacts",
+    "impedes",
+    "includes",
+    "increases",
+    "influenced by",
+    "influences",
+    "informs",
+    "inspired by",
+    "inspires",
+    "instills",
+    "involves",
+    "is a",
+    "is a focus of",
+    "is a means of",
+    "is a powerful means of",
+    "is a result of",
+    "is addressed by",
+    "is affected by",
+    "is celebrated by",
+    "is challenged by",
+    "is confronted by",
+    "is cultivated through",
+    "is developed through",
+    "is emphasized by",
+    "is enhanced by",
+    "is essential for",
+    "is experienced by",
+    "is facilitated by",
+    "is formed by",
+    "is generated by",
+    "is governed by",
+    "is improved by",
+    "is influenced by",
+    "is inspired by",
+    "is overcome by",
+    "is promoted by",
+    "is pursued by",
+    "is reflected in",
+    "is shaped by",
+    "is showcased in",
+    "is supported by",
+    "leads to",
+    "motivates",
+    "nurtures",
+    "overcome",
+    "overcomes",
+    "participates in",
+    "perpetuates",
+    "practiced by",
+    "promotes",
+    "provides",
+    "questions",
+    "receives",
+    "recognized by",
+    "reflected in",
+    "reflects",
+    "reinforced by",
+    "reinforces",
+    "reported by",
+    "represented by",
+    "represents",
+    "requires",
+    "results from",
+    "results in",
+    "serves",
+    "serves as",
+    "shaped by",
+    "shapes",
+    "shares",
+    "showcases",
+    "signifies",
+    "sparks",
+    "stimulated by",
+    "stimulates",
+    "strengthens",
+    "supported by",
+    "supports",
+    "teaches",
+    "tested by",
+    "transcends",
+    "underscores",
+    "unites",
+    "upholds",
+    "utilized by",
+    "utilizes"
+  ]
+}

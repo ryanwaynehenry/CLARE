@@ -1,0 +1,5568 @@
+{
+  "entities": [
+    "Alexander Graham Bell",
+    "ENIAC",
+    "Industrial Revolution",
+    "James Watt",
+    "Johannes Gutenberg",
+    "Mesopotamia",
+    "Thomas Edison",
+    "Thomas Newcomen",
+    "access information",
+    "accessibility",
+    "accessible knowledge",
+    "advancements",
+    "artificial lighting",
+    "business",
+    "candles",
+    "cities",
+    "collaboration",
+    "communication",
+    "communication technologies",
+    "computer",
+    "conduct business",
+    "connect people",
+    "connectivity",
+    "convenient",
+    "creativity",
+    "democratization",
+    "digital age",
+    "digital technologies",
+    "e-commerce",
+    "education",
+    "electric lighting",
+    "entertainment",
+    "essential components",
+    "foundation",
+    "future generations",
+    "global communication",
+    "global connectivity",
+    "global economy",
+    "global scale",
+    "groundbreaking inventions",
+    "history",
+    "homes",
+    "human history",
+    "human ingenuity",
+    "ideas",
+    "impact on civilization",
+    "improved quality of life",
+    "indoor spaces",
+    "industrial advancements",
+    "industrial society",
+    "information access",
+    "information dissemination",
+    "innovation",
+    "interact world",
+    "internet",
+    "inventions",
+    "late 19th century",
+    "late 20th century",
+    "light bulb",
+    "literacy",
+    "manufacturing processes",
+    "mechanization",
+    "millions of people",
+    "mobile communication",
+    "modern computing",
+    "modern society",
+    "modern transportation",
+    "printed materials",
+    "printing press",
+    "process information",
+    "profound impact",
+    "progress",
+    "real time",
+    "replaced gas lamps",
+    "reshape lives",
+    "revolutionized illumination",
+    "revolutionized lives",
+    "safer",
+    "shaping world",
+    "share ideas",
+    "social media",
+    "societal change",
+    "society",
+    "spread of knowledge",
+    "steam engine",
+    "technological advancements",
+    "technological progress",
+    "technological transformation",
+    "technology",
+    "telecommunications",
+    "telephone",
+    "transformation",
+    "transformed urban landscapes",
+    "transport goods",
+    "transportation",
+    "wheel",
+    "widespread adoption",
+    "world"
+  ],
+  "relations": [
+    [
+      "Alexander Graham Bell",
+      "associated with",
+      "inventions"
+    ],
+    [
+      "Alexander Graham Bell",
+      "contributed to",
+      "technological progress"
+    ],
+    [
+      "Alexander Graham Bell",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "Alexander Graham Bell",
+      "exemplifies",
+      "human ingenuity"
+    ],
+    [
+      "Alexander Graham Bell",
+      "impacted by",
+      "world"
+    ],
+    [
+      "Alexander Graham Bell",
+      "led to",
+      "advancements"
+    ],
+    [
+      "Alexander Graham Bell",
+      "transformed",
+      "homes"
+    ],
+    [
+      "ENIAC",
+      "contributed to",
+      "industrial society"
+    ],
+    [
+      "ENIAC",
+      "developed by",
+      "modern computing"
+    ],
+    [
+      "ENIAC",
+      "is a precursor to",
+      "global connectivity"
+    ],
+    [
+      "ENIAC",
+      "is a product of",
+      "telecommunications"
+    ],
+    [
+      "ENIAC",
+      "is facilitated by",
+      "communication"
+    ],
+    [
+      "ENIAC",
+      "powered by",
+      "mechanization"
+    ],
+    [
+      "ENIAC",
+      "revolutionized",
+      "revolutionized lives"
+    ],
+    [
+      "ENIAC",
+      "transformed",
+      "education"
+    ],
+    [
+      "ENIAC",
+      "utilized by",
+      "business"
+    ],
+    [
+      "ENIAC",
+      "utilizes",
+      "modern society"
+    ],
+    [
+      "Industrial Revolution",
+      "drives",
+      "innovation"
+    ],
+    [
+      "Industrial Revolution",
+      "enabled",
+      "accessible knowledge"
+    ],
+    [
+      "Industrial Revolution",
+      "encouraged",
+      "share ideas"
+    ],
+    [
+      "Industrial Revolution",
+      "facilitated",
+      "transport goods"
+    ],
+    [
+      "Industrial Revolution",
+      "initiated",
+      "technological transformation"
+    ],
+    [
+      "Industrial Revolution",
+      "initiated by",
+      "late 19th century"
+    ],
+    [
+      "Industrial Revolution",
+      "initiated by",
+      "steam engine"
+    ],
+    [
+      "Industrial Revolution",
+      "initiated by",
+      "technological advancements"
+    ],
+    [
+      "Industrial Revolution",
+      "marked by",
+      "global scale"
+    ],
+    [
+      "Industrial Revolution",
+      "promoted literacy",
+      "literacy"
+    ],
+    [
+      "Industrial Revolution",
+      "resulted from",
+      "transformation"
+    ],
+    [
+      "Industrial Revolution",
+      "shapes",
+      "shaping world"
+    ],
+    [
+      "Industrial Revolution",
+      "transformed",
+      "global economy"
+    ],
+    [
+      "Industrial Revolution",
+      "transformed",
+      "industrial society"
+    ],
+    [
+      "Industrial Revolution",
+      "transformed",
+      "manufacturing processes"
+    ],
+    [
+      "Industrial Revolution",
+      "was a result of",
+      "Johannes Gutenberg"
+    ],
+    [
+      "James Watt",
+      "associated with",
+      "Industrial Revolution"
+    ],
+    [
+      "James Watt",
+      "contributes to",
+      "innovation"
+    ],
+    [
+      "James Watt",
+      "developed by",
+      "steam engine"
+    ],
+    [
+      "James Watt",
+      "established by",
+      "foundation"
+    ],
+    [
+      "James Watt",
+      "influenced by",
+      "transformed urban landscapes"
+    ],
+    [
+      "James Watt",
+      "invented by",
+      "inventions"
+    ],
+    [
+      "Johannes Gutenberg",
+      "developed for",
+      "manufacturing processes"
+    ],
+    [
+      "Johannes Gutenberg",
+      "illuminated",
+      "homes"
+    ],
+    [
+      "Johannes Gutenberg",
+      "initiated",
+      "Industrial Revolution"
+    ],
+    [
+      "Johannes Gutenberg",
+      "invented by",
+      "printing press"
+    ],
+    [
+      "Johannes Gutenberg",
+      "produced",
+      "printed materials"
+    ],
+    [
+      "Johannes Gutenberg",
+      "revolutionized",
+      "revolutionized illumination"
+    ],
+    [
+      "Mesopotamia",
+      "demonstrates",
+      "human ingenuity"
+    ],
+    [
+      "Mesopotamia",
+      "improved",
+      "transportation"
+    ],
+    [
+      "Mesopotamia",
+      "originated from",
+      "spread of knowledge"
+    ],
+    [
+      "Mesopotamia",
+      "provides foundation for",
+      "foundation"
+    ],
+    [
+      "Thomas Edison",
+      "contributed to",
+      "industrial advancements"
+    ],
+    [
+      "Thomas Edison",
+      "improved",
+      "homes"
+    ],
+    [
+      "Thomas Edison",
+      "invented",
+      "light bulb"
+    ],
+    [
+      "Thomas Edison",
+      "invented by",
+      "electric lighting"
+    ],
+    [
+      "Thomas Edison",
+      "inventor of",
+      "inventions"
+    ],
+    [
+      "Thomas Edison",
+      "revolutionized",
+      "revolutionized illumination"
+    ],
+    [
+      "Thomas Newcomen",
+      "developed by",
+      "cities"
+    ],
+    [
+      "Thomas Newcomen",
+      "developed by",
+      "electric lighting"
+    ],
+    [
+      "Thomas Newcomen",
+      "developed by",
+      "industrial advancements"
+    ],
+    [
+      "Thomas Newcomen",
+      "developed by",
+      "late 19th century"
+    ],
+    [
+      "Thomas Newcomen",
+      "developed by",
+      "replaced gas lamps"
+    ],
+    [
+      "Thomas Newcomen",
+      "developed by",
+      "revolutionized illumination"
+    ],
+    [
+      "Thomas Newcomen",
+      "enabled",
+      "transport goods"
+    ],
+    [
+      "Thomas Newcomen",
+      "improved",
+      "homes"
+    ],
+    [
+      "Thomas Newcomen",
+      "was developed by",
+      "transformation"
+    ],
+    [
+      "access information",
+      "enables access to",
+      "global scale"
+    ],
+    [
+      "access information",
+      "enables access to",
+      "internet"
+    ],
+    [
+      "access information",
+      "enables access to",
+      "process information"
+    ],
+    [
+      "access information",
+      "facilitated by",
+      "shaping world"
+    ],
+    [
+      "access information",
+      "facilitates",
+      "social media"
+    ],
+    [
+      "access information",
+      "provides",
+      "world"
+    ],
+    [
+      "accessibility",
+      "depends on",
+      "global communication"
+    ],
+    [
+      "accessibility",
+      "drives",
+      "digital technologies"
+    ],
+    [
+      "accessibility",
+      "enabled by",
+      "internet"
+    ],
+    [
+      "accessibility",
+      "enables",
+      "share ideas"
+    ],
+    [
+      "accessibility",
+      "enables",
+      "transport goods"
+    ],
+    [
+      "accessibility",
+      "enhanced by",
+      "world"
+    ],
+    [
+      "accessibility",
+      "enhances",
+      "information access"
+    ],
+    [
+      "accessibility",
+      "enhances",
+      "modern society"
+    ],
+    [
+      "accessibility",
+      "enhances",
+      "modern transportation"
+    ],
+    [
+      "accessibility",
+      "enhances",
+      "technology"
+    ],
+    [
+      "accessibility",
+      "facilitates",
+      "ideas"
+    ],
+    [
+      "accessibility",
+      "has",
+      "profound impact"
+    ],
+    [
+      "accessibility",
+      "influences",
+      "global economy"
+    ],
+    [
+      "accessibility",
+      "inspires",
+      "future generations"
+    ],
+    [
+      "accessibility",
+      "leads to",
+      "widespread adoption"
+    ],
+    [
+      "accessibility",
+      "revolutionized",
+      "revolutionized lives"
+    ],
+    [
+      "accessibility",
+      "shapes",
+      "shaping world"
+    ],
+    [
+      "accessibility",
+      "supports",
+      "business"
+    ],
+    [
+      "accessibility",
+      "supports",
+      "spread of knowledge"
+    ],
+    [
+      "accessible knowledge",
+      "enables",
+      "mechanization"
+    ],
+    [
+      "accessible knowledge",
+      "enhances",
+      "education"
+    ],
+    [
+      "accessible knowledge",
+      "enhances",
+      "modern transportation"
+    ],
+    [
+      "accessible knowledge",
+      "facilitates the spread of",
+      "spread of knowledge"
+    ],
+    [
+      "accessible knowledge",
+      "fosters",
+      "creativity"
+    ],
+    [
+      "accessible knowledge",
+      "provides",
+      "world"
+    ],
+    [
+      "advancements",
+      "depends on",
+      "transportation"
+    ],
+    [
+      "advancements",
+      "driven by",
+      "e-commerce"
+    ],
+    [
+      "advancements",
+      "drives",
+      "global communication"
+    ],
+    [
+      "advancements",
+      "drives",
+      "technological transformation"
+    ],
+    [
+      "advancements",
+      "drives advancements in",
+      "business"
+    ],
+    [
+      "advancements",
+      "enhanced by",
+      "telecommunications"
+    ],
+    [
+      "advancements",
+      "enhances",
+      "information access"
+    ],
+    [
+      "advancements",
+      "improves",
+      "modern transportation"
+    ],
+    [
+      "advancements",
+      "influences",
+      "shaping world"
+    ],
+    [
+      "advancements",
+      "inspired",
+      "ideas"
+    ],
+    [
+      "advancements",
+      "revolutionizes",
+      "revolutionized lives"
+    ],
+    [
+      "advancements",
+      "shapes",
+      "human history"
+    ],
+    [
+      "advancements",
+      "transforms",
+      "manufacturing processes"
+    ],
+    [
+      "artificial lighting",
+      "benefited millions of",
+      "millions of people"
+    ],
+    [
+      "artificial lighting",
+      "enhances",
+      "modern society"
+    ],
+    [
+      "artificial lighting",
+      "illuminates",
+      "indoor spaces"
+    ],
+    [
+      "artificial lighting",
+      "improved by",
+      "convenient"
+    ],
+    [
+      "artificial lighting",
+      "improves",
+      "candles"
+    ],
+    [
+      "artificial lighting",
+      "influenced",
+      "impact on civilization"
+    ],
+    [
+      "artificial lighting",
+      "influences",
+      "societal change"
+    ],
+    [
+      "artificial lighting",
+      "inspired",
+      "future generations"
+    ],
+    [
+      "artificial lighting",
+      "inspired by",
+      "creativity"
+    ],
+    [
+      "artificial lighting",
+      "is",
+      "safer"
+    ],
+    [
+      "artificial lighting",
+      "replaced",
+      "widespread adoption"
+    ],
+    [
+      "artificial lighting",
+      "transforms",
+      "revolutionized lives"
+    ],
+    [
+      "business",
+      "advances",
+      "technological progress"
+    ],
+    [
+      "business",
+      "characterizes",
+      "digital age"
+    ],
+    [
+      "business",
+      "enables",
+      "access information"
+    ],
+    [
+      "business",
+      "enables",
+      "global scale"
+    ],
+    [
+      "business",
+      "enhances",
+      "computer"
+    ],
+    [
+      "business",
+      "facilitates",
+      "information access"
+    ],
+    [
+      "business",
+      "facilitates",
+      "share ideas"
+    ],
+    [
+      "business",
+      "impacts",
+      "impact on civilization"
+    ],
+    [
+      "business",
+      "influences",
+      "ideas"
+    ],
+    [
+      "business",
+      "influences",
+      "shaping world"
+    ],
+    [
+      "business",
+      "reshapes",
+      "reshape lives"
+    ],
+    [
+      "business",
+      "shapes",
+      "industrial society"
+    ],
+    [
+      "business",
+      "transformation",
+      "technological transformation"
+    ],
+    [
+      "business",
+      "transforms",
+      "modern computing"
+    ],
+    [
+      "candles",
+      "replaced by",
+      "education"
+    ],
+    [
+      "candles",
+      "replaced by",
+      "mechanization"
+    ],
+    [
+      "candles",
+      "was replaced by",
+      "electric lighting"
+    ],
+    [
+      "cities",
+      "disseminates",
+      "information dissemination"
+    ],
+    [
+      "cities",
+      "enhances",
+      "transportation"
+    ],
+    [
+      "cities",
+      "facilitates",
+      "indoor spaces"
+    ],
+    [
+      "cities",
+      "improves",
+      "accessibility"
+    ],
+    [
+      "cities",
+      "transformed by",
+      "digital technologies"
+    ],
+    [
+      "cities",
+      "transforms",
+      "global scale"
+    ],
+    [
+      "collaboration",
+      "drives",
+      "global economy"
+    ],
+    [
+      "collaboration",
+      "drives",
+      "innovation"
+    ],
+    [
+      "collaboration",
+      "drives",
+      "progress"
+    ],
+    [
+      "collaboration",
+      "drives",
+      "societal change"
+    ],
+    [
+      "collaboration",
+      "enables",
+      "interact world"
+    ],
+    [
+      "collaboration",
+      "enables",
+      "share ideas"
+    ],
+    [
+      "collaboration",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "collaboration",
+      "enhances",
+      "entertainment"
+    ],
+    [
+      "collaboration",
+      "enhances",
+      "indoor spaces"
+    ],
+    [
+      "collaboration",
+      "enhances",
+      "information access"
+    ],
+    [
+      "collaboration",
+      "enhances",
+      "technology"
+    ],
+    [
+      "collaboration",
+      "facilitates",
+      "ENIAC"
+    ],
+    [
+      "collaboration",
+      "facilitates",
+      "computer"
+    ],
+    [
+      "collaboration",
+      "facilitates",
+      "information dissemination"
+    ],
+    [
+      "collaboration",
+      "generates",
+      "ideas"
+    ],
+    [
+      "collaboration",
+      "has",
+      "profound impact"
+    ],
+    [
+      "collaboration",
+      "occurs in",
+      "real time"
+    ],
+    [
+      "collaboration",
+      "promotes",
+      "democratization"
+    ],
+    [
+      "collaboration",
+      "provides",
+      "foundation"
+    ],
+    [
+      "collaboration",
+      "shapes",
+      "industrial society"
+    ],
+    [
+      "collaboration",
+      "ushered in",
+      "digital age"
+    ],
+    [
+      "communication",
+      "adopted widely by",
+      "widespread adoption"
+    ],
+    [
+      "communication",
+      "drives progress in",
+      "progress"
+    ],
+    [
+      "communication",
+      "enables",
+      "connect people"
+    ],
+    [
+      "communication",
+      "enables",
+      "global connectivity"
+    ],
+    [
+      "communication",
+      "enables",
+      "interact world"
+    ],
+    [
+      "communication",
+      "enhances",
+      "collaboration"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "information dissemination"
+    ],
+    [
+      "communication",
+      "has",
+      "profound impact"
+    ],
+    [
+      "communication",
+      "impacts",
+      "millions of people"
+    ],
+    [
+      "communication",
+      "improves",
+      "accessibility"
+    ],
+    [
+      "communication",
+      "influenced by",
+      "transformed urban landscapes"
+    ],
+    [
+      "communication",
+      "led to democratization of",
+      "democratization"
+    ],
+    [
+      "communication",
+      "transformed",
+      "world"
+    ],
+    [
+      "communication",
+      "transforms",
+      "revolutionized lives"
+    ],
+    [
+      "communication",
+      "ushered in",
+      "digital age"
+    ],
+    [
+      "communication technologies",
+      "enables",
+      "printed materials"
+    ],
+    [
+      "communication technologies",
+      "enables",
+      "telephone"
+    ],
+    [
+      "communication technologies",
+      "facilitated by",
+      "computer"
+    ],
+    [
+      "communication technologies",
+      "utilizes",
+      "digital technologies"
+    ],
+    [
+      "computer",
+      "defines",
+      "digital age"
+    ],
+    [
+      "computer",
+      "developed from",
+      "internet"
+    ],
+    [
+      "computer",
+      "enabled by",
+      "social media"
+    ],
+    [
+      "computer",
+      "enabled by",
+      "society"
+    ],
+    [
+      "computer",
+      "enhanced by",
+      "accessibility"
+    ],
+    [
+      "computer",
+      "enhanced by",
+      "communication technologies"
+    ],
+    [
+      "computer",
+      "enhanced by",
+      "homes"
+    ],
+    [
+      "computer",
+      "facilitates",
+      "interact world"
+    ],
+    [
+      "computer",
+      "impacting",
+      "impact on civilization"
+    ],
+    [
+      "computer",
+      "influenced by",
+      "human history"
+    ],
+    [
+      "computer",
+      "influenced by",
+      "printing press"
+    ],
+    [
+      "computer",
+      "is a result of",
+      "technological advancements"
+    ],
+    [
+      "computer",
+      "shaped by",
+      "shaping world"
+    ],
+    [
+      "computer",
+      "utilized by",
+      "global scale"
+    ],
+    [
+      "computer",
+      "utilized by",
+      "groundbreaking inventions"
+    ],
+    [
+      "conduct business",
+      "facilitates",
+      "share ideas"
+    ],
+    [
+      "connect people",
+      "connected by",
+      "transformed urban landscapes"
+    ],
+    [
+      "connect people",
+      "connects",
+      "creativity"
+    ],
+    [
+      "connect people",
+      "connects",
+      "future generations"
+    ],
+    [
+      "connect people",
+      "connects",
+      "industrial society"
+    ],
+    [
+      "connect people",
+      "drives",
+      "societal change"
+    ],
+    [
+      "connect people",
+      "enables",
+      "communication technologies"
+    ],
+    [
+      "connect people",
+      "enables",
+      "convenient"
+    ],
+    [
+      "connect people",
+      "enables",
+      "digital technologies"
+    ],
+    [
+      "connect people",
+      "enables",
+      "modern computing"
+    ],
+    [
+      "connect people",
+      "enables",
+      "reshape lives"
+    ],
+    [
+      "connect people",
+      "enables",
+      "widespread adoption"
+    ],
+    [
+      "connect people",
+      "enables",
+      "world"
+    ],
+    [
+      "connect people",
+      "facilitates",
+      "computer"
+    ],
+    [
+      "connect people",
+      "facilitates",
+      "e-commerce"
+    ],
+    [
+      "connect people",
+      "facilitates",
+      "internet"
+    ],
+    [
+      "connect people",
+      "facilitates",
+      "modern society"
+    ],
+    [
+      "connect people",
+      "facilitates",
+      "progress"
+    ],
+    [
+      "connect people",
+      "facilitates",
+      "share ideas"
+    ],
+    [
+      "connect people",
+      "facilitates",
+      "technological progress"
+    ],
+    [
+      "connect people",
+      "influences",
+      "ideas"
+    ],
+    [
+      "connect people",
+      "influences",
+      "shaping world"
+    ],
+    [
+      "connect people",
+      "provides",
+      "foundation"
+    ],
+    [
+      "connect people",
+      "shapes",
+      "human history"
+    ],
+    [
+      "connect people",
+      "supports",
+      "democratization"
+    ],
+    [
+      "connect people",
+      "transforms",
+      "revolutionized lives"
+    ],
+    [
+      "connectivity",
+      "benefits",
+      "millions of people"
+    ],
+    [
+      "connectivity",
+      "characterizes",
+      "digital age"
+    ],
+    [
+      "connectivity",
+      "defines",
+      "modern society"
+    ],
+    [
+      "connectivity",
+      "enables",
+      "business"
+    ],
+    [
+      "connectivity",
+      "enables",
+      "computer"
+    ],
+    [
+      "connectivity",
+      "enables",
+      "connect people"
+    ],
+    [
+      "connectivity",
+      "enables",
+      "global communication"
+    ],
+    [
+      "connectivity",
+      "enables",
+      "information dissemination"
+    ],
+    [
+      "connectivity",
+      "enables",
+      "real time"
+    ],
+    [
+      "connectivity",
+      "enables",
+      "widespread adoption"
+    ],
+    [
+      "connectivity",
+      "enhanced",
+      "communication"
+    ],
+    [
+      "connectivity",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "connectivity",
+      "facilitates",
+      "collaboration"
+    ],
+    [
+      "connectivity",
+      "facilitates",
+      "interact world"
+    ],
+    [
+      "connectivity",
+      "fosters",
+      "innovation"
+    ],
+    [
+      "connectivity",
+      "improves",
+      "improved quality of life"
+    ],
+    [
+      "connectivity",
+      "inspires",
+      "future generations"
+    ],
+    [
+      "connectivity",
+      "provides",
+      "convenient"
+    ],
+    [
+      "connectivity",
+      "represents",
+      "groundbreaking inventions"
+    ],
+    [
+      "connectivity",
+      "represents",
+      "societal change"
+    ],
+    [
+      "connectivity",
+      "represents",
+      "technological transformation"
+    ],
+    [
+      "connectivity",
+      "supports",
+      "industrial society"
+    ],
+    [
+      "connectivity",
+      "transforms",
+      "reshape lives"
+    ],
+    [
+      "convenient",
+      "enhanced by",
+      "business"
+    ],
+    [
+      "convenient",
+      "enhances",
+      "telephone"
+    ],
+    [
+      "convenient",
+      "is more",
+      "transformed urban landscapes"
+    ],
+    [
+      "creativity",
+      "characterizes",
+      "digital age"
+    ],
+    [
+      "creativity",
+      "drives",
+      "progress"
+    ],
+    [
+      "creativity",
+      "drives innovation in",
+      "technology"
+    ],
+    [
+      "creativity",
+      "influences",
+      "shaping world"
+    ],
+    [
+      "creativity",
+      "inspired by",
+      "communication"
+    ],
+    [
+      "creativity",
+      "inspired by",
+      "groundbreaking inventions"
+    ],
+    [
+      "creativity",
+      "is influenced by",
+      "spread of knowledge"
+    ],
+    [
+      "creativity",
+      "transforms",
+      "revolutionized lives"
+    ],
+    [
+      "democratization",
+      "contributes to progress in",
+      "progress"
+    ],
+    [
+      "democratization",
+      "enabled by",
+      "ENIAC"
+    ],
+    [
+      "democratization",
+      "enables",
+      "interact world"
+    ],
+    [
+      "democratization",
+      "enables",
+      "process information"
+    ],
+    [
+      "democratization",
+      "enables",
+      "social media"
+    ],
+    [
+      "democratization",
+      "facilitated by",
+      "future generations"
+    ],
+    [
+      "democratization",
+      "facilitates",
+      "conduct business"
+    ],
+    [
+      "democratization",
+      "facilitates",
+      "modern computing"
+    ],
+    [
+      "democratization",
+      "facilitates",
+      "share ideas"
+    ],
+    [
+      "democratization",
+      "has a profound impact on",
+      "profound impact"
+    ],
+    [
+      "democratization",
+      "influenced by",
+      "industrial society"
+    ],
+    [
+      "democratization",
+      "influences",
+      "impact on civilization"
+    ],
+    [
+      "democratization",
+      "influences",
+      "modern society"
+    ],
+    [
+      "democratization",
+      "promotes",
+      "innovation"
+    ],
+    [
+      "democratization",
+      "promotes",
+      "societal change"
+    ],
+    [
+      "digital age",
+      "characterizes",
+      "accessibility"
+    ],
+    [
+      "digital age",
+      "characterizes",
+      "information access"
+    ],
+    [
+      "digital age",
+      "characterizes",
+      "technological advancements"
+    ],
+    [
+      "digital age",
+      "defines",
+      "information dissemination"
+    ],
+    [
+      "digital age",
+      "enabled",
+      "access information"
+    ],
+    [
+      "digital age",
+      "influenced by",
+      "interact world"
+    ],
+    [
+      "digital age",
+      "is a precursor to",
+      "printing press"
+    ],
+    [
+      "digital age",
+      "shaped by",
+      "human history"
+    ],
+    [
+      "digital age",
+      "transformed by",
+      "printed materials"
+    ],
+    [
+      "digital technologies",
+      "characterized by",
+      "digital age"
+    ],
+    [
+      "digital technologies",
+      "enables",
+      "process information"
+    ],
+    [
+      "digital technologies",
+      "enables",
+      "social media"
+    ],
+    [
+      "digital technologies",
+      "enhances",
+      "communication technologies"
+    ],
+    [
+      "digital technologies",
+      "facilitates",
+      "access information"
+    ],
+    [
+      "digital technologies",
+      "has led to",
+      "groundbreaking inventions"
+    ],
+    [
+      "digital technologies",
+      "has on",
+      "profound impact"
+    ],
+    [
+      "digital technologies",
+      "influences",
+      "modern society"
+    ],
+    [
+      "digital technologies",
+      "influences",
+      "printed materials"
+    ],
+    [
+      "digital technologies",
+      "powers",
+      "computer"
+    ],
+    [
+      "digital technologies",
+      "shapes",
+      "impact on civilization"
+    ],
+    [
+      "digital technologies",
+      "transformed by",
+      "revolutionized lives"
+    ],
+    [
+      "e-commerce",
+      "contributes to",
+      "global economy"
+    ],
+    [
+      "e-commerce",
+      "contributes to",
+      "progress"
+    ],
+    [
+      "e-commerce",
+      "driven by",
+      "transformed urban landscapes"
+    ],
+    [
+      "e-commerce",
+      "enables",
+      "computer"
+    ],
+    [
+      "e-commerce",
+      "enables",
+      "information access"
+    ],
+    [
+      "e-commerce",
+      "enhanced by",
+      "improved quality of life"
+    ],
+    [
+      "e-commerce",
+      "enhanced by",
+      "indoor spaces"
+    ],
+    [
+      "e-commerce",
+      "facilitates",
+      "process information"
+    ],
+    [
+      "e-commerce",
+      "has",
+      "profound impact"
+    ],
+    [
+      "e-commerce",
+      "provides",
+      "access information"
+    ],
+    [
+      "e-commerce",
+      "reshapes",
+      "reshape lives"
+    ],
+    [
+      "e-commerce",
+      "supports",
+      "education"
+    ],
+    [
+      "education",
+      "contributes to",
+      "progress"
+    ],
+    [
+      "education",
+      "enables",
+      "share ideas"
+    ],
+    [
+      "education",
+      "enhances",
+      "interact world"
+    ],
+    [
+      "education",
+      "impacts",
+      "impact on civilization"
+    ],
+    [
+      "electric lighting",
+      "influenced",
+      "printing press"
+    ],
+    [
+      "electric lighting",
+      "is more",
+      "safer"
+    ],
+    [
+      "electric lighting",
+      "replaced",
+      "candles"
+    ],
+    [
+      "electric lighting",
+      "replaces",
+      "light bulb"
+    ],
+    [
+      "electric lighting",
+      "transformed by",
+      "technological transformation"
+    ],
+    [
+      "entertainment",
+      "drives",
+      "societal change"
+    ],
+    [
+      "entertainment",
+      "enables",
+      "interact world"
+    ],
+    [
+      "entertainment",
+      "enables",
+      "share ideas"
+    ],
+    [
+      "entertainment",
+      "facilitates",
+      "connect people"
+    ],
+    [
+      "entertainment",
+      "facilitates",
+      "ideas"
+    ],
+    [
+      "entertainment",
+      "influences",
+      "communication technologies"
+    ],
+    [
+      "entertainment",
+      "provides",
+      "information access"
+    ],
+    [
+      "entertainment",
+      "reshapes",
+      "transformed urban landscapes"
+    ],
+    [
+      "entertainment",
+      "shapes",
+      "impact on civilization"
+    ],
+    [
+      "entertainment",
+      "shapes",
+      "modern society"
+    ],
+    [
+      "essential components",
+      "comprises",
+      "modern transportation"
+    ],
+    [
+      "essential components",
+      "is an essential component of",
+      "replaced gas lamps"
+    ],
+    [
+      "foundation",
+      "built upon",
+      "entertainment"
+    ],
+    [
+      "foundation",
+      "built upon",
+      "modern computing"
+    ],
+    [
+      "foundation",
+      "enhances",
+      "improved quality of life"
+    ],
+    [
+      "foundation",
+      "laid the foundation for",
+      "industrial society"
+    ],
+    [
+      "foundation",
+      "serves as foundation for",
+      "artificial lighting"
+    ],
+    [
+      "foundation",
+      "supported by",
+      "global economy"
+    ],
+    [
+      "foundation",
+      "supports",
+      "progress"
+    ],
+    [
+      "foundation",
+      "supports",
+      "societal change"
+    ],
+    [
+      "foundation",
+      "underpins",
+      "technology"
+    ],
+    [
+      "future generations",
+      "benefits",
+      "millions of people"
+    ],
+    [
+      "future generations",
+      "benefits from",
+      "connect people"
+    ],
+    [
+      "future generations",
+      "drives",
+      "innovation"
+    ],
+    [
+      "future generations",
+      "enhances education for",
+      "education"
+    ],
+    [
+      "future generations",
+      "improves",
+      "information access"
+    ],
+    [
+      "future generations",
+      "influences",
+      "interact world"
+    ],
+    [
+      "future generations",
+      "inspired by",
+      "advancements"
+    ],
+    [
+      "future generations",
+      "inspired by",
+      "ideas"
+    ],
+    [
+      "future generations",
+      "inspired by",
+      "widespread adoption"
+    ],
+    [
+      "future generations",
+      "provides",
+      "access information"
+    ],
+    [
+      "future generations",
+      "reshapes",
+      "reshape lives"
+    ],
+    [
+      "future generations",
+      "shapes",
+      "digital technologies"
+    ],
+    [
+      "future generations",
+      "shapes",
+      "e-commerce"
+    ],
+    [
+      "global communication",
+      "documents",
+      "history"
+    ],
+    [
+      "global communication",
+      "drives",
+      "societal change"
+    ],
+    [
+      "global communication",
+      "drives",
+      "technological progress"
+    ],
+    [
+      "global communication",
+      "enabled",
+      "accessibility"
+    ],
+    [
+      "global communication",
+      "enables",
+      "entertainment"
+    ],
+    [
+      "global communication",
+      "enables",
+      "information access"
+    ],
+    [
+      "global communication",
+      "enables",
+      "interact world"
+    ],
+    [
+      "global communication",
+      "enables",
+      "real time"
+    ],
+    [
+      "global communication",
+      "enables",
+      "social media"
+    ],
+    [
+      "global communication",
+      "enables",
+      "world"
+    ],
+    [
+      "global communication",
+      "facilitates",
+      "computer"
+    ],
+    [
+      "global communication",
+      "facilitates",
+      "ideas"
+    ],
+    [
+      "global communication",
+      "influences",
+      "future generations"
+    ],
+    [
+      "global communication",
+      "influences",
+      "groundbreaking inventions"
+    ],
+    [
+      "global communication",
+      "revolutionized",
+      "printing press"
+    ],
+    [
+      "global communication",
+      "shaped by",
+      "modern society"
+    ],
+    [
+      "global communication",
+      "shapes",
+      "shaping world"
+    ],
+    [
+      "global communication",
+      "supports",
+      "e-commerce"
+    ],
+    [
+      "global communication",
+      "transforms",
+      "impact on civilization"
+    ],
+    [
+      "global connectivity",
+      "benefits from",
+      "society"
+    ],
+    [
+      "global connectivity",
+      "characterizes",
+      "digital age"
+    ],
+    [
+      "global connectivity",
+      "drives",
+      "progress"
+    ],
+    [
+      "global connectivity",
+      "drives",
+      "societal change"
+    ],
+    [
+      "global connectivity",
+      "enabled",
+      "internet"
+    ],
+    [
+      "global connectivity",
+      "enables",
+      "communication technologies"
+    ],
+    [
+      "global connectivity",
+      "enables",
+      "modern computing"
+    ],
+    [
+      "global connectivity",
+      "enables",
+      "social media"
+    ],
+    [
+      "global connectivity",
+      "enables",
+      "technology"
+    ],
+    [
+      "global connectivity",
+      "enables",
+      "widespread adoption"
+    ],
+    [
+      "global connectivity",
+      "enhanced by",
+      "transformed urban landscapes"
+    ],
+    [
+      "global connectivity",
+      "enhances",
+      "education"
+    ],
+    [
+      "global connectivity",
+      "enhances",
+      "information dissemination"
+    ],
+    [
+      "global connectivity",
+      "fosters",
+      "digital technologies"
+    ],
+    [
+      "global connectivity",
+      "has",
+      "profound impact"
+    ],
+    [
+      "global connectivity",
+      "influences",
+      "shaping world"
+    ],
+    [
+      "global connectivity",
+      "provides",
+      "access information"
+    ],
+    [
+      "global connectivity",
+      "reshapes",
+      "reshape lives"
+    ],
+    [
+      "global connectivity",
+      "shapes",
+      "future generations"
+    ],
+    [
+      "global connectivity",
+      "shares",
+      "ideas"
+    ],
+    [
+      "global economy",
+      "affects",
+      "revolutionized lives"
+    ],
+    [
+      "global economy",
+      "contributes to",
+      "widespread adoption"
+    ],
+    [
+      "global economy",
+      "drives",
+      "inventions"
+    ],
+    [
+      "global economy",
+      "drives",
+      "society"
+    ],
+    [
+      "global economy",
+      "foundation of",
+      "foundation"
+    ],
+    [
+      "global economy",
+      "influences",
+      "education"
+    ],
+    [
+      "global economy",
+      "influences",
+      "modern computing"
+    ],
+    [
+      "global economy",
+      "supports",
+      "industrial society"
+    ],
+    [
+      "global scale",
+      "affects",
+      "impact on civilization"
+    ],
+    [
+      "global scale",
+      "drives",
+      "advancements"
+    ],
+    [
+      "global scale",
+      "enables",
+      "share ideas"
+    ],
+    [
+      "global scale",
+      "enables",
+      "spread of knowledge"
+    ],
+    [
+      "global scale",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "global scale",
+      "influenced by",
+      "Industrial Revolution"
+    ],
+    [
+      "global scale",
+      "is driven by",
+      "technological progress"
+    ],
+    [
+      "global scale",
+      "is influenced by",
+      "social media"
+    ],
+    [
+      "global scale",
+      "reshapes",
+      "reshape lives"
+    ],
+    [
+      "global scale",
+      "transformed",
+      "transformed urban landscapes"
+    ],
+    [
+      "groundbreaking inventions",
+      "are",
+      "essential components"
+    ],
+    [
+      "groundbreaking inventions",
+      "drives",
+      "collaboration"
+    ],
+    [
+      "groundbreaking inventions",
+      "drives",
+      "technological progress"
+    ],
+    [
+      "groundbreaking inventions",
+      "drives",
+      "technology"
+    ],
+    [
+      "groundbreaking inventions",
+      "enabled by",
+      "connect people"
+    ],
+    [
+      "groundbreaking inventions",
+      "enabled by",
+      "industrial advancements"
+    ],
+    [
+      "groundbreaking inventions",
+      "enabled mechanization of",
+      "mechanization"
+    ],
+    [
+      "groundbreaking inventions",
+      "enables",
+      "access information"
+    ],
+    [
+      "groundbreaking inventions",
+      "facilitates",
+      "transport goods"
+    ],
+    [
+      "groundbreaking inventions",
+      "has",
+      "impact on civilization"
+    ],
+    [
+      "groundbreaking inventions",
+      "has",
+      "profound impact"
+    ],
+    [
+      "groundbreaking inventions",
+      "improved",
+      "information access"
+    ],
+    [
+      "groundbreaking inventions",
+      "influenced by",
+      "communication"
+    ],
+    [
+      "groundbreaking inventions",
+      "influences",
+      "communication technologies"
+    ],
+    [
+      "groundbreaking inventions",
+      "inspired by",
+      "global scale"
+    ],
+    [
+      "groundbreaking inventions",
+      "inspired by",
+      "human ingenuity"
+    ],
+    [
+      "groundbreaking inventions",
+      "inspired by",
+      "internet"
+    ],
+    [
+      "groundbreaking inventions",
+      "inspired by",
+      "transformation"
+    ],
+    [
+      "groundbreaking inventions",
+      "inspires",
+      "ideas"
+    ],
+    [
+      "groundbreaking inventions",
+      "inventor of",
+      "Alexander Graham Bell"
+    ],
+    [
+      "groundbreaking inventions",
+      "produced",
+      "printed materials"
+    ],
+    [
+      "groundbreaking inventions",
+      "resulted from",
+      "widespread adoption"
+    ],
+    [
+      "groundbreaking inventions",
+      "transforms",
+      "world"
+    ],
+    [
+      "history",
+      "improves",
+      "improved quality of life"
+    ],
+    [
+      "history",
+      "influenced by",
+      "accessibility"
+    ],
+    [
+      "history",
+      "influences",
+      "ideas"
+    ],
+    [
+      "history",
+      "shaped",
+      "transportation"
+    ],
+    [
+      "history",
+      "shaped by",
+      "modern society"
+    ],
+    [
+      "homes",
+      "enhances",
+      "communication technologies"
+    ],
+    [
+      "homes",
+      "illuminates",
+      "world"
+    ],
+    [
+      "homes",
+      "is enhanced by",
+      "transformed urban landscapes"
+    ],
+    [
+      "homes",
+      "replaced",
+      "replaced gas lamps"
+    ],
+    [
+      "homes",
+      "shaped by",
+      "shaping world"
+    ],
+    [
+      "human history",
+      "enabled by",
+      "printing press"
+    ],
+    [
+      "human history",
+      "has influenced",
+      "groundbreaking inventions"
+    ],
+    [
+      "human history",
+      "influences",
+      "interact world"
+    ],
+    [
+      "human history",
+      "influences",
+      "mechanization"
+    ],
+    [
+      "human history",
+      "introduced",
+      "wheel"
+    ],
+    [
+      "human history",
+      "is a part of",
+      "telephone"
+    ],
+    [
+      "human history",
+      "shapes",
+      "impact on civilization"
+    ],
+    [
+      "human history",
+      "shapes",
+      "information access"
+    ],
+    [
+      "human ingenuity",
+      "drives",
+      "mechanization"
+    ],
+    [
+      "human ingenuity",
+      "is driven by",
+      "advancements"
+    ],
+    [
+      "human ingenuity",
+      "shapes",
+      "human history"
+    ],
+    [
+      "ideas",
+      "are generated by",
+      "advancements"
+    ],
+    [
+      "ideas",
+      "influences",
+      "revolutionized lives"
+    ],
+    [
+      "ideas",
+      "influences ideas in",
+      "modern computing"
+    ],
+    [
+      "ideas",
+      "is spread by",
+      "society"
+    ],
+    [
+      "ideas",
+      "reshape",
+      "reshape lives"
+    ],
+    [
+      "ideas",
+      "utilized in",
+      "communication technologies"
+    ],
+    [
+      "impact on civilization",
+      "affects",
+      "global economy"
+    ],
+    [
+      "impact on civilization",
+      "affects",
+      "modern computing"
+    ],
+    [
+      "impact on civilization",
+      "affects",
+      "real time"
+    ],
+    [
+      "impact on civilization",
+      "affects",
+      "technological progress"
+    ],
+    [
+      "impact on civilization",
+      "enables",
+      "share ideas"
+    ],
+    [
+      "impact on civilization",
+      "foundation of",
+      "foundation"
+    ],
+    [
+      "impact on civilization",
+      "has",
+      "communication"
+    ],
+    [
+      "impact on civilization",
+      "impacted by",
+      "connect people"
+    ],
+    [
+      "impact on civilization",
+      "impacted by",
+      "industrial society"
+    ],
+    [
+      "impact on civilization",
+      "impacts",
+      "digital age"
+    ],
+    [
+      "impact on civilization",
+      "impacts",
+      "future generations"
+    ],
+    [
+      "impact on civilization",
+      "influenced",
+      "social media"
+    ],
+    [
+      "impact on civilization",
+      "influences",
+      "communication technologies"
+    ],
+    [
+      "impact on civilization",
+      "influences",
+      "ideas"
+    ],
+    [
+      "impact on civilization",
+      "shapes",
+      "late 20th century"
+    ],
+    [
+      "impact on civilization",
+      "transformed",
+      "widespread adoption"
+    ],
+    [
+      "improved quality of life",
+      "contributes to",
+      "convenient"
+    ],
+    [
+      "improved quality of life",
+      "enhanced by",
+      "late 20th century"
+    ],
+    [
+      "improved quality of life",
+      "enhances",
+      "business"
+    ],
+    [
+      "improved quality of life",
+      "improves",
+      "safer"
+    ],
+    [
+      "improved quality of life",
+      "improves",
+      "social media"
+    ],
+    [
+      "improved quality of life",
+      "inspired",
+      "future generations"
+    ],
+    [
+      "improved quality of life",
+      "results in",
+      "progress"
+    ],
+    [
+      "indoor spaces",
+      "enables",
+      "interact world"
+    ],
+    [
+      "indoor spaces",
+      "enhances",
+      "communication"
+    ],
+    [
+      "indoor spaces",
+      "enhances",
+      "modern computing"
+    ],
+    [
+      "indoor spaces",
+      "enhances",
+      "telephone"
+    ],
+    [
+      "indoor spaces",
+      "provides basis for",
+      "foundation"
+    ],
+    [
+      "industrial advancements",
+      "advances",
+      "technological progress"
+    ],
+    [
+      "industrial advancements",
+      "affects",
+      "world"
+    ],
+    [
+      "industrial advancements",
+      "contributes to",
+      "advancements"
+    ],
+    [
+      "industrial advancements",
+      "contributes to",
+      "industrial society"
+    ],
+    [
+      "industrial advancements",
+      "drives",
+      "accessibility"
+    ],
+    [
+      "industrial advancements",
+      "drives",
+      "mechanization"
+    ],
+    [
+      "industrial advancements",
+      "facilitates",
+      "share ideas"
+    ],
+    [
+      "industrial advancements",
+      "facilitates",
+      "transport goods"
+    ],
+    [
+      "industrial advancements",
+      "improves",
+      "manufacturing processes"
+    ],
+    [
+      "industrial advancements",
+      "shapes",
+      "human history"
+    ],
+    [
+      "industrial society",
+      "benefits from",
+      "connect people"
+    ],
+    [
+      "industrial society",
+      "benefits millions of people in",
+      "millions of people"
+    ],
+    [
+      "industrial society",
+      "contributed to",
+      "James Watt"
+    ],
+    [
+      "industrial society",
+      "contributed to",
+      "steam engine"
+    ],
+    [
+      "industrial society",
+      "enabled",
+      "manufacturing processes"
+    ],
+    [
+      "industrial society",
+      "enables",
+      "process information"
+    ],
+    [
+      "industrial society",
+      "facilitates",
+      "transport goods"
+    ],
+    [
+      "industrial society",
+      "foundation of",
+      "history"
+    ],
+    [
+      "industrial society",
+      "influenced",
+      "social media"
+    ],
+    [
+      "industrial society",
+      "is built upon by",
+      "foundation"
+    ],
+    [
+      "industrial society",
+      "resulted in",
+      "Industrial Revolution"
+    ],
+    [
+      "industrial society",
+      "results in",
+      "technological transformation"
+    ],
+    [
+      "industrial society",
+      "shaped by",
+      "modern transportation"
+    ],
+    [
+      "industrial society",
+      "shaped by",
+      "spread of knowledge"
+    ],
+    [
+      "industrial society",
+      "supports",
+      "accessible knowledge"
+    ],
+    [
+      "industrial society",
+      "supports",
+      "business"
+    ],
+    [
+      "industrial society",
+      "transformed",
+      "communication"
+    ],
+    [
+      "industrial society",
+      "was influenced by",
+      "ENIAC"
+    ],
+    [
+      "information access",
+      "accessed by",
+      "impact on civilization"
+    ],
+    [
+      "information access",
+      "enables",
+      "communication technologies"
+    ],
+    [
+      "information access",
+      "enables",
+      "interact world"
+    ],
+    [
+      "information access",
+      "facilitated by",
+      "real time"
+    ],
+    [
+      "information access",
+      "facilitated by",
+      "revolutionized lives"
+    ],
+    [
+      "information access",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "information dissemination",
+      "documents",
+      "human history"
+    ],
+    [
+      "information dissemination",
+      "drives",
+      "technological progress"
+    ],
+    [
+      "information dissemination",
+      "drives",
+      "technology"
+    ],
+    [
+      "information dissemination",
+      "enables",
+      "interact world"
+    ],
+    [
+      "information dissemination",
+      "enables",
+      "internet"
+    ],
+    [
+      "information dissemination",
+      "enables",
+      "real time"
+    ],
+    [
+      "information dissemination",
+      "facilitates",
+      "business"
+    ],
+    [
+      "information dissemination",
+      "influences",
+      "homes"
+    ],
+    [
+      "information dissemination",
+      "involves",
+      "world"
+    ],
+    [
+      "information dissemination",
+      "revolutionizes",
+      "revolutionized lives"
+    ],
+    [
+      "innovation",
+      "benefits from",
+      "widespread adoption"
+    ],
+    [
+      "innovation",
+      "drives",
+      "e-commerce"
+    ],
+    [
+      "innovation",
+      "drives",
+      "global economy"
+    ],
+    [
+      "innovation",
+      "drives",
+      "progress"
+    ],
+    [
+      "innovation",
+      "drives",
+      "technological transformation"
+    ],
+    [
+      "innovation",
+      "enables",
+      "transport goods"
+    ],
+    [
+      "innovation",
+      "enhances",
+      "education"
+    ],
+    [
+      "innovation",
+      "enhances",
+      "technology"
+    ],
+    [
+      "innovation",
+      "has influenced",
+      "profound impact"
+    ],
+    [
+      "innovation",
+      "inspired by",
+      "ideas"
+    ],
+    [
+      "innovation",
+      "inspired by",
+      "wheel"
+    ],
+    [
+      "innovation",
+      "is a key element of",
+      "essential components"
+    ],
+    [
+      "innovation",
+      "is a result of",
+      "Industrial Revolution"
+    ],
+    [
+      "innovation",
+      "supports",
+      "foundation"
+    ],
+    [
+      "innovation",
+      "transformed",
+      "industrial society"
+    ],
+    [
+      "innovation",
+      "transforms",
+      "revolutionized lives"
+    ],
+    [
+      "interact world",
+      "enables",
+      "ENIAC"
+    ],
+    [
+      "interact world",
+      "enables",
+      "access information"
+    ],
+    [
+      "interact world",
+      "enables",
+      "social media"
+    ],
+    [
+      "interact world",
+      "facilitated by",
+      "mobile communication"
+    ],
+    [
+      "interact world",
+      "influences",
+      "shaping world"
+    ],
+    [
+      "interact world",
+      "interacted with by",
+      "impact on civilization"
+    ],
+    [
+      "interact world",
+      "is facilitated by",
+      "global communication"
+    ],
+    [
+      "internet",
+      "developed after",
+      "late 20th century"
+    ],
+    [
+      "internet",
+      "developed after",
+      "telephone"
+    ],
+    [
+      "internet",
+      "drives",
+      "technological progress"
+    ],
+    [
+      "internet",
+      "has",
+      "impact on civilization"
+    ],
+    [
+      "internet",
+      "is a result of",
+      "widespread adoption"
+    ],
+    [
+      "internet",
+      "shaped by",
+      "human history"
+    ],
+    [
+      "internet",
+      "shapes",
+      "ideas"
+    ],
+    [
+      "internet",
+      "transforms",
+      "business"
+    ],
+    [
+      "internet",
+      "ushered in",
+      "digital age"
+    ],
+    [
+      "inventions",
+      "contributed to",
+      "spread of knowledge"
+    ],
+    [
+      "inventions",
+      "developed by",
+      "Thomas Newcomen"
+    ],
+    [
+      "inventions",
+      "drives",
+      "innovation"
+    ],
+    [
+      "inventions",
+      "drives technological advancements in",
+      "technological advancements"
+    ],
+    [
+      "inventions",
+      "enabled the creation of",
+      "printed materials"
+    ],
+    [
+      "inventions",
+      "enables",
+      "mechanization"
+    ],
+    [
+      "inventions",
+      "facilitates",
+      "share ideas"
+    ],
+    [
+      "inventions",
+      "facilitates the transport of",
+      "transport goods"
+    ],
+    [
+      "inventions",
+      "improved by",
+      "transportation"
+    ],
+    [
+      "inventions",
+      "includes",
+      "groundbreaking inventions"
+    ],
+    [
+      "inventions",
+      "includes",
+      "printing press"
+    ],
+    [
+      "inventions",
+      "includes",
+      "wheel"
+    ],
+    [
+      "inventions",
+      "influences",
+      "global scale"
+    ],
+    [
+      "inventions",
+      "influences",
+      "shaping world"
+    ],
+    [
+      "inventions",
+      "promotes",
+      "literacy"
+    ],
+    [
+      "inventions",
+      "represents",
+      "technological transformation"
+    ],
+    [
+      "inventions",
+      "shaped",
+      "Industrial Revolution"
+    ],
+    [
+      "inventions",
+      "shapes",
+      "society"
+    ],
+    [
+      "inventions",
+      "shapes the world of",
+      "world"
+    ],
+    [
+      "late 19th century",
+      "influenced",
+      "modern transportation"
+    ],
+    [
+      "late 19th century",
+      "influenced by",
+      "transformation"
+    ],
+    [
+      "late 19th century",
+      "occurred in",
+      "inventions"
+    ],
+    [
+      "late 19th century",
+      "powered by",
+      "steam engine"
+    ],
+    [
+      "late 19th century",
+      "preceded by",
+      "wheel"
+    ],
+    [
+      "late 19th century",
+      "revolutionized",
+      "revolutionized illumination"
+    ],
+    [
+      "late 20th century",
+      "defines",
+      "digital age"
+    ],
+    [
+      "late 20th century",
+      "emerged in",
+      "social media"
+    ],
+    [
+      "late 20th century",
+      "enabled",
+      "access information"
+    ],
+    [
+      "late 20th century",
+      "enabled",
+      "real time"
+    ],
+    [
+      "late 20th century",
+      "enabled by",
+      "e-commerce"
+    ],
+    [
+      "late 20th century",
+      "enables",
+      "connect people"
+    ],
+    [
+      "late 20th century",
+      "enables",
+      "connectivity"
+    ],
+    [
+      "late 20th century",
+      "enables",
+      "global connectivity"
+    ],
+    [
+      "late 20th century",
+      "enables",
+      "information access"
+    ],
+    [
+      "late 20th century",
+      "facilitated",
+      "global communication"
+    ],
+    [
+      "late 20th century",
+      "paved the way for",
+      "computer"
+    ],
+    [
+      "late 20th century",
+      "paved the way for",
+      "modern computing"
+    ],
+    [
+      "light bulb",
+      "illuminates",
+      "homes"
+    ],
+    [
+      "light bulb",
+      "includes",
+      "inventions"
+    ],
+    [
+      "light bulb",
+      "influenced by",
+      "Industrial Revolution"
+    ],
+    [
+      "light bulb",
+      "is succeeded by",
+      "electric lighting"
+    ],
+    [
+      "light bulb",
+      "replaced",
+      "replaced gas lamps"
+    ],
+    [
+      "light bulb",
+      "transformed",
+      "manufacturing processes"
+    ],
+    [
+      "light bulb",
+      "transformed by",
+      "transformation"
+    ],
+    [
+      "literacy",
+      "contributed to",
+      "spread of knowledge"
+    ],
+    [
+      "literacy",
+      "contributes to",
+      "industrial advancements"
+    ],
+    [
+      "literacy",
+      "enabled",
+      "printing press"
+    ],
+    [
+      "literacy",
+      "enhances",
+      "education"
+    ],
+    [
+      "literacy",
+      "fueled by",
+      "groundbreaking inventions"
+    ],
+    [
+      "literacy",
+      "is a foundation for",
+      "essential components"
+    ],
+    [
+      "literacy",
+      "is supported by",
+      "technological advancements"
+    ],
+    [
+      "literacy",
+      "shaped",
+      "human history"
+    ],
+    [
+      "literacy",
+      "supports",
+      "printed materials"
+    ],
+    [
+      "manufacturing processes",
+      "influences",
+      "accessible knowledge"
+    ],
+    [
+      "manufacturing processes",
+      "is influenced by",
+      "mechanization"
+    ],
+    [
+      "manufacturing processes",
+      "transformed by",
+      "replaced gas lamps"
+    ],
+    [
+      "manufacturing processes",
+      "was changed by",
+      "light bulb"
+    ],
+    [
+      "mechanization",
+      "contributes to",
+      "technological progress"
+    ],
+    [
+      "mechanization",
+      "drives",
+      "manufacturing processes"
+    ],
+    [
+      "mechanization",
+      "drives",
+      "transformation"
+    ],
+    [
+      "mechanization",
+      "influences",
+      "technological transformation"
+    ],
+    [
+      "mechanization",
+      "initiated by",
+      "Industrial Revolution"
+    ],
+    [
+      "mechanization",
+      "is a result of",
+      "human history"
+    ],
+    [
+      "millions of people",
+      "benefited by",
+      "Alexander Graham Bell"
+    ],
+    [
+      "millions of people",
+      "benefited by",
+      "e-commerce"
+    ],
+    [
+      "millions of people",
+      "benefits",
+      "accessibility"
+    ],
+    [
+      "millions of people",
+      "benefits",
+      "connect people"
+    ],
+    [
+      "millions of people",
+      "benefits",
+      "modern society"
+    ],
+    [
+      "millions of people",
+      "benefits",
+      "transformed urban landscapes"
+    ],
+    [
+      "millions of people",
+      "benefits from",
+      "indoor spaces"
+    ],
+    [
+      "millions of people",
+      "drives",
+      "progress"
+    ],
+    [
+      "millions of people",
+      "enables",
+      "share ideas"
+    ],
+    [
+      "millions of people",
+      "is experienced by",
+      "communication"
+    ],
+    [
+      "millions of people",
+      "provides",
+      "convenient"
+    ],
+    [
+      "millions of people",
+      "reshaped by",
+      "reshape lives"
+    ],
+    [
+      "millions of people",
+      "serves millions of people by",
+      "conduct business"
+    ],
+    [
+      "mobile communication",
+      "advances",
+      "progress"
+    ],
+    [
+      "mobile communication",
+      "advances",
+      "technological advancements"
+    ],
+    [
+      "mobile communication",
+      "contributes to",
+      "technological progress"
+    ],
+    [
+      "mobile communication",
+      "enabled",
+      "widespread adoption"
+    ],
+    [
+      "mobile communication",
+      "enabled by",
+      "digital technologies"
+    ],
+    [
+      "mobile communication",
+      "enabled by",
+      "internet"
+    ],
+    [
+      "mobile communication",
+      "enables",
+      "computer"
+    ],
+    [
+      "mobile communication",
+      "enables",
+      "connect people"
+    ],
+    [
+      "mobile communication",
+      "enables",
+      "connectivity"
+    ],
+    [
+      "mobile communication",
+      "enables",
+      "interact world"
+    ],
+    [
+      "mobile communication",
+      "enables",
+      "telecommunications"
+    ],
+    [
+      "mobile communication",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "mobile communication",
+      "enhances",
+      "global scale"
+    ],
+    [
+      "mobile communication",
+      "enhances",
+      "information access"
+    ],
+    [
+      "mobile communication",
+      "facilitates",
+      "collaboration"
+    ],
+    [
+      "mobile communication",
+      "impacts",
+      "society"
+    ],
+    [
+      "mobile communication",
+      "influenced by",
+      "printed materials"
+    ],
+    [
+      "mobile communication",
+      "integral to",
+      "digital age"
+    ],
+    [
+      "modern computing",
+      "associated with",
+      "technology"
+    ],
+    [
+      "modern computing",
+      "developed into",
+      "computer"
+    ],
+    [
+      "modern computing",
+      "driven by",
+      "global communication"
+    ],
+    [
+      "modern computing",
+      "driven by",
+      "widespread adoption"
+    ],
+    [
+      "modern computing",
+      "drives",
+      "innovation"
+    ],
+    [
+      "modern computing",
+      "drives",
+      "technological progress"
+    ],
+    [
+      "modern computing",
+      "drives",
+      "technological transformation"
+    ],
+    [
+      "modern computing",
+      "enabled by",
+      "internet"
+    ],
+    [
+      "modern computing",
+      "enabled by",
+      "mobile communication"
+    ],
+    [
+      "modern computing",
+      "enables",
+      "collaboration"
+    ],
+    [
+      "modern computing",
+      "enables",
+      "information dissemination"
+    ],
+    [
+      "modern computing",
+      "enables",
+      "process information"
+    ],
+    [
+      "modern computing",
+      "enables",
+      "social media"
+    ],
+    [
+      "modern computing",
+      "enhanced by",
+      "entertainment"
+    ],
+    [
+      "modern computing",
+      "influences",
+      "shaping world"
+    ],
+    [
+      "modern computing",
+      "integrated with",
+      "communication technologies"
+    ],
+    [
+      "modern computing",
+      "is influenced by",
+      "advancements"
+    ],
+    [
+      "modern computing",
+      "reshape",
+      "reshape lives"
+    ],
+    [
+      "modern computing",
+      "shapes",
+      "profound impact"
+    ],
+    [
+      "modern society",
+      "depends on",
+      "artificial lighting"
+    ],
+    [
+      "modern society",
+      "drives",
+      "computer"
+    ],
+    [
+      "modern society",
+      "drives",
+      "innovation"
+    ],
+    [
+      "modern society",
+      "drives",
+      "technology"
+    ],
+    [
+      "modern society",
+      "enhances",
+      "information access"
+    ],
+    [
+      "modern society",
+      "facilitated by",
+      "internet"
+    ],
+    [
+      "modern society",
+      "facilitates",
+      "information dissemination"
+    ],
+    [
+      "modern society",
+      "facilitates",
+      "share ideas"
+    ],
+    [
+      "modern society",
+      "has",
+      "profound impact"
+    ],
+    [
+      "modern society",
+      "influenced by",
+      "global scale"
+    ],
+    [
+      "modern society",
+      "serves as",
+      "foundation"
+    ],
+    [
+      "modern society",
+      "shaped by",
+      "late 20th century"
+    ],
+    [
+      "modern society",
+      "shapes",
+      "ideas"
+    ],
+    [
+      "modern society",
+      "supports",
+      "real time"
+    ],
+    [
+      "modern transportation",
+      "drives",
+      "global economy"
+    ],
+    [
+      "modern transportation",
+      "enhanced by",
+      "innovation"
+    ],
+    [
+      "printed materials",
+      "are created by",
+      "inventions"
+    ],
+    [
+      "printed materials",
+      "disseminated by",
+      "process information"
+    ],
+    [
+      "printed materials",
+      "enhanced by",
+      "technological progress"
+    ],
+    [
+      "printed materials",
+      "influenced by",
+      "human history"
+    ],
+    [
+      "printed materials",
+      "produced by",
+      "manufacturing processes"
+    ],
+    [
+      "printed materials",
+      "produced by",
+      "printing press"
+    ],
+    [
+      "printed materials",
+      "provides",
+      "access information"
+    ],
+    [
+      "printed materials",
+      "provides",
+      "information access"
+    ],
+    [
+      "printing press",
+      "catalyzed by",
+      "Industrial Revolution"
+    ],
+    [
+      "printing press",
+      "drives",
+      "technological transformation"
+    ],
+    [
+      "printing press",
+      "enabled",
+      "access information"
+    ],
+    [
+      "printing press",
+      "enables",
+      "communication technologies"
+    ],
+    [
+      "printing press",
+      "facilitates",
+      "process information"
+    ],
+    [
+      "printing press",
+      "influenced",
+      "steam engine"
+    ],
+    [
+      "printing press",
+      "influenced by",
+      "late 19th century"
+    ],
+    [
+      "printing press",
+      "influenced by",
+      "light bulb"
+    ],
+    [
+      "printing press",
+      "invented",
+      "Thomas Edison"
+    ],
+    [
+      "printing press",
+      "is replaced by",
+      "replaced gas lamps"
+    ],
+    [
+      "printing press",
+      "transformed by",
+      "transformation"
+    ],
+    [
+      "printing press",
+      "transforms",
+      "manufacturing processes"
+    ],
+    [
+      "printing press",
+      "was affected by",
+      "electric lighting"
+    ],
+    [
+      "process information",
+      "enables",
+      "communication technologies"
+    ],
+    [
+      "process information",
+      "enables",
+      "future generations"
+    ],
+    [
+      "process information",
+      "enables",
+      "technological transformation"
+    ],
+    [
+      "process information",
+      "enhances",
+      "education"
+    ],
+    [
+      "process information",
+      "enhances",
+      "progress"
+    ],
+    [
+      "process information",
+      "enhances",
+      "safer"
+    ],
+    [
+      "process information",
+      "facilitates",
+      "social media"
+    ],
+    [
+      "process information",
+      "influences",
+      "impact on civilization"
+    ],
+    [
+      "process information",
+      "is reliant on",
+      "digital technologies"
+    ],
+    [
+      "process information",
+      "processed by",
+      "internet"
+    ],
+    [
+      "process information",
+      "processes",
+      "business"
+    ],
+    [
+      "process information",
+      "processes",
+      "telephone"
+    ],
+    [
+      "profound impact",
+      "affected",
+      "transformed urban landscapes"
+    ],
+    [
+      "profound impact",
+      "enabled by",
+      "ENIAC"
+    ],
+    [
+      "profound impact",
+      "enables",
+      "share ideas"
+    ],
+    [
+      "profound impact",
+      "has",
+      "global communication"
+    ],
+    [
+      "profound impact",
+      "has",
+      "shaping world"
+    ],
+    [
+      "profound impact",
+      "influenced by",
+      "future generations"
+    ],
+    [
+      "profound impact",
+      "influenced by",
+      "mobile communication"
+    ],
+    [
+      "profound impact",
+      "influences",
+      "history"
+    ],
+    [
+      "profound impact",
+      "resulted in",
+      "improved quality of life"
+    ],
+    [
+      "profound impact",
+      "shaped",
+      "industrial society"
+    ],
+    [
+      "profound impact",
+      "shaped by",
+      "human history"
+    ],
+    [
+      "progress",
+      "benefits from",
+      "society"
+    ],
+    [
+      "progress",
+      "contributes to",
+      "ENIAC"
+    ],
+    [
+      "progress",
+      "contributes to",
+      "groundbreaking inventions"
+    ],
+    [
+      "progress",
+      "drives",
+      "entertainment"
+    ],
+    [
+      "progress",
+      "drives",
+      "global communication"
+    ],
+    [
+      "progress",
+      "drives",
+      "modern society"
+    ],
+    [
+      "progress",
+      "fueled by",
+      "social media"
+    ],
+    [
+      "progress",
+      "is influenced by",
+      "shaping world"
+    ],
+    [
+      "progress",
+      "represents",
+      "technological transformation"
+    ],
+    [
+      "real time",
+      "enhanced by",
+      "communication technologies"
+    ],
+    [
+      "real time",
+      "improved by",
+      "improved quality of life"
+    ],
+    [
+      "replaced gas lamps",
+      "replaced",
+      "James Watt"
+    ],
+    [
+      "replaced gas lamps",
+      "replaced",
+      "Thomas Edison"
+    ],
+    [
+      "replaced gas lamps",
+      "replaced",
+      "cities"
+    ],
+    [
+      "replaced gas lamps",
+      "replaced",
+      "electric lighting"
+    ],
+    [
+      "replaced gas lamps",
+      "replaced",
+      "industrial advancements"
+    ],
+    [
+      "replaced gas lamps",
+      "replaced",
+      "late 19th century"
+    ],
+    [
+      "replaced gas lamps",
+      "replaced",
+      "transformation"
+    ],
+    [
+      "replaced gas lamps",
+      "was",
+      "inventions"
+    ],
+    [
+      "replaced gas lamps",
+      "was replaced by",
+      "printing press"
+    ],
+    [
+      "reshape lives",
+      "allows",
+      "share ideas"
+    ],
+    [
+      "reshape lives",
+      "drives",
+      "progress"
+    ],
+    [
+      "reshape lives",
+      "reshaped by",
+      "cities"
+    ],
+    [
+      "reshape lives",
+      "reshaped by",
+      "conduct business"
+    ],
+    [
+      "reshape lives",
+      "reshaped by",
+      "society"
+    ],
+    [
+      "reshape lives",
+      "reshaped by",
+      "world"
+    ],
+    [
+      "reshape lives",
+      "reshapes",
+      "global economy"
+    ],
+    [
+      "reshape lives",
+      "transforms",
+      "artificial lighting"
+    ],
+    [
+      "revolutionized illumination",
+      "produced",
+      "light bulb"
+    ],
+    [
+      "revolutionized lives",
+      "enhances",
+      "groundbreaking inventions"
+    ],
+    [
+      "revolutionized lives",
+      "facilitates",
+      "interact world"
+    ],
+    [
+      "revolutionized lives",
+      "improves",
+      "safer"
+    ],
+    [
+      "revolutionized lives",
+      "resulted in",
+      "improved quality of life"
+    ],
+    [
+      "revolutionized lives",
+      "revolutionized by",
+      "global connectivity"
+    ],
+    [
+      "revolutionized lives",
+      "transformed",
+      "business"
+    ],
+    [
+      "revolutionized lives",
+      "transformed",
+      "digital age"
+    ],
+    [
+      "revolutionized lives",
+      "transformed",
+      "modern computing"
+    ],
+    [
+      "revolutionized lives",
+      "transformed",
+      "real time"
+    ],
+    [
+      "revolutionized lives",
+      "transformed by",
+      "democratization"
+    ],
+    [
+      "revolutionized lives",
+      "transformed by",
+      "entertainment"
+    ],
+    [
+      "revolutionized lives",
+      "transformed by",
+      "industrial society"
+    ],
+    [
+      "revolutionized lives",
+      "transformed by",
+      "millions of people"
+    ],
+    [
+      "revolutionized lives",
+      "transformed by",
+      "telephone"
+    ],
+    [
+      "revolutionized lives",
+      "transformed by",
+      "widespread adoption"
+    ],
+    [
+      "revolutionized lives",
+      "was transformed by",
+      "ENIAC"
+    ],
+    [
+      "safer",
+      "enhanced by",
+      "global connectivity"
+    ],
+    [
+      "safer",
+      "enhances",
+      "global communication"
+    ],
+    [
+      "safer",
+      "improves",
+      "widespread adoption"
+    ],
+    [
+      "safer",
+      "is made safer by",
+      "connect people"
+    ],
+    [
+      "safer",
+      "made safer by",
+      "cities"
+    ],
+    [
+      "safer",
+      "made safer by",
+      "mobile communication"
+    ],
+    [
+      "safer",
+      "provides",
+      "modern society"
+    ],
+    [
+      "safer",
+      "provides safety for",
+      "connectivity"
+    ],
+    [
+      "shaping world",
+      "contributed to",
+      "widespread adoption"
+    ],
+    [
+      "shaping world",
+      "drives",
+      "technological progress"
+    ],
+    [
+      "shaping world",
+      "enables",
+      "digital technologies"
+    ],
+    [
+      "shaping world",
+      "enables",
+      "information access"
+    ],
+    [
+      "shaping world",
+      "enables",
+      "transport goods"
+    ],
+    [
+      "shaping world",
+      "facilitates",
+      "share ideas"
+    ],
+    [
+      "shaping world",
+      "improves",
+      "indoor spaces"
+    ],
+    [
+      "shaping world",
+      "influenced",
+      "accessible knowledge"
+    ],
+    [
+      "shaping world",
+      "influences",
+      "foundation"
+    ],
+    [
+      "shaping world",
+      "influences",
+      "groundbreaking inventions"
+    ],
+    [
+      "shaping world",
+      "influences",
+      "human history"
+    ],
+    [
+      "shaping world",
+      "influences",
+      "industrial society"
+    ],
+    [
+      "shaping world",
+      "influences",
+      "modern transportation"
+    ],
+    [
+      "shaping world",
+      "revolutionizes",
+      "revolutionized lives"
+    ],
+    [
+      "shaping world",
+      "shapes",
+      "collaboration"
+    ],
+    [
+      "shaping world",
+      "shapes",
+      "communication technologies"
+    ],
+    [
+      "shaping world",
+      "shapes",
+      "impact on civilization"
+    ],
+    [
+      "shaping world",
+      "transformed by",
+      "e-commerce"
+    ],
+    [
+      "share ideas",
+      "benefits from",
+      "conduct business"
+    ],
+    [
+      "share ideas",
+      "facilitated by",
+      "technology"
+    ],
+    [
+      "share ideas",
+      "is dependent on",
+      "connect people"
+    ],
+    [
+      "share ideas",
+      "is facilitated by",
+      "profound impact"
+    ],
+    [
+      "share ideas",
+      "resulted in",
+      "technological transformation"
+    ],
+    [
+      "share ideas",
+      "shares",
+      "essential components"
+    ],
+    [
+      "share ideas",
+      "transforms",
+      "revolutionized lives"
+    ],
+    [
+      "social media",
+      "enhanced by",
+      "convenient"
+    ],
+    [
+      "social media",
+      "facilitated by",
+      "real time"
+    ],
+    [
+      "social media",
+      "facilitates",
+      "communication technologies"
+    ],
+    [
+      "social media",
+      "influenced by",
+      "education"
+    ],
+    [
+      "social media",
+      "is shaped by",
+      "global scale"
+    ],
+    [
+      "social media",
+      "is shaped by",
+      "impact on civilization"
+    ],
+    [
+      "social media",
+      "shaped by",
+      "shaping world"
+    ],
+    [
+      "societal change",
+      "affects",
+      "future generations"
+    ],
+    [
+      "societal change",
+      "affects",
+      "impact on civilization"
+    ],
+    [
+      "societal change",
+      "affects",
+      "millions of people"
+    ],
+    [
+      "societal change",
+      "drives",
+      "creativity"
+    ],
+    [
+      "societal change",
+      "drives",
+      "digital technologies"
+    ],
+    [
+      "societal change",
+      "drives",
+      "e-commerce"
+    ],
+    [
+      "societal change",
+      "drives",
+      "groundbreaking inventions"
+    ],
+    [
+      "societal change",
+      "drives",
+      "innovation"
+    ],
+    [
+      "societal change",
+      "drives",
+      "progress"
+    ],
+    [
+      "societal change",
+      "drives",
+      "widespread adoption"
+    ],
+    [
+      "societal change",
+      "drives",
+      "world"
+    ],
+    [
+      "societal change",
+      "enhances",
+      "information access"
+    ],
+    [
+      "societal change",
+      "influences",
+      "shaping world"
+    ],
+    [
+      "societal change",
+      "influences",
+      "technological progress"
+    ],
+    [
+      "societal change",
+      "reshapes",
+      "reshape lives"
+    ],
+    [
+      "societal change",
+      "resulted from",
+      "transformed urban landscapes"
+    ],
+    [
+      "societal change",
+      "shapes",
+      "human history"
+    ],
+    [
+      "societal change",
+      "transforms",
+      "internet"
+    ],
+    [
+      "societal change",
+      "transforms",
+      "revolutionized lives"
+    ],
+    [
+      "societal change",
+      "triggers",
+      "technological advancements"
+    ],
+    [
+      "society",
+      "connects",
+      "connect people"
+    ],
+    [
+      "society",
+      "drives",
+      "digital technologies"
+    ],
+    [
+      "society",
+      "drives",
+      "progress"
+    ],
+    [
+      "society",
+      "drives",
+      "technological progress"
+    ],
+    [
+      "society",
+      "enhances",
+      "accessible knowledge"
+    ],
+    [
+      "society",
+      "facilitated the spread of",
+      "spread of knowledge"
+    ],
+    [
+      "society",
+      "influenced by",
+      "business"
+    ],
+    [
+      "society",
+      "influenced by",
+      "global scale"
+    ],
+    [
+      "society",
+      "influenced by",
+      "widespread adoption"
+    ],
+    [
+      "society",
+      "is influenced by",
+      "inventions"
+    ],
+    [
+      "society",
+      "promotes the spread of",
+      "ideas"
+    ],
+    [
+      "society",
+      "shaped by",
+      "transformed urban landscapes"
+    ],
+    [
+      "society",
+      "shapes",
+      "impact on civilization"
+    ],
+    [
+      "society",
+      "transformed by",
+      "revolutionized lives"
+    ],
+    [
+      "society",
+      "ushered in",
+      "digital age"
+    ],
+    [
+      "spread of knowledge",
+      "contributes to",
+      "essential components"
+    ],
+    [
+      "spread of knowledge",
+      "contributes to",
+      "global economy"
+    ],
+    [
+      "spread of knowledge",
+      "contributes to",
+      "world"
+    ],
+    [
+      "spread of knowledge",
+      "drives",
+      "innovation"
+    ],
+    [
+      "spread of knowledge",
+      "enables",
+      "transport goods"
+    ],
+    [
+      "spread of knowledge",
+      "enhanced",
+      "education"
+    ],
+    [
+      "spread of knowledge",
+      "facilitated by",
+      "mechanization"
+    ],
+    [
+      "spread of knowledge",
+      "influences",
+      "shaping world"
+    ],
+    [
+      "spread of knowledge",
+      "inspires",
+      "creativity"
+    ],
+    [
+      "spread of knowledge",
+      "is disseminated by",
+      "society"
+    ],
+    [
+      "spread of knowledge",
+      "promotes",
+      "share ideas"
+    ],
+    [
+      "steam engine",
+      "developed",
+      "Thomas Edison"
+    ],
+    [
+      "steam engine",
+      "developed",
+      "Thomas Newcomen"
+    ],
+    [
+      "steam engine",
+      "enabled by",
+      "human history"
+    ],
+    [
+      "steam engine",
+      "enabled by",
+      "inventions"
+    ],
+    [
+      "steam engine",
+      "enabled by",
+      "wheel"
+    ],
+    [
+      "steam engine",
+      "enabled modern transportation",
+      "modern transportation"
+    ],
+    [
+      "steam engine",
+      "enables",
+      "late 19th century"
+    ],
+    [
+      "steam engine",
+      "facilitates",
+      "transport goods"
+    ],
+    [
+      "steam engine",
+      "is a key element of",
+      "essential components"
+    ],
+    [
+      "steam engine",
+      "powered by",
+      "advancements"
+    ],
+    [
+      "steam engine",
+      "powered by",
+      "transportation"
+    ],
+    [
+      "steam engine",
+      "revolutionized",
+      "manufacturing processes"
+    ],
+    [
+      "steam engine",
+      "shaped by",
+      "shaping world"
+    ],
+    [
+      "steam engine",
+      "transformed",
+      "global economy"
+    ],
+    [
+      "technological advancements",
+      "advances",
+      "communication technologies"
+    ],
+    [
+      "technological advancements",
+      "advances telecommunications in",
+      "telecommunications"
+    ],
+    [
+      "technological advancements",
+      "affects society",
+      "society"
+    ],
+    [
+      "technological advancements",
+      "drives",
+      "progress"
+    ],
+    [
+      "technological advancements",
+      "enables",
+      "access information"
+    ],
+    [
+      "technological advancements",
+      "enables",
+      "modern computing"
+    ],
+    [
+      "technological advancements",
+      "enhanced by",
+      "printed materials"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "interact world"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "literacy"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "telephone"
+    ],
+    [
+      "technological advancements",
+      "facilitates",
+      "collaboration"
+    ],
+    [
+      "technological advancements",
+      "facilitates",
+      "connect people"
+    ],
+    [
+      "technological advancements",
+      "improved by",
+      "transport goods"
+    ],
+    [
+      "technological advancements",
+      "improves",
+      "accessibility"
+    ],
+    [
+      "technological advancements",
+      "influenced by",
+      "digital technologies"
+    ],
+    [
+      "technological advancements",
+      "influences",
+      "future generations"
+    ],
+    [
+      "technological advancements",
+      "inspired by",
+      "printing press"
+    ],
+    [
+      "technological advancements",
+      "revolutionizes",
+      "revolutionized lives"
+    ],
+    [
+      "technological advancements",
+      "shapes",
+      "human history"
+    ],
+    [
+      "technological progress",
+      "characterizes",
+      "digital age"
+    ],
+    [
+      "technological progress",
+      "drives",
+      "connectivity"
+    ],
+    [
+      "technological progress",
+      "drives",
+      "e-commerce"
+    ],
+    [
+      "technological progress",
+      "drives",
+      "manufacturing processes"
+    ],
+    [
+      "technological progress",
+      "enables",
+      "computer"
+    ],
+    [
+      "technological progress",
+      "enables",
+      "transport goods"
+    ],
+    [
+      "technological progress",
+      "enhanced by",
+      "information access"
+    ],
+    [
+      "technological progress",
+      "influences interaction with",
+      "interact world"
+    ],
+    [
+      "technological progress",
+      "is fueled by",
+      "creativity"
+    ],
+    [
+      "technological progress",
+      "paved the way for",
+      "steam engine"
+    ],
+    [
+      "technological progress",
+      "results in",
+      "inventions"
+    ],
+    [
+      "technological transformation",
+      "enabled",
+      "advancements"
+    ],
+    [
+      "technological transformation",
+      "influenced by",
+      "profound impact"
+    ],
+    [
+      "technology",
+      "developed by",
+      "computer"
+    ],
+    [
+      "technology",
+      "enables",
+      "internet"
+    ],
+    [
+      "technology",
+      "enhanced by",
+      "communication technologies"
+    ],
+    [
+      "technology",
+      "facilitates",
+      "access information"
+    ],
+    [
+      "technology",
+      "improves",
+      "information access"
+    ],
+    [
+      "technology",
+      "is built upon",
+      "foundation"
+    ],
+    [
+      "technology",
+      "replaced by",
+      "artificial lighting"
+    ],
+    [
+      "technology",
+      "shaped",
+      "transformed urban landscapes"
+    ],
+    [
+      "technology",
+      "transforms",
+      "revolutionized lives"
+    ],
+    [
+      "telecommunications",
+      "advances",
+      "technological progress"
+    ],
+    [
+      "telecommunications",
+      "connects",
+      "connect people"
+    ],
+    [
+      "telecommunications",
+      "enables",
+      "digital technologies"
+    ],
+    [
+      "telecommunications",
+      "enables",
+      "e-commerce"
+    ],
+    [
+      "telecommunications",
+      "enables",
+      "global connectivity"
+    ],
+    [
+      "telecommunications",
+      "enables",
+      "internet"
+    ],
+    [
+      "telecommunications",
+      "enhances",
+      "convenient"
+    ],
+    [
+      "telecommunications",
+      "enhances",
+      "education"
+    ],
+    [
+      "telecommunications",
+      "facilitates",
+      "access information"
+    ],
+    [
+      "telecommunications",
+      "impacts",
+      "profound impact"
+    ],
+    [
+      "telecommunications",
+      "influenced by",
+      "transformed urban landscapes"
+    ],
+    [
+      "telecommunications",
+      "influences",
+      "shaping world"
+    ],
+    [
+      "telecommunications",
+      "promotes",
+      "widespread adoption"
+    ],
+    [
+      "telecommunications",
+      "revolutionized",
+      "revolutionized lives"
+    ],
+    [
+      "telecommunications",
+      "shapes",
+      "human history"
+    ],
+    [
+      "telecommunications",
+      "shapes",
+      "industrial society"
+    ],
+    [
+      "telecommunications",
+      "supports",
+      "business"
+    ],
+    [
+      "telecommunications",
+      "supports",
+      "communication technologies"
+    ],
+    [
+      "telecommunications",
+      "supports",
+      "modern computing"
+    ],
+    [
+      "telecommunications",
+      "transformed by",
+      "global scale"
+    ],
+    [
+      "telecommunications",
+      "was developed by",
+      "ENIAC"
+    ],
+    [
+      "telephone",
+      "enabled by",
+      "entertainment"
+    ],
+    [
+      "telephone",
+      "enabled by",
+      "global communication"
+    ],
+    [
+      "telephone",
+      "enables",
+      "collaboration"
+    ],
+    [
+      "telephone",
+      "enables",
+      "connect people"
+    ],
+    [
+      "telephone",
+      "enables",
+      "global connectivity"
+    ],
+    [
+      "telephone",
+      "enables",
+      "interact world"
+    ],
+    [
+      "telephone",
+      "enables",
+      "real time"
+    ],
+    [
+      "telephone",
+      "facilitated",
+      "business"
+    ],
+    [
+      "telephone",
+      "facilitated by",
+      "communication"
+    ],
+    [
+      "telephone",
+      "facilitates",
+      "access information"
+    ],
+    [
+      "telephone",
+      "facilitates",
+      "information dissemination"
+    ],
+    [
+      "telephone",
+      "facilitates",
+      "share ideas"
+    ],
+    [
+      "telephone",
+      "facilitates democratization of",
+      "democratization"
+    ],
+    [
+      "telephone",
+      "improves",
+      "accessibility"
+    ],
+    [
+      "telephone",
+      "influences",
+      "ideas"
+    ],
+    [
+      "telephone",
+      "preceded",
+      "computer"
+    ],
+    [
+      "telephone",
+      "precedes",
+      "internet"
+    ],
+    [
+      "telephone",
+      "represents",
+      "innovation"
+    ],
+    [
+      "telephone",
+      "reshaped",
+      "reshape lives"
+    ],
+    [
+      "telephone",
+      "shaped by",
+      "shaping world"
+    ],
+    [
+      "telephone",
+      "transformed",
+      "human history"
+    ],
+    [
+      "telephone",
+      "transformed",
+      "profound impact"
+    ],
+    [
+      "telephone",
+      "transforms",
+      "education"
+    ],
+    [
+      "transformation",
+      "enables",
+      "transport goods"
+    ],
+    [
+      "transformation",
+      "facilitated by",
+      "spread of knowledge"
+    ],
+    [
+      "transformation",
+      "transformed by",
+      "manufacturing processes"
+    ],
+    [
+      "transformation",
+      "transformed by",
+      "printed materials"
+    ],
+    [
+      "transformation",
+      "transformed by",
+      "steam engine"
+    ],
+    [
+      "transformation",
+      "transforms",
+      "global economy"
+    ],
+    [
+      "transformed urban landscapes",
+      "enhanced by",
+      "artificial lighting"
+    ],
+    [
+      "transformed urban landscapes",
+      "enhances",
+      "improved quality of life"
+    ],
+    [
+      "transformed urban landscapes",
+      "influenced",
+      "societal change"
+    ],
+    [
+      "transformed urban landscapes",
+      "influenced by",
+      "innovation"
+    ],
+    [
+      "transformed urban landscapes",
+      "influences",
+      "shaping world"
+    ],
+    [
+      "transformed urban landscapes",
+      "is shaped by",
+      "transportation"
+    ],
+    [
+      "transformed urban landscapes",
+      "is transformed by",
+      "global scale"
+    ],
+    [
+      "transformed urban landscapes",
+      "transformed",
+      "telephone"
+    ],
+    [
+      "transport goods",
+      "are transported by",
+      "inventions"
+    ],
+    [
+      "transport goods",
+      "depends on",
+      "transportation"
+    ],
+    [
+      "transport goods",
+      "enables",
+      "technological transformation"
+    ],
+    [
+      "transport goods",
+      "facilitated",
+      "manufacturing processes"
+    ],
+    [
+      "transport goods",
+      "necessary for",
+      "essential components"
+    ],
+    [
+      "transport goods",
+      "utilized for",
+      "late 19th century"
+    ],
+    [
+      "transportation",
+      "benefits",
+      "millions of people"
+    ],
+    [
+      "transportation",
+      "contributes to",
+      "industrial society"
+    ],
+    [
+      "transportation",
+      "drives",
+      "innovation"
+    ],
+    [
+      "transportation",
+      "drives",
+      "technological progress"
+    ],
+    [
+      "transportation",
+      "enables",
+      "connect people"
+    ],
+    [
+      "transportation",
+      "enhances",
+      "advancements"
+    ],
+    [
+      "transportation",
+      "enhances",
+      "global connectivity"
+    ],
+    [
+      "transportation",
+      "facilitates",
+      "business"
+    ],
+    [
+      "transportation",
+      "facilitates",
+      "transport goods"
+    ],
+    [
+      "transportation",
+      "facilitates",
+      "widespread adoption"
+    ],
+    [
+      "transportation",
+      "impacts",
+      "human history"
+    ],
+    [
+      "transportation",
+      "improves",
+      "convenient"
+    ],
+    [
+      "transportation",
+      "influenced by",
+      "manufacturing processes"
+    ],
+    [
+      "transportation",
+      "influences",
+      "shaping world"
+    ],
+    [
+      "transportation",
+      "influences",
+      "transformed urban landscapes"
+    ],
+    [
+      "transportation",
+      "revolutionized",
+      "revolutionized lives"
+    ],
+    [
+      "transportation",
+      "supports",
+      "accessible knowledge"
+    ],
+    [
+      "wheel",
+      "associated with",
+      "Alexander Graham Bell"
+    ],
+    [
+      "wheel",
+      "enabled by",
+      "industrial society"
+    ],
+    [
+      "wheel",
+      "enabled by",
+      "modern transportation"
+    ],
+    [
+      "wheel",
+      "enabled by",
+      "spread of knowledge"
+    ],
+    [
+      "wheel",
+      "enabled by",
+      "transportation"
+    ],
+    [
+      "wheel",
+      "enabled mechanization of",
+      "mechanization"
+    ],
+    [
+      "wheel",
+      "enables",
+      "transport goods"
+    ],
+    [
+      "wheel",
+      "influenced by",
+      "global economy"
+    ],
+    [
+      "wheel",
+      "influenced by",
+      "industrial advancements"
+    ],
+    [
+      "wheel",
+      "influenced by",
+      "replaced gas lamps"
+    ],
+    [
+      "wheel",
+      "influenced by",
+      "world"
+    ],
+    [
+      "wheel",
+      "influenced the development of",
+      "printing press"
+    ],
+    [
+      "wheel",
+      "inspired by",
+      "groundbreaking inventions"
+    ],
+    [
+      "wheel",
+      "inspired by",
+      "technological progress"
+    ],
+    [
+      "wheel",
+      "invented by",
+      "Johannes Gutenberg"
+    ],
+    [
+      "wheel",
+      "is",
+      "essential components"
+    ],
+    [
+      "wheel",
+      "is a result of",
+      "transformation"
+    ],
+    [
+      "wheel",
+      "powered by",
+      "steam engine"
+    ],
+    [
+      "wheel",
+      "preceded",
+      "Industrial Revolution"
+    ],
+    [
+      "wheel",
+      "replaced by",
+      "light bulb"
+    ],
+    [
+      "wheel",
+      "represents",
+      "technological transformation"
+    ],
+    [
+      "wheel",
+      "transformed",
+      "manufacturing processes"
+    ],
+    [
+      "widespread adoption",
+      "adopted by",
+      "indoor spaces"
+    ],
+    [
+      "widespread adoption",
+      "adopted by",
+      "telephone"
+    ],
+    [
+      "widespread adoption",
+      "advances",
+      "communication technologies"
+    ],
+    [
+      "widespread adoption",
+      "contributes to",
+      "progress"
+    ],
+    [
+      "widespread adoption",
+      "contributes to industrial society",
+      "industrial society"
+    ],
+    [
+      "widespread adoption",
+      "drives",
+      "innovation"
+    ],
+    [
+      "widespread adoption",
+      "enabled the development of",
+      "internet"
+    ],
+    [
+      "widespread adoption",
+      "enhances",
+      "information access"
+    ],
+    [
+      "widespread adoption",
+      "facilitated by",
+      "digital technologies"
+    ],
+    [
+      "widespread adoption",
+      "facilitated by",
+      "ideas"
+    ],
+    [
+      "widespread adoption",
+      "fosters",
+      "creativity"
+    ],
+    [
+      "widespread adoption",
+      "influences",
+      "safer"
+    ],
+    [
+      "widespread adoption",
+      "is a result of",
+      "shaping world"
+    ],
+    [
+      "widespread adoption",
+      "promotes",
+      "share ideas"
+    ],
+    [
+      "widespread adoption",
+      "promotes",
+      "social media"
+    ],
+    [
+      "widespread adoption",
+      "provides",
+      "convenient"
+    ],
+    [
+      "widespread adoption",
+      "resulted from",
+      "transformed urban landscapes"
+    ],
+    [
+      "widespread adoption",
+      "results in",
+      "information dissemination"
+    ],
+    [
+      "world",
+      "affected by",
+      "transformed urban landscapes"
+    ],
+    [
+      "world",
+      "connected",
+      "telephone"
+    ],
+    [
+      "world",
+      "enables",
+      "transport goods"
+    ],
+    [
+      "world",
+      "has a profound impact on",
+      "profound impact"
+    ],
+    [
+      "world",
+      "influences",
+      "share ideas"
+    ],
+    [
+      "world",
+      "is influenced by",
+      "shaping world"
+    ],
+    [
+      "world",
+      "reshaped",
+      "social media"
+    ],
+    [
+      "world",
+      "serves as",
+      "modern transportation"
+    ],
+    [
+      "world",
+      "shaped by",
+      "connectivity"
+    ],
+    [
+      "world",
+      "shapes",
+      "ideas"
+    ],
+    [
+      "world",
+      "transformed",
+      "communication technologies"
+    ]
+  ],
+  "edges": [
+    "accessed by",
+    "adopted by",
+    "adopted widely by",
+    "advances",
+    "advances telecommunications in",
+    "affected",
+    "affected by",
+    "affects",
+    "affects society",
+    "allows",
+    "are",
+    "are created by",
+    "are generated by",
+    "are transported by",
+    "associated with",
+    "benefited by",
+    "benefited millions of",
+    "benefits",
+    "benefits from",
+    "benefits millions of people in",
+    "built upon",
+    "catalyzed by",
+    "characterized by",
+    "characterizes",
+    "comprises",
+    "connected",
+    "connected by",
+    "connects",
+    "contributed to",
+    "contributes to",
+    "contributes to industrial society",
+    "contributes to progress in",
+    "defines",
+    "demonstrates",
+    "depends on",
+    "developed",
+    "developed after",
+    "developed by",
+    "developed for",
+    "developed from",
+    "developed into",
+    "disseminated by",
+    "disseminates",
+    "documents",
+    "driven by",
+    "drives",
+    "drives advancements in",
+    "drives innovation in",
+    "drives progress in",
+    "drives technological advancements in",
+    "emerged in",
+    "enabled",
+    "enabled by",
+    "enabled mechanization of",
+    "enabled modern transportation",
+    "enabled the creation of",
+    "enabled the development of",
+    "enables",
+    "enables access to",
+    "encouraged",
+    "enhanced",
+    "enhanced by",
+    "enhances",
+    "enhances education for",
+    "established by",
+    "exemplifies",
+    "facilitated",
+    "facilitated by",
+    "facilitated the spread of",
+    "facilitates",
+    "facilitates democratization of",
+    "facilitates the spread of",
+    "facilitates the transport of",
+    "fosters",
+    "foundation of",
+    "fueled by",
+    "generates",
+    "has",
+    "has a profound impact on",
+    "has influenced",
+    "has led to",
+    "has on",
+    "illuminated",
+    "illuminates",
+    "impacted by",
+    "impacting",
+    "impacts",
+    "improved",
+    "improved by",
+    "improves",
+    "includes",
+    "influenced",
+    "influenced by",
+    "influenced the development of",
+    "influences",
+    "influences ideas in",
+    "influences interaction with",
+    "initiated",
+    "initiated by",
+    "inspired",
+    "inspired by",
+    "inspires",
+    "integral to",
+    "integrated with",
+    "interacted with by",
+    "introduced",
+    "invented",
+    "invented by",
+    "inventor of",
+    "involves",
+    "is",
+    "is a foundation for",
+    "is a key element of",
+    "is a part of",
+    "is a precursor to",
+    "is a product of",
+    "is a result of",
+    "is an essential component of",
+    "is built upon",
+    "is built upon by",
+    "is dependent on",
+    "is disseminated by",
+    "is driven by",
+    "is enhanced by",
+    "is experienced by",
+    "is facilitated by",
+    "is fueled by",
+    "is influenced by",
+    "is made safer by",
+    "is more",
+    "is reliant on",
+    "is replaced by",
+    "is shaped by",
+    "is spread by",
+    "is succeeded by",
+    "is supported by",
+    "is transformed by",
+    "laid the foundation for",
+    "leads to",
+    "led to",
+    "led to democratization of",
+    "made safer by",
+    "marked by",
+    "necessary for",
+    "occurred in",
+    "occurs in",
+    "originated from",
+    "paved the way for",
+    "powered by",
+    "powers",
+    "preceded",
+    "preceded by",
+    "precedes",
+    "processed by",
+    "processes",
+    "produced",
+    "produced by",
+    "promoted literacy",
+    "promotes",
+    "promotes the spread of",
+    "provides",
+    "provides basis for",
+    "provides foundation for",
+    "provides safety for",
+    "replaced",
+    "replaced by",
+    "replaces",
+    "represents",
+    "reshape",
+    "reshaped",
+    "reshaped by",
+    "reshapes",
+    "resulted from",
+    "resulted in",
+    "results in",
+    "revolutionized",
+    "revolutionized by",
+    "revolutionizes",
+    "serves as",
+    "serves as foundation for",
+    "serves millions of people by",
+    "shaped",
+    "shaped by",
+    "shapes",
+    "shapes the world of",
+    "shares",
+    "supported by",
+    "supports",
+    "transformation",
+    "transformed",
+    "transformed by",
+    "transforms",
+    "triggers",
+    "underpins",
+    "ushered in",
+    "utilized by",
+    "utilized for",
+    "utilized in",
+    "utilizes",
+    "was",
+    "was a result of",
+    "was affected by",
+    "was changed by",
+    "was developed by",
+    "was influenced by",
+    "was replaced by",
+    "was transformed by"
+  ]
+}

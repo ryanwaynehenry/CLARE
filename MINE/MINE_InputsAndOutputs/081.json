@@ -1,0 +1,4021 @@
+{
+  "entities": [
+    "air quality",
+    "architectural influence",
+    "architectural style",
+    "architecture",
+    "barriers",
+    "built environment",
+    "city layout",
+    "climate change",
+    "community cohesion",
+    "community engagement",
+    "community resilience",
+    "connectivity",
+    "crime prevention",
+    "design impact",
+    "design quality",
+    "economic development",
+    "economic sustainability",
+    "energy efficiency",
+    "environmental responsibility",
+    "experience",
+    "government offices",
+    "green spaces",
+    "iconic buildings",
+    "innovation",
+    "investment attraction",
+    "libraries",
+    "local economy",
+    "modernity",
+    "museums",
+    "neighborhood layout",
+    "openness",
+    "parks",
+    "pedestrian safety",
+    "planning",
+    "power",
+    "priorities",
+    "public buildings",
+    "public space",
+    "public squares",
+    "quality of life",
+    "residential design",
+    "schools",
+    "sidewalks",
+    "social equity",
+    "social interaction",
+    "social isolation",
+    "societal transformation",
+    "stability",
+    "streets",
+    "sustainable materials",
+    "symbolism",
+    "tourism impact",
+    "urban blight",
+    "urban forests",
+    "urban planning",
+    "urban spaces",
+    "values"
+  ],
+  "relations": [
+    [
+      "air quality",
+      "affects",
+      "built environment"
+    ],
+    [
+      "air quality",
+      "affects",
+      "local economy"
+    ],
+    [
+      "architectural influence",
+      "affects",
+      "pedestrian safety"
+    ],
+    [
+      "architectural influence",
+      "affects",
+      "sidewalks"
+    ],
+    [
+      "architectural influence",
+      "embodies",
+      "modernity"
+    ],
+    [
+      "architectural influence",
+      "enhances",
+      "community cohesion"
+    ],
+    [
+      "architectural influence",
+      "enhances",
+      "green spaces"
+    ],
+    [
+      "architectural influence",
+      "improves",
+      "air quality"
+    ],
+    [
+      "architectural influence",
+      "influences",
+      "parks"
+    ],
+    [
+      "architectural influence",
+      "influences",
+      "schools"
+    ],
+    [
+      "architectural influence",
+      "influences",
+      "sustainable materials"
+    ],
+    [
+      "architectural influence",
+      "is influenced by",
+      "planning"
+    ],
+    [
+      "architectural influence",
+      "is reflected in",
+      "priorities"
+    ],
+    [
+      "architectural influence",
+      "is shaped by",
+      "libraries"
+    ],
+    [
+      "architectural influence",
+      "promotes",
+      "energy efficiency"
+    ],
+    [
+      "architectural influence",
+      "represents",
+      "symbolism"
+    ],
+    [
+      "architectural style",
+      "affects",
+      "air quality"
+    ],
+    [
+      "architectural style",
+      "affects",
+      "design impact"
+    ],
+    [
+      "architectural style",
+      "affects",
+      "design quality"
+    ],
+    [
+      "architectural style",
+      "affects",
+      "energy efficiency"
+    ],
+    [
+      "architectural style",
+      "affects",
+      "quality of life"
+    ],
+    [
+      "architectural style",
+      "affects",
+      "social interaction"
+    ],
+    [
+      "architectural style",
+      "attracts",
+      "investment attraction"
+    ],
+    [
+      "architectural style",
+      "contributes to",
+      "community resilience"
+    ],
+    [
+      "architectural style",
+      "creates",
+      "connectivity"
+    ],
+    [
+      "architectural style",
+      "determines",
+      "streets"
+    ],
+    [
+      "architectural style",
+      "influences",
+      "green spaces"
+    ],
+    [
+      "architectural style",
+      "influences",
+      "parks"
+    ],
+    [
+      "architectural style",
+      "influences",
+      "public squares"
+    ],
+    [
+      "architectural style",
+      "influences",
+      "societal transformation"
+    ],
+    [
+      "architectural style",
+      "is utilized by",
+      "government offices"
+    ],
+    [
+      "architectural style",
+      "is utilized in",
+      "sustainable materials"
+    ],
+    [
+      "architectural style",
+      "promotes",
+      "social equity"
+    ],
+    [
+      "architectural style",
+      "reflects",
+      "values"
+    ],
+    [
+      "architectural style",
+      "represents",
+      "modernity"
+    ],
+    [
+      "architectural style",
+      "shapes",
+      "experience"
+    ],
+    [
+      "architectural style",
+      "shapes",
+      "urban spaces"
+    ],
+    [
+      "architecture",
+      "affects",
+      "air quality"
+    ],
+    [
+      "architecture",
+      "affects",
+      "quality of life"
+    ],
+    [
+      "architecture",
+      "affects",
+      "sidewalks"
+    ],
+    [
+      "architecture",
+      "attracts",
+      "investment attraction"
+    ],
+    [
+      "architecture",
+      "contributes to",
+      "urban blight"
+    ],
+    [
+      "architecture",
+      "defines",
+      "public space"
+    ],
+    [
+      "architecture",
+      "drives",
+      "economic development"
+    ],
+    [
+      "architecture",
+      "embodies",
+      "modernity"
+    ],
+    [
+      "architecture",
+      "enhances",
+      "community engagement"
+    ],
+    [
+      "architecture",
+      "enhances",
+      "pedestrian safety"
+    ],
+    [
+      "architecture",
+      "facilitates",
+      "social interaction"
+    ],
+    [
+      "architecture",
+      "facilitates",
+      "societal transformation"
+    ],
+    [
+      "architecture",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "architecture",
+      "incorporates",
+      "sustainable materials"
+    ],
+    [
+      "architecture",
+      "influences",
+      "local economy"
+    ],
+    [
+      "architecture",
+      "influences",
+      "neighborhood layout"
+    ],
+    [
+      "architecture",
+      "influences",
+      "parks"
+    ],
+    [
+      "architecture",
+      "influences",
+      "schools"
+    ],
+    [
+      "architecture",
+      "influences",
+      "tourism impact"
+    ],
+    [
+      "architecture",
+      "promotes",
+      "innovation"
+    ],
+    [
+      "architecture",
+      "shapes",
+      "built environment"
+    ],
+    [
+      "architecture",
+      "shapes",
+      "experience"
+    ],
+    [
+      "architecture",
+      "shapes",
+      "urban spaces"
+    ],
+    [
+      "architecture",
+      "supports",
+      "urban forests"
+    ],
+    [
+      "barriers",
+      "creates",
+      "architectural style"
+    ],
+    [
+      "barriers",
+      "creates",
+      "community resilience"
+    ],
+    [
+      "barriers",
+      "creates",
+      "government offices"
+    ],
+    [
+      "barriers",
+      "creates",
+      "green spaces"
+    ],
+    [
+      "barriers",
+      "creates",
+      "innovation"
+    ],
+    [
+      "barriers",
+      "creates",
+      "libraries"
+    ],
+    [
+      "barriers",
+      "creates",
+      "local economy"
+    ],
+    [
+      "barriers",
+      "creates",
+      "modernity"
+    ],
+    [
+      "barriers",
+      "creates",
+      "museums"
+    ],
+    [
+      "barriers",
+      "creates",
+      "power"
+    ],
+    [
+      "barriers",
+      "creates",
+      "public buildings"
+    ],
+    [
+      "barriers",
+      "creates",
+      "public space"
+    ],
+    [
+      "barriers",
+      "creates",
+      "social interaction"
+    ],
+    [
+      "barriers",
+      "creates",
+      "symbolism"
+    ],
+    [
+      "barriers",
+      "creates",
+      "values"
+    ],
+    [
+      "barriers",
+      "hindered by",
+      "schools"
+    ],
+    [
+      "barriers",
+      "hinders",
+      "community engagement"
+    ],
+    [
+      "barriers",
+      "hinders",
+      "parks"
+    ],
+    [
+      "built environment",
+      "contributes to",
+      "urban blight"
+    ],
+    [
+      "built environment",
+      "creates",
+      "barriers"
+    ],
+    [
+      "built environment",
+      "determines",
+      "design quality"
+    ],
+    [
+      "built environment",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "built environment",
+      "incorporates",
+      "green spaces"
+    ],
+    [
+      "built environment",
+      "is defined by",
+      "architectural style"
+    ],
+    [
+      "built environment",
+      "is influenced by",
+      "local economy"
+    ],
+    [
+      "built environment",
+      "shaped by",
+      "social isolation"
+    ],
+    [
+      "built environment",
+      "shapes",
+      "experience"
+    ],
+    [
+      "built environment",
+      "supports",
+      "community resilience"
+    ],
+    [
+      "built environment",
+      "utilizes",
+      "sustainable materials"
+    ],
+    [
+      "city layout",
+      "affects",
+      "public buildings"
+    ],
+    [
+      "city layout",
+      "defines",
+      "public space"
+    ],
+    [
+      "city layout",
+      "determines",
+      "design quality"
+    ],
+    [
+      "city layout",
+      "fosters",
+      "community cohesion"
+    ],
+    [
+      "city layout",
+      "incorporates",
+      "green spaces"
+    ],
+    [
+      "city layout",
+      "influences",
+      "libraries"
+    ],
+    [
+      "city layout",
+      "influences",
+      "openness"
+    ],
+    [
+      "city layout",
+      "informs",
+      "schools"
+    ],
+    [
+      "city layout",
+      "is influenced by",
+      "government offices"
+    ],
+    [
+      "city layout",
+      "is influenced by",
+      "iconic buildings"
+    ],
+    [
+      "city layout",
+      "is influenced by",
+      "local economy"
+    ],
+    [
+      "city layout",
+      "is shaped by",
+      "values"
+    ],
+    [
+      "city layout",
+      "reflects",
+      "modernity"
+    ],
+    [
+      "city layout",
+      "shapes",
+      "built environment"
+    ],
+    [
+      "city layout",
+      "shapes",
+      "urban forests"
+    ],
+    [
+      "city layout",
+      "symbolizes",
+      "symbolism"
+    ],
+    [
+      "climate change",
+      "affects",
+      "urban forests"
+    ],
+    [
+      "climate change",
+      "contributes to",
+      "social isolation"
+    ],
+    [
+      "climate change",
+      "exacerbates",
+      "environmental responsibility"
+    ],
+    [
+      "climate change",
+      "exacerbates",
+      "power"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "air quality"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "iconic buildings"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "urban spaces"
+    ],
+    [
+      "climate change",
+      "is impacted by",
+      "built environment"
+    ],
+    [
+      "climate change",
+      "is impacted by",
+      "local economy"
+    ],
+    [
+      "climate change",
+      "is influenced by",
+      "architectural influence"
+    ],
+    [
+      "climate change",
+      "is influenced by",
+      "economic development"
+    ],
+    [
+      "climate change",
+      "is influenced by",
+      "experience"
+    ],
+    [
+      "climate change",
+      "mitigates",
+      "energy efficiency"
+    ],
+    [
+      "climate change",
+      "supports",
+      "community resilience"
+    ],
+    [
+      "community cohesion",
+      "contributes to",
+      "stability"
+    ],
+    [
+      "community cohesion",
+      "encourages",
+      "social interaction"
+    ],
+    [
+      "community cohesion",
+      "enhances",
+      "schools"
+    ],
+    [
+      "community cohesion",
+      "fosters",
+      "priorities"
+    ],
+    [
+      "community cohesion",
+      "improves",
+      "air quality"
+    ],
+    [
+      "community cohesion",
+      "influences",
+      "public buildings"
+    ],
+    [
+      "community cohesion",
+      "promotes",
+      "public space"
+    ],
+    [
+      "community cohesion",
+      "promotes",
+      "sustainable materials"
+    ],
+    [
+      "community cohesion",
+      "shaped by",
+      "built environment"
+    ],
+    [
+      "community cohesion",
+      "strengthens",
+      "design quality"
+    ],
+    [
+      "community cohesion",
+      "supports",
+      "economic sustainability"
+    ],
+    [
+      "community engagement",
+      "affects",
+      "tourism impact"
+    ],
+    [
+      "community engagement",
+      "creates",
+      "barriers"
+    ],
+    [
+      "community engagement",
+      "drives",
+      "societal transformation"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "community cohesion"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "connectivity"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "green spaces"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "iconic buildings"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "libraries"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "community engagement",
+      "facilitates",
+      "government offices"
+    ],
+    [
+      "community engagement",
+      "facilitates",
+      "social interaction"
+    ],
+    [
+      "community engagement",
+      "improves",
+      "air quality"
+    ],
+    [
+      "community engagement",
+      "improves",
+      "pedestrian safety"
+    ],
+    [
+      "community engagement",
+      "influences",
+      "architectural influence"
+    ],
+    [
+      "community engagement",
+      "influences",
+      "design impact"
+    ],
+    [
+      "community engagement",
+      "informs",
+      "planning"
+    ],
+    [
+      "community engagement",
+      "informs",
+      "urban planning"
+    ],
+    [
+      "community engagement",
+      "is driven by",
+      "innovation"
+    ],
+    [
+      "community engagement",
+      "is enhanced by",
+      "public space"
+    ],
+    [
+      "community engagement",
+      "is fostered by",
+      "schools"
+    ],
+    [
+      "community engagement",
+      "is fostered by",
+      "streets"
+    ],
+    [
+      "community engagement",
+      "is promoted by",
+      "openness"
+    ],
+    [
+      "community engagement",
+      "is shaped by",
+      "built environment"
+    ],
+    [
+      "community engagement",
+      "is supported by",
+      "public buildings"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "economic development"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "experience"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "social equity"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "stability"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "sustainable materials"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "urban forests"
+    ],
+    [
+      "community engagement",
+      "reflects",
+      "symbolism"
+    ],
+    [
+      "community engagement",
+      "represents",
+      "modernity"
+    ],
+    [
+      "community engagement",
+      "supports",
+      "local economy"
+    ],
+    [
+      "community resilience",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "community resilience",
+      "enhances",
+      "experience"
+    ],
+    [
+      "community resilience",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "community resilience",
+      "enhances",
+      "schools"
+    ],
+    [
+      "community resilience",
+      "enhances",
+      "stability"
+    ],
+    [
+      "community resilience",
+      "improves",
+      "pedestrian safety"
+    ],
+    [
+      "community resilience",
+      "is influenced by",
+      "design quality"
+    ],
+    [
+      "community resilience",
+      "is supported by",
+      "priorities"
+    ],
+    [
+      "community resilience",
+      "is supported by",
+      "values"
+    ],
+    [
+      "community resilience",
+      "strengthens",
+      "power"
+    ],
+    [
+      "community resilience",
+      "supports",
+      "economic sustainability"
+    ],
+    [
+      "community resilience",
+      "supports",
+      "local economy"
+    ],
+    [
+      "community resilience",
+      "supports",
+      "sidewalks"
+    ],
+    [
+      "community resilience",
+      "supports",
+      "sustainable materials"
+    ],
+    [
+      "connectivity",
+      "enhances",
+      "community cohesion"
+    ],
+    [
+      "connectivity",
+      "enhances",
+      "openness"
+    ],
+    [
+      "connectivity",
+      "enhances",
+      "planning"
+    ],
+    [
+      "connectivity",
+      "enhances",
+      "public space"
+    ],
+    [
+      "connectivity",
+      "enhances",
+      "sidewalks"
+    ],
+    [
+      "connectivity",
+      "enhances",
+      "urban forests"
+    ],
+    [
+      "connectivity",
+      "facilitates",
+      "social interaction"
+    ],
+    [
+      "connectivity",
+      "impacts",
+      "urban blight"
+    ],
+    [
+      "connectivity",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "connectivity",
+      "limits",
+      "power"
+    ],
+    [
+      "connectivity",
+      "limits",
+      "social isolation"
+    ],
+    [
+      "connectivity",
+      "shapes",
+      "built environment"
+    ],
+    [
+      "connectivity",
+      "strengthens",
+      "community resilience"
+    ],
+    [
+      "connectivity",
+      "supports",
+      "economic development"
+    ],
+    [
+      "connectivity",
+      "supports",
+      "social equity"
+    ],
+    [
+      "crime prevention",
+      "aids in",
+      "city layout"
+    ],
+    [
+      "crime prevention",
+      "aids in",
+      "social isolation"
+    ],
+    [
+      "crime prevention",
+      "creates",
+      "barriers"
+    ],
+    [
+      "crime prevention",
+      "encourages",
+      "innovation"
+    ],
+    [
+      "crime prevention",
+      "encourages",
+      "social interaction"
+    ],
+    [
+      "crime prevention",
+      "enhances",
+      "public buildings"
+    ],
+    [
+      "crime prevention",
+      "enhances",
+      "public space"
+    ],
+    [
+      "crime prevention",
+      "enhances",
+      "social equity"
+    ],
+    [
+      "crime prevention",
+      "facilitates",
+      "societal transformation"
+    ],
+    [
+      "crime prevention",
+      "informs",
+      "residential design"
+    ],
+    [
+      "crime prevention",
+      "promotes",
+      "community cohesion"
+    ],
+    [
+      "crime prevention",
+      "promotes",
+      "green spaces"
+    ],
+    [
+      "crime prevention",
+      "promotes",
+      "schools"
+    ],
+    [
+      "crime prevention",
+      "promotes",
+      "sidewalks"
+    ],
+    [
+      "crime prevention",
+      "promotes",
+      "stability"
+    ],
+    [
+      "crime prevention",
+      "reduces",
+      "streets"
+    ],
+    [
+      "crime prevention",
+      "requires",
+      "planning"
+    ],
+    [
+      "crime prevention",
+      "supports",
+      "economic development"
+    ],
+    [
+      "crime prevention",
+      "supports",
+      "environmental responsibility"
+    ],
+    [
+      "crime prevention",
+      "supports",
+      "government offices"
+    ],
+    [
+      "crime prevention",
+      "utilizes",
+      "sustainable materials"
+    ],
+    [
+      "design impact",
+      "affects",
+      "libraries"
+    ],
+    [
+      "design impact",
+      "affects",
+      "neighborhood layout"
+    ],
+    [
+      "design impact",
+      "affects",
+      "quality of life"
+    ],
+    [
+      "design impact",
+      "affects",
+      "social interaction"
+    ],
+    [
+      "design impact",
+      "affects",
+      "tourism impact"
+    ],
+    [
+      "design impact",
+      "contributes to",
+      "urban blight"
+    ],
+    [
+      "design impact",
+      "determines",
+      "residential design"
+    ],
+    [
+      "design impact",
+      "drives",
+      "innovation"
+    ],
+    [
+      "design impact",
+      "enhances",
+      "parks"
+    ],
+    [
+      "design impact",
+      "fosters",
+      "community cohesion"
+    ],
+    [
+      "design impact",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "design impact",
+      "incorporates",
+      "sustainable materials"
+    ],
+    [
+      "design impact",
+      "influences",
+      "schools"
+    ],
+    [
+      "design impact",
+      "is influenced by",
+      "power"
+    ],
+    [
+      "design impact",
+      "promotes",
+      "social equity"
+    ],
+    [
+      "design impact",
+      "reflects",
+      "priorities"
+    ],
+    [
+      "design quality",
+      "creates",
+      "barriers"
+    ],
+    [
+      "design quality",
+      "determines",
+      "iconic buildings"
+    ],
+    [
+      "design quality",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "design quality",
+      "influenced by",
+      "stability"
+    ],
+    [
+      "design quality",
+      "is affected by",
+      "climate change"
+    ],
+    [
+      "design quality",
+      "is influenced by",
+      "air quality"
+    ],
+    [
+      "design quality",
+      "is influenced by",
+      "planning"
+    ],
+    [
+      "design quality",
+      "utilizes",
+      "sustainable materials"
+    ],
+    [
+      "economic development",
+      "boosts",
+      "local economy"
+    ],
+    [
+      "economic development",
+      "creates",
+      "barriers"
+    ],
+    [
+      "economic development",
+      "drives",
+      "city layout"
+    ],
+    [
+      "economic development",
+      "drives",
+      "iconic buildings"
+    ],
+    [
+      "economic development",
+      "drives",
+      "modernity"
+    ],
+    [
+      "economic development",
+      "drives",
+      "public buildings"
+    ],
+    [
+      "economic development",
+      "drives",
+      "public space"
+    ],
+    [
+      "economic development",
+      "drives",
+      "societal transformation"
+    ],
+    [
+      "economic development",
+      "enhances",
+      "community cohesion"
+    ],
+    [
+      "economic development",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "economic development",
+      "enhances",
+      "sidewalks"
+    ],
+    [
+      "economic development",
+      "enhances",
+      "social interaction"
+    ],
+    [
+      "economic development",
+      "impacts",
+      "urban blight"
+    ],
+    [
+      "economic development",
+      "is driven by",
+      "experience"
+    ],
+    [
+      "economic development",
+      "is driven by",
+      "schools"
+    ],
+    [
+      "economic development",
+      "is impacted by",
+      "air quality"
+    ],
+    [
+      "economic development",
+      "is influenced by",
+      "stability"
+    ],
+    [
+      "economic development",
+      "is influenced by",
+      "sustainable materials"
+    ],
+    [
+      "economic sustainability",
+      "contributes to",
+      "environmental responsibility"
+    ],
+    [
+      "economic sustainability",
+      "enhances",
+      "design quality"
+    ],
+    [
+      "economic sustainability",
+      "impedes",
+      "urban blight"
+    ],
+    [
+      "economic sustainability",
+      "is supported by",
+      "community engagement"
+    ],
+    [
+      "economic sustainability",
+      "is supported by",
+      "energy efficiency"
+    ],
+    [
+      "energy efficiency",
+      "contributes to",
+      "social isolation"
+    ],
+    [
+      "energy efficiency",
+      "impacts",
+      "urban blight"
+    ],
+    [
+      "energy efficiency",
+      "promotes",
+      "economic development"
+    ],
+    [
+      "environmental responsibility",
+      "affected by",
+      "experience"
+    ],
+    [
+      "environmental responsibility",
+      "affects",
+      "built environment"
+    ],
+    [
+      "environmental responsibility",
+      "depends on",
+      "local economy"
+    ],
+    [
+      "environmental responsibility",
+      "embodies",
+      "symbolism"
+    ],
+    [
+      "environmental responsibility",
+      "enhances",
+      "community cohesion"
+    ],
+    [
+      "environmental responsibility",
+      "enhances",
+      "community resilience"
+    ],
+    [
+      "environmental responsibility",
+      "enhances",
+      "green spaces"
+    ],
+    [
+      "environmental responsibility",
+      "improves",
+      "air quality"
+    ],
+    [
+      "environmental responsibility",
+      "incorporates",
+      "sustainable materials"
+    ],
+    [
+      "environmental responsibility",
+      "is prioritized by",
+      "priorities"
+    ],
+    [
+      "environmental responsibility",
+      "promotes",
+      "schools"
+    ],
+    [
+      "environmental responsibility",
+      "shapes",
+      "public space"
+    ],
+    [
+      "experience",
+      "affects",
+      "pedestrian safety"
+    ],
+    [
+      "experience",
+      "causes",
+      "social isolation"
+    ],
+    [
+      "experience",
+      "demonstrates",
+      "design impact"
+    ],
+    [
+      "experience",
+      "drives",
+      "societal transformation"
+    ],
+    [
+      "experience",
+      "enhances",
+      "connectivity"
+    ],
+    [
+      "experience",
+      "enhances",
+      "green spaces"
+    ],
+    [
+      "experience",
+      "fosters",
+      "social interaction"
+    ],
+    [
+      "experience",
+      "is influenced by",
+      "urban forests"
+    ],
+    [
+      "experience",
+      "is shaped by",
+      "libraries"
+    ],
+    [
+      "experience",
+      "is shaped by",
+      "urban spaces"
+    ],
+    [
+      "experience",
+      "perceived by",
+      "power"
+    ],
+    [
+      "experience",
+      "represents",
+      "innovation"
+    ],
+    [
+      "experience",
+      "shapes",
+      "city layout"
+    ],
+    [
+      "experience",
+      "shapes",
+      "parks"
+    ],
+    [
+      "experience",
+      "shapes",
+      "public buildings"
+    ],
+    [
+      "experience",
+      "shapes",
+      "schools"
+    ],
+    [
+      "experience",
+      "shapes",
+      "sustainable materials"
+    ],
+    [
+      "government offices",
+      "affects",
+      "quality of life"
+    ],
+    [
+      "government offices",
+      "benefits from",
+      "tourism impact"
+    ],
+    [
+      "government offices",
+      "contributes to",
+      "social isolation"
+    ],
+    [
+      "government offices",
+      "conveys",
+      "stability"
+    ],
+    [
+      "government offices",
+      "determines",
+      "design quality"
+    ],
+    [
+      "government offices",
+      "enhances",
+      "pedestrian safety"
+    ],
+    [
+      "government offices",
+      "facilitates",
+      "societal transformation"
+    ],
+    [
+      "government offices",
+      "influences",
+      "economic development"
+    ],
+    [
+      "government offices",
+      "influences",
+      "neighborhood layout"
+    ],
+    [
+      "government offices",
+      "influences",
+      "residential design"
+    ],
+    [
+      "government offices",
+      "informs",
+      "values"
+    ],
+    [
+      "government offices",
+      "is influenced by",
+      "investment attraction"
+    ],
+    [
+      "government offices",
+      "is influenced by",
+      "parks"
+    ],
+    [
+      "government offices",
+      "is influenced by",
+      "streets"
+    ],
+    [
+      "government offices",
+      "is utilized by",
+      "connectivity"
+    ],
+    [
+      "government offices",
+      "reflects",
+      "modernity"
+    ],
+    [
+      "government offices",
+      "serves as",
+      "public squares"
+    ],
+    [
+      "government offices",
+      "serves as",
+      "urban forests"
+    ],
+    [
+      "government offices",
+      "strengthens",
+      "community resilience"
+    ],
+    [
+      "government offices",
+      "supports",
+      "green spaces"
+    ],
+    [
+      "green spaces",
+      "enhances",
+      "pedestrian safety"
+    ],
+    [
+      "green spaces",
+      "facilitates",
+      "societal transformation"
+    ],
+    [
+      "green spaces",
+      "incorporates",
+      "sustainable materials"
+    ],
+    [
+      "green spaces",
+      "influences",
+      "public buildings"
+    ],
+    [
+      "green spaces",
+      "is a component of",
+      "public space"
+    ],
+    [
+      "green spaces",
+      "represents",
+      "symbolism"
+    ],
+    [
+      "green spaces",
+      "supports",
+      "community resilience"
+    ],
+    [
+      "iconic buildings",
+      "attracts",
+      "connectivity"
+    ],
+    [
+      "iconic buildings",
+      "attracts",
+      "neighborhood layout"
+    ],
+    [
+      "iconic buildings",
+      "attracts",
+      "public squares"
+    ],
+    [
+      "iconic buildings",
+      "contributes to",
+      "societal transformation"
+    ],
+    [
+      "iconic buildings",
+      "defines",
+      "public space"
+    ],
+    [
+      "iconic buildings",
+      "enhances",
+      "social interaction"
+    ],
+    [
+      "iconic buildings",
+      "exacerbates",
+      "urban blight"
+    ],
+    [
+      "iconic buildings",
+      "is characterized by",
+      "modernity"
+    ],
+    [
+      "iconic buildings",
+      "is enhanced by",
+      "community cohesion"
+    ],
+    [
+      "iconic buildings",
+      "is experienced through",
+      "experience"
+    ],
+    [
+      "iconic buildings",
+      "is influenced by",
+      "climate change"
+    ],
+    [
+      "iconic buildings",
+      "is represented by",
+      "parks"
+    ],
+    [
+      "iconic buildings",
+      "is represented by",
+      "power"
+    ],
+    [
+      "iconic buildings",
+      "is represented by",
+      "residential design"
+    ],
+    [
+      "innovation",
+      "affects",
+      "sidewalks"
+    ],
+    [
+      "innovation",
+      "attracts",
+      "investment attraction"
+    ],
+    [
+      "innovation",
+      "contributes to",
+      "community resilience"
+    ],
+    [
+      "innovation",
+      "drives",
+      "connectivity"
+    ],
+    [
+      "innovation",
+      "drives",
+      "priorities"
+    ],
+    [
+      "innovation",
+      "drives",
+      "residential design"
+    ],
+    [
+      "innovation",
+      "drives",
+      "societal transformation"
+    ],
+    [
+      "innovation",
+      "drives",
+      "values"
+    ],
+    [
+      "innovation",
+      "encourages",
+      "openness"
+    ],
+    [
+      "innovation",
+      "encourages",
+      "social interaction"
+    ],
+    [
+      "innovation",
+      "enhances",
+      "green spaces"
+    ],
+    [
+      "innovation",
+      "fosters",
+      "community cohesion"
+    ],
+    [
+      "innovation",
+      "improves",
+      "air quality"
+    ],
+    [
+      "innovation",
+      "inspires",
+      "libraries"
+    ],
+    [
+      "innovation",
+      "is influenced by",
+      "power"
+    ],
+    [
+      "innovation",
+      "is represented by",
+      "architectural style"
+    ],
+    [
+      "innovation",
+      "promotes",
+      "environmental responsibility"
+    ],
+    [
+      "innovation",
+      "represents",
+      "modernity"
+    ],
+    [
+      "innovation",
+      "shaped by",
+      "experience"
+    ],
+    [
+      "innovation",
+      "shapes",
+      "built environment"
+    ],
+    [
+      "innovation",
+      "shapes",
+      "city layout"
+    ],
+    [
+      "innovation",
+      "signals",
+      "public space"
+    ],
+    [
+      "innovation",
+      "supports",
+      "economic sustainability"
+    ],
+    [
+      "innovation",
+      "supports",
+      "urban forests"
+    ],
+    [
+      "investment attraction",
+      "affects",
+      "social isolation"
+    ],
+    [
+      "investment attraction",
+      "attracts",
+      "built environment"
+    ],
+    [
+      "investment attraction",
+      "attracts",
+      "local economy"
+    ],
+    [
+      "investment attraction",
+      "attracts",
+      "parks"
+    ],
+    [
+      "investment attraction",
+      "attracts",
+      "residential design"
+    ],
+    [
+      "investment attraction",
+      "depends on",
+      "design quality"
+    ],
+    [
+      "investment attraction",
+      "drives",
+      "climate change"
+    ],
+    [
+      "investment attraction",
+      "drives",
+      "design impact"
+    ],
+    [
+      "investment attraction",
+      "drives",
+      "energy efficiency"
+    ],
+    [
+      "investment attraction",
+      "drives",
+      "priorities"
+    ],
+    [
+      "investment attraction",
+      "increases",
+      "air quality"
+    ],
+    [
+      "investment attraction",
+      "stimulates",
+      "city layout"
+    ],
+    [
+      "investment attraction",
+      "supports",
+      "community resilience"
+    ],
+    [
+      "libraries",
+      "affects",
+      "sidewalks"
+    ],
+    [
+      "libraries",
+      "contributes to",
+      "economic sustainability"
+    ],
+    [
+      "libraries",
+      "contributes to",
+      "stability"
+    ],
+    [
+      "libraries",
+      "enhances",
+      "community cohesion"
+    ],
+    [
+      "libraries",
+      "enhances",
+      "community resilience"
+    ],
+    [
+      "libraries",
+      "facilitates",
+      "social interaction"
+    ],
+    [
+      "libraries",
+      "facilitates",
+      "societal transformation"
+    ],
+    [
+      "libraries",
+      "is a type of",
+      "public buildings"
+    ],
+    [
+      "libraries",
+      "is affected by",
+      "social isolation"
+    ],
+    [
+      "libraries",
+      "is influenced by",
+      "power"
+    ],
+    [
+      "libraries",
+      "is supported by",
+      "government offices"
+    ],
+    [
+      "libraries",
+      "represents",
+      "symbolism"
+    ],
+    [
+      "libraries",
+      "serves as",
+      "public space"
+    ],
+    [
+      "libraries",
+      "serves as a resource for",
+      "neighborhood layout"
+    ],
+    [
+      "libraries",
+      "symbolizes",
+      "modernity"
+    ],
+    [
+      "local economy",
+      "affects",
+      "values"
+    ],
+    [
+      "local economy",
+      "benefits from",
+      "museums"
+    ],
+    [
+      "local economy",
+      "benefits from",
+      "openness"
+    ],
+    [
+      "local economy",
+      "enhances",
+      "green spaces"
+    ],
+    [
+      "local economy",
+      "is boosted by",
+      "iconic buildings"
+    ],
+    [
+      "local economy",
+      "is enhanced by",
+      "connectivity"
+    ],
+    [
+      "local economy",
+      "is enhanced by",
+      "design quality"
+    ],
+    [
+      "local economy",
+      "is represented by",
+      "symbolism"
+    ],
+    [
+      "local economy",
+      "stimulates",
+      "innovation"
+    ],
+    [
+      "local economy",
+      "strengthens",
+      "community cohesion"
+    ],
+    [
+      "local economy",
+      "supports",
+      "experience"
+    ],
+    [
+      "local economy",
+      "supports",
+      "government offices"
+    ],
+    [
+      "local economy",
+      "supports",
+      "public buildings"
+    ],
+    [
+      "local economy",
+      "supports",
+      "public space"
+    ],
+    [
+      "local economy",
+      "supports",
+      "streets"
+    ],
+    [
+      "modernity",
+      "contrasts",
+      "social isolation"
+    ],
+    [
+      "modernity",
+      "contrasts with",
+      "stability"
+    ],
+    [
+      "modernity",
+      "contributes to",
+      "urban blight"
+    ],
+    [
+      "modernity",
+      "influenced by",
+      "libraries"
+    ],
+    [
+      "modernity",
+      "influences",
+      "priorities"
+    ],
+    [
+      "modernity",
+      "influences",
+      "schools"
+    ],
+    [
+      "modernity",
+      "influences",
+      "tourism impact"
+    ],
+    [
+      "modernity",
+      "is characterized by",
+      "planning"
+    ],
+    [
+      "modernity",
+      "is defined by",
+      "architecture"
+    ],
+    [
+      "modernity",
+      "is enhanced by",
+      "sustainable materials"
+    ],
+    [
+      "modernity",
+      "is represented by",
+      "power"
+    ],
+    [
+      "modernity",
+      "reflects",
+      "climate change"
+    ],
+    [
+      "modernity",
+      "reflects",
+      "public buildings"
+    ],
+    [
+      "museums",
+      "affects",
+      "neighborhood layout"
+    ],
+    [
+      "museums",
+      "compares to",
+      "government offices"
+    ],
+    [
+      "museums",
+      "complements",
+      "libraries"
+    ],
+    [
+      "museums",
+      "contributes to",
+      "crime prevention"
+    ],
+    [
+      "museums",
+      "embodies",
+      "values"
+    ],
+    [
+      "museums",
+      "enhances",
+      "community resilience"
+    ],
+    [
+      "museums",
+      "enhances",
+      "connectivity"
+    ],
+    [
+      "museums",
+      "enhances",
+      "pedestrian safety"
+    ],
+    [
+      "museums",
+      "facilitates",
+      "social interaction"
+    ],
+    [
+      "museums",
+      "fosters",
+      "community engagement"
+    ],
+    [
+      "museums",
+      "houses",
+      "public squares"
+    ],
+    [
+      "museums",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "museums",
+      "influences",
+      "streets"
+    ],
+    [
+      "museums",
+      "is represented by",
+      "modernity"
+    ],
+    [
+      "museums",
+      "reflects",
+      "priorities"
+    ],
+    [
+      "museums",
+      "represents",
+      "symbolism"
+    ],
+    [
+      "museums",
+      "shapes",
+      "urban spaces"
+    ],
+    [
+      "museums",
+      "signals",
+      "openness"
+    ],
+    [
+      "museums",
+      "supports",
+      "local economy"
+    ],
+    [
+      "museums",
+      "symbolizes",
+      "stability"
+    ],
+    [
+      "museums",
+      "transforms",
+      "societal transformation"
+    ],
+    [
+      "neighborhood layout",
+      "affects",
+      "sidewalks"
+    ],
+    [
+      "neighborhood layout",
+      "affects",
+      "streets"
+    ],
+    [
+      "neighborhood layout",
+      "attracts",
+      "investment attraction"
+    ],
+    [
+      "neighborhood layout",
+      "determines",
+      "design quality"
+    ],
+    [
+      "neighborhood layout",
+      "determines",
+      "quality of life"
+    ],
+    [
+      "neighborhood layout",
+      "fosters",
+      "community cohesion"
+    ],
+    [
+      "neighborhood layout",
+      "influences",
+      "local economy"
+    ],
+    [
+      "neighborhood layout",
+      "influences",
+      "urban spaces"
+    ],
+    [
+      "neighborhood layout",
+      "promotes",
+      "environmental responsibility"
+    ],
+    [
+      "neighborhood layout",
+      "promotes",
+      "social equity"
+    ],
+    [
+      "neighborhood layout",
+      "shapes",
+      "built environment"
+    ],
+    [
+      "neighborhood layout",
+      "shapes",
+      "green spaces"
+    ],
+    [
+      "neighborhood layout",
+      "stimulates",
+      "economic development"
+    ],
+    [
+      "neighborhood layout",
+      "supports",
+      "economic sustainability"
+    ],
+    [
+      "openness",
+      "characterizes",
+      "public space"
+    ],
+    [
+      "openness",
+      "contrasts",
+      "power"
+    ],
+    [
+      "openness",
+      "contributes to",
+      "local economy"
+    ],
+    [
+      "openness",
+      "encourages",
+      "social interaction"
+    ],
+    [
+      "openness",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "openness",
+      "fosters",
+      "community cohesion"
+    ],
+    [
+      "openness",
+      "influences",
+      "government offices"
+    ],
+    [
+      "openness",
+      "is affected by",
+      "social isolation"
+    ],
+    [
+      "openness",
+      "is characterized by",
+      "experience"
+    ],
+    [
+      "openness",
+      "is characterized by",
+      "parks"
+    ],
+    [
+      "openness",
+      "promotes",
+      "community resilience"
+    ],
+    [
+      "openness",
+      "promotes",
+      "social equity"
+    ],
+    [
+      "openness",
+      "represents",
+      "modernity"
+    ],
+    [
+      "openness",
+      "shapes",
+      "built environment"
+    ],
+    [
+      "parks",
+      "affected by",
+      "experience"
+    ],
+    [
+      "parks",
+      "boosts",
+      "local economy"
+    ],
+    [
+      "parks",
+      "complements",
+      "green spaces"
+    ],
+    [
+      "parks",
+      "constitutes",
+      "public space"
+    ],
+    [
+      "parks",
+      "enhances",
+      "design quality"
+    ],
+    [
+      "parks",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "parks",
+      "improves",
+      "pedestrian safety"
+    ],
+    [
+      "parks",
+      "influences",
+      "built environment"
+    ],
+    [
+      "parks",
+      "influences",
+      "city layout"
+    ],
+    [
+      "parks",
+      "influences",
+      "residential design"
+    ],
+    [
+      "parks",
+      "promotes",
+      "social equity"
+    ],
+    [
+      "parks",
+      "provides",
+      "stability"
+    ],
+    [
+      "parks",
+      "reduces",
+      "crime prevention"
+    ],
+    [
+      "parks",
+      "reflects",
+      "values"
+    ],
+    [
+      "parks",
+      "supports",
+      "libraries"
+    ],
+    [
+      "parks",
+      "supports",
+      "urban forests"
+    ],
+    [
+      "pedestrian safety",
+      "affects",
+      "iconic buildings"
+    ],
+    [
+      "pedestrian safety",
+      "affects",
+      "neighborhood layout"
+    ],
+    [
+      "pedestrian safety",
+      "affects",
+      "quality of life"
+    ],
+    [
+      "pedestrian safety",
+      "creates barriers to",
+      "connectivity"
+    ],
+    [
+      "pedestrian safety",
+      "enhances",
+      "environmental responsibility"
+    ],
+    [
+      "pedestrian safety",
+      "enhances",
+      "societal transformation"
+    ],
+    [
+      "pedestrian safety",
+      "impedes",
+      "priorities"
+    ],
+    [
+      "pedestrian safety",
+      "improves",
+      "openness"
+    ],
+    [
+      "pedestrian safety",
+      "improves",
+      "public buildings"
+    ],
+    [
+      "pedestrian safety",
+      "improves",
+      "social equity"
+    ],
+    [
+      "pedestrian safety",
+      "improves",
+      "sustainable materials"
+    ],
+    [
+      "pedestrian safety",
+      "is affected by",
+      "power"
+    ],
+    [
+      "pedestrian safety",
+      "is affected by",
+      "stability"
+    ],
+    [
+      "pedestrian safety",
+      "is impacted by",
+      "local economy"
+    ],
+    [
+      "pedestrian safety",
+      "threatens",
+      "social isolation"
+    ],
+    [
+      "planning",
+      "creates",
+      "barriers"
+    ],
+    [
+      "planning",
+      "enables",
+      "societal transformation"
+    ],
+    [
+      "planning",
+      "enhances",
+      "community cohesion"
+    ],
+    [
+      "planning",
+      "facilitates",
+      "social interaction"
+    ],
+    [
+      "planning",
+      "guides",
+      "government offices"
+    ],
+    [
+      "planning",
+      "guides",
+      "sidewalks"
+    ],
+    [
+      "planning",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "planning",
+      "influenced by",
+      "social isolation"
+    ],
+    [
+      "planning",
+      "informs",
+      "power"
+    ],
+    [
+      "planning",
+      "shapes",
+      "experience"
+    ],
+    [
+      "planning",
+      "supports",
+      "community resilience"
+    ],
+    [
+      "planning",
+      "supports",
+      "environmental responsibility"
+    ],
+    [
+      "planning",
+      "supports",
+      "green spaces"
+    ],
+    [
+      "power",
+      "attracts",
+      "investment attraction"
+    ],
+    [
+      "power",
+      "conveys",
+      "experience"
+    ],
+    [
+      "power",
+      "embodies",
+      "government offices"
+    ],
+    [
+      "power",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "power",
+      "enhances",
+      "social interaction"
+    ],
+    [
+      "power",
+      "influences",
+      "architecture"
+    ],
+    [
+      "power",
+      "influences",
+      "public space"
+    ],
+    [
+      "power",
+      "influences",
+      "streets"
+    ],
+    [
+      "power",
+      "is shaped by",
+      "public buildings"
+    ],
+    [
+      "power",
+      "promotes",
+      "environmental responsibility"
+    ],
+    [
+      "power",
+      "supports",
+      "local economy"
+    ],
+    [
+      "power",
+      "symbolizes",
+      "public squares"
+    ],
+    [
+      "priorities",
+      "influences",
+      "barriers"
+    ],
+    [
+      "priorities",
+      "influences",
+      "economic development"
+    ],
+    [
+      "priorities",
+      "influences",
+      "green spaces"
+    ],
+    [
+      "priorities",
+      "influences",
+      "sustainable materials"
+    ],
+    [
+      "priorities",
+      "informs",
+      "government offices"
+    ],
+    [
+      "priorities",
+      "is reflected in",
+      "architectural style"
+    ],
+    [
+      "priorities",
+      "is reflected in",
+      "power"
+    ],
+    [
+      "priorities",
+      "reflects",
+      "openness"
+    ],
+    [
+      "priorities",
+      "reflects",
+      "urban spaces"
+    ],
+    [
+      "priorities",
+      "shapes",
+      "tourism impact"
+    ],
+    [
+      "public buildings",
+      "affects",
+      "quality of life"
+    ],
+    [
+      "public buildings",
+      "attracts",
+      "investment attraction"
+    ],
+    [
+      "public buildings",
+      "benefits from",
+      "local economy"
+    ],
+    [
+      "public buildings",
+      "defined by",
+      "built environment"
+    ],
+    [
+      "public buildings",
+      "deteriorates",
+      "urban blight"
+    ],
+    [
+      "public buildings",
+      "influences",
+      "connectivity"
+    ],
+    [
+      "public buildings",
+      "influences",
+      "residential design"
+    ],
+    [
+      "public buildings",
+      "influences",
+      "urban forests"
+    ],
+    [
+      "public buildings",
+      "is defined by",
+      "public space"
+    ],
+    [
+      "public buildings",
+      "is shaped by",
+      "architectural style"
+    ],
+    [
+      "public space",
+      "influenced by",
+      "social isolation"
+    ],
+    [
+      "public space",
+      "is influenced by",
+      "architectural style"
+    ],
+    [
+      "public space",
+      "shapes",
+      "experience"
+    ],
+    [
+      "public squares",
+      "affects",
+      "pedestrian safety"
+    ],
+    [
+      "public squares",
+      "attracts",
+      "investment attraction"
+    ],
+    [
+      "public squares",
+      "boosts",
+      "local economy"
+    ],
+    [
+      "public squares",
+      "constitutes",
+      "public space"
+    ],
+    [
+      "public squares",
+      "creates",
+      "barriers"
+    ],
+    [
+      "public squares",
+      "defines",
+      "openness"
+    ],
+    [
+      "public squares",
+      "drives",
+      "economic development"
+    ],
+    [
+      "public squares",
+      "embodies",
+      "modernity"
+    ],
+    [
+      "public squares",
+      "enhances",
+      "connectivity"
+    ],
+    [
+      "public squares",
+      "facilitates",
+      "crime prevention"
+    ],
+    [
+      "public squares",
+      "facilitates",
+      "societal transformation"
+    ],
+    [
+      "public squares",
+      "includes",
+      "green spaces"
+    ],
+    [
+      "public squares",
+      "influences",
+      "neighborhood layout"
+    ],
+    [
+      "public squares",
+      "influences",
+      "public buildings"
+    ],
+    [
+      "public squares",
+      "is associated with",
+      "parks"
+    ],
+    [
+      "public squares",
+      "leads to",
+      "social isolation"
+    ],
+    [
+      "public squares",
+      "promotes",
+      "community cohesion"
+    ],
+    [
+      "public squares",
+      "promotes",
+      "community engagement"
+    ],
+    [
+      "public squares",
+      "promotes",
+      "social equity"
+    ],
+    [
+      "public squares",
+      "shapes",
+      "built environment"
+    ],
+    [
+      "public squares",
+      "shapes",
+      "city layout"
+    ],
+    [
+      "public squares",
+      "shapes",
+      "experience"
+    ],
+    [
+      "public squares",
+      "shapes",
+      "urban spaces"
+    ],
+    [
+      "public squares",
+      "supports",
+      "urban forests"
+    ],
+    [
+      "quality of life",
+      "affects",
+      "barriers"
+    ],
+    [
+      "quality of life",
+      "affects",
+      "iconic buildings"
+    ],
+    [
+      "quality of life",
+      "affects",
+      "stability"
+    ],
+    [
+      "quality of life",
+      "affects",
+      "streets"
+    ],
+    [
+      "quality of life",
+      "detracts from",
+      "social isolation"
+    ],
+    [
+      "quality of life",
+      "enhances",
+      "air quality"
+    ],
+    [
+      "quality of life",
+      "impacts",
+      "city layout"
+    ],
+    [
+      "residential design",
+      "affects",
+      "quality of life"
+    ],
+    [
+      "residential design",
+      "determines",
+      "city layout"
+    ],
+    [
+      "residential design",
+      "determines",
+      "design quality"
+    ],
+    [
+      "residential design",
+      "informs",
+      "values"
+    ],
+    [
+      "residential design",
+      "promotes",
+      "community cohesion"
+    ],
+    [
+      "residential design",
+      "shapes",
+      "architecture"
+    ],
+    [
+      "residential design",
+      "supports",
+      "urban forests"
+    ],
+    [
+      "schools",
+      "affected by",
+      "social isolation"
+    ],
+    [
+      "schools",
+      "affects",
+      "pedestrian safety"
+    ],
+    [
+      "schools",
+      "creates",
+      "barriers"
+    ],
+    [
+      "schools",
+      "facilitates",
+      "connectivity"
+    ],
+    [
+      "schools",
+      "influenced by",
+      "experience"
+    ],
+    [
+      "schools",
+      "is a component of",
+      "public space"
+    ],
+    [
+      "schools",
+      "is a type of",
+      "public buildings"
+    ],
+    [
+      "schools",
+      "is characterized by",
+      "architectural style"
+    ],
+    [
+      "schools",
+      "is influenced by",
+      "power"
+    ],
+    [
+      "schools",
+      "provides stability for",
+      "stability"
+    ],
+    [
+      "schools",
+      "utilizes",
+      "sustainable materials"
+    ],
+    [
+      "sidewalks",
+      "affects",
+      "social equity"
+    ],
+    [
+      "sidewalks",
+      "contributes to",
+      "urban blight"
+    ],
+    [
+      "sidewalks",
+      "defines",
+      "public space"
+    ],
+    [
+      "sidewalks",
+      "enhances",
+      "green spaces"
+    ],
+    [
+      "sidewalks",
+      "enhances",
+      "pedestrian safety"
+    ],
+    [
+      "sidewalks",
+      "influences",
+      "city layout"
+    ],
+    [
+      "sidewalks",
+      "influences",
+      "experience"
+    ],
+    [
+      "sidewalks",
+      "is influenced by",
+      "iconic buildings"
+    ],
+    [
+      "sidewalks",
+      "is influenced by",
+      "power"
+    ],
+    [
+      "sidewalks",
+      "is influenced by",
+      "stability"
+    ],
+    [
+      "sidewalks",
+      "supports",
+      "community engagement"
+    ],
+    [
+      "social equity",
+      "affects",
+      "architectural influence"
+    ],
+    [
+      "social equity",
+      "drives",
+      "tourism impact"
+    ],
+    [
+      "social equity",
+      "enhances",
+      "community cohesion"
+    ],
+    [
+      "social equity",
+      "enhances",
+      "community resilience"
+    ],
+    [
+      "social equity",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "social equity",
+      "influences",
+      "values"
+    ],
+    [
+      "social equity",
+      "promotes",
+      "libraries"
+    ],
+    [
+      "social equity",
+      "promotes",
+      "schools"
+    ],
+    [
+      "social equity",
+      "reflects",
+      "public buildings"
+    ],
+    [
+      "social equity",
+      "supports",
+      "city layout"
+    ],
+    [
+      "social equity",
+      "supports",
+      "local economy"
+    ],
+    [
+      "social interaction",
+      "affects",
+      "quality of life"
+    ],
+    [
+      "social interaction",
+      "benefits from",
+      "economic development"
+    ],
+    [
+      "social interaction",
+      "drives",
+      "societal transformation"
+    ],
+    [
+      "social interaction",
+      "encourages",
+      "modernity"
+    ],
+    [
+      "social interaction",
+      "encourages",
+      "sidewalks"
+    ],
+    [
+      "social interaction",
+      "influences",
+      "tourism impact"
+    ],
+    [
+      "social isolation",
+      "affects",
+      "local economy"
+    ],
+    [
+      "social isolation",
+      "contributes to",
+      "green spaces"
+    ],
+    [
+      "social isolation",
+      "contributes to",
+      "parks"
+    ],
+    [
+      "social isolation",
+      "contributes to",
+      "values"
+    ],
+    [
+      "social isolation",
+      "creates",
+      "barriers"
+    ],
+    [
+      "social isolation",
+      "creates",
+      "streets"
+    ],
+    [
+      "social isolation",
+      "impacts",
+      "air quality"
+    ],
+    [
+      "social isolation",
+      "influences",
+      "public buildings"
+    ],
+    [
+      "social isolation",
+      "is affected by",
+      "experience"
+    ],
+    [
+      "social isolation",
+      "is caused by",
+      "urban planning"
+    ],
+    [
+      "social isolation",
+      "results in",
+      "design quality"
+    ],
+    [
+      "societal transformation",
+      "drives",
+      "architectural influence"
+    ],
+    [
+      "societal transformation",
+      "facilitates",
+      "symbolism"
+    ],
+    [
+      "societal transformation",
+      "transforms",
+      "city layout"
+    ],
+    [
+      "stability",
+      "contributes to",
+      "public buildings"
+    ],
+    [
+      "stability",
+      "contributes to",
+      "urban blight"
+    ],
+    [
+      "stability",
+      "facilitates",
+      "social interaction"
+    ],
+    [
+      "stability",
+      "is exacerbated by",
+      "social isolation"
+    ],
+    [
+      "stability",
+      "is foundational to",
+      "priorities"
+    ],
+    [
+      "stability",
+      "is influenced by",
+      "connectivity"
+    ],
+    [
+      "stability",
+      "is influenced by",
+      "urban planning"
+    ],
+    [
+      "stability",
+      "is reflected in",
+      "values"
+    ],
+    [
+      "stability",
+      "is supported by",
+      "local economy"
+    ],
+    [
+      "stability",
+      "is symbolized by",
+      "iconic buildings"
+    ],
+    [
+      "stability",
+      "provides",
+      "experience"
+    ],
+    [
+      "stability",
+      "provides",
+      "neighborhood layout"
+    ],
+    [
+      "stability",
+      "provides",
+      "urban spaces"
+    ],
+    [
+      "stability",
+      "provides stability for",
+      "public squares"
+    ],
+    [
+      "streets",
+      "affects",
+      "architectural influence"
+    ],
+    [
+      "streets",
+      "affects",
+      "parks"
+    ],
+    [
+      "streets",
+      "affects",
+      "pedestrian safety"
+    ],
+    [
+      "streets",
+      "creates",
+      "barriers"
+    ],
+    [
+      "streets",
+      "defines",
+      "public space"
+    ],
+    [
+      "streets",
+      "drives",
+      "economic development"
+    ],
+    [
+      "streets",
+      "enhances",
+      "community resilience"
+    ],
+    [
+      "streets",
+      "facilitates",
+      "social interaction"
+    ],
+    [
+      "streets",
+      "includes",
+      "public buildings"
+    ],
+    [
+      "streets",
+      "influences",
+      "architecture"
+    ],
+    [
+      "streets",
+      "influences",
+      "values"
+    ],
+    [
+      "streets",
+      "is complemented by",
+      "green spaces"
+    ],
+    [
+      "streets",
+      "is enhanced by",
+      "innovation"
+    ],
+    [
+      "streets",
+      "is impacted by",
+      "environmental responsibility"
+    ],
+    [
+      "streets",
+      "serves",
+      "schools"
+    ],
+    [
+      "sustainable materials",
+      "enhanced by",
+      "green spaces"
+    ],
+    [
+      "sustainable materials",
+      "enhances",
+      "investment attraction"
+    ],
+    [
+      "sustainable materials",
+      "is improved by",
+      "air quality"
+    ],
+    [
+      "symbolism",
+      "conveys",
+      "public buildings"
+    ],
+    [
+      "symbolism",
+      "embodies",
+      "social interaction"
+    ],
+    [
+      "symbolism",
+      "is a representation of",
+      "streets"
+    ],
+    [
+      "symbolism",
+      "reflects",
+      "schools"
+    ],
+    [
+      "symbolism",
+      "represents",
+      "public space"
+    ],
+    [
+      "tourism impact",
+      "benefits from",
+      "libraries"
+    ],
+    [
+      "tourism impact",
+      "boosts",
+      "investment attraction"
+    ],
+    [
+      "tourism impact",
+      "enhances",
+      "community cohesion"
+    ],
+    [
+      "tourism impact",
+      "facilitates",
+      "societal transformation"
+    ],
+    [
+      "tourism impact",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "tourism impact",
+      "influences",
+      "climate change"
+    ],
+    [
+      "tourism impact",
+      "influences",
+      "openness"
+    ],
+    [
+      "tourism impact",
+      "influences",
+      "power"
+    ],
+    [
+      "tourism impact",
+      "influences",
+      "urban spaces"
+    ],
+    [
+      "tourism impact",
+      "is impacted by",
+      "social isolation"
+    ],
+    [
+      "tourism impact",
+      "supports",
+      "economic sustainability"
+    ],
+    [
+      "urban blight",
+      "contributes to",
+      "community engagement"
+    ],
+    [
+      "urban blight",
+      "contributes to",
+      "connectivity"
+    ],
+    [
+      "urban blight",
+      "contributes to",
+      "environmental responsibility"
+    ],
+    [
+      "urban blight",
+      "contributes to",
+      "libraries"
+    ],
+    [
+      "urban blight",
+      "contributes to",
+      "museums"
+    ],
+    [
+      "urban blight",
+      "contributes to",
+      "openness"
+    ],
+    [
+      "urban blight",
+      "contributes to",
+      "public space"
+    ],
+    [
+      "urban blight",
+      "contributes to",
+      "schools"
+    ],
+    [
+      "urban blight",
+      "contributes to",
+      "symbolism"
+    ],
+    [
+      "urban blight",
+      "deteriorates",
+      "quality of life"
+    ],
+    [
+      "urban blight",
+      "exacerbates",
+      "public squares"
+    ],
+    [
+      "urban blight",
+      "impacted by",
+      "community resilience"
+    ],
+    [
+      "urban blight",
+      "is impacted by",
+      "experience"
+    ],
+    [
+      "urban blight",
+      "is impacted by",
+      "power"
+    ],
+    [
+      "urban blight",
+      "leads to",
+      "neighborhood layout"
+    ],
+    [
+      "urban blight",
+      "mitigates",
+      "crime prevention"
+    ],
+    [
+      "urban blight",
+      "results in",
+      "urban planning"
+    ],
+    [
+      "urban blight",
+      "results in",
+      "values"
+    ],
+    [
+      "urban forests",
+      "affects",
+      "sidewalks"
+    ],
+    [
+      "urban forests",
+      "attracts",
+      "investment attraction"
+    ],
+    [
+      "urban forests",
+      "deters",
+      "urban blight"
+    ],
+    [
+      "urban forests",
+      "enhances",
+      "economic sustainability"
+    ],
+    [
+      "urban forests",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "urban forests",
+      "enhances",
+      "public space"
+    ],
+    [
+      "urban forests",
+      "improves",
+      "air quality"
+    ],
+    [
+      "urban forests",
+      "improves",
+      "design quality"
+    ],
+    [
+      "urban forests",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "urban forests",
+      "is connected to",
+      "libraries"
+    ],
+    [
+      "urban forests",
+      "is influenced by",
+      "priorities"
+    ],
+    [
+      "urban forests",
+      "is influenced by",
+      "social isolation"
+    ],
+    [
+      "urban forests",
+      "is influenced by",
+      "values"
+    ],
+    [
+      "urban forests",
+      "promotes",
+      "social interaction"
+    ],
+    [
+      "urban forests",
+      "provides",
+      "green spaces"
+    ],
+    [
+      "urban forests",
+      "shapes",
+      "built environment"
+    ],
+    [
+      "urban forests",
+      "supports",
+      "local economy"
+    ],
+    [
+      "urban planning",
+      "advances",
+      "social equity"
+    ],
+    [
+      "urban planning",
+      "affects",
+      "air quality"
+    ],
+    [
+      "urban planning",
+      "affects",
+      "schools"
+    ],
+    [
+      "urban planning",
+      "aids in",
+      "crime prevention"
+    ],
+    [
+      "urban planning",
+      "creates",
+      "barriers"
+    ],
+    [
+      "urban planning",
+      "drives",
+      "economic development"
+    ],
+    [
+      "urban planning",
+      "drives",
+      "innovation"
+    ],
+    [
+      "urban planning",
+      "enables",
+      "societal transformation"
+    ],
+    [
+      "urban planning",
+      "enhances",
+      "connectivity"
+    ],
+    [
+      "urban planning",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "urban planning",
+      "enhances",
+      "green spaces"
+    ],
+    [
+      "urban planning",
+      "facilitates",
+      "social interaction"
+    ],
+    [
+      "urban planning",
+      "guides",
+      "architectural style"
+    ],
+    [
+      "urban planning",
+      "incorporates",
+      "sustainable materials"
+    ],
+    [
+      "urban planning",
+      "influences",
+      "libraries"
+    ],
+    [
+      "urban planning",
+      "reflects",
+      "modernity"
+    ],
+    [
+      "urban planning",
+      "shapes",
+      "public buildings"
+    ],
+    [
+      "urban planning",
+      "shapes",
+      "public space"
+    ],
+    [
+      "urban planning",
+      "shapes",
+      "residential design"
+    ],
+    [
+      "urban planning",
+      "supports",
+      "community cohesion"
+    ],
+    [
+      "urban spaces",
+      "affects",
+      "residential design"
+    ],
+    [
+      "urban spaces",
+      "affects",
+      "streets"
+    ],
+    [
+      "urban spaces",
+      "contributes to",
+      "environmental responsibility"
+    ],
+    [
+      "urban spaces",
+      "conveys",
+      "symbolism"
+    ],
+    [
+      "urban spaces",
+      "drives",
+      "economic development"
+    ],
+    [
+      "urban spaces",
+      "embodies",
+      "modernity"
+    ],
+    [
+      "urban spaces",
+      "enhances",
+      "community engagement"
+    ],
+    [
+      "urban spaces",
+      "enhances",
+      "connectivity"
+    ],
+    [
+      "urban spaces",
+      "enhances",
+      "libraries"
+    ],
+    [
+      "urban spaces",
+      "enhances",
+      "openness"
+    ],
+    [
+      "urban spaces",
+      "guides",
+      "planning"
+    ],
+    [
+      "urban spaces",
+      "influences",
+      "air quality"
+    ],
+    [
+      "urban spaces",
+      "influences",
+      "local economy"
+    ],
+    [
+      "urban spaces",
+      "is affected by",
+      "urban blight"
+    ],
+    [
+      "urban spaces",
+      "is related to",
+      "sidewalks"
+    ],
+    [
+      "urban spaces",
+      "prevents",
+      "crime prevention"
+    ],
+    [
+      "urban spaces",
+      "promotes",
+      "economic sustainability"
+    ],
+    [
+      "urban spaces",
+      "promotes",
+      "energy efficiency"
+    ],
+    [
+      "urban spaces",
+      "promotes",
+      "social equity"
+    ],
+    [
+      "urban spaces",
+      "promotes",
+      "social interaction"
+    ],
+    [
+      "urban spaces",
+      "shapes",
+      "architectural influence"
+    ],
+    [
+      "urban spaces",
+      "shapes",
+      "built environment"
+    ],
+    [
+      "urban spaces",
+      "shapes",
+      "design impact"
+    ],
+    [
+      "urban spaces",
+      "strengthens",
+      "community resilience"
+    ],
+    [
+      "urban spaces",
+      "supports",
+      "green spaces"
+    ],
+    [
+      "values",
+      "guides",
+      "urban planning"
+    ],
+    [
+      "values",
+      "influences",
+      "crime prevention"
+    ],
+    [
+      "values",
+      "influences",
+      "green spaces"
+    ],
+    [
+      "values",
+      "influences",
+      "sidewalks"
+    ],
+    [
+      "values",
+      "promotes",
+      "community engagement"
+    ],
+    [
+      "values",
+      "promotes",
+      "social interaction"
+    ],
+    [
+      "values",
+      "represents",
+      "openness"
+    ],
+    [
+      "values",
+      "shapes",
+      "community cohesion"
+    ],
+    [
+      "values",
+      "shapes",
+      "urban spaces"
+    ]
+  ],
+  "edges": [
+    "advances",
+    "affected by",
+    "affects",
+    "aids in",
+    "attracts",
+    "benefits from",
+    "boosts",
+    "causes",
+    "characterizes",
+    "compares to",
+    "complements",
+    "constitutes",
+    "contrasts",
+    "contrasts with",
+    "contributes to",
+    "conveys",
+    "creates",
+    "creates barriers to",
+    "defined by",
+    "defines",
+    "demonstrates",
+    "depends on",
+    "deteriorates",
+    "determines",
+    "deters",
+    "detracts from",
+    "drives",
+    "embodies",
+    "enables",
+    "encourages",
+    "enhanced by",
+    "enhances",
+    "exacerbates",
+    "facilitates",
+    "fosters",
+    "guides",
+    "hindered by",
+    "hinders",
+    "houses",
+    "impacted by",
+    "impacts",
+    "impedes",
+    "improves",
+    "includes",
+    "incorporates",
+    "increases",
+    "influenced by",
+    "influences",
+    "informs",
+    "inspires",
+    "is a component of",
+    "is a representation of",
+    "is a type of",
+    "is affected by",
+    "is associated with",
+    "is boosted by",
+    "is caused by",
+    "is characterized by",
+    "is complemented by",
+    "is connected to",
+    "is defined by",
+    "is driven by",
+    "is enhanced by",
+    "is exacerbated by",
+    "is experienced through",
+    "is fostered by",
+    "is foundational to",
+    "is impacted by",
+    "is improved by",
+    "is influenced by",
+    "is prioritized by",
+    "is promoted by",
+    "is reflected in",
+    "is related to",
+    "is represented by",
+    "is shaped by",
+    "is supported by",
+    "is symbolized by",
+    "is utilized by",
+    "is utilized in",
+    "leads to",
+    "limits",
+    "mitigates",
+    "perceived by",
+    "prevents",
+    "promotes",
+    "provides",
+    "provides stability for",
+    "reduces",
+    "reflects",
+    "represents",
+    "requires",
+    "results in",
+    "serves",
+    "serves as",
+    "serves as a resource for",
+    "shaped by",
+    "shapes",
+    "signals",
+    "stimulates",
+    "strengthens",
+    "supports",
+    "symbolizes",
+    "threatens",
+    "transforms",
+    "utilizes"
+  ]
+}

@@ -1,0 +1,3749 @@
+{
+  "entities": [
+    "adaptation strategies",
+    "animal displacement",
+    "animal diversity",
+    "animal extinction",
+    "animal health",
+    "animal migration",
+    "animal populations",
+    "animal survival",
+    "animal welfare",
+    "animal well-being",
+    "behavior changes",
+    "biodiversity decline",
+    "biodiversity protection",
+    "breeding seasons",
+    "climate action",
+    "climate change",
+    "climate change impacts",
+    "climate crisis",
+    "climate impacts",
+    "climate mitigation",
+    "conservation efforts",
+    "conservation strategies",
+    "coral bleaching",
+    "devastating effects",
+    "disease spread",
+    "ecological balance",
+    "ecological threats",
+    "ecosystem alteration",
+    "ecosystem health",
+    "ecosystem impacts",
+    "ecosystem protection",
+    "ecosystem resilience",
+    "environmental challenges",
+    "environmental conditions",
+    "environmental sustainability",
+    "extreme weather",
+    "extreme weather events",
+    "fish populations",
+    "food and water access",
+    "food shortages",
+    "food sources",
+    "food webs",
+    "fungal disease",
+    "global temperatures",
+    "greenhouse gas emissions",
+    "habitat conservation",
+    "habitat destruction",
+    "habitat disruption",
+    "habitat loss",
+    "habitat management",
+    "habitat preservation",
+    "koalas",
+    "natural cycles",
+    "parasitic outbreaks",
+    "polar bears",
+    "population declines",
+    "precipitation patterns",
+    "reproductive success",
+    "sea ice",
+    "species adaptation",
+    "species range shifts",
+    "species survival",
+    "temperature rise",
+    "urgent action",
+    "warmer temperatures",
+    "weather patterns",
+    "white-nose syndrome",
+    "wildfires",
+    "wildlife stress"
+  ],
+  "relations": [
+    [
+      "adaptation strategies",
+      "alters",
+      "ecosystem alteration"
+    ],
+    [
+      "adaptation strategies",
+      "enhances",
+      "animal diversity"
+    ],
+    [
+      "adaptation strategies",
+      "enhances",
+      "biodiversity protection"
+    ],
+    [
+      "adaptation strategies",
+      "improves",
+      "reproductive success"
+    ],
+    [
+      "adaptation strategies",
+      "is influenced by",
+      "habitat loss"
+    ],
+    [
+      "adaptation strategies",
+      "is necessary for",
+      "climate mitigation"
+    ],
+    [
+      "adaptation strategies",
+      "promotes",
+      "habitat preservation"
+    ],
+    [
+      "adaptation strategies",
+      "supports",
+      "habitat management"
+    ],
+    [
+      "animal displacement",
+      "affects",
+      "koalas"
+    ],
+    [
+      "animal displacement",
+      "affects",
+      "reproductive success"
+    ],
+    [
+      "animal displacement",
+      "impacts",
+      "fish populations"
+    ],
+    [
+      "animal displacement",
+      "necessitates",
+      "ecosystem protection"
+    ],
+    [
+      "animal displacement",
+      "requires",
+      "climate mitigation"
+    ],
+    [
+      "animal displacement",
+      "requires",
+      "habitat preservation"
+    ],
+    [
+      "animal displacement",
+      "results in",
+      "ecosystem alteration"
+    ],
+    [
+      "animal displacement",
+      "threatens",
+      "biodiversity protection"
+    ],
+    [
+      "animal diversity",
+      "affects",
+      "animal health"
+    ],
+    [
+      "animal diversity",
+      "enhances",
+      "animal well-being"
+    ],
+    [
+      "animal diversity",
+      "enhances",
+      "ecosystem protection"
+    ],
+    [
+      "animal diversity",
+      "influences",
+      "natural cycles"
+    ],
+    [
+      "animal diversity",
+      "influences",
+      "species range shifts"
+    ],
+    [
+      "animal diversity",
+      "supported by",
+      "habitat conservation"
+    ],
+    [
+      "animal diversity",
+      "supports",
+      "species survival"
+    ],
+    [
+      "animal diversity",
+      "threatens",
+      "animal extinction"
+    ],
+    [
+      "animal diversity",
+      "threatens",
+      "population declines"
+    ],
+    [
+      "animal extinction",
+      "affects",
+      "food sources"
+    ],
+    [
+      "animal extinction",
+      "contributes to",
+      "greenhouse gas emissions"
+    ],
+    [
+      "animal extinction",
+      "is influenced by",
+      "fish populations"
+    ],
+    [
+      "animal extinction",
+      "is threatened by",
+      "ecosystem resilience"
+    ],
+    [
+      "animal extinction",
+      "necessitates",
+      "urgent action"
+    ],
+    [
+      "animal extinction",
+      "requires",
+      "habitat preservation"
+    ],
+    [
+      "animal extinction",
+      "results in",
+      "biodiversity decline"
+    ],
+    [
+      "animal extinction",
+      "results in",
+      "biodiversity protection"
+    ],
+    [
+      "animal extinction",
+      "threatens",
+      "koalas"
+    ],
+    [
+      "animal extinction",
+      "threatens",
+      "species survival"
+    ],
+    [
+      "animal health",
+      "affects",
+      "food webs"
+    ],
+    [
+      "animal health",
+      "depends on",
+      "ecosystem health"
+    ],
+    [
+      "animal health",
+      "improves",
+      "conservation strategies"
+    ],
+    [
+      "animal health",
+      "improves",
+      "ecosystem protection"
+    ],
+    [
+      "animal migration",
+      "affects",
+      "animal well-being"
+    ],
+    [
+      "animal migration",
+      "affects",
+      "breeding seasons"
+    ],
+    [
+      "animal migration",
+      "affects",
+      "fish populations"
+    ],
+    [
+      "animal migration",
+      "affects",
+      "food webs"
+    ],
+    [
+      "animal migration",
+      "affects",
+      "koalas"
+    ],
+    [
+      "animal migration",
+      "drives",
+      "polar bears"
+    ],
+    [
+      "animal migration",
+      "enhances",
+      "animal diversity"
+    ],
+    [
+      "animal migration",
+      "influences",
+      "animal health"
+    ],
+    [
+      "animal migration",
+      "influences",
+      "animal populations"
+    ],
+    [
+      "animal migration",
+      "informs",
+      "conservation strategies"
+    ],
+    [
+      "animal migration",
+      "is influenced by",
+      "climate mitigation"
+    ],
+    [
+      "animal migration",
+      "is supported by",
+      "ecosystem protection"
+    ],
+    [
+      "animal migration",
+      "requires",
+      "habitat conservation"
+    ],
+    [
+      "animal migration",
+      "requires",
+      "habitat management"
+    ],
+    [
+      "animal populations",
+      "affected by",
+      "habitat loss"
+    ],
+    [
+      "animal populations",
+      "affects",
+      "animal health"
+    ],
+    [
+      "animal populations",
+      "affects",
+      "animal survival"
+    ],
+    [
+      "animal populations",
+      "affects",
+      "animal well-being"
+    ],
+    [
+      "animal populations",
+      "benefits from",
+      "conservation efforts"
+    ],
+    [
+      "animal populations",
+      "causes",
+      "wildlife stress"
+    ],
+    [
+      "animal populations",
+      "depends on",
+      "species survival"
+    ],
+    [
+      "animal populations",
+      "influenced by",
+      "greenhouse gas emissions"
+    ],
+    [
+      "animal populations",
+      "influences",
+      "animal diversity"
+    ],
+    [
+      "animal populations",
+      "influences",
+      "ecosystem health"
+    ],
+    [
+      "animal populations",
+      "influences",
+      "ecosystem impacts"
+    ],
+    [
+      "animal populations",
+      "is altered by",
+      "ecosystem alteration"
+    ],
+    [
+      "animal populations",
+      "is influenced by",
+      "animal welfare"
+    ],
+    [
+      "animal populations",
+      "is influenced by",
+      "food webs"
+    ],
+    [
+      "animal populations",
+      "is supported by",
+      "conservation strategies"
+    ],
+    [
+      "animal populations",
+      "is supported by",
+      "ecosystem protection"
+    ],
+    [
+      "animal populations",
+      "requires",
+      "urgent action"
+    ],
+    [
+      "animal populations",
+      "results in",
+      "animal displacement"
+    ],
+    [
+      "animal populations",
+      "supports",
+      "habitat preservation"
+    ],
+    [
+      "animal populations",
+      "threatens",
+      "biodiversity decline"
+    ],
+    [
+      "animal survival",
+      "depends on",
+      "habitat conservation"
+    ],
+    [
+      "animal survival",
+      "ensures",
+      "environmental sustainability"
+    ],
+    [
+      "animal survival",
+      "is essential for",
+      "natural cycles"
+    ],
+    [
+      "animal survival",
+      "supports",
+      "food webs"
+    ],
+    [
+      "animal survival",
+      "threatens",
+      "animal displacement"
+    ],
+    [
+      "animal survival",
+      "threatens",
+      "habitat disruption"
+    ],
+    [
+      "animal survival",
+      "threatens",
+      "wildfires"
+    ],
+    [
+      "animal welfare",
+      "affects",
+      "climate impacts"
+    ],
+    [
+      "animal welfare",
+      "affects",
+      "ecosystem health"
+    ],
+    [
+      "animal welfare",
+      "depends on",
+      "ecological balance"
+    ],
+    [
+      "animal welfare",
+      "enhanced by",
+      "habitat preservation"
+    ],
+    [
+      "animal welfare",
+      "enhances",
+      "climate mitigation"
+    ],
+    [
+      "animal welfare",
+      "impacts",
+      "ecosystem impacts"
+    ],
+    [
+      "animal welfare",
+      "impacts",
+      "food webs"
+    ],
+    [
+      "animal welfare",
+      "influences",
+      "animal health"
+    ],
+    [
+      "animal welfare",
+      "influences",
+      "animal migration"
+    ],
+    [
+      "animal welfare",
+      "influences",
+      "greenhouse gas emissions"
+    ],
+    [
+      "animal welfare",
+      "supports",
+      "ecosystem protection"
+    ],
+    [
+      "animal well-being",
+      "affects",
+      "climate crisis"
+    ],
+    [
+      "animal well-being",
+      "affects",
+      "white-nose syndrome"
+    ],
+    [
+      "animal well-being",
+      "depends on",
+      "climate mitigation"
+    ],
+    [
+      "animal well-being",
+      "enhances",
+      "conservation strategies"
+    ],
+    [
+      "animal well-being",
+      "impacts",
+      "ecosystem impacts"
+    ],
+    [
+      "animal well-being",
+      "supports",
+      "ecosystem protection"
+    ],
+    [
+      "biodiversity decline",
+      "affects",
+      "natural cycles"
+    ],
+    [
+      "biodiversity decline",
+      "causes",
+      "wildlife stress"
+    ],
+    [
+      "biodiversity decline",
+      "disrupts",
+      "food webs"
+    ],
+    [
+      "biodiversity decline",
+      "leads to",
+      "environmental sustainability"
+    ],
+    [
+      "biodiversity decline",
+      "promotes",
+      "conservation efforts"
+    ],
+    [
+      "biodiversity decline",
+      "reduces",
+      "fish populations"
+    ],
+    [
+      "biodiversity decline",
+      "requires",
+      "climate mitigation"
+    ],
+    [
+      "biodiversity decline",
+      "results in",
+      "ecosystem alteration"
+    ],
+    [
+      "biodiversity decline",
+      "results in",
+      "habitat destruction"
+    ],
+    [
+      "biodiversity decline",
+      "threatens",
+      "animal survival"
+    ],
+    [
+      "biodiversity decline",
+      "threatens",
+      "food sources"
+    ],
+    [
+      "biodiversity decline",
+      "threatens",
+      "koalas"
+    ],
+    [
+      "biodiversity protection",
+      "aims to counter",
+      "habitat destruction"
+    ],
+    [
+      "biodiversity protection",
+      "aims to prevent",
+      "biodiversity decline"
+    ],
+    [
+      "biodiversity protection",
+      "aims to protect",
+      "environmental challenges"
+    ],
+    [
+      "biodiversity protection",
+      "impacts",
+      "global temperatures"
+    ],
+    [
+      "biodiversity protection",
+      "is supported by",
+      "fish populations"
+    ],
+    [
+      "biodiversity protection",
+      "mitigates",
+      "habitat disruption"
+    ],
+    [
+      "biodiversity protection",
+      "promoted by",
+      "ecological balance"
+    ],
+    [
+      "biodiversity protection",
+      "protects",
+      "habitat loss"
+    ],
+    [
+      "biodiversity protection",
+      "protects",
+      "habitat preservation"
+    ],
+    [
+      "biodiversity protection",
+      "supports",
+      "animal well-being"
+    ],
+    [
+      "biodiversity protection",
+      "supports",
+      "food and water access"
+    ],
+    [
+      "breeding seasons",
+      "affects",
+      "reproductive success"
+    ],
+    [
+      "breeding seasons",
+      "influences",
+      "animal welfare"
+    ],
+    [
+      "climate action",
+      "addresses",
+      "climate crisis"
+    ],
+    [
+      "climate action",
+      "affects",
+      "animal health"
+    ],
+    [
+      "climate action",
+      "affects",
+      "animal populations"
+    ],
+    [
+      "climate action",
+      "affects",
+      "ecosystem impacts"
+    ],
+    [
+      "climate action",
+      "benefits",
+      "koalas"
+    ],
+    [
+      "climate action",
+      "contributes to",
+      "biodiversity decline"
+    ],
+    [
+      "climate action",
+      "enhances",
+      "animal well-being"
+    ],
+    [
+      "climate action",
+      "enhances",
+      "reproductive success"
+    ],
+    [
+      "climate action",
+      "ensures",
+      "animal survival"
+    ],
+    [
+      "climate action",
+      "ensures",
+      "food and water access"
+    ],
+    [
+      "climate action",
+      "exacerbates",
+      "habitat disruption"
+    ],
+    [
+      "climate action",
+      "facilitates",
+      "habitat preservation"
+    ],
+    [
+      "climate action",
+      "improves",
+      "animal welfare"
+    ],
+    [
+      "climate action",
+      "induces",
+      "wildlife stress"
+    ],
+    [
+      "climate action",
+      "influences",
+      "animal migration"
+    ],
+    [
+      "climate action",
+      "influences",
+      "habitat management"
+    ],
+    [
+      "climate action",
+      "involves",
+      "conservation strategies"
+    ],
+    [
+      "climate action",
+      "is affected by",
+      "food webs"
+    ],
+    [
+      "climate action",
+      "linked to",
+      "white-nose syndrome"
+    ],
+    [
+      "climate action",
+      "mitigates",
+      "extreme weather"
+    ],
+    [
+      "climate action",
+      "mitigates",
+      "habitat destruction"
+    ],
+    [
+      "climate action",
+      "promotes",
+      "animal diversity"
+    ],
+    [
+      "climate action",
+      "promotes",
+      "conservation efforts"
+    ],
+    [
+      "climate action",
+      "requires",
+      "urgent action"
+    ],
+    [
+      "climate action",
+      "results in",
+      "animal displacement"
+    ],
+    [
+      "climate action",
+      "supports",
+      "ecosystem health"
+    ],
+    [
+      "climate action",
+      "supports",
+      "species survival"
+    ],
+    [
+      "climate change",
+      "affects",
+      "food sources"
+    ],
+    [
+      "climate change",
+      "affects",
+      "species survival"
+    ],
+    [
+      "climate change",
+      "causes",
+      "extreme weather"
+    ],
+    [
+      "climate change",
+      "causes",
+      "extreme weather events"
+    ],
+    [
+      "climate change",
+      "causes",
+      "habitat disruption"
+    ],
+    [
+      "climate change",
+      "contributes to",
+      "environmental challenges"
+    ],
+    [
+      "climate change",
+      "creates",
+      "food shortages"
+    ],
+    [
+      "climate change",
+      "increases",
+      "warmer temperatures"
+    ],
+    [
+      "climate change",
+      "limits",
+      "food and water access"
+    ],
+    [
+      "climate change",
+      "promotes",
+      "conservation efforts"
+    ],
+    [
+      "climate change",
+      "results in",
+      "habitat destruction"
+    ],
+    [
+      "climate change impacts",
+      "is impacted by",
+      "devastating effects"
+    ],
+    [
+      "climate crisis",
+      "affects",
+      "animal health"
+    ],
+    [
+      "climate crisis",
+      "affects",
+      "ecosystem health"
+    ],
+    [
+      "climate crisis",
+      "affects",
+      "ecosystem impacts"
+    ],
+    [
+      "climate crisis",
+      "affects",
+      "reproductive success"
+    ],
+    [
+      "climate crisis",
+      "creates",
+      "environmental challenges"
+    ],
+    [
+      "climate crisis",
+      "demands",
+      "urgent action"
+    ],
+    [
+      "climate crisis",
+      "disrupts",
+      "food webs"
+    ],
+    [
+      "climate crisis",
+      "drives",
+      "conservation efforts"
+    ],
+    [
+      "climate crisis",
+      "exacerbated by",
+      "wildfires"
+    ],
+    [
+      "climate crisis",
+      "exacerbates",
+      "animal displacement"
+    ],
+    [
+      "climate crisis",
+      "impacts",
+      "food sources"
+    ],
+    [
+      "climate crisis",
+      "is influenced by",
+      "environmental sustainability"
+    ],
+    [
+      "climate crisis",
+      "leads to",
+      "habitat disruption"
+    ],
+    [
+      "climate crisis",
+      "leads to",
+      "population declines"
+    ],
+    [
+      "climate crisis",
+      "necessitates",
+      "habitat preservation"
+    ],
+    [
+      "climate crisis",
+      "threatened by",
+      "polar bears"
+    ],
+    [
+      "climate crisis",
+      "threatens",
+      "animal diversity"
+    ],
+    [
+      "climate crisis",
+      "threatens",
+      "animal extinction"
+    ],
+    [
+      "climate crisis",
+      "threatens",
+      "animal populations"
+    ],
+    [
+      "climate crisis",
+      "threatens",
+      "animal survival"
+    ],
+    [
+      "climate crisis",
+      "threatens",
+      "species survival"
+    ],
+    [
+      "climate impacts",
+      "affects",
+      "animal well-being"
+    ],
+    [
+      "climate impacts",
+      "affects",
+      "environmental conditions"
+    ],
+    [
+      "climate impacts",
+      "causes",
+      "behavior changes"
+    ],
+    [
+      "climate impacts",
+      "causes",
+      "extreme weather events"
+    ],
+    [
+      "climate impacts",
+      "influences",
+      "animal migration"
+    ],
+    [
+      "climate impacts",
+      "leads to",
+      "extreme weather"
+    ],
+    [
+      "climate impacts",
+      "threatens",
+      "polar bears"
+    ],
+    [
+      "climate mitigation",
+      "enhances",
+      "animal diversity"
+    ],
+    [
+      "climate mitigation",
+      "involves",
+      "conservation efforts"
+    ],
+    [
+      "climate mitigation",
+      "is affected by",
+      "food webs"
+    ],
+    [
+      "climate mitigation",
+      "is improved by",
+      "animal well-being"
+    ],
+    [
+      "climate mitigation",
+      "leads to",
+      "population declines"
+    ],
+    [
+      "climate mitigation",
+      "requires",
+      "animal populations"
+    ],
+    [
+      "climate mitigation",
+      "requires",
+      "climate crisis"
+    ],
+    [
+      "climate mitigation",
+      "requires",
+      "food and water access"
+    ],
+    [
+      "climate mitigation",
+      "requires",
+      "habitat loss"
+    ],
+    [
+      "climate mitigation",
+      "requires",
+      "urgent action"
+    ],
+    [
+      "climate mitigation",
+      "supports",
+      "animal survival"
+    ],
+    [
+      "climate mitigation",
+      "supports",
+      "fish populations"
+    ],
+    [
+      "climate mitigation",
+      "supports",
+      "habitat conservation"
+    ],
+    [
+      "climate mitigation",
+      "supports",
+      "natural cycles"
+    ],
+    [
+      "conservation efforts",
+      "addresses",
+      "food shortages"
+    ],
+    [
+      "conservation efforts",
+      "enhances",
+      "ecosystem resilience"
+    ],
+    [
+      "conservation efforts",
+      "enhances",
+      "species survival"
+    ],
+    [
+      "conservation efforts",
+      "facilitates",
+      "urgent action"
+    ],
+    [
+      "conservation efforts",
+      "involves",
+      "habitat management"
+    ],
+    [
+      "conservation efforts",
+      "mitigated by",
+      "fungal disease"
+    ],
+    [
+      "conservation efforts",
+      "mitigated by",
+      "wildlife stress"
+    ],
+    [
+      "conservation efforts",
+      "promotes",
+      "animal diversity"
+    ],
+    [
+      "conservation efforts",
+      "requires",
+      "animal extinction"
+    ],
+    [
+      "conservation efforts",
+      "requires",
+      "ecological balance"
+    ],
+    [
+      "conservation efforts",
+      "requires",
+      "parasitic outbreaks"
+    ],
+    [
+      "conservation efforts",
+      "supported by",
+      "animal survival"
+    ],
+    [
+      "conservation efforts",
+      "supports",
+      "conservation strategies"
+    ],
+    [
+      "conservation efforts",
+      "supports",
+      "habitat conservation"
+    ],
+    [
+      "conservation strategies",
+      "addresses",
+      "wildlife stress"
+    ],
+    [
+      "conservation strategies",
+      "ensures",
+      "biodiversity protection"
+    ],
+    [
+      "conservation strategies",
+      "improves",
+      "reproductive success"
+    ],
+    [
+      "conservation strategies",
+      "informs",
+      "habitat destruction"
+    ],
+    [
+      "conservation strategies",
+      "involves",
+      "environmental sustainability"
+    ],
+    [
+      "conservation strategies",
+      "is addressed by",
+      "warmer temperatures"
+    ],
+    [
+      "conservation strategies",
+      "is supported by",
+      "coral bleaching"
+    ],
+    [
+      "conservation strategies",
+      "is supported by",
+      "ecological balance"
+    ],
+    [
+      "conservation strategies",
+      "promotes",
+      "habitat conservation"
+    ],
+    [
+      "conservation strategies",
+      "requires",
+      "animal displacement"
+    ],
+    [
+      "conservation strategies",
+      "supports",
+      "animal diversity"
+    ],
+    [
+      "conservation strategies",
+      "supports",
+      "animal survival"
+    ],
+    [
+      "conservation strategies",
+      "supports",
+      "food sources"
+    ],
+    [
+      "conservation strategies",
+      "supports",
+      "species survival"
+    ],
+    [
+      "coral bleaching",
+      "affects",
+      "animal populations"
+    ],
+    [
+      "coral bleaching",
+      "affects",
+      "food sources"
+    ],
+    [
+      "coral bleaching",
+      "affects",
+      "sea ice"
+    ],
+    [
+      "coral bleaching",
+      "causes",
+      "food shortages"
+    ],
+    [
+      "coral bleaching",
+      "causes",
+      "habitat disruption"
+    ],
+    [
+      "coral bleaching",
+      "causes",
+      "wildlife stress"
+    ],
+    [
+      "coral bleaching",
+      "contributes to",
+      "climate change"
+    ],
+    [
+      "coral bleaching",
+      "enhances",
+      "ecosystem resilience"
+    ],
+    [
+      "coral bleaching",
+      "exacerbates",
+      "climate crisis"
+    ],
+    [
+      "coral bleaching",
+      "impacts",
+      "ecosystem protection"
+    ],
+    [
+      "coral bleaching",
+      "leads to",
+      "biodiversity decline"
+    ],
+    [
+      "coral bleaching",
+      "leads to",
+      "fungal disease"
+    ],
+    [
+      "coral bleaching",
+      "leads to",
+      "habitat destruction"
+    ],
+    [
+      "coral bleaching",
+      "linked to",
+      "white-nose syndrome"
+    ],
+    [
+      "coral bleaching",
+      "mitigates",
+      "climate mitigation"
+    ],
+    [
+      "coral bleaching",
+      "reduces",
+      "fish populations"
+    ],
+    [
+      "coral bleaching",
+      "requires",
+      "climate action"
+    ],
+    [
+      "coral bleaching",
+      "requires",
+      "habitat management"
+    ],
+    [
+      "coral bleaching",
+      "threatens",
+      "animal diversity"
+    ],
+    [
+      "disease spread",
+      "affects",
+      "behavior changes"
+    ],
+    [
+      "disease spread",
+      "caused by",
+      "temperature rise"
+    ],
+    [
+      "disease spread",
+      "causes",
+      "habitat disruption"
+    ],
+    [
+      "disease spread",
+      "causes",
+      "parasitic outbreaks"
+    ],
+    [
+      "disease spread",
+      "facilitated by",
+      "warmer temperatures"
+    ],
+    [
+      "disease spread",
+      "influences",
+      "precipitation patterns"
+    ],
+    [
+      "disease spread",
+      "influences",
+      "weather patterns"
+    ],
+    [
+      "disease spread",
+      "is a consequence of",
+      "climate change impacts"
+    ],
+    [
+      "disease spread",
+      "is a result of",
+      "habitat destruction"
+    ],
+    [
+      "disease spread",
+      "is exacerbated by",
+      "extreme weather"
+    ],
+    [
+      "disease spread",
+      "is influenced by",
+      "climate change"
+    ],
+    [
+      "ecological balance",
+      "affects",
+      "food sources"
+    ],
+    [
+      "ecological balance",
+      "affects",
+      "food webs"
+    ],
+    [
+      "ecological balance",
+      "affects",
+      "polar bears"
+    ],
+    [
+      "ecological balance",
+      "ensures",
+      "species survival"
+    ],
+    [
+      "ecological balance",
+      "is threatened by",
+      "climate crisis"
+    ],
+    [
+      "ecological balance",
+      "is threatened by",
+      "wildlife stress"
+    ],
+    [
+      "ecological balance",
+      "requires",
+      "climate action"
+    ],
+    [
+      "ecological balance",
+      "requires",
+      "ecosystem protection"
+    ],
+    [
+      "ecological balance",
+      "results in",
+      "population declines"
+    ],
+    [
+      "ecological balance",
+      "supports",
+      "fish populations"
+    ],
+    [
+      "ecological balance",
+      "threatens",
+      "koalas"
+    ],
+    [
+      "ecological threats",
+      "affects",
+      "food and water access"
+    ],
+    [
+      "ecological threats",
+      "causes",
+      "food shortages"
+    ],
+    [
+      "ecological threats",
+      "causes",
+      "parasitic outbreaks"
+    ],
+    [
+      "ecological threats",
+      "causes",
+      "wildfires"
+    ],
+    [
+      "ecological threats",
+      "contributes to",
+      "animal extinction"
+    ],
+    [
+      "ecological threats",
+      "demands",
+      "urgent action"
+    ],
+    [
+      "ecological threats",
+      "disrupts",
+      "natural cycles"
+    ],
+    [
+      "ecological threats",
+      "drives",
+      "climate change"
+    ],
+    [
+      "ecological threats",
+      "exacerbates",
+      "climate crisis"
+    ],
+    [
+      "ecological threats",
+      "influences",
+      "ecosystem impacts"
+    ],
+    [
+      "ecological threats",
+      "necessitates",
+      "habitat preservation"
+    ],
+    [
+      "ecological threats",
+      "requires",
+      "climate mitigation"
+    ],
+    [
+      "ecological threats",
+      "threatens",
+      "animal survival"
+    ],
+    [
+      "ecological threats",
+      "threatens",
+      "biodiversity protection"
+    ],
+    [
+      "ecological threats",
+      "threatens",
+      "ecological balance"
+    ],
+    [
+      "ecological threats",
+      "threatens",
+      "koalas"
+    ],
+    [
+      "ecological threats",
+      "threatens",
+      "species survival"
+    ],
+    [
+      "ecosystem alteration",
+      "affects",
+      "animal diversity"
+    ],
+    [
+      "ecosystem alteration",
+      "impacts",
+      "fish populations"
+    ],
+    [
+      "ecosystem alteration",
+      "impacts",
+      "reproductive success"
+    ],
+    [
+      "ecosystem alteration",
+      "informs",
+      "conservation strategies"
+    ],
+    [
+      "ecosystem alteration",
+      "supports",
+      "biodiversity protection"
+    ],
+    [
+      "ecosystem alteration",
+      "triggers",
+      "behavior changes"
+    ],
+    [
+      "ecosystem health",
+      "affects",
+      "animal displacement"
+    ],
+    [
+      "ecosystem health",
+      "affects",
+      "habitat destruction"
+    ],
+    [
+      "ecosystem health",
+      "causes",
+      "wildlife stress"
+    ],
+    [
+      "ecosystem health",
+      "contributes to",
+      "animal well-being"
+    ],
+    [
+      "ecosystem health",
+      "demands",
+      "urgent action"
+    ],
+    [
+      "ecosystem health",
+      "depends on",
+      "food webs"
+    ],
+    [
+      "ecosystem health",
+      "enhances",
+      "animal diversity"
+    ],
+    [
+      "ecosystem health",
+      "enhances",
+      "habitat management"
+    ],
+    [
+      "ecosystem health",
+      "enhances",
+      "habitat preservation"
+    ],
+    [
+      "ecosystem health",
+      "impacted by",
+      "habitat loss"
+    ],
+    [
+      "ecosystem health",
+      "influenced by",
+      "food and water access"
+    ],
+    [
+      "ecosystem health",
+      "is influenced by",
+      "ecological balance"
+    ],
+    [
+      "ecosystem health",
+      "is vital for",
+      "polar bears"
+    ],
+    [
+      "ecosystem health",
+      "supports",
+      "animal migration"
+    ],
+    [
+      "ecosystem health",
+      "supports",
+      "conservation efforts"
+    ],
+    [
+      "ecosystem health",
+      "supports",
+      "conservation strategies"
+    ],
+    [
+      "ecosystem health",
+      "threatens",
+      "ecological threats"
+    ],
+    [
+      "ecosystem impacts",
+      "affects",
+      "animal survival"
+    ],
+    [
+      "ecosystem impacts",
+      "affects",
+      "ecosystem resilience"
+    ],
+    [
+      "ecosystem impacts",
+      "affects",
+      "koalas"
+    ],
+    [
+      "ecosystem impacts",
+      "affects",
+      "natural cycles"
+    ],
+    [
+      "ecosystem impacts",
+      "causes",
+      "ecosystem alteration"
+    ],
+    [
+      "ecosystem impacts",
+      "causes",
+      "wildlife stress"
+    ],
+    [
+      "ecosystem impacts",
+      "creates",
+      "environmental challenges"
+    ],
+    [
+      "ecosystem impacts",
+      "influences",
+      "animal migration"
+    ],
+    [
+      "ecosystem impacts",
+      "informs",
+      "habitat management"
+    ],
+    [
+      "ecosystem impacts",
+      "leads to",
+      "biodiversity decline"
+    ],
+    [
+      "ecosystem impacts",
+      "necessitates",
+      "ecosystem protection"
+    ],
+    [
+      "ecosystem impacts",
+      "results in",
+      "conservation strategies"
+    ],
+    [
+      "ecosystem impacts",
+      "results in",
+      "habitat destruction"
+    ],
+    [
+      "ecosystem protection",
+      "benefits",
+      "fish populations"
+    ],
+    [
+      "ecosystem protection",
+      "depends on",
+      "conservation efforts"
+    ],
+    [
+      "ecosystem protection",
+      "ensures",
+      "biodiversity protection"
+    ],
+    [
+      "ecosystem protection",
+      "guides",
+      "conservation strategies"
+    ],
+    [
+      "ecosystem protection",
+      "is affected by",
+      "food and water access"
+    ],
+    [
+      "ecosystem protection",
+      "is dependent on",
+      "ecosystem health"
+    ],
+    [
+      "ecosystem protection",
+      "is necessary for",
+      "habitat loss"
+    ],
+    [
+      "ecosystem protection",
+      "is protected by",
+      "food sources"
+    ],
+    [
+      "ecosystem protection",
+      "is supported by",
+      "ecosystem alteration"
+    ],
+    [
+      "ecosystem protection",
+      "mitigates",
+      "habitat destruction"
+    ],
+    [
+      "ecosystem protection",
+      "protects",
+      "greenhouse gas emissions"
+    ],
+    [
+      "ecosystem protection",
+      "protects",
+      "wildfires"
+    ],
+    [
+      "ecosystem protection",
+      "requires",
+      "environmental challenges"
+    ],
+    [
+      "ecosystem protection",
+      "requires",
+      "habitat disruption"
+    ],
+    [
+      "ecosystem protection",
+      "requires",
+      "urgent action"
+    ],
+    [
+      "ecosystem protection",
+      "supports",
+      "biodiversity decline"
+    ],
+    [
+      "ecosystem protection",
+      "supports",
+      "environmental sustainability"
+    ],
+    [
+      "ecosystem protection",
+      "supports",
+      "habitat management"
+    ],
+    [
+      "ecosystem protection",
+      "threatens",
+      "ecological threats"
+    ],
+    [
+      "ecosystem resilience",
+      "affects",
+      "food shortages"
+    ],
+    [
+      "ecosystem resilience",
+      "affects",
+      "habitat loss"
+    ],
+    [
+      "ecosystem resilience",
+      "contributes to",
+      "ecological balance"
+    ],
+    [
+      "ecosystem resilience",
+      "enhances",
+      "biodiversity protection"
+    ],
+    [
+      "ecosystem resilience",
+      "enhances",
+      "climate mitigation"
+    ],
+    [
+      "ecosystem resilience",
+      "requires",
+      "urgent action"
+    ],
+    [
+      "ecosystem resilience",
+      "supports",
+      "animal survival"
+    ],
+    [
+      "ecosystem resilience",
+      "supports",
+      "conservation strategies"
+    ],
+    [
+      "ecosystem resilience",
+      "supports",
+      "food and water access"
+    ],
+    [
+      "environmental challenges",
+      "addresses",
+      "habitat management"
+    ],
+    [
+      "environmental challenges",
+      "affects",
+      "food sources"
+    ],
+    [
+      "environmental challenges",
+      "affects",
+      "food webs"
+    ],
+    [
+      "environmental challenges",
+      "creates",
+      "ecological threats"
+    ],
+    [
+      "environmental challenges",
+      "drives",
+      "conservation efforts"
+    ],
+    [
+      "environmental challenges",
+      "exacerbates",
+      "climate action"
+    ],
+    [
+      "environmental challenges",
+      "faces",
+      "animal populations"
+    ],
+    [
+      "environmental challenges",
+      "impacts",
+      "fish populations"
+    ],
+    [
+      "environmental challenges",
+      "leads to",
+      "biodiversity decline"
+    ],
+    [
+      "environmental challenges",
+      "necessitates",
+      "climate mitigation"
+    ],
+    [
+      "environmental challenges",
+      "requires",
+      "habitat conservation"
+    ],
+    [
+      "environmental challenges",
+      "threatens",
+      "animal survival"
+    ],
+    [
+      "environmental challenges",
+      "threatens",
+      "koalas"
+    ],
+    [
+      "environmental conditions",
+      "affects",
+      "breeding seasons"
+    ],
+    [
+      "environmental conditions",
+      "guides",
+      "adaptation strategies"
+    ],
+    [
+      "environmental sustainability",
+      "affects",
+      "ecosystem impacts"
+    ],
+    [
+      "environmental sustainability",
+      "affects",
+      "natural cycles"
+    ],
+    [
+      "environmental sustainability",
+      "enhances",
+      "ecosystem resilience"
+    ],
+    [
+      "environmental sustainability",
+      "leads to",
+      "food shortages"
+    ],
+    [
+      "environmental sustainability",
+      "leads to",
+      "population declines"
+    ],
+    [
+      "environmental sustainability",
+      "results in",
+      "habitat loss"
+    ],
+    [
+      "environmental sustainability",
+      "supports",
+      "food and water access"
+    ],
+    [
+      "environmental sustainability",
+      "supports",
+      "food sources"
+    ],
+    [
+      "extreme weather",
+      "causes",
+      "food shortages"
+    ],
+    [
+      "extreme weather",
+      "causes",
+      "parasitic outbreaks"
+    ],
+    [
+      "extreme weather",
+      "causes",
+      "population declines"
+    ],
+    [
+      "extreme weather",
+      "causes",
+      "wildlife stress"
+    ],
+    [
+      "extreme weather",
+      "exacerbates",
+      "habitat destruction"
+    ],
+    [
+      "extreme weather",
+      "impacts",
+      "animal health"
+    ],
+    [
+      "extreme weather",
+      "impacts",
+      "animal welfare"
+    ],
+    [
+      "extreme weather",
+      "is linked to",
+      "white-nose syndrome"
+    ],
+    [
+      "extreme weather",
+      "leads to",
+      "habitat disruption"
+    ],
+    [
+      "extreme weather",
+      "threatens",
+      "animal survival"
+    ],
+    [
+      "fish populations",
+      "affected by",
+      "global temperatures"
+    ],
+    [
+      "fish populations",
+      "affects",
+      "food and water access"
+    ],
+    [
+      "fish populations",
+      "benefits",
+      "adaptation strategies"
+    ],
+    [
+      "fish populations",
+      "contributes to",
+      "habitat loss"
+    ],
+    [
+      "fish populations",
+      "depends on",
+      "ecosystem health"
+    ],
+    [
+      "fish populations",
+      "depends on",
+      "polar bears"
+    ],
+    [
+      "fish populations",
+      "enhances",
+      "animal diversity"
+    ],
+    [
+      "fish populations",
+      "impacted by",
+      "habitat destruction"
+    ],
+    [
+      "fish populations",
+      "impacts",
+      "climate crisis"
+    ],
+    [
+      "fish populations",
+      "impacts",
+      "population declines"
+    ],
+    [
+      "fish populations",
+      "is influenced by",
+      "animal welfare"
+    ],
+    [
+      "fish populations",
+      "supports",
+      "habitat preservation"
+    ],
+    [
+      "fish populations",
+      "supports",
+      "sea ice"
+    ],
+    [
+      "food and water access",
+      "affects",
+      "biodiversity decline"
+    ],
+    [
+      "food and water access",
+      "affects",
+      "parasitic outbreaks"
+    ],
+    [
+      "food and water access",
+      "causes",
+      "habitat destruction"
+    ],
+    [
+      "food and water access",
+      "compromised by",
+      "environmental challenges"
+    ],
+    [
+      "food and water access",
+      "depends on",
+      "animal populations"
+    ],
+    [
+      "food and water access",
+      "influences",
+      "food sources"
+    ],
+    [
+      "food and water access",
+      "is affected by",
+      "habitat disruption"
+    ],
+    [
+      "food and water access",
+      "is influenced by",
+      "habitat management"
+    ],
+    [
+      "food and water access",
+      "requires",
+      "conservation efforts"
+    ],
+    [
+      "food and water access",
+      "results from",
+      "habitat loss"
+    ],
+    [
+      "food and water access",
+      "results in",
+      "population declines"
+    ],
+    [
+      "food and water access",
+      "supports",
+      "animal survival"
+    ],
+    [
+      "food and water access",
+      "supports",
+      "conservation strategies"
+    ],
+    [
+      "food shortages",
+      "causes",
+      "fungal disease"
+    ],
+    [
+      "food shortages",
+      "contributes to",
+      "animal extinction"
+    ],
+    [
+      "food shortages",
+      "exacerbated by",
+      "extreme weather"
+    ],
+    [
+      "food shortages",
+      "exacerbates",
+      "environmental challenges"
+    ],
+    [
+      "food shortages",
+      "exacerbates",
+      "parasitic outbreaks"
+    ],
+    [
+      "food shortages",
+      "leads to",
+      "habitat destruction"
+    ],
+    [
+      "food shortages",
+      "linked to",
+      "white-nose syndrome"
+    ],
+    [
+      "food shortages",
+      "results in",
+      "habitat disruption"
+    ],
+    [
+      "food sources",
+      "causes",
+      "wildlife stress"
+    ],
+    [
+      "food sources",
+      "ensures",
+      "biodiversity protection"
+    ],
+    [
+      "food sources",
+      "impacts",
+      "white-nose syndrome"
+    ],
+    [
+      "food sources",
+      "influences",
+      "animal diversity"
+    ],
+    [
+      "food sources",
+      "is vital for",
+      "ecosystem health"
+    ],
+    [
+      "food sources",
+      "leads to",
+      "population declines"
+    ],
+    [
+      "food sources",
+      "mitigates",
+      "climate mitigation"
+    ],
+    [
+      "food sources",
+      "supports",
+      "fish populations"
+    ],
+    [
+      "food sources",
+      "supports",
+      "habitat preservation"
+    ],
+    [
+      "food webs",
+      "disrupts",
+      "wildfires"
+    ],
+    [
+      "food webs",
+      "impacts",
+      "warmer temperatures"
+    ],
+    [
+      "food webs",
+      "is affected by",
+      "urgent action"
+    ],
+    [
+      "food webs",
+      "supported by",
+      "ecosystem impacts"
+    ],
+    [
+      "food webs",
+      "supports",
+      "adaptation strategies"
+    ],
+    [
+      "food webs",
+      "supports",
+      "environmental sustainability"
+    ],
+    [
+      "food webs",
+      "supports",
+      "habitat preservation"
+    ],
+    [
+      "fungal disease",
+      "affects",
+      "food sources"
+    ],
+    [
+      "fungal disease",
+      "causes",
+      "parasitic outbreaks"
+    ],
+    [
+      "fungal disease",
+      "is linked to",
+      "habitat disruption"
+    ],
+    [
+      "fungal disease",
+      "leads to",
+      "animal extinction"
+    ],
+    [
+      "fungal disease",
+      "linked to",
+      "environmental sustainability"
+    ],
+    [
+      "global temperatures",
+      "affected by",
+      "polar bears"
+    ],
+    [
+      "global temperatures",
+      "affects",
+      "animal diversity"
+    ],
+    [
+      "global temperatures",
+      "affects",
+      "animal health"
+    ],
+    [
+      "global temperatures",
+      "affects",
+      "animal populations"
+    ],
+    [
+      "global temperatures",
+      "affects",
+      "animal well-being"
+    ],
+    [
+      "global temperatures",
+      "drives",
+      "animal migration"
+    ],
+    [
+      "global temperatures",
+      "impacts",
+      "reproductive success"
+    ],
+    [
+      "global temperatures",
+      "influences",
+      "climate action"
+    ],
+    [
+      "global temperatures",
+      "is influenced by",
+      "ecosystem impacts"
+    ],
+    [
+      "greenhouse gas emissions",
+      "affects",
+      "ecosystem impacts"
+    ],
+    [
+      "greenhouse gas emissions",
+      "causes",
+      "animal displacement"
+    ],
+    [
+      "greenhouse gas emissions",
+      "contributes to",
+      "polar bears"
+    ],
+    [
+      "greenhouse gas emissions",
+      "demands",
+      "urgent action"
+    ],
+    [
+      "greenhouse gas emissions",
+      "impacts",
+      "animal diversity"
+    ],
+    [
+      "greenhouse gas emissions",
+      "impacts",
+      "animal well-being"
+    ],
+    [
+      "greenhouse gas emissions",
+      "increases",
+      "climate crisis"
+    ],
+    [
+      "greenhouse gas emissions",
+      "increases",
+      "global temperatures"
+    ],
+    [
+      "greenhouse gas emissions",
+      "influences",
+      "animal migration"
+    ],
+    [
+      "greenhouse gas emissions",
+      "influences",
+      "ecosystem resilience"
+    ],
+    [
+      "greenhouse gas emissions",
+      "is affected by",
+      "wildlife stress"
+    ],
+    [
+      "greenhouse gas emissions",
+      "is impacted by",
+      "ecological balance"
+    ],
+    [
+      "greenhouse gas emissions",
+      "leads to",
+      "population declines"
+    ],
+    [
+      "greenhouse gas emissions",
+      "reduces",
+      "climate action"
+    ],
+    [
+      "greenhouse gas emissions",
+      "results in",
+      "habitat disruption"
+    ],
+    [
+      "greenhouse gas emissions",
+      "supports",
+      "conservation strategies"
+    ],
+    [
+      "greenhouse gas emissions",
+      "threatens",
+      "biodiversity protection"
+    ],
+    [
+      "greenhouse gas emissions",
+      "threatens",
+      "species survival"
+    ],
+    [
+      "habitat conservation",
+      "benefits from",
+      "animal health"
+    ],
+    [
+      "habitat conservation",
+      "benefits from",
+      "food webs"
+    ],
+    [
+      "habitat conservation",
+      "benefits from",
+      "koalas"
+    ],
+    [
+      "habitat conservation",
+      "benefits from",
+      "population declines"
+    ],
+    [
+      "habitat conservation",
+      "depends on",
+      "animal welfare"
+    ],
+    [
+      "habitat conservation",
+      "depends on",
+      "species survival"
+    ],
+    [
+      "habitat conservation",
+      "ensures",
+      "biodiversity protection"
+    ],
+    [
+      "habitat conservation",
+      "is enhanced by",
+      "ecological balance"
+    ],
+    [
+      "habitat conservation",
+      "is enhanced by",
+      "environmental sustainability"
+    ],
+    [
+      "habitat conservation",
+      "is supported by",
+      "coral bleaching"
+    ],
+    [
+      "habitat conservation",
+      "is supported by",
+      "ecological threats"
+    ],
+    [
+      "habitat conservation",
+      "is supported by",
+      "food sources"
+    ],
+    [
+      "habitat conservation",
+      "is supported by",
+      "warmer temperatures"
+    ],
+    [
+      "habitat conservation",
+      "requires",
+      "animal populations"
+    ],
+    [
+      "habitat conservation",
+      "requires",
+      "fish populations"
+    ],
+    [
+      "habitat conservation",
+      "supported by",
+      "animal extinction"
+    ],
+    [
+      "habitat conservation",
+      "supports",
+      "animal displacement"
+    ],
+    [
+      "habitat conservation",
+      "supports",
+      "animal well-being"
+    ],
+    [
+      "habitat conservation",
+      "supports",
+      "climate action"
+    ],
+    [
+      "habitat conservation",
+      "supports",
+      "wildfires"
+    ],
+    [
+      "habitat destruction",
+      "affects",
+      "ecosystem resilience"
+    ],
+    [
+      "habitat destruction",
+      "affects",
+      "sea ice"
+    ],
+    [
+      "habitat destruction",
+      "aims to counter",
+      "conservation efforts"
+    ],
+    [
+      "habitat destruction",
+      "causes",
+      "parasitic outbreaks"
+    ],
+    [
+      "habitat destruction",
+      "causes",
+      "wildlife stress"
+    ],
+    [
+      "habitat destruction",
+      "contributes to",
+      "greenhouse gas emissions"
+    ],
+    [
+      "habitat destruction",
+      "disrupts",
+      "food webs"
+    ],
+    [
+      "habitat destruction",
+      "leads to",
+      "animal extinction"
+    ],
+    [
+      "habitat destruction",
+      "leads to",
+      "ecological balance"
+    ],
+    [
+      "habitat destruction",
+      "linked to",
+      "fungal disease"
+    ],
+    [
+      "habitat destruction",
+      "requires",
+      "climate mitigation"
+    ],
+    [
+      "habitat destruction",
+      "requires",
+      "habitat conservation"
+    ],
+    [
+      "habitat destruction",
+      "results in",
+      "environmental sustainability"
+    ],
+    [
+      "habitat destruction",
+      "results in",
+      "habitat loss"
+    ],
+    [
+      "habitat destruction",
+      "threatens",
+      "species survival"
+    ],
+    [
+      "habitat disruption",
+      "caused by",
+      "animal populations"
+    ],
+    [
+      "habitat disruption",
+      "causes",
+      "population declines"
+    ],
+    [
+      "habitat disruption",
+      "causes",
+      "wildlife stress"
+    ],
+    [
+      "habitat disruption",
+      "disrupted by",
+      "ecological balance"
+    ],
+    [
+      "habitat disruption",
+      "disrupted by",
+      "ecosystem resilience"
+    ],
+    [
+      "habitat disruption",
+      "disrupts",
+      "habitat preservation"
+    ],
+    [
+      "habitat disruption",
+      "impacts",
+      "ecosystem health"
+    ],
+    [
+      "habitat disruption",
+      "is disrupted by",
+      "food sources"
+    ],
+    [
+      "habitat disruption",
+      "is exacerbated by",
+      "parasitic outbreaks"
+    ],
+    [
+      "habitat disruption",
+      "requires",
+      "habitat conservation"
+    ],
+    [
+      "habitat disruption",
+      "threatens",
+      "animal diversity"
+    ],
+    [
+      "habitat loss",
+      "addresses",
+      "conservation strategies"
+    ],
+    [
+      "habitat loss",
+      "causes",
+      "coral bleaching"
+    ],
+    [
+      "habitat loss",
+      "causes",
+      "food sources"
+    ],
+    [
+      "habitat loss",
+      "causes",
+      "habitat disruption"
+    ],
+    [
+      "habitat loss",
+      "causes",
+      "wildlife stress"
+    ],
+    [
+      "habitat loss",
+      "contributes to",
+      "biodiversity decline"
+    ],
+    [
+      "habitat loss",
+      "disrupts",
+      "food webs"
+    ],
+    [
+      "habitat loss",
+      "exacerbated by",
+      "environmental challenges"
+    ],
+    [
+      "habitat loss",
+      "leads to",
+      "population declines"
+    ],
+    [
+      "habitat loss",
+      "requires",
+      "conservation efforts"
+    ],
+    [
+      "habitat loss",
+      "requires",
+      "habitat management"
+    ],
+    [
+      "habitat loss",
+      "result of",
+      "wildfires"
+    ],
+    [
+      "habitat loss",
+      "results in",
+      "species range shifts"
+    ],
+    [
+      "habitat loss",
+      "threatens",
+      "animal survival"
+    ],
+    [
+      "habitat loss",
+      "threatens",
+      "koalas"
+    ],
+    [
+      "habitat management",
+      "affects",
+      "natural cycles"
+    ],
+    [
+      "habitat management",
+      "aids in",
+      "climate mitigation"
+    ],
+    [
+      "habitat management",
+      "ensures",
+      "animal survival"
+    ],
+    [
+      "habitat management",
+      "impacts",
+      "warmer temperatures"
+    ],
+    [
+      "habitat management",
+      "informs",
+      "conservation strategies"
+    ],
+    [
+      "habitat management",
+      "is addressed by",
+      "animal extinction"
+    ],
+    [
+      "habitat management",
+      "is influenced by",
+      "animal welfare"
+    ],
+    [
+      "habitat management",
+      "is managed by",
+      "global temperatures"
+    ],
+    [
+      "habitat management",
+      "managed by",
+      "food sources"
+    ],
+    [
+      "habitat management",
+      "managed by",
+      "greenhouse gas emissions"
+    ],
+    [
+      "habitat management",
+      "managed by",
+      "polar bears"
+    ],
+    [
+      "habitat management",
+      "promotes",
+      "animal diversity"
+    ],
+    [
+      "habitat management",
+      "requires",
+      "urgent action"
+    ],
+    [
+      "habitat preservation",
+      "addresses",
+      "environmental challenges"
+    ],
+    [
+      "habitat preservation",
+      "benefits from",
+      "warmer temperatures"
+    ],
+    [
+      "habitat preservation",
+      "enhanced by",
+      "ecosystem resilience"
+    ],
+    [
+      "habitat preservation",
+      "enhances",
+      "reproductive success"
+    ],
+    [
+      "habitat preservation",
+      "ensured by",
+      "ecological balance"
+    ],
+    [
+      "habitat preservation",
+      "ensures",
+      "animal survival"
+    ],
+    [
+      "habitat preservation",
+      "ensures",
+      "ecosystem protection"
+    ],
+    [
+      "habitat preservation",
+      "improves",
+      "animal well-being"
+    ],
+    [
+      "habitat preservation",
+      "increases",
+      "wildlife stress"
+    ],
+    [
+      "habitat preservation",
+      "influences",
+      "natural cycles"
+    ],
+    [
+      "habitat preservation",
+      "is aimed at",
+      "habitat destruction"
+    ],
+    [
+      "habitat preservation",
+      "is part of",
+      "conservation efforts"
+    ],
+    [
+      "habitat preservation",
+      "promotes",
+      "environmental sustainability"
+    ],
+    [
+      "habitat preservation",
+      "requires",
+      "habitat loss"
+    ],
+    [
+      "habitat preservation",
+      "requires",
+      "urgent action"
+    ],
+    [
+      "habitat preservation",
+      "results from",
+      "ecosystem alteration"
+    ],
+    [
+      "habitat preservation",
+      "supports",
+      "climate mitigation"
+    ],
+    [
+      "habitat preservation",
+      "supports",
+      "conservation strategies"
+    ],
+    [
+      "habitat preservation",
+      "supports",
+      "coral bleaching"
+    ],
+    [
+      "habitat preservation",
+      "supports",
+      "food and water access"
+    ],
+    [
+      "habitat preservation",
+      "supports",
+      "global temperatures"
+    ],
+    [
+      "koalas",
+      "affects",
+      "animal well-being"
+    ],
+    [
+      "koalas",
+      "affects",
+      "climate crisis"
+    ],
+    [
+      "koalas",
+      "affects",
+      "food and water access"
+    ],
+    [
+      "koalas",
+      "benefits from",
+      "biodiversity protection"
+    ],
+    [
+      "koalas",
+      "benefits from",
+      "conservation strategies"
+    ],
+    [
+      "koalas",
+      "benefits from",
+      "ecosystem resilience"
+    ],
+    [
+      "koalas",
+      "contributes to",
+      "animal diversity"
+    ],
+    [
+      "koalas",
+      "is impacted by",
+      "ecosystem health"
+    ],
+    [
+      "koalas",
+      "is threatened by",
+      "species survival"
+    ],
+    [
+      "koalas",
+      "requires",
+      "ecosystem protection"
+    ],
+    [
+      "koalas",
+      "requires",
+      "urgent action"
+    ],
+    [
+      "koalas",
+      "threatens",
+      "animal survival"
+    ],
+    [
+      "koalas",
+      "threatens",
+      "extreme weather"
+    ],
+    [
+      "koalas",
+      "threatens",
+      "white-nose syndrome"
+    ],
+    [
+      "natural cycles",
+      "causes",
+      "population declines"
+    ],
+    [
+      "natural cycles",
+      "is determined by",
+      "ecosystem health"
+    ],
+    [
+      "natural cycles",
+      "is supported by",
+      "ecosystem resilience"
+    ],
+    [
+      "natural cycles",
+      "supports",
+      "ecosystem protection"
+    ],
+    [
+      "parasitic outbreaks",
+      "causes",
+      "habitat disruption"
+    ],
+    [
+      "polar bears",
+      "affects",
+      "animal well-being"
+    ],
+    [
+      "polar bears",
+      "affects",
+      "food webs"
+    ],
+    [
+      "polar bears",
+      "affects",
+      "reproductive success"
+    ],
+    [
+      "polar bears",
+      "benefits from",
+      "habitat conservation"
+    ],
+    [
+      "polar bears",
+      "contributes to",
+      "animal diversity"
+    ],
+    [
+      "polar bears",
+      "depends on",
+      "ecosystem health"
+    ],
+    [
+      "polar bears",
+      "depends on",
+      "sea ice"
+    ],
+    [
+      "polar bears",
+      "exacerbates",
+      "white-nose syndrome"
+    ],
+    [
+      "polar bears",
+      "impacts",
+      "extreme weather"
+    ],
+    [
+      "polar bears",
+      "increases",
+      "warmer temperatures"
+    ],
+    [
+      "polar bears",
+      "is threatened by",
+      "greenhouse gas emissions"
+    ],
+    [
+      "polar bears",
+      "promotes",
+      "climate mitigation"
+    ],
+    [
+      "polar bears",
+      "results in",
+      "animal displacement"
+    ],
+    [
+      "population declines",
+      "causes",
+      "ecological threats"
+    ],
+    [
+      "population declines",
+      "causes",
+      "ecosystem protection"
+    ],
+    [
+      "population declines",
+      "contributes to",
+      "climate action"
+    ],
+    [
+      "population declines",
+      "resulting in",
+      "animal populations"
+    ],
+    [
+      "population declines",
+      "results in",
+      "sea ice"
+    ],
+    [
+      "reproductive success",
+      "enhances",
+      "climate mitigation"
+    ],
+    [
+      "reproductive success",
+      "enhances",
+      "habitat conservation"
+    ],
+    [
+      "reproductive success",
+      "impacts",
+      "climate impacts"
+    ],
+    [
+      "reproductive success",
+      "impacts",
+      "ecosystem impacts"
+    ],
+    [
+      "reproductive success",
+      "influences",
+      "animal well-being"
+    ],
+    [
+      "reproductive success",
+      "influences",
+      "ecosystem health"
+    ],
+    [
+      "reproductive success",
+      "influences",
+      "food webs"
+    ],
+    [
+      "reproductive success",
+      "is enhanced by",
+      "fish populations"
+    ],
+    [
+      "reproductive success",
+      "is influenced by",
+      "sea ice"
+    ],
+    [
+      "sea ice",
+      "affects",
+      "animal displacement"
+    ],
+    [
+      "sea ice",
+      "affects",
+      "climate action"
+    ],
+    [
+      "sea ice",
+      "affects",
+      "climate mitigation"
+    ],
+    [
+      "sea ice",
+      "affects",
+      "global temperatures"
+    ],
+    [
+      "sea ice",
+      "causes",
+      "wildlife stress"
+    ],
+    [
+      "sea ice",
+      "causes loss of",
+      "habitat destruction"
+    ],
+    [
+      "sea ice",
+      "depends on",
+      "animal migration"
+    ],
+    [
+      "sea ice",
+      "depends on",
+      "animal populations"
+    ],
+    [
+      "sea ice",
+      "disrupted by",
+      "habitat disruption"
+    ],
+    [
+      "sea ice",
+      "enhances",
+      "ecosystem resilience"
+    ],
+    [
+      "sea ice",
+      "impacted by",
+      "animal welfare"
+    ],
+    [
+      "sea ice",
+      "is affected by",
+      "ecological balance"
+    ],
+    [
+      "sea ice",
+      "is affected by",
+      "environmental sustainability"
+    ],
+    [
+      "sea ice",
+      "is crucial for",
+      "habitat conservation"
+    ],
+    [
+      "sea ice",
+      "is vital for",
+      "animal survival"
+    ],
+    [
+      "sea ice",
+      "results in",
+      "biodiversity decline"
+    ],
+    [
+      "sea ice",
+      "supports",
+      "biodiversity protection"
+    ],
+    [
+      "sea ice",
+      "supports",
+      "habitat preservation"
+    ],
+    [
+      "sea ice",
+      "threatened by",
+      "animal extinction"
+    ],
+    [
+      "sea ice",
+      "threatens",
+      "species survival"
+    ],
+    [
+      "species adaptation",
+      "affects",
+      "animal populations"
+    ],
+    [
+      "species adaptation",
+      "affects",
+      "ecosystem alteration"
+    ],
+    [
+      "species adaptation",
+      "affects",
+      "ecosystem impacts"
+    ],
+    [
+      "species adaptation",
+      "enhances",
+      "ecosystem health"
+    ],
+    [
+      "species adaptation",
+      "enhances",
+      "ecosystem protection"
+    ],
+    [
+      "species adaptation",
+      "influences",
+      "breeding seasons"
+    ],
+    [
+      "species adaptation",
+      "influences",
+      "food webs"
+    ],
+    [
+      "species adaptation",
+      "involves",
+      "habitat management"
+    ],
+    [
+      "species adaptation",
+      "is influenced by",
+      "natural cycles"
+    ],
+    [
+      "species adaptation",
+      "leads to",
+      "animal displacement"
+    ],
+    [
+      "species adaptation",
+      "leads to",
+      "species range shifts"
+    ],
+    [
+      "species adaptation",
+      "requires",
+      "conservation strategies"
+    ],
+    [
+      "species range shifts",
+      "affects",
+      "sea ice"
+    ],
+    [
+      "species range shifts",
+      "influences",
+      "conservation strategies"
+    ],
+    [
+      "species range shifts",
+      "influences",
+      "ecosystem impacts"
+    ],
+    [
+      "species range shifts",
+      "is influenced by",
+      "climate mitigation"
+    ],
+    [
+      "species range shifts",
+      "is influenced by",
+      "environmental conditions"
+    ],
+    [
+      "species range shifts",
+      "requires",
+      "adaptation strategies"
+    ],
+    [
+      "species range shifts",
+      "requires",
+      "ecosystem protection"
+    ],
+    [
+      "species range shifts",
+      "requires",
+      "habitat conservation"
+    ],
+    [
+      "species range shifts",
+      "requires",
+      "habitat management"
+    ],
+    [
+      "species range shifts",
+      "results in",
+      "animal displacement"
+    ],
+    [
+      "species survival",
+      "depends on",
+      "ecosystem resilience"
+    ],
+    [
+      "species survival",
+      "depends on",
+      "environmental sustainability"
+    ],
+    [
+      "species survival",
+      "depends on",
+      "fish populations"
+    ],
+    [
+      "species survival",
+      "is essential for",
+      "climate mitigation"
+    ],
+    [
+      "species survival",
+      "is reliant on",
+      "climate action"
+    ],
+    [
+      "species survival",
+      "is threatened by",
+      "animal populations"
+    ],
+    [
+      "species survival",
+      "supports",
+      "ecosystem health"
+    ],
+    [
+      "species survival",
+      "threatens",
+      "coral bleaching"
+    ],
+    [
+      "species survival",
+      "threatens",
+      "ecosystem impacts"
+    ],
+    [
+      "species survival",
+      "threatens",
+      "fungal disease"
+    ],
+    [
+      "temperature rise",
+      "affected by",
+      "ecosystem alteration"
+    ],
+    [
+      "temperature rise",
+      "causes",
+      "devastating effects"
+    ],
+    [
+      "temperature rise",
+      "influences",
+      "behavior changes"
+    ],
+    [
+      "urgent action",
+      "causes",
+      "parasitic outbreaks"
+    ],
+    [
+      "urgent action",
+      "ensures",
+      "animal survival"
+    ],
+    [
+      "urgent action",
+      "is influenced by",
+      "food webs"
+    ],
+    [
+      "urgent action",
+      "is necessary for",
+      "habitat conservation"
+    ],
+    [
+      "urgent action",
+      "is supported by",
+      "habitat management"
+    ],
+    [
+      "urgent action",
+      "requires",
+      "food and water access"
+    ],
+    [
+      "urgent action",
+      "results in",
+      "population declines"
+    ],
+    [
+      "warmer temperatures",
+      "affects",
+      "fish populations"
+    ],
+    [
+      "warmer temperatures",
+      "causes",
+      "ecosystem impacts"
+    ],
+    [
+      "warmer temperatures",
+      "causes",
+      "extreme weather"
+    ],
+    [
+      "warmer temperatures",
+      "causes",
+      "habitat disruption"
+    ],
+    [
+      "warmer temperatures",
+      "contributes to",
+      "fungal disease"
+    ],
+    [
+      "warmer temperatures",
+      "is influenced by",
+      "climate impacts"
+    ],
+    [
+      "warmer temperatures",
+      "reduces",
+      "sea ice"
+    ],
+    [
+      "warmer temperatures",
+      "supports",
+      "food shortages"
+    ],
+    [
+      "warmer temperatures",
+      "threatens",
+      "biodiversity protection"
+    ],
+    [
+      "weather patterns",
+      "increases",
+      "temperature rise"
+    ],
+    [
+      "weather patterns",
+      "triggers",
+      "behavior changes"
+    ],
+    [
+      "white-nose syndrome",
+      "affects",
+      "animal welfare"
+    ],
+    [
+      "white-nose syndrome",
+      "affects",
+      "species survival"
+    ],
+    [
+      "white-nose syndrome",
+      "exacerbated by",
+      "ecosystem resilience"
+    ],
+    [
+      "white-nose syndrome",
+      "is linked to",
+      "food and water access"
+    ],
+    [
+      "white-nose syndrome",
+      "leads to",
+      "animal health"
+    ],
+    [
+      "white-nose syndrome",
+      "linked to",
+      "climate crisis"
+    ],
+    [
+      "wildfires",
+      "affects",
+      "koalas"
+    ],
+    [
+      "wildfires",
+      "causes",
+      "habitat destruction"
+    ],
+    [
+      "wildfires",
+      "causes",
+      "parasitic outbreaks"
+    ],
+    [
+      "wildfires",
+      "causes",
+      "population declines"
+    ],
+    [
+      "wildfires",
+      "causes",
+      "wildlife stress"
+    ],
+    [
+      "wildfires",
+      "contributes to",
+      "environmental challenges"
+    ],
+    [
+      "wildfires",
+      "contributes to",
+      "habitat loss"
+    ],
+    [
+      "wildfires",
+      "exacerbates",
+      "climate action"
+    ],
+    [
+      "wildfires",
+      "leads to",
+      "food shortages"
+    ],
+    [
+      "wildfires",
+      "necessitates",
+      "biodiversity protection"
+    ],
+    [
+      "wildfires",
+      "reduces",
+      "animal diversity"
+    ],
+    [
+      "wildfires",
+      "reduces",
+      "fish populations"
+    ],
+    [
+      "wildfires",
+      "requires",
+      "habitat preservation"
+    ],
+    [
+      "wildfires",
+      "threatens",
+      "species survival"
+    ],
+    [
+      "wildlife stress",
+      "affects",
+      "animal welfare"
+    ],
+    [
+      "wildlife stress",
+      "causes",
+      "climate crisis"
+    ],
+    [
+      "wildlife stress",
+      "causes",
+      "climate mitigation"
+    ],
+    [
+      "wildlife stress",
+      "causes",
+      "global temperatures"
+    ],
+    [
+      "wildlife stress",
+      "contributes to",
+      "population declines"
+    ],
+    [
+      "wildlife stress",
+      "demands",
+      "urgent action"
+    ],
+    [
+      "wildlife stress",
+      "impacts",
+      "species survival"
+    ],
+    [
+      "wildlife stress",
+      "increases",
+      "fish populations"
+    ],
+    [
+      "wildlife stress",
+      "increases",
+      "greenhouse gas emissions"
+    ],
+    [
+      "wildlife stress",
+      "is caused by",
+      "food and water access"
+    ],
+    [
+      "wildlife stress",
+      "is linked to",
+      "white-nose syndrome"
+    ],
+    [
+      "wildlife stress",
+      "mitigates",
+      "habitat management"
+    ],
+    [
+      "wildlife stress",
+      "requires",
+      "ecosystem protection"
+    ],
+    [
+      "wildlife stress",
+      "results in",
+      "conservation strategies"
+    ],
+    [
+      "wildlife stress",
+      "threatens",
+      "animal survival"
+    ]
+  ],
+  "edges": [
+    "addresses",
+    "affected by",
+    "affects",
+    "aids in",
+    "aims to counter",
+    "aims to prevent",
+    "aims to protect",
+    "alters",
+    "benefits",
+    "benefits from",
+    "caused by",
+    "causes",
+    "causes loss of",
+    "compromised by",
+    "contributes to",
+    "creates",
+    "demands",
+    "depends on",
+    "disrupted by",
+    "disrupts",
+    "drives",
+    "enhanced by",
+    "enhances",
+    "ensured by",
+    "ensures",
+    "exacerbated by",
+    "exacerbates",
+    "faces",
+    "facilitated by",
+    "facilitates",
+    "guides",
+    "impacted by",
+    "impacts",
+    "improves",
+    "increases",
+    "induces",
+    "influenced by",
+    "influences",
+    "informs",
+    "involves",
+    "is a consequence of",
+    "is a result of",
+    "is addressed by",
+    "is affected by",
+    "is aimed at",
+    "is altered by",
+    "is caused by",
+    "is crucial for",
+    "is dependent on",
+    "is determined by",
+    "is disrupted by",
+    "is enhanced by",
+    "is essential for",
+    "is exacerbated by",
+    "is impacted by",
+    "is improved by",
+    "is influenced by",
+    "is linked to",
+    "is managed by",
+    "is necessary for",
+    "is part of",
+    "is protected by",
+    "is reliant on",
+    "is supported by",
+    "is threatened by",
+    "is vital for",
+    "leads to",
+    "limits",
+    "linked to",
+    "managed by",
+    "mitigated by",
+    "mitigates",
+    "necessitates",
+    "promoted by",
+    "promotes",
+    "protects",
+    "reduces",
+    "requires",
+    "result of",
+    "resulting in",
+    "results from",
+    "results in",
+    "supported by",
+    "supports",
+    "threatened by",
+    "threatens",
+    "triggers"
+  ]
+}

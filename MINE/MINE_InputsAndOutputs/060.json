@@ -1,0 +1,6563 @@
+{
+  "entities": [
+    "action flow",
+    "artistic expression",
+    "atmosphere creation",
+    "audience engagement",
+    "audio-visual synchronization",
+    "captivating visuals",
+    "cinematic magic",
+    "coherent sequence",
+    "cohesive flow",
+    "cohesive narrative",
+    "complex ideas",
+    "continuity editing",
+    "creative editing",
+    "creative process",
+    "cross-cutting",
+    "detail orientation",
+    "dynamic storytelling",
+    "editing process",
+    "editing rhythm",
+    "editing techniques",
+    "editor's mastery",
+    "editor's vision",
+    "editorial creativity",
+    "emotional engagement",
+    "emotional evocation",
+    "emotional impact",
+    "emotional resonance",
+    "eyeline matches",
+    "film editing",
+    "filmmaking essentials",
+    "final film",
+    "flashbacks",
+    "immersive experience",
+    "initial cut",
+    "jump cuts",
+    "match cuts",
+    "meaning conveyance",
+    "montages",
+    "mood enhancement",
+    "narrative shaping",
+    "narrative structure",
+    "non-linear editing",
+    "pacing manipulation",
+    "parallel editing",
+    "psychological depth",
+    "raw footage",
+    "refining pacing",
+    "rough cut",
+    "scene depth",
+    "scene transitions",
+    "script organization",
+    "shot selection",
+    "shot-reverse-shot",
+    "sound design",
+    "sound effects",
+    "space manipulation",
+    "spatial coherence",
+    "storytelling depth",
+    "storytelling enhancement",
+    "storytelling principles",
+    "suspense creation",
+    "technical skill",
+    "temporal coherence",
+    "tension building",
+    "tension enhancement",
+    "time manipulation",
+    "transformative power",
+    "trimming footage",
+    "visual coherence",
+    "visual effects",
+    "visual juxtaposition",
+    "visual narrative",
+    "visual storytelling"
+  ],
+  "relations": [
+    [
+      "action flow",
+      "creates",
+      "cinematic magic"
+    ],
+    [
+      "action flow",
+      "enhances",
+      "montages"
+    ],
+    [
+      "action flow",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "action flow",
+      "enhances",
+      "storytelling depth"
+    ],
+    [
+      "action flow",
+      "enhances action flow with",
+      "sound effects"
+    ],
+    [
+      "action flow",
+      "ensures",
+      "cohesive narrative"
+    ],
+    [
+      "action flow",
+      "facilitates",
+      "flashbacks"
+    ],
+    [
+      "action flow",
+      "facilitates",
+      "tension building"
+    ],
+    [
+      "action flow",
+      "influences",
+      "shot selection"
+    ],
+    [
+      "action flow",
+      "involves",
+      "trimming footage"
+    ],
+    [
+      "action flow",
+      "is a result of",
+      "editorial creativity"
+    ],
+    [
+      "action flow",
+      "is achieved through",
+      "meaning conveyance"
+    ],
+    [
+      "action flow",
+      "is created through",
+      "visual juxtaposition"
+    ],
+    [
+      "action flow",
+      "is influenced by",
+      "non-linear editing"
+    ],
+    [
+      "action flow",
+      "is influenced by",
+      "sound design"
+    ],
+    [
+      "action flow",
+      "is maintained by",
+      "continuity editing"
+    ],
+    [
+      "action flow",
+      "is manipulated by",
+      "pacing manipulation"
+    ],
+    [
+      "action flow",
+      "manipulates",
+      "time manipulation"
+    ],
+    [
+      "action flow",
+      "shapes",
+      "narrative shaping"
+    ],
+    [
+      "action flow",
+      "utilizes",
+      "parallel editing"
+    ],
+    [
+      "artistic expression",
+      "achieves",
+      "spatial coherence"
+    ],
+    [
+      "artistic expression",
+      "builds",
+      "tension building"
+    ],
+    [
+      "artistic expression",
+      "conveys",
+      "psychological depth"
+    ],
+    [
+      "artistic expression",
+      "enhances",
+      "visual storytelling"
+    ],
+    [
+      "artistic expression",
+      "evokes",
+      "emotional evocation"
+    ],
+    [
+      "artistic expression",
+      "facilitates narrative shaping via",
+      "narrative shaping"
+    ],
+    [
+      "artistic expression",
+      "includes",
+      "jump cuts"
+    ],
+    [
+      "artistic expression",
+      "includes",
+      "montages"
+    ],
+    [
+      "artistic expression",
+      "influences",
+      "editing rhythm"
+    ],
+    [
+      "artistic expression",
+      "influences",
+      "emotional impact"
+    ],
+    [
+      "artistic expression",
+      "influences time manipulation through",
+      "time manipulation"
+    ],
+    [
+      "artistic expression",
+      "is a component of",
+      "sound design"
+    ],
+    [
+      "artistic expression",
+      "is a form of",
+      "film editing"
+    ],
+    [
+      "artistic expression",
+      "is achieved through",
+      "editing techniques"
+    ],
+    [
+      "artistic expression",
+      "is expressed through",
+      "narrative structure"
+    ],
+    [
+      "artistic expression",
+      "is expressed through",
+      "scene transitions"
+    ],
+    [
+      "artistic expression",
+      "is realized through",
+      "visual effects"
+    ],
+    [
+      "artistic expression",
+      "is shaped by",
+      "rough cut"
+    ],
+    [
+      "artistic expression",
+      "transforms",
+      "raw footage"
+    ],
+    [
+      "artistic expression",
+      "utilizes",
+      "parallel editing"
+    ],
+    [
+      "artistic expression",
+      "utilizes",
+      "shot-reverse-shot"
+    ],
+    [
+      "atmosphere creation",
+      "achieves",
+      "continuity editing"
+    ],
+    [
+      "atmosphere creation",
+      "contributes to",
+      "mood enhancement"
+    ],
+    [
+      "atmosphere creation",
+      "contributes to",
+      "psychological depth"
+    ],
+    [
+      "atmosphere creation",
+      "contributes to",
+      "visual juxtaposition"
+    ],
+    [
+      "atmosphere creation",
+      "conveys",
+      "complex ideas"
+    ],
+    [
+      "atmosphere creation",
+      "creates",
+      "audio-visual synchronization"
+    ],
+    [
+      "atmosphere creation",
+      "creates atmosphere through",
+      "emotional impact"
+    ],
+    [
+      "atmosphere creation",
+      "enhances",
+      "meaning conveyance"
+    ],
+    [
+      "atmosphere creation",
+      "ensures",
+      "cohesive flow"
+    ],
+    [
+      "atmosphere creation",
+      "evokes",
+      "emotional evocation"
+    ],
+    [
+      "atmosphere creation",
+      "facilitates",
+      "cross-cutting"
+    ],
+    [
+      "atmosphere creation",
+      "is achieved through",
+      "creative editing"
+    ],
+    [
+      "atmosphere creation",
+      "is achieved through",
+      "montages"
+    ],
+    [
+      "atmosphere creation",
+      "is influenced by",
+      "raw footage"
+    ],
+    [
+      "audience engagement",
+      "creates",
+      "cohesive flow"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "action flow"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "atmosphere creation"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "creative editing"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "immersive experience"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "narrative structure"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "parallel editing"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "script organization"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "sound effects"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "visual coherence"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "visual juxtaposition"
+    ],
+    [
+      "audience engagement",
+      "facilitates",
+      "meaning conveyance"
+    ],
+    [
+      "audience engagement",
+      "fosters",
+      "visual storytelling"
+    ],
+    [
+      "audience engagement",
+      "improves",
+      "storytelling enhancement"
+    ],
+    [
+      "audience engagement",
+      "influences",
+      "emotional impact"
+    ],
+    [
+      "audience engagement",
+      "influences",
+      "pacing manipulation"
+    ],
+    [
+      "audience engagement",
+      "involves",
+      "flashbacks"
+    ],
+    [
+      "audience engagement",
+      "is a result of",
+      "artistic expression"
+    ],
+    [
+      "audience engagement",
+      "is achieved through",
+      "captivating visuals"
+    ],
+    [
+      "audience engagement",
+      "is achieved through",
+      "film editing"
+    ],
+    [
+      "audience engagement",
+      "is facilitated by",
+      "transformative power"
+    ],
+    [
+      "audience engagement",
+      "is influenced by",
+      "rough cut"
+    ],
+    [
+      "audience engagement",
+      "is influenced by",
+      "space manipulation"
+    ],
+    [
+      "audience engagement",
+      "is influenced by",
+      "visual effects"
+    ],
+    [
+      "audience engagement",
+      "promotes",
+      "emotional engagement"
+    ],
+    [
+      "audience engagement",
+      "requires",
+      "detail orientation"
+    ],
+    [
+      "audience engagement",
+      "results in",
+      "coherent sequence"
+    ],
+    [
+      "audience engagement",
+      "triggers",
+      "emotional evocation"
+    ],
+    [
+      "audience engagement",
+      "utilizes",
+      "match cuts"
+    ],
+    [
+      "audio-visual synchronization",
+      "achieves psychological depth through",
+      "psychological depth"
+    ],
+    [
+      "audio-visual synchronization",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "audio-visual synchronization",
+      "enhances",
+      "shot selection"
+    ],
+    [
+      "audio-visual synchronization",
+      "is achieved through",
+      "rough cut"
+    ],
+    [
+      "audio-visual synchronization",
+      "is enhanced by",
+      "immersive experience"
+    ],
+    [
+      "audio-visual synchronization",
+      "is facilitated by",
+      "refining pacing"
+    ],
+    [
+      "audio-visual synchronization",
+      "is utilized in",
+      "montages"
+    ],
+    [
+      "audio-visual synchronization",
+      "requires",
+      "cross-cutting"
+    ],
+    [
+      "audio-visual synchronization",
+      "requires",
+      "eyeline matches"
+    ],
+    [
+      "audio-visual synchronization",
+      "requires",
+      "sound design"
+    ],
+    [
+      "audio-visual synchronization",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "captivating visuals",
+      "achieves",
+      "eyeline matches"
+    ],
+    [
+      "captivating visuals",
+      "adds",
+      "scene depth"
+    ],
+    [
+      "captivating visuals",
+      "creates",
+      "cinematic magic"
+    ],
+    [
+      "captivating visuals",
+      "creates",
+      "cohesive narrative"
+    ],
+    [
+      "captivating visuals",
+      "creates",
+      "emotional impact"
+    ],
+    [
+      "captivating visuals",
+      "creates",
+      "flashbacks"
+    ],
+    [
+      "captivating visuals",
+      "creates",
+      "jump cuts"
+    ],
+    [
+      "captivating visuals",
+      "creates",
+      "suspense creation"
+    ],
+    [
+      "captivating visuals",
+      "demonstrates",
+      "transformative power"
+    ],
+    [
+      "captivating visuals",
+      "enhances",
+      "sound design"
+    ],
+    [
+      "captivating visuals",
+      "expresses",
+      "artistic expression"
+    ],
+    [
+      "captivating visuals",
+      "facilitates",
+      "scene transitions"
+    ],
+    [
+      "captivating visuals",
+      "influences",
+      "editing rhythm"
+    ],
+    [
+      "captivating visuals",
+      "is achieved through",
+      "match cuts"
+    ],
+    [
+      "captivating visuals",
+      "is achieved through",
+      "parallel editing"
+    ],
+    [
+      "captivating visuals",
+      "is created by",
+      "montages"
+    ],
+    [
+      "captivating visuals",
+      "is guided by",
+      "storytelling principles"
+    ],
+    [
+      "captivating visuals",
+      "provides",
+      "immersive experience"
+    ],
+    [
+      "captivating visuals",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "captivating visuals",
+      "results in",
+      "shot selection"
+    ],
+    [
+      "captivating visuals",
+      "supports",
+      "dynamic storytelling"
+    ],
+    [
+      "captivating visuals",
+      "utilizes",
+      "editing techniques"
+    ],
+    [
+      "captivating visuals",
+      "utilizes",
+      "shot-reverse-shot"
+    ],
+    [
+      "cinematic magic",
+      "contributes to",
+      "artistic expression"
+    ],
+    [
+      "cinematic magic",
+      "creates",
+      "atmosphere creation"
+    ],
+    [
+      "cinematic magic",
+      "creates",
+      "audience engagement"
+    ],
+    [
+      "cinematic magic",
+      "creates",
+      "cohesive flow"
+    ],
+    [
+      "cinematic magic",
+      "creates",
+      "match cuts"
+    ],
+    [
+      "cinematic magic",
+      "creates",
+      "montages"
+    ],
+    [
+      "cinematic magic",
+      "creates",
+      "psychological depth"
+    ],
+    [
+      "cinematic magic",
+      "creates",
+      "space manipulation"
+    ],
+    [
+      "cinematic magic",
+      "creates",
+      "tension building"
+    ],
+    [
+      "cinematic magic",
+      "enables",
+      "initial cut"
+    ],
+    [
+      "cinematic magic",
+      "facilitates",
+      "emotional evocation"
+    ],
+    [
+      "cinematic magic",
+      "facilitates",
+      "meaning conveyance"
+    ],
+    [
+      "cinematic magic",
+      "involves",
+      "pacing manipulation"
+    ],
+    [
+      "cinematic magic",
+      "involves",
+      "sound design"
+    ],
+    [
+      "cinematic magic",
+      "involves",
+      "visual effects"
+    ],
+    [
+      "cinematic magic",
+      "is achieved through",
+      "cross-cutting"
+    ],
+    [
+      "cinematic magic",
+      "is achieved through",
+      "parallel editing"
+    ],
+    [
+      "cinematic magic",
+      "is achieved through",
+      "visual juxtaposition"
+    ],
+    [
+      "cinematic magic",
+      "is created by",
+      "suspense creation"
+    ],
+    [
+      "cinematic magic",
+      "is realized through",
+      "editor's vision"
+    ],
+    [
+      "cinematic magic",
+      "produces",
+      "emotional impact"
+    ],
+    [
+      "cinematic magic",
+      "transforms",
+      "raw footage"
+    ],
+    [
+      "coherent sequence",
+      "creates",
+      "atmosphere creation"
+    ],
+    [
+      "coherent sequence",
+      "creates",
+      "cohesive flow"
+    ],
+    [
+      "coherent sequence",
+      "creates",
+      "cohesive narrative"
+    ],
+    [
+      "coherent sequence",
+      "creates",
+      "montages"
+    ],
+    [
+      "coherent sequence",
+      "depends on",
+      "detail orientation"
+    ],
+    [
+      "coherent sequence",
+      "enhances",
+      "sound design"
+    ],
+    [
+      "coherent sequence",
+      "enhances",
+      "storytelling enhancement"
+    ],
+    [
+      "coherent sequence",
+      "ensures",
+      "spatial coherence"
+    ],
+    [
+      "coherent sequence",
+      "facilitates",
+      "cross-cutting"
+    ],
+    [
+      "coherent sequence",
+      "improves",
+      "mood enhancement"
+    ],
+    [
+      "coherent sequence",
+      "is a result of",
+      "creative process"
+    ],
+    [
+      "coherent sequence",
+      "is a technique of",
+      "parallel editing"
+    ],
+    [
+      "coherent sequence",
+      "is achieved through",
+      "shot-reverse-shot"
+    ],
+    [
+      "coherent sequence",
+      "is derived from",
+      "raw footage"
+    ],
+    [
+      "coherent sequence",
+      "is derived from",
+      "rough cut"
+    ],
+    [
+      "coherent sequence",
+      "is established by",
+      "eyeline matches"
+    ],
+    [
+      "coherent sequence",
+      "is related to",
+      "visual juxtaposition"
+    ],
+    [
+      "coherent sequence",
+      "is structured by",
+      "final film"
+    ],
+    [
+      "coherent sequence",
+      "is structured by",
+      "visual storytelling"
+    ],
+    [
+      "coherent sequence",
+      "maintains",
+      "continuity editing"
+    ],
+    [
+      "coherent sequence",
+      "requires",
+      "audio-visual synchronization"
+    ],
+    [
+      "coherent sequence",
+      "results in",
+      "creative editing"
+    ],
+    [
+      "coherent sequence",
+      "results in",
+      "refining pacing"
+    ],
+    [
+      "coherent sequence",
+      "supports",
+      "storytelling principles"
+    ],
+    [
+      "coherent sequence",
+      "utilizes",
+      "jump cuts"
+    ],
+    [
+      "coherent sequence",
+      "utilizes",
+      "match cuts"
+    ],
+    [
+      "cohesive flow",
+      "contributes to",
+      "parallel editing"
+    ],
+    [
+      "cohesive flow",
+      "creates",
+      "match cuts"
+    ],
+    [
+      "cohesive flow",
+      "facilitates",
+      "narrative structure"
+    ],
+    [
+      "cohesive flow",
+      "improves",
+      "shot-reverse-shot"
+    ],
+    [
+      "cohesive flow",
+      "is supported by",
+      "emotional engagement"
+    ],
+    [
+      "cohesive flow",
+      "shapes",
+      "narrative shaping"
+    ],
+    [
+      "cohesive flow",
+      "supports",
+      "sound design"
+    ],
+    [
+      "cohesive narrative",
+      "achieved through",
+      "match cuts"
+    ],
+    [
+      "cohesive narrative",
+      "achieves editing rhythm for",
+      "editing rhythm"
+    ],
+    [
+      "cohesive narrative",
+      "contributes to",
+      "psychological depth"
+    ],
+    [
+      "cohesive narrative",
+      "contributes to",
+      "scene depth"
+    ],
+    [
+      "cohesive narrative",
+      "creates",
+      "non-linear editing"
+    ],
+    [
+      "cohesive narrative",
+      "creates",
+      "suspense creation"
+    ],
+    [
+      "cohesive narrative",
+      "demands",
+      "technical skill"
+    ],
+    [
+      "cohesive narrative",
+      "ensures",
+      "continuity editing"
+    ],
+    [
+      "cohesive narrative",
+      "evokes",
+      "emotional evocation"
+    ],
+    [
+      "cohesive narrative",
+      "facilitates",
+      "scene transitions"
+    ],
+    [
+      "cohesive narrative",
+      "involves",
+      "narrative shaping"
+    ],
+    [
+      "cohesive narrative",
+      "is achieved by",
+      "film editing"
+    ],
+    [
+      "cohesive narrative",
+      "is defined by",
+      "initial cut"
+    ],
+    [
+      "cohesive narrative",
+      "is employed in",
+      "editing techniques"
+    ],
+    [
+      "cohesive narrative",
+      "is shaped by",
+      "sound design"
+    ],
+    [
+      "cohesive narrative",
+      "utilizes",
+      "shot-reverse-shot"
+    ],
+    [
+      "complex ideas",
+      "conveys",
+      "psychological depth"
+    ],
+    [
+      "complex ideas",
+      "engages audience with",
+      "audience engagement"
+    ],
+    [
+      "complex ideas",
+      "enhances",
+      "refining pacing"
+    ],
+    [
+      "complex ideas",
+      "illustrates",
+      "shot-reverse-shot"
+    ],
+    [
+      "complex ideas",
+      "influences",
+      "sound design"
+    ],
+    [
+      "complex ideas",
+      "informs",
+      "storytelling principles"
+    ],
+    [
+      "complex ideas",
+      "is achieved through",
+      "continuity editing"
+    ],
+    [
+      "complex ideas",
+      "is conveyed through",
+      "narrative shaping"
+    ],
+    [
+      "complex ideas",
+      "is illustrated by",
+      "coherent sequence"
+    ],
+    [
+      "complex ideas",
+      "is illustrated by",
+      "match cuts"
+    ],
+    [
+      "complex ideas",
+      "is influenced by",
+      "visual coherence"
+    ],
+    [
+      "continuity editing",
+      "contrasts with",
+      "non-linear editing"
+    ],
+    [
+      "continuity editing",
+      "contributes to",
+      "narrative shaping"
+    ],
+    [
+      "continuity editing",
+      "employs",
+      "match cuts"
+    ],
+    [
+      "continuity editing",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "continuity editing",
+      "facilitates",
+      "captivating visuals"
+    ],
+    [
+      "continuity editing",
+      "involves",
+      "final film"
+    ],
+    [
+      "continuity editing",
+      "is achieved through",
+      "immersive experience"
+    ],
+    [
+      "continuity editing",
+      "is enhanced by",
+      "visual effects"
+    ],
+    [
+      "continuity editing",
+      "is guided by",
+      "storytelling principles"
+    ],
+    [
+      "continuity editing",
+      "is maintained by",
+      "visual narrative"
+    ],
+    [
+      "continuity editing",
+      "is part of",
+      "editing techniques"
+    ],
+    [
+      "continuity editing",
+      "is supported by",
+      "suspense creation"
+    ],
+    [
+      "continuity editing",
+      "provides",
+      "psychological depth"
+    ],
+    [
+      "continuity editing",
+      "supports",
+      "audio-visual synchronization"
+    ],
+    [
+      "continuity editing",
+      "supports",
+      "sound effects"
+    ],
+    [
+      "continuity editing",
+      "supports",
+      "time manipulation"
+    ],
+    [
+      "continuity editing",
+      "utilizes",
+      "flashbacks"
+    ],
+    [
+      "continuity editing",
+      "utilizes",
+      "space manipulation"
+    ],
+    [
+      "creative editing",
+      "achieved through",
+      "visual juxtaposition"
+    ],
+    [
+      "creative editing",
+      "achieves",
+      "temporal coherence"
+    ],
+    [
+      "creative editing",
+      "complements",
+      "parallel editing"
+    ],
+    [
+      "creative editing",
+      "creates",
+      "cohesive flow"
+    ],
+    [
+      "creative editing",
+      "creates",
+      "cohesive narrative"
+    ],
+    [
+      "creative editing",
+      "employs",
+      "eyeline matches"
+    ],
+    [
+      "creative editing",
+      "enhances",
+      "film editing"
+    ],
+    [
+      "creative editing",
+      "enhances",
+      "psychological depth"
+    ],
+    [
+      "creative editing",
+      "enhances",
+      "visual effects"
+    ],
+    [
+      "creative editing",
+      "ensures",
+      "spatial coherence"
+    ],
+    [
+      "creative editing",
+      "evokes",
+      "emotional evocation"
+    ],
+    [
+      "creative editing",
+      "evokes",
+      "emotional impact"
+    ],
+    [
+      "creative editing",
+      "expresses",
+      "complex ideas"
+    ],
+    [
+      "creative editing",
+      "facilitates",
+      "meaning conveyance"
+    ],
+    [
+      "creative editing",
+      "facilitates",
+      "scene transitions"
+    ],
+    [
+      "creative editing",
+      "facilitates",
+      "suspense creation"
+    ],
+    [
+      "creative editing",
+      "improves",
+      "visual coherence"
+    ],
+    [
+      "creative editing",
+      "includes",
+      "jump cuts"
+    ],
+    [
+      "creative editing",
+      "incorporates",
+      "continuity editing"
+    ],
+    [
+      "creative editing",
+      "informs",
+      "storytelling principles"
+    ],
+    [
+      "creative editing",
+      "involves",
+      "cross-cutting"
+    ],
+    [
+      "creative editing",
+      "involves",
+      "editing process"
+    ],
+    [
+      "creative editing",
+      "involves",
+      "editing techniques"
+    ],
+    [
+      "creative editing",
+      "involves trimming footage for",
+      "trimming footage"
+    ],
+    [
+      "creative editing",
+      "is based on",
+      "raw footage"
+    ],
+    [
+      "creative editing",
+      "is enhanced by",
+      "sound design"
+    ],
+    [
+      "creative editing",
+      "is enhanced by",
+      "visual storytelling"
+    ],
+    [
+      "creative editing",
+      "organizes",
+      "script organization"
+    ],
+    [
+      "creative editing",
+      "utilizes",
+      "flashbacks"
+    ],
+    [
+      "creative editing",
+      "utilizes",
+      "storytelling depth"
+    ],
+    [
+      "creative process",
+      "conveys",
+      "complex ideas"
+    ],
+    [
+      "creative process",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "creative process",
+      "enhances",
+      "scene depth"
+    ],
+    [
+      "creative process",
+      "evokes",
+      "emotional evocation"
+    ],
+    [
+      "creative process",
+      "guides",
+      "editor's vision"
+    ],
+    [
+      "creative process",
+      "involves",
+      "continuity editing"
+    ],
+    [
+      "creative process",
+      "involves",
+      "eyeline matches"
+    ],
+    [
+      "creative process",
+      "involves",
+      "match cuts"
+    ],
+    [
+      "creative process",
+      "involves",
+      "trimming footage"
+    ],
+    [
+      "creative process",
+      "is part of",
+      "montages"
+    ],
+    [
+      "creative process",
+      "requires",
+      "detail orientation"
+    ],
+    [
+      "cross-cutting",
+      "complements",
+      "montages"
+    ],
+    [
+      "cross-cutting",
+      "conveys",
+      "emotional evocation"
+    ],
+    [
+      "cross-cutting",
+      "enhanced by",
+      "final film"
+    ],
+    [
+      "cross-cutting",
+      "enhances",
+      "raw footage"
+    ],
+    [
+      "cross-cutting",
+      "enhances",
+      "scene depth"
+    ],
+    [
+      "cross-cutting",
+      "ensures",
+      "cohesive flow"
+    ],
+    [
+      "cross-cutting",
+      "illustrates",
+      "complex ideas"
+    ],
+    [
+      "cross-cutting",
+      "includes",
+      "match cuts"
+    ],
+    [
+      "cross-cutting",
+      "involves",
+      "trimming footage"
+    ],
+    [
+      "cross-cutting",
+      "is a method of",
+      "continuity editing"
+    ],
+    [
+      "cross-cutting",
+      "is achieved through",
+      "shot selection"
+    ],
+    [
+      "cross-cutting",
+      "is enhanced by",
+      "cohesive narrative"
+    ],
+    [
+      "cross-cutting",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "cross-cutting",
+      "supports",
+      "storytelling principles"
+    ],
+    [
+      "cross-cutting",
+      "utilizes",
+      "refining pacing"
+    ],
+    [
+      "cross-cutting",
+      "utilizes",
+      "rough cut"
+    ],
+    [
+      "cross-cutting",
+      "utilizes",
+      "shot-reverse-shot"
+    ],
+    [
+      "detail orientation",
+      "enhances",
+      "meaning conveyance"
+    ],
+    [
+      "detail orientation",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "detail orientation",
+      "evokes",
+      "emotional evocation"
+    ],
+    [
+      "detail orientation",
+      "requires",
+      "scene transitions"
+    ],
+    [
+      "detail orientation",
+      "requires",
+      "spatial coherence"
+    ],
+    [
+      "detail orientation",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "detail orientation",
+      "requires detail orientation for",
+      "action flow"
+    ],
+    [
+      "detail orientation",
+      "requires detail orientation for",
+      "transformative power"
+    ],
+    [
+      "dynamic storytelling",
+      "creates",
+      "emotional resonance"
+    ],
+    [
+      "dynamic storytelling",
+      "enables",
+      "montages"
+    ],
+    [
+      "dynamic storytelling",
+      "enhances",
+      "storytelling depth"
+    ],
+    [
+      "dynamic storytelling",
+      "enhances",
+      "storytelling enhancement"
+    ],
+    [
+      "dynamic storytelling",
+      "evokes",
+      "emotional evocation"
+    ],
+    [
+      "dynamic storytelling",
+      "involves",
+      "editorial creativity"
+    ],
+    [
+      "dynamic storytelling",
+      "involves",
+      "shot selection"
+    ],
+    [
+      "dynamic storytelling",
+      "is a form of",
+      "film editing"
+    ],
+    [
+      "dynamic storytelling",
+      "is achieved through",
+      "continuity editing"
+    ],
+    [
+      "dynamic storytelling",
+      "is achieved through",
+      "suspense creation"
+    ],
+    [
+      "dynamic storytelling",
+      "is characterized by",
+      "visual storytelling"
+    ],
+    [
+      "dynamic storytelling",
+      "is developed from",
+      "rough cut"
+    ],
+    [
+      "dynamic storytelling",
+      "is enhanced by",
+      "editing techniques"
+    ],
+    [
+      "dynamic storytelling",
+      "is facilitated by",
+      "visual juxtaposition"
+    ],
+    [
+      "dynamic storytelling",
+      "is influenced by",
+      "editing rhythm"
+    ],
+    [
+      "dynamic storytelling",
+      "is influenced by",
+      "pacing manipulation"
+    ],
+    [
+      "dynamic storytelling",
+      "is influenced by",
+      "time manipulation"
+    ],
+    [
+      "dynamic storytelling",
+      "is related to",
+      "temporal coherence"
+    ],
+    [
+      "dynamic storytelling",
+      "organizes",
+      "script organization"
+    ],
+    [
+      "dynamic storytelling",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "dynamic storytelling",
+      "results in",
+      "coherent sequence"
+    ],
+    [
+      "dynamic storytelling",
+      "utilizes",
+      "eyeline matches"
+    ],
+    [
+      "dynamic storytelling",
+      "utilizes",
+      "match cuts"
+    ],
+    [
+      "dynamic storytelling",
+      "utilizes",
+      "shot-reverse-shot"
+    ],
+    [
+      "editing process",
+      "adds",
+      "scene depth"
+    ],
+    [
+      "editing process",
+      "affects",
+      "emotional impact"
+    ],
+    [
+      "editing process",
+      "creates",
+      "cohesive narrative"
+    ],
+    [
+      "editing process",
+      "enables",
+      "scene transitions"
+    ],
+    [
+      "editing process",
+      "includes",
+      "montages"
+    ],
+    [
+      "editing process",
+      "includes",
+      "parallel editing"
+    ],
+    [
+      "editing process",
+      "informs",
+      "creative process"
+    ],
+    [
+      "editing process",
+      "involves",
+      "editorial creativity"
+    ],
+    [
+      "editing process",
+      "involves",
+      "shot selection"
+    ],
+    [
+      "editing process",
+      "involves",
+      "shot-reverse-shot"
+    ],
+    [
+      "editing process",
+      "is part of",
+      "initial cut"
+    ],
+    [
+      "editing process",
+      "is part of",
+      "narrative shaping"
+    ],
+    [
+      "editing process",
+      "produces",
+      "rough cut"
+    ],
+    [
+      "editing process",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "editing process",
+      "utilizes",
+      "match cuts"
+    ],
+    [
+      "editing process",
+      "utilizes cross-cutting in",
+      "cross-cutting"
+    ],
+    [
+      "editing rhythm",
+      "affects",
+      "psychological depth"
+    ],
+    [
+      "editing rhythm",
+      "contributes to",
+      "atmosphere creation"
+    ],
+    [
+      "editing rhythm",
+      "evokes",
+      "emotional evocation"
+    ],
+    [
+      "editing rhythm",
+      "facilitates",
+      "scene transitions"
+    ],
+    [
+      "editing rhythm",
+      "increases",
+      "suspense creation"
+    ],
+    [
+      "editing rhythm",
+      "influences",
+      "parallel editing"
+    ],
+    [
+      "editing rhythm",
+      "involves",
+      "editing process"
+    ],
+    [
+      "editing rhythm",
+      "is characterized by",
+      "continuity editing"
+    ],
+    [
+      "editing rhythm",
+      "is influenced by",
+      "storytelling depth"
+    ],
+    [
+      "editing rhythm",
+      "reflects",
+      "editorial creativity"
+    ],
+    [
+      "editing techniques",
+      "achieved through",
+      "emotional evocation"
+    ],
+    [
+      "editing techniques",
+      "affects",
+      "emotional impact"
+    ],
+    [
+      "editing techniques",
+      "contributes to",
+      "visual coherence"
+    ],
+    [
+      "editing techniques",
+      "conveys",
+      "complex ideas"
+    ],
+    [
+      "editing techniques",
+      "creates",
+      "emotional resonance"
+    ],
+    [
+      "editing techniques",
+      "demonstrates",
+      "editorial creativity"
+    ],
+    [
+      "editing techniques",
+      "enables",
+      "meaning conveyance"
+    ],
+    [
+      "editing techniques",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "editing techniques",
+      "facilitates",
+      "suspense creation"
+    ],
+    [
+      "editing techniques",
+      "guides",
+      "storytelling principles"
+    ],
+    [
+      "editing techniques",
+      "includes",
+      "cross-cutting"
+    ],
+    [
+      "editing techniques",
+      "includes",
+      "final film"
+    ],
+    [
+      "editing techniques",
+      "includes",
+      "match cuts"
+    ],
+    [
+      "editing techniques",
+      "includes",
+      "parallel editing"
+    ],
+    [
+      "editing techniques",
+      "involves",
+      "shot selection"
+    ],
+    [
+      "editing techniques",
+      "involves",
+      "visual juxtaposition"
+    ],
+    [
+      "editing techniques",
+      "is achieved through",
+      "immersive experience"
+    ],
+    [
+      "editing techniques",
+      "is characterized by",
+      "temporal coherence"
+    ],
+    [
+      "editing techniques",
+      "is influenced by",
+      "audience engagement"
+    ],
+    [
+      "editing techniques",
+      "is informed by",
+      "initial cut"
+    ],
+    [
+      "editing techniques",
+      "requires",
+      "audio-visual synchronization"
+    ],
+    [
+      "editing techniques",
+      "shapes",
+      "narrative shaping"
+    ],
+    [
+      "editor's mastery",
+      "contributes to",
+      "mood enhancement"
+    ],
+    [
+      "editor's mastery",
+      "creates",
+      "cinematic magic"
+    ],
+    [
+      "editor's mastery",
+      "creates",
+      "editing rhythm"
+    ],
+    [
+      "editor's mastery",
+      "creates",
+      "emotional resonance"
+    ],
+    [
+      "editor's mastery",
+      "deepens",
+      "storytelling depth"
+    ],
+    [
+      "editor's mastery",
+      "demonstrates",
+      "editorial creativity"
+    ],
+    [
+      "editor's mastery",
+      "demonstrates",
+      "rough cut"
+    ],
+    [
+      "editor's mastery",
+      "enables",
+      "emotional evocation"
+    ],
+    [
+      "editor's mastery",
+      "enhances",
+      "audience engagement"
+    ],
+    [
+      "editor's mastery",
+      "enhances",
+      "sound design"
+    ],
+    [
+      "editor's mastery",
+      "ensures",
+      "temporal coherence"
+    ],
+    [
+      "editor's mastery",
+      "facilitates",
+      "meaning conveyance"
+    ],
+    [
+      "editor's mastery",
+      "facilitates",
+      "scene transitions"
+    ],
+    [
+      "editor's mastery",
+      "improves",
+      "refining pacing"
+    ],
+    [
+      "editor's mastery",
+      "informs",
+      "storytelling principles"
+    ],
+    [
+      "editor's mastery",
+      "informs narrative structure with",
+      "narrative structure"
+    ],
+    [
+      "editor's mastery",
+      "involves",
+      "editing techniques"
+    ],
+    [
+      "editor's mastery",
+      "involves",
+      "montages"
+    ],
+    [
+      "editor's mastery",
+      "involves",
+      "shot selection"
+    ],
+    [
+      "editor's mastery",
+      "involves",
+      "space manipulation"
+    ],
+    [
+      "editor's mastery",
+      "involves",
+      "visual effects"
+    ],
+    [
+      "editor's mastery",
+      "is achieved through",
+      "suspense creation"
+    ],
+    [
+      "editor's mastery",
+      "provides",
+      "transformative power"
+    ],
+    [
+      "editor's mastery",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "editor's mastery",
+      "results in",
+      "captivating visuals"
+    ],
+    [
+      "editor's mastery",
+      "results in",
+      "cohesive narrative"
+    ],
+    [
+      "editor's mastery",
+      "utilizes",
+      "non-linear editing"
+    ],
+    [
+      "editor's mastery",
+      "utilizes",
+      "visual juxtaposition"
+    ],
+    [
+      "editor's vision",
+      "adds to",
+      "scene depth"
+    ],
+    [
+      "editor's vision",
+      "conveys",
+      "complex ideas"
+    ],
+    [
+      "editor's vision",
+      "ensures",
+      "temporal coherence"
+    ],
+    [
+      "editor's vision",
+      "facilitates",
+      "meaning conveyance"
+    ],
+    [
+      "editor's vision",
+      "facilitates",
+      "suspense creation"
+    ],
+    [
+      "editor's vision",
+      "guides",
+      "editing process"
+    ],
+    [
+      "editor's vision",
+      "guides",
+      "raw footage"
+    ],
+    [
+      "editor's vision",
+      "guides",
+      "storytelling principles"
+    ],
+    [
+      "editor's vision",
+      "improves",
+      "mood enhancement"
+    ],
+    [
+      "editor's vision",
+      "influences",
+      "narrative structure"
+    ],
+    [
+      "editor's vision",
+      "influences",
+      "tension building"
+    ],
+    [
+      "editor's vision",
+      "informs",
+      "filmmaking essentials"
+    ],
+    [
+      "editor's vision",
+      "informs",
+      "shot selection"
+    ],
+    [
+      "editor's vision",
+      "informs",
+      "visual effects"
+    ],
+    [
+      "editor's vision",
+      "informs",
+      "visual juxtaposition"
+    ],
+    [
+      "editor's vision",
+      "informs",
+      "visual storytelling"
+    ],
+    [
+      "editor's vision",
+      "involves",
+      "time manipulation"
+    ],
+    [
+      "editor's vision",
+      "involves",
+      "trimming footage"
+    ],
+    [
+      "editor's vision",
+      "is guided by",
+      "match cuts"
+    ],
+    [
+      "editor's vision",
+      "is realized through",
+      "continuity editing"
+    ],
+    [
+      "editor's vision",
+      "is shaped by",
+      "audience engagement"
+    ],
+    [
+      "editor's vision",
+      "reflects",
+      "flashbacks"
+    ],
+    [
+      "editor's vision",
+      "reflects",
+      "montages"
+    ],
+    [
+      "editor's vision",
+      "shapes",
+      "emotional impact"
+    ],
+    [
+      "editor's vision",
+      "shapes",
+      "narrative shaping"
+    ],
+    [
+      "editor's vision",
+      "utilizes",
+      "cross-cutting"
+    ],
+    [
+      "editorial creativity",
+      "demonstrates",
+      "creative editing"
+    ],
+    [
+      "emotional engagement",
+      "affects",
+      "editing rhythm"
+    ],
+    [
+      "emotional engagement",
+      "contributes to",
+      "psychological depth"
+    ],
+    [
+      "emotional engagement",
+      "contributes to",
+      "storytelling enhancement"
+    ],
+    [
+      "emotional engagement",
+      "enhances",
+      "non-linear editing"
+    ],
+    [
+      "emotional engagement",
+      "enhances",
+      "spatial coherence"
+    ],
+    [
+      "emotional engagement",
+      "enhances",
+      "tension enhancement"
+    ],
+    [
+      "emotional engagement",
+      "enhances",
+      "visual storytelling"
+    ],
+    [
+      "emotional engagement",
+      "enhances mood through",
+      "mood enhancement"
+    ],
+    [
+      "emotional engagement",
+      "ensures",
+      "temporal coherence"
+    ],
+    [
+      "emotional engagement",
+      "facilitates",
+      "meaning conveyance"
+    ],
+    [
+      "emotional engagement",
+      "fosters",
+      "emotional resonance"
+    ],
+    [
+      "emotional engagement",
+      "influences",
+      "sound design"
+    ],
+    [
+      "emotional engagement",
+      "involves",
+      "editing techniques"
+    ],
+    [
+      "emotional engagement",
+      "involves",
+      "film editing"
+    ],
+    [
+      "emotional engagement",
+      "involves",
+      "filmmaking essentials"
+    ],
+    [
+      "emotional engagement",
+      "is achieved through",
+      "visual narrative"
+    ],
+    [
+      "emotional engagement",
+      "is enhanced by",
+      "complex ideas"
+    ],
+    [
+      "emotional engagement",
+      "is enhanced by",
+      "time manipulation"
+    ],
+    [
+      "emotional engagement",
+      "is facilitated by",
+      "match cuts"
+    ],
+    [
+      "emotional engagement",
+      "is influenced by",
+      "creative process"
+    ],
+    [
+      "emotional engagement",
+      "leads to",
+      "immersive experience"
+    ],
+    [
+      "emotional engagement",
+      "promotes",
+      "cohesive narrative"
+    ],
+    [
+      "emotional engagement",
+      "promotes",
+      "shot selection"
+    ],
+    [
+      "emotional engagement",
+      "requires",
+      "audio-visual synchronization"
+    ],
+    [
+      "emotional engagement",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "emotional engagement",
+      "shapes",
+      "narrative shaping"
+    ],
+    [
+      "emotional engagement",
+      "supports",
+      "visual juxtaposition"
+    ],
+    [
+      "emotional engagement",
+      "utilizes",
+      "continuity editing"
+    ],
+    [
+      "emotional evocation",
+      "demands",
+      "editorial creativity"
+    ],
+    [
+      "emotional evocation",
+      "evoked by",
+      "emotional impact"
+    ],
+    [
+      "emotional impact",
+      "creates",
+      "psychological depth"
+    ],
+    [
+      "emotional impact",
+      "enhances",
+      "audio-visual synchronization"
+    ],
+    [
+      "emotional impact",
+      "influences",
+      "complex ideas"
+    ],
+    [
+      "emotional impact",
+      "influences",
+      "flashbacks"
+    ],
+    [
+      "emotional impact",
+      "influences emotional impact through",
+      "creative process"
+    ],
+    [
+      "emotional impact",
+      "is influenced by",
+      "spatial coherence"
+    ],
+    [
+      "emotional impact",
+      "is related to",
+      "temporal coherence"
+    ],
+    [
+      "emotional impact",
+      "is shaped by",
+      "editorial creativity"
+    ],
+    [
+      "emotional impact",
+      "is shaped by",
+      "shot selection"
+    ],
+    [
+      "emotional impact",
+      "shapes",
+      "narrative shaping"
+    ],
+    [
+      "emotional impact",
+      "shapes",
+      "raw footage"
+    ],
+    [
+      "emotional resonance",
+      "achieves",
+      "parallel editing"
+    ],
+    [
+      "emotional resonance",
+      "enhances",
+      "cross-cutting"
+    ],
+    [
+      "emotional resonance",
+      "enhances",
+      "meaning conveyance"
+    ],
+    [
+      "emotional resonance",
+      "evokes",
+      "captivating visuals"
+    ],
+    [
+      "emotional resonance",
+      "evokes emotional resonance through",
+      "film editing"
+    ],
+    [
+      "emotional resonance",
+      "facilitates",
+      "scene transitions"
+    ],
+    [
+      "emotional resonance",
+      "influences",
+      "editing rhythm"
+    ],
+    [
+      "emotional resonance",
+      "is achieved through emotional resonance in",
+      "immersive experience"
+    ],
+    [
+      "emotional resonance",
+      "is built through",
+      "tension building"
+    ],
+    [
+      "emotional resonance",
+      "is derived from",
+      "raw footage"
+    ],
+    [
+      "emotional resonance",
+      "is influenced by",
+      "action flow"
+    ],
+    [
+      "emotional resonance",
+      "is influenced by",
+      "detail orientation"
+    ],
+    [
+      "emotional resonance",
+      "is influenced by",
+      "initial cut"
+    ],
+    [
+      "emotional resonance",
+      "is influenced by",
+      "psychological depth"
+    ],
+    [
+      "emotional resonance",
+      "is linked to",
+      "suspense creation"
+    ],
+    [
+      "emotional resonance",
+      "reflects",
+      "storytelling principles"
+    ],
+    [
+      "emotional resonance",
+      "requires",
+      "audio-visual synchronization"
+    ],
+    [
+      "emotional resonance",
+      "utilizes",
+      "shot-reverse-shot"
+    ],
+    [
+      "eyeline matches",
+      "affects",
+      "emotional impact"
+    ],
+    [
+      "eyeline matches",
+      "creates",
+      "visual coherence"
+    ],
+    [
+      "eyeline matches",
+      "creates",
+      "visual effects"
+    ],
+    [
+      "eyeline matches",
+      "creates",
+      "visual juxtaposition"
+    ],
+    [
+      "eyeline matches",
+      "demonstrates editorial creativity through",
+      "editorial creativity"
+    ],
+    [
+      "eyeline matches",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "eyeline matches",
+      "enhances",
+      "storytelling principles"
+    ],
+    [
+      "eyeline matches",
+      "ensures",
+      "cohesive flow"
+    ],
+    [
+      "eyeline matches",
+      "ensures",
+      "temporal coherence"
+    ],
+    [
+      "eyeline matches",
+      "informs",
+      "final film"
+    ],
+    [
+      "eyeline matches",
+      "is a method in",
+      "editing techniques"
+    ],
+    [
+      "eyeline matches",
+      "is a technique for",
+      "time manipulation"
+    ],
+    [
+      "eyeline matches",
+      "is a technique of",
+      "continuity editing"
+    ],
+    [
+      "eyeline matches",
+      "is a technique of",
+      "cross-cutting"
+    ],
+    [
+      "eyeline matches",
+      "is a technique of",
+      "shot-reverse-shot"
+    ],
+    [
+      "eyeline matches",
+      "refines",
+      "rough cut"
+    ],
+    [
+      "eyeline matches",
+      "utilizes",
+      "non-linear editing"
+    ],
+    [
+      "film editing",
+      "achieved through",
+      "final film"
+    ],
+    [
+      "film editing",
+      "adds",
+      "scene depth"
+    ],
+    [
+      "film editing",
+      "affects",
+      "emotional impact"
+    ],
+    [
+      "film editing",
+      "contributes to",
+      "atmosphere creation"
+    ],
+    [
+      "film editing",
+      "enhances",
+      "storytelling principles"
+    ],
+    [
+      "film editing",
+      "explores",
+      "psychological depth"
+    ],
+    [
+      "film editing",
+      "facilitates",
+      "meaning conveyance"
+    ],
+    [
+      "film editing",
+      "influences",
+      "narrative structure"
+    ],
+    [
+      "film editing",
+      "involves",
+      "parallel editing"
+    ],
+    [
+      "film editing",
+      "involves",
+      "shot selection"
+    ],
+    [
+      "film editing",
+      "involves",
+      "sound design"
+    ],
+    [
+      "film editing",
+      "is a form of",
+      "editor's mastery"
+    ],
+    [
+      "film editing",
+      "is achieved through",
+      "immersive experience"
+    ],
+    [
+      "film editing",
+      "is influenced by",
+      "eyeline matches"
+    ],
+    [
+      "film editing",
+      "is sourced from",
+      "raw footage"
+    ],
+    [
+      "film editing",
+      "is utilized in",
+      "montages"
+    ],
+    [
+      "film editing",
+      "requires",
+      "audio-visual synchronization"
+    ],
+    [
+      "film editing",
+      "utilizes",
+      "continuity editing"
+    ],
+    [
+      "film editing",
+      "utilizes",
+      "match cuts"
+    ],
+    [
+      "filmmaking essentials",
+      "ensures",
+      "temporal coherence"
+    ],
+    [
+      "filmmaking essentials",
+      "includes",
+      "jump cuts"
+    ],
+    [
+      "filmmaking essentials",
+      "involves",
+      "narrative shaping"
+    ],
+    [
+      "filmmaking essentials",
+      "involves",
+      "script organization"
+    ],
+    [
+      "filmmaking essentials",
+      "involves",
+      "shot selection"
+    ],
+    [
+      "filmmaking essentials",
+      "involves",
+      "trimming footage"
+    ],
+    [
+      "filmmaking essentials",
+      "is a component of",
+      "continuity editing"
+    ],
+    [
+      "filmmaking essentials",
+      "is essential for",
+      "dynamic storytelling"
+    ],
+    [
+      "filmmaking essentials",
+      "is essential for",
+      "sound effects"
+    ],
+    [
+      "filmmaking essentials",
+      "is foundational to",
+      "narrative structure"
+    ],
+    [
+      "filmmaking essentials",
+      "provides",
+      "immersive experience"
+    ],
+    [
+      "filmmaking essentials",
+      "requires",
+      "editorial creativity"
+    ],
+    [
+      "filmmaking essentials",
+      "serves as",
+      "initial cut"
+    ],
+    [
+      "filmmaking essentials",
+      "supports",
+      "suspense creation"
+    ],
+    [
+      "final film",
+      "enhances",
+      "creative editing"
+    ],
+    [
+      "final film",
+      "is a component of",
+      "visual juxtaposition"
+    ],
+    [
+      "final film",
+      "is enhanced by",
+      "sound effects"
+    ],
+    [
+      "final film",
+      "is shaped by",
+      "non-linear editing"
+    ],
+    [
+      "final film",
+      "is the result of",
+      "editor's mastery"
+    ],
+    [
+      "final film",
+      "results in",
+      "editing process"
+    ],
+    [
+      "final film",
+      "utilizes",
+      "jump cuts"
+    ],
+    [
+      "final film",
+      "utilizes",
+      "match cuts"
+    ],
+    [
+      "flashbacks",
+      "achieved through",
+      "temporal coherence"
+    ],
+    [
+      "flashbacks",
+      "adds",
+      "scene depth"
+    ],
+    [
+      "flashbacks",
+      "builds",
+      "tension building"
+    ],
+    [
+      "flashbacks",
+      "complements",
+      "montages"
+    ],
+    [
+      "flashbacks",
+      "contributes to",
+      "cohesive narrative"
+    ],
+    [
+      "flashbacks",
+      "conveys",
+      "complex ideas"
+    ],
+    [
+      "flashbacks",
+      "creates",
+      "cinematic magic"
+    ],
+    [
+      "flashbacks",
+      "creates",
+      "psychological depth"
+    ],
+    [
+      "flashbacks",
+      "creates",
+      "visual coherence"
+    ],
+    [
+      "flashbacks",
+      "enhances",
+      "atmosphere creation"
+    ],
+    [
+      "flashbacks",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "flashbacks",
+      "ensures",
+      "cohesive flow"
+    ],
+    [
+      "flashbacks",
+      "facilitates",
+      "scene transitions"
+    ],
+    [
+      "flashbacks",
+      "improves",
+      "detail orientation"
+    ],
+    [
+      "flashbacks",
+      "includes",
+      "editing techniques"
+    ],
+    [
+      "flashbacks",
+      "includes",
+      "final film"
+    ],
+    [
+      "flashbacks",
+      "involves",
+      "shot selection"
+    ],
+    [
+      "flashbacks",
+      "involves",
+      "sound design"
+    ],
+    [
+      "flashbacks",
+      "is a form of",
+      "editorial creativity"
+    ],
+    [
+      "flashbacks",
+      "is a technique of",
+      "film editing"
+    ],
+    [
+      "flashbacks",
+      "is achieved through",
+      "match cuts"
+    ],
+    [
+      "flashbacks",
+      "is complemented by",
+      "parallel editing"
+    ],
+    [
+      "flashbacks",
+      "is complemented by",
+      "shot-reverse-shot"
+    ],
+    [
+      "flashbacks",
+      "juxtaposes",
+      "visual juxtaposition"
+    ],
+    [
+      "flashbacks",
+      "requires",
+      "audio-visual synchronization"
+    ],
+    [
+      "flashbacks",
+      "supports",
+      "meaning conveyance"
+    ],
+    [
+      "flashbacks",
+      "supports",
+      "storytelling principles"
+    ],
+    [
+      "flashbacks",
+      "utilizes",
+      "coherent sequence"
+    ],
+    [
+      "flashbacks",
+      "utilizes",
+      "cross-cutting"
+    ],
+    [
+      "flashbacks",
+      "utilizes",
+      "visual effects"
+    ],
+    [
+      "immersive experience",
+      "adds depth to",
+      "psychological depth"
+    ],
+    [
+      "immersive experience",
+      "contributes to",
+      "artistic expression"
+    ],
+    [
+      "immersive experience",
+      "creates",
+      "creative editing"
+    ],
+    [
+      "immersive experience",
+      "creates",
+      "flashbacks"
+    ],
+    [
+      "immersive experience",
+      "creates",
+      "shot-reverse-shot"
+    ],
+    [
+      "immersive experience",
+      "enhances",
+      "scene depth"
+    ],
+    [
+      "immersive experience",
+      "facilitates",
+      "scene transitions"
+    ],
+    [
+      "immersive experience",
+      "improves",
+      "storytelling enhancement"
+    ],
+    [
+      "immersive experience",
+      "is characterized by",
+      "cohesive flow"
+    ],
+    [
+      "immersive experience",
+      "is created by",
+      "match cuts"
+    ],
+    [
+      "immersive experience",
+      "is enhanced by",
+      "visual narrative"
+    ],
+    [
+      "immersive experience",
+      "is experienced as",
+      "final film"
+    ],
+    [
+      "immersive experience",
+      "is guided by",
+      "storytelling principles"
+    ],
+    [
+      "immersive experience",
+      "results from",
+      "pacing manipulation"
+    ],
+    [
+      "immersive experience",
+      "utilizes",
+      "eyeline matches"
+    ],
+    [
+      "immersive experience",
+      "utilizes",
+      "jump cuts"
+    ],
+    [
+      "initial cut",
+      "enables",
+      "time manipulation"
+    ],
+    [
+      "initial cut",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "initial cut",
+      "expresses",
+      "complex ideas"
+    ],
+    [
+      "initial cut",
+      "facilitates",
+      "parallel editing"
+    ],
+    [
+      "initial cut",
+      "facilitates",
+      "scene transitions"
+    ],
+    [
+      "initial cut",
+      "forms",
+      "raw footage"
+    ],
+    [
+      "initial cut",
+      "informs",
+      "creative editing"
+    ],
+    [
+      "initial cut",
+      "informs",
+      "editor's vision"
+    ],
+    [
+      "initial cut",
+      "informs",
+      "script organization"
+    ],
+    [
+      "initial cut",
+      "informs",
+      "storytelling principles"
+    ],
+    [
+      "initial cut",
+      "involves",
+      "flashbacks"
+    ],
+    [
+      "initial cut",
+      "is a component of",
+      "film editing"
+    ],
+    [
+      "initial cut",
+      "is a component of",
+      "visual storytelling"
+    ],
+    [
+      "initial cut",
+      "is a product of",
+      "coherent sequence"
+    ],
+    [
+      "initial cut",
+      "is a technique for",
+      "match cuts"
+    ],
+    [
+      "initial cut",
+      "is built upon",
+      "dynamic storytelling"
+    ],
+    [
+      "initial cut",
+      "is derived from",
+      "final film"
+    ],
+    [
+      "initial cut",
+      "is part of",
+      "creative process"
+    ],
+    [
+      "initial cut",
+      "is related to",
+      "temporal coherence"
+    ],
+    [
+      "initial cut",
+      "provides",
+      "visual coherence"
+    ],
+    [
+      "initial cut",
+      "sets the stage for",
+      "atmosphere creation"
+    ],
+    [
+      "initial cut",
+      "utilizes",
+      "cross-cutting"
+    ],
+    [
+      "jump cuts",
+      "affects",
+      "editing rhythm"
+    ],
+    [
+      "jump cuts",
+      "affects",
+      "pacing manipulation"
+    ],
+    [
+      "jump cuts",
+      "compares to",
+      "eyeline matches"
+    ],
+    [
+      "jump cuts",
+      "contrasts with",
+      "continuity editing"
+    ],
+    [
+      "jump cuts",
+      "creates",
+      "atmosphere creation"
+    ],
+    [
+      "jump cuts",
+      "creates",
+      "emotional resonance"
+    ],
+    [
+      "jump cuts",
+      "enhances",
+      "scene depth"
+    ],
+    [
+      "jump cuts",
+      "enhances",
+      "tension enhancement"
+    ],
+    [
+      "jump cuts",
+      "ensures",
+      "audio-visual synchronization"
+    ],
+    [
+      "jump cuts",
+      "expresses",
+      "complex ideas"
+    ],
+    [
+      "jump cuts",
+      "improves",
+      "cohesive flow"
+    ],
+    [
+      "jump cuts",
+      "includes",
+      "editing techniques"
+    ],
+    [
+      "jump cuts",
+      "involves",
+      "film editing"
+    ],
+    [
+      "jump cuts",
+      "is a form of",
+      "cross-cutting"
+    ],
+    [
+      "jump cuts",
+      "is a form of",
+      "visual juxtaposition"
+    ],
+    [
+      "jump cuts",
+      "is a precursor to",
+      "rough cut"
+    ],
+    [
+      "jump cuts",
+      "is a technique of",
+      "parallel editing"
+    ],
+    [
+      "jump cuts",
+      "is guided by",
+      "storytelling principles"
+    ],
+    [
+      "jump cuts",
+      "is part of",
+      "creative process"
+    ],
+    [
+      "jump cuts",
+      "is part of",
+      "editing process"
+    ],
+    [
+      "jump cuts",
+      "maintains",
+      "spatial coherence"
+    ],
+    [
+      "jump cuts",
+      "precedes",
+      "initial cut"
+    ],
+    [
+      "jump cuts",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "match cuts",
+      "compares to",
+      "jump cuts"
+    ],
+    [
+      "match cuts",
+      "includes",
+      "montages"
+    ],
+    [
+      "match cuts",
+      "is a technique of",
+      "eyeline matches"
+    ],
+    [
+      "match cuts",
+      "is achieved through match cuts for",
+      "psychological depth"
+    ],
+    [
+      "match cuts",
+      "is essential for",
+      "audio-visual synchronization"
+    ],
+    [
+      "match cuts",
+      "is refined by",
+      "rough cut"
+    ],
+    [
+      "match cuts",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "match cuts",
+      "utilizes",
+      "action flow"
+    ],
+    [
+      "match cuts",
+      "utilizes",
+      "raw footage"
+    ],
+    [
+      "meaning conveyance",
+      "achieves",
+      "emotional evocation"
+    ],
+    [
+      "meaning conveyance",
+      "conveys meaning through",
+      "filmmaking essentials"
+    ],
+    [
+      "meaning conveyance",
+      "enhances",
+      "coherent sequence"
+    ],
+    [
+      "meaning conveyance",
+      "facilitates",
+      "narrative shaping"
+    ],
+    [
+      "meaning conveyance",
+      "is achieved through",
+      "continuity editing"
+    ],
+    [
+      "meaning conveyance",
+      "is conveyed by",
+      "rough cut"
+    ],
+    [
+      "meaning conveyance",
+      "is conveyed through",
+      "raw footage"
+    ],
+    [
+      "meaning conveyance",
+      "is influenced by",
+      "dynamic storytelling"
+    ],
+    [
+      "meaning conveyance",
+      "supports",
+      "technical skill"
+    ],
+    [
+      "montages",
+      "complements",
+      "sound design"
+    ],
+    [
+      "montages",
+      "contributes to",
+      "psychological depth"
+    ],
+    [
+      "montages",
+      "creates",
+      "cohesive flow"
+    ],
+    [
+      "montages",
+      "creates",
+      "raw footage"
+    ],
+    [
+      "montages",
+      "enhances",
+      "initial cut"
+    ],
+    [
+      "montages",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "montages",
+      "ensures",
+      "temporal coherence"
+    ],
+    [
+      "montages",
+      "evokes",
+      "emotional evocation"
+    ],
+    [
+      "montages",
+      "facilitates",
+      "meaning conveyance"
+    ],
+    [
+      "montages",
+      "illustrates",
+      "complex ideas"
+    ],
+    [
+      "montages",
+      "includes",
+      "final film"
+    ],
+    [
+      "montages",
+      "is a technique of",
+      "eyeline matches"
+    ],
+    [
+      "montages",
+      "is achieved through",
+      "visual coherence"
+    ],
+    [
+      "montages",
+      "is formed from",
+      "creative editing"
+    ],
+    [
+      "montages",
+      "is related to",
+      "visual juxtaposition"
+    ],
+    [
+      "montages",
+      "is utilized in",
+      "rough cut"
+    ],
+    [
+      "montages",
+      "supports",
+      "storytelling principles"
+    ],
+    [
+      "montages",
+      "utilizes",
+      "continuity editing"
+    ],
+    [
+      "mood enhancement",
+      "influences",
+      "shot-reverse-shot"
+    ],
+    [
+      "mood enhancement",
+      "utilizes",
+      "match cuts"
+    ],
+    [
+      "narrative shaping",
+      "influences",
+      "match cuts"
+    ],
+    [
+      "narrative shaping",
+      "is shaped by",
+      "editing rhythm"
+    ],
+    [
+      "narrative structure",
+      "affects",
+      "action flow"
+    ],
+    [
+      "narrative structure",
+      "demonstrates",
+      "transformative power"
+    ],
+    [
+      "narrative structure",
+      "enhances",
+      "tension enhancement"
+    ],
+    [
+      "narrative structure",
+      "ensures",
+      "visual coherence"
+    ],
+    [
+      "narrative structure",
+      "ensures temporal coherence in",
+      "temporal coherence"
+    ],
+    [
+      "narrative structure",
+      "evokes",
+      "emotional evocation"
+    ],
+    [
+      "narrative structure",
+      "forms",
+      "initial cut"
+    ],
+    [
+      "narrative structure",
+      "forms",
+      "rough cut"
+    ],
+    [
+      "narrative structure",
+      "guides",
+      "editorial creativity"
+    ],
+    [
+      "narrative structure",
+      "influences",
+      "editing rhythm"
+    ],
+    [
+      "narrative structure",
+      "influences",
+      "emotional impact"
+    ],
+    [
+      "narrative structure",
+      "influences",
+      "non-linear editing"
+    ],
+    [
+      "narrative structure",
+      "influences",
+      "pacing manipulation"
+    ],
+    [
+      "narrative structure",
+      "influences",
+      "sound design"
+    ],
+    [
+      "narrative structure",
+      "informs",
+      "creative editing"
+    ],
+    [
+      "narrative structure",
+      "informs",
+      "editing process"
+    ],
+    [
+      "narrative structure",
+      "informs",
+      "flashbacks"
+    ],
+    [
+      "narrative structure",
+      "informs",
+      "montages"
+    ],
+    [
+      "narrative structure",
+      "informs",
+      "scene depth"
+    ],
+    [
+      "narrative structure",
+      "informs",
+      "storytelling principles"
+    ],
+    [
+      "narrative structure",
+      "informs",
+      "visual storytelling"
+    ],
+    [
+      "narrative structure",
+      "is achieved through",
+      "visual juxtaposition"
+    ],
+    [
+      "narrative structure",
+      "is based on",
+      "shot-reverse-shot"
+    ],
+    [
+      "narrative structure",
+      "is essential for",
+      "continuity editing"
+    ],
+    [
+      "narrative structure",
+      "is essential for",
+      "meaning conveyance"
+    ],
+    [
+      "narrative structure",
+      "is influenced by",
+      "cross-cutting"
+    ],
+    [
+      "narrative structure",
+      "is influenced by",
+      "jump cuts"
+    ],
+    [
+      "narrative structure",
+      "is influenced by",
+      "visual effects"
+    ],
+    [
+      "narrative structure",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "narrative structure",
+      "supports",
+      "coherent sequence"
+    ],
+    [
+      "narrative structure",
+      "utilized in",
+      "parallel editing"
+    ],
+    [
+      "narrative structure",
+      "utilizes",
+      "editing techniques"
+    ],
+    [
+      "narrative structure",
+      "utilizes",
+      "eyeline matches"
+    ],
+    [
+      "narrative structure",
+      "utilizes",
+      "match cuts"
+    ],
+    [
+      "non-linear editing",
+      "affects",
+      "emotional impact"
+    ],
+    [
+      "non-linear editing",
+      "creates",
+      "immersive experience"
+    ],
+    [
+      "non-linear editing",
+      "creates",
+      "psychological depth"
+    ],
+    [
+      "non-linear editing",
+      "creates",
+      "visual coherence"
+    ],
+    [
+      "non-linear editing",
+      "creates",
+      "visual juxtaposition"
+    ],
+    [
+      "non-linear editing",
+      "enables",
+      "scene transitions"
+    ],
+    [
+      "non-linear editing",
+      "enhances",
+      "emotional resonance"
+    ],
+    [
+      "non-linear editing",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "non-linear editing",
+      "enhances",
+      "scene depth"
+    ],
+    [
+      "non-linear editing",
+      "enhances",
+      "tension enhancement"
+    ],
+    [
+      "non-linear editing",
+      "ensures",
+      "temporal coherence"
+    ],
+    [
+      "non-linear editing",
+      "facilitates",
+      "emotional evocation"
+    ],
+    [
+      "non-linear editing",
+      "includes",
+      "cross-cutting"
+    ],
+    [
+      "non-linear editing",
+      "includes",
+      "editing techniques"
+    ],
+    [
+      "non-linear editing",
+      "includes",
+      "montages"
+    ],
+    [
+      "non-linear editing",
+      "influences",
+      "captivating visuals"
+    ],
+    [
+      "non-linear editing",
+      "involves",
+      "editing process"
+    ],
+    [
+      "non-linear editing",
+      "is a form of",
+      "editorial creativity"
+    ],
+    [
+      "non-linear editing",
+      "is a type of",
+      "film editing"
+    ],
+    [
+      "non-linear editing",
+      "is achieved through",
+      "coherent sequence"
+    ],
+    [
+      "non-linear editing",
+      "is achieved through",
+      "transformative power"
+    ],
+    [
+      "non-linear editing",
+      "is part of",
+      "creative process"
+    ],
+    [
+      "non-linear editing",
+      "is refined by",
+      "initial cut"
+    ],
+    [
+      "non-linear editing",
+      "is related to",
+      "cohesive flow"
+    ],
+    [
+      "non-linear editing",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "non-linear editing",
+      "supports",
+      "storytelling enhancement"
+    ],
+    [
+      "non-linear editing",
+      "utilizes",
+      "flashbacks"
+    ],
+    [
+      "non-linear editing",
+      "utilizes",
+      "jump cuts"
+    ],
+    [
+      "non-linear editing",
+      "utilizes",
+      "raw footage"
+    ],
+    [
+      "non-linear editing",
+      "utilizes",
+      "shot-reverse-shot"
+    ],
+    [
+      "non-linear editing",
+      "utilizes",
+      "visual effects"
+    ],
+    [
+      "pacing manipulation",
+      "adds depth to",
+      "scene depth"
+    ],
+    [
+      "pacing manipulation",
+      "affects",
+      "eyeline matches"
+    ],
+    [
+      "pacing manipulation",
+      "conveys",
+      "meaning conveyance"
+    ],
+    [
+      "pacing manipulation",
+      "creates",
+      "psychological depth"
+    ],
+    [
+      "pacing manipulation",
+      "creates",
+      "suspense creation"
+    ],
+    [
+      "pacing manipulation",
+      "enhances",
+      "visual juxtaposition"
+    ],
+    [
+      "pacing manipulation",
+      "ensures",
+      "spatial coherence"
+    ],
+    [
+      "pacing manipulation",
+      "ensures",
+      "temporal coherence"
+    ],
+    [
+      "pacing manipulation",
+      "guides",
+      "editing process"
+    ],
+    [
+      "pacing manipulation",
+      "induces",
+      "emotional evocation"
+    ],
+    [
+      "pacing manipulation",
+      "influences",
+      "shot selection"
+    ],
+    [
+      "pacing manipulation",
+      "involves",
+      "trimming footage"
+    ],
+    [
+      "pacing manipulation",
+      "is achieved through",
+      "visual coherence"
+    ],
+    [
+      "pacing manipulation",
+      "is enhanced by",
+      "parallel editing"
+    ],
+    [
+      "pacing manipulation",
+      "is influenced by film editing for",
+      "film editing"
+    ],
+    [
+      "pacing manipulation",
+      "manipulates editing rhythm for",
+      "editing rhythm"
+    ],
+    [
+      "pacing manipulation",
+      "reflects",
+      "editor's vision"
+    ],
+    [
+      "pacing manipulation",
+      "requires",
+      "audio-visual synchronization"
+    ],
+    [
+      "pacing manipulation",
+      "shapes",
+      "narrative shaping"
+    ],
+    [
+      "pacing manipulation",
+      "utilizes",
+      "editing techniques"
+    ],
+    [
+      "pacing manipulation",
+      "utilizes",
+      "match cuts"
+    ],
+    [
+      "pacing manipulation",
+      "utilizes",
+      "montages"
+    ],
+    [
+      "parallel editing",
+      "achieves",
+      "visual coherence"
+    ],
+    [
+      "parallel editing",
+      "deepens",
+      "psychological depth"
+    ],
+    [
+      "parallel editing",
+      "enhanced by",
+      "rough cut"
+    ],
+    [
+      "parallel editing",
+      "enhances",
+      "emotional impact"
+    ],
+    [
+      "parallel editing",
+      "enhances",
+      "storytelling principles"
+    ],
+    [
+      "parallel editing",
+      "includes",
+      "montages"
+    ],
+    [
+      "parallel editing",
+      "is a technique for",
+      "shot-reverse-shot"
+    ],
+    [
+      "parallel editing",
+      "is a technique of",
+      "continuity editing"
+    ],
+    [
+      "parallel editing",
+      "is associated with",
+      "visual juxtaposition"
+    ],
+    [
+      "parallel editing",
+      "is derived from",
+      "raw footage"
+    ],
+    [
+      "parallel editing",
+      "is enhanced by",
+      "audience engagement"
+    ],
+    [
+      "parallel editing",
+      "is utilized in",
+      "sound design"
+    ],
+    [
+      "parallel editing",
+      "utilizes",
+      "eyeline matches"
+    ],
+    [
+      "parallel editing",
+      "utilizes",
+      "filmmaking essentials"
+    ],
+    [
+      "parallel editing",
+      "utilizes",
+      "match cuts"
+    ],
+    [
+      "psychological depth",
+      "achieved through",
+      "temporal coherence"
+    ],
+    [
+      "psychological depth",
+      "contributes to",
+      "shot selection"
+    ],
+    [
+      "psychological depth",
+      "enhanced by",
+      "jump cuts"
+    ],
+    [
+      "psychological depth",
+      "enhanced by",
+      "visual coherence"
+    ],
+    [
+      "psychological depth",
+      "enhances",
+      "eyeline matches"
+    ],
+    [
+      "psychological depth",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "psychological depth",
+      "enhances",
+      "sound design"
+    ],
+    [
+      "psychological depth",
+      "explores",
+      "narrative structure"
+    ],
+    [
+      "psychological depth",
+      "is enhanced by psychological depth in",
+      "captivating visuals"
+    ],
+    [
+      "psychological depth",
+      "is enhanced by psychological depth in",
+      "visual effects"
+    ],
+    [
+      "psychological depth",
+      "is expressed through",
+      "editorial creativity"
+    ],
+    [
+      "psychological depth",
+      "is influenced by",
+      "trimming footage"
+    ],
+    [
+      "psychological depth",
+      "provides",
+      "filmmaking essentials"
+    ],
+    [
+      "raw footage",
+      "achieves",
+      "cohesive flow"
+    ],
+    [
+      "raw footage",
+      "composed of",
+      "narrative structure"
+    ],
+    [
+      "raw footage",
+      "comprises",
+      "cohesive narrative"
+    ],
+    [
+      "raw footage",
+      "comprises",
+      "editing process"
+    ],
+    [
+      "raw footage",
+      "comprises",
+      "rough cut"
+    ],
+    [
+      "raw footage",
+      "conveys",
+      "complex ideas"
+    ],
+    [
+      "raw footage",
+      "derived from",
+      "audience engagement"
+    ],
+    [
+      "raw footage",
+      "derived from",
+      "flashbacks"
+    ],
+    [
+      "raw footage",
+      "derived from",
+      "sound effects"
+    ],
+    [
+      "raw footage",
+      "enhances",
+      "continuity editing"
+    ],
+    [
+      "raw footage",
+      "evokes",
+      "emotional evocation"
+    ],
+    [
+      "raw footage",
+      "facilitates",
+      "meaning conveyance"
+    ],
+    [
+      "raw footage",
+      "is based on",
+      "script organization"
+    ],
+    [
+      "raw footage",
+      "is composed of",
+      "montages"
+    ],
+    [
+      "raw footage",
+      "is created from",
+      "visual narrative"
+    ],
+    [
+      "raw footage",
+      "is derived from",
+      "captivating visuals"
+    ],
+    [
+      "raw footage",
+      "is derived from",
+      "dynamic storytelling"
+    ],
+    [
+      "raw footage",
+      "is derived from",
+      "editing rhythm"
+    ],
+    [
+      "raw footage",
+      "is derived from",
+      "editing techniques"
+    ],
+    [
+      "raw footage",
+      "is derived from",
+      "eyeline matches"
+    ],
+    [
+      "raw footage",
+      "is derived from",
+      "shot selection"
+    ],
+    [
+      "raw footage",
+      "is derived from",
+      "tension building"
+    ],
+    [
+      "raw footage",
+      "is derived from raw footage in",
+      "creative process"
+    ],
+    [
+      "raw footage",
+      "is improved by",
+      "trimming footage"
+    ],
+    [
+      "raw footage",
+      "is shaped by",
+      "storytelling enhancement"
+    ],
+    [
+      "raw footage",
+      "is utilized in",
+      "visual effects"
+    ],
+    [
+      "raw footage",
+      "refines",
+      "refining pacing"
+    ],
+    [
+      "raw footage",
+      "requires",
+      "audio-visual synchronization"
+    ],
+    [
+      "raw footage",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "raw footage",
+      "transforms into",
+      "visual storytelling"
+    ],
+    [
+      "raw footage",
+      "utilizes",
+      "temporal coherence"
+    ],
+    [
+      "raw footage",
+      "utilizes",
+      "visual juxtaposition"
+    ],
+    [
+      "refining pacing",
+      "achieves",
+      "cohesive flow"
+    ],
+    [
+      "refining pacing",
+      "contributes to",
+      "cohesive narrative"
+    ],
+    [
+      "refining pacing",
+      "contributes to",
+      "mood enhancement"
+    ],
+    [
+      "refining pacing",
+      "contributes to",
+      "storytelling depth"
+    ],
+    [
+      "refining pacing",
+      "demands",
+      "technical skill"
+    ],
+    [
+      "refining pacing",
+      "enhances",
+      "tension enhancement"
+    ],
+    [
+      "refining pacing",
+      "improves",
+      "montages"
+    ],
+    [
+      "refining pacing",
+      "involves",
+      "jump cuts"
+    ],
+    [
+      "refining pacing",
+      "involves",
+      "pacing manipulation"
+    ],
+    [
+      "refining pacing",
+      "involves",
+      "script organization"
+    ],
+    [
+      "refining pacing",
+      "involves",
+      "time manipulation"
+    ],
+    [
+      "refining pacing",
+      "involves",
+      "trimming footage"
+    ],
+    [
+      "refining pacing",
+      "is achieved through",
+      "non-linear editing"
+    ],
+    [
+      "refining pacing",
+      "is based on",
+      "initial cut"
+    ],
+    [
+      "refining pacing",
+      "is part of",
+      "editing process"
+    ],
+    [
+      "refining pacing",
+      "is refined by",
+      "narrative structure"
+    ],
+    [
+      "refining pacing",
+      "shapes",
+      "narrative shaping"
+    ],
+    [
+      "refining pacing",
+      "supports",
+      "tension building"
+    ],
+    [
+      "rough cut",
+      "creates",
+      "atmosphere creation"
+    ],
+    [
+      "rough cut",
+      "develops",
+      "flashbacks"
+    ],
+    [
+      "rough cut",
+      "ensures",
+      "temporal coherence"
+    ],
+    [
+      "rough cut",
+      "evokes",
+      "emotional evocation"
+    ],
+    [
+      "rough cut",
+      "evokes",
+      "emotional resonance"
+    ],
+    [
+      "rough cut",
+      "explores",
+      "complex ideas"
+    ],
+    [
+      "rough cut",
+      "improves",
+      "mood enhancement"
+    ],
+    [
+      "rough cut",
+      "informs",
+      "storytelling principles"
+    ],
+    [
+      "rough cut",
+      "is a stage of",
+      "final film"
+    ],
+    [
+      "rough cut",
+      "is associated with",
+      "filmmaking essentials"
+    ],
+    [
+      "rough cut",
+      "is built upon rough cut by",
+      "transformative power"
+    ],
+    [
+      "rough cut",
+      "is derived from",
+      "captivating visuals"
+    ],
+    [
+      "rough cut",
+      "is derived from",
+      "creative editing"
+    ],
+    [
+      "rough cut",
+      "is derived from",
+      "visual effects"
+    ],
+    [
+      "rough cut",
+      "is developed from",
+      "initial cut"
+    ],
+    [
+      "rough cut",
+      "is foundational for",
+      "film editing"
+    ],
+    [
+      "rough cut",
+      "is foundational for",
+      "storytelling depth"
+    ],
+    [
+      "rough cut",
+      "is part of",
+      "cinematic magic"
+    ],
+    [
+      "rough cut",
+      "is part of",
+      "sound effects"
+    ],
+    [
+      "rough cut",
+      "is part of",
+      "spatial coherence"
+    ],
+    [
+      "rough cut",
+      "maintains",
+      "visual coherence"
+    ],
+    [
+      "rough cut",
+      "serves as",
+      "continuity editing"
+    ],
+    [
+      "rough cut",
+      "serves as",
+      "immersive experience"
+    ],
+    [
+      "rough cut",
+      "serves as",
+      "pacing manipulation"
+    ],
+    [
+      "rough cut",
+      "supports",
+      "meaning conveyance"
+    ],
+    [
+      "scene depth",
+      "adds scene depth through",
+      "visual coherence"
+    ],
+    [
+      "scene depth",
+      "enhances",
+      "action flow"
+    ],
+    [
+      "scene depth",
+      "enhances",
+      "audio-visual synchronization"
+    ],
+    [
+      "scene depth",
+      "enhances",
+      "editorial creativity"
+    ],
+    [
+      "scene depth",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "scene depth",
+      "enhances",
+      "narrative shaping"
+    ],
+    [
+      "scene depth",
+      "enhances",
+      "sound design"
+    ],
+    [
+      "scene depth",
+      "enhances",
+      "storytelling enhancement"
+    ],
+    [
+      "scene depth",
+      "enhances",
+      "transformative power"
+    ],
+    [
+      "scene depth",
+      "enhances",
+      "visual storytelling"
+    ],
+    [
+      "scene depth",
+      "is achieved through",
+      "match cuts"
+    ],
+    [
+      "scene depth",
+      "is affected by",
+      "emotional impact"
+    ],
+    [
+      "scene transitions",
+      "conveys",
+      "meaning conveyance"
+    ],
+    [
+      "scene transitions",
+      "creates",
+      "visual juxtaposition"
+    ],
+    [
+      "scene transitions",
+      "enhances",
+      "atmosphere creation"
+    ],
+    [
+      "scene transitions",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "scene transitions",
+      "ensures",
+      "continuity editing"
+    ],
+    [
+      "scene transitions",
+      "evokes",
+      "emotional evocation"
+    ],
+    [
+      "scene transitions",
+      "facilitates",
+      "cohesive flow"
+    ],
+    [
+      "scene transitions",
+      "facilitates",
+      "cross-cutting"
+    ],
+    [
+      "scene transitions",
+      "involves",
+      "montages"
+    ],
+    [
+      "scene transitions",
+      "is derived from",
+      "raw footage"
+    ],
+    [
+      "scene transitions",
+      "is influenced by",
+      "audience engagement"
+    ],
+    [
+      "scene transitions",
+      "is influenced by",
+      "sound design"
+    ],
+    [
+      "scene transitions",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "script organization",
+      "enhances",
+      "suspense creation"
+    ],
+    [
+      "script organization",
+      "facilitates",
+      "parallel editing"
+    ],
+    [
+      "script organization",
+      "facilitates",
+      "shot selection"
+    ],
+    [
+      "script organization",
+      "guides",
+      "creative process"
+    ],
+    [
+      "script organization",
+      "guides",
+      "editor's vision"
+    ],
+    [
+      "script organization",
+      "involves",
+      "eyeline matches"
+    ],
+    [
+      "script organization",
+      "is essential for",
+      "scene transitions"
+    ],
+    [
+      "script organization",
+      "is organized by",
+      "space manipulation"
+    ],
+    [
+      "script organization",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "script organization",
+      "supports",
+      "continuity editing"
+    ],
+    [
+      "script organization",
+      "supports",
+      "narrative shaping"
+    ],
+    [
+      "script organization",
+      "utilizes",
+      "cross-cutting"
+    ],
+    [
+      "shot selection",
+      "contributes to",
+      "narrative shaping"
+    ],
+    [
+      "shot selection",
+      "conveys",
+      "meaning conveyance"
+    ],
+    [
+      "shot selection",
+      "depends on",
+      "spatial coherence"
+    ],
+    [
+      "shot selection",
+      "enhances",
+      "scene depth"
+    ],
+    [
+      "shot selection",
+      "improves",
+      "detail orientation"
+    ],
+    [
+      "shot selection",
+      "influences",
+      "visual juxtaposition"
+    ],
+    [
+      "shot selection",
+      "involves",
+      "trimming footage"
+    ],
+    [
+      "shot selection",
+      "is achieved through",
+      "immersive experience"
+    ],
+    [
+      "shot selection",
+      "results from",
+      "final film"
+    ],
+    [
+      "shot-reverse-shot",
+      "achieved through",
+      "visual coherence"
+    ],
+    [
+      "shot-reverse-shot",
+      "demonstrated by",
+      "editing rhythm"
+    ],
+    [
+      "shot-reverse-shot",
+      "enhances",
+      "film editing"
+    ],
+    [
+      "shot-reverse-shot",
+      "enhances",
+      "visual storytelling"
+    ],
+    [
+      "shot-reverse-shot",
+      "includes",
+      "editing techniques"
+    ],
+    [
+      "shot-reverse-shot",
+      "involves",
+      "script organization"
+    ],
+    [
+      "shot-reverse-shot",
+      "involves",
+      "trimming footage"
+    ],
+    [
+      "shot-reverse-shot",
+      "is a technique of",
+      "creative editing"
+    ],
+    [
+      "shot-reverse-shot",
+      "is a technique of",
+      "match cuts"
+    ],
+    [
+      "shot-reverse-shot",
+      "is a technique of",
+      "montages"
+    ],
+    [
+      "shot-reverse-shot",
+      "is achieved through",
+      "final film"
+    ],
+    [
+      "shot-reverse-shot",
+      "is utilized in",
+      "raw footage"
+    ],
+    [
+      "shot-reverse-shot",
+      "is utilized in",
+      "rough cut"
+    ],
+    [
+      "shot-reverse-shot",
+      "utilizes",
+      "audience engagement"
+    ],
+    [
+      "shot-reverse-shot",
+      "utilizes",
+      "continuity editing"
+    ],
+    [
+      "shot-reverse-shot",
+      "utilizes",
+      "initial cut"
+    ],
+    [
+      "shot-reverse-shot",
+      "utilizes",
+      "pacing manipulation"
+    ],
+    [
+      "sound design",
+      "achieves",
+      "temporal coherence"
+    ],
+    [
+      "sound design",
+      "conveys",
+      "meaning conveyance"
+    ],
+    [
+      "sound design",
+      "enhanced by",
+      "editing process"
+    ],
+    [
+      "sound design",
+      "enhanced by",
+      "eyeline matches"
+    ],
+    [
+      "sound design",
+      "enhances",
+      "editing techniques"
+    ],
+    [
+      "sound design",
+      "enhances",
+      "jump cuts"
+    ],
+    [
+      "sound design",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "sound design",
+      "enhances",
+      "visual juxtaposition"
+    ],
+    [
+      "sound design",
+      "enhances",
+      "visual storytelling"
+    ],
+    [
+      "sound design",
+      "influences",
+      "non-linear editing"
+    ],
+    [
+      "sound design",
+      "is enhanced by",
+      "initial cut"
+    ],
+    [
+      "sound design",
+      "is enhanced by",
+      "suspense creation"
+    ],
+    [
+      "sound design",
+      "is enhanced by",
+      "visual narrative"
+    ],
+    [
+      "sound design",
+      "is guided by",
+      "editor's vision"
+    ],
+    [
+      "sound design",
+      "is influenced by",
+      "shot selection"
+    ],
+    [
+      "sound design",
+      "is part of",
+      "rough cut"
+    ],
+    [
+      "sound design",
+      "is utilized in",
+      "raw footage"
+    ],
+    [
+      "sound design",
+      "shapes",
+      "narrative shaping"
+    ],
+    [
+      "sound design",
+      "utilizes",
+      "match cuts"
+    ],
+    [
+      "sound effects",
+      "affects",
+      "editing rhythm"
+    ],
+    [
+      "sound effects",
+      "affects",
+      "emotional impact"
+    ],
+    [
+      "sound effects",
+      "affects",
+      "temporal coherence"
+    ],
+    [
+      "sound effects",
+      "contrasts with",
+      "visual juxtaposition"
+    ],
+    [
+      "sound effects",
+      "contributes",
+      "visual coherence"
+    ],
+    [
+      "sound effects",
+      "contributes to",
+      "suspense creation"
+    ],
+    [
+      "sound effects",
+      "creates",
+      "atmosphere creation"
+    ],
+    [
+      "sound effects",
+      "enables",
+      "time manipulation"
+    ],
+    [
+      "sound effects",
+      "enhances",
+      "creative editing"
+    ],
+    [
+      "sound effects",
+      "enhances",
+      "editorial creativity"
+    ],
+    [
+      "sound effects",
+      "enhances",
+      "emotional resonance"
+    ],
+    [
+      "sound effects",
+      "enhances",
+      "eyeline matches"
+    ],
+    [
+      "sound effects",
+      "enhances",
+      "flashbacks"
+    ],
+    [
+      "sound effects",
+      "enhances",
+      "match cuts"
+    ],
+    [
+      "sound effects",
+      "enhances",
+      "meaning conveyance"
+    ],
+    [
+      "sound effects",
+      "enhances",
+      "montages"
+    ],
+    [
+      "sound effects",
+      "enhances sound effects with",
+      "transformative power"
+    ],
+    [
+      "sound effects",
+      "ensures",
+      "cohesive flow"
+    ],
+    [
+      "sound effects",
+      "illustrates",
+      "complex ideas"
+    ],
+    [
+      "sound effects",
+      "is part of",
+      "sound design"
+    ],
+    [
+      "sound effects",
+      "is used in",
+      "cross-cutting"
+    ],
+    [
+      "sound effects",
+      "is utilized in",
+      "initial cut"
+    ],
+    [
+      "sound effects",
+      "is utilized in",
+      "non-linear editing"
+    ],
+    [
+      "sound effects",
+      "is utilized in",
+      "shot-reverse-shot"
+    ],
+    [
+      "sound effects",
+      "requires",
+      "detail orientation"
+    ],
+    [
+      "sound effects",
+      "utilizes",
+      "coherent sequence"
+    ],
+    [
+      "space manipulation",
+      "adds",
+      "scene depth"
+    ],
+    [
+      "space manipulation",
+      "affects",
+      "emotional resonance"
+    ],
+    [
+      "space manipulation",
+      "creates",
+      "immersive experience"
+    ],
+    [
+      "space manipulation",
+      "creates",
+      "suspense creation"
+    ],
+    [
+      "space manipulation",
+      "creates",
+      "visual coherence"
+    ],
+    [
+      "space manipulation",
+      "enables",
+      "dynamic storytelling"
+    ],
+    [
+      "space manipulation",
+      "enhances",
+      "refining pacing"
+    ],
+    [
+      "space manipulation",
+      "enhances",
+      "storytelling depth"
+    ],
+    [
+      "space manipulation",
+      "ensures",
+      "temporal coherence"
+    ],
+    [
+      "space manipulation",
+      "facilitates",
+      "narrative shaping"
+    ],
+    [
+      "space manipulation",
+      "facilitates",
+      "scene transitions"
+    ],
+    [
+      "space manipulation",
+      "includes",
+      "montages"
+    ],
+    [
+      "space manipulation",
+      "influences",
+      "action flow"
+    ],
+    [
+      "space manipulation",
+      "involves",
+      "editing techniques"
+    ],
+    [
+      "space manipulation",
+      "involves",
+      "shot selection"
+    ],
+    [
+      "space manipulation",
+      "is a component of",
+      "film editing"
+    ],
+    [
+      "space manipulation",
+      "is achieved through",
+      "creative editing"
+    ],
+    [
+      "space manipulation",
+      "is achieved through",
+      "eyeline matches"
+    ],
+    [
+      "space manipulation",
+      "is part of",
+      "editing process"
+    ],
+    [
+      "space manipulation",
+      "requires",
+      "audio-visual synchronization"
+    ],
+    [
+      "space manipulation",
+      "results in",
+      "coherent sequence"
+    ],
+    [
+      "space manipulation",
+      "utilizes",
+      "flashbacks"
+    ],
+    [
+      "space manipulation",
+      "utilizes",
+      "jump cuts"
+    ],
+    [
+      "space manipulation",
+      "utilizes",
+      "shot-reverse-shot"
+    ],
+    [
+      "spatial coherence",
+      "creates",
+      "atmosphere creation"
+    ],
+    [
+      "spatial coherence",
+      "enhances",
+      "editorial creativity"
+    ],
+    [
+      "spatial coherence",
+      "enhances",
+      "scene depth"
+    ],
+    [
+      "spatial coherence",
+      "ensures",
+      "cohesive flow"
+    ],
+    [
+      "spatial coherence",
+      "ensures",
+      "flashbacks"
+    ],
+    [
+      "spatial coherence",
+      "evokes",
+      "emotional evocation"
+    ],
+    [
+      "spatial coherence",
+      "facilitates",
+      "tension building"
+    ],
+    [
+      "spatial coherence",
+      "illustrates",
+      "complex ideas"
+    ],
+    [
+      "spatial coherence",
+      "improves",
+      "mood enhancement"
+    ],
+    [
+      "spatial coherence",
+      "is essential for",
+      "filmmaking essentials"
+    ],
+    [
+      "spatial coherence",
+      "is established by",
+      "shot-reverse-shot"
+    ],
+    [
+      "spatial coherence",
+      "is influenced by",
+      "refining pacing"
+    ],
+    [
+      "spatial coherence",
+      "is influenced by",
+      "time manipulation"
+    ],
+    [
+      "spatial coherence",
+      "is shaped by",
+      "narrative shaping"
+    ],
+    [
+      "spatial coherence",
+      "is supported by",
+      "immersive experience"
+    ],
+    [
+      "spatial coherence",
+      "is supported by",
+      "tension enhancement"
+    ],
+    [
+      "spatial coherence",
+      "requires",
+      "audio-visual synchronization"
+    ],
+    [
+      "spatial coherence",
+      "supports",
+      "storytelling principles"
+    ],
+    [
+      "spatial coherence",
+      "utilizes",
+      "eyeline matches"
+    ],
+    [
+      "storytelling depth",
+      "achieves",
+      "visual juxtaposition"
+    ],
+    [
+      "storytelling depth",
+      "enables",
+      "flashbacks"
+    ],
+    [
+      "storytelling depth",
+      "enables",
+      "meaning conveyance"
+    ],
+    [
+      "storytelling depth",
+      "enhances",
+      "captivating visuals"
+    ],
+    [
+      "storytelling depth",
+      "enhances",
+      "cohesive flow"
+    ],
+    [
+      "storytelling depth",
+      "enhances",
+      "continuity editing"
+    ],
+    [
+      "storytelling depth",
+      "enhances",
+      "montages"
+    ],
+    [
+      "storytelling depth",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "storytelling depth",
+      "enhances",
+      "narrative shaping"
+    ],
+    [
+      "storytelling depth",
+      "enhances",
+      "pacing manipulation"
+    ],
+    [
+      "storytelling depth",
+      "enhances",
+      "tension enhancement"
+    ],
+    [
+      "storytelling depth",
+      "enhances",
+      "visual effects"
+    ],
+    [
+      "storytelling depth",
+      "involves",
+      "trimming footage"
+    ],
+    [
+      "storytelling depth",
+      "is a process of",
+      "film editing"
+    ],
+    [
+      "storytelling depth",
+      "is based on",
+      "storytelling principles"
+    ],
+    [
+      "storytelling depth",
+      "is enhanced by",
+      "emotional resonance"
+    ],
+    [
+      "storytelling depth",
+      "is enhanced by",
+      "parallel editing"
+    ],
+    [
+      "storytelling depth",
+      "is guided by",
+      "editor's vision"
+    ],
+    [
+      "storytelling depth",
+      "is influenced by",
+      "emotional evocation"
+    ],
+    [
+      "storytelling depth",
+      "requires",
+      "detail orientation"
+    ],
+    [
+      "storytelling depth",
+      "utilizes",
+      "editing techniques"
+    ],
+    [
+      "storytelling depth",
+      "utilizes",
+      "jump cuts"
+    ],
+    [
+      "storytelling depth",
+      "utilizes",
+      "shot-reverse-shot"
+    ],
+    [
+      "storytelling enhancement",
+      "contributes to",
+      "cohesive narrative"
+    ],
+    [
+      "storytelling enhancement",
+      "enhanced by",
+      "narrative structure"
+    ],
+    [
+      "storytelling enhancement",
+      "enhances",
+      "montages"
+    ],
+    [
+      "storytelling enhancement",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "storytelling enhancement",
+      "enhances",
+      "sound design"
+    ],
+    [
+      "storytelling enhancement",
+      "enhances",
+      "suspense creation"
+    ],
+    [
+      "storytelling enhancement",
+      "enhances storytelling through",
+      "editor's vision"
+    ],
+    [
+      "storytelling enhancement",
+      "improves",
+      "detail orientation"
+    ],
+    [
+      "storytelling enhancement",
+      "improves",
+      "editing process"
+    ],
+    [
+      "storytelling enhancement",
+      "improves",
+      "narrative shaping"
+    ],
+    [
+      "storytelling enhancement",
+      "improves",
+      "rough cut"
+    ],
+    [
+      "storytelling enhancement",
+      "improves",
+      "script organization"
+    ],
+    [
+      "storytelling enhancement",
+      "improves",
+      "spatial coherence"
+    ],
+    [
+      "storytelling enhancement",
+      "improves",
+      "trimming footage"
+    ],
+    [
+      "storytelling enhancement",
+      "involves",
+      "time manipulation"
+    ],
+    [
+      "storytelling enhancement",
+      "is guided by",
+      "storytelling principles"
+    ],
+    [
+      "storytelling enhancement",
+      "promotes",
+      "emotional evocation"
+    ],
+    [
+      "storytelling enhancement",
+      "requires",
+      "audio-visual synchronization"
+    ],
+    [
+      "storytelling enhancement",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "storytelling enhancement",
+      "utilizes",
+      "eyeline matches"
+    ],
+    [
+      "storytelling enhancement",
+      "utilizes parallel editing for",
+      "parallel editing"
+    ],
+    [
+      "storytelling principles",
+      "enhances",
+      "psychological depth"
+    ],
+    [
+      "storytelling principles",
+      "enhances",
+      "visual coherence"
+    ],
+    [
+      "storytelling principles",
+      "ensures",
+      "cohesive flow"
+    ],
+    [
+      "storytelling principles",
+      "informs",
+      "action flow"
+    ],
+    [
+      "storytelling principles",
+      "informs",
+      "editing rhythm"
+    ],
+    [
+      "storytelling principles",
+      "informs",
+      "emotional impact"
+    ],
+    [
+      "storytelling principles",
+      "informs",
+      "raw footage"
+    ],
+    [
+      "storytelling principles",
+      "informs",
+      "scene depth"
+    ],
+    [
+      "storytelling principles",
+      "informs",
+      "script organization"
+    ],
+    [
+      "storytelling principles",
+      "informs",
+      "tension enhancement"
+    ],
+    [
+      "storytelling principles",
+      "informs",
+      "transformative power"
+    ],
+    [
+      "storytelling principles",
+      "is foundational to",
+      "filmmaking essentials"
+    ],
+    [
+      "storytelling principles",
+      "is informed by",
+      "audio-visual synchronization"
+    ],
+    [
+      "storytelling principles",
+      "supports",
+      "meaning conveyance"
+    ],
+    [
+      "storytelling principles",
+      "utilizes",
+      "match cuts"
+    ],
+    [
+      "storytelling principles",
+      "utilizes",
+      "shot-reverse-shot"
+    ],
+    [
+      "suspense creation",
+      "achieved through",
+      "emotional evocation"
+    ],
+    [
+      "suspense creation",
+      "achieved through",
+      "montages"
+    ],
+    [
+      "suspense creation",
+      "achieves",
+      "meaning conveyance"
+    ],
+    [
+      "suspense creation",
+      "achieves",
+      "visual juxtaposition"
+    ],
+    [
+      "suspense creation",
+      "contributes to",
+      "mood enhancement"
+    ],
+    [
+      "suspense creation",
+      "contributes to",
+      "scene depth"
+    ],
+    [
+      "suspense creation",
+      "conveys",
+      "complex ideas"
+    ],
+    [
+      "suspense creation",
+      "is achieved through",
+      "match cuts"
+    ],
+    [
+      "suspense creation",
+      "is achieved through",
+      "temporal coherence"
+    ],
+    [
+      "suspense creation",
+      "is influenced by",
+      "coherent sequence"
+    ],
+    [
+      "suspense creation",
+      "relates to",
+      "storytelling principles"
+    ],
+    [
+      "suspense creation",
+      "requires",
+      "trimming footage"
+    ],
+    [
+      "suspense creation",
+      "supports",
+      "narrative shaping"
+    ],
+    [
+      "technical skill",
+      "contributes to",
+      "psychological depth"
+    ],
+    [
+      "technical skill",
+      "demands",
+      "montages"
+    ],
+    [
+      "technical skill",
+      "enhances",
+      "sound design"
+    ],
+    [
+      "technical skill",
+      "enhances",
+      "space manipulation"
+    ],
+    [
+      "technical skill",
+      "is applied in",
+      "shot-reverse-shot"
+    ],
+    [
+      "technical skill",
+      "is essential for",
+      "continuity editing"
+    ],
+    [
+      "technical skill",
+      "requires",
+      "coherent sequence"
+    ],
+    [
+      "technical skill",
+      "requires",
+      "editing techniques"
+    ],
+    [
+      "technical skill",
+      "requires",
+      "editor's vision"
+    ],
+    [
+      "technical skill",
+      "requires",
+      "film editing"
+    ],
+    [
+      "technical skill",
+      "requires",
+      "initial cut"
+    ],
+    [
+      "technical skill",
+      "requires",
+      "parallel editing"
+    ],
+    [
+      "technical skill",
+      "requires",
+      "rough cut"
+    ],
+    [
+      "technical skill",
+      "requires",
+      "storytelling principles"
+    ],
+    [
+      "technical skill",
+      "requires",
+      "suspense creation"
+    ],
+    [
+      "technical skill",
+      "requires",
+      "visual storytelling"
+    ],
+    [
+      "temporal coherence",
+      "contributes to",
+      "scene depth"
+    ],
+    [
+      "temporal coherence",
+      "enhances",
+      "editorial creativity"
+    ],
+    [
+      "temporal coherence",
+      "enhances",
+      "tension enhancement"
+    ],
+    [
+      "temporal coherence",
+      "ensures",
+      "final film"
+    ],
+    [
+      "temporal coherence",
+      "ensures",
+      "visual storytelling"
+    ],
+    [
+      "temporal coherence",
+      "influences",
+      "shot selection"
+    ],
+    [
+      "temporal coherence",
+      "is maintained by",
+      "coherent sequence"
+    ],
+    [
+      "temporal coherence",
+      "is maintained by",
+      "cross-cutting"
+    ],
+    [
+      "temporal coherence",
+      "is maintained through temporal coherence in",
+      "audience engagement"
+    ],
+    [
+      "temporal coherence",
+      "maintains",
+      "parallel editing"
+    ],
+    [
+      "temporal coherence",
+      "supports",
+      "storytelling principles"
+    ],
+    [
+      "tension building",
+      "achieves",
+      "visual juxtaposition"
+    ],
+    [
+      "tension building",
+      "enhances",
+      "captivating visuals"
+    ],
+    [
+      "tension building",
+      "enhances",
+      "narrative shaping"
+    ],
+    [
+      "tension building",
+      "enhances",
+      "parallel editing"
+    ],
+    [
+      "tension building",
+      "enhances",
+      "visual coherence"
+    ],
+    [
+      "tension building",
+      "facilitates",
+      "scene transitions"
+    ],
+    [
+      "tension building",
+      "improves",
+      "detail orientation"
+    ],
+    [
+      "tension building",
+      "involves",
+      "trimming footage"
+    ],
+    [
+      "tension building",
+      "is achieved through",
+      "editorial creativity"
+    ],
+    [
+      "tension building",
+      "is enhanced by",
+      "atmosphere creation"
+    ],
+    [
+      "tension building",
+      "leads to",
+      "suspense creation"
+    ],
+    [
+      "tension building",
+      "requires",
+      "audio-visual synchronization"
+    ],
+    [
+      "tension building",
+      "utilizes",
+      "cross-cutting"
+    ],
+    [
+      "tension enhancement",
+      "achieved through",
+      "continuity editing"
+    ],
+    [
+      "tension enhancement",
+      "achieved through",
+      "shot selection"
+    ],
+    [
+      "tension enhancement",
+      "benefits from",
+      "audience engagement"
+    ],
+    [
+      "tension enhancement",
+      "conveys",
+      "complex ideas"
+    ],
+    [
+      "tension enhancement",
+      "creates",
+      "cohesive narrative"
+    ],
+    [
+      "tension enhancement",
+      "enhances",
+      "audio-visual synchronization"
+    ],
+    [
+      "tension enhancement",
+      "enhances",
+      "eyeline matches"
+    ],
+    [
+      "tension enhancement",
+      "enhances",
+      "narrative shaping"
+    ],
+    [
+      "tension enhancement",
+      "enhances",
+      "parallel editing"
+    ],
+    [
+      "tension enhancement",
+      "enhances",
+      "scene transitions"
+    ],
+    [
+      "tension enhancement",
+      "enhances",
+      "sound design"
+    ],
+    [
+      "tension enhancement",
+      "enhances",
+      "visual effects"
+    ],
+    [
+      "tension enhancement",
+      "improves",
+      "editing rhythm"
+    ],
+    [
+      "tension enhancement",
+      "improves",
+      "visual coherence"
+    ],
+    [
+      "tension enhancement",
+      "involves",
+      "pacing manipulation"
+    ],
+    [
+      "tension enhancement",
+      "involves",
+      "tension building"
+    ],
+    [
+      "tension enhancement",
+      "is a component of",
+      "film editing"
+    ],
+    [
+      "tension enhancement",
+      "is a result of",
+      "cinematic magic"
+    ],
+    [
+      "tension enhancement",
+      "is achieved through",
+      "match cuts"
+    ],
+    [
+      "tension enhancement",
+      "is enhanced by",
+      "time manipulation"
+    ],
+    [
+      "tension enhancement",
+      "is influenced by",
+      "script organization"
+    ],
+    [
+      "time manipulation",
+      "creates atmosphere through",
+      "atmosphere creation"
+    ],
+    [
+      "time manipulation",
+      "facilitates",
+      "scene transitions"
+    ],
+    [
+      "time manipulation",
+      "influences",
+      "narrative shaping"
+    ],
+    [
+      "time manipulation",
+      "involves",
+      "trimming footage"
+    ],
+    [
+      "time manipulation",
+      "is achieved through",
+      "shot selection"
+    ],
+    [
+      "time manipulation",
+      "is enhanced by",
+      "parallel editing"
+    ],
+    [
+      "time manipulation",
+      "is influenced by",
+      "shot-reverse-shot"
+    ],
+    [
+      "time manipulation",
+      "requires",
+      "audio-visual synchronization"
+    ],
+    [
+      "time manipulation",
+      "requires",
+      "editorial creativity"
+    ],
+    [
+      "time manipulation",
+      "utilizes",
+      "editing techniques"
+    ],
+    [
+      "transformative power",
+      "affects",
+      "refining pacing"
+    ],
+    [
+      "transformative power",
+      "contributes to",
+      "mood enhancement"
+    ],
+    [
+      "transformative power",
+      "contributes to",
+      "tension building"
+    ],
+    [
+      "transformative power",
+      "creates",
+      "cinematic magic"
+    ],
+    [
+      "transformative power",
+      "demonstrates",
+      "cohesive narrative"
+    ],
+    [
+      "transformative power",
+      "demonstrates",
+      "match cuts"
+    ],
+    [
+      "transformative power",
+      "drives",
+      "creative process"
+    ],
+    [
+      "transformative power",
+      "enables",
+      "action flow"
+    ],
+    [
+      "transformative power",
+      "enables",
+      "editor's vision"
+    ],
+    [
+      "transformative power",
+      "enables",
+      "meaning conveyance"
+    ],
+    [
+      "transformative power",
+      "enables",
+      "shot selection"
+    ],
+    [
+      "transformative power",
+      "enhances",
+      "tension enhancement"
+    ],
+    [
+      "transformative power",
+      "involves",
+      "trimming footage"
+    ],
+    [
+      "transformative power",
+      "is a result of",
+      "editorial creativity"
+    ],
+    [
+      "transformative power",
+      "is achieved through",
+      "continuity editing"
+    ],
+    [
+      "transformative power",
+      "is achieved through",
+      "visual juxtaposition"
+    ],
+    [
+      "transformative power",
+      "is facilitated by",
+      "flashbacks"
+    ],
+    [
+      "transformative power",
+      "is influenced by",
+      "sound design"
+    ],
+    [
+      "transformative power",
+      "is realized through",
+      "editing process"
+    ],
+    [
+      "transformative power",
+      "manipulates",
+      "time manipulation"
+    ],
+    [
+      "transformative power",
+      "shapes",
+      "narrative shaping"
+    ],
+    [
+      "transformative power",
+      "utilizes",
+      "parallel editing"
+    ],
+    [
+      "trimming footage",
+      "improves",
+      "cohesive narrative"
+    ],
+    [
+      "trimming footage",
+      "involves",
+      "continuity editing"
+    ],
+    [
+      "trimming footage",
+      "involves",
+      "initial cut"
+    ],
+    [
+      "trimming footage",
+      "is a part of",
+      "filmmaking essentials"
+    ],
+    [
+      "trimming footage",
+      "is improved by",
+      "editing rhythm"
+    ],
+    [
+      "trimming footage",
+      "is improved by",
+      "visual storytelling"
+    ],
+    [
+      "trimming footage",
+      "is part of",
+      "rough cut"
+    ],
+    [
+      "trimming footage",
+      "is refined by",
+      "complex ideas"
+    ],
+    [
+      "trimming footage",
+      "is refined by",
+      "editing process"
+    ],
+    [
+      "trimming footage",
+      "is refined by",
+      "space manipulation"
+    ],
+    [
+      "trimming footage",
+      "is supported by",
+      "script organization"
+    ],
+    [
+      "trimming footage",
+      "results from",
+      "cohesive flow"
+    ],
+    [
+      "trimming footage",
+      "results from",
+      "tension enhancement"
+    ],
+    [
+      "visual coherence",
+      "affects",
+      "sound design"
+    ],
+    [
+      "visual coherence",
+      "contributes to",
+      "emotional impact"
+    ],
+    [
+      "visual coherence",
+      "contributes to",
+      "emotional resonance"
+    ],
+    [
+      "visual coherence",
+      "contributes to",
+      "jump cuts"
+    ],
+    [
+      "visual coherence",
+      "demonstrates",
+      "editorial creativity"
+    ],
+    [
+      "visual coherence",
+      "enhances",
+      "parallel editing"
+    ],
+    [
+      "visual coherence",
+      "ensures",
+      "time manipulation"
+    ],
+    [
+      "visual coherence",
+      "evokes",
+      "emotional evocation"
+    ],
+    [
+      "visual coherence",
+      "is achieved through",
+      "cross-cutting"
+    ],
+    [
+      "visual coherence",
+      "is determined by",
+      "shot selection"
+    ],
+    [
+      "visual coherence",
+      "is supported by",
+      "visual storytelling"
+    ],
+    [
+      "visual coherence",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "visual coherence",
+      "utilizes",
+      "match cuts"
+    ],
+    [
+      "visual effects",
+      "affects",
+      "editing rhythm"
+    ],
+    [
+      "visual effects",
+      "affects",
+      "emotional impact"
+    ],
+    [
+      "visual effects",
+      "contributes to",
+      "atmosphere creation"
+    ],
+    [
+      "visual effects",
+      "conveys",
+      "meaning conveyance"
+    ],
+    [
+      "visual effects",
+      "depends on",
+      "shot selection"
+    ],
+    [
+      "visual effects",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "visual effects",
+      "enhances",
+      "scene depth"
+    ],
+    [
+      "visual effects",
+      "enhances",
+      "storytelling principles"
+    ],
+    [
+      "visual effects",
+      "ensures",
+      "visual coherence"
+    ],
+    [
+      "visual effects",
+      "is a part of",
+      "initial cut"
+    ],
+    [
+      "visual effects",
+      "juxtaposes",
+      "visual juxtaposition"
+    ],
+    [
+      "visual effects",
+      "requires",
+      "audio-visual synchronization"
+    ],
+    [
+      "visual effects",
+      "requires",
+      "detail orientation"
+    ],
+    [
+      "visual effects",
+      "utilizes",
+      "match cuts"
+    ],
+    [
+      "visual juxtaposition",
+      "adds",
+      "scene depth"
+    ],
+    [
+      "visual juxtaposition",
+      "conveys",
+      "complex ideas"
+    ],
+    [
+      "visual juxtaposition",
+      "enhances",
+      "film editing"
+    ],
+    [
+      "visual juxtaposition",
+      "enhances",
+      "psychological depth"
+    ],
+    [
+      "visual juxtaposition",
+      "enhances",
+      "visual storytelling"
+    ],
+    [
+      "visual juxtaposition",
+      "enhances visual juxtaposition through",
+      "filmmaking essentials"
+    ],
+    [
+      "visual juxtaposition",
+      "evokes",
+      "emotional evocation"
+    ],
+    [
+      "visual juxtaposition",
+      "fosters",
+      "editorial creativity"
+    ],
+    [
+      "visual juxtaposition",
+      "illustrates",
+      "match cuts"
+    ],
+    [
+      "visual juxtaposition",
+      "illustrates",
+      "storytelling principles"
+    ],
+    [
+      "visual juxtaposition",
+      "is a component of",
+      "rough cut"
+    ],
+    [
+      "visual juxtaposition",
+      "is conveyed through",
+      "emotional impact"
+    ],
+    [
+      "visual juxtaposition",
+      "is enhanced by",
+      "initial cut"
+    ],
+    [
+      "visual narrative",
+      "achieved through",
+      "emotional evocation"
+    ],
+    [
+      "visual narrative",
+      "affects",
+      "emotional impact"
+    ],
+    [
+      "visual narrative",
+      "conveys",
+      "meaning conveyance"
+    ],
+    [
+      "visual narrative",
+      "creates",
+      "coherent sequence"
+    ],
+    [
+      "visual narrative",
+      "demonstrates",
+      "technical skill"
+    ],
+    [
+      "visual narrative",
+      "enhances",
+      "editorial creativity"
+    ],
+    [
+      "visual narrative",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "visual narrative",
+      "enhances",
+      "parallel editing"
+    ],
+    [
+      "visual narrative",
+      "enhances",
+      "scene depth"
+    ],
+    [
+      "visual narrative",
+      "enhances",
+      "visual effects"
+    ],
+    [
+      "visual narrative",
+      "facilitates",
+      "suspense creation"
+    ],
+    [
+      "visual narrative",
+      "influences",
+      "editing rhythm"
+    ],
+    [
+      "visual narrative",
+      "is achieved through",
+      "cohesive narrative"
+    ],
+    [
+      "visual narrative",
+      "is defined by",
+      "temporal coherence"
+    ],
+    [
+      "visual narrative",
+      "is expressed through",
+      "visual storytelling"
+    ],
+    [
+      "visual narrative",
+      "is refined by",
+      "refining pacing"
+    ],
+    [
+      "visual narrative",
+      "serves as",
+      "rough cut"
+    ],
+    [
+      "visual narrative",
+      "utilizes",
+      "editing techniques"
+    ],
+    [
+      "visual narrative",
+      "utilizes",
+      "jump cuts"
+    ],
+    [
+      "visual narrative",
+      "utilizes",
+      "non-linear editing"
+    ],
+    [
+      "visual narrative",
+      "utilizes eyeline matches for",
+      "eyeline matches"
+    ],
+    [
+      "visual storytelling",
+      "aligns with",
+      "storytelling principles"
+    ],
+    [
+      "visual storytelling",
+      "conveys",
+      "complex ideas"
+    ],
+    [
+      "visual storytelling",
+      "employs",
+      "parallel editing"
+    ],
+    [
+      "visual storytelling",
+      "enables",
+      "non-linear editing"
+    ],
+    [
+      "visual storytelling",
+      "enhances",
+      "editing process"
+    ],
+    [
+      "visual storytelling",
+      "enhances",
+      "emotional impact"
+    ],
+    [
+      "visual storytelling",
+      "enhances",
+      "meaning conveyance"
+    ],
+    [
+      "visual storytelling",
+      "enhances",
+      "mood enhancement"
+    ],
+    [
+      "visual storytelling",
+      "enhances",
+      "sound effects"
+    ],
+    [
+      "visual storytelling",
+      "enhances",
+      "tension enhancement"
+    ],
+    [
+      "visual storytelling",
+      "evokes",
+      "emotional evocation"
+    ],
+    [
+      "visual storytelling",
+      "expresses",
+      "editorial creativity"
+    ],
+    [
+      "visual storytelling",
+      "holds",
+      "transformative power"
+    ],
+    [
+      "visual storytelling",
+      "incorporates",
+      "flashbacks"
+    ],
+    [
+      "visual storytelling",
+      "is achieved through",
+      "detail orientation"
+    ],
+    [
+      "visual storytelling",
+      "is achieved through",
+      "montages"
+    ],
+    [
+      "visual storytelling",
+      "is achieved through",
+      "shot selection"
+    ],
+    [
+      "visual storytelling",
+      "is expressed through",
+      "creative process"
+    ],
+    [
+      "visual storytelling",
+      "serves as",
+      "rough cut"
+    ],
+    [
+      "visual storytelling",
+      "utilizes",
+      "cross-cutting"
+    ],
+    [
+      "visual storytelling",
+      "utilizes",
+      "jump cuts"
+    ],
+    [
+      "visual storytelling",
+      "utilizes",
+      "match cuts"
+    ]
+  ],
+  "edges": [
+    "achieved through",
+    "achieves",
+    "achieves editing rhythm for",
+    "achieves psychological depth through",
+    "adds",
+    "adds depth to",
+    "adds scene depth through",
+    "adds to",
+    "affects",
+    "aligns with",
+    "benefits from",
+    "builds",
+    "compares to",
+    "complements",
+    "composed of",
+    "comprises",
+    "contrasts with",
+    "contributes",
+    "contributes to",
+    "conveys",
+    "conveys meaning through",
+    "creates",
+    "creates atmosphere through",
+    "deepens",
+    "demands",
+    "demonstrated by",
+    "demonstrates",
+    "demonstrates editorial creativity through",
+    "depends on",
+    "derived from",
+    "develops",
+    "drives",
+    "employs",
+    "enables",
+    "engages audience with",
+    "enhanced by",
+    "enhances",
+    "enhances action flow with",
+    "enhances mood through",
+    "enhances sound effects with",
+    "enhances storytelling through",
+    "enhances visual juxtaposition through",
+    "ensures",
+    "ensures temporal coherence in",
+    "evoked by",
+    "evokes",
+    "evokes emotional resonance through",
+    "explores",
+    "expresses",
+    "facilitates",
+    "facilitates narrative shaping via",
+    "forms",
+    "fosters",
+    "guides",
+    "holds",
+    "illustrates",
+    "improves",
+    "includes",
+    "incorporates",
+    "increases",
+    "induces",
+    "influences",
+    "influences emotional impact through",
+    "influences time manipulation through",
+    "informs",
+    "informs narrative structure with",
+    "involves",
+    "involves trimming footage for",
+    "is a component of",
+    "is a form of",
+    "is a method in",
+    "is a method of",
+    "is a part of",
+    "is a precursor to",
+    "is a process of",
+    "is a product of",
+    "is a result of",
+    "is a stage of",
+    "is a technique for",
+    "is a technique of",
+    "is a type of",
+    "is achieved by",
+    "is achieved through",
+    "is achieved through emotional resonance in",
+    "is achieved through match cuts for",
+    "is affected by",
+    "is applied in",
+    "is associated with",
+    "is based on",
+    "is built through",
+    "is built upon",
+    "is built upon rough cut by",
+    "is characterized by",
+    "is complemented by",
+    "is composed of",
+    "is conveyed by",
+    "is conveyed through",
+    "is created by",
+    "is created from",
+    "is created through",
+    "is defined by",
+    "is derived from",
+    "is derived from raw footage in",
+    "is determined by",
+    "is developed from",
+    "is employed in",
+    "is enhanced by",
+    "is enhanced by psychological depth in",
+    "is essential for",
+    "is established by",
+    "is experienced as",
+    "is expressed through",
+    "is facilitated by",
+    "is formed from",
+    "is foundational for",
+    "is foundational to",
+    "is guided by",
+    "is illustrated by",
+    "is improved by",
+    "is influenced by",
+    "is influenced by film editing for",
+    "is informed by",
+    "is linked to",
+    "is maintained by",
+    "is maintained through temporal coherence in",
+    "is manipulated by",
+    "is organized by",
+    "is part of",
+    "is realized through",
+    "is refined by",
+    "is related to",
+    "is shaped by",
+    "is sourced from",
+    "is structured by",
+    "is supported by",
+    "is the result of",
+    "is used in",
+    "is utilized in",
+    "juxtaposes",
+    "leads to",
+    "maintains",
+    "manipulates",
+    "manipulates editing rhythm for",
+    "organizes",
+    "precedes",
+    "produces",
+    "promotes",
+    "provides",
+    "refines",
+    "reflects",
+    "relates to",
+    "requires",
+    "requires detail orientation for",
+    "results from",
+    "results in",
+    "serves as",
+    "sets the stage for",
+    "shapes",
+    "supports",
+    "transforms",
+    "transforms into",
+    "triggers",
+    "utilized in",
+    "utilizes",
+    "utilizes cross-cutting in",
+    "utilizes eyeline matches for",
+    "utilizes parallel editing for"
+  ]
+}

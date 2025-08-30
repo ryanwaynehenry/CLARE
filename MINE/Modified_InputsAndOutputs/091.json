@@ -1,0 +1,1606 @@
+{
+  "entities": [
+    "associations",
+    "audience engagement",
+    "audience perception",
+    "blue",
+    "brand identity",
+    "brand personality",
+    "brand positioning",
+    "brand presentation",
+    "brand recognition",
+    "brand strategy",
+    "branding",
+    "branding strategy",
+    "businesses",
+    "cleanliness",
+    "color choices",
+    "color effects",
+    "color meanings",
+    "color psychology",
+    "color significance",
+    "colors",
+    "competitive advantage",
+    "consumer behavior",
+    "consumer perceptions",
+    "context",
+    "cultural associations",
+    "cultural considerations",
+    "cultural differences",
+    "cultural factors",
+    "cultural sensitivity",
+    "cultures",
+    "death",
+    "design choices",
+    "effective branding",
+    "effective communication",
+    "emotional associations",
+    "emotional impact",
+    "emotional resonance",
+    "impulse purchases",
+    "industry context",
+    "international markets",
+    "market differentiation",
+    "marketing",
+    "marketing strategies",
+    "markets",
+    "meanings",
+    "memorable branding",
+    "mourning",
+    "perceptions",
+    "purity",
+    "target audience",
+    "trust and reliability",
+    "unique identity",
+    "visual communication",
+    "visual differentiation",
+    "visual identity",
+    "white"
+  ],
+  "relations": [
+    [
+      "associations",
+      "affects",
+      "businesses"
+    ],
+    [
+      "associations",
+      "affects",
+      "international markets"
+    ],
+    [
+      "associations",
+      "associated with",
+      "purity"
+    ],
+    [
+      "associations",
+      "contributes to",
+      "brand identity"
+    ],
+    [
+      "associations",
+      "informs",
+      "branding"
+    ],
+    [
+      "associations",
+      "informs",
+      "context"
+    ],
+    [
+      "audience engagement",
+      "affects",
+      "cultural factors"
+    ],
+    [
+      "audience engagement",
+      "builds",
+      "trust and reliability"
+    ],
+    [
+      "audience engagement",
+      "contributes to",
+      "visual differentiation"
+    ],
+    [
+      "audience engagement",
+      "engages",
+      "target audience"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "brand strategy"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "branding"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "color choices"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "emotional associations"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "emotional resonance"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "marketing"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "marketing strategies"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "memorable branding"
+    ],
+    [
+      "audience engagement",
+      "enhances",
+      "visual communication"
+    ],
+    [
+      "audience engagement",
+      "influences",
+      "cultural differences"
+    ],
+    [
+      "audience engagement",
+      "informs",
+      "meanings"
+    ],
+    [
+      "audience perception",
+      "affects",
+      "effective communication"
+    ],
+    [
+      "audience perception",
+      "contributes to",
+      "effective branding"
+    ],
+    [
+      "audience perception",
+      "creates",
+      "unique identity"
+    ],
+    [
+      "audience perception",
+      "influences",
+      "branding"
+    ],
+    [
+      "audience perception",
+      "influences",
+      "color choices"
+    ],
+    [
+      "audience perception",
+      "influences",
+      "perceptions"
+    ],
+    [
+      "audience perception",
+      "informs",
+      "target audience"
+    ],
+    [
+      "audience perception",
+      "shapes",
+      "cultural factors"
+    ],
+    [
+      "audience perception",
+      "shapes",
+      "marketing strategies"
+    ],
+    [
+      "audience perception",
+      "shapes",
+      "meanings"
+    ],
+    [
+      "blue",
+      "associated with",
+      "trust and reliability"
+    ],
+    [
+      "brand identity",
+      "associated with",
+      "death"
+    ],
+    [
+      "brand personality",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "brand personality",
+      "affects",
+      "consumer perceptions"
+    ],
+    [
+      "brand personality",
+      "influences",
+      "visual differentiation"
+    ],
+    [
+      "brand personality",
+      "reflects",
+      "visual identity"
+    ],
+    [
+      "brand personality",
+      "shapes",
+      "brand positioning"
+    ],
+    [
+      "brand personality",
+      "targets",
+      "target audience"
+    ],
+    [
+      "brand positioning",
+      "influenced by",
+      "consumer perceptions"
+    ],
+    [
+      "brand positioning",
+      "informs",
+      "markets"
+    ],
+    [
+      "brand presentation",
+      "aligns with",
+      "brand positioning"
+    ],
+    [
+      "brand presentation",
+      "establishes",
+      "unique identity"
+    ],
+    [
+      "brand presentation",
+      "influences",
+      "international markets"
+    ],
+    [
+      "brand presentation",
+      "informs",
+      "color psychology"
+    ],
+    [
+      "brand recognition",
+      "contributes to",
+      "visual differentiation"
+    ],
+    [
+      "brand recognition",
+      "enhances",
+      "branding"
+    ],
+    [
+      "brand recognition",
+      "is recognized by",
+      "associations"
+    ],
+    [
+      "brand strategy",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "brand strategy",
+      "defines",
+      "brand identity"
+    ],
+    [
+      "brand strategy",
+      "enhances",
+      "memorable branding"
+    ],
+    [
+      "brand strategy",
+      "guides",
+      "brand positioning"
+    ],
+    [
+      "brand strategy",
+      "guides",
+      "brand presentation"
+    ],
+    [
+      "brand strategy",
+      "informs",
+      "cultural considerations"
+    ],
+    [
+      "brand strategy",
+      "provides",
+      "competitive advantage"
+    ],
+    [
+      "brand strategy",
+      "targets",
+      "target audience"
+    ],
+    [
+      "branding",
+      "enhanced by",
+      "effective communication"
+    ],
+    [
+      "branding",
+      "influenced by",
+      "markets"
+    ],
+    [
+      "branding",
+      "informs",
+      "marketing"
+    ],
+    [
+      "branding",
+      "informs",
+      "marketing strategies"
+    ],
+    [
+      "branding",
+      "provides",
+      "competitive advantage"
+    ],
+    [
+      "branding",
+      "shapes",
+      "brand positioning"
+    ],
+    [
+      "branding",
+      "shapes",
+      "cultures"
+    ],
+    [
+      "branding strategy",
+      "informs",
+      "design choices"
+    ],
+    [
+      "branding strategy",
+      "provides",
+      "competitive advantage"
+    ],
+    [
+      "businesses",
+      "affects",
+      "consumer perceptions"
+    ],
+    [
+      "businesses",
+      "creates",
+      "brand identity"
+    ],
+    [
+      "businesses",
+      "enhances",
+      "brand recognition"
+    ],
+    [
+      "businesses",
+      "guides",
+      "marketing strategies"
+    ],
+    [
+      "businesses",
+      "involves",
+      "cultural considerations"
+    ],
+    [
+      "cleanliness",
+      "contrasted with",
+      "mourning"
+    ],
+    [
+      "cleanliness",
+      "influences",
+      "perceptions"
+    ],
+    [
+      "color choices",
+      "affects",
+      "impulse purchases"
+    ],
+    [
+      "color choices",
+      "determines",
+      "color effects"
+    ],
+    [
+      "color choices",
+      "enables",
+      "effective communication"
+    ],
+    [
+      "color choices",
+      "influences",
+      "colors"
+    ],
+    [
+      "color choices",
+      "informs",
+      "color psychology"
+    ],
+    [
+      "color choices",
+      "shapes",
+      "visual identity"
+    ],
+    [
+      "color effects",
+      "affects",
+      "brand recognition"
+    ],
+    [
+      "color effects",
+      "shapes",
+      "brand personality"
+    ],
+    [
+      "color effects",
+      "targets",
+      "target audience"
+    ],
+    [
+      "color psychology",
+      "affects",
+      "consumer perceptions"
+    ],
+    [
+      "color psychology",
+      "defines",
+      "brand personality"
+    ],
+    [
+      "color psychology",
+      "enhances",
+      "brand recognition"
+    ],
+    [
+      "color psychology",
+      "enhances",
+      "memorable branding"
+    ],
+    [
+      "color psychology",
+      "evokes",
+      "purity"
+    ],
+    [
+      "color psychology",
+      "explains",
+      "meanings"
+    ],
+    [
+      "color psychology",
+      "facilitates",
+      "effective communication"
+    ],
+    [
+      "color psychology",
+      "facilitates",
+      "visual communication"
+    ],
+    [
+      "color psychology",
+      "facilitates",
+      "visual differentiation"
+    ],
+    [
+      "color psychology",
+      "guides",
+      "brand positioning"
+    ],
+    [
+      "color psychology",
+      "guides",
+      "brand strategy"
+    ],
+    [
+      "color psychology",
+      "influences",
+      "context"
+    ],
+    [
+      "color psychology",
+      "shapes",
+      "brand identity"
+    ],
+    [
+      "color psychology",
+      "shapes",
+      "visual identity"
+    ],
+    [
+      "color psychology",
+      "supports",
+      "effective branding"
+    ],
+    [
+      "color significance",
+      "defines",
+      "color meanings"
+    ],
+    [
+      "color significance",
+      "informs",
+      "emotional associations"
+    ],
+    [
+      "color significance",
+      "is significant for",
+      "cleanliness"
+    ],
+    [
+      "colors",
+      "appeals to",
+      "target audience"
+    ],
+    [
+      "colors",
+      "defines",
+      "brand identity"
+    ],
+    [
+      "colors",
+      "defines",
+      "visual identity"
+    ],
+    [
+      "competitive advantage",
+      "provides",
+      "design choices"
+    ],
+    [
+      "consumer behavior",
+      "affects",
+      "cultural differences"
+    ],
+    [
+      "consumer perceptions",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "consumer perceptions",
+      "influences",
+      "brand strategy"
+    ],
+    [
+      "consumer perceptions",
+      "influences",
+      "target audience"
+    ],
+    [
+      "consumer perceptions",
+      "shaped by",
+      "mourning"
+    ],
+    [
+      "context",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "context",
+      "contextualizes",
+      "visual identity"
+    ],
+    [
+      "context",
+      "contributes to",
+      "visual differentiation"
+    ],
+    [
+      "context",
+      "influences",
+      "cultures"
+    ],
+    [
+      "context",
+      "informs",
+      "branding"
+    ],
+    [
+      "context",
+      "shaped by",
+      "emotional associations"
+    ],
+    [
+      "context",
+      "shapes",
+      "consumer perceptions"
+    ],
+    [
+      "context",
+      "shapes",
+      "cultural considerations"
+    ],
+    [
+      "cultural associations",
+      "connects",
+      "emotional associations"
+    ],
+    [
+      "cultural associations",
+      "enhances",
+      "brand recognition"
+    ],
+    [
+      "cultural associations",
+      "influences",
+      "perceptions"
+    ],
+    [
+      "cultural associations",
+      "shapes",
+      "associations"
+    ],
+    [
+      "cultural associations",
+      "shapes",
+      "unique identity"
+    ],
+    [
+      "cultural considerations",
+      "affects",
+      "brand positioning"
+    ],
+    [
+      "cultural considerations",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "cultural considerations",
+      "guides",
+      "branding"
+    ],
+    [
+      "cultural considerations",
+      "guides",
+      "marketing strategies"
+    ],
+    [
+      "cultural considerations",
+      "informs",
+      "branding strategy"
+    ],
+    [
+      "cultural considerations",
+      "informs",
+      "perceptions"
+    ],
+    [
+      "cultural considerations",
+      "provides",
+      "competitive advantage"
+    ],
+    [
+      "cultural considerations",
+      "shapes",
+      "consumer perceptions"
+    ],
+    [
+      "cultural differences",
+      "affected by",
+      "emotional associations"
+    ],
+    [
+      "cultural differences",
+      "associated with",
+      "death"
+    ],
+    [
+      "cultural differences",
+      "contrasts with",
+      "cleanliness"
+    ],
+    [
+      "cultural differences",
+      "influenced by",
+      "memorable branding"
+    ],
+    [
+      "cultural differences",
+      "influences",
+      "marketing"
+    ],
+    [
+      "cultural factors",
+      "affects",
+      "cultural differences"
+    ],
+    [
+      "cultural factors",
+      "affects",
+      "visual differentiation"
+    ],
+    [
+      "cultural factors",
+      "contributes to",
+      "memorable branding"
+    ],
+    [
+      "cultural factors",
+      "influenced by",
+      "perceptions"
+    ],
+    [
+      "cultural factors",
+      "influences",
+      "branding"
+    ],
+    [
+      "cultural factors",
+      "influences",
+      "emotional associations"
+    ],
+    [
+      "cultural factors",
+      "shapes",
+      "unique identity"
+    ],
+    [
+      "cultural factors",
+      "targets",
+      "target audience"
+    ],
+    [
+      "cultural sensitivity",
+      "influences",
+      "marketing"
+    ],
+    [
+      "cultures",
+      "affects",
+      "cleanliness"
+    ],
+    [
+      "cultures",
+      "affects",
+      "consumer perceptions"
+    ],
+    [
+      "cultures",
+      "associated with",
+      "mourning"
+    ],
+    [
+      "cultures",
+      "influences",
+      "marketing"
+    ],
+    [
+      "cultures",
+      "influences",
+      "trust and reliability"
+    ],
+    [
+      "cultures",
+      "informs",
+      "cultural considerations"
+    ],
+    [
+      "cultures",
+      "informs",
+      "target audience"
+    ],
+    [
+      "death",
+      "associated with",
+      "perceptions"
+    ],
+    [
+      "death",
+      "contrasted with",
+      "purity"
+    ],
+    [
+      "death",
+      "influences",
+      "cultural considerations"
+    ],
+    [
+      "death",
+      "influences",
+      "marketing"
+    ],
+    [
+      "design choices",
+      "informs",
+      "brand positioning"
+    ],
+    [
+      "effective branding",
+      "enables",
+      "visual differentiation"
+    ],
+    [
+      "effective branding",
+      "informs",
+      "design choices"
+    ],
+    [
+      "effective communication",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "effective communication",
+      "enhances",
+      "marketing"
+    ],
+    [
+      "effective communication",
+      "enhances",
+      "visual identity"
+    ],
+    [
+      "effective communication",
+      "influences",
+      "cultural differences"
+    ],
+    [
+      "effective communication",
+      "supports",
+      "marketing strategies"
+    ],
+    [
+      "emotional associations",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "emotional associations",
+      "enhances",
+      "brand recognition"
+    ],
+    [
+      "emotional associations",
+      "influences",
+      "brand personality"
+    ],
+    [
+      "emotional associations",
+      "influences",
+      "color effects"
+    ],
+    [
+      "emotional impact",
+      "affects",
+      "color effects"
+    ],
+    [
+      "emotional impact",
+      "affects",
+      "visual identity"
+    ],
+    [
+      "emotional impact",
+      "creates",
+      "memorable branding"
+    ],
+    [
+      "emotional impact",
+      "enhances",
+      "brand recognition"
+    ],
+    [
+      "emotional impact",
+      "influences",
+      "color psychology"
+    ],
+    [
+      "emotional impact",
+      "influences",
+      "colors"
+    ],
+    [
+      "emotional impact",
+      "influences",
+      "cultural factors"
+    ],
+    [
+      "emotional impact",
+      "shapes",
+      "brand personality"
+    ],
+    [
+      "emotional impact",
+      "shapes",
+      "brand strategy"
+    ],
+    [
+      "emotional impact",
+      "shapes",
+      "cultures"
+    ],
+    [
+      "emotional resonance",
+      "affects",
+      "consumer perceptions"
+    ],
+    [
+      "emotional resonance",
+      "defines",
+      "brand identity"
+    ],
+    [
+      "emotional resonance",
+      "enhances",
+      "visual communication"
+    ],
+    [
+      "emotional resonance",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "emotional resonance",
+      "influences",
+      "cultural differences"
+    ],
+    [
+      "emotional resonance",
+      "influences",
+      "impulse purchases"
+    ],
+    [
+      "emotional resonance",
+      "is influenced by",
+      "color psychology"
+    ],
+    [
+      "impulse purchases",
+      "contributes to",
+      "brand identity"
+    ],
+    [
+      "impulse purchases",
+      "drives",
+      "color effects"
+    ],
+    [
+      "impulse purchases",
+      "drives",
+      "target audience"
+    ],
+    [
+      "impulse purchases",
+      "encourages",
+      "cleanliness"
+    ],
+    [
+      "impulse purchases",
+      "encourages",
+      "color psychology"
+    ],
+    [
+      "industry context",
+      "affects",
+      "consumer perceptions"
+    ],
+    [
+      "industry context",
+      "affects",
+      "emotional impact"
+    ],
+    [
+      "industry context",
+      "influences",
+      "audience engagement"
+    ],
+    [
+      "industry context",
+      "informs",
+      "marketing"
+    ],
+    [
+      "industry context",
+      "requires",
+      "cultural sensitivity"
+    ],
+    [
+      "industry context",
+      "shapes",
+      "brand personality"
+    ],
+    [
+      "industry context",
+      "shapes",
+      "visual identity"
+    ],
+    [
+      "international markets",
+      "guides",
+      "brand positioning"
+    ],
+    [
+      "market differentiation",
+      "drives",
+      "design choices"
+    ],
+    [
+      "market differentiation",
+      "informs",
+      "marketing strategies"
+    ],
+    [
+      "market differentiation",
+      "provides",
+      "meanings"
+    ],
+    [
+      "marketing",
+      "contextualizes",
+      "context"
+    ],
+    [
+      "marketing",
+      "influences",
+      "cultural considerations"
+    ],
+    [
+      "marketing",
+      "influences",
+      "effective branding"
+    ],
+    [
+      "marketing",
+      "shapes",
+      "brand identity"
+    ],
+    [
+      "marketing strategies",
+      "guides",
+      "brand positioning"
+    ],
+    [
+      "marketing strategies",
+      "guides",
+      "branding strategy"
+    ],
+    [
+      "marketing strategies",
+      "improves",
+      "brand recognition"
+    ],
+    [
+      "marketing strategies",
+      "influenced by",
+      "consumer perceptions"
+    ],
+    [
+      "marketing strategies",
+      "informs",
+      "effective branding"
+    ],
+    [
+      "marketing strategies",
+      "shapes",
+      "brand identity"
+    ],
+    [
+      "markets",
+      "affects",
+      "death"
+    ],
+    [
+      "markets",
+      "influenced by",
+      "context"
+    ],
+    [
+      "markets",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "markets",
+      "influences",
+      "cultural considerations"
+    ],
+    [
+      "markets",
+      "shaped by",
+      "cultures"
+    ],
+    [
+      "markets",
+      "shaped by",
+      "perceptions"
+    ],
+    [
+      "markets",
+      "shapes",
+      "consumer perceptions"
+    ],
+    [
+      "markets",
+      "shapes",
+      "cultural differences"
+    ],
+    [
+      "meanings",
+      "associated with",
+      "cultures"
+    ],
+    [
+      "meanings",
+      "conveys",
+      "effective communication"
+    ],
+    [
+      "meanings",
+      "defined by",
+      "visual identity"
+    ],
+    [
+      "meanings",
+      "influenced by",
+      "context"
+    ],
+    [
+      "meanings",
+      "influenced by",
+      "perceptions"
+    ],
+    [
+      "meanings",
+      "informs",
+      "consumer perceptions"
+    ],
+    [
+      "meanings",
+      "reflected in",
+      "consumer behavior"
+    ],
+    [
+      "meanings",
+      "shaped by",
+      "target audience"
+    ],
+    [
+      "memorable branding",
+      "creates",
+      "brand identity"
+    ],
+    [
+      "memorable branding",
+      "creates",
+      "visual identity"
+    ],
+    [
+      "memorable branding",
+      "enhanced by",
+      "trust and reliability"
+    ],
+    [
+      "memorable branding",
+      "is essential for",
+      "international markets"
+    ],
+    [
+      "memorable branding",
+      "shapes",
+      "brand personality"
+    ],
+    [
+      "mourning",
+      "affects",
+      "cultural considerations"
+    ],
+    [
+      "mourning",
+      "associated with",
+      "associations"
+    ],
+    [
+      "mourning",
+      "associated with",
+      "emotional associations"
+    ],
+    [
+      "mourning",
+      "contributes to",
+      "unique identity"
+    ],
+    [
+      "mourning",
+      "evokes",
+      "emotional resonance"
+    ],
+    [
+      "mourning",
+      "influences",
+      "marketing"
+    ],
+    [
+      "perceptions",
+      "affects",
+      "trust and reliability"
+    ],
+    [
+      "perceptions",
+      "affects",
+      "visual identity"
+    ],
+    [
+      "perceptions",
+      "enhances",
+      "visual communication"
+    ],
+    [
+      "perceptions",
+      "influences",
+      "consumer perceptions"
+    ],
+    [
+      "perceptions",
+      "influences",
+      "context"
+    ],
+    [
+      "perceptions",
+      "influences",
+      "marketing"
+    ],
+    [
+      "perceptions",
+      "shapes",
+      "branding"
+    ],
+    [
+      "purity",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "purity",
+      "associated with",
+      "audience perception"
+    ],
+    [
+      "purity",
+      "associated with",
+      "brand personality"
+    ],
+    [
+      "purity",
+      "associated with",
+      "cleanliness"
+    ],
+    [
+      "purity",
+      "associated with",
+      "cultures"
+    ],
+    [
+      "purity",
+      "associated with",
+      "perceptions"
+    ],
+    [
+      "purity",
+      "associated with",
+      "visual identity"
+    ],
+    [
+      "purity",
+      "contrasts with",
+      "mourning"
+    ],
+    [
+      "purity",
+      "is associated with",
+      "cultural sensitivity"
+    ],
+    [
+      "purity",
+      "shapes",
+      "consumer perceptions"
+    ],
+    [
+      "target audience",
+      "defines",
+      "brand identity"
+    ],
+    [
+      "target audience",
+      "defines",
+      "brand positioning"
+    ],
+    [
+      "target audience",
+      "enables",
+      "visual differentiation"
+    ],
+    [
+      "target audience",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "target audience",
+      "influences",
+      "mourning"
+    ],
+    [
+      "target audience",
+      "influences",
+      "perceptions"
+    ],
+    [
+      "target audience",
+      "informs",
+      "branding"
+    ],
+    [
+      "target audience",
+      "informs",
+      "marketing strategies"
+    ],
+    [
+      "target audience",
+      "targets",
+      "marketing"
+    ],
+    [
+      "trust and reliability",
+      "affects",
+      "consumer perceptions"
+    ],
+    [
+      "trust and reliability",
+      "appeals to",
+      "target audience"
+    ],
+    [
+      "trust and reliability",
+      "contributes to",
+      "branding"
+    ],
+    [
+      "trust and reliability",
+      "conveys",
+      "colors"
+    ],
+    [
+      "trust and reliability",
+      "defines",
+      "brand identity"
+    ],
+    [
+      "trust and reliability",
+      "defines",
+      "visual identity"
+    ],
+    [
+      "trust and reliability",
+      "enhances",
+      "effective branding"
+    ],
+    [
+      "trust and reliability",
+      "enhances",
+      "visual differentiation"
+    ],
+    [
+      "trust and reliability",
+      "facilitates",
+      "effective communication"
+    ],
+    [
+      "trust and reliability",
+      "influences",
+      "color choices"
+    ],
+    [
+      "trust and reliability",
+      "informs",
+      "marketing"
+    ],
+    [
+      "trust and reliability",
+      "informs",
+      "marketing strategies"
+    ],
+    [
+      "trust and reliability",
+      "supports",
+      "brand strategy"
+    ],
+    [
+      "unique identity",
+      "appeals to",
+      "target audience"
+    ],
+    [
+      "unique identity",
+      "contributes to",
+      "visual communication"
+    ],
+    [
+      "unique identity",
+      "contributes to",
+      "visual identity"
+    ],
+    [
+      "unique identity",
+      "guides",
+      "marketing strategies"
+    ],
+    [
+      "unique identity",
+      "is influenced by",
+      "industry context"
+    ],
+    [
+      "unique identity",
+      "requires",
+      "cultural considerations"
+    ],
+    [
+      "unique identity",
+      "supports",
+      "effective branding"
+    ],
+    [
+      "unique identity",
+      "supports",
+      "marketing"
+    ],
+    [
+      "visual communication",
+      "affects",
+      "consumer perceptions"
+    ],
+    [
+      "visual communication",
+      "supports",
+      "marketing"
+    ],
+    [
+      "visual communication",
+      "targets",
+      "target audience"
+    ],
+    [
+      "visual differentiation",
+      "influences",
+      "audience perception"
+    ],
+    [
+      "visual differentiation",
+      "influences",
+      "cultures"
+    ],
+    [
+      "visual identity",
+      "defines",
+      "brand identity"
+    ],
+    [
+      "visual identity",
+      "enhances",
+      "brand recognition"
+    ],
+    [
+      "visual identity",
+      "influenced by",
+      "mourning"
+    ],
+    [
+      "visual identity",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "visual identity",
+      "informs",
+      "brand positioning"
+    ],
+    [
+      "visual identity",
+      "is defined by",
+      "visual communication"
+    ],
+    [
+      "visual identity",
+      "shapes",
+      "consumer perceptions"
+    ],
+    [
+      "visual identity",
+      "targets",
+      "target audience"
+    ],
+    [
+      "white",
+      "associated with",
+      "colors"
+    ],
+    [
+      "white",
+      "associated with",
+      "mourning"
+    ],
+    [
+      "white",
+      "represents",
+      "associations"
+    ]
+  ],
+  "edges": [
+    "affected by",
+    "affects",
+    "aligns with",
+    "appeals to",
+    "associated with",
+    "builds",
+    "connects",
+    "contextualizes",
+    "contrasted with",
+    "contrasts with",
+    "contributes to",
+    "conveys",
+    "creates",
+    "defined by",
+    "defines",
+    "determines",
+    "drives",
+    "enables",
+    "encourages",
+    "engages",
+    "enhanced by",
+    "enhances",
+    "establishes",
+    "evokes",
+    "explains",
+    "facilitates",
+    "guides",
+    "improves",
+    "influenced by",
+    "influences",
+    "informs",
+    "involves",
+    "is associated with",
+    "is defined by",
+    "is essential for",
+    "is influenced by",
+    "is recognized by",
+    "is significant for",
+    "provides",
+    "reflected in",
+    "reflects",
+    "represents",
+    "requires",
+    "shaped by",
+    "shapes",
+    "supports",
+    "targets"
+  ]
+}

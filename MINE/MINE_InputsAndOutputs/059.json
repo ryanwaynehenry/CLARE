@@ -1,0 +1,2833 @@
+{
+  "entities": [
+    "CubeSats",
+    "Earth gravity",
+    "Earth observation",
+    "Earth stations",
+    "accessibility",
+    "advancements",
+    "affordability",
+    "broadcasting",
+    "climate monitoring",
+    "climate patterns",
+    "communication",
+    "communication satellites",
+    "connectivity",
+    "coverage",
+    "data gathering",
+    "data transmission",
+    "developing countries",
+    "education",
+    "efficiency",
+    "electric propulsion",
+    "environmental monitoring",
+    "future technology",
+    "geostationary satellites",
+    "global challenges",
+    "global connectivity",
+    "industry applications",
+    "innovation",
+    "laser communication",
+    "launch purposes",
+    "low Earth orbit",
+    "meteorologists",
+    "miniaturization",
+    "monitoring",
+    "monitoring capabilities",
+    "national security",
+    "natural disasters",
+    "navigation",
+    "operational lifetimes",
+    "orbital functions",
+    "orbital speed",
+    "payload components",
+    "polar orbit",
+    "power systems",
+    "propulsion",
+    "radio signals",
+    "reliability",
+    "remote areas",
+    "remote sensing",
+    "satellite functions",
+    "satellite internet",
+    "satellite orbits",
+    "satellite types",
+    "satellites",
+    "scientific research",
+    "solar panels",
+    "space exploration",
+    "startups",
+    "storm tracking",
+    "technology",
+    "telecommunications",
+    "valuable data",
+    "weather forecasting",
+    "weather satellites"
+  ],
+  "relations": [
+    [
+      "CubeSats",
+      "comprises",
+      "payload components"
+    ],
+    [
+      "CubeSats",
+      "enables",
+      "satellite internet"
+    ],
+    [
+      "CubeSats",
+      "enables",
+      "space exploration"
+    ],
+    [
+      "CubeSats",
+      "enhances",
+      "laser communication"
+    ],
+    [
+      "CubeSats",
+      "enhances",
+      "national security"
+    ],
+    [
+      "CubeSats",
+      "increases",
+      "accessibility"
+    ],
+    [
+      "CubeSats",
+      "is a type of",
+      "satellites"
+    ],
+    [
+      "CubeSats",
+      "is utilized in",
+      "propulsion"
+    ],
+    [
+      "CubeSats",
+      "powers",
+      "solar panels"
+    ],
+    [
+      "CubeSats",
+      "provides",
+      "global connectivity"
+    ],
+    [
+      "CubeSats",
+      "provides",
+      "valuable data"
+    ],
+    [
+      "CubeSats",
+      "serves in",
+      "industry applications"
+    ],
+    [
+      "CubeSats",
+      "supports",
+      "startups"
+    ],
+    [
+      "CubeSats",
+      "transmits",
+      "radio signals"
+    ],
+    [
+      "CubeSats",
+      "used for",
+      "monitoring"
+    ],
+    [
+      "CubeSats",
+      "used for",
+      "remote sensing"
+    ],
+    [
+      "Earth gravity",
+      "affects",
+      "orbital functions"
+    ],
+    [
+      "Earth gravity",
+      "influences",
+      "satellite orbits"
+    ],
+    [
+      "Earth observation",
+      "derived from",
+      "valuable data"
+    ],
+    [
+      "Earth observation",
+      "enabled by",
+      "satellite orbits"
+    ],
+    [
+      "Earth observation",
+      "informs",
+      "weather forecasting"
+    ],
+    [
+      "Earth observation",
+      "is observed by",
+      "communication"
+    ],
+    [
+      "Earth observation",
+      "provides",
+      "scientific research"
+    ],
+    [
+      "Earth observation",
+      "provides data for",
+      "meteorologists"
+    ],
+    [
+      "Earth stations",
+      "addresses",
+      "global challenges"
+    ],
+    [
+      "Earth stations",
+      "communicates with",
+      "solar panels"
+    ],
+    [
+      "Earth stations",
+      "enables",
+      "global connectivity"
+    ],
+    [
+      "Earth stations",
+      "enables",
+      "telecommunications"
+    ],
+    [
+      "Earth stations",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "Earth stations",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "Earth stations",
+      "facilitates",
+      "scientific research"
+    ],
+    [
+      "Earth stations",
+      "facilitates",
+      "storm tracking"
+    ],
+    [
+      "Earth stations",
+      "is connected to",
+      "CubeSats"
+    ],
+    [
+      "Earth stations",
+      "powers",
+      "power systems"
+    ],
+    [
+      "Earth stations",
+      "serves",
+      "remote areas"
+    ],
+    [
+      "Earth stations",
+      "serves",
+      "satellite types"
+    ],
+    [
+      "Earth stations",
+      "supports",
+      "environmental monitoring"
+    ],
+    [
+      "Earth stations",
+      "supports",
+      "navigation"
+    ],
+    [
+      "Earth stations",
+      "utilizes",
+      "weather satellites"
+    ],
+    [
+      "accessibility",
+      "addresses",
+      "global challenges"
+    ],
+    [
+      "accessibility",
+      "driven by",
+      "miniaturization"
+    ],
+    [
+      "accessibility",
+      "enhances",
+      "future technology"
+    ],
+    [
+      "accessibility",
+      "enhances",
+      "satellite functions"
+    ],
+    [
+      "accessibility",
+      "facilitated by",
+      "communication"
+    ],
+    [
+      "accessibility",
+      "facilitates",
+      "satellite types"
+    ],
+    [
+      "accessibility",
+      "is supported by",
+      "Earth stations"
+    ],
+    [
+      "accessibility",
+      "supports",
+      "remote areas"
+    ],
+    [
+      "advancements",
+      "advances",
+      "power systems"
+    ],
+    [
+      "advancements",
+      "advances",
+      "satellites"
+    ],
+    [
+      "advancements",
+      "enables",
+      "data gathering"
+    ],
+    [
+      "advancements",
+      "enhances",
+      "radio signals"
+    ],
+    [
+      "advancements",
+      "enhances",
+      "reliability"
+    ],
+    [
+      "advancements",
+      "enhances",
+      "technology"
+    ],
+    [
+      "advancements",
+      "facilitates",
+      "miniaturization"
+    ],
+    [
+      "advancements",
+      "improves",
+      "laser communication"
+    ],
+    [
+      "advancements",
+      "improves",
+      "remote areas"
+    ],
+    [
+      "advancements",
+      "is driven by",
+      "coverage"
+    ],
+    [
+      "advancements",
+      "is driven by",
+      "data transmission"
+    ],
+    [
+      "advancements",
+      "supports",
+      "startups"
+    ],
+    [
+      "affordability",
+      "improves",
+      "education"
+    ],
+    [
+      "affordability",
+      "influences",
+      "satellite orbits"
+    ],
+    [
+      "broadcasting",
+      "comprises",
+      "payload components"
+    ],
+    [
+      "broadcasting",
+      "enabled by",
+      "satellite internet"
+    ],
+    [
+      "broadcasting",
+      "enables",
+      "connectivity"
+    ],
+    [
+      "broadcasting",
+      "enables",
+      "technology"
+    ],
+    [
+      "broadcasting",
+      "operates",
+      "communication satellites"
+    ],
+    [
+      "broadcasting",
+      "supports",
+      "remote sensing"
+    ],
+    [
+      "broadcasting",
+      "utilizes",
+      "satellite functions"
+    ],
+    [
+      "climate monitoring",
+      "addresses",
+      "global challenges"
+    ],
+    [
+      "climate monitoring",
+      "addresses",
+      "remote areas"
+    ],
+    [
+      "climate monitoring",
+      "enables",
+      "accessibility"
+    ],
+    [
+      "climate monitoring",
+      "enhances",
+      "industry applications"
+    ],
+    [
+      "climate monitoring",
+      "influences",
+      "Earth gravity"
+    ],
+    [
+      "climate monitoring",
+      "monitored by",
+      "meteorologists"
+    ],
+    [
+      "climate monitoring",
+      "monitored by",
+      "remote sensing"
+    ],
+    [
+      "climate monitoring",
+      "supports",
+      "Earth observation"
+    ],
+    [
+      "climate monitoring",
+      "supports",
+      "Earth stations"
+    ],
+    [
+      "climate monitoring",
+      "supports",
+      "broadcasting"
+    ],
+    [
+      "climate patterns",
+      "analyzed by",
+      "meteorologists"
+    ],
+    [
+      "climate patterns",
+      "forecasted by",
+      "weather forecasting"
+    ],
+    [
+      "climate patterns",
+      "influences",
+      "satellite orbits"
+    ],
+    [
+      "climate patterns",
+      "monitored by",
+      "weather satellites"
+    ],
+    [
+      "climate patterns",
+      "monitors",
+      "climate monitoring"
+    ],
+    [
+      "communication",
+      "advances",
+      "technology"
+    ],
+    [
+      "communication",
+      "depends on",
+      "connectivity"
+    ],
+    [
+      "communication",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "communication",
+      "facilitated by",
+      "data transmission"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "monitoring"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "satellite functions"
+    ],
+    [
+      "communication",
+      "is facilitated by",
+      "satellite internet"
+    ],
+    [
+      "communication",
+      "is facilitated by",
+      "weather forecasting"
+    ],
+    [
+      "communication",
+      "is provided by",
+      "satellites"
+    ],
+    [
+      "communication",
+      "is utilized in",
+      "laser communication"
+    ],
+    [
+      "communication",
+      "predicts",
+      "natural disasters"
+    ],
+    [
+      "communication satellites",
+      "dependent on",
+      "satellite internet"
+    ],
+    [
+      "communication satellites",
+      "extends",
+      "operational lifetimes"
+    ],
+    [
+      "communication satellites",
+      "is a type of",
+      "Earth stations"
+    ],
+    [
+      "communication satellites",
+      "is a type of",
+      "satellite types"
+    ],
+    [
+      "communication satellites",
+      "provided by",
+      "connectivity"
+    ],
+    [
+      "communication satellites",
+      "provides",
+      "global connectivity"
+    ],
+    [
+      "communication satellites",
+      "relies on",
+      "environmental monitoring"
+    ],
+    [
+      "communication satellites",
+      "serves",
+      "remote areas"
+    ],
+    [
+      "communication satellites",
+      "supports",
+      "scientific research"
+    ],
+    [
+      "communication satellites",
+      "supports",
+      "startups"
+    ],
+    [
+      "communication satellites",
+      "utilizes",
+      "CubeSats"
+    ],
+    [
+      "communication satellites",
+      "utilizes",
+      "industry applications"
+    ],
+    [
+      "connectivity",
+      "enables",
+      "monitoring capabilities"
+    ],
+    [
+      "connectivity",
+      "enables",
+      "solar panels"
+    ],
+    [
+      "connectivity",
+      "enhanced by",
+      "laser communication"
+    ],
+    [
+      "connectivity",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "connectivity",
+      "provides",
+      "satellites"
+    ],
+    [
+      "connectivity",
+      "utilizes",
+      "communication satellites"
+    ],
+    [
+      "coverage",
+      "enables",
+      "communication"
+    ],
+    [
+      "coverage",
+      "enables",
+      "global connectivity"
+    ],
+    [
+      "coverage",
+      "enhances",
+      "advancements"
+    ],
+    [
+      "coverage",
+      "facilitates",
+      "data gathering"
+    ],
+    [
+      "coverage",
+      "informs",
+      "monitoring"
+    ],
+    [
+      "coverage",
+      "provides",
+      "communication satellites"
+    ],
+    [
+      "coverage",
+      "supports",
+      "Earth observation"
+    ],
+    [
+      "coverage",
+      "supports",
+      "national security"
+    ],
+    [
+      "coverage",
+      "supports",
+      "navigation"
+    ],
+    [
+      "data gathering",
+      "collects",
+      "Earth stations"
+    ],
+    [
+      "data gathering",
+      "enables",
+      "Earth observation"
+    ],
+    [
+      "data gathering",
+      "enables",
+      "communication satellites"
+    ],
+    [
+      "data gathering",
+      "enables",
+      "scientific research"
+    ],
+    [
+      "data gathering",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "data gathering",
+      "facilitates",
+      "environmental monitoring"
+    ],
+    [
+      "data gathering",
+      "involves",
+      "monitoring"
+    ],
+    [
+      "data gathering",
+      "provides",
+      "storm tracking"
+    ],
+    [
+      "data gathering",
+      "provides components for",
+      "connectivity"
+    ],
+    [
+      "data gathering",
+      "supports",
+      "climate monitoring"
+    ],
+    [
+      "data gathering",
+      "supports",
+      "solar panels"
+    ],
+    [
+      "data gathering",
+      "transmits",
+      "radio signals"
+    ],
+    [
+      "data gathering",
+      "utilized by",
+      "weather satellites"
+    ],
+    [
+      "data transmission",
+      "categorizes",
+      "satellite types"
+    ],
+    [
+      "data transmission",
+      "comprises",
+      "payload components"
+    ],
+    [
+      "data transmission",
+      "drives",
+      "future technology"
+    ],
+    [
+      "data transmission",
+      "drives",
+      "innovation"
+    ],
+    [
+      "data transmission",
+      "enables",
+      "data gathering"
+    ],
+    [
+      "data transmission",
+      "enables",
+      "satellite internet"
+    ],
+    [
+      "data transmission",
+      "facilitates",
+      "broadcasting"
+    ],
+    [
+      "data transmission",
+      "facilitates",
+      "connectivity"
+    ],
+    [
+      "data transmission",
+      "transmits",
+      "satellites"
+    ],
+    [
+      "data transmission",
+      "transmitted via",
+      "radio signals"
+    ],
+    [
+      "developing countries",
+      "aids",
+      "storm tracking"
+    ],
+    [
+      "developing countries",
+      "benefits from",
+      "Earth observation"
+    ],
+    [
+      "developing countries",
+      "benefits from",
+      "satellite functions"
+    ],
+    [
+      "developing countries",
+      "supports",
+      "climate monitoring"
+    ],
+    [
+      "developing countries",
+      "utilizes",
+      "meteorologists"
+    ],
+    [
+      "developing countries",
+      "utilizes",
+      "satellite orbits"
+    ],
+    [
+      "education",
+      "enhances",
+      "connectivity"
+    ],
+    [
+      "education",
+      "enhances",
+      "data gathering"
+    ],
+    [
+      "education",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "education",
+      "informs about",
+      "satellite types"
+    ],
+    [
+      "efficiency",
+      "addresses",
+      "global challenges"
+    ],
+    [
+      "efficiency",
+      "determines",
+      "polar orbit"
+    ],
+    [
+      "efficiency",
+      "improves",
+      "climate monitoring"
+    ],
+    [
+      "efficiency",
+      "improves",
+      "remote areas"
+    ],
+    [
+      "efficiency",
+      "influences",
+      "satellite orbits"
+    ],
+    [
+      "electric propulsion",
+      "advances",
+      "space exploration"
+    ],
+    [
+      "electric propulsion",
+      "enables",
+      "satellite internet"
+    ],
+    [
+      "electric propulsion",
+      "enhances",
+      "education"
+    ],
+    [
+      "electric propulsion",
+      "extends",
+      "operational lifetimes"
+    ],
+    [
+      "electric propulsion",
+      "influences",
+      "orbital speed"
+    ],
+    [
+      "electric propulsion",
+      "is a type of",
+      "propulsion"
+    ],
+    [
+      "electric propulsion",
+      "is facilitated by",
+      "CubeSats"
+    ],
+    [
+      "electric propulsion",
+      "is used by",
+      "communication satellites"
+    ],
+    [
+      "electric propulsion",
+      "powers",
+      "satellites"
+    ],
+    [
+      "environmental monitoring",
+      "advances",
+      "advancements"
+    ],
+    [
+      "environmental monitoring",
+      "drives",
+      "future technology"
+    ],
+    [
+      "environmental monitoring",
+      "enhances",
+      "laser communication"
+    ],
+    [
+      "environmental monitoring",
+      "is influenced by",
+      "weather satellites"
+    ],
+    [
+      "environmental monitoring",
+      "is informed by",
+      "data transmission"
+    ],
+    [
+      "environmental monitoring",
+      "mitigates",
+      "natural disasters"
+    ],
+    [
+      "environmental monitoring",
+      "powers",
+      "power systems"
+    ],
+    [
+      "environmental monitoring",
+      "supported by",
+      "connectivity"
+    ],
+    [
+      "environmental monitoring",
+      "supports",
+      "Earth observation"
+    ],
+    [
+      "environmental monitoring",
+      "supports",
+      "remote sensing"
+    ],
+    [
+      "environmental monitoring",
+      "supports",
+      "scientific research"
+    ],
+    [
+      "environmental monitoring",
+      "supports",
+      "storm tracking"
+    ],
+    [
+      "environmental monitoring",
+      "supports",
+      "weather forecasting"
+    ],
+    [
+      "environmental monitoring",
+      "utilizes",
+      "CubeSats"
+    ],
+    [
+      "environmental monitoring",
+      "utilizes",
+      "satellites"
+    ],
+    [
+      "future technology",
+      "advances",
+      "laser communication"
+    ],
+    [
+      "future technology",
+      "advances",
+      "scientific research"
+    ],
+    [
+      "future technology",
+      "benefits",
+      "remote areas"
+    ],
+    [
+      "future technology",
+      "benefits",
+      "startups"
+    ],
+    [
+      "future technology",
+      "drives",
+      "innovation"
+    ],
+    [
+      "future technology",
+      "drives",
+      "miniaturization"
+    ],
+    [
+      "future technology",
+      "enables",
+      "monitoring capabilities"
+    ],
+    [
+      "future technology",
+      "enables",
+      "space exploration"
+    ],
+    [
+      "future technology",
+      "enhances",
+      "connectivity"
+    ],
+    [
+      "future technology",
+      "enhances",
+      "data gathering"
+    ],
+    [
+      "future technology",
+      "enhances",
+      "global connectivity"
+    ],
+    [
+      "future technology",
+      "enhances",
+      "radio signals"
+    ],
+    [
+      "future technology",
+      "includes",
+      "communication satellites"
+    ],
+    [
+      "future technology",
+      "influences",
+      "industry applications"
+    ],
+    [
+      "geostationary satellites",
+      "affects",
+      "Earth gravity"
+    ],
+    [
+      "geostationary satellites",
+      "aided by",
+      "meteorologists"
+    ],
+    [
+      "geostationary satellites",
+      "aids",
+      "storm tracking"
+    ],
+    [
+      "geostationary satellites",
+      "complements",
+      "weather satellites"
+    ],
+    [
+      "geostationary satellites",
+      "defines",
+      "satellite functions"
+    ],
+    [
+      "geostationary satellites",
+      "designed for",
+      "launch purposes"
+    ],
+    [
+      "geostationary satellites",
+      "is a type of",
+      "satellite orbits"
+    ],
+    [
+      "geostationary satellites",
+      "requires",
+      "orbital speed"
+    ],
+    [
+      "geostationary satellites",
+      "supports",
+      "climate monitoring"
+    ],
+    [
+      "global challenges",
+      "addresses",
+      "Earth observation"
+    ],
+    [
+      "global challenges",
+      "addresses",
+      "orbital functions"
+    ],
+    [
+      "global challenges",
+      "is facilitated by",
+      "accessibility"
+    ],
+    [
+      "global connectivity",
+      "depends on",
+      "accessibility"
+    ],
+    [
+      "global connectivity",
+      "enables",
+      "power systems"
+    ],
+    [
+      "global connectivity",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "global connectivity",
+      "supported by",
+      "satellite internet"
+    ],
+    [
+      "global connectivity",
+      "supports",
+      "Earth observation"
+    ],
+    [
+      "industry applications",
+      "applies to",
+      "low Earth orbit"
+    ],
+    [
+      "industry applications",
+      "enables",
+      "Earth observation"
+    ],
+    [
+      "industry applications",
+      "enables",
+      "orbital functions"
+    ],
+    [
+      "industry applications",
+      "includes",
+      "satellite functions"
+    ],
+    [
+      "industry applications",
+      "powers",
+      "power systems"
+    ],
+    [
+      "industry applications",
+      "serves",
+      "Earth stations"
+    ],
+    [
+      "industry applications",
+      "serves",
+      "remote areas"
+    ],
+    [
+      "innovation",
+      "advances",
+      "propulsion"
+    ],
+    [
+      "innovation",
+      "advances",
+      "satellites"
+    ],
+    [
+      "innovation",
+      "drives",
+      "CubeSats"
+    ],
+    [
+      "innovation",
+      "drives",
+      "communication"
+    ],
+    [
+      "innovation",
+      "drives",
+      "communication satellites"
+    ],
+    [
+      "innovation",
+      "drives",
+      "miniaturization"
+    ],
+    [
+      "innovation",
+      "enables",
+      "satellite internet"
+    ],
+    [
+      "innovation",
+      "enhances",
+      "connectivity"
+    ],
+    [
+      "innovation",
+      "extended by",
+      "operational lifetimes"
+    ],
+    [
+      "innovation",
+      "fuels",
+      "space exploration"
+    ],
+    [
+      "innovation",
+      "improves",
+      "reliability"
+    ],
+    [
+      "innovation",
+      "improves",
+      "remote areas"
+    ],
+    [
+      "innovation",
+      "promoted by",
+      "accessibility"
+    ],
+    [
+      "laser communication",
+      "enables",
+      "global connectivity"
+    ],
+    [
+      "laser communication",
+      "enhances",
+      "data gathering"
+    ],
+    [
+      "laser communication",
+      "enhances",
+      "remote sensing"
+    ],
+    [
+      "laser communication",
+      "enhances",
+      "satellite types"
+    ],
+    [
+      "laser communication",
+      "enhances",
+      "satellites"
+    ],
+    [
+      "laser communication",
+      "enhances",
+      "valuable data"
+    ],
+    [
+      "laser communication",
+      "improves",
+      "monitoring"
+    ],
+    [
+      "laser communication",
+      "improves",
+      "remote areas"
+    ],
+    [
+      "laser communication",
+      "is a component of",
+      "coverage"
+    ],
+    [
+      "laser communication",
+      "is supported by",
+      "scientific research"
+    ],
+    [
+      "laser communication",
+      "powered by",
+      "solar panels"
+    ],
+    [
+      "laser communication",
+      "transmits to",
+      "Earth stations"
+    ],
+    [
+      "launch purposes",
+      "informs",
+      "Earth observation"
+    ],
+    [
+      "launch purposes",
+      "serves",
+      "satellite functions"
+    ],
+    [
+      "low Earth orbit",
+      "determines",
+      "orbital speed"
+    ],
+    [
+      "low Earth orbit",
+      "enabled by",
+      "global connectivity"
+    ],
+    [
+      "low Earth orbit",
+      "includes",
+      "satellite orbits"
+    ],
+    [
+      "meteorologists",
+      "address",
+      "global challenges"
+    ],
+    [
+      "meteorologists",
+      "assists",
+      "communication"
+    ],
+    [
+      "meteorologists",
+      "assists",
+      "environmental monitoring"
+    ],
+    [
+      "meteorologists",
+      "benefits from",
+      "industry applications"
+    ],
+    [
+      "meteorologists",
+      "conducts",
+      "climate monitoring"
+    ],
+    [
+      "meteorologists",
+      "improves",
+      "accessibility"
+    ],
+    [
+      "meteorologists",
+      "informs",
+      "scientific research"
+    ],
+    [
+      "meteorologists",
+      "powers",
+      "power systems"
+    ],
+    [
+      "meteorologists",
+      "utilizes",
+      "Earth stations"
+    ],
+    [
+      "meteorologists",
+      "utilizes",
+      "satellite functions"
+    ],
+    [
+      "meteorologists",
+      "utilizes",
+      "telecommunications"
+    ],
+    [
+      "meteorologists",
+      "utilizes",
+      "weather satellites"
+    ],
+    [
+      "meteorologists",
+      "utilizes for",
+      "Earth observation"
+    ],
+    [
+      "miniaturization",
+      "benefits",
+      "remote areas"
+    ],
+    [
+      "miniaturization",
+      "dependent on",
+      "payload components"
+    ],
+    [
+      "miniaturization",
+      "driven by",
+      "connectivity"
+    ],
+    [
+      "miniaturization",
+      "drives",
+      "industry applications"
+    ],
+    [
+      "miniaturization",
+      "enables",
+      "Earth stations"
+    ],
+    [
+      "miniaturization",
+      "enhances",
+      "global connectivity"
+    ],
+    [
+      "miniaturization",
+      "is driven by",
+      "technology"
+    ],
+    [
+      "miniaturization",
+      "is enhanced by",
+      "laser communication"
+    ],
+    [
+      "miniaturization",
+      "is produced by",
+      "valuable data"
+    ],
+    [
+      "monitoring",
+      "enables",
+      "advancements"
+    ],
+    [
+      "monitoring",
+      "enables",
+      "remote sensing"
+    ],
+    [
+      "monitoring",
+      "involves",
+      "Earth observation"
+    ],
+    [
+      "monitoring",
+      "is a type of",
+      "satellite types"
+    ],
+    [
+      "monitoring",
+      "is generated by",
+      "valuable data"
+    ],
+    [
+      "monitoring",
+      "is performed by",
+      "communication satellites"
+    ],
+    [
+      "monitoring",
+      "monitored by",
+      "Earth stations"
+    ],
+    [
+      "monitoring",
+      "monitors",
+      "natural disasters"
+    ],
+    [
+      "monitoring capabilities",
+      "enables",
+      "broadcasting"
+    ],
+    [
+      "monitoring capabilities",
+      "enables",
+      "remote sensing"
+    ],
+    [
+      "monitoring capabilities",
+      "enhances",
+      "communication"
+    ],
+    [
+      "monitoring capabilities",
+      "enhances",
+      "data gathering"
+    ],
+    [
+      "monitoring capabilities",
+      "enhances",
+      "scientific research"
+    ],
+    [
+      "monitoring capabilities",
+      "facilitates",
+      "Earth observation"
+    ],
+    [
+      "monitoring capabilities",
+      "improves",
+      "advancements"
+    ],
+    [
+      "monitoring capabilities",
+      "is performed by",
+      "weather satellites"
+    ],
+    [
+      "monitoring capabilities",
+      "provides",
+      "valuable data"
+    ],
+    [
+      "monitoring capabilities",
+      "transmitted by",
+      "radio signals"
+    ],
+    [
+      "national security",
+      "enhances",
+      "satellite functions"
+    ],
+    [
+      "national security",
+      "improved by",
+      "accessibility"
+    ],
+    [
+      "national security",
+      "influenced by",
+      "operational lifetimes"
+    ],
+    [
+      "national security",
+      "informs",
+      "climate monitoring"
+    ],
+    [
+      "national security",
+      "is enhanced by",
+      "monitoring"
+    ],
+    [
+      "national security",
+      "powers",
+      "power systems"
+    ],
+    [
+      "national security",
+      "supported by",
+      "weather satellites"
+    ],
+    [
+      "national security",
+      "supports",
+      "remote sensing"
+    ],
+    [
+      "national security",
+      "utilizes",
+      "communication satellites"
+    ],
+    [
+      "national security",
+      "utilizes",
+      "satellites"
+    ],
+    [
+      "natural disasters",
+      "is informed by",
+      "communication"
+    ],
+    [
+      "navigation",
+      "enables",
+      "low Earth orbit"
+    ],
+    [
+      "operational lifetimes",
+      "affects",
+      "data transmission"
+    ],
+    [
+      "operational lifetimes",
+      "enhances",
+      "advancements"
+    ],
+    [
+      "operational lifetimes",
+      "extends",
+      "future technology"
+    ],
+    [
+      "operational lifetimes",
+      "is improved by",
+      "electric propulsion"
+    ],
+    [
+      "operational lifetimes",
+      "monitors",
+      "monitoring"
+    ],
+    [
+      "orbital functions",
+      "influences",
+      "efficiency"
+    ],
+    [
+      "payload components",
+      "comprises",
+      "connectivity"
+    ],
+    [
+      "payload components",
+      "comprises",
+      "environmental monitoring"
+    ],
+    [
+      "payload components",
+      "comprises",
+      "remote sensing"
+    ],
+    [
+      "payload components",
+      "defines",
+      "satellite types"
+    ],
+    [
+      "payload components",
+      "enables",
+      "miniaturization"
+    ],
+    [
+      "payload components",
+      "enables",
+      "monitoring"
+    ],
+    [
+      "payload components",
+      "is a component of",
+      "laser communication"
+    ],
+    [
+      "payload components",
+      "is a component of",
+      "satellite internet"
+    ],
+    [
+      "payload components",
+      "provides components for",
+      "scientific research"
+    ],
+    [
+      "polar orbit",
+      "addresses",
+      "global challenges"
+    ],
+    [
+      "polar orbit",
+      "is a type of",
+      "space exploration"
+    ],
+    [
+      "polar orbit",
+      "utilizes",
+      "industry applications"
+    ],
+    [
+      "power systems",
+      "dependent on",
+      "environmental monitoring"
+    ],
+    [
+      "power systems",
+      "dependent on",
+      "scientific research"
+    ],
+    [
+      "power systems",
+      "drives",
+      "miniaturization"
+    ],
+    [
+      "power systems",
+      "is a component of",
+      "data gathering"
+    ],
+    [
+      "power systems",
+      "powered by",
+      "Earth stations"
+    ],
+    [
+      "power systems",
+      "powers",
+      "communication"
+    ],
+    [
+      "power systems",
+      "powers",
+      "communication satellites"
+    ],
+    [
+      "power systems",
+      "provides energy to",
+      "solar panels"
+    ],
+    [
+      "power systems",
+      "supports",
+      "climate monitoring"
+    ],
+    [
+      "power systems",
+      "supports",
+      "remote areas"
+    ],
+    [
+      "power systems",
+      "supports",
+      "satellite functions"
+    ],
+    [
+      "power systems",
+      "utilized by",
+      "radio signals"
+    ],
+    [
+      "propulsion",
+      "affects",
+      "orbital speed"
+    ],
+    [
+      "propulsion",
+      "constitutes",
+      "payload components"
+    ],
+    [
+      "propulsion",
+      "enables",
+      "orbital functions"
+    ],
+    [
+      "propulsion",
+      "enhances",
+      "communication satellites"
+    ],
+    [
+      "propulsion",
+      "enhances",
+      "education"
+    ],
+    [
+      "propulsion",
+      "influences",
+      "polar orbit"
+    ],
+    [
+      "propulsion",
+      "powers",
+      "satellites"
+    ],
+    [
+      "radio signals",
+      "benefits from",
+      "startups"
+    ],
+    [
+      "radio signals",
+      "enables",
+      "accessibility"
+    ],
+    [
+      "radio signals",
+      "enables",
+      "operational lifetimes"
+    ],
+    [
+      "radio signals",
+      "facilitates",
+      "connectivity"
+    ],
+    [
+      "radio signals",
+      "influences",
+      "innovation"
+    ],
+    [
+      "radio signals",
+      "is communicated with",
+      "meteorologists"
+    ],
+    [
+      "radio signals",
+      "supports",
+      "Earth observation"
+    ],
+    [
+      "radio signals",
+      "transmits",
+      "broadcasting"
+    ],
+    [
+      "radio signals",
+      "transmits",
+      "communication satellites"
+    ],
+    [
+      "radio signals",
+      "transmits",
+      "telecommunications"
+    ],
+    [
+      "radio signals",
+      "transmitted by",
+      "coverage"
+    ],
+    [
+      "radio signals",
+      "transmitted through",
+      "communication"
+    ],
+    [
+      "radio signals",
+      "utilizes",
+      "monitoring"
+    ],
+    [
+      "radio signals",
+      "utilizes",
+      "satellites"
+    ],
+    [
+      "reliability",
+      "affects",
+      "orbital speed"
+    ],
+    [
+      "reliability",
+      "enhances",
+      "education"
+    ],
+    [
+      "reliability",
+      "enhances",
+      "electric propulsion"
+    ],
+    [
+      "reliability",
+      "ensures",
+      "communication satellites"
+    ],
+    [
+      "reliability",
+      "supports",
+      "space exploration"
+    ],
+    [
+      "remote areas",
+      "serves",
+      "satellite functions"
+    ],
+    [
+      "remote areas",
+      "supported by",
+      "Earth stations"
+    ],
+    [
+      "remote areas",
+      "supports",
+      "Earth observation"
+    ],
+    [
+      "remote areas",
+      "supports",
+      "low Earth orbit"
+    ],
+    [
+      "remote sensing",
+      "advances",
+      "miniaturization"
+    ],
+    [
+      "remote sensing",
+      "enables",
+      "communication"
+    ],
+    [
+      "remote sensing",
+      "enables",
+      "global connectivity"
+    ],
+    [
+      "remote sensing",
+      "enables",
+      "satellite functions"
+    ],
+    [
+      "remote sensing",
+      "enhances",
+      "weather satellites"
+    ],
+    [
+      "remote sensing",
+      "is influenced by",
+      "operational lifetimes"
+    ],
+    [
+      "remote sensing",
+      "provides",
+      "data gathering"
+    ],
+    [
+      "remote sensing",
+      "serves",
+      "remote areas"
+    ],
+    [
+      "remote sensing",
+      "supports",
+      "climate monitoring"
+    ],
+    [
+      "remote sensing",
+      "utilizes",
+      "technology"
+    ],
+    [
+      "satellite functions",
+      "affects",
+      "Earth gravity"
+    ],
+    [
+      "satellite functions",
+      "enables",
+      "Earth observation"
+    ],
+    [
+      "satellite functions",
+      "facilitates",
+      "Earth stations"
+    ],
+    [
+      "satellite functions",
+      "is a function of",
+      "monitoring"
+    ],
+    [
+      "satellite functions",
+      "transmits via",
+      "radio signals"
+    ],
+    [
+      "satellite internet",
+      "benefits from",
+      "miniaturization"
+    ],
+    [
+      "satellite internet",
+      "communicates with",
+      "Earth stations"
+    ],
+    [
+      "satellite internet",
+      "driven by",
+      "advancements"
+    ],
+    [
+      "satellite internet",
+      "drives",
+      "innovation"
+    ],
+    [
+      "satellite internet",
+      "enables",
+      "communication satellites"
+    ],
+    [
+      "satellite internet",
+      "enables",
+      "laser communication"
+    ],
+    [
+      "satellite internet",
+      "facilitates",
+      "industry applications"
+    ],
+    [
+      "satellite internet",
+      "generates",
+      "valuable data"
+    ],
+    [
+      "satellite internet",
+      "provides",
+      "connectivity"
+    ],
+    [
+      "satellite internet",
+      "supports",
+      "data gathering"
+    ],
+    [
+      "satellite internet",
+      "supports",
+      "monitoring"
+    ],
+    [
+      "satellite internet",
+      "supports",
+      "national security"
+    ],
+    [
+      "satellite internet",
+      "transmits",
+      "radio signals"
+    ],
+    [
+      "satellite orbits",
+      "aids",
+      "meteorologists"
+    ],
+    [
+      "satellite orbits",
+      "determines",
+      "launch purposes"
+    ],
+    [
+      "satellite orbits",
+      "informs",
+      "storm tracking"
+    ],
+    [
+      "satellite orbits",
+      "supports",
+      "Earth observation"
+    ],
+    [
+      "satellite orbits",
+      "supports",
+      "navigation"
+    ],
+    [
+      "satellite types",
+      "aids",
+      "meteorologists"
+    ],
+    [
+      "satellite types",
+      "aids in",
+      "storm tracking"
+    ],
+    [
+      "satellite types",
+      "categorizes",
+      "connectivity"
+    ],
+    [
+      "satellite types",
+      "categorizes",
+      "monitoring capabilities"
+    ],
+    [
+      "satellite types",
+      "determines",
+      "launch purposes"
+    ],
+    [
+      "satellite types",
+      "enables",
+      "miniaturization"
+    ],
+    [
+      "satellite types",
+      "facilitates",
+      "Earth observation"
+    ],
+    [
+      "satellite types",
+      "includes",
+      "weather forecasting"
+    ],
+    [
+      "satellite types",
+      "informs",
+      "valuable data"
+    ],
+    [
+      "satellite types",
+      "involves",
+      "data gathering"
+    ],
+    [
+      "satellite types",
+      "is a type of",
+      "CubeSats"
+    ],
+    [
+      "satellite types",
+      "is a type of",
+      "satellite internet"
+    ],
+    [
+      "satellite types",
+      "is provided by",
+      "coverage"
+    ],
+    [
+      "satellite types",
+      "supports",
+      "telecommunications"
+    ],
+    [
+      "satellites",
+      "communicates with",
+      "Earth stations"
+    ],
+    [
+      "satellites",
+      "enables",
+      "communication"
+    ],
+    [
+      "satellites",
+      "enables",
+      "remote sensing"
+    ],
+    [
+      "satellites",
+      "includes",
+      "CubeSats"
+    ],
+    [
+      "satellites",
+      "is a function of",
+      "propulsion"
+    ],
+    [
+      "satellites",
+      "is produced by",
+      "valuable data"
+    ],
+    [
+      "satellites",
+      "is provided by",
+      "coverage"
+    ],
+    [
+      "satellites",
+      "is utilized by",
+      "satellite internet"
+    ],
+    [
+      "satellites",
+      "powers",
+      "solar panels"
+    ],
+    [
+      "satellites",
+      "provides",
+      "data gathering"
+    ],
+    [
+      "satellites",
+      "received by",
+      "connectivity"
+    ],
+    [
+      "satellites",
+      "utilizes",
+      "broadcasting"
+    ],
+    [
+      "satellites",
+      "utilizes",
+      "scientific research"
+    ],
+    [
+      "scientific research",
+      "addresses",
+      "natural disasters"
+    ],
+    [
+      "scientific research",
+      "drives",
+      "advancements"
+    ],
+    [
+      "scientific research",
+      "enables",
+      "CubeSats"
+    ],
+    [
+      "scientific research",
+      "enhanced by",
+      "connectivity"
+    ],
+    [
+      "scientific research",
+      "informs",
+      "environmental monitoring"
+    ],
+    [
+      "scientific research",
+      "informs",
+      "storm tracking"
+    ],
+    [
+      "scientific research",
+      "is informed by",
+      "data transmission"
+    ],
+    [
+      "scientific research",
+      "powers",
+      "power systems"
+    ],
+    [
+      "scientific research",
+      "utilizes",
+      "remote sensing"
+    ],
+    [
+      "scientific research",
+      "utilizes",
+      "weather satellites"
+    ],
+    [
+      "solar panels",
+      "enables",
+      "global connectivity"
+    ],
+    [
+      "solar panels",
+      "enables",
+      "laser communication"
+    ],
+    [
+      "solar panels",
+      "enables",
+      "satellite internet"
+    ],
+    [
+      "solar panels",
+      "enhances",
+      "reliability"
+    ],
+    [
+      "solar panels",
+      "extends",
+      "operational lifetimes"
+    ],
+    [
+      "solar panels",
+      "powers",
+      "future technology"
+    ],
+    [
+      "solar panels",
+      "powers",
+      "payload components"
+    ],
+    [
+      "solar panels",
+      "powers",
+      "power systems"
+    ],
+    [
+      "solar panels",
+      "powers",
+      "remote sensing"
+    ],
+    [
+      "solar panels",
+      "provides",
+      "coverage"
+    ],
+    [
+      "solar panels",
+      "supports",
+      "communication"
+    ],
+    [
+      "solar panels",
+      "supports",
+      "scientific research"
+    ],
+    [
+      "space exploration",
+      "addresses",
+      "global challenges"
+    ],
+    [
+      "space exploration",
+      "facilitates",
+      "launch purposes"
+    ],
+    [
+      "space exploration",
+      "facilitates",
+      "miniaturization"
+    ],
+    [
+      "space exploration",
+      "utilizes",
+      "communication satellites"
+    ],
+    [
+      "startups",
+      "advances",
+      "advancements"
+    ],
+    [
+      "startups",
+      "benefits from",
+      "monitoring"
+    ],
+    [
+      "startups",
+      "benefits from",
+      "operational lifetimes"
+    ],
+    [
+      "startups",
+      "benefits from",
+      "satellites"
+    ],
+    [
+      "startups",
+      "enabled by",
+      "miniaturization"
+    ],
+    [
+      "startups",
+      "utilized by",
+      "communication"
+    ],
+    [
+      "startups",
+      "utilizes",
+      "valuable data"
+    ],
+    [
+      "storm tracking",
+      "aids",
+      "valuable data"
+    ],
+    [
+      "storm tracking",
+      "benefits",
+      "remote areas"
+    ],
+    [
+      "storm tracking",
+      "enhances",
+      "global connectivity"
+    ],
+    [
+      "storm tracking",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "storm tracking",
+      "informs",
+      "weather forecasting"
+    ],
+    [
+      "storm tracking",
+      "provides data for",
+      "meteorologists"
+    ],
+    [
+      "storm tracking",
+      "supports",
+      "monitoring capabilities"
+    ],
+    [
+      "storm tracking",
+      "supports",
+      "remote sensing"
+    ],
+    [
+      "storm tracking",
+      "utilizes",
+      "weather satellites"
+    ],
+    [
+      "technology",
+      "advances",
+      "communication satellites"
+    ],
+    [
+      "technology",
+      "drives",
+      "global connectivity"
+    ],
+    [
+      "technology",
+      "enables",
+      "Earth stations"
+    ],
+    [
+      "technology",
+      "enables",
+      "data transmission"
+    ],
+    [
+      "technology",
+      "enables",
+      "miniaturization"
+    ],
+    [
+      "technology",
+      "increases",
+      "accessibility"
+    ],
+    [
+      "technology",
+      "is enhanced by",
+      "communication"
+    ],
+    [
+      "technology",
+      "is utilized in",
+      "satellites"
+    ],
+    [
+      "technology",
+      "supports",
+      "startups"
+    ],
+    [
+      "technology",
+      "transmits",
+      "radio signals"
+    ],
+    [
+      "technology",
+      "utilized for",
+      "valuable data"
+    ],
+    [
+      "telecommunications",
+      "enables",
+      "data gathering"
+    ],
+    [
+      "telecommunications",
+      "enhances",
+      "Earth observation"
+    ],
+    [
+      "telecommunications",
+      "facilitates",
+      "monitoring"
+    ],
+    [
+      "telecommunications",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "telecommunications",
+      "is improved by",
+      "operational lifetimes"
+    ],
+    [
+      "telecommunications",
+      "powers",
+      "solar panels"
+    ],
+    [
+      "telecommunications",
+      "supports",
+      "CubeSats"
+    ],
+    [
+      "telecommunications",
+      "supports",
+      "coverage"
+    ],
+    [
+      "telecommunications",
+      "supports",
+      "remote areas"
+    ],
+    [
+      "telecommunications",
+      "utilizes",
+      "satellite functions"
+    ],
+    [
+      "telecommunications",
+      "utilizes",
+      "scientific research"
+    ],
+    [
+      "telecommunications",
+      "utilizes",
+      "weather satellites"
+    ],
+    [
+      "valuable data",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "valuable data",
+      "informs about",
+      "natural disasters"
+    ],
+    [
+      "valuable data",
+      "is utilized for",
+      "data gathering"
+    ],
+    [
+      "valuable data",
+      "produced by",
+      "advancements"
+    ],
+    [
+      "valuable data",
+      "produced by",
+      "remote sensing"
+    ],
+    [
+      "valuable data",
+      "produces",
+      "environmental monitoring"
+    ],
+    [
+      "valuable data",
+      "provides",
+      "coverage"
+    ],
+    [
+      "valuable data",
+      "provides",
+      "data transmission"
+    ],
+    [
+      "valuable data",
+      "provides",
+      "future technology"
+    ],
+    [
+      "valuable data",
+      "provides",
+      "scientific research"
+    ],
+    [
+      "valuable data",
+      "receives",
+      "education"
+    ],
+    [
+      "valuable data",
+      "supports",
+      "climate monitoring"
+    ],
+    [
+      "valuable data",
+      "transmits to",
+      "Earth stations"
+    ],
+    [
+      "weather forecasting",
+      "aids",
+      "meteorologists"
+    ],
+    [
+      "weather forecasting",
+      "applies to",
+      "industry applications"
+    ],
+    [
+      "weather forecasting",
+      "connects to",
+      "Earth stations"
+    ],
+    [
+      "weather forecasting",
+      "contributes to",
+      "climate monitoring"
+    ],
+    [
+      "weather forecasting",
+      "enables",
+      "global connectivity"
+    ],
+    [
+      "weather forecasting",
+      "enables",
+      "satellite functions"
+    ],
+    [
+      "weather forecasting",
+      "influences",
+      "Earth gravity"
+    ],
+    [
+      "weather forecasting",
+      "informs",
+      "monitoring"
+    ],
+    [
+      "weather forecasting",
+      "is supported by",
+      "data gathering"
+    ],
+    [
+      "weather forecasting",
+      "provides",
+      "valuable data"
+    ],
+    [
+      "weather forecasting",
+      "serves",
+      "remote areas"
+    ],
+    [
+      "weather forecasting",
+      "supports",
+      "developing countries"
+    ],
+    [
+      "weather forecasting",
+      "supports",
+      "scientific research"
+    ],
+    [
+      "weather forecasting",
+      "supports",
+      "telecommunications"
+    ],
+    [
+      "weather forecasting",
+      "utilizes",
+      "remote sensing"
+    ],
+    [
+      "weather forecasting",
+      "utilizes",
+      "weather satellites"
+    ],
+    [
+      "weather satellites",
+      "communicates with",
+      "radio signals"
+    ],
+    [
+      "weather satellites",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "weather satellites",
+      "enhances",
+      "global connectivity"
+    ],
+    [
+      "weather satellites",
+      "faces",
+      "global challenges"
+    ],
+    [
+      "weather satellites",
+      "is a result of",
+      "environmental monitoring"
+    ],
+    [
+      "weather satellites",
+      "is supported by",
+      "broadcasting"
+    ],
+    [
+      "weather satellites",
+      "monitors",
+      "monitoring"
+    ],
+    [
+      "weather satellites",
+      "powers",
+      "power systems"
+    ],
+    [
+      "weather satellites",
+      "produces",
+      "valuable data"
+    ],
+    [
+      "weather satellites",
+      "provides",
+      "coverage"
+    ],
+    [
+      "weather satellites",
+      "provides data for",
+      "Earth stations"
+    ],
+    [
+      "weather satellites",
+      "provides data for",
+      "scientific research"
+    ],
+    [
+      "weather satellites",
+      "serves",
+      "launch purposes"
+    ],
+    [
+      "weather satellites",
+      "utilized by",
+      "satellite orbits"
+    ]
+  ],
+  "edges": [
+    "address",
+    "addresses",
+    "advances",
+    "affects",
+    "aided by",
+    "aids",
+    "aids in",
+    "analyzed by",
+    "applies to",
+    "assists",
+    "benefits",
+    "benefits from",
+    "categorizes",
+    "collects",
+    "communicates with",
+    "complements",
+    "comprises",
+    "conducts",
+    "connects to",
+    "constitutes",
+    "contributes to",
+    "defines",
+    "dependent on",
+    "depends on",
+    "derived from",
+    "designed for",
+    "determines",
+    "driven by",
+    "drives",
+    "enabled by",
+    "enables",
+    "enhanced by",
+    "enhances",
+    "ensures",
+    "extended by",
+    "extends",
+    "faces",
+    "facilitated by",
+    "facilitates",
+    "forecasted by",
+    "fuels",
+    "generates",
+    "improved by",
+    "improves",
+    "includes",
+    "increases",
+    "influenced by",
+    "influences",
+    "informs",
+    "informs about",
+    "involves",
+    "is a component of",
+    "is a function of",
+    "is a result of",
+    "is a type of",
+    "is communicated with",
+    "is connected to",
+    "is driven by",
+    "is enhanced by",
+    "is facilitated by",
+    "is generated by",
+    "is improved by",
+    "is influenced by",
+    "is informed by",
+    "is observed by",
+    "is performed by",
+    "is produced by",
+    "is provided by",
+    "is supported by",
+    "is used by",
+    "is utilized by",
+    "is utilized for",
+    "is utilized in",
+    "mitigates",
+    "monitored by",
+    "monitors",
+    "operates",
+    "powered by",
+    "powers",
+    "predicts",
+    "produced by",
+    "produces",
+    "promoted by",
+    "provided by",
+    "provides",
+    "provides components for",
+    "provides data for",
+    "provides energy to",
+    "received by",
+    "receives",
+    "relies on",
+    "requires",
+    "serves",
+    "serves in",
+    "supported by",
+    "supports",
+    "transmits",
+    "transmits to",
+    "transmits via",
+    "transmitted by",
+    "transmitted through",
+    "transmitted via",
+    "used for",
+    "utilized by",
+    "utilized for",
+    "utilizes",
+    "utilizes for"
+  ]
+}

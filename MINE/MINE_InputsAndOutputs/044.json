@@ -1,0 +1,1251 @@
+{
+  "entities": [
+    "advancements",
+    "communication",
+    "computers",
+    "connectivity",
+    "crime reduction",
+    "economic growth",
+    "economy",
+    "electric appliances",
+    "electric cars",
+    "electrical engineering",
+    "electricity",
+    "electronic devices",
+    "energy efficiency",
+    "environmental safety",
+    "factories",
+    "global trade",
+    "greenhouse gas emissions",
+    "health benefits",
+    "healthcare breakthroughs",
+    "home convenience",
+    "impact",
+    "indoor climate control",
+    "industrialization",
+    "innovations",
+    "internet",
+    "job creation",
+    "labor efficiency",
+    "manufacturing",
+    "mass production",
+    "medical technology",
+    "modernization",
+    "production efficiency",
+    "public health",
+    "quality of life",
+    "revolution",
+    "safety improvements",
+    "society",
+    "standard of living",
+    "sustainable energy",
+    "technology",
+    "telecommunications",
+    "telegraph",
+    "telephone",
+    "time savings",
+    "transportation",
+    "urban development"
+  ],
+  "relations": [
+    [
+      "advancements",
+      "driven by",
+      "medical technology"
+    ],
+    [
+      "advancements",
+      "enabled",
+      "telephone"
+    ],
+    [
+      "advancements",
+      "powered by",
+      "electric cars"
+    ],
+    [
+      "communication",
+      "enables",
+      "computers"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "telecommunications"
+    ],
+    [
+      "communication",
+      "shaped by",
+      "impact"
+    ],
+    [
+      "communication",
+      "supports",
+      "connectivity"
+    ],
+    [
+      "computers",
+      "enhances",
+      "labor efficiency"
+    ],
+    [
+      "computers",
+      "enhances",
+      "production efficiency"
+    ],
+    [
+      "computers",
+      "leads to",
+      "advancements"
+    ],
+    [
+      "computers",
+      "promoted",
+      "sustainable energy"
+    ],
+    [
+      "crime reduction",
+      "advances",
+      "standard of living"
+    ],
+    [
+      "crime reduction",
+      "contributed to",
+      "time savings"
+    ],
+    [
+      "crime reduction",
+      "contributes to",
+      "electric appliances"
+    ],
+    [
+      "crime reduction",
+      "enables",
+      "mass production"
+    ],
+    [
+      "crime reduction",
+      "provides",
+      "environmental safety"
+    ],
+    [
+      "crime reduction",
+      "utilizes",
+      "greenhouse gas emissions"
+    ],
+    [
+      "economic growth",
+      "driven by",
+      "global trade"
+    ],
+    [
+      "economic growth",
+      "drives",
+      "energy efficiency"
+    ],
+    [
+      "economic growth",
+      "drives",
+      "industrialization"
+    ],
+    [
+      "economic growth",
+      "drives",
+      "production efficiency"
+    ],
+    [
+      "economic growth",
+      "increases",
+      "labor efficiency"
+    ],
+    [
+      "economic growth",
+      "provides",
+      "time savings"
+    ],
+    [
+      "economic growth",
+      "reduced",
+      "crime reduction"
+    ],
+    [
+      "economic growth",
+      "result of",
+      "job creation"
+    ],
+    [
+      "economic growth",
+      "supported by",
+      "factories"
+    ],
+    [
+      "economy",
+      "enables",
+      "global trade"
+    ],
+    [
+      "economy",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "economy",
+      "improves",
+      "connectivity"
+    ],
+    [
+      "economy",
+      "powers",
+      "factories"
+    ],
+    [
+      "electric appliances",
+      "advances",
+      "time savings"
+    ],
+    [
+      "electric appliances",
+      "enables",
+      "mass production"
+    ],
+    [
+      "electric appliances",
+      "facilitated by",
+      "telephone"
+    ],
+    [
+      "electric appliances",
+      "improved by",
+      "public health"
+    ],
+    [
+      "electric appliances",
+      "increased",
+      "energy efficiency"
+    ],
+    [
+      "electric appliances",
+      "powered by",
+      "internet"
+    ],
+    [
+      "electric appliances",
+      "powers",
+      "healthcare breakthroughs"
+    ],
+    [
+      "electric appliances",
+      "utilized by",
+      "computers"
+    ],
+    [
+      "electric appliances",
+      "utilized by",
+      "electronic devices"
+    ],
+    [
+      "electric cars",
+      "improved by",
+      "standard of living"
+    ],
+    [
+      "electric cars",
+      "leads to",
+      "time savings"
+    ],
+    [
+      "electric cars",
+      "powered by",
+      "transportation"
+    ],
+    [
+      "electrical engineering",
+      "advances",
+      "medical technology"
+    ],
+    [
+      "electrical engineering",
+      "improves",
+      "public health"
+    ],
+    [
+      "electrical engineering",
+      "influenced by",
+      "impact"
+    ],
+    [
+      "electrical engineering",
+      "influenced by",
+      "society"
+    ],
+    [
+      "electricity",
+      "powered by",
+      "computers"
+    ],
+    [
+      "electricity",
+      "powered by",
+      "telephone"
+    ],
+    [
+      "electricity",
+      "powers",
+      "electric cars"
+    ],
+    [
+      "electricity",
+      "powers",
+      "internet"
+    ],
+    [
+      "electricity",
+      "shaped by",
+      "impact"
+    ],
+    [
+      "electricity",
+      "utilized by",
+      "electric appliances"
+    ],
+    [
+      "electronic devices",
+      "complements",
+      "electric appliances"
+    ],
+    [
+      "electronic devices",
+      "contributed to",
+      "economic growth"
+    ],
+    [
+      "electronic devices",
+      "drives",
+      "modernization"
+    ],
+    [
+      "electronic devices",
+      "enables",
+      "labor efficiency"
+    ],
+    [
+      "electronic devices",
+      "enhanced",
+      "home convenience"
+    ],
+    [
+      "electronic devices",
+      "facilitated",
+      "time savings"
+    ],
+    [
+      "electronic devices",
+      "leads to",
+      "advancements"
+    ],
+    [
+      "electronic devices",
+      "regulates",
+      "indoor climate control"
+    ],
+    [
+      "energy efficiency",
+      "enhanced by",
+      "labor efficiency"
+    ],
+    [
+      "energy efficiency",
+      "improved by",
+      "advancements"
+    ],
+    [
+      "environmental safety",
+      "enables",
+      "health benefits"
+    ],
+    [
+      "environmental safety",
+      "enhanced by",
+      "energy efficiency"
+    ],
+    [
+      "environmental safety",
+      "enhances",
+      "medical technology"
+    ],
+    [
+      "environmental safety",
+      "improved",
+      "healthcare breakthroughs"
+    ],
+    [
+      "environmental safety",
+      "promotes",
+      "electric cars"
+    ],
+    [
+      "factories",
+      "drives",
+      "industrialization"
+    ],
+    [
+      "factories",
+      "enabled by",
+      "production efficiency"
+    ],
+    [
+      "factories",
+      "supports",
+      "transportation"
+    ],
+    [
+      "global trade",
+      "driven by",
+      "industrialization"
+    ],
+    [
+      "global trade",
+      "facilitated by",
+      "communication"
+    ],
+    [
+      "global trade",
+      "facilitated by",
+      "telegraph"
+    ],
+    [
+      "global trade",
+      "facilitates",
+      "telephone"
+    ],
+    [
+      "global trade",
+      "supports",
+      "factories"
+    ],
+    [
+      "health benefits",
+      "resulted in",
+      "time savings"
+    ],
+    [
+      "health benefits",
+      "utilizes",
+      "advancements"
+    ],
+    [
+      "home convenience",
+      "enhanced by",
+      "energy efficiency"
+    ],
+    [
+      "home convenience",
+      "enhances",
+      "safety improvements"
+    ],
+    [
+      "home convenience",
+      "facilitated by",
+      "telephone"
+    ],
+    [
+      "home convenience",
+      "facilitates",
+      "job creation"
+    ],
+    [
+      "home convenience",
+      "improves",
+      "healthcare breakthroughs"
+    ],
+    [
+      "home convenience",
+      "provides",
+      "health benefits"
+    ],
+    [
+      "home convenience",
+      "provides",
+      "production efficiency"
+    ],
+    [
+      "home convenience",
+      "reduces",
+      "crime reduction"
+    ],
+    [
+      "impact",
+      "affects",
+      "communication"
+    ],
+    [
+      "impact",
+      "shaped by",
+      "economy"
+    ],
+    [
+      "indoor climate control",
+      "enables",
+      "electricity"
+    ],
+    [
+      "indoor climate control",
+      "enables",
+      "home convenience"
+    ],
+    [
+      "indoor climate control",
+      "enhanced",
+      "healthcare breakthroughs"
+    ],
+    [
+      "indoor climate control",
+      "enhanced by",
+      "advancements"
+    ],
+    [
+      "indoor climate control",
+      "enhances",
+      "standard of living"
+    ],
+    [
+      "indoor climate control",
+      "improves",
+      "public health"
+    ],
+    [
+      "indoor climate control",
+      "resulted in",
+      "time savings"
+    ],
+    [
+      "indoor climate control",
+      "stimulates",
+      "mass production"
+    ],
+    [
+      "indoor climate control",
+      "utilizes",
+      "electric appliances"
+    ],
+    [
+      "industrialization",
+      "contributes to",
+      "urban development"
+    ],
+    [
+      "industrialization",
+      "driven by",
+      "telegraph"
+    ],
+    [
+      "industrialization",
+      "enables",
+      "mass production"
+    ],
+    [
+      "innovations",
+      "affects",
+      "indoor climate control"
+    ],
+    [
+      "innovations",
+      "enhanced by",
+      "medical technology"
+    ],
+    [
+      "innovations",
+      "improved by",
+      "energy efficiency"
+    ],
+    [
+      "innovations",
+      "leads to",
+      "healthcare breakthroughs"
+    ],
+    [
+      "innovations",
+      "provides",
+      "health benefits"
+    ],
+    [
+      "innovations",
+      "provides",
+      "time savings"
+    ],
+    [
+      "internet",
+      "enabled",
+      "healthcare breakthroughs"
+    ],
+    [
+      "internet",
+      "enabled by",
+      "communication"
+    ],
+    [
+      "internet",
+      "enables",
+      "telecommunications"
+    ],
+    [
+      "internet",
+      "enhanced",
+      "quality of life"
+    ],
+    [
+      "internet",
+      "enhanced by",
+      "electronic devices"
+    ],
+    [
+      "internet",
+      "enhanced by",
+      "transportation"
+    ],
+    [
+      "internet",
+      "enhances",
+      "indoor climate control"
+    ],
+    [
+      "internet",
+      "enhances",
+      "standard of living"
+    ],
+    [
+      "internet",
+      "powers",
+      "time savings"
+    ],
+    [
+      "internet",
+      "stimulated by",
+      "industrialization"
+    ],
+    [
+      "job creation",
+      "driven by",
+      "production efficiency"
+    ],
+    [
+      "job creation",
+      "drives",
+      "internet"
+    ],
+    [
+      "job creation",
+      "facilitated",
+      "global trade"
+    ],
+    [
+      "job creation",
+      "fosters",
+      "urban development"
+    ],
+    [
+      "job creation",
+      "increased",
+      "labor efficiency"
+    ],
+    [
+      "job creation",
+      "promotes",
+      "environmental safety"
+    ],
+    [
+      "job creation",
+      "provided",
+      "factories"
+    ],
+    [
+      "job creation",
+      "provides",
+      "manufacturing"
+    ],
+    [
+      "job creation",
+      "results in",
+      "crime reduction"
+    ],
+    [
+      "job creation",
+      "results in",
+      "modernization"
+    ],
+    [
+      "job creation",
+      "stimulated by",
+      "transportation"
+    ],
+    [
+      "job creation",
+      "supports",
+      "safety improvements"
+    ],
+    [
+      "labor efficiency",
+      "contributes to",
+      "time savings"
+    ],
+    [
+      "labor efficiency",
+      "enhanced by",
+      "global trade"
+    ],
+    [
+      "labor efficiency",
+      "facilitates",
+      "industrialization"
+    ],
+    [
+      "labor efficiency",
+      "improved by",
+      "greenhouse gas emissions"
+    ],
+    [
+      "labor efficiency",
+      "improves",
+      "production efficiency"
+    ],
+    [
+      "labor efficiency",
+      "promotes",
+      "telephone"
+    ],
+    [
+      "manufacturing",
+      "drives",
+      "economic growth"
+    ],
+    [
+      "manufacturing",
+      "drives",
+      "industrialization"
+    ],
+    [
+      "manufacturing",
+      "enhanced by",
+      "medical technology"
+    ],
+    [
+      "manufacturing",
+      "enhanced by",
+      "telephone"
+    ],
+    [
+      "manufacturing",
+      "resulted in",
+      "mass production"
+    ],
+    [
+      "manufacturing",
+      "transformed",
+      "society"
+    ],
+    [
+      "medical technology",
+      "benefits from",
+      "public health"
+    ],
+    [
+      "medical technology",
+      "enhanced by",
+      "healthcare breakthroughs"
+    ],
+    [
+      "medical technology",
+      "enhanced by",
+      "telecommunications"
+    ],
+    [
+      "medical technology",
+      "powered by",
+      "electric cars"
+    ],
+    [
+      "medical technology",
+      "utilized in",
+      "factories"
+    ],
+    [
+      "modernization",
+      "advanced",
+      "medical technology"
+    ],
+    [
+      "modernization",
+      "contributes to",
+      "production efficiency"
+    ],
+    [
+      "modernization",
+      "drives",
+      "advancements"
+    ],
+    [
+      "modernization",
+      "drives",
+      "computers"
+    ],
+    [
+      "modernization",
+      "drives",
+      "industrialization"
+    ],
+    [
+      "modernization",
+      "enables",
+      "telegraph"
+    ],
+    [
+      "modernization",
+      "enhances",
+      "standard of living"
+    ],
+    [
+      "modernization",
+      "facilitates",
+      "indoor climate control"
+    ],
+    [
+      "modernization",
+      "facilitates",
+      "telephone"
+    ],
+    [
+      "modernization",
+      "improves",
+      "electricity"
+    ],
+    [
+      "modernization",
+      "promotes",
+      "electric appliances"
+    ],
+    [
+      "modernization",
+      "provides",
+      "time savings"
+    ],
+    [
+      "modernization",
+      "supported",
+      "sustainable energy"
+    ],
+    [
+      "production efficiency",
+      "enhanced by",
+      "energy efficiency"
+    ],
+    [
+      "production efficiency",
+      "increases",
+      "industrialization"
+    ],
+    [
+      "production efficiency",
+      "leads to",
+      "time savings"
+    ],
+    [
+      "public health",
+      "improved by",
+      "medical technology"
+    ],
+    [
+      "public health",
+      "improves",
+      "standard of living"
+    ],
+    [
+      "quality of life",
+      "enhanced by",
+      "medical technology"
+    ],
+    [
+      "quality of life",
+      "enhances",
+      "health benefits"
+    ],
+    [
+      "quality of life",
+      "enhances",
+      "transportation"
+    ],
+    [
+      "quality of life",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "revolution",
+      "enables",
+      "mass production"
+    ],
+    [
+      "revolution",
+      "supports",
+      "sustainable energy"
+    ],
+    [
+      "safety improvements",
+      "contributed to",
+      "healthcare breakthroughs"
+    ],
+    [
+      "safety improvements",
+      "drives",
+      "innovations"
+    ],
+    [
+      "safety improvements",
+      "facilitates",
+      "energy efficiency"
+    ],
+    [
+      "safety improvements",
+      "improved by",
+      "technology"
+    ],
+    [
+      "safety improvements",
+      "improves",
+      "electric appliances"
+    ],
+    [
+      "safety improvements",
+      "improves",
+      "standard of living"
+    ],
+    [
+      "safety improvements",
+      "improves",
+      "telephone"
+    ],
+    [
+      "safety improvements",
+      "influences",
+      "medical technology"
+    ],
+    [
+      "safety improvements",
+      "results in",
+      "quality of life"
+    ],
+    [
+      "safety improvements",
+      "results in",
+      "time savings"
+    ],
+    [
+      "society",
+      "enhanced by",
+      "telephone"
+    ],
+    [
+      "society",
+      "transformed by",
+      "transportation"
+    ],
+    [
+      "standard of living",
+      "enhanced by",
+      "electronic devices"
+    ],
+    [
+      "standard of living",
+      "results in",
+      "time savings"
+    ],
+    [
+      "sustainable energy",
+      "reduced by",
+      "greenhouse gas emissions"
+    ],
+    [
+      "technology",
+      "driven by",
+      "electronic devices"
+    ],
+    [
+      "technology",
+      "drives",
+      "economic growth"
+    ],
+    [
+      "technology",
+      "enables",
+      "mass production"
+    ],
+    [
+      "technology",
+      "enables",
+      "telecommunications"
+    ],
+    [
+      "technology",
+      "enables",
+      "time savings"
+    ],
+    [
+      "technology",
+      "enhances",
+      "communication"
+    ],
+    [
+      "technology",
+      "enhances",
+      "standard of living"
+    ],
+    [
+      "technology",
+      "facilitates",
+      "electric cars"
+    ],
+    [
+      "technology",
+      "facilitates",
+      "global trade"
+    ],
+    [
+      "technology",
+      "fueled by",
+      "innovations"
+    ],
+    [
+      "technology",
+      "improves",
+      "healthcare breakthroughs"
+    ],
+    [
+      "technology",
+      "improves",
+      "labor efficiency"
+    ],
+    [
+      "technology",
+      "powers",
+      "internet"
+    ],
+    [
+      "technology",
+      "promotes",
+      "environmental safety"
+    ],
+    [
+      "technology",
+      "shapes",
+      "society"
+    ],
+    [
+      "technology",
+      "supports",
+      "factories"
+    ],
+    [
+      "telecommunications",
+      "drives",
+      "industrialization"
+    ],
+    [
+      "telecommunications",
+      "enhanced by",
+      "production efficiency"
+    ],
+    [
+      "telecommunications",
+      "enhanced by",
+      "safety improvements"
+    ],
+    [
+      "telecommunications",
+      "supports",
+      "transportation"
+    ],
+    [
+      "telegraph",
+      "enabled by",
+      "internet"
+    ],
+    [
+      "telegraph",
+      "enabled through",
+      "global trade"
+    ],
+    [
+      "telegraph",
+      "facilitates",
+      "connectivity"
+    ],
+    [
+      "telegraph",
+      "facilitates",
+      "telecommunications"
+    ],
+    [
+      "telegraph",
+      "influenced by",
+      "computers"
+    ],
+    [
+      "telegraph",
+      "influenced by",
+      "impact"
+    ],
+    [
+      "telephone",
+      "drives",
+      "industrialization"
+    ],
+    [
+      "telephone",
+      "facilitated by",
+      "internet"
+    ],
+    [
+      "telephone",
+      "facilitates",
+      "transportation"
+    ],
+    [
+      "telephone",
+      "powers",
+      "factories"
+    ],
+    [
+      "telephone",
+      "revolutionized by",
+      "technology"
+    ],
+    [
+      "telephone",
+      "used in",
+      "electric appliances"
+    ],
+    [
+      "time savings",
+      "depends on",
+      "telecommunications"
+    ],
+    [
+      "time savings",
+      "enables",
+      "job creation"
+    ],
+    [
+      "time savings",
+      "facilitated by",
+      "transportation"
+    ],
+    [
+      "transportation",
+      "enabled by",
+      "telegraph"
+    ],
+    [
+      "transportation",
+      "influences",
+      "environmental safety"
+    ],
+    [
+      "transportation",
+      "promotes",
+      "sustainable energy"
+    ],
+    [
+      "urban development",
+      "enhanced by",
+      "telephone"
+    ],
+    [
+      "urban development",
+      "enhances",
+      "health benefits"
+    ],
+    [
+      "urban development",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "urban development",
+      "enhances",
+      "telecommunications"
+    ],
+    [
+      "urban development",
+      "promotes",
+      "environmental safety"
+    ],
+    [
+      "urban development",
+      "supported",
+      "mass production"
+    ],
+    [
+      "urban development",
+      "supports",
+      "transportation"
+    ]
+  ],
+  "edges": [
+    "advanced",
+    "advances",
+    "affects",
+    "benefits from",
+    "complements",
+    "contributed to",
+    "contributes to",
+    "depends on",
+    "driven by",
+    "drives",
+    "enabled",
+    "enabled by",
+    "enabled through",
+    "enables",
+    "enhanced",
+    "enhanced by",
+    "enhances",
+    "facilitated",
+    "facilitated by",
+    "facilitates",
+    "fosters",
+    "fueled by",
+    "improved",
+    "improved by",
+    "improves",
+    "increased",
+    "increases",
+    "influenced by",
+    "influences",
+    "leads to",
+    "powered by",
+    "powers",
+    "promoted",
+    "promotes",
+    "provided",
+    "provides",
+    "reduced",
+    "reduced by",
+    "reduces",
+    "regulates",
+    "result of",
+    "resulted in",
+    "results in",
+    "revolutionized by",
+    "shaped by",
+    "shapes",
+    "stimulated by",
+    "stimulates",
+    "supported",
+    "supported by",
+    "supports",
+    "transformed",
+    "transformed by",
+    "used in",
+    "utilized by",
+    "utilized in",
+    "utilizes"
+  ]
+}

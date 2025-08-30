@@ -1,0 +1,1797 @@
+{
+  "entities": [
+    "ancient times",
+    "authenticity",
+    "bloody hook",
+    "blurred reality",
+    "captivated audiences",
+    "car door",
+    "cautionary tales",
+    "collective imagination",
+    "communication",
+    "community protection",
+    "constant themes",
+    "cursed objects",
+    "entertainment value",
+    "escaped criminal",
+    "fact and fiction",
+    "fear of danger",
+    "generational stories",
+    "ghostly apparitions",
+    "global audience",
+    "haunted houses",
+    "historical figures",
+    "interconnected societies",
+    "internet",
+    "modern folklore",
+    "mysterious creatures",
+    "mystery",
+    "news report",
+    "oral tradition",
+    "paranormal stories",
+    "popular culture",
+    "proliferation",
+    "rapid transmission",
+    "scratching sound",
+    "secluded areas",
+    "social media",
+    "societal fears",
+    "supernatural",
+    "technology",
+    "terrifying encounters",
+    "trade and travel",
+    "underlying fear",
+    "urban legends",
+    "young couple"
+  ],
+  "relations": [
+    [
+      "ancient times",
+      "enabled",
+      "trade and travel"
+    ],
+    [
+      "ancient times",
+      "evolved from",
+      "modern folklore"
+    ],
+    [
+      "ancient times",
+      "led to",
+      "interconnected societies"
+    ],
+    [
+      "ancient times",
+      "originated in",
+      "authenticity"
+    ],
+    [
+      "ancient times",
+      "originated in",
+      "blurred reality"
+    ],
+    [
+      "ancient times",
+      "originated in",
+      "collective imagination"
+    ],
+    [
+      "ancient times",
+      "provides",
+      "entertainment value"
+    ],
+    [
+      "authenticity",
+      "question",
+      "blurred reality"
+    ],
+    [
+      "authenticity",
+      "questions",
+      "urban legends"
+    ],
+    [
+      "bloody hook",
+      "attached to",
+      "car door"
+    ],
+    [
+      "bloody hook",
+      "contributes to",
+      "blurred reality"
+    ],
+    [
+      "bloody hook",
+      "fascinated",
+      "captivated audiences"
+    ],
+    [
+      "bloody hook",
+      "left by",
+      "escaped criminal"
+    ],
+    [
+      "bloody hook",
+      "part of",
+      "modern folklore"
+    ],
+    [
+      "bloody hook",
+      "symbolizes",
+      "fear of danger"
+    ],
+    [
+      "bloody hook",
+      "symbolizes",
+      "societal fears"
+    ],
+    [
+      "bloody hook",
+      "terrified",
+      "young couple"
+    ],
+    [
+      "blurred reality",
+      "include",
+      "constant themes"
+    ],
+    [
+      "blurred reality",
+      "includes",
+      "supernatural"
+    ],
+    [
+      "blurred reality",
+      "influence",
+      "historical figures"
+    ],
+    [
+      "blurred reality",
+      "serve as",
+      "cautionary tales"
+    ],
+    [
+      "captivated audiences",
+      "attracted by",
+      "entertainment value"
+    ],
+    [
+      "captivated audiences",
+      "captivate",
+      "mysterious creatures"
+    ],
+    [
+      "captivated audiences",
+      "contributes to",
+      "popular culture"
+    ],
+    [
+      "captivated audiences",
+      "engages",
+      "blurred reality"
+    ],
+    [
+      "captivated audiences",
+      "engages",
+      "social media"
+    ],
+    [
+      "captivated audiences",
+      "enhanced by",
+      "communication"
+    ],
+    [
+      "captivated audiences",
+      "evoke",
+      "fear of danger"
+    ],
+    [
+      "captivated audiences",
+      "fascinated by",
+      "ghostly apparitions"
+    ],
+    [
+      "captivated audiences",
+      "reached through",
+      "internet"
+    ],
+    [
+      "captivated audiences",
+      "reflect",
+      "societal fears"
+    ],
+    [
+      "cautionary tales",
+      "originated from",
+      "ancient times"
+    ],
+    [
+      "cautionary tales",
+      "reflected in",
+      "community protection"
+    ],
+    [
+      "cautionary tales",
+      "reflects",
+      "supernatural"
+    ],
+    [
+      "cautionary tales",
+      "set in",
+      "secluded areas"
+    ],
+    [
+      "cautionary tales",
+      "spread through",
+      "social media"
+    ],
+    [
+      "cautionary tales",
+      "warns",
+      "young couple"
+    ],
+    [
+      "collective imagination",
+      "blurs",
+      "fact and fiction"
+    ],
+    [
+      "collective imagination",
+      "create",
+      "terrifying encounters"
+    ],
+    [
+      "collective imagination",
+      "created by",
+      "bloody hook"
+    ],
+    [
+      "collective imagination",
+      "creates",
+      "blurred reality"
+    ],
+    [
+      "collective imagination",
+      "creates",
+      "mystery"
+    ],
+    [
+      "collective imagination",
+      "driven by",
+      "proliferation"
+    ],
+    [
+      "collective imagination",
+      "fuel",
+      "fear of danger"
+    ],
+    [
+      "collective imagination",
+      "includes",
+      "constant themes"
+    ],
+    [
+      "collective imagination",
+      "influences",
+      "popular culture"
+    ],
+    [
+      "collective imagination",
+      "influences",
+      "societal fears"
+    ],
+    [
+      "collective imagination",
+      "inspired",
+      "cautionary tales"
+    ],
+    [
+      "collective imagination",
+      "inspired",
+      "mysterious creatures"
+    ],
+    [
+      "collective imagination",
+      "inspired by",
+      "captivated audiences"
+    ],
+    [
+      "collective imagination",
+      "inspired by",
+      "paranormal stories"
+    ],
+    [
+      "collective imagination",
+      "inspired by",
+      "supernatural"
+    ],
+    [
+      "communication",
+      "amplifies",
+      "societal fears"
+    ],
+    [
+      "communication",
+      "enabled by",
+      "internet"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "blurred reality"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "interconnected societies"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "popular culture"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "social media"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "terrifying encounters"
+    ],
+    [
+      "communication",
+      "reached",
+      "global audience"
+    ],
+    [
+      "community protection",
+      "addresses",
+      "societal fears"
+    ],
+    [
+      "community protection",
+      "arise from",
+      "terrifying encounters"
+    ],
+    [
+      "community protection",
+      "enhanced by",
+      "modern folklore"
+    ],
+    [
+      "community protection",
+      "inspired by",
+      "collective imagination"
+    ],
+    [
+      "community protection",
+      "mitigates",
+      "blurred reality"
+    ],
+    [
+      "community protection",
+      "originated in",
+      "ancient times"
+    ],
+    [
+      "community protection",
+      "promotes",
+      "fear of danger"
+    ],
+    [
+      "community protection",
+      "protected by",
+      "mysterious creatures"
+    ],
+    [
+      "community protection",
+      "protects",
+      "paranormal stories"
+    ],
+    [
+      "constant themes",
+      "contribute to",
+      "entertainment value"
+    ],
+    [
+      "constant themes",
+      "explore",
+      "supernatural"
+    ],
+    [
+      "constant themes",
+      "feature",
+      "terrifying encounters"
+    ],
+    [
+      "constant themes",
+      "include",
+      "ghostly apparitions"
+    ],
+    [
+      "constant themes",
+      "include",
+      "mystery"
+    ],
+    [
+      "constant themes",
+      "includes",
+      "authenticity"
+    ],
+    [
+      "constant themes",
+      "influenced by",
+      "trade and travel"
+    ],
+    [
+      "constant themes",
+      "involves",
+      "young couple"
+    ],
+    [
+      "constant themes",
+      "reflect",
+      "fear of danger"
+    ],
+    [
+      "constant themes",
+      "reflect",
+      "technology"
+    ],
+    [
+      "constant themes",
+      "serve as",
+      "cautionary tales"
+    ],
+    [
+      "constant themes",
+      "spread",
+      "interconnected societies"
+    ],
+    [
+      "cursed objects",
+      "associated with",
+      "supernatural"
+    ],
+    [
+      "cursed objects",
+      "inspire",
+      "paranormal stories"
+    ],
+    [
+      "entertainment value",
+      "enhanced by",
+      "blurred reality"
+    ],
+    [
+      "entertainment value",
+      "enhanced by",
+      "community protection"
+    ],
+    [
+      "entertainment value",
+      "enhanced by",
+      "fear of danger"
+    ],
+    [
+      "entertainment value",
+      "enhanced by",
+      "secluded areas"
+    ],
+    [
+      "entertainment value",
+      "enhances",
+      "supernatural"
+    ],
+    [
+      "entertainment value",
+      "provide",
+      "cautionary tales"
+    ],
+    [
+      "entertainment value",
+      "provide",
+      "terrifying encounters"
+    ],
+    [
+      "entertainment value",
+      "reflect",
+      "societal fears"
+    ],
+    [
+      "escaped criminal",
+      "reported in",
+      "news report"
+    ],
+    [
+      "escaped criminal",
+      "targeted by",
+      "car door"
+    ],
+    [
+      "fact and fiction",
+      "blurs",
+      "blurred reality"
+    ],
+    [
+      "fact and fiction",
+      "distinguishes",
+      "community protection"
+    ],
+    [
+      "fact and fiction",
+      "originated in",
+      "ancient times"
+    ],
+    [
+      "fact and fiction",
+      "provides",
+      "entertainment value"
+    ],
+    [
+      "fear of danger",
+      "amplified by",
+      "internet"
+    ],
+    [
+      "fear of danger",
+      "amplifies",
+      "technology"
+    ],
+    [
+      "fear of danger",
+      "creates",
+      "blurred reality"
+    ],
+    [
+      "fear of danger",
+      "driven by",
+      "proliferation"
+    ],
+    [
+      "fear of danger",
+      "includes",
+      "supernatural"
+    ],
+    [
+      "fear of danger",
+      "influences",
+      "popular culture"
+    ],
+    [
+      "fear of danger",
+      "inspire",
+      "cautionary tales"
+    ],
+    [
+      "fear of danger",
+      "leads to",
+      "terrifying encounters"
+    ],
+    [
+      "fear of danger",
+      "stems from",
+      "societal fears"
+    ],
+    [
+      "generational stories",
+      "are",
+      "urban legends"
+    ],
+    [
+      "generational stories",
+      "captivates",
+      "captivated audiences"
+    ],
+    [
+      "generational stories",
+      "contain",
+      "mystery"
+    ],
+    [
+      "generational stories",
+      "contribute to",
+      "modern folklore"
+    ],
+    [
+      "generational stories",
+      "contributes to",
+      "blurred reality"
+    ],
+    [
+      "generational stories",
+      "feature",
+      "mysterious creatures"
+    ],
+    [
+      "generational stories",
+      "fuels",
+      "collective imagination"
+    ],
+    [
+      "generational stories",
+      "include",
+      "constant themes"
+    ],
+    [
+      "generational stories",
+      "include",
+      "supernatural"
+    ],
+    [
+      "generational stories",
+      "includes",
+      "terrifying encounters"
+    ],
+    [
+      "generational stories",
+      "influence",
+      "popular culture"
+    ],
+    [
+      "generational stories",
+      "originated in",
+      "ancient times"
+    ],
+    [
+      "generational stories",
+      "passed down as",
+      "authenticity"
+    ],
+    [
+      "generational stories",
+      "preserved by",
+      "oral tradition"
+    ],
+    [
+      "generational stories",
+      "promotes",
+      "community protection"
+    ],
+    [
+      "generational stories",
+      "provides",
+      "entertainment value"
+    ],
+    [
+      "generational stories",
+      "reflect",
+      "fear of danger"
+    ],
+    [
+      "generational stories",
+      "reflect",
+      "societal fears"
+    ],
+    [
+      "generational stories",
+      "reflected in",
+      "underlying fear"
+    ],
+    [
+      "generational stories",
+      "serve as",
+      "cautionary tales"
+    ],
+    [
+      "generational stories",
+      "shared via",
+      "social media"
+    ],
+    [
+      "generational stories",
+      "shared with",
+      "global audience"
+    ],
+    [
+      "ghostly apparitions",
+      "are examples of",
+      "supernatural"
+    ],
+    [
+      "ghostly apparitions",
+      "contributes to",
+      "blurred reality"
+    ],
+    [
+      "ghostly apparitions",
+      "evoke",
+      "fear of danger"
+    ],
+    [
+      "ghostly apparitions",
+      "part of",
+      "modern folklore"
+    ],
+    [
+      "ghostly apparitions",
+      "threaten",
+      "community protection"
+    ],
+    [
+      "global audience",
+      "address",
+      "societal fears"
+    ],
+    [
+      "global audience",
+      "composed of",
+      "interconnected societies"
+    ],
+    [
+      "global audience",
+      "create",
+      "blurred reality"
+    ],
+    [
+      "global audience",
+      "influences",
+      "fear of danger"
+    ],
+    [
+      "global audience",
+      "reaches",
+      "internet"
+    ],
+    [
+      "global audience",
+      "reaches",
+      "popular culture"
+    ],
+    [
+      "global audience",
+      "reaches",
+      "technology"
+    ],
+    [
+      "haunted houses",
+      "associated with",
+      "mystery"
+    ],
+    [
+      "haunted houses",
+      "associated with",
+      "supernatural"
+    ],
+    [
+      "haunted houses",
+      "captivate",
+      "captivated audiences"
+    ],
+    [
+      "haunted houses",
+      "contain",
+      "ghostly apparitions"
+    ],
+    [
+      "haunted houses",
+      "contributes to",
+      "blurred reality"
+    ],
+    [
+      "haunted houses",
+      "evoke",
+      "fear of danger"
+    ],
+    [
+      "haunted houses",
+      "evoke",
+      "underlying fear"
+    ],
+    [
+      "haunted houses",
+      "feature",
+      "paranormal stories"
+    ],
+    [
+      "haunted houses",
+      "include",
+      "terrifying encounters"
+    ],
+    [
+      "haunted houses",
+      "includes",
+      "modern folklore"
+    ],
+    [
+      "haunted houses",
+      "influences",
+      "popular culture"
+    ],
+    [
+      "haunted houses",
+      "inspire",
+      "generational stories"
+    ],
+    [
+      "haunted houses",
+      "inspired by",
+      "collective imagination"
+    ],
+    [
+      "haunted houses",
+      "necessitate",
+      "community protection"
+    ],
+    [
+      "haunted houses",
+      "provide",
+      "entertainment value"
+    ],
+    [
+      "haunted houses",
+      "reflect",
+      "societal fears"
+    ],
+    [
+      "haunted houses",
+      "serve as",
+      "cautionary tales"
+    ],
+    [
+      "interconnected societies",
+      "enhanced by",
+      "internet"
+    ],
+    [
+      "interconnected societies",
+      "enhanced by",
+      "social media"
+    ],
+    [
+      "interconnected societies",
+      "facilitated by",
+      "trade and travel"
+    ],
+    [
+      "interconnected societies",
+      "influenced by",
+      "popular culture"
+    ],
+    [
+      "interconnected societies",
+      "reflect",
+      "societal fears"
+    ],
+    [
+      "interconnected societies",
+      "spread",
+      "urban legends"
+    ],
+    [
+      "internet",
+      "disseminated through",
+      "generational stories"
+    ],
+    [
+      "internet",
+      "disseminates",
+      "urban legends"
+    ],
+    [
+      "internet",
+      "enhance",
+      "community protection"
+    ],
+    [
+      "internet",
+      "evolved into",
+      "oral tradition"
+    ],
+    [
+      "internet",
+      "shared through",
+      "terrifying encounters"
+    ],
+    [
+      "modern folklore",
+      "contributes to",
+      "blurred reality"
+    ],
+    [
+      "modern folklore",
+      "disseminated by",
+      "communication"
+    ],
+    [
+      "modern folklore",
+      "driven by",
+      "collective imagination"
+    ],
+    [
+      "modern folklore",
+      "engages",
+      "captivated audiences"
+    ],
+    [
+      "modern folklore",
+      "facilitated by",
+      "rapid transmission"
+    ],
+    [
+      "modern folklore",
+      "facilitated by",
+      "technology"
+    ],
+    [
+      "modern folklore",
+      "include",
+      "paranormal stories"
+    ],
+    [
+      "modern folklore",
+      "includes",
+      "constant themes"
+    ],
+    [
+      "modern folklore",
+      "includes",
+      "fear of danger"
+    ],
+    [
+      "modern folklore",
+      "includes",
+      "mysterious creatures"
+    ],
+    [
+      "modern folklore",
+      "includes",
+      "proliferation"
+    ],
+    [
+      "modern folklore",
+      "includes",
+      "supernatural"
+    ],
+    [
+      "modern folklore",
+      "influences",
+      "popular culture"
+    ],
+    [
+      "modern folklore",
+      "part of",
+      "interconnected societies"
+    ],
+    [
+      "modern folklore",
+      "provides",
+      "entertainment value"
+    ],
+    [
+      "modern folklore",
+      "reflects",
+      "societal fears"
+    ],
+    [
+      "modern folklore",
+      "serve as",
+      "cautionary tales"
+    ],
+    [
+      "modern folklore",
+      "spread through",
+      "social media"
+    ],
+    [
+      "mysterious creatures",
+      "contribute to",
+      "blurred reality"
+    ],
+    [
+      "mysterious creatures",
+      "contribute to",
+      "mystery"
+    ],
+    [
+      "mysterious creatures",
+      "feature",
+      "constant themes"
+    ],
+    [
+      "mysterious creatures",
+      "featured in",
+      "popular culture"
+    ],
+    [
+      "mysterious creatures",
+      "inspire",
+      "cautionary tales"
+    ],
+    [
+      "mysterious creatures",
+      "lead to",
+      "terrifying encounters"
+    ],
+    [
+      "mysterious creatures",
+      "part of",
+      "supernatural"
+    ],
+    [
+      "mysterious creatures",
+      "provides",
+      "entertainment value"
+    ],
+    [
+      "mysterious creatures",
+      "represent",
+      "societal fears"
+    ],
+    [
+      "mystery",
+      "enhanced by",
+      "secluded areas"
+    ],
+    [
+      "mystery",
+      "enhances",
+      "entertainment value"
+    ],
+    [
+      "news report",
+      "contributes to",
+      "blurred reality"
+    ],
+    [
+      "news report",
+      "featured in",
+      "bloody hook"
+    ],
+    [
+      "news report",
+      "informs",
+      "cautionary tales"
+    ],
+    [
+      "news report",
+      "warned",
+      "young couple"
+    ],
+    [
+      "oral tradition",
+      "blurs",
+      "fact and fiction"
+    ],
+    [
+      "oral tradition",
+      "contributes to",
+      "collective imagination"
+    ],
+    [
+      "oral tradition",
+      "evolved into",
+      "cautionary tales"
+    ],
+    [
+      "oral tradition",
+      "facilitated by",
+      "trade and travel"
+    ],
+    [
+      "oral tradition",
+      "facilitates",
+      "proliferation"
+    ],
+    [
+      "oral tradition",
+      "originate from",
+      "ancient times"
+    ],
+    [
+      "oral tradition",
+      "originated from",
+      "urban legends"
+    ],
+    [
+      "oral tradition",
+      "part of",
+      "modern folklore"
+    ],
+    [
+      "oral tradition",
+      "preserved by",
+      "authenticity"
+    ],
+    [
+      "oral tradition",
+      "provides",
+      "entertainment value"
+    ],
+    [
+      "oral tradition",
+      "spread through",
+      "interconnected societies"
+    ],
+    [
+      "oral tradition",
+      "supports",
+      "community protection"
+    ],
+    [
+      "paranormal stories",
+      "captivates",
+      "captivated audiences"
+    ],
+    [
+      "paranormal stories",
+      "contain",
+      "mystery"
+    ],
+    [
+      "paranormal stories",
+      "contribute to",
+      "blurred reality"
+    ],
+    [
+      "paranormal stories",
+      "evokes",
+      "fear of danger"
+    ],
+    [
+      "paranormal stories",
+      "exemplify",
+      "constant themes"
+    ],
+    [
+      "paranormal stories",
+      "facilitates",
+      "rapid transmission"
+    ],
+    [
+      "paranormal stories",
+      "feature",
+      "ghostly apparitions"
+    ],
+    [
+      "paranormal stories",
+      "feature",
+      "supernatural"
+    ],
+    [
+      "paranormal stories",
+      "features",
+      "mysterious creatures"
+    ],
+    [
+      "paranormal stories",
+      "include",
+      "terrifying encounters"
+    ],
+    [
+      "paranormal stories",
+      "influence",
+      "popular culture"
+    ],
+    [
+      "paranormal stories",
+      "inspire",
+      "underlying fear"
+    ],
+    [
+      "paranormal stories",
+      "occur in",
+      "secluded areas"
+    ],
+    [
+      "paranormal stories",
+      "provide",
+      "entertainment value"
+    ],
+    [
+      "paranormal stories",
+      "reach",
+      "global audience"
+    ],
+    [
+      "paranormal stories",
+      "reflect",
+      "societal fears"
+    ],
+    [
+      "paranormal stories",
+      "serve as",
+      "cautionary tales"
+    ],
+    [
+      "paranormal stories",
+      "spread through",
+      "communication"
+    ],
+    [
+      "paranormal stories",
+      "spread through",
+      "social media"
+    ],
+    [
+      "popular culture",
+      "features",
+      "supernatural"
+    ],
+    [
+      "popular culture",
+      "includes",
+      "cautionary tales"
+    ],
+    [
+      "popular culture",
+      "influenced by",
+      "internet"
+    ],
+    [
+      "popular culture",
+      "influenced by",
+      "mystery"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "blurred reality"
+    ],
+    [
+      "popular culture",
+      "provides",
+      "entertainment value"
+    ],
+    [
+      "popular culture",
+      "questions",
+      "authenticity"
+    ],
+    [
+      "popular culture",
+      "reflect",
+      "constant themes"
+    ],
+    [
+      "popular culture",
+      "reflects",
+      "societal fears"
+    ],
+    [
+      "popular culture",
+      "spread through",
+      "social media"
+    ],
+    [
+      "popular culture",
+      "spread through",
+      "trade and travel"
+    ],
+    [
+      "proliferation",
+      "blurs",
+      "fact and fiction"
+    ],
+    [
+      "proliferation",
+      "drives",
+      "social media"
+    ],
+    [
+      "proliferation",
+      "enabled by",
+      "technology"
+    ],
+    [
+      "proliferation",
+      "facilitated by",
+      "communication"
+    ],
+    [
+      "proliferation",
+      "facilitated by",
+      "internet"
+    ],
+    [
+      "proliferation",
+      "facilitated by",
+      "trade and travel"
+    ],
+    [
+      "proliferation",
+      "facilitates",
+      "interconnected societies"
+    ],
+    [
+      "proliferation",
+      "includes",
+      "terrifying encounters"
+    ],
+    [
+      "proliferation",
+      "influences",
+      "popular culture"
+    ],
+    [
+      "proliferation",
+      "involves",
+      "urban legends"
+    ],
+    [
+      "proliferation",
+      "leads to",
+      "blurred reality"
+    ],
+    [
+      "proliferation",
+      "reached",
+      "global audience"
+    ],
+    [
+      "proliferation",
+      "reflects",
+      "societal fears"
+    ],
+    [
+      "rapid transmission",
+      "leads to",
+      "blurred reality"
+    ],
+    [
+      "scratching sound",
+      "alarms",
+      "young couple"
+    ],
+    [
+      "scratching sound",
+      "part of",
+      "terrifying encounters"
+    ],
+    [
+      "scratching sound",
+      "symbolizes",
+      "constant themes"
+    ],
+    [
+      "secluded areas",
+      "associated with",
+      "terrifying encounters"
+    ],
+    [
+      "secluded areas",
+      "feature",
+      "ghostly apparitions"
+    ],
+    [
+      "social media",
+      "amplified by",
+      "collective imagination"
+    ],
+    [
+      "social media",
+      "amplified by",
+      "fear of danger"
+    ],
+    [
+      "social media",
+      "contributed to",
+      "blurred reality"
+    ],
+    [
+      "social media",
+      "enabled by",
+      "internet"
+    ],
+    [
+      "social media",
+      "enhances",
+      "entertainment value"
+    ],
+    [
+      "social media",
+      "facilitates",
+      "community protection"
+    ],
+    [
+      "social media",
+      "facilitates",
+      "terrifying encounters"
+    ],
+    [
+      "social media",
+      "questioned on",
+      "authenticity"
+    ],
+    [
+      "social media",
+      "reached by",
+      "global audience"
+    ],
+    [
+      "social media",
+      "shared on",
+      "haunted houses"
+    ],
+    [
+      "societal fears",
+      "create",
+      "blurred reality"
+    ],
+    [
+      "societal fears",
+      "evoke",
+      "secluded areas"
+    ],
+    [
+      "societal fears",
+      "expressed in",
+      "supernatural"
+    ],
+    [
+      "societal fears",
+      "include",
+      "terrifying encounters"
+    ],
+    [
+      "societal fears",
+      "influence",
+      "authenticity"
+    ],
+    [
+      "societal fears",
+      "involves",
+      "mystery"
+    ],
+    [
+      "societal fears",
+      "manifest as",
+      "ghostly apparitions"
+    ],
+    [
+      "societal fears",
+      "reflect",
+      "constant themes"
+    ],
+    [
+      "societal fears",
+      "reflected in",
+      "cautionary tales"
+    ],
+    [
+      "societal fears",
+      "symbolizes",
+      "scratching sound"
+    ],
+    [
+      "supernatural",
+      "occur in",
+      "secluded areas"
+    ],
+    [
+      "supernatural",
+      "spread through",
+      "social media"
+    ],
+    [
+      "technology",
+      "amplifies",
+      "societal fears"
+    ],
+    [
+      "technology",
+      "connect",
+      "interconnected societies"
+    ],
+    [
+      "technology",
+      "contributes to",
+      "blurred reality"
+    ],
+    [
+      "technology",
+      "enables",
+      "rapid transmission"
+    ],
+    [
+      "technology",
+      "enables",
+      "terrifying encounters"
+    ],
+    [
+      "technology",
+      "shapes",
+      "popular culture"
+    ],
+    [
+      "technology",
+      "utilized by",
+      "social media"
+    ],
+    [
+      "terrifying encounters",
+      "experienced by",
+      "captivated audiences"
+    ],
+    [
+      "terrifying encounters",
+      "illustrate",
+      "cautionary tales"
+    ],
+    [
+      "terrifying encounters",
+      "involves",
+      "bloody hook"
+    ],
+    [
+      "terrifying encounters",
+      "involves",
+      "supernatural"
+    ],
+    [
+      "trade and travel",
+      "influenced by",
+      "societal fears"
+    ],
+    [
+      "trade and travel",
+      "spread through",
+      "generational stories"
+    ],
+    [
+      "trade and travel",
+      "spread through",
+      "urban legends"
+    ],
+    [
+      "underlying fear",
+      "contributes to",
+      "blurred reality"
+    ],
+    [
+      "underlying fear",
+      "drives",
+      "community protection"
+    ],
+    [
+      "underlying fear",
+      "drives",
+      "mystery"
+    ],
+    [
+      "underlying fear",
+      "evoked by",
+      "ghostly apparitions"
+    ],
+    [
+      "underlying fear",
+      "evoked by",
+      "modern folklore"
+    ],
+    [
+      "underlying fear",
+      "evoked by",
+      "mysterious creatures"
+    ],
+    [
+      "underlying fear",
+      "evokes",
+      "terrifying encounters"
+    ],
+    [
+      "underlying fear",
+      "exist in",
+      "secluded areas"
+    ],
+    [
+      "underlying fear",
+      "include",
+      "constant themes"
+    ],
+    [
+      "underlying fear",
+      "includes",
+      "fear of danger"
+    ],
+    [
+      "underlying fear",
+      "inform",
+      "cautionary tales"
+    ],
+    [
+      "underlying fear",
+      "reflects",
+      "societal fears"
+    ],
+    [
+      "underlying fear",
+      "symbolized by",
+      "bloody hook"
+    ],
+    [
+      "urban legends",
+      "blurs",
+      "fact and fiction"
+    ],
+    [
+      "urban legends",
+      "composed of",
+      "modern folklore"
+    ],
+    [
+      "urban legends",
+      "created by",
+      "collective imagination"
+    ],
+    [
+      "urban legends",
+      "creates",
+      "blurred reality"
+    ],
+    [
+      "urban legends",
+      "include",
+      "news report"
+    ],
+    [
+      "urban legends",
+      "inspired by",
+      "historical figures"
+    ],
+    [
+      "urban legends",
+      "originated from",
+      "ancient times"
+    ],
+    [
+      "urban legends",
+      "promote",
+      "community protection"
+    ],
+    [
+      "urban legends",
+      "provides",
+      "entertainment value"
+    ],
+    [
+      "urban legends",
+      "serve as",
+      "cautionary tales"
+    ],
+    [
+      "young couple",
+      "benefits",
+      "community protection"
+    ],
+    [
+      "young couple",
+      "experience",
+      "societal fears"
+    ],
+    [
+      "young couple",
+      "experienced by",
+      "fear of danger"
+    ],
+    [
+      "young couple",
+      "experienced by",
+      "underlying fear"
+    ]
+  ],
+  "edges": [
+    "address",
+    "addresses",
+    "alarms",
+    "amplified by",
+    "amplifies",
+    "are",
+    "are examples of",
+    "arise from",
+    "associated with",
+    "attached to",
+    "attracted by",
+    "benefits",
+    "blurs",
+    "captivate",
+    "captivates",
+    "composed of",
+    "connect",
+    "contain",
+    "contribute to",
+    "contributed to",
+    "contributes to",
+    "create",
+    "created by",
+    "creates",
+    "disseminated by",
+    "disseminated through",
+    "disseminates",
+    "distinguishes",
+    "driven by",
+    "drives",
+    "enabled",
+    "enabled by",
+    "enables",
+    "engages",
+    "enhance",
+    "enhanced by",
+    "enhances",
+    "evoke",
+    "evoked by",
+    "evokes",
+    "evolved from",
+    "evolved into",
+    "exemplify",
+    "exist in",
+    "experience",
+    "experienced by",
+    "explore",
+    "expressed in",
+    "facilitated by",
+    "facilitates",
+    "fascinated",
+    "fascinated by",
+    "feature",
+    "featured in",
+    "features",
+    "fuel",
+    "fuels",
+    "illustrate",
+    "include",
+    "includes",
+    "influence",
+    "influenced by",
+    "influences",
+    "inform",
+    "informs",
+    "inspire",
+    "inspired",
+    "inspired by",
+    "involves",
+    "lead to",
+    "leads to",
+    "led to",
+    "left by",
+    "manifest as",
+    "mitigates",
+    "necessitate",
+    "occur in",
+    "originate from",
+    "originated from",
+    "originated in",
+    "part of",
+    "passed down as",
+    "preserved by",
+    "promote",
+    "promotes",
+    "protected by",
+    "protects",
+    "provide",
+    "provides",
+    "question",
+    "questioned on",
+    "questions",
+    "reach",
+    "reached",
+    "reached by",
+    "reached through",
+    "reaches",
+    "reflect",
+    "reflected in",
+    "reflects",
+    "reported in",
+    "represent",
+    "serve as",
+    "set in",
+    "shapes",
+    "shared on",
+    "shared through",
+    "shared via",
+    "shared with",
+    "spread",
+    "spread through",
+    "stems from",
+    "supports",
+    "symbolized by",
+    "symbolizes",
+    "targeted by",
+    "terrified",
+    "threaten",
+    "utilized by",
+    "warned",
+    "warns"
+  ]
+}

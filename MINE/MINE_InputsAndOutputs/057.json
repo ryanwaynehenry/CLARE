@@ -1,0 +1,4822 @@
+{
+  "entities": [
+    "TV shows",
+    "afterlife possibility",
+    "awe and wonder",
+    "belief",
+    "belief complexity",
+    "books",
+    "childhood beliefs",
+    "comfort",
+    "continuity",
+    "cultural beliefs",
+    "cultural factors",
+    "cultural history",
+    "encounters",
+    "environmental factors",
+    "exposure",
+    "fear of unknown",
+    "feeling presence",
+    "fiction",
+    "folklore significance",
+    "ghost stories",
+    "ghostly encounters",
+    "ghostly presence",
+    "ghosts",
+    "human imagination",
+    "human tendency",
+    "immortality",
+    "impactful experiences",
+    "legends",
+    "meaning and connection",
+    "movies",
+    "mysteries of supernatural",
+    "paranormal beliefs",
+    "paranormal entities",
+    "past connection",
+    "perceptions",
+    "personal experiences",
+    "physical realm",
+    "popular culture",
+    "psychological factors",
+    "psychological needs",
+    "reassurance",
+    "religious teachings",
+    "seeing apparitions",
+    "shaping beliefs",
+    "skepticism",
+    "skeptics dismiss",
+    "solace in mortality",
+    "spirits watching over",
+    "spiritual connection",
+    "spiritual influence",
+    "supernatural",
+    "superstition",
+    "tradition influence",
+    "traditions and folklore",
+    "unexplained noises",
+    "unexplained phenomena",
+    "validation"
+  ],
+  "relations": [
+    [
+      "TV shows",
+      "contradicts",
+      "feeling presence"
+    ],
+    [
+      "TV shows",
+      "depicts",
+      "afterlife possibility"
+    ],
+    [
+      "TV shows",
+      "depicts",
+      "childhood beliefs"
+    ],
+    [
+      "TV shows",
+      "depicts",
+      "fiction"
+    ],
+    [
+      "TV shows",
+      "depicts",
+      "ghostly presence"
+    ],
+    [
+      "TV shows",
+      "depicts",
+      "immortality"
+    ],
+    [
+      "TV shows",
+      "depicts",
+      "seeing apparitions"
+    ],
+    [
+      "TV shows",
+      "depicts",
+      "supernatural"
+    ],
+    [
+      "TV shows",
+      "fulfills",
+      "psychological needs"
+    ],
+    [
+      "TV shows",
+      "influenced by",
+      "continuity"
+    ],
+    [
+      "TV shows",
+      "influenced by",
+      "psychological factors"
+    ],
+    [
+      "TV shows",
+      "influenced by",
+      "spirits watching over"
+    ],
+    [
+      "TV shows",
+      "influences",
+      "unexplained noises"
+    ],
+    [
+      "TV shows",
+      "inspired by",
+      "legends"
+    ],
+    [
+      "TV shows",
+      "is depicted in",
+      "mysteries of supernatural"
+    ],
+    [
+      "TV shows",
+      "is influenced by",
+      "skepticism"
+    ],
+    [
+      "TV shows",
+      "is portrayed in",
+      "spiritual influence"
+    ],
+    [
+      "TV shows",
+      "reinforces",
+      "belief"
+    ],
+    [
+      "TV shows",
+      "shaped by",
+      "perceptions"
+    ],
+    [
+      "TV shows",
+      "shapes",
+      "human imagination"
+    ],
+    [
+      "TV shows",
+      "shapes",
+      "shaping beliefs"
+    ],
+    [
+      "afterlife possibility",
+      "adds to",
+      "belief complexity"
+    ],
+    [
+      "afterlife possibility",
+      "influences",
+      "TV shows"
+    ],
+    [
+      "afterlife possibility",
+      "influences",
+      "belief"
+    ],
+    [
+      "afterlife possibility",
+      "influences",
+      "paranormal beliefs"
+    ],
+    [
+      "afterlife possibility",
+      "influences",
+      "shaping beliefs"
+    ],
+    [
+      "afterlife possibility",
+      "influences",
+      "tradition influence"
+    ],
+    [
+      "afterlife possibility",
+      "is associated with",
+      "supernatural"
+    ],
+    [
+      "afterlife possibility",
+      "is associated with",
+      "unexplained noises"
+    ],
+    [
+      "afterlife possibility",
+      "is depicted in",
+      "movies"
+    ],
+    [
+      "afterlife possibility",
+      "is influenced by",
+      "spiritual influence"
+    ],
+    [
+      "afterlife possibility",
+      "offers",
+      "meaning and connection"
+    ],
+    [
+      "afterlife possibility",
+      "offers",
+      "paranormal entities"
+    ],
+    [
+      "afterlife possibility",
+      "offers",
+      "past connection"
+    ],
+    [
+      "afterlife possibility",
+      "offers",
+      "solace in mortality"
+    ],
+    [
+      "afterlife possibility",
+      "suggests",
+      "legends"
+    ],
+    [
+      "afterlife possibility",
+      "suggests",
+      "perceptions"
+    ],
+    [
+      "afterlife possibility",
+      "suggests",
+      "physical realm"
+    ],
+    [
+      "awe and wonder",
+      "contrasts with",
+      "skepticism"
+    ],
+    [
+      "awe and wonder",
+      "evokes",
+      "cultural history"
+    ],
+    [
+      "awe and wonder",
+      "evokes",
+      "environmental factors"
+    ],
+    [
+      "awe and wonder",
+      "evokes",
+      "ghostly encounters"
+    ],
+    [
+      "awe and wonder",
+      "evokes",
+      "ghosts"
+    ],
+    [
+      "awe and wonder",
+      "evokes",
+      "movies"
+    ],
+    [
+      "awe and wonder",
+      "evokes",
+      "personal experiences"
+    ],
+    [
+      "awe and wonder",
+      "evokes",
+      "solace in mortality"
+    ],
+    [
+      "awe and wonder",
+      "evokes",
+      "spiritual connection"
+    ],
+    [
+      "awe and wonder",
+      "evokes",
+      "unexplained noises"
+    ],
+    [
+      "awe and wonder",
+      "inspired by",
+      "belief"
+    ],
+    [
+      "awe and wonder",
+      "inspired by",
+      "cultural beliefs"
+    ],
+    [
+      "awe and wonder",
+      "is inspired by",
+      "TV shows"
+    ],
+    [
+      "awe and wonder",
+      "provides",
+      "meaning and connection"
+    ],
+    [
+      "awe and wonder",
+      "provides",
+      "reassurance"
+    ],
+    [
+      "awe and wonder",
+      "provides",
+      "validation"
+    ],
+    [
+      "belief",
+      "affects",
+      "environmental factors"
+    ],
+    [
+      "belief",
+      "believed in by",
+      "paranormal entities"
+    ],
+    [
+      "belief",
+      "drives",
+      "psychological needs"
+    ],
+    [
+      "belief",
+      "inspired by",
+      "legends"
+    ],
+    [
+      "belief",
+      "is a type of",
+      "paranormal beliefs"
+    ],
+    [
+      "belief",
+      "is associated with",
+      "immortality"
+    ],
+    [
+      "belief",
+      "is influenced by",
+      "fear of unknown"
+    ],
+    [
+      "belief",
+      "provides",
+      "comfort"
+    ],
+    [
+      "belief",
+      "provides",
+      "meaning and connection"
+    ],
+    [
+      "belief",
+      "reflects",
+      "human tendency"
+    ],
+    [
+      "belief",
+      "reinforces",
+      "feeling presence"
+    ],
+    [
+      "belief",
+      "reinforces",
+      "folklore significance"
+    ],
+    [
+      "belief",
+      "reinforces",
+      "movies"
+    ],
+    [
+      "belief",
+      "supports",
+      "books"
+    ],
+    [
+      "belief",
+      "supports",
+      "superstition"
+    ],
+    [
+      "belief complexity",
+      "complexity of",
+      "reassurance"
+    ],
+    [
+      "belief complexity",
+      "complicates",
+      "books"
+    ],
+    [
+      "belief complexity",
+      "is complex due to",
+      "seeing apparitions"
+    ],
+    [
+      "books",
+      "addresses",
+      "psychological needs"
+    ],
+    [
+      "books",
+      "depicts",
+      "ghosts"
+    ],
+    [
+      "books",
+      "drives",
+      "human tendency"
+    ],
+    [
+      "books",
+      "featured in",
+      "unexplained noises"
+    ],
+    [
+      "books",
+      "includes",
+      "fiction"
+    ],
+    [
+      "books",
+      "influenced by",
+      "perceptions"
+    ],
+    [
+      "books",
+      "influenced by",
+      "spiritual connection"
+    ],
+    [
+      "books",
+      "influences",
+      "encounters"
+    ],
+    [
+      "books",
+      "influences",
+      "environmental factors"
+    ],
+    [
+      "books",
+      "influences",
+      "fear of unknown"
+    ],
+    [
+      "books",
+      "influences",
+      "human imagination"
+    ],
+    [
+      "books",
+      "influences",
+      "superstition"
+    ],
+    [
+      "books",
+      "informs",
+      "ghostly encounters"
+    ],
+    [
+      "books",
+      "informs",
+      "legends"
+    ],
+    [
+      "books",
+      "is explored in",
+      "mysteries of supernatural"
+    ],
+    [
+      "books",
+      "is influenced by",
+      "past connection"
+    ],
+    [
+      "books",
+      "is supported by",
+      "continuity"
+    ],
+    [
+      "books",
+      "provides",
+      "comfort"
+    ],
+    [
+      "childhood beliefs",
+      "creates",
+      "past connection"
+    ],
+    [
+      "childhood beliefs",
+      "dismissed by",
+      "skeptics dismiss"
+    ],
+    [
+      "childhood beliefs",
+      "influences",
+      "legends"
+    ],
+    [
+      "childhood beliefs",
+      "influences",
+      "personal experiences"
+    ],
+    [
+      "childhood beliefs",
+      "is shaped by",
+      "exposure"
+    ],
+    [
+      "childhood beliefs",
+      "is shaped by",
+      "popular culture"
+    ],
+    [
+      "childhood beliefs",
+      "leads to",
+      "ghostly encounters"
+    ],
+    [
+      "childhood beliefs",
+      "provides",
+      "meaning and connection"
+    ],
+    [
+      "childhood beliefs",
+      "provides",
+      "reassurance"
+    ],
+    [
+      "childhood beliefs",
+      "reinforces",
+      "ghostly presence"
+    ],
+    [
+      "childhood beliefs",
+      "shapes",
+      "belief"
+    ],
+    [
+      "childhood beliefs",
+      "shapes",
+      "encounters"
+    ],
+    [
+      "childhood beliefs",
+      "shapes",
+      "impactful experiences"
+    ],
+    [
+      "childhood beliefs",
+      "shapes",
+      "paranormal entities"
+    ],
+    [
+      "childhood beliefs",
+      "shapes",
+      "shaping beliefs"
+    ],
+    [
+      "childhood beliefs",
+      "suggests",
+      "immortality"
+    ],
+    [
+      "comfort",
+      "is influenced by",
+      "perceptions"
+    ],
+    [
+      "comfort",
+      "offers",
+      "human imagination"
+    ],
+    [
+      "comfort",
+      "offers",
+      "popular culture"
+    ],
+    [
+      "comfort",
+      "offers",
+      "superstition"
+    ],
+    [
+      "comfort",
+      "provides",
+      "TV shows"
+    ],
+    [
+      "comfort",
+      "provides",
+      "awe and wonder"
+    ],
+    [
+      "comfort",
+      "provides",
+      "childhood beliefs"
+    ],
+    [
+      "comfort",
+      "provides",
+      "ghost stories"
+    ],
+    [
+      "comfort",
+      "provides",
+      "legends"
+    ],
+    [
+      "comfort",
+      "provides",
+      "movies"
+    ],
+    [
+      "comfort",
+      "provides",
+      "personal experiences"
+    ],
+    [
+      "comfort",
+      "provides",
+      "psychological factors"
+    ],
+    [
+      "comfort",
+      "provides",
+      "religious teachings"
+    ],
+    [
+      "comfort",
+      "provides",
+      "skepticism"
+    ],
+    [
+      "continuity",
+      "connects to",
+      "paranormal entities"
+    ],
+    [
+      "continuity",
+      "connects to",
+      "supernatural"
+    ],
+    [
+      "continuity",
+      "contrasts with",
+      "environmental factors"
+    ],
+    [
+      "continuity",
+      "evokes",
+      "awe and wonder"
+    ],
+    [
+      "continuity",
+      "evokes",
+      "ghostly presence"
+    ],
+    [
+      "continuity",
+      "inspires",
+      "human imagination"
+    ],
+    [
+      "continuity",
+      "is linked to",
+      "mysteries of supernatural"
+    ],
+    [
+      "continuity",
+      "offers",
+      "past connection"
+    ],
+    [
+      "continuity",
+      "offers",
+      "personal experiences"
+    ],
+    [
+      "continuity",
+      "provides",
+      "afterlife possibility"
+    ],
+    [
+      "continuity",
+      "provides",
+      "ghosts"
+    ],
+    [
+      "continuity",
+      "provides",
+      "superstition"
+    ],
+    [
+      "continuity",
+      "reinforces",
+      "spirits watching over"
+    ],
+    [
+      "continuity",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "cultural beliefs",
+      "contributes to",
+      "belief complexity"
+    ],
+    [
+      "cultural beliefs",
+      "creates connection to",
+      "spiritual connection"
+    ],
+    [
+      "cultural beliefs",
+      "influences",
+      "TV shows"
+    ],
+    [
+      "cultural beliefs",
+      "influences",
+      "afterlife possibility"
+    ],
+    [
+      "cultural beliefs",
+      "influences",
+      "books"
+    ],
+    [
+      "cultural beliefs",
+      "influences",
+      "encounters"
+    ],
+    [
+      "cultural beliefs",
+      "influences",
+      "ghostly encounters"
+    ],
+    [
+      "cultural beliefs",
+      "influences",
+      "human tendency"
+    ],
+    [
+      "cultural beliefs",
+      "influences",
+      "movies"
+    ],
+    [
+      "cultural beliefs",
+      "influences",
+      "paranormal entities"
+    ],
+    [
+      "cultural beliefs",
+      "influences",
+      "popular culture"
+    ],
+    [
+      "cultural beliefs",
+      "influences",
+      "shaping beliefs"
+    ],
+    [
+      "cultural beliefs",
+      "informs",
+      "legends"
+    ],
+    [
+      "cultural beliefs",
+      "inspires",
+      "human imagination"
+    ],
+    [
+      "cultural beliefs",
+      "provides",
+      "comfort"
+    ],
+    [
+      "cultural beliefs",
+      "provides",
+      "continuity"
+    ],
+    [
+      "cultural beliefs",
+      "provides",
+      "past connection"
+    ],
+    [
+      "cultural beliefs",
+      "provides",
+      "validation"
+    ],
+    [
+      "cultural beliefs",
+      "reinforces",
+      "ghostly presence"
+    ],
+    [
+      "cultural beliefs",
+      "reinforces",
+      "superstition"
+    ],
+    [
+      "cultural beliefs",
+      "shapes",
+      "belief"
+    ],
+    [
+      "cultural beliefs",
+      "shapes",
+      "cultural history"
+    ],
+    [
+      "cultural beliefs",
+      "shapes",
+      "exposure"
+    ],
+    [
+      "cultural beliefs",
+      "shapes",
+      "personal experiences"
+    ],
+    [
+      "cultural beliefs",
+      "shapes",
+      "psychological needs"
+    ],
+    [
+      "cultural beliefs",
+      "shapes",
+      "religious teachings"
+    ],
+    [
+      "cultural beliefs",
+      "shapes",
+      "seeing apparitions"
+    ],
+    [
+      "cultural beliefs",
+      "shapes",
+      "spiritual influence"
+    ],
+    [
+      "cultural beliefs",
+      "shapes",
+      "tradition influence"
+    ],
+    [
+      "cultural beliefs",
+      "shapes",
+      "traditions and folklore"
+    ],
+    [
+      "cultural beliefs",
+      "shapes perception of",
+      "physical realm"
+    ],
+    [
+      "cultural beliefs",
+      "supports",
+      "immortality"
+    ],
+    [
+      "cultural factors",
+      "drives",
+      "psychological needs"
+    ],
+    [
+      "cultural factors",
+      "explains",
+      "unexplained phenomena"
+    ],
+    [
+      "cultural factors",
+      "influences",
+      "TV shows"
+    ],
+    [
+      "cultural factors",
+      "influences",
+      "belief"
+    ],
+    [
+      "cultural factors",
+      "influences",
+      "encounters"
+    ],
+    [
+      "cultural factors",
+      "influences",
+      "past connection"
+    ],
+    [
+      "cultural factors",
+      "provides",
+      "comfort"
+    ],
+    [
+      "cultural factors",
+      "provides",
+      "continuity"
+    ],
+    [
+      "cultural factors",
+      "provides",
+      "meaning and connection"
+    ],
+    [
+      "cultural factors",
+      "provides",
+      "validation"
+    ],
+    [
+      "cultural factors",
+      "shaped by",
+      "popular culture"
+    ],
+    [
+      "cultural factors",
+      "shapes",
+      "childhood beliefs"
+    ],
+    [
+      "cultural factors",
+      "shapes",
+      "paranormal beliefs"
+    ],
+    [
+      "cultural history",
+      "addresses",
+      "psychological needs"
+    ],
+    [
+      "cultural history",
+      "explains",
+      "unexplained phenomena"
+    ],
+    [
+      "cultural history",
+      "influenced by",
+      "environmental factors"
+    ],
+    [
+      "cultural history",
+      "influences",
+      "folklore significance"
+    ],
+    [
+      "cultural history",
+      "influences",
+      "immortality"
+    ],
+    [
+      "cultural history",
+      "influences",
+      "paranormal beliefs"
+    ],
+    [
+      "cultural history",
+      "influences",
+      "spirits watching over"
+    ],
+    [
+      "cultural history",
+      "influences",
+      "superstition"
+    ],
+    [
+      "cultural history",
+      "inspired by",
+      "awe and wonder"
+    ],
+    [
+      "cultural history",
+      "is contrasted with",
+      "ghostly presence"
+    ],
+    [
+      "cultural history",
+      "provides",
+      "comfort"
+    ],
+    [
+      "cultural history",
+      "provides meaning and connection for",
+      "meaning and connection"
+    ],
+    [
+      "cultural history",
+      "shapes",
+      "belief"
+    ],
+    [
+      "cultural history",
+      "shapes",
+      "popular culture"
+    ],
+    [
+      "encounters",
+      "associated with",
+      "unexplained noises"
+    ],
+    [
+      "encounters",
+      "creates",
+      "impactful experiences"
+    ],
+    [
+      "encounters",
+      "depicts",
+      "personal experiences"
+    ],
+    [
+      "encounters",
+      "drives",
+      "human tendency"
+    ],
+    [
+      "encounters",
+      "highlights",
+      "folklore significance"
+    ],
+    [
+      "encounters",
+      "involves",
+      "fiction"
+    ],
+    [
+      "encounters",
+      "involves",
+      "paranormal entities"
+    ],
+    [
+      "encounters",
+      "involves",
+      "supernatural"
+    ],
+    [
+      "encounters",
+      "is a type of",
+      "ghostly encounters"
+    ],
+    [
+      "encounters",
+      "is represented in",
+      "TV shows"
+    ],
+    [
+      "encounters",
+      "leads to",
+      "belief"
+    ],
+    [
+      "encounters",
+      "offers",
+      "afterlife possibility"
+    ],
+    [
+      "encounters",
+      "provides",
+      "continuity"
+    ],
+    [
+      "encounters",
+      "provides",
+      "meaning and connection"
+    ],
+    [
+      "encounters",
+      "shapes",
+      "shaping beliefs"
+    ],
+    [
+      "environmental factors",
+      "affects",
+      "cultural beliefs"
+    ],
+    [
+      "environmental factors",
+      "affects",
+      "exposure"
+    ],
+    [
+      "environmental factors",
+      "affects",
+      "folklore significance"
+    ],
+    [
+      "environmental factors",
+      "affects",
+      "psychological factors"
+    ],
+    [
+      "environmental factors",
+      "affects",
+      "psychological needs"
+    ],
+    [
+      "environmental factors",
+      "affects",
+      "spiritual influence"
+    ],
+    [
+      "environmental factors",
+      "contrasts with",
+      "cultural factors"
+    ],
+    [
+      "environmental factors",
+      "explained by",
+      "encounters"
+    ],
+    [
+      "environmental factors",
+      "explains",
+      "feeling presence"
+    ],
+    [
+      "environmental factors",
+      "influenced by",
+      "reassurance"
+    ],
+    [
+      "environmental factors",
+      "influenced by",
+      "tradition influence"
+    ],
+    [
+      "environmental factors",
+      "influences",
+      "fear of unknown"
+    ],
+    [
+      "environmental factors",
+      "influences",
+      "fiction"
+    ],
+    [
+      "environmental factors",
+      "influences",
+      "personal experiences"
+    ],
+    [
+      "environmental factors",
+      "influences",
+      "shaping beliefs"
+    ],
+    [
+      "environmental factors",
+      "is affected by",
+      "childhood beliefs"
+    ],
+    [
+      "environmental factors",
+      "is depicted in",
+      "movies"
+    ],
+    [
+      "environmental factors",
+      "is influenced by",
+      "perceptions"
+    ],
+    [
+      "environmental factors",
+      "provides",
+      "comfort"
+    ],
+    [
+      "exposure",
+      "complicates",
+      "belief complexity"
+    ],
+    [
+      "exposure",
+      "drives",
+      "human tendency"
+    ],
+    [
+      "exposure",
+      "drives",
+      "psychological needs"
+    ],
+    [
+      "exposure",
+      "evokes",
+      "awe and wonder"
+    ],
+    [
+      "exposure",
+      "increases",
+      "paranormal beliefs"
+    ],
+    [
+      "exposure",
+      "influences",
+      "TV shows"
+    ],
+    [
+      "exposure",
+      "influences",
+      "belief"
+    ],
+    [
+      "exposure",
+      "influences",
+      "movies"
+    ],
+    [
+      "exposure",
+      "informs",
+      "ghost stories"
+    ],
+    [
+      "exposure",
+      "informs",
+      "legends"
+    ],
+    [
+      "exposure",
+      "is influenced by",
+      "books"
+    ],
+    [
+      "exposure",
+      "leads to",
+      "encounters"
+    ],
+    [
+      "exposure",
+      "leads to",
+      "ghostly encounters"
+    ],
+    [
+      "exposure",
+      "leads to",
+      "seeing apparitions"
+    ],
+    [
+      "exposure",
+      "provides",
+      "comfort"
+    ],
+    [
+      "exposure",
+      "relates to",
+      "supernatural"
+    ],
+    [
+      "exposure",
+      "shapes",
+      "continuity"
+    ],
+    [
+      "exposure",
+      "shapes",
+      "human imagination"
+    ],
+    [
+      "exposure",
+      "shapes",
+      "paranormal entities"
+    ],
+    [
+      "fear of unknown",
+      "adds to",
+      "belief complexity"
+    ],
+    [
+      "fear of unknown",
+      "contributes to",
+      "belief"
+    ],
+    [
+      "fear of unknown",
+      "drives",
+      "paranormal beliefs"
+    ],
+    [
+      "fear of unknown",
+      "drives",
+      "psychological needs"
+    ],
+    [
+      "fear of unknown",
+      "drives",
+      "unexplained phenomena"
+    ],
+    [
+      "fear of unknown",
+      "influences",
+      "cultural factors"
+    ],
+    [
+      "fear of unknown",
+      "influences",
+      "cultural history"
+    ],
+    [
+      "fear of unknown",
+      "influences",
+      "feeling presence"
+    ],
+    [
+      "fear of unknown",
+      "influences",
+      "psychological factors"
+    ],
+    [
+      "fear of unknown",
+      "is a reason for",
+      "exposure"
+    ],
+    [
+      "fear of unknown",
+      "is dismissed by",
+      "fiction"
+    ],
+    [
+      "fear of unknown",
+      "is influenced by",
+      "popular culture"
+    ],
+    [
+      "fear of unknown",
+      "motivates",
+      "skepticism"
+    ],
+    [
+      "fear of unknown",
+      "motivates",
+      "spiritual connection"
+    ],
+    [
+      "fear of unknown",
+      "offers continuity for",
+      "continuity"
+    ],
+    [
+      "fear of unknown",
+      "provides",
+      "comfort"
+    ],
+    [
+      "fear of unknown",
+      "provides",
+      "solace in mortality"
+    ],
+    [
+      "fear of unknown",
+      "provides reassurance for",
+      "reassurance"
+    ],
+    [
+      "fear of unknown",
+      "shapes",
+      "childhood beliefs"
+    ],
+    [
+      "fear of unknown",
+      "shapes",
+      "shaping beliefs"
+    ],
+    [
+      "fear of unknown",
+      "stimulates",
+      "human imagination"
+    ],
+    [
+      "feeling presence",
+      "associated with",
+      "unexplained noises"
+    ],
+    [
+      "feeling presence",
+      "contributes to",
+      "belief complexity"
+    ],
+    [
+      "feeling presence",
+      "depicts",
+      "books"
+    ],
+    [
+      "feeling presence",
+      "highlights",
+      "folklore significance"
+    ],
+    [
+      "feeling presence",
+      "indicates",
+      "human tendency"
+    ],
+    [
+      "feeling presence",
+      "indicates",
+      "supernatural"
+    ],
+    [
+      "feeling presence",
+      "influences",
+      "personal experiences"
+    ],
+    [
+      "feeling presence",
+      "influences",
+      "religious teachings"
+    ],
+    [
+      "feeling presence",
+      "influences",
+      "shaping beliefs"
+    ],
+    [
+      "feeling presence",
+      "inspired by",
+      "legends"
+    ],
+    [
+      "feeling presence",
+      "inspires",
+      "human imagination"
+    ],
+    [
+      "feeling presence",
+      "is a source of",
+      "afterlife possibility"
+    ],
+    [
+      "feeling presence",
+      "is influenced by",
+      "ghost stories"
+    ],
+    [
+      "feeling presence",
+      "is influenced by",
+      "spiritual influence"
+    ],
+    [
+      "feeling presence",
+      "is rooted in",
+      "cultural history"
+    ],
+    [
+      "feeling presence",
+      "offers",
+      "continuity"
+    ],
+    [
+      "feeling presence",
+      "offers",
+      "meaning and connection"
+    ],
+    [
+      "feeling presence",
+      "shapes",
+      "popular culture"
+    ],
+    [
+      "fiction",
+      "associated with",
+      "seeing apparitions"
+    ],
+    [
+      "fiction",
+      "contradicts",
+      "feeling presence"
+    ],
+    [
+      "fiction",
+      "contradicts",
+      "personal experiences"
+    ],
+    [
+      "fiction",
+      "contradicts",
+      "reassurance"
+    ],
+    [
+      "fiction",
+      "contradicts",
+      "superstition"
+    ],
+    [
+      "fiction",
+      "contrasts",
+      "afterlife possibility"
+    ],
+    [
+      "fiction",
+      "contrasts with",
+      "perceptions"
+    ],
+    [
+      "fiction",
+      "contrasts with",
+      "psychological factors"
+    ],
+    [
+      "fiction",
+      "demonstrates",
+      "human tendency"
+    ],
+    [
+      "fiction",
+      "depicts",
+      "supernatural"
+    ],
+    [
+      "fiction",
+      "drives",
+      "psychological needs"
+    ],
+    [
+      "fiction",
+      "influences",
+      "belief"
+    ],
+    [
+      "fiction",
+      "influences",
+      "paranormal beliefs"
+    ],
+    [
+      "fiction",
+      "influences",
+      "traditions and folklore"
+    ],
+    [
+      "fiction",
+      "informs",
+      "cultural beliefs"
+    ],
+    [
+      "fiction",
+      "inspired by",
+      "ghost stories"
+    ],
+    [
+      "fiction",
+      "is represented in",
+      "exposure"
+    ],
+    [
+      "fiction",
+      "offers",
+      "comfort"
+    ],
+    [
+      "fiction",
+      "reflects",
+      "cultural history"
+    ],
+    [
+      "fiction",
+      "stimulates",
+      "human imagination"
+    ],
+    [
+      "folklore significance",
+      "affects",
+      "psychological needs"
+    ],
+    [
+      "folklore significance",
+      "contradicts",
+      "skepticism"
+    ],
+    [
+      "folklore significance",
+      "contributes to",
+      "meaning and connection"
+    ],
+    [
+      "folklore significance",
+      "evokes",
+      "awe and wonder"
+    ],
+    [
+      "folklore significance",
+      "influences",
+      "human tendency"
+    ],
+    [
+      "folklore significance",
+      "influences",
+      "legends"
+    ],
+    [
+      "folklore significance",
+      "influences",
+      "perceptions"
+    ],
+    [
+      "folklore significance",
+      "informs",
+      "childhood beliefs"
+    ],
+    [
+      "folklore significance",
+      "informs",
+      "psychological factors"
+    ],
+    [
+      "folklore significance",
+      "is associated with",
+      "continuity"
+    ],
+    [
+      "folklore significance",
+      "provides",
+      "comfort"
+    ],
+    [
+      "folklore significance",
+      "reinforces",
+      "ghostly presence"
+    ],
+    [
+      "folklore significance",
+      "reinforces",
+      "mysteries of supernatural"
+    ],
+    [
+      "folklore significance",
+      "reinforces",
+      "spirits watching over"
+    ],
+    [
+      "folklore significance",
+      "shapes",
+      "shaping beliefs"
+    ],
+    [
+      "folklore significance",
+      "significance of",
+      "fear of unknown"
+    ],
+    [
+      "folklore significance",
+      "signifies",
+      "afterlife possibility"
+    ],
+    [
+      "ghost stories",
+      "creates connection to",
+      "past connection"
+    ],
+    [
+      "ghost stories",
+      "depicts",
+      "supernatural"
+    ],
+    [
+      "ghost stories",
+      "evokes",
+      "awe and wonder"
+    ],
+    [
+      "ghost stories",
+      "explains",
+      "unexplained noises"
+    ],
+    [
+      "ghost stories",
+      "indicates",
+      "ghostly presence"
+    ],
+    [
+      "ghost stories",
+      "influenced by",
+      "encounters"
+    ],
+    [
+      "ghost stories",
+      "influences",
+      "TV shows"
+    ],
+    [
+      "ghost stories",
+      "influences",
+      "belief"
+    ],
+    [
+      "ghost stories",
+      "informs",
+      "books"
+    ],
+    [
+      "ghost stories",
+      "inspired by",
+      "legends"
+    ],
+    [
+      "ghost stories",
+      "involves",
+      "seeing apparitions"
+    ],
+    [
+      "ghost stories",
+      "provides",
+      "reassurance"
+    ],
+    [
+      "ghost stories",
+      "reinforces",
+      "continuity"
+    ],
+    [
+      "ghost stories",
+      "reinforces",
+      "cultural beliefs"
+    ],
+    [
+      "ghost stories",
+      "reinforces",
+      "paranormal beliefs"
+    ],
+    [
+      "ghost stories",
+      "reinforces",
+      "spirits watching over"
+    ],
+    [
+      "ghost stories",
+      "shapes",
+      "cultural history"
+    ],
+    [
+      "ghost stories",
+      "shapes",
+      "popular culture"
+    ],
+    [
+      "ghost stories",
+      "shapes",
+      "shaping beliefs"
+    ],
+    [
+      "ghost stories",
+      "shapes",
+      "spiritual connection"
+    ],
+    [
+      "ghostly encounters",
+      "contradicts",
+      "fiction"
+    ],
+    [
+      "ghostly encounters",
+      "creates",
+      "impactful experiences"
+    ],
+    [
+      "ghostly encounters",
+      "highlights",
+      "folklore significance"
+    ],
+    [
+      "ghostly encounters",
+      "influenced by",
+      "popular culture"
+    ],
+    [
+      "ghostly encounters",
+      "influences",
+      "continuity"
+    ],
+    [
+      "ghostly encounters",
+      "influences",
+      "tradition influence"
+    ],
+    [
+      "ghostly encounters",
+      "inspired by",
+      "legends"
+    ],
+    [
+      "ghostly encounters",
+      "involves",
+      "mysteries of supernatural"
+    ],
+    [
+      "ghostly encounters",
+      "is depicted in",
+      "movies"
+    ],
+    [
+      "ghostly encounters",
+      "is derived from",
+      "solace in mortality"
+    ],
+    [
+      "ghostly encounters",
+      "is influenced by",
+      "cultural history"
+    ],
+    [
+      "ghostly encounters",
+      "is linked to",
+      "ghostly presence"
+    ],
+    [
+      "ghostly encounters",
+      "is portrayed in",
+      "TV shows"
+    ],
+    [
+      "ghostly encounters",
+      "reinforces",
+      "ghost stories"
+    ],
+    [
+      "ghostly encounters",
+      "reinforces",
+      "paranormal beliefs"
+    ],
+    [
+      "ghostly encounters",
+      "shapes",
+      "shaping beliefs"
+    ],
+    [
+      "ghostly encounters",
+      "sparks",
+      "human imagination"
+    ],
+    [
+      "ghostly presence",
+      "associated with",
+      "legends"
+    ],
+    [
+      "ghostly presence",
+      "associated with",
+      "paranormal entities"
+    ],
+    [
+      "ghostly presence",
+      "associated with",
+      "perceptions"
+    ],
+    [
+      "ghostly presence",
+      "contributes to",
+      "belief complexity"
+    ],
+    [
+      "ghostly presence",
+      "evokes",
+      "human imagination"
+    ],
+    [
+      "ghostly presence",
+      "indicates",
+      "exposure"
+    ],
+    [
+      "ghostly presence",
+      "informs",
+      "books"
+    ],
+    [
+      "ghostly presence",
+      "is challenged by",
+      "fiction"
+    ],
+    [
+      "ghostly presence",
+      "is influenced by",
+      "encounters"
+    ],
+    [
+      "ghostly presence",
+      "is perceived as",
+      "supernatural"
+    ],
+    [
+      "ghostly presence",
+      "is supported by",
+      "belief"
+    ],
+    [
+      "ghostly presence",
+      "seen as",
+      "seeing apparitions"
+    ],
+    [
+      "ghostly presence",
+      "suggests",
+      "past connection"
+    ],
+    [
+      "ghostly presence",
+      "supports",
+      "afterlife possibility"
+    ],
+    [
+      "ghosts",
+      "highlights",
+      "folklore significance"
+    ],
+    [
+      "ghosts",
+      "indicates",
+      "ghostly presence"
+    ],
+    [
+      "ghosts",
+      "influences belief in",
+      "religious teachings"
+    ],
+    [
+      "ghosts",
+      "informs",
+      "ghost stories"
+    ],
+    [
+      "ghosts",
+      "informs",
+      "legends"
+    ],
+    [
+      "ghosts",
+      "involves",
+      "encounters"
+    ],
+    [
+      "ghosts",
+      "is depicted in",
+      "movies"
+    ],
+    [
+      "ghosts",
+      "is influenced by",
+      "exposure"
+    ],
+    [
+      "ghosts",
+      "is rooted in",
+      "traditions and folklore"
+    ],
+    [
+      "ghosts",
+      "offers",
+      "comfort"
+    ],
+    [
+      "ghosts",
+      "offers",
+      "immortality"
+    ],
+    [
+      "ghosts",
+      "provides",
+      "reassurance"
+    ],
+    [
+      "ghosts",
+      "reinforces",
+      "paranormal beliefs"
+    ],
+    [
+      "ghosts",
+      "relates to",
+      "mysteries of supernatural"
+    ],
+    [
+      "ghosts",
+      "shapes",
+      "impactful experiences"
+    ],
+    [
+      "ghosts",
+      "suggests",
+      "afterlife possibility"
+    ],
+    [
+      "ghosts",
+      "watched over by",
+      "spirits watching over"
+    ],
+    [
+      "human imagination",
+      "captures",
+      "ghost stories"
+    ],
+    [
+      "human imagination",
+      "drives",
+      "belief"
+    ],
+    [
+      "human imagination",
+      "drives",
+      "belief complexity"
+    ],
+    [
+      "human imagination",
+      "evokes",
+      "awe and wonder"
+    ],
+    [
+      "human imagination",
+      "highlights",
+      "folklore significance"
+    ],
+    [
+      "human imagination",
+      "influences",
+      "personal experiences"
+    ],
+    [
+      "human imagination",
+      "inspired by",
+      "encounters"
+    ],
+    [
+      "human imagination",
+      "inspired by",
+      "popular culture"
+    ],
+    [
+      "human imagination",
+      "is shaped by",
+      "perceptions"
+    ],
+    [
+      "human imagination",
+      "provides",
+      "meaning and connection"
+    ],
+    [
+      "human imagination",
+      "shapes",
+      "environmental factors"
+    ],
+    [
+      "human imagination",
+      "shapes",
+      "impactful experiences"
+    ],
+    [
+      "human imagination",
+      "shapes",
+      "shaping beliefs"
+    ],
+    [
+      "human imagination",
+      "shapes",
+      "validation"
+    ],
+    [
+      "human imagination",
+      "stimulates",
+      "psychological factors"
+    ],
+    [
+      "human imagination",
+      "stimulates",
+      "reassurance"
+    ],
+    [
+      "human tendency",
+      "drives",
+      "comfort"
+    ],
+    [
+      "human tendency",
+      "drives",
+      "immortality"
+    ],
+    [
+      "human tendency",
+      "influences",
+      "environmental factors"
+    ],
+    [
+      "human tendency",
+      "influences",
+      "personal experiences"
+    ],
+    [
+      "human tendency",
+      "influences",
+      "shaping beliefs"
+    ],
+    [
+      "human tendency",
+      "is influenced by",
+      "continuity"
+    ],
+    [
+      "human tendency",
+      "leads to",
+      "unexplained phenomena"
+    ],
+    [
+      "human tendency",
+      "reflects",
+      "TV shows"
+    ],
+    [
+      "human tendency",
+      "seeks",
+      "validation"
+    ],
+    [
+      "immortality",
+      "addresses",
+      "psychological needs"
+    ],
+    [
+      "immortality",
+      "affects",
+      "environmental factors"
+    ],
+    [
+      "immortality",
+      "enhances",
+      "belief complexity"
+    ],
+    [
+      "immortality",
+      "is dismissed by",
+      "skeptics dismiss"
+    ],
+    [
+      "immortality",
+      "offers",
+      "continuity"
+    ],
+    [
+      "immortality",
+      "offers",
+      "encounters"
+    ],
+    [
+      "immortality",
+      "offers",
+      "exposure"
+    ],
+    [
+      "immortality",
+      "offers",
+      "ghostly encounters"
+    ],
+    [
+      "immortality",
+      "offers",
+      "legends"
+    ],
+    [
+      "immortality",
+      "provides",
+      "comfort"
+    ],
+    [
+      "immortality",
+      "provides",
+      "physical realm"
+    ],
+    [
+      "immortality",
+      "provides motivation for",
+      "ghostly presence"
+    ],
+    [
+      "immortality",
+      "related to",
+      "fear of unknown"
+    ],
+    [
+      "immortality",
+      "related to",
+      "skepticism"
+    ],
+    [
+      "immortality",
+      "related to",
+      "unexplained phenomena"
+    ],
+    [
+      "immortality",
+      "shapes",
+      "human imagination"
+    ],
+    [
+      "immortality",
+      "suggests",
+      "awe and wonder"
+    ],
+    [
+      "immortality",
+      "suggests",
+      "unexplained noises"
+    ],
+    [
+      "immortality",
+      "sustained by",
+      "validation"
+    ],
+    [
+      "impactful experiences",
+      "challenges",
+      "skepticism"
+    ],
+    [
+      "impactful experiences",
+      "dismissed by",
+      "skeptics dismiss"
+    ],
+    [
+      "impactful experiences",
+      "drives",
+      "immortality"
+    ],
+    [
+      "impactful experiences",
+      "influences",
+      "perceptions"
+    ],
+    [
+      "impactful experiences",
+      "is impacted by",
+      "mysteries of supernatural"
+    ],
+    [
+      "impactful experiences",
+      "is impacted by",
+      "physical realm"
+    ],
+    [
+      "impactful experiences",
+      "lead to",
+      "paranormal entities"
+    ],
+    [
+      "impactful experiences",
+      "shaped by",
+      "belief"
+    ],
+    [
+      "impactful experiences",
+      "shaped by",
+      "continuity"
+    ],
+    [
+      "impactful experiences",
+      "shaped by",
+      "spiritual influence"
+    ],
+    [
+      "impactful experiences",
+      "shapes",
+      "meaning and connection"
+    ],
+    [
+      "impactful experiences",
+      "shapes",
+      "spiritual connection"
+    ],
+    [
+      "impactful experiences",
+      "shapes",
+      "traditions and folklore"
+    ],
+    [
+      "impactful experiences",
+      "triggers",
+      "fear of unknown"
+    ],
+    [
+      "legends",
+      "contributes to",
+      "belief complexity"
+    ],
+    [
+      "legends",
+      "influenced by",
+      "physical realm"
+    ],
+    [
+      "legends",
+      "influences",
+      "fiction"
+    ],
+    [
+      "legends",
+      "influences",
+      "perceptions"
+    ],
+    [
+      "legends",
+      "influences",
+      "shaping beliefs"
+    ],
+    [
+      "legends",
+      "informs",
+      "encounters"
+    ],
+    [
+      "legends",
+      "informs",
+      "paranormal entities"
+    ],
+    [
+      "legends",
+      "inspired by",
+      "awe and wonder"
+    ],
+    [
+      "legends",
+      "inspired by",
+      "continuity"
+    ],
+    [
+      "legends",
+      "inspired by",
+      "human imagination"
+    ],
+    [
+      "legends",
+      "is dismissed by",
+      "skeptics dismiss"
+    ],
+    [
+      "legends",
+      "is represented by",
+      "folklore significance"
+    ],
+    [
+      "legends",
+      "offers",
+      "meaning and connection"
+    ],
+    [
+      "legends",
+      "provides",
+      "reassurance"
+    ],
+    [
+      "legends",
+      "provides",
+      "validation"
+    ],
+    [
+      "meaning and connection",
+      "contributes to",
+      "books"
+    ],
+    [
+      "meaning and connection",
+      "diminishes",
+      "environmental factors"
+    ],
+    [
+      "meaning and connection",
+      "fulfills",
+      "exposure"
+    ],
+    [
+      "meaning and connection",
+      "provides",
+      "TV shows"
+    ],
+    [
+      "meaning and connection",
+      "provides",
+      "continuity"
+    ],
+    [
+      "meaning and connection",
+      "provides",
+      "fear of unknown"
+    ],
+    [
+      "meaning and connection",
+      "provides",
+      "ghostly presence"
+    ],
+    [
+      "meaning and connection",
+      "provides",
+      "mysteries of supernatural"
+    ],
+    [
+      "meaning and connection",
+      "provides",
+      "physical realm"
+    ],
+    [
+      "meaning and connection",
+      "provides",
+      "psychological needs"
+    ],
+    [
+      "movies",
+      "addresses",
+      "psychological needs"
+    ],
+    [
+      "movies",
+      "compares",
+      "books"
+    ],
+    [
+      "movies",
+      "compares to",
+      "TV shows"
+    ],
+    [
+      "movies",
+      "complicates",
+      "belief complexity"
+    ],
+    [
+      "movies",
+      "connects to",
+      "continuity"
+    ],
+    [
+      "movies",
+      "contributes to",
+      "meaning and connection"
+    ],
+    [
+      "movies",
+      "depicts",
+      "ghostly presence"
+    ],
+    [
+      "movies",
+      "depicts",
+      "unexplained noises"
+    ],
+    [
+      "movies",
+      "drives",
+      "human tendency"
+    ],
+    [
+      "movies",
+      "influenced by",
+      "personal experiences"
+    ],
+    [
+      "movies",
+      "influences",
+      "cultural factors"
+    ],
+    [
+      "movies",
+      "inspired by",
+      "encounters"
+    ],
+    [
+      "movies",
+      "inspired by",
+      "legends"
+    ],
+    [
+      "movies",
+      "inspired by",
+      "traditions and folklore"
+    ],
+    [
+      "movies",
+      "inspires",
+      "human imagination"
+    ],
+    [
+      "movies",
+      "is a part of",
+      "popular culture"
+    ],
+    [
+      "movies",
+      "is influenced by",
+      "perceptions"
+    ],
+    [
+      "movies",
+      "is represented in",
+      "fiction"
+    ],
+    [
+      "movies",
+      "portrays",
+      "supernatural"
+    ],
+    [
+      "movies",
+      "promotes belief in",
+      "immortality"
+    ],
+    [
+      "movies",
+      "provides",
+      "reassurance"
+    ],
+    [
+      "movies",
+      "reflects",
+      "cultural history"
+    ],
+    [
+      "movies",
+      "shapes",
+      "shaping beliefs"
+    ],
+    [
+      "mysteries of supernatural",
+      "explained by",
+      "environmental factors"
+    ],
+    [
+      "mysteries of supernatural",
+      "inspired by",
+      "legends"
+    ],
+    [
+      "mysteries of supernatural",
+      "involves",
+      "seeing apparitions"
+    ],
+    [
+      "paranormal beliefs",
+      "affects",
+      "shaping beliefs"
+    ],
+    [
+      "paranormal beliefs",
+      "contributes to",
+      "belief complexity"
+    ],
+    [
+      "paranormal beliefs",
+      "depicts",
+      "books"
+    ],
+    [
+      "paranormal beliefs",
+      "influenced by",
+      "childhood beliefs"
+    ],
+    [
+      "paranormal beliefs",
+      "influences",
+      "legends"
+    ],
+    [
+      "paranormal beliefs",
+      "is influenced by",
+      "reassurance"
+    ],
+    [
+      "paranormal beliefs",
+      "is shaped by",
+      "tradition influence"
+    ],
+    [
+      "paranormal beliefs",
+      "provides",
+      "meaning and connection"
+    ],
+    [
+      "paranormal beliefs",
+      "shapes",
+      "TV shows"
+    ],
+    [
+      "paranormal beliefs",
+      "shapes",
+      "environmental factors"
+    ],
+    [
+      "paranormal beliefs",
+      "supports",
+      "ghostly presence"
+    ],
+    [
+      "paranormal entities",
+      "associated with",
+      "seeing apparitions"
+    ],
+    [
+      "paranormal entities",
+      "depicted in",
+      "TV shows"
+    ],
+    [
+      "paranormal entities",
+      "influences",
+      "cultural history"
+    ],
+    [
+      "paranormal entities",
+      "influences",
+      "shaping beliefs"
+    ],
+    [
+      "paranormal entities",
+      "inspires",
+      "awe and wonder"
+    ],
+    [
+      "paranormal entities",
+      "is a component of",
+      "supernatural"
+    ],
+    [
+      "paranormal entities",
+      "is depicted in",
+      "books"
+    ],
+    [
+      "paranormal entities",
+      "is depicted in",
+      "fiction"
+    ],
+    [
+      "paranormal entities",
+      "is depicted in",
+      "popular culture"
+    ],
+    [
+      "paranormal entities",
+      "leads to",
+      "ghostly encounters"
+    ],
+    [
+      "paranormal entities",
+      "offers",
+      "immortality"
+    ],
+    [
+      "paranormal entities",
+      "signifies",
+      "folklore significance"
+    ],
+    [
+      "paranormal entities",
+      "stimulates",
+      "human imagination"
+    ],
+    [
+      "past connection",
+      "establishes",
+      "ghosts"
+    ],
+    [
+      "past connection",
+      "evokes",
+      "awe and wonder"
+    ],
+    [
+      "past connection",
+      "influences",
+      "TV shows"
+    ],
+    [
+      "past connection",
+      "informs",
+      "cultural history"
+    ],
+    [
+      "past connection",
+      "informs",
+      "encounters"
+    ],
+    [
+      "past connection",
+      "is influenced by",
+      "solace in mortality"
+    ],
+    [
+      "past connection",
+      "provides",
+      "comfort"
+    ],
+    [
+      "past connection",
+      "relates to",
+      "paranormal entities"
+    ],
+    [
+      "past connection",
+      "shapes",
+      "paranormal beliefs"
+    ],
+    [
+      "past connection",
+      "shapes",
+      "shaping beliefs"
+    ],
+    [
+      "perceptions",
+      "drives",
+      "human tendency"
+    ],
+    [
+      "perceptions",
+      "influences",
+      "cultural history"
+    ],
+    [
+      "perceptions",
+      "influences",
+      "ghost stories"
+    ],
+    [
+      "perceptions",
+      "influences",
+      "popular culture"
+    ],
+    [
+      "perceptions",
+      "influences",
+      "psychological factors"
+    ],
+    [
+      "perceptions",
+      "influences",
+      "shaping beliefs"
+    ],
+    [
+      "perceptions",
+      "involves",
+      "seeing apparitions"
+    ],
+    [
+      "perceptions",
+      "is linked to",
+      "unexplained phenomena"
+    ],
+    [
+      "perceptions",
+      "shapes",
+      "belief"
+    ],
+    [
+      "perceptions",
+      "shapes",
+      "encounters"
+    ],
+    [
+      "perceptions",
+      "shapes",
+      "exposure"
+    ],
+    [
+      "perceptions",
+      "shapes",
+      "immortality"
+    ],
+    [
+      "perceptions",
+      "shapes",
+      "paranormal beliefs"
+    ],
+    [
+      "personal experiences",
+      "affects",
+      "spiritual influence"
+    ],
+    [
+      "personal experiences",
+      "creates",
+      "impactful experiences"
+    ],
+    [
+      "personal experiences",
+      "fulfills",
+      "psychological needs"
+    ],
+    [
+      "personal experiences",
+      "indicates",
+      "ghostly presence"
+    ],
+    [
+      "personal experiences",
+      "influences",
+      "shaping beliefs"
+    ],
+    [
+      "personal experiences",
+      "influences",
+      "traditions and folklore"
+    ],
+    [
+      "personal experiences",
+      "informs",
+      "ghost stories"
+    ],
+    [
+      "personal experiences",
+      "informs",
+      "popular culture"
+    ],
+    [
+      "personal experiences",
+      "involves",
+      "ghostly encounters"
+    ],
+    [
+      "personal experiences",
+      "involves",
+      "paranormal entities"
+    ],
+    [
+      "personal experiences",
+      "involves",
+      "seeing apparitions"
+    ],
+    [
+      "personal experiences",
+      "is connected to",
+      "immortality"
+    ],
+    [
+      "personal experiences",
+      "is shaped by",
+      "exposure"
+    ],
+    [
+      "personal experiences",
+      "provides",
+      "afterlife possibility"
+    ],
+    [
+      "personal experiences",
+      "reinforces",
+      "folklore significance"
+    ],
+    [
+      "personal experiences",
+      "reinforces",
+      "reassurance"
+    ],
+    [
+      "personal experiences",
+      "shaped by",
+      "perceptions"
+    ],
+    [
+      "personal experiences",
+      "shapes",
+      "belief"
+    ],
+    [
+      "personal experiences",
+      "shapes",
+      "books"
+    ],
+    [
+      "personal experiences",
+      "shapes",
+      "paranormal beliefs"
+    ],
+    [
+      "personal experiences",
+      "shapes",
+      "psychological factors"
+    ],
+    [
+      "personal experiences",
+      "shapes",
+      "spiritual connection"
+    ],
+    [
+      "physical realm",
+      "affects",
+      "shaping beliefs"
+    ],
+    [
+      "physical realm",
+      "affects",
+      "tradition influence"
+    ],
+    [
+      "physical realm",
+      "associated with",
+      "unexplained noises"
+    ],
+    [
+      "physical realm",
+      "contextualizes",
+      "books"
+    ],
+    [
+      "physical realm",
+      "contrasts with",
+      "movies"
+    ],
+    [
+      "physical realm",
+      "contrasts with",
+      "mysteries of supernatural"
+    ],
+    [
+      "physical realm",
+      "contrasts with",
+      "supernatural"
+    ],
+    [
+      "physical realm",
+      "exists beyond",
+      "seeing apparitions"
+    ],
+    [
+      "physical realm",
+      "exists within",
+      "continuity"
+    ],
+    [
+      "physical realm",
+      "exists within",
+      "encounters"
+    ],
+    [
+      "physical realm",
+      "exists within",
+      "human imagination"
+    ],
+    [
+      "physical realm",
+      "influences",
+      "folklore significance"
+    ],
+    [
+      "physical realm",
+      "influences",
+      "ghost stories"
+    ],
+    [
+      "physical realm",
+      "influences",
+      "past connection"
+    ],
+    [
+      "physical realm",
+      "influences",
+      "traditions and folklore"
+    ],
+    [
+      "physical realm",
+      "perceived in",
+      "paranormal entities"
+    ],
+    [
+      "physical realm",
+      "perceived in",
+      "perceptions"
+    ],
+    [
+      "physical realm",
+      "relates to",
+      "awe and wonder"
+    ],
+    [
+      "physical realm",
+      "relates to",
+      "exposure"
+    ],
+    [
+      "physical realm",
+      "relates to",
+      "ghostly encounters"
+    ],
+    [
+      "physical realm",
+      "relates to",
+      "ghosts"
+    ],
+    [
+      "physical realm",
+      "relates to",
+      "personal experiences"
+    ],
+    [
+      "popular culture",
+      "depicts",
+      "spiritual influence"
+    ],
+    [
+      "popular culture",
+      "influenced by",
+      "supernatural"
+    ],
+    [
+      "popular culture",
+      "influenced by",
+      "tradition influence"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "books"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "encounters"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "environmental factors"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "fiction"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "mysteries of supernatural"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "physical realm"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "psychological factors"
+    ],
+    [
+      "popular culture",
+      "influences",
+      "unexplained noises"
+    ],
+    [
+      "popular culture",
+      "offers",
+      "validation"
+    ],
+    [
+      "popular culture",
+      "reinforced by",
+      "ghostly presence"
+    ],
+    [
+      "popular culture",
+      "reinforced by",
+      "reassurance"
+    ],
+    [
+      "popular culture",
+      "reinforces",
+      "legends"
+    ],
+    [
+      "popular culture",
+      "reinforces",
+      "superstition"
+    ],
+    [
+      "popular culture",
+      "shaped by",
+      "belief"
+    ],
+    [
+      "popular culture",
+      "shaped by",
+      "continuity"
+    ],
+    [
+      "popular culture",
+      "shapes",
+      "ghosts"
+    ],
+    [
+      "popular culture",
+      "shapes",
+      "human tendency"
+    ],
+    [
+      "popular culture",
+      "shapes",
+      "shaping beliefs"
+    ],
+    [
+      "psychological factors",
+      "affects",
+      "encounters"
+    ],
+    [
+      "psychological factors",
+      "contributes to",
+      "mysteries of supernatural"
+    ],
+    [
+      "psychological factors",
+      "contributes to",
+      "paranormal beliefs"
+    ],
+    [
+      "psychological factors",
+      "drives",
+      "human tendency"
+    ],
+    [
+      "psychological factors",
+      "explains",
+      "unexplained phenomena"
+    ],
+    [
+      "psychological factors",
+      "influences",
+      "belief"
+    ],
+    [
+      "psychological factors",
+      "influences",
+      "cultural history"
+    ],
+    [
+      "psychological factors",
+      "influences",
+      "exposure"
+    ],
+    [
+      "psychological factors",
+      "influences",
+      "movies"
+    ],
+    [
+      "psychological factors",
+      "influences",
+      "reassurance"
+    ],
+    [
+      "psychological factors",
+      "influences",
+      "supernatural"
+    ],
+    [
+      "psychological factors",
+      "influences",
+      "traditions and folklore"
+    ],
+    [
+      "psychological factors",
+      "involves",
+      "seeing apparitions"
+    ],
+    [
+      "psychological factors",
+      "motivates",
+      "immortality"
+    ],
+    [
+      "psychological factors",
+      "provides",
+      "continuity"
+    ],
+    [
+      "psychological factors",
+      "shapes",
+      "impactful experiences"
+    ],
+    [
+      "psychological factors",
+      "shapes",
+      "shaping beliefs"
+    ],
+    [
+      "psychological needs",
+      "drives",
+      "human imagination"
+    ],
+    [
+      "psychological needs",
+      "drives",
+      "human tendency"
+    ],
+    [
+      "psychological needs",
+      "fulfills",
+      "awe and wonder"
+    ],
+    [
+      "psychological needs",
+      "fulfills",
+      "comfort"
+    ],
+    [
+      "psychological needs",
+      "fulfills",
+      "encounters"
+    ],
+    [
+      "psychological needs",
+      "fulfills",
+      "seeing apparitions"
+    ],
+    [
+      "psychological needs",
+      "influences",
+      "perceptions"
+    ],
+    [
+      "psychological needs",
+      "satisfies",
+      "continuity"
+    ],
+    [
+      "psychological needs",
+      "shapes",
+      "shaping beliefs"
+    ],
+    [
+      "reassurance",
+      "addresses",
+      "psychological needs"
+    ],
+    [
+      "reassurance",
+      "drives",
+      "human tendency"
+    ],
+    [
+      "reassurance",
+      "influences",
+      "exposure"
+    ],
+    [
+      "reassurance",
+      "is caused by",
+      "fear of unknown"
+    ],
+    [
+      "reassurance",
+      "offers",
+      "validation"
+    ],
+    [
+      "reassurance",
+      "provides",
+      "TV shows"
+    ],
+    [
+      "reassurance",
+      "provides",
+      "books"
+    ],
+    [
+      "reassurance",
+      "provides",
+      "comfort"
+    ],
+    [
+      "reassurance",
+      "provides",
+      "continuity"
+    ],
+    [
+      "reassurance",
+      "provides",
+      "encounters"
+    ],
+    [
+      "reassurance",
+      "provides",
+      "meaning and connection"
+    ],
+    [
+      "reassurance",
+      "provides",
+      "past connection"
+    ],
+    [
+      "reassurance",
+      "provides",
+      "unexplained phenomena"
+    ],
+    [
+      "reassurance",
+      "reinforces",
+      "belief"
+    ],
+    [
+      "reassurance",
+      "reinforces",
+      "traditions and folklore"
+    ],
+    [
+      "reassurance",
+      "shapes",
+      "cultural beliefs"
+    ],
+    [
+      "reassurance",
+      "shapes",
+      "shaping beliefs"
+    ],
+    [
+      "religious teachings",
+      "affects",
+      "impactful experiences"
+    ],
+    [
+      "religious teachings",
+      "contrasts with",
+      "fiction"
+    ],
+    [
+      "religious teachings",
+      "depicts",
+      "movies"
+    ],
+    [
+      "religious teachings",
+      "evokes",
+      "awe and wonder"
+    ],
+    [
+      "religious teachings",
+      "influences",
+      "encounters"
+    ],
+    [
+      "religious teachings",
+      "influences",
+      "environmental factors"
+    ],
+    [
+      "religious teachings",
+      "influences",
+      "legends"
+    ],
+    [
+      "religious teachings",
+      "influences",
+      "popular culture"
+    ],
+    [
+      "religious teachings",
+      "influences",
+      "psychological factors"
+    ],
+    [
+      "religious teachings",
+      "influences",
+      "psychological needs"
+    ],
+    [
+      "religious teachings",
+      "influences",
+      "reassurance"
+    ],
+    [
+      "religious teachings",
+      "influences",
+      "seeing apparitions"
+    ],
+    [
+      "religious teachings",
+      "influences",
+      "spirits watching over"
+    ],
+    [
+      "religious teachings",
+      "influences",
+      "superstition"
+    ],
+    [
+      "religious teachings",
+      "informs",
+      "books"
+    ],
+    [
+      "religious teachings",
+      "informs",
+      "ghost stories"
+    ],
+    [
+      "religious teachings",
+      "informs",
+      "ghostly encounters"
+    ],
+    [
+      "religious teachings",
+      "informs",
+      "paranormal entities"
+    ],
+    [
+      "religious teachings",
+      "informs",
+      "unexplained noises"
+    ],
+    [
+      "religious teachings",
+      "is linked to",
+      "immortality"
+    ],
+    [
+      "religious teachings",
+      "provides",
+      "continuity"
+    ],
+    [
+      "religious teachings",
+      "provides",
+      "meaning and connection"
+    ],
+    [
+      "religious teachings",
+      "shaped by",
+      "perceptions"
+    ],
+    [
+      "religious teachings",
+      "shapes",
+      "TV shows"
+    ],
+    [
+      "religious teachings",
+      "shapes",
+      "afterlife possibility"
+    ],
+    [
+      "religious teachings",
+      "shapes",
+      "belief"
+    ],
+    [
+      "religious teachings",
+      "shapes",
+      "childhood beliefs"
+    ],
+    [
+      "religious teachings",
+      "shapes",
+      "cultural history"
+    ],
+    [
+      "religious teachings",
+      "shapes",
+      "exposure"
+    ],
+    [
+      "religious teachings",
+      "shapes",
+      "human imagination"
+    ],
+    [
+      "religious teachings",
+      "shapes",
+      "human tendency"
+    ],
+    [
+      "religious teachings",
+      "shapes",
+      "paranormal beliefs"
+    ],
+    [
+      "religious teachings",
+      "shapes",
+      "personal experiences"
+    ],
+    [
+      "religious teachings",
+      "shapes",
+      "physical realm"
+    ],
+    [
+      "religious teachings",
+      "shapes",
+      "shaping beliefs"
+    ],
+    [
+      "religious teachings",
+      "shapes",
+      "spiritual connection"
+    ],
+    [
+      "religious teachings",
+      "shapes",
+      "traditions and folklore"
+    ],
+    [
+      "religious teachings",
+      "supports belief in",
+      "ghostly presence"
+    ],
+    [
+      "religious teachings",
+      "validates",
+      "validation"
+    ],
+    [
+      "seeing apparitions",
+      "associated with",
+      "environmental factors"
+    ],
+    [
+      "seeing apparitions",
+      "compared to",
+      "unexplained noises"
+    ],
+    [
+      "seeing apparitions",
+      "depicts",
+      "books"
+    ],
+    [
+      "seeing apparitions",
+      "depicts",
+      "movies"
+    ],
+    [
+      "seeing apparitions",
+      "driven by",
+      "human tendency"
+    ],
+    [
+      "seeing apparitions",
+      "influences",
+      "cultural history"
+    ],
+    [
+      "seeing apparitions",
+      "informs",
+      "legends"
+    ],
+    [
+      "seeing apparitions",
+      "involves",
+      "continuity"
+    ],
+    [
+      "seeing apparitions",
+      "involves",
+      "human imagination"
+    ],
+    [
+      "seeing apparitions",
+      "involves",
+      "spiritual influence"
+    ],
+    [
+      "seeing apparitions",
+      "is associated with",
+      "immortality"
+    ],
+    [
+      "seeing apparitions",
+      "is influenced by",
+      "encounters"
+    ],
+    [
+      "seeing apparitions",
+      "is influenced by",
+      "popular culture"
+    ],
+    [
+      "seeing apparitions",
+      "is linked to",
+      "impactful experiences"
+    ],
+    [
+      "seeing apparitions",
+      "perceived as",
+      "belief"
+    ],
+    [
+      "seeing apparitions",
+      "witnessed in",
+      "ghostly encounters"
+    ],
+    [
+      "seeing apparitions",
+      "witnessed in",
+      "ghosts"
+    ],
+    [
+      "shaping beliefs",
+      "is influenced by",
+      "tradition influence"
+    ],
+    [
+      "shaping beliefs",
+      "is shaped by",
+      "folklore significance"
+    ],
+    [
+      "shaping beliefs",
+      "provides",
+      "comfort"
+    ],
+    [
+      "shaping beliefs",
+      "shapes",
+      "belief complexity"
+    ],
+    [
+      "skepticism",
+      "challenges",
+      "belief"
+    ],
+    [
+      "skepticism",
+      "challenges",
+      "continuity"
+    ],
+    [
+      "skepticism",
+      "challenges",
+      "fear of unknown"
+    ],
+    [
+      "skepticism",
+      "challenges",
+      "ghost stories"
+    ],
+    [
+      "skepticism",
+      "challenges",
+      "ghostly presence"
+    ],
+    [
+      "skepticism",
+      "challenges",
+      "paranormal beliefs"
+    ],
+    [
+      "skepticism",
+      "challenges",
+      "paranormal entities"
+    ],
+    [
+      "skepticism",
+      "challenges",
+      "psychological factors"
+    ],
+    [
+      "skepticism",
+      "challenges",
+      "religious teachings"
+    ],
+    [
+      "skepticism",
+      "challenges",
+      "spirits watching over"
+    ],
+    [
+      "skepticism",
+      "challenges",
+      "superstition"
+    ],
+    [
+      "skepticism",
+      "complicates",
+      "belief complexity"
+    ],
+    [
+      "skepticism",
+      "dismisses",
+      "fiction"
+    ],
+    [
+      "skepticism",
+      "drives",
+      "psychological needs"
+    ],
+    [
+      "skepticism",
+      "fuels",
+      "environmental factors"
+    ],
+    [
+      "skepticism",
+      "is challenged by",
+      "cultural history"
+    ],
+    [
+      "skepticism",
+      "is challenged by",
+      "spiritual influence"
+    ],
+    [
+      "skepticism",
+      "questions",
+      "legends"
+    ],
+    [
+      "skepticism",
+      "questions",
+      "unexplained phenomena"
+    ],
+    [
+      "skepticism",
+      "shapes",
+      "meaning and connection"
+    ],
+    [
+      "skepticism",
+      "undermines",
+      "perceptions"
+    ],
+    [
+      "skeptics dismiss",
+      "dismissed by",
+      "cultural beliefs"
+    ],
+    [
+      "skeptics dismiss",
+      "dismissed by",
+      "encounters"
+    ],
+    [
+      "skeptics dismiss",
+      "dismissed by",
+      "meaning and connection"
+    ],
+    [
+      "skeptics dismiss",
+      "dismissed by",
+      "paranormal entities"
+    ],
+    [
+      "skeptics dismiss",
+      "dismissed by",
+      "spiritual connection"
+    ],
+    [
+      "skeptics dismiss",
+      "dismissed by",
+      "traditions and folklore"
+    ],
+    [
+      "skeptics dismiss",
+      "dismisses",
+      "belief"
+    ],
+    [
+      "skeptics dismiss",
+      "dismisses",
+      "feeling presence"
+    ],
+    [
+      "skeptics dismiss",
+      "dismisses",
+      "fiction"
+    ],
+    [
+      "skeptics dismiss",
+      "dismisses",
+      "ghost stories"
+    ],
+    [
+      "skeptics dismiss",
+      "dismisses",
+      "ghostly presence"
+    ],
+    [
+      "skeptics dismiss",
+      "dismisses",
+      "mysteries of supernatural"
+    ],
+    [
+      "skeptics dismiss",
+      "dismisses",
+      "physical realm"
+    ],
+    [
+      "skeptics dismiss",
+      "dismisses",
+      "popular culture"
+    ],
+    [
+      "skeptics dismiss",
+      "dismisses",
+      "solace in mortality"
+    ],
+    [
+      "skeptics dismiss",
+      "dismisses",
+      "supernatural"
+    ],
+    [
+      "skeptics dismiss",
+      "is dismissed by",
+      "ghostly encounters"
+    ],
+    [
+      "skeptics dismiss",
+      "is dismissed by",
+      "human imagination"
+    ],
+    [
+      "skeptics dismiss",
+      "is dismissed by",
+      "seeing apparitions"
+    ],
+    [
+      "skeptics dismiss",
+      "rejects",
+      "ghosts"
+    ],
+    [
+      "solace in mortality",
+      "offers",
+      "continuity"
+    ],
+    [
+      "solace in mortality",
+      "offers",
+      "ghostly presence"
+    ],
+    [
+      "solace in mortality",
+      "provides",
+      "ghost stories"
+    ],
+    [
+      "solace in mortality",
+      "provides",
+      "immortality"
+    ],
+    [
+      "solace in mortality",
+      "provides",
+      "spiritual connection"
+    ],
+    [
+      "solace in mortality",
+      "provides",
+      "unexplained noises"
+    ],
+    [
+      "spirits watching over",
+      "associated with",
+      "feeling presence"
+    ],
+    [
+      "spirits watching over",
+      "complicates",
+      "belief complexity"
+    ],
+    [
+      "spirits watching over",
+      "evokes",
+      "awe and wonder"
+    ],
+    [
+      "spirits watching over",
+      "influences",
+      "popular culture"
+    ],
+    [
+      "spirits watching over",
+      "inspires",
+      "human imagination"
+    ],
+    [
+      "spirits watching over",
+      "is associated with",
+      "afterlife possibility"
+    ],
+    [
+      "spirits watching over",
+      "observed by",
+      "past connection"
+    ],
+    [
+      "spirits watching over",
+      "observed by",
+      "physical realm"
+    ],
+    [
+      "spirits watching over",
+      "observed by",
+      "unexplained noises"
+    ],
+    [
+      "spirits watching over",
+      "provides",
+      "immortality"
+    ],
+    [
+      "spirits watching over",
+      "reinforces",
+      "belief"
+    ],
+    [
+      "spirits watching over",
+      "reinforces",
+      "ghostly presence"
+    ],
+    [
+      "spirits watching over",
+      "suggests",
+      "mysteries of supernatural"
+    ],
+    [
+      "spirits watching over",
+      "supports",
+      "paranormal beliefs"
+    ],
+    [
+      "spirits watching over",
+      "watched over by",
+      "personal experiences"
+    ],
+    [
+      "spiritual connection",
+      "connects",
+      "afterlife possibility"
+    ],
+    [
+      "spiritual connection",
+      "connects",
+      "mysteries of supernatural"
+    ],
+    [
+      "spiritual connection",
+      "connects to",
+      "paranormal entities"
+    ],
+    [
+      "spiritual connection",
+      "drives",
+      "psychological needs"
+    ],
+    [
+      "spiritual connection",
+      "enhances",
+      "cultural history"
+    ],
+    [
+      "spiritual connection",
+      "enhances",
+      "folklore significance"
+    ],
+    [
+      "spiritual connection",
+      "enhances",
+      "perceptions"
+    ],
+    [
+      "spiritual connection",
+      "explains",
+      "unexplained phenomena"
+    ],
+    [
+      "spiritual connection",
+      "influences",
+      "shaping beliefs"
+    ],
+    [
+      "spiritual connection",
+      "informs",
+      "legends"
+    ],
+    [
+      "spiritual connection",
+      "inspires",
+      "human imagination"
+    ],
+    [
+      "spiritual connection",
+      "is influenced by",
+      "encounters"
+    ],
+    [
+      "spiritual connection",
+      "is influenced by",
+      "seeing apparitions"
+    ],
+    [
+      "spiritual connection",
+      "is shaped by",
+      "popular culture"
+    ],
+    [
+      "spiritual connection",
+      "provides",
+      "continuity"
+    ],
+    [
+      "spiritual connection",
+      "provides",
+      "meaning and connection"
+    ],
+    [
+      "spiritual connection",
+      "shapes",
+      "exposure"
+    ],
+    [
+      "spiritual influence",
+      "affects",
+      "folklore significance"
+    ],
+    [
+      "spiritual influence",
+      "affects",
+      "spirits watching over"
+    ],
+    [
+      "spiritual influence",
+      "contributes to",
+      "belief complexity"
+    ],
+    [
+      "spiritual influence",
+      "creates",
+      "past connection"
+    ],
+    [
+      "spiritual influence",
+      "explains",
+      "unexplained phenomena"
+    ],
+    [
+      "spiritual influence",
+      "influences",
+      "human tendency"
+    ],
+    [
+      "spiritual influence",
+      "influences",
+      "paranormal entities"
+    ],
+    [
+      "spiritual influence",
+      "is explored in",
+      "books"
+    ],
+    [
+      "spiritual influence",
+      "provides",
+      "continuity"
+    ],
+    [
+      "spiritual influence",
+      "provides",
+      "meaning and connection"
+    ],
+    [
+      "spiritual influence",
+      "shapes",
+      "childhood beliefs"
+    ],
+    [
+      "spiritual influence",
+      "shapes",
+      "encounters"
+    ],
+    [
+      "spiritual influence",
+      "shapes",
+      "legends"
+    ],
+    [
+      "supernatural",
+      "drives",
+      "human tendency"
+    ],
+    [
+      "supernatural",
+      "fulfills",
+      "psychological needs"
+    ],
+    [
+      "supernatural",
+      "influences",
+      "environmental factors"
+    ],
+    [
+      "supernatural",
+      "influences",
+      "paranormal beliefs"
+    ],
+    [
+      "supernatural",
+      "informs",
+      "books"
+    ],
+    [
+      "supernatural",
+      "inspires",
+      "awe and wonder"
+    ],
+    [
+      "supernatural",
+      "involves",
+      "legends"
+    ],
+    [
+      "supernatural",
+      "involves",
+      "seeing apparitions"
+    ],
+    [
+      "supernatural",
+      "is linked to",
+      "unexplained noises"
+    ],
+    [
+      "supernatural",
+      "provides",
+      "comfort"
+    ],
+    [
+      "supernatural",
+      "provides",
+      "meaning and connection"
+    ],
+    [
+      "supernatural",
+      "reinforces",
+      "ghostly encounters"
+    ],
+    [
+      "supernatural",
+      "suggests",
+      "spirits watching over"
+    ],
+    [
+      "superstition",
+      "affects",
+      "psychological factors"
+    ],
+    [
+      "superstition",
+      "complicates",
+      "belief complexity"
+    ],
+    [
+      "superstition",
+      "contrasts with",
+      "legends"
+    ],
+    [
+      "superstition",
+      "dismissed as",
+      "ghosts"
+    ],
+    [
+      "superstition",
+      "drives",
+      "human tendency"
+    ],
+    [
+      "superstition",
+      "drives",
+      "psychological needs"
+    ],
+    [
+      "superstition",
+      "explains",
+      "environmental factors"
+    ],
+    [
+      "superstition",
+      "influences",
+      "TV shows"
+    ],
+    [
+      "superstition",
+      "influences",
+      "childhood beliefs"
+    ],
+    [
+      "superstition",
+      "influences",
+      "fear of unknown"
+    ],
+    [
+      "superstition",
+      "influences",
+      "movies"
+    ],
+    [
+      "superstition",
+      "is associated with",
+      "supernatural"
+    ],
+    [
+      "superstition",
+      "is influenced by",
+      "perceptions"
+    ],
+    [
+      "superstition",
+      "motivates belief in",
+      "immortality"
+    ],
+    [
+      "superstition",
+      "reinforces",
+      "personal experiences"
+    ],
+    [
+      "superstition",
+      "shapes",
+      "shaping beliefs"
+    ],
+    [
+      "tradition influence",
+      "affects",
+      "books"
+    ],
+    [
+      "tradition influence",
+      "evokes",
+      "awe and wonder"
+    ],
+    [
+      "tradition influence",
+      "influences",
+      "TV shows"
+    ],
+    [
+      "tradition influence",
+      "influences",
+      "folklore significance"
+    ],
+    [
+      "tradition influence",
+      "influences",
+      "paranormal beliefs"
+    ],
+    [
+      "tradition influence",
+      "influences",
+      "spirits watching over"
+    ],
+    [
+      "tradition influence",
+      "influences",
+      "traditions and folklore"
+    ],
+    [
+      "tradition influence",
+      "influences",
+      "unexplained phenomena"
+    ],
+    [
+      "tradition influence",
+      "offers",
+      "immortality"
+    ],
+    [
+      "tradition influence",
+      "provides",
+      "meaning and connection"
+    ],
+    [
+      "tradition influence",
+      "provides",
+      "validation"
+    ],
+    [
+      "tradition influence",
+      "provides continuity for",
+      "continuity"
+    ],
+    [
+      "tradition influence",
+      "shapes",
+      "childhood beliefs"
+    ],
+    [
+      "tradition influence",
+      "shapes",
+      "feeling presence"
+    ],
+    [
+      "tradition influence",
+      "shapes",
+      "human tendency"
+    ],
+    [
+      "tradition influence",
+      "shapes",
+      "impactful experiences"
+    ],
+    [
+      "tradition influence",
+      "triggers",
+      "seeing apparitions"
+    ],
+    [
+      "traditions and folklore",
+      "addresses",
+      "psychological needs"
+    ],
+    [
+      "traditions and folklore",
+      "challenges",
+      "skepticism"
+    ],
+    [
+      "traditions and folklore",
+      "drives",
+      "human tendency"
+    ],
+    [
+      "traditions and folklore",
+      "fosters",
+      "spiritual connection"
+    ],
+    [
+      "traditions and folklore",
+      "highlights",
+      "folklore significance"
+    ],
+    [
+      "traditions and folklore",
+      "influenced by",
+      "perceptions"
+    ],
+    [
+      "traditions and folklore",
+      "influences",
+      "TV shows"
+    ],
+    [
+      "traditions and folklore",
+      "influences",
+      "feeling presence"
+    ],
+    [
+      "traditions and folklore",
+      "influences",
+      "ghost stories"
+    ],
+    [
+      "traditions and folklore",
+      "influences",
+      "ghostly encounters"
+    ],
+    [
+      "traditions and folklore",
+      "influences",
+      "ghostly presence"
+    ],
+    [
+      "traditions and folklore",
+      "influences",
+      "human imagination"
+    ],
+    [
+      "traditions and folklore",
+      "influences",
+      "paranormal entities"
+    ],
+    [
+      "traditions and folklore",
+      "influences",
+      "shaping beliefs"
+    ],
+    [
+      "traditions and folklore",
+      "influences",
+      "spiritual influence"
+    ],
+    [
+      "traditions and folklore",
+      "influences",
+      "unexplained noises"
+    ],
+    [
+      "traditions and folklore",
+      "informs",
+      "afterlife possibility"
+    ],
+    [
+      "traditions and folklore",
+      "informs",
+      "encounters"
+    ],
+    [
+      "traditions and folklore",
+      "informs",
+      "legends"
+    ],
+    [
+      "traditions and folklore",
+      "informs",
+      "seeing apparitions"
+    ],
+    [
+      "traditions and folklore",
+      "inspires",
+      "awe and wonder"
+    ],
+    [
+      "traditions and folklore",
+      "is explained by",
+      "unexplained phenomena"
+    ],
+    [
+      "traditions and folklore",
+      "provides",
+      "continuity"
+    ],
+    [
+      "traditions and folklore",
+      "provides",
+      "meaning and connection"
+    ],
+    [
+      "traditions and folklore",
+      "provides",
+      "past connection"
+    ],
+    [
+      "traditions and folklore",
+      "reinforces",
+      "belief"
+    ],
+    [
+      "traditions and folklore",
+      "shapes",
+      "popular culture"
+    ],
+    [
+      "unexplained noises",
+      "associated with",
+      "continuity"
+    ],
+    [
+      "unexplained noises",
+      "associated with",
+      "ghostly encounters"
+    ],
+    [
+      "unexplained noises",
+      "associated with",
+      "ghosts"
+    ],
+    [
+      "unexplained noises",
+      "contributes to",
+      "environmental factors"
+    ],
+    [
+      "unexplained noises",
+      "explained by",
+      "past connection"
+    ],
+    [
+      "unexplained noises",
+      "explains",
+      "mysteries of supernatural"
+    ],
+    [
+      "unexplained noises",
+      "influences",
+      "paranormal beliefs"
+    ],
+    [
+      "unexplained noises",
+      "influences",
+      "paranormal entities"
+    ],
+    [
+      "unexplained noises",
+      "influences",
+      "psychological factors"
+    ],
+    [
+      "unexplained noises",
+      "informs",
+      "fiction"
+    ],
+    [
+      "unexplained noises",
+      "informs",
+      "legends"
+    ],
+    [
+      "unexplained noises",
+      "is significant in",
+      "folklore significance"
+    ],
+    [
+      "unexplained noises",
+      "provides",
+      "meaning and connection"
+    ],
+    [
+      "unexplained noises",
+      "suggests",
+      "ghostly presence"
+    ],
+    [
+      "unexplained phenomena",
+      "affects",
+      "supernatural"
+    ],
+    [
+      "unexplained phenomena",
+      "explains",
+      "exposure"
+    ],
+    [
+      "unexplained phenomena",
+      "influences",
+      "belief complexity"
+    ],
+    [
+      "unexplained phenomena",
+      "related to",
+      "past connection"
+    ],
+    [
+      "unexplained phenomena",
+      "related to",
+      "unexplained noises"
+    ],
+    [
+      "unexplained phenomena",
+      "shapes",
+      "shaping beliefs"
+    ],
+    [
+      "unexplained phenomena",
+      "significant to",
+      "folklore significance"
+    ],
+    [
+      "unexplained phenomena",
+      "sparked by",
+      "awe and wonder"
+    ],
+    [
+      "validation",
+      "is influenced by",
+      "perceptions"
+    ],
+    [
+      "validation",
+      "offers",
+      "comfort"
+    ],
+    [
+      "validation",
+      "offers",
+      "environmental factors"
+    ],
+    [
+      "validation",
+      "offers",
+      "fiction"
+    ],
+    [
+      "validation",
+      "offers",
+      "psychological factors"
+    ],
+    [
+      "validation",
+      "offers",
+      "psychological needs"
+    ],
+    [
+      "validation",
+      "offers",
+      "supernatural"
+    ],
+    [
+      "validation",
+      "offers",
+      "unexplained phenomena"
+    ],
+    [
+      "validation",
+      "provides",
+      "TV shows"
+    ],
+    [
+      "validation",
+      "provides",
+      "belief"
+    ],
+    [
+      "validation",
+      "provides",
+      "books"
+    ],
+    [
+      "validation",
+      "provides",
+      "continuity"
+    ],
+    [
+      "validation",
+      "provides",
+      "exposure"
+    ],
+    [
+      "validation",
+      "provides",
+      "ghosts"
+    ],
+    [
+      "validation",
+      "provides",
+      "movies"
+    ],
+    [
+      "validation",
+      "provides",
+      "past connection"
+    ],
+    [
+      "validation",
+      "provides",
+      "skeptics dismiss"
+    ],
+    [
+      "validation",
+      "provides",
+      "superstition"
+    ],
+    [
+      "validation",
+      "provides",
+      "unexplained noises"
+    ],
+    [
+      "validation",
+      "provides validation for",
+      "mysteries of supernatural"
+    ],
+    [
+      "validation",
+      "provides validation for",
+      "spiritual influence"
+    ],
+    [
+      "validation",
+      "validated by",
+      "ghost stories"
+    ],
+    [
+      "validation",
+      "validated by",
+      "personal experiences"
+    ],
+    [
+      "validation",
+      "validated by",
+      "solace in mortality"
+    ],
+    [
+      "validation",
+      "validates",
+      "fear of unknown"
+    ]
+  ],
+  "edges": [
+    "addresses",
+    "adds to",
+    "affects",
+    "associated with",
+    "believed in by",
+    "captures",
+    "challenges",
+    "compared to",
+    "compares",
+    "compares to",
+    "complexity of",
+    "complicates",
+    "connects",
+    "connects to",
+    "contextualizes",
+    "contradicts",
+    "contrasts",
+    "contrasts with",
+    "contributes to",
+    "creates",
+    "creates connection to",
+    "demonstrates",
+    "depicted in",
+    "depicts",
+    "diminishes",
+    "dismissed as",
+    "dismissed by",
+    "dismisses",
+    "driven by",
+    "drives",
+    "enhances",
+    "establishes",
+    "evokes",
+    "exists beyond",
+    "exists within",
+    "explained by",
+    "explains",
+    "featured in",
+    "fosters",
+    "fuels",
+    "fulfills",
+    "highlights",
+    "includes",
+    "increases",
+    "indicates",
+    "influenced by",
+    "influences",
+    "influences belief in",
+    "informs",
+    "inspired by",
+    "inspires",
+    "involves",
+    "is a component of",
+    "is a part of",
+    "is a reason for",
+    "is a source of",
+    "is a type of",
+    "is affected by",
+    "is associated with",
+    "is caused by",
+    "is challenged by",
+    "is complex due to",
+    "is connected to",
+    "is contrasted with",
+    "is depicted in",
+    "is derived from",
+    "is dismissed by",
+    "is explained by",
+    "is explored in",
+    "is impacted by",
+    "is influenced by",
+    "is inspired by",
+    "is linked to",
+    "is perceived as",
+    "is portrayed in",
+    "is represented by",
+    "is represented in",
+    "is rooted in",
+    "is shaped by",
+    "is significant in",
+    "is supported by",
+    "lead to",
+    "leads to",
+    "motivates",
+    "motivates belief in",
+    "observed by",
+    "offers",
+    "offers continuity for",
+    "perceived as",
+    "perceived in",
+    "portrays",
+    "promotes belief in",
+    "provides",
+    "provides continuity for",
+    "provides meaning and connection for",
+    "provides motivation for",
+    "provides reassurance for",
+    "provides validation for",
+    "questions",
+    "reflects",
+    "reinforced by",
+    "reinforces",
+    "rejects",
+    "related to",
+    "relates to",
+    "satisfies",
+    "seeks",
+    "seen as",
+    "shaped by",
+    "shapes",
+    "shapes perception of",
+    "significance of",
+    "significant to",
+    "signifies",
+    "sparked by",
+    "sparks",
+    "stimulates",
+    "suggests",
+    "supports",
+    "supports belief in",
+    "sustained by",
+    "triggers",
+    "undermines",
+    "validated by",
+    "validates",
+    "watched over by",
+    "witnessed in"
+  ]
+}

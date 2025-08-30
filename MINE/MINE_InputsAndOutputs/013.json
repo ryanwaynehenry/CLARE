@@ -1,0 +1,3742 @@
+{
+  "entities": [
+    "acceleration",
+    "airtime",
+    "amusement park",
+    "balance",
+    "car stability",
+    "centripetal force",
+    "coaster dynamics",
+    "constant speed",
+    "curved paths",
+    "curves",
+    "design",
+    "downward motion",
+    "drops",
+    "educational concepts",
+    "educational experience",
+    "energy conservation",
+    "energy conversion",
+    "engineering",
+    "engineering principles",
+    "excitement",
+    "fear factor",
+    "force balance",
+    "forces",
+    "friction",
+    "gravitational force",
+    "gravity effects",
+    "kinetic energy",
+    "loops",
+    "mechanical energy",
+    "negative effects",
+    "opposing motion",
+    "overall speed",
+    "physics",
+    "physics principles",
+    "potential energy",
+    "principles",
+    "ride dynamics",
+    "ride excitement",
+    "ride experience",
+    "ride mechanics",
+    "ride safety",
+    "ride sensations",
+    "roller coaster motion",
+    "roller coasters",
+    "sharp turns",
+    "stability",
+    "thrill factors",
+    "thrilling experience",
+    "track design",
+    "track dynamics",
+    "track navigation",
+    "traction",
+    "turns",
+    "twists",
+    "velocity",
+    "weightlessness"
+  ],
+  "relations": [
+    [
+      "acceleration",
+      "affects",
+      "energy conservation"
+    ],
+    [
+      "acceleration",
+      "affects",
+      "potential energy"
+    ],
+    [
+      "acceleration",
+      "affects",
+      "ride mechanics"
+    ],
+    [
+      "acceleration",
+      "contributes to",
+      "thrill factors"
+    ],
+    [
+      "acceleration",
+      "demonstrates",
+      "educational experience"
+    ],
+    [
+      "acceleration",
+      "describes",
+      "roller coaster motion"
+    ],
+    [
+      "acceleration",
+      "increases",
+      "ride experience"
+    ],
+    [
+      "acceleration",
+      "influences",
+      "curved paths"
+    ],
+    [
+      "acceleration",
+      "influences",
+      "fear factor"
+    ],
+    [
+      "acceleration",
+      "is a factor in",
+      "coaster dynamics"
+    ],
+    [
+      "acceleration",
+      "is experienced during",
+      "airtime"
+    ],
+    [
+      "acceleration",
+      "is experienced during",
+      "turns"
+    ],
+    [
+      "acceleration",
+      "is related to",
+      "track dynamics"
+    ],
+    [
+      "acceleration",
+      "relates to",
+      "principles"
+    ],
+    [
+      "acceleration",
+      "results in",
+      "downward motion"
+    ],
+    [
+      "airtime",
+      "contributes to",
+      "excitement"
+    ],
+    [
+      "airtime",
+      "enhances",
+      "educational experience"
+    ],
+    [
+      "airtime",
+      "illustrates",
+      "physics principles"
+    ],
+    [
+      "airtime",
+      "influences",
+      "forces"
+    ],
+    [
+      "airtime",
+      "influences",
+      "mechanical energy"
+    ],
+    [
+      "airtime",
+      "is associated with",
+      "velocity"
+    ],
+    [
+      "airtime",
+      "is experienced by",
+      "ride dynamics"
+    ],
+    [
+      "airtime",
+      "is experienced during",
+      "curved paths"
+    ],
+    [
+      "airtime",
+      "is experienced during",
+      "ride experience"
+    ],
+    [
+      "airtime",
+      "is governed by",
+      "principles"
+    ],
+    [
+      "airtime",
+      "is influenced by",
+      "track design"
+    ],
+    [
+      "airtime",
+      "occurs during",
+      "loops"
+    ],
+    [
+      "airtime",
+      "provides",
+      "physics"
+    ],
+    [
+      "amusement park",
+      "associated with",
+      "overall speed"
+    ],
+    [
+      "amusement park",
+      "associated with",
+      "potential energy"
+    ],
+    [
+      "amusement park",
+      "contains",
+      "roller coasters"
+    ],
+    [
+      "amusement park",
+      "experiences",
+      "opposing motion"
+    ],
+    [
+      "amusement park",
+      "features",
+      "roller coaster motion"
+    ],
+    [
+      "amusement park",
+      "is a characteristic of",
+      "weightlessness"
+    ],
+    [
+      "amusement park",
+      "is experienced in",
+      "constant speed"
+    ],
+    [
+      "amusement park",
+      "is experienced in",
+      "educational experience"
+    ],
+    [
+      "amusement park",
+      "is experienced in",
+      "forces"
+    ],
+    [
+      "amusement park",
+      "is found in",
+      "airtime"
+    ],
+    [
+      "amusement park",
+      "is found in",
+      "fear factor"
+    ],
+    [
+      "amusement park",
+      "is influenced by",
+      "energy conservation"
+    ],
+    [
+      "amusement park",
+      "is part of",
+      "ride dynamics"
+    ],
+    [
+      "amusement park",
+      "is relevant to",
+      "gravitational force"
+    ],
+    [
+      "balance",
+      "affects",
+      "friction"
+    ],
+    [
+      "balance",
+      "affects",
+      "gravity effects"
+    ],
+    [
+      "balance",
+      "affects",
+      "roller coasters"
+    ],
+    [
+      "balance",
+      "enhances",
+      "educational experience"
+    ],
+    [
+      "balance",
+      "influences",
+      "airtime"
+    ],
+    [
+      "balance",
+      "is essential for",
+      "acceleration"
+    ],
+    [
+      "balance",
+      "is influenced by",
+      "gravitational force"
+    ],
+    [
+      "balance",
+      "is influenced by",
+      "weightlessness"
+    ],
+    [
+      "balance",
+      "requires",
+      "drops"
+    ],
+    [
+      "car stability",
+      "ensures",
+      "coaster dynamics"
+    ],
+    [
+      "car stability",
+      "ensures",
+      "drops"
+    ],
+    [
+      "car stability",
+      "ensures",
+      "gravity effects"
+    ],
+    [
+      "car stability",
+      "ensures",
+      "principles"
+    ],
+    [
+      "car stability",
+      "ensures",
+      "turns"
+    ],
+    [
+      "car stability",
+      "ensures",
+      "weightlessness"
+    ],
+    [
+      "car stability",
+      "provides",
+      "roller coasters"
+    ],
+    [
+      "car stability",
+      "supports",
+      "downward motion"
+    ],
+    [
+      "centripetal force",
+      "acts on",
+      "loops"
+    ],
+    [
+      "centripetal force",
+      "affects",
+      "coaster dynamics"
+    ],
+    [
+      "centripetal force",
+      "affects",
+      "ride sensations"
+    ],
+    [
+      "centripetal force",
+      "affects",
+      "track dynamics"
+    ],
+    [
+      "centripetal force",
+      "affects",
+      "velocity"
+    ],
+    [
+      "centripetal force",
+      "creates",
+      "airtime"
+    ],
+    [
+      "centripetal force",
+      "enables",
+      "curved paths"
+    ],
+    [
+      "centripetal force",
+      "enhances",
+      "excitement"
+    ],
+    [
+      "centripetal force",
+      "facilitates",
+      "energy conversion"
+    ],
+    [
+      "centripetal force",
+      "governs",
+      "ride dynamics"
+    ],
+    [
+      "centripetal force",
+      "governs",
+      "roller coaster motion"
+    ],
+    [
+      "centripetal force",
+      "has",
+      "negative effects"
+    ],
+    [
+      "centripetal force",
+      "increases",
+      "fear factor"
+    ],
+    [
+      "centripetal force",
+      "influences",
+      "mechanical energy"
+    ],
+    [
+      "centripetal force",
+      "influences",
+      "track design"
+    ],
+    [
+      "centripetal force",
+      "interacts with",
+      "gravitational force"
+    ],
+    [
+      "centripetal force",
+      "is a principle of",
+      "principles"
+    ],
+    [
+      "centripetal force",
+      "is essential for",
+      "turns"
+    ],
+    [
+      "centripetal force",
+      "is influenced by",
+      "ride experience"
+    ],
+    [
+      "centripetal force",
+      "is influenced by",
+      "twists"
+    ],
+    [
+      "centripetal force",
+      "is influenced by",
+      "weightlessness"
+    ],
+    [
+      "centripetal force",
+      "is necessary for",
+      "curves"
+    ],
+    [
+      "centripetal force",
+      "is responsible for",
+      "acceleration"
+    ],
+    [
+      "centripetal force",
+      "maintains",
+      "balance"
+    ],
+    [
+      "centripetal force",
+      "maintains",
+      "constant speed"
+    ],
+    [
+      "centripetal force",
+      "provides",
+      "stability"
+    ],
+    [
+      "centripetal force",
+      "provides",
+      "traction"
+    ],
+    [
+      "centripetal force",
+      "provides stability for",
+      "ride safety"
+    ],
+    [
+      "centripetal force",
+      "relates to",
+      "energy conservation"
+    ],
+    [
+      "coaster dynamics",
+      "affects",
+      "energy conservation"
+    ],
+    [
+      "coaster dynamics",
+      "affects",
+      "forces"
+    ],
+    [
+      "coaster dynamics",
+      "causes",
+      "downward motion"
+    ],
+    [
+      "coaster dynamics",
+      "influences",
+      "gravity effects"
+    ],
+    [
+      "coaster dynamics",
+      "influences",
+      "potential energy"
+    ],
+    [
+      "coaster dynamics",
+      "influences",
+      "thrill factors"
+    ],
+    [
+      "coaster dynamics",
+      "influences",
+      "twists"
+    ],
+    [
+      "coaster dynamics",
+      "is influenced by",
+      "weightlessness"
+    ],
+    [
+      "constant speed",
+      "affects",
+      "twists"
+    ],
+    [
+      "constant speed",
+      "enhances",
+      "excitement"
+    ],
+    [
+      "constant speed",
+      "ensures",
+      "car stability"
+    ],
+    [
+      "constant speed",
+      "is applied in",
+      "potential energy"
+    ],
+    [
+      "constant speed",
+      "is crucial for",
+      "ride mechanics"
+    ],
+    [
+      "constant speed",
+      "is influenced by",
+      "acceleration"
+    ],
+    [
+      "constant speed",
+      "is maintained by",
+      "airtime"
+    ],
+    [
+      "constant speed",
+      "is maintained by",
+      "overall speed"
+    ],
+    [
+      "constant speed",
+      "is maintained by",
+      "thrilling experience"
+    ],
+    [
+      "constant speed",
+      "maintained by",
+      "ride excitement"
+    ],
+    [
+      "constant speed",
+      "maintains",
+      "drops"
+    ],
+    [
+      "constant speed",
+      "maintains",
+      "roller coasters"
+    ],
+    [
+      "constant speed",
+      "opposes",
+      "opposing motion"
+    ],
+    [
+      "constant speed",
+      "requires",
+      "ride experience"
+    ],
+    [
+      "constant speed",
+      "requires",
+      "traction"
+    ],
+    [
+      "curved paths",
+      "affects",
+      "track dynamics"
+    ],
+    [
+      "curved paths",
+      "describes",
+      "roller coaster motion"
+    ],
+    [
+      "curved paths",
+      "illustrates",
+      "principles"
+    ],
+    [
+      "curved paths",
+      "includes",
+      "loops"
+    ],
+    [
+      "curved paths",
+      "is affected by",
+      "mechanical energy"
+    ],
+    [
+      "curved paths",
+      "is exemplified by",
+      "roller coasters"
+    ],
+    [
+      "curved paths",
+      "is influenced by",
+      "downward motion"
+    ],
+    [
+      "curves",
+      "affects",
+      "acceleration"
+    ],
+    [
+      "curves",
+      "affects",
+      "forces"
+    ],
+    [
+      "curves",
+      "affects",
+      "ride experience"
+    ],
+    [
+      "curves",
+      "contributes to",
+      "excitement"
+    ],
+    [
+      "curves",
+      "contributes to",
+      "kinetic energy"
+    ],
+    [
+      "curves",
+      "creates",
+      "ride sensations"
+    ],
+    [
+      "curves",
+      "enables",
+      "traction"
+    ],
+    [
+      "curves",
+      "ensures",
+      "car stability"
+    ],
+    [
+      "curves",
+      "facilitates",
+      "track navigation"
+    ],
+    [
+      "curves",
+      "has",
+      "negative effects"
+    ],
+    [
+      "curves",
+      "illustrates",
+      "physics principles"
+    ],
+    [
+      "curves",
+      "influences",
+      "drops"
+    ],
+    [
+      "curves",
+      "influences",
+      "overall speed"
+    ],
+    [
+      "curves",
+      "informs",
+      "engineering principles"
+    ],
+    [
+      "curves",
+      "is connected to",
+      "loops"
+    ],
+    [
+      "curves",
+      "is experienced in",
+      "weightlessness"
+    ],
+    [
+      "curves",
+      "results in",
+      "airtime"
+    ],
+    [
+      "design",
+      "affects",
+      "forces"
+    ],
+    [
+      "design",
+      "affects",
+      "friction"
+    ],
+    [
+      "design",
+      "affects",
+      "opposing motion"
+    ],
+    [
+      "design",
+      "contributes to",
+      "thrill factors"
+    ],
+    [
+      "design",
+      "creates",
+      "excitement"
+    ],
+    [
+      "design",
+      "ensures",
+      "stability"
+    ],
+    [
+      "design",
+      "influences",
+      "gravitational force"
+    ],
+    [
+      "design",
+      "influences",
+      "roller coaster motion"
+    ],
+    [
+      "design",
+      "influences",
+      "weightlessness"
+    ],
+    [
+      "design",
+      "informs",
+      "coaster dynamics"
+    ],
+    [
+      "design",
+      "informs",
+      "principles"
+    ],
+    [
+      "design",
+      "involves",
+      "energy conversion"
+    ],
+    [
+      "design",
+      "involves",
+      "track design"
+    ],
+    [
+      "design",
+      "is a location for",
+      "amusement park"
+    ],
+    [
+      "design",
+      "is based on",
+      "physics"
+    ],
+    [
+      "design",
+      "is essential for",
+      "energy conservation"
+    ],
+    [
+      "design",
+      "is influenced by",
+      "loops"
+    ],
+    [
+      "design",
+      "provides",
+      "educational experience"
+    ],
+    [
+      "design",
+      "requires",
+      "balance"
+    ],
+    [
+      "downward motion",
+      "affects",
+      "centripetal force"
+    ],
+    [
+      "downward motion",
+      "affects",
+      "kinetic energy"
+    ],
+    [
+      "downward motion",
+      "influences",
+      "physics"
+    ],
+    [
+      "downward motion",
+      "influences",
+      "track dynamics"
+    ],
+    [
+      "downward motion",
+      "is caused by",
+      "ride excitement"
+    ],
+    [
+      "downward motion",
+      "is necessary for",
+      "track navigation"
+    ],
+    [
+      "downward motion",
+      "is related to",
+      "ride mechanics"
+    ],
+    [
+      "downward motion",
+      "results in",
+      "ride experience"
+    ],
+    [
+      "drops",
+      "affects",
+      "design"
+    ],
+    [
+      "drops",
+      "affects",
+      "forces"
+    ],
+    [
+      "drops",
+      "affects",
+      "traction"
+    ],
+    [
+      "drops",
+      "creates",
+      "airtime"
+    ],
+    [
+      "drops",
+      "creates",
+      "excitement"
+    ],
+    [
+      "drops",
+      "creates",
+      "ride sensations"
+    ],
+    [
+      "drops",
+      "creates",
+      "weightlessness"
+    ],
+    [
+      "drops",
+      "facilitates",
+      "energy conversion"
+    ],
+    [
+      "drops",
+      "has",
+      "negative effects"
+    ],
+    [
+      "drops",
+      "influences",
+      "acceleration"
+    ],
+    [
+      "drops",
+      "influences",
+      "curved paths"
+    ],
+    [
+      "drops",
+      "influences",
+      "track navigation"
+    ],
+    [
+      "drops",
+      "influences",
+      "velocity"
+    ],
+    [
+      "drops",
+      "involves",
+      "ride mechanics"
+    ],
+    [
+      "drops",
+      "involves",
+      "twists"
+    ],
+    [
+      "drops",
+      "is a feature of",
+      "roller coasters"
+    ],
+    [
+      "drops",
+      "is designed with",
+      "engineering principles"
+    ],
+    [
+      "drops",
+      "is influenced by",
+      "ride experience"
+    ],
+    [
+      "drops",
+      "is related to",
+      "energy conservation"
+    ],
+    [
+      "drops",
+      "is related to",
+      "loops"
+    ],
+    [
+      "drops",
+      "located in",
+      "amusement park"
+    ],
+    [
+      "drops",
+      "provides",
+      "educational experience"
+    ],
+    [
+      "educational concepts",
+      "affects",
+      "ride mechanics"
+    ],
+    [
+      "educational concepts",
+      "demonstrates",
+      "gravity effects"
+    ],
+    [
+      "educational concepts",
+      "enhances",
+      "ride dynamics"
+    ],
+    [
+      "educational concepts",
+      "enhances",
+      "ride excitement"
+    ],
+    [
+      "educational concepts",
+      "explains",
+      "roller coasters"
+    ],
+    [
+      "educational concepts",
+      "illustrates",
+      "acceleration"
+    ],
+    [
+      "educational concepts",
+      "illustrates",
+      "mechanical energy"
+    ],
+    [
+      "educational concepts",
+      "includes",
+      "centripetal force"
+    ],
+    [
+      "educational concepts",
+      "includes",
+      "drops"
+    ],
+    [
+      "educational concepts",
+      "includes",
+      "loops"
+    ],
+    [
+      "educational concepts",
+      "includes",
+      "principles"
+    ],
+    [
+      "educational concepts",
+      "informs",
+      "design"
+    ],
+    [
+      "educational concepts",
+      "informs",
+      "engineering principles"
+    ],
+    [
+      "educational concepts",
+      "involves",
+      "curved paths"
+    ],
+    [
+      "educational concepts",
+      "involves",
+      "energy conservation"
+    ],
+    [
+      "educational concepts",
+      "involves",
+      "velocity"
+    ],
+    [
+      "educational concepts",
+      "is applied in",
+      "engineering"
+    ],
+    [
+      "educational concepts",
+      "is demonstrated by",
+      "downward motion"
+    ],
+    [
+      "educational concepts",
+      "is enhanced by",
+      "ride experience"
+    ],
+    [
+      "educational concepts",
+      "is related to",
+      "physics principles"
+    ],
+    [
+      "educational concepts",
+      "provides",
+      "thrilling experience"
+    ],
+    [
+      "educational experience",
+      "demonstrates",
+      "potential energy"
+    ],
+    [
+      "educational experience",
+      "enhances",
+      "curved paths"
+    ],
+    [
+      "educational experience",
+      "enhances",
+      "energy conversion"
+    ],
+    [
+      "educational experience",
+      "enhances",
+      "ride safety"
+    ],
+    [
+      "educational experience",
+      "exhibits",
+      "negative effects"
+    ],
+    [
+      "educational experience",
+      "illustrates",
+      "principles"
+    ],
+    [
+      "educational experience",
+      "influences",
+      "friction"
+    ],
+    [
+      "educational experience",
+      "involves",
+      "energy conservation"
+    ],
+    [
+      "educational experience",
+      "is enhanced by",
+      "physics"
+    ],
+    [
+      "educational experience",
+      "provides",
+      "coaster dynamics"
+    ],
+    [
+      "educational experience",
+      "provides",
+      "gravitational force"
+    ],
+    [
+      "educational experience",
+      "provides",
+      "roller coaster motion"
+    ],
+    [
+      "educational experience",
+      "provides",
+      "stability"
+    ],
+    [
+      "educational experience",
+      "provides",
+      "weightlessness"
+    ],
+    [
+      "energy conservation",
+      "affects",
+      "track dynamics"
+    ],
+    [
+      "energy conservation",
+      "contributes to",
+      "excitement"
+    ],
+    [
+      "energy conservation",
+      "enhances",
+      "amusement park"
+    ],
+    [
+      "energy conservation",
+      "enhances",
+      "car stability"
+    ],
+    [
+      "energy conservation",
+      "influences",
+      "downward motion"
+    ],
+    [
+      "energy conservation",
+      "influences",
+      "ride experience"
+    ],
+    [
+      "energy conservation",
+      "involves",
+      "ride mechanics"
+    ],
+    [
+      "energy conservation",
+      "is a principle of",
+      "principles"
+    ],
+    [
+      "energy conservation",
+      "is essential for",
+      "roller coaster motion"
+    ],
+    [
+      "energy conservation",
+      "is essential for",
+      "roller coasters"
+    ],
+    [
+      "energy conservation",
+      "is governed by",
+      "mechanical energy"
+    ],
+    [
+      "energy conservation",
+      "is influenced by",
+      "fear factor"
+    ],
+    [
+      "energy conservation",
+      "is influenced by",
+      "ride excitement"
+    ],
+    [
+      "energy conservation",
+      "relies on",
+      "airtime"
+    ],
+    [
+      "energy conservation",
+      "underpins",
+      "physics principles"
+    ],
+    [
+      "energy conversion",
+      "affects",
+      "downward motion"
+    ],
+    [
+      "energy conversion",
+      "affects",
+      "track dynamics"
+    ],
+    [
+      "energy conversion",
+      "enhances",
+      "thrill factors"
+    ],
+    [
+      "energy conversion",
+      "influences",
+      "overall speed"
+    ],
+    [
+      "energy conversion",
+      "involves",
+      "loops"
+    ],
+    [
+      "energy conversion",
+      "involves",
+      "roller coaster motion"
+    ],
+    [
+      "energy conversion",
+      "is involved in",
+      "mechanical energy"
+    ],
+    [
+      "energy conversion",
+      "is involved in",
+      "turns"
+    ],
+    [
+      "energy conversion",
+      "is necessary for",
+      "constant speed"
+    ],
+    [
+      "energy conversion",
+      "transforms",
+      "potential energy"
+    ],
+    [
+      "engineering",
+      "affects",
+      "friction"
+    ],
+    [
+      "engineering",
+      "affects",
+      "gravity effects"
+    ],
+    [
+      "engineering",
+      "affects",
+      "ride dynamics"
+    ],
+    [
+      "engineering",
+      "affects",
+      "track dynamics"
+    ],
+    [
+      "engineering",
+      "affects",
+      "velocity"
+    ],
+    [
+      "engineering",
+      "contributes to",
+      "excitement"
+    ],
+    [
+      "engineering",
+      "creates",
+      "airtime"
+    ],
+    [
+      "engineering",
+      "creates",
+      "thrilling experience"
+    ],
+    [
+      "engineering",
+      "enhances",
+      "educational experience"
+    ],
+    [
+      "engineering",
+      "ensures",
+      "ride safety"
+    ],
+    [
+      "engineering",
+      "influences",
+      "acceleration"
+    ],
+    [
+      "engineering",
+      "influences",
+      "potential energy"
+    ],
+    [
+      "engineering",
+      "informs",
+      "kinetic energy"
+    ],
+    [
+      "engineering",
+      "involves",
+      "centripetal force"
+    ],
+    [
+      "engineering",
+      "involves",
+      "ride experience"
+    ],
+    [
+      "engineering",
+      "involves",
+      "ride mechanics"
+    ],
+    [
+      "engineering",
+      "is a consideration in",
+      "curves"
+    ],
+    [
+      "engineering",
+      "is a consideration in",
+      "twists"
+    ],
+    [
+      "engineering",
+      "is a factor in",
+      "balance"
+    ],
+    [
+      "engineering",
+      "is a field of study in",
+      "physics"
+    ],
+    [
+      "engineering",
+      "is a foundation for",
+      "principles"
+    ],
+    [
+      "engineering",
+      "is involved in",
+      "drops"
+    ],
+    [
+      "engineering",
+      "is located in",
+      "amusement park"
+    ],
+    [
+      "engineering",
+      "is related to",
+      "design"
+    ],
+    [
+      "engineering",
+      "is utilized in",
+      "curved paths"
+    ],
+    [
+      "engineering",
+      "maintains",
+      "constant speed"
+    ],
+    [
+      "engineering",
+      "provides",
+      "stability"
+    ],
+    [
+      "engineering",
+      "underpins",
+      "physics principles"
+    ],
+    [
+      "engineering principles",
+      "applies to",
+      "roller coasters"
+    ],
+    [
+      "engineering principles",
+      "governs",
+      "roller coaster motion"
+    ],
+    [
+      "engineering principles",
+      "guides",
+      "forces"
+    ],
+    [
+      "engineering principles",
+      "influenced by",
+      "ride excitement"
+    ],
+    [
+      "engineering principles",
+      "influences",
+      "friction"
+    ],
+    [
+      "engineering principles",
+      "informs",
+      "acceleration"
+    ],
+    [
+      "engineering principles",
+      "informs",
+      "airtime"
+    ],
+    [
+      "engineering principles",
+      "informs",
+      "coaster dynamics"
+    ],
+    [
+      "engineering principles",
+      "informs",
+      "loops"
+    ],
+    [
+      "engineering principles",
+      "is a component of",
+      "potential energy"
+    ],
+    [
+      "engineering principles",
+      "is based on",
+      "ride mechanics"
+    ],
+    [
+      "excitement",
+      "enhanced by",
+      "overall speed"
+    ],
+    [
+      "excitement",
+      "enhances",
+      "physics"
+    ],
+    [
+      "excitement",
+      "enhances",
+      "roller coaster motion"
+    ],
+    [
+      "excitement",
+      "increases",
+      "fear factor"
+    ],
+    [
+      "excitement",
+      "increases",
+      "track design"
+    ],
+    [
+      "excitement",
+      "influences",
+      "potential energy"
+    ],
+    [
+      "excitement",
+      "is a concept of",
+      "principles"
+    ],
+    [
+      "excitement",
+      "is a feature of",
+      "amusement park"
+    ],
+    [
+      "excitement",
+      "is a result of",
+      "thrilling experience"
+    ],
+    [
+      "excitement",
+      "is a result of",
+      "weightlessness"
+    ],
+    [
+      "excitement",
+      "is associated with",
+      "gravitational force"
+    ],
+    [
+      "excitement",
+      "is influenced by",
+      "physics principles"
+    ],
+    [
+      "excitement",
+      "is related to",
+      "ride sensations"
+    ],
+    [
+      "fear factor",
+      "affects",
+      "car stability"
+    ],
+    [
+      "fear factor",
+      "affects",
+      "friction"
+    ],
+    [
+      "fear factor",
+      "affects",
+      "track navigation"
+    ],
+    [
+      "fear factor",
+      "affects",
+      "traction"
+    ],
+    [
+      "fear factor",
+      "creates",
+      "loops"
+    ],
+    [
+      "fear factor",
+      "enhances",
+      "airtime"
+    ],
+    [
+      "fear factor",
+      "enhances",
+      "educational experience"
+    ],
+    [
+      "fear factor",
+      "has",
+      "negative effects"
+    ],
+    [
+      "fear factor",
+      "induces",
+      "sharp turns"
+    ],
+    [
+      "fear factor",
+      "influences",
+      "coaster dynamics"
+    ],
+    [
+      "fear factor",
+      "influences",
+      "force balance"
+    ],
+    [
+      "fear factor",
+      "is influenced by",
+      "energy conversion"
+    ],
+    [
+      "fear factor",
+      "is influenced by",
+      "overall speed"
+    ],
+    [
+      "fear factor",
+      "is influenced by",
+      "track dynamics"
+    ],
+    [
+      "force balance",
+      "affects",
+      "curved paths"
+    ],
+    [
+      "force balance",
+      "creates",
+      "airtime"
+    ],
+    [
+      "force balance",
+      "enhances",
+      "ride excitement"
+    ],
+    [
+      "force balance",
+      "ensures",
+      "ride safety"
+    ],
+    [
+      "force balance",
+      "influences",
+      "track design"
+    ],
+    [
+      "force balance",
+      "influences",
+      "weightlessness"
+    ],
+    [
+      "force balance",
+      "informs",
+      "engineering principles"
+    ],
+    [
+      "force balance",
+      "involves",
+      "ride mechanics"
+    ],
+    [
+      "force balance",
+      "is affected by",
+      "curves"
+    ],
+    [
+      "force balance",
+      "is crucial for",
+      "acceleration"
+    ],
+    [
+      "force balance",
+      "is crucial for",
+      "ride dynamics"
+    ],
+    [
+      "force balance",
+      "is essential for",
+      "design"
+    ],
+    [
+      "force balance",
+      "is essential for",
+      "energy conservation"
+    ],
+    [
+      "force balance",
+      "is essential for",
+      "loops"
+    ],
+    [
+      "force balance",
+      "is essential for",
+      "roller coasters"
+    ],
+    [
+      "force balance",
+      "is influenced by",
+      "energy conversion"
+    ],
+    [
+      "force balance",
+      "is influenced by",
+      "ride experience"
+    ],
+    [
+      "force balance",
+      "is maintained by",
+      "drops"
+    ],
+    [
+      "force balance",
+      "is related to",
+      "twists"
+    ],
+    [
+      "force balance",
+      "maintains",
+      "forces"
+    ],
+    [
+      "force balance",
+      "requires",
+      "velocity"
+    ],
+    [
+      "force balance",
+      "underpins",
+      "physics principles"
+    ],
+    [
+      "forces",
+      "affects",
+      "turns"
+    ],
+    [
+      "forces",
+      "affects",
+      "velocity"
+    ],
+    [
+      "forces",
+      "ensures",
+      "stability"
+    ],
+    [
+      "forces",
+      "influences",
+      "sharp turns"
+    ],
+    [
+      "forces",
+      "influences",
+      "track dynamics"
+    ],
+    [
+      "forces",
+      "is affected by",
+      "centripetal force"
+    ],
+    [
+      "forces",
+      "is essential for",
+      "track navigation"
+    ],
+    [
+      "forces",
+      "is influenced by",
+      "ride experience"
+    ],
+    [
+      "forces",
+      "maintained by",
+      "constant speed"
+    ],
+    [
+      "forces",
+      "provides",
+      "traction"
+    ],
+    [
+      "friction",
+      "affects",
+      "amusement park"
+    ],
+    [
+      "friction",
+      "affects",
+      "gravitational force"
+    ],
+    [
+      "friction",
+      "affects",
+      "mechanical energy"
+    ],
+    [
+      "friction",
+      "causes",
+      "negative effects"
+    ],
+    [
+      "friction",
+      "contributes to",
+      "excitement"
+    ],
+    [
+      "friction",
+      "impacts",
+      "weightlessness"
+    ],
+    [
+      "friction",
+      "opposes",
+      "kinetic energy"
+    ],
+    [
+      "friction",
+      "opposes",
+      "opposing motion"
+    ],
+    [
+      "friction",
+      "provides",
+      "stability"
+    ],
+    [
+      "gravitational force",
+      "affects",
+      "acceleration"
+    ],
+    [
+      "gravitational force",
+      "affects",
+      "car stability"
+    ],
+    [
+      "gravitational force",
+      "affects",
+      "coaster dynamics"
+    ],
+    [
+      "gravitational force",
+      "affects",
+      "curves"
+    ],
+    [
+      "gravitational force",
+      "affects",
+      "downward motion"
+    ],
+    [
+      "gravitational force",
+      "affects",
+      "drops"
+    ],
+    [
+      "gravitational force",
+      "affects",
+      "overall speed"
+    ],
+    [
+      "gravitational force",
+      "affects",
+      "track dynamics"
+    ],
+    [
+      "gravitational force",
+      "affects",
+      "turns"
+    ],
+    [
+      "gravitational force",
+      "causes",
+      "weightlessness"
+    ],
+    [
+      "gravitational force",
+      "contributes to",
+      "airtime"
+    ],
+    [
+      "gravitational force",
+      "contributes to",
+      "kinetic energy"
+    ],
+    [
+      "gravitational force",
+      "influences",
+      "educational concepts"
+    ],
+    [
+      "gravitational force",
+      "influences",
+      "force balance"
+    ],
+    [
+      "gravitational force",
+      "influences",
+      "forces"
+    ],
+    [
+      "gravitational force",
+      "influences",
+      "ride experience"
+    ],
+    [
+      "gravitational force",
+      "informs",
+      "engineering principles"
+    ],
+    [
+      "gravitational force",
+      "is a concept in",
+      "physics principles"
+    ],
+    [
+      "gravitational force",
+      "is a concept of",
+      "physics"
+    ],
+    [
+      "gravitational force",
+      "is a concept of",
+      "principles"
+    ],
+    [
+      "gravitational force",
+      "is a factor in",
+      "roller coasters"
+    ],
+    [
+      "gravitational force",
+      "is a force in",
+      "roller coaster motion"
+    ],
+    [
+      "gravitational force",
+      "is affected by",
+      "ride safety"
+    ],
+    [
+      "gravitational force",
+      "is essential for",
+      "track navigation"
+    ],
+    [
+      "gravitational force",
+      "opposes",
+      "opposing motion"
+    ],
+    [
+      "gravity effects",
+      "affected by",
+      "mechanical energy"
+    ],
+    [
+      "gravity effects",
+      "affects",
+      "downward motion"
+    ],
+    [
+      "gravity effects",
+      "affects",
+      "loops"
+    ],
+    [
+      "gravity effects",
+      "affects",
+      "overall speed"
+    ],
+    [
+      "gravity effects",
+      "caused by",
+      "thrilling experience"
+    ],
+    [
+      "gravity effects",
+      "enhances",
+      "traction"
+    ],
+    [
+      "gravity effects",
+      "influenced by",
+      "ride sensations"
+    ],
+    [
+      "gravity effects",
+      "influences",
+      "forces"
+    ],
+    [
+      "gravity effects",
+      "influences",
+      "track navigation"
+    ],
+    [
+      "gravity effects",
+      "is affected by",
+      "potential energy"
+    ],
+    [
+      "gravity effects",
+      "is affected by",
+      "roller coaster motion"
+    ],
+    [
+      "gravity effects",
+      "results from",
+      "airtime"
+    ],
+    [
+      "kinetic energy",
+      "affects",
+      "acceleration"
+    ],
+    [
+      "kinetic energy",
+      "affects",
+      "track dynamics"
+    ],
+    [
+      "kinetic energy",
+      "comprises",
+      "mechanical energy"
+    ],
+    [
+      "kinetic energy",
+      "contributes to",
+      "excitement"
+    ],
+    [
+      "kinetic energy",
+      "creates",
+      "airtime"
+    ],
+    [
+      "kinetic energy",
+      "describes",
+      "roller coaster motion"
+    ],
+    [
+      "kinetic energy",
+      "enhances",
+      "educational experience"
+    ],
+    [
+      "kinetic energy",
+      "increases",
+      "sharp turns"
+    ],
+    [
+      "kinetic energy",
+      "influences",
+      "centripetal force"
+    ],
+    [
+      "kinetic energy",
+      "influences",
+      "loops"
+    ],
+    [
+      "kinetic energy",
+      "influences",
+      "thrill factors"
+    ],
+    [
+      "kinetic energy",
+      "involves",
+      "design"
+    ],
+    [
+      "kinetic energy",
+      "is associated with",
+      "fear factor"
+    ],
+    [
+      "kinetic energy",
+      "is influenced by",
+      "overall speed"
+    ],
+    [
+      "kinetic energy",
+      "is involved in",
+      "energy conversion"
+    ],
+    [
+      "kinetic energy",
+      "maintains",
+      "constant speed"
+    ],
+    [
+      "kinetic energy",
+      "transforms into",
+      "potential energy"
+    ],
+    [
+      "loops",
+      "enables",
+      "downward motion"
+    ],
+    [
+      "loops",
+      "enhanced by",
+      "excitement"
+    ],
+    [
+      "loops",
+      "enhances",
+      "ride experience"
+    ],
+    [
+      "loops",
+      "influenced by",
+      "ride sensations"
+    ],
+    [
+      "loops",
+      "influences",
+      "gravitational force"
+    ],
+    [
+      "loops",
+      "involves",
+      "physics"
+    ],
+    [
+      "loops",
+      "involves",
+      "ride dynamics"
+    ],
+    [
+      "loops",
+      "is enhanced by",
+      "educational experience"
+    ],
+    [
+      "loops",
+      "is influenced by",
+      "velocity"
+    ],
+    [
+      "loops",
+      "is part of",
+      "twists"
+    ],
+    [
+      "mechanical energy",
+      "affects",
+      "acceleration"
+    ],
+    [
+      "mechanical energy",
+      "affects",
+      "coaster dynamics"
+    ],
+    [
+      "mechanical energy",
+      "demonstrates",
+      "thrilling experience"
+    ],
+    [
+      "mechanical energy",
+      "enhances",
+      "excitement"
+    ],
+    [
+      "mechanical energy",
+      "influences",
+      "ride excitement"
+    ],
+    [
+      "mechanical energy",
+      "influences",
+      "thrill factors"
+    ],
+    [
+      "mechanical energy",
+      "involves",
+      "ride experience"
+    ],
+    [
+      "mechanical energy",
+      "is related to",
+      "roller coaster motion"
+    ],
+    [
+      "mechanical energy",
+      "is relevant to",
+      "roller coasters"
+    ],
+    [
+      "negative effects",
+      "affects",
+      "sharp turns"
+    ],
+    [
+      "negative effects",
+      "can lead to",
+      "potential energy"
+    ],
+    [
+      "negative effects",
+      "causes",
+      "acceleration"
+    ],
+    [
+      "negative effects",
+      "causes",
+      "energy conservation"
+    ],
+    [
+      "negative effects",
+      "causes",
+      "stability"
+    ],
+    [
+      "negative effects",
+      "causes",
+      "thrill factors"
+    ],
+    [
+      "negative effects",
+      "causes",
+      "track design"
+    ],
+    [
+      "negative effects",
+      "causes",
+      "track dynamics"
+    ],
+    [
+      "negative effects",
+      "diminishes",
+      "ride excitement"
+    ],
+    [
+      "negative effects",
+      "experiences",
+      "roller coasters"
+    ],
+    [
+      "negative effects",
+      "has",
+      "amusement park"
+    ],
+    [
+      "negative effects",
+      "impacts",
+      "curved paths"
+    ],
+    [
+      "negative effects",
+      "impacts",
+      "mechanical energy"
+    ],
+    [
+      "negative effects",
+      "impacts",
+      "physics principles"
+    ],
+    [
+      "negative effects",
+      "impacts",
+      "roller coaster motion"
+    ],
+    [
+      "negative effects",
+      "impacts",
+      "track navigation"
+    ],
+    [
+      "negative effects",
+      "impacts",
+      "velocity"
+    ],
+    [
+      "negative effects",
+      "impedes",
+      "constant speed"
+    ],
+    [
+      "negative effects",
+      "influences",
+      "ride sensations"
+    ],
+    [
+      "negative effects",
+      "is a consequence of",
+      "airtime"
+    ],
+    [
+      "negative effects",
+      "is a result of",
+      "overall speed"
+    ],
+    [
+      "negative effects",
+      "is affected by",
+      "ride experience"
+    ],
+    [
+      "negative effects",
+      "is impacted by",
+      "excitement"
+    ],
+    [
+      "negative effects",
+      "results in",
+      "downward motion"
+    ],
+    [
+      "negative effects",
+      "results in",
+      "gravitational force"
+    ],
+    [
+      "negative effects",
+      "results in",
+      "gravity effects"
+    ],
+    [
+      "negative effects",
+      "results in",
+      "thrilling experience"
+    ],
+    [
+      "negative effects",
+      "results in",
+      "weightlessness"
+    ],
+    [
+      "opposing motion",
+      "ensures",
+      "stability"
+    ],
+    [
+      "opposing motion",
+      "influences",
+      "acceleration"
+    ],
+    [
+      "opposing motion",
+      "influences",
+      "ride sensations"
+    ],
+    [
+      "opposing motion",
+      "is a factor in",
+      "roller coasters"
+    ],
+    [
+      "opposing motion",
+      "is influenced by",
+      "gravity effects"
+    ],
+    [
+      "opposing motion",
+      "opposes",
+      "curved paths"
+    ],
+    [
+      "overall speed",
+      "affects",
+      "ride mechanics"
+    ],
+    [
+      "overall speed",
+      "affects",
+      "ride safety"
+    ],
+    [
+      "overall speed",
+      "affects",
+      "track navigation"
+    ],
+    [
+      "overall speed",
+      "enhances",
+      "educational experience"
+    ],
+    [
+      "physics",
+      "affects",
+      "coaster dynamics"
+    ],
+    [
+      "physics",
+      "affects",
+      "friction"
+    ],
+    [
+      "physics",
+      "contributes to",
+      "thrill factors"
+    ],
+    [
+      "physics",
+      "creates",
+      "ride sensations"
+    ],
+    [
+      "physics",
+      "describes",
+      "force balance"
+    ],
+    [
+      "physics",
+      "facilitates",
+      "energy conversion"
+    ],
+    [
+      "physics",
+      "involves",
+      "acceleration"
+    ],
+    [
+      "physics",
+      "is a concept of",
+      "energy conservation"
+    ],
+    [
+      "physics principles",
+      "contributes to",
+      "ride excitement"
+    ],
+    [
+      "physics principles",
+      "illustrates",
+      "educational experience"
+    ],
+    [
+      "physics principles",
+      "illustrates",
+      "ride experience"
+    ],
+    [
+      "physics principles",
+      "is based on",
+      "velocity"
+    ],
+    [
+      "physics principles",
+      "is explained by",
+      "drops"
+    ],
+    [
+      "potential energy",
+      "affects",
+      "forces"
+    ],
+    [
+      "potential energy",
+      "affects",
+      "gravitational force"
+    ],
+    [
+      "potential energy",
+      "contributes to",
+      "drops"
+    ],
+    [
+      "potential energy",
+      "ensures",
+      "stability"
+    ],
+    [
+      "potential energy",
+      "influences",
+      "overall speed"
+    ],
+    [
+      "potential energy",
+      "influences",
+      "ride excitement"
+    ],
+    [
+      "potential energy",
+      "influences",
+      "ride experience"
+    ],
+    [
+      "potential energy",
+      "is conserved in",
+      "mechanical energy"
+    ],
+    [
+      "potential energy",
+      "is governed by",
+      "energy conservation"
+    ],
+    [
+      "potential energy",
+      "is influenced by",
+      "balance"
+    ],
+    [
+      "potential energy",
+      "is influenced by",
+      "curved paths"
+    ],
+    [
+      "potential energy",
+      "is linked to",
+      "velocity"
+    ],
+    [
+      "potential energy",
+      "is related to",
+      "track design"
+    ],
+    [
+      "potential energy",
+      "is utilized by",
+      "roller coasters"
+    ],
+    [
+      "potential energy",
+      "provides",
+      "loops"
+    ],
+    [
+      "principles",
+      "enhanced by",
+      "ride excitement"
+    ],
+    [
+      "principles",
+      "influences",
+      "potential energy"
+    ],
+    [
+      "principles",
+      "is a principle of",
+      "kinetic energy"
+    ],
+    [
+      "principles",
+      "is related to",
+      "friction"
+    ],
+    [
+      "principles",
+      "underpins",
+      "roller coasters"
+    ],
+    [
+      "ride dynamics",
+      "affects",
+      "friction"
+    ],
+    [
+      "ride dynamics",
+      "affects",
+      "gravitational force"
+    ],
+    [
+      "ride dynamics",
+      "contributes to",
+      "thrill factors"
+    ],
+    [
+      "ride dynamics",
+      "creates",
+      "excitement"
+    ],
+    [
+      "ride dynamics",
+      "determines",
+      "acceleration"
+    ],
+    [
+      "ride dynamics",
+      "determines",
+      "track design"
+    ],
+    [
+      "ride dynamics",
+      "influences",
+      "ride sensations"
+    ],
+    [
+      "ride dynamics",
+      "involves",
+      "energy conversion"
+    ],
+    [
+      "ride dynamics",
+      "is affected by",
+      "gravity effects"
+    ],
+    [
+      "ride dynamics",
+      "is explained by",
+      "physics principles"
+    ],
+    [
+      "ride dynamics",
+      "is influenced by",
+      "forces"
+    ],
+    [
+      "ride dynamics",
+      "is influenced by",
+      "roller coaster motion"
+    ],
+    [
+      "ride dynamics",
+      "provides",
+      "stability"
+    ],
+    [
+      "ride excitement",
+      "explains",
+      "physics"
+    ],
+    [
+      "ride excitement",
+      "influences",
+      "acceleration"
+    ],
+    [
+      "ride excitement",
+      "influences",
+      "ride dynamics"
+    ],
+    [
+      "ride excitement",
+      "is enhanced by",
+      "overall speed"
+    ],
+    [
+      "ride excitement",
+      "provides",
+      "amusement park"
+    ],
+    [
+      "ride excitement",
+      "provides",
+      "educational experience"
+    ],
+    [
+      "ride experience",
+      "affects",
+      "ride sensations"
+    ],
+    [
+      "ride experience",
+      "affects",
+      "sharp turns"
+    ],
+    [
+      "ride experience",
+      "creates",
+      "excitement"
+    ],
+    [
+      "ride experience",
+      "enhances",
+      "educational experience"
+    ],
+    [
+      "ride experience",
+      "is determined by",
+      "track dynamics"
+    ],
+    [
+      "ride experience",
+      "is influenced by",
+      "fear factor"
+    ],
+    [
+      "ride experience",
+      "is related to",
+      "kinetic energy"
+    ],
+    [
+      "ride experience",
+      "occurs in",
+      "amusement park"
+    ],
+    [
+      "ride experience",
+      "shaped by",
+      "curved paths"
+    ],
+    [
+      "ride mechanics",
+      "affects",
+      "gravitational force"
+    ],
+    [
+      "ride mechanics",
+      "includes",
+      "loops"
+    ],
+    [
+      "ride mechanics",
+      "is influenced by",
+      "educational experience"
+    ],
+    [
+      "ride mechanics",
+      "is influenced by",
+      "ride experience"
+    ],
+    [
+      "ride mechanics",
+      "is influenced by",
+      "ride sensations"
+    ],
+    [
+      "ride mechanics",
+      "is influenced by",
+      "thrilling experience"
+    ],
+    [
+      "ride mechanics",
+      "is part of",
+      "velocity"
+    ],
+    [
+      "ride mechanics",
+      "is related to",
+      "roller coasters"
+    ],
+    [
+      "ride safety",
+      "affects",
+      "airtime"
+    ],
+    [
+      "ride safety",
+      "contributes to",
+      "fear factor"
+    ],
+    [
+      "ride safety",
+      "ensures",
+      "ride dynamics"
+    ],
+    [
+      "ride safety",
+      "ensures",
+      "roller coasters"
+    ],
+    [
+      "ride safety",
+      "impacts",
+      "opposing motion"
+    ],
+    [
+      "ride safety",
+      "informs",
+      "design"
+    ],
+    [
+      "ride safety",
+      "informs",
+      "engineering principles"
+    ],
+    [
+      "ride safety",
+      "is guided by",
+      "energy conservation"
+    ],
+    [
+      "ride safety",
+      "is influenced by",
+      "educational concepts"
+    ],
+    [
+      "ride safety",
+      "is influenced by",
+      "energy conversion"
+    ],
+    [
+      "ride safety",
+      "is influenced by",
+      "forces"
+    ],
+    [
+      "ride safety",
+      "is influenced by",
+      "physics"
+    ],
+    [
+      "ride safety",
+      "is provided by",
+      "amusement park"
+    ],
+    [
+      "ride safety",
+      "is related to",
+      "balance"
+    ],
+    [
+      "ride safety",
+      "is related to",
+      "kinetic energy"
+    ],
+    [
+      "ride safety",
+      "relates to",
+      "ride mechanics"
+    ],
+    [
+      "ride sensations",
+      "affects",
+      "gravitational force"
+    ],
+    [
+      "ride sensations",
+      "affects",
+      "mechanical energy"
+    ],
+    [
+      "ride sensations",
+      "creates",
+      "airtime"
+    ],
+    [
+      "ride sensations",
+      "enhanced by",
+      "balance"
+    ],
+    [
+      "ride sensations",
+      "enhances",
+      "educational experience"
+    ],
+    [
+      "ride sensations",
+      "influences",
+      "acceleration"
+    ],
+    [
+      "ride sensations",
+      "is experienced by",
+      "roller coasters"
+    ],
+    [
+      "ride sensations",
+      "is influenced by",
+      "coaster dynamics"
+    ],
+    [
+      "ride sensations",
+      "is influenced by",
+      "curved paths"
+    ],
+    [
+      "ride sensations",
+      "is influenced by",
+      "energy conversion"
+    ],
+    [
+      "ride sensations",
+      "is influenced by",
+      "roller coaster motion"
+    ],
+    [
+      "roller coaster motion",
+      "governed by",
+      "physics principles"
+    ],
+    [
+      "roller coaster motion",
+      "influences",
+      "ride excitement"
+    ],
+    [
+      "roller coaster motion",
+      "is affected by",
+      "friction"
+    ],
+    [
+      "roller coaster motion",
+      "is influenced by",
+      "forces"
+    ],
+    [
+      "roller coaster motion",
+      "is influenced by",
+      "loops"
+    ],
+    [
+      "roller coaster motion",
+      "results in",
+      "weightlessness"
+    ],
+    [
+      "roller coasters",
+      "is a type of",
+      "kinetic energy"
+    ],
+    [
+      "roller coasters",
+      "is exemplified by",
+      "forces"
+    ],
+    [
+      "roller coasters",
+      "is experienced by",
+      "acceleration"
+    ],
+    [
+      "roller coasters",
+      "is experienced by",
+      "airtime"
+    ],
+    [
+      "roller coasters",
+      "is experienced by",
+      "ride experience"
+    ],
+    [
+      "roller coasters",
+      "located in",
+      "amusement park"
+    ],
+    [
+      "roller coasters",
+      "opposes",
+      "friction"
+    ],
+    [
+      "roller coasters",
+      "provides",
+      "educational experience"
+    ],
+    [
+      "roller coasters",
+      "provides",
+      "excitement"
+    ],
+    [
+      "roller coasters",
+      "provides",
+      "stability"
+    ],
+    [
+      "sharp turns",
+      "affects",
+      "car stability"
+    ],
+    [
+      "sharp turns",
+      "affects",
+      "downward motion"
+    ],
+    [
+      "sharp turns",
+      "affects",
+      "gravity effects"
+    ],
+    [
+      "sharp turns",
+      "affects",
+      "roller coaster motion"
+    ],
+    [
+      "sharp turns",
+      "affects",
+      "velocity"
+    ],
+    [
+      "sharp turns",
+      "creates",
+      "excitement"
+    ],
+    [
+      "sharp turns",
+      "enhances",
+      "airtime"
+    ],
+    [
+      "sharp turns",
+      "enhances",
+      "educational experience"
+    ],
+    [
+      "sharp turns",
+      "enhances",
+      "ride excitement"
+    ],
+    [
+      "sharp turns",
+      "influences",
+      "overall speed"
+    ],
+    [
+      "sharp turns",
+      "influences",
+      "physics principles"
+    ],
+    [
+      "sharp turns",
+      "involves",
+      "energy conversion"
+    ],
+    [
+      "sharp turns",
+      "is governed by",
+      "energy conservation"
+    ],
+    [
+      "sharp turns",
+      "is related to",
+      "curved paths"
+    ],
+    [
+      "sharp turns",
+      "located in",
+      "amusement park"
+    ],
+    [
+      "sharp turns",
+      "opposes",
+      "opposing motion"
+    ],
+    [
+      "sharp turns",
+      "provides",
+      "centripetal force"
+    ],
+    [
+      "sharp turns",
+      "provides",
+      "traction"
+    ],
+    [
+      "sharp turns",
+      "results from",
+      "weightlessness"
+    ],
+    [
+      "stability",
+      "contributes to",
+      "excitement"
+    ],
+    [
+      "stability",
+      "contributes to",
+      "fear factor"
+    ],
+    [
+      "stability",
+      "ensures",
+      "mechanical energy"
+    ],
+    [
+      "stability",
+      "is enhanced by",
+      "amusement park"
+    ],
+    [
+      "stability",
+      "is ensured by",
+      "principles"
+    ],
+    [
+      "stability",
+      "is relevant to",
+      "gravitational force"
+    ],
+    [
+      "stability",
+      "is supported by",
+      "energy conservation"
+    ],
+    [
+      "stability",
+      "provides",
+      "balance"
+    ],
+    [
+      "stability",
+      "provides",
+      "drops"
+    ],
+    [
+      "stability",
+      "provides",
+      "kinetic energy"
+    ],
+    [
+      "stability",
+      "provides",
+      "physics"
+    ],
+    [
+      "stability",
+      "provides",
+      "ride excitement"
+    ],
+    [
+      "stability",
+      "provides",
+      "roller coaster motion"
+    ],
+    [
+      "stability",
+      "provides",
+      "twists"
+    ],
+    [
+      "thrill factors",
+      "affects",
+      "ride mechanics"
+    ],
+    [
+      "thrill factors",
+      "contributes to",
+      "ride experience"
+    ],
+    [
+      "thrill factors",
+      "is influenced by",
+      "track dynamics"
+    ],
+    [
+      "thrill factors",
+      "provides",
+      "educational experience"
+    ],
+    [
+      "thrill factors",
+      "relates to",
+      "principles"
+    ],
+    [
+      "thrilling experience",
+      "creates",
+      "loops"
+    ],
+    [
+      "thrilling experience",
+      "creates",
+      "roller coaster motion"
+    ],
+    [
+      "thrilling experience",
+      "enhanced by",
+      "acceleration"
+    ],
+    [
+      "thrilling experience",
+      "enhances",
+      "centripetal force"
+    ],
+    [
+      "thrilling experience",
+      "enhances",
+      "force balance"
+    ],
+    [
+      "thrilling experience",
+      "enhances",
+      "ride experience"
+    ],
+    [
+      "thrilling experience",
+      "involves",
+      "curved paths"
+    ],
+    [
+      "thrilling experience",
+      "is associated with",
+      "roller coasters"
+    ],
+    [
+      "thrilling experience",
+      "is characterized by",
+      "coaster dynamics"
+    ],
+    [
+      "thrilling experience",
+      "is influenced by",
+      "gravitational force"
+    ],
+    [
+      "thrilling experience",
+      "is related to",
+      "energy conversion"
+    ],
+    [
+      "track design",
+      "affects",
+      "forces"
+    ],
+    [
+      "track design",
+      "affects",
+      "track dynamics"
+    ],
+    [
+      "track design",
+      "designs",
+      "roller coasters"
+    ],
+    [
+      "track design",
+      "enhances",
+      "ride excitement"
+    ],
+    [
+      "track design",
+      "enhances",
+      "stability"
+    ],
+    [
+      "track design",
+      "ensures",
+      "car stability"
+    ],
+    [
+      "track design",
+      "influences",
+      "gravity effects"
+    ],
+    [
+      "track design",
+      "influences",
+      "roller coaster motion"
+    ],
+    [
+      "track design",
+      "is guided by",
+      "ride safety"
+    ],
+    [
+      "track design",
+      "located in",
+      "amusement park"
+    ],
+    [
+      "track design",
+      "opposes",
+      "opposing motion"
+    ],
+    [
+      "track design",
+      "provides",
+      "traction"
+    ],
+    [
+      "track design",
+      "shaped by",
+      "fear factor"
+    ],
+    [
+      "track dynamics",
+      "affects",
+      "thrilling experience"
+    ],
+    [
+      "track dynamics",
+      "influences",
+      "ride excitement"
+    ],
+    [
+      "track dynamics",
+      "is part of",
+      "amusement park"
+    ],
+    [
+      "track navigation",
+      "enables",
+      "car stability"
+    ],
+    [
+      "track navigation",
+      "involves",
+      "loops"
+    ],
+    [
+      "traction",
+      "causes",
+      "negative effects"
+    ],
+    [
+      "traction",
+      "enhances",
+      "downward motion"
+    ],
+    [
+      "traction",
+      "is impacted by",
+      "overall speed"
+    ],
+    [
+      "traction",
+      "provides",
+      "airtime"
+    ],
+    [
+      "traction",
+      "provides",
+      "amusement park"
+    ],
+    [
+      "traction",
+      "provides",
+      "car stability"
+    ],
+    [
+      "traction",
+      "provides",
+      "ride experience"
+    ],
+    [
+      "traction",
+      "provides",
+      "track dynamics"
+    ],
+    [
+      "traction",
+      "requires",
+      "centripetal force"
+    ],
+    [
+      "turns",
+      "affects",
+      "physics"
+    ],
+    [
+      "turns",
+      "impacts",
+      "overall speed"
+    ],
+    [
+      "turns",
+      "influences",
+      "fear factor"
+    ],
+    [
+      "turns",
+      "is experienced in",
+      "amusement park"
+    ],
+    [
+      "turns",
+      "is experienced in",
+      "velocity"
+    ],
+    [
+      "turns",
+      "provides",
+      "traction"
+    ],
+    [
+      "turns",
+      "requires",
+      "curved paths"
+    ],
+    [
+      "twists",
+      "affects",
+      "track dynamics"
+    ],
+    [
+      "twists",
+      "causes",
+      "negative effects"
+    ],
+    [
+      "twists",
+      "contributes to",
+      "curved paths"
+    ],
+    [
+      "twists",
+      "contributes to",
+      "excitement"
+    ],
+    [
+      "twists",
+      "contributes to",
+      "kinetic energy"
+    ],
+    [
+      "twists",
+      "contributes to",
+      "ride excitement"
+    ],
+    [
+      "twists",
+      "creates",
+      "airtime"
+    ],
+    [
+      "twists",
+      "creates",
+      "ride sensations"
+    ],
+    [
+      "twists",
+      "enhances",
+      "educational experience"
+    ],
+    [
+      "twists",
+      "facilitates",
+      "energy conversion"
+    ],
+    [
+      "twists",
+      "facilitates",
+      "track navigation"
+    ],
+    [
+      "twists",
+      "influences",
+      "design"
+    ],
+    [
+      "twists",
+      "influences",
+      "overall speed"
+    ],
+    [
+      "twists",
+      "involves",
+      "forces"
+    ],
+    [
+      "twists",
+      "involves",
+      "sharp turns"
+    ],
+    [
+      "twists",
+      "is a component of",
+      "mechanical energy"
+    ],
+    [
+      "twists",
+      "is a feature of",
+      "amusement park"
+    ],
+    [
+      "twists",
+      "is a feature of",
+      "roller coasters"
+    ],
+    [
+      "twists",
+      "is a type of",
+      "curves"
+    ],
+    [
+      "twists",
+      "is a type of",
+      "turns"
+    ],
+    [
+      "twists",
+      "is governed by",
+      "energy conservation"
+    ],
+    [
+      "twists",
+      "is influenced by",
+      "weightlessness"
+    ],
+    [
+      "twists",
+      "is related to",
+      "engineering principles"
+    ],
+    [
+      "twists",
+      "requires",
+      "balance"
+    ],
+    [
+      "twists",
+      "results in",
+      "downward motion"
+    ],
+    [
+      "velocity",
+      "affects",
+      "energy conservation"
+    ],
+    [
+      "velocity",
+      "affects",
+      "gravitational force"
+    ],
+    [
+      "velocity",
+      "affects",
+      "kinetic energy"
+    ],
+    [
+      "velocity",
+      "affects",
+      "ride dynamics"
+    ],
+    [
+      "velocity",
+      "affects",
+      "weightlessness"
+    ],
+    [
+      "velocity",
+      "describes",
+      "roller coaster motion"
+    ],
+    [
+      "velocity",
+      "enables",
+      "track navigation"
+    ],
+    [
+      "velocity",
+      "impacts",
+      "ride safety"
+    ],
+    [
+      "velocity",
+      "influences",
+      "downward motion"
+    ],
+    [
+      "velocity",
+      "is a result of",
+      "excitement"
+    ],
+    [
+      "velocity",
+      "is governed by",
+      "principles"
+    ],
+    [
+      "velocity",
+      "is influenced by",
+      "educational experience"
+    ],
+    [
+      "velocity",
+      "is influenced by",
+      "ride experience"
+    ],
+    [
+      "velocity",
+      "is influenced by",
+      "roller coasters"
+    ],
+    [
+      "velocity",
+      "is influenced by",
+      "twists"
+    ],
+    [
+      "velocity",
+      "maintains",
+      "constant speed"
+    ],
+    [
+      "weightlessness",
+      "causes",
+      "fear factor"
+    ],
+    [
+      "weightlessness",
+      "creates",
+      "potential energy"
+    ],
+    [
+      "weightlessness",
+      "creates",
+      "ride sensations"
+    ],
+    [
+      "weightlessness",
+      "enhances",
+      "ride excitement"
+    ],
+    [
+      "weightlessness",
+      "involves",
+      "ride experience"
+    ],
+    [
+      "weightlessness",
+      "is a concept of",
+      "physics"
+    ],
+    [
+      "weightlessness",
+      "is a result of",
+      "kinetic energy"
+    ],
+    [
+      "weightlessness",
+      "is a result of",
+      "thrilling experience"
+    ],
+    [
+      "weightlessness",
+      "is affected by",
+      "forces"
+    ],
+    [
+      "weightlessness",
+      "is caused by",
+      "roller coaster motion"
+    ],
+    [
+      "weightlessness",
+      "is related to",
+      "energy conservation"
+    ],
+    [
+      "weightlessness",
+      "related to",
+      "principles"
+    ],
+    [
+      "weightlessness",
+      "results in",
+      "acceleration"
+    ],
+    [
+      "weightlessness",
+      "results in",
+      "airtime"
+    ],
+    [
+      "weightlessness",
+      "results in",
+      "downward motion"
+    ]
+  ],
+  "edges": [
+    "acts on",
+    "affected by",
+    "affects",
+    "applies to",
+    "associated with",
+    "can lead to",
+    "caused by",
+    "causes",
+    "comprises",
+    "contains",
+    "contributes to",
+    "creates",
+    "demonstrates",
+    "describes",
+    "designs",
+    "determines",
+    "diminishes",
+    "enables",
+    "enhanced by",
+    "enhances",
+    "ensures",
+    "exhibits",
+    "experiences",
+    "explains",
+    "facilitates",
+    "features",
+    "governed by",
+    "governs",
+    "guides",
+    "has",
+    "illustrates",
+    "impacts",
+    "impedes",
+    "includes",
+    "increases",
+    "induces",
+    "influenced by",
+    "influences",
+    "informs",
+    "interacts with",
+    "involves",
+    "is a characteristic of",
+    "is a component of",
+    "is a concept in",
+    "is a concept of",
+    "is a consequence of",
+    "is a consideration in",
+    "is a factor in",
+    "is a feature of",
+    "is a field of study in",
+    "is a force in",
+    "is a foundation for",
+    "is a location for",
+    "is a principle of",
+    "is a result of",
+    "is a type of",
+    "is affected by",
+    "is applied in",
+    "is associated with",
+    "is based on",
+    "is caused by",
+    "is characterized by",
+    "is connected to",
+    "is conserved in",
+    "is crucial for",
+    "is demonstrated by",
+    "is designed with",
+    "is determined by",
+    "is enhanced by",
+    "is ensured by",
+    "is essential for",
+    "is exemplified by",
+    "is experienced by",
+    "is experienced during",
+    "is experienced in",
+    "is explained by",
+    "is found in",
+    "is governed by",
+    "is guided by",
+    "is impacted by",
+    "is influenced by",
+    "is involved in",
+    "is linked to",
+    "is located in",
+    "is maintained by",
+    "is necessary for",
+    "is part of",
+    "is provided by",
+    "is related to",
+    "is relevant to",
+    "is responsible for",
+    "is supported by",
+    "is utilized by",
+    "is utilized in",
+    "located in",
+    "maintained by",
+    "maintains",
+    "occurs during",
+    "occurs in",
+    "opposes",
+    "provides",
+    "provides stability for",
+    "related to",
+    "relates to",
+    "relies on",
+    "requires",
+    "results from",
+    "results in",
+    "shaped by",
+    "supports",
+    "transforms",
+    "transforms into",
+    "underpins"
+  ]
+}

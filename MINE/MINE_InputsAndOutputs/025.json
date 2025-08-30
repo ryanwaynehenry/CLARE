@@ -1,0 +1,2990 @@
+{
+  "entities": [
+    "accessibility of technology",
+    "advancements in science",
+    "agricultural innovation",
+    "bioethics",
+    "biotechnology",
+    "biotechnology ethics",
+    "commodification of life",
+    "consent and autonomy",
+    "designer babies",
+    "discrimination risks",
+    "ecological balance",
+    "ecosystems disruption",
+    "engineered organisms",
+    "environmental impact",
+    "environmental sustainability",
+    "ethical concerns",
+    "ethical decision-making",
+    "ethical dilemmas",
+    "ethical reflection",
+    "food production",
+    "future implications",
+    "future of genetics",
+    "genetic advantages",
+    "genetic disorders",
+    "genetic diversity",
+    "genetic engineering",
+    "genetic equity",
+    "genetic information",
+    "genetic manipulation",
+    "genetic modification",
+    "genetic research",
+    "genetic research implications",
+    "genetic testing",
+    "genetic traits",
+    "genome complexities",
+    "health and education",
+    "health disparities",
+    "health implications",
+    "human enhancement",
+    "human genetics",
+    "human intervention",
+    "individual rights",
+    "manipulation of genes",
+    "moral implications",
+    "opportunity gaps",
+    "policy considerations",
+    "privacy issues",
+    "responsible innovation",
+    "responsible science",
+    "safety concerns",
+    "scientific advancements",
+    "scientific responsibility",
+    "social justice",
+    "societal debates",
+    "technology risks",
+    "unforeseen consequences",
+    "unintended consequences",
+    "wealth inequality"
+  ],
+  "relations": [
+    [
+      "accessibility of technology",
+      "affects",
+      "commodification of life"
+    ],
+    [
+      "accessibility of technology",
+      "affects",
+      "genetic traits"
+    ],
+    [
+      "accessibility of technology",
+      "drives",
+      "scientific advancements"
+    ],
+    [
+      "accessibility of technology",
+      "enables",
+      "genetic modification"
+    ],
+    [
+      "accessibility of technology",
+      "enables",
+      "genetic testing"
+    ],
+    [
+      "accessibility of technology",
+      "influences",
+      "genetic diversity"
+    ],
+    [
+      "accessibility of technology",
+      "influences",
+      "genetic research implications"
+    ],
+    [
+      "accessibility of technology",
+      "is impacted by",
+      "scientific responsibility"
+    ],
+    [
+      "accessibility of technology",
+      "promotes",
+      "responsible innovation"
+    ],
+    [
+      "accessibility of technology",
+      "raises",
+      "policy considerations"
+    ],
+    [
+      "accessibility of technology",
+      "raises",
+      "privacy issues"
+    ],
+    [
+      "accessibility of technology",
+      "raises questions about",
+      "consent and autonomy"
+    ],
+    [
+      "accessibility of technology",
+      "results in",
+      "unintended consequences"
+    ],
+    [
+      "advancements in science",
+      "addresses",
+      "genetic disorders"
+    ],
+    [
+      "advancements in science",
+      "advances",
+      "human genetics"
+    ],
+    [
+      "advancements in science",
+      "drives",
+      "ethical reflection"
+    ],
+    [
+      "advancements in science",
+      "impedes",
+      "ecosystems disruption"
+    ],
+    [
+      "advancements in science",
+      "influences",
+      "safety concerns"
+    ],
+    [
+      "advancements in science",
+      "informs",
+      "moral implications"
+    ],
+    [
+      "advancements in science",
+      "is associated with",
+      "responsible innovation"
+    ],
+    [
+      "advancements in science",
+      "is driven by",
+      "scientific advancements"
+    ],
+    [
+      "advancements in science",
+      "raises",
+      "ethical concerns"
+    ],
+    [
+      "agricultural innovation",
+      "faces",
+      "technology risks"
+    ],
+    [
+      "agricultural innovation",
+      "informs",
+      "genetic research"
+    ],
+    [
+      "agricultural innovation",
+      "involves",
+      "genome complexities"
+    ],
+    [
+      "agricultural innovation",
+      "involves",
+      "manipulation of genes"
+    ],
+    [
+      "agricultural innovation",
+      "raises",
+      "moral implications"
+    ],
+    [
+      "agricultural innovation",
+      "sparks",
+      "societal debates"
+    ],
+    [
+      "agricultural innovation",
+      "threatens",
+      "ecosystems disruption"
+    ],
+    [
+      "bioethics",
+      "informs",
+      "genetic research"
+    ],
+    [
+      "bioethics",
+      "involves",
+      "responsible science"
+    ],
+    [
+      "bioethics",
+      "is informed by",
+      "engineered organisms"
+    ],
+    [
+      "bioethics",
+      "raises concerns about",
+      "agricultural innovation"
+    ],
+    [
+      "bioethics",
+      "raises concerns about",
+      "health disparities"
+    ],
+    [
+      "biotechnology",
+      "enables",
+      "genetic manipulation"
+    ],
+    [
+      "biotechnology",
+      "involves",
+      "bioethics"
+    ],
+    [
+      "biotechnology",
+      "involves",
+      "manipulation of genes"
+    ],
+    [
+      "biotechnology",
+      "produces",
+      "engineered organisms"
+    ],
+    [
+      "biotechnology",
+      "requires",
+      "ethical decision-making"
+    ],
+    [
+      "biotechnology ethics",
+      "addresses",
+      "genetic equity"
+    ],
+    [
+      "biotechnology ethics",
+      "affects",
+      "accessibility of technology"
+    ],
+    [
+      "biotechnology ethics",
+      "concerns",
+      "privacy issues"
+    ],
+    [
+      "biotechnology ethics",
+      "demands",
+      "scientific responsibility"
+    ],
+    [
+      "biotechnology ethics",
+      "examines",
+      "genetic traits"
+    ],
+    [
+      "biotechnology ethics",
+      "guides",
+      "genetic research"
+    ],
+    [
+      "biotechnology ethics",
+      "guides",
+      "responsible science"
+    ],
+    [
+      "biotechnology ethics",
+      "highlights",
+      "discrimination risks"
+    ],
+    [
+      "biotechnology ethics",
+      "informs",
+      "ethical decision-making"
+    ],
+    [
+      "biotechnology ethics",
+      "involves",
+      "human genetics"
+    ],
+    [
+      "biotechnology ethics",
+      "raises",
+      "designer babies"
+    ],
+    [
+      "biotechnology ethics",
+      "raises",
+      "ethical concerns"
+    ],
+    [
+      "biotechnology ethics",
+      "raises",
+      "future implications"
+    ],
+    [
+      "commodification of life",
+      "influences",
+      "genetic engineering"
+    ],
+    [
+      "commodification of life",
+      "involves",
+      "genetic research implications"
+    ],
+    [
+      "commodification of life",
+      "involves",
+      "privacy issues"
+    ],
+    [
+      "commodification of life",
+      "is affected by",
+      "individual rights"
+    ],
+    [
+      "commodification of life",
+      "leads to",
+      "unforeseen consequences"
+    ],
+    [
+      "commodification of life",
+      "raises concerns about",
+      "technology risks"
+    ],
+    [
+      "commodification of life",
+      "results in",
+      "genetic disorders"
+    ],
+    [
+      "consent and autonomy",
+      "affects",
+      "genetic disorders"
+    ],
+    [
+      "consent and autonomy",
+      "is governed by",
+      "genetic manipulation"
+    ],
+    [
+      "consent and autonomy",
+      "is impacted by",
+      "genetic advantages"
+    ],
+    [
+      "consent and autonomy",
+      "is influenced by",
+      "responsible science"
+    ],
+    [
+      "consent and autonomy",
+      "raises concerns about",
+      "unforeseen consequences"
+    ],
+    [
+      "designer babies",
+      "affects",
+      "ecological balance"
+    ],
+    [
+      "designer babies",
+      "can lead to",
+      "unforeseen consequences"
+    ],
+    [
+      "designer babies",
+      "can lead to",
+      "unintended consequences"
+    ],
+    [
+      "designer babies",
+      "creates",
+      "opportunity gaps"
+    ],
+    [
+      "designer babies",
+      "exacerbates",
+      "health disparities"
+    ],
+    [
+      "designer babies",
+      "involves",
+      "agricultural innovation"
+    ],
+    [
+      "designer babies",
+      "involves",
+      "engineered organisms"
+    ],
+    [
+      "designer babies",
+      "involves",
+      "food production"
+    ],
+    [
+      "designer babies",
+      "involves",
+      "human genetics"
+    ],
+    [
+      "designer babies",
+      "is a concern for",
+      "scientific responsibility"
+    ],
+    [
+      "designer babies",
+      "is a product of",
+      "genetic engineering"
+    ],
+    [
+      "designer babies",
+      "is affected by",
+      "environmental impact"
+    ],
+    [
+      "designer babies",
+      "is affected by",
+      "environmental sustainability"
+    ],
+    [
+      "designer babies",
+      "raises",
+      "policy considerations"
+    ],
+    [
+      "designer babies",
+      "requires",
+      "consent and autonomy"
+    ],
+    [
+      "designer babies",
+      "requires",
+      "human intervention"
+    ],
+    [
+      "designer babies",
+      "requires",
+      "responsible innovation"
+    ],
+    [
+      "designer babies",
+      "results from",
+      "manipulation of genes"
+    ],
+    [
+      "discrimination risks",
+      "affects",
+      "food production"
+    ],
+    [
+      "discrimination risks",
+      "exacerbates",
+      "opportunity gaps"
+    ],
+    [
+      "discrimination risks",
+      "exacerbates",
+      "social justice"
+    ],
+    [
+      "discrimination risks",
+      "necessitates",
+      "policy considerations"
+    ],
+    [
+      "discrimination risks",
+      "raises concerns about",
+      "scientific advancements"
+    ],
+    [
+      "ecological balance",
+      "affects",
+      "biotechnology"
+    ],
+    [
+      "ecological balance",
+      "affects",
+      "genetic engineering"
+    ],
+    [
+      "ecological balance",
+      "disrupted by",
+      "human genetics"
+    ],
+    [
+      "ecological balance",
+      "supports",
+      "responsible science"
+    ],
+    [
+      "ecological balance",
+      "threatens",
+      "engineered organisms"
+    ],
+    [
+      "ecosystems disruption",
+      "affects",
+      "health and education"
+    ],
+    [
+      "ecosystems disruption",
+      "causes",
+      "policy considerations"
+    ],
+    [
+      "ecosystems disruption",
+      "causes",
+      "technology risks"
+    ],
+    [
+      "ecosystems disruption",
+      "causes",
+      "unintended consequences"
+    ],
+    [
+      "ecosystems disruption",
+      "raises",
+      "privacy issues"
+    ],
+    [
+      "ecosystems disruption",
+      "raises concerns about",
+      "consent and autonomy"
+    ],
+    [
+      "ecosystems disruption",
+      "results in",
+      "engineered organisms"
+    ],
+    [
+      "ecosystems disruption",
+      "results in",
+      "genetic modification"
+    ],
+    [
+      "ecosystems disruption",
+      "results in",
+      "responsible innovation"
+    ],
+    [
+      "engineered organisms",
+      "affects",
+      "environmental sustainability"
+    ],
+    [
+      "engineered organisms",
+      "affects",
+      "social justice"
+    ],
+    [
+      "engineered organisms",
+      "results in",
+      "unintended consequences"
+    ],
+    [
+      "environmental impact",
+      "affected by",
+      "genetic testing"
+    ],
+    [
+      "environmental impact",
+      "affects",
+      "food production"
+    ],
+    [
+      "environmental impact",
+      "affects",
+      "genetic modification"
+    ],
+    [
+      "environmental impact",
+      "fuels",
+      "societal debates"
+    ],
+    [
+      "environmental impact",
+      "influences",
+      "future of genetics"
+    ],
+    [
+      "environmental impact",
+      "is affected by",
+      "manipulation of genes"
+    ],
+    [
+      "environmental impact",
+      "is impacted by",
+      "responsible science"
+    ],
+    [
+      "environmental impact",
+      "requires",
+      "responsible innovation"
+    ],
+    [
+      "environmental sustainability",
+      "affects",
+      "social justice"
+    ],
+    [
+      "environmental sustainability",
+      "concerns",
+      "safety concerns"
+    ],
+    [
+      "environmental sustainability",
+      "is affected by",
+      "unforeseen consequences"
+    ],
+    [
+      "environmental sustainability",
+      "is impacted by",
+      "human intervention"
+    ],
+    [
+      "environmental sustainability",
+      "is impacted by",
+      "unintended consequences"
+    ],
+    [
+      "environmental sustainability",
+      "supports",
+      "ecological balance"
+    ],
+    [
+      "environmental sustainability",
+      "threatens",
+      "ecosystems disruption"
+    ],
+    [
+      "ethical concerns",
+      "fuels",
+      "societal debates"
+    ],
+    [
+      "ethical concerns",
+      "highlights",
+      "moral implications"
+    ],
+    [
+      "ethical concerns",
+      "influences",
+      "policy considerations"
+    ],
+    [
+      "ethical concerns",
+      "involves",
+      "future implications"
+    ],
+    [
+      "ethical concerns",
+      "is influenced by",
+      "genetic manipulation"
+    ],
+    [
+      "ethical concerns",
+      "is related to",
+      "social justice"
+    ],
+    [
+      "ethical concerns",
+      "leads to",
+      "unforeseen consequences"
+    ],
+    [
+      "ethical concerns",
+      "raises",
+      "consent and autonomy"
+    ],
+    [
+      "ethical concerns",
+      "raises",
+      "designer babies"
+    ],
+    [
+      "ethical concerns",
+      "raises",
+      "discrimination risks"
+    ],
+    [
+      "ethical concerns",
+      "raises",
+      "ethical dilemmas"
+    ],
+    [
+      "ethical concerns",
+      "raises",
+      "genetic advantages"
+    ],
+    [
+      "ethical concerns",
+      "raises",
+      "genetic disorders"
+    ],
+    [
+      "ethical concerns",
+      "raises",
+      "genetic engineering"
+    ],
+    [
+      "ethical concerns",
+      "raises",
+      "genetic testing"
+    ],
+    [
+      "ethical concerns",
+      "raises",
+      "health implications"
+    ],
+    [
+      "ethical concerns",
+      "raises concerns about",
+      "human enhancement"
+    ],
+    [
+      "ethical concerns",
+      "raises issues about",
+      "genetic traits"
+    ],
+    [
+      "ethical concerns",
+      "requires",
+      "scientific responsibility"
+    ],
+    [
+      "ethical decision-making",
+      "can lead to",
+      "unforeseen consequences"
+    ],
+    [
+      "ethical decision-making",
+      "guides",
+      "genetic engineering"
+    ],
+    [
+      "ethical decision-making",
+      "guides",
+      "genetic manipulation"
+    ],
+    [
+      "ethical decision-making",
+      "influences",
+      "ethical dilemmas"
+    ],
+    [
+      "ethical decision-making",
+      "influences",
+      "food production"
+    ],
+    [
+      "ethical decision-making",
+      "influences",
+      "social justice"
+    ],
+    [
+      "ethical decision-making",
+      "informs",
+      "genetic research implications"
+    ],
+    [
+      "ethical decision-making",
+      "involves the process of",
+      "individual rights"
+    ],
+    [
+      "ethical decision-making",
+      "is a concern in",
+      "ecosystems disruption"
+    ],
+    [
+      "ethical decision-making",
+      "is influenced by",
+      "consent and autonomy"
+    ],
+    [
+      "ethical decision-making",
+      "is influenced by",
+      "ethical concerns"
+    ],
+    [
+      "ethical decision-making",
+      "is influenced by",
+      "health implications"
+    ],
+    [
+      "ethical decision-making",
+      "raises",
+      "designer babies"
+    ],
+    [
+      "ethical dilemmas",
+      "creates",
+      "designer babies"
+    ],
+    [
+      "ethical dilemmas",
+      "creates",
+      "discrimination risks"
+    ],
+    [
+      "ethical dilemmas",
+      "involves",
+      "genetic manipulation"
+    ],
+    [
+      "ethical dilemmas",
+      "is related to",
+      "genetic disorders"
+    ],
+    [
+      "ethical dilemmas",
+      "necessitates",
+      "policy considerations"
+    ],
+    [
+      "ethical dilemmas",
+      "raises",
+      "bioethics"
+    ],
+    [
+      "ethical dilemmas",
+      "raises",
+      "genetic engineering"
+    ],
+    [
+      "ethical dilemmas",
+      "raises",
+      "genetic research implications"
+    ],
+    [
+      "ethical dilemmas",
+      "raises",
+      "health implications"
+    ],
+    [
+      "ethical dilemmas",
+      "raises",
+      "privacy issues"
+    ],
+    [
+      "ethical dilemmas",
+      "raises concerns about",
+      "agricultural innovation"
+    ],
+    [
+      "ethical dilemmas",
+      "raises ethical questions about",
+      "health disparities"
+    ],
+    [
+      "ethical reflection",
+      "addresses",
+      "genetic disorders"
+    ],
+    [
+      "ethical reflection",
+      "affects",
+      "ecosystems disruption"
+    ],
+    [
+      "ethical reflection",
+      "considers",
+      "moral implications"
+    ],
+    [
+      "ethical reflection",
+      "enhances",
+      "genetic diversity"
+    ],
+    [
+      "ethical reflection",
+      "examines",
+      "genetic manipulation"
+    ],
+    [
+      "ethical reflection",
+      "guides",
+      "responsible science"
+    ],
+    [
+      "ethical reflection",
+      "influences",
+      "health implications"
+    ],
+    [
+      "ethical reflection",
+      "involves",
+      "genetic traits"
+    ],
+    [
+      "ethical reflection",
+      "raises",
+      "consent and autonomy"
+    ],
+    [
+      "ethical reflection",
+      "raises",
+      "privacy issues"
+    ],
+    [
+      "ethical reflection",
+      "requires",
+      "scientific advancements"
+    ],
+    [
+      "ethical reflection",
+      "shapes",
+      "future of genetics"
+    ],
+    [
+      "ethical reflection",
+      "shapes",
+      "responsible innovation"
+    ],
+    [
+      "food production",
+      "affects",
+      "ecological balance"
+    ],
+    [
+      "food production",
+      "affects",
+      "ethical concerns"
+    ],
+    [
+      "food production",
+      "affects",
+      "genetic information"
+    ],
+    [
+      "food production",
+      "affects",
+      "moral implications"
+    ],
+    [
+      "food production",
+      "affects",
+      "unintended consequences"
+    ],
+    [
+      "food production",
+      "affects",
+      "wealth inequality"
+    ],
+    [
+      "food production",
+      "depends on",
+      "scientific advancements"
+    ],
+    [
+      "food production",
+      "informs",
+      "human enhancement"
+    ],
+    [
+      "food production",
+      "is impacted by",
+      "unforeseen consequences"
+    ],
+    [
+      "food production",
+      "raises concerns about",
+      "bioethics"
+    ],
+    [
+      "food production",
+      "requires",
+      "human intervention"
+    ],
+    [
+      "food production",
+      "supports",
+      "genetic testing"
+    ],
+    [
+      "food production",
+      "supports",
+      "genetic traits"
+    ],
+    [
+      "food production",
+      "supports",
+      "health and education"
+    ],
+    [
+      "future implications",
+      "involves",
+      "biotechnology"
+    ],
+    [
+      "future implications",
+      "is shaped by",
+      "genetic engineering"
+    ],
+    [
+      "future implications",
+      "is shaped by",
+      "genetic traits"
+    ],
+    [
+      "future implications",
+      "leads to",
+      "unintended consequences"
+    ],
+    [
+      "future implications",
+      "presents",
+      "ethical dilemmas"
+    ],
+    [
+      "future implications",
+      "shapes",
+      "societal debates"
+    ],
+    [
+      "future of genetics",
+      "addresses",
+      "genetic disorders"
+    ],
+    [
+      "future of genetics",
+      "affects",
+      "genetic research implications"
+    ],
+    [
+      "future of genetics",
+      "creates",
+      "genetic advantages"
+    ],
+    [
+      "future of genetics",
+      "influences",
+      "genetic engineering"
+    ],
+    [
+      "future of genetics",
+      "informs",
+      "genetic research"
+    ],
+    [
+      "future of genetics",
+      "is a focus of",
+      "responsible innovation"
+    ],
+    [
+      "future of genetics",
+      "shapes",
+      "moral implications"
+    ],
+    [
+      "future of genetics",
+      "shapes",
+      "policy considerations"
+    ],
+    [
+      "genetic advantages",
+      "affects",
+      "consent and autonomy"
+    ],
+    [
+      "genetic advantages",
+      "affects",
+      "genetic information"
+    ],
+    [
+      "genetic advantages",
+      "affects",
+      "unforeseen consequences"
+    ],
+    [
+      "genetic advantages",
+      "benefits from",
+      "designer babies"
+    ],
+    [
+      "genetic advantages",
+      "benefits from",
+      "ethical decision-making"
+    ],
+    [
+      "genetic advantages",
+      "creates",
+      "ethical dilemmas"
+    ],
+    [
+      "genetic advantages",
+      "creates",
+      "privacy issues"
+    ],
+    [
+      "genetic advantages",
+      "enhanced by",
+      "food production"
+    ],
+    [
+      "genetic advantages",
+      "enhances",
+      "genetic diversity"
+    ],
+    [
+      "genetic advantages",
+      "influenced by",
+      "individual rights"
+    ],
+    [
+      "genetic advantages",
+      "influences",
+      "health and education"
+    ],
+    [
+      "genetic advantages",
+      "is affected by",
+      "environmental impact"
+    ],
+    [
+      "genetic advantages",
+      "is influenced by",
+      "discrimination risks"
+    ],
+    [
+      "genetic advantages",
+      "provides",
+      "genetic disorders"
+    ],
+    [
+      "genetic advantages",
+      "provides",
+      "genetic testing"
+    ],
+    [
+      "genetic advantages",
+      "provides",
+      "genetic traits"
+    ],
+    [
+      "genetic advantages",
+      "provides",
+      "scientific advancements"
+    ],
+    [
+      "genetic advantages",
+      "results in",
+      "health implications"
+    ],
+    [
+      "genetic disorders",
+      "addresses",
+      "responsible science"
+    ],
+    [
+      "genetic disorders",
+      "affects",
+      "genetic traits"
+    ],
+    [
+      "genetic disorders",
+      "affects",
+      "unforeseen consequences"
+    ],
+    [
+      "genetic disorders",
+      "affects",
+      "unintended consequences"
+    ],
+    [
+      "genetic disorders",
+      "exacerbates",
+      "opportunity gaps"
+    ],
+    [
+      "genetic disorders",
+      "is influenced by",
+      "human intervention"
+    ],
+    [
+      "genetic disorders",
+      "necessitates",
+      "policy considerations"
+    ],
+    [
+      "genetic disorders",
+      "raises ethical questions about",
+      "bioethics"
+    ],
+    [
+      "genetic disorders",
+      "related to",
+      "genetic information"
+    ],
+    [
+      "genetic diversity",
+      "complicates",
+      "designer babies"
+    ],
+    [
+      "genetic diversity",
+      "complicates",
+      "genome complexities"
+    ],
+    [
+      "genetic diversity",
+      "has implications for",
+      "genetic research implications"
+    ],
+    [
+      "genetic diversity",
+      "increases",
+      "discrimination risks"
+    ],
+    [
+      "genetic diversity",
+      "informs",
+      "genetic information"
+    ],
+    [
+      "genetic diversity",
+      "is affected by",
+      "genetic manipulation"
+    ],
+    [
+      "genetic diversity",
+      "is influenced by",
+      "individual rights"
+    ],
+    [
+      "genetic diversity",
+      "is studied in",
+      "human genetics"
+    ],
+    [
+      "genetic diversity",
+      "raises",
+      "privacy issues"
+    ],
+    [
+      "genetic diversity",
+      "requires",
+      "scientific responsibility"
+    ],
+    [
+      "genetic engineering",
+      "enables",
+      "designer babies"
+    ],
+    [
+      "genetic engineering",
+      "enhances",
+      "food production"
+    ],
+    [
+      "genetic engineering",
+      "influences",
+      "environmental sustainability"
+    ],
+    [
+      "genetic engineering",
+      "influences",
+      "genetic diversity"
+    ],
+    [
+      "genetic engineering",
+      "influences",
+      "genetic information"
+    ],
+    [
+      "genetic engineering",
+      "involves",
+      "consent and autonomy"
+    ],
+    [
+      "genetic engineering",
+      "is a method for",
+      "genetic disorders"
+    ],
+    [
+      "genetic engineering",
+      "is a method for",
+      "genetic manipulation"
+    ],
+    [
+      "genetic engineering",
+      "is advanced by",
+      "advancements in science"
+    ],
+    [
+      "genetic engineering",
+      "produces",
+      "engineered organisms"
+    ],
+    [
+      "genetic engineering",
+      "provides",
+      "genetic advantages"
+    ],
+    [
+      "genetic engineering",
+      "raises",
+      "unforeseen consequences"
+    ],
+    [
+      "genetic engineering",
+      "raises concerns about",
+      "human intervention"
+    ],
+    [
+      "genetic equity",
+      "affects",
+      "future of genetics"
+    ],
+    [
+      "genetic equity",
+      "concerns",
+      "safety concerns"
+    ],
+    [
+      "genetic equity",
+      "contributes to",
+      "health disparities"
+    ],
+    [
+      "genetic equity",
+      "guides",
+      "ethical decision-making"
+    ],
+    [
+      "genetic equity",
+      "influences",
+      "accessibility of technology"
+    ],
+    [
+      "genetic equity",
+      "influences",
+      "genetic research implications"
+    ],
+    [
+      "genetic equity",
+      "influences",
+      "individual rights"
+    ],
+    [
+      "genetic equity",
+      "informs",
+      "biotechnology"
+    ],
+    [
+      "genetic equity",
+      "involves",
+      "genetic manipulation"
+    ],
+    [
+      "genetic equity",
+      "is associated with",
+      "ethical dilemmas"
+    ],
+    [
+      "genetic equity",
+      "is based on",
+      "genetic information"
+    ],
+    [
+      "genetic equity",
+      "is related to",
+      "bioethics"
+    ],
+    [
+      "genetic equity",
+      "supports",
+      "responsible science"
+    ],
+    [
+      "genetic information",
+      "complicates",
+      "genome complexities"
+    ],
+    [
+      "genetic information",
+      "concerns about",
+      "safety concerns"
+    ],
+    [
+      "genetic information",
+      "contributes to",
+      "health disparities"
+    ],
+    [
+      "genetic information",
+      "demands",
+      "responsible science"
+    ],
+    [
+      "genetic information",
+      "influences",
+      "genetic manipulation"
+    ],
+    [
+      "genetic information",
+      "informs",
+      "ethical decision-making"
+    ],
+    [
+      "genetic information",
+      "informs",
+      "genetic research implications"
+    ],
+    [
+      "genetic information",
+      "involves",
+      "designer babies"
+    ],
+    [
+      "genetic information",
+      "is influenced by",
+      "manipulation of genes"
+    ],
+    [
+      "genetic information",
+      "is utilized in",
+      "food production"
+    ],
+    [
+      "genetic information",
+      "raises issues about",
+      "ethical dilemmas"
+    ],
+    [
+      "genetic manipulation",
+      "creates",
+      "designer babies"
+    ],
+    [
+      "genetic manipulation",
+      "demands",
+      "scientific responsibility"
+    ],
+    [
+      "genetic manipulation",
+      "enables",
+      "advancements in science"
+    ],
+    [
+      "genetic manipulation",
+      "influences",
+      "future of genetics"
+    ],
+    [
+      "genetic manipulation",
+      "involves",
+      "bioethics"
+    ],
+    [
+      "genetic manipulation",
+      "involves",
+      "manipulation of genes"
+    ],
+    [
+      "genetic manipulation",
+      "is influenced by",
+      "human intervention"
+    ],
+    [
+      "genetic manipulation",
+      "is used for",
+      "genetic disorders"
+    ],
+    [
+      "genetic manipulation",
+      "provides",
+      "genetic advantages"
+    ],
+    [
+      "genetic manipulation",
+      "raises concerns about",
+      "consent and autonomy"
+    ],
+    [
+      "genetic manipulation",
+      "requires",
+      "responsible innovation"
+    ],
+    [
+      "genetic manipulation",
+      "supports",
+      "food production"
+    ],
+    [
+      "genetic modification",
+      "affects",
+      "ecological balance"
+    ],
+    [
+      "genetic modification",
+      "impacts",
+      "health and education"
+    ],
+    [
+      "genetic modification",
+      "involves",
+      "genetic equity"
+    ],
+    [
+      "genetic modification",
+      "involves",
+      "manipulation of genes"
+    ],
+    [
+      "genetic modification",
+      "is a concern for",
+      "genetic disorders"
+    ],
+    [
+      "genetic modification",
+      "is a form of",
+      "genetic manipulation"
+    ],
+    [
+      "genetic modification",
+      "is a method of",
+      "genetic engineering"
+    ],
+    [
+      "genetic modification",
+      "presents",
+      "ethical dilemmas"
+    ],
+    [
+      "genetic modification",
+      "produces",
+      "engineered organisms"
+    ],
+    [
+      "genetic modification",
+      "promotes",
+      "responsible innovation"
+    ],
+    [
+      "genetic modification",
+      "raises",
+      "privacy issues"
+    ],
+    [
+      "genetic modification",
+      "raises",
+      "safety concerns"
+    ],
+    [
+      "genetic modification",
+      "requires",
+      "responsible science"
+    ],
+    [
+      "genetic research",
+      "addresses",
+      "genetic disorders"
+    ],
+    [
+      "genetic research",
+      "advances",
+      "genetic engineering"
+    ],
+    [
+      "genetic research",
+      "advances",
+      "scientific advancements"
+    ],
+    [
+      "genetic research",
+      "affects",
+      "health implications"
+    ],
+    [
+      "genetic research",
+      "contributes to",
+      "health disparities"
+    ],
+    [
+      "genetic research",
+      "guides",
+      "ethical decision-making"
+    ],
+    [
+      "genetic research",
+      "guides",
+      "responsible innovation"
+    ],
+    [
+      "genetic research",
+      "highlights",
+      "ethical concerns"
+    ],
+    [
+      "genetic research",
+      "influences",
+      "genetic diversity"
+    ],
+    [
+      "genetic research",
+      "informs",
+      "policy considerations"
+    ],
+    [
+      "genetic research",
+      "involves",
+      "designer babies"
+    ],
+    [
+      "genetic research",
+      "involves",
+      "manipulation of genes"
+    ],
+    [
+      "genetic research",
+      "is a concern for",
+      "social justice"
+    ],
+    [
+      "genetic research",
+      "is a technique of",
+      "genetic manipulation"
+    ],
+    [
+      "genetic research",
+      "offers",
+      "genetic advantages"
+    ],
+    [
+      "genetic research",
+      "promotes",
+      "responsible science"
+    ],
+    [
+      "genetic research",
+      "raises",
+      "ethical dilemmas"
+    ],
+    [
+      "genetic research",
+      "raises",
+      "safety concerns"
+    ],
+    [
+      "genetic research",
+      "supports",
+      "food production"
+    ],
+    [
+      "genetic research implications",
+      "affects",
+      "health and education"
+    ],
+    [
+      "genetic research implications",
+      "affects",
+      "human genetics"
+    ],
+    [
+      "genetic research implications",
+      "impacts",
+      "ecosystems disruption"
+    ],
+    [
+      "genetic research implications",
+      "impacts",
+      "food production"
+    ],
+    [
+      "genetic research implications",
+      "involves",
+      "designer babies"
+    ],
+    [
+      "genetic research implications",
+      "involves",
+      "discrimination risks"
+    ],
+    [
+      "genetic research implications",
+      "is guided by",
+      "responsible science"
+    ],
+    [
+      "genetic research implications",
+      "necessitates",
+      "policy considerations"
+    ],
+    [
+      "genetic research implications",
+      "raises",
+      "bioethics"
+    ],
+    [
+      "genetic research implications",
+      "raises",
+      "scientific responsibility"
+    ],
+    [
+      "genetic testing",
+      "affects",
+      "genetic research implications"
+    ],
+    [
+      "genetic testing",
+      "affects",
+      "individual rights"
+    ],
+    [
+      "genetic testing",
+      "exacerbates",
+      "health disparities"
+    ],
+    [
+      "genetic testing",
+      "facilitates",
+      "genetic manipulation"
+    ],
+    [
+      "genetic testing",
+      "guides",
+      "ethical decision-making"
+    ],
+    [
+      "genetic testing",
+      "influences",
+      "genetic equity"
+    ],
+    [
+      "genetic testing",
+      "influences",
+      "genetic traits"
+    ],
+    [
+      "genetic testing",
+      "informs",
+      "ethical reflection"
+    ],
+    [
+      "genetic testing",
+      "involves",
+      "designer babies"
+    ],
+    [
+      "genetic testing",
+      "involves",
+      "genetic engineering"
+    ],
+    [
+      "genetic testing",
+      "involves",
+      "genetic modification"
+    ],
+    [
+      "genetic testing",
+      "involves",
+      "human intervention"
+    ],
+    [
+      "genetic testing",
+      "involves",
+      "manipulation of genes"
+    ],
+    [
+      "genetic testing",
+      "is enhanced by",
+      "food production"
+    ],
+    [
+      "genetic testing",
+      "promotes",
+      "responsible science"
+    ],
+    [
+      "genetic testing",
+      "provides",
+      "genetic information"
+    ],
+    [
+      "genetic testing",
+      "raises",
+      "ethical dilemmas"
+    ],
+    [
+      "genetic testing",
+      "raises",
+      "privacy issues"
+    ],
+    [
+      "genetic testing",
+      "results in",
+      "unforeseen consequences"
+    ],
+    [
+      "genetic testing",
+      "used for",
+      "genetic disorders"
+    ],
+    [
+      "genetic traits",
+      "affects",
+      "ecological balance"
+    ],
+    [
+      "genetic traits",
+      "determined by",
+      "genetic testing"
+    ],
+    [
+      "genetic traits",
+      "influences",
+      "genetic equity"
+    ],
+    [
+      "genetic traits",
+      "involves",
+      "genetic engineering"
+    ],
+    [
+      "genetic traits",
+      "involves",
+      "genetic modification"
+    ],
+    [
+      "genetic traits",
+      "involves",
+      "manipulation of genes"
+    ],
+    [
+      "genetic traits",
+      "is impacted by",
+      "human intervention"
+    ],
+    [
+      "genetic traits",
+      "is influenced by",
+      "ethical concerns"
+    ],
+    [
+      "genetic traits",
+      "is influenced by",
+      "ethical decision-making"
+    ],
+    [
+      "genetic traits",
+      "is influenced by",
+      "genetic manipulation"
+    ],
+    [
+      "genetic traits",
+      "is related to",
+      "genetic information"
+    ],
+    [
+      "genetic traits",
+      "is studied in",
+      "human genetics"
+    ],
+    [
+      "genetic traits",
+      "raises",
+      "privacy issues"
+    ],
+    [
+      "genetic traits",
+      "requires",
+      "scientific responsibility"
+    ],
+    [
+      "genetic traits",
+      "shapes",
+      "future of genetics"
+    ],
+    [
+      "genome complexities",
+      "affects",
+      "health and education"
+    ],
+    [
+      "genome complexities",
+      "complicates",
+      "advancements in science"
+    ],
+    [
+      "genome complexities",
+      "complicates",
+      "human intervention"
+    ],
+    [
+      "genome complexities",
+      "complicates",
+      "responsible science"
+    ],
+    [
+      "genome complexities",
+      "is informed by",
+      "biotechnology ethics"
+    ],
+    [
+      "genome complexities",
+      "leads to",
+      "unforeseen consequences"
+    ],
+    [
+      "health and education",
+      "affects",
+      "designer babies"
+    ],
+    [
+      "health and education",
+      "creates risks of",
+      "discrimination risks"
+    ],
+    [
+      "health and education",
+      "influences",
+      "ethical reflection"
+    ],
+    [
+      "health and education",
+      "is influenced by",
+      "future implications"
+    ],
+    [
+      "health disparities",
+      "affects",
+      "genetic traits"
+    ],
+    [
+      "health disparities",
+      "affects",
+      "scientific responsibility"
+    ],
+    [
+      "health disparities",
+      "exacerbates",
+      "genetic advantages"
+    ],
+    [
+      "health disparities",
+      "exacerbates",
+      "genetic diversity"
+    ],
+    [
+      "health disparities",
+      "exacerbates",
+      "genetic engineering"
+    ],
+    [
+      "health disparities",
+      "exacerbates",
+      "genetic modification"
+    ],
+    [
+      "health disparities",
+      "increases",
+      "discrimination risks"
+    ],
+    [
+      "health disparities",
+      "influences",
+      "health and education"
+    ],
+    [
+      "health disparities",
+      "infringes on",
+      "individual rights"
+    ],
+    [
+      "health disparities",
+      "is a topic in",
+      "ethical concerns"
+    ],
+    [
+      "health disparities",
+      "raises",
+      "privacy issues"
+    ],
+    [
+      "health implications",
+      "affects",
+      "individual rights"
+    ],
+    [
+      "health implications",
+      "arises from",
+      "manipulation of genes"
+    ],
+    [
+      "health implications",
+      "influences",
+      "genetic traits"
+    ],
+    [
+      "health implications",
+      "involves",
+      "engineered organisms"
+    ],
+    [
+      "health implications",
+      "is affected by",
+      "health disparities"
+    ],
+    [
+      "health implications",
+      "is linked to",
+      "privacy issues"
+    ],
+    [
+      "health implications",
+      "raises",
+      "discrimination risks"
+    ],
+    [
+      "health implications",
+      "shapes",
+      "policy considerations"
+    ],
+    [
+      "human enhancement",
+      "can lead to",
+      "unforeseen consequences"
+    ],
+    [
+      "human enhancement",
+      "creates",
+      "discrimination risks"
+    ],
+    [
+      "human enhancement",
+      "creates",
+      "ethical dilemmas"
+    ],
+    [
+      "human enhancement",
+      "drives",
+      "genetic research"
+    ],
+    [
+      "human enhancement",
+      "has",
+      "future implications"
+    ],
+    [
+      "human enhancement",
+      "is a concern for",
+      "responsible science"
+    ],
+    [
+      "human enhancement",
+      "is a form of",
+      "genetic engineering"
+    ],
+    [
+      "human enhancement",
+      "is related to",
+      "biotechnology"
+    ],
+    [
+      "human enhancement",
+      "is related to",
+      "social justice"
+    ],
+    [
+      "human enhancement",
+      "leads to",
+      "designer babies"
+    ],
+    [
+      "human enhancement",
+      "provides",
+      "genetic advantages"
+    ],
+    [
+      "human enhancement",
+      "raises concerns about",
+      "genetic research implications"
+    ],
+    [
+      "human enhancement",
+      "requires",
+      "bioethics"
+    ],
+    [
+      "human enhancement",
+      "requires",
+      "policy considerations"
+    ],
+    [
+      "human enhancement",
+      "shapes",
+      "future of genetics"
+    ],
+    [
+      "human genetics",
+      "causes",
+      "genetic disorders"
+    ],
+    [
+      "human genetics",
+      "demands",
+      "scientific responsibility"
+    ],
+    [
+      "human genetics",
+      "is influenced by",
+      "genetic engineering"
+    ],
+    [
+      "human genetics",
+      "raises",
+      "privacy issues"
+    ],
+    [
+      "human genetics",
+      "raises concerns about",
+      "ethical concerns"
+    ],
+    [
+      "human genetics",
+      "supports",
+      "responsible innovation"
+    ],
+    [
+      "human intervention",
+      "challenges",
+      "safety concerns"
+    ],
+    [
+      "human intervention",
+      "is impacted by",
+      "genetic engineering"
+    ],
+    [
+      "human intervention",
+      "raises concerns about",
+      "environmental sustainability"
+    ],
+    [
+      "human intervention",
+      "raises concerns about",
+      "social justice"
+    ],
+    [
+      "human intervention",
+      "requires",
+      "accessibility of technology"
+    ],
+    [
+      "individual rights",
+      "affects",
+      "accessibility of technology"
+    ],
+    [
+      "individual rights",
+      "affects",
+      "food production"
+    ],
+    [
+      "individual rights",
+      "affects",
+      "social justice"
+    ],
+    [
+      "individual rights",
+      "complicates",
+      "ethical dilemmas"
+    ],
+    [
+      "individual rights",
+      "influences",
+      "policy considerations"
+    ],
+    [
+      "individual rights",
+      "involves",
+      "consent and autonomy"
+    ],
+    [
+      "individual rights",
+      "involves",
+      "genetic manipulation"
+    ],
+    [
+      "individual rights",
+      "is affected by",
+      "genetic modification"
+    ],
+    [
+      "individual rights",
+      "is affected by",
+      "genetic traits"
+    ],
+    [
+      "individual rights",
+      "is affected by",
+      "unforeseen consequences"
+    ],
+    [
+      "individual rights",
+      "is concerned with",
+      "privacy issues"
+    ],
+    [
+      "individual rights",
+      "is essential for",
+      "scientific responsibility"
+    ],
+    [
+      "individual rights",
+      "is impacted by",
+      "ethical concerns"
+    ],
+    [
+      "individual rights",
+      "is influenced by",
+      "genetic information"
+    ],
+    [
+      "individual rights",
+      "is influenced by",
+      "genetic testing"
+    ],
+    [
+      "individual rights",
+      "is threatened by",
+      "technology risks"
+    ],
+    [
+      "individual rights",
+      "poses risks to",
+      "discrimination risks"
+    ],
+    [
+      "individual rights",
+      "raises",
+      "designer babies"
+    ],
+    [
+      "manipulation of genes",
+      "influences",
+      "scientific responsibility"
+    ],
+    [
+      "manipulation of genes",
+      "is a process of",
+      "genetic engineering"
+    ],
+    [
+      "manipulation of genes",
+      "is affected by",
+      "genetic testing"
+    ],
+    [
+      "manipulation of genes",
+      "raises",
+      "bioethics"
+    ],
+    [
+      "moral implications",
+      "affects",
+      "environmental sustainability"
+    ],
+    [
+      "moral implications",
+      "complicates",
+      "ethical dilemmas"
+    ],
+    [
+      "moral implications",
+      "exacerbates",
+      "opportunity gaps"
+    ],
+    [
+      "moral implications",
+      "guides",
+      "ethical decision-making"
+    ],
+    [
+      "moral implications",
+      "highlights",
+      "health disparities"
+    ],
+    [
+      "moral implications",
+      "informs",
+      "responsible science"
+    ],
+    [
+      "moral implications",
+      "is linked to",
+      "wealth inequality"
+    ],
+    [
+      "moral implications",
+      "raises",
+      "commodification of life"
+    ],
+    [
+      "moral implications",
+      "raises",
+      "consent and autonomy"
+    ],
+    [
+      "moral implications",
+      "raises",
+      "genetic equity"
+    ],
+    [
+      "opportunity gaps",
+      "affects",
+      "genetic research implications"
+    ],
+    [
+      "opportunity gaps",
+      "creates",
+      "genetic equity"
+    ],
+    [
+      "opportunity gaps",
+      "creates",
+      "health and education"
+    ],
+    [
+      "opportunity gaps",
+      "exacerbates",
+      "wealth inequality"
+    ],
+    [
+      "opportunity gaps",
+      "is influenced by",
+      "ethical reflection"
+    ],
+    [
+      "opportunity gaps",
+      "is influenced by",
+      "genetic traits"
+    ],
+    [
+      "opportunity gaps",
+      "leads to",
+      "unforeseen consequences"
+    ],
+    [
+      "policy considerations",
+      "influences",
+      "food production"
+    ],
+    [
+      "policy considerations",
+      "influences",
+      "genetic engineering"
+    ],
+    [
+      "policy considerations",
+      "informs",
+      "bioethics"
+    ],
+    [
+      "policy considerations",
+      "is influenced by",
+      "health disparities"
+    ],
+    [
+      "privacy issues",
+      "is impacted by",
+      "responsible innovation"
+    ],
+    [
+      "privacy issues",
+      "raises concerns about",
+      "food production"
+    ],
+    [
+      "responsible innovation",
+      "creates",
+      "genetic advantages"
+    ],
+    [
+      "responsible innovation",
+      "involves",
+      "manipulation of genes"
+    ],
+    [
+      "responsible innovation",
+      "is a component of",
+      "bioethics"
+    ],
+    [
+      "responsible innovation",
+      "raises",
+      "discrimination risks"
+    ],
+    [
+      "responsible innovation",
+      "requires",
+      "consent and autonomy"
+    ],
+    [
+      "responsible innovation",
+      "requires",
+      "human intervention"
+    ],
+    [
+      "responsible innovation",
+      "requires",
+      "scientific responsibility"
+    ],
+    [
+      "responsible innovation",
+      "shapes",
+      "policy considerations"
+    ],
+    [
+      "responsible science",
+      "demands",
+      "engineered organisms"
+    ],
+    [
+      "responsible science",
+      "guides",
+      "future of genetics"
+    ],
+    [
+      "responsible science",
+      "guides",
+      "human intervention"
+    ],
+    [
+      "responsible science",
+      "influenced by",
+      "health and education"
+    ],
+    [
+      "responsible science",
+      "involves the process of",
+      "manipulation of genes"
+    ],
+    [
+      "responsible science",
+      "is supported by",
+      "genetic diversity"
+    ],
+    [
+      "safety concerns",
+      "complicates",
+      "consent and autonomy"
+    ],
+    [
+      "safety concerns",
+      "drives",
+      "scientific advancements"
+    ],
+    [
+      "safety concerns",
+      "exacerbates",
+      "health disparities"
+    ],
+    [
+      "safety concerns",
+      "informs",
+      "responsible science"
+    ],
+    [
+      "safety concerns",
+      "is related to",
+      "wealth inequality"
+    ],
+    [
+      "safety concerns",
+      "necessitates",
+      "ethical reflection"
+    ],
+    [
+      "safety concerns",
+      "presents",
+      "genetic manipulation"
+    ],
+    [
+      "safety concerns",
+      "raises",
+      "bioethics"
+    ],
+    [
+      "safety concerns",
+      "raises",
+      "commodification of life"
+    ],
+    [
+      "safety concerns",
+      "raises",
+      "food production"
+    ],
+    [
+      "safety concerns",
+      "raises",
+      "manipulation of genes"
+    ],
+    [
+      "safety concerns",
+      "raises",
+      "responsible innovation"
+    ],
+    [
+      "safety concerns",
+      "raises",
+      "scientific responsibility"
+    ],
+    [
+      "scientific advancements",
+      "demands",
+      "scientific responsibility"
+    ],
+    [
+      "scientific advancements",
+      "enhances",
+      "food production"
+    ],
+    [
+      "scientific advancements",
+      "influences",
+      "moral implications"
+    ],
+    [
+      "scientific advancements",
+      "involves",
+      "consent and autonomy"
+    ],
+    [
+      "scientific advancements",
+      "is influenced by",
+      "individual rights"
+    ],
+    [
+      "scientific advancements",
+      "necessitates",
+      "bioethics"
+    ],
+    [
+      "scientific advancements",
+      "raises",
+      "ethical dilemmas"
+    ],
+    [
+      "scientific advancements",
+      "requires",
+      "policy considerations"
+    ],
+    [
+      "scientific responsibility",
+      "informs",
+      "genetic research"
+    ],
+    [
+      "scientific responsibility",
+      "involves",
+      "privacy issues"
+    ],
+    [
+      "scientific responsibility",
+      "is addressed by",
+      "safety concerns"
+    ],
+    [
+      "scientific responsibility",
+      "is influenced by",
+      "genetic traits"
+    ],
+    [
+      "scientific responsibility",
+      "raises",
+      "consent and autonomy"
+    ],
+    [
+      "scientific responsibility",
+      "requires",
+      "environmental impact"
+    ],
+    [
+      "scientific responsibility",
+      "requires",
+      "human enhancement"
+    ],
+    [
+      "scientific responsibility",
+      "supports",
+      "health and education"
+    ],
+    [
+      "social justice",
+      "affects",
+      "genetic disorders"
+    ],
+    [
+      "social justice",
+      "affects",
+      "health and education"
+    ],
+    [
+      "social justice",
+      "affects",
+      "unintended consequences"
+    ],
+    [
+      "social justice",
+      "creates",
+      "future implications"
+    ],
+    [
+      "social justice",
+      "exacerbates",
+      "opportunity gaps"
+    ],
+    [
+      "social justice",
+      "highlights",
+      "genetic research implications"
+    ],
+    [
+      "social justice",
+      "involves issues of",
+      "consent and autonomy"
+    ],
+    [
+      "social justice",
+      "is affected by",
+      "human intervention"
+    ],
+    [
+      "social justice",
+      "is influenced by",
+      "environmental sustainability"
+    ],
+    [
+      "social justice",
+      "is related to",
+      "biotechnology"
+    ],
+    [
+      "social justice",
+      "is related to",
+      "genetic advantages"
+    ],
+    [
+      "social justice",
+      "raises",
+      "ethical dilemmas"
+    ],
+    [
+      "social justice",
+      "raises",
+      "genetic information"
+    ],
+    [
+      "social justice",
+      "raises",
+      "genetic testing"
+    ],
+    [
+      "social justice",
+      "raises concerns about",
+      "designer babies"
+    ],
+    [
+      "social justice",
+      "requires",
+      "ethical decision-making"
+    ],
+    [
+      "societal debates",
+      "involves",
+      "privacy issues"
+    ],
+    [
+      "societal debates",
+      "is a topic in",
+      "genetic disorders"
+    ],
+    [
+      "societal debates",
+      "is influenced by",
+      "health implications"
+    ],
+    [
+      "societal debates",
+      "is influenced by",
+      "individual rights"
+    ],
+    [
+      "societal debates",
+      "sparks",
+      "ethical decision-making"
+    ],
+    [
+      "societal debates",
+      "sparks",
+      "genetic traits"
+    ],
+    [
+      "technology risks",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "technology risks",
+      "affects",
+      "future of genetics"
+    ],
+    [
+      "technology risks",
+      "challenges",
+      "ethical decision-making"
+    ],
+    [
+      "technology risks",
+      "exacerbates",
+      "health disparities"
+    ],
+    [
+      "technology risks",
+      "impacts",
+      "health and education"
+    ],
+    [
+      "technology risks",
+      "threatens",
+      "ecological balance"
+    ],
+    [
+      "technology risks",
+      "threatens",
+      "environmental sustainability"
+    ],
+    [
+      "unforeseen consequences",
+      "affected by",
+      "genetic traits"
+    ],
+    [
+      "unforeseen consequences",
+      "affects",
+      "social justice"
+    ],
+    [
+      "unforeseen consequences",
+      "demands",
+      "scientific responsibility"
+    ],
+    [
+      "unforeseen consequences",
+      "increases",
+      "discrimination risks"
+    ],
+    [
+      "unforeseen consequences",
+      "is a concern for",
+      "bioethics"
+    ],
+    [
+      "unforeseen consequences",
+      "is a type of",
+      "unintended consequences"
+    ],
+    [
+      "unforeseen consequences",
+      "necessitates",
+      "policy considerations"
+    ],
+    [
+      "unforeseen consequences",
+      "results in",
+      "advancements in science"
+    ],
+    [
+      "unforeseen consequences",
+      "results in",
+      "environmental sustainability"
+    ],
+    [
+      "unforeseen consequences",
+      "results in",
+      "health disparities"
+    ],
+    [
+      "unforeseen consequences",
+      "results in",
+      "human genetics"
+    ],
+    [
+      "unintended consequences",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "unintended consequences",
+      "affects",
+      "genetic diversity"
+    ],
+    [
+      "unintended consequences",
+      "affects",
+      "genetic traits"
+    ],
+    [
+      "unintended consequences",
+      "involves",
+      "moral implications"
+    ],
+    [
+      "unintended consequences",
+      "is influenced by",
+      "human intervention"
+    ],
+    [
+      "unintended consequences",
+      "leads to",
+      "commodification of life"
+    ],
+    [
+      "unintended consequences",
+      "necessitates",
+      "responsible science"
+    ],
+    [
+      "unintended consequences",
+      "sparks",
+      "societal debates"
+    ],
+    [
+      "wealth inequality",
+      "affects",
+      "biotechnology"
+    ],
+    [
+      "wealth inequality",
+      "causes",
+      "genetic disorders"
+    ],
+    [
+      "wealth inequality",
+      "complicates",
+      "scientific responsibility"
+    ],
+    [
+      "wealth inequality",
+      "exacerbates",
+      "scientific advancements"
+    ],
+    [
+      "wealth inequality",
+      "guides",
+      "ethical decision-making"
+    ],
+    [
+      "wealth inequality",
+      "is affected by",
+      "social justice"
+    ],
+    [
+      "wealth inequality",
+      "is influenced by",
+      "health disparities"
+    ]
+  ],
+  "edges": [
+    "addresses",
+    "advances",
+    "affected by",
+    "affects",
+    "arises from",
+    "benefits from",
+    "can lead to",
+    "causes",
+    "challenges",
+    "complicates",
+    "concerns",
+    "concerns about",
+    "considers",
+    "contributes to",
+    "creates",
+    "creates risks of",
+    "demands",
+    "depends on",
+    "determined by",
+    "disrupted by",
+    "drives",
+    "enables",
+    "enhanced by",
+    "enhances",
+    "exacerbates",
+    "examines",
+    "faces",
+    "facilitates",
+    "fuels",
+    "guides",
+    "has",
+    "has implications for",
+    "highlights",
+    "impacts",
+    "impedes",
+    "increases",
+    "influenced by",
+    "influences",
+    "informs",
+    "infringes on",
+    "involves",
+    "involves issues of",
+    "involves the process of",
+    "is a component of",
+    "is a concern for",
+    "is a concern in",
+    "is a focus of",
+    "is a form of",
+    "is a method for",
+    "is a method of",
+    "is a process of",
+    "is a product of",
+    "is a technique of",
+    "is a topic in",
+    "is a type of",
+    "is addressed by",
+    "is advanced by",
+    "is affected by",
+    "is associated with",
+    "is based on",
+    "is concerned with",
+    "is driven by",
+    "is enhanced by",
+    "is essential for",
+    "is governed by",
+    "is guided by",
+    "is impacted by",
+    "is influenced by",
+    "is informed by",
+    "is linked to",
+    "is related to",
+    "is shaped by",
+    "is studied in",
+    "is supported by",
+    "is threatened by",
+    "is used for",
+    "is utilized in",
+    "leads to",
+    "necessitates",
+    "offers",
+    "poses risks to",
+    "presents",
+    "produces",
+    "promotes",
+    "provides",
+    "raises",
+    "raises concerns about",
+    "raises ethical questions about",
+    "raises issues about",
+    "raises questions about",
+    "related to",
+    "requires",
+    "results from",
+    "results in",
+    "shapes",
+    "sparks",
+    "supports",
+    "threatens",
+    "used for"
+  ]
+}

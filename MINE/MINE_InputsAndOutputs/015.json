@@ -1,0 +1,3859 @@
+{
+  "entities": [
+    "Book of the Dead",
+    "afterlife",
+    "afterlife beliefs",
+    "afterlife items",
+    "amulets",
+    "ancient Egypt",
+    "ancient culture",
+    "ancient rituals",
+    "body preservation",
+    "burial practices",
+    "care",
+    "care in burial",
+    "careful orchestration",
+    "clothing",
+    "comfort items",
+    "common people",
+    "common practices",
+    "deceased",
+    "elaborate tombs",
+    "elite",
+    "elite practices",
+    "embalmers",
+    "eternal existence",
+    "family",
+    "food",
+    "funeral customs",
+    "funeral procession",
+    "grand pyramids",
+    "honor",
+    "importance of honor",
+    "internal organs",
+    "items",
+    "jewelry",
+    "linen bandages",
+    "monumental structures",
+    "mummification process",
+    "navigation dangers",
+    "personal belongings",
+    "pharaohs",
+    "possessions",
+    "prayers",
+    "priest expertise",
+    "professional mourners",
+    "protection",
+    "pyramids",
+    "realm of gods",
+    "religious texts",
+    "resources",
+    "respect",
+    "reverence for deceased",
+    "rituals",
+    "safe passage",
+    "spells",
+    "spiritual journey",
+    "sustenance",
+    "tombs",
+    "tools"
+  ],
+  "relations": [
+    [
+      "Book of the Dead",
+      "accompanies",
+      "items"
+    ],
+    [
+      "Book of the Dead",
+      "aids in",
+      "navigation dangers"
+    ],
+    [
+      "Book of the Dead",
+      "associated with",
+      "possessions"
+    ],
+    [
+      "Book of the Dead",
+      "ensured by",
+      "eternal existence"
+    ],
+    [
+      "Book of the Dead",
+      "guides",
+      "afterlife"
+    ],
+    [
+      "Book of the Dead",
+      "guides",
+      "afterlife items"
+    ],
+    [
+      "Book of the Dead",
+      "guides",
+      "care in burial"
+    ],
+    [
+      "Book of the Dead",
+      "guides",
+      "spiritual journey"
+    ],
+    [
+      "Book of the Dead",
+      "guides",
+      "tombs"
+    ],
+    [
+      "Book of the Dead",
+      "included in",
+      "clothing"
+    ],
+    [
+      "Book of the Dead",
+      "informs",
+      "ancient culture"
+    ],
+    [
+      "Book of the Dead",
+      "is included in",
+      "elaborate tombs"
+    ],
+    [
+      "Book of the Dead",
+      "is referenced in",
+      "monumental structures"
+    ],
+    [
+      "afterlife",
+      "benefits from",
+      "care"
+    ],
+    [
+      "afterlife",
+      "ensured by",
+      "safe passage"
+    ],
+    [
+      "afterlife",
+      "is destination for",
+      "funeral procession"
+    ],
+    [
+      "afterlife beliefs",
+      "guides",
+      "Book of the Dead"
+    ],
+    [
+      "afterlife beliefs",
+      "includes",
+      "clothing"
+    ],
+    [
+      "afterlife beliefs",
+      "influences",
+      "common practices"
+    ],
+    [
+      "afterlife beliefs",
+      "influences",
+      "protection"
+    ],
+    [
+      "afterlife beliefs",
+      "informs",
+      "mummification process"
+    ],
+    [
+      "afterlife beliefs",
+      "informs",
+      "realm of gods"
+    ],
+    [
+      "afterlife beliefs",
+      "informs",
+      "tombs"
+    ],
+    [
+      "afterlife beliefs",
+      "provides",
+      "sustenance"
+    ],
+    [
+      "afterlife beliefs",
+      "reflects",
+      "afterlife items"
+    ],
+    [
+      "afterlife beliefs",
+      "reflects",
+      "funeral procession"
+    ],
+    [
+      "afterlife beliefs",
+      "supports",
+      "body preservation"
+    ],
+    [
+      "afterlife items",
+      "facilitates",
+      "spiritual journey"
+    ],
+    [
+      "afterlife items",
+      "guides",
+      "realm of gods"
+    ],
+    [
+      "afterlife items",
+      "includes",
+      "amulets"
+    ],
+    [
+      "afterlife items",
+      "includes",
+      "pyramids"
+    ],
+    [
+      "afterlife items",
+      "provides",
+      "sustenance"
+    ],
+    [
+      "amulets",
+      "guides",
+      "Book of the Dead"
+    ],
+    [
+      "amulets",
+      "guides",
+      "spiritual journey"
+    ],
+    [
+      "amulets",
+      "included in",
+      "personal belongings"
+    ],
+    [
+      "amulets",
+      "included in",
+      "prayers"
+    ],
+    [
+      "amulets",
+      "provides",
+      "sustenance"
+    ],
+    [
+      "amulets",
+      "requires",
+      "careful orchestration"
+    ],
+    [
+      "amulets",
+      "used in",
+      "mummification process"
+    ],
+    [
+      "ancient Egypt",
+      "associated with",
+      "possessions"
+    ],
+    [
+      "ancient Egypt",
+      "constructed by",
+      "monumental structures"
+    ],
+    [
+      "ancient Egypt",
+      "constructed for",
+      "elaborate tombs"
+    ],
+    [
+      "ancient Egypt",
+      "constructs",
+      "pyramids"
+    ],
+    [
+      "ancient Egypt",
+      "ensures",
+      "safe passage"
+    ],
+    [
+      "ancient Egypt",
+      "included in",
+      "prayers"
+    ],
+    [
+      "ancient Egypt",
+      "includes",
+      "afterlife items"
+    ],
+    [
+      "ancient Egypt",
+      "includes",
+      "deceased"
+    ],
+    [
+      "ancient Egypt",
+      "includes",
+      "elite practices"
+    ],
+    [
+      "ancient Egypt",
+      "includes",
+      "items"
+    ],
+    [
+      "ancient Egypt",
+      "involves",
+      "rituals"
+    ],
+    [
+      "ancient Egypt",
+      "practices",
+      "ancient rituals"
+    ],
+    [
+      "ancient Egypt",
+      "represents",
+      "spiritual journey"
+    ],
+    [
+      "ancient Egypt",
+      "shapes",
+      "afterlife beliefs"
+    ],
+    [
+      "ancient culture",
+      "constructed by",
+      "pyramids"
+    ],
+    [
+      "ancient culture",
+      "includes",
+      "afterlife items"
+    ],
+    [
+      "ancient culture",
+      "includes",
+      "amulets"
+    ],
+    [
+      "ancient culture",
+      "includes",
+      "monumental structures"
+    ],
+    [
+      "ancient culture",
+      "includes",
+      "spells"
+    ],
+    [
+      "ancient culture",
+      "informed by",
+      "priest expertise"
+    ],
+    [
+      "ancient culture",
+      "informs",
+      "afterlife"
+    ],
+    [
+      "ancient culture",
+      "informs",
+      "afterlife beliefs"
+    ],
+    [
+      "ancient culture",
+      "informs",
+      "common practices"
+    ],
+    [
+      "ancient culture",
+      "informs",
+      "eternal existence"
+    ],
+    [
+      "ancient culture",
+      "informs",
+      "tombs"
+    ],
+    [
+      "ancient culture",
+      "involves",
+      "mummification process"
+    ],
+    [
+      "ancient culture",
+      "is influenced by",
+      "deceased"
+    ],
+    [
+      "ancient culture",
+      "produces",
+      "elaborate tombs"
+    ],
+    [
+      "ancient culture",
+      "reflects",
+      "grand pyramids"
+    ],
+    [
+      "ancient culture",
+      "reflects",
+      "reverence for deceased"
+    ],
+    [
+      "ancient culture",
+      "shapes",
+      "pharaohs"
+    ],
+    [
+      "ancient culture",
+      "shapes",
+      "safe passage"
+    ],
+    [
+      "ancient rituals",
+      "addresses",
+      "navigation dangers"
+    ],
+    [
+      "ancient rituals",
+      "associated with",
+      "afterlife"
+    ],
+    [
+      "ancient rituals",
+      "associated with",
+      "elite"
+    ],
+    [
+      "ancient rituals",
+      "emphasizes",
+      "importance of honor"
+    ],
+    [
+      "ancient rituals",
+      "facilitates",
+      "spiritual journey"
+    ],
+    [
+      "ancient rituals",
+      "includes",
+      "prayers"
+    ],
+    [
+      "ancient rituals",
+      "influences",
+      "burial practices"
+    ],
+    [
+      "ancient rituals",
+      "informs",
+      "afterlife beliefs"
+    ],
+    [
+      "ancient rituals",
+      "involves",
+      "comfort items"
+    ],
+    [
+      "ancient rituals",
+      "involves",
+      "grand pyramids"
+    ],
+    [
+      "ancient rituals",
+      "involves",
+      "mummification process"
+    ],
+    [
+      "ancient rituals",
+      "involves",
+      "pharaohs"
+    ],
+    [
+      "ancient rituals",
+      "involves",
+      "tombs"
+    ],
+    [
+      "ancient rituals",
+      "is included in",
+      "Book of the Dead"
+    ],
+    [
+      "ancient rituals",
+      "provides",
+      "protection"
+    ],
+    [
+      "ancient rituals",
+      "provides",
+      "sustenance"
+    ],
+    [
+      "ancient rituals",
+      "reflects",
+      "ancient culture"
+    ],
+    [
+      "ancient rituals",
+      "utilizes",
+      "tools"
+    ],
+    [
+      "body preservation",
+      "demonstrates",
+      "reverence for deceased"
+    ],
+    [
+      "body preservation",
+      "ensures",
+      "family"
+    ],
+    [
+      "body preservation",
+      "facilitates",
+      "spiritual journey"
+    ],
+    [
+      "body preservation",
+      "involves",
+      "ancient culture"
+    ],
+    [
+      "body preservation",
+      "involves",
+      "internal organs"
+    ],
+    [
+      "body preservation",
+      "is ensured by",
+      "safe passage"
+    ],
+    [
+      "body preservation",
+      "requires",
+      "afterlife"
+    ],
+    [
+      "body preservation",
+      "supports",
+      "elaborate tombs"
+    ],
+    [
+      "body preservation",
+      "supports",
+      "personal belongings"
+    ],
+    [
+      "burial practices",
+      "ensures",
+      "body preservation"
+    ],
+    [
+      "burial practices",
+      "facilitates",
+      "spiritual journey"
+    ],
+    [
+      "burial practices",
+      "included in",
+      "Book of the Dead"
+    ],
+    [
+      "burial practices",
+      "influences",
+      "funeral procession"
+    ],
+    [
+      "burial practices",
+      "influences",
+      "honor"
+    ],
+    [
+      "burial practices",
+      "involves",
+      "mummification process"
+    ],
+    [
+      "burial practices",
+      "is a component of",
+      "grand pyramids"
+    ],
+    [
+      "burial practices",
+      "is defined by",
+      "tombs"
+    ],
+    [
+      "burial practices",
+      "performed in",
+      "rituals"
+    ],
+    [
+      "burial practices",
+      "reflects",
+      "reverence for deceased"
+    ],
+    [
+      "burial practices",
+      "requires",
+      "careful orchestration"
+    ],
+    [
+      "care",
+      "demonstrates",
+      "reverence for deceased"
+    ],
+    [
+      "care",
+      "enhances",
+      "food"
+    ],
+    [
+      "care",
+      "ensures",
+      "afterlife"
+    ],
+    [
+      "care",
+      "ensures",
+      "amulets"
+    ],
+    [
+      "care",
+      "ensures",
+      "safe passage"
+    ],
+    [
+      "care",
+      "involves",
+      "common practices"
+    ],
+    [
+      "care",
+      "involves",
+      "embalmers"
+    ],
+    [
+      "care",
+      "involves",
+      "linen bandages"
+    ],
+    [
+      "care",
+      "is necessary for",
+      "ancient rituals"
+    ],
+    [
+      "care",
+      "is related to",
+      "afterlife items"
+    ],
+    [
+      "care",
+      "is shown by",
+      "honor"
+    ],
+    [
+      "care",
+      "provides",
+      "deceased"
+    ],
+    [
+      "care",
+      "provides for",
+      "possessions"
+    ],
+    [
+      "care",
+      "shapes",
+      "ancient culture"
+    ],
+    [
+      "care in burial",
+      "demonstrates",
+      "common people"
+    ],
+    [
+      "care in burial",
+      "demonstrates",
+      "honor"
+    ],
+    [
+      "care in burial",
+      "ensures",
+      "afterlife"
+    ],
+    [
+      "care in burial",
+      "ensures",
+      "body preservation"
+    ],
+    [
+      "care in burial",
+      "ensures",
+      "eternal existence"
+    ],
+    [
+      "care in burial",
+      "facilitates",
+      "spiritual journey"
+    ],
+    [
+      "care in burial",
+      "highlights",
+      "importance of honor"
+    ],
+    [
+      "care in burial",
+      "honors",
+      "deceased"
+    ],
+    [
+      "care in burial",
+      "includes",
+      "common practices"
+    ],
+    [
+      "care in burial",
+      "includes",
+      "tools"
+    ],
+    [
+      "care in burial",
+      "influences",
+      "funeral customs"
+    ],
+    [
+      "care in burial",
+      "informs",
+      "burial practices"
+    ],
+    [
+      "care in burial",
+      "involves",
+      "ancient rituals"
+    ],
+    [
+      "care in burial",
+      "involves",
+      "rituals"
+    ],
+    [
+      "care in burial",
+      "is associated with",
+      "pyramids"
+    ],
+    [
+      "care in burial",
+      "performed by",
+      "embalmers"
+    ],
+    [
+      "care in burial",
+      "provides",
+      "comfort items"
+    ],
+    [
+      "care in burial",
+      "reflects",
+      "ancient culture"
+    ],
+    [
+      "care in burial",
+      "reflects",
+      "family"
+    ],
+    [
+      "care in burial",
+      "reflects",
+      "reverence for deceased"
+    ],
+    [
+      "careful orchestration",
+      "involves",
+      "funeral customs"
+    ],
+    [
+      "careful orchestration",
+      "is a result of",
+      "elaborate tombs"
+    ],
+    [
+      "careful orchestration",
+      "is organized by",
+      "funeral procession"
+    ],
+    [
+      "careful orchestration",
+      "requires",
+      "body preservation"
+    ],
+    [
+      "careful orchestration",
+      "requires",
+      "pyramids"
+    ],
+    [
+      "clothing",
+      "accompanies",
+      "spells"
+    ],
+    [
+      "clothing",
+      "aids in",
+      "body preservation"
+    ],
+    [
+      "clothing",
+      "includes",
+      "elaborate tombs"
+    ],
+    [
+      "clothing",
+      "is included in",
+      "ancient culture"
+    ],
+    [
+      "clothing",
+      "supports",
+      "spiritual journey"
+    ],
+    [
+      "clothing",
+      "worn by",
+      "elite"
+    ],
+    [
+      "comfort items",
+      "enhances",
+      "elaborate tombs"
+    ],
+    [
+      "comfort items",
+      "ensures",
+      "safe passage"
+    ],
+    [
+      "comfort items",
+      "facilitates",
+      "spiritual journey"
+    ],
+    [
+      "comfort items",
+      "highlights",
+      "importance of honor"
+    ],
+    [
+      "comfort items",
+      "includes",
+      "jewelry"
+    ],
+    [
+      "comfort items",
+      "includes",
+      "rituals"
+    ],
+    [
+      "comfort items",
+      "is included in",
+      "common practices"
+    ],
+    [
+      "comfort items",
+      "is included in",
+      "personal belongings"
+    ],
+    [
+      "comfort items",
+      "offers",
+      "prayers"
+    ],
+    [
+      "comfort items",
+      "provided to",
+      "common people"
+    ],
+    [
+      "comfort items",
+      "provides",
+      "care"
+    ],
+    [
+      "comfort items",
+      "provides",
+      "honor"
+    ],
+    [
+      "comfort items",
+      "provides",
+      "priest expertise"
+    ],
+    [
+      "comfort items",
+      "supports",
+      "burial practices"
+    ],
+    [
+      "common people",
+      "affects",
+      "safe passage"
+    ],
+    [
+      "common people",
+      "are honored by",
+      "afterlife"
+    ],
+    [
+      "common people",
+      "buried with",
+      "items"
+    ],
+    [
+      "common people",
+      "connects to",
+      "realm of gods"
+    ],
+    [
+      "common people",
+      "demonstrates",
+      "reverence for deceased"
+    ],
+    [
+      "common people",
+      "facilitates",
+      "spiritual journey"
+    ],
+    [
+      "common people",
+      "honored by",
+      "deceased"
+    ],
+    [
+      "common people",
+      "inhabited by",
+      "ancient Egypt"
+    ],
+    [
+      "common people",
+      "involves",
+      "body preservation"
+    ],
+    [
+      "common people",
+      "is honored by",
+      "funeral procession"
+    ],
+    [
+      "common people",
+      "is practiced by",
+      "afterlife beliefs"
+    ],
+    [
+      "common people",
+      "is represented by",
+      "ancient culture"
+    ],
+    [
+      "common people",
+      "received by",
+      "possessions"
+    ],
+    [
+      "common people",
+      "receives",
+      "honor"
+    ],
+    [
+      "common practices",
+      "aids",
+      "navigation dangers"
+    ],
+    [
+      "common practices",
+      "demonstrates",
+      "reverence for deceased"
+    ],
+    [
+      "common practices",
+      "facilitates",
+      "spiritual journey"
+    ],
+    [
+      "common practices",
+      "includes",
+      "jewelry"
+    ],
+    [
+      "common practices",
+      "includes",
+      "mummification process"
+    ],
+    [
+      "common practices",
+      "includes",
+      "rituals"
+    ],
+    [
+      "common practices",
+      "influences",
+      "deceased"
+    ],
+    [
+      "common practices",
+      "informs",
+      "possessions"
+    ],
+    [
+      "common practices",
+      "involves",
+      "pyramids"
+    ],
+    [
+      "common practices",
+      "is contrasted with",
+      "elite practices"
+    ],
+    [
+      "common practices",
+      "is included in",
+      "Book of the Dead"
+    ],
+    [
+      "common practices",
+      "is reflected in",
+      "burial practices"
+    ],
+    [
+      "common practices",
+      "is supported by",
+      "family"
+    ],
+    [
+      "common practices",
+      "requires",
+      "careful orchestration"
+    ],
+    [
+      "common practices",
+      "shapes",
+      "religious texts"
+    ],
+    [
+      "deceased",
+      "accompanied by",
+      "items"
+    ],
+    [
+      "deceased",
+      "buried with",
+      "personal belongings"
+    ],
+    [
+      "deceased",
+      "demonstrates",
+      "reverence for deceased"
+    ],
+    [
+      "deceased",
+      "ensures",
+      "eternal existence"
+    ],
+    [
+      "deceased",
+      "guided by",
+      "spells"
+    ],
+    [
+      "deceased",
+      "guides",
+      "Book of the Dead"
+    ],
+    [
+      "deceased",
+      "guides",
+      "spiritual journey"
+    ],
+    [
+      "deceased",
+      "includes",
+      "afterlife items"
+    ],
+    [
+      "deceased",
+      "transitions to",
+      "afterlife"
+    ],
+    [
+      "elaborate tombs",
+      "constructed by",
+      "embalmers"
+    ],
+    [
+      "elaborate tombs",
+      "constructed by",
+      "family"
+    ],
+    [
+      "elaborate tombs",
+      "constructed by",
+      "priest expertise"
+    ],
+    [
+      "elaborate tombs",
+      "houses",
+      "deceased"
+    ],
+    [
+      "elaborate tombs",
+      "includes",
+      "burial practices"
+    ],
+    [
+      "elaborate tombs",
+      "includes",
+      "elite practices"
+    ],
+    [
+      "elaborate tombs",
+      "includes",
+      "pyramids"
+    ],
+    [
+      "elaborate tombs",
+      "is part of",
+      "mummification process"
+    ],
+    [
+      "elaborate tombs",
+      "needed for",
+      "food"
+    ],
+    [
+      "elaborate tombs",
+      "provided to",
+      "afterlife"
+    ],
+    [
+      "elaborate tombs",
+      "reflects",
+      "importance of honor"
+    ],
+    [
+      "elaborate tombs",
+      "reflects",
+      "reverence for deceased"
+    ],
+    [
+      "elaborate tombs",
+      "requires",
+      "care"
+    ],
+    [
+      "elaborate tombs",
+      "requires",
+      "care in burial"
+    ],
+    [
+      "elaborate tombs",
+      "stored in",
+      "personal belongings"
+    ],
+    [
+      "elaborate tombs",
+      "used in",
+      "tools"
+    ],
+    [
+      "elite",
+      "associated with",
+      "burial practices"
+    ],
+    [
+      "elite",
+      "associated with",
+      "comfort items"
+    ],
+    [
+      "elite",
+      "demonstrates",
+      "reverence for deceased"
+    ],
+    [
+      "elite",
+      "involves",
+      "careful orchestration"
+    ],
+    [
+      "elite",
+      "is associated with",
+      "care in burial"
+    ],
+    [
+      "elite",
+      "is distinguished from",
+      "deceased"
+    ],
+    [
+      "elite",
+      "is reserved for",
+      "elaborate tombs"
+    ],
+    [
+      "elite",
+      "performed by",
+      "mummification process"
+    ],
+    [
+      "elite practices",
+      "aids",
+      "navigation dangers"
+    ],
+    [
+      "elite practices",
+      "associated with",
+      "Book of the Dead"
+    ],
+    [
+      "elite practices",
+      "associated with",
+      "comfort items"
+    ],
+    [
+      "elite practices",
+      "comprises",
+      "clothing"
+    ],
+    [
+      "elite practices",
+      "demonstrates",
+      "honor"
+    ],
+    [
+      "elite practices",
+      "demonstrates",
+      "pyramids"
+    ],
+    [
+      "elite practices",
+      "includes",
+      "funeral customs"
+    ],
+    [
+      "elite practices",
+      "includes",
+      "items"
+    ],
+    [
+      "elite practices",
+      "includes",
+      "jewelry"
+    ],
+    [
+      "elite practices",
+      "includes",
+      "spells"
+    ],
+    [
+      "elite practices",
+      "influences",
+      "ancient culture"
+    ],
+    [
+      "elite practices",
+      "influences",
+      "safe passage"
+    ],
+    [
+      "elite practices",
+      "informs",
+      "professional mourners"
+    ],
+    [
+      "elite practices",
+      "involves",
+      "body preservation"
+    ],
+    [
+      "elite practices",
+      "involves",
+      "mummification process"
+    ],
+    [
+      "elite practices",
+      "is included in",
+      "food"
+    ],
+    [
+      "elite practices",
+      "is part of",
+      "deceased"
+    ],
+    [
+      "elite practices",
+      "provides",
+      "afterlife items"
+    ],
+    [
+      "elite practices",
+      "requires",
+      "careful orchestration"
+    ],
+    [
+      "elite practices",
+      "utilizes",
+      "embalmers"
+    ],
+    [
+      "embalmers",
+      "constructed for",
+      "pyramids"
+    ],
+    [
+      "embalmers",
+      "constructs",
+      "grand pyramids"
+    ],
+    [
+      "embalmers",
+      "constructs",
+      "tombs"
+    ],
+    [
+      "embalmers",
+      "created by",
+      "Book of the Dead"
+    ],
+    [
+      "embalmers",
+      "demonstrates",
+      "reverence for deceased"
+    ],
+    [
+      "embalmers",
+      "enables",
+      "body preservation"
+    ],
+    [
+      "embalmers",
+      "facilitates",
+      "spiritual journey"
+    ],
+    [
+      "embalmers",
+      "included in",
+      "prayers"
+    ],
+    [
+      "embalmers",
+      "includes",
+      "jewelry"
+    ],
+    [
+      "embalmers",
+      "involved in",
+      "mummification process"
+    ],
+    [
+      "embalmers",
+      "performs",
+      "rituals"
+    ],
+    [
+      "embalmers",
+      "practiced by",
+      "common practices"
+    ],
+    [
+      "embalmers",
+      "preserves",
+      "deceased"
+    ],
+    [
+      "embalmers",
+      "provided to",
+      "food"
+    ],
+    [
+      "embalmers",
+      "provides",
+      "protection"
+    ],
+    [
+      "embalmers",
+      "removes",
+      "internal organs"
+    ],
+    [
+      "embalmers",
+      "requires",
+      "careful orchestration"
+    ],
+    [
+      "embalmers",
+      "shapes",
+      "afterlife beliefs"
+    ],
+    [
+      "embalmers",
+      "used in",
+      "linen bandages"
+    ],
+    [
+      "embalmers",
+      "utilizes",
+      "spells"
+    ],
+    [
+      "embalmers",
+      "utilizes",
+      "tools"
+    ],
+    [
+      "eternal existence",
+      "ensures",
+      "elite practices"
+    ],
+    [
+      "eternal existence",
+      "facilitates",
+      "spiritual journey"
+    ],
+    [
+      "eternal existence",
+      "guides towards",
+      "Book of the Dead"
+    ],
+    [
+      "eternal existence",
+      "includes",
+      "afterlife items"
+    ],
+    [
+      "eternal existence",
+      "is a result of",
+      "reverence for deceased"
+    ],
+    [
+      "family",
+      "associated with",
+      "possessions"
+    ],
+    [
+      "family",
+      "believes in",
+      "afterlife"
+    ],
+    [
+      "family",
+      "buried with",
+      "jewelry"
+    ],
+    [
+      "family",
+      "includes",
+      "Book of the Dead"
+    ],
+    [
+      "family",
+      "includes",
+      "afterlife items"
+    ],
+    [
+      "family",
+      "includes",
+      "spells"
+    ],
+    [
+      "family",
+      "involves",
+      "burial practices"
+    ],
+    [
+      "family",
+      "involves",
+      "careful orchestration"
+    ],
+    [
+      "family",
+      "is honored by",
+      "deceased"
+    ],
+    [
+      "family",
+      "is provided by",
+      "clothing"
+    ],
+    [
+      "family",
+      "is sought by",
+      "priest expertise"
+    ],
+    [
+      "family",
+      "is supported by",
+      "professional mourners"
+    ],
+    [
+      "family",
+      "perform",
+      "honor"
+    ],
+    [
+      "family",
+      "performed by",
+      "rituals"
+    ],
+    [
+      "family",
+      "provided by",
+      "comfort items"
+    ],
+    [
+      "family",
+      "provided by",
+      "tools"
+    ],
+    [
+      "family",
+      "provides for",
+      "safe passage"
+    ],
+    [
+      "family",
+      "reflects",
+      "reverence for deceased"
+    ],
+    [
+      "family",
+      "removed by",
+      "internal organs"
+    ],
+    [
+      "family",
+      "represents",
+      "common people"
+    ],
+    [
+      "family",
+      "shapes",
+      "ancient culture"
+    ],
+    [
+      "food",
+      "accompanies",
+      "possessions"
+    ],
+    [
+      "food",
+      "demonstrates",
+      "respect"
+    ],
+    [
+      "food",
+      "ensures",
+      "safe passage"
+    ],
+    [
+      "food",
+      "included in",
+      "Book of the Dead"
+    ],
+    [
+      "food",
+      "included in",
+      "elaborate tombs"
+    ],
+    [
+      "food",
+      "included in",
+      "tombs"
+    ],
+    [
+      "food",
+      "included to",
+      "honor"
+    ],
+    [
+      "food",
+      "informs",
+      "common practices"
+    ],
+    [
+      "food",
+      "integral to",
+      "burial practices"
+    ],
+    [
+      "food",
+      "is associated with",
+      "mummification process"
+    ],
+    [
+      "food",
+      "is included with",
+      "personal belongings"
+    ],
+    [
+      "food",
+      "needed in",
+      "afterlife"
+    ],
+    [
+      "food",
+      "provided by",
+      "professional mourners"
+    ],
+    [
+      "food",
+      "provides",
+      "comfort items"
+    ],
+    [
+      "food",
+      "provides",
+      "elite"
+    ],
+    [
+      "food",
+      "provides",
+      "family"
+    ],
+    [
+      "food",
+      "provides",
+      "sustenance"
+    ],
+    [
+      "food",
+      "requires",
+      "careful orchestration"
+    ],
+    [
+      "food",
+      "supports",
+      "spiritual journey"
+    ],
+    [
+      "funeral customs",
+      "aids in",
+      "navigation dangers"
+    ],
+    [
+      "funeral customs",
+      "contains",
+      "Book of the Dead"
+    ],
+    [
+      "funeral customs",
+      "demonstrates",
+      "reverence for deceased"
+    ],
+    [
+      "funeral customs",
+      "emphasizes",
+      "importance of honor"
+    ],
+    [
+      "funeral customs",
+      "ensures",
+      "eternal existence"
+    ],
+    [
+      "funeral customs",
+      "honors",
+      "deceased"
+    ],
+    [
+      "funeral customs",
+      "includes",
+      "prayers"
+    ],
+    [
+      "funeral customs",
+      "influences",
+      "respect"
+    ],
+    [
+      "funeral customs",
+      "influences construction of",
+      "elaborate tombs"
+    ],
+    [
+      "funeral customs",
+      "involves",
+      "ancient rituals"
+    ],
+    [
+      "funeral customs",
+      "involves",
+      "body preservation"
+    ],
+    [
+      "funeral customs",
+      "involves",
+      "embalmers"
+    ],
+    [
+      "funeral customs",
+      "involves",
+      "family"
+    ],
+    [
+      "funeral customs",
+      "involves",
+      "mummification process"
+    ],
+    [
+      "funeral customs",
+      "is associated with",
+      "pharaohs"
+    ],
+    [
+      "funeral customs",
+      "is part of",
+      "spiritual journey"
+    ],
+    [
+      "funeral customs",
+      "provides",
+      "comfort items"
+    ],
+    [
+      "funeral customs",
+      "reflects",
+      "afterlife"
+    ],
+    [
+      "funeral customs",
+      "reflects",
+      "afterlife beliefs"
+    ],
+    [
+      "funeral customs",
+      "reflects",
+      "ancient culture"
+    ],
+    [
+      "funeral customs",
+      "reflects",
+      "honor"
+    ],
+    [
+      "funeral customs",
+      "requires",
+      "resources"
+    ],
+    [
+      "funeral procession",
+      "accompanies",
+      "afterlife items"
+    ],
+    [
+      "funeral procession",
+      "accompanies",
+      "elaborate tombs"
+    ],
+    [
+      "funeral procession",
+      "accompanies",
+      "items"
+    ],
+    [
+      "funeral procession",
+      "accompanies",
+      "mummification process"
+    ],
+    [
+      "funeral procession",
+      "assisted by",
+      "embalmers"
+    ],
+    [
+      "funeral procession",
+      "associated with",
+      "tombs"
+    ],
+    [
+      "funeral procession",
+      "connects to",
+      "realm of gods"
+    ],
+    [
+      "funeral procession",
+      "demonstrates",
+      "reverence for deceased"
+    ],
+    [
+      "funeral procession",
+      "features",
+      "Book of the Dead"
+    ],
+    [
+      "funeral procession",
+      "guides",
+      "afterlife"
+    ],
+    [
+      "funeral procession",
+      "includes",
+      "clothing"
+    ],
+    [
+      "funeral procession",
+      "involves",
+      "care in burial"
+    ],
+    [
+      "funeral procession",
+      "is led by",
+      "elite"
+    ],
+    [
+      "funeral procession",
+      "needed for",
+      "food"
+    ],
+    [
+      "funeral procession",
+      "requires",
+      "priest expertise"
+    ],
+    [
+      "grand pyramids",
+      "associated with",
+      "food"
+    ],
+    [
+      "grand pyramids",
+      "buried in",
+      "deceased"
+    ],
+    [
+      "grand pyramids",
+      "constructed for",
+      "professional mourners"
+    ],
+    [
+      "grand pyramids",
+      "constructed for",
+      "religious texts"
+    ],
+    [
+      "grand pyramids",
+      "facilitates",
+      "body preservation"
+    ],
+    [
+      "grand pyramids",
+      "influences",
+      "funeral customs"
+    ],
+    [
+      "grand pyramids",
+      "is facilitated by",
+      "safe passage"
+    ],
+    [
+      "grand pyramids",
+      "is reflected in",
+      "common practices"
+    ],
+    [
+      "grand pyramids",
+      "led by",
+      "funeral procession"
+    ],
+    [
+      "grand pyramids",
+      "reflects",
+      "afterlife beliefs"
+    ],
+    [
+      "grand pyramids",
+      "reflects",
+      "reverence for deceased"
+    ],
+    [
+      "grand pyramids",
+      "represents",
+      "honor"
+    ],
+    [
+      "honor",
+      "demonstrates",
+      "reverence for deceased"
+    ],
+    [
+      "honor",
+      "ensures",
+      "body preservation"
+    ],
+    [
+      "honor",
+      "honored by",
+      "food"
+    ],
+    [
+      "honor",
+      "honors",
+      "Book of the Dead"
+    ],
+    [
+      "honor",
+      "is essential for",
+      "realm of gods"
+    ],
+    [
+      "honor",
+      "receives",
+      "deceased"
+    ],
+    [
+      "honor",
+      "reflected in",
+      "elaborate tombs"
+    ],
+    [
+      "honor",
+      "reflects",
+      "common practices"
+    ],
+    [
+      "honor",
+      "requires",
+      "careful orchestration"
+    ],
+    [
+      "honor",
+      "requires",
+      "embalmers"
+    ],
+    [
+      "importance of honor",
+      "benefits",
+      "elite"
+    ],
+    [
+      "importance of honor",
+      "influences",
+      "elite practices"
+    ],
+    [
+      "importance of honor",
+      "is a factor in",
+      "care"
+    ],
+    [
+      "importance of honor",
+      "is valued by",
+      "professional mourners"
+    ],
+    [
+      "importance of honor",
+      "reflects",
+      "afterlife beliefs"
+    ],
+    [
+      "importance of honor",
+      "reflects",
+      "pyramids"
+    ],
+    [
+      "internal organs",
+      "accompanied by",
+      "items"
+    ],
+    [
+      "internal organs",
+      "accompanies",
+      "afterlife items"
+    ],
+    [
+      "internal organs",
+      "contains",
+      "tombs"
+    ],
+    [
+      "internal organs",
+      "involves",
+      "ancient culture"
+    ],
+    [
+      "internal organs",
+      "involves",
+      "burial practices"
+    ],
+    [
+      "internal organs",
+      "involves",
+      "priest expertise"
+    ],
+    [
+      "internal organs",
+      "is associated with",
+      "comfort items"
+    ],
+    [
+      "internal organs",
+      "is associated with",
+      "elite"
+    ],
+    [
+      "items",
+      "includes",
+      "afterlife"
+    ],
+    [
+      "items",
+      "includes",
+      "amulets"
+    ],
+    [
+      "items",
+      "is part of",
+      "ancient culture"
+    ],
+    [
+      "items",
+      "provides",
+      "sustenance"
+    ],
+    [
+      "items",
+      "wrapped in",
+      "linen bandages"
+    ],
+    [
+      "jewelry",
+      "associated with",
+      "possessions"
+    ],
+    [
+      "jewelry",
+      "demonstrates",
+      "reverence for deceased"
+    ],
+    [
+      "jewelry",
+      "included by",
+      "family"
+    ],
+    [
+      "jewelry",
+      "includes",
+      "afterlife items"
+    ],
+    [
+      "jewelry",
+      "includes",
+      "tombs"
+    ],
+    [
+      "jewelry",
+      "is utilized by",
+      "priest expertise"
+    ],
+    [
+      "jewelry",
+      "supports",
+      "spiritual journey"
+    ],
+    [
+      "linen bandages",
+      "assists",
+      "navigation dangers"
+    ],
+    [
+      "linen bandages",
+      "is part of",
+      "burial practices"
+    ],
+    [
+      "linen bandages",
+      "is part of",
+      "common practices"
+    ],
+    [
+      "linen bandages",
+      "performed during",
+      "rituals"
+    ],
+    [
+      "linen bandages",
+      "preserves",
+      "internal organs"
+    ],
+    [
+      "linen bandages",
+      "supports",
+      "spiritual journey"
+    ],
+    [
+      "linen bandages",
+      "utilized in",
+      "priest expertise"
+    ],
+    [
+      "linen bandages",
+      "utilizes",
+      "funeral customs"
+    ],
+    [
+      "linen bandages",
+      "wraps",
+      "possessions"
+    ],
+    [
+      "monumental structures",
+      "constructed as",
+      "pyramids"
+    ],
+    [
+      "monumental structures",
+      "constructed by",
+      "family"
+    ],
+    [
+      "monumental structures",
+      "constructed for",
+      "deceased"
+    ],
+    [
+      "monumental structures",
+      "constructed for",
+      "pharaohs"
+    ],
+    [
+      "monumental structures",
+      "held in",
+      "funeral procession"
+    ],
+    [
+      "monumental structures",
+      "houses",
+      "possessions"
+    ],
+    [
+      "monumental structures",
+      "informs",
+      "burial practices"
+    ],
+    [
+      "monumental structures",
+      "informs",
+      "elite practices"
+    ],
+    [
+      "monumental structures",
+      "inspired by",
+      "care in burial"
+    ],
+    [
+      "monumental structures",
+      "is a type of",
+      "grand pyramids"
+    ],
+    [
+      "monumental structures",
+      "is represented by",
+      "afterlife"
+    ],
+    [
+      "monumental structures",
+      "reflects",
+      "afterlife beliefs"
+    ],
+    [
+      "monumental structures",
+      "serves",
+      "elite"
+    ],
+    [
+      "monumental structures",
+      "supports",
+      "religious texts"
+    ],
+    [
+      "mummification process",
+      "associated with",
+      "Book of the Dead"
+    ],
+    [
+      "mummification process",
+      "associated with",
+      "tombs"
+    ],
+    [
+      "mummification process",
+      "connects to",
+      "realm of gods"
+    ],
+    [
+      "mummification process",
+      "ensures",
+      "body preservation"
+    ],
+    [
+      "mummification process",
+      "facilitates",
+      "importance of honor"
+    ],
+    [
+      "mummification process",
+      "facilitates",
+      "spiritual journey"
+    ],
+    [
+      "mummification process",
+      "involved in",
+      "family"
+    ],
+    [
+      "mummification process",
+      "involves",
+      "care"
+    ],
+    [
+      "mummification process",
+      "involves",
+      "comfort items"
+    ],
+    [
+      "mummification process",
+      "involves",
+      "common people"
+    ],
+    [
+      "mummification process",
+      "involves",
+      "internal organs"
+    ],
+    [
+      "mummification process",
+      "involves",
+      "linen bandages"
+    ],
+    [
+      "mummification process",
+      "is part of",
+      "spells"
+    ],
+    [
+      "mummification process",
+      "is performed on",
+      "deceased"
+    ],
+    [
+      "mummification process",
+      "performed by",
+      "embalmers"
+    ],
+    [
+      "mummification process",
+      "requires",
+      "careful orchestration"
+    ],
+    [
+      "mummification process",
+      "requires",
+      "honor"
+    ],
+    [
+      "navigation dangers",
+      "aids",
+      "respect"
+    ],
+    [
+      "navigation dangers",
+      "aids in",
+      "personal belongings"
+    ],
+    [
+      "navigation dangers",
+      "assists in",
+      "jewelry"
+    ],
+    [
+      "navigation dangers",
+      "associated with",
+      "tombs"
+    ],
+    [
+      "navigation dangers",
+      "faces",
+      "common people"
+    ],
+    [
+      "navigation dangers",
+      "faces",
+      "pharaohs"
+    ],
+    [
+      "navigation dangers",
+      "guides",
+      "realm of gods"
+    ],
+    [
+      "navigation dangers",
+      "presents challenges for",
+      "mummification process"
+    ],
+    [
+      "personal belongings",
+      "buried by",
+      "common people"
+    ],
+    [
+      "personal belongings",
+      "buried with",
+      "pharaohs"
+    ],
+    [
+      "personal belongings",
+      "demonstrates",
+      "honor"
+    ],
+    [
+      "personal belongings",
+      "demonstrates",
+      "importance of honor"
+    ],
+    [
+      "personal belongings",
+      "ensures",
+      "eternal existence"
+    ],
+    [
+      "personal belongings",
+      "ensures",
+      "safe passage"
+    ],
+    [
+      "personal belongings",
+      "facilitates",
+      "spiritual journey"
+    ],
+    [
+      "personal belongings",
+      "includes",
+      "afterlife items"
+    ],
+    [
+      "personal belongings",
+      "includes",
+      "items"
+    ],
+    [
+      "personal belongings",
+      "includes",
+      "possessions"
+    ],
+    [
+      "personal belongings",
+      "informs",
+      "burial practices"
+    ],
+    [
+      "personal belongings",
+      "informs",
+      "common practices"
+    ],
+    [
+      "personal belongings",
+      "involves",
+      "ancient rituals"
+    ],
+    [
+      "personal belongings",
+      "involves",
+      "rituals"
+    ],
+    [
+      "personal belongings",
+      "is involved in",
+      "mummification process"
+    ],
+    [
+      "personal belongings",
+      "is utilized by",
+      "grand pyramids"
+    ],
+    [
+      "personal belongings",
+      "provides",
+      "family"
+    ],
+    [
+      "personal belongings",
+      "provides",
+      "sustenance"
+    ],
+    [
+      "personal belongings",
+      "reflects",
+      "reverence for deceased"
+    ],
+    [
+      "pharaohs",
+      "adorns",
+      "jewelry"
+    ],
+    [
+      "pharaohs",
+      "associated with",
+      "Book of the Dead"
+    ],
+    [
+      "pharaohs",
+      "associated with",
+      "tools"
+    ],
+    [
+      "pharaohs",
+      "belonged to",
+      "possessions"
+    ],
+    [
+      "pharaohs",
+      "buried in",
+      "elaborate tombs"
+    ],
+    [
+      "pharaohs",
+      "buried with",
+      "clothing"
+    ],
+    [
+      "pharaohs",
+      "buried with",
+      "items"
+    ],
+    [
+      "pharaohs",
+      "constructed for",
+      "pyramids"
+    ],
+    [
+      "pharaohs",
+      "constructed for",
+      "tombs"
+    ],
+    [
+      "pharaohs",
+      "ensures",
+      "body preservation"
+    ],
+    [
+      "pharaohs",
+      "facilitates",
+      "care in burial"
+    ],
+    [
+      "pharaohs",
+      "honors",
+      "funeral procession"
+    ],
+    [
+      "pharaohs",
+      "includes",
+      "afterlife items"
+    ],
+    [
+      "pharaohs",
+      "influences",
+      "burial practices"
+    ],
+    [
+      "pharaohs",
+      "informs",
+      "common practices"
+    ],
+    [
+      "pharaohs",
+      "involves",
+      "mummification process"
+    ],
+    [
+      "pharaohs",
+      "is associated with",
+      "comfort items"
+    ],
+    [
+      "pharaohs",
+      "provides",
+      "protection"
+    ],
+    [
+      "pharaohs",
+      "receives",
+      "reverence for deceased"
+    ],
+    [
+      "pharaohs",
+      "requires",
+      "careful orchestration"
+    ],
+    [
+      "pharaohs",
+      "serves the needs of",
+      "priest expertise"
+    ],
+    [
+      "possessions",
+      "buried by",
+      "common people"
+    ],
+    [
+      "possessions",
+      "ensures",
+      "safe passage"
+    ],
+    [
+      "possessions",
+      "houses",
+      "elaborate tombs"
+    ],
+    [
+      "possessions",
+      "includes",
+      "afterlife items"
+    ],
+    [
+      "possessions",
+      "includes",
+      "prayers"
+    ],
+    [
+      "possessions",
+      "influences",
+      "burial practices"
+    ],
+    [
+      "possessions",
+      "provides",
+      "sustenance"
+    ],
+    [
+      "possessions",
+      "reflects",
+      "afterlife beliefs"
+    ],
+    [
+      "prayers",
+      "accompany",
+      "items"
+    ],
+    [
+      "prayers",
+      "aids",
+      "body preservation"
+    ],
+    [
+      "prayers",
+      "associated with",
+      "family"
+    ],
+    [
+      "prayers",
+      "demonstrates",
+      "honor"
+    ],
+    [
+      "prayers",
+      "demonstrates",
+      "importance of honor"
+    ],
+    [
+      "prayers",
+      "ensures",
+      "safe passage"
+    ],
+    [
+      "prayers",
+      "guides",
+      "afterlife"
+    ],
+    [
+      "prayers",
+      "guides",
+      "burial practices"
+    ],
+    [
+      "prayers",
+      "guides",
+      "realm of gods"
+    ],
+    [
+      "prayers",
+      "included in",
+      "Book of the Dead"
+    ],
+    [
+      "prayers",
+      "informs",
+      "afterlife beliefs"
+    ],
+    [
+      "prayers",
+      "is offered by",
+      "deceased"
+    ],
+    [
+      "prayers",
+      "is provided by",
+      "care"
+    ],
+    [
+      "prayers",
+      "often included with",
+      "jewelry"
+    ],
+    [
+      "prayers",
+      "provides",
+      "protection"
+    ],
+    [
+      "prayers",
+      "reflects",
+      "common practices"
+    ],
+    [
+      "priest expertise",
+      "aids",
+      "navigation dangers"
+    ],
+    [
+      "priest expertise",
+      "contributes to",
+      "rituals"
+    ],
+    [
+      "priest expertise",
+      "contributes to",
+      "tombs"
+    ],
+    [
+      "priest expertise",
+      "demonstrates",
+      "honor"
+    ],
+    [
+      "priest expertise",
+      "demonstrates",
+      "reverence for deceased"
+    ],
+    [
+      "priest expertise",
+      "ensures",
+      "eternal existence"
+    ],
+    [
+      "priest expertise",
+      "ensures",
+      "safe passage"
+    ],
+    [
+      "priest expertise",
+      "facilitates",
+      "spiritual journey"
+    ],
+    [
+      "priest expertise",
+      "guides",
+      "deceased"
+    ],
+    [
+      "priest expertise",
+      "informs",
+      "afterlife beliefs"
+    ],
+    [
+      "priest expertise",
+      "informs",
+      "ancient rituals"
+    ],
+    [
+      "priest expertise",
+      "involves",
+      "burial practices"
+    ],
+    [
+      "priest expertise",
+      "involves",
+      "elite practices"
+    ],
+    [
+      "priest expertise",
+      "involves",
+      "mummification process"
+    ],
+    [
+      "priest expertise",
+      "involves",
+      "possessions"
+    ],
+    [
+      "priest expertise",
+      "is provided by",
+      "food"
+    ],
+    [
+      "priest expertise",
+      "provides",
+      "protection"
+    ],
+    [
+      "priest expertise",
+      "requires",
+      "grand pyramids"
+    ],
+    [
+      "priest expertise",
+      "serves",
+      "elite"
+    ],
+    [
+      "priest expertise",
+      "utilizes",
+      "Book of the Dead"
+    ],
+    [
+      "priest expertise",
+      "utilizes",
+      "ancient Egypt"
+    ],
+    [
+      "professional mourners",
+      "accompanies",
+      "Book of the Dead"
+    ],
+    [
+      "professional mourners",
+      "accompanies",
+      "items"
+    ],
+    [
+      "professional mourners",
+      "aids",
+      "navigation dangers"
+    ],
+    [
+      "professional mourners",
+      "associated with",
+      "elaborate tombs"
+    ],
+    [
+      "professional mourners",
+      "buried with",
+      "possessions"
+    ],
+    [
+      "professional mourners",
+      "conducts",
+      "rituals"
+    ],
+    [
+      "professional mourners",
+      "constructed for",
+      "pyramids"
+    ],
+    [
+      "professional mourners",
+      "ensures",
+      "careful orchestration"
+    ],
+    [
+      "professional mourners",
+      "ensures",
+      "deceased"
+    ],
+    [
+      "professional mourners",
+      "ensures",
+      "protection"
+    ],
+    [
+      "professional mourners",
+      "facilitates",
+      "mummification process"
+    ],
+    [
+      "professional mourners",
+      "facilitates",
+      "spiritual journey"
+    ],
+    [
+      "professional mourners",
+      "honored by",
+      "common people"
+    ],
+    [
+      "professional mourners",
+      "influences",
+      "burial practices"
+    ],
+    [
+      "professional mourners",
+      "informs",
+      "ancient rituals"
+    ],
+    [
+      "professional mourners",
+      "is a duty of",
+      "honor"
+    ],
+    [
+      "professional mourners",
+      "is associated with",
+      "common practices"
+    ],
+    [
+      "professional mourners",
+      "leads",
+      "funeral procession"
+    ],
+    [
+      "professional mourners",
+      "provides",
+      "afterlife items"
+    ],
+    [
+      "professional mourners",
+      "provides",
+      "care in burial"
+    ],
+    [
+      "professional mourners",
+      "provides",
+      "comfort items"
+    ],
+    [
+      "professional mourners",
+      "reflects",
+      "afterlife beliefs"
+    ],
+    [
+      "professional mourners",
+      "represents",
+      "ancient culture"
+    ],
+    [
+      "professional mourners",
+      "shapes",
+      "funeral customs"
+    ],
+    [
+      "professional mourners",
+      "supports",
+      "eternal existence"
+    ],
+    [
+      "protection",
+      "ensures",
+      "burial practices"
+    ],
+    [
+      "protection",
+      "ensures",
+      "common people"
+    ],
+    [
+      "protection",
+      "ensures",
+      "elaborate tombs"
+    ],
+    [
+      "protection",
+      "ensures",
+      "respect"
+    ],
+    [
+      "protection",
+      "facilitates",
+      "safe passage"
+    ],
+    [
+      "protection",
+      "includes",
+      "afterlife items"
+    ],
+    [
+      "protection",
+      "is a form of",
+      "honor"
+    ],
+    [
+      "protection",
+      "offers",
+      "tombs"
+    ],
+    [
+      "protection",
+      "offers security for",
+      "pyramids"
+    ],
+    [
+      "protection",
+      "provides",
+      "amulets"
+    ],
+    [
+      "protection",
+      "provides",
+      "clothing"
+    ],
+    [
+      "protection",
+      "provides",
+      "funeral procession"
+    ],
+    [
+      "protection",
+      "provides",
+      "grand pyramids"
+    ],
+    [
+      "protection",
+      "provides",
+      "items"
+    ],
+    [
+      "protection",
+      "provides",
+      "spells"
+    ],
+    [
+      "protection",
+      "provides protection for",
+      "internal organs"
+    ],
+    [
+      "protection",
+      "used for",
+      "linen bandages"
+    ],
+    [
+      "pyramids",
+      "associated with",
+      "navigation dangers"
+    ],
+    [
+      "pyramids",
+      "housed in",
+      "personal belongings"
+    ],
+    [
+      "pyramids",
+      "included in",
+      "Book of the Dead"
+    ],
+    [
+      "pyramids",
+      "included in",
+      "prayers"
+    ],
+    [
+      "pyramids",
+      "inspired by",
+      "afterlife beliefs"
+    ],
+    [
+      "pyramids",
+      "is built for",
+      "items"
+    ],
+    [
+      "pyramids",
+      "is represented by",
+      "realm of gods"
+    ],
+    [
+      "pyramids",
+      "serves as a gateway to",
+      "afterlife"
+    ],
+    [
+      "pyramids",
+      "stored in",
+      "jewelry"
+    ],
+    [
+      "pyramids",
+      "supports",
+      "body preservation"
+    ],
+    [
+      "pyramids",
+      "symbolizes",
+      "reverence for deceased"
+    ],
+    [
+      "realm of gods",
+      "associated with",
+      "ancient culture"
+    ],
+    [
+      "realm of gods",
+      "associated with",
+      "jewelry"
+    ],
+    [
+      "realm of gods",
+      "associated with",
+      "tools"
+    ],
+    [
+      "realm of gods",
+      "connects",
+      "clothing"
+    ],
+    [
+      "realm of gods",
+      "connects",
+      "comfort items"
+    ],
+    [
+      "realm of gods",
+      "connects to",
+      "possessions"
+    ],
+    [
+      "realm of gods",
+      "exists in",
+      "deceased"
+    ],
+    [
+      "realm of gods",
+      "is connected to",
+      "ancient rituals"
+    ],
+    [
+      "realm of gods",
+      "is essential for",
+      "body preservation"
+    ],
+    [
+      "realm of gods",
+      "is sought by",
+      "resources"
+    ],
+    [
+      "realm of gods",
+      "provides sustenance for",
+      "items"
+    ],
+    [
+      "realm of gods",
+      "serves as a gateway to",
+      "monumental structures"
+    ],
+    [
+      "religious texts",
+      "accompanies",
+      "items"
+    ],
+    [
+      "religious texts",
+      "accompanies",
+      "possessions"
+    ],
+    [
+      "religious texts",
+      "aids",
+      "body preservation"
+    ],
+    [
+      "religious texts",
+      "associated with",
+      "clothing"
+    ],
+    [
+      "religious texts",
+      "constructed for",
+      "pyramids"
+    ],
+    [
+      "religious texts",
+      "contains",
+      "spells"
+    ],
+    [
+      "religious texts",
+      "demonstrates",
+      "respect"
+    ],
+    [
+      "religious texts",
+      "embodies",
+      "reverence for deceased"
+    ],
+    [
+      "religious texts",
+      "ensures",
+      "safe passage"
+    ],
+    [
+      "religious texts",
+      "guides",
+      "ancient rituals"
+    ],
+    [
+      "religious texts",
+      "guides",
+      "deceased"
+    ],
+    [
+      "religious texts",
+      "guides",
+      "embalmers"
+    ],
+    [
+      "religious texts",
+      "guides",
+      "navigation dangers"
+    ],
+    [
+      "religious texts",
+      "guides",
+      "realm of gods"
+    ],
+    [
+      "religious texts",
+      "guides",
+      "spiritual journey"
+    ],
+    [
+      "religious texts",
+      "guides to",
+      "afterlife"
+    ],
+    [
+      "religious texts",
+      "includes",
+      "afterlife items"
+    ],
+    [
+      "religious texts",
+      "includes",
+      "amulets"
+    ],
+    [
+      "religious texts",
+      "includes",
+      "food"
+    ],
+    [
+      "religious texts",
+      "informs",
+      "burial practices"
+    ],
+    [
+      "religious texts",
+      "involves",
+      "internal organs"
+    ],
+    [
+      "religious texts",
+      "is represented by",
+      "Book of the Dead"
+    ],
+    [
+      "religious texts",
+      "reinforces",
+      "importance of honor"
+    ],
+    [
+      "religious texts",
+      "serves",
+      "honor"
+    ],
+    [
+      "religious texts",
+      "shapes",
+      "funeral customs"
+    ],
+    [
+      "resources",
+      "constructed for",
+      "pyramids"
+    ],
+    [
+      "resources",
+      "is provided by",
+      "protection"
+    ],
+    [
+      "resources",
+      "is utilized by",
+      "religious texts"
+    ],
+    [
+      "resources",
+      "limits",
+      "common practices"
+    ],
+    [
+      "resources",
+      "needed for",
+      "funeral procession"
+    ],
+    [
+      "resources",
+      "required for",
+      "elaborate tombs"
+    ],
+    [
+      "resources",
+      "required for",
+      "grand pyramids"
+    ],
+    [
+      "resources",
+      "requires",
+      "afterlife"
+    ],
+    [
+      "resources",
+      "requires",
+      "afterlife beliefs"
+    ],
+    [
+      "resources",
+      "requires",
+      "honor"
+    ],
+    [
+      "respect",
+      "demonstrates",
+      "care in burial"
+    ],
+    [
+      "respect",
+      "ensures",
+      "eternal existence"
+    ],
+    [
+      "respect",
+      "facilitates",
+      "spiritual journey"
+    ],
+    [
+      "respect",
+      "honored by",
+      "Book of the Dead"
+    ],
+    [
+      "respect",
+      "informs",
+      "afterlife beliefs"
+    ],
+    [
+      "respect",
+      "involves",
+      "mummification process"
+    ],
+    [
+      "respect",
+      "is shown by",
+      "elaborate tombs"
+    ],
+    [
+      "respect",
+      "provides",
+      "comfort items"
+    ],
+    [
+      "respect",
+      "reveres",
+      "pharaohs"
+    ],
+    [
+      "respect",
+      "shown by",
+      "elite"
+    ],
+    [
+      "reverence for deceased",
+      "demonstrates",
+      "careful orchestration"
+    ],
+    [
+      "reverence for deceased",
+      "demonstrates",
+      "food"
+    ],
+    [
+      "reverence for deceased",
+      "inspired by",
+      "afterlife"
+    ],
+    [
+      "reverence for deceased",
+      "inspired by",
+      "afterlife beliefs"
+    ],
+    [
+      "rituals",
+      "accompanied by",
+      "jewelry"
+    ],
+    [
+      "rituals",
+      "connects to",
+      "realm of gods"
+    ],
+    [
+      "rituals",
+      "demonstrates",
+      "reverence for deceased"
+    ],
+    [
+      "rituals",
+      "facilitates",
+      "spiritual journey"
+    ],
+    [
+      "rituals",
+      "guides",
+      "Book of the Dead"
+    ],
+    [
+      "rituals",
+      "includes",
+      "afterlife items"
+    ],
+    [
+      "rituals",
+      "influences",
+      "afterlife"
+    ],
+    [
+      "rituals",
+      "informs",
+      "monumental structures"
+    ],
+    [
+      "rituals",
+      "involves",
+      "burial practices"
+    ],
+    [
+      "rituals",
+      "involves",
+      "internal organs"
+    ],
+    [
+      "rituals",
+      "reflects",
+      "afterlife beliefs"
+    ],
+    [
+      "safe passage",
+      "contributes to",
+      "professional mourners"
+    ],
+    [
+      "safe passage",
+      "ensured by",
+      "linen bandages"
+    ],
+    [
+      "safe passage",
+      "ensured by",
+      "pyramids"
+    ],
+    [
+      "safe passage",
+      "ensures",
+      "amulets"
+    ],
+    [
+      "safe passage",
+      "ensures",
+      "pharaohs"
+    ],
+    [
+      "safe passage",
+      "ensures",
+      "spells"
+    ],
+    [
+      "safe passage",
+      "facilitated by",
+      "Book of the Dead"
+    ],
+    [
+      "safe passage",
+      "facilitates",
+      "elaborate tombs"
+    ],
+    [
+      "safe passage",
+      "needed for",
+      "food"
+    ],
+    [
+      "safe passage",
+      "presents",
+      "navigation dangers"
+    ],
+    [
+      "safe passage",
+      "provides",
+      "afterlife items"
+    ],
+    [
+      "safe passage",
+      "supports",
+      "afterlife beliefs"
+    ],
+    [
+      "spells",
+      "accompanied by",
+      "amulets"
+    ],
+    [
+      "spells",
+      "accompanies",
+      "items"
+    ],
+    [
+      "spells",
+      "aids in",
+      "navigation dangers"
+    ],
+    [
+      "spells",
+      "composed of",
+      "Book of the Dead"
+    ],
+    [
+      "spells",
+      "guides to",
+      "realm of gods"
+    ],
+    [
+      "spells",
+      "includes",
+      "afterlife items"
+    ],
+    [
+      "spells",
+      "includes",
+      "comfort items"
+    ],
+    [
+      "spells",
+      "informs",
+      "burial practices"
+    ],
+    [
+      "spells",
+      "is used in",
+      "embalmers"
+    ],
+    [
+      "spells",
+      "performed during",
+      "rituals"
+    ],
+    [
+      "spells",
+      "reflects",
+      "reverence for deceased"
+    ],
+    [
+      "spells",
+      "supports",
+      "body preservation"
+    ],
+    [
+      "spells",
+      "used by",
+      "common people"
+    ],
+    [
+      "spiritual journey",
+      "demonstrates",
+      "reverence for deceased"
+    ],
+    [
+      "spiritual journey",
+      "is undertaken by",
+      "elite"
+    ],
+    [
+      "spiritual journey",
+      "requires",
+      "body preservation"
+    ],
+    [
+      "spiritual journey",
+      "supports",
+      "protection"
+    ],
+    [
+      "sustenance",
+      "needed by",
+      "personal belongings"
+    ],
+    [
+      "sustenance",
+      "needed by",
+      "tools"
+    ],
+    [
+      "sustenance",
+      "provides",
+      "Book of the Dead"
+    ],
+    [
+      "sustenance",
+      "provides",
+      "realm of gods"
+    ],
+    [
+      "sustenance",
+      "supports",
+      "spiritual journey"
+    ],
+    [
+      "tombs",
+      "associated with",
+      "professional mourners"
+    ],
+    [
+      "tombs",
+      "buried in",
+      "deceased"
+    ],
+    [
+      "tombs",
+      "constructed as",
+      "grand pyramids"
+    ],
+    [
+      "tombs",
+      "ensures",
+      "body preservation"
+    ],
+    [
+      "tombs",
+      "facilitates",
+      "spiritual journey"
+    ],
+    [
+      "tombs",
+      "found in",
+      "spells"
+    ],
+    [
+      "tombs",
+      "housed in",
+      "pharaohs"
+    ],
+    [
+      "tombs",
+      "housed in",
+      "possessions"
+    ],
+    [
+      "tombs",
+      "houses",
+      "comfort items"
+    ],
+    [
+      "tombs",
+      "includes",
+      "pyramids"
+    ],
+    [
+      "tombs",
+      "influences",
+      "common practices"
+    ],
+    [
+      "tombs",
+      "is associated with",
+      "afterlife"
+    ],
+    [
+      "tombs",
+      "is stored in",
+      "personal belongings"
+    ],
+    [
+      "tombs",
+      "reflects",
+      "honor"
+    ],
+    [
+      "tombs",
+      "stored in",
+      "afterlife items"
+    ],
+    [
+      "tombs",
+      "stored in",
+      "linen bandages"
+    ],
+    [
+      "tools",
+      "aids",
+      "body preservation"
+    ],
+    [
+      "tools",
+      "compares to",
+      "grand pyramids"
+    ],
+    [
+      "tools",
+      "demonstrates",
+      "reverence for deceased"
+    ],
+    [
+      "tools",
+      "ensures",
+      "safe passage"
+    ],
+    [
+      "tools",
+      "includes",
+      "afterlife items"
+    ],
+    [
+      "tools",
+      "includes",
+      "items"
+    ],
+    [
+      "tools",
+      "integrates",
+      "burial practices"
+    ],
+    [
+      "tools",
+      "involves",
+      "rituals"
+    ],
+    [
+      "tools",
+      "is included with",
+      "possessions"
+    ],
+    [
+      "tools",
+      "is placed in",
+      "tombs"
+    ],
+    [
+      "tools",
+      "is used by",
+      "common people"
+    ],
+    [
+      "tools",
+      "provides",
+      "sustenance"
+    ],
+    [
+      "tools",
+      "reflects",
+      "common practices"
+    ],
+    [
+      "tools",
+      "used for",
+      "funeral procession"
+    ],
+    [
+      "tools",
+      "used in",
+      "pyramids"
+    ],
+    [
+      "tools",
+      "used to",
+      "honor"
+    ]
+  ],
+  "edges": [
+    "accompanied by",
+    "accompanies",
+    "accompany",
+    "addresses",
+    "adorns",
+    "affects",
+    "aids",
+    "aids in",
+    "are honored by",
+    "assisted by",
+    "assists",
+    "assists in",
+    "associated with",
+    "believes in",
+    "belonged to",
+    "benefits",
+    "benefits from",
+    "buried by",
+    "buried in",
+    "buried with",
+    "compares to",
+    "composed of",
+    "comprises",
+    "conducts",
+    "connects",
+    "connects to",
+    "constructed as",
+    "constructed by",
+    "constructed for",
+    "constructs",
+    "contains",
+    "contributes to",
+    "created by",
+    "demonstrates",
+    "embodies",
+    "emphasizes",
+    "enables",
+    "enhances",
+    "ensured by",
+    "ensures",
+    "exists in",
+    "faces",
+    "facilitated by",
+    "facilitates",
+    "features",
+    "found in",
+    "guided by",
+    "guides",
+    "guides to",
+    "guides towards",
+    "held in",
+    "highlights",
+    "honored by",
+    "honors",
+    "housed in",
+    "houses",
+    "included by",
+    "included in",
+    "included to",
+    "includes",
+    "influences",
+    "influences construction of",
+    "informed by",
+    "informs",
+    "inhabited by",
+    "inspired by",
+    "integral to",
+    "integrates",
+    "involved in",
+    "involves",
+    "is a component of",
+    "is a duty of",
+    "is a factor in",
+    "is a form of",
+    "is a result of",
+    "is a type of",
+    "is associated with",
+    "is built for",
+    "is connected to",
+    "is contrasted with",
+    "is defined by",
+    "is destination for",
+    "is distinguished from",
+    "is ensured by",
+    "is essential for",
+    "is facilitated by",
+    "is honored by",
+    "is included in",
+    "is included with",
+    "is influenced by",
+    "is involved in",
+    "is led by",
+    "is necessary for",
+    "is offered by",
+    "is organized by",
+    "is part of",
+    "is performed on",
+    "is placed in",
+    "is practiced by",
+    "is provided by",
+    "is referenced in",
+    "is reflected in",
+    "is related to",
+    "is represented by",
+    "is reserved for",
+    "is shown by",
+    "is sought by",
+    "is stored in",
+    "is supported by",
+    "is undertaken by",
+    "is used by",
+    "is used in",
+    "is utilized by",
+    "is valued by",
+    "leads",
+    "led by",
+    "limits",
+    "needed by",
+    "needed for",
+    "needed in",
+    "offers",
+    "offers security for",
+    "often included with",
+    "perform",
+    "performed by",
+    "performed during",
+    "performed in",
+    "performs",
+    "practiced by",
+    "practices",
+    "presents",
+    "presents challenges for",
+    "preserves",
+    "produces",
+    "provided by",
+    "provided to",
+    "provides",
+    "provides for",
+    "provides protection for",
+    "provides sustenance for",
+    "received by",
+    "receives",
+    "reflected in",
+    "reflects",
+    "reinforces",
+    "removed by",
+    "removes",
+    "represents",
+    "required for",
+    "requires",
+    "reveres",
+    "serves",
+    "serves as a gateway to",
+    "serves the needs of",
+    "shapes",
+    "shown by",
+    "stored in",
+    "supports",
+    "symbolizes",
+    "transitions to",
+    "used by",
+    "used for",
+    "used in",
+    "used to",
+    "utilized in",
+    "utilizes",
+    "worn by",
+    "wrapped in",
+    "wraps"
+  ]
+}

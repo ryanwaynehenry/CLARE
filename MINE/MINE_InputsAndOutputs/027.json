@@ -1,0 +1,2928 @@
+{
+  "entities": [
+    "Alan Sokal",
+    "Cardiff Giant",
+    "Han van Meegeren",
+    "Piltdown Man",
+    "Social Text",
+    "Sokal Affair",
+    "War of the Worlds",
+    "academic rigor",
+    "archaeology",
+    "art forgeries",
+    "artistic deception",
+    "authenticity",
+    "confusion",
+    "critical analysis",
+    "critical thinking",
+    "cultural critique",
+    "debate",
+    "deception",
+    "evolutionary theory",
+    "experts",
+    "exposure",
+    "fake news",
+    "fiction",
+    "forgery",
+    "historical narratives",
+    "history",
+    "hoax analysis",
+    "hoaxes",
+    "impact on society",
+    "intellectual discourse",
+    "manipulation",
+    "mass hysteria",
+    "mass media",
+    "misinformation",
+    "misleading",
+    "mythologies",
+    "panic",
+    "postmodernism",
+    "profit",
+    "public fascination",
+    "public imagination",
+    "public perception",
+    "scientific community",
+    "scientific rigor",
+    "sculpture",
+    "skepticism",
+    "transformative hermeneutics",
+    "transformative narratives",
+    "truth",
+    "validity",
+    "vigilance"
+  ],
+  "relations": [
+    [
+      "Cardiff Giant",
+      "compares to",
+      "Alan Sokal"
+    ],
+    [
+      "Han van Meegeren",
+      "affects",
+      "impact on society"
+    ],
+    [
+      "Han van Meegeren",
+      "created by",
+      "forgery"
+    ],
+    [
+      "Han van Meegeren",
+      "elicits",
+      "skepticism"
+    ],
+    [
+      "Han van Meegeren",
+      "is an example of",
+      "artistic deception"
+    ],
+    [
+      "Han van Meegeren",
+      "is associated with",
+      "Cardiff Giant"
+    ],
+    [
+      "Han van Meegeren",
+      "misled",
+      "misleading"
+    ],
+    [
+      "Han van Meegeren",
+      "questions",
+      "scientific community"
+    ],
+    [
+      "Han van Meegeren",
+      "questions",
+      "vigilance"
+    ],
+    [
+      "Han van Meegeren",
+      "seeks",
+      "profit"
+    ],
+    [
+      "Piltdown Man",
+      "challenges",
+      "evolutionary theory"
+    ],
+    [
+      "Piltdown Man",
+      "examined by",
+      "scientific community"
+    ],
+    [
+      "Piltdown Man",
+      "fuels",
+      "skepticism"
+    ],
+    [
+      "Piltdown Man",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "Piltdown Man",
+      "questions",
+      "vigilance"
+    ],
+    [
+      "Piltdown Man",
+      "sparked",
+      "debate"
+    ],
+    [
+      "Social Text",
+      "evaluates",
+      "public perception"
+    ],
+    [
+      "Social Text",
+      "featured by",
+      "War of the Worlds"
+    ],
+    [
+      "Social Text",
+      "is affected by",
+      "impact on society"
+    ],
+    [
+      "Social Text",
+      "is critiqued by",
+      "fiction"
+    ],
+    [
+      "Social Text",
+      "is critiqued by",
+      "hoax analysis"
+    ],
+    [
+      "Social Text",
+      "is critiqued by",
+      "misinformation"
+    ],
+    [
+      "Social Text",
+      "published by",
+      "forgery"
+    ],
+    [
+      "Social Text",
+      "published in",
+      "deception"
+    ],
+    [
+      "Social Text",
+      "published in",
+      "mass hysteria"
+    ],
+    [
+      "Social Text",
+      "published in",
+      "transformative narratives"
+    ],
+    [
+      "Social Text",
+      "publishes",
+      "fake news"
+    ],
+    [
+      "Social Text",
+      "publishes",
+      "historical narratives"
+    ],
+    [
+      "Sokal Affair",
+      "affects",
+      "public perception"
+    ],
+    [
+      "Sokal Affair",
+      "analyzes",
+      "critical analysis"
+    ],
+    [
+      "Sokal Affair",
+      "challenged by",
+      "scientific community"
+    ],
+    [
+      "Sokal Affair",
+      "challenges",
+      "intellectual discourse"
+    ],
+    [
+      "Sokal Affair",
+      "creates",
+      "confusion"
+    ],
+    [
+      "Sokal Affair",
+      "demonstrates",
+      "manipulation"
+    ],
+    [
+      "Sokal Affair",
+      "examines",
+      "mass media"
+    ],
+    [
+      "Sokal Affair",
+      "exposed by",
+      "deception"
+    ],
+    [
+      "Sokal Affair",
+      "exposed by",
+      "postmodernism"
+    ],
+    [
+      "Sokal Affair",
+      "exposed by",
+      "scientific rigor"
+    ],
+    [
+      "Sokal Affair",
+      "exposes",
+      "forgery"
+    ],
+    [
+      "Sokal Affair",
+      "exposes",
+      "misinformation"
+    ],
+    [
+      "Sokal Affair",
+      "induces",
+      "panic"
+    ],
+    [
+      "Sokal Affair",
+      "influenced by",
+      "history"
+    ],
+    [
+      "Sokal Affair",
+      "is a form of",
+      "misleading"
+    ],
+    [
+      "Sokal Affair",
+      "is critiqued by",
+      "cultural critique"
+    ],
+    [
+      "Sokal Affair",
+      "is influenced by",
+      "fake news"
+    ],
+    [
+      "Sokal Affair",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "Sokal Affair",
+      "promotes",
+      "skepticism"
+    ],
+    [
+      "Sokal Affair",
+      "published by",
+      "Social Text"
+    ],
+    [
+      "Sokal Affair",
+      "shaped",
+      "historical narratives"
+    ],
+    [
+      "Sokal Affair",
+      "stimulates",
+      "public imagination"
+    ],
+    [
+      "War of the Worlds",
+      "captures",
+      "public imagination"
+    ],
+    [
+      "War of the Worlds",
+      "caused",
+      "confusion"
+    ],
+    [
+      "War of the Worlds",
+      "challenges",
+      "postmodernism"
+    ],
+    [
+      "War of the Worlds",
+      "contributes to",
+      "misinformation"
+    ],
+    [
+      "War of the Worlds",
+      "engenders",
+      "public fascination"
+    ],
+    [
+      "War of the Worlds",
+      "exemplifies",
+      "fake news"
+    ],
+    [
+      "War of the Worlds",
+      "exploits",
+      "manipulation"
+    ],
+    [
+      "War of the Worlds",
+      "generates",
+      "profit"
+    ],
+    [
+      "War of the Worlds",
+      "incited",
+      "mass hysteria"
+    ],
+    [
+      "War of the Worlds",
+      "inspired by",
+      "fiction"
+    ],
+    [
+      "War of the Worlds",
+      "involves",
+      "deception"
+    ],
+    [
+      "War of the Worlds",
+      "is",
+      "misleading"
+    ],
+    [
+      "War of the Worlds",
+      "misrepresents",
+      "truth"
+    ],
+    [
+      "War of the Worlds",
+      "published in",
+      "Social Text"
+    ],
+    [
+      "War of the Worlds",
+      "resulted in",
+      "panic"
+    ],
+    [
+      "War of the Worlds",
+      "shapes",
+      "historical narratives"
+    ],
+    [
+      "War of the Worlds",
+      "shapes",
+      "impact on society"
+    ],
+    [
+      "War of the Worlds",
+      "shapes",
+      "public perception"
+    ],
+    [
+      "academic rigor",
+      "challenges",
+      "Han van Meegeren"
+    ],
+    [
+      "academic rigor",
+      "challenges",
+      "Sokal Affair"
+    ],
+    [
+      "academic rigor",
+      "challenges",
+      "forgery"
+    ],
+    [
+      "academic rigor",
+      "examines",
+      "hoax analysis"
+    ],
+    [
+      "academic rigor",
+      "is a measure of",
+      "debate"
+    ],
+    [
+      "academic rigor",
+      "requires",
+      "critical thinking"
+    ],
+    [
+      "academic rigor",
+      "requires",
+      "vigilance"
+    ],
+    [
+      "academic rigor",
+      "tests",
+      "Piltdown Man"
+    ],
+    [
+      "academic rigor",
+      "undermines",
+      "evolutionary theory"
+    ],
+    [
+      "academic rigor",
+      "undermines",
+      "misleading"
+    ],
+    [
+      "archaeology",
+      "associated with",
+      "Cardiff Giant"
+    ],
+    [
+      "archaeology",
+      "fuels",
+      "skepticism"
+    ],
+    [
+      "archaeology",
+      "influences",
+      "Piltdown Man"
+    ],
+    [
+      "archaeology",
+      "informs",
+      "intellectual discourse"
+    ],
+    [
+      "archaeology",
+      "motivates",
+      "profit"
+    ],
+    [
+      "archaeology",
+      "relates to",
+      "evolutionary theory"
+    ],
+    [
+      "archaeology",
+      "sparks",
+      "debate"
+    ],
+    [
+      "art forgeries",
+      "exposes",
+      "authenticity"
+    ],
+    [
+      "art forgeries",
+      "is a form of",
+      "artistic deception"
+    ],
+    [
+      "artistic deception",
+      "analyzes",
+      "critical analysis"
+    ],
+    [
+      "artistic deception",
+      "influences",
+      "history"
+    ],
+    [
+      "artistic deception",
+      "involves",
+      "truth"
+    ],
+    [
+      "artistic deception",
+      "is a form of",
+      "authenticity"
+    ],
+    [
+      "artistic deception",
+      "is affected by",
+      "vigilance"
+    ],
+    [
+      "artistic deception",
+      "is challenged by",
+      "experts"
+    ],
+    [
+      "artistic deception",
+      "is deceived by",
+      "scientific community"
+    ],
+    [
+      "artistic deception",
+      "is influenced by",
+      "intellectual discourse"
+    ],
+    [
+      "artistic deception",
+      "is questioned by",
+      "evolutionary theory"
+    ],
+    [
+      "authenticity",
+      "challenges",
+      "misinformation"
+    ],
+    [
+      "authenticity",
+      "confirms",
+      "Sokal Affair"
+    ],
+    [
+      "authenticity",
+      "drives",
+      "profit"
+    ],
+    [
+      "authenticity",
+      "evaluates",
+      "critical analysis"
+    ],
+    [
+      "authenticity",
+      "examined by",
+      "intellectual discourse"
+    ],
+    [
+      "authenticity",
+      "is assessed by",
+      "War of the Worlds"
+    ],
+    [
+      "authenticity",
+      "questions",
+      "Han van Meegeren"
+    ],
+    [
+      "authenticity",
+      "questions",
+      "confusion"
+    ],
+    [
+      "authenticity",
+      "questions",
+      "evolutionary theory"
+    ],
+    [
+      "authenticity",
+      "questions",
+      "fake news"
+    ],
+    [
+      "authenticity",
+      "questions",
+      "hoaxes"
+    ],
+    [
+      "authenticity",
+      "requires",
+      "scientific rigor"
+    ],
+    [
+      "authenticity",
+      "tests",
+      "academic rigor"
+    ],
+    [
+      "authenticity",
+      "validates",
+      "Social Text"
+    ],
+    [
+      "authenticity",
+      "validates",
+      "critical thinking"
+    ],
+    [
+      "authenticity",
+      "validates",
+      "debate"
+    ],
+    [
+      "authenticity",
+      "validates",
+      "public perception"
+    ],
+    [
+      "confusion",
+      "caused",
+      "truth"
+    ],
+    [
+      "confusion",
+      "caused by",
+      "impact on society"
+    ],
+    [
+      "confusion",
+      "challenges",
+      "critical thinking"
+    ],
+    [
+      "confusion",
+      "confuses",
+      "mythologies"
+    ],
+    [
+      "confusion",
+      "creates",
+      "forgery"
+    ],
+    [
+      "confusion",
+      "creates",
+      "misinformation"
+    ],
+    [
+      "confusion",
+      "creates",
+      "transformative hermeneutics"
+    ],
+    [
+      "confusion",
+      "influences",
+      "manipulation"
+    ],
+    [
+      "confusion",
+      "influences",
+      "public perception"
+    ],
+    [
+      "confusion",
+      "is caused by",
+      "transformative narratives"
+    ],
+    [
+      "confusion",
+      "leads to",
+      "debate"
+    ],
+    [
+      "confusion",
+      "results from",
+      "misleading"
+    ],
+    [
+      "critical analysis",
+      "drives",
+      "public fascination"
+    ],
+    [
+      "critical analysis",
+      "enhances",
+      "intellectual discourse"
+    ],
+    [
+      "critical analysis",
+      "evaluates",
+      "impact on society"
+    ],
+    [
+      "critical analysis",
+      "evaluates",
+      "scientific community"
+    ],
+    [
+      "critical analysis",
+      "is analyzed by",
+      "confusion"
+    ],
+    [
+      "critical analysis",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "critical analysis",
+      "requires",
+      "academic rigor"
+    ],
+    [
+      "critical analysis",
+      "sparks",
+      "debate"
+    ],
+    [
+      "critical analysis",
+      "triggers",
+      "panic"
+    ],
+    [
+      "critical thinking",
+      "challenges",
+      "evolutionary theory"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "artistic deception"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "scientific rigor"
+    ],
+    [
+      "critical thinking",
+      "requires",
+      "scientific community"
+    ],
+    [
+      "critical thinking",
+      "supports",
+      "hoax analysis"
+    ],
+    [
+      "cultural critique",
+      "affects",
+      "impact on society"
+    ],
+    [
+      "cultural critique",
+      "critiques",
+      "War of the Worlds"
+    ],
+    [
+      "cultural critique",
+      "critiques",
+      "fake news"
+    ],
+    [
+      "cultural critique",
+      "critiques",
+      "postmodernism"
+    ],
+    [
+      "cultural critique",
+      "drives",
+      "public fascination"
+    ],
+    [
+      "cultural critique",
+      "encourages",
+      "skepticism"
+    ],
+    [
+      "cultural critique",
+      "examines",
+      "Social Text"
+    ],
+    [
+      "cultural critique",
+      "examines",
+      "hoax analysis"
+    ],
+    [
+      "cultural critique",
+      "examines",
+      "intellectual discourse"
+    ],
+    [
+      "cultural critique",
+      "exploits",
+      "manipulation"
+    ],
+    [
+      "cultural critique",
+      "exposes",
+      "misinformation"
+    ],
+    [
+      "cultural critique",
+      "influences",
+      "public imagination"
+    ],
+    [
+      "cultural critique",
+      "influences",
+      "scientific community"
+    ],
+    [
+      "cultural critique",
+      "informs",
+      "transformative narratives"
+    ],
+    [
+      "cultural critique",
+      "involves",
+      "forgery"
+    ],
+    [
+      "cultural critique",
+      "leads to",
+      "exposure"
+    ],
+    [
+      "cultural critique",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "cultural critique",
+      "questions",
+      "artistic deception"
+    ],
+    [
+      "cultural critique",
+      "questions",
+      "authenticity"
+    ],
+    [
+      "cultural critique",
+      "questions",
+      "evolutionary theory"
+    ],
+    [
+      "cultural critique",
+      "questions",
+      "scientific rigor"
+    ],
+    [
+      "cultural critique",
+      "questions",
+      "truth"
+    ],
+    [
+      "cultural critique",
+      "shapes",
+      "history"
+    ],
+    [
+      "debate",
+      "fuels",
+      "profit"
+    ],
+    [
+      "debate",
+      "involves",
+      "intellectual discourse"
+    ],
+    [
+      "debate",
+      "is",
+      "misleading"
+    ],
+    [
+      "debate",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "debate",
+      "sparks",
+      "validity"
+    ],
+    [
+      "deception",
+      "affects",
+      "public perception"
+    ],
+    [
+      "deception",
+      "captures",
+      "public fascination"
+    ],
+    [
+      "deception",
+      "creates",
+      "confusion"
+    ],
+    [
+      "deception",
+      "deceives",
+      "truth"
+    ],
+    [
+      "deception",
+      "facilitates",
+      "manipulation"
+    ],
+    [
+      "deception",
+      "impacts",
+      "history"
+    ],
+    [
+      "deception",
+      "involves",
+      "hoax analysis"
+    ],
+    [
+      "deception",
+      "is a result of",
+      "public imagination"
+    ],
+    [
+      "deception",
+      "is exemplified by",
+      "artistic deception"
+    ],
+    [
+      "deception",
+      "leads to",
+      "panic"
+    ],
+    [
+      "deception",
+      "reveals",
+      "exposure"
+    ],
+    [
+      "deception",
+      "spreads",
+      "misinformation"
+    ],
+    [
+      "deception",
+      "undermines",
+      "authenticity"
+    ],
+    [
+      "evolutionary theory",
+      "challenges",
+      "hoax analysis"
+    ],
+    [
+      "evolutionary theory",
+      "complicates",
+      "confusion"
+    ],
+    [
+      "evolutionary theory",
+      "is challenged by",
+      "vigilance"
+    ],
+    [
+      "evolutionary theory",
+      "is informed by",
+      "critical analysis"
+    ],
+    [
+      "evolutionary theory",
+      "questioned by",
+      "Sokal Affair"
+    ],
+    [
+      "evolutionary theory",
+      "questions",
+      "forgery"
+    ],
+    [
+      "evolutionary theory",
+      "questions",
+      "manipulation"
+    ],
+    [
+      "experts",
+      "analyzes",
+      "transformative hermeneutics"
+    ],
+    [
+      "experts",
+      "assessed by",
+      "scientific rigor"
+    ],
+    [
+      "experts",
+      "challenges",
+      "hoaxes"
+    ],
+    [
+      "experts",
+      "challenges",
+      "transformative narratives"
+    ],
+    [
+      "experts",
+      "consults",
+      "mythologies"
+    ],
+    [
+      "experts",
+      "consults",
+      "skepticism"
+    ],
+    [
+      "experts",
+      "deceived by",
+      "Han van Meegeren"
+    ],
+    [
+      "experts",
+      "evaluated by",
+      "authenticity"
+    ],
+    [
+      "experts",
+      "evaluated by",
+      "profit"
+    ],
+    [
+      "experts",
+      "evaluated by",
+      "truth"
+    ],
+    [
+      "experts",
+      "evaluates",
+      "archaeology"
+    ],
+    [
+      "experts",
+      "evaluates",
+      "scientific community"
+    ],
+    [
+      "experts",
+      "influences",
+      "manipulation"
+    ],
+    [
+      "experts",
+      "is analyzed by",
+      "evolutionary theory"
+    ],
+    [
+      "experts",
+      "is evaluated by",
+      "academic rigor"
+    ],
+    [
+      "experts",
+      "is evaluated by",
+      "deception"
+    ],
+    [
+      "experts",
+      "is informed by",
+      "intellectual discourse"
+    ],
+    [
+      "experts",
+      "is scrutinized by",
+      "vigilance"
+    ],
+    [
+      "exposure",
+      "exposed by",
+      "artistic deception"
+    ],
+    [
+      "exposure",
+      "is revealed by",
+      "fiction"
+    ],
+    [
+      "exposure",
+      "is revealed by",
+      "hoaxes"
+    ],
+    [
+      "exposure",
+      "is revealed by",
+      "misinformation"
+    ],
+    [
+      "exposure",
+      "is revealed by",
+      "public imagination"
+    ],
+    [
+      "exposure",
+      "revealed by",
+      "authenticity"
+    ],
+    [
+      "exposure",
+      "revealed by",
+      "mass hysteria"
+    ],
+    [
+      "exposure",
+      "revealed by",
+      "mass media"
+    ],
+    [
+      "exposure",
+      "reveals",
+      "Social Text"
+    ],
+    [
+      "exposure",
+      "reveals",
+      "Sokal Affair"
+    ],
+    [
+      "exposure",
+      "reveals",
+      "War of the Worlds"
+    ],
+    [
+      "exposure",
+      "reveals",
+      "critical analysis"
+    ],
+    [
+      "exposure",
+      "reveals",
+      "fake news"
+    ],
+    [
+      "exposure",
+      "reveals",
+      "historical narratives"
+    ],
+    [
+      "exposure",
+      "reveals",
+      "history"
+    ],
+    [
+      "exposure",
+      "reveals",
+      "misleading"
+    ],
+    [
+      "exposure",
+      "reveals",
+      "public perception"
+    ],
+    [
+      "exposure",
+      "reveals",
+      "transformative narratives"
+    ],
+    [
+      "exposure",
+      "reveals",
+      "truth"
+    ],
+    [
+      "fake news",
+      "analyzed by",
+      "experts"
+    ],
+    [
+      "fake news",
+      "analyzes",
+      "hoax analysis"
+    ],
+    [
+      "fake news",
+      "contributes to",
+      "forgery"
+    ],
+    [
+      "fake news",
+      "contributes to",
+      "hoaxes"
+    ],
+    [
+      "fake news",
+      "creates",
+      "confusion"
+    ],
+    [
+      "fake news",
+      "drives",
+      "manipulation"
+    ],
+    [
+      "fake news",
+      "drives",
+      "public fascination"
+    ],
+    [
+      "fake news",
+      "induces",
+      "panic"
+    ],
+    [
+      "fake news",
+      "influences",
+      "mass media"
+    ],
+    [
+      "fake news",
+      "shapes",
+      "public imagination"
+    ],
+    [
+      "fake news",
+      "shapes",
+      "public perception"
+    ],
+    [
+      "fake news",
+      "spreads",
+      "misinformation"
+    ],
+    [
+      "fiction",
+      "affects",
+      "impact on society"
+    ],
+    [
+      "fiction",
+      "captures",
+      "public fascination"
+    ],
+    [
+      "fiction",
+      "contrasts with",
+      "mass hysteria"
+    ],
+    [
+      "fiction",
+      "demonstrates",
+      "artistic deception"
+    ],
+    [
+      "fiction",
+      "exploits",
+      "manipulation"
+    ],
+    [
+      "fiction",
+      "influences",
+      "public perception"
+    ],
+    [
+      "fiction",
+      "informs",
+      "transformative narratives"
+    ],
+    [
+      "fiction",
+      "is a type of",
+      "hoaxes"
+    ],
+    [
+      "fiction",
+      "shapes",
+      "historical narratives"
+    ],
+    [
+      "forgery",
+      "affects",
+      "impact on society"
+    ],
+    [
+      "forgery",
+      "analyzes",
+      "hoax analysis"
+    ],
+    [
+      "forgery",
+      "captures",
+      "public fascination"
+    ],
+    [
+      "forgery",
+      "causes",
+      "panic"
+    ],
+    [
+      "forgery",
+      "challenges",
+      "critical analysis"
+    ],
+    [
+      "forgery",
+      "challenges",
+      "transformative hermeneutics"
+    ],
+    [
+      "forgery",
+      "deceives",
+      "experts"
+    ],
+    [
+      "forgery",
+      "exemplifies",
+      "mass hysteria"
+    ],
+    [
+      "forgery",
+      "influences",
+      "mass media"
+    ],
+    [
+      "forgery",
+      "informs",
+      "transformative narratives"
+    ],
+    [
+      "forgery",
+      "involves",
+      "deception"
+    ],
+    [
+      "forgery",
+      "is a form of",
+      "artistic deception"
+    ],
+    [
+      "forgery",
+      "is a type of",
+      "hoaxes"
+    ],
+    [
+      "forgery",
+      "is associated with",
+      "vigilance"
+    ],
+    [
+      "forgery",
+      "misled by",
+      "scientific community"
+    ],
+    [
+      "forgery",
+      "motivates",
+      "profit"
+    ],
+    [
+      "forgery",
+      "shapes",
+      "historical narratives"
+    ],
+    [
+      "forgery",
+      "sparked",
+      "debate"
+    ],
+    [
+      "historical narratives",
+      "driven by",
+      "profit"
+    ],
+    [
+      "historical narratives",
+      "drives",
+      "public fascination"
+    ],
+    [
+      "historical narratives",
+      "illustrates",
+      "artistic deception"
+    ],
+    [
+      "historical narratives",
+      "informs",
+      "experts"
+    ],
+    [
+      "historical narratives",
+      "informs",
+      "hoax analysis"
+    ],
+    [
+      "history",
+      "analyzes",
+      "critical analysis"
+    ],
+    [
+      "history",
+      "contextualizes",
+      "confusion"
+    ],
+    [
+      "history",
+      "documents",
+      "manipulation"
+    ],
+    [
+      "history",
+      "is a part of",
+      "War of the Worlds"
+    ],
+    [
+      "history",
+      "shaped by",
+      "impact on society"
+    ],
+    [
+      "history",
+      "shaped by",
+      "public perception"
+    ],
+    [
+      "history",
+      "shapes",
+      "forgery"
+    ],
+    [
+      "history",
+      "shapes",
+      "historical narratives"
+    ],
+    [
+      "history",
+      "shapes",
+      "public imagination"
+    ],
+    [
+      "history",
+      "shapes",
+      "truth"
+    ],
+    [
+      "hoax analysis",
+      "analyzes",
+      "fiction"
+    ],
+    [
+      "hoax analysis",
+      "examines",
+      "artistic deception"
+    ],
+    [
+      "hoax analysis",
+      "examines",
+      "scientific rigor"
+    ],
+    [
+      "hoax analysis",
+      "induces",
+      "panic"
+    ],
+    [
+      "hoax analysis",
+      "questions",
+      "authenticity"
+    ],
+    [
+      "hoaxes",
+      "affects",
+      "impact on society"
+    ],
+    [
+      "hoaxes",
+      "captures",
+      "public fascination"
+    ],
+    [
+      "hoaxes",
+      "caused",
+      "mass hysteria"
+    ],
+    [
+      "hoaxes",
+      "causes",
+      "panic"
+    ],
+    [
+      "hoaxes",
+      "challenges",
+      "truth"
+    ],
+    [
+      "hoaxes",
+      "creates",
+      "confusion"
+    ],
+    [
+      "hoaxes",
+      "creates",
+      "transformative narratives"
+    ],
+    [
+      "hoaxes",
+      "examined through",
+      "transformative hermeneutics"
+    ],
+    [
+      "hoaxes",
+      "exploits",
+      "manipulation"
+    ],
+    [
+      "hoaxes",
+      "generates",
+      "profit"
+    ],
+    [
+      "hoaxes",
+      "influences",
+      "mass media"
+    ],
+    [
+      "hoaxes",
+      "influences",
+      "public perception"
+    ],
+    [
+      "hoaxes",
+      "inspired by",
+      "War of the Worlds"
+    ],
+    [
+      "hoaxes",
+      "is a form of",
+      "deception"
+    ],
+    [
+      "hoaxes",
+      "is related to",
+      "postmodernism"
+    ],
+    [
+      "hoaxes",
+      "misleads",
+      "misleading"
+    ],
+    [
+      "hoaxes",
+      "shapes",
+      "historical narratives"
+    ],
+    [
+      "hoaxes",
+      "shapes",
+      "history"
+    ],
+    [
+      "impact on society",
+      "affects",
+      "manipulation"
+    ],
+    [
+      "impact on society",
+      "challenges",
+      "authenticity"
+    ],
+    [
+      "impact on society",
+      "contributes to",
+      "mass hysteria"
+    ],
+    [
+      "impact on society",
+      "contributes to",
+      "misinformation"
+    ],
+    [
+      "impact on society",
+      "influenced",
+      "Sokal Affair"
+    ],
+    [
+      "impact on society",
+      "influences",
+      "deception"
+    ],
+    [
+      "impact on society",
+      "influences",
+      "historical narratives"
+    ],
+    [
+      "impact on society",
+      "influences",
+      "mass media"
+    ],
+    [
+      "impact on society",
+      "informs",
+      "hoax analysis"
+    ],
+    [
+      "impact on society",
+      "results in",
+      "exposure"
+    ],
+    [
+      "impact on society",
+      "shapes",
+      "public imagination"
+    ],
+    [
+      "impact on society",
+      "shapes",
+      "public perception"
+    ],
+    [
+      "intellectual discourse",
+      "complicates",
+      "confusion"
+    ],
+    [
+      "intellectual discourse",
+      "demands",
+      "scientific rigor"
+    ],
+    [
+      "intellectual discourse",
+      "examines",
+      "hoax analysis"
+    ],
+    [
+      "intellectual discourse",
+      "influences",
+      "scientific community"
+    ],
+    [
+      "intellectual discourse",
+      "misleads",
+      "misleading"
+    ],
+    [
+      "manipulation",
+      "affects",
+      "intellectual discourse"
+    ],
+    [
+      "manipulation",
+      "deceives",
+      "misleading"
+    ],
+    [
+      "manipulation",
+      "exploited by",
+      "scientific community"
+    ],
+    [
+      "manipulation",
+      "exploited by",
+      "truth"
+    ],
+    [
+      "manipulation",
+      "exploits",
+      "skepticism"
+    ],
+    [
+      "manipulation",
+      "fuels",
+      "public fascination"
+    ],
+    [
+      "manipulation",
+      "incites",
+      "panic"
+    ],
+    [
+      "manipulation",
+      "influences",
+      "art forgeries"
+    ],
+    [
+      "manipulation",
+      "involves",
+      "artistic deception"
+    ],
+    [
+      "manipulation",
+      "motivates",
+      "profit"
+    ],
+    [
+      "manipulation",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "manipulation",
+      "reveals",
+      "exposure"
+    ],
+    [
+      "manipulation",
+      "sparks",
+      "debate"
+    ],
+    [
+      "manipulation",
+      "stimulates",
+      "public imagination"
+    ],
+    [
+      "mass hysteria",
+      "caused",
+      "confusion"
+    ],
+    [
+      "mass hysteria",
+      "creates",
+      "transformative narratives"
+    ],
+    [
+      "mass hysteria",
+      "is examined in",
+      "hoax analysis"
+    ],
+    [
+      "mass hysteria",
+      "is fueled by",
+      "public fascination"
+    ],
+    [
+      "mass hysteria",
+      "is linked to",
+      "artistic deception"
+    ],
+    [
+      "mass hysteria",
+      "questions",
+      "authenticity"
+    ],
+    [
+      "mass hysteria",
+      "resulted from",
+      "deception"
+    ],
+    [
+      "mass hysteria",
+      "results in",
+      "Sokal Affair"
+    ],
+    [
+      "mass hysteria",
+      "results in",
+      "manipulation"
+    ],
+    [
+      "mass hysteria",
+      "results in",
+      "misinformation"
+    ],
+    [
+      "mass hysteria",
+      "results in",
+      "panic"
+    ],
+    [
+      "mass hysteria",
+      "shapes",
+      "history"
+    ],
+    [
+      "mass hysteria",
+      "spreads",
+      "fake news"
+    ],
+    [
+      "mass hysteria",
+      "stimulates",
+      "public imagination"
+    ],
+    [
+      "mass media",
+      "analyzes",
+      "critical analysis"
+    ],
+    [
+      "mass media",
+      "analyzes",
+      "hoax analysis"
+    ],
+    [
+      "mass media",
+      "contributes to",
+      "misinformation"
+    ],
+    [
+      "mass media",
+      "documents",
+      "history"
+    ],
+    [
+      "mass media",
+      "examined through",
+      "transformative hermeneutics"
+    ],
+    [
+      "mass media",
+      "exploits",
+      "manipulation"
+    ],
+    [
+      "mass media",
+      "fuels",
+      "public fascination"
+    ],
+    [
+      "mass media",
+      "induces",
+      "panic"
+    ],
+    [
+      "mass media",
+      "influences",
+      "artistic deception"
+    ],
+    [
+      "mass media",
+      "influences",
+      "truth"
+    ],
+    [
+      "mass media",
+      "shapes",
+      "historical narratives"
+    ],
+    [
+      "mass media",
+      "shapes",
+      "public imagination"
+    ],
+    [
+      "mass media",
+      "utilized by",
+      "War of the Worlds"
+    ],
+    [
+      "misinformation",
+      "causes",
+      "misleading"
+    ],
+    [
+      "misinformation",
+      "compromises",
+      "public perception"
+    ],
+    [
+      "misinformation",
+      "contributes to",
+      "forgery"
+    ],
+    [
+      "misinformation",
+      "drives",
+      "profit"
+    ],
+    [
+      "misinformation",
+      "drives",
+      "public fascination"
+    ],
+    [
+      "misinformation",
+      "exacerbates",
+      "transformative narratives"
+    ],
+    [
+      "misinformation",
+      "exposed by",
+      "transformative hermeneutics"
+    ],
+    [
+      "misinformation",
+      "exposes",
+      "critical analysis"
+    ],
+    [
+      "misinformation",
+      "is a result of",
+      "fiction"
+    ],
+    [
+      "misinformation",
+      "led to",
+      "panic"
+    ],
+    [
+      "misinformation",
+      "misleads",
+      "experts"
+    ],
+    [
+      "misinformation",
+      "spreads",
+      "historical narratives"
+    ],
+    [
+      "misleading",
+      "caused by",
+      "truth"
+    ],
+    [
+      "misleading",
+      "deceives",
+      "art forgeries"
+    ],
+    [
+      "misleading",
+      "influenced by",
+      "impact on society"
+    ],
+    [
+      "misleading",
+      "is a consequence of",
+      "transformative narratives"
+    ],
+    [
+      "misleading",
+      "is a result of",
+      "skepticism"
+    ],
+    [
+      "misleading",
+      "is a result of",
+      "transformative hermeneutics"
+    ],
+    [
+      "misleading",
+      "is caused by",
+      "history"
+    ],
+    [
+      "misleading",
+      "misleads",
+      "authenticity"
+    ],
+    [
+      "misleading",
+      "misleads",
+      "fake news"
+    ],
+    [
+      "misleading",
+      "misleads",
+      "scientific community"
+    ],
+    [
+      "misleading",
+      "questions",
+      "critical analysis"
+    ],
+    [
+      "misleading",
+      "results from",
+      "Social Text"
+    ],
+    [
+      "misleading",
+      "results in",
+      "public perception"
+    ],
+    [
+      "misleading",
+      "results in",
+      "scientific rigor"
+    ],
+    [
+      "mythologies",
+      "affects",
+      "public perception"
+    ],
+    [
+      "mythologies",
+      "captures",
+      "public fascination"
+    ],
+    [
+      "mythologies",
+      "debated",
+      "debate"
+    ],
+    [
+      "mythologies",
+      "encourages",
+      "critical thinking"
+    ],
+    [
+      "mythologies",
+      "evokes",
+      "panic"
+    ],
+    [
+      "mythologies",
+      "exposed by",
+      "Sokal Affair"
+    ],
+    [
+      "mythologies",
+      "fuels",
+      "mass hysteria"
+    ],
+    [
+      "mythologies",
+      "gives rise to",
+      "hoaxes"
+    ],
+    [
+      "mythologies",
+      "influences",
+      "Piltdown Man"
+    ],
+    [
+      "mythologies",
+      "influences",
+      "fake news"
+    ],
+    [
+      "mythologies",
+      "influences",
+      "scientific community"
+    ],
+    [
+      "mythologies",
+      "informs",
+      "archaeology"
+    ],
+    [
+      "mythologies",
+      "informs",
+      "intellectual discourse"
+    ],
+    [
+      "mythologies",
+      "inspired",
+      "War of the Worlds"
+    ],
+    [
+      "mythologies",
+      "manipulated by",
+      "deception"
+    ],
+    [
+      "mythologies",
+      "profited from",
+      "profit"
+    ],
+    [
+      "mythologies",
+      "relates to",
+      "evolutionary theory"
+    ],
+    [
+      "panic",
+      "caused",
+      "fiction"
+    ],
+    [
+      "panic",
+      "caused by",
+      "misleading"
+    ],
+    [
+      "panic",
+      "causes",
+      "confusion"
+    ],
+    [
+      "panic",
+      "causes",
+      "truth"
+    ],
+    [
+      "panic",
+      "motivates",
+      "artistic deception"
+    ],
+    [
+      "panic",
+      "results in",
+      "experts"
+    ],
+    [
+      "postmodernism",
+      "challenges",
+      "misinformation"
+    ],
+    [
+      "postmodernism",
+      "creates",
+      "confusion"
+    ],
+    [
+      "postmodernism",
+      "fuels",
+      "deception"
+    ],
+    [
+      "postmodernism",
+      "induces",
+      "panic"
+    ],
+    [
+      "postmodernism",
+      "influences",
+      "historical narratives"
+    ],
+    [
+      "postmodernism",
+      "informs",
+      "transformative narratives"
+    ],
+    [
+      "postmodernism",
+      "misleads",
+      "misleading"
+    ],
+    [
+      "postmodernism",
+      "shapes",
+      "public imagination"
+    ],
+    [
+      "postmodernism",
+      "shapes",
+      "public perception"
+    ],
+    [
+      "profit",
+      "benefits from",
+      "public imagination"
+    ],
+    [
+      "profit",
+      "benefits from",
+      "public perception"
+    ],
+    [
+      "profit",
+      "benefits from",
+      "scientific community"
+    ],
+    [
+      "profit",
+      "causes",
+      "panic"
+    ],
+    [
+      "profit",
+      "exploited by",
+      "truth"
+    ],
+    [
+      "profit",
+      "exploits",
+      "evolutionary theory"
+    ],
+    [
+      "profit",
+      "generated by",
+      "Cardiff Giant"
+    ],
+    [
+      "profit",
+      "is driven by",
+      "academic rigor"
+    ],
+    [
+      "profit",
+      "motivates",
+      "artistic deception"
+    ],
+    [
+      "public fascination",
+      "analyzes",
+      "hoax analysis"
+    ],
+    [
+      "public fascination",
+      "challenges",
+      "experts"
+    ],
+    [
+      "public fascination",
+      "drives",
+      "profit"
+    ],
+    [
+      "public fascination",
+      "fascinates",
+      "history"
+    ],
+    [
+      "public fascination",
+      "induces",
+      "panic"
+    ],
+    [
+      "public fascination",
+      "influences",
+      "Social Text"
+    ],
+    [
+      "public fascination",
+      "is a form of",
+      "misleading"
+    ],
+    [
+      "public imagination",
+      "challenges",
+      "experts"
+    ],
+    [
+      "public imagination",
+      "induces",
+      "panic"
+    ],
+    [
+      "public imagination",
+      "influenced by",
+      "misleading"
+    ],
+    [
+      "public imagination",
+      "inspired by",
+      "fiction"
+    ],
+    [
+      "public imagination",
+      "inspired by",
+      "transformative narratives"
+    ],
+    [
+      "public imagination",
+      "is influenced by",
+      "confusion"
+    ],
+    [
+      "public imagination",
+      "is inspired by",
+      "critical analysis"
+    ],
+    [
+      "public imagination",
+      "is inspired by",
+      "truth"
+    ],
+    [
+      "public imagination",
+      "shapes",
+      "historical narratives"
+    ],
+    [
+      "public perception",
+      "influences",
+      "public imagination"
+    ],
+    [
+      "public perception",
+      "informs",
+      "hoax analysis"
+    ],
+    [
+      "public perception",
+      "shaped",
+      "mass hysteria"
+    ],
+    [
+      "public perception",
+      "shapes",
+      "critical analysis"
+    ],
+    [
+      "public perception",
+      "shapes",
+      "historical narratives"
+    ],
+    [
+      "public perception",
+      "shapes",
+      "public fascination"
+    ],
+    [
+      "public perception",
+      "shapes",
+      "truth"
+    ],
+    [
+      "scientific community",
+      "analyzes",
+      "hoax analysis"
+    ],
+    [
+      "scientific community",
+      "creates",
+      "confusion"
+    ],
+    [
+      "scientific community",
+      "faces",
+      "skepticism"
+    ],
+    [
+      "scientific community",
+      "questions",
+      "authenticity"
+    ],
+    [
+      "scientific community",
+      "sparks",
+      "debate"
+    ],
+    [
+      "scientific community",
+      "supports",
+      "archaeology"
+    ],
+    [
+      "scientific rigor",
+      "challenges",
+      "Han van Meegeren"
+    ],
+    [
+      "scientific rigor",
+      "challenges",
+      "mythologies"
+    ],
+    [
+      "scientific rigor",
+      "compares to",
+      "academic rigor"
+    ],
+    [
+      "scientific rigor",
+      "demands",
+      "evolutionary theory"
+    ],
+    [
+      "scientific rigor",
+      "demands",
+      "vigilance"
+    ],
+    [
+      "scientific rigor",
+      "evaluated by",
+      "debate"
+    ],
+    [
+      "scientific rigor",
+      "evaluates",
+      "Piltdown Man"
+    ],
+    [
+      "scientific rigor",
+      "lacks",
+      "forgery"
+    ],
+    [
+      "scientific rigor",
+      "requires",
+      "scientific community"
+    ],
+    [
+      "scientific rigor",
+      "requires",
+      "skepticism"
+    ],
+    [
+      "scientific rigor",
+      "undermines",
+      "manipulation"
+    ],
+    [
+      "sculpture",
+      "created by",
+      "Han van Meegeren"
+    ],
+    [
+      "sculpture",
+      "depicts",
+      "Cardiff Giant"
+    ],
+    [
+      "skepticism",
+      "caused by",
+      "confusion"
+    ],
+    [
+      "skepticism",
+      "enhances",
+      "critical analysis"
+    ],
+    [
+      "skepticism",
+      "informs",
+      "hoax analysis"
+    ],
+    [
+      "skepticism",
+      "questions",
+      "artistic deception"
+    ],
+    [
+      "skepticism",
+      "questions",
+      "authenticity"
+    ],
+    [
+      "skepticism",
+      "questions",
+      "transformative hermeneutics"
+    ],
+    [
+      "skepticism",
+      "questions",
+      "validity"
+    ],
+    [
+      "skepticism",
+      "raises",
+      "evolutionary theory"
+    ],
+    [
+      "skepticism",
+      "stimulated",
+      "debate"
+    ],
+    [
+      "transformative hermeneutics",
+      "analyzes",
+      "hoax analysis"
+    ],
+    [
+      "transformative hermeneutics",
+      "assesses",
+      "validity"
+    ],
+    [
+      "transformative hermeneutics",
+      "contributes to",
+      "intellectual discourse"
+    ],
+    [
+      "transformative hermeneutics",
+      "enhances",
+      "critical analysis"
+    ],
+    [
+      "transformative hermeneutics",
+      "examined in",
+      "Sokal Affair"
+    ],
+    [
+      "transformative hermeneutics",
+      "generates",
+      "profit"
+    ],
+    [
+      "transformative hermeneutics",
+      "induces",
+      "panic"
+    ],
+    [
+      "transformative hermeneutics",
+      "influences",
+      "manipulation"
+    ],
+    [
+      "transformative hermeneutics",
+      "influences",
+      "public perception"
+    ],
+    [
+      "transformative hermeneutics",
+      "informs",
+      "postmodernism"
+    ],
+    [
+      "transformative hermeneutics",
+      "involves",
+      "artistic deception"
+    ],
+    [
+      "transformative hermeneutics",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "transformative hermeneutics",
+      "published in",
+      "Social Text"
+    ],
+    [
+      "transformative hermeneutics",
+      "related to",
+      "art forgeries"
+    ],
+    [
+      "transformative hermeneutics",
+      "sparks",
+      "debate"
+    ],
+    [
+      "transformative hermeneutics",
+      "stimulates",
+      "public fascination"
+    ],
+    [
+      "transformative hermeneutics",
+      "stimulates",
+      "public imagination"
+    ],
+    [
+      "transformative narratives",
+      "challenges",
+      "authenticity"
+    ],
+    [
+      "transformative narratives",
+      "examines",
+      "Sokal Affair"
+    ],
+    [
+      "transformative narratives",
+      "exemplifies",
+      "artistic deception"
+    ],
+    [
+      "transformative narratives",
+      "generates",
+      "profit"
+    ],
+    [
+      "transformative narratives",
+      "induces",
+      "panic"
+    ],
+    [
+      "transformative narratives",
+      "informs",
+      "hoax analysis"
+    ],
+    [
+      "transformative narratives",
+      "inspires",
+      "public fascination"
+    ],
+    [
+      "transformative narratives",
+      "involves",
+      "deception"
+    ],
+    [
+      "transformative narratives",
+      "is analyzed by",
+      "critical analysis"
+    ],
+    [
+      "transformative narratives",
+      "is influenced by",
+      "mass media"
+    ],
+    [
+      "transformative narratives",
+      "is shaped by",
+      "historical narratives"
+    ],
+    [
+      "transformative narratives",
+      "shapes",
+      "history"
+    ],
+    [
+      "transformative narratives",
+      "shapes",
+      "public imagination"
+    ],
+    [
+      "transformative narratives",
+      "utilizes",
+      "manipulation"
+    ],
+    [
+      "truth",
+      "contradicts",
+      "fake news"
+    ],
+    [
+      "truth",
+      "contradicts",
+      "fiction"
+    ],
+    [
+      "truth",
+      "engenders",
+      "public fascination"
+    ],
+    [
+      "truth",
+      "exposed by",
+      "Sokal Affair"
+    ],
+    [
+      "truth",
+      "informs",
+      "impact on society"
+    ],
+    [
+      "truth",
+      "questions",
+      "mythologies"
+    ],
+    [
+      "truth",
+      "undermines",
+      "forgery"
+    ],
+    [
+      "validity",
+      "affects",
+      "critical thinking"
+    ],
+    [
+      "validity",
+      "assesses",
+      "critical analysis"
+    ],
+    [
+      "validity",
+      "assesses",
+      "cultural critique"
+    ],
+    [
+      "validity",
+      "assesses",
+      "scientific rigor"
+    ],
+    [
+      "validity",
+      "challenges",
+      "Piltdown Man"
+    ],
+    [
+      "validity",
+      "questioned by",
+      "profit"
+    ],
+    [
+      "validity",
+      "questions",
+      "Sokal Affair"
+    ],
+    [
+      "validity",
+      "questions",
+      "archaeology"
+    ],
+    [
+      "validity",
+      "questions",
+      "confusion"
+    ],
+    [
+      "validity",
+      "questions",
+      "forgery"
+    ],
+    [
+      "validity",
+      "supports",
+      "authenticity"
+    ],
+    [
+      "validity",
+      "tests",
+      "academic rigor"
+    ],
+    [
+      "validity",
+      "validated by",
+      "evolutionary theory"
+    ],
+    [
+      "validity",
+      "validated by",
+      "scientific community"
+    ],
+    [
+      "vigilance",
+      "challenges",
+      "mythologies"
+    ],
+    [
+      "vigilance",
+      "combats",
+      "misinformation"
+    ],
+    [
+      "vigilance",
+      "drives",
+      "public fascination"
+    ],
+    [
+      "vigilance",
+      "enhances",
+      "skepticism"
+    ],
+    [
+      "vigilance",
+      "exploits",
+      "manipulation"
+    ],
+    [
+      "vigilance",
+      "highlights",
+      "War of the Worlds"
+    ],
+    [
+      "vigilance",
+      "induces",
+      "mass hysteria"
+    ],
+    [
+      "vigilance",
+      "informs",
+      "historical narratives"
+    ],
+    [
+      "vigilance",
+      "promotes",
+      "cultural critique"
+    ],
+    [
+      "vigilance",
+      "protects against",
+      "hoaxes"
+    ],
+    [
+      "vigilance",
+      "questions",
+      "authenticity"
+    ],
+    [
+      "vigilance",
+      "questions",
+      "truth"
+    ],
+    [
+      "vigilance",
+      "requires",
+      "critical thinking"
+    ],
+    [
+      "vigilance",
+      "shapes",
+      "public perception"
+    ],
+    [
+      "vigilance",
+      "shapes",
+      "transformative narratives"
+    ]
+  ],
+  "edges": [
+    "affects",
+    "analyzed by",
+    "analyzes",
+    "assessed by",
+    "assesses",
+    "associated with",
+    "benefits from",
+    "captures",
+    "caused",
+    "caused by",
+    "causes",
+    "challenged by",
+    "challenges",
+    "combats",
+    "compares to",
+    "complicates",
+    "compromises",
+    "confirms",
+    "confuses",
+    "consults",
+    "contextualizes",
+    "contradicts",
+    "contrasts with",
+    "contributes to",
+    "created by",
+    "creates",
+    "critiques",
+    "debated",
+    "deceived by",
+    "deceives",
+    "demands",
+    "demonstrates",
+    "depicts",
+    "documents",
+    "driven by",
+    "drives",
+    "elicits",
+    "encourages",
+    "engenders",
+    "enhances",
+    "evaluated by",
+    "evaluates",
+    "evokes",
+    "exacerbates",
+    "examined by",
+    "examined in",
+    "examined through",
+    "examines",
+    "exemplifies",
+    "exploited by",
+    "exploits",
+    "exposed by",
+    "exposes",
+    "faces",
+    "facilitates",
+    "fascinates",
+    "featured by",
+    "fuels",
+    "generated by",
+    "generates",
+    "gives rise to",
+    "highlights",
+    "illustrates",
+    "impacts",
+    "incited",
+    "incites",
+    "induces",
+    "influenced",
+    "influenced by",
+    "influences",
+    "informs",
+    "inspired",
+    "inspired by",
+    "inspires",
+    "involves",
+    "is",
+    "is a consequence of",
+    "is a form of",
+    "is a measure of",
+    "is a part of",
+    "is a result of",
+    "is a type of",
+    "is affected by",
+    "is an example of",
+    "is analyzed by",
+    "is assessed by",
+    "is associated with",
+    "is caused by",
+    "is challenged by",
+    "is critiqued by",
+    "is deceived by",
+    "is driven by",
+    "is evaluated by",
+    "is examined in",
+    "is exemplified by",
+    "is fueled by",
+    "is influenced by",
+    "is informed by",
+    "is inspired by",
+    "is linked to",
+    "is questioned by",
+    "is related to",
+    "is revealed by",
+    "is scrutinized by",
+    "is shaped by",
+    "lacks",
+    "leads to",
+    "led to",
+    "manipulated by",
+    "misleads",
+    "misled",
+    "misled by",
+    "misrepresents",
+    "motivates",
+    "profited from",
+    "promotes",
+    "protects against",
+    "published by",
+    "published in",
+    "publishes",
+    "questioned by",
+    "questions",
+    "raises",
+    "related to",
+    "relates to",
+    "requires",
+    "resulted from",
+    "resulted in",
+    "results from",
+    "results in",
+    "revealed by",
+    "reveals",
+    "seeks",
+    "shaped",
+    "shaped by",
+    "shapes",
+    "sparked",
+    "sparks",
+    "spreads",
+    "stimulated",
+    "stimulates",
+    "supports",
+    "tests",
+    "triggers",
+    "undermines",
+    "utilized by",
+    "utilizes",
+    "validated by",
+    "validates"
+  ]
+}

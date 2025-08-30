@@ -1,0 +1,7413 @@
+{
+  "entities": [
+    "Doppler radar",
+    "Enhanced Fujita scale",
+    "air lifting",
+    "air parcels",
+    "air temperature",
+    "atmospheric conditions",
+    "atmospheric factors",
+    "atmospheric interplay",
+    "catastrophic destruction",
+    "change in wind",
+    "classification",
+    "cold front",
+    "community awareness",
+    "complex interplay",
+    "cool dry air",
+    "cumulonimbus clouds",
+    "damage",
+    "damage mitigation",
+    "destructive",
+    "destructive power",
+    "development process",
+    "disaster preparedness",
+    "dry line",
+    "dust whirl stage",
+    "emergency responders",
+    "environmental factors",
+    "focal points",
+    "forecasting",
+    "forecasting capabilities",
+    "formation processes",
+    "funnel",
+    "ground observations",
+    "human impact",
+    "inflow",
+    "instability",
+    "intensification",
+    "knowledge enhancement",
+    "mature stage",
+    "mesocyclone",
+    "meteorologists",
+    "minor damage",
+    "monitoring",
+    "natural disasters",
+    "natural phenomena",
+    "outflow boundary",
+    "predicting impact",
+    "preparation strategies",
+    "preparedness",
+    "property protection",
+    "protecting lives",
+    "research advancements",
+    "resilience",
+    "response improvement",
+    "risk management",
+    "risk regions",
+    "rotating column",
+    "safety measures",
+    "satellite imagery",
+    "scientific understanding",
+    "severe thunderstorms",
+    "significant threat",
+    "stages of development",
+    "storm dynamics",
+    "storm prediction",
+    "storm response",
+    "technology advances",
+    "thunderstorm",
+    "tools",
+    "tornado",
+    "tornado characteristics",
+    "tornado development",
+    "tornado formation",
+    "tornado lifecycle",
+    "tornado science",
+    "tornado warnings",
+    "tornado-prone regions",
+    "tornadoes",
+    "trigger mechanism",
+    "violent storms",
+    "visible condensation",
+    "warm air",
+    "weather conditions",
+    "weather radar",
+    "wind shear",
+    "wind speeds"
+  ],
+  "relations": [
+    [
+      "Doppler radar",
+      "affects",
+      "human impact"
+    ],
+    [
+      "Doppler radar",
+      "affects",
+      "intensification"
+    ],
+    [
+      "Doppler radar",
+      "affects",
+      "natural disasters"
+    ],
+    [
+      "Doppler radar",
+      "aids",
+      "damage mitigation"
+    ],
+    [
+      "Doppler radar",
+      "aids in",
+      "protecting lives"
+    ],
+    [
+      "Doppler radar",
+      "assesses",
+      "risk regions"
+    ],
+    [
+      "Doppler radar",
+      "assists",
+      "tornado-prone regions"
+    ],
+    [
+      "Doppler radar",
+      "detects",
+      "dry line"
+    ],
+    [
+      "Doppler radar",
+      "detects",
+      "inflow"
+    ],
+    [
+      "Doppler radar",
+      "detects",
+      "tornado"
+    ],
+    [
+      "Doppler radar",
+      "detects",
+      "tornado development"
+    ],
+    [
+      "Doppler radar",
+      "detects",
+      "violent storms"
+    ],
+    [
+      "Doppler radar",
+      "detects",
+      "wind shear"
+    ],
+    [
+      "Doppler radar",
+      "enables",
+      "monitoring"
+    ],
+    [
+      "Doppler radar",
+      "enhances",
+      "forecasting capabilities"
+    ],
+    [
+      "Doppler radar",
+      "enhances",
+      "tornado science"
+    ],
+    [
+      "Doppler radar",
+      "improves",
+      "response improvement"
+    ],
+    [
+      "Doppler radar",
+      "influences",
+      "atmospheric conditions"
+    ],
+    [
+      "Doppler radar",
+      "interacts with",
+      "cold front"
+    ],
+    [
+      "Doppler radar",
+      "interacts with",
+      "outflow boundary"
+    ],
+    [
+      "Doppler radar",
+      "is analyzed by",
+      "instability"
+    ],
+    [
+      "Doppler radar",
+      "is important for",
+      "preparedness"
+    ],
+    [
+      "Doppler radar",
+      "issues",
+      "tornado warnings"
+    ],
+    [
+      "Doppler radar",
+      "poses",
+      "significant threat"
+    ],
+    [
+      "Doppler radar",
+      "protects",
+      "property protection"
+    ],
+    [
+      "Doppler radar",
+      "represents",
+      "research advancements"
+    ],
+    [
+      "Doppler radar",
+      "represents",
+      "technology advances"
+    ],
+    [
+      "Doppler radar",
+      "serves as",
+      "focal points"
+    ],
+    [
+      "Doppler radar",
+      "supports",
+      "disaster preparedness"
+    ],
+    [
+      "Doppler radar",
+      "supports",
+      "risk management"
+    ],
+    [
+      "Doppler radar",
+      "supports",
+      "storm prediction"
+    ],
+    [
+      "Doppler radar",
+      "utilizes",
+      "ground observations"
+    ],
+    [
+      "Doppler radar",
+      "utilizes",
+      "meteorologists"
+    ],
+    [
+      "Enhanced Fujita scale",
+      "assesses",
+      "risk regions"
+    ],
+    [
+      "Enhanced Fujita scale",
+      "describes",
+      "destructive"
+    ],
+    [
+      "Enhanced Fujita scale",
+      "is assessed by",
+      "storm prediction"
+    ],
+    [
+      "Enhanced Fujita scale",
+      "is assessed by",
+      "tornado warnings"
+    ],
+    [
+      "Enhanced Fujita scale",
+      "is assessed by",
+      "wind shear"
+    ],
+    [
+      "Enhanced Fujita scale",
+      "is classified by",
+      "inflow"
+    ],
+    [
+      "Enhanced Fujita scale",
+      "is evaluated by",
+      "catastrophic destruction"
+    ],
+    [
+      "Enhanced Fujita scale",
+      "is evaluated by",
+      "scientific understanding"
+    ],
+    [
+      "air lifting",
+      "affects",
+      "human impact"
+    ],
+    [
+      "air lifting",
+      "aids",
+      "forecasting"
+    ],
+    [
+      "air lifting",
+      "aids in",
+      "damage mitigation"
+    ],
+    [
+      "air lifting",
+      "causes",
+      "dry line"
+    ],
+    [
+      "air lifting",
+      "causes",
+      "minor damage"
+    ],
+    [
+      "air lifting",
+      "contributes to",
+      "violent storms"
+    ],
+    [
+      "air lifting",
+      "creates",
+      "cumulonimbus clouds"
+    ],
+    [
+      "air lifting",
+      "creates",
+      "funnel"
+    ],
+    [
+      "air lifting",
+      "detects",
+      "weather radar"
+    ],
+    [
+      "air lifting",
+      "drives",
+      "research advancements"
+    ],
+    [
+      "air lifting",
+      "facilitates monitoring of",
+      "monitoring"
+    ],
+    [
+      "air lifting",
+      "interacts with",
+      "outflow boundary"
+    ],
+    [
+      "air lifting",
+      "involves",
+      "complex interplay"
+    ],
+    [
+      "air lifting",
+      "is a factor in",
+      "instability"
+    ],
+    [
+      "air lifting",
+      "is characterized by",
+      "dust whirl stage"
+    ],
+    [
+      "air lifting",
+      "is crucial for",
+      "tornadoes"
+    ],
+    [
+      "air lifting",
+      "is essential for",
+      "tornado formation"
+    ],
+    [
+      "air lifting",
+      "is part of",
+      "development process"
+    ],
+    [
+      "air lifting",
+      "is part of",
+      "stages of development"
+    ],
+    [
+      "air lifting",
+      "produces",
+      "rotating column"
+    ],
+    [
+      "air lifting",
+      "protects",
+      "property protection"
+    ],
+    [
+      "air lifting",
+      "result of",
+      "visible condensation"
+    ],
+    [
+      "air lifting",
+      "serves as",
+      "trigger mechanism"
+    ],
+    [
+      "air lifting",
+      "supports",
+      "emergency responders"
+    ],
+    [
+      "air lifting",
+      "supports",
+      "protecting lives"
+    ],
+    [
+      "air parcels",
+      "acts as",
+      "focal points"
+    ],
+    [
+      "air parcels",
+      "affects",
+      "outflow boundary"
+    ],
+    [
+      "air parcels",
+      "aids in",
+      "protecting lives"
+    ],
+    [
+      "air parcels",
+      "contributes to",
+      "development process"
+    ],
+    [
+      "air parcels",
+      "contributes to",
+      "stages of development"
+    ],
+    [
+      "air parcels",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "air parcels",
+      "forms",
+      "cumulonimbus clouds"
+    ],
+    [
+      "air parcels",
+      "forms",
+      "rotating column"
+    ],
+    [
+      "air parcels",
+      "influences",
+      "risk regions"
+    ],
+    [
+      "air parcels",
+      "is a component of",
+      "funnel"
+    ],
+    [
+      "air parcels",
+      "is a stage of",
+      "dust whirl stage"
+    ],
+    [
+      "air parcels",
+      "is associated with",
+      "thunderstorm"
+    ],
+    [
+      "air parcels",
+      "leads to",
+      "tornado-prone regions"
+    ],
+    [
+      "air temperature",
+      "affects",
+      "air parcels"
+    ],
+    [
+      "air temperature",
+      "affects",
+      "emergency responders"
+    ],
+    [
+      "air temperature",
+      "affects",
+      "formation processes"
+    ],
+    [
+      "air temperature",
+      "affects",
+      "human impact"
+    ],
+    [
+      "air temperature",
+      "affects",
+      "outflow boundary"
+    ],
+    [
+      "air temperature",
+      "affects",
+      "warm air"
+    ],
+    [
+      "air temperature",
+      "contributes to",
+      "damage mitigation"
+    ],
+    [
+      "air temperature",
+      "contributes to",
+      "tornado formation"
+    ],
+    [
+      "air temperature",
+      "influences",
+      "cumulonimbus clouds"
+    ],
+    [
+      "air temperature",
+      "influences",
+      "tornado characteristics"
+    ],
+    [
+      "air temperature",
+      "informs",
+      "forecasting"
+    ],
+    [
+      "air temperature",
+      "informs",
+      "scientific understanding"
+    ],
+    [
+      "air temperature",
+      "interacts with",
+      "dry line"
+    ],
+    [
+      "air temperature",
+      "is affected by",
+      "visible condensation"
+    ],
+    [
+      "air temperature",
+      "poses",
+      "significant threat"
+    ],
+    [
+      "atmospheric conditions",
+      "affects",
+      "air temperature"
+    ],
+    [
+      "atmospheric conditions",
+      "affects",
+      "human impact"
+    ],
+    [
+      "atmospheric conditions",
+      "affects",
+      "response improvement"
+    ],
+    [
+      "atmospheric conditions",
+      "contributes to",
+      "instability"
+    ],
+    [
+      "atmospheric conditions",
+      "creates conditions for",
+      "thunderstorm"
+    ],
+    [
+      "atmospheric conditions",
+      "increases",
+      "risk regions"
+    ],
+    [
+      "atmospheric conditions",
+      "influences",
+      "outflow boundary"
+    ],
+    [
+      "atmospheric conditions",
+      "influences",
+      "wind shear"
+    ],
+    [
+      "atmospheric conditions",
+      "informs",
+      "forecasting"
+    ],
+    [
+      "atmospheric conditions",
+      "interacts with",
+      "cool dry air"
+    ],
+    [
+      "atmospheric conditions",
+      "interacts with",
+      "warm air"
+    ],
+    [
+      "atmospheric conditions",
+      "involves",
+      "air parcels"
+    ],
+    [
+      "atmospheric conditions",
+      "involves",
+      "complex interplay"
+    ],
+    [
+      "atmospheric conditions",
+      "is a cause of",
+      "violent storms"
+    ],
+    [
+      "atmospheric conditions",
+      "is a factor in",
+      "trigger mechanism"
+    ],
+    [
+      "atmospheric conditions",
+      "is a phase of",
+      "mature stage"
+    ],
+    [
+      "atmospheric conditions",
+      "is associated with",
+      "tornadoes"
+    ],
+    [
+      "atmospheric conditions",
+      "is essential for",
+      "formation processes"
+    ],
+    [
+      "atmospheric conditions",
+      "is influenced by",
+      "tornado"
+    ],
+    [
+      "atmospheric conditions",
+      "leads to",
+      "tornado formation"
+    ],
+    [
+      "atmospheric conditions",
+      "poses",
+      "significant threat"
+    ],
+    [
+      "atmospheric conditions",
+      "produces",
+      "cumulonimbus clouds"
+    ],
+    [
+      "atmospheric conditions",
+      "serves as",
+      "focal points"
+    ],
+    [
+      "atmospheric factors",
+      "affects",
+      "human impact"
+    ],
+    [
+      "atmospheric factors",
+      "alerts",
+      "tornado warnings"
+    ],
+    [
+      "atmospheric factors",
+      "contributes to",
+      "dry line"
+    ],
+    [
+      "atmospheric factors",
+      "contributes to",
+      "instability"
+    ],
+    [
+      "atmospheric factors",
+      "contributes to",
+      "warm air"
+    ],
+    [
+      "atmospheric factors",
+      "creates",
+      "rotating column"
+    ],
+    [
+      "atmospheric factors",
+      "drives",
+      "research advancements"
+    ],
+    [
+      "atmospheric factors",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "atmospheric factors",
+      "facilitates",
+      "air lifting"
+    ],
+    [
+      "atmospheric factors",
+      "influences",
+      "formation processes"
+    ],
+    [
+      "atmospheric factors",
+      "informs",
+      "tornado science"
+    ],
+    [
+      "atmospheric factors",
+      "involves",
+      "wind shear"
+    ],
+    [
+      "atmospheric factors",
+      "leads to",
+      "tornado formation"
+    ],
+    [
+      "atmospheric factors",
+      "represents",
+      "dust whirl stage"
+    ],
+    [
+      "atmospheric factors",
+      "supports",
+      "damage mitigation"
+    ],
+    [
+      "atmospheric factors",
+      "triggers",
+      "outflow boundary"
+    ],
+    [
+      "atmospheric interplay",
+      "affects",
+      "formation processes"
+    ],
+    [
+      "atmospheric interplay",
+      "affects",
+      "inflow"
+    ],
+    [
+      "atmospheric interplay",
+      "causes",
+      "destructive"
+    ],
+    [
+      "atmospheric interplay",
+      "contributes to",
+      "violent storms"
+    ],
+    [
+      "atmospheric interplay",
+      "creates",
+      "rotating column"
+    ],
+    [
+      "atmospheric interplay",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "atmospheric interplay",
+      "influences",
+      "cumulonimbus clouds"
+    ],
+    [
+      "atmospheric interplay",
+      "informs",
+      "risk management"
+    ],
+    [
+      "atmospheric interplay",
+      "interacts with",
+      "atmospheric factors"
+    ],
+    [
+      "atmospheric interplay",
+      "involves",
+      "air lifting"
+    ],
+    [
+      "atmospheric interplay",
+      "involves",
+      "tornado lifecycle"
+    ],
+    [
+      "atmospheric interplay",
+      "is a component of",
+      "dry line"
+    ],
+    [
+      "atmospheric interplay",
+      "is associated with",
+      "outflow boundary"
+    ],
+    [
+      "atmospheric interplay",
+      "is influenced by",
+      "tornado development"
+    ],
+    [
+      "atmospheric interplay",
+      "represents",
+      "dust whirl stage"
+    ],
+    [
+      "atmospheric interplay",
+      "results in",
+      "tornado warnings"
+    ],
+    [
+      "catastrophic destruction",
+      "can lead to",
+      "atmospheric conditions"
+    ],
+    [
+      "catastrophic destruction",
+      "can lead to",
+      "ground observations"
+    ],
+    [
+      "catastrophic destruction",
+      "causes",
+      "mesocyclone"
+    ],
+    [
+      "catastrophic destruction",
+      "causes",
+      "tornado characteristics"
+    ],
+    [
+      "catastrophic destruction",
+      "causes",
+      "weather conditions"
+    ],
+    [
+      "catastrophic destruction",
+      "is a cause of",
+      "tornado formation"
+    ],
+    [
+      "catastrophic destruction",
+      "is a consequence of",
+      "destructive power"
+    ],
+    [
+      "catastrophic destruction",
+      "is a factor in",
+      "trigger mechanism"
+    ],
+    [
+      "catastrophic destruction",
+      "is a result of",
+      "violent storms"
+    ],
+    [
+      "catastrophic destruction",
+      "is a type of",
+      "natural phenomena"
+    ],
+    [
+      "catastrophic destruction",
+      "is aimed at",
+      "protecting lives"
+    ],
+    [
+      "catastrophic destruction",
+      "is categorized as",
+      "classification"
+    ],
+    [
+      "catastrophic destruction",
+      "is caused by",
+      "storm response"
+    ],
+    [
+      "catastrophic destruction",
+      "is enhanced by",
+      "knowledge enhancement"
+    ],
+    [
+      "catastrophic destruction",
+      "is less than",
+      "minor damage"
+    ],
+    [
+      "catastrophic destruction",
+      "is monitored for",
+      "monitoring"
+    ],
+    [
+      "catastrophic destruction",
+      "leads to",
+      "scientific understanding"
+    ],
+    [
+      "catastrophic destruction",
+      "necessitates",
+      "safety measures"
+    ],
+    [
+      "catastrophic destruction",
+      "result of",
+      "tornado"
+    ],
+    [
+      "catastrophic destruction",
+      "results in",
+      "human impact"
+    ],
+    [
+      "catastrophic destruction",
+      "results in",
+      "intensification"
+    ],
+    [
+      "catastrophic destruction",
+      "results in",
+      "resilience"
+    ],
+    [
+      "catastrophic destruction",
+      "results in",
+      "severe thunderstorms"
+    ],
+    [
+      "catastrophic destruction",
+      "results in",
+      "visible condensation"
+    ],
+    [
+      "catastrophic destruction",
+      "threatens",
+      "tornado-prone regions"
+    ],
+    [
+      "change in wind",
+      "affects",
+      "air parcels"
+    ],
+    [
+      "change in wind",
+      "affects",
+      "inflow"
+    ],
+    [
+      "change in wind",
+      "affects",
+      "tools"
+    ],
+    [
+      "change in wind",
+      "affects",
+      "violent storms"
+    ],
+    [
+      "change in wind",
+      "affects",
+      "wind speeds"
+    ],
+    [
+      "change in wind",
+      "causes",
+      "damage"
+    ],
+    [
+      "change in wind",
+      "contributes to",
+      "formation processes"
+    ],
+    [
+      "change in wind",
+      "creates",
+      "focal points"
+    ],
+    [
+      "change in wind",
+      "creates",
+      "rotating column"
+    ],
+    [
+      "change in wind",
+      "is a component of",
+      "tornado science"
+    ],
+    [
+      "change in wind",
+      "is formed by",
+      "cumulonimbus clouds"
+    ],
+    [
+      "change in wind",
+      "is influenced by",
+      "minor damage"
+    ],
+    [
+      "change in wind",
+      "leads to",
+      "dust whirl stage"
+    ],
+    [
+      "change in wind",
+      "triggers",
+      "trigger mechanism"
+    ],
+    [
+      "classification",
+      "aids in",
+      "damage mitigation"
+    ],
+    [
+      "classification",
+      "describes",
+      "dust whirl stage"
+    ],
+    [
+      "classification",
+      "describes",
+      "funnel"
+    ],
+    [
+      "classification",
+      "describes",
+      "stages of development"
+    ],
+    [
+      "classification",
+      "enhances",
+      "forecasting"
+    ],
+    [
+      "classification",
+      "facilitates",
+      "property protection"
+    ],
+    [
+      "classification",
+      "improves",
+      "forecasting capabilities"
+    ],
+    [
+      "classification",
+      "influences",
+      "trigger mechanism"
+    ],
+    [
+      "classification",
+      "is a factor in",
+      "outflow boundary"
+    ],
+    [
+      "classification",
+      "is a field of study in",
+      "tornado science"
+    ],
+    [
+      "classification",
+      "is classified by",
+      "atmospheric interplay"
+    ],
+    [
+      "classification",
+      "is essential for",
+      "formation processes"
+    ],
+    [
+      "classification",
+      "is essential for",
+      "protecting lives"
+    ],
+    [
+      "classification",
+      "represents",
+      "significant threat"
+    ],
+    [
+      "classification",
+      "utilizes",
+      "weather radar"
+    ],
+    [
+      "cold front",
+      "acts as",
+      "focal points"
+    ],
+    [
+      "cold front",
+      "affects",
+      "air parcels"
+    ],
+    [
+      "cold front",
+      "affects",
+      "risk regions"
+    ],
+    [
+      "cold front",
+      "aids in",
+      "damage mitigation"
+    ],
+    [
+      "cold front",
+      "aids in",
+      "forecasting"
+    ],
+    [
+      "cold front",
+      "associated with",
+      "thunderstorm"
+    ],
+    [
+      "cold front",
+      "can lead to",
+      "tornadoes"
+    ],
+    [
+      "cold front",
+      "can trigger",
+      "tornado"
+    ],
+    [
+      "cold front",
+      "contributes to",
+      "intensification"
+    ],
+    [
+      "cold front",
+      "contributes to",
+      "violent storms"
+    ],
+    [
+      "cold front",
+      "creates",
+      "instability"
+    ],
+    [
+      "cold front",
+      "enables",
+      "tornado development"
+    ],
+    [
+      "cold front",
+      "facilitates",
+      "tornado formation"
+    ],
+    [
+      "cold front",
+      "forms",
+      "cumulonimbus clouds"
+    ],
+    [
+      "cold front",
+      "influences",
+      "atmospheric conditions"
+    ],
+    [
+      "cold front",
+      "influences",
+      "atmospheric factors"
+    ],
+    [
+      "cold front",
+      "influences",
+      "stages of development"
+    ],
+    [
+      "cold front",
+      "initiates",
+      "air lifting"
+    ],
+    [
+      "cold front",
+      "interacts with",
+      "mesocyclone"
+    ],
+    [
+      "cold front",
+      "interacts with",
+      "outflow boundary"
+    ],
+    [
+      "cold front",
+      "interacts with",
+      "wind shear"
+    ],
+    [
+      "cold front",
+      "is a factor in",
+      "formation processes"
+    ],
+    [
+      "cold front",
+      "is a factor in",
+      "preparedness"
+    ],
+    [
+      "cold front",
+      "is a stage of",
+      "dust whirl stage"
+    ],
+    [
+      "cold front",
+      "is a type of",
+      "classification"
+    ],
+    [
+      "cold front",
+      "is used for",
+      "storm prediction"
+    ],
+    [
+      "cold front",
+      "produces",
+      "funnel"
+    ],
+    [
+      "cold front",
+      "provides",
+      "property protection"
+    ],
+    [
+      "cold front",
+      "serves as",
+      "trigger mechanism"
+    ],
+    [
+      "cold front",
+      "utilizes",
+      "weather radar"
+    ],
+    [
+      "community awareness",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "community awareness",
+      "highlights",
+      "significant threat"
+    ],
+    [
+      "community awareness",
+      "increases",
+      "monitoring"
+    ],
+    [
+      "community awareness",
+      "informs",
+      "tornado-prone regions"
+    ],
+    [
+      "community awareness",
+      "raises awareness of",
+      "tornado"
+    ],
+    [
+      "complex interplay",
+      "aids in",
+      "damage mitigation"
+    ],
+    [
+      "complex interplay",
+      "involves",
+      "focal points"
+    ],
+    [
+      "complex interplay",
+      "involves",
+      "forecasting"
+    ],
+    [
+      "complex interplay",
+      "involves",
+      "inflow"
+    ],
+    [
+      "complex interplay",
+      "is influenced by",
+      "wind shear"
+    ],
+    [
+      "complex interplay",
+      "leads to",
+      "tornado formation"
+    ],
+    [
+      "cool dry air",
+      "affects",
+      "trigger mechanism"
+    ],
+    [
+      "cool dry air",
+      "contributes to",
+      "atmospheric factors"
+    ],
+    [
+      "cool dry air",
+      "contributes to",
+      "change in wind"
+    ],
+    [
+      "cool dry air",
+      "influenced by",
+      "destructive"
+    ],
+    [
+      "cool dry air",
+      "influenced by",
+      "property protection"
+    ],
+    [
+      "cool dry air",
+      "influences",
+      "human impact"
+    ],
+    [
+      "cool dry air",
+      "influences",
+      "intensification"
+    ],
+    [
+      "cool dry air",
+      "is affected by",
+      "inflow"
+    ],
+    [
+      "cool dry air",
+      "is affected by",
+      "tornado development"
+    ],
+    [
+      "cool dry air",
+      "is influenced by",
+      "tornado lifecycle"
+    ],
+    [
+      "cumulonimbus clouds",
+      "associated with",
+      "formation processes"
+    ],
+    [
+      "cumulonimbus clouds",
+      "causes",
+      "catastrophic destruction"
+    ],
+    [
+      "cumulonimbus clouds",
+      "formed by",
+      "violent storms"
+    ],
+    [
+      "cumulonimbus clouds",
+      "forms from",
+      "tornado"
+    ],
+    [
+      "cumulonimbus clouds",
+      "is associated with",
+      "minor damage"
+    ],
+    [
+      "cumulonimbus clouds",
+      "is essential for",
+      "tornado formation"
+    ],
+    [
+      "cumulonimbus clouds",
+      "is formed from",
+      "dust whirl stage"
+    ],
+    [
+      "cumulonimbus clouds",
+      "serve as",
+      "focal points"
+    ],
+    [
+      "damage",
+      "causes",
+      "cumulonimbus clouds"
+    ],
+    [
+      "damage",
+      "causes",
+      "funnel"
+    ],
+    [
+      "damage",
+      "causes",
+      "mesocyclone"
+    ],
+    [
+      "damage",
+      "causes",
+      "natural disasters"
+    ],
+    [
+      "damage",
+      "causes",
+      "rotating column"
+    ],
+    [
+      "damage",
+      "causes",
+      "severe thunderstorms"
+    ],
+    [
+      "damage",
+      "causes",
+      "weather radar"
+    ],
+    [
+      "damage",
+      "damages",
+      "tornado characteristics"
+    ],
+    [
+      "damage",
+      "impacts",
+      "storm response"
+    ],
+    [
+      "damage",
+      "is caused by",
+      "tornado warnings"
+    ],
+    [
+      "damage",
+      "is impacted by",
+      "tornado science"
+    ],
+    [
+      "damage",
+      "is related to",
+      "storm prediction"
+    ],
+    [
+      "damage",
+      "predicts",
+      "forecasting"
+    ],
+    [
+      "damage",
+      "rated by",
+      "Enhanced Fujita scale"
+    ],
+    [
+      "damage",
+      "responds to",
+      "emergency responders"
+    ],
+    [
+      "damage",
+      "results in",
+      "catastrophic destruction"
+    ],
+    [
+      "damage",
+      "results in",
+      "dust whirl stage"
+    ],
+    [
+      "damage",
+      "results in",
+      "ground observations"
+    ],
+    [
+      "damage",
+      "results in",
+      "intensification"
+    ],
+    [
+      "damage",
+      "results in",
+      "property protection"
+    ],
+    [
+      "damage",
+      "results in",
+      "risk management"
+    ],
+    [
+      "damage",
+      "results in",
+      "thunderstorm"
+    ],
+    [
+      "damage mitigation",
+      "aids in",
+      "cumulonimbus clouds"
+    ],
+    [
+      "damage mitigation",
+      "aids in",
+      "tornado science"
+    ],
+    [
+      "damage mitigation",
+      "is mitigated by",
+      "destructive"
+    ],
+    [
+      "damage mitigation",
+      "mitigated by",
+      "mesocyclone"
+    ],
+    [
+      "damage mitigation",
+      "reduces",
+      "atmospheric interplay"
+    ],
+    [
+      "damage mitigation",
+      "supports",
+      "forecasting capabilities"
+    ],
+    [
+      "damage mitigation",
+      "supports",
+      "property protection"
+    ],
+    [
+      "destructive",
+      "affects",
+      "risk regions"
+    ],
+    [
+      "destructive",
+      "causes",
+      "dust whirl stage"
+    ],
+    [
+      "destructive",
+      "causes",
+      "tornado science"
+    ],
+    [
+      "destructive",
+      "causes",
+      "wind shear"
+    ],
+    [
+      "destructive",
+      "contributes to",
+      "natural disasters"
+    ],
+    [
+      "destructive",
+      "is a consequence of",
+      "scientific understanding"
+    ],
+    [
+      "destructive",
+      "is a result of",
+      "instability"
+    ],
+    [
+      "destructive",
+      "is a result of",
+      "resilience"
+    ],
+    [
+      "destructive",
+      "is affected by",
+      "risk management"
+    ],
+    [
+      "destructive",
+      "is characterized by",
+      "stages of development"
+    ],
+    [
+      "destructive",
+      "is characterized by",
+      "tornadoes"
+    ],
+    [
+      "destructive",
+      "is essential for",
+      "tornado formation"
+    ],
+    [
+      "destructive",
+      "is impacted by",
+      "response improvement"
+    ],
+    [
+      "destructive",
+      "result of",
+      "violent storms"
+    ],
+    [
+      "destructive",
+      "results in",
+      "predicting impact"
+    ],
+    [
+      "destructive power",
+      "affects",
+      "human impact"
+    ],
+    [
+      "destructive power",
+      "affects",
+      "tornado-prone regions"
+    ],
+    [
+      "destructive power",
+      "causes",
+      "damage"
+    ],
+    [
+      "destructive power",
+      "causes",
+      "weather radar"
+    ],
+    [
+      "destructive power",
+      "demonstrates",
+      "complex interplay"
+    ],
+    [
+      "destructive power",
+      "demonstrates",
+      "intensification"
+    ],
+    [
+      "destructive power",
+      "demonstrates",
+      "minor damage"
+    ],
+    [
+      "destructive power",
+      "drives",
+      "research advancements"
+    ],
+    [
+      "destructive power",
+      "enhances",
+      "Doppler radar"
+    ],
+    [
+      "destructive power",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "destructive power",
+      "exemplifies",
+      "ground observations"
+    ],
+    [
+      "destructive power",
+      "is a result of",
+      "mature stage"
+    ],
+    [
+      "destructive power",
+      "is a result of",
+      "protecting lives"
+    ],
+    [
+      "destructive power",
+      "is affected by",
+      "meteorologists"
+    ],
+    [
+      "destructive power",
+      "is characterized by",
+      "tornado development"
+    ],
+    [
+      "destructive power",
+      "raises",
+      "community awareness"
+    ],
+    [
+      "destructive power",
+      "threatens",
+      "property protection"
+    ],
+    [
+      "destructive power",
+      "triggers",
+      "tornado warnings"
+    ],
+    [
+      "development process",
+      "affects",
+      "human impact"
+    ],
+    [
+      "development process",
+      "enhances",
+      "response improvement"
+    ],
+    [
+      "development process",
+      "ensures",
+      "property protection"
+    ],
+    [
+      "development process",
+      "includes",
+      "stages of development"
+    ],
+    [
+      "development process",
+      "involves",
+      "trigger mechanism"
+    ],
+    [
+      "development process",
+      "is associated with",
+      "cumulonimbus clouds"
+    ],
+    [
+      "development process",
+      "is part of",
+      "risk regions"
+    ],
+    [
+      "disaster preparedness",
+      "addresses",
+      "tornadoes"
+    ],
+    [
+      "disaster preparedness",
+      "enhances",
+      "destructive"
+    ],
+    [
+      "disaster preparedness",
+      "enhances",
+      "intensification"
+    ],
+    [
+      "disaster preparedness",
+      "enhances",
+      "risk management"
+    ],
+    [
+      "disaster preparedness",
+      "enhances",
+      "safety measures"
+    ],
+    [
+      "disaster preparedness",
+      "ensures",
+      "property protection"
+    ],
+    [
+      "disaster preparedness",
+      "informs",
+      "ground observations"
+    ],
+    [
+      "disaster preparedness",
+      "informs",
+      "wind speeds"
+    ],
+    [
+      "disaster preparedness",
+      "involves",
+      "classification"
+    ],
+    [
+      "disaster preparedness",
+      "involves",
+      "complex interplay"
+    ],
+    [
+      "disaster preparedness",
+      "is aimed at",
+      "protecting lives"
+    ],
+    [
+      "disaster preparedness",
+      "is essential for",
+      "damage mitigation"
+    ],
+    [
+      "disaster preparedness",
+      "is part of",
+      "mature stage"
+    ],
+    [
+      "disaster preparedness",
+      "mitigates",
+      "catastrophic destruction"
+    ],
+    [
+      "disaster preparedness",
+      "poses",
+      "significant threat"
+    ],
+    [
+      "disaster preparedness",
+      "promotes",
+      "community awareness"
+    ],
+    [
+      "disaster preparedness",
+      "supports",
+      "emergency responders"
+    ],
+    [
+      "disaster preparedness",
+      "supports",
+      "research advancements"
+    ],
+    [
+      "disaster preparedness",
+      "supports",
+      "tornado science"
+    ],
+    [
+      "dry line",
+      "acts as",
+      "focal points"
+    ],
+    [
+      "dry line",
+      "affects",
+      "air parcels"
+    ],
+    [
+      "dry line",
+      "creates",
+      "rotating column"
+    ],
+    [
+      "dry line",
+      "facilitates",
+      "monitoring"
+    ],
+    [
+      "dry line",
+      "interacts with",
+      "warm air"
+    ],
+    [
+      "dry line",
+      "is a factor in",
+      "cumulonimbus clouds"
+    ],
+    [
+      "dry line",
+      "is influenced by",
+      "forecasting"
+    ],
+    [
+      "dry line",
+      "is influenced by",
+      "tornado"
+    ],
+    [
+      "dry line",
+      "is influenced by",
+      "tornadoes"
+    ],
+    [
+      "dry line",
+      "poses",
+      "significant threat"
+    ],
+    [
+      "dry line",
+      "protected by",
+      "property protection"
+    ],
+    [
+      "dust whirl stage",
+      "affects",
+      "human impact"
+    ],
+    [
+      "dust whirl stage",
+      "characterizes",
+      "minor damage"
+    ],
+    [
+      "dust whirl stage",
+      "characterizes",
+      "storm dynamics"
+    ],
+    [
+      "dust whirl stage",
+      "characterizes",
+      "warm air"
+    ],
+    [
+      "dust whirl stage",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "dust whirl stage",
+      "is a phase of",
+      "rotating column"
+    ],
+    [
+      "dust whirl stage",
+      "is a stage of",
+      "atmospheric conditions"
+    ],
+    [
+      "dust whirl stage",
+      "is a stage of",
+      "intensification"
+    ],
+    [
+      "dust whirl stage",
+      "is a stage of",
+      "mesocyclone"
+    ],
+    [
+      "dust whirl stage",
+      "is a stage of",
+      "natural phenomena"
+    ],
+    [
+      "dust whirl stage",
+      "is a trigger for",
+      "trigger mechanism"
+    ],
+    [
+      "dust whirl stage",
+      "produces",
+      "funnel"
+    ],
+    [
+      "dust whirl stage",
+      "utilizes",
+      "tools"
+    ],
+    [
+      "emergency responders",
+      "assists",
+      "Doppler radar"
+    ],
+    [
+      "emergency responders",
+      "assists",
+      "mature stage"
+    ],
+    [
+      "emergency responders",
+      "benefits from",
+      "research advancements"
+    ],
+    [
+      "emergency responders",
+      "enhances",
+      "response improvement"
+    ],
+    [
+      "emergency responders",
+      "enhances",
+      "safety measures"
+    ],
+    [
+      "emergency responders",
+      "faces",
+      "significant threat"
+    ],
+    [
+      "emergency responders",
+      "increases",
+      "community awareness"
+    ],
+    [
+      "emergency responders",
+      "is affected by",
+      "instability"
+    ],
+    [
+      "emergency responders",
+      "issues",
+      "tornado warnings"
+    ],
+    [
+      "emergency responders",
+      "respond to",
+      "tornadoes"
+    ],
+    [
+      "emergency responders",
+      "responds to",
+      "catastrophic destruction"
+    ],
+    [
+      "emergency responders",
+      "responds to",
+      "destructive power"
+    ],
+    [
+      "emergency responders",
+      "responds to",
+      "tornado"
+    ],
+    [
+      "emergency responders",
+      "responds to",
+      "violent storms"
+    ],
+    [
+      "emergency responders",
+      "supports",
+      "risk regions"
+    ],
+    [
+      "emergency responders",
+      "supports",
+      "tornado-prone regions"
+    ],
+    [
+      "emergency responders",
+      "supports",
+      "weather radar"
+    ],
+    [
+      "emergency responders",
+      "uses",
+      "tools"
+    ],
+    [
+      "environmental factors",
+      "contributes to",
+      "tornado formation"
+    ],
+    [
+      "environmental factors",
+      "is affected by",
+      "tornadoes"
+    ],
+    [
+      "environmental factors",
+      "is influenced by",
+      "inflow"
+    ],
+    [
+      "environmental factors",
+      "is influenced by",
+      "preparedness"
+    ],
+    [
+      "environmental factors",
+      "leads to",
+      "destructive"
+    ],
+    [
+      "focal points",
+      "identifies",
+      "risk regions"
+    ],
+    [
+      "focal points",
+      "is facilitated by",
+      "risk management"
+    ],
+    [
+      "focal points",
+      "is identified by",
+      "forecasting capabilities"
+    ],
+    [
+      "focal points",
+      "is influenced by",
+      "Enhanced Fujita scale"
+    ],
+    [
+      "focal points",
+      "is influenced by",
+      "intensification"
+    ],
+    [
+      "focal points",
+      "is influenced by",
+      "stages of development"
+    ],
+    [
+      "focal points",
+      "represents a",
+      "significant threat"
+    ],
+    [
+      "focal points",
+      "results from",
+      "catastrophic destruction"
+    ],
+    [
+      "focal points",
+      "serves as",
+      "rotating column"
+    ],
+    [
+      "focal points",
+      "trigger for",
+      "instability"
+    ],
+    [
+      "focal points",
+      "used as",
+      "tornado warnings"
+    ],
+    [
+      "forecasting",
+      "aids in",
+      "damage mitigation"
+    ],
+    [
+      "forecasting",
+      "enhances",
+      "intensification"
+    ],
+    [
+      "forecasting",
+      "enhances",
+      "response improvement"
+    ],
+    [
+      "forecasting",
+      "guides",
+      "development process"
+    ],
+    [
+      "forecasting",
+      "identifies",
+      "risk regions"
+    ],
+    [
+      "forecasting",
+      "improves",
+      "wind shear"
+    ],
+    [
+      "forecasting",
+      "includes",
+      "tools"
+    ],
+    [
+      "forecasting",
+      "increases",
+      "community awareness"
+    ],
+    [
+      "forecasting",
+      "informs",
+      "minor damage"
+    ],
+    [
+      "forecasting",
+      "involves",
+      "monitoring"
+    ],
+    [
+      "forecasting",
+      "involves",
+      "natural disasters"
+    ],
+    [
+      "forecasting",
+      "is influenced by",
+      "outflow boundary"
+    ],
+    [
+      "forecasting",
+      "is predicted by",
+      "catastrophic destruction"
+    ],
+    [
+      "forecasting",
+      "is predicted by",
+      "mature stage"
+    ],
+    [
+      "forecasting",
+      "is predicted by",
+      "tornado characteristics"
+    ],
+    [
+      "forecasting",
+      "is predicted by",
+      "wind speeds"
+    ],
+    [
+      "forecasting",
+      "poses",
+      "significant threat"
+    ],
+    [
+      "forecasting",
+      "predicts",
+      "tornadoes"
+    ],
+    [
+      "forecasting",
+      "predicts",
+      "violent storms"
+    ],
+    [
+      "forecasting capabilities",
+      "affects",
+      "damage"
+    ],
+    [
+      "forecasting capabilities",
+      "affects",
+      "human impact"
+    ],
+    [
+      "forecasting capabilities",
+      "aiding in",
+      "catastrophic destruction"
+    ],
+    [
+      "forecasting capabilities",
+      "enhances",
+      "atmospheric conditions"
+    ],
+    [
+      "forecasting capabilities",
+      "enhances",
+      "instability"
+    ],
+    [
+      "forecasting capabilities",
+      "enhances",
+      "intensification"
+    ],
+    [
+      "forecasting capabilities",
+      "enhances",
+      "minor damage"
+    ],
+    [
+      "forecasting capabilities",
+      "enhances",
+      "resilience"
+    ],
+    [
+      "forecasting capabilities",
+      "enhances",
+      "satellite imagery"
+    ],
+    [
+      "forecasting capabilities",
+      "enhances",
+      "weather conditions"
+    ],
+    [
+      "forecasting capabilities",
+      "enhances",
+      "weather radar"
+    ],
+    [
+      "forecasting capabilities",
+      "enhances",
+      "wind speeds"
+    ],
+    [
+      "forecasting capabilities",
+      "is enhanced by",
+      "protecting lives"
+    ],
+    [
+      "forecasting capabilities",
+      "is influenced by",
+      "stages of development"
+    ],
+    [
+      "formation processes",
+      "involves",
+      "tornado-prone regions"
+    ],
+    [
+      "formation processes",
+      "involves wind shear in",
+      "wind shear"
+    ],
+    [
+      "formation processes",
+      "is related to",
+      "violent storms"
+    ],
+    [
+      "formation processes",
+      "leads to",
+      "tornado formation"
+    ],
+    [
+      "formation processes",
+      "leads to",
+      "tornadoes"
+    ],
+    [
+      "formation processes",
+      "raises",
+      "community awareness"
+    ],
+    [
+      "formation processes",
+      "supports",
+      "damage mitigation"
+    ],
+    [
+      "formation processes",
+      "triggers",
+      "focal points"
+    ],
+    [
+      "formation processes",
+      "triggers",
+      "outflow boundary"
+    ],
+    [
+      "funnel",
+      "can produce",
+      "thunderstorm"
+    ],
+    [
+      "funnel",
+      "contributes to",
+      "instability"
+    ],
+    [
+      "funnel",
+      "detects",
+      "Doppler radar"
+    ],
+    [
+      "funnel",
+      "forms",
+      "change in wind"
+    ],
+    [
+      "funnel",
+      "is a component of",
+      "natural phenomena"
+    ],
+    [
+      "funnel",
+      "is a component of",
+      "tornado formation"
+    ],
+    [
+      "funnel",
+      "is a component of",
+      "tornado lifecycle"
+    ],
+    [
+      "funnel",
+      "is a component of",
+      "tornadoes"
+    ],
+    [
+      "funnel",
+      "is a result of",
+      "development process"
+    ],
+    [
+      "funnel",
+      "is a result of",
+      "violent storms"
+    ],
+    [
+      "funnel",
+      "is affected by",
+      "resilience"
+    ],
+    [
+      "funnel",
+      "is formed from",
+      "tornado"
+    ],
+    [
+      "funnel",
+      "is observed in",
+      "monitoring"
+    ],
+    [
+      "funnel",
+      "is produced by",
+      "atmospheric factors"
+    ],
+    [
+      "funnel",
+      "is related to",
+      "weather conditions"
+    ],
+    [
+      "funnel",
+      "results in",
+      "intensification"
+    ],
+    [
+      "ground observations",
+      "affects",
+      "human impact"
+    ],
+    [
+      "ground observations",
+      "affects",
+      "intensification"
+    ],
+    [
+      "ground observations",
+      "aids in",
+      "protecting lives"
+    ],
+    [
+      "ground observations",
+      "assists",
+      "emergency responders"
+    ],
+    [
+      "ground observations",
+      "contributes to",
+      "tornado formation"
+    ],
+    [
+      "ground observations",
+      "contributes to",
+      "tornado science"
+    ],
+    [
+      "ground observations",
+      "enhances",
+      "forecasting capabilities"
+    ],
+    [
+      "ground observations",
+      "highlights",
+      "significant threat"
+    ],
+    [
+      "ground observations",
+      "informed by",
+      "resilience"
+    ],
+    [
+      "ground observations",
+      "informs",
+      "Enhanced Fujita scale"
+    ],
+    [
+      "ground observations",
+      "informs",
+      "risk regions"
+    ],
+    [
+      "ground observations",
+      "informs",
+      "storm response"
+    ],
+    [
+      "ground observations",
+      "informs",
+      "tornado development"
+    ],
+    [
+      "ground observations",
+      "informs",
+      "violent storms"
+    ],
+    [
+      "ground observations",
+      "involves",
+      "air parcels"
+    ],
+    [
+      "ground observations",
+      "is a phase of",
+      "mature stage"
+    ],
+    [
+      "ground observations",
+      "is related to",
+      "tornadoes"
+    ],
+    [
+      "ground observations",
+      "monitors",
+      "tornado lifecycle"
+    ],
+    [
+      "ground observations",
+      "supports",
+      "change in wind"
+    ],
+    [
+      "ground observations",
+      "supports",
+      "monitoring"
+    ],
+    [
+      "ground observations",
+      "supports damage mitigation through",
+      "damage mitigation"
+    ],
+    [
+      "ground observations",
+      "utilizes",
+      "tools"
+    ],
+    [
+      "human impact",
+      "affected by",
+      "response improvement"
+    ],
+    [
+      "human impact",
+      "affects",
+      "formation processes"
+    ],
+    [
+      "human impact",
+      "affects",
+      "knowledge enhancement"
+    ],
+    [
+      "human impact",
+      "affects",
+      "severe thunderstorms"
+    ],
+    [
+      "human impact",
+      "affects",
+      "tornado warnings"
+    ],
+    [
+      "human impact",
+      "aids in",
+      "damage mitigation"
+    ],
+    [
+      "human impact",
+      "impacts",
+      "environmental factors"
+    ],
+    [
+      "human impact",
+      "impacts",
+      "mature stage"
+    ],
+    [
+      "human impact",
+      "impacts",
+      "preparedness"
+    ],
+    [
+      "human impact",
+      "impacts",
+      "storm dynamics"
+    ],
+    [
+      "human impact",
+      "influences",
+      "Enhanced Fujita scale"
+    ],
+    [
+      "human impact",
+      "influences",
+      "natural disasters"
+    ],
+    [
+      "inflow",
+      "affects",
+      "human impact"
+    ],
+    [
+      "inflow",
+      "affects",
+      "storm dynamics"
+    ],
+    [
+      "inflow",
+      "affects",
+      "tornadoes"
+    ],
+    [
+      "inflow",
+      "affects",
+      "wind speeds"
+    ],
+    [
+      "inflow",
+      "detects",
+      "weather radar"
+    ],
+    [
+      "inflow",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "inflow",
+      "facilitates",
+      "damage mitigation"
+    ],
+    [
+      "inflow",
+      "feeds into",
+      "rotating column"
+    ],
+    [
+      "inflow",
+      "identifies",
+      "risk regions"
+    ],
+    [
+      "inflow",
+      "improves",
+      "response improvement"
+    ],
+    [
+      "inflow",
+      "involves",
+      "air parcels"
+    ],
+    [
+      "inflow",
+      "is a component of",
+      "funnel"
+    ],
+    [
+      "inflow",
+      "is a component of",
+      "thunderstorm"
+    ],
+    [
+      "inflow",
+      "is a factor in",
+      "tornado formation"
+    ],
+    [
+      "inflow",
+      "is influenced by",
+      "instability"
+    ],
+    [
+      "inflow",
+      "protects",
+      "property protection"
+    ],
+    [
+      "inflow",
+      "provides",
+      "warm air"
+    ],
+    [
+      "inflow",
+      "serves as",
+      "focal points"
+    ],
+    [
+      "inflow",
+      "supports",
+      "cumulonimbus clouds"
+    ],
+    [
+      "instability",
+      "affects",
+      "classification"
+    ],
+    [
+      "instability",
+      "affects",
+      "ground observations"
+    ],
+    [
+      "instability",
+      "contributes to",
+      "damage"
+    ],
+    [
+      "instability",
+      "contributes to",
+      "dry line"
+    ],
+    [
+      "instability",
+      "contributes to",
+      "dust whirl stage"
+    ],
+    [
+      "instability",
+      "contributes to",
+      "thunderstorm"
+    ],
+    [
+      "instability",
+      "contributes to",
+      "tornado formation"
+    ],
+    [
+      "instability",
+      "contributes to formation of",
+      "cumulonimbus clouds"
+    ],
+    [
+      "instability",
+      "creates",
+      "rotating column"
+    ],
+    [
+      "instability",
+      "influences",
+      "stages of development"
+    ],
+    [
+      "instability",
+      "interacts with",
+      "cool dry air"
+    ],
+    [
+      "instability",
+      "involves",
+      "tornado lifecycle"
+    ],
+    [
+      "instability",
+      "is a factor in",
+      "catastrophic destruction"
+    ],
+    [
+      "instability",
+      "is affected by",
+      "property protection"
+    ],
+    [
+      "instability",
+      "is characterized by",
+      "complex interplay"
+    ],
+    [
+      "instability",
+      "is monitored by",
+      "monitoring"
+    ],
+    [
+      "instability",
+      "is relevant to",
+      "tornado-prone regions"
+    ],
+    [
+      "instability",
+      "raises",
+      "community awareness"
+    ],
+    [
+      "instability",
+      "requires",
+      "tornado"
+    ],
+    [
+      "instability",
+      "triggers",
+      "trigger mechanism"
+    ],
+    [
+      "intensification",
+      "affects",
+      "human impact"
+    ],
+    [
+      "intensification",
+      "affects",
+      "tornado-prone regions"
+    ],
+    [
+      "intensification",
+      "enables intensification of",
+      "technology advances"
+    ],
+    [
+      "intensification",
+      "enhances",
+      "satellite imagery"
+    ],
+    [
+      "intensification",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "intensification",
+      "influences",
+      "formation processes"
+    ],
+    [
+      "intensification",
+      "influences",
+      "wind shear"
+    ],
+    [
+      "intensification",
+      "involves",
+      "complex interplay"
+    ],
+    [
+      "intensification",
+      "involves",
+      "warm air"
+    ],
+    [
+      "intensification",
+      "is a factor in",
+      "outflow boundary"
+    ],
+    [
+      "intensification",
+      "is detected by",
+      "weather radar"
+    ],
+    [
+      "intensification",
+      "is essential for",
+      "protecting lives"
+    ],
+    [
+      "intensification",
+      "is essential for",
+      "tornado formation"
+    ],
+    [
+      "intensification",
+      "is influenced by",
+      "inflow"
+    ],
+    [
+      "intensification",
+      "leads to",
+      "tornadoes"
+    ],
+    [
+      "intensification",
+      "promotes",
+      "safety measures"
+    ],
+    [
+      "intensification",
+      "results in",
+      "tornado"
+    ],
+    [
+      "knowledge enhancement",
+      "advances",
+      "tornado science"
+    ],
+    [
+      "knowledge enhancement",
+      "aids in",
+      "natural disasters"
+    ],
+    [
+      "knowledge enhancement",
+      "enhances",
+      "destructive"
+    ],
+    [
+      "knowledge enhancement",
+      "enhances",
+      "ground observations"
+    ],
+    [
+      "knowledge enhancement",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "knowledge enhancement",
+      "enhances",
+      "storm response"
+    ],
+    [
+      "knowledge enhancement",
+      "enhances",
+      "tornado warnings"
+    ],
+    [
+      "knowledge enhancement",
+      "enhances understanding of",
+      "tornado"
+    ],
+    [
+      "knowledge enhancement",
+      "facilitates",
+      "intensification"
+    ],
+    [
+      "knowledge enhancement",
+      "facilitates",
+      "technology advances"
+    ],
+    [
+      "knowledge enhancement",
+      "facilitates",
+      "tornado development"
+    ],
+    [
+      "knowledge enhancement",
+      "identifies",
+      "risk regions"
+    ],
+    [
+      "knowledge enhancement",
+      "improves",
+      "classification"
+    ],
+    [
+      "knowledge enhancement",
+      "improves",
+      "forecasting capabilities"
+    ],
+    [
+      "knowledge enhancement",
+      "improves",
+      "instability"
+    ],
+    [
+      "knowledge enhancement",
+      "improves",
+      "risk management"
+    ],
+    [
+      "knowledge enhancement",
+      "improves",
+      "storm prediction"
+    ],
+    [
+      "knowledge enhancement",
+      "improves",
+      "tornado characteristics"
+    ],
+    [
+      "knowledge enhancement",
+      "leads to",
+      "research advancements"
+    ],
+    [
+      "knowledge enhancement",
+      "leads to",
+      "response improvement"
+    ],
+    [
+      "knowledge enhancement",
+      "promotes",
+      "safety measures"
+    ],
+    [
+      "knowledge enhancement",
+      "supports",
+      "emergency responders"
+    ],
+    [
+      "knowledge enhancement",
+      "supports",
+      "monitoring"
+    ],
+    [
+      "knowledge enhancement",
+      "supports",
+      "tornado-prone regions"
+    ],
+    [
+      "knowledge enhancement",
+      "supports",
+      "weather radar"
+    ],
+    [
+      "knowledge enhancement",
+      "utilizes",
+      "Enhanced Fujita scale"
+    ],
+    [
+      "mature stage",
+      "affects",
+      "wind shear"
+    ],
+    [
+      "mature stage",
+      "aids",
+      "damage mitigation"
+    ],
+    [
+      "mature stage",
+      "aims to",
+      "protecting lives"
+    ],
+    [
+      "mature stage",
+      "contributes to scientific understanding of",
+      "scientific understanding"
+    ],
+    [
+      "mature stage",
+      "enhances",
+      "response improvement"
+    ],
+    [
+      "mature stage",
+      "informs",
+      "safety measures"
+    ],
+    [
+      "mature stage",
+      "involves",
+      "complex interplay"
+    ],
+    [
+      "mature stage",
+      "is a phase of",
+      "atmospheric factors"
+    ],
+    [
+      "mature stage",
+      "is a stage of",
+      "visible condensation"
+    ],
+    [
+      "mature stage",
+      "is associated with",
+      "cumulonimbus clouds"
+    ],
+    [
+      "mature stage",
+      "is associated with",
+      "minor damage"
+    ],
+    [
+      "mature stage",
+      "is characterized by",
+      "severe thunderstorms"
+    ],
+    [
+      "mature stage",
+      "is detected by",
+      "Doppler radar"
+    ],
+    [
+      "mature stage",
+      "is part of",
+      "inflow"
+    ],
+    [
+      "mature stage",
+      "occurs during",
+      "air lifting"
+    ],
+    [
+      "mature stage",
+      "occurs during",
+      "air temperature"
+    ],
+    [
+      "mature stage",
+      "occurs during",
+      "weather conditions"
+    ],
+    [
+      "mature stage",
+      "precedes",
+      "dust whirl stage"
+    ],
+    [
+      "mature stage",
+      "produces",
+      "funnel"
+    ],
+    [
+      "mature stage",
+      "provides",
+      "property protection"
+    ],
+    [
+      "mature stage",
+      "serves as",
+      "focal points"
+    ],
+    [
+      "mesocyclone",
+      "assists",
+      "emergency responders"
+    ],
+    [
+      "mesocyclone",
+      "contributes to",
+      "cool dry air"
+    ],
+    [
+      "mesocyclone",
+      "creates",
+      "wind shear"
+    ],
+    [
+      "mesocyclone",
+      "demonstrates",
+      "destructive power"
+    ],
+    [
+      "mesocyclone",
+      "drives",
+      "research advancements"
+    ],
+    [
+      "mesocyclone",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "mesocyclone",
+      "includes",
+      "stages of development"
+    ],
+    [
+      "mesocyclone",
+      "indicates",
+      "risk regions"
+    ],
+    [
+      "mesocyclone",
+      "influences",
+      "atmospheric conditions"
+    ],
+    [
+      "mesocyclone",
+      "influences",
+      "atmospheric factors"
+    ],
+    [
+      "mesocyclone",
+      "interacts with",
+      "warm air"
+    ],
+    [
+      "mesocyclone",
+      "involves",
+      "air parcels"
+    ],
+    [
+      "mesocyclone",
+      "is a component of",
+      "thunderstorm"
+    ],
+    [
+      "mesocyclone",
+      "is a component of",
+      "trigger mechanism"
+    ],
+    [
+      "mesocyclone",
+      "is a factor in",
+      "instability"
+    ],
+    [
+      "mesocyclone",
+      "is a part of",
+      "funnel"
+    ],
+    [
+      "mesocyclone",
+      "is a process of",
+      "tornado formation"
+    ],
+    [
+      "mesocyclone",
+      "is a type of",
+      "rotating column"
+    ],
+    [
+      "mesocyclone",
+      "is categorized by",
+      "classification"
+    ],
+    [
+      "mesocyclone",
+      "is enhanced by",
+      "intensification"
+    ],
+    [
+      "mesocyclone",
+      "is formed by",
+      "severe thunderstorms"
+    ],
+    [
+      "mesocyclone",
+      "is part of",
+      "development process"
+    ],
+    [
+      "mesocyclone",
+      "produces",
+      "tornado"
+    ],
+    [
+      "mesocyclone",
+      "produces",
+      "tornadoes"
+    ],
+    [
+      "mesocyclone",
+      "provides",
+      "property protection"
+    ],
+    [
+      "mesocyclone",
+      "provides inflow for",
+      "inflow"
+    ],
+    [
+      "meteorologists",
+      "affects",
+      "air parcels"
+    ],
+    [
+      "meteorologists",
+      "aids",
+      "damage mitigation"
+    ],
+    [
+      "meteorologists",
+      "analyzes",
+      "atmospheric factors"
+    ],
+    [
+      "meteorologists",
+      "analyzes",
+      "mature stage"
+    ],
+    [
+      "meteorologists",
+      "analyzes",
+      "thunderstorm"
+    ],
+    [
+      "meteorologists",
+      "analyzes",
+      "tornado formation"
+    ],
+    [
+      "meteorologists",
+      "analyzes",
+      "weather conditions"
+    ],
+    [
+      "meteorologists",
+      "assesses",
+      "catastrophic destruction"
+    ],
+    [
+      "meteorologists",
+      "assesses",
+      "damage"
+    ],
+    [
+      "meteorologists",
+      "conducts",
+      "classification"
+    ],
+    [
+      "meteorologists",
+      "contributes to",
+      "scientific understanding"
+    ],
+    [
+      "meteorologists",
+      "drives",
+      "research advancements"
+    ],
+    [
+      "meteorologists",
+      "enhances",
+      "forecasting capabilities"
+    ],
+    [
+      "meteorologists",
+      "enhances",
+      "property protection"
+    ],
+    [
+      "meteorologists",
+      "impacts",
+      "human impact"
+    ],
+    [
+      "meteorologists",
+      "improves",
+      "response improvement"
+    ],
+    [
+      "meteorologists",
+      "informs",
+      "minor damage"
+    ],
+    [
+      "meteorologists",
+      "involves",
+      "complex interplay"
+    ],
+    [
+      "meteorologists",
+      "involves",
+      "risk management"
+    ],
+    [
+      "meteorologists",
+      "is essential for",
+      "protecting lives"
+    ],
+    [
+      "meteorologists",
+      "monitors",
+      "significant threat"
+    ],
+    [
+      "meteorologists",
+      "studies",
+      "formation processes"
+    ],
+    [
+      "meteorologists",
+      "studies",
+      "instability"
+    ],
+    [
+      "meteorologists",
+      "studies",
+      "natural disasters"
+    ],
+    [
+      "meteorologists",
+      "studies",
+      "natural phenomena"
+    ],
+    [
+      "meteorologists",
+      "studies",
+      "tornado lifecycle"
+    ],
+    [
+      "meteorologists",
+      "studies",
+      "tornado science"
+    ],
+    [
+      "meteorologists",
+      "studies",
+      "tornadoes"
+    ],
+    [
+      "meteorologists",
+      "utilized by",
+      "ground observations"
+    ],
+    [
+      "meteorologists",
+      "utilized by",
+      "severe thunderstorms"
+    ],
+    [
+      "meteorologists",
+      "utilizes",
+      "focal points"
+    ],
+    [
+      "meteorologists",
+      "utilizes",
+      "satellite imagery"
+    ],
+    [
+      "meteorologists",
+      "utilizes",
+      "weather radar"
+    ],
+    [
+      "minor damage",
+      "causes",
+      "knowledge enhancement"
+    ],
+    [
+      "minor damage",
+      "causes",
+      "tornado characteristics"
+    ],
+    [
+      "minor damage",
+      "causes",
+      "tornado development"
+    ],
+    [
+      "minor damage",
+      "detects",
+      "Doppler radar"
+    ],
+    [
+      "minor damage",
+      "is a concern for",
+      "protecting lives"
+    ],
+    [
+      "minor damage",
+      "is a type of",
+      "destructive"
+    ],
+    [
+      "minor damage",
+      "is a type of",
+      "tools"
+    ],
+    [
+      "minor damage",
+      "is addressed by",
+      "damage mitigation"
+    ],
+    [
+      "minor damage",
+      "is caused by",
+      "mesocyclone"
+    ],
+    [
+      "minor damage",
+      "managed by",
+      "risk management"
+    ],
+    [
+      "minor damage",
+      "mitigates",
+      "resilience"
+    ],
+    [
+      "minor damage",
+      "raises",
+      "community awareness"
+    ],
+    [
+      "minor damage",
+      "reduces",
+      "disaster preparedness"
+    ],
+    [
+      "minor damage",
+      "results in",
+      "complex interplay"
+    ],
+    [
+      "minor damage",
+      "results in",
+      "funnel"
+    ],
+    [
+      "monitoring",
+      "aids in",
+      "damage mitigation"
+    ],
+    [
+      "monitoring",
+      "aids in",
+      "visible condensation"
+    ],
+    [
+      "monitoring",
+      "benefits from",
+      "protecting lives"
+    ],
+    [
+      "monitoring",
+      "involves",
+      "warm air"
+    ],
+    [
+      "monitoring",
+      "is a result of",
+      "minor damage"
+    ],
+    [
+      "monitoring",
+      "is informed by",
+      "storm prediction"
+    ],
+    [
+      "monitoring",
+      "is monitored by",
+      "destructive power"
+    ],
+    [
+      "monitoring",
+      "is monitored by",
+      "tornado characteristics"
+    ],
+    [
+      "monitoring",
+      "is part of",
+      "complex interplay"
+    ],
+    [
+      "monitoring",
+      "is related to",
+      "damage"
+    ],
+    [
+      "monitoring",
+      "monitored by",
+      "inflow"
+    ],
+    [
+      "monitoring",
+      "requires",
+      "mature stage"
+    ],
+    [
+      "natural disasters",
+      "is a consequence of",
+      "dust whirl stage"
+    ],
+    [
+      "natural disasters",
+      "is a consequence of",
+      "funnel"
+    ],
+    [
+      "natural disasters",
+      "is a consequence of",
+      "storm response"
+    ],
+    [
+      "natural disasters",
+      "is a consequence of",
+      "tornado warnings"
+    ],
+    [
+      "natural disasters",
+      "is a factor in",
+      "tornado formation"
+    ],
+    [
+      "natural disasters",
+      "is a threat to",
+      "protecting lives"
+    ],
+    [
+      "natural disasters",
+      "is a type of",
+      "tornado"
+    ],
+    [
+      "natural disasters",
+      "is caused by",
+      "ground observations"
+    ],
+    [
+      "natural disasters",
+      "is impacted by",
+      "tornado characteristics"
+    ],
+    [
+      "natural disasters",
+      "relates to",
+      "forecasting capabilities"
+    ],
+    [
+      "natural disasters",
+      "requires",
+      "damage mitigation"
+    ],
+    [
+      "natural disasters",
+      "responds to",
+      "emergency responders"
+    ],
+    [
+      "natural disasters",
+      "result from",
+      "severe thunderstorms"
+    ],
+    [
+      "natural disasters",
+      "results in",
+      "catastrophic destruction"
+    ],
+    [
+      "natural phenomena",
+      "affects",
+      "weather conditions"
+    ],
+    [
+      "natural phenomena",
+      "affects",
+      "weather radar"
+    ],
+    [
+      "natural phenomena",
+      "aids in",
+      "damage mitigation"
+    ],
+    [
+      "natural phenomena",
+      "contributes to",
+      "research advancements"
+    ],
+    [
+      "natural phenomena",
+      "includes",
+      "tornado"
+    ],
+    [
+      "natural phenomena",
+      "influences",
+      "wind shear"
+    ],
+    [
+      "natural phenomena",
+      "interacts with",
+      "environmental factors"
+    ],
+    [
+      "natural phenomena",
+      "involves",
+      "air lifting"
+    ],
+    [
+      "natural phenomena",
+      "involves",
+      "atmospheric conditions"
+    ],
+    [
+      "natural phenomena",
+      "involves",
+      "complex interplay"
+    ],
+    [
+      "natural phenomena",
+      "involves",
+      "formation processes"
+    ],
+    [
+      "natural phenomena",
+      "involves",
+      "inflow"
+    ],
+    [
+      "natural phenomena",
+      "is a type of",
+      "trigger mechanism"
+    ],
+    [
+      "natural phenomena",
+      "offers",
+      "property protection"
+    ],
+    [
+      "outflow boundary",
+      "acts as",
+      "trigger mechanism"
+    ],
+    [
+      "outflow boundary",
+      "affects",
+      "human impact"
+    ],
+    [
+      "outflow boundary",
+      "contributes to",
+      "destructive"
+    ],
+    [
+      "outflow boundary",
+      "contributes to",
+      "tornado formation"
+    ],
+    [
+      "outflow boundary",
+      "creates",
+      "rotating column"
+    ],
+    [
+      "outflow boundary",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "outflow boundary",
+      "initiates",
+      "development process"
+    ],
+    [
+      "outflow boundary",
+      "interacts with",
+      "dry line"
+    ],
+    [
+      "outflow boundary",
+      "is a consequence of",
+      "natural disasters"
+    ],
+    [
+      "outflow boundary",
+      "is a factor in",
+      "instability"
+    ],
+    [
+      "outflow boundary",
+      "is associated with",
+      "cumulonimbus clouds"
+    ],
+    [
+      "outflow boundary",
+      "is associated with",
+      "thunderstorm"
+    ],
+    [
+      "outflow boundary",
+      "is associated with",
+      "tornadoes"
+    ],
+    [
+      "outflow boundary",
+      "is classified by",
+      "Enhanced Fujita scale"
+    ],
+    [
+      "outflow boundary",
+      "is influenced by",
+      "mature stage"
+    ],
+    [
+      "outflow boundary",
+      "is influenced by",
+      "risk regions"
+    ],
+    [
+      "outflow boundary",
+      "produces",
+      "funnel"
+    ],
+    [
+      "outflow boundary",
+      "triggered by",
+      "tornado"
+    ],
+    [
+      "predicting impact",
+      "affects",
+      "minor damage"
+    ],
+    [
+      "predicting impact",
+      "aids",
+      "emergency responders"
+    ],
+    [
+      "predicting impact",
+      "enables",
+      "tornado warnings"
+    ],
+    [
+      "predicting impact",
+      "enhances",
+      "community awareness"
+    ],
+    [
+      "predicting impact",
+      "enhances",
+      "disaster preparedness"
+    ],
+    [
+      "predicting impact",
+      "enhances",
+      "forecasting"
+    ],
+    [
+      "predicting impact",
+      "enhances",
+      "forecasting capabilities"
+    ],
+    [
+      "predicting impact",
+      "enhances",
+      "preparedness"
+    ],
+    [
+      "predicting impact",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "predicting impact",
+      "informs",
+      "tornado science"
+    ],
+    [
+      "predicting impact",
+      "involves",
+      "air parcels"
+    ],
+    [
+      "predicting impact",
+      "involves",
+      "storm prediction"
+    ],
+    [
+      "predicting impact",
+      "involves",
+      "tornadoes"
+    ],
+    [
+      "predicting impact",
+      "involves predicting",
+      "risk regions"
+    ],
+    [
+      "predicting impact",
+      "is crucial for",
+      "damage mitigation"
+    ],
+    [
+      "predicting impact",
+      "is essential for",
+      "protecting lives"
+    ],
+    [
+      "predicting impact",
+      "is influenced by",
+      "technology advances"
+    ],
+    [
+      "predicting impact",
+      "is linked to",
+      "severe thunderstorms"
+    ],
+    [
+      "predicting impact",
+      "is relevant to",
+      "tornado-prone regions"
+    ],
+    [
+      "predicting impact",
+      "leads to",
+      "safety measures"
+    ],
+    [
+      "predicting impact",
+      "relates to",
+      "natural disasters"
+    ],
+    [
+      "predicting impact",
+      "utilizes",
+      "satellite imagery"
+    ],
+    [
+      "predicting impact",
+      "utilizes",
+      "tools"
+    ],
+    [
+      "preparation strategies",
+      "contributes to",
+      "tornado development"
+    ],
+    [
+      "preparation strategies",
+      "describes",
+      "stages of development"
+    ],
+    [
+      "preparation strategies",
+      "enhances",
+      "development process"
+    ],
+    [
+      "preparation strategies",
+      "enhances",
+      "predicting impact"
+    ],
+    [
+      "preparation strategies",
+      "enhances",
+      "research advancements"
+    ],
+    [
+      "preparation strategies",
+      "enhances",
+      "satellite imagery"
+    ],
+    [
+      "preparation strategies",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "preparation strategies",
+      "enhances",
+      "storm prediction"
+    ],
+    [
+      "preparation strategies",
+      "influences",
+      "environmental factors"
+    ],
+    [
+      "preparation strategies",
+      "influences",
+      "human impact"
+    ],
+    [
+      "preparation strategies",
+      "influences",
+      "tornado lifecycle"
+    ],
+    [
+      "preparation strategies",
+      "informs",
+      "tornado warnings"
+    ],
+    [
+      "preparation strategies",
+      "interacts with",
+      "atmospheric interplay"
+    ],
+    [
+      "preparation strategies",
+      "involves",
+      "complex interplay"
+    ],
+    [
+      "preparation strategies",
+      "involves",
+      "inflow"
+    ],
+    [
+      "preparation strategies",
+      "involves",
+      "trigger mechanism"
+    ],
+    [
+      "preparation strategies",
+      "involves",
+      "wind shear"
+    ],
+    [
+      "preparation strategies",
+      "is affected by",
+      "cool dry air"
+    ],
+    [
+      "preparation strategies",
+      "is assessed by",
+      "Enhanced Fujita scale"
+    ],
+    [
+      "preparation strategies",
+      "is characterized by",
+      "mature stage"
+    ],
+    [
+      "preparation strategies",
+      "is influenced by",
+      "visible condensation"
+    ],
+    [
+      "preparation strategies",
+      "is part of",
+      "disaster preparedness"
+    ],
+    [
+      "preparation strategies",
+      "mitigates",
+      "natural disasters"
+    ],
+    [
+      "preparation strategies",
+      "reduces",
+      "catastrophic destruction"
+    ],
+    [
+      "preparation strategies",
+      "serves as",
+      "focal points"
+    ],
+    [
+      "preparation strategies",
+      "supports",
+      "forecasting"
+    ],
+    [
+      "preparation strategies",
+      "supports",
+      "forecasting capabilities"
+    ],
+    [
+      "preparation strategies",
+      "supports",
+      "formation processes"
+    ],
+    [
+      "preparation strategies",
+      "supports",
+      "protecting lives"
+    ],
+    [
+      "preparedness",
+      "enhances",
+      "community awareness"
+    ],
+    [
+      "preparedness",
+      "enhances",
+      "forecasting capabilities"
+    ],
+    [
+      "preparedness",
+      "enhances",
+      "knowledge enhancement"
+    ],
+    [
+      "preparedness",
+      "enhances",
+      "storm response"
+    ],
+    [
+      "preparedness",
+      "improves",
+      "ground observations"
+    ],
+    [
+      "preparedness",
+      "influences",
+      "formation processes"
+    ],
+    [
+      "preparedness",
+      "influences",
+      "rotating column"
+    ],
+    [
+      "preparedness",
+      "influences",
+      "weather conditions"
+    ],
+    [
+      "preparedness",
+      "informs about",
+      "risk regions"
+    ],
+    [
+      "preparedness",
+      "involves",
+      "risk management"
+    ],
+    [
+      "preparedness",
+      "involves",
+      "tornado"
+    ],
+    [
+      "preparedness",
+      "involves",
+      "tornado lifecycle"
+    ],
+    [
+      "preparedness",
+      "is a concern for",
+      "natural disasters"
+    ],
+    [
+      "preparedness",
+      "is a result of",
+      "destructive power"
+    ],
+    [
+      "preparedness",
+      "is enhanced by",
+      "atmospheric interplay"
+    ],
+    [
+      "preparedness",
+      "is essential for",
+      "mature stage"
+    ],
+    [
+      "preparedness",
+      "is essential for",
+      "protecting lives"
+    ],
+    [
+      "preparedness",
+      "is essential for",
+      "tornado warnings"
+    ],
+    [
+      "preparedness",
+      "is influenced by",
+      "warm air"
+    ],
+    [
+      "preparedness",
+      "is necessary for",
+      "destructive"
+    ],
+    [
+      "preparedness",
+      "is necessary for",
+      "dry line"
+    ],
+    [
+      "preparedness",
+      "mitigates",
+      "damage"
+    ],
+    [
+      "preparedness",
+      "requires",
+      "predicting impact"
+    ],
+    [
+      "preparedness",
+      "serves as",
+      "focal points"
+    ],
+    [
+      "preparedness",
+      "supports",
+      "air lifting"
+    ],
+    [
+      "preparedness",
+      "supports",
+      "emergency responders"
+    ],
+    [
+      "preparedness",
+      "supports",
+      "meteorologists"
+    ],
+    [
+      "preparedness",
+      "supports",
+      "monitoring"
+    ],
+    [
+      "preparedness",
+      "supports",
+      "property protection"
+    ],
+    [
+      "preparedness",
+      "supports",
+      "storm prediction"
+    ],
+    [
+      "property protection",
+      "enhances",
+      "forecasting capabilities"
+    ],
+    [
+      "property protection",
+      "is assessed by",
+      "Enhanced Fujita scale"
+    ],
+    [
+      "property protection",
+      "protects",
+      "formation processes"
+    ],
+    [
+      "property protection",
+      "protects",
+      "tornado lifecycle"
+    ],
+    [
+      "property protection",
+      "protects",
+      "tornado science"
+    ],
+    [
+      "protecting lives",
+      "aids in",
+      "tools"
+    ],
+    [
+      "protecting lives",
+      "aims to protect",
+      "risk regions"
+    ],
+    [
+      "protecting lives",
+      "assists in",
+      "emergency responders"
+    ],
+    [
+      "protecting lives",
+      "depends on",
+      "forecasting"
+    ],
+    [
+      "protecting lives",
+      "ensures",
+      "property protection"
+    ],
+    [
+      "protecting lives",
+      "is a result of",
+      "complex interplay"
+    ],
+    [
+      "protecting lives",
+      "is affected by",
+      "tornadoes"
+    ],
+    [
+      "protecting lives",
+      "is aimed at",
+      "safety measures"
+    ],
+    [
+      "protecting lives",
+      "leads to",
+      "response improvement"
+    ],
+    [
+      "protecting lives",
+      "mitigates",
+      "instability"
+    ],
+    [
+      "research advancements",
+      "addresses",
+      "natural disasters"
+    ],
+    [
+      "research advancements",
+      "advances understanding of",
+      "tornado formation"
+    ],
+    [
+      "research advancements",
+      "aids in",
+      "damage mitigation"
+    ],
+    [
+      "research advancements",
+      "benefits",
+      "tornado-prone regions"
+    ],
+    [
+      "research advancements",
+      "contributes to",
+      "violent storms"
+    ],
+    [
+      "research advancements",
+      "creates",
+      "focal points"
+    ],
+    [
+      "research advancements",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "research advancements",
+      "increases",
+      "community awareness"
+    ],
+    [
+      "research advancements",
+      "influences",
+      "environmental factors"
+    ],
+    [
+      "research advancements",
+      "influences",
+      "outflow boundary"
+    ],
+    [
+      "research advancements",
+      "involves",
+      "warm air"
+    ],
+    [
+      "research advancements",
+      "is studied in",
+      "instability"
+    ],
+    [
+      "research advancements",
+      "utilizes",
+      "satellite imagery"
+    ],
+    [
+      "resilience",
+      "affects",
+      "human impact"
+    ],
+    [
+      "resilience",
+      "aids in",
+      "damage mitigation"
+    ],
+    [
+      "resilience",
+      "contributes to",
+      "instability"
+    ],
+    [
+      "resilience",
+      "depends on",
+      "atmospheric conditions"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "community awareness"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "monitoring"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "preparedness"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "visible condensation"
+    ],
+    [
+      "resilience",
+      "facilitates",
+      "air lifting"
+    ],
+    [
+      "resilience",
+      "facilitates",
+      "tornado formation"
+    ],
+    [
+      "resilience",
+      "is affected by",
+      "tornadoes"
+    ],
+    [
+      "resilience",
+      "is challenged by",
+      "violent storms"
+    ],
+    [
+      "resilience",
+      "is essential for",
+      "protecting lives"
+    ],
+    [
+      "resilience",
+      "is influenced by",
+      "storm prediction"
+    ],
+    [
+      "resilience",
+      "is related to",
+      "formation processes"
+    ],
+    [
+      "resilience",
+      "serves as",
+      "focal points"
+    ],
+    [
+      "resilience",
+      "supports",
+      "Doppler radar"
+    ],
+    [
+      "resilience",
+      "supports",
+      "emergency responders"
+    ],
+    [
+      "response improvement",
+      "enhanced by",
+      "property protection"
+    ],
+    [
+      "response improvement",
+      "enhances",
+      "monitoring"
+    ],
+    [
+      "response improvement",
+      "enhances",
+      "natural disasters"
+    ],
+    [
+      "response improvement",
+      "improves",
+      "Enhanced Fujita scale"
+    ],
+    [
+      "response improvement",
+      "improves",
+      "catastrophic destruction"
+    ],
+    [
+      "response improvement",
+      "improves",
+      "safety measures"
+    ],
+    [
+      "response improvement",
+      "improves",
+      "tornado-prone regions"
+    ],
+    [
+      "response improvement",
+      "leads to",
+      "forecasting capabilities"
+    ],
+    [
+      "response improvement",
+      "leads to",
+      "intensification"
+    ],
+    [
+      "risk management",
+      "addresses",
+      "natural disasters"
+    ],
+    [
+      "risk management",
+      "addresses",
+      "tornadoes"
+    ],
+    [
+      "risk management",
+      "enhances",
+      "air lifting"
+    ],
+    [
+      "risk management",
+      "enhances",
+      "response improvement"
+    ],
+    [
+      "risk management",
+      "enhances",
+      "weather radar"
+    ],
+    [
+      "risk management",
+      "focuses on",
+      "protecting lives"
+    ],
+    [
+      "risk management",
+      "identifies",
+      "risk regions"
+    ],
+    [
+      "risk management",
+      "increases",
+      "violent storms"
+    ],
+    [
+      "risk management",
+      "informs",
+      "storm dynamics"
+    ],
+    [
+      "risk management",
+      "involves",
+      "complex interplay"
+    ],
+    [
+      "risk management",
+      "involves",
+      "monitoring"
+    ],
+    [
+      "risk management",
+      "involves",
+      "rotating column"
+    ],
+    [
+      "risk management",
+      "involves",
+      "tornado"
+    ],
+    [
+      "risk management",
+      "is addressed by",
+      "human impact"
+    ],
+    [
+      "risk management",
+      "is affected by",
+      "destructive power"
+    ],
+    [
+      "risk management",
+      "is applied to",
+      "thunderstorm"
+    ],
+    [
+      "risk management",
+      "is managed by",
+      "severe thunderstorms"
+    ],
+    [
+      "risk management",
+      "is supported by",
+      "resilience"
+    ],
+    [
+      "risk management",
+      "issues",
+      "tornado warnings"
+    ],
+    [
+      "risk management",
+      "reduces",
+      "damage mitigation"
+    ],
+    [
+      "risk management",
+      "supports",
+      "ground observations"
+    ],
+    [
+      "risk management",
+      "supports",
+      "storm response"
+    ],
+    [
+      "risk management",
+      "triggers",
+      "trigger mechanism"
+    ],
+    [
+      "risk regions",
+      "affected by",
+      "weather radar"
+    ],
+    [
+      "risk regions",
+      "identifies",
+      "funnel"
+    ],
+    [
+      "risk regions",
+      "increases",
+      "cool dry air"
+    ],
+    [
+      "risk regions",
+      "increases",
+      "damage"
+    ],
+    [
+      "risk regions",
+      "supports",
+      "damage mitigation"
+    ],
+    [
+      "rotating column",
+      "causes",
+      "destructive"
+    ],
+    [
+      "rotating column",
+      "is a component of",
+      "funnel"
+    ],
+    [
+      "rotating column",
+      "is a component of",
+      "minor damage"
+    ],
+    [
+      "rotating column",
+      "is a factor in",
+      "ground observations"
+    ],
+    [
+      "rotating column",
+      "is associated with",
+      "risk regions"
+    ],
+    [
+      "rotating column",
+      "is formed by",
+      "inflow"
+    ],
+    [
+      "rotating column",
+      "is related to",
+      "tornado warnings"
+    ],
+    [
+      "rotating column",
+      "results in",
+      "catastrophic destruction"
+    ],
+    [
+      "rotating column",
+      "supports damage mitigation for",
+      "damage mitigation"
+    ],
+    [
+      "safety measures",
+      "mitigates",
+      "instability"
+    ],
+    [
+      "safety measures",
+      "mitigates",
+      "natural disasters"
+    ],
+    [
+      "satellite imagery",
+      "aids",
+      "monitoring"
+    ],
+    [
+      "satellite imagery",
+      "aids in",
+      "property protection"
+    ],
+    [
+      "satellite imagery",
+      "analyzed by",
+      "storm dynamics"
+    ],
+    [
+      "satellite imagery",
+      "assesses",
+      "damage"
+    ],
+    [
+      "satellite imagery",
+      "contributes to",
+      "natural disasters"
+    ],
+    [
+      "satellite imagery",
+      "enhances",
+      "safety measures"
+    ],
+    [
+      "satellite imagery",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "satellite imagery",
+      "facilitates",
+      "tornado formation"
+    ],
+    [
+      "satellite imagery",
+      "identifies",
+      "focal points"
+    ],
+    [
+      "satellite imagery",
+      "informs",
+      "tornado warnings"
+    ],
+    [
+      "satellite imagery",
+      "is analyzed by",
+      "destructive power"
+    ],
+    [
+      "satellite imagery",
+      "is enhanced by",
+      "minor damage"
+    ],
+    [
+      "satellite imagery",
+      "is informed by",
+      "forecasting"
+    ],
+    [
+      "satellite imagery",
+      "is relevant to",
+      "tornado-prone regions"
+    ],
+    [
+      "satellite imagery",
+      "is used in",
+      "Enhanced Fujita scale"
+    ],
+    [
+      "satellite imagery",
+      "is used in",
+      "violent storms"
+    ],
+    [
+      "satellite imagery",
+      "is utilized by",
+      "thunderstorm"
+    ],
+    [
+      "satellite imagery",
+      "monitored by",
+      "formation processes"
+    ],
+    [
+      "satellite imagery",
+      "monitored by",
+      "severe thunderstorms"
+    ],
+    [
+      "satellite imagery",
+      "monitored by",
+      "tornadoes"
+    ],
+    [
+      "satellite imagery",
+      "supported by",
+      "emergency responders"
+    ],
+    [
+      "satellite imagery",
+      "supports",
+      "damage mitigation"
+    ],
+    [
+      "satellite imagery",
+      "utilizes",
+      "preparedness"
+    ],
+    [
+      "scientific understanding",
+      "addresses",
+      "natural disasters"
+    ],
+    [
+      "scientific understanding",
+      "affects",
+      "human impact"
+    ],
+    [
+      "scientific understanding",
+      "contributes to",
+      "ground observations"
+    ],
+    [
+      "scientific understanding",
+      "describes",
+      "rotating column"
+    ],
+    [
+      "scientific understanding",
+      "enhances",
+      "safety measures"
+    ],
+    [
+      "scientific understanding",
+      "informs",
+      "response improvement"
+    ],
+    [
+      "scientific understanding",
+      "informs",
+      "tornado-prone regions"
+    ],
+    [
+      "scientific understanding",
+      "involves complex interplay of",
+      "complex interplay"
+    ],
+    [
+      "scientific understanding",
+      "is a consequence of",
+      "property protection"
+    ],
+    [
+      "scientific understanding",
+      "is enhanced by",
+      "classification"
+    ],
+    [
+      "scientific understanding",
+      "is essential for",
+      "monitoring"
+    ],
+    [
+      "scientific understanding",
+      "reduces",
+      "risk regions"
+    ],
+    [
+      "severe thunderstorms",
+      "aids in",
+      "storm prediction"
+    ],
+    [
+      "severe thunderstorms",
+      "associated with",
+      "outflow boundary"
+    ],
+    [
+      "severe thunderstorms",
+      "causes",
+      "destructive"
+    ],
+    [
+      "severe thunderstorms",
+      "causes",
+      "minor damage"
+    ],
+    [
+      "severe thunderstorms",
+      "contributes to",
+      "instability"
+    ],
+    [
+      "severe thunderstorms",
+      "contributes to",
+      "research advancements"
+    ],
+    [
+      "severe thunderstorms",
+      "creates",
+      "rotating column"
+    ],
+    [
+      "severe thunderstorms",
+      "detects",
+      "weather radar"
+    ],
+    [
+      "severe thunderstorms",
+      "enhances",
+      "preparedness"
+    ],
+    [
+      "severe thunderstorms",
+      "facilitates",
+      "tornado development"
+    ],
+    [
+      "severe thunderstorms",
+      "improves",
+      "response improvement"
+    ],
+    [
+      "severe thunderstorms",
+      "increases",
+      "community awareness"
+    ],
+    [
+      "severe thunderstorms",
+      "indicates",
+      "risk regions"
+    ],
+    [
+      "severe thunderstorms",
+      "influences",
+      "environmental factors"
+    ],
+    [
+      "severe thunderstorms",
+      "informs",
+      "safety measures"
+    ],
+    [
+      "severe thunderstorms",
+      "informs",
+      "tornado science"
+    ],
+    [
+      "severe thunderstorms",
+      "involves",
+      "inflow"
+    ],
+    [
+      "severe thunderstorms",
+      "is a cause of",
+      "trigger mechanism"
+    ],
+    [
+      "severe thunderstorms",
+      "is a stage of",
+      "dust whirl stage"
+    ],
+    [
+      "severe thunderstorms",
+      "is a type of",
+      "violent storms"
+    ],
+    [
+      "severe thunderstorms",
+      "is advanced by",
+      "technology advances"
+    ],
+    [
+      "severe thunderstorms",
+      "is categorized as",
+      "classification"
+    ],
+    [
+      "severe thunderstorms",
+      "is part of",
+      "development process"
+    ],
+    [
+      "severe thunderstorms",
+      "leads to",
+      "intensification"
+    ],
+    [
+      "severe thunderstorms",
+      "leads to",
+      "stages of development"
+    ],
+    [
+      "severe thunderstorms",
+      "produces",
+      "cumulonimbus clouds"
+    ],
+    [
+      "severe thunderstorms",
+      "produces",
+      "funnel"
+    ],
+    [
+      "severe thunderstorms",
+      "produces",
+      "tornado formation"
+    ],
+    [
+      "severe thunderstorms",
+      "produces",
+      "tornadoes"
+    ],
+    [
+      "severe thunderstorms",
+      "requires",
+      "emergency responders"
+    ],
+    [
+      "severe thunderstorms",
+      "serves as",
+      "focal points"
+    ],
+    [
+      "severe thunderstorms",
+      "supports",
+      "knowledge enhancement"
+    ],
+    [
+      "significant threat",
+      "addresses",
+      "preparation strategies"
+    ],
+    [
+      "significant threat",
+      "addresses",
+      "response improvement"
+    ],
+    [
+      "significant threat",
+      "is a consequence of",
+      "tornado warnings"
+    ],
+    [
+      "significant threat",
+      "is a factor in",
+      "catastrophic destruction"
+    ],
+    [
+      "significant threat",
+      "is a factor in",
+      "satellite imagery"
+    ],
+    [
+      "significant threat",
+      "is a factor in",
+      "tools"
+    ],
+    [
+      "significant threat",
+      "is posed by",
+      "storm prediction"
+    ],
+    [
+      "significant threat",
+      "is threatened by",
+      "disaster preparedness"
+    ],
+    [
+      "significant threat",
+      "is threatened by",
+      "protecting lives"
+    ],
+    [
+      "significant threat",
+      "mitigates",
+      "preparedness"
+    ],
+    [
+      "significant threat",
+      "poses",
+      "Enhanced Fujita scale"
+    ],
+    [
+      "significant threat",
+      "poses",
+      "cold front"
+    ],
+    [
+      "significant threat",
+      "poses",
+      "complex interplay"
+    ],
+    [
+      "significant threat",
+      "poses",
+      "damage"
+    ],
+    [
+      "significant threat",
+      "poses",
+      "monitoring"
+    ],
+    [
+      "significant threat",
+      "poses",
+      "outflow boundary"
+    ],
+    [
+      "significant threat",
+      "poses",
+      "predicting impact"
+    ],
+    [
+      "significant threat",
+      "poses",
+      "property protection"
+    ],
+    [
+      "significant threat",
+      "poses",
+      "severe thunderstorms"
+    ],
+    [
+      "significant threat",
+      "poses",
+      "violent storms"
+    ],
+    [
+      "significant threat",
+      "poses",
+      "weather conditions"
+    ],
+    [
+      "significant threat",
+      "poses",
+      "weather radar"
+    ],
+    [
+      "significant threat",
+      "poses a significant threat to",
+      "risk regions"
+    ],
+    [
+      "significant threat",
+      "represents",
+      "funnel"
+    ],
+    [
+      "significant threat",
+      "results in",
+      "mature stage"
+    ],
+    [
+      "stages of development",
+      "contributes to",
+      "scientific understanding"
+    ],
+    [
+      "stages of development",
+      "facilitates",
+      "tornado formation"
+    ],
+    [
+      "stages of development",
+      "influences",
+      "forecasting"
+    ],
+    [
+      "stages of development",
+      "influences",
+      "preparedness"
+    ],
+    [
+      "stages of development",
+      "influences",
+      "response improvement"
+    ],
+    [
+      "stages of development",
+      "involves",
+      "rotating column"
+    ],
+    [
+      "stages of development",
+      "is a factor in",
+      "outflow boundary"
+    ],
+    [
+      "stages of development",
+      "is a factor in",
+      "weather radar"
+    ],
+    [
+      "stages of development",
+      "is a phase of",
+      "dust whirl stage"
+    ],
+    [
+      "stages of development",
+      "is a result of",
+      "thunderstorm"
+    ],
+    [
+      "stages of development",
+      "is characterized by",
+      "intensification"
+    ],
+    [
+      "stages of development",
+      "is influenced by",
+      "tornado"
+    ],
+    [
+      "storm dynamics",
+      "advances",
+      "research advancements"
+    ],
+    [
+      "storm dynamics",
+      "affects",
+      "wind shear"
+    ],
+    [
+      "storm dynamics",
+      "contributes to",
+      "violent storms"
+    ],
+    [
+      "storm dynamics",
+      "creates",
+      "rotating column"
+    ],
+    [
+      "storm dynamics",
+      "influences",
+      "environmental factors"
+    ],
+    [
+      "storm dynamics",
+      "is associated with",
+      "cumulonimbus clouds"
+    ],
+    [
+      "storm dynamics",
+      "is part of",
+      "development process"
+    ],
+    [
+      "storm dynamics",
+      "is related to",
+      "tornado science"
+    ],
+    [
+      "storm dynamics",
+      "monitors",
+      "weather radar"
+    ],
+    [
+      "storm dynamics",
+      "promotes",
+      "community awareness"
+    ],
+    [
+      "storm dynamics",
+      "serves as",
+      "focal points"
+    ],
+    [
+      "storm prediction",
+      "affects",
+      "air parcels"
+    ],
+    [
+      "storm prediction",
+      "affects",
+      "environmental factors"
+    ],
+    [
+      "storm prediction",
+      "affects",
+      "human impact"
+    ],
+    [
+      "storm prediction",
+      "affects",
+      "storm dynamics"
+    ],
+    [
+      "storm prediction",
+      "affects",
+      "weather conditions"
+    ],
+    [
+      "storm prediction",
+      "aids",
+      "emergency responders"
+    ],
+    [
+      "storm prediction",
+      "aims for property protection through",
+      "property protection"
+    ],
+    [
+      "storm prediction",
+      "contributes to",
+      "natural disasters"
+    ],
+    [
+      "storm prediction",
+      "contributes to",
+      "protecting lives"
+    ],
+    [
+      "storm prediction",
+      "depends on",
+      "atmospheric conditions"
+    ],
+    [
+      "storm prediction",
+      "depends on",
+      "instability"
+    ],
+    [
+      "storm prediction",
+      "facilitates",
+      "air lifting"
+    ],
+    [
+      "storm prediction",
+      "identifies",
+      "risk regions"
+    ],
+    [
+      "storm prediction",
+      "improves",
+      "forecasting"
+    ],
+    [
+      "storm prediction",
+      "improves",
+      "forecasting capabilities"
+    ],
+    [
+      "storm prediction",
+      "influences",
+      "atmospheric factors"
+    ],
+    [
+      "storm prediction",
+      "influences",
+      "development process"
+    ],
+    [
+      "storm prediction",
+      "informs",
+      "formation processes"
+    ],
+    [
+      "storm prediction",
+      "informs",
+      "ground observations"
+    ],
+    [
+      "storm prediction",
+      "informs",
+      "tornado science"
+    ],
+    [
+      "storm prediction",
+      "informs",
+      "tornado-prone regions"
+    ],
+    [
+      "storm prediction",
+      "informs",
+      "tornadoes"
+    ],
+    [
+      "storm prediction",
+      "informs",
+      "trigger mechanism"
+    ],
+    [
+      "storm prediction",
+      "involves",
+      "tornado lifecycle"
+    ],
+    [
+      "storm prediction",
+      "is associated with",
+      "dry line"
+    ],
+    [
+      "storm prediction",
+      "is associated with",
+      "rotating column"
+    ],
+    [
+      "storm prediction",
+      "issues",
+      "tornado warnings"
+    ],
+    [
+      "storm prediction",
+      "predicts",
+      "tornado formation"
+    ],
+    [
+      "storm prediction",
+      "raises",
+      "community awareness"
+    ],
+    [
+      "storm prediction",
+      "utilizes",
+      "meteorologists"
+    ],
+    [
+      "storm prediction",
+      "utilizes",
+      "satellite imagery"
+    ],
+    [
+      "storm prediction",
+      "utilizes",
+      "tools"
+    ],
+    [
+      "storm prediction",
+      "utilizes",
+      "weather radar"
+    ],
+    [
+      "storm response",
+      "affects",
+      "tornado-prone regions"
+    ],
+    [
+      "storm response",
+      "aims to",
+      "protecting lives"
+    ],
+    [
+      "storm response",
+      "enhances",
+      "technology advances"
+    ],
+    [
+      "storm response",
+      "guides",
+      "predicting impact"
+    ],
+    [
+      "storm response",
+      "improves",
+      "safety measures"
+    ],
+    [
+      "storm response",
+      "influences",
+      "environmental factors"
+    ],
+    [
+      "storm response",
+      "informs",
+      "forecasting"
+    ],
+    [
+      "storm response",
+      "informs",
+      "monitoring"
+    ],
+    [
+      "storm response",
+      "informs",
+      "risk regions"
+    ],
+    [
+      "storm response",
+      "informs",
+      "tornado characteristics"
+    ],
+    [
+      "storm response",
+      "is affected by",
+      "weather conditions"
+    ],
+    [
+      "storm response",
+      "is categorized by",
+      "classification"
+    ],
+    [
+      "storm response",
+      "is guided by",
+      "tornado warnings"
+    ],
+    [
+      "storm response",
+      "is informed by",
+      "storm prediction"
+    ],
+    [
+      "storm response",
+      "is related to",
+      "formation processes"
+    ],
+    [
+      "storm response",
+      "is triggered by",
+      "trigger mechanism"
+    ],
+    [
+      "storm response",
+      "leads to",
+      "intensification"
+    ],
+    [
+      "storm response",
+      "results in",
+      "catastrophic destruction"
+    ],
+    [
+      "storm response",
+      "utilizes",
+      "weather radar"
+    ],
+    [
+      "technology advances",
+      "affects",
+      "air parcels"
+    ],
+    [
+      "technology advances",
+      "affects",
+      "human impact"
+    ],
+    [
+      "technology advances",
+      "affects",
+      "tornadoes"
+    ],
+    [
+      "technology advances",
+      "affects",
+      "weather conditions"
+    ],
+    [
+      "technology advances",
+      "affects",
+      "wind speeds"
+    ],
+    [
+      "technology advances",
+      "contributes to",
+      "damage mitigation"
+    ],
+    [
+      "technology advances",
+      "enables",
+      "tornado warnings"
+    ],
+    [
+      "technology advances",
+      "enhances",
+      "formation processes"
+    ],
+    [
+      "technology advances",
+      "enhances",
+      "monitoring"
+    ],
+    [
+      "technology advances",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "technology advances",
+      "facilitates",
+      "tornado formation"
+    ],
+    [
+      "technology advances",
+      "improves",
+      "forecasting capabilities"
+    ],
+    [
+      "technology advances",
+      "improves",
+      "response improvement"
+    ],
+    [
+      "technology advances",
+      "improves",
+      "weather radar"
+    ],
+    [
+      "technology advances",
+      "improves safety measures with",
+      "safety measures"
+    ],
+    [
+      "technology advances",
+      "influences",
+      "environmental factors"
+    ],
+    [
+      "technology advances",
+      "influences",
+      "risk regions"
+    ],
+    [
+      "technology advances",
+      "influences",
+      "tornado lifecycle"
+    ],
+    [
+      "technology advances",
+      "is driven by",
+      "violent storms"
+    ],
+    [
+      "technology advances",
+      "is enhanced by",
+      "storm prediction"
+    ],
+    [
+      "technology advances",
+      "is influenced by",
+      "trigger mechanism"
+    ],
+    [
+      "technology advances",
+      "provides",
+      "focal points"
+    ],
+    [
+      "technology advances",
+      "provides",
+      "tools"
+    ],
+    [
+      "technology advances",
+      "results in",
+      "catastrophic destruction"
+    ],
+    [
+      "technology advances",
+      "supports",
+      "emergency responders"
+    ],
+    [
+      "technology advances",
+      "supports",
+      "property protection"
+    ],
+    [
+      "thunderstorm",
+      "affects",
+      "human impact"
+    ],
+    [
+      "thunderstorm",
+      "alerts for",
+      "tornado warnings"
+    ],
+    [
+      "thunderstorm",
+      "caused by",
+      "minor damage"
+    ],
+    [
+      "thunderstorm",
+      "causes",
+      "destructive"
+    ],
+    [
+      "thunderstorm",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "thunderstorm",
+      "influences",
+      "development process"
+    ],
+    [
+      "thunderstorm",
+      "influences",
+      "storm dynamics"
+    ],
+    [
+      "thunderstorm",
+      "influences",
+      "warm air"
+    ],
+    [
+      "thunderstorm",
+      "interacts with",
+      "cool dry air"
+    ],
+    [
+      "thunderstorm",
+      "is a type of",
+      "natural phenomena"
+    ],
+    [
+      "thunderstorm",
+      "is a type of",
+      "severe thunderstorms"
+    ],
+    [
+      "thunderstorm",
+      "is a type of",
+      "tornado"
+    ],
+    [
+      "thunderstorm",
+      "is associated with",
+      "rotating column"
+    ],
+    [
+      "thunderstorm",
+      "is associated with",
+      "tornado development"
+    ],
+    [
+      "thunderstorm",
+      "is influenced by",
+      "environmental factors"
+    ],
+    [
+      "thunderstorm",
+      "is influenced by",
+      "weather conditions"
+    ],
+    [
+      "thunderstorm",
+      "occurs during",
+      "stages of development"
+    ],
+    [
+      "thunderstorm",
+      "occurs in",
+      "dust whirl stage"
+    ],
+    [
+      "thunderstorm",
+      "occurs in",
+      "wind shear"
+    ],
+    [
+      "thunderstorm",
+      "produces",
+      "cumulonimbus clouds"
+    ],
+    [
+      "thunderstorm",
+      "produces",
+      "tornadoes"
+    ],
+    [
+      "thunderstorm",
+      "triggers",
+      "tornado formation"
+    ],
+    [
+      "tools",
+      "facilitates",
+      "damage mitigation"
+    ],
+    [
+      "tools",
+      "includes",
+      "Enhanced Fujita scale"
+    ],
+    [
+      "tools",
+      "includes",
+      "satellite imagery"
+    ],
+    [
+      "tools",
+      "interacts with",
+      "dry line"
+    ],
+    [
+      "tools",
+      "is a type of",
+      "Doppler radar"
+    ],
+    [
+      "tools",
+      "is used for",
+      "natural disasters"
+    ],
+    [
+      "tools",
+      "is utilized by",
+      "wind speeds"
+    ],
+    [
+      "tools",
+      "is utilized in",
+      "tornado-prone regions"
+    ],
+    [
+      "tools",
+      "results in",
+      "damage"
+    ],
+    [
+      "tools",
+      "supports",
+      "forecasting capabilities"
+    ],
+    [
+      "tools",
+      "supports",
+      "monitoring"
+    ],
+    [
+      "tools",
+      "utilized by",
+      "mesocyclone"
+    ],
+    [
+      "tools",
+      "utilized by",
+      "tornadoes"
+    ],
+    [
+      "tools",
+      "utilizes",
+      "destructive power"
+    ],
+    [
+      "tornado",
+      "affects",
+      "human impact"
+    ],
+    [
+      "tornado",
+      "can produce",
+      "severe thunderstorms"
+    ],
+    [
+      "tornado",
+      "causes",
+      "catastrophic destruction"
+    ],
+    [
+      "tornado",
+      "formed by",
+      "outflow boundary"
+    ],
+    [
+      "tornado",
+      "is a factor in",
+      "focal points"
+    ],
+    [
+      "tornado",
+      "is a result of",
+      "visible condensation"
+    ],
+    [
+      "tornado",
+      "is caused by",
+      "minor damage"
+    ],
+    [
+      "tornado",
+      "is characterized by",
+      "tornado development"
+    ],
+    [
+      "tornado",
+      "is crucial for",
+      "protecting lives"
+    ],
+    [
+      "tornado",
+      "is mitigated by",
+      "damage mitigation"
+    ],
+    [
+      "tornado",
+      "observed in",
+      "ground observations"
+    ],
+    [
+      "tornado",
+      "predicts",
+      "storm prediction"
+    ],
+    [
+      "tornado characteristics",
+      "advances",
+      "research advancements"
+    ],
+    [
+      "tornado characteristics",
+      "aids in",
+      "protecting lives"
+    ],
+    [
+      "tornado characteristics",
+      "alerts",
+      "tornado warnings"
+    ],
+    [
+      "tornado characteristics",
+      "classifies",
+      "Enhanced Fujita scale"
+    ],
+    [
+      "tornado characteristics",
+      "describes",
+      "mature stage"
+    ],
+    [
+      "tornado characteristics",
+      "describes",
+      "stages of development"
+    ],
+    [
+      "tornado characteristics",
+      "describes",
+      "storm dynamics"
+    ],
+    [
+      "tornado characteristics",
+      "describes",
+      "tornadoes"
+    ],
+    [
+      "tornado characteristics",
+      "increases",
+      "community awareness"
+    ],
+    [
+      "tornado characteristics",
+      "influences",
+      "formation processes"
+    ],
+    [
+      "tornado characteristics",
+      "influences",
+      "tornado development"
+    ],
+    [
+      "tornado characteristics",
+      "informs",
+      "disaster preparedness"
+    ],
+    [
+      "tornado characteristics",
+      "informs",
+      "forecasting capabilities"
+    ],
+    [
+      "tornado characteristics",
+      "informs",
+      "scientific understanding"
+    ],
+    [
+      "tornado characteristics",
+      "is a factor in",
+      "trigger mechanism"
+    ],
+    [
+      "tornado characteristics",
+      "is essential for",
+      "property protection"
+    ],
+    [
+      "tornado characteristics",
+      "is influenced by",
+      "wind shear"
+    ],
+    [
+      "tornado characteristics",
+      "supports",
+      "emergency responders"
+    ],
+    [
+      "tornado development",
+      "aids in",
+      "damage mitigation"
+    ],
+    [
+      "tornado development",
+      "assists in",
+      "emergency responders"
+    ],
+    [
+      "tornado development",
+      "causes",
+      "catastrophic destruction"
+    ],
+    [
+      "tornado development",
+      "creates",
+      "mesocyclone"
+    ],
+    [
+      "tornado development",
+      "creates",
+      "rotating column"
+    ],
+    [
+      "tornado development",
+      "depends on",
+      "atmospheric conditions"
+    ],
+    [
+      "tornado development",
+      "enhances",
+      "technology advances"
+    ],
+    [
+      "tornado development",
+      "facilitates",
+      "scientific understanding"
+    ],
+    [
+      "tornado development",
+      "includes",
+      "dust whirl stage"
+    ],
+    [
+      "tornado development",
+      "influences",
+      "wind speeds"
+    ],
+    [
+      "tornado development",
+      "involves",
+      "focal points"
+    ],
+    [
+      "tornado development",
+      "involves",
+      "formation processes"
+    ],
+    [
+      "tornado development",
+      "involves",
+      "storm dynamics"
+    ],
+    [
+      "tornado development",
+      "is a consequence of",
+      "natural disasters"
+    ],
+    [
+      "tornado development",
+      "is a type of",
+      "natural phenomena"
+    ],
+    [
+      "tornado development",
+      "is associated with",
+      "cumulonimbus clouds"
+    ],
+    [
+      "tornado development",
+      "is essential for",
+      "protecting lives"
+    ],
+    [
+      "tornado development",
+      "is facilitated by",
+      "air lifting"
+    ],
+    [
+      "tornado development",
+      "is influenced by",
+      "atmospheric factors"
+    ],
+    [
+      "tornado development",
+      "is issued for",
+      "tornado warnings"
+    ],
+    [
+      "tornado development",
+      "is linked to",
+      "disaster preparedness"
+    ],
+    [
+      "tornado development",
+      "is monitored by",
+      "satellite imagery"
+    ],
+    [
+      "tornado development",
+      "is part of",
+      "development process"
+    ],
+    [
+      "tornado development",
+      "is part of",
+      "tornado lifecycle"
+    ],
+    [
+      "tornado development",
+      "is studied by",
+      "meteorologists"
+    ],
+    [
+      "tornado development",
+      "leads to",
+      "intensification"
+    ],
+    [
+      "tornado development",
+      "supports",
+      "property protection"
+    ],
+    [
+      "tornado development",
+      "utilizes",
+      "tools"
+    ],
+    [
+      "tornado formation",
+      "contributes to",
+      "tornado warnings"
+    ],
+    [
+      "tornado formation",
+      "facilitates",
+      "dust whirl stage"
+    ],
+    [
+      "tornado formation",
+      "involves",
+      "tornado lifecycle"
+    ],
+    [
+      "tornado formation",
+      "is influenced by",
+      "property protection"
+    ],
+    [
+      "tornado formation",
+      "results in",
+      "natural phenomena"
+    ],
+    [
+      "tornado formation",
+      "results in",
+      "tornado"
+    ],
+    [
+      "tornado lifecycle",
+      "affects",
+      "change in wind"
+    ],
+    [
+      "tornado lifecycle",
+      "alerts",
+      "tornado warnings"
+    ],
+    [
+      "tornado lifecycle",
+      "increases",
+      "community awareness"
+    ],
+    [
+      "tornado lifecycle",
+      "influences",
+      "formation processes"
+    ],
+    [
+      "tornado lifecycle",
+      "influences",
+      "thunderstorm"
+    ],
+    [
+      "tornado lifecycle",
+      "informs",
+      "classification"
+    ],
+    [
+      "tornado lifecycle",
+      "involves",
+      "focal points"
+    ],
+    [
+      "tornado lifecycle",
+      "is a stage of",
+      "mature stage"
+    ],
+    [
+      "tornado lifecycle",
+      "is associated with",
+      "cumulonimbus clouds"
+    ],
+    [
+      "tornado lifecycle",
+      "is determined by",
+      "atmospheric conditions"
+    ],
+    [
+      "tornado lifecycle",
+      "is influenced by",
+      "atmospheric factors"
+    ],
+    [
+      "tornado lifecycle",
+      "is influenced by",
+      "wind shear"
+    ],
+    [
+      "tornado lifecycle",
+      "is related to",
+      "risk management"
+    ],
+    [
+      "tornado lifecycle",
+      "is studied in relation to",
+      "tornado-prone regions"
+    ],
+    [
+      "tornado lifecycle",
+      "results in",
+      "catastrophic destruction"
+    ],
+    [
+      "tornado lifecycle",
+      "triggers",
+      "trigger mechanism"
+    ],
+    [
+      "tornado science",
+      "affects",
+      "human impact"
+    ],
+    [
+      "tornado science",
+      "classifies",
+      "Enhanced Fujita scale"
+    ],
+    [
+      "tornado science",
+      "exemplifies",
+      "destructive power"
+    ],
+    [
+      "tornado science",
+      "explains",
+      "tornadoes"
+    ],
+    [
+      "tornado science",
+      "improves",
+      "response improvement"
+    ],
+    [
+      "tornado science",
+      "informs",
+      "safety measures"
+    ],
+    [
+      "tornado science",
+      "involves",
+      "environmental factors"
+    ],
+    [
+      "tornado science",
+      "involves",
+      "formation processes"
+    ],
+    [
+      "tornado science",
+      "involves",
+      "monitoring"
+    ],
+    [
+      "tornado science",
+      "involves",
+      "rotating column"
+    ],
+    [
+      "tornado science",
+      "is associated with",
+      "cumulonimbus clouds"
+    ],
+    [
+      "tornado science",
+      "is explained by tornado science in terms of",
+      "catastrophic destruction"
+    ],
+    [
+      "tornado science",
+      "is influenced by",
+      "outflow boundary"
+    ],
+    [
+      "tornado science",
+      "is informed by",
+      "weather radar"
+    ],
+    [
+      "tornado science",
+      "is related to",
+      "dry line"
+    ],
+    [
+      "tornado science",
+      "is related to",
+      "violent storms"
+    ],
+    [
+      "tornado science",
+      "is studied in",
+      "complex interplay"
+    ],
+    [
+      "tornado science",
+      "leads to",
+      "tornado warnings"
+    ],
+    [
+      "tornado science",
+      "supports",
+      "emergency responders"
+    ],
+    [
+      "tornado warnings",
+      "aims for property protection through",
+      "property protection"
+    ],
+    [
+      "tornado warnings",
+      "alerts",
+      "tornado-prone regions"
+    ],
+    [
+      "tornado warnings",
+      "alerts about",
+      "destructive"
+    ],
+    [
+      "tornado warnings",
+      "alerts about",
+      "environmental factors"
+    ],
+    [
+      "tornado warnings",
+      "alerts about",
+      "severe thunderstorms"
+    ],
+    [
+      "tornado warnings",
+      "alerts about",
+      "tornadoes"
+    ],
+    [
+      "tornado warnings",
+      "alerts about",
+      "violent storms"
+    ],
+    [
+      "tornado warnings",
+      "alerts to",
+      "minor damage"
+    ],
+    [
+      "tornado warnings",
+      "benefits from",
+      "research advancements"
+    ],
+    [
+      "tornado warnings",
+      "depends on",
+      "forecasting capabilities"
+    ],
+    [
+      "tornado warnings",
+      "enhances",
+      "community awareness"
+    ],
+    [
+      "tornado warnings",
+      "improves",
+      "response improvement"
+    ],
+    [
+      "tornado warnings",
+      "is affected by",
+      "instability"
+    ],
+    [
+      "tornado warnings",
+      "is aimed at",
+      "protecting lives"
+    ],
+    [
+      "tornado warnings",
+      "is based on",
+      "monitoring"
+    ],
+    [
+      "tornado warnings",
+      "issues",
+      "meteorologists"
+    ],
+    [
+      "tornado warnings",
+      "issues",
+      "natural phenomena"
+    ],
+    [
+      "tornado warnings",
+      "issues",
+      "tornado"
+    ],
+    [
+      "tornado warnings",
+      "receives",
+      "storm prediction"
+    ],
+    [
+      "tornado warnings",
+      "utilizes",
+      "tools"
+    ],
+    [
+      "tornado-prone regions",
+      "impacts",
+      "tornado development"
+    ],
+    [
+      "tornado-prone regions",
+      "is a consequence of",
+      "minor damage"
+    ],
+    [
+      "tornado-prone regions",
+      "is a risk for",
+      "ground observations"
+    ],
+    [
+      "tornado-prone regions",
+      "is affected by",
+      "severe thunderstorms"
+    ],
+    [
+      "tornado-prone regions",
+      "is aimed at",
+      "protecting lives"
+    ],
+    [
+      "tornado-prone regions",
+      "is characterized by",
+      "complex interplay"
+    ],
+    [
+      "tornado-prone regions",
+      "is essential for",
+      "weather radar"
+    ],
+    [
+      "tornado-prone regions",
+      "is necessary for",
+      "tornado formation"
+    ],
+    [
+      "tornado-prone regions",
+      "is threatened by",
+      "tornado"
+    ],
+    [
+      "tornado-prone regions",
+      "overlaps with",
+      "risk regions"
+    ],
+    [
+      "tornado-prone regions",
+      "represents",
+      "forecasting capabilities"
+    ],
+    [
+      "tornadoes",
+      "affects",
+      "tornado-prone regions"
+    ],
+    [
+      "tornadoes",
+      "affects",
+      "weather conditions"
+    ],
+    [
+      "tornadoes",
+      "aids",
+      "damage mitigation"
+    ],
+    [
+      "tornadoes",
+      "causes",
+      "damage"
+    ],
+    [
+      "tornadoes",
+      "detects",
+      "Doppler radar"
+    ],
+    [
+      "tornadoes",
+      "interacts with",
+      "warm air"
+    ],
+    [
+      "tornadoes",
+      "is a focal point for",
+      "focal points"
+    ],
+    [
+      "tornadoes",
+      "is a type of",
+      "natural phenomena"
+    ],
+    [
+      "tornadoes",
+      "is monitored by",
+      "monitoring"
+    ],
+    [
+      "tornadoes",
+      "poses",
+      "significant threat"
+    ],
+    [
+      "tornadoes",
+      "produces",
+      "dust whirl stage"
+    ],
+    [
+      "tornadoes",
+      "result of",
+      "intensification"
+    ],
+    [
+      "tornadoes",
+      "result of",
+      "severe thunderstorms"
+    ],
+    [
+      "tornadoes",
+      "results in",
+      "catastrophic destruction"
+    ],
+    [
+      "trigger mechanism",
+      "affects",
+      "human impact"
+    ],
+    [
+      "trigger mechanism",
+      "aids in",
+      "damage mitigation"
+    ],
+    [
+      "trigger mechanism",
+      "causes",
+      "intensification"
+    ],
+    [
+      "trigger mechanism",
+      "causes",
+      "violent storms"
+    ],
+    [
+      "trigger mechanism",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "trigger mechanism",
+      "influences",
+      "warm air"
+    ],
+    [
+      "trigger mechanism",
+      "initiates",
+      "dry line"
+    ],
+    [
+      "trigger mechanism",
+      "initiates",
+      "stages of development"
+    ],
+    [
+      "trigger mechanism",
+      "initiates",
+      "tornadoes"
+    ],
+    [
+      "trigger mechanism",
+      "is a component of",
+      "ground observations"
+    ],
+    [
+      "trigger mechanism",
+      "is a condition for",
+      "visible condensation"
+    ],
+    [
+      "trigger mechanism",
+      "is part of",
+      "complex interplay"
+    ],
+    [
+      "trigger mechanism",
+      "is triggered by",
+      "inflow"
+    ],
+    [
+      "trigger mechanism",
+      "produces",
+      "cumulonimbus clouds"
+    ],
+    [
+      "trigger mechanism",
+      "produces",
+      "funnel"
+    ],
+    [
+      "trigger mechanism",
+      "requires",
+      "tornado development"
+    ],
+    [
+      "trigger mechanism",
+      "serves as",
+      "focal points"
+    ],
+    [
+      "trigger mechanism",
+      "triggers",
+      "thunderstorm"
+    ],
+    [
+      "trigger mechanism",
+      "triggers",
+      "tornado formation"
+    ],
+    [
+      "trigger mechanism",
+      "utilizes",
+      "meteorologists"
+    ],
+    [
+      "violent storms",
+      "aids in",
+      "damage mitigation"
+    ],
+    [
+      "violent storms",
+      "causes",
+      "damage"
+    ],
+    [
+      "violent storms",
+      "causes",
+      "destructive"
+    ],
+    [
+      "violent storms",
+      "causes",
+      "development process"
+    ],
+    [
+      "violent storms",
+      "contributes to",
+      "instability"
+    ],
+    [
+      "violent storms",
+      "enhances",
+      "forecasting capabilities"
+    ],
+    [
+      "violent storms",
+      "forecasting",
+      "meteorologists"
+    ],
+    [
+      "violent storms",
+      "includes",
+      "tornadoes"
+    ],
+    [
+      "violent storms",
+      "involves",
+      "complex interplay"
+    ],
+    [
+      "violent storms",
+      "is a result of",
+      "destructive power"
+    ],
+    [
+      "violent storms",
+      "is a type of",
+      "tornado lifecycle"
+    ],
+    [
+      "violent storms",
+      "is influenced by",
+      "tornado development"
+    ],
+    [
+      "violent storms",
+      "is related to",
+      "stages of development"
+    ],
+    [
+      "violent storms",
+      "leads to",
+      "dust whirl stage"
+    ],
+    [
+      "violent storms",
+      "monitored by",
+      "outflow boundary"
+    ],
+    [
+      "violent storms",
+      "results in",
+      "tornado formation"
+    ],
+    [
+      "visible condensation",
+      "can cause",
+      "violent storms"
+    ],
+    [
+      "visible condensation",
+      "causes",
+      "air lifting"
+    ],
+    [
+      "visible condensation",
+      "contributes to",
+      "tornado development"
+    ],
+    [
+      "visible condensation",
+      "contributes to",
+      "tornado formation"
+    ],
+    [
+      "visible condensation",
+      "describes",
+      "tornado characteristics"
+    ],
+    [
+      "visible condensation",
+      "forms",
+      "cumulonimbus clouds"
+    ],
+    [
+      "visible condensation",
+      "improves",
+      "response improvement"
+    ],
+    [
+      "visible condensation",
+      "indicates",
+      "severe thunderstorms"
+    ],
+    [
+      "visible condensation",
+      "indicates",
+      "tornado lifecycle"
+    ],
+    [
+      "visible condensation",
+      "influences",
+      "atmospheric conditions"
+    ],
+    [
+      "visible condensation",
+      "involves",
+      "air parcels"
+    ],
+    [
+      "visible condensation",
+      "is a component of",
+      "rotating column"
+    ],
+    [
+      "visible condensation",
+      "is a type of",
+      "funnel"
+    ],
+    [
+      "visible condensation",
+      "is detected by",
+      "Doppler radar"
+    ],
+    [
+      "visible condensation",
+      "is influenced by",
+      "cool dry air"
+    ],
+    [
+      "visible condensation",
+      "is part of",
+      "dust whirl stage"
+    ],
+    [
+      "visible condensation",
+      "is part of",
+      "mesocyclone"
+    ],
+    [
+      "visible condensation",
+      "is part of the development process of",
+      "development process"
+    ],
+    [
+      "visible condensation",
+      "leads to",
+      "intensification"
+    ],
+    [
+      "visible condensation",
+      "occurs in",
+      "thunderstorm"
+    ],
+    [
+      "visible condensation",
+      "serves as",
+      "focal points"
+    ],
+    [
+      "visible condensation",
+      "triggers",
+      "outflow boundary"
+    ],
+    [
+      "warm air",
+      "affected by",
+      "destructive"
+    ],
+    [
+      "warm air",
+      "aids in",
+      "damage mitigation"
+    ],
+    [
+      "warm air",
+      "facilitates",
+      "tornado formation"
+    ],
+    [
+      "warm air",
+      "is associated with",
+      "tornado development"
+    ],
+    [
+      "warm air",
+      "is influenced by",
+      "property protection"
+    ],
+    [
+      "warm air",
+      "is influenced by",
+      "violent storms"
+    ],
+    [
+      "warm air",
+      "poses",
+      "significant threat"
+    ],
+    [
+      "warm air",
+      "requires",
+      "tornado lifecycle"
+    ],
+    [
+      "weather conditions",
+      "contributes to",
+      "violent storms"
+    ],
+    [
+      "weather conditions",
+      "describes",
+      "rotating column"
+    ],
+    [
+      "weather conditions",
+      "drives",
+      "research advancements"
+    ],
+    [
+      "weather conditions",
+      "enhances",
+      "scientific understanding"
+    ],
+    [
+      "weather conditions",
+      "facilitates",
+      "air lifting"
+    ],
+    [
+      "weather conditions",
+      "improves",
+      "response improvement"
+    ],
+    [
+      "weather conditions",
+      "influences",
+      "air parcels"
+    ],
+    [
+      "weather conditions",
+      "influences",
+      "atmospheric factors"
+    ],
+    [
+      "weather conditions",
+      "influences",
+      "inflow"
+    ],
+    [
+      "weather conditions",
+      "influences",
+      "wind shear"
+    ],
+    [
+      "weather conditions",
+      "is influenced by",
+      "severe thunderstorms"
+    ],
+    [
+      "weather conditions",
+      "is influenced by",
+      "tornado lifecycle"
+    ],
+    [
+      "weather conditions",
+      "leads to",
+      "cumulonimbus clouds"
+    ],
+    [
+      "weather conditions",
+      "monitors",
+      "weather radar"
+    ],
+    [
+      "weather radar",
+      "affects",
+      "human impact"
+    ],
+    [
+      "weather radar",
+      "affects",
+      "outflow boundary"
+    ],
+    [
+      "weather radar",
+      "aids atmospheric interplay in",
+      "atmospheric interplay"
+    ],
+    [
+      "weather radar",
+      "aids in",
+      "damage mitigation"
+    ],
+    [
+      "weather radar",
+      "aids in",
+      "protecting lives"
+    ],
+    [
+      "weather radar",
+      "detected by",
+      "visible condensation"
+    ],
+    [
+      "weather radar",
+      "detects",
+      "formation processes"
+    ],
+    [
+      "weather radar",
+      "detects",
+      "funnel"
+    ],
+    [
+      "weather radar",
+      "detects",
+      "rotating column"
+    ],
+    [
+      "weather radar",
+      "detects",
+      "tornadoes"
+    ],
+    [
+      "weather radar",
+      "detects",
+      "wind shear"
+    ],
+    [
+      "weather radar",
+      "enables",
+      "monitoring"
+    ],
+    [
+      "weather radar",
+      "enhances safety measures through",
+      "safety measures"
+    ],
+    [
+      "weather radar",
+      "facilitates",
+      "tornado formation"
+    ],
+    [
+      "weather radar",
+      "identifies",
+      "risk regions"
+    ],
+    [
+      "weather radar",
+      "is analyzed by",
+      "air temperature"
+    ],
+    [
+      "weather radar",
+      "is monitored by",
+      "tornado"
+    ],
+    [
+      "weather radar",
+      "issues",
+      "tornado warnings"
+    ],
+    [
+      "weather radar",
+      "monitored by",
+      "minor damage"
+    ],
+    [
+      "weather radar",
+      "monitors",
+      "dry line"
+    ],
+    [
+      "weather radar",
+      "monitors",
+      "thunderstorm"
+    ],
+    [
+      "weather radar",
+      "monitors",
+      "violent storms"
+    ],
+    [
+      "weather radar",
+      "raises awareness of",
+      "community awareness"
+    ],
+    [
+      "weather radar",
+      "serves as",
+      "focal points"
+    ],
+    [
+      "weather radar",
+      "supports",
+      "forecasting"
+    ],
+    [
+      "weather radar",
+      "supports",
+      "property protection"
+    ],
+    [
+      "wind shear",
+      "acts as",
+      "trigger mechanism"
+    ],
+    [
+      "wind shear",
+      "causes",
+      "damage"
+    ],
+    [
+      "wind shear",
+      "contributes to",
+      "air temperature"
+    ],
+    [
+      "wind shear",
+      "contributes to",
+      "environmental factors"
+    ],
+    [
+      "wind shear",
+      "contributes to",
+      "instability"
+    ],
+    [
+      "wind shear",
+      "creates",
+      "focal points"
+    ],
+    [
+      "wind shear",
+      "creates",
+      "funnel"
+    ],
+    [
+      "wind shear",
+      "creates",
+      "rotating column"
+    ],
+    [
+      "wind shear",
+      "enhances",
+      "tools"
+    ],
+    [
+      "wind shear",
+      "facilitates",
+      "development process"
+    ],
+    [
+      "wind shear",
+      "influences",
+      "dust whirl stage"
+    ],
+    [
+      "wind shear",
+      "influences",
+      "stages of development"
+    ],
+    [
+      "wind shear",
+      "is a factor in",
+      "cumulonimbus clouds"
+    ],
+    [
+      "wind shear",
+      "is a factor in",
+      "dry line"
+    ],
+    [
+      "wind shear",
+      "is a factor in",
+      "tornado formation"
+    ],
+    [
+      "wind shear",
+      "is influenced by",
+      "classification"
+    ],
+    [
+      "wind shear",
+      "is influenced by",
+      "visible condensation"
+    ],
+    [
+      "wind shear",
+      "is monitored by",
+      "monitoring"
+    ],
+    [
+      "wind shear",
+      "poses",
+      "significant threat"
+    ],
+    [
+      "wind speeds",
+      "affects",
+      "air parcels"
+    ],
+    [
+      "wind speeds",
+      "characterizes",
+      "tornadoes"
+    ],
+    [
+      "wind speeds",
+      "determines",
+      "safety measures"
+    ],
+    [
+      "wind speeds",
+      "indicates",
+      "destructive power"
+    ],
+    [
+      "wind speeds",
+      "influences",
+      "formation processes"
+    ],
+    [
+      "wind speeds",
+      "influences",
+      "weather conditions"
+    ],
+    [
+      "wind speeds",
+      "informs",
+      "ground observations"
+    ],
+    [
+      "wind speeds",
+      "is caused by",
+      "minor damage"
+    ],
+    [
+      "wind speeds",
+      "is influenced by",
+      "mesocyclone"
+    ],
+    [
+      "wind speeds",
+      "is measured by",
+      "Doppler radar"
+    ],
+    [
+      "wind speeds",
+      "is studied in",
+      "tornado science"
+    ],
+    [
+      "wind speeds",
+      "poses a",
+      "significant threat"
+    ]
+  ],
+  "edges": [
+    "acts as",
+    "addresses",
+    "advances",
+    "advances understanding of",
+    "affected by",
+    "affects",
+    "aiding in",
+    "aids",
+    "aids atmospheric interplay in",
+    "aids in",
+    "aims for property protection through",
+    "aims to",
+    "aims to protect",
+    "alerts",
+    "alerts about",
+    "alerts for",
+    "alerts to",
+    "analyzed by",
+    "analyzes",
+    "assesses",
+    "assists",
+    "assists in",
+    "associated with",
+    "benefits",
+    "benefits from",
+    "can cause",
+    "can lead to",
+    "can produce",
+    "can trigger",
+    "caused by",
+    "causes",
+    "characterizes",
+    "classifies",
+    "conducts",
+    "contributes to",
+    "contributes to formation of",
+    "contributes to scientific understanding of",
+    "creates",
+    "creates conditions for",
+    "damages",
+    "demonstrates",
+    "depends on",
+    "describes",
+    "detected by",
+    "detects",
+    "determines",
+    "drives",
+    "enables",
+    "enables intensification of",
+    "enhanced by",
+    "enhances",
+    "enhances safety measures through",
+    "enhances understanding of",
+    "ensures",
+    "exemplifies",
+    "explains",
+    "faces",
+    "facilitates",
+    "facilitates monitoring of",
+    "feeds into",
+    "focuses on",
+    "forecasting",
+    "formed by",
+    "forms",
+    "forms from",
+    "guides",
+    "highlights",
+    "identifies",
+    "impacts",
+    "improves",
+    "improves safety measures with",
+    "includes",
+    "increases",
+    "indicates",
+    "influenced by",
+    "influences",
+    "informed by",
+    "informs",
+    "informs about",
+    "initiates",
+    "interacts with",
+    "involves",
+    "involves complex interplay of",
+    "involves predicting",
+    "involves wind shear in",
+    "is a cause of",
+    "is a component of",
+    "is a concern for",
+    "is a condition for",
+    "is a consequence of",
+    "is a factor in",
+    "is a field of study in",
+    "is a focal point for",
+    "is a part of",
+    "is a phase of",
+    "is a process of",
+    "is a result of",
+    "is a risk for",
+    "is a stage of",
+    "is a threat to",
+    "is a trigger for",
+    "is a type of",
+    "is addressed by",
+    "is advanced by",
+    "is affected by",
+    "is aimed at",
+    "is analyzed by",
+    "is applied to",
+    "is assessed by",
+    "is associated with",
+    "is based on",
+    "is categorized as",
+    "is categorized by",
+    "is caused by",
+    "is challenged by",
+    "is characterized by",
+    "is classified by",
+    "is crucial for",
+    "is detected by",
+    "is determined by",
+    "is driven by",
+    "is enhanced by",
+    "is essential for",
+    "is evaluated by",
+    "is explained by tornado science in terms of",
+    "is facilitated by",
+    "is formed by",
+    "is formed from",
+    "is guided by",
+    "is identified by",
+    "is impacted by",
+    "is important for",
+    "is influenced by",
+    "is informed by",
+    "is issued for",
+    "is less than",
+    "is linked to",
+    "is managed by",
+    "is measured by",
+    "is mitigated by",
+    "is monitored by",
+    "is monitored for",
+    "is necessary for",
+    "is observed in",
+    "is part of",
+    "is part of the development process of",
+    "is posed by",
+    "is predicted by",
+    "is produced by",
+    "is related to",
+    "is relevant to",
+    "is studied by",
+    "is studied in",
+    "is studied in relation to",
+    "is supported by",
+    "is threatened by",
+    "is triggered by",
+    "is used for",
+    "is used in",
+    "is utilized by",
+    "is utilized in",
+    "issues",
+    "leads to",
+    "managed by",
+    "mitigated by",
+    "mitigates",
+    "monitored by",
+    "monitors",
+    "necessitates",
+    "observed in",
+    "occurs during",
+    "occurs in",
+    "offers",
+    "overlaps with",
+    "poses",
+    "poses a",
+    "poses a significant threat to",
+    "precedes",
+    "predicts",
+    "produces",
+    "promotes",
+    "protected by",
+    "protects",
+    "provides",
+    "provides inflow for",
+    "raises",
+    "raises awareness of",
+    "rated by",
+    "receives",
+    "reduces",
+    "relates to",
+    "represents",
+    "represents a",
+    "requires",
+    "respond to",
+    "responds to",
+    "result from",
+    "result of",
+    "results from",
+    "results in",
+    "serve as",
+    "serves as",
+    "studies",
+    "supported by",
+    "supports",
+    "supports damage mitigation for",
+    "supports damage mitigation through",
+    "threatens",
+    "trigger for",
+    "triggered by",
+    "triggers",
+    "used as",
+    "uses",
+    "utilized by",
+    "utilizes"
+  ]
+}

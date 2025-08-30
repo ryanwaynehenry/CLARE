@@ -1,0 +1,1554 @@
+{
+  "entities": [
+    "1980s",
+    "20th century",
+    "Apollo 11",
+    "Buzz Aldrin",
+    "ISS",
+    "International Space Station",
+    "Mars exploration",
+    "NASA",
+    "Neil Armstrong",
+    "Soviet Union",
+    "SpaceX",
+    "Sputnik 1",
+    "United States",
+    "Vostok 1",
+    "Yuri Gagarin",
+    "achievements",
+    "advanced propulsion",
+    "ambitious missions",
+    "ambitious plans",
+    "challenges",
+    "collaboration",
+    "colonization",
+    "commercial space travel",
+    "cosmic exploration",
+    "cosmic journey",
+    "cosmos",
+    "crewed missions",
+    "discovery drive",
+    "exploration evolution",
+    "exploration milestones",
+    "exploration risks",
+    "frontier",
+    "history",
+    "human adventure",
+    "human milestones",
+    "humanity's future",
+    "interplanetary exploration",
+    "lunar bases",
+    "manned missions",
+    "moon landing",
+    "permanent presence",
+    "possibilities",
+    "private companies",
+    "significant events",
+    "space age",
+    "space race",
+    "space shuttle program",
+    "space tourism",
+    "space travel",
+    "technological advancements",
+    "technological evolution",
+    "tragedies"
+  ],
+  "relations": [
+    [
+      "20th century",
+      "encompasses",
+      "space age"
+    ],
+    [
+      "20th century",
+      "produced",
+      "exploration milestones"
+    ],
+    [
+      "Apollo 11",
+      "enabled",
+      "space travel"
+    ],
+    [
+      "Apollo 11",
+      "influenced by",
+      "cosmic exploration"
+    ],
+    [
+      "Apollo 11",
+      "influenced by",
+      "space shuttle program"
+    ],
+    [
+      "Apollo 11",
+      "is a competitor of",
+      "Soviet Union"
+    ],
+    [
+      "Apollo 11",
+      "is a consequence of",
+      "tragedies"
+    ],
+    [
+      "Apollo 11",
+      "signifies",
+      "exploration milestones"
+    ],
+    [
+      "Buzz Aldrin",
+      "influenced by",
+      "20th century"
+    ],
+    [
+      "Buzz Aldrin",
+      "inspired by",
+      "exploration milestones"
+    ],
+    [
+      "Buzz Aldrin",
+      "involves",
+      "moon landing"
+    ],
+    [
+      "Buzz Aldrin",
+      "is a part of",
+      "interplanetary exploration"
+    ],
+    [
+      "Buzz Aldrin",
+      "marks",
+      "significant events"
+    ],
+    [
+      "Buzz Aldrin",
+      "worked alongside",
+      "Neil Armstrong"
+    ],
+    [
+      "ISS",
+      "established by",
+      "permanent presence"
+    ],
+    [
+      "ISS",
+      "is a result of",
+      "collaboration"
+    ],
+    [
+      "ISS",
+      "supports",
+      "crewed missions"
+    ],
+    [
+      "International Space Station",
+      "contributes to",
+      "discovery drive"
+    ],
+    [
+      "International Space Station",
+      "facilitates",
+      "manned missions"
+    ],
+    [
+      "International Space Station",
+      "is a result of",
+      "collaboration"
+    ],
+    [
+      "International Space Station",
+      "supports",
+      "space tourism"
+    ],
+    [
+      "International Space Station",
+      "supports",
+      "space travel"
+    ],
+    [
+      "Mars exploration",
+      "includes",
+      "crewed missions"
+    ],
+    [
+      "NASA",
+      "achieved by",
+      "moon landing"
+    ],
+    [
+      "NASA",
+      "achieves",
+      "achievements"
+    ],
+    [
+      "NASA",
+      "conducts",
+      "manned missions"
+    ],
+    [
+      "NASA",
+      "develops",
+      "advanced propulsion"
+    ],
+    [
+      "NASA",
+      "drives",
+      "ambitious plans"
+    ],
+    [
+      "NASA",
+      "embodies",
+      "human adventure"
+    ],
+    [
+      "NASA",
+      "focuses on",
+      "Mars exploration"
+    ],
+    [
+      "NASA",
+      "fosters",
+      "collaboration"
+    ],
+    [
+      "NASA",
+      "fosters",
+      "discovery drive"
+    ],
+    [
+      "NASA",
+      "initiated",
+      "space race"
+    ],
+    [
+      "NASA",
+      "initiated",
+      "space shuttle program"
+    ],
+    [
+      "NASA",
+      "initiates",
+      "ambitious missions"
+    ],
+    [
+      "NASA",
+      "involves",
+      "cosmic journey"
+    ],
+    [
+      "NASA",
+      "is impacted by",
+      "challenges"
+    ],
+    [
+      "NASA",
+      "shapes",
+      "exploration evolution"
+    ],
+    [
+      "NASA",
+      "shapes",
+      "humanity's future"
+    ],
+    [
+      "Neil Armstrong",
+      "achieved by",
+      "exploration milestones"
+    ],
+    [
+      "Neil Armstrong",
+      "influenced by",
+      "cosmic exploration"
+    ],
+    [
+      "Neil Armstrong",
+      "involves",
+      "human milestones"
+    ],
+    [
+      "Neil Armstrong",
+      "is a focus of",
+      "interplanetary exploration"
+    ],
+    [
+      "Neil Armstrong",
+      "partnered with",
+      "Buzz Aldrin"
+    ],
+    [
+      "Neil Armstrong",
+      "performed by",
+      "Apollo 11"
+    ],
+    [
+      "Neil Armstrong",
+      "pioneered",
+      "space travel"
+    ],
+    [
+      "Soviet Union",
+      "competed with",
+      "space shuttle program"
+    ],
+    [
+      "Soviet Union",
+      "influenced by",
+      "20th century"
+    ],
+    [
+      "Soviet Union",
+      "launched by",
+      "Sputnik 1"
+    ],
+    [
+      "SpaceX",
+      "had multiple",
+      "manned missions"
+    ],
+    [
+      "SpaceX",
+      "has missions to",
+      "ISS"
+    ],
+    [
+      "Sputnik 1",
+      "began the",
+      "space age"
+    ],
+    [
+      "United States",
+      "is influenced by",
+      "history"
+    ],
+    [
+      "Vostok 1",
+      "associated with",
+      "space age"
+    ],
+    [
+      "Vostok 1",
+      "facilitated",
+      "interplanetary exploration"
+    ],
+    [
+      "Vostok 1",
+      "influenced by",
+      "Apollo 11"
+    ],
+    [
+      "Vostok 1",
+      "is a challenge for",
+      "challenges"
+    ],
+    [
+      "Vostok 1",
+      "is a part of",
+      "cosmos"
+    ],
+    [
+      "Vostok 1",
+      "is associated with",
+      "Buzz Aldrin"
+    ],
+    [
+      "Vostok 1",
+      "paved the way for",
+      "permanent presence"
+    ],
+    [
+      "Vostok 1",
+      "pioneered by",
+      "technological advancements"
+    ],
+    [
+      "Yuri Gagarin",
+      "launched by",
+      "Soviet Union"
+    ],
+    [
+      "achievements",
+      "achieved by",
+      "permanent presence"
+    ],
+    [
+      "achievements",
+      "drives",
+      "ambitious plans"
+    ],
+    [
+      "achievements",
+      "overcame",
+      "challenges"
+    ],
+    [
+      "achievements",
+      "resulted from",
+      "collaboration"
+    ],
+    [
+      "achievements",
+      "resulted from",
+      "moon landing"
+    ],
+    [
+      "achievements",
+      "resulted from",
+      "space age"
+    ],
+    [
+      "achievements",
+      "results in",
+      "advanced propulsion"
+    ],
+    [
+      "achievements",
+      "showcases",
+      "history"
+    ],
+    [
+      "advanced propulsion",
+      "drives",
+      "space race"
+    ],
+    [
+      "advanced propulsion",
+      "enables",
+      "ambitious missions"
+    ],
+    [
+      "advanced propulsion",
+      "enables",
+      "collaboration"
+    ],
+    [
+      "advanced propulsion",
+      "enables",
+      "crewed missions"
+    ],
+    [
+      "advanced propulsion",
+      "enables",
+      "manned missions"
+    ],
+    [
+      "advanced propulsion",
+      "enhances",
+      "ISS"
+    ],
+    [
+      "advanced propulsion",
+      "expands",
+      "frontier"
+    ],
+    [
+      "advanced propulsion",
+      "supports",
+      "International Space Station"
+    ],
+    [
+      "ambitious missions",
+      "aims for",
+      "colonization"
+    ],
+    [
+      "ambitious missions",
+      "includes",
+      "achievements"
+    ],
+    [
+      "ambitious missions",
+      "includes",
+      "space travel"
+    ],
+    [
+      "ambitious missions",
+      "is related to",
+      "challenges"
+    ],
+    [
+      "ambitious plans",
+      "aims for",
+      "colonization"
+    ],
+    [
+      "ambitious plans",
+      "drives",
+      "exploration evolution"
+    ],
+    [
+      "ambitious plans",
+      "envisions",
+      "interplanetary exploration"
+    ],
+    [
+      "ambitious plans",
+      "inspired by",
+      "space tourism"
+    ],
+    [
+      "ambitious plans",
+      "involves",
+      "possibilities"
+    ],
+    [
+      "ambitious plans",
+      "is a component of",
+      "space travel"
+    ],
+    [
+      "ambitious plans",
+      "is a goal of",
+      "frontier"
+    ],
+    [
+      "ambitious plans",
+      "is a goal of",
+      "space age"
+    ],
+    [
+      "ambitious plans",
+      "is part of",
+      "moon landing"
+    ],
+    [
+      "ambitious plans",
+      "requires",
+      "collaboration"
+    ],
+    [
+      "challenges",
+      "affects",
+      "exploration milestones"
+    ],
+    [
+      "challenges",
+      "affects",
+      "possibilities"
+    ],
+    [
+      "challenges",
+      "associated with",
+      "tragedies"
+    ],
+    [
+      "challenges",
+      "challenges",
+      "cosmos"
+    ],
+    [
+      "challenges",
+      "complicates",
+      "space race"
+    ],
+    [
+      "challenges",
+      "contributes to",
+      "exploration risks"
+    ],
+    [
+      "challenges",
+      "drives",
+      "technological advancements"
+    ],
+    [
+      "challenges",
+      "hinders",
+      "colonization"
+    ],
+    [
+      "collaboration",
+      "creates",
+      "possibilities"
+    ],
+    [
+      "commercial space travel",
+      "drives",
+      "private companies"
+    ],
+    [
+      "commercial space travel",
+      "drives",
+      "space race"
+    ],
+    [
+      "commercial space travel",
+      "evolves from",
+      "exploration evolution"
+    ],
+    [
+      "commercial space travel",
+      "facilitates",
+      "cosmic journey"
+    ],
+    [
+      "commercial space travel",
+      "includes",
+      "ambitious missions"
+    ],
+    [
+      "commercial space travel",
+      "represents",
+      "frontier"
+    ],
+    [
+      "commercial space travel",
+      "shapes",
+      "humanity's future"
+    ],
+    [
+      "commercial space travel",
+      "traces back to",
+      "history"
+    ],
+    [
+      "cosmic exploration",
+      "involves",
+      "human adventure"
+    ],
+    [
+      "cosmic exploration",
+      "motivates",
+      "ambitious plans"
+    ],
+    [
+      "cosmic journey",
+      "advances",
+      "technological evolution"
+    ],
+    [
+      "cosmic journey",
+      "enables",
+      "interplanetary exploration"
+    ],
+    [
+      "cosmic journey",
+      "enables",
+      "space tourism"
+    ],
+    [
+      "cosmic journey",
+      "enables",
+      "technological advancements"
+    ],
+    [
+      "cosmic journey",
+      "highlights",
+      "tragedies"
+    ],
+    [
+      "cosmic journey",
+      "includes",
+      "achievements"
+    ],
+    [
+      "cosmic journey",
+      "includes",
+      "exploration milestones"
+    ],
+    [
+      "cosmic journey",
+      "utilized by",
+      "Vostok 1"
+    ],
+    [
+      "cosmos",
+      "explores",
+      "cosmic journey"
+    ],
+    [
+      "cosmos",
+      "is a potential outcome of",
+      "space tourism"
+    ],
+    [
+      "cosmos",
+      "is advanced by",
+      "advanced propulsion"
+    ],
+    [
+      "cosmos",
+      "shapes",
+      "humanity's future"
+    ],
+    [
+      "cosmos",
+      "targets",
+      "Mars exploration"
+    ],
+    [
+      "crewed missions",
+      "advances",
+      "frontier"
+    ],
+    [
+      "crewed missions",
+      "aligns with",
+      "ambitious plans"
+    ],
+    [
+      "crewed missions",
+      "conducts",
+      "private companies"
+    ],
+    [
+      "crewed missions",
+      "enables",
+      "possibilities"
+    ],
+    [
+      "crewed missions",
+      "enables",
+      "technological advancements"
+    ],
+    [
+      "crewed missions",
+      "is explored by",
+      "cosmos"
+    ],
+    [
+      "crewed missions",
+      "is part of",
+      "ambitious missions"
+    ],
+    [
+      "crewed missions",
+      "is supported by",
+      "International Space Station"
+    ],
+    [
+      "crewed missions",
+      "reflects",
+      "exploration evolution"
+    ],
+    [
+      "discovery drive",
+      "drives",
+      "manned missions"
+    ],
+    [
+      "discovery drive",
+      "drives",
+      "possibilities"
+    ],
+    [
+      "discovery drive",
+      "fuels",
+      "technological evolution"
+    ],
+    [
+      "discovery drive",
+      "motivates",
+      "challenges"
+    ],
+    [
+      "discovery drive",
+      "results in",
+      "achievements"
+    ],
+    [
+      "exploration evolution",
+      "contributes to",
+      "Vostok 1"
+    ],
+    [
+      "exploration evolution",
+      "influenced by",
+      "cosmos"
+    ],
+    [
+      "exploration evolution",
+      "influences",
+      "achievements"
+    ],
+    [
+      "exploration evolution",
+      "influences",
+      "human milestones"
+    ],
+    [
+      "exploration evolution",
+      "reflected in",
+      "moon landing"
+    ],
+    [
+      "exploration milestones",
+      "comprises",
+      "ambitious missions"
+    ],
+    [
+      "exploration milestones",
+      "drives",
+      "space race"
+    ],
+    [
+      "exploration milestones",
+      "enables",
+      "manned missions"
+    ],
+    [
+      "exploration milestones",
+      "includes",
+      "ambitious plans"
+    ],
+    [
+      "exploration milestones",
+      "influences",
+      "permanent presence"
+    ],
+    [
+      "exploration milestones",
+      "influences",
+      "technological evolution"
+    ],
+    [
+      "exploration milestones",
+      "involves",
+      "Mars exploration"
+    ],
+    [
+      "exploration milestones",
+      "reflects",
+      "exploration evolution"
+    ],
+    [
+      "exploration risks",
+      "addresses",
+      "advanced propulsion"
+    ],
+    [
+      "exploration risks",
+      "affects",
+      "crewed missions"
+    ],
+    [
+      "exploration risks",
+      "caused",
+      "tragedies"
+    ],
+    [
+      "exploration risks",
+      "complicates",
+      "interplanetary exploration"
+    ],
+    [
+      "exploration risks",
+      "exposes",
+      "permanent presence"
+    ],
+    [
+      "exploration risks",
+      "involves",
+      "Vostok 1"
+    ],
+    [
+      "exploration risks",
+      "involves",
+      "technological advancements"
+    ],
+    [
+      "exploration risks",
+      "marks",
+      "exploration milestones"
+    ],
+    [
+      "exploration risks",
+      "poses risks to",
+      "humanity's future"
+    ],
+    [
+      "exploration risks",
+      "presents",
+      "space travel"
+    ],
+    [
+      "frontier",
+      "inspired",
+      "ambitious missions"
+    ],
+    [
+      "history",
+      "explores",
+      "cosmos"
+    ],
+    [
+      "history",
+      "influences",
+      "private companies"
+    ],
+    [
+      "history",
+      "is documented in",
+      "challenges"
+    ],
+    [
+      "history",
+      "reflects",
+      "exploration evolution"
+    ],
+    [
+      "history",
+      "shaped",
+      "space age"
+    ],
+    [
+      "human adventure",
+      "drives",
+      "achievements"
+    ],
+    [
+      "human adventure",
+      "drives",
+      "ambitious missions"
+    ],
+    [
+      "human adventure",
+      "embodies",
+      "exploration milestones"
+    ],
+    [
+      "human adventure",
+      "enables",
+      "crewed missions"
+    ],
+    [
+      "human adventure",
+      "facilitates",
+      "interplanetary exploration"
+    ],
+    [
+      "human adventure",
+      "inspired by",
+      "space age"
+    ],
+    [
+      "human adventure",
+      "leads to",
+      "colonization"
+    ],
+    [
+      "human adventure",
+      "opens up",
+      "possibilities"
+    ],
+    [
+      "human milestones",
+      "constructed by",
+      "International Space Station"
+    ],
+    [
+      "human milestones",
+      "defines",
+      "human adventure"
+    ],
+    [
+      "human milestones",
+      "drives",
+      "ambitious plans"
+    ],
+    [
+      "human milestones",
+      "enables",
+      "technological advancements"
+    ],
+    [
+      "human milestones",
+      "includes",
+      "Apollo 11"
+    ],
+    [
+      "human milestones",
+      "represents",
+      "ISS"
+    ],
+    [
+      "humanity's future",
+      "drives",
+      "exploration milestones"
+    ],
+    [
+      "humanity's future",
+      "envisions",
+      "cosmic exploration"
+    ],
+    [
+      "humanity's future",
+      "involves",
+      "colonization"
+    ],
+    [
+      "humanity's future",
+      "promises",
+      "space tourism"
+    ],
+    [
+      "interplanetary exploration",
+      "is a focus of",
+      "ambitious missions"
+    ],
+    [
+      "interplanetary exploration",
+      "is a goal of",
+      "Vostok 1"
+    ],
+    [
+      "interplanetary exploration",
+      "is a goal of",
+      "cosmos"
+    ],
+    [
+      "interplanetary exploration",
+      "pioneered by",
+      "Apollo 11"
+    ],
+    [
+      "lunar bases",
+      "facilitates",
+      "crewed missions"
+    ],
+    [
+      "lunar bases",
+      "includes",
+      "exploration milestones"
+    ],
+    [
+      "lunar bases",
+      "is a goal of",
+      "frontier"
+    ],
+    [
+      "lunar bases",
+      "supports",
+      "cosmic exploration"
+    ],
+    [
+      "lunar bases",
+      "supports",
+      "interplanetary exploration"
+    ],
+    [
+      "manned missions",
+      "enables",
+      "interplanetary exploration"
+    ],
+    [
+      "moon landing",
+      "achieved by",
+      "Apollo 11"
+    ],
+    [
+      "moon landing",
+      "achieved by",
+      "Neil Armstrong"
+    ],
+    [
+      "moon landing",
+      "enabled by",
+      "lunar bases"
+    ],
+    [
+      "moon landing",
+      "includes",
+      "cosmic journey"
+    ],
+    [
+      "moon landing",
+      "inspired",
+      "ambitious missions"
+    ],
+    [
+      "moon landing",
+      "spurred",
+      "space race"
+    ],
+    [
+      "permanent presence",
+      "enables",
+      "colonization"
+    ],
+    [
+      "permanent presence",
+      "enables",
+      "interplanetary exploration"
+    ],
+    [
+      "permanent presence",
+      "facilitates",
+      "crewed missions"
+    ],
+    [
+      "permanent presence",
+      "resulted from",
+      "collaboration"
+    ],
+    [
+      "permanent presence",
+      "supports",
+      "manned missions"
+    ],
+    [
+      "permanent presence",
+      "supports",
+      "space tourism"
+    ],
+    [
+      "possibilities",
+      "includes",
+      "ambitious missions"
+    ],
+    [
+      "private companies",
+      "competes with",
+      "NASA"
+    ],
+    [
+      "private companies",
+      "pursues",
+      "Mars exploration"
+    ],
+    [
+      "private companies",
+      "supports",
+      "discovery drive"
+    ],
+    [
+      "significant events",
+      "associated with",
+      "space shuttle program"
+    ],
+    [
+      "significant events",
+      "contributes to",
+      "ambitious missions"
+    ],
+    [
+      "significant events",
+      "illustrates",
+      "exploration evolution"
+    ],
+    [
+      "significant events",
+      "influenced by",
+      "cosmos"
+    ],
+    [
+      "significant events",
+      "part of",
+      "Apollo 11"
+    ],
+    [
+      "significant events",
+      "represents",
+      "moon landing"
+    ],
+    [
+      "space age",
+      "drives",
+      "ambitious missions"
+    ],
+    [
+      "space age",
+      "emerged during",
+      "20th century"
+    ],
+    [
+      "space age",
+      "evolved from",
+      "exploration evolution"
+    ],
+    [
+      "space age",
+      "initiates",
+      "cosmic journey"
+    ],
+    [
+      "space age",
+      "initiates",
+      "space race"
+    ],
+    [
+      "space race",
+      "driven by",
+      "achievements"
+    ],
+    [
+      "space race",
+      "driven by",
+      "cosmos"
+    ],
+    [
+      "space race",
+      "drives",
+      "interplanetary exploration"
+    ],
+    [
+      "space race",
+      "influenced",
+      "space travel"
+    ],
+    [
+      "space race",
+      "is a factor in",
+      "challenges"
+    ],
+    [
+      "space race",
+      "is driven by",
+      "colonization"
+    ],
+    [
+      "space race",
+      "leads to",
+      "possibilities"
+    ],
+    [
+      "space shuttle program",
+      "began in",
+      "1980s"
+    ],
+    [
+      "space shuttle program",
+      "developed by",
+      "United States"
+    ],
+    [
+      "space shuttle program",
+      "enables",
+      "interplanetary exploration"
+    ],
+    [
+      "space shuttle program",
+      "enables",
+      "space tourism"
+    ],
+    [
+      "space shuttle program",
+      "influenced by",
+      "moon landing"
+    ],
+    [
+      "space shuttle program",
+      "influences",
+      "history"
+    ],
+    [
+      "space shuttle program",
+      "was developed during",
+      "20th century"
+    ],
+    [
+      "space tourism",
+      "drives",
+      "discovery drive"
+    ],
+    [
+      "space tourism",
+      "enables",
+      "manned missions"
+    ],
+    [
+      "space tourism",
+      "enables",
+      "technological advancements"
+    ],
+    [
+      "space tourism",
+      "facilitated by",
+      "ISS"
+    ],
+    [
+      "space tourism",
+      "influences",
+      "exploration evolution"
+    ],
+    [
+      "space tourism",
+      "is a component of",
+      "crewed missions"
+    ],
+    [
+      "space tourism",
+      "is a potential outcome of",
+      "20th century"
+    ],
+    [
+      "space tourism",
+      "is enhanced by",
+      "advanced propulsion"
+    ],
+    [
+      "space tourism",
+      "represents",
+      "human milestones"
+    ],
+    [
+      "space tourism",
+      "requires",
+      "collaboration"
+    ],
+    [
+      "space tourism",
+      "results in",
+      "achievements"
+    ],
+    [
+      "space travel",
+      "complicates",
+      "challenges"
+    ],
+    [
+      "space travel",
+      "enables",
+      "permanent presence"
+    ],
+    [
+      "space travel",
+      "facilitated",
+      "achievements"
+    ],
+    [
+      "space travel",
+      "facilitates",
+      "possibilities"
+    ],
+    [
+      "space travel",
+      "influences",
+      "exploration milestones"
+    ],
+    [
+      "space travel",
+      "was driven by",
+      "space race"
+    ],
+    [
+      "technological advancements",
+      "drives",
+      "exploration evolution"
+    ],
+    [
+      "technological advancements",
+      "drives",
+      "technological evolution"
+    ],
+    [
+      "technological advancements",
+      "enabled by",
+      "space age"
+    ],
+    [
+      "technological advancements",
+      "enables",
+      "colonization"
+    ],
+    [
+      "technological advancements",
+      "enables",
+      "interplanetary exploration"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "advanced propulsion"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "collaboration"
+    ],
+    [
+      "technological advancements",
+      "led to",
+      "moon landing"
+    ],
+    [
+      "technological advancements",
+      "shapes",
+      "humanity's future"
+    ],
+    [
+      "technological advancements",
+      "supports",
+      "ambitious plans"
+    ],
+    [
+      "technological advancements",
+      "supports",
+      "permanent presence"
+    ],
+    [
+      "technological evolution",
+      "advances",
+      "frontier"
+    ],
+    [
+      "technological evolution",
+      "driven by",
+      "human milestones"
+    ],
+    [
+      "technological evolution",
+      "enables",
+      "interplanetary exploration"
+    ],
+    [
+      "technological evolution",
+      "facilitates",
+      "collaboration"
+    ],
+    [
+      "technological evolution",
+      "influences",
+      "cosmic exploration"
+    ],
+    [
+      "tragedies",
+      "affects",
+      "space travel"
+    ],
+    [
+      "tragedies",
+      "faced",
+      "human adventure"
+    ],
+    [
+      "tragedies",
+      "impacts",
+      "commercial space travel"
+    ],
+    [
+      "tragedies",
+      "impacts",
+      "humanity's future"
+    ],
+    [
+      "tragedies",
+      "leads to",
+      "possibilities"
+    ],
+    [
+      "tragedies",
+      "resulted in",
+      "achievements"
+    ]
+  ],
+  "edges": [
+    "achieved by",
+    "achieves",
+    "addresses",
+    "advances",
+    "affects",
+    "aims for",
+    "aligns with",
+    "associated with",
+    "began in",
+    "began the",
+    "caused",
+    "challenges",
+    "competed with",
+    "competes with",
+    "complicates",
+    "comprises",
+    "conducts",
+    "constructed by",
+    "contributes to",
+    "creates",
+    "defines",
+    "developed by",
+    "develops",
+    "driven by",
+    "drives",
+    "embodies",
+    "emerged during",
+    "enabled",
+    "enabled by",
+    "enables",
+    "encompasses",
+    "enhances",
+    "envisions",
+    "established by",
+    "evolved from",
+    "evolves from",
+    "expands",
+    "explores",
+    "exposes",
+    "faced",
+    "facilitated",
+    "facilitated by",
+    "facilitates",
+    "focuses on",
+    "fosters",
+    "fuels",
+    "had multiple",
+    "has missions to",
+    "highlights",
+    "hinders",
+    "illustrates",
+    "impacts",
+    "includes",
+    "influenced",
+    "influenced by",
+    "influences",
+    "initiated",
+    "initiates",
+    "inspired",
+    "inspired by",
+    "involves",
+    "is a challenge for",
+    "is a competitor of",
+    "is a component of",
+    "is a consequence of",
+    "is a factor in",
+    "is a focus of",
+    "is a goal of",
+    "is a part of",
+    "is a potential outcome of",
+    "is a result of",
+    "is advanced by",
+    "is associated with",
+    "is documented in",
+    "is driven by",
+    "is enhanced by",
+    "is explored by",
+    "is impacted by",
+    "is influenced by",
+    "is part of",
+    "is related to",
+    "is supported by",
+    "launched by",
+    "leads to",
+    "led to",
+    "marks",
+    "motivates",
+    "opens up",
+    "overcame",
+    "part of",
+    "partnered with",
+    "paved the way for",
+    "performed by",
+    "pioneered",
+    "pioneered by",
+    "poses risks to",
+    "presents",
+    "produced",
+    "promises",
+    "pursues",
+    "reflected in",
+    "reflects",
+    "represents",
+    "requires",
+    "resulted from",
+    "resulted in",
+    "results in",
+    "shaped",
+    "shapes",
+    "showcases",
+    "signifies",
+    "spurred",
+    "supports",
+    "targets",
+    "traces back to",
+    "utilized by",
+    "was developed during",
+    "was driven by",
+    "worked alongside"
+  ]
+}

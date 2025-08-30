@@ -1,0 +1,3917 @@
+{
+  "entities": [
+    "Sigmund Freud",
+    "anxiety",
+    "art",
+    "behavior insights",
+    "brain processes",
+    "breakthroughs",
+    "cognition",
+    "content experiences",
+    "control",
+    "creativity",
+    "creativity potential",
+    "dream analysis",
+    "dream content",
+    "dream significance",
+    "dreaming",
+    "emotional experiences",
+    "emotional state",
+    "emotions",
+    "enhancing skills",
+    "formation",
+    "human behavior",
+    "human mind",
+    "information storage",
+    "insightful ideas",
+    "insights",
+    "knowledge",
+    "learning",
+    "literature",
+    "lucid dreaming",
+    "mechanisms",
+    "memories",
+    "memory consolidation",
+    "memory performance",
+    "motivations",
+    "networks",
+    "nightmares",
+    "personal growth",
+    "pleasant dreams",
+    "problem-solving",
+    "processing emotions",
+    "psychoanalysis",
+    "psychological insights",
+    "psychological study",
+    "psychological understanding",
+    "psychologists",
+    "retrieval",
+    "science",
+    "self-reflection",
+    "sleep",
+    "stress",
+    "subconscious mind",
+    "unconscious desires",
+    "unresolved issues",
+    "well-being"
+  ],
+  "relations": [
+    [
+      "Sigmund Freud",
+      "affects",
+      "stress"
+    ],
+    [
+      "Sigmund Freud",
+      "analyzed by",
+      "nightmares"
+    ],
+    [
+      "Sigmund Freud",
+      "analyzes",
+      "dreaming"
+    ],
+    [
+      "Sigmund Freud",
+      "analyzes",
+      "emotional experiences"
+    ],
+    [
+      "Sigmund Freud",
+      "analyzes",
+      "emotions"
+    ],
+    [
+      "Sigmund Freud",
+      "analyzes",
+      "unconscious desires"
+    ],
+    [
+      "Sigmund Freud",
+      "contributed to",
+      "literature"
+    ],
+    [
+      "Sigmund Freud",
+      "contributes to",
+      "dream analysis"
+    ],
+    [
+      "Sigmund Freud",
+      "contributes to",
+      "knowledge"
+    ],
+    [
+      "Sigmund Freud",
+      "enhances",
+      "psychological understanding"
+    ],
+    [
+      "Sigmund Freud",
+      "examines",
+      "cognition"
+    ],
+    [
+      "Sigmund Freud",
+      "examines",
+      "processing emotions"
+    ],
+    [
+      "Sigmund Freud",
+      "explores",
+      "problem-solving"
+    ],
+    [
+      "Sigmund Freud",
+      "explores",
+      "subconscious mind"
+    ],
+    [
+      "Sigmund Freud",
+      "founded",
+      "psychoanalysis"
+    ],
+    [
+      "Sigmund Freud",
+      "influenced by",
+      "behavior insights"
+    ],
+    [
+      "Sigmund Freud",
+      "influenced by",
+      "enhancing skills"
+    ],
+    [
+      "Sigmund Freud",
+      "influenced by",
+      "memories"
+    ],
+    [
+      "Sigmund Freud",
+      "influences",
+      "psychologists"
+    ],
+    [
+      "Sigmund Freud",
+      "is analyzed by",
+      "content experiences"
+    ],
+    [
+      "Sigmund Freud",
+      "is influenced by",
+      "insightful ideas"
+    ],
+    [
+      "Sigmund Freud",
+      "is influenced by",
+      "well-being"
+    ],
+    [
+      "Sigmund Freud",
+      "is informed by",
+      "psychological insights"
+    ],
+    [
+      "Sigmund Freud",
+      "is studied by",
+      "lucid dreaming"
+    ],
+    [
+      "Sigmund Freud",
+      "leads to",
+      "breakthroughs"
+    ],
+    [
+      "Sigmund Freud",
+      "pioneered",
+      "psychological study"
+    ],
+    [
+      "Sigmund Freud",
+      "promotes",
+      "self-reflection"
+    ],
+    [
+      "Sigmund Freud",
+      "studies",
+      "human mind"
+    ],
+    [
+      "anxiety",
+      "affects",
+      "Sigmund Freud"
+    ],
+    [
+      "anxiety",
+      "affects",
+      "behavior insights"
+    ],
+    [
+      "anxiety",
+      "affects",
+      "brain processes"
+    ],
+    [
+      "anxiety",
+      "affects",
+      "information storage"
+    ],
+    [
+      "anxiety",
+      "affects",
+      "lucid dreaming"
+    ],
+    [
+      "anxiety",
+      "affects",
+      "mechanisms"
+    ],
+    [
+      "anxiety",
+      "affects",
+      "memory consolidation"
+    ],
+    [
+      "anxiety",
+      "affects",
+      "subconscious mind"
+    ],
+    [
+      "anxiety",
+      "causes",
+      "emotional state"
+    ],
+    [
+      "anxiety",
+      "enhances",
+      "psychological understanding"
+    ],
+    [
+      "anxiety",
+      "facilitates",
+      "self-reflection"
+    ],
+    [
+      "anxiety",
+      "increases",
+      "stress"
+    ],
+    [
+      "anxiety",
+      "influenced by",
+      "emotional experiences"
+    ],
+    [
+      "anxiety",
+      "influences",
+      "human behavior"
+    ],
+    [
+      "anxiety",
+      "influences",
+      "problem-solving"
+    ],
+    [
+      "anxiety",
+      "is affected by",
+      "emotions"
+    ],
+    [
+      "anxiety",
+      "is affected by",
+      "insightful ideas"
+    ],
+    [
+      "anxiety",
+      "is affected by",
+      "well-being"
+    ],
+    [
+      "anxiety",
+      "is influenced by",
+      "psychological insights"
+    ],
+    [
+      "anxiety",
+      "is linked to",
+      "dreaming"
+    ],
+    [
+      "anxiety",
+      "provides",
+      "insights"
+    ],
+    [
+      "anxiety",
+      "reflects",
+      "dream content"
+    ],
+    [
+      "anxiety",
+      "triggers",
+      "processing emotions"
+    ],
+    [
+      "art",
+      "connects to",
+      "networks"
+    ],
+    [
+      "art",
+      "contributes to",
+      "psychological understanding"
+    ],
+    [
+      "art",
+      "influences",
+      "human behavior"
+    ],
+    [
+      "art",
+      "influences",
+      "memories"
+    ],
+    [
+      "art",
+      "influences",
+      "nightmares"
+    ],
+    [
+      "art",
+      "influences",
+      "processing emotions"
+    ],
+    [
+      "art",
+      "informs",
+      "behavior insights"
+    ],
+    [
+      "art",
+      "informs",
+      "dream content"
+    ],
+    [
+      "art",
+      "informs",
+      "psychological insights"
+    ],
+    [
+      "art",
+      "is expressed in",
+      "content experiences"
+    ],
+    [
+      "art",
+      "leads to",
+      "breakthroughs"
+    ],
+    [
+      "art",
+      "promotes",
+      "self-reflection"
+    ],
+    [
+      "art",
+      "reflects",
+      "subconscious mind"
+    ],
+    [
+      "art",
+      "utilizes",
+      "dream analysis"
+    ],
+    [
+      "behavior insights",
+      "aids in",
+      "processing emotions"
+    ],
+    [
+      "behavior insights",
+      "enhances",
+      "psychological understanding"
+    ],
+    [
+      "behavior insights",
+      "enhances",
+      "self-reflection"
+    ],
+    [
+      "behavior insights",
+      "informs",
+      "cognition"
+    ],
+    [
+      "behavior insights",
+      "informs",
+      "subconscious mind"
+    ],
+    [
+      "behavior insights",
+      "provides",
+      "dreaming"
+    ],
+    [
+      "behavior insights",
+      "provides",
+      "science"
+    ],
+    [
+      "behavior insights",
+      "provides insights into",
+      "human behavior"
+    ],
+    [
+      "behavior insights",
+      "reflects",
+      "emotional experiences"
+    ],
+    [
+      "behavior insights",
+      "reflects",
+      "emotions"
+    ],
+    [
+      "behavior insights",
+      "reveals",
+      "unconscious desires"
+    ],
+    [
+      "brain processes",
+      "affected by",
+      "control"
+    ],
+    [
+      "brain processes",
+      "enables",
+      "self-reflection"
+    ],
+    [
+      "brain processes",
+      "influences",
+      "psychological understanding"
+    ],
+    [
+      "brain processes",
+      "is influenced by",
+      "problem-solving"
+    ],
+    [
+      "brain processes",
+      "is processed by",
+      "retrieval"
+    ],
+    [
+      "brain processes",
+      "processed by",
+      "unconscious desires"
+    ],
+    [
+      "brain processes",
+      "processes",
+      "information storage"
+    ],
+    [
+      "brain processes",
+      "reflects",
+      "emotional state"
+    ],
+    [
+      "breakthroughs",
+      "enables",
+      "learning"
+    ],
+    [
+      "breakthroughs",
+      "enables",
+      "retrieval"
+    ],
+    [
+      "breakthroughs",
+      "facilitates",
+      "memory consolidation"
+    ],
+    [
+      "breakthroughs",
+      "facilitates",
+      "subconscious mind"
+    ],
+    [
+      "breakthroughs",
+      "informs",
+      "memories"
+    ],
+    [
+      "breakthroughs",
+      "involves",
+      "brain processes"
+    ],
+    [
+      "breakthroughs",
+      "leads to",
+      "behavior insights"
+    ],
+    [
+      "breakthroughs",
+      "leads to",
+      "cognition"
+    ],
+    [
+      "breakthroughs",
+      "leads to",
+      "well-being"
+    ],
+    [
+      "breakthroughs",
+      "results in",
+      "literature"
+    ],
+    [
+      "cognition",
+      "affects",
+      "emotional experiences"
+    ],
+    [
+      "cognition",
+      "affects",
+      "stress"
+    ],
+    [
+      "cognition",
+      "affects",
+      "unresolved issues"
+    ],
+    [
+      "cognition",
+      "enhances",
+      "retrieval"
+    ],
+    [
+      "cognition",
+      "influences",
+      "pleasant dreams"
+    ],
+    [
+      "cognition",
+      "informs",
+      "creativity"
+    ],
+    [
+      "cognition",
+      "informs",
+      "dreaming"
+    ],
+    [
+      "cognition",
+      "informs",
+      "emotional state"
+    ],
+    [
+      "cognition",
+      "informs",
+      "insightful ideas"
+    ],
+    [
+      "cognition",
+      "informs",
+      "networks"
+    ],
+    [
+      "cognition",
+      "informs",
+      "processing emotions"
+    ],
+    [
+      "cognition",
+      "involves",
+      "formation"
+    ],
+    [
+      "cognition",
+      "involves",
+      "problem-solving"
+    ],
+    [
+      "cognition",
+      "is related to",
+      "knowledge"
+    ],
+    [
+      "content experiences",
+      "aids in",
+      "retrieval"
+    ],
+    [
+      "content experiences",
+      "contributes to",
+      "science"
+    ],
+    [
+      "content experiences",
+      "enhances",
+      "creativity potential"
+    ],
+    [
+      "content experiences",
+      "enhances",
+      "enhancing skills"
+    ],
+    [
+      "content experiences",
+      "enhances",
+      "learning"
+    ],
+    [
+      "content experiences",
+      "facilitates",
+      "dream analysis"
+    ],
+    [
+      "content experiences",
+      "facilitates",
+      "problem-solving"
+    ],
+    [
+      "content experiences",
+      "influences",
+      "formation"
+    ],
+    [
+      "content experiences",
+      "informs",
+      "cognition"
+    ],
+    [
+      "content experiences",
+      "involves",
+      "brain processes"
+    ],
+    [
+      "content experiences",
+      "is connected to",
+      "emotions"
+    ],
+    [
+      "content experiences",
+      "is linked to",
+      "anxiety"
+    ],
+    [
+      "content experiences",
+      "is related to",
+      "dream significance"
+    ],
+    [
+      "content experiences",
+      "is related to",
+      "dreaming"
+    ],
+    [
+      "content experiences",
+      "leads to",
+      "breakthroughs"
+    ],
+    [
+      "content experiences",
+      "occurs during",
+      "sleep"
+    ],
+    [
+      "content experiences",
+      "promotes",
+      "personal growth"
+    ],
+    [
+      "content experiences",
+      "provides",
+      "psychological insights"
+    ],
+    [
+      "content experiences",
+      "reflects",
+      "nightmares"
+    ],
+    [
+      "content experiences",
+      "shapes",
+      "motivations"
+    ],
+    [
+      "content experiences",
+      "supports",
+      "well-being"
+    ],
+    [
+      "control",
+      "controlled by",
+      "literature"
+    ],
+    [
+      "control",
+      "controlled by",
+      "subconscious mind"
+    ],
+    [
+      "control",
+      "enables",
+      "self-reflection"
+    ],
+    [
+      "control",
+      "highlights",
+      "dream significance"
+    ],
+    [
+      "control",
+      "influences",
+      "behavior insights"
+    ],
+    [
+      "control",
+      "influences",
+      "memory consolidation"
+    ],
+    [
+      "control",
+      "informs",
+      "psychological insights"
+    ],
+    [
+      "control",
+      "is controlled by",
+      "content experiences"
+    ],
+    [
+      "control",
+      "is exerted over",
+      "dream content"
+    ],
+    [
+      "control",
+      "is influenced by",
+      "emotions"
+    ],
+    [
+      "control",
+      "is managed by",
+      "lucid dreaming"
+    ],
+    [
+      "control",
+      "leads to",
+      "breakthroughs"
+    ],
+    [
+      "control",
+      "managed by",
+      "retrieval"
+    ],
+    [
+      "control",
+      "offers",
+      "insights"
+    ],
+    [
+      "control",
+      "requires",
+      "enhancing skills"
+    ],
+    [
+      "control",
+      "requires",
+      "learning"
+    ],
+    [
+      "creativity",
+      "enhances",
+      "control"
+    ],
+    [
+      "creativity",
+      "enhances",
+      "memories"
+    ],
+    [
+      "creativity",
+      "enhances",
+      "memory performance"
+    ],
+    [
+      "creativity",
+      "enhances",
+      "problem-solving"
+    ],
+    [
+      "creativity",
+      "enhances",
+      "retrieval"
+    ],
+    [
+      "creativity",
+      "influences",
+      "brain processes"
+    ],
+    [
+      "creativity",
+      "influences",
+      "emotional experiences"
+    ],
+    [
+      "creativity",
+      "informs",
+      "psychoanalysis"
+    ],
+    [
+      "creativity",
+      "inhibits",
+      "nightmares"
+    ],
+    [
+      "creativity",
+      "is influenced by",
+      "anxiety"
+    ],
+    [
+      "creativity",
+      "is influenced by",
+      "formation"
+    ],
+    [
+      "creativity",
+      "leads to",
+      "breakthroughs"
+    ],
+    [
+      "creativity",
+      "occurs in",
+      "dreaming"
+    ],
+    [
+      "creativity",
+      "provides",
+      "insights"
+    ],
+    [
+      "creativity",
+      "studied in",
+      "psychological study"
+    ],
+    [
+      "creativity potential",
+      "advances",
+      "science"
+    ],
+    [
+      "creativity potential",
+      "affects",
+      "emotional state"
+    ],
+    [
+      "creativity potential",
+      "enhances",
+      "cognition"
+    ],
+    [
+      "creativity potential",
+      "enhances",
+      "enhancing skills"
+    ],
+    [
+      "creativity potential",
+      "enhances",
+      "learning"
+    ],
+    [
+      "creativity potential",
+      "enhances",
+      "memory performance"
+    ],
+    [
+      "creativity potential",
+      "enhances",
+      "problem-solving"
+    ],
+    [
+      "creativity potential",
+      "enhances",
+      "psychological understanding"
+    ],
+    [
+      "creativity potential",
+      "enhances",
+      "sleep"
+    ],
+    [
+      "creativity potential",
+      "explains",
+      "mechanisms"
+    ],
+    [
+      "creativity potential",
+      "facilitates",
+      "self-reflection"
+    ],
+    [
+      "creativity potential",
+      "illustrates",
+      "dream significance"
+    ],
+    [
+      "creativity potential",
+      "influences",
+      "unconscious desires"
+    ],
+    [
+      "creativity potential",
+      "inspires",
+      "literature"
+    ],
+    [
+      "creativity potential",
+      "is analyzed in",
+      "dream analysis"
+    ],
+    [
+      "creativity potential",
+      "is derived from",
+      "dream content"
+    ],
+    [
+      "creativity potential",
+      "is essential for",
+      "formation"
+    ],
+    [
+      "creativity potential",
+      "is inspired by",
+      "retrieval"
+    ],
+    [
+      "creativity potential",
+      "is linked to",
+      "dreaming"
+    ],
+    [
+      "creativity potential",
+      "is processed by",
+      "brain processes"
+    ],
+    [
+      "creativity potential",
+      "offers",
+      "insights"
+    ],
+    [
+      "creativity potential",
+      "reflects",
+      "emotional experiences"
+    ],
+    [
+      "creativity potential",
+      "relates to",
+      "subconscious mind"
+    ],
+    [
+      "creativity potential",
+      "studied in",
+      "psychological study"
+    ],
+    [
+      "creativity potential",
+      "supports",
+      "memory consolidation"
+    ],
+    [
+      "dream analysis",
+      "analyzes",
+      "emotional state"
+    ],
+    [
+      "dream analysis",
+      "analyzes",
+      "human behavior"
+    ],
+    [
+      "dream analysis",
+      "is a method of",
+      "psychoanalysis"
+    ],
+    [
+      "dream analysis",
+      "is analyzed by",
+      "anxiety"
+    ],
+    [
+      "dream analysis",
+      "is analyzed for",
+      "dream significance"
+    ],
+    [
+      "dream analysis",
+      "is influenced by",
+      "stress"
+    ],
+    [
+      "dream content",
+      "contributes to",
+      "psychological understanding"
+    ],
+    [
+      "dream content",
+      "facilitates",
+      "self-reflection"
+    ],
+    [
+      "dream content",
+      "influenced by",
+      "problem-solving"
+    ],
+    [
+      "dream content",
+      "influences",
+      "learning"
+    ],
+    [
+      "dream content",
+      "influences",
+      "nightmares"
+    ],
+    [
+      "dream content",
+      "informs",
+      "cognition"
+    ],
+    [
+      "dream content",
+      "informs",
+      "psychoanalysis"
+    ],
+    [
+      "dream content",
+      "is analyzed by",
+      "Sigmund Freud"
+    ],
+    [
+      "dream content",
+      "is associated with",
+      "dreaming"
+    ],
+    [
+      "dream content",
+      "is derived from",
+      "knowledge"
+    ],
+    [
+      "dream content",
+      "is influenced by",
+      "anxiety"
+    ],
+    [
+      "dream content",
+      "is influenced by",
+      "memory performance"
+    ],
+    [
+      "dream content",
+      "is influenced by",
+      "personal growth"
+    ],
+    [
+      "dream content",
+      "is influenced by",
+      "stress"
+    ],
+    [
+      "dream content",
+      "provides",
+      "insights"
+    ],
+    [
+      "dream content",
+      "reflects",
+      "subconscious mind"
+    ],
+    [
+      "dream content",
+      "revealed by",
+      "unresolved issues"
+    ],
+    [
+      "dream content",
+      "reveals",
+      "human mind"
+    ],
+    [
+      "dream content",
+      "reveals",
+      "processing emotions"
+    ],
+    [
+      "dream content",
+      "shapes",
+      "formation"
+    ],
+    [
+      "dream content",
+      "supports",
+      "memory consolidation"
+    ],
+    [
+      "dream significance",
+      "highlights",
+      "insightful ideas"
+    ],
+    [
+      "dream significance",
+      "is related to",
+      "stress"
+    ],
+    [
+      "dreaming",
+      "affects",
+      "unresolved issues"
+    ],
+    [
+      "dreaming",
+      "analyzes",
+      "psychoanalysis"
+    ],
+    [
+      "dreaming",
+      "associated with",
+      "mechanisms"
+    ],
+    [
+      "dreaming",
+      "associated with",
+      "science"
+    ],
+    [
+      "dreaming",
+      "contributes to",
+      "knowledge"
+    ],
+    [
+      "dreaming",
+      "contributes to",
+      "psychological understanding"
+    ],
+    [
+      "dreaming",
+      "enables",
+      "control"
+    ],
+    [
+      "dreaming",
+      "enhances",
+      "memory consolidation"
+    ],
+    [
+      "dreaming",
+      "facilitates",
+      "retrieval"
+    ],
+    [
+      "dreaming",
+      "facilitates",
+      "self-reflection"
+    ],
+    [
+      "dreaming",
+      "involves",
+      "lucid dreaming"
+    ],
+    [
+      "dreaming",
+      "involves",
+      "nightmares"
+    ],
+    [
+      "dreaming",
+      "is enhanced by",
+      "memory performance"
+    ],
+    [
+      "dreaming",
+      "is facilitated by",
+      "enhancing skills"
+    ],
+    [
+      "dreaming",
+      "provides",
+      "insights"
+    ],
+    [
+      "dreaming",
+      "results in",
+      "breakthroughs"
+    ],
+    [
+      "emotional experiences",
+      "affects",
+      "well-being"
+    ],
+    [
+      "emotional experiences",
+      "connects",
+      "networks"
+    ],
+    [
+      "emotional experiences",
+      "highlights",
+      "dream significance"
+    ],
+    [
+      "emotional experiences",
+      "influences",
+      "psychologists"
+    ],
+    [
+      "emotional experiences",
+      "informs",
+      "dream analysis"
+    ],
+    [
+      "emotional experiences",
+      "reflects",
+      "dreaming"
+    ],
+    [
+      "emotional experiences",
+      "reflects",
+      "nightmares"
+    ],
+    [
+      "emotional experiences",
+      "shapes",
+      "formation"
+    ],
+    [
+      "emotional state",
+      "affects",
+      "well-being"
+    ],
+    [
+      "emotional state",
+      "determines",
+      "dream significance"
+    ],
+    [
+      "emotional state",
+      "enhances",
+      "psychological understanding"
+    ],
+    [
+      "emotional state",
+      "influenced by",
+      "human behavior"
+    ],
+    [
+      "emotional state",
+      "influenced by",
+      "personal growth"
+    ],
+    [
+      "emotional state",
+      "influences",
+      "Sigmund Freud"
+    ],
+    [
+      "emotional state",
+      "influences",
+      "insightful ideas"
+    ],
+    [
+      "emotional state",
+      "influences",
+      "memories"
+    ],
+    [
+      "emotional state",
+      "informs",
+      "dream content"
+    ],
+    [
+      "emotional state",
+      "is affected by",
+      "stress"
+    ],
+    [
+      "emotional state",
+      "is expressed through",
+      "dreaming"
+    ],
+    [
+      "emotional state",
+      "provides",
+      "insights"
+    ],
+    [
+      "emotional state",
+      "reflects",
+      "emotions"
+    ],
+    [
+      "emotional state",
+      "reflects",
+      "human mind"
+    ],
+    [
+      "emotional state",
+      "reflects",
+      "nightmares"
+    ],
+    [
+      "emotional state",
+      "reflects",
+      "processing emotions"
+    ],
+    [
+      "emotional state",
+      "reflects",
+      "unconscious desires"
+    ],
+    [
+      "emotions",
+      "affects",
+      "science"
+    ],
+    [
+      "emotions",
+      "aids",
+      "memory consolidation"
+    ],
+    [
+      "emotions",
+      "facilitates",
+      "self-reflection"
+    ],
+    [
+      "emotions",
+      "highlights",
+      "dream significance"
+    ],
+    [
+      "emotions",
+      "influences",
+      "dreaming"
+    ],
+    [
+      "emotions",
+      "influences",
+      "human behavior"
+    ],
+    [
+      "emotions",
+      "informs",
+      "art"
+    ],
+    [
+      "emotions",
+      "is analyzed in",
+      "psychoanalysis"
+    ],
+    [
+      "emotions",
+      "reflects",
+      "emotional experiences"
+    ],
+    [
+      "emotions",
+      "reflects",
+      "nightmares"
+    ],
+    [
+      "emotions",
+      "underlies",
+      "mechanisms"
+    ],
+    [
+      "enhancing skills",
+      "enhances",
+      "brain processes"
+    ],
+    [
+      "enhancing skills",
+      "enhances",
+      "cognition"
+    ],
+    [
+      "enhancing skills",
+      "enhances",
+      "creativity"
+    ],
+    [
+      "enhancing skills",
+      "informs",
+      "art"
+    ],
+    [
+      "formation",
+      "contributes to",
+      "science"
+    ],
+    [
+      "formation",
+      "depends on",
+      "retrieval"
+    ],
+    [
+      "formation",
+      "enables",
+      "self-reflection"
+    ],
+    [
+      "formation",
+      "enhances",
+      "enhancing skills"
+    ],
+    [
+      "formation",
+      "informs",
+      "behavior insights"
+    ],
+    [
+      "formation",
+      "informs",
+      "psychological insights"
+    ],
+    [
+      "formation",
+      "is performed by",
+      "brain processes"
+    ],
+    [
+      "formation",
+      "leads to",
+      "breakthroughs"
+    ],
+    [
+      "formation",
+      "result of",
+      "memories"
+    ],
+    [
+      "human behavior",
+      "analyzes",
+      "Sigmund Freud"
+    ],
+    [
+      "human behavior",
+      "drives",
+      "unconscious desires"
+    ],
+    [
+      "human behavior",
+      "enhances",
+      "creativity potential"
+    ],
+    [
+      "human behavior",
+      "enhances",
+      "psychological understanding"
+    ],
+    [
+      "human behavior",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "human behavior",
+      "facilitates",
+      "problem-solving"
+    ],
+    [
+      "human behavior",
+      "influences",
+      "content experiences"
+    ],
+    [
+      "human behavior",
+      "influences",
+      "processing emotions"
+    ],
+    [
+      "human behavior",
+      "influences",
+      "subconscious mind"
+    ],
+    [
+      "human behavior",
+      "informs",
+      "dream content"
+    ],
+    [
+      "human behavior",
+      "is affected by",
+      "unresolved issues"
+    ],
+    [
+      "human behavior",
+      "is examined in",
+      "psychological study"
+    ],
+    [
+      "human behavior",
+      "promotes",
+      "self-reflection"
+    ],
+    [
+      "human behavior",
+      "provides",
+      "psychological insights"
+    ],
+    [
+      "human behavior",
+      "reflects",
+      "emotional state"
+    ],
+    [
+      "human mind",
+      "comprises",
+      "knowledge"
+    ],
+    [
+      "human mind",
+      "enhances",
+      "creativity"
+    ],
+    [
+      "human mind",
+      "enhances",
+      "enhancing skills"
+    ],
+    [
+      "human mind",
+      "facilitates",
+      "personal growth"
+    ],
+    [
+      "human mind",
+      "facilitates",
+      "problem-solving"
+    ],
+    [
+      "human mind",
+      "generates",
+      "insightful ideas"
+    ],
+    [
+      "human mind",
+      "informs",
+      "human behavior"
+    ],
+    [
+      "human mind",
+      "involves",
+      "information storage"
+    ],
+    [
+      "human mind",
+      "involves",
+      "unresolved issues"
+    ],
+    [
+      "human mind",
+      "is affected by",
+      "anxiety"
+    ],
+    [
+      "human mind",
+      "is explored by",
+      "dreaming"
+    ],
+    [
+      "human mind",
+      "is explored in",
+      "learning"
+    ],
+    [
+      "human mind",
+      "is processed by",
+      "retrieval"
+    ],
+    [
+      "human mind",
+      "is significant for",
+      "dream significance"
+    ],
+    [
+      "human mind",
+      "processes",
+      "brain processes"
+    ],
+    [
+      "human mind",
+      "provides",
+      "psychological insights"
+    ],
+    [
+      "human mind",
+      "shapes",
+      "motivations"
+    ],
+    [
+      "information storage",
+      "contributes to",
+      "Sigmund Freud"
+    ],
+    [
+      "information storage",
+      "contributes to",
+      "cognition"
+    ],
+    [
+      "information storage",
+      "is linked to",
+      "processing emotions"
+    ],
+    [
+      "information storage",
+      "is supported by",
+      "formation"
+    ],
+    [
+      "information storage",
+      "is supported by",
+      "personal growth"
+    ],
+    [
+      "information storage",
+      "provides",
+      "insights"
+    ],
+    [
+      "information storage",
+      "related to",
+      "nightmares"
+    ],
+    [
+      "information storage",
+      "supports",
+      "creativity potential"
+    ],
+    [
+      "insightful ideas",
+      "contributes to",
+      "enhancing skills"
+    ],
+    [
+      "insightful ideas",
+      "contributes to",
+      "formation"
+    ],
+    [
+      "insightful ideas",
+      "contributes to",
+      "psychological understanding"
+    ],
+    [
+      "insightful ideas",
+      "contributes to",
+      "science"
+    ],
+    [
+      "insightful ideas",
+      "emerges from",
+      "dreaming"
+    ],
+    [
+      "insightful ideas",
+      "enables",
+      "control"
+    ],
+    [
+      "insightful ideas",
+      "generates",
+      "creativity"
+    ],
+    [
+      "insightful ideas",
+      "influenced by",
+      "emotions"
+    ],
+    [
+      "insightful ideas",
+      "influences",
+      "processing emotions"
+    ],
+    [
+      "insightful ideas",
+      "informs",
+      "art"
+    ],
+    [
+      "insightful ideas",
+      "informs",
+      "content experiences"
+    ],
+    [
+      "insightful ideas",
+      "inspired by",
+      "creativity potential"
+    ],
+    [
+      "insightful ideas",
+      "inspired by",
+      "human behavior"
+    ],
+    [
+      "insightful ideas",
+      "involves",
+      "brain processes"
+    ],
+    [
+      "insightful ideas",
+      "is analyzed through",
+      "dream analysis"
+    ],
+    [
+      "insightful ideas",
+      "is enhanced by",
+      "well-being"
+    ],
+    [
+      "insightful ideas",
+      "is explored in",
+      "psychoanalysis"
+    ],
+    [
+      "insightful ideas",
+      "leads to",
+      "breakthroughs"
+    ],
+    [
+      "insightful ideas",
+      "promotes",
+      "problem-solving"
+    ],
+    [
+      "insightful ideas",
+      "provides",
+      "insights"
+    ],
+    [
+      "insightful ideas",
+      "represents",
+      "unconscious desires"
+    ],
+    [
+      "insights",
+      "provides",
+      "formation"
+    ],
+    [
+      "insights",
+      "provides",
+      "learning"
+    ],
+    [
+      "insights",
+      "provides",
+      "memory consolidation"
+    ],
+    [
+      "insights",
+      "provides",
+      "memory performance"
+    ],
+    [
+      "insights",
+      "provides",
+      "psychological understanding"
+    ],
+    [
+      "knowledge",
+      "enhances",
+      "lucid dreaming"
+    ],
+    [
+      "knowledge",
+      "enhances",
+      "memory performance"
+    ],
+    [
+      "knowledge",
+      "enhances",
+      "problem-solving"
+    ],
+    [
+      "knowledge",
+      "enhances",
+      "self-reflection"
+    ],
+    [
+      "knowledge",
+      "informs",
+      "control"
+    ],
+    [
+      "knowledge",
+      "informs",
+      "subconscious mind"
+    ],
+    [
+      "knowledge",
+      "is processed by",
+      "brain processes"
+    ],
+    [
+      "knowledge",
+      "is supported by",
+      "retrieval"
+    ],
+    [
+      "knowledge",
+      "provides",
+      "behavior insights"
+    ],
+    [
+      "learning",
+      "contributes to",
+      "knowledge"
+    ],
+    [
+      "learning",
+      "enhances",
+      "memory performance"
+    ],
+    [
+      "learning",
+      "enhances",
+      "psychological insights"
+    ],
+    [
+      "learning",
+      "enhances",
+      "psychological understanding"
+    ],
+    [
+      "learning",
+      "facilitates",
+      "dreaming"
+    ],
+    [
+      "learning",
+      "facilitates",
+      "information storage"
+    ],
+    [
+      "learning",
+      "informs",
+      "nightmares"
+    ],
+    [
+      "learning",
+      "involves",
+      "brain processes"
+    ],
+    [
+      "learning",
+      "involves",
+      "formation"
+    ],
+    [
+      "learning",
+      "is supported by",
+      "memory consolidation"
+    ],
+    [
+      "learning",
+      "is theorized by",
+      "Sigmund Freud"
+    ],
+    [
+      "learning",
+      "supports",
+      "retrieval"
+    ],
+    [
+      "literature",
+      "affects",
+      "subconscious mind"
+    ],
+    [
+      "literature",
+      "contributes to",
+      "psychological understanding"
+    ],
+    [
+      "literature",
+      "enhances",
+      "memory performance"
+    ],
+    [
+      "literature",
+      "facilitates",
+      "memory consolidation"
+    ],
+    [
+      "literature",
+      "influences",
+      "sleep"
+    ],
+    [
+      "literature",
+      "informs",
+      "art"
+    ],
+    [
+      "literature",
+      "informs",
+      "human behavior"
+    ],
+    [
+      "literature",
+      "informs",
+      "personal growth"
+    ],
+    [
+      "literature",
+      "is analyzed in",
+      "psychoanalysis"
+    ],
+    [
+      "literature",
+      "is explored in",
+      "dream significance"
+    ],
+    [
+      "literature",
+      "processes",
+      "processing emotions"
+    ],
+    [
+      "literature",
+      "provides",
+      "insights"
+    ],
+    [
+      "literature",
+      "reveals",
+      "unconscious desires"
+    ],
+    [
+      "lucid dreaming",
+      "addresses",
+      "unresolved issues"
+    ],
+    [
+      "lucid dreaming",
+      "affects",
+      "emotions"
+    ],
+    [
+      "lucid dreaming",
+      "aids in",
+      "problem-solving"
+    ],
+    [
+      "lucid dreaming",
+      "contributes to",
+      "memory consolidation"
+    ],
+    [
+      "lucid dreaming",
+      "enhances",
+      "creativity"
+    ],
+    [
+      "lucid dreaming",
+      "enhances",
+      "creativity potential"
+    ],
+    [
+      "lucid dreaming",
+      "enhances",
+      "learning"
+    ],
+    [
+      "lucid dreaming",
+      "enhances",
+      "memories"
+    ],
+    [
+      "lucid dreaming",
+      "enhances",
+      "psychological understanding"
+    ],
+    [
+      "lucid dreaming",
+      "facilitates",
+      "breakthroughs"
+    ],
+    [
+      "lucid dreaming",
+      "improves",
+      "memory performance"
+    ],
+    [
+      "lucid dreaming",
+      "influences",
+      "mechanisms"
+    ],
+    [
+      "lucid dreaming",
+      "informs",
+      "art"
+    ],
+    [
+      "lucid dreaming",
+      "involves",
+      "brain processes"
+    ],
+    [
+      "lucid dreaming",
+      "involves",
+      "processing emotions"
+    ],
+    [
+      "lucid dreaming",
+      "is enhanced by",
+      "retrieval"
+    ],
+    [
+      "lucid dreaming",
+      "is related to",
+      "psychoanalysis"
+    ],
+    [
+      "lucid dreaming",
+      "is studied in",
+      "psychological study"
+    ],
+    [
+      "lucid dreaming",
+      "produces",
+      "insightful ideas"
+    ],
+    [
+      "lucid dreaming",
+      "promotes",
+      "self-reflection"
+    ],
+    [
+      "lucid dreaming",
+      "provides",
+      "behavior insights"
+    ],
+    [
+      "lucid dreaming",
+      "provides",
+      "insights"
+    ],
+    [
+      "lucid dreaming",
+      "reflects",
+      "emotional experiences"
+    ],
+    [
+      "lucid dreaming",
+      "reveals",
+      "subconscious mind"
+    ],
+    [
+      "lucid dreaming",
+      "reveals",
+      "unconscious desires"
+    ],
+    [
+      "mechanisms",
+      "enhanced by",
+      "memory performance"
+    ],
+    [
+      "mechanisms",
+      "facilitates",
+      "information storage"
+    ],
+    [
+      "mechanisms",
+      "informs",
+      "problem-solving"
+    ],
+    [
+      "mechanisms",
+      "informs",
+      "retrieval"
+    ],
+    [
+      "mechanisms",
+      "is influenced by",
+      "creativity potential"
+    ],
+    [
+      "memories",
+      "aids in",
+      "formation"
+    ],
+    [
+      "memories",
+      "associated with",
+      "insightful ideas"
+    ],
+    [
+      "memories",
+      "enhances",
+      "problem-solving"
+    ],
+    [
+      "memories",
+      "influences",
+      "motivations"
+    ],
+    [
+      "memories",
+      "informs",
+      "literature"
+    ],
+    [
+      "memories",
+      "informs",
+      "retrieval"
+    ],
+    [
+      "memories",
+      "is influenced by",
+      "dreaming"
+    ],
+    [
+      "memories",
+      "is influenced by",
+      "emotions"
+    ],
+    [
+      "memories",
+      "is linked to",
+      "sleep"
+    ],
+    [
+      "memories",
+      "is revealed by",
+      "brain processes"
+    ],
+    [
+      "memories",
+      "reflects",
+      "dream content"
+    ],
+    [
+      "memories",
+      "supports",
+      "cognition"
+    ],
+    [
+      "memories",
+      "supports",
+      "knowledge"
+    ],
+    [
+      "memories",
+      "supports",
+      "learning"
+    ],
+    [
+      "memories",
+      "supports",
+      "well-being"
+    ],
+    [
+      "memory consolidation",
+      "affects",
+      "emotional state"
+    ],
+    [
+      "memory consolidation",
+      "enhances",
+      "cognition"
+    ],
+    [
+      "memory consolidation",
+      "enhances",
+      "creativity"
+    ],
+    [
+      "memory consolidation",
+      "facilitates",
+      "human mind"
+    ],
+    [
+      "memory consolidation",
+      "is enhanced by",
+      "retrieval"
+    ],
+    [
+      "memory consolidation",
+      "is linked to",
+      "information storage"
+    ],
+    [
+      "memory consolidation",
+      "supports",
+      "brain processes"
+    ],
+    [
+      "memory consolidation",
+      "supports",
+      "subconscious mind"
+    ],
+    [
+      "memory consolidation",
+      "underlies",
+      "mechanisms"
+    ],
+    [
+      "memory performance",
+      "enhances",
+      "brain processes"
+    ],
+    [
+      "memory performance",
+      "enhances",
+      "cognition"
+    ],
+    [
+      "memory performance",
+      "enhances",
+      "memories"
+    ],
+    [
+      "memory performance",
+      "enhances",
+      "motivations"
+    ],
+    [
+      "memory performance",
+      "enhances",
+      "retrieval"
+    ],
+    [
+      "memory performance",
+      "impacts",
+      "nightmares"
+    ],
+    [
+      "memory performance",
+      "improves",
+      "information storage"
+    ],
+    [
+      "memory performance",
+      "improves",
+      "well-being"
+    ],
+    [
+      "memory performance",
+      "is linked to",
+      "memory consolidation"
+    ],
+    [
+      "memory performance",
+      "supports",
+      "formation"
+    ],
+    [
+      "motivations",
+      "analyzed by",
+      "Sigmund Freud"
+    ],
+    [
+      "motivations",
+      "drives",
+      "creativity"
+    ],
+    [
+      "motivations",
+      "enhances",
+      "psychological understanding"
+    ],
+    [
+      "motivations",
+      "influences",
+      "brain processes"
+    ],
+    [
+      "motivations",
+      "influences",
+      "creativity potential"
+    ],
+    [
+      "motivations",
+      "influences",
+      "dream content"
+    ],
+    [
+      "motivations",
+      "influences",
+      "dreaming"
+    ],
+    [
+      "motivations",
+      "influences",
+      "emotional state"
+    ],
+    [
+      "motivations",
+      "influences",
+      "emotions"
+    ],
+    [
+      "motivations",
+      "influences",
+      "human behavior"
+    ],
+    [
+      "motivations",
+      "influences",
+      "literature"
+    ],
+    [
+      "motivations",
+      "informs",
+      "dream analysis"
+    ],
+    [
+      "motivations",
+      "informs",
+      "insightful ideas"
+    ],
+    [
+      "motivations",
+      "informs",
+      "retrieval"
+    ],
+    [
+      "motivations",
+      "is illustrated by",
+      "dream significance"
+    ],
+    [
+      "motivations",
+      "is inspired by",
+      "pleasant dreams"
+    ],
+    [
+      "motivations",
+      "is stored in",
+      "information storage"
+    ],
+    [
+      "motivations",
+      "is studied by",
+      "psychological study"
+    ],
+    [
+      "motivations",
+      "leads to",
+      "breakthroughs"
+    ],
+    [
+      "motivations",
+      "reveals",
+      "subconscious mind"
+    ],
+    [
+      "motivations",
+      "shapes",
+      "cognition"
+    ],
+    [
+      "motivations",
+      "shapes",
+      "knowledge"
+    ],
+    [
+      "motivations",
+      "shapes",
+      "personal growth"
+    ],
+    [
+      "motivations",
+      "supports",
+      "memory consolidation"
+    ],
+    [
+      "networks",
+      "enhances",
+      "creativity potential"
+    ],
+    [
+      "networks",
+      "enhances",
+      "memory performance"
+    ],
+    [
+      "networks",
+      "interacts with",
+      "subconscious mind"
+    ],
+    [
+      "networks",
+      "is related to",
+      "processing emotions"
+    ],
+    [
+      "networks",
+      "supports",
+      "learning"
+    ],
+    [
+      "networks",
+      "supports",
+      "motivations"
+    ],
+    [
+      "networks",
+      "supports",
+      "personal growth"
+    ],
+    [
+      "networks",
+      "supports",
+      "retrieval"
+    ],
+    [
+      "networks",
+      "supports",
+      "sleep"
+    ],
+    [
+      "nightmares",
+      "can lead to",
+      "breakthroughs"
+    ],
+    [
+      "nightmares",
+      "exacerbates",
+      "stress"
+    ],
+    [
+      "nightmares",
+      "influences",
+      "human behavior"
+    ],
+    [
+      "nightmares",
+      "is affected by",
+      "lucid dreaming"
+    ],
+    [
+      "nightmares",
+      "is impacted by",
+      "well-being"
+    ],
+    [
+      "nightmares",
+      "is influenced by",
+      "anxiety"
+    ],
+    [
+      "nightmares",
+      "is influenced by",
+      "memories"
+    ],
+    [
+      "nightmares",
+      "is linked to",
+      "creativity potential"
+    ],
+    [
+      "nightmares",
+      "is part of",
+      "networks"
+    ],
+    [
+      "nightmares",
+      "limits",
+      "control"
+    ],
+    [
+      "nightmares",
+      "occurs during",
+      "sleep"
+    ],
+    [
+      "nightmares",
+      "reveals",
+      "subconscious mind"
+    ],
+    [
+      "nightmares",
+      "subject of",
+      "psychological study"
+    ],
+    [
+      "nightmares",
+      "supports",
+      "memory consolidation"
+    ],
+    [
+      "personal growth",
+      "enhances",
+      "knowledge"
+    ],
+    [
+      "personal growth",
+      "enhances",
+      "learning"
+    ],
+    [
+      "personal growth",
+      "enhances",
+      "self-reflection"
+    ],
+    [
+      "personal growth",
+      "facilitates",
+      "dream analysis"
+    ],
+    [
+      "personal growth",
+      "facilitates",
+      "processing emotions"
+    ],
+    [
+      "personal growth",
+      "influences",
+      "emotions"
+    ],
+    [
+      "personal growth",
+      "informs",
+      "psychologists"
+    ],
+    [
+      "personal growth",
+      "is affected by",
+      "anxiety"
+    ],
+    [
+      "personal growth",
+      "is enhanced by",
+      "lucid dreaming"
+    ],
+    [
+      "personal growth",
+      "is influenced by",
+      "Sigmund Freud"
+    ],
+    [
+      "personal growth",
+      "is influenced by",
+      "emotional experiences"
+    ],
+    [
+      "personal growth",
+      "is influenced by",
+      "unconscious desires"
+    ],
+    [
+      "personal growth",
+      "is informed by",
+      "psychological understanding"
+    ],
+    [
+      "personal growth",
+      "is linked to",
+      "creativity potential"
+    ],
+    [
+      "personal growth",
+      "is related to",
+      "subconscious mind"
+    ],
+    [
+      "personal growth",
+      "leads to",
+      "breakthroughs"
+    ],
+    [
+      "personal growth",
+      "provides",
+      "psychological insights"
+    ],
+    [
+      "personal growth",
+      "supports",
+      "cognition"
+    ],
+    [
+      "personal growth",
+      "supports",
+      "dreaming"
+    ],
+    [
+      "personal growth",
+      "supports",
+      "memories"
+    ],
+    [
+      "personal growth",
+      "supports",
+      "problem-solving"
+    ],
+    [
+      "pleasant dreams",
+      "enhances",
+      "memory consolidation"
+    ],
+    [
+      "pleasant dreams",
+      "illustrates",
+      "dream significance"
+    ],
+    [
+      "pleasant dreams",
+      "influences",
+      "anxiety"
+    ],
+    [
+      "pleasant dreams",
+      "influences",
+      "dream content"
+    ],
+    [
+      "pleasant dreams",
+      "informs",
+      "mechanisms"
+    ],
+    [
+      "pleasant dreams",
+      "is associated with",
+      "dreaming"
+    ],
+    [
+      "pleasant dreams",
+      "is associated with",
+      "information storage"
+    ],
+    [
+      "pleasant dreams",
+      "is associated with",
+      "learning"
+    ],
+    [
+      "pleasant dreams",
+      "is associated with",
+      "memory performance"
+    ],
+    [
+      "pleasant dreams",
+      "is associated with",
+      "unresolved issues"
+    ],
+    [
+      "pleasant dreams",
+      "is enhanced by",
+      "retrieval"
+    ],
+    [
+      "pleasant dreams",
+      "is linked to",
+      "processing emotions"
+    ],
+    [
+      "pleasant dreams",
+      "leads to",
+      "breakthroughs"
+    ],
+    [
+      "pleasant dreams",
+      "processes",
+      "brain processes"
+    ],
+    [
+      "pleasant dreams",
+      "produces",
+      "human mind"
+    ],
+    [
+      "pleasant dreams",
+      "produces",
+      "sleep"
+    ],
+    [
+      "pleasant dreams",
+      "promotes",
+      "creativity"
+    ],
+    [
+      "pleasant dreams",
+      "reflects",
+      "well-being"
+    ],
+    [
+      "pleasant dreams",
+      "studies",
+      "psychologists"
+    ],
+    [
+      "pleasant dreams",
+      "symbolizes",
+      "unconscious desires"
+    ],
+    [
+      "problem-solving",
+      "enhances",
+      "emotions"
+    ],
+    [
+      "problem-solving",
+      "enhances",
+      "literature"
+    ],
+    [
+      "problem-solving",
+      "enhances",
+      "memory consolidation"
+    ],
+    [
+      "problem-solving",
+      "enhances",
+      "memory performance"
+    ],
+    [
+      "problem-solving",
+      "facilitates",
+      "information storage"
+    ],
+    [
+      "problem-solving",
+      "facilitates",
+      "self-reflection"
+    ],
+    [
+      "problem-solving",
+      "is analyzed through",
+      "dream analysis"
+    ],
+    [
+      "problem-solving",
+      "is linked to",
+      "dreaming"
+    ],
+    [
+      "problem-solving",
+      "is related to",
+      "processing emotions"
+    ],
+    [
+      "problem-solving",
+      "leads to",
+      "breakthroughs"
+    ],
+    [
+      "problem-solving",
+      "relates to",
+      "subconscious mind"
+    ],
+    [
+      "problem-solving",
+      "relates to",
+      "unconscious desires"
+    ],
+    [
+      "problem-solving",
+      "studies",
+      "psychologists"
+    ],
+    [
+      "problem-solving",
+      "utilizes",
+      "networks"
+    ],
+    [
+      "processing emotions",
+      "affects",
+      "unresolved issues"
+    ],
+    [
+      "processing emotions",
+      "contributes to",
+      "psychological understanding"
+    ],
+    [
+      "processing emotions",
+      "encourages",
+      "self-reflection"
+    ],
+    [
+      "processing emotions",
+      "influences",
+      "dreaming"
+    ],
+    [
+      "processing emotions",
+      "influences",
+      "formation"
+    ],
+    [
+      "processing emotions",
+      "influences",
+      "nightmares"
+    ],
+    [
+      "processing emotions",
+      "is affected by",
+      "human behavior"
+    ],
+    [
+      "processing emotions",
+      "is influenced by",
+      "control"
+    ],
+    [
+      "processing emotions",
+      "offers",
+      "insights"
+    ],
+    [
+      "psychoanalysis",
+      "informs",
+      "behavior insights"
+    ],
+    [
+      "psychoanalysis",
+      "informs",
+      "enhancing skills"
+    ],
+    [
+      "psychoanalysis",
+      "informs",
+      "insights"
+    ],
+    [
+      "psychoanalysis",
+      "informs",
+      "psychological insights"
+    ],
+    [
+      "psychoanalysis",
+      "is analyzed by",
+      "control"
+    ],
+    [
+      "psychoanalysis",
+      "is analyzed by",
+      "nightmares"
+    ],
+    [
+      "psychoanalysis",
+      "is informed by",
+      "breakthroughs"
+    ],
+    [
+      "psychoanalysis",
+      "is interpreted through",
+      "content experiences"
+    ],
+    [
+      "psychoanalysis",
+      "is studied in",
+      "cognition"
+    ],
+    [
+      "psychoanalysis",
+      "is studied in",
+      "networks"
+    ],
+    [
+      "psychoanalysis",
+      "studied in",
+      "brain processes"
+    ],
+    [
+      "psychological insights",
+      "enhances",
+      "cognition"
+    ],
+    [
+      "psychological insights",
+      "enhances",
+      "dreaming"
+    ],
+    [
+      "psychological insights",
+      "enhances",
+      "psychological understanding"
+    ],
+    [
+      "psychological insights",
+      "informs",
+      "nightmares"
+    ],
+    [
+      "psychological insights",
+      "informs",
+      "processing emotions"
+    ],
+    [
+      "psychological insights",
+      "leads to",
+      "breakthroughs"
+    ],
+    [
+      "psychological insights",
+      "provides",
+      "emotions"
+    ],
+    [
+      "psychological insights",
+      "provides",
+      "retrieval"
+    ],
+    [
+      "psychological insights",
+      "provides",
+      "science"
+    ],
+    [
+      "psychological insights",
+      "reveals",
+      "unconscious desires"
+    ],
+    [
+      "psychological study",
+      "assesses",
+      "emotional state"
+    ],
+    [
+      "psychological study",
+      "enhances",
+      "psychological understanding"
+    ],
+    [
+      "psychological study",
+      "examines",
+      "dream content"
+    ],
+    [
+      "psychological study",
+      "examines",
+      "dream significance"
+    ],
+    [
+      "psychological study",
+      "examines",
+      "stress"
+    ],
+    [
+      "psychological study",
+      "examines",
+      "unconscious desires"
+    ],
+    [
+      "psychological study",
+      "examines",
+      "unresolved issues"
+    ],
+    [
+      "psychological study",
+      "explores",
+      "subconscious mind"
+    ],
+    [
+      "psychological study",
+      "facilitates",
+      "memory consolidation"
+    ],
+    [
+      "psychological study",
+      "focus of",
+      "creativity"
+    ],
+    [
+      "psychological study",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "psychological study",
+      "informs",
+      "memory performance"
+    ],
+    [
+      "psychological study",
+      "involves",
+      "dream analysis"
+    ],
+    [
+      "psychological study",
+      "involves",
+      "dreaming"
+    ],
+    [
+      "psychological study",
+      "involves",
+      "networks"
+    ],
+    [
+      "psychological study",
+      "is studied by",
+      "learning"
+    ],
+    [
+      "psychological study",
+      "is studied in",
+      "formation"
+    ],
+    [
+      "psychological study",
+      "is studied in",
+      "retrieval"
+    ],
+    [
+      "psychological understanding",
+      "contributes to",
+      "problem-solving"
+    ],
+    [
+      "psychological understanding",
+      "enhances",
+      "cognition"
+    ],
+    [
+      "psychological understanding",
+      "enhances",
+      "pleasant dreams"
+    ],
+    [
+      "psychological understanding",
+      "facilitates",
+      "control"
+    ],
+    [
+      "psychological understanding",
+      "informs",
+      "well-being"
+    ],
+    [
+      "psychological understanding",
+      "is analyzed through",
+      "dream analysis"
+    ],
+    [
+      "psychological understanding",
+      "is enhanced by",
+      "networks"
+    ],
+    [
+      "psychologists",
+      "analyzed by",
+      "retrieval"
+    ],
+    [
+      "psychologists",
+      "analyzes",
+      "dream content"
+    ],
+    [
+      "psychologists",
+      "analyzes",
+      "human mind"
+    ],
+    [
+      "psychologists",
+      "analyzes",
+      "motivations"
+    ],
+    [
+      "psychologists",
+      "analyzes",
+      "nightmares"
+    ],
+    [
+      "psychologists",
+      "conducted by",
+      "psychological study"
+    ],
+    [
+      "psychologists",
+      "creates",
+      "art"
+    ],
+    [
+      "psychologists",
+      "explores",
+      "unconscious desires"
+    ],
+    [
+      "psychologists",
+      "facilitates",
+      "self-reflection"
+    ],
+    [
+      "psychologists",
+      "involves",
+      "formation"
+    ],
+    [
+      "psychologists",
+      "is studied by",
+      "behavior insights"
+    ],
+    [
+      "psychologists",
+      "studied by",
+      "creativity"
+    ],
+    [
+      "psychologists",
+      "studied by",
+      "creativity potential"
+    ],
+    [
+      "psychologists",
+      "studied by",
+      "lucid dreaming"
+    ],
+    [
+      "psychologists",
+      "studies",
+      "brain processes"
+    ],
+    [
+      "psychologists",
+      "studies",
+      "cognition"
+    ],
+    [
+      "psychologists",
+      "studies",
+      "dream significance"
+    ],
+    [
+      "psychologists",
+      "studies",
+      "dreaming"
+    ],
+    [
+      "psychologists",
+      "studies",
+      "mechanisms"
+    ],
+    [
+      "psychologists",
+      "studies",
+      "processing emotions"
+    ],
+    [
+      "psychologists",
+      "studies",
+      "psychoanalysis"
+    ],
+    [
+      "psychologists",
+      "studies",
+      "science"
+    ],
+    [
+      "psychologists",
+      "utilizes",
+      "networks"
+    ],
+    [
+      "retrieval",
+      "generates",
+      "insightful ideas"
+    ],
+    [
+      "retrieval",
+      "improves",
+      "enhancing skills"
+    ],
+    [
+      "retrieval",
+      "influences",
+      "dream content"
+    ],
+    [
+      "retrieval",
+      "influences",
+      "emotions"
+    ],
+    [
+      "science",
+      "advances",
+      "nightmares"
+    ],
+    [
+      "science",
+      "contributes to",
+      "knowledge"
+    ],
+    [
+      "science",
+      "enhances",
+      "learning"
+    ],
+    [
+      "science",
+      "examines",
+      "dream content"
+    ],
+    [
+      "science",
+      "explores",
+      "cognition"
+    ],
+    [
+      "science",
+      "improves",
+      "memory performance"
+    ],
+    [
+      "science",
+      "influences",
+      "pleasant dreams"
+    ],
+    [
+      "science",
+      "is studied by",
+      "brain processes"
+    ],
+    [
+      "science",
+      "is studied in",
+      "psychological study"
+    ],
+    [
+      "science",
+      "leads to",
+      "breakthroughs"
+    ],
+    [
+      "science",
+      "stimulates",
+      "creativity"
+    ],
+    [
+      "science",
+      "supports",
+      "memory consolidation"
+    ],
+    [
+      "science",
+      "supports",
+      "sleep"
+    ],
+    [
+      "self-reflection",
+      "enhances",
+      "cognition"
+    ],
+    [
+      "self-reflection",
+      "facilitates",
+      "mechanisms"
+    ],
+    [
+      "self-reflection",
+      "facilitates",
+      "pleasant dreams"
+    ],
+    [
+      "self-reflection",
+      "facilitates",
+      "retrieval"
+    ],
+    [
+      "self-reflection",
+      "facilitates",
+      "unconscious desires"
+    ],
+    [
+      "self-reflection",
+      "involves",
+      "memory performance"
+    ],
+    [
+      "self-reflection",
+      "is derived from",
+      "insights"
+    ],
+    [
+      "self-reflection",
+      "is facilitated by",
+      "information storage"
+    ],
+    [
+      "self-reflection",
+      "is reflected in",
+      "literature"
+    ],
+    [
+      "self-reflection",
+      "reflects",
+      "nightmares"
+    ],
+    [
+      "self-reflection",
+      "reflects",
+      "well-being"
+    ],
+    [
+      "self-reflection",
+      "supports",
+      "networks"
+    ],
+    [
+      "sleep",
+      "affects",
+      "processing emotions"
+    ],
+    [
+      "sleep",
+      "benefits from",
+      "enhancing skills"
+    ],
+    [
+      "sleep",
+      "enhances",
+      "memory performance"
+    ],
+    [
+      "sleep",
+      "facilitates",
+      "formation"
+    ],
+    [
+      "sleep",
+      "facilitates",
+      "learning"
+    ],
+    [
+      "sleep",
+      "facilitates",
+      "memory consolidation"
+    ],
+    [
+      "sleep",
+      "facilitates",
+      "problem-solving"
+    ],
+    [
+      "sleep",
+      "facilitates",
+      "self-reflection"
+    ],
+    [
+      "sleep",
+      "influenced",
+      "Sigmund Freud"
+    ],
+    [
+      "sleep",
+      "influenced by",
+      "insightful ideas"
+    ],
+    [
+      "sleep",
+      "influenced by",
+      "motivations"
+    ],
+    [
+      "sleep",
+      "involves",
+      "dream content"
+    ],
+    [
+      "sleep",
+      "involves",
+      "dreaming"
+    ],
+    [
+      "sleep",
+      "involves",
+      "information storage"
+    ],
+    [
+      "sleep",
+      "is influenced by",
+      "human mind"
+    ],
+    [
+      "sleep",
+      "reflects",
+      "emotional experiences"
+    ],
+    [
+      "sleep",
+      "reflects",
+      "emotions"
+    ],
+    [
+      "stress",
+      "affects",
+      "art"
+    ],
+    [
+      "stress",
+      "affects",
+      "memories"
+    ],
+    [
+      "stress",
+      "affects",
+      "unconscious desires"
+    ],
+    [
+      "stress",
+      "caused by",
+      "insightful ideas"
+    ],
+    [
+      "stress",
+      "facilitates",
+      "self-reflection"
+    ],
+    [
+      "stress",
+      "impacted by",
+      "personal growth"
+    ],
+    [
+      "stress",
+      "impacts",
+      "well-being"
+    ],
+    [
+      "stress",
+      "influenced by",
+      "pleasant dreams"
+    ],
+    [
+      "stress",
+      "influences",
+      "emotions"
+    ],
+    [
+      "stress",
+      "influences",
+      "insights"
+    ],
+    [
+      "stress",
+      "influences",
+      "psychoanalysis"
+    ],
+    [
+      "stress",
+      "is affected by",
+      "human behavior"
+    ],
+    [
+      "stress",
+      "is influenced by",
+      "motivations"
+    ],
+    [
+      "subconscious mind",
+      "affects",
+      "stress"
+    ],
+    [
+      "subconscious mind",
+      "highlights",
+      "dream significance"
+    ],
+    [
+      "subconscious mind",
+      "influences",
+      "emotions"
+    ],
+    [
+      "subconscious mind",
+      "influences",
+      "learning"
+    ],
+    [
+      "subconscious mind",
+      "informs",
+      "cognition"
+    ],
+    [
+      "subconscious mind",
+      "is explored through",
+      "dream analysis"
+    ],
+    [
+      "subconscious mind",
+      "is expressed through",
+      "dreaming"
+    ],
+    [
+      "subconscious mind",
+      "is processed by",
+      "brain processes"
+    ],
+    [
+      "subconscious mind",
+      "provides",
+      "insights"
+    ],
+    [
+      "subconscious mind",
+      "reflects",
+      "formation"
+    ],
+    [
+      "subconscious mind",
+      "reveals",
+      "emotional state"
+    ],
+    [
+      "unconscious desires",
+      "can lead to",
+      "breakthroughs"
+    ],
+    [
+      "unconscious desires",
+      "contributes to",
+      "psychological understanding"
+    ],
+    [
+      "unconscious desires",
+      "facilitates",
+      "memory consolidation"
+    ],
+    [
+      "unconscious desires",
+      "highlights",
+      "dream significance"
+    ],
+    [
+      "unconscious desires",
+      "influences",
+      "art"
+    ],
+    [
+      "unconscious desires",
+      "is analyzed by",
+      "Sigmund Freud"
+    ],
+    [
+      "unconscious desires",
+      "is expressed through",
+      "dream content"
+    ],
+    [
+      "unconscious desires",
+      "is influenced by",
+      "control"
+    ],
+    [
+      "unconscious desires",
+      "is informed by",
+      "learning"
+    ],
+    [
+      "unconscious desires",
+      "is linked to",
+      "anxiety"
+    ],
+    [
+      "unconscious desires",
+      "is studied in",
+      "psychoanalysis"
+    ],
+    [
+      "unconscious desires",
+      "reflects",
+      "emotional experiences"
+    ],
+    [
+      "unconscious desires",
+      "reflects",
+      "nightmares"
+    ],
+    [
+      "unconscious desires",
+      "reveals",
+      "formation"
+    ],
+    [
+      "unconscious desires",
+      "source of",
+      "insights"
+    ],
+    [
+      "unresolved issues",
+      "affected by",
+      "personal growth"
+    ],
+    [
+      "unresolved issues",
+      "affects",
+      "anxiety"
+    ],
+    [
+      "unresolved issues",
+      "affects",
+      "knowledge"
+    ],
+    [
+      "unresolved issues",
+      "affects",
+      "learning"
+    ],
+    [
+      "unresolved issues",
+      "affects",
+      "mechanisms"
+    ],
+    [
+      "unresolved issues",
+      "affects",
+      "memories"
+    ],
+    [
+      "unresolved issues",
+      "affects",
+      "subconscious mind"
+    ],
+    [
+      "unresolved issues",
+      "contributes to",
+      "problem-solving"
+    ],
+    [
+      "unresolved issues",
+      "drives",
+      "breakthroughs"
+    ],
+    [
+      "unresolved issues",
+      "enhances",
+      "psychological understanding"
+    ],
+    [
+      "unresolved issues",
+      "exposes",
+      "science"
+    ],
+    [
+      "unresolved issues",
+      "highlights",
+      "retrieval"
+    ],
+    [
+      "unresolved issues",
+      "impacts",
+      "well-being"
+    ],
+    [
+      "unresolved issues",
+      "indicates",
+      "nightmares"
+    ],
+    [
+      "unresolved issues",
+      "influences",
+      "networks"
+    ],
+    [
+      "unresolved issues",
+      "involves",
+      "emotions"
+    ],
+    [
+      "unresolved issues",
+      "is addressed by",
+      "psychologists"
+    ],
+    [
+      "unresolved issues",
+      "is affected by",
+      "motivations"
+    ],
+    [
+      "unresolved issues",
+      "is impacted by",
+      "memory performance"
+    ],
+    [
+      "unresolved issues",
+      "is influenced by",
+      "memory consolidation"
+    ],
+    [
+      "unresolved issues",
+      "is linked to",
+      "creativity potential"
+    ],
+    [
+      "unresolved issues",
+      "is related to",
+      "information storage"
+    ],
+    [
+      "unresolved issues",
+      "promotes",
+      "self-reflection"
+    ],
+    [
+      "unresolved issues",
+      "provides",
+      "insights"
+    ],
+    [
+      "unresolved issues",
+      "revealed by",
+      "Sigmund Freud"
+    ],
+    [
+      "unresolved issues",
+      "reveals",
+      "enhancing skills"
+    ],
+    [
+      "unresolved issues",
+      "reveals",
+      "insightful ideas"
+    ],
+    [
+      "unresolved issues",
+      "reveals",
+      "unconscious desires"
+    ],
+    [
+      "well-being",
+      "enhances",
+      "creativity potential"
+    ],
+    [
+      "well-being",
+      "enhances",
+      "dream significance"
+    ],
+    [
+      "well-being",
+      "enhances",
+      "memory consolidation"
+    ],
+    [
+      "well-being",
+      "influences",
+      "emotions"
+    ],
+    [
+      "well-being",
+      "involves",
+      "processing emotions"
+    ],
+    [
+      "well-being",
+      "is reflected in",
+      "dream content"
+    ],
+    [
+      "well-being",
+      "provides",
+      "behavior insights"
+    ],
+    [
+      "well-being",
+      "provides",
+      "insights"
+    ],
+    [
+      "well-being",
+      "supports",
+      "problem-solving"
+    ]
+  ],
+  "edges": [
+    "addresses",
+    "advances",
+    "affected by",
+    "affects",
+    "aids",
+    "aids in",
+    "analyzed by",
+    "analyzes",
+    "assesses",
+    "associated with",
+    "benefits from",
+    "can lead to",
+    "caused by",
+    "causes",
+    "comprises",
+    "conducted by",
+    "connects",
+    "connects to",
+    "contributed to",
+    "contributes to",
+    "controlled by",
+    "creates",
+    "depends on",
+    "determines",
+    "drives",
+    "emerges from",
+    "enables",
+    "encourages",
+    "enhanced by",
+    "enhances",
+    "exacerbates",
+    "examines",
+    "explains",
+    "explores",
+    "exposes",
+    "facilitates",
+    "focus of",
+    "founded",
+    "generates",
+    "highlights",
+    "illustrates",
+    "impacted by",
+    "impacts",
+    "improves",
+    "increases",
+    "indicates",
+    "influenced",
+    "influenced by",
+    "influences",
+    "informs",
+    "inhibits",
+    "inspired by",
+    "inspires",
+    "interacts with",
+    "involves",
+    "is a method of",
+    "is addressed by",
+    "is affected by",
+    "is analyzed by",
+    "is analyzed for",
+    "is analyzed in",
+    "is analyzed through",
+    "is associated with",
+    "is connected to",
+    "is controlled by",
+    "is derived from",
+    "is enhanced by",
+    "is essential for",
+    "is examined in",
+    "is exerted over",
+    "is explored by",
+    "is explored in",
+    "is explored through",
+    "is expressed in",
+    "is expressed through",
+    "is facilitated by",
+    "is illustrated by",
+    "is impacted by",
+    "is influenced by",
+    "is informed by",
+    "is inspired by",
+    "is interpreted through",
+    "is linked to",
+    "is managed by",
+    "is part of",
+    "is performed by",
+    "is processed by",
+    "is reflected in",
+    "is related to",
+    "is revealed by",
+    "is significant for",
+    "is stored in",
+    "is studied by",
+    "is studied in",
+    "is supported by",
+    "is theorized by",
+    "leads to",
+    "limits",
+    "managed by",
+    "occurs during",
+    "occurs in",
+    "offers",
+    "pioneered",
+    "processed by",
+    "processes",
+    "produces",
+    "promotes",
+    "provides",
+    "provides insights into",
+    "reflects",
+    "related to",
+    "relates to",
+    "represents",
+    "requires",
+    "result of",
+    "results in",
+    "revealed by",
+    "reveals",
+    "shapes",
+    "source of",
+    "stimulates",
+    "studied by",
+    "studied in",
+    "studies",
+    "subject of",
+    "supports",
+    "symbolizes",
+    "triggers",
+    "underlies",
+    "utilizes"
+  ]
+}

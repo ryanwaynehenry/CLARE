@@ -1,0 +1,3235 @@
+{
+  "entities": [
+    "Sir Alexander Fleming",
+    "Staphylococcus bacteria",
+    "World War II",
+    "antibacterial properties",
+    "antibiotic development",
+    "antibiotic efficacy",
+    "antibiotic resistance",
+    "antibiotics",
+    "antimicrobial agents",
+    "bacterial infection treatment",
+    "bacterial infections",
+    "bacterial pathogens",
+    "civilian health",
+    "collaborative efforts",
+    "discovery story",
+    "disease prevention",
+    "healthcare evolution",
+    "healthcare impact",
+    "healthcare legacy",
+    "healthcare revolution",
+    "healthcare transformation",
+    "historical context",
+    "historical milestone",
+    "historical significance",
+    "infectious disease management",
+    "innovation in medicine",
+    "medical advancements",
+    "medical breakthrough",
+    "medical history",
+    "medical legacy",
+    "minimal side effects",
+    "mold contamination",
+    "mortality rates",
+    "new strategies",
+    "penicillin",
+    "penicillin discovery",
+    "public health",
+    "purification challenges",
+    "research impact",
+    "research milestones",
+    "research significance",
+    "research timeline",
+    "responsible use",
+    "scientific breakthroughs",
+    "scientific collaboration",
+    "scientific exploration",
+    "scientific serendipity",
+    "serendipitous observation",
+    "soldiers' lives",
+    "stewardship programs",
+    "therapeutic advancements",
+    "therapeutic innovation",
+    "treatment efficacy",
+    "treatment options",
+    "treatment revolution",
+    "war impact",
+    "wartime medicine"
+  ],
+  "relations": [
+    [
+      "Sir Alexander Fleming",
+      "achieved by",
+      "penicillin discovery"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "contaminated by",
+      "mold contamination"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "contributed to",
+      "healthcare legacy"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "contributed to",
+      "medical history"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "contributes to",
+      "innovation in medicine"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "defined by",
+      "medical legacy"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "faced by",
+      "purification challenges"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "highlights",
+      "research significance"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "initiated",
+      "healthcare revolution"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "initiates",
+      "treatment revolution"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "is an example of",
+      "scientific serendipity"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "is central to",
+      "discovery story"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "observed",
+      "serendipitous observation"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "provides context for",
+      "historical context"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "recognized for",
+      "research milestones"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "represents",
+      "scientific breakthroughs"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "shapes",
+      "healthcare evolution"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "transformed",
+      "healthcare transformation"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "transformed",
+      "wartime medicine"
+    ],
+    [
+      "Staphylococcus bacteria",
+      "affected by",
+      "healthcare impact"
+    ],
+    [
+      "Staphylococcus bacteria",
+      "affected by",
+      "soldiers' lives"
+    ],
+    [
+      "Staphylococcus bacteria",
+      "affects",
+      "antibiotics"
+    ],
+    [
+      "Staphylococcus bacteria",
+      "affects",
+      "bacterial infection treatment"
+    ],
+    [
+      "Staphylococcus bacteria",
+      "affects",
+      "treatment revolution"
+    ],
+    [
+      "Staphylococcus bacteria",
+      "causes",
+      "bacterial infections"
+    ],
+    [
+      "Staphylococcus bacteria",
+      "discovery of",
+      "penicillin discovery"
+    ],
+    [
+      "Staphylococcus bacteria",
+      "exhibited by",
+      "antibacterial properties"
+    ],
+    [
+      "Staphylococcus bacteria",
+      "initiated",
+      "healthcare revolution"
+    ],
+    [
+      "Staphylococcus bacteria",
+      "studied by",
+      "collaborative efforts"
+    ],
+    [
+      "Staphylococcus bacteria",
+      "targeted by",
+      "therapeutic innovation"
+    ],
+    [
+      "World War II",
+      "accelerated by",
+      "antibiotic development"
+    ],
+    [
+      "World War II",
+      "contextualized by",
+      "historical significance"
+    ],
+    [
+      "World War II",
+      "demonstrated during",
+      "antibiotic efficacy"
+    ],
+    [
+      "World War II",
+      "highlights",
+      "research significance"
+    ],
+    [
+      "World War II",
+      "impacted by",
+      "bacterial infection treatment"
+    ],
+    [
+      "World War II",
+      "influenced",
+      "healthcare evolution"
+    ],
+    [
+      "World War II",
+      "influenced",
+      "mortality rates"
+    ],
+    [
+      "World War II",
+      "influenced by",
+      "research impact"
+    ],
+    [
+      "World War II",
+      "influences",
+      "public health"
+    ],
+    [
+      "World War II",
+      "is influenced by",
+      "civilian health"
+    ],
+    [
+      "World War II",
+      "spurred",
+      "medical advancements"
+    ],
+    [
+      "World War II",
+      "utilized during",
+      "penicillin"
+    ],
+    [
+      "antibacterial properties",
+      "affects",
+      "bacterial infections"
+    ],
+    [
+      "antibacterial properties",
+      "benefited from",
+      "war impact"
+    ],
+    [
+      "antibacterial properties",
+      "influenced",
+      "healthcare evolution"
+    ],
+    [
+      "antibiotic development",
+      "contributes to",
+      "healthcare evolution"
+    ],
+    [
+      "antibiotic development",
+      "developed",
+      "bacterial infections"
+    ],
+    [
+      "antibiotic development",
+      "drives",
+      "infectious disease management"
+    ],
+    [
+      "antibiotic development",
+      "impacts",
+      "public health"
+    ],
+    [
+      "antibiotic development",
+      "involves",
+      "collaborative efforts"
+    ],
+    [
+      "antibiotic development",
+      "leads to",
+      "medical advancements"
+    ],
+    [
+      "antibiotic development",
+      "reduces",
+      "mortality rates"
+    ],
+    [
+      "antibiotic efficacy",
+      "advances",
+      "healthcare evolution"
+    ],
+    [
+      "antibiotic efficacy",
+      "enhances",
+      "war impact"
+    ],
+    [
+      "antibiotic efficacy",
+      "highlights",
+      "research milestones"
+    ],
+    [
+      "antibiotic efficacy",
+      "impacts",
+      "public health"
+    ],
+    [
+      "antibiotic efficacy",
+      "improved",
+      "bacterial infections"
+    ],
+    [
+      "antibiotic efficacy",
+      "improved by",
+      "soldiers' lives"
+    ],
+    [
+      "antibiotic efficacy",
+      "is challenged by",
+      "purification challenges"
+    ],
+    [
+      "antibiotic resistance",
+      "affects",
+      "Staphylococcus bacteria"
+    ],
+    [
+      "antibiotic resistance",
+      "affects",
+      "public health"
+    ],
+    [
+      "antibiotic resistance",
+      "caused by",
+      "bacterial pathogens"
+    ],
+    [
+      "antibiotic resistance",
+      "challenged",
+      "treatment revolution"
+    ],
+    [
+      "antibiotic resistance",
+      "challenged by",
+      "medical history"
+    ],
+    [
+      "antibiotic resistance",
+      "challenges",
+      "antibiotic efficacy"
+    ],
+    [
+      "antibiotic resistance",
+      "challenges",
+      "infectious disease management"
+    ],
+    [
+      "antibiotic resistance",
+      "challenges",
+      "research milestones"
+    ],
+    [
+      "antibiotic resistance",
+      "contributes to",
+      "antibiotics"
+    ],
+    [
+      "antibiotic resistance",
+      "exacerbated",
+      "war impact"
+    ],
+    [
+      "antibiotic resistance",
+      "fostered by",
+      "collaborative efforts"
+    ],
+    [
+      "antibiotic resistance",
+      "influenced by",
+      "antibiotic development"
+    ],
+    [
+      "antibiotic resistance",
+      "led to the discovery of",
+      "penicillin discovery"
+    ],
+    [
+      "antibiotic resistance",
+      "mitigates",
+      "minimal side effects"
+    ],
+    [
+      "antibiotic resistance",
+      "necessitates",
+      "antimicrobial agents"
+    ],
+    [
+      "antibiotic resistance",
+      "necessitates",
+      "new strategies"
+    ],
+    [
+      "antibiotic resistance",
+      "poses a challenge to",
+      "healthcare impact"
+    ],
+    [
+      "antibiotic resistance",
+      "requires",
+      "stewardship programs"
+    ],
+    [
+      "antibiotic resistance",
+      "shaped",
+      "healthcare evolution"
+    ],
+    [
+      "antibiotic resistance",
+      "threatens",
+      "civilian health"
+    ],
+    [
+      "antibiotic resistance",
+      "transforms",
+      "healthcare transformation"
+    ],
+    [
+      "antibiotics",
+      "affects",
+      "healthcare impact"
+    ],
+    [
+      "antibiotics",
+      "affects",
+      "war impact"
+    ],
+    [
+      "antibiotics",
+      "benefits",
+      "soldiers' lives"
+    ],
+    [
+      "antibiotics",
+      "combat",
+      "bacterial pathogens"
+    ],
+    [
+      "antibiotics",
+      "contributed to",
+      "medical advancements"
+    ],
+    [
+      "antibiotics",
+      "exhibits",
+      "antibacterial properties"
+    ],
+    [
+      "antibiotics",
+      "facilitated",
+      "antibiotic development"
+    ],
+    [
+      "antibiotics",
+      "facilitates",
+      "infectious disease management"
+    ],
+    [
+      "antibiotics",
+      "impacts",
+      "public health"
+    ],
+    [
+      "antibiotics",
+      "improves",
+      "treatment efficacy"
+    ],
+    [
+      "antibiotics",
+      "informs",
+      "new strategies"
+    ],
+    [
+      "antibiotics",
+      "marked as",
+      "historical milestone"
+    ],
+    [
+      "antibiotics",
+      "represents",
+      "medical breakthrough"
+    ],
+    [
+      "antibiotics",
+      "supported",
+      "civilian health"
+    ],
+    [
+      "antibiotics",
+      "supported by",
+      "World War II"
+    ],
+    [
+      "antibiotics",
+      "supports",
+      "stewardship programs"
+    ],
+    [
+      "antibiotics",
+      "supports",
+      "wartime medicine"
+    ],
+    [
+      "antibiotics",
+      "transforms",
+      "healthcare evolution"
+    ],
+    [
+      "antibiotics",
+      "treats",
+      "bacterial infections"
+    ],
+    [
+      "antimicrobial agents",
+      "advances",
+      "medical advancements"
+    ],
+    [
+      "antimicrobial agents",
+      "associated with",
+      "minimal side effects"
+    ],
+    [
+      "antimicrobial agents",
+      "contributed to",
+      "antibiotic development"
+    ],
+    [
+      "antimicrobial agents",
+      "enhances",
+      "treatment efficacy"
+    ],
+    [
+      "antimicrobial agents",
+      "exhibits",
+      "antibacterial properties"
+    ],
+    [
+      "antimicrobial agents",
+      "produced by",
+      "penicillin"
+    ],
+    [
+      "antimicrobial agents",
+      "requires",
+      "responsible use"
+    ],
+    [
+      "antimicrobial agents",
+      "resulted from",
+      "war impact"
+    ],
+    [
+      "antimicrobial agents",
+      "shaped",
+      "healthcare evolution"
+    ],
+    [
+      "antimicrobial agents",
+      "supports",
+      "public health"
+    ],
+    [
+      "antimicrobial agents",
+      "target of",
+      "Staphylococcus bacteria"
+    ],
+    [
+      "antimicrobial agents",
+      "treats",
+      "bacterial infections"
+    ],
+    [
+      "bacterial infection treatment",
+      "addresses",
+      "bacterial infections"
+    ],
+    [
+      "bacterial infection treatment",
+      "advances",
+      "therapeutic advancements"
+    ],
+    [
+      "bacterial infection treatment",
+      "applies to",
+      "therapeutic innovation"
+    ],
+    [
+      "bacterial infection treatment",
+      "benefits from",
+      "medical legacy"
+    ],
+    [
+      "bacterial infection treatment",
+      "enhances",
+      "collaborative efforts"
+    ],
+    [
+      "bacterial infection treatment",
+      "improved",
+      "healthcare impact"
+    ],
+    [
+      "bacterial infection treatment",
+      "improved by",
+      "infectious disease management"
+    ],
+    [
+      "bacterial infection treatment",
+      "improves",
+      "civilian health"
+    ],
+    [
+      "bacterial infection treatment",
+      "improves",
+      "treatment efficacy"
+    ],
+    [
+      "bacterial infection treatment",
+      "influenced by",
+      "new strategies"
+    ],
+    [
+      "bacterial infection treatment",
+      "is influenced by",
+      "research milestones"
+    ],
+    [
+      "bacterial infection treatment",
+      "led to",
+      "antibiotic development"
+    ],
+    [
+      "bacterial infection treatment",
+      "shaped",
+      "healthcare legacy"
+    ],
+    [
+      "bacterial infection treatment",
+      "transformed by",
+      "healthcare revolution"
+    ],
+    [
+      "bacterial infection treatment",
+      "transforms",
+      "treatment revolution"
+    ],
+    [
+      "bacterial infection treatment",
+      "transforms",
+      "wartime medicine"
+    ],
+    [
+      "bacterial infections",
+      "addresses",
+      "healthcare impact"
+    ],
+    [
+      "bacterial infections",
+      "affects",
+      "minimal side effects"
+    ],
+    [
+      "bacterial infections",
+      "affects",
+      "public health"
+    ],
+    [
+      "bacterial infections",
+      "benefits from",
+      "treatment efficacy"
+    ],
+    [
+      "bacterial infections",
+      "causes",
+      "antibiotic resistance"
+    ],
+    [
+      "bacterial infections",
+      "informs",
+      "research milestones"
+    ],
+    [
+      "bacterial pathogens",
+      "affects",
+      "civilian health"
+    ],
+    [
+      "bacterial pathogens",
+      "aids in",
+      "disease prevention"
+    ],
+    [
+      "bacterial pathogens",
+      "contributes to",
+      "therapeutic advancements"
+    ],
+    [
+      "bacterial pathogens",
+      "exhibited by",
+      "antibacterial properties"
+    ],
+    [
+      "bacterial pathogens",
+      "influenced",
+      "wartime medicine"
+    ],
+    [
+      "bacterial pathogens",
+      "influenced by",
+      "medical history"
+    ],
+    [
+      "bacterial pathogens",
+      "informs",
+      "healthcare legacy"
+    ],
+    [
+      "bacterial pathogens",
+      "is treated by",
+      "antibiotic efficacy"
+    ],
+    [
+      "bacterial pathogens",
+      "led to",
+      "penicillin discovery"
+    ],
+    [
+      "bacterial pathogens",
+      "managed by",
+      "infectious disease management"
+    ],
+    [
+      "bacterial pathogens",
+      "requires",
+      "responsible use"
+    ],
+    [
+      "bacterial pathogens",
+      "saved",
+      "soldiers' lives"
+    ],
+    [
+      "bacterial pathogens",
+      "supports",
+      "stewardship programs"
+    ],
+    [
+      "bacterial pathogens",
+      "transforms",
+      "healthcare transformation"
+    ],
+    [
+      "bacterial pathogens",
+      "treated by",
+      "antimicrobial agents"
+    ],
+    [
+      "bacterial pathogens",
+      "treated by",
+      "penicillin"
+    ],
+    [
+      "civilian health",
+      "affects",
+      "medical history"
+    ],
+    [
+      "civilian health",
+      "affects",
+      "minimal side effects"
+    ],
+    [
+      "civilian health",
+      "contributed to",
+      "antibiotic development"
+    ],
+    [
+      "civilian health",
+      "demonstrates",
+      "antibacterial properties"
+    ],
+    [
+      "civilian health",
+      "enhanced by",
+      "research significance"
+    ],
+    [
+      "civilian health",
+      "enhanced by",
+      "stewardship programs"
+    ],
+    [
+      "civilian health",
+      "improves",
+      "treatment efficacy"
+    ],
+    [
+      "civilian health",
+      "influenced",
+      "historical context"
+    ],
+    [
+      "civilian health",
+      "requires",
+      "responsible use"
+    ],
+    [
+      "civilian health",
+      "shaped",
+      "healthcare evolution"
+    ],
+    [
+      "civilian health",
+      "transformed",
+      "treatment revolution"
+    ],
+    [
+      "collaborative efforts",
+      "enhanced by",
+      "treatment efficacy"
+    ],
+    [
+      "collaborative efforts",
+      "enhanced by",
+      "wartime medicine"
+    ],
+    [
+      "collaborative efforts",
+      "involves",
+      "healthcare impact"
+    ],
+    [
+      "discovery story",
+      "coincides with",
+      "World War II"
+    ],
+    [
+      "discovery story",
+      "illustrated",
+      "healthcare transformation"
+    ],
+    [
+      "discovery story",
+      "illustrated",
+      "research significance"
+    ],
+    [
+      "discovery story",
+      "illustrates",
+      "healthcare evolution"
+    ],
+    [
+      "discovery story",
+      "illustrates",
+      "soldiers' lives"
+    ],
+    [
+      "discovery story",
+      "illustrates",
+      "treatment revolution"
+    ],
+    [
+      "discovery story",
+      "influenced by",
+      "healthcare impact"
+    ],
+    [
+      "discovery story",
+      "initiated the",
+      "healthcare revolution"
+    ],
+    [
+      "discovery story",
+      "inspired",
+      "serendipitous observation"
+    ],
+    [
+      "discovery story",
+      "is about",
+      "penicillin discovery"
+    ],
+    [
+      "discovery story",
+      "is defined by",
+      "Sir Alexander Fleming"
+    ],
+    [
+      "discovery story",
+      "resulted from",
+      "mold contamination"
+    ],
+    [
+      "discovery story",
+      "shaped",
+      "healthcare legacy"
+    ],
+    [
+      "disease prevention",
+      "advances",
+      "medical advancements"
+    ],
+    [
+      "disease prevention",
+      "contributes to",
+      "healthcare evolution"
+    ],
+    [
+      "disease prevention",
+      "drives",
+      "innovation in medicine"
+    ],
+    [
+      "disease prevention",
+      "enables",
+      "penicillin"
+    ],
+    [
+      "disease prevention",
+      "enhances",
+      "treatment efficacy"
+    ],
+    [
+      "disease prevention",
+      "inspired",
+      "new strategies"
+    ],
+    [
+      "disease prevention",
+      "led to",
+      "penicillin discovery"
+    ],
+    [
+      "disease prevention",
+      "marks",
+      "historical milestone"
+    ],
+    [
+      "disease prevention",
+      "promoted by",
+      "responsible use"
+    ],
+    [
+      "disease prevention",
+      "provides",
+      "antibacterial properties"
+    ],
+    [
+      "disease prevention",
+      "reduces",
+      "mortality rates"
+    ],
+    [
+      "disease prevention",
+      "resulted in",
+      "antibiotic development"
+    ],
+    [
+      "disease prevention",
+      "revolutionized",
+      "treatment revolution"
+    ],
+    [
+      "disease prevention",
+      "saved",
+      "soldiers' lives"
+    ],
+    [
+      "disease prevention",
+      "supports",
+      "infectious disease management"
+    ],
+    [
+      "disease prevention",
+      "supports",
+      "public health"
+    ],
+    [
+      "disease prevention",
+      "supports",
+      "therapeutic advancements"
+    ],
+    [
+      "healthcare evolution",
+      "influenced by",
+      "medical advancements"
+    ],
+    [
+      "healthcare evolution",
+      "is influenced by",
+      "healthcare legacy"
+    ],
+    [
+      "healthcare evolution",
+      "resulted from",
+      "healthcare impact"
+    ],
+    [
+      "healthcare evolution",
+      "shapes",
+      "research impact"
+    ],
+    [
+      "healthcare evolution",
+      "transforms",
+      "bacterial infections"
+    ],
+    [
+      "healthcare impact",
+      "advances",
+      "therapeutic advancements"
+    ],
+    [
+      "healthcare impact",
+      "benefited",
+      "soldiers' lives"
+    ],
+    [
+      "healthcare impact",
+      "demonstrated",
+      "antibiotic efficacy"
+    ],
+    [
+      "healthcare impact",
+      "demonstrated by",
+      "treatment efficacy"
+    ],
+    [
+      "healthcare impact",
+      "drives",
+      "medical advancements"
+    ],
+    [
+      "healthcare impact",
+      "enhanced",
+      "infectious disease management"
+    ],
+    [
+      "healthcare impact",
+      "enhanced",
+      "public health"
+    ],
+    [
+      "healthcare impact",
+      "facilitated",
+      "scientific collaboration"
+    ],
+    [
+      "healthcare impact",
+      "highlighted",
+      "research significance"
+    ],
+    [
+      "healthcare impact",
+      "influenced",
+      "World War II"
+    ],
+    [
+      "healthcare impact",
+      "influences",
+      "new strategies"
+    ],
+    [
+      "healthcare impact",
+      "led to",
+      "serendipitous observation"
+    ],
+    [
+      "healthcare impact",
+      "marks",
+      "research milestones"
+    ],
+    [
+      "healthcare impact",
+      "results from",
+      "penicillin discovery"
+    ],
+    [
+      "healthcare impact",
+      "shaped by",
+      "medical history"
+    ],
+    [
+      "healthcare impact",
+      "transformed",
+      "healthcare transformation"
+    ],
+    [
+      "healthcare legacy",
+      "advances",
+      "medical advancements"
+    ],
+    [
+      "healthcare legacy",
+      "challenges",
+      "antibiotic resistance"
+    ],
+    [
+      "healthcare legacy",
+      "contributed to",
+      "antibiotic development"
+    ],
+    [
+      "healthcare legacy",
+      "contributed to",
+      "soldiers' lives"
+    ],
+    [
+      "healthcare legacy",
+      "influenced by",
+      "discovery story"
+    ],
+    [
+      "healthcare legacy",
+      "influenced by",
+      "penicillin discovery"
+    ],
+    [
+      "healthcare legacy",
+      "influences",
+      "public health"
+    ],
+    [
+      "healthcare legacy",
+      "represented",
+      "research impact"
+    ],
+    [
+      "healthcare legacy",
+      "resulted in",
+      "medical breakthrough"
+    ],
+    [
+      "healthcare legacy",
+      "shaped",
+      "bacterial infections"
+    ],
+    [
+      "healthcare legacy",
+      "shaped by",
+      "scientific serendipity"
+    ],
+    [
+      "healthcare legacy",
+      "shapes",
+      "mortality rates"
+    ],
+    [
+      "healthcare revolution",
+      "affects",
+      "research impact"
+    ],
+    [
+      "healthcare revolution",
+      "enhances",
+      "public health"
+    ],
+    [
+      "healthcare revolution",
+      "highlights",
+      "research significance"
+    ],
+    [
+      "healthcare revolution",
+      "is a result of",
+      "discovery story"
+    ],
+    [
+      "healthcare transformation",
+      "accelerated by",
+      "World War II"
+    ],
+    [
+      "healthcare transformation",
+      "addresses",
+      "bacterial infections"
+    ],
+    [
+      "healthcare transformation",
+      "drives",
+      "antimicrobial agents"
+    ],
+    [
+      "healthcare transformation",
+      "drives",
+      "healthcare evolution"
+    ],
+    [
+      "healthcare transformation",
+      "facilitates",
+      "collaborative efforts"
+    ],
+    [
+      "healthcare transformation",
+      "impacts",
+      "purification challenges"
+    ],
+    [
+      "healthcare transformation",
+      "leads to",
+      "therapeutic advancements"
+    ],
+    [
+      "healthcare transformation",
+      "marks",
+      "research milestones"
+    ],
+    [
+      "healthcare transformation",
+      "represents",
+      "historical milestone"
+    ],
+    [
+      "healthcare transformation",
+      "represents",
+      "penicillin"
+    ],
+    [
+      "healthcare transformation",
+      "requires",
+      "stewardship programs"
+    ],
+    [
+      "healthcare transformation",
+      "transforms",
+      "wartime medicine"
+    ],
+    [
+      "healthcare transformation",
+      "triggers",
+      "treatment revolution"
+    ],
+    [
+      "historical context",
+      "contextualizes",
+      "World War II"
+    ],
+    [
+      "historical milestone",
+      "contributed to",
+      "healthcare evolution"
+    ],
+    [
+      "historical milestone",
+      "highlights",
+      "research significance"
+    ],
+    [
+      "historical milestone",
+      "influenced by",
+      "innovation in medicine"
+    ],
+    [
+      "historical milestone",
+      "is a milestone for",
+      "penicillin"
+    ],
+    [
+      "historical milestone",
+      "is a result of",
+      "infectious disease management"
+    ],
+    [
+      "historical milestone",
+      "marks",
+      "healthcare revolution"
+    ],
+    [
+      "historical milestone",
+      "recognized as",
+      "minimal side effects"
+    ],
+    [
+      "historical milestone",
+      "reflected in",
+      "healthcare legacy"
+    ],
+    [
+      "historical milestone",
+      "signified by",
+      "antibiotic development"
+    ],
+    [
+      "historical milestone",
+      "signified by",
+      "treatment options"
+    ],
+    [
+      "historical significance",
+      "established",
+      "healthcare legacy"
+    ],
+    [
+      "historical significance",
+      "illustrated by",
+      "scientific breakthroughs"
+    ],
+    [
+      "historical significance",
+      "influences",
+      "wartime medicine"
+    ],
+    [
+      "historical significance",
+      "is defined by",
+      "medical breakthrough"
+    ],
+    [
+      "historical significance",
+      "is defined by",
+      "medical legacy"
+    ],
+    [
+      "infectious disease management",
+      "demonstrates",
+      "antibacterial properties"
+    ],
+    [
+      "infectious disease management",
+      "enhanced",
+      "antibiotic efficacy"
+    ],
+    [
+      "infectious disease management",
+      "enhanced by",
+      "therapeutic advancements"
+    ],
+    [
+      "infectious disease management",
+      "enhanced by",
+      "treatment options"
+    ],
+    [
+      "infectious disease management",
+      "enhances",
+      "medical history"
+    ],
+    [
+      "infectious disease management",
+      "informs",
+      "research milestones"
+    ],
+    [
+      "infectious disease management",
+      "manages",
+      "bacterial infections"
+    ],
+    [
+      "infectious disease management",
+      "revolutionizes",
+      "healthcare revolution"
+    ],
+    [
+      "infectious disease management",
+      "supports",
+      "civilian health"
+    ],
+    [
+      "infectious disease management",
+      "supports",
+      "public health"
+    ],
+    [
+      "infectious disease management",
+      "transformed",
+      "treatment revolution"
+    ],
+    [
+      "infectious disease management",
+      "transformed by",
+      "wartime medicine"
+    ],
+    [
+      "infectious disease management",
+      "utilizes",
+      "antimicrobial agents"
+    ],
+    [
+      "innovation in medicine",
+      "affects",
+      "bacterial infections"
+    ],
+    [
+      "innovation in medicine",
+      "drives",
+      "antimicrobial agents"
+    ],
+    [
+      "innovation in medicine",
+      "drives",
+      "healthcare transformation"
+    ],
+    [
+      "innovation in medicine",
+      "enhanced by",
+      "scientific collaboration"
+    ],
+    [
+      "innovation in medicine",
+      "enhanced by",
+      "treatment options"
+    ],
+    [
+      "innovation in medicine",
+      "exemplified by",
+      "serendipitous observation"
+    ],
+    [
+      "innovation in medicine",
+      "impacts",
+      "soldiers' lives"
+    ],
+    [
+      "innovation in medicine",
+      "improved",
+      "infectious disease management"
+    ],
+    [
+      "innovation in medicine",
+      "influences",
+      "research impact"
+    ],
+    [
+      "innovation in medicine",
+      "influences",
+      "wartime medicine"
+    ],
+    [
+      "innovation in medicine",
+      "leads to",
+      "antibiotic development"
+    ],
+    [
+      "innovation in medicine",
+      "marks",
+      "research milestones"
+    ],
+    [
+      "innovation in medicine",
+      "represents",
+      "penicillin"
+    ],
+    [
+      "innovation in medicine",
+      "resulted in",
+      "penicillin discovery"
+    ],
+    [
+      "innovation in medicine",
+      "shapes",
+      "healthcare evolution"
+    ],
+    [
+      "medical advancements",
+      "drives",
+      "healthcare evolution"
+    ],
+    [
+      "medical advancements",
+      "enabled by",
+      "treatment options"
+    ],
+    [
+      "medical advancements",
+      "shaped",
+      "research impact"
+    ],
+    [
+      "medical advancements",
+      "treats",
+      "bacterial infections"
+    ],
+    [
+      "medical breakthrough",
+      "addresses",
+      "bacterial infections"
+    ],
+    [
+      "medical breakthrough",
+      "challenges",
+      "antibiotic resistance"
+    ],
+    [
+      "medical breakthrough",
+      "characterizes",
+      "minimal side effects"
+    ],
+    [
+      "medical breakthrough",
+      "demonstrated",
+      "antibiotic efficacy"
+    ],
+    [
+      "medical breakthrough",
+      "enabled",
+      "disease prevention"
+    ],
+    [
+      "medical breakthrough",
+      "illustrated",
+      "scientific serendipity"
+    ],
+    [
+      "medical breakthrough",
+      "influenced by",
+      "war impact"
+    ],
+    [
+      "medical breakthrough",
+      "is a result of",
+      "bacterial pathogens"
+    ],
+    [
+      "medical breakthrough",
+      "is a result of",
+      "medical legacy"
+    ],
+    [
+      "medical breakthrough",
+      "is a significant event in",
+      "historical significance"
+    ],
+    [
+      "medical breakthrough",
+      "led to",
+      "therapeutic advancements"
+    ],
+    [
+      "medical breakthrough",
+      "marks",
+      "historical milestone"
+    ],
+    [
+      "medical breakthrough",
+      "provides context for",
+      "historical context"
+    ],
+    [
+      "medical breakthrough",
+      "represented",
+      "healthcare revolution"
+    ],
+    [
+      "medical breakthrough",
+      "represents",
+      "innovation in medicine"
+    ],
+    [
+      "medical breakthrough",
+      "represents",
+      "medical advancements"
+    ],
+    [
+      "medical breakthrough",
+      "represents",
+      "research significance"
+    ],
+    [
+      "medical breakthrough",
+      "resulted from",
+      "serendipitous observation"
+    ],
+    [
+      "medical breakthrough",
+      "transformed",
+      "healthcare transformation"
+    ],
+    [
+      "medical history",
+      "contributed to",
+      "healthcare revolution"
+    ],
+    [
+      "medical history",
+      "contributes to",
+      "antibiotic development"
+    ],
+    [
+      "medical history",
+      "demonstrated by",
+      "antibiotic efficacy"
+    ],
+    [
+      "medical history",
+      "driven by",
+      "collaborative efforts"
+    ],
+    [
+      "medical history",
+      "illustrates",
+      "research significance"
+    ],
+    [
+      "medical history",
+      "impacted",
+      "healthcare impact"
+    ],
+    [
+      "medical history",
+      "is marked by",
+      "bacterial infections"
+    ],
+    [
+      "medical history",
+      "marks",
+      "medical breakthrough"
+    ],
+    [
+      "medical history",
+      "marks a milestone in",
+      "penicillin discovery"
+    ],
+    [
+      "medical history",
+      "shaped by",
+      "scientific exploration"
+    ],
+    [
+      "medical history",
+      "shapes",
+      "research impact"
+    ],
+    [
+      "medical legacy",
+      "drives",
+      "therapeutic advancements"
+    ],
+    [
+      "medical legacy",
+      "enhanced by",
+      "collaborative efforts"
+    ],
+    [
+      "medical legacy",
+      "enhances",
+      "civilian health"
+    ],
+    [
+      "medical legacy",
+      "faces",
+      "purification challenges"
+    ],
+    [
+      "medical legacy",
+      "facilitates",
+      "antibiotic development"
+    ],
+    [
+      "medical legacy",
+      "illustrates",
+      "scientific serendipity"
+    ],
+    [
+      "medical legacy",
+      "improved",
+      "bacterial infection treatment"
+    ],
+    [
+      "medical legacy",
+      "improved",
+      "treatment efficacy"
+    ],
+    [
+      "medical legacy",
+      "influenced by",
+      "scientific exploration"
+    ],
+    [
+      "medical legacy",
+      "is a result of",
+      "penicillin"
+    ],
+    [
+      "medical legacy",
+      "shaped",
+      "healthcare revolution"
+    ],
+    [
+      "medical legacy",
+      "shaped by",
+      "research milestones"
+    ],
+    [
+      "medical legacy",
+      "shapes",
+      "research impact"
+    ],
+    [
+      "medical legacy",
+      "supports",
+      "disease prevention"
+    ],
+    [
+      "medical legacy",
+      "threatens",
+      "antibiotic resistance"
+    ],
+    [
+      "minimal side effects",
+      "affects",
+      "public health"
+    ],
+    [
+      "minimal side effects",
+      "associated with",
+      "medical legacy"
+    ],
+    [
+      "minimal side effects",
+      "characterized by",
+      "penicillin discovery"
+    ],
+    [
+      "minimal side effects",
+      "contributed to",
+      "medical advancements"
+    ],
+    [
+      "minimal side effects",
+      "contributes to",
+      "healthcare evolution"
+    ],
+    [
+      "minimal side effects",
+      "contributes to",
+      "healthcare impact"
+    ],
+    [
+      "minimal side effects",
+      "enabled",
+      "antibiotic development"
+    ],
+    [
+      "minimal side effects",
+      "indicates",
+      "treatment efficacy"
+    ],
+    [
+      "minimal side effects",
+      "led to",
+      "treatment revolution"
+    ],
+    [
+      "minimal side effects",
+      "reduces",
+      "antibacterial properties"
+    ],
+    [
+      "minimal side effects",
+      "requires",
+      "responsible use"
+    ],
+    [
+      "minimal side effects",
+      "saved",
+      "soldiers' lives"
+    ],
+    [
+      "mold contamination",
+      "demonstrated impact on",
+      "research impact"
+    ],
+    [
+      "mold contamination",
+      "facilitated by",
+      "scientific collaboration"
+    ],
+    [
+      "mold contamination",
+      "influenced",
+      "healthcare evolution"
+    ],
+    [
+      "mold contamination",
+      "led to",
+      "medical advancements"
+    ],
+    [
+      "mold contamination",
+      "results from",
+      "healthcare revolution"
+    ],
+    [
+      "mold contamination",
+      "subject of contamination",
+      "Sir Alexander Fleming"
+    ],
+    [
+      "mortality rates",
+      "affects",
+      "civilian health"
+    ],
+    [
+      "mortality rates",
+      "contributes to",
+      "minimal side effects"
+    ],
+    [
+      "mortality rates",
+      "increased",
+      "war impact"
+    ],
+    [
+      "mortality rates",
+      "increases",
+      "antibiotic resistance"
+    ],
+    [
+      "mortality rates",
+      "increases",
+      "antibiotics"
+    ],
+    [
+      "mortality rates",
+      "influences",
+      "antibiotic efficacy"
+    ],
+    [
+      "mortality rates",
+      "is reflected in",
+      "medical legacy"
+    ],
+    [
+      "mortality rates",
+      "reduced",
+      "healthcare revolution"
+    ],
+    [
+      "mortality rates",
+      "reduced",
+      "penicillin"
+    ],
+    [
+      "mortality rates",
+      "reduced",
+      "wartime medicine"
+    ],
+    [
+      "new strategies",
+      "advances",
+      "therapeutic advancements"
+    ],
+    [
+      "new strategies",
+      "develops",
+      "antimicrobial agents"
+    ],
+    [
+      "new strategies",
+      "enhances",
+      "infectious disease management"
+    ],
+    [
+      "new strategies",
+      "initiates",
+      "healthcare revolution"
+    ],
+    [
+      "new strategies",
+      "promotes",
+      "responsible use"
+    ],
+    [
+      "new strategies",
+      "reduces",
+      "mortality rates"
+    ],
+    [
+      "new strategies",
+      "requires",
+      "collaborative efforts"
+    ],
+    [
+      "new strategies",
+      "requires",
+      "stewardship programs"
+    ],
+    [
+      "new strategies",
+      "resulted from",
+      "penicillin discovery"
+    ],
+    [
+      "new strategies",
+      "tackles",
+      "bacterial infections"
+    ],
+    [
+      "penicillin",
+      "associated with",
+      "minimal side effects"
+    ],
+    [
+      "penicillin",
+      "combats",
+      "bacterial infections"
+    ],
+    [
+      "penicillin",
+      "contributed to",
+      "research milestones"
+    ],
+    [
+      "penicillin",
+      "contributes to",
+      "healthcare legacy"
+    ],
+    [
+      "penicillin",
+      "derived from",
+      "antibiotics"
+    ],
+    [
+      "penicillin",
+      "developed from",
+      "antibiotic resistance"
+    ],
+    [
+      "penicillin",
+      "drives",
+      "medical advancements"
+    ],
+    [
+      "penicillin",
+      "exhibits",
+      "antibacterial properties"
+    ],
+    [
+      "penicillin",
+      "initiated",
+      "healthcare revolution"
+    ],
+    [
+      "penicillin",
+      "promotes",
+      "stewardship programs"
+    ],
+    [
+      "penicillin",
+      "provides",
+      "treatment options"
+    ],
+    [
+      "penicillin",
+      "recognized as",
+      "historical milestone"
+    ],
+    [
+      "penicillin",
+      "utilized in",
+      "wartime medicine"
+    ],
+    [
+      "penicillin",
+      "utilizes",
+      "bacterial infection treatment"
+    ],
+    [
+      "penicillin",
+      "utilizes",
+      "infectious disease management"
+    ],
+    [
+      "penicillin discovery",
+      "addresses",
+      "bacterial infections"
+    ],
+    [
+      "penicillin discovery",
+      "demonstrated by",
+      "antibiotic efficacy"
+    ],
+    [
+      "penicillin discovery",
+      "demonstrates",
+      "research impact"
+    ],
+    [
+      "penicillin discovery",
+      "demonstrates",
+      "research significance"
+    ],
+    [
+      "penicillin discovery",
+      "demonstrates",
+      "scientific serendipity"
+    ],
+    [
+      "penicillin discovery",
+      "discovered by",
+      "Staphylococcus bacteria"
+    ],
+    [
+      "penicillin discovery",
+      "enabled",
+      "responsible use"
+    ],
+    [
+      "penicillin discovery",
+      "enables",
+      "antimicrobial agents"
+    ],
+    [
+      "penicillin discovery",
+      "enhanced",
+      "wartime medicine"
+    ],
+    [
+      "penicillin discovery",
+      "exhibits",
+      "antibacterial properties"
+    ],
+    [
+      "penicillin discovery",
+      "facilitates",
+      "antibiotic development"
+    ],
+    [
+      "penicillin discovery",
+      "initiated",
+      "healthcare revolution"
+    ],
+    [
+      "penicillin discovery",
+      "is a result of",
+      "antibiotic resistance"
+    ],
+    [
+      "penicillin discovery",
+      "led to",
+      "antibiotics"
+    ],
+    [
+      "penicillin discovery",
+      "led to",
+      "medical breakthrough"
+    ],
+    [
+      "penicillin discovery",
+      "led to",
+      "research timeline"
+    ],
+    [
+      "penicillin discovery",
+      "led to",
+      "therapeutic innovation"
+    ],
+    [
+      "penicillin discovery",
+      "reduces",
+      "mortality rates"
+    ],
+    [
+      "penicillin discovery",
+      "requires",
+      "collaborative efforts"
+    ],
+    [
+      "penicillin discovery",
+      "resulted from",
+      "civilian health"
+    ],
+    [
+      "penicillin discovery",
+      "resulted from",
+      "serendipitous observation"
+    ],
+    [
+      "penicillin discovery",
+      "revolutionized",
+      "treatment revolution"
+    ],
+    [
+      "penicillin discovery",
+      "shaped",
+      "healthcare legacy"
+    ],
+    [
+      "purification challenges",
+      "addresses",
+      "antimicrobial agents"
+    ],
+    [
+      "purification challenges",
+      "complicated by",
+      "minimal side effects"
+    ],
+    [
+      "purification challenges",
+      "complicates",
+      "bacterial pathogens"
+    ],
+    [
+      "purification challenges",
+      "complicates",
+      "historical significance"
+    ],
+    [
+      "purification challenges",
+      "illustrated by",
+      "scientific serendipity"
+    ],
+    [
+      "purification challenges",
+      "presents",
+      "penicillin"
+    ],
+    [
+      "research impact",
+      "impacted by",
+      "purification challenges"
+    ],
+    [
+      "research milestones",
+      "enhances",
+      "research significance"
+    ],
+    [
+      "research milestones",
+      "influenced",
+      "healthcare evolution"
+    ],
+    [
+      "research milestones",
+      "influenced by",
+      "responsible use"
+    ],
+    [
+      "research milestones",
+      "is marked by",
+      "historical significance"
+    ],
+    [
+      "research milestones",
+      "marks",
+      "research impact"
+    ],
+    [
+      "research milestones",
+      "provides",
+      "treatment options"
+    ],
+    [
+      "research significance",
+      "highlights",
+      "soldiers' lives"
+    ],
+    [
+      "research significance",
+      "is significant for",
+      "historical context"
+    ],
+    [
+      "research timeline",
+      "affects",
+      "public health"
+    ],
+    [
+      "research timeline",
+      "enabled",
+      "therapeutic advancements"
+    ],
+    [
+      "research timeline",
+      "indicates",
+      "research significance"
+    ],
+    [
+      "research timeline",
+      "influenced",
+      "innovation in medicine"
+    ],
+    [
+      "research timeline",
+      "influenced by",
+      "medical legacy"
+    ],
+    [
+      "research timeline",
+      "influences",
+      "mortality rates"
+    ],
+    [
+      "research timeline",
+      "led to",
+      "serendipitous observation"
+    ],
+    [
+      "research timeline",
+      "marked",
+      "historical milestone"
+    ],
+    [
+      "research timeline",
+      "marks",
+      "treatment revolution"
+    ],
+    [
+      "research timeline",
+      "shapes",
+      "research impact"
+    ],
+    [
+      "research timeline",
+      "shapes",
+      "wartime medicine"
+    ],
+    [
+      "research timeline",
+      "studies",
+      "Staphylococcus bacteria"
+    ],
+    [
+      "responsible use",
+      "affects",
+      "wartime medicine"
+    ],
+    [
+      "responsible use",
+      "contributes to",
+      "healthcare revolution"
+    ],
+    [
+      "responsible use",
+      "contributes to",
+      "medical advancements"
+    ],
+    [
+      "responsible use",
+      "enhanced",
+      "treatment efficacy"
+    ],
+    [
+      "responsible use",
+      "impacts",
+      "Staphylococcus bacteria"
+    ],
+    [
+      "responsible use",
+      "mitigates",
+      "bacterial infections"
+    ],
+    [
+      "responsible use",
+      "requires",
+      "medical breakthrough"
+    ],
+    [
+      "responsible use",
+      "safeguards",
+      "soldiers' lives"
+    ],
+    [
+      "responsible use",
+      "shapes",
+      "healthcare legacy"
+    ],
+    [
+      "responsible use",
+      "supports",
+      "antibiotic development"
+    ],
+    [
+      "responsible use",
+      "supports",
+      "infectious disease management"
+    ],
+    [
+      "scientific breakthroughs",
+      "affects",
+      "healthcare impact"
+    ],
+    [
+      "scientific breakthroughs",
+      "contributes to",
+      "healthcare legacy"
+    ],
+    [
+      "scientific breakthroughs",
+      "documented",
+      "research timeline"
+    ],
+    [
+      "scientific breakthroughs",
+      "improves",
+      "public health"
+    ],
+    [
+      "scientific breakthroughs",
+      "influenced",
+      "healthcare evolution"
+    ],
+    [
+      "scientific breakthroughs",
+      "initiated",
+      "treatment revolution"
+    ],
+    [
+      "scientific breakthroughs",
+      "led to",
+      "medical advancements"
+    ],
+    [
+      "scientific breakthroughs",
+      "transformed",
+      "healthcare revolution"
+    ],
+    [
+      "scientific collaboration",
+      "enhanced by",
+      "healthcare evolution"
+    ],
+    [
+      "scientific collaboration",
+      "improved",
+      "public health"
+    ],
+    [
+      "scientific collaboration",
+      "requires",
+      "purification challenges"
+    ],
+    [
+      "scientific collaboration",
+      "shaped by",
+      "research impact"
+    ],
+    [
+      "scientific exploration",
+      "advances",
+      "research milestones"
+    ],
+    [
+      "scientific exploration",
+      "complicated by",
+      "purification challenges"
+    ],
+    [
+      "scientific exploration",
+      "demonstrated",
+      "scientific serendipity"
+    ],
+    [
+      "scientific exploration",
+      "demonstrates",
+      "research impact"
+    ],
+    [
+      "scientific exploration",
+      "drove",
+      "healthcare revolution"
+    ],
+    [
+      "scientific exploration",
+      "highlights",
+      "historical significance"
+    ],
+    [
+      "scientific exploration",
+      "improves",
+      "civilian health"
+    ],
+    [
+      "scientific exploration",
+      "informs",
+      "research timeline"
+    ],
+    [
+      "scientific exploration",
+      "leads to",
+      "medical breakthrough"
+    ],
+    [
+      "scientific serendipity",
+      "drives",
+      "medical advancements"
+    ],
+    [
+      "scientific serendipity",
+      "fostered by",
+      "scientific collaboration"
+    ],
+    [
+      "scientific serendipity",
+      "illustrates",
+      "research significance"
+    ],
+    [
+      "scientific serendipity",
+      "influences",
+      "research impact"
+    ],
+    [
+      "scientific serendipity",
+      "is a legacy of",
+      "healthcare legacy"
+    ],
+    [
+      "scientific serendipity",
+      "saved",
+      "soldiers' lives"
+    ],
+    [
+      "serendipitous observation",
+      "contributed to",
+      "medical advancements"
+    ],
+    [
+      "serendipitous observation",
+      "contributes to",
+      "therapeutic advancements"
+    ],
+    [
+      "serendipitous observation",
+      "demonstrates",
+      "antibiotic efficacy"
+    ],
+    [
+      "serendipitous observation",
+      "facilitates",
+      "scientific collaboration"
+    ],
+    [
+      "serendipitous observation",
+      "fostered",
+      "collaborative efforts"
+    ],
+    [
+      "serendipitous observation",
+      "influenced",
+      "healthcare evolution"
+    ],
+    [
+      "serendipitous observation",
+      "informs",
+      "infectious disease management"
+    ],
+    [
+      "serendipitous observation",
+      "initiated",
+      "healthcare revolution"
+    ],
+    [
+      "serendipitous observation",
+      "is observed in",
+      "bacterial pathogens"
+    ],
+    [
+      "serendipitous observation",
+      "led to",
+      "Staphylococcus bacteria"
+    ],
+    [
+      "serendipitous observation",
+      "led to",
+      "bacterial infections"
+    ],
+    [
+      "serendipitous observation",
+      "led to",
+      "penicillin"
+    ],
+    [
+      "serendipitous observation",
+      "marked",
+      "research milestones"
+    ],
+    [
+      "serendipitous observation",
+      "marks",
+      "historical milestone"
+    ],
+    [
+      "serendipitous observation",
+      "observed by",
+      "antibiotic resistance"
+    ],
+    [
+      "serendipitous observation",
+      "observed in",
+      "therapeutic innovation"
+    ],
+    [
+      "serendipitous observation",
+      "results from",
+      "purification challenges"
+    ],
+    [
+      "serendipitous observation",
+      "saves",
+      "soldiers' lives"
+    ],
+    [
+      "soldiers' lives",
+      "benefits",
+      "penicillin discovery"
+    ],
+    [
+      "soldiers' lives",
+      "benefits from",
+      "stewardship programs"
+    ],
+    [
+      "soldiers' lives",
+      "improved",
+      "mortality rates"
+    ],
+    [
+      "soldiers' lives",
+      "improved",
+      "therapeutic advancements"
+    ],
+    [
+      "soldiers' lives",
+      "improved",
+      "wartime medicine"
+    ],
+    [
+      "soldiers' lives",
+      "improves",
+      "infectious disease management"
+    ],
+    [
+      "soldiers' lives",
+      "saved",
+      "Sir Alexander Fleming"
+    ],
+    [
+      "soldiers' lives",
+      "saved by",
+      "war impact"
+    ],
+    [
+      "soldiers' lives",
+      "saves",
+      "World War II"
+    ],
+    [
+      "soldiers' lives",
+      "saves",
+      "medical breakthrough"
+    ],
+    [
+      "soldiers' lives",
+      "saves",
+      "medical history"
+    ],
+    [
+      "soldiers' lives",
+      "transformed",
+      "healthcare revolution"
+    ],
+    [
+      "stewardship programs",
+      "addresses",
+      "bacterial infections"
+    ],
+    [
+      "stewardship programs",
+      "benefits public health",
+      "public health"
+    ],
+    [
+      "stewardship programs",
+      "develops",
+      "antimicrobial agents"
+    ],
+    [
+      "stewardship programs",
+      "enhances",
+      "research impact"
+    ],
+    [
+      "stewardship programs",
+      "facilitated",
+      "medical advancements"
+    ],
+    [
+      "stewardship programs",
+      "highlights",
+      "research significance"
+    ],
+    [
+      "stewardship programs",
+      "improves",
+      "antibiotic efficacy"
+    ],
+    [
+      "stewardship programs",
+      "marks",
+      "historical milestone"
+    ],
+    [
+      "stewardship programs",
+      "promotes",
+      "healthcare revolution"
+    ],
+    [
+      "stewardship programs",
+      "requires",
+      "penicillin discovery"
+    ],
+    [
+      "stewardship programs",
+      "supported by",
+      "disease prevention"
+    ],
+    [
+      "stewardship programs",
+      "supported by",
+      "medical breakthrough"
+    ],
+    [
+      "stewardship programs",
+      "supports",
+      "antibiotic development"
+    ],
+    [
+      "therapeutic advancements",
+      "advances",
+      "treatment efficacy"
+    ],
+    [
+      "therapeutic advancements",
+      "driven by",
+      "antibacterial properties"
+    ],
+    [
+      "therapeutic advancements",
+      "improves",
+      "mortality rates"
+    ],
+    [
+      "therapeutic advancements",
+      "improves",
+      "public health"
+    ],
+    [
+      "therapeutic advancements",
+      "initiates",
+      "healthcare revolution"
+    ],
+    [
+      "therapeutic advancements",
+      "represents",
+      "medical advancements"
+    ],
+    [
+      "therapeutic advancements",
+      "shapes",
+      "healthcare evolution"
+    ],
+    [
+      "therapeutic innovation",
+      "addresses",
+      "bacterial infections"
+    ],
+    [
+      "therapeutic innovation",
+      "affects",
+      "civilian health"
+    ],
+    [
+      "therapeutic innovation",
+      "contributes to",
+      "antibiotic development"
+    ],
+    [
+      "therapeutic innovation",
+      "driven by",
+      "research impact"
+    ],
+    [
+      "therapeutic innovation",
+      "driven by",
+      "scientific exploration"
+    ],
+    [
+      "therapeutic innovation",
+      "drives",
+      "healthcare impact"
+    ],
+    [
+      "therapeutic innovation",
+      "drives",
+      "healthcare transformation"
+    ],
+    [
+      "therapeutic innovation",
+      "drives",
+      "new strategies"
+    ],
+    [
+      "therapeutic innovation",
+      "drove",
+      "healthcare evolution"
+    ],
+    [
+      "therapeutic innovation",
+      "enhanced",
+      "public health"
+    ],
+    [
+      "therapeutic innovation",
+      "expanded",
+      "treatment options"
+    ],
+    [
+      "therapeutic innovation",
+      "facilitated by",
+      "scientific collaboration"
+    ],
+    [
+      "therapeutic innovation",
+      "improves",
+      "wartime medicine"
+    ],
+    [
+      "therapeutic innovation",
+      "includes",
+      "antibiotics"
+    ],
+    [
+      "therapeutic innovation",
+      "is a result of",
+      "penicillin discovery"
+    ],
+    [
+      "therapeutic innovation",
+      "reduced",
+      "mortality rates"
+    ],
+    [
+      "therapeutic innovation",
+      "represents",
+      "medical breakthrough"
+    ],
+    [
+      "therapeutic innovation",
+      "represents",
+      "medical legacy"
+    ],
+    [
+      "therapeutic innovation",
+      "represents",
+      "penicillin"
+    ],
+    [
+      "therapeutic innovation",
+      "supported by",
+      "collaborative efforts"
+    ],
+    [
+      "therapeutic innovation",
+      "transformed",
+      "treatment revolution"
+    ],
+    [
+      "treatment efficacy",
+      "contributes to",
+      "healthcare evolution"
+    ],
+    [
+      "treatment efficacy",
+      "correlates with",
+      "mortality rates"
+    ],
+    [
+      "treatment efficacy",
+      "demonstrates",
+      "antibacterial properties"
+    ],
+    [
+      "treatment efficacy",
+      "demonstrates",
+      "penicillin"
+    ],
+    [
+      "treatment efficacy",
+      "drives",
+      "treatment revolution"
+    ],
+    [
+      "treatment efficacy",
+      "enhanced by",
+      "wartime medicine"
+    ],
+    [
+      "treatment efficacy",
+      "enhances",
+      "infectious disease management"
+    ],
+    [
+      "treatment efficacy",
+      "improves",
+      "public health"
+    ],
+    [
+      "treatment efficacy",
+      "is enhanced by",
+      "bacterial infection treatment"
+    ],
+    [
+      "treatment efficacy",
+      "saved",
+      "soldiers' lives"
+    ],
+    [
+      "treatment efficacy",
+      "shapes",
+      "healthcare legacy"
+    ],
+    [
+      "treatment options",
+      "affects",
+      "healthcare impact"
+    ],
+    [
+      "treatment options",
+      "complicates",
+      "purification challenges"
+    ],
+    [
+      "treatment options",
+      "developed from",
+      "antimicrobial agents"
+    ],
+    [
+      "treatment options",
+      "enhances",
+      "wartime medicine"
+    ],
+    [
+      "treatment options",
+      "improves",
+      "therapeutic advancements"
+    ],
+    [
+      "treatment options",
+      "initiated",
+      "treatment revolution"
+    ],
+    [
+      "treatment options",
+      "led to",
+      "penicillin discovery"
+    ],
+    [
+      "treatment options",
+      "limited by",
+      "minimal side effects"
+    ],
+    [
+      "treatment options",
+      "promoted",
+      "stewardship programs"
+    ],
+    [
+      "treatment options",
+      "requires",
+      "new strategies"
+    ],
+    [
+      "treatment options",
+      "transformed",
+      "healthcare transformation"
+    ],
+    [
+      "treatment options",
+      "used for",
+      "antibiotics"
+    ],
+    [
+      "treatment revolution",
+      "demonstrates",
+      "antibiotic efficacy"
+    ],
+    [
+      "treatment revolution",
+      "enhances",
+      "public health"
+    ],
+    [
+      "treatment revolution",
+      "facilitates",
+      "scientific collaboration"
+    ],
+    [
+      "treatment revolution",
+      "initiated",
+      "healthcare impact"
+    ],
+    [
+      "treatment revolution",
+      "is a result of",
+      "antibiotics"
+    ],
+    [
+      "treatment revolution",
+      "led to",
+      "antibiotic development"
+    ],
+    [
+      "treatment revolution",
+      "marks",
+      "historical milestone"
+    ],
+    [
+      "treatment revolution",
+      "resulted from",
+      "purification challenges"
+    ],
+    [
+      "treatment revolution",
+      "revolutionizes",
+      "bacterial infections"
+    ],
+    [
+      "treatment revolution",
+      "supported by",
+      "stewardship programs"
+    ],
+    [
+      "treatment revolution",
+      "transformed",
+      "research impact"
+    ],
+    [
+      "treatment revolution",
+      "transformed by",
+      "bacterial pathogens"
+    ],
+    [
+      "treatment revolution",
+      "transforms",
+      "healthcare evolution"
+    ],
+    [
+      "war impact",
+      "affected",
+      "penicillin"
+    ],
+    [
+      "war impact",
+      "affects",
+      "bacterial pathogens"
+    ],
+    [
+      "war impact",
+      "affects",
+      "civilian health"
+    ],
+    [
+      "war impact",
+      "catalyzed by",
+      "healthcare revolution"
+    ],
+    [
+      "war impact",
+      "creates",
+      "new strategies"
+    ],
+    [
+      "war impact",
+      "enhanced",
+      "antibacterial properties"
+    ],
+    [
+      "war impact",
+      "influenced",
+      "antimicrobial agents"
+    ],
+    [
+      "war impact",
+      "influences",
+      "research milestones"
+    ],
+    [
+      "war impact",
+      "shaped",
+      "healthcare legacy"
+    ],
+    [
+      "war impact",
+      "transformed",
+      "healthcare transformation"
+    ],
+    [
+      "war impact",
+      "transformed",
+      "wartime medicine"
+    ],
+    [
+      "wartime medicine",
+      "addresses",
+      "bacterial infections"
+    ],
+    [
+      "wartime medicine",
+      "enhanced",
+      "antibiotic efficacy"
+    ],
+    [
+      "wartime medicine",
+      "influenced by",
+      "civilian health"
+    ],
+    [
+      "wartime medicine",
+      "transformed by",
+      "healthcare revolution"
+    ]
+  ],
+  "edges": [
+    "accelerated by",
+    "achieved by",
+    "addresses",
+    "advances",
+    "affected",
+    "affected by",
+    "affects",
+    "aids in",
+    "applies to",
+    "associated with",
+    "benefited",
+    "benefited from",
+    "benefits",
+    "benefits from",
+    "benefits public health",
+    "catalyzed by",
+    "caused by",
+    "causes",
+    "challenged",
+    "challenged by",
+    "challenges",
+    "characterized by",
+    "characterizes",
+    "coincides with",
+    "combat",
+    "combats",
+    "complicated by",
+    "complicates",
+    "contaminated by",
+    "contextualized by",
+    "contextualizes",
+    "contributed to",
+    "contributes to",
+    "correlates with",
+    "creates",
+    "defined by",
+    "demonstrated",
+    "demonstrated by",
+    "demonstrated during",
+    "demonstrated impact on",
+    "demonstrates",
+    "derived from",
+    "developed",
+    "developed from",
+    "develops",
+    "discovered by",
+    "discovery of",
+    "documented",
+    "driven by",
+    "drives",
+    "drove",
+    "enabled",
+    "enabled by",
+    "enables",
+    "enhanced",
+    "enhanced by",
+    "enhances",
+    "established",
+    "exacerbated",
+    "exemplified by",
+    "exhibited by",
+    "exhibits",
+    "expanded",
+    "faced by",
+    "faces",
+    "facilitated",
+    "facilitated by",
+    "facilitates",
+    "fostered",
+    "fostered by",
+    "highlighted",
+    "highlights",
+    "illustrated",
+    "illustrated by",
+    "illustrates",
+    "impacted",
+    "impacted by",
+    "impacts",
+    "improved",
+    "improved by",
+    "improves",
+    "includes",
+    "increased",
+    "increases",
+    "indicates",
+    "influenced",
+    "influenced by",
+    "influences",
+    "informs",
+    "initiated",
+    "initiated the",
+    "initiates",
+    "inspired",
+    "involves",
+    "is a legacy of",
+    "is a milestone for",
+    "is a result of",
+    "is a significant event in",
+    "is about",
+    "is an example of",
+    "is central to",
+    "is challenged by",
+    "is defined by",
+    "is enhanced by",
+    "is influenced by",
+    "is marked by",
+    "is observed in",
+    "is reflected in",
+    "is significant for",
+    "is treated by",
+    "leads to",
+    "led to",
+    "led to the discovery of",
+    "limited by",
+    "managed by",
+    "manages",
+    "marked",
+    "marked as",
+    "marks",
+    "marks a milestone in",
+    "mitigates",
+    "necessitates",
+    "observed",
+    "observed by",
+    "observed in",
+    "poses a challenge to",
+    "presents",
+    "produced by",
+    "promoted",
+    "promoted by",
+    "promotes",
+    "provides",
+    "provides context for",
+    "recognized as",
+    "recognized for",
+    "reduced",
+    "reduces",
+    "reflected in",
+    "represented",
+    "represents",
+    "requires",
+    "resulted from",
+    "resulted in",
+    "results from",
+    "revolutionized",
+    "revolutionizes",
+    "safeguards",
+    "saved",
+    "saved by",
+    "saves",
+    "shaped",
+    "shaped by",
+    "shapes",
+    "signified by",
+    "spurred",
+    "studied by",
+    "studies",
+    "subject of contamination",
+    "supported",
+    "supported by",
+    "supports",
+    "tackles",
+    "target of",
+    "targeted by",
+    "threatens",
+    "transformed",
+    "transformed by",
+    "transforms",
+    "treated by",
+    "treats",
+    "triggers",
+    "used for",
+    "utilized during",
+    "utilized in",
+    "utilizes"
+  ]
+}

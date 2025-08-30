@@ -1,0 +1,7179 @@
+{
+  "entities": [
+    "Apollo 11",
+    "Buzz Aldrin",
+    "Cold War",
+    "International Space Station",
+    "Jupiter",
+    "Mars exploration",
+    "Mars missions",
+    "Mars rovers",
+    "NASA",
+    "Neil Armstrong",
+    "Perseverance rover",
+    "Saturn",
+    "Soviet Union",
+    "SpaceX",
+    "Sputnik 1",
+    "Voyager missions",
+    "Yuri Gagarin",
+    "advanced materials",
+    "artificial satellite",
+    "astrobiology",
+    "colonization",
+    "commercial ventures",
+    "discovery",
+    "early spaceflight",
+    "exploration goals",
+    "exploration initiatives",
+    "exploration legacy",
+    "exploration milestones",
+    "exploration possibilities",
+    "exploration timeline",
+    "extraterrestrial life",
+    "first human",
+    "further exploration",
+    "future missions",
+    "global partnerships",
+    "groundbreaking endeavors",
+    "habitable exoplanets",
+    "history of exploration",
+    "human exploration",
+    "human presence",
+    "human spaceflight",
+    "innovation",
+    "innovation in space",
+    "international competition",
+    "international cooperation",
+    "interplanetary exploration",
+    "ion propulsion",
+    "launch costs",
+    "launch events",
+    "life detection",
+    "microgravity experiments",
+    "mid-20th century",
+    "mission objectives",
+    "moon landing",
+    "moon missions",
+    "moons exploration",
+    "operational milestones",
+    "orbit Earth",
+    "orbital missions",
+    "outer planets",
+    "past life",
+    "permanent presence",
+    "planetary science",
+    "private companies",
+    "private individuals",
+    "red planet",
+    "reusable rockets",
+    "rover missions",
+    "scientific collaboration",
+    "scientific discoveries",
+    "scientific experiments",
+    "scientific progress",
+    "scientific research",
+    "significant advancements",
+    "solar system",
+    "space accessibility",
+    "space achievements",
+    "space agencies",
+    "space ambitions",
+    "space collaboration",
+    "space colonization",
+    "space endeavors",
+    "space exploration progress",
+    "space exploration timeline",
+    "space future",
+    "space history",
+    "space mission objectives",
+    "space missions",
+    "space pioneers",
+    "space probes",
+    "space race",
+    "space research",
+    "space research platforms",
+    "space technology",
+    "space technology development",
+    "space tourism",
+    "space travel",
+    "spacecraft advancements",
+    "suborbital flights",
+    "technological progress",
+    "technology advancements",
+    "technology testing",
+    "travel faster",
+    "universe understanding"
+  ],
+  "relations": [
+    [
+      "Apollo 11",
+      "achieved by",
+      "human presence"
+    ],
+    [
+      "Apollo 11",
+      "achieved by",
+      "orbit Earth"
+    ],
+    [
+      "Apollo 11",
+      "aligns with",
+      "exploration goals"
+    ],
+    [
+      "Apollo 11",
+      "defines",
+      "space mission objectives"
+    ],
+    [
+      "Apollo 11",
+      "enabled",
+      "human exploration"
+    ],
+    [
+      "Apollo 11",
+      "enables",
+      "interplanetary exploration"
+    ],
+    [
+      "Apollo 11",
+      "enables",
+      "space travel"
+    ],
+    [
+      "Apollo 11",
+      "includes",
+      "moon missions"
+    ],
+    [
+      "Apollo 11",
+      "inspired",
+      "Mars missions"
+    ],
+    [
+      "Apollo 11",
+      "inspired",
+      "space pioneers"
+    ],
+    [
+      "Apollo 11",
+      "inspired",
+      "space race"
+    ],
+    [
+      "Apollo 11",
+      "is a result of",
+      "international competition"
+    ],
+    [
+      "Apollo 11",
+      "marks",
+      "space history"
+    ],
+    [
+      "Apollo 11",
+      "part of",
+      "Buzz Aldrin"
+    ],
+    [
+      "Apollo 11",
+      "represents",
+      "early spaceflight"
+    ],
+    [
+      "Apollo 11",
+      "resulted from",
+      "universe understanding"
+    ],
+    [
+      "Buzz Aldrin",
+      "advances",
+      "interplanetary exploration"
+    ],
+    [
+      "Buzz Aldrin",
+      "conducted by",
+      "scientific experiments"
+    ],
+    [
+      "Buzz Aldrin",
+      "contributes to",
+      "history of exploration"
+    ],
+    [
+      "Buzz Aldrin",
+      "influenced by",
+      "space exploration timeline"
+    ],
+    [
+      "Buzz Aldrin",
+      "involved with",
+      "NASA"
+    ],
+    [
+      "Cold War",
+      "influenced by",
+      "international cooperation"
+    ],
+    [
+      "Cold War",
+      "influenced by",
+      "orbital missions"
+    ],
+    [
+      "Cold War",
+      "influences",
+      "exploration goals"
+    ],
+    [
+      "Cold War",
+      "occurred during",
+      "space achievements"
+    ],
+    [
+      "Cold War",
+      "shaped",
+      "space collaboration"
+    ],
+    [
+      "International Space Station",
+      "benefits from",
+      "launch costs"
+    ],
+    [
+      "International Space Station",
+      "constructed by",
+      "Soviet Union"
+    ],
+    [
+      "International Space Station",
+      "constructed from",
+      "artificial satellite"
+    ],
+    [
+      "International Space Station",
+      "documents",
+      "history of exploration"
+    ],
+    [
+      "International Space Station",
+      "documents",
+      "space exploration timeline"
+    ],
+    [
+      "International Space Station",
+      "drives",
+      "innovation"
+    ],
+    [
+      "International Space Station",
+      "facilitated by",
+      "international cooperation"
+    ],
+    [
+      "International Space Station",
+      "facilitates",
+      "exploration milestones"
+    ],
+    [
+      "International Space Station",
+      "influenced by",
+      "space pioneers"
+    ],
+    [
+      "International Space Station",
+      "influences",
+      "space future"
+    ],
+    [
+      "International Space Station",
+      "influences",
+      "space history"
+    ],
+    [
+      "International Space Station",
+      "involves",
+      "space agencies"
+    ],
+    [
+      "International Space Station",
+      "sets",
+      "exploration goals"
+    ],
+    [
+      "International Space Station",
+      "supported by",
+      "space ambitions"
+    ],
+    [
+      "International Space Station",
+      "supports",
+      "human spaceflight"
+    ],
+    [
+      "International Space Station",
+      "supports",
+      "orbital missions"
+    ],
+    [
+      "International Space Station",
+      "supports",
+      "space mission objectives"
+    ],
+    [
+      "International Space Station",
+      "supports",
+      "space missions"
+    ],
+    [
+      "International Space Station",
+      "supports",
+      "space technology"
+    ],
+    [
+      "International Space Station",
+      "utilized by",
+      "private companies"
+    ],
+    [
+      "Jupiter",
+      "involves",
+      "interplanetary exploration"
+    ],
+    [
+      "Jupiter",
+      "is a focus of",
+      "exploration legacy"
+    ],
+    [
+      "Mars exploration",
+      "advances",
+      "space technology"
+    ],
+    [
+      "Mars exploration",
+      "aims to detect",
+      "life detection"
+    ],
+    [
+      "Mars exploration",
+      "contributes to",
+      "scientific progress"
+    ],
+    [
+      "Mars exploration",
+      "enables",
+      "interplanetary exploration"
+    ],
+    [
+      "Mars exploration",
+      "enables",
+      "microgravity experiments"
+    ],
+    [
+      "Mars exploration",
+      "enables",
+      "space travel"
+    ],
+    [
+      "Mars exploration",
+      "facilitated by",
+      "reusable rockets"
+    ],
+    [
+      "Mars exploration",
+      "involves",
+      "Mars rovers"
+    ],
+    [
+      "Mars exploration",
+      "involves",
+      "rover missions"
+    ],
+    [
+      "Mars exploration",
+      "involves",
+      "space missions"
+    ],
+    [
+      "Mars exploration",
+      "is explored by",
+      "space future"
+    ],
+    [
+      "Mars exploration",
+      "opens",
+      "exploration possibilities"
+    ],
+    [
+      "Mars exploration",
+      "reflects",
+      "space exploration progress"
+    ],
+    [
+      "Mars exploration",
+      "utilizes",
+      "Perseverance rover"
+    ],
+    [
+      "Mars exploration",
+      "utilizes",
+      "space probes"
+    ],
+    [
+      "Mars missions",
+      "advances",
+      "astrobiology"
+    ],
+    [
+      "Mars missions",
+      "advances",
+      "scientific progress"
+    ],
+    [
+      "Mars missions",
+      "conducted by",
+      "rover missions"
+    ],
+    [
+      "Mars missions",
+      "conducts",
+      "Mars rovers"
+    ],
+    [
+      "Mars missions",
+      "defines",
+      "exploration goals"
+    ],
+    [
+      "Mars missions",
+      "defines",
+      "mission objectives"
+    ],
+    [
+      "Mars missions",
+      "drives",
+      "international competition"
+    ],
+    [
+      "Mars missions",
+      "drives",
+      "technological progress"
+    ],
+    [
+      "Mars missions",
+      "drives",
+      "technology advancements"
+    ],
+    [
+      "Mars missions",
+      "enables",
+      "colonization"
+    ],
+    [
+      "Mars missions",
+      "enables",
+      "human exploration"
+    ],
+    [
+      "Mars missions",
+      "facilitates",
+      "Apollo 11"
+    ],
+    [
+      "Mars missions",
+      "involves",
+      "technology testing"
+    ],
+    [
+      "Mars missions",
+      "is part of",
+      "interplanetary exploration"
+    ],
+    [
+      "Mars missions",
+      "leads to",
+      "discovery"
+    ],
+    [
+      "Mars missions",
+      "marks",
+      "operational milestones"
+    ],
+    [
+      "Mars missions",
+      "opens",
+      "future missions"
+    ],
+    [
+      "Mars missions",
+      "supports",
+      "permanent presence"
+    ],
+    [
+      "Mars rovers",
+      "achieved",
+      "operational milestones"
+    ],
+    [
+      "Mars rovers",
+      "achieved by",
+      "exploration milestones"
+    ],
+    [
+      "Mars rovers",
+      "achieved by",
+      "human presence"
+    ],
+    [
+      "Mars rovers",
+      "competes with",
+      "international competition"
+    ],
+    [
+      "Mars rovers",
+      "contributes to",
+      "astrobiology"
+    ],
+    [
+      "Mars rovers",
+      "contributes to",
+      "exploration legacy"
+    ],
+    [
+      "Mars rovers",
+      "developed from",
+      "Perseverance rover"
+    ],
+    [
+      "Mars rovers",
+      "enables",
+      "interplanetary exploration"
+    ],
+    [
+      "Mars rovers",
+      "explored by",
+      "extraterrestrial life"
+    ],
+    [
+      "Mars rovers",
+      "influenced by",
+      "moon landing"
+    ],
+    [
+      "Mars rovers",
+      "is explored by",
+      "Mars missions"
+    ],
+    [
+      "Mars rovers",
+      "searches for",
+      "habitable exoplanets"
+    ],
+    [
+      "Mars rovers",
+      "utilized by",
+      "further exploration"
+    ],
+    [
+      "NASA",
+      "achieved by",
+      "travel faster"
+    ],
+    [
+      "NASA",
+      "advances",
+      "planetary science"
+    ],
+    [
+      "NASA",
+      "advances",
+      "space colonization"
+    ],
+    [
+      "NASA",
+      "beneficiary of",
+      "scientific discoveries"
+    ],
+    [
+      "NASA",
+      "collaborates with",
+      "international cooperation"
+    ],
+    [
+      "NASA",
+      "conducted by",
+      "space probes"
+    ],
+    [
+      "NASA",
+      "conducts",
+      "Mars exploration"
+    ],
+    [
+      "NASA",
+      "conducts",
+      "human exploration"
+    ],
+    [
+      "NASA",
+      "conducts",
+      "rover missions"
+    ],
+    [
+      "NASA",
+      "conducts",
+      "scientific experiments"
+    ],
+    [
+      "NASA",
+      "conducts",
+      "technology testing"
+    ],
+    [
+      "NASA",
+      "conducts research for",
+      "solar system"
+    ],
+    [
+      "NASA",
+      "conducts research on",
+      "red planet"
+    ],
+    [
+      "NASA",
+      "contributed to",
+      "space technology development"
+    ],
+    [
+      "NASA",
+      "contributed to",
+      "spacecraft advancements"
+    ],
+    [
+      "NASA",
+      "contributes to",
+      "scientific progress"
+    ],
+    [
+      "NASA",
+      "developed by",
+      "artificial satellite"
+    ],
+    [
+      "NASA",
+      "developed by",
+      "reusable rockets"
+    ],
+    [
+      "NASA",
+      "develops",
+      "space technology"
+    ],
+    [
+      "NASA",
+      "engages in",
+      "scientific collaboration"
+    ],
+    [
+      "NASA",
+      "establishes",
+      "human presence"
+    ],
+    [
+      "NASA",
+      "explores",
+      "Jupiter"
+    ],
+    [
+      "NASA",
+      "explores",
+      "outer planets"
+    ],
+    [
+      "NASA",
+      "focuses on",
+      "astrobiology"
+    ],
+    [
+      "NASA",
+      "guides",
+      "exploration goals"
+    ],
+    [
+      "NASA",
+      "improves",
+      "space accessibility"
+    ],
+    [
+      "NASA",
+      "influenced by",
+      "Yuri Gagarin"
+    ],
+    [
+      "NASA",
+      "influenced by",
+      "space future"
+    ],
+    [
+      "NASA",
+      "influenced by",
+      "space race"
+    ],
+    [
+      "NASA",
+      "is responsible for",
+      "exploration timeline"
+    ],
+    [
+      "NASA",
+      "leads to",
+      "discovery"
+    ],
+    [
+      "NASA",
+      "operates",
+      "International Space Station"
+    ],
+    [
+      "NASA",
+      "operates",
+      "Mars rovers"
+    ],
+    [
+      "NASA",
+      "operates",
+      "Perseverance rover"
+    ],
+    [
+      "NASA",
+      "participates in",
+      "international competition"
+    ],
+    [
+      "NASA",
+      "pursues",
+      "space ambitions"
+    ],
+    [
+      "NASA",
+      "searches for",
+      "habitable exoplanets"
+    ],
+    [
+      "NASA",
+      "shaped by",
+      "space exploration timeline"
+    ],
+    [
+      "Neil Armstrong",
+      "collaborated with",
+      "Buzz Aldrin"
+    ],
+    [
+      "Neil Armstrong",
+      "contributes to",
+      "exploration legacy"
+    ],
+    [
+      "Neil Armstrong",
+      "influenced by",
+      "Mars exploration"
+    ],
+    [
+      "Perseverance rover",
+      "advances",
+      "space exploration progress"
+    ],
+    [
+      "Perseverance rover",
+      "conducted by",
+      "Mars missions"
+    ],
+    [
+      "Perseverance rover",
+      "conducted by",
+      "human exploration"
+    ],
+    [
+      "Perseverance rover",
+      "conducted by",
+      "space research"
+    ],
+    [
+      "Perseverance rover",
+      "conducts",
+      "microgravity experiments"
+    ],
+    [
+      "Perseverance rover",
+      "conducts",
+      "rover missions"
+    ],
+    [
+      "Perseverance rover",
+      "conducts experiments for",
+      "space missions"
+    ],
+    [
+      "Perseverance rover",
+      "enables",
+      "interplanetary exploration"
+    ],
+    [
+      "Perseverance rover",
+      "explored by",
+      "human presence"
+    ],
+    [
+      "Perseverance rover",
+      "explored by",
+      "space future"
+    ],
+    [
+      "Perseverance rover",
+      "is explored by",
+      "space travel"
+    ],
+    [
+      "Perseverance rover",
+      "represents",
+      "groundbreaking endeavors"
+    ],
+    [
+      "Perseverance rover",
+      "utilizes",
+      "planetary science"
+    ],
+    [
+      "Soviet Union",
+      "achieved",
+      "moon landing"
+    ],
+    [
+      "Soviet Union",
+      "achieved by",
+      "permanent presence"
+    ],
+    [
+      "Soviet Union",
+      "achieved by",
+      "space achievements"
+    ],
+    [
+      "Soviet Union",
+      "achieves",
+      "technology advancements"
+    ],
+    [
+      "Soviet Union",
+      "conducted by",
+      "orbital missions"
+    ],
+    [
+      "Soviet Union",
+      "conducts",
+      "technology testing"
+    ],
+    [
+      "Soviet Union",
+      "defines",
+      "mission objectives"
+    ],
+    [
+      "Soviet Union",
+      "developed for",
+      "space research platforms"
+    ],
+    [
+      "Soviet Union",
+      "engaged in",
+      "international competition"
+    ],
+    [
+      "Soviet Union",
+      "influences",
+      "launch costs"
+    ],
+    [
+      "Soviet Union",
+      "initiated",
+      "early spaceflight"
+    ],
+    [
+      "Soviet Union",
+      "initiated by",
+      "space endeavors"
+    ],
+    [
+      "Soviet Union",
+      "pioneered",
+      "innovation"
+    ],
+    [
+      "Soviet Union",
+      "trained Yuri Gagarin",
+      "Yuri Gagarin"
+    ],
+    [
+      "Soviet Union",
+      "was launched by",
+      "Sputnik 1"
+    ],
+    [
+      "SpaceX",
+      "achieved by",
+      "operational milestones"
+    ],
+    [
+      "SpaceX",
+      "achieves",
+      "exploration milestones"
+    ],
+    [
+      "SpaceX",
+      "collaborates with",
+      "international cooperation"
+    ],
+    [
+      "SpaceX",
+      "collaborates with",
+      "space agencies"
+    ],
+    [
+      "SpaceX",
+      "conducts",
+      "microgravity experiments"
+    ],
+    [
+      "SpaceX",
+      "conducts",
+      "space research"
+    ],
+    [
+      "SpaceX",
+      "contributes to",
+      "exploration legacy"
+    ],
+    [
+      "SpaceX",
+      "contributes to",
+      "significant advancements"
+    ],
+    [
+      "SpaceX",
+      "developed by",
+      "space technology"
+    ],
+    [
+      "SpaceX",
+      "drives",
+      "spacecraft advancements"
+    ],
+    [
+      "SpaceX",
+      "drives",
+      "technology advancements"
+    ],
+    [
+      "SpaceX",
+      "engages in",
+      "space collaboration"
+    ],
+    [
+      "SpaceX",
+      "interested in",
+      "extraterrestrial life"
+    ],
+    [
+      "SpaceX",
+      "partner of",
+      "commercial ventures"
+    ],
+    [
+      "SpaceX",
+      "plans for",
+      "future missions"
+    ],
+    [
+      "SpaceX",
+      "promises",
+      "exploration possibilities"
+    ],
+    [
+      "SpaceX",
+      "pursues",
+      "colonization"
+    ],
+    [
+      "SpaceX",
+      "pursues",
+      "space endeavors"
+    ],
+    [
+      "SpaceX",
+      "reduced",
+      "launch costs"
+    ],
+    [
+      "SpaceX",
+      "serves",
+      "private individuals"
+    ],
+    [
+      "Sputnik 1",
+      "achieved by",
+      "space achievements"
+    ],
+    [
+      "Sputnik 1",
+      "fosters",
+      "scientific collaboration"
+    ],
+    [
+      "Sputnik 1",
+      "initiated",
+      "human spaceflight"
+    ],
+    [
+      "Sputnik 1",
+      "initiated",
+      "space agencies"
+    ],
+    [
+      "Sputnik 1",
+      "initiated by",
+      "space race"
+    ],
+    [
+      "Sputnik 1",
+      "inspired by",
+      "groundbreaking endeavors"
+    ],
+    [
+      "Sputnik 1",
+      "launched Sputnik 1",
+      "Soviet Union"
+    ],
+    [
+      "Sputnik 1",
+      "marks",
+      "early spaceflight"
+    ],
+    [
+      "Sputnik 1",
+      "marks",
+      "history of exploration"
+    ],
+    [
+      "Sputnik 1",
+      "marks",
+      "space exploration progress"
+    ],
+    [
+      "Sputnik 1",
+      "marks",
+      "space history"
+    ],
+    [
+      "Sputnik 1",
+      "occurred in",
+      "mid-20th century"
+    ],
+    [
+      "Sputnik 1",
+      "pioneered",
+      "space travel"
+    ],
+    [
+      "Sputnik 1",
+      "preceded",
+      "first human"
+    ],
+    [
+      "Sputnik 1",
+      "preceded by",
+      "moons exploration"
+    ],
+    [
+      "Sputnik 1",
+      "represents",
+      "exploration milestones"
+    ],
+    [
+      "Sputnik 1",
+      "represents",
+      "innovation in space"
+    ],
+    [
+      "Voyager missions",
+      "advances",
+      "astrobiology"
+    ],
+    [
+      "Voyager missions",
+      "advances",
+      "planetary science"
+    ],
+    [
+      "Voyager missions",
+      "advances",
+      "space exploration progress"
+    ],
+    [
+      "Voyager missions",
+      "basis for",
+      "artificial satellite"
+    ],
+    [
+      "Voyager missions",
+      "compared to",
+      "Perseverance rover"
+    ],
+    [
+      "Voyager missions",
+      "contributed to",
+      "scientific progress"
+    ],
+    [
+      "Voyager missions",
+      "contributes to",
+      "space research"
+    ],
+    [
+      "Voyager missions",
+      "enhanced by",
+      "universe understanding"
+    ],
+    [
+      "Voyager missions",
+      "establishes",
+      "exploration legacy"
+    ],
+    [
+      "Voyager missions",
+      "explored by",
+      "outer planets"
+    ],
+    [
+      "Voyager missions",
+      "explored by",
+      "solar system"
+    ],
+    [
+      "Voyager missions",
+      "facilitates",
+      "scientific collaboration"
+    ],
+    [
+      "Voyager missions",
+      "influenced",
+      "Yuri Gagarin"
+    ],
+    [
+      "Voyager missions",
+      "influenced by",
+      "moons exploration"
+    ],
+    [
+      "Voyager missions",
+      "informs",
+      "orbital missions"
+    ],
+    [
+      "Voyager missions",
+      "informs",
+      "technology testing"
+    ],
+    [
+      "Voyager missions",
+      "inspired by",
+      "space achievements"
+    ],
+    [
+      "Voyager missions",
+      "involves",
+      "space agencies"
+    ],
+    [
+      "Voyager missions",
+      "leads to",
+      "discovery"
+    ],
+    [
+      "Voyager missions",
+      "marks",
+      "exploration milestones"
+    ],
+    [
+      "Voyager missions",
+      "precedes",
+      "Sputnik 1"
+    ],
+    [
+      "Voyager missions",
+      "promotes",
+      "space collaboration"
+    ],
+    [
+      "Voyager missions",
+      "serves as",
+      "space research platforms"
+    ],
+    [
+      "Voyager missions",
+      "utilized by",
+      "further exploration"
+    ],
+    [
+      "Yuri Gagarin",
+      "achieved by",
+      "exploration timeline"
+    ],
+    [
+      "Yuri Gagarin",
+      "achieved by",
+      "travel faster"
+    ],
+    [
+      "Yuri Gagarin",
+      "associated with",
+      "International Space Station"
+    ],
+    [
+      "Yuri Gagarin",
+      "contributes to",
+      "space missions"
+    ],
+    [
+      "Yuri Gagarin",
+      "focuses on",
+      "interplanetary exploration"
+    ],
+    [
+      "Yuri Gagarin",
+      "influenced by",
+      "space exploration timeline"
+    ],
+    [
+      "Yuri Gagarin",
+      "influenced by",
+      "space technology development"
+    ],
+    [
+      "Yuri Gagarin",
+      "inspired by",
+      "space race"
+    ],
+    [
+      "Yuri Gagarin",
+      "is part of",
+      "history of exploration"
+    ],
+    [
+      "Yuri Gagarin",
+      "marks",
+      "early spaceflight"
+    ],
+    [
+      "Yuri Gagarin",
+      "preceded",
+      "suborbital flights"
+    ],
+    [
+      "Yuri Gagarin",
+      "preceded by",
+      "Apollo 11"
+    ],
+    [
+      "Yuri Gagarin",
+      "represents",
+      "scientific collaboration"
+    ],
+    [
+      "Yuri Gagarin",
+      "was trained by",
+      "Soviet Union"
+    ],
+    [
+      "advanced materials",
+      "aligns with",
+      "space mission objectives"
+    ],
+    [
+      "advanced materials",
+      "developed by",
+      "NASA"
+    ],
+    [
+      "advanced materials",
+      "developed by",
+      "SpaceX"
+    ],
+    [
+      "advanced materials",
+      "enables",
+      "exploration possibilities"
+    ],
+    [
+      "advanced materials",
+      "enables",
+      "further exploration"
+    ],
+    [
+      "advanced materials",
+      "enables",
+      "microgravity experiments"
+    ],
+    [
+      "advanced materials",
+      "enables",
+      "space travel"
+    ],
+    [
+      "advanced materials",
+      "enables",
+      "spacecraft advancements"
+    ],
+    [
+      "advanced materials",
+      "enhances",
+      "interplanetary exploration"
+    ],
+    [
+      "advanced materials",
+      "enhances",
+      "space exploration progress"
+    ],
+    [
+      "advanced materials",
+      "enhances",
+      "space travel"
+    ],
+    [
+      "advanced materials",
+      "facilitates",
+      "scientific experiments"
+    ],
+    [
+      "advanced materials",
+      "facilitates",
+      "space colonization"
+    ],
+    [
+      "advanced materials",
+      "fosters",
+      "scientific collaboration"
+    ],
+    [
+      "advanced materials",
+      "is developed by",
+      "private companies"
+    ],
+    [
+      "advanced materials",
+      "is utilized by",
+      "space agencies"
+    ],
+    [
+      "advanced materials",
+      "reduces",
+      "launch costs"
+    ],
+    [
+      "advanced materials",
+      "supports",
+      "space endeavors"
+    ],
+    [
+      "advanced materials",
+      "supports",
+      "technology testing"
+    ],
+    [
+      "advanced materials",
+      "utilized by",
+      "Voyager missions"
+    ],
+    [
+      "advanced materials",
+      "utilizes",
+      "space research platforms"
+    ],
+    [
+      "artificial satellite",
+      "facilitates",
+      "space travel"
+    ],
+    [
+      "artificial satellite",
+      "initiated",
+      "space endeavors"
+    ],
+    [
+      "artificial satellite",
+      "initiated by",
+      "space technology development"
+    ],
+    [
+      "artificial satellite",
+      "inspired by",
+      "Voyager missions"
+    ],
+    [
+      "artificial satellite",
+      "launched by",
+      "orbital missions"
+    ],
+    [
+      "artificial satellite",
+      "pioneered by",
+      "space technology"
+    ],
+    [
+      "artificial satellite",
+      "represents",
+      "spacecraft advancements"
+    ],
+    [
+      "artificial satellite",
+      "serves as",
+      "mission objectives"
+    ],
+    [
+      "artificial satellite",
+      "shapes",
+      "space future"
+    ],
+    [
+      "artificial satellite",
+      "supports",
+      "space missions"
+    ],
+    [
+      "astrobiology",
+      "contributes to",
+      "significant advancements"
+    ],
+    [
+      "astrobiology",
+      "studied by",
+      "Mars rovers"
+    ],
+    [
+      "colonization",
+      "defines",
+      "exploration goals"
+    ],
+    [
+      "colonization",
+      "facilitates",
+      "technological progress"
+    ],
+    [
+      "colonization",
+      "is a factor in",
+      "significant advancements"
+    ],
+    [
+      "colonization",
+      "requires",
+      "international cooperation"
+    ],
+    [
+      "commercial ventures",
+      "achieves",
+      "operational milestones"
+    ],
+    [
+      "commercial ventures",
+      "advances",
+      "ion propulsion"
+    ],
+    [
+      "commercial ventures",
+      "drives",
+      "exploration possibilities"
+    ],
+    [
+      "commercial ventures",
+      "drives",
+      "innovation"
+    ],
+    [
+      "commercial ventures",
+      "drives",
+      "innovation in space"
+    ],
+    [
+      "commercial ventures",
+      "drives",
+      "scientific progress"
+    ],
+    [
+      "commercial ventures",
+      "drives",
+      "significant advancements"
+    ],
+    [
+      "commercial ventures",
+      "drives",
+      "space ambitions"
+    ],
+    [
+      "commercial ventures",
+      "drives",
+      "space exploration progress"
+    ],
+    [
+      "commercial ventures",
+      "drives",
+      "space technology"
+    ],
+    [
+      "commercial ventures",
+      "drives",
+      "space technology development"
+    ],
+    [
+      "commercial ventures",
+      "drives",
+      "technology advancements"
+    ],
+    [
+      "commercial ventures",
+      "enables",
+      "space colonization"
+    ],
+    [
+      "commercial ventures",
+      "enables",
+      "space endeavors"
+    ],
+    [
+      "commercial ventures",
+      "enables",
+      "spacecraft advancements"
+    ],
+    [
+      "commercial ventures",
+      "enhances",
+      "international cooperation"
+    ],
+    [
+      "commercial ventures",
+      "facilitates",
+      "scientific collaboration"
+    ],
+    [
+      "commercial ventures",
+      "increases",
+      "space accessibility"
+    ],
+    [
+      "commercial ventures",
+      "influences",
+      "history of exploration"
+    ],
+    [
+      "commercial ventures",
+      "involves",
+      "advanced materials"
+    ],
+    [
+      "commercial ventures",
+      "is part of",
+      "space missions"
+    ],
+    [
+      "commercial ventures",
+      "is supported by",
+      "International Space Station"
+    ],
+    [
+      "commercial ventures",
+      "pioneers",
+      "space pioneers"
+    ],
+    [
+      "commercial ventures",
+      "promotes",
+      "space tourism"
+    ],
+    [
+      "commercial ventures",
+      "shapes",
+      "exploration timeline"
+    ],
+    [
+      "commercial ventures",
+      "supports",
+      "space research"
+    ],
+    [
+      "discovery",
+      "conducted by",
+      "Perseverance rover"
+    ],
+    [
+      "discovery",
+      "demonstrated by",
+      "rover missions"
+    ],
+    [
+      "discovery",
+      "drives",
+      "future missions"
+    ],
+    [
+      "discovery",
+      "drives",
+      "space missions"
+    ],
+    [
+      "discovery",
+      "involves",
+      "Mars rovers"
+    ],
+    [
+      "early spaceflight",
+      "drives",
+      "innovation"
+    ],
+    [
+      "early spaceflight",
+      "enabled by",
+      "International Space Station"
+    ],
+    [
+      "early spaceflight",
+      "enables",
+      "launch costs"
+    ],
+    [
+      "early spaceflight",
+      "influenced by",
+      "space technology development"
+    ],
+    [
+      "early spaceflight",
+      "influences",
+      "commercial ventures"
+    ],
+    [
+      "early spaceflight",
+      "influences",
+      "technology advancements"
+    ],
+    [
+      "early spaceflight",
+      "informs",
+      "technology testing"
+    ],
+    [
+      "early spaceflight",
+      "paved the way for",
+      "orbital missions"
+    ],
+    [
+      "early spaceflight",
+      "paved the way for",
+      "space accessibility"
+    ],
+    [
+      "early spaceflight",
+      "precedes",
+      "space race"
+    ],
+    [
+      "early spaceflight",
+      "represents",
+      "moon landing"
+    ],
+    [
+      "early spaceflight",
+      "resulted from",
+      "orbit Earth"
+    ],
+    [
+      "early spaceflight",
+      "supports",
+      "space colonization"
+    ],
+    [
+      "exploration goals",
+      "guides",
+      "space research"
+    ],
+    [
+      "exploration goals",
+      "guides",
+      "space tourism"
+    ],
+    [
+      "exploration goals",
+      "influenced by",
+      "international cooperation"
+    ],
+    [
+      "exploration goals",
+      "informs",
+      "microgravity experiments"
+    ],
+    [
+      "exploration goals",
+      "shaped by",
+      "scientific collaboration"
+    ],
+    [
+      "exploration initiatives",
+      "advances",
+      "universe understanding"
+    ],
+    [
+      "exploration initiatives",
+      "aligns with",
+      "exploration goals"
+    ],
+    [
+      "exploration initiatives",
+      "benefits",
+      "private individuals"
+    ],
+    [
+      "exploration initiatives",
+      "drives",
+      "exploration possibilities"
+    ],
+    [
+      "exploration initiatives",
+      "drives",
+      "space ambitions"
+    ],
+    [
+      "exploration initiatives",
+      "drives",
+      "space technology"
+    ],
+    [
+      "exploration initiatives",
+      "encourages",
+      "international cooperation"
+    ],
+    [
+      "exploration initiatives",
+      "enhances",
+      "space accessibility"
+    ],
+    [
+      "exploration initiatives",
+      "focuses on",
+      "moons exploration"
+    ],
+    [
+      "exploration initiatives",
+      "fosters",
+      "innovation in space"
+    ],
+    [
+      "exploration initiatives",
+      "includes",
+      "Mars exploration"
+    ],
+    [
+      "exploration initiatives",
+      "includes",
+      "Voyager missions"
+    ],
+    [
+      "exploration initiatives",
+      "initiates",
+      "space research"
+    ],
+    [
+      "exploration initiatives",
+      "involves",
+      "NASA"
+    ],
+    [
+      "exploration initiatives",
+      "involves",
+      "ion propulsion"
+    ],
+    [
+      "exploration initiatives",
+      "is driven by",
+      "private companies"
+    ],
+    [
+      "exploration initiatives",
+      "is supported by",
+      "space technology development"
+    ],
+    [
+      "exploration initiatives",
+      "leads to",
+      "scientific discoveries"
+    ],
+    [
+      "exploration initiatives",
+      "promotes",
+      "space collaboration"
+    ],
+    [
+      "exploration initiatives",
+      "promotes",
+      "space travel"
+    ],
+    [
+      "exploration initiatives",
+      "reduces",
+      "launch costs"
+    ],
+    [
+      "exploration initiatives",
+      "strengthens",
+      "global partnerships"
+    ],
+    [
+      "exploration initiatives",
+      "supports",
+      "International Space Station"
+    ],
+    [
+      "exploration initiatives",
+      "supports",
+      "commercial ventures"
+    ],
+    [
+      "exploration initiatives",
+      "supports",
+      "space colonization"
+    ],
+    [
+      "exploration initiatives",
+      "tests",
+      "technology testing"
+    ],
+    [
+      "exploration legacy",
+      "facilitates",
+      "microgravity experiments"
+    ],
+    [
+      "exploration legacy",
+      "focuses on",
+      "habitable exoplanets"
+    ],
+    [
+      "exploration legacy",
+      "influences",
+      "exploration timeline"
+    ],
+    [
+      "exploration legacy",
+      "influences",
+      "interplanetary exploration"
+    ],
+    [
+      "exploration legacy",
+      "influences",
+      "space probes"
+    ],
+    [
+      "exploration legacy",
+      "is a legacy of",
+      "human exploration"
+    ],
+    [
+      "exploration legacy",
+      "part of",
+      "outer planets"
+    ],
+    [
+      "exploration legacy",
+      "shapes",
+      "scientific progress"
+    ],
+    [
+      "exploration legacy",
+      "shapes",
+      "space travel"
+    ],
+    [
+      "exploration legacy",
+      "shapes",
+      "spacecraft advancements"
+    ],
+    [
+      "exploration milestones",
+      "demonstrates",
+      "international cooperation"
+    ],
+    [
+      "exploration milestones",
+      "improves",
+      "space accessibility"
+    ],
+    [
+      "exploration milestones",
+      "informs",
+      "space missions"
+    ],
+    [
+      "exploration milestones",
+      "involves",
+      "Perseverance rover"
+    ],
+    [
+      "exploration milestones",
+      "marks",
+      "human presence"
+    ],
+    [
+      "exploration milestones",
+      "marks",
+      "operational milestones"
+    ],
+    [
+      "exploration milestones",
+      "marks",
+      "significant advancements"
+    ],
+    [
+      "exploration milestones",
+      "marks",
+      "space agencies"
+    ],
+    [
+      "exploration milestones",
+      "represents",
+      "exploration timeline"
+    ],
+    [
+      "exploration milestones",
+      "studies",
+      "international cooperation"
+    ],
+    [
+      "exploration milestones",
+      "supports",
+      "interplanetary exploration"
+    ],
+    [
+      "exploration milestones",
+      "supports",
+      "space accessibility"
+    ],
+    [
+      "exploration milestones",
+      "targets",
+      "outer planets"
+    ],
+    [
+      "exploration possibilities",
+      "depends on",
+      "space research"
+    ],
+    [
+      "exploration possibilities",
+      "enables",
+      "space colonization"
+    ],
+    [
+      "exploration possibilities",
+      "expands",
+      "Voyager missions"
+    ],
+    [
+      "exploration possibilities",
+      "opens",
+      "space travel"
+    ],
+    [
+      "exploration possibilities",
+      "supports",
+      "International Space Station"
+    ],
+    [
+      "exploration timeline",
+      "aids",
+      "life detection"
+    ],
+    [
+      "exploration timeline",
+      "attracts",
+      "private individuals"
+    ],
+    [
+      "exploration timeline",
+      "defines",
+      "mid-20th century"
+    ],
+    [
+      "exploration timeline",
+      "enhances",
+      "space collaboration"
+    ],
+    [
+      "exploration timeline",
+      "guides",
+      "habitable exoplanets"
+    ],
+    [
+      "exploration timeline",
+      "illustrates",
+      "space missions"
+    ],
+    [
+      "exploration timeline",
+      "includes",
+      "Mars exploration"
+    ],
+    [
+      "exploration timeline",
+      "includes",
+      "Mars missions"
+    ],
+    [
+      "exploration timeline",
+      "includes",
+      "Mars rovers"
+    ],
+    [
+      "exploration timeline",
+      "influences",
+      "scientific discoveries"
+    ],
+    [
+      "exploration timeline",
+      "informs",
+      "human exploration"
+    ],
+    [
+      "exploration timeline",
+      "informs",
+      "innovation"
+    ],
+    [
+      "exploration timeline",
+      "informs",
+      "innovation in space"
+    ],
+    [
+      "exploration timeline",
+      "informs",
+      "space probes"
+    ],
+    [
+      "exploration timeline",
+      "involves",
+      "Perseverance rover"
+    ],
+    [
+      "exploration timeline",
+      "involves",
+      "space agencies"
+    ],
+    [
+      "exploration timeline",
+      "is documented in",
+      "human presence"
+    ],
+    [
+      "exploration timeline",
+      "is influenced by",
+      "technology advancements"
+    ],
+    [
+      "exploration timeline",
+      "marks",
+      "discovery"
+    ],
+    [
+      "exploration timeline",
+      "marks",
+      "significant advancements"
+    ],
+    [
+      "exploration timeline",
+      "prepares for",
+      "future missions"
+    ],
+    [
+      "exploration timeline",
+      "promotes",
+      "scientific collaboration"
+    ],
+    [
+      "exploration timeline",
+      "supports",
+      "space research platforms"
+    ],
+    [
+      "exploration timeline",
+      "targets",
+      "Jupiter"
+    ],
+    [
+      "exploration timeline",
+      "tracks",
+      "space exploration progress"
+    ],
+    [
+      "extraterrestrial life",
+      "depends on",
+      "scientific progress"
+    ],
+    [
+      "extraterrestrial life",
+      "drives",
+      "exploration possibilities"
+    ],
+    [
+      "extraterrestrial life",
+      "investigated by",
+      "Perseverance rover"
+    ],
+    [
+      "extraterrestrial life",
+      "investigates",
+      "rover missions"
+    ],
+    [
+      "extraterrestrial life",
+      "involves",
+      "microgravity experiments"
+    ],
+    [
+      "extraterrestrial life",
+      "is searched for by",
+      "space missions"
+    ],
+    [
+      "extraterrestrial life",
+      "is studied by",
+      "planetary science"
+    ],
+    [
+      "extraterrestrial life",
+      "leads to",
+      "discovery"
+    ],
+    [
+      "extraterrestrial life",
+      "searches for",
+      "red planet"
+    ],
+    [
+      "extraterrestrial life",
+      "studied in",
+      "space research"
+    ],
+    [
+      "first human",
+      "achieved by",
+      "moon landing"
+    ],
+    [
+      "first human",
+      "contributes to",
+      "scientific progress"
+    ],
+    [
+      "first human",
+      "explored",
+      "outer planets"
+    ],
+    [
+      "first human",
+      "initiated",
+      "space race"
+    ],
+    [
+      "first human",
+      "inspired",
+      "groundbreaking endeavors"
+    ],
+    [
+      "first human",
+      "is",
+      "Neil Armstrong"
+    ],
+    [
+      "first human",
+      "marks",
+      "space achievements"
+    ],
+    [
+      "first human",
+      "recognized as",
+      "space pioneers"
+    ],
+    [
+      "further exploration",
+      "builds on",
+      "exploration legacy"
+    ],
+    [
+      "further exploration",
+      "drives",
+      "spacecraft advancements"
+    ],
+    [
+      "further exploration",
+      "enables",
+      "NASA"
+    ],
+    [
+      "further exploration",
+      "enables",
+      "interplanetary exploration"
+    ],
+    [
+      "further exploration",
+      "enables",
+      "outer planets"
+    ],
+    [
+      "further exploration",
+      "enables",
+      "space research"
+    ],
+    [
+      "further exploration",
+      "facilitated by",
+      "SpaceX"
+    ],
+    [
+      "further exploration",
+      "focuses on",
+      "astrobiology"
+    ],
+    [
+      "further exploration",
+      "focuses on",
+      "habitable exoplanets"
+    ],
+    [
+      "further exploration",
+      "includes",
+      "Mars missions"
+    ],
+    [
+      "further exploration",
+      "leads to",
+      "exploration milestones"
+    ],
+    [
+      "further exploration",
+      "requires",
+      "human exploration"
+    ],
+    [
+      "further exploration",
+      "requires",
+      "space missions"
+    ],
+    [
+      "further exploration",
+      "resulted in",
+      "significant advancements"
+    ],
+    [
+      "further exploration",
+      "targets",
+      "Jupiter"
+    ],
+    [
+      "future missions",
+      "aims at",
+      "Jupiter"
+    ],
+    [
+      "future missions",
+      "envisions",
+      "exploration possibilities"
+    ],
+    [
+      "future missions",
+      "facilitates",
+      "space travel"
+    ],
+    [
+      "future missions",
+      "includes",
+      "space missions"
+    ],
+    [
+      "future missions",
+      "influences",
+      "scientific progress"
+    ],
+    [
+      "future missions",
+      "informs",
+      "Voyager missions"
+    ],
+    [
+      "future missions",
+      "informs",
+      "exploration milestones"
+    ],
+    [
+      "future missions",
+      "involves",
+      "space probes"
+    ],
+    [
+      "future missions",
+      "is influenced by",
+      "exploration timeline"
+    ],
+    [
+      "future missions",
+      "supports",
+      "Mars rovers"
+    ],
+    [
+      "future missions",
+      "targets",
+      "Saturn"
+    ],
+    [
+      "global partnerships",
+      "advances",
+      "scientific progress"
+    ],
+    [
+      "global partnerships",
+      "aligns with",
+      "mission objectives"
+    ],
+    [
+      "global partnerships",
+      "collaborates with",
+      "space agencies"
+    ],
+    [
+      "global partnerships",
+      "drives",
+      "innovation"
+    ],
+    [
+      "global partnerships",
+      "drives",
+      "space ambitions"
+    ],
+    [
+      "global partnerships",
+      "enables",
+      "microgravity experiments"
+    ],
+    [
+      "global partnerships",
+      "enhances",
+      "exploration milestones"
+    ],
+    [
+      "global partnerships",
+      "enhances",
+      "exploration possibilities"
+    ],
+    [
+      "global partnerships",
+      "enhances",
+      "space accessibility"
+    ],
+    [
+      "global partnerships",
+      "enhances",
+      "space collaboration"
+    ],
+    [
+      "global partnerships",
+      "enhances",
+      "space endeavors"
+    ],
+    [
+      "global partnerships",
+      "facilitates",
+      "advanced materials"
+    ],
+    [
+      "global partnerships",
+      "facilitates",
+      "space missions"
+    ],
+    [
+      "global partnerships",
+      "facilitates",
+      "technology testing"
+    ],
+    [
+      "global partnerships",
+      "fosters",
+      "innovation in space"
+    ],
+    [
+      "global partnerships",
+      "fosters",
+      "international cooperation"
+    ],
+    [
+      "global partnerships",
+      "fosters",
+      "scientific collaboration"
+    ],
+    [
+      "global partnerships",
+      "influences",
+      "space history"
+    ],
+    [
+      "global partnerships",
+      "informs",
+      "exploration timeline"
+    ],
+    [
+      "global partnerships",
+      "initiated",
+      "early spaceflight"
+    ],
+    [
+      "global partnerships",
+      "partners with",
+      "SpaceX"
+    ],
+    [
+      "global partnerships",
+      "shapes",
+      "space future"
+    ],
+    [
+      "global partnerships",
+      "supports",
+      "International Space Station"
+    ],
+    [
+      "global partnerships",
+      "supports",
+      "colonization"
+    ],
+    [
+      "global partnerships",
+      "supports",
+      "human spaceflight"
+    ],
+    [
+      "global partnerships",
+      "supports",
+      "space technology"
+    ],
+    [
+      "groundbreaking endeavors",
+      "advances",
+      "astrobiology"
+    ],
+    [
+      "groundbreaking endeavors",
+      "associated with",
+      "SpaceX"
+    ],
+    [
+      "groundbreaking endeavors",
+      "culminated in",
+      "moon landing"
+    ],
+    [
+      "groundbreaking endeavors",
+      "drives",
+      "scientific progress"
+    ],
+    [
+      "groundbreaking endeavors",
+      "drives",
+      "space technology development"
+    ],
+    [
+      "groundbreaking endeavors",
+      "enables",
+      "human presence"
+    ],
+    [
+      "groundbreaking endeavors",
+      "encompasses",
+      "space travel"
+    ],
+    [
+      "groundbreaking endeavors",
+      "enhances",
+      "universe understanding"
+    ],
+    [
+      "groundbreaking endeavors",
+      "establishes",
+      "permanent presence"
+    ],
+    [
+      "groundbreaking endeavors",
+      "explores",
+      "Jupiter"
+    ],
+    [
+      "groundbreaking endeavors",
+      "focuses on",
+      "habitable exoplanets"
+    ],
+    [
+      "groundbreaking endeavors",
+      "includes",
+      "space probes"
+    ],
+    [
+      "groundbreaking endeavors",
+      "influenced by",
+      "Voyager missions"
+    ],
+    [
+      "groundbreaking endeavors",
+      "inspired by",
+      "space ambitions"
+    ],
+    [
+      "groundbreaking endeavors",
+      "involves",
+      "planetary science"
+    ],
+    [
+      "groundbreaking endeavors",
+      "is driven by",
+      "NASA"
+    ],
+    [
+      "groundbreaking endeavors",
+      "is exemplified by",
+      "Yuri Gagarin"
+    ],
+    [
+      "groundbreaking endeavors",
+      "is related to",
+      "Mars exploration"
+    ],
+    [
+      "groundbreaking endeavors",
+      "leads to",
+      "colonization"
+    ],
+    [
+      "groundbreaking endeavors",
+      "represents",
+      "scientific collaboration"
+    ],
+    [
+      "groundbreaking endeavors",
+      "resulted from",
+      "first human"
+    ],
+    [
+      "habitable exoplanets",
+      "enables",
+      "interplanetary exploration"
+    ],
+    [
+      "habitable exoplanets",
+      "informs",
+      "universe understanding"
+    ],
+    [
+      "habitable exoplanets",
+      "sought by",
+      "extraterrestrial life"
+    ],
+    [
+      "history of exploration",
+      "contextualizes",
+      "first human"
+    ],
+    [
+      "history of exploration",
+      "contextualizes",
+      "innovation in space"
+    ],
+    [
+      "history of exploration",
+      "defines",
+      "early spaceflight"
+    ],
+    [
+      "history of exploration",
+      "documented by",
+      "exploration milestones"
+    ],
+    [
+      "history of exploration",
+      "documented in",
+      "global partnerships"
+    ],
+    [
+      "history of exploration",
+      "documented in",
+      "moon missions"
+    ],
+    [
+      "history of exploration",
+      "documents",
+      "NASA"
+    ],
+    [
+      "history of exploration",
+      "documents",
+      "Voyager missions"
+    ],
+    [
+      "history of exploration",
+      "influenced by",
+      "space agencies"
+    ],
+    [
+      "history of exploration",
+      "informs",
+      "moons exploration"
+    ],
+    [
+      "history of exploration",
+      "informs",
+      "space probes"
+    ],
+    [
+      "history of exploration",
+      "informs",
+      "suborbital flights"
+    ],
+    [
+      "history of exploration",
+      "is characterized by",
+      "significant advancements"
+    ],
+    [
+      "history of exploration",
+      "is part of",
+      "space accessibility"
+    ],
+    [
+      "history of exploration",
+      "is reflected in",
+      "scientific progress"
+    ],
+    [
+      "history of exploration",
+      "records",
+      "moon landing"
+    ],
+    [
+      "history of exploration",
+      "reflects",
+      "launch costs"
+    ],
+    [
+      "history of exploration",
+      "shapes",
+      "technological progress"
+    ],
+    [
+      "human exploration",
+      "competes with",
+      "international competition"
+    ],
+    [
+      "human exploration",
+      "drives",
+      "innovation"
+    ],
+    [
+      "human exploration",
+      "drives",
+      "technology advancements"
+    ],
+    [
+      "human exploration",
+      "enables",
+      "moon landing"
+    ],
+    [
+      "human exploration",
+      "enables",
+      "space missions"
+    ],
+    [
+      "human exploration",
+      "explores",
+      "extraterrestrial life"
+    ],
+    [
+      "human exploration",
+      "includes",
+      "moon missions"
+    ],
+    [
+      "human exploration",
+      "informs",
+      "future missions"
+    ],
+    [
+      "human exploration",
+      "inspired",
+      "Voyager missions"
+    ],
+    [
+      "human exploration",
+      "led to",
+      "significant advancements"
+    ],
+    [
+      "human exploration",
+      "promotes",
+      "space tourism"
+    ],
+    [
+      "human exploration",
+      "represents",
+      "exploration milestones"
+    ],
+    [
+      "human exploration",
+      "targets",
+      "habitable exoplanets"
+    ],
+    [
+      "human presence",
+      "contributes to",
+      "scientific progress"
+    ],
+    [
+      "human presence",
+      "enables",
+      "human exploration"
+    ],
+    [
+      "human presence",
+      "enables",
+      "space travel"
+    ],
+    [
+      "human presence",
+      "facilitated by",
+      "space tourism"
+    ],
+    [
+      "human presence",
+      "informs",
+      "exploration goals"
+    ],
+    [
+      "human presence",
+      "informs",
+      "space mission objectives"
+    ],
+    [
+      "human presence",
+      "involves",
+      "technology testing"
+    ],
+    [
+      "human presence",
+      "reflects",
+      "space exploration progress"
+    ],
+    [
+      "human presence",
+      "relates to",
+      "astrobiology"
+    ],
+    [
+      "human presence",
+      "shapes",
+      "exploration legacy"
+    ],
+    [
+      "human presence",
+      "supports",
+      "moon missions"
+    ],
+    [
+      "human presence",
+      "supports",
+      "scientific research"
+    ],
+    [
+      "human presence",
+      "targets",
+      "Jupiter"
+    ],
+    [
+      "human spaceflight",
+      "depends on",
+      "space accessibility"
+    ],
+    [
+      "human spaceflight",
+      "enables",
+      "launch costs"
+    ],
+    [
+      "human spaceflight",
+      "includes",
+      "operational milestones"
+    ],
+    [
+      "human spaceflight",
+      "influenced by",
+      "Cold War"
+    ],
+    [
+      "human spaceflight",
+      "informs",
+      "space exploration timeline"
+    ],
+    [
+      "human spaceflight",
+      "involves",
+      "space agencies"
+    ],
+    [
+      "human spaceflight",
+      "preceded",
+      "early spaceflight"
+    ],
+    [
+      "human spaceflight",
+      "promotes",
+      "international cooperation"
+    ],
+    [
+      "human spaceflight",
+      "shapes",
+      "space history"
+    ],
+    [
+      "innovation",
+      "drives",
+      "Mars rovers"
+    ],
+    [
+      "innovation",
+      "drives",
+      "scientific research"
+    ],
+    [
+      "innovation",
+      "fuels",
+      "space colonization"
+    ],
+    [
+      "innovation",
+      "promotes",
+      "international cooperation"
+    ],
+    [
+      "innovation",
+      "stimulates",
+      "international competition"
+    ],
+    [
+      "innovation in space",
+      "benefits",
+      "space agencies"
+    ],
+    [
+      "innovation in space",
+      "drives",
+      "Voyager missions"
+    ],
+    [
+      "innovation in space",
+      "drives",
+      "interplanetary exploration"
+    ],
+    [
+      "innovation in space",
+      "drives",
+      "significant advancements"
+    ],
+    [
+      "innovation in space",
+      "drives",
+      "space ambitions"
+    ],
+    [
+      "innovation in space",
+      "drives",
+      "space endeavors"
+    ],
+    [
+      "innovation in space",
+      "drives",
+      "space exploration progress"
+    ],
+    [
+      "innovation in space",
+      "drives advancements in",
+      "technology advancements"
+    ],
+    [
+      "innovation in space",
+      "enables",
+      "human spaceflight"
+    ],
+    [
+      "innovation in space",
+      "fueled by",
+      "launch events"
+    ],
+    [
+      "innovation in space",
+      "is marked by",
+      "exploration milestones"
+    ],
+    [
+      "innovation in space",
+      "promotes",
+      "space colonization"
+    ],
+    [
+      "innovation in space",
+      "spurs",
+      "space race"
+    ],
+    [
+      "innovation in space",
+      "supports",
+      "space research"
+    ],
+    [
+      "innovation in space",
+      "supports",
+      "space research platforms"
+    ],
+    [
+      "international competition",
+      "competes with",
+      "orbit Earth"
+    ],
+    [
+      "international competition",
+      "competes with",
+      "orbital missions"
+    ],
+    [
+      "international competition",
+      "competes with",
+      "private companies"
+    ],
+    [
+      "international competition",
+      "defines",
+      "operational milestones"
+    ],
+    [
+      "international competition",
+      "drives",
+      "early spaceflight"
+    ],
+    [
+      "international competition",
+      "drives",
+      "human spaceflight"
+    ],
+    [
+      "international competition",
+      "drives",
+      "moon missions"
+    ],
+    [
+      "international competition",
+      "drives",
+      "scientific experiments"
+    ],
+    [
+      "international competition",
+      "drives",
+      "space colonization"
+    ],
+    [
+      "international competition",
+      "fuels",
+      "colonization"
+    ],
+    [
+      "international competition",
+      "influences",
+      "microgravity experiments"
+    ],
+    [
+      "international competition",
+      "influences",
+      "scientific collaboration"
+    ],
+    [
+      "international competition",
+      "shapes",
+      "Cold War"
+    ],
+    [
+      "international cooperation",
+      "benefits from",
+      "scientific progress"
+    ],
+    [
+      "international cooperation",
+      "enhanced by",
+      "reusable rockets"
+    ],
+    [
+      "international cooperation",
+      "facilitated by",
+      "Sputnik 1"
+    ],
+    [
+      "international cooperation",
+      "guides",
+      "exploration goals"
+    ],
+    [
+      "international cooperation",
+      "is supported by",
+      "space travel"
+    ],
+    [
+      "international cooperation",
+      "resulted from",
+      "space race"
+    ],
+    [
+      "international cooperation",
+      "supported by",
+      "International Space Station"
+    ],
+    [
+      "international cooperation",
+      "supported by",
+      "Voyager missions"
+    ],
+    [
+      "interplanetary exploration",
+      "depends on",
+      "space technology"
+    ],
+    [
+      "interplanetary exploration",
+      "influenced by",
+      "space race"
+    ],
+    [
+      "interplanetary exploration",
+      "informs",
+      "exploration timeline"
+    ],
+    [
+      "ion propulsion",
+      "advances",
+      "space exploration progress"
+    ],
+    [
+      "ion propulsion",
+      "affects",
+      "space future"
+    ],
+    [
+      "ion propulsion",
+      "aligns with",
+      "space mission objectives"
+    ],
+    [
+      "ion propulsion",
+      "contributes to",
+      "exploration legacy"
+    ],
+    [
+      "ion propulsion",
+      "contributes to",
+      "scientific discoveries"
+    ],
+    [
+      "ion propulsion",
+      "contributes to",
+      "space technology development"
+    ],
+    [
+      "ion propulsion",
+      "developed by",
+      "NASA"
+    ],
+    [
+      "ion propulsion",
+      "developed by",
+      "private companies"
+    ],
+    [
+      "ion propulsion",
+      "developed for",
+      "advanced materials"
+    ],
+    [
+      "ion propulsion",
+      "enables",
+      "Mars exploration"
+    ],
+    [
+      "ion propulsion",
+      "enables",
+      "space technology"
+    ],
+    [
+      "ion propulsion",
+      "enhances",
+      "space missions"
+    ],
+    [
+      "ion propulsion",
+      "enhances",
+      "space travel"
+    ],
+    [
+      "ion propulsion",
+      "facilitated by",
+      "travel faster"
+    ],
+    [
+      "ion propulsion",
+      "facilitates",
+      "global partnerships"
+    ],
+    [
+      "ion propulsion",
+      "facilitates",
+      "interplanetary exploration"
+    ],
+    [
+      "ion propulsion",
+      "guides",
+      "exploration goals"
+    ],
+    [
+      "ion propulsion",
+      "improves",
+      "universe understanding"
+    ],
+    [
+      "ion propulsion",
+      "informs",
+      "mission objectives"
+    ],
+    [
+      "ion propulsion",
+      "opens up",
+      "exploration possibilities"
+    ],
+    [
+      "ion propulsion",
+      "reduces",
+      "launch costs"
+    ],
+    [
+      "ion propulsion",
+      "supports",
+      "space ambitions"
+    ],
+    [
+      "ion propulsion",
+      "utilized by",
+      "International Space Station"
+    ],
+    [
+      "ion propulsion",
+      "utilized by",
+      "space agencies"
+    ],
+    [
+      "launch costs",
+      "affects",
+      "launch events"
+    ],
+    [
+      "launch costs",
+      "conducts",
+      "scientific collaboration"
+    ],
+    [
+      "launch costs",
+      "drives",
+      "scientific collaboration"
+    ],
+    [
+      "launch costs",
+      "enables",
+      "microgravity experiments"
+    ],
+    [
+      "launch costs",
+      "impacted by",
+      "Soviet Union"
+    ],
+    [
+      "launch costs",
+      "increases",
+      "artificial satellite"
+    ],
+    [
+      "launch costs",
+      "offers",
+      "microgravity experiments"
+    ],
+    [
+      "launch costs",
+      "reduces",
+      "scientific collaboration"
+    ],
+    [
+      "launch costs",
+      "reduces",
+      "space research platforms"
+    ],
+    [
+      "launch events",
+      "culminates in",
+      "moon landing"
+    ],
+    [
+      "launch events",
+      "defines",
+      "space mission objectives"
+    ],
+    [
+      "launch events",
+      "documented in",
+      "space history"
+    ],
+    [
+      "launch events",
+      "drives",
+      "innovation in space"
+    ],
+    [
+      "launch events",
+      "drives",
+      "international competition"
+    ],
+    [
+      "launch events",
+      "drives",
+      "space ambitions"
+    ],
+    [
+      "launch events",
+      "drives",
+      "space technology development"
+    ],
+    [
+      "launch events",
+      "drives",
+      "technological progress"
+    ],
+    [
+      "launch events",
+      "enables",
+      "scientific collaboration"
+    ],
+    [
+      "launch events",
+      "facilitates",
+      "space colonization"
+    ],
+    [
+      "launch events",
+      "fosters",
+      "international cooperation"
+    ],
+    [
+      "launch events",
+      "improves",
+      "space accessibility"
+    ],
+    [
+      "launch events",
+      "includes",
+      "orbital missions"
+    ],
+    [
+      "launch events",
+      "marks",
+      "operational milestones"
+    ],
+    [
+      "launch events",
+      "reflects",
+      "history of exploration"
+    ],
+    [
+      "launch events",
+      "shapes",
+      "space exploration timeline"
+    ],
+    [
+      "launch events",
+      "spurs",
+      "innovation"
+    ],
+    [
+      "life detection",
+      "advances",
+      "planetary science"
+    ],
+    [
+      "life detection",
+      "aids",
+      "Mars rovers"
+    ],
+    [
+      "life detection",
+      "aids in",
+      "first human"
+    ],
+    [
+      "life detection",
+      "conducted by",
+      "space probes"
+    ],
+    [
+      "life detection",
+      "enables",
+      "groundbreaking endeavors"
+    ],
+    [
+      "life detection",
+      "enhances",
+      "human exploration"
+    ],
+    [
+      "life detection",
+      "enhances",
+      "scientific progress"
+    ],
+    [
+      "life detection",
+      "facilitates",
+      "interplanetary exploration"
+    ],
+    [
+      "life detection",
+      "guides",
+      "future missions"
+    ],
+    [
+      "life detection",
+      "informs",
+      "exploration legacy"
+    ],
+    [
+      "life detection",
+      "investigated by",
+      "Voyager missions"
+    ],
+    [
+      "life detection",
+      "investigated through",
+      "scientific experiments"
+    ],
+    [
+      "life detection",
+      "is conducted through",
+      "space missions"
+    ],
+    [
+      "life detection",
+      "leads to",
+      "discovery"
+    ],
+    [
+      "life detection",
+      "leads to",
+      "significant advancements"
+    ],
+    [
+      "life detection",
+      "supports",
+      "scientific research"
+    ],
+    [
+      "life detection",
+      "targets",
+      "Saturn"
+    ],
+    [
+      "life detection",
+      "utilizes",
+      "Perseverance rover"
+    ],
+    [
+      "microgravity experiments",
+      "benefits from",
+      "commercial ventures"
+    ],
+    [
+      "microgravity experiments",
+      "conducted in",
+      "artificial satellite"
+    ],
+    [
+      "microgravity experiments",
+      "facilitates",
+      "launch costs"
+    ],
+    [
+      "microgravity experiments",
+      "involves",
+      "space probes"
+    ],
+    [
+      "microgravity experiments",
+      "supports",
+      "exploration goals"
+    ],
+    [
+      "microgravity experiments",
+      "supports",
+      "space colonization"
+    ],
+    [
+      "mid-20th century",
+      "drives",
+      "technological progress"
+    ],
+    [
+      "mid-20th century",
+      "emerged during",
+      "space pioneers"
+    ],
+    [
+      "mid-20th century",
+      "initiates",
+      "Mars missions"
+    ],
+    [
+      "mid-20th century",
+      "led to",
+      "technology advancements"
+    ],
+    [
+      "mid-20th century",
+      "occurred during",
+      "launch events"
+    ],
+    [
+      "mid-20th century",
+      "shaped",
+      "exploration milestones"
+    ],
+    [
+      "mission objectives",
+      "aligned with",
+      "exploration goals"
+    ],
+    [
+      "mission objectives",
+      "defined by",
+      "permanent presence"
+    ],
+    [
+      "mission objectives",
+      "defines",
+      "space tourism"
+    ],
+    [
+      "mission objectives",
+      "defines",
+      "space travel"
+    ],
+    [
+      "mission objectives",
+      "facilitates",
+      "colonization"
+    ],
+    [
+      "mission objectives",
+      "guides",
+      "exploration possibilities"
+    ],
+    [
+      "mission objectives",
+      "guides",
+      "moon missions"
+    ],
+    [
+      "mission objectives",
+      "guides",
+      "rover missions"
+    ],
+    [
+      "mission objectives",
+      "guides",
+      "space probes"
+    ],
+    [
+      "mission objectives",
+      "guides",
+      "technology advancements"
+    ],
+    [
+      "mission objectives",
+      "informed by",
+      "space technology development"
+    ],
+    [
+      "mission objectives",
+      "informs",
+      "commercial ventures"
+    ],
+    [
+      "mission objectives",
+      "involves",
+      "microgravity experiments"
+    ],
+    [
+      "mission objectives",
+      "requires",
+      "international cooperation"
+    ],
+    [
+      "mission objectives",
+      "supports",
+      "International Space Station"
+    ],
+    [
+      "mission objectives",
+      "supports",
+      "space research platforms"
+    ],
+    [
+      "moon landing",
+      "enabled",
+      "human spaceflight"
+    ],
+    [
+      "moon landing",
+      "followed by",
+      "space race"
+    ],
+    [
+      "moon landing",
+      "is a result of",
+      "moon missions"
+    ],
+    [
+      "moon landing",
+      "is a result of",
+      "space achievements"
+    ],
+    [
+      "moon landing",
+      "marks",
+      "exploration milestones"
+    ],
+    [
+      "moon landing",
+      "marks",
+      "exploration timeline"
+    ],
+    [
+      "moon landing",
+      "precedes",
+      "Yuri Gagarin"
+    ],
+    [
+      "moon landing",
+      "represents",
+      "operational milestones"
+    ],
+    [
+      "moon landing",
+      "represents",
+      "technology advancements"
+    ],
+    [
+      "moon landing",
+      "resulted from",
+      "technological progress"
+    ],
+    [
+      "moon missions",
+      "compares to",
+      "Mars missions"
+    ],
+    [
+      "moon missions",
+      "competes with",
+      "Mars rovers"
+    ],
+    [
+      "moon missions",
+      "contributes to",
+      "interplanetary exploration"
+    ],
+    [
+      "moon missions",
+      "enabled",
+      "mid-20th century"
+    ],
+    [
+      "moon missions",
+      "enables",
+      "space colonization"
+    ],
+    [
+      "moon missions",
+      "includes",
+      "solar system"
+    ],
+    [
+      "moon missions",
+      "influenced by",
+      "space exploration timeline"
+    ],
+    [
+      "moon missions",
+      "supports",
+      "human spaceflight"
+    ],
+    [
+      "moon missions",
+      "supports",
+      "orbit Earth"
+    ],
+    [
+      "moons exploration",
+      "advances",
+      "spacecraft advancements"
+    ],
+    [
+      "moons exploration",
+      "conducted by",
+      "NASA"
+    ],
+    [
+      "moons exploration",
+      "contributes to",
+      "scientific progress"
+    ],
+    [
+      "moons exploration",
+      "enables",
+      "human presence"
+    ],
+    [
+      "moons exploration",
+      "facilitates",
+      "interplanetary exploration"
+    ],
+    [
+      "moons exploration",
+      "fosters",
+      "global partnerships"
+    ],
+    [
+      "moons exploration",
+      "fosters",
+      "scientific collaboration"
+    ],
+    [
+      "moons exploration",
+      "guides",
+      "mission objectives"
+    ],
+    [
+      "moons exploration",
+      "involves",
+      "exploration timeline"
+    ],
+    [
+      "moons exploration",
+      "involves",
+      "scientific experiments"
+    ],
+    [
+      "moons exploration",
+      "involves",
+      "space research"
+    ],
+    [
+      "moons exploration",
+      "is associated with",
+      "Apollo 11"
+    ],
+    [
+      "moons exploration",
+      "leads to",
+      "scientific discoveries"
+    ],
+    [
+      "moons exploration",
+      "leads to",
+      "significant advancements"
+    ],
+    [
+      "moons exploration",
+      "opens up",
+      "exploration possibilities"
+    ],
+    [
+      "moons exploration",
+      "planned for",
+      "future missions"
+    ],
+    [
+      "moons exploration",
+      "promotes",
+      "international cooperation"
+    ],
+    [
+      "moons exploration",
+      "related to",
+      "astrobiology"
+    ],
+    [
+      "moons exploration",
+      "requires",
+      "advanced materials"
+    ],
+    [
+      "moons exploration",
+      "searches for",
+      "habitable exoplanets"
+    ],
+    [
+      "moons exploration",
+      "seeks to discover",
+      "extraterrestrial life"
+    ],
+    [
+      "moons exploration",
+      "supports",
+      "further exploration"
+    ],
+    [
+      "moons exploration",
+      "supports",
+      "human exploration"
+    ],
+    [
+      "moons exploration",
+      "supports",
+      "microgravity experiments"
+    ],
+    [
+      "moons exploration",
+      "targets",
+      "Jupiter"
+    ],
+    [
+      "moons exploration",
+      "targets",
+      "Mars missions"
+    ],
+    [
+      "moons exploration",
+      "targets",
+      "red planet"
+    ],
+    [
+      "moons exploration",
+      "utilizes",
+      "International Space Station"
+    ],
+    [
+      "operational milestones",
+      "facilitated by",
+      "international cooperation"
+    ],
+    [
+      "operational milestones",
+      "informs",
+      "exploration timeline"
+    ],
+    [
+      "operational milestones",
+      "involves",
+      "rover missions"
+    ],
+    [
+      "operational milestones",
+      "marks",
+      "early spaceflight"
+    ],
+    [
+      "operational milestones",
+      "marks",
+      "orbital missions"
+    ],
+    [
+      "orbit Earth",
+      "conducts",
+      "scientific experiments"
+    ],
+    [
+      "orbit Earth",
+      "is a component of",
+      "orbital missions"
+    ],
+    [
+      "orbit Earth",
+      "is achieved by",
+      "Soviet Union"
+    ],
+    [
+      "orbital missions",
+      "advances",
+      "human exploration"
+    ],
+    [
+      "orbital missions",
+      "advances",
+      "space technology"
+    ],
+    [
+      "orbital missions",
+      "advances",
+      "space technology development"
+    ],
+    [
+      "orbital missions",
+      "contributes to",
+      "space research"
+    ],
+    [
+      "orbital missions",
+      "defines",
+      "space mission objectives"
+    ],
+    [
+      "orbital missions",
+      "drives",
+      "innovation"
+    ],
+    [
+      "orbital missions",
+      "drives",
+      "innovation in space"
+    ],
+    [
+      "orbital missions",
+      "enables",
+      "space future"
+    ],
+    [
+      "orbital missions",
+      "enhances",
+      "universe understanding"
+    ],
+    [
+      "orbital missions",
+      "explores",
+      "moons exploration"
+    ],
+    [
+      "orbital missions",
+      "facilitates",
+      "interplanetary exploration"
+    ],
+    [
+      "orbital missions",
+      "facilitates",
+      "space collaboration"
+    ],
+    [
+      "orbital missions",
+      "fosters",
+      "global partnerships"
+    ],
+    [
+      "orbital missions",
+      "includes",
+      "space tourism"
+    ],
+    [
+      "orbital missions",
+      "is influenced by",
+      "technology advancements"
+    ],
+    [
+      "orbital missions",
+      "opens up",
+      "exploration possibilities"
+    ],
+    [
+      "orbital missions",
+      "reflects",
+      "space exploration progress"
+    ],
+    [
+      "orbital missions",
+      "supports",
+      "human presence"
+    ],
+    [
+      "orbital missions",
+      "supports",
+      "scientific research"
+    ],
+    [
+      "orbital missions",
+      "utilizes",
+      "ion propulsion"
+    ],
+    [
+      "orbital missions",
+      "utilizes",
+      "space probes"
+    ],
+    [
+      "outer planets",
+      "examined through",
+      "scientific experiments"
+    ],
+    [
+      "outer planets",
+      "informs",
+      "scientific progress"
+    ],
+    [
+      "outer planets",
+      "inspired by",
+      "exploration milestones"
+    ],
+    [
+      "outer planets",
+      "involves",
+      "human exploration"
+    ],
+    [
+      "outer planets",
+      "involves",
+      "scientific research"
+    ],
+    [
+      "outer planets",
+      "is a focus of",
+      "interplanetary exploration"
+    ],
+    [
+      "outer planets",
+      "is planned for",
+      "future missions"
+    ],
+    [
+      "outer planets",
+      "related to",
+      "astrobiology"
+    ],
+    [
+      "past life",
+      "informs",
+      "exploration legacy"
+    ],
+    [
+      "past life",
+      "relates to",
+      "exploration milestones"
+    ],
+    [
+      "past life",
+      "searches for",
+      "scientific discoveries"
+    ],
+    [
+      "permanent presence",
+      "aligns with",
+      "exploration goals"
+    ],
+    [
+      "permanent presence",
+      "contributes to",
+      "scientific progress"
+    ],
+    [
+      "permanent presence",
+      "drives",
+      "innovation in space"
+    ],
+    [
+      "permanent presence",
+      "enabled by",
+      "global partnerships"
+    ],
+    [
+      "permanent presence",
+      "enables",
+      "scientific collaboration"
+    ],
+    [
+      "permanent presence",
+      "enables",
+      "space collaboration"
+    ],
+    [
+      "permanent presence",
+      "enables",
+      "space colonization"
+    ],
+    [
+      "permanent presence",
+      "enables",
+      "space endeavors"
+    ],
+    [
+      "permanent presence",
+      "encompasses",
+      "human presence"
+    ],
+    [
+      "permanent presence",
+      "houses",
+      "International Space Station"
+    ],
+    [
+      "permanent presence",
+      "is a result of",
+      "exploration milestones"
+    ],
+    [
+      "permanent presence",
+      "leads to",
+      "colonization"
+    ],
+    [
+      "permanent presence",
+      "marks",
+      "operational milestones"
+    ],
+    [
+      "permanent presence",
+      "provides",
+      "space research platforms"
+    ],
+    [
+      "permanent presence",
+      "supports",
+      "space mission objectives"
+    ],
+    [
+      "permanent presence",
+      "tested through",
+      "technology testing"
+    ],
+    [
+      "planetary science",
+      "advances",
+      "scientific research"
+    ],
+    [
+      "planetary science",
+      "informs",
+      "Mars rovers"
+    ],
+    [
+      "planetary science",
+      "informs",
+      "astrobiology"
+    ],
+    [
+      "planetary science",
+      "leads to",
+      "significant advancements"
+    ],
+    [
+      "planetary science",
+      "studies",
+      "red planet"
+    ],
+    [
+      "planetary science",
+      "supports",
+      "rover missions"
+    ],
+    [
+      "private companies",
+      "advances",
+      "interplanetary exploration"
+    ],
+    [
+      "private companies",
+      "collaborates with",
+      "international cooperation"
+    ],
+    [
+      "private companies",
+      "collaborates with",
+      "space research"
+    ],
+    [
+      "private companies",
+      "competes with",
+      "space ambitions"
+    ],
+    [
+      "private companies",
+      "constructed by",
+      "International Space Station"
+    ],
+    [
+      "private companies",
+      "developed by",
+      "orbital missions"
+    ],
+    [
+      "private companies",
+      "developed by",
+      "space mission objectives"
+    ],
+    [
+      "private companies",
+      "develops",
+      "moons exploration"
+    ],
+    [
+      "private companies",
+      "enhances",
+      "exploration possibilities"
+    ],
+    [
+      "private companies",
+      "launches",
+      "space probes"
+    ],
+    [
+      "private companies",
+      "supported by",
+      "private individuals"
+    ],
+    [
+      "private companies",
+      "utilizes",
+      "artificial satellite"
+    ],
+    [
+      "private companies",
+      "utilizes",
+      "space technology"
+    ],
+    [
+      "private individuals",
+      "affects",
+      "launch costs"
+    ],
+    [
+      "private individuals",
+      "attracted",
+      "space race"
+    ],
+    [
+      "private individuals",
+      "benefits",
+      "groundbreaking endeavors"
+    ],
+    [
+      "private individuals",
+      "benefits",
+      "space achievements"
+    ],
+    [
+      "private individuals",
+      "benefits",
+      "space technology development"
+    ],
+    [
+      "private individuals",
+      "benefits from",
+      "space exploration progress"
+    ],
+    [
+      "private individuals",
+      "benefits from",
+      "universe understanding"
+    ],
+    [
+      "private individuals",
+      "drives",
+      "innovation"
+    ],
+    [
+      "private individuals",
+      "enables",
+      "space colonization"
+    ],
+    [
+      "private individuals",
+      "increases",
+      "space accessibility"
+    ],
+    [
+      "red planet",
+      "is a target of",
+      "exploration milestones"
+    ],
+    [
+      "red planet",
+      "is explored by",
+      "Perseverance rover"
+    ],
+    [
+      "red planet",
+      "is explored by",
+      "further exploration"
+    ],
+    [
+      "red planet",
+      "is studied by",
+      "Voyager missions"
+    ],
+    [
+      "red planet",
+      "is subject of",
+      "scientific experiments"
+    ],
+    [
+      "red planet",
+      "is targeted by",
+      "future missions"
+    ],
+    [
+      "red planet",
+      "searches for",
+      "life detection"
+    ],
+    [
+      "red planet",
+      "targets",
+      "rover missions"
+    ],
+    [
+      "reusable rockets",
+      "advances",
+      "space technology development"
+    ],
+    [
+      "reusable rockets",
+      "advances",
+      "spacecraft advancements"
+    ],
+    [
+      "reusable rockets",
+      "aligns with",
+      "mission objectives"
+    ],
+    [
+      "reusable rockets",
+      "complements",
+      "space probes"
+    ],
+    [
+      "reusable rockets",
+      "developed by",
+      "SpaceX"
+    ],
+    [
+      "reusable rockets",
+      "enables",
+      "further exploration"
+    ],
+    [
+      "reusable rockets",
+      "enables",
+      "global partnerships"
+    ],
+    [
+      "reusable rockets",
+      "enables",
+      "moons exploration"
+    ],
+    [
+      "reusable rockets",
+      "enables",
+      "orbital missions"
+    ],
+    [
+      "reusable rockets",
+      "enables",
+      "scientific experiments"
+    ],
+    [
+      "reusable rockets",
+      "enables",
+      "space tourism"
+    ],
+    [
+      "reusable rockets",
+      "enhances",
+      "Mars exploration"
+    ],
+    [
+      "reusable rockets",
+      "enhances",
+      "space accessibility"
+    ],
+    [
+      "reusable rockets",
+      "enhances",
+      "space collaboration"
+    ],
+    [
+      "reusable rockets",
+      "enhances",
+      "space exploration progress"
+    ],
+    [
+      "reusable rockets",
+      "enhances",
+      "space missions"
+    ],
+    [
+      "reusable rockets",
+      "enhances",
+      "space research"
+    ],
+    [
+      "reusable rockets",
+      "enhances",
+      "space travel"
+    ],
+    [
+      "reusable rockets",
+      "enhances",
+      "universe understanding"
+    ],
+    [
+      "reusable rockets",
+      "influences",
+      "exploration legacy"
+    ],
+    [
+      "reusable rockets",
+      "intensifies",
+      "international competition"
+    ],
+    [
+      "reusable rockets",
+      "is a type of",
+      "space technology"
+    ],
+    [
+      "reusable rockets",
+      "reduces",
+      "launch costs"
+    ],
+    [
+      "reusable rockets",
+      "represents",
+      "innovation in space"
+    ],
+    [
+      "reusable rockets",
+      "supports",
+      "International Space Station"
+    ],
+    [
+      "rover missions",
+      "demonstrates",
+      "innovation"
+    ],
+    [
+      "rover missions",
+      "informed by",
+      "scientific discoveries"
+    ],
+    [
+      "rover missions",
+      "inspired by",
+      "Apollo 11"
+    ],
+    [
+      "rover missions",
+      "inspired by",
+      "future missions"
+    ],
+    [
+      "rover missions",
+      "investigates",
+      "astrobiology"
+    ],
+    [
+      "rover missions",
+      "involves",
+      "Jupiter"
+    ],
+    [
+      "rover missions",
+      "is supported by",
+      "permanent presence"
+    ],
+    [
+      "scientific collaboration",
+      "achieves",
+      "operational milestones"
+    ],
+    [
+      "scientific collaboration",
+      "advances",
+      "space colonization"
+    ],
+    [
+      "scientific collaboration",
+      "advances",
+      "space technology"
+    ],
+    [
+      "scientific collaboration",
+      "benefits from",
+      "Voyager missions"
+    ],
+    [
+      "scientific collaboration",
+      "conducts",
+      "space technology"
+    ],
+    [
+      "scientific collaboration",
+      "contributes to",
+      "artificial satellite"
+    ],
+    [
+      "scientific collaboration",
+      "contributes to",
+      "space missions"
+    ],
+    [
+      "scientific collaboration",
+      "defines",
+      "exploration goals"
+    ],
+    [
+      "scientific collaboration",
+      "drives",
+      "innovation"
+    ],
+    [
+      "scientific collaboration",
+      "drives",
+      "significant advancements"
+    ],
+    [
+      "scientific collaboration",
+      "enables",
+      "launch costs"
+    ],
+    [
+      "scientific collaboration",
+      "enables",
+      "technology testing"
+    ],
+    [
+      "scientific collaboration",
+      "enhances",
+      "International Space Station"
+    ],
+    [
+      "scientific collaboration",
+      "enhances",
+      "exploration milestones"
+    ],
+    [
+      "scientific collaboration",
+      "enhances",
+      "space probes"
+    ],
+    [
+      "scientific collaboration",
+      "enhances",
+      "space research platforms"
+    ],
+    [
+      "scientific collaboration",
+      "enhances",
+      "spacecraft advancements"
+    ],
+    [
+      "scientific collaboration",
+      "facilitates",
+      "colonization"
+    ],
+    [
+      "scientific collaboration",
+      "facilitates",
+      "international cooperation"
+    ],
+    [
+      "scientific collaboration",
+      "facilitates",
+      "interplanetary exploration"
+    ],
+    [
+      "scientific collaboration",
+      "fosters",
+      "exploration possibilities"
+    ],
+    [
+      "scientific collaboration",
+      "fosters",
+      "space collaboration"
+    ],
+    [
+      "scientific collaboration",
+      "guides",
+      "mission objectives"
+    ],
+    [
+      "scientific collaboration",
+      "guides",
+      "space mission objectives"
+    ],
+    [
+      "scientific collaboration",
+      "promotes",
+      "space tourism"
+    ],
+    [
+      "scientific collaboration",
+      "resulted from",
+      "Sputnik 1"
+    ],
+    [
+      "scientific collaboration",
+      "supports",
+      "space travel"
+    ],
+    [
+      "scientific discoveries",
+      "advances",
+      "scientific progress"
+    ],
+    [
+      "scientific discoveries",
+      "advances",
+      "spacecraft advancements"
+    ],
+    [
+      "scientific discoveries",
+      "conducted by",
+      "NASA"
+    ],
+    [
+      "scientific discoveries",
+      "drives",
+      "space research"
+    ],
+    [
+      "scientific discoveries",
+      "enabled by",
+      "advanced materials"
+    ],
+    [
+      "scientific discoveries",
+      "enables",
+      "exploration possibilities"
+    ],
+    [
+      "scientific discoveries",
+      "enables",
+      "interplanetary exploration"
+    ],
+    [
+      "scientific discoveries",
+      "focuses on",
+      "habitable exoplanets"
+    ],
+    [
+      "scientific discoveries",
+      "influences",
+      "groundbreaking endeavors"
+    ],
+    [
+      "scientific discoveries",
+      "influences",
+      "travel faster"
+    ],
+    [
+      "scientific discoveries",
+      "leads to",
+      "life detection"
+    ],
+    [
+      "scientific discoveries",
+      "resulted from",
+      "exploration milestones"
+    ],
+    [
+      "scientific discoveries",
+      "results in",
+      "outer planets"
+    ],
+    [
+      "scientific discoveries",
+      "results in",
+      "rover missions"
+    ],
+    [
+      "scientific discoveries",
+      "results in",
+      "space travel"
+    ],
+    [
+      "scientific discoveries",
+      "shapes",
+      "exploration legacy"
+    ],
+    [
+      "scientific experiments",
+      "advances",
+      "interplanetary exploration"
+    ],
+    [
+      "scientific experiments",
+      "advances",
+      "planetary science"
+    ],
+    [
+      "scientific experiments",
+      "advances",
+      "scientific research"
+    ],
+    [
+      "scientific experiments",
+      "conducted by",
+      "artificial satellite"
+    ],
+    [
+      "scientific experiments",
+      "conducted by",
+      "private companies"
+    ],
+    [
+      "scientific experiments",
+      "conducted in",
+      "microgravity experiments"
+    ],
+    [
+      "scientific experiments",
+      "conducted on",
+      "International Space Station"
+    ],
+    [
+      "scientific experiments",
+      "conducts",
+      "Jupiter"
+    ],
+    [
+      "scientific experiments",
+      "enables",
+      "space colonization"
+    ],
+    [
+      "scientific experiments",
+      "enhanced by",
+      "universe understanding"
+    ],
+    [
+      "scientific experiments",
+      "enhances",
+      "international cooperation"
+    ],
+    [
+      "scientific experiments",
+      "expands",
+      "exploration possibilities"
+    ],
+    [
+      "scientific experiments",
+      "facilitates",
+      "space collaboration"
+    ],
+    [
+      "scientific experiments",
+      "fosters",
+      "international competition"
+    ],
+    [
+      "scientific experiments",
+      "promotes",
+      "space collaboration"
+    ],
+    [
+      "scientific experiments",
+      "supported by",
+      "innovation in space"
+    ],
+    [
+      "scientific experiments",
+      "supports",
+      "space missions"
+    ],
+    [
+      "scientific experiments",
+      "supports",
+      "space research"
+    ],
+    [
+      "scientific experiments",
+      "supports",
+      "space tourism"
+    ],
+    [
+      "scientific progress",
+      "advances",
+      "planetary science"
+    ],
+    [
+      "scientific progress",
+      "contributes to",
+      "Yuri Gagarin"
+    ],
+    [
+      "scientific progress",
+      "contributes to",
+      "private individuals"
+    ],
+    [
+      "scientific progress",
+      "drives",
+      "space ambitions"
+    ],
+    [
+      "scientific progress",
+      "drives",
+      "space exploration progress"
+    ],
+    [
+      "scientific progress",
+      "drives",
+      "space missions"
+    ],
+    [
+      "scientific progress",
+      "enables",
+      "space travel"
+    ],
+    [
+      "scientific progress",
+      "enhances",
+      "space accessibility"
+    ],
+    [
+      "scientific progress",
+      "enhances",
+      "space probes"
+    ],
+    [
+      "scientific progress",
+      "facilitates",
+      "international cooperation"
+    ],
+    [
+      "scientific progress",
+      "is a goal of",
+      "colonization"
+    ],
+    [
+      "scientific progress",
+      "is influenced by",
+      "space exploration timeline"
+    ],
+    [
+      "scientific progress",
+      "supports",
+      "interplanetary exploration"
+    ],
+    [
+      "scientific research",
+      "aligns with",
+      "exploration goals"
+    ],
+    [
+      "scientific research",
+      "enables",
+      "discovery"
+    ],
+    [
+      "scientific research",
+      "focuses on",
+      "habitable exoplanets"
+    ],
+    [
+      "scientific research",
+      "serves as",
+      "mission objectives"
+    ],
+    [
+      "scientific research",
+      "supports",
+      "astrobiology"
+    ],
+    [
+      "scientific research",
+      "supports",
+      "permanent presence"
+    ],
+    [
+      "scientific research",
+      "supports",
+      "red planet"
+    ],
+    [
+      "significant advancements",
+      "benefits from",
+      "space agencies"
+    ],
+    [
+      "significant advancements",
+      "contributed to",
+      "Yuri Gagarin"
+    ],
+    [
+      "significant advancements",
+      "contributes to",
+      "interplanetary exploration"
+    ],
+    [
+      "significant advancements",
+      "enabled",
+      "commercial ventures"
+    ],
+    [
+      "significant advancements",
+      "enabled",
+      "space accessibility"
+    ],
+    [
+      "significant advancements",
+      "enabled by",
+      "International Space Station"
+    ],
+    [
+      "significant advancements",
+      "enhanced by",
+      "universe understanding"
+    ],
+    [
+      "significant advancements",
+      "led to",
+      "Sputnik 1"
+    ],
+    [
+      "significant advancements",
+      "led to",
+      "space probes"
+    ],
+    [
+      "significant advancements",
+      "result from",
+      "space research platforms"
+    ],
+    [
+      "significant advancements",
+      "resulted from",
+      "Mars rovers"
+    ],
+    [
+      "significant advancements",
+      "resulted from",
+      "Voyager missions"
+    ],
+    [
+      "significant advancements",
+      "resulted from",
+      "discovery"
+    ],
+    [
+      "significant advancements",
+      "resulted from",
+      "rover missions"
+    ],
+    [
+      "significant advancements",
+      "resulted from",
+      "space pioneers"
+    ],
+    [
+      "significant advancements",
+      "results in",
+      "scientific discoveries"
+    ],
+    [
+      "solar system",
+      "encompasses",
+      "interplanetary exploration"
+    ],
+    [
+      "solar system",
+      "facilitates",
+      "scientific experiments"
+    ],
+    [
+      "solar system",
+      "inspired by",
+      "space pioneers"
+    ],
+    [
+      "solar system",
+      "is a focus of",
+      "habitable exoplanets"
+    ],
+    [
+      "space accessibility",
+      "enables",
+      "human spaceflight"
+    ],
+    [
+      "space accessibility",
+      "enables",
+      "interplanetary exploration"
+    ],
+    [
+      "space accessibility",
+      "enables",
+      "space achievements"
+    ],
+    [
+      "space accessibility",
+      "enables",
+      "space colonization"
+    ],
+    [
+      "space accessibility",
+      "enhances",
+      "International Space Station"
+    ],
+    [
+      "space accessibility",
+      "facilitates",
+      "technology advancements"
+    ],
+    [
+      "space accessibility",
+      "improves",
+      "artificial satellite"
+    ],
+    [
+      "space accessibility",
+      "supports",
+      "exploration goals"
+    ],
+    [
+      "space achievements",
+      "collaborates with",
+      "private individuals"
+    ],
+    [
+      "space achievements",
+      "contributes to",
+      "global partnerships"
+    ],
+    [
+      "space achievements",
+      "demonstrates",
+      "space collaboration"
+    ],
+    [
+      "space achievements",
+      "documents",
+      "history of exploration"
+    ],
+    [
+      "space achievements",
+      "drives",
+      "space ambitions"
+    ],
+    [
+      "space achievements",
+      "encompasses",
+      "human spaceflight"
+    ],
+    [
+      "space achievements",
+      "encompasses",
+      "space missions"
+    ],
+    [
+      "space achievements",
+      "enhances",
+      "universe understanding"
+    ],
+    [
+      "space achievements",
+      "facilitated by",
+      "scientific collaboration"
+    ],
+    [
+      "space achievements",
+      "facilitates",
+      "interplanetary exploration"
+    ],
+    [
+      "space achievements",
+      "includes",
+      "moon missions"
+    ],
+    [
+      "space achievements",
+      "influenced",
+      "early spaceflight"
+    ],
+    [
+      "space achievements",
+      "informs",
+      "private individuals"
+    ],
+    [
+      "space achievements",
+      "is exemplified by",
+      "groundbreaking endeavors"
+    ],
+    [
+      "space achievements",
+      "reflects",
+      "space exploration progress"
+    ],
+    [
+      "space achievements",
+      "reflects",
+      "technological progress"
+    ],
+    [
+      "space agencies",
+      "collaborates with",
+      "permanent presence"
+    ],
+    [
+      "space agencies",
+      "collaborates with",
+      "private companies"
+    ],
+    [
+      "space agencies",
+      "competes with",
+      "space race"
+    ],
+    [
+      "space agencies",
+      "conducted by",
+      "scientific experiments"
+    ],
+    [
+      "space agencies",
+      "conducts",
+      "microgravity experiments"
+    ],
+    [
+      "space agencies",
+      "develops",
+      "space probes"
+    ],
+    [
+      "space agencies",
+      "drives",
+      "innovation"
+    ],
+    [
+      "space agencies",
+      "facilitates",
+      "space colonization"
+    ],
+    [
+      "space agencies",
+      "influences",
+      "launch costs"
+    ],
+    [
+      "space agencies",
+      "is utilized by",
+      "space travel"
+    ],
+    [
+      "space agencies",
+      "managed by",
+      "mission objectives"
+    ],
+    [
+      "space agencies",
+      "shapes",
+      "space future"
+    ],
+    [
+      "space agencies",
+      "supported by",
+      "space pioneers"
+    ],
+    [
+      "space agencies",
+      "supports",
+      "scientific collaboration"
+    ],
+    [
+      "space agencies",
+      "utilizes",
+      "artificial satellite"
+    ],
+    [
+      "space ambitions",
+      "aligns with",
+      "exploration goals"
+    ],
+    [
+      "space ambitions",
+      "aligns with",
+      "space mission objectives"
+    ],
+    [
+      "space ambitions",
+      "collaborates with",
+      "space agencies"
+    ],
+    [
+      "space ambitions",
+      "drives",
+      "human spaceflight"
+    ],
+    [
+      "space ambitions",
+      "drives",
+      "international competition"
+    ],
+    [
+      "space ambitions",
+      "drives",
+      "interplanetary exploration"
+    ],
+    [
+      "space ambitions",
+      "drives",
+      "space probes"
+    ],
+    [
+      "space ambitions",
+      "enables",
+      "microgravity experiments"
+    ],
+    [
+      "space ambitions",
+      "enhances",
+      "space collaboration"
+    ],
+    [
+      "space ambitions",
+      "informs",
+      "exploration milestones"
+    ],
+    [
+      "space ambitions",
+      "informs",
+      "space research"
+    ],
+    [
+      "space ambitions",
+      "inspired",
+      "early spaceflight"
+    ],
+    [
+      "space ambitions",
+      "is driven by",
+      "technology advancements"
+    ],
+    [
+      "space ambitions",
+      "is shaped by",
+      "space history"
+    ],
+    [
+      "space ambitions",
+      "promotes",
+      "innovation"
+    ],
+    [
+      "space ambitions",
+      "provides",
+      "space research platforms"
+    ],
+    [
+      "space ambitions",
+      "reflects",
+      "space exploration progress"
+    ],
+    [
+      "space collaboration",
+      "aligns with",
+      "exploration goals"
+    ],
+    [
+      "space collaboration",
+      "collaborates with",
+      "private companies"
+    ],
+    [
+      "space collaboration",
+      "conducted in",
+      "microgravity experiments"
+    ],
+    [
+      "space collaboration",
+      "contrasts with",
+      "international competition"
+    ],
+    [
+      "space collaboration",
+      "contributes to",
+      "exploration goals"
+    ],
+    [
+      "space collaboration",
+      "enhances",
+      "exploration possibilities"
+    ],
+    [
+      "space collaboration",
+      "enhances",
+      "innovation"
+    ],
+    [
+      "space collaboration",
+      "enhances",
+      "space missions"
+    ],
+    [
+      "space collaboration",
+      "enhances",
+      "space research"
+    ],
+    [
+      "space collaboration",
+      "fosters",
+      "international cooperation"
+    ],
+    [
+      "space collaboration",
+      "influences",
+      "scientific experiments"
+    ],
+    [
+      "space collaboration",
+      "informs",
+      "history of exploration"
+    ],
+    [
+      "space collaboration",
+      "initiated",
+      "early spaceflight"
+    ],
+    [
+      "space collaboration",
+      "inspired by",
+      "space pioneers"
+    ],
+    [
+      "space collaboration",
+      "involves",
+      "space probes"
+    ],
+    [
+      "space collaboration",
+      "supports",
+      "interplanetary exploration"
+    ],
+    [
+      "space endeavors",
+      "advances",
+      "space exploration progress"
+    ],
+    [
+      "space endeavors",
+      "advances",
+      "space research"
+    ],
+    [
+      "space endeavors",
+      "aligns with",
+      "mission objectives"
+    ],
+    [
+      "space endeavors",
+      "contributes to",
+      "scientific progress"
+    ],
+    [
+      "space endeavors",
+      "enables",
+      "human spaceflight"
+    ],
+    [
+      "space endeavors",
+      "guides",
+      "space mission objectives"
+    ],
+    [
+      "space endeavors",
+      "influenced",
+      "history of exploration"
+    ],
+    [
+      "space endeavors",
+      "involves",
+      "space probes"
+    ],
+    [
+      "space endeavors",
+      "leads to",
+      "space colonization"
+    ],
+    [
+      "space endeavors",
+      "leads to",
+      "technology advancements"
+    ],
+    [
+      "space endeavors",
+      "offers",
+      "private individuals"
+    ],
+    [
+      "space endeavors",
+      "represents",
+      "significant advancements"
+    ],
+    [
+      "space exploration progress",
+      "advances",
+      "astrobiology"
+    ],
+    [
+      "space exploration progress",
+      "advances",
+      "extraterrestrial life"
+    ],
+    [
+      "space exploration progress",
+      "advances",
+      "interplanetary exploration"
+    ],
+    [
+      "space exploration progress",
+      "advances",
+      "planetary science"
+    ],
+    [
+      "space exploration progress",
+      "advances",
+      "space colonization"
+    ],
+    [
+      "space exploration progress",
+      "advances",
+      "space research"
+    ],
+    [
+      "space exploration progress",
+      "aligns with",
+      "exploration goals"
+    ],
+    [
+      "space exploration progress",
+      "contributed to",
+      "human exploration"
+    ],
+    [
+      "space exploration progress",
+      "enables",
+      "space tourism"
+    ],
+    [
+      "space exploration progress",
+      "enhances",
+      "space collaboration"
+    ],
+    [
+      "space exploration progress",
+      "facilitates",
+      "space travel"
+    ],
+    [
+      "space exploration progress",
+      "focuses on",
+      "habitable exoplanets"
+    ],
+    [
+      "space exploration progress",
+      "improves",
+      "space accessibility"
+    ],
+    [
+      "space exploration progress",
+      "influences",
+      "Mars rovers"
+    ],
+    [
+      "space exploration progress",
+      "informs",
+      "history of exploration"
+    ],
+    [
+      "space exploration progress",
+      "is focused on",
+      "Jupiter"
+    ],
+    [
+      "space exploration progress",
+      "is influenced by",
+      "international competition"
+    ],
+    [
+      "space exploration progress",
+      "is recorded in",
+      "exploration timeline"
+    ],
+    [
+      "space exploration progress",
+      "is supported by",
+      "private companies"
+    ],
+    [
+      "space exploration progress",
+      "leads to",
+      "discovery"
+    ],
+    [
+      "space exploration progress",
+      "promotes",
+      "international cooperation"
+    ],
+    [
+      "space exploration progress",
+      "represents",
+      "significant advancements"
+    ],
+    [
+      "space exploration progress",
+      "supports",
+      "International Space Station"
+    ],
+    [
+      "space exploration timeline",
+      "affects",
+      "launch costs"
+    ],
+    [
+      "space exploration timeline",
+      "chronicles",
+      "exploration milestones"
+    ],
+    [
+      "space exploration timeline",
+      "chronicles",
+      "space endeavors"
+    ],
+    [
+      "space exploration timeline",
+      "chronicles",
+      "space exploration progress"
+    ],
+    [
+      "space exploration timeline",
+      "chronicles",
+      "space missions"
+    ],
+    [
+      "space exploration timeline",
+      "documents",
+      "space history"
+    ],
+    [
+      "space exploration timeline",
+      "encourages",
+      "international cooperation"
+    ],
+    [
+      "space exploration timeline",
+      "enhances",
+      "scientific collaboration"
+    ],
+    [
+      "space exploration timeline",
+      "illustrates",
+      "space ambitions"
+    ],
+    [
+      "space exploration timeline",
+      "includes",
+      "Voyager missions"
+    ],
+    [
+      "space exploration timeline",
+      "includes",
+      "space research platforms"
+    ],
+    [
+      "space exploration timeline",
+      "involves",
+      "space agencies"
+    ],
+    [
+      "space exploration timeline",
+      "is a part of",
+      "Apollo 11"
+    ],
+    [
+      "space exploration timeline",
+      "is enhanced by",
+      "travel faster"
+    ],
+    [
+      "space exploration timeline",
+      "is part of",
+      "suborbital flights"
+    ],
+    [
+      "space exploration timeline",
+      "leads to",
+      "moons exploration"
+    ],
+    [
+      "space exploration timeline",
+      "reflects",
+      "technological progress"
+    ],
+    [
+      "space exploration timeline",
+      "shaped by",
+      "groundbreaking endeavors"
+    ],
+    [
+      "space future",
+      "drives",
+      "innovation in space"
+    ],
+    [
+      "space future",
+      "drives",
+      "international competition"
+    ],
+    [
+      "space future",
+      "drives",
+      "scientific discoveries"
+    ],
+    [
+      "space future",
+      "drives",
+      "space research"
+    ],
+    [
+      "space future",
+      "drives",
+      "spacecraft advancements"
+    ],
+    [
+      "space future",
+      "enables",
+      "interplanetary exploration"
+    ],
+    [
+      "space future",
+      "enhances",
+      "space accessibility"
+    ],
+    [
+      "space future",
+      "enhances",
+      "space collaboration"
+    ],
+    [
+      "space future",
+      "enhances",
+      "universe understanding"
+    ],
+    [
+      "space future",
+      "inspired by",
+      "space technology"
+    ],
+    [
+      "space future",
+      "involves",
+      "space tourism"
+    ],
+    [
+      "space future",
+      "opens up",
+      "further exploration"
+    ],
+    [
+      "space future",
+      "promotes",
+      "international cooperation"
+    ],
+    [
+      "space future",
+      "shapes",
+      "exploration legacy"
+    ],
+    [
+      "space future",
+      "shapes",
+      "future missions"
+    ],
+    [
+      "space future",
+      "shapes",
+      "space technology"
+    ],
+    [
+      "space history",
+      "documents",
+      "space agencies"
+    ],
+    [
+      "space history",
+      "fosters",
+      "international cooperation"
+    ],
+    [
+      "space history",
+      "influenced",
+      "moons exploration"
+    ],
+    [
+      "space history",
+      "informs",
+      "early spaceflight"
+    ],
+    [
+      "space history",
+      "informs",
+      "space missions"
+    ],
+    [
+      "space history",
+      "is a figure in",
+      "Yuri Gagarin"
+    ],
+    [
+      "space history",
+      "is documented in",
+      "exploration timeline"
+    ],
+    [
+      "space history",
+      "is informed by",
+      "space research platforms"
+    ],
+    [
+      "space history",
+      "marks",
+      "significant advancements"
+    ],
+    [
+      "space history",
+      "shaped",
+      "Voyager missions"
+    ],
+    [
+      "space history",
+      "shaped",
+      "launch costs"
+    ],
+    [
+      "space history",
+      "shapes",
+      "scientific progress"
+    ],
+    [
+      "space history",
+      "shapes",
+      "universe understanding"
+    ],
+    [
+      "space mission objectives",
+      "aims for",
+      "colonization"
+    ],
+    [
+      "space mission objectives",
+      "enables",
+      "microgravity experiments"
+    ],
+    [
+      "space mission objectives",
+      "guides",
+      "human spaceflight"
+    ],
+    [
+      "space mission objectives",
+      "guides",
+      "reusable rockets"
+    ],
+    [
+      "space mission objectives",
+      "guides",
+      "space missions"
+    ],
+    [
+      "space mission objectives",
+      "guides",
+      "space research"
+    ],
+    [
+      "space mission objectives",
+      "guides",
+      "space travel"
+    ],
+    [
+      "space mission objectives",
+      "informs",
+      "operational milestones"
+    ],
+    [
+      "space mission objectives",
+      "promotes",
+      "international cooperation"
+    ],
+    [
+      "space mission objectives",
+      "shapes",
+      "innovation"
+    ],
+    [
+      "space mission objectives",
+      "shapes",
+      "moon missions"
+    ],
+    [
+      "space mission objectives",
+      "shapes",
+      "technology advancements"
+    ],
+    [
+      "space missions",
+      "achieves",
+      "significant advancements"
+    ],
+    [
+      "space missions",
+      "aims for",
+      "space colonization"
+    ],
+    [
+      "space missions",
+      "encompasses",
+      "interplanetary exploration"
+    ],
+    [
+      "space missions",
+      "guides",
+      "mission objectives"
+    ],
+    [
+      "space missions",
+      "includes",
+      "moon missions"
+    ],
+    [
+      "space missions",
+      "includes",
+      "rover missions"
+    ],
+    [
+      "space missions",
+      "influenced",
+      "space race"
+    ],
+    [
+      "space missions",
+      "shapes",
+      "exploration legacy"
+    ],
+    [
+      "space missions",
+      "utilizes",
+      "space probes"
+    ],
+    [
+      "space pioneers",
+      "achieved by",
+      "moon landing"
+    ],
+    [
+      "space pioneers",
+      "affects",
+      "launch costs"
+    ],
+    [
+      "space pioneers",
+      "chronicles",
+      "exploration timeline"
+    ],
+    [
+      "space pioneers",
+      "conducts",
+      "space missions"
+    ],
+    [
+      "space pioneers",
+      "documents",
+      "history of exploration"
+    ],
+    [
+      "space pioneers",
+      "drives",
+      "innovation in space"
+    ],
+    [
+      "space pioneers",
+      "enabled",
+      "significant advancements"
+    ],
+    [
+      "space pioneers",
+      "enhances",
+      "universe understanding"
+    ],
+    [
+      "space pioneers",
+      "facilitates",
+      "international cooperation"
+    ],
+    [
+      "space pioneers",
+      "facilitates",
+      "interplanetary exploration"
+    ],
+    [
+      "space pioneers",
+      "improves",
+      "space accessibility"
+    ],
+    [
+      "space pioneers",
+      "initiated",
+      "space race"
+    ],
+    [
+      "space pioneers",
+      "inspired",
+      "early spaceflight"
+    ],
+    [
+      "space pioneers",
+      "inspired",
+      "launch events"
+    ],
+    [
+      "space pioneers",
+      "pioneered by",
+      "suborbital flights"
+    ],
+    [
+      "space pioneers",
+      "promotes",
+      "space collaboration"
+    ],
+    [
+      "space probes",
+      "are a result of",
+      "space ambitions"
+    ],
+    [
+      "space probes",
+      "benefits from",
+      "spacecraft advancements"
+    ],
+    [
+      "space probes",
+      "complements",
+      "moon missions"
+    ],
+    [
+      "space probes",
+      "developed by",
+      "Mars rovers"
+    ],
+    [
+      "space probes",
+      "facilitates",
+      "interplanetary exploration"
+    ],
+    [
+      "space probes",
+      "facilitates",
+      "space colonization"
+    ],
+    [
+      "space probes",
+      "includes",
+      "Perseverance rover"
+    ],
+    [
+      "space probes",
+      "investigated by",
+      "habitable exoplanets"
+    ],
+    [
+      "space probes",
+      "investigates",
+      "astrobiology"
+    ],
+    [
+      "space probes",
+      "involves",
+      "commercial ventures"
+    ],
+    [
+      "space probes",
+      "is facilitated by",
+      "exploration milestones"
+    ],
+    [
+      "space probes",
+      "preceded",
+      "Sputnik 1"
+    ],
+    [
+      "space probes",
+      "resulted from",
+      "discovery"
+    ],
+    [
+      "space probes",
+      "utilized by",
+      "Voyager missions"
+    ],
+    [
+      "space probes",
+      "utilized by",
+      "Yuri Gagarin"
+    ],
+    [
+      "space probes",
+      "utilized by",
+      "scientific discoveries"
+    ],
+    [
+      "space probes",
+      "utilized by",
+      "space accessibility"
+    ],
+    [
+      "space probes",
+      "utilizes",
+      "International Space Station"
+    ],
+    [
+      "space race",
+      "accelerates",
+      "scientific progress"
+    ],
+    [
+      "space race",
+      "defines",
+      "space history"
+    ],
+    [
+      "space race",
+      "drives",
+      "interplanetary exploration"
+    ],
+    [
+      "space race",
+      "drives",
+      "space ambitions"
+    ],
+    [
+      "space race",
+      "facilitated",
+      "international cooperation"
+    ],
+    [
+      "space race",
+      "influenced",
+      "groundbreaking endeavors"
+    ],
+    [
+      "space race",
+      "initiated by",
+      "solar system"
+    ],
+    [
+      "space race",
+      "led to",
+      "significant advancements"
+    ],
+    [
+      "space race",
+      "originates from",
+      "space exploration timeline"
+    ],
+    [
+      "space race",
+      "promotes",
+      "technological progress"
+    ],
+    [
+      "space race",
+      "resulted from",
+      "space achievements"
+    ],
+    [
+      "space race",
+      "shaped",
+      "exploration timeline"
+    ],
+    [
+      "space race",
+      "spurred",
+      "human spaceflight"
+    ],
+    [
+      "space research",
+      "benefits from",
+      "commercial ventures"
+    ],
+    [
+      "space research",
+      "benefits from",
+      "private individuals"
+    ],
+    [
+      "space research",
+      "conducts",
+      "microgravity experiments"
+    ],
+    [
+      "space research",
+      "enables",
+      "exploration possibilities"
+    ],
+    [
+      "space research",
+      "enables",
+      "space travel"
+    ],
+    [
+      "space research",
+      "guides",
+      "future missions"
+    ],
+    [
+      "space research",
+      "improves",
+      "space accessibility"
+    ],
+    [
+      "space research",
+      "promotes",
+      "international cooperation"
+    ],
+    [
+      "space research",
+      "promotes",
+      "space tourism"
+    ],
+    [
+      "space research",
+      "supports",
+      "space colonization"
+    ],
+    [
+      "space research platforms",
+      "enables",
+      "human spaceflight"
+    ],
+    [
+      "space research platforms",
+      "enables",
+      "innovation"
+    ],
+    [
+      "space research platforms",
+      "facilitated by",
+      "international cooperation"
+    ],
+    [
+      "space research platforms",
+      "facilitates",
+      "space collaboration"
+    ],
+    [
+      "space research platforms",
+      "improves",
+      "space accessibility"
+    ],
+    [
+      "space research platforms",
+      "influences",
+      "Cold War"
+    ],
+    [
+      "space research platforms",
+      "is influenced by",
+      "exploration milestones"
+    ],
+    [
+      "space research platforms",
+      "paved the way for",
+      "early spaceflight"
+    ],
+    [
+      "space research platforms",
+      "provides",
+      "space missions"
+    ],
+    [
+      "space research platforms",
+      "provides",
+      "space research"
+    ],
+    [
+      "space research platforms",
+      "supports",
+      "space future"
+    ],
+    [
+      "space research platforms",
+      "supports",
+      "space mission objectives"
+    ],
+    [
+      "space research platforms",
+      "used for",
+      "scientific experiments"
+    ],
+    [
+      "space research platforms",
+      "utilized by",
+      "SpaceX"
+    ],
+    [
+      "space research platforms",
+      "utilized by",
+      "global partnerships"
+    ],
+    [
+      "space technology",
+      "enabled by",
+      "Voyager missions"
+    ],
+    [
+      "space technology",
+      "enables",
+      "interplanetary exploration"
+    ],
+    [
+      "space technology",
+      "enables",
+      "space travel"
+    ],
+    [
+      "space technology",
+      "enhances",
+      "scientific discoveries"
+    ],
+    [
+      "space technology",
+      "guides",
+      "exploration goals"
+    ],
+    [
+      "space technology",
+      "guides",
+      "space mission objectives"
+    ],
+    [
+      "space technology",
+      "is utilized by",
+      "space agencies"
+    ],
+    [
+      "space technology",
+      "shapes",
+      "exploration legacy"
+    ],
+    [
+      "space technology",
+      "supports",
+      "space ambitions"
+    ],
+    [
+      "space technology",
+      "supports",
+      "space missions"
+    ],
+    [
+      "space technology",
+      "utilized by",
+      "Perseverance rover"
+    ],
+    [
+      "space technology",
+      "utilizes",
+      "space probes"
+    ],
+    [
+      "space technology development",
+      "advances",
+      "exploration milestones"
+    ],
+    [
+      "space technology development",
+      "advances",
+      "moons exploration"
+    ],
+    [
+      "space technology development",
+      "advances",
+      "space travel"
+    ],
+    [
+      "space technology development",
+      "drives",
+      "private companies"
+    ],
+    [
+      "space technology development",
+      "enables",
+      "exploration possibilities"
+    ],
+    [
+      "space technology development",
+      "enables",
+      "ion propulsion"
+    ],
+    [
+      "space technology development",
+      "enables",
+      "space colonization"
+    ],
+    [
+      "space technology development",
+      "enables",
+      "space missions"
+    ],
+    [
+      "space technology development",
+      "enables",
+      "space tourism"
+    ],
+    [
+      "space technology development",
+      "enhances",
+      "space exploration progress"
+    ],
+    [
+      "space technology development",
+      "facilitates",
+      "microgravity experiments"
+    ],
+    [
+      "space technology development",
+      "facilitates",
+      "scientific experiments"
+    ],
+    [
+      "space technology development",
+      "facilitates",
+      "space probes"
+    ],
+    [
+      "space technology development",
+      "guides",
+      "exploration goals"
+    ],
+    [
+      "space technology development",
+      "guides",
+      "mission objectives"
+    ],
+    [
+      "space technology development",
+      "guides",
+      "space mission objectives"
+    ],
+    [
+      "space technology development",
+      "influenced",
+      "history of exploration"
+    ],
+    [
+      "space technology development",
+      "influenced by",
+      "ion propulsion"
+    ],
+    [
+      "space technology development",
+      "inspired",
+      "space pioneers"
+    ],
+    [
+      "space technology development",
+      "leads to",
+      "innovation in space"
+    ],
+    [
+      "space technology development",
+      "leads to",
+      "spacecraft advancements"
+    ],
+    [
+      "space technology development",
+      "provides",
+      "space research platforms"
+    ],
+    [
+      "space technology development",
+      "results in",
+      "significant advancements"
+    ],
+    [
+      "space technology development",
+      "shapes",
+      "exploration timeline"
+    ],
+    [
+      "space technology development",
+      "supports",
+      "International Space Station"
+    ],
+    [
+      "space technology development",
+      "supports",
+      "space endeavors"
+    ],
+    [
+      "space technology development",
+      "was driven by",
+      "space race"
+    ],
+    [
+      "space tourism",
+      "benefits from",
+      "technology advancements"
+    ],
+    [
+      "space tourism",
+      "collaborates with",
+      "space agencies"
+    ],
+    [
+      "space tourism",
+      "contributes to",
+      "colonization"
+    ],
+    [
+      "space tourism",
+      "developed by",
+      "private companies"
+    ],
+    [
+      "space tourism",
+      "enhances",
+      "space accessibility"
+    ],
+    [
+      "space tourism",
+      "inspired",
+      "artificial satellite"
+    ],
+    [
+      "space tourism",
+      "is a potential outcome of",
+      "orbit Earth"
+    ],
+    [
+      "space tourism",
+      "is enhanced by",
+      "international cooperation"
+    ],
+    [
+      "space tourism",
+      "marks",
+      "operational milestones"
+    ],
+    [
+      "space tourism",
+      "promotes",
+      "NASA"
+    ],
+    [
+      "space tourism",
+      "promotes",
+      "space travel"
+    ],
+    [
+      "space tourism",
+      "supports",
+      "scientific research"
+    ],
+    [
+      "space travel",
+      "advances",
+      "astrobiology"
+    ],
+    [
+      "space travel",
+      "aligns with",
+      "exploration goals"
+    ],
+    [
+      "space travel",
+      "conducts",
+      "microgravity experiments"
+    ],
+    [
+      "space travel",
+      "conducts experiments for",
+      "advanced materials"
+    ],
+    [
+      "space travel",
+      "enables",
+      "private individuals"
+    ],
+    [
+      "space travel",
+      "fueled by",
+      "space race"
+    ],
+    [
+      "space travel",
+      "includes",
+      "space probes"
+    ],
+    [
+      "space travel",
+      "influences",
+      "space exploration timeline"
+    ],
+    [
+      "space travel",
+      "supports",
+      "International Space Station"
+    ],
+    [
+      "space travel",
+      "supports",
+      "solar system"
+    ],
+    [
+      "spacecraft advancements",
+      "advances",
+      "private companies"
+    ],
+    [
+      "spacecraft advancements",
+      "advances",
+      "space research"
+    ],
+    [
+      "spacecraft advancements",
+      "benefits from",
+      "SpaceX"
+    ],
+    [
+      "spacecraft advancements",
+      "developed by",
+      "space agencies"
+    ],
+    [
+      "spacecraft advancements",
+      "enables",
+      "innovation in space"
+    ],
+    [
+      "spacecraft advancements",
+      "enables",
+      "microgravity experiments"
+    ],
+    [
+      "spacecraft advancements",
+      "enables",
+      "space colonization"
+    ],
+    [
+      "spacecraft advancements",
+      "enables",
+      "space tourism"
+    ],
+    [
+      "spacecraft advancements",
+      "enhanced by",
+      "Voyager missions"
+    ],
+    [
+      "spacecraft advancements",
+      "enhances",
+      "Perseverance rover"
+    ],
+    [
+      "spacecraft advancements",
+      "enhances",
+      "international cooperation"
+    ],
+    [
+      "spacecraft advancements",
+      "guides",
+      "Perseverance rover"
+    ],
+    [
+      "spacecraft advancements",
+      "guides",
+      "space mission objectives"
+    ],
+    [
+      "spacecraft advancements",
+      "improves",
+      "space accessibility"
+    ],
+    [
+      "spacecraft advancements",
+      "supports",
+      "International Space Station"
+    ],
+    [
+      "spacecraft advancements",
+      "supports",
+      "scientific experiments"
+    ],
+    [
+      "spacecraft advancements",
+      "supports",
+      "space probes"
+    ],
+    [
+      "spacecraft advancements",
+      "utilizes",
+      "Perseverance rover"
+    ],
+    [
+      "suborbital flights",
+      "drives",
+      "innovation"
+    ],
+    [
+      "suborbital flights",
+      "enables",
+      "human spaceflight"
+    ],
+    [
+      "suborbital flights",
+      "enables",
+      "permanent presence"
+    ],
+    [
+      "suborbital flights",
+      "enables",
+      "space technology development"
+    ],
+    [
+      "suborbital flights",
+      "facilitates",
+      "orbital missions"
+    ],
+    [
+      "suborbital flights",
+      "facilitates",
+      "scientific collaboration"
+    ],
+    [
+      "suborbital flights",
+      "facilitates",
+      "technology testing"
+    ],
+    [
+      "suborbital flights",
+      "fuels",
+      "international competition"
+    ],
+    [
+      "suborbital flights",
+      "guides",
+      "space colonization"
+    ],
+    [
+      "suborbital flights",
+      "increases",
+      "space accessibility"
+    ],
+    [
+      "suborbital flights",
+      "is utilized by",
+      "International Space Station"
+    ],
+    [
+      "suborbital flights",
+      "supports",
+      "space ambitions"
+    ],
+    [
+      "suborbital flights",
+      "supports",
+      "space colonization"
+    ],
+    [
+      "technological progress",
+      "contributes to",
+      "moon missions"
+    ],
+    [
+      "technological progress",
+      "contributes to",
+      "scientific progress"
+    ],
+    [
+      "technological progress",
+      "contributes to",
+      "technology advancements"
+    ],
+    [
+      "technological progress",
+      "drives",
+      "groundbreaking endeavors"
+    ],
+    [
+      "technological progress",
+      "enabled",
+      "moon landing"
+    ],
+    [
+      "technological progress",
+      "enables",
+      "Mars rovers"
+    ],
+    [
+      "technological progress",
+      "shapes",
+      "space history"
+    ],
+    [
+      "technological progress",
+      "supports",
+      "human exploration"
+    ],
+    [
+      "technology advancements",
+      "enables",
+      "human exploration"
+    ],
+    [
+      "technology advancements",
+      "enables",
+      "space colonization"
+    ],
+    [
+      "technology advancements",
+      "informs",
+      "exploration goals"
+    ],
+    [
+      "technology advancements",
+      "supports",
+      "International Space Station"
+    ],
+    [
+      "technology advancements",
+      "supports",
+      "colonization"
+    ],
+    [
+      "technology advancements",
+      "supports",
+      "scientific research"
+    ],
+    [
+      "technology advancements",
+      "supports advancements in",
+      "space research platforms"
+    ],
+    [
+      "technology testing",
+      "advances",
+      "technology advancements"
+    ],
+    [
+      "technology testing",
+      "aligns with",
+      "mission objectives"
+    ],
+    [
+      "technology testing",
+      "aligns with",
+      "space mission objectives"
+    ],
+    [
+      "technology testing",
+      "defines",
+      "early spaceflight"
+    ],
+    [
+      "technology testing",
+      "enables",
+      "space colonization"
+    ],
+    [
+      "technology testing",
+      "enhanced by",
+      "universe understanding"
+    ],
+    [
+      "technology testing",
+      "evaluated through",
+      "innovation in space"
+    ],
+    [
+      "technology testing",
+      "facilitates",
+      "microgravity experiments"
+    ],
+    [
+      "technology testing",
+      "facilitates",
+      "rover missions"
+    ],
+    [
+      "technology testing",
+      "improves",
+      "space accessibility"
+    ],
+    [
+      "technology testing",
+      "improves",
+      "spacecraft advancements"
+    ],
+    [
+      "technology testing",
+      "intensifies",
+      "international competition"
+    ],
+    [
+      "technology testing",
+      "involves",
+      "Mars rovers"
+    ],
+    [
+      "technology testing",
+      "involves",
+      "space probes"
+    ],
+    [
+      "technology testing",
+      "is essential for",
+      "human spaceflight"
+    ],
+    [
+      "technology testing",
+      "is evaluated through",
+      "space exploration progress"
+    ],
+    [
+      "technology testing",
+      "performed on",
+      "International Space Station"
+    ],
+    [
+      "technology testing",
+      "pioneered",
+      "early spaceflight"
+    ],
+    [
+      "technology testing",
+      "promotes",
+      "space collaboration"
+    ],
+    [
+      "technology testing",
+      "supports",
+      "colonization"
+    ],
+    [
+      "technology testing",
+      "supports",
+      "scientific research"
+    ],
+    [
+      "technology testing",
+      "supports",
+      "space agencies"
+    ],
+    [
+      "technology testing",
+      "supports",
+      "space ambitions"
+    ],
+    [
+      "technology testing",
+      "tests",
+      "exploration possibilities"
+    ],
+    [
+      "travel faster",
+      "enables",
+      "Perseverance rover"
+    ],
+    [
+      "travel faster",
+      "enables",
+      "artificial satellite"
+    ],
+    [
+      "travel faster",
+      "enables",
+      "exploration possibilities"
+    ],
+    [
+      "travel faster",
+      "enables",
+      "further exploration"
+    ],
+    [
+      "travel faster",
+      "enables",
+      "future missions"
+    ],
+    [
+      "travel faster",
+      "enables",
+      "reusable rockets"
+    ],
+    [
+      "travel faster",
+      "enables",
+      "space missions"
+    ],
+    [
+      "travel faster",
+      "enables",
+      "space travel"
+    ],
+    [
+      "travel faster",
+      "enhances",
+      "space probes"
+    ],
+    [
+      "travel faster",
+      "facilitates",
+      "advanced materials"
+    ],
+    [
+      "travel faster",
+      "facilitates",
+      "interplanetary exploration"
+    ],
+    [
+      "travel faster",
+      "improves",
+      "microgravity experiments"
+    ],
+    [
+      "travel faster",
+      "utilized by",
+      "Voyager missions"
+    ],
+    [
+      "universe understanding",
+      "aids in",
+      "life detection"
+    ],
+    [
+      "universe understanding",
+      "enhances",
+      "human exploration"
+    ],
+    [
+      "universe understanding",
+      "enhances",
+      "space colonization"
+    ],
+    [
+      "universe understanding",
+      "enhances",
+      "space missions"
+    ],
+    [
+      "universe understanding",
+      "enhances",
+      "space research"
+    ],
+    [
+      "universe understanding",
+      "enhances",
+      "spacecraft advancements"
+    ],
+    [
+      "universe understanding",
+      "enhances understanding of",
+      "solar system"
+    ],
+    [
+      "universe understanding",
+      "influenced by",
+      "space race"
+    ],
+    [
+      "universe understanding",
+      "informs",
+      "future missions"
+    ],
+    [
+      "universe understanding",
+      "informs",
+      "moon missions"
+    ],
+    [
+      "universe understanding",
+      "is shaped by",
+      "exploration milestones"
+    ],
+    [
+      "universe understanding",
+      "is supported by",
+      "space agencies"
+    ],
+    [
+      "universe understanding",
+      "leads to",
+      "discovery"
+    ]
+  ],
+  "edges": [
+    "accelerates",
+    "achieved",
+    "achieved by",
+    "achieves",
+    "advances",
+    "affects",
+    "aids",
+    "aids in",
+    "aims at",
+    "aims for",
+    "aims to detect",
+    "aligned with",
+    "aligns with",
+    "are a result of",
+    "associated with",
+    "attracted",
+    "attracts",
+    "basis for",
+    "beneficiary of",
+    "benefits",
+    "benefits from",
+    "builds on",
+    "chronicles",
+    "collaborated with",
+    "collaborates with",
+    "compared to",
+    "compares to",
+    "competes with",
+    "complements",
+    "conducted by",
+    "conducted in",
+    "conducted on",
+    "conducts",
+    "conducts experiments for",
+    "conducts research for",
+    "conducts research on",
+    "constructed by",
+    "constructed from",
+    "contextualizes",
+    "contrasts with",
+    "contributed to",
+    "contributes to",
+    "culminated in",
+    "culminates in",
+    "defined by",
+    "defines",
+    "demonstrated by",
+    "demonstrates",
+    "depends on",
+    "developed by",
+    "developed for",
+    "developed from",
+    "develops",
+    "documented by",
+    "documented in",
+    "documents",
+    "drives",
+    "drives advancements in",
+    "emerged during",
+    "enabled",
+    "enabled by",
+    "enables",
+    "encompasses",
+    "encourages",
+    "engaged in",
+    "engages in",
+    "enhanced by",
+    "enhances",
+    "enhances understanding of",
+    "envisions",
+    "establishes",
+    "evaluated through",
+    "examined through",
+    "expands",
+    "explored",
+    "explored by",
+    "explores",
+    "facilitated",
+    "facilitated by",
+    "facilitates",
+    "focuses on",
+    "followed by",
+    "fosters",
+    "fueled by",
+    "fuels",
+    "guides",
+    "houses",
+    "illustrates",
+    "impacted by",
+    "improves",
+    "includes",
+    "increases",
+    "influenced",
+    "influenced by",
+    "influences",
+    "informed by",
+    "informs",
+    "initiated",
+    "initiated by",
+    "initiates",
+    "inspired",
+    "inspired by",
+    "intensifies",
+    "interested in",
+    "investigated by",
+    "investigated through",
+    "investigates",
+    "involved with",
+    "involves",
+    "is",
+    "is a component of",
+    "is a factor in",
+    "is a figure in",
+    "is a focus of",
+    "is a goal of",
+    "is a legacy of",
+    "is a part of",
+    "is a potential outcome of",
+    "is a result of",
+    "is a target of",
+    "is a type of",
+    "is achieved by",
+    "is associated with",
+    "is characterized by",
+    "is conducted through",
+    "is developed by",
+    "is documented in",
+    "is driven by",
+    "is enhanced by",
+    "is essential for",
+    "is evaluated through",
+    "is exemplified by",
+    "is explored by",
+    "is facilitated by",
+    "is focused on",
+    "is influenced by",
+    "is informed by",
+    "is marked by",
+    "is part of",
+    "is planned for",
+    "is recorded in",
+    "is reflected in",
+    "is related to",
+    "is responsible for",
+    "is searched for by",
+    "is shaped by",
+    "is studied by",
+    "is subject of",
+    "is supported by",
+    "is targeted by",
+    "is utilized by",
+    "launched Sputnik 1",
+    "launched by",
+    "launches",
+    "leads to",
+    "led to",
+    "managed by",
+    "marks",
+    "occurred during",
+    "occurred in",
+    "offers",
+    "opens",
+    "opens up",
+    "operates",
+    "originates from",
+    "part of",
+    "participates in",
+    "partner of",
+    "partners with",
+    "paved the way for",
+    "performed on",
+    "pioneered",
+    "pioneered by",
+    "pioneers",
+    "planned for",
+    "plans for",
+    "preceded",
+    "preceded by",
+    "precedes",
+    "prepares for",
+    "promises",
+    "promotes",
+    "provides",
+    "pursues",
+    "recognized as",
+    "records",
+    "reduced",
+    "reduces",
+    "reflects",
+    "related to",
+    "relates to",
+    "represents",
+    "requires",
+    "result from",
+    "resulted from",
+    "resulted in",
+    "results in",
+    "searches for",
+    "seeks to discover",
+    "serves",
+    "serves as",
+    "sets",
+    "shaped",
+    "shaped by",
+    "shapes",
+    "sought by",
+    "spurred",
+    "spurs",
+    "stimulates",
+    "strengthens",
+    "studied by",
+    "studied in",
+    "studies",
+    "supported by",
+    "supports",
+    "supports advancements in",
+    "targets",
+    "tested through",
+    "tests",
+    "tracks",
+    "trained Yuri Gagarin",
+    "used for",
+    "utilized by",
+    "utilizes",
+    "was driven by",
+    "was launched by",
+    "was trained by"
+  ]
+}

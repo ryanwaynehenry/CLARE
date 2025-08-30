@@ -1,0 +1,4903 @@
+{
+  "entities": [
+    "20th century",
+    "Cold War",
+    "Egyptians",
+    "Greeks",
+    "Industrial Revolution",
+    "Renaissance era",
+    "Romans",
+    "World Wars",
+    "adaptation",
+    "advancements",
+    "aircraft",
+    "ancient civilizations",
+    "ancient times",
+    "artificial intelligence",
+    "autonomous robots",
+    "battlefield",
+    "battles",
+    "bow and arrow",
+    "breech-loading mechanisms",
+    "cannons",
+    "catapults",
+    "conflicts",
+    "cyber warfare",
+    "decline of tactics",
+    "directed energy weapons",
+    "drones",
+    "effectiveness",
+    "emerging technologies",
+    "engineering",
+    "evolution",
+    "firearms",
+    "fortified cities",
+    "geopolitical landscape",
+    "gunpowder",
+    "hypersonic missiles",
+    "innovation",
+    "long-range combat",
+    "mass production",
+    "medieval warfare",
+    "metallurgy",
+    "military advantage",
+    "military strategies",
+    "military superiority",
+    "military technology",
+    "missiles",
+    "modern archery",
+    "modern era",
+    "nuclear weapons",
+    "precision strikes",
+    "real-time intelligence",
+    "repeating firearms",
+    "rifled barrels",
+    "siege weapons",
+    "sophisticated weapons",
+    "submarines",
+    "tanks",
+    "technological edge",
+    "traditional tactics",
+    "trebuchets",
+    "unmanned aerial vehicles"
+  ],
+  "relations": [
+    [
+      "20th century",
+      "characterized by",
+      "military technology"
+    ],
+    [
+      "20th century",
+      "characterized by",
+      "modern era"
+    ],
+    [
+      "20th century",
+      "developed during",
+      "cannons"
+    ],
+    [
+      "20th century",
+      "developed during",
+      "catapults"
+    ],
+    [
+      "20th century",
+      "developed during",
+      "directed energy weapons"
+    ],
+    [
+      "20th century",
+      "developed during",
+      "rifled barrels"
+    ],
+    [
+      "20th century",
+      "developed from",
+      "nuclear weapons"
+    ],
+    [
+      "20th century",
+      "drives",
+      "artificial intelligence"
+    ],
+    [
+      "20th century",
+      "employed in",
+      "fortified cities"
+    ],
+    [
+      "20th century",
+      "enabled by",
+      "precision strikes"
+    ],
+    [
+      "20th century",
+      "influenced by",
+      "engineering"
+    ],
+    [
+      "20th century",
+      "introduced",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "20th century",
+      "introduced by",
+      "autonomous robots"
+    ],
+    [
+      "20th century",
+      "produced by",
+      "sophisticated weapons"
+    ],
+    [
+      "20th century",
+      "produced during",
+      "repeating firearms"
+    ],
+    [
+      "20th century",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "20th century",
+      "resulted from",
+      "mass production"
+    ],
+    [
+      "20th century",
+      "shaped",
+      "geopolitical landscape"
+    ],
+    [
+      "20th century",
+      "shaped by",
+      "battles"
+    ],
+    [
+      "20th century",
+      "transformed by",
+      "long-range combat"
+    ],
+    [
+      "Cold War",
+      "characterized",
+      "20th century"
+    ],
+    [
+      "Cold War",
+      "competes with",
+      "cyber warfare"
+    ],
+    [
+      "Cold War",
+      "developed",
+      "submarines"
+    ],
+    [
+      "Cold War",
+      "developed during",
+      "directed energy weapons"
+    ],
+    [
+      "Cold War",
+      "developed during",
+      "hypersonic missiles"
+    ],
+    [
+      "Cold War",
+      "developed during",
+      "missiles"
+    ],
+    [
+      "Cold War",
+      "drives",
+      "evolution"
+    ],
+    [
+      "Cold War",
+      "drives",
+      "mass production"
+    ],
+    [
+      "Cold War",
+      "enabled",
+      "precision strikes"
+    ],
+    [
+      "Cold War",
+      "influenced",
+      "military technology"
+    ],
+    [
+      "Cold War",
+      "influenced by",
+      "aircraft"
+    ],
+    [
+      "Cold War",
+      "influenced by",
+      "autonomous robots"
+    ],
+    [
+      "Cold War",
+      "influenced by",
+      "decline of tactics"
+    ],
+    [
+      "Cold War",
+      "influenced by",
+      "engineering"
+    ],
+    [
+      "Cold War",
+      "influenced by",
+      "real-time intelligence"
+    ],
+    [
+      "Cold War",
+      "influenced by",
+      "sophisticated weapons"
+    ],
+    [
+      "Cold War",
+      "influenced by",
+      "tanks"
+    ],
+    [
+      "Cold War",
+      "influenced by",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "Cold War",
+      "spurred",
+      "innovation"
+    ],
+    [
+      "Cold War",
+      "transformed by",
+      "battlefield"
+    ],
+    [
+      "Egyptians",
+      "attacked by",
+      "fortified cities"
+    ],
+    [
+      "Egyptians",
+      "developed",
+      "military strategies"
+    ],
+    [
+      "Egyptians",
+      "developed",
+      "trebuchets"
+    ],
+    [
+      "Egyptians",
+      "developed by",
+      "bow and arrow"
+    ],
+    [
+      "Egyptians",
+      "developed by",
+      "breech-loading mechanisms"
+    ],
+    [
+      "Egyptians",
+      "developed by",
+      "firearms"
+    ],
+    [
+      "Egyptians",
+      "developed by",
+      "military technology"
+    ],
+    [
+      "Egyptians",
+      "developed by",
+      "sophisticated weapons"
+    ],
+    [
+      "Egyptians",
+      "engaged in",
+      "conflicts"
+    ],
+    [
+      "Egyptians",
+      "fought by",
+      "battles"
+    ],
+    [
+      "Egyptians",
+      "influenced by",
+      "adaptation"
+    ],
+    [
+      "Egyptians",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "Egyptians",
+      "utilized by",
+      "aircraft"
+    ],
+    [
+      "Egyptians",
+      "utilized by",
+      "cannons"
+    ],
+    [
+      "Egyptians",
+      "utilizes",
+      "precision strikes"
+    ],
+    [
+      "Greeks",
+      "achieved through",
+      "military advantage"
+    ],
+    [
+      "Greeks",
+      "attacked by",
+      "fortified cities"
+    ],
+    [
+      "Greeks",
+      "demonstrated by",
+      "effectiveness"
+    ],
+    [
+      "Greeks",
+      "developed by",
+      "firearms"
+    ],
+    [
+      "Greeks",
+      "engaged in",
+      "conflicts"
+    ],
+    [
+      "Greeks",
+      "influenced",
+      "aircraft"
+    ],
+    [
+      "Greeks",
+      "influenced by",
+      "World Wars"
+    ],
+    [
+      "Greeks",
+      "influenced by",
+      "adaptation"
+    ],
+    [
+      "Greeks",
+      "sought by",
+      "missiles"
+    ],
+    [
+      "Greeks",
+      "sought by",
+      "technological edge"
+    ],
+    [
+      "Greeks",
+      "used by",
+      "cannons"
+    ],
+    [
+      "Greeks",
+      "utilized by",
+      "metallurgy"
+    ],
+    [
+      "Greeks",
+      "utilized by",
+      "military technology"
+    ],
+    [
+      "Greeks",
+      "utilized by",
+      "traditional tactics"
+    ],
+    [
+      "Greeks",
+      "utilizes",
+      "drones"
+    ],
+    [
+      "Greeks",
+      "utilizes",
+      "precision strikes"
+    ],
+    [
+      "Industrial Revolution",
+      "changed",
+      "medieval warfare"
+    ],
+    [
+      "Industrial Revolution",
+      "driven by",
+      "emerging technologies"
+    ],
+    [
+      "Industrial Revolution",
+      "drives",
+      "adaptation"
+    ],
+    [
+      "Industrial Revolution",
+      "drives",
+      "artificial intelligence"
+    ],
+    [
+      "Industrial Revolution",
+      "drives",
+      "conflicts"
+    ],
+    [
+      "Industrial Revolution",
+      "drives",
+      "cyber warfare"
+    ],
+    [
+      "Industrial Revolution",
+      "drives",
+      "firearms"
+    ],
+    [
+      "Industrial Revolution",
+      "drives",
+      "innovation"
+    ],
+    [
+      "Industrial Revolution",
+      "enabled",
+      "mass production"
+    ],
+    [
+      "Industrial Revolution",
+      "enabled",
+      "metallurgy"
+    ],
+    [
+      "Industrial Revolution",
+      "enabled by",
+      "breech-loading mechanisms"
+    ],
+    [
+      "Industrial Revolution",
+      "enabled by",
+      "military advantage"
+    ],
+    [
+      "Industrial Revolution",
+      "enabled by",
+      "precision strikes"
+    ],
+    [
+      "Industrial Revolution",
+      "enabled by",
+      "rifled barrels"
+    ],
+    [
+      "Industrial Revolution",
+      "enabled by",
+      "siege weapons"
+    ],
+    [
+      "Industrial Revolution",
+      "enabled by",
+      "submarines"
+    ],
+    [
+      "Industrial Revolution",
+      "enabled development of",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "Industrial Revolution",
+      "enables",
+      "autonomous robots"
+    ],
+    [
+      "Industrial Revolution",
+      "enhances",
+      "effectiveness"
+    ],
+    [
+      "Industrial Revolution",
+      "influenced",
+      "military strategies"
+    ],
+    [
+      "Industrial Revolution",
+      "influenced by",
+      "catapults"
+    ],
+    [
+      "Industrial Revolution",
+      "influenced by",
+      "long-range combat"
+    ],
+    [
+      "Industrial Revolution",
+      "influenced by",
+      "real-time intelligence"
+    ],
+    [
+      "Industrial Revolution",
+      "influences",
+      "geopolitical landscape"
+    ],
+    [
+      "Industrial Revolution",
+      "led to",
+      "advancements"
+    ],
+    [
+      "Industrial Revolution",
+      "led to",
+      "directed energy weapons"
+    ],
+    [
+      "Industrial Revolution",
+      "led to",
+      "gunpowder"
+    ],
+    [
+      "Industrial Revolution",
+      "led to",
+      "nuclear weapons"
+    ],
+    [
+      "Industrial Revolution",
+      "led to advancements in",
+      "military technology"
+    ],
+    [
+      "Industrial Revolution",
+      "preceded",
+      "20th century"
+    ],
+    [
+      "Industrial Revolution",
+      "produced",
+      "cannons"
+    ],
+    [
+      "Industrial Revolution",
+      "produced by",
+      "sophisticated weapons"
+    ],
+    [
+      "Industrial Revolution",
+      "provides",
+      "technological edge"
+    ],
+    [
+      "Industrial Revolution",
+      "resulted from",
+      "aircraft"
+    ],
+    [
+      "Industrial Revolution",
+      "shaped",
+      "World Wars"
+    ],
+    [
+      "Industrial Revolution",
+      "transformed by",
+      "ancient times"
+    ],
+    [
+      "Industrial Revolution",
+      "transforms",
+      "battlefield"
+    ],
+    [
+      "Industrial Revolution",
+      "was advanced by",
+      "Egyptians"
+    ],
+    [
+      "Renaissance era",
+      "associated with",
+      "tanks"
+    ],
+    [
+      "Renaissance era",
+      "characterized",
+      "cannons"
+    ],
+    [
+      "Renaissance era",
+      "developed during",
+      "breech-loading mechanisms"
+    ],
+    [
+      "Renaissance era",
+      "developed during",
+      "rifled barrels"
+    ],
+    [
+      "Renaissance era",
+      "developed during",
+      "siege weapons"
+    ],
+    [
+      "Renaissance era",
+      "influenced by",
+      "battles"
+    ],
+    [
+      "Renaissance era",
+      "influenced by",
+      "catapults"
+    ],
+    [
+      "Renaissance era",
+      "influenced by",
+      "metallurgy"
+    ],
+    [
+      "Renaissance era",
+      "influenced by",
+      "military superiority"
+    ],
+    [
+      "Renaissance era",
+      "influences",
+      "military strategies"
+    ],
+    [
+      "Renaissance era",
+      "introduced during",
+      "gunpowder"
+    ],
+    [
+      "Renaissance era",
+      "led to",
+      "advancements"
+    ],
+    [
+      "Renaissance era",
+      "preceded by",
+      "decline of tactics"
+    ],
+    [
+      "Renaissance era",
+      "provided",
+      "military advantage"
+    ],
+    [
+      "Renaissance era",
+      "shaped by",
+      "20th century"
+    ],
+    [
+      "Renaissance era",
+      "shaped by",
+      "conflicts"
+    ],
+    [
+      "Renaissance era",
+      "shaped by",
+      "innovation"
+    ],
+    [
+      "Renaissance era",
+      "utilized in",
+      "trebuchets"
+    ],
+    [
+      "Romans",
+      "associated with",
+      "evolution"
+    ],
+    [
+      "Romans",
+      "compared to",
+      "Greeks"
+    ],
+    [
+      "Romans",
+      "defended by",
+      "fortified cities"
+    ],
+    [
+      "Romans",
+      "demonstrated by",
+      "innovation"
+    ],
+    [
+      "Romans",
+      "employed by",
+      "military strategies"
+    ],
+    [
+      "Romans",
+      "influenced by",
+      "Industrial Revolution"
+    ],
+    [
+      "Romans",
+      "influenced by",
+      "ancient civilizations"
+    ],
+    [
+      "Romans",
+      "influenced by",
+      "battles"
+    ],
+    [
+      "Romans",
+      "influenced by",
+      "conflicts"
+    ],
+    [
+      "Romans",
+      "influenced by",
+      "geopolitical landscape"
+    ],
+    [
+      "Romans",
+      "influenced by",
+      "military superiority"
+    ],
+    [
+      "Romans",
+      "is gathered by",
+      "real-time intelligence"
+    ],
+    [
+      "Romans",
+      "shaped by",
+      "battlefield"
+    ],
+    [
+      "Romans",
+      "used by",
+      "catapults"
+    ],
+    [
+      "Romans",
+      "used by",
+      "precision strikes"
+    ],
+    [
+      "Romans",
+      "utilized by",
+      "breech-loading mechanisms"
+    ],
+    [
+      "Romans",
+      "utilized by",
+      "engineering"
+    ],
+    [
+      "Romans",
+      "utilized by",
+      "mass production"
+    ],
+    [
+      "Romans",
+      "utilized by",
+      "medieval warfare"
+    ],
+    [
+      "Romans",
+      "utilized by",
+      "metallurgy"
+    ],
+    [
+      "Romans",
+      "utilized by",
+      "military technology"
+    ],
+    [
+      "Romans",
+      "utilized by",
+      "modern archery"
+    ],
+    [
+      "Romans",
+      "utilized by",
+      "rifled barrels"
+    ],
+    [
+      "Romans",
+      "utilized by",
+      "sophisticated weapons"
+    ],
+    [
+      "Romans",
+      "utilized by",
+      "submarines"
+    ],
+    [
+      "Romans",
+      "utilized by",
+      "tanks"
+    ],
+    [
+      "Romans",
+      "utilized by",
+      "traditional tactics"
+    ],
+    [
+      "Romans",
+      "was utilized by",
+      "effectiveness"
+    ],
+    [
+      "World Wars",
+      "affected by",
+      "decline of tactics"
+    ],
+    [
+      "World Wars",
+      "affected by",
+      "military technology"
+    ],
+    [
+      "World Wars",
+      "driven by",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "World Wars",
+      "influenced by",
+      "20th century"
+    ],
+    [
+      "World Wars",
+      "influenced by",
+      "artificial intelligence"
+    ],
+    [
+      "World Wars",
+      "influenced by",
+      "effectiveness"
+    ],
+    [
+      "World Wars",
+      "influenced by",
+      "rifled barrels"
+    ],
+    [
+      "World Wars",
+      "led to",
+      "gunpowder"
+    ],
+    [
+      "World Wars",
+      "shaped",
+      "evolution"
+    ],
+    [
+      "World Wars",
+      "shaped",
+      "geopolitical landscape"
+    ],
+    [
+      "World Wars",
+      "shaped by",
+      "Renaissance era"
+    ],
+    [
+      "World Wars",
+      "shaped by",
+      "breech-loading mechanisms"
+    ],
+    [
+      "World Wars",
+      "shaped by",
+      "conflicts"
+    ],
+    [
+      "World Wars",
+      "shaped by",
+      "hypersonic missiles"
+    ],
+    [
+      "World Wars",
+      "shaped by",
+      "metallurgy"
+    ],
+    [
+      "World Wars",
+      "shaped by",
+      "modern archery"
+    ],
+    [
+      "World Wars",
+      "shaped by",
+      "precision strikes"
+    ],
+    [
+      "World Wars",
+      "utilized in",
+      "submarines"
+    ],
+    [
+      "adaptation",
+      "adapted by",
+      "breech-loading mechanisms"
+    ],
+    [
+      "adaptation",
+      "associated with",
+      "directed energy weapons"
+    ],
+    [
+      "adaptation",
+      "characterizes",
+      "Renaissance era"
+    ],
+    [
+      "adaptation",
+      "enabled by",
+      "mass production"
+    ],
+    [
+      "adaptation",
+      "enables",
+      "real-time intelligence"
+    ],
+    [
+      "adaptation",
+      "enables",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "adaptation",
+      "enhanced by",
+      "submarines"
+    ],
+    [
+      "adaptation",
+      "evolved from",
+      "ancient times"
+    ],
+    [
+      "adaptation",
+      "fueled",
+      "gunpowder"
+    ],
+    [
+      "adaptation",
+      "improved by",
+      "long-range combat"
+    ],
+    [
+      "adaptation",
+      "improves",
+      "military advantage"
+    ],
+    [
+      "adaptation",
+      "incorporated",
+      "drones"
+    ],
+    [
+      "adaptation",
+      "influenced",
+      "Cold War"
+    ],
+    [
+      "adaptation",
+      "influenced",
+      "modern archery"
+    ],
+    [
+      "adaptation",
+      "influenced",
+      "siege weapons"
+    ],
+    [
+      "adaptation",
+      "influenced by",
+      "World Wars"
+    ],
+    [
+      "adaptation",
+      "influenced by",
+      "metallurgy"
+    ],
+    [
+      "adaptation",
+      "influences",
+      "repeating firearms"
+    ],
+    [
+      "adaptation",
+      "is a goal of",
+      "technological edge"
+    ],
+    [
+      "adaptation",
+      "leads to",
+      "evolution"
+    ],
+    [
+      "adaptation",
+      "led to",
+      "advancements"
+    ],
+    [
+      "adaptation",
+      "requires",
+      "autonomous robots"
+    ],
+    [
+      "adaptation",
+      "shaped",
+      "20th century"
+    ],
+    [
+      "adaptation",
+      "shaped",
+      "medieval warfare"
+    ],
+    [
+      "adaptation",
+      "transformed by",
+      "cyber warfare"
+    ],
+    [
+      "advancements",
+      "driven by",
+      "World Wars"
+    ],
+    [
+      "advancements",
+      "drives",
+      "drones"
+    ],
+    [
+      "advancements",
+      "enhanced",
+      "submarines"
+    ],
+    [
+      "advancements",
+      "facilitated by",
+      "mass production"
+    ],
+    [
+      "advancements",
+      "improved by",
+      "catapults"
+    ],
+    [
+      "advancements",
+      "led to",
+      "bow and arrow"
+    ],
+    [
+      "advancements",
+      "led to",
+      "tanks"
+    ],
+    [
+      "advancements",
+      "led to advancements in",
+      "gunpowder"
+    ],
+    [
+      "advancements",
+      "led to the development of",
+      "sophisticated weapons"
+    ],
+    [
+      "advancements",
+      "paved the way for",
+      "hypersonic missiles"
+    ],
+    [
+      "advancements",
+      "resulted from",
+      "Industrial Revolution"
+    ],
+    [
+      "advancements",
+      "resulted from",
+      "breech-loading mechanisms"
+    ],
+    [
+      "advancements",
+      "resulted from",
+      "firearms"
+    ],
+    [
+      "advancements",
+      "resulted from the decline of",
+      "decline of tactics"
+    ],
+    [
+      "aircraft",
+      "affects",
+      "geopolitical landscape"
+    ],
+    [
+      "aircraft",
+      "competes with",
+      "hypersonic missiles"
+    ],
+    [
+      "aircraft",
+      "developed into",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "aircraft",
+      "driven by",
+      "advancements"
+    ],
+    [
+      "aircraft",
+      "driven by",
+      "innovation"
+    ],
+    [
+      "aircraft",
+      "enables",
+      "long-range combat"
+    ],
+    [
+      "aircraft",
+      "facilitated by",
+      "mass production"
+    ],
+    [
+      "aircraft",
+      "facilitates",
+      "precision strikes"
+    ],
+    [
+      "aircraft",
+      "influenced by",
+      "World Wars"
+    ],
+    [
+      "aircraft",
+      "integrated with",
+      "artificial intelligence"
+    ],
+    [
+      "aircraft",
+      "involves",
+      "engineering"
+    ],
+    [
+      "aircraft",
+      "is a form of",
+      "military technology"
+    ],
+    [
+      "aircraft",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "aircraft",
+      "provides",
+      "real-time intelligence"
+    ],
+    [
+      "ancient civilizations",
+      "achieved by",
+      "military advantage"
+    ],
+    [
+      "ancient civilizations",
+      "defended by",
+      "fortified cities"
+    ],
+    [
+      "ancient civilizations",
+      "developed by",
+      "siege weapons"
+    ],
+    [
+      "ancient civilizations",
+      "developed by",
+      "tanks"
+    ],
+    [
+      "ancient civilizations",
+      "developed from",
+      "Egyptians"
+    ],
+    [
+      "ancient civilizations",
+      "employed traditional tactics",
+      "traditional tactics"
+    ],
+    [
+      "ancient civilizations",
+      "employs",
+      "precision strikes"
+    ],
+    [
+      "ancient civilizations",
+      "enabled",
+      "long-range combat"
+    ],
+    [
+      "ancient civilizations",
+      "engaged in",
+      "conflicts"
+    ],
+    [
+      "ancient civilizations",
+      "fought by",
+      "battles"
+    ],
+    [
+      "ancient civilizations",
+      "influenced",
+      "adaptation"
+    ],
+    [
+      "ancient civilizations",
+      "influenced by",
+      "Renaissance era"
+    ],
+    [
+      "ancient civilizations",
+      "influenced by",
+      "breech-loading mechanisms"
+    ],
+    [
+      "ancient civilizations",
+      "influenced the decline of",
+      "decline of tactics"
+    ],
+    [
+      "ancient civilizations",
+      "marks",
+      "evolution"
+    ],
+    [
+      "ancient civilizations",
+      "originated from",
+      "military superiority"
+    ],
+    [
+      "ancient civilizations",
+      "utilized by",
+      "cannons"
+    ],
+    [
+      "ancient civilizations",
+      "utilized by",
+      "effectiveness"
+    ],
+    [
+      "ancient civilizations",
+      "utilized by",
+      "firearms"
+    ],
+    [
+      "ancient civilizations",
+      "utilized sophisticated weapons for",
+      "sophisticated weapons"
+    ],
+    [
+      "ancient times",
+      "developed in",
+      "cannons"
+    ],
+    [
+      "ancient times",
+      "has evolved since",
+      "artificial intelligence"
+    ],
+    [
+      "ancient times",
+      "influenced",
+      "long-range combat"
+    ],
+    [
+      "ancient times",
+      "influenced by",
+      "ancient civilizations"
+    ],
+    [
+      "ancient times",
+      "influenced the decline of",
+      "decline of tactics"
+    ],
+    [
+      "ancient times",
+      "occurred during",
+      "battles"
+    ],
+    [
+      "ancient times",
+      "originated from",
+      "medieval warfare"
+    ],
+    [
+      "ancient times",
+      "originated from",
+      "military superiority"
+    ],
+    [
+      "ancient times",
+      "originated from",
+      "tanks"
+    ],
+    [
+      "ancient times",
+      "originated in",
+      "firearms"
+    ],
+    [
+      "ancient times",
+      "originated in",
+      "sophisticated weapons"
+    ],
+    [
+      "ancient times",
+      "precedes",
+      "Renaissance era"
+    ],
+    [
+      "ancient times",
+      "precedes",
+      "rifled barrels"
+    ],
+    [
+      "artificial intelligence",
+      "developed for",
+      "autonomous robots"
+    ],
+    [
+      "artificial intelligence",
+      "drives",
+      "evolution"
+    ],
+    [
+      "artificial intelligence",
+      "enhanced by",
+      "adaptation"
+    ],
+    [
+      "artificial intelligence",
+      "enhanced by",
+      "effectiveness"
+    ],
+    [
+      "artificial intelligence",
+      "enhanced by",
+      "engineering"
+    ],
+    [
+      "artificial intelligence",
+      "enhances",
+      "real-time intelligence"
+    ],
+    [
+      "artificial intelligence",
+      "enhances",
+      "sophisticated weapons"
+    ],
+    [
+      "artificial intelligence",
+      "influenced by",
+      "decline of tactics"
+    ],
+    [
+      "artificial intelligence",
+      "influenced by",
+      "gunpowder"
+    ],
+    [
+      "artificial intelligence",
+      "influenced by",
+      "metallurgy"
+    ],
+    [
+      "artificial intelligence",
+      "influenced by",
+      "traditional tactics"
+    ],
+    [
+      "artificial intelligence",
+      "integrated into",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "artificial intelligence",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "artificial intelligence",
+      "utilized in",
+      "drones"
+    ],
+    [
+      "autonomous robots",
+      "compared to",
+      "drones"
+    ],
+    [
+      "autonomous robots",
+      "complements",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "autonomous robots",
+      "context for",
+      "battlefield"
+    ],
+    [
+      "autonomous robots",
+      "designed with",
+      "engineering"
+    ],
+    [
+      "autonomous robots",
+      "enables",
+      "long-range combat"
+    ],
+    [
+      "autonomous robots",
+      "enhanced by",
+      "real-time intelligence"
+    ],
+    [
+      "autonomous robots",
+      "enhances",
+      "sophisticated weapons"
+    ],
+    [
+      "autonomous robots",
+      "enhances",
+      "tanks"
+    ],
+    [
+      "autonomous robots",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "autonomous robots",
+      "utilized by",
+      "catapults"
+    ],
+    [
+      "battlefield",
+      "advances",
+      "advancements"
+    ],
+    [
+      "battlefield",
+      "enables",
+      "precision strikes"
+    ],
+    [
+      "battlefield",
+      "enhanced by",
+      "autonomous robots"
+    ],
+    [
+      "battlefield",
+      "enhanced by",
+      "military advantage"
+    ],
+    [
+      "battlefield",
+      "influenced by",
+      "decline of tactics"
+    ],
+    [
+      "battlefield",
+      "influences",
+      "conflicts"
+    ],
+    [
+      "battlefield",
+      "influences",
+      "effectiveness"
+    ],
+    [
+      "battlefield",
+      "transforms",
+      "hypersonic missiles"
+    ],
+    [
+      "battlefield",
+      "utilized by",
+      "Greeks"
+    ],
+    [
+      "battlefield",
+      "utilized in",
+      "drones"
+    ],
+    [
+      "battles",
+      "determines",
+      "battlefield"
+    ],
+    [
+      "battles",
+      "drives",
+      "advancements"
+    ],
+    [
+      "battles",
+      "impacted by",
+      "decline of tactics"
+    ],
+    [
+      "battles",
+      "influences",
+      "conflicts"
+    ],
+    [
+      "battles",
+      "involves",
+      "aircraft"
+    ],
+    [
+      "battles",
+      "is utilized in",
+      "submarines"
+    ],
+    [
+      "battles",
+      "shaped by",
+      "Cold War"
+    ],
+    [
+      "battles",
+      "shaped by",
+      "emerging technologies"
+    ],
+    [
+      "battles",
+      "shaped by",
+      "military strategies"
+    ],
+    [
+      "battles",
+      "shapes",
+      "military technology"
+    ],
+    [
+      "battles",
+      "transformed",
+      "gunpowder"
+    ],
+    [
+      "battles",
+      "utilized by",
+      "siege weapons"
+    ],
+    [
+      "battles",
+      "utilized in",
+      "cannons"
+    ],
+    [
+      "battles",
+      "utilized in",
+      "drones"
+    ],
+    [
+      "battles",
+      "utilized in",
+      "trebuchets"
+    ],
+    [
+      "battles",
+      "utilizes",
+      "long-range combat"
+    ],
+    [
+      "bow and arrow",
+      "compared to",
+      "siege weapons"
+    ],
+    [
+      "bow and arrow",
+      "developed by",
+      "Greeks"
+    ],
+    [
+      "bow and arrow",
+      "developed by",
+      "ancient civilizations"
+    ],
+    [
+      "bow and arrow",
+      "developed from",
+      "repeating firearms"
+    ],
+    [
+      "bow and arrow",
+      "developed into",
+      "rifled barrels"
+    ],
+    [
+      "bow and arrow",
+      "enabled by",
+      "mass production"
+    ],
+    [
+      "bow and arrow",
+      "enables",
+      "long-range combat"
+    ],
+    [
+      "bow and arrow",
+      "enables",
+      "military superiority"
+    ],
+    [
+      "bow and arrow",
+      "enhanced by",
+      "precision strikes"
+    ],
+    [
+      "bow and arrow",
+      "evolved from",
+      "catapults"
+    ],
+    [
+      "bow and arrow",
+      "influenced",
+      "breech-loading mechanisms"
+    ],
+    [
+      "bow and arrow",
+      "influenced by",
+      "Industrial Revolution"
+    ],
+    [
+      "bow and arrow",
+      "informs",
+      "military strategies"
+    ],
+    [
+      "bow and arrow",
+      "is a predecessor of",
+      "cannons"
+    ],
+    [
+      "bow and arrow",
+      "marked",
+      "evolution"
+    ],
+    [
+      "bow and arrow",
+      "originated in",
+      "ancient times"
+    ],
+    [
+      "bow and arrow",
+      "provided",
+      "military advantage"
+    ],
+    [
+      "bow and arrow",
+      "utilized by",
+      "Romans"
+    ],
+    [
+      "bow and arrow",
+      "utilized in",
+      "battles"
+    ],
+    [
+      "bow and arrow",
+      "utilizes",
+      "medieval warfare"
+    ],
+    [
+      "breech-loading mechanisms",
+      "complements",
+      "rifled barrels"
+    ],
+    [
+      "breech-loading mechanisms",
+      "developed alongside",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "breech-loading mechanisms",
+      "developed through",
+      "metallurgy"
+    ],
+    [
+      "breech-loading mechanisms",
+      "drives",
+      "Industrial Revolution"
+    ],
+    [
+      "breech-loading mechanisms",
+      "enables",
+      "long-range combat"
+    ],
+    [
+      "breech-loading mechanisms",
+      "enhanced",
+      "precision strikes"
+    ],
+    [
+      "breech-loading mechanisms",
+      "enhanced by",
+      "military superiority"
+    ],
+    [
+      "breech-loading mechanisms",
+      "enhances",
+      "firearms"
+    ],
+    [
+      "breech-loading mechanisms",
+      "evolved from",
+      "bow and arrow"
+    ],
+    [
+      "breech-loading mechanisms",
+      "evolved from",
+      "modern era"
+    ],
+    [
+      "breech-loading mechanisms",
+      "improved by",
+      "cannons"
+    ],
+    [
+      "breech-loading mechanisms",
+      "influenced",
+      "conflicts"
+    ],
+    [
+      "breech-loading mechanisms",
+      "influenced by",
+      "battles"
+    ],
+    [
+      "breech-loading mechanisms",
+      "provides a",
+      "technological edge"
+    ],
+    [
+      "breech-loading mechanisms",
+      "related to",
+      "repeating firearms"
+    ],
+    [
+      "breech-loading mechanisms",
+      "replaced by",
+      "catapults"
+    ],
+    [
+      "breech-loading mechanisms",
+      "represents",
+      "innovation"
+    ],
+    [
+      "breech-loading mechanisms",
+      "shapes",
+      "military strategies"
+    ],
+    [
+      "breech-loading mechanisms",
+      "transformed",
+      "medieval warfare"
+    ],
+    [
+      "breech-loading mechanisms",
+      "used in",
+      "tanks"
+    ],
+    [
+      "cannons",
+      "attacked by",
+      "fortified cities"
+    ],
+    [
+      "cannons",
+      "created from",
+      "gunpowder"
+    ],
+    [
+      "cannons",
+      "developed alongside",
+      "autonomous robots"
+    ],
+    [
+      "cannons",
+      "developed from",
+      "nuclear weapons"
+    ],
+    [
+      "cannons",
+      "enabled",
+      "long-range combat"
+    ],
+    [
+      "cannons",
+      "enabled",
+      "precision strikes"
+    ],
+    [
+      "cannons",
+      "enhanced by",
+      "artificial intelligence"
+    ],
+    [
+      "cannons",
+      "improves",
+      "rifled barrels"
+    ],
+    [
+      "cannons",
+      "influenced the decline of",
+      "decline of tactics"
+    ],
+    [
+      "cannons",
+      "is a type of",
+      "sophisticated weapons"
+    ],
+    [
+      "cannons",
+      "provides",
+      "technological edge"
+    ],
+    [
+      "cannons",
+      "represents",
+      "evolution"
+    ],
+    [
+      "cannons",
+      "represents",
+      "innovation"
+    ],
+    [
+      "cannons",
+      "resulted from",
+      "advancements"
+    ],
+    [
+      "cannons",
+      "transformed",
+      "military strategies"
+    ],
+    [
+      "catapults",
+      "developed by",
+      "Egyptians"
+    ],
+    [
+      "catapults",
+      "developed by",
+      "ancient civilizations"
+    ],
+    [
+      "catapults",
+      "developed from",
+      "metallurgy"
+    ],
+    [
+      "catapults",
+      "enabled",
+      "long-range combat"
+    ],
+    [
+      "catapults",
+      "enhanced by",
+      "precision strikes"
+    ],
+    [
+      "catapults",
+      "improved",
+      "engineering"
+    ],
+    [
+      "catapults",
+      "influenced",
+      "conflicts"
+    ],
+    [
+      "catapults",
+      "influenced by",
+      "military strategies"
+    ],
+    [
+      "catapults",
+      "integrated with",
+      "artificial intelligence"
+    ],
+    [
+      "catapults",
+      "is a type of",
+      "sophisticated weapons"
+    ],
+    [
+      "catapults",
+      "represents",
+      "innovation"
+    ],
+    [
+      "catapults",
+      "used by",
+      "military superiority"
+    ],
+    [
+      "catapults",
+      "used in",
+      "battlefield"
+    ],
+    [
+      "catapults",
+      "utilized by",
+      "Greeks"
+    ],
+    [
+      "catapults",
+      "utilized in",
+      "medieval warfare"
+    ],
+    [
+      "conflicts",
+      "affected by",
+      "directed energy weapons"
+    ],
+    [
+      "conflicts",
+      "experienced by",
+      "Greeks"
+    ],
+    [
+      "conflicts",
+      "influenced by",
+      "evolution"
+    ],
+    [
+      "conflicts",
+      "influenced by",
+      "tanks"
+    ],
+    [
+      "conflicts",
+      "is influenced by",
+      "repeating firearms"
+    ],
+    [
+      "conflicts",
+      "resulting in",
+      "precision strikes"
+    ],
+    [
+      "conflicts",
+      "shaped by",
+      "20th century"
+    ],
+    [
+      "conflicts",
+      "utilized in",
+      "gunpowder"
+    ],
+    [
+      "conflicts",
+      "utilized in",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "cyber warfare",
+      "affected by",
+      "traditional tactics"
+    ],
+    [
+      "cyber warfare",
+      "enables",
+      "real-time intelligence"
+    ],
+    [
+      "cyber warfare",
+      "enhanced by",
+      "precision strikes"
+    ],
+    [
+      "cyber warfare",
+      "influenced by",
+      "conflicts"
+    ],
+    [
+      "cyber warfare",
+      "influenced by",
+      "decline of tactics"
+    ],
+    [
+      "cyber warfare",
+      "is challenged by",
+      "tanks"
+    ],
+    [
+      "cyber warfare",
+      "is influenced by",
+      "engineering"
+    ],
+    [
+      "cyber warfare",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "cyber warfare",
+      "transformed by",
+      "battlefield"
+    ],
+    [
+      "decline of tactics",
+      "affected by",
+      "firearms"
+    ],
+    [
+      "decline of tactics",
+      "affected by",
+      "military superiority"
+    ],
+    [
+      "decline of tactics",
+      "contributed to the decline of",
+      "catapults"
+    ],
+    [
+      "decline of tactics",
+      "declined due to",
+      "aircraft"
+    ],
+    [
+      "decline of tactics",
+      "emerged during",
+      "20th century"
+    ],
+    [
+      "decline of tactics",
+      "influences",
+      "military strategies"
+    ],
+    [
+      "decline of tactics",
+      "replaced by",
+      "directed energy weapons"
+    ],
+    [
+      "decline of tactics",
+      "requires",
+      "adaptation"
+    ],
+    [
+      "decline of tactics",
+      "shaped by",
+      "geopolitical landscape"
+    ],
+    [
+      "directed energy weapons",
+      "compared to",
+      "bow and arrow"
+    ],
+    [
+      "directed energy weapons",
+      "compared to",
+      "gunpowder"
+    ],
+    [
+      "directed energy weapons",
+      "compared to",
+      "siege weapons"
+    ],
+    [
+      "directed energy weapons",
+      "complements",
+      "drones"
+    ],
+    [
+      "directed energy weapons",
+      "complements",
+      "submarines"
+    ],
+    [
+      "directed energy weapons",
+      "contributes to",
+      "evolution"
+    ],
+    [
+      "directed energy weapons",
+      "developed by",
+      "ancient civilizations"
+    ],
+    [
+      "directed energy weapons",
+      "enhances",
+      "long-range combat"
+    ],
+    [
+      "directed energy weapons",
+      "facilitates",
+      "precision strikes"
+    ],
+    [
+      "directed energy weapons",
+      "includes",
+      "tanks"
+    ],
+    [
+      "directed energy weapons",
+      "influences",
+      "battlefield"
+    ],
+    [
+      "directed energy weapons",
+      "influences",
+      "conflicts"
+    ],
+    [
+      "directed energy weapons",
+      "inspired by",
+      "modern archery"
+    ],
+    [
+      "directed energy weapons",
+      "integrates",
+      "autonomous robots"
+    ],
+    [
+      "directed energy weapons",
+      "is a type of",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "directed energy weapons",
+      "is enhanced by",
+      "artificial intelligence"
+    ],
+    [
+      "directed energy weapons",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "directed energy weapons",
+      "shapes",
+      "geopolitical landscape"
+    ],
+    [
+      "directed energy weapons",
+      "superseded by",
+      "medieval warfare"
+    ],
+    [
+      "drones",
+      "affected by",
+      "traditional tactics"
+    ],
+    [
+      "drones",
+      "developed from",
+      "aircraft"
+    ],
+    [
+      "drones",
+      "enhanced by",
+      "firearms"
+    ],
+    [
+      "drones",
+      "facilitated by",
+      "precision strikes"
+    ],
+    [
+      "drones",
+      "influenced by",
+      "World Wars"
+    ],
+    [
+      "drones",
+      "influenced by",
+      "decline of tactics"
+    ],
+    [
+      "drones",
+      "is a type of",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "drones",
+      "provided",
+      "real-time intelligence"
+    ],
+    [
+      "drones",
+      "represents",
+      "evolution"
+    ],
+    [
+      "drones",
+      "represents",
+      "sophisticated weapons"
+    ],
+    [
+      "drones",
+      "transformed by",
+      "long-range combat"
+    ],
+    [
+      "drones",
+      "utilized in",
+      "conflicts"
+    ],
+    [
+      "drones",
+      "utilized in",
+      "cyber warfare"
+    ],
+    [
+      "effectiveness",
+      "driven by",
+      "evolution"
+    ],
+    [
+      "effectiveness",
+      "enhanced by",
+      "decline of tactics"
+    ],
+    [
+      "effectiveness",
+      "enhanced by",
+      "hypersonic missiles"
+    ],
+    [
+      "effectiveness",
+      "enhances",
+      "cannons"
+    ],
+    [
+      "effectiveness",
+      "enhances",
+      "gunpowder"
+    ],
+    [
+      "effectiveness",
+      "enhances",
+      "repeating firearms"
+    ],
+    [
+      "effectiveness",
+      "enhances",
+      "traditional tactics"
+    ],
+    [
+      "effectiveness",
+      "improved by",
+      "medieval warfare"
+    ],
+    [
+      "effectiveness",
+      "improves",
+      "innovation"
+    ],
+    [
+      "effectiveness",
+      "improves",
+      "rifled barrels"
+    ],
+    [
+      "effectiveness",
+      "improves",
+      "submarines"
+    ],
+    [
+      "effectiveness",
+      "increases",
+      "mass production"
+    ],
+    [
+      "effectiveness",
+      "is a measure of",
+      "military superiority"
+    ],
+    [
+      "effectiveness",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "effectiveness",
+      "provides",
+      "technological edge"
+    ],
+    [
+      "emerging technologies",
+      "advances",
+      "military technology"
+    ],
+    [
+      "emerging technologies",
+      "driven by",
+      "evolution"
+    ],
+    [
+      "emerging technologies",
+      "drives",
+      "advancements"
+    ],
+    [
+      "emerging technologies",
+      "emerges from",
+      "20th century"
+    ],
+    [
+      "emerging technologies",
+      "enabled",
+      "long-range combat"
+    ],
+    [
+      "emerging technologies",
+      "enables",
+      "precision strikes"
+    ],
+    [
+      "emerging technologies",
+      "facilitates",
+      "mass production"
+    ],
+    [
+      "emerging technologies",
+      "impact on",
+      "battlefield"
+    ],
+    [
+      "emerging technologies",
+      "impacting",
+      "conflicts"
+    ],
+    [
+      "emerging technologies",
+      "includes",
+      "artificial intelligence"
+    ],
+    [
+      "emerging technologies",
+      "includes",
+      "directed energy weapons"
+    ],
+    [
+      "emerging technologies",
+      "includes",
+      "hypersonic missiles"
+    ],
+    [
+      "emerging technologies",
+      "includes",
+      "missiles"
+    ],
+    [
+      "emerging technologies",
+      "includes",
+      "tanks"
+    ],
+    [
+      "emerging technologies",
+      "includes",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "emerging technologies",
+      "influenced by",
+      "Cold War"
+    ],
+    [
+      "emerging technologies",
+      "influenced by",
+      "decline of tactics"
+    ],
+    [
+      "emerging technologies",
+      "influences",
+      "cyber warfare"
+    ],
+    [
+      "emerging technologies",
+      "offers",
+      "military advantage"
+    ],
+    [
+      "emerging technologies",
+      "provides",
+      "real-time intelligence"
+    ],
+    [
+      "emerging technologies",
+      "provides",
+      "technological edge"
+    ],
+    [
+      "emerging technologies",
+      "shapes",
+      "military strategies"
+    ],
+    [
+      "emerging technologies",
+      "utilized in",
+      "autonomous robots"
+    ],
+    [
+      "engineering",
+      "applied by",
+      "Greeks"
+    ],
+    [
+      "engineering",
+      "developed from",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "engineering",
+      "developed through",
+      "tanks"
+    ],
+    [
+      "engineering",
+      "influenced by",
+      "decline of tactics"
+    ],
+    [
+      "engineering",
+      "is influenced by",
+      "battlefield"
+    ],
+    [
+      "engineering",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "evolution",
+      "driven by",
+      "battles"
+    ],
+    [
+      "evolution",
+      "influenced by",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "evolution",
+      "influences",
+      "engineering"
+    ],
+    [
+      "evolution",
+      "influences",
+      "rifled barrels"
+    ],
+    [
+      "evolution",
+      "is a process of",
+      "ancient times"
+    ],
+    [
+      "evolution",
+      "is a result of",
+      "real-time intelligence"
+    ],
+    [
+      "evolution",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "firearms",
+      "associated with",
+      "modern era"
+    ],
+    [
+      "firearms",
+      "characterized by",
+      "20th century"
+    ],
+    [
+      "firearms",
+      "complement",
+      "drones"
+    ],
+    [
+      "firearms",
+      "developed alongside",
+      "directed energy weapons"
+    ],
+    [
+      "firearms",
+      "emerged during",
+      "Renaissance era"
+    ],
+    [
+      "firearms",
+      "enhanced by",
+      "artificial intelligence"
+    ],
+    [
+      "firearms",
+      "enhanced by",
+      "technological edge"
+    ],
+    [
+      "firearms",
+      "enhances",
+      "effectiveness"
+    ],
+    [
+      "firearms",
+      "enhances",
+      "repeating firearms"
+    ],
+    [
+      "firearms",
+      "evolved from",
+      "bow and arrow"
+    ],
+    [
+      "firearms",
+      "facilitates",
+      "long-range combat"
+    ],
+    [
+      "firearms",
+      "incorporates",
+      "rifled barrels"
+    ],
+    [
+      "firearms",
+      "influenced by",
+      "World Wars"
+    ],
+    [
+      "firearms",
+      "influenced by",
+      "adaptation"
+    ],
+    [
+      "firearms",
+      "influenced by",
+      "battles"
+    ],
+    [
+      "firearms",
+      "informed",
+      "military strategies"
+    ],
+    [
+      "firearms",
+      "is a type of",
+      "catapults"
+    ],
+    [
+      "firearms",
+      "offers",
+      "military advantage"
+    ],
+    [
+      "firearms",
+      "produced by",
+      "mass production"
+    ],
+    [
+      "firearms",
+      "utilized by",
+      "Romans"
+    ],
+    [
+      "fortified cities",
+      "defended by",
+      "ancient times"
+    ],
+    [
+      "fortified cities",
+      "defended by",
+      "artificial intelligence"
+    ],
+    [
+      "fortified cities",
+      "defended by",
+      "battles"
+    ],
+    [
+      "fortified cities",
+      "enabled by",
+      "mass production"
+    ],
+    [
+      "fortified cities",
+      "enhanced",
+      "effectiveness"
+    ],
+    [
+      "fortified cities",
+      "enhanced by",
+      "metallurgy"
+    ],
+    [
+      "fortified cities",
+      "enhanced by",
+      "technological edge"
+    ],
+    [
+      "fortified cities",
+      "overcame",
+      "bow and arrow"
+    ],
+    [
+      "fortified cities",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "fortified cities",
+      "used against",
+      "catapults"
+    ],
+    [
+      "fortified cities",
+      "utilized in",
+      "gunpowder"
+    ],
+    [
+      "geopolitical landscape",
+      "affects",
+      "drones"
+    ],
+    [
+      "geopolitical landscape",
+      "influenced by",
+      "Egyptians"
+    ],
+    [
+      "geopolitical landscape",
+      "influenced by",
+      "Greeks"
+    ],
+    [
+      "geopolitical landscape",
+      "influences",
+      "effectiveness"
+    ],
+    [
+      "geopolitical landscape",
+      "is influenced by",
+      "submarines"
+    ],
+    [
+      "geopolitical landscape",
+      "is shaped by",
+      "long-range combat"
+    ],
+    [
+      "geopolitical landscape",
+      "shaped by",
+      "nuclear weapons"
+    ],
+    [
+      "geopolitical landscape",
+      "shaped by",
+      "tanks"
+    ],
+    [
+      "geopolitical landscape",
+      "shapes",
+      "conflicts"
+    ],
+    [
+      "geopolitical landscape",
+      "shapes",
+      "evolution"
+    ],
+    [
+      "gunpowder",
+      "defended by",
+      "fortified cities"
+    ],
+    [
+      "gunpowder",
+      "derived from",
+      "firearms"
+    ],
+    [
+      "gunpowder",
+      "developed by",
+      "ancient civilizations"
+    ],
+    [
+      "gunpowder",
+      "developed from",
+      "Greeks"
+    ],
+    [
+      "gunpowder",
+      "developed from",
+      "modern archery"
+    ],
+    [
+      "gunpowder",
+      "drives",
+      "evolution"
+    ],
+    [
+      "gunpowder",
+      "enabled by",
+      "precision strikes"
+    ],
+    [
+      "gunpowder",
+      "enables",
+      "breech-loading mechanisms"
+    ],
+    [
+      "gunpowder",
+      "enhanced",
+      "long-range combat"
+    ],
+    [
+      "gunpowder",
+      "evolved from",
+      "nuclear weapons"
+    ],
+    [
+      "gunpowder",
+      "facilitated by",
+      "mass production"
+    ],
+    [
+      "gunpowder",
+      "granted by",
+      "technological edge"
+    ],
+    [
+      "gunpowder",
+      "influenced by",
+      "catapults"
+    ],
+    [
+      "gunpowder",
+      "led to",
+      "rifled barrels"
+    ],
+    [
+      "gunpowder",
+      "predecessor of",
+      "bow and arrow"
+    ],
+    [
+      "gunpowder",
+      "replaced by",
+      "repeating firearms"
+    ],
+    [
+      "gunpowder",
+      "transformed by",
+      "20th century"
+    ],
+    [
+      "gunpowder",
+      "transformed by",
+      "medieval warfare"
+    ],
+    [
+      "gunpowder",
+      "utilized by",
+      "Romans"
+    ],
+    [
+      "gunpowder",
+      "utilized in",
+      "military strategies"
+    ],
+    [
+      "hypersonic missiles",
+      "developed from",
+      "directed energy weapons"
+    ],
+    [
+      "hypersonic missiles",
+      "produced by",
+      "mass production"
+    ],
+    [
+      "hypersonic missiles",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "hypersonic missiles",
+      "shapes",
+      "military strategies"
+    ],
+    [
+      "innovation",
+      "advanced through",
+      "siege weapons"
+    ],
+    [
+      "innovation",
+      "affects",
+      "geopolitical landscape"
+    ],
+    [
+      "innovation",
+      "applies to",
+      "cyber warfare"
+    ],
+    [
+      "innovation",
+      "developed from",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "innovation",
+      "driven by",
+      "20th century"
+    ],
+    [
+      "innovation",
+      "driven by",
+      "decline of tactics"
+    ],
+    [
+      "innovation",
+      "drives",
+      "directed energy weapons"
+    ],
+    [
+      "innovation",
+      "enables",
+      "mass production"
+    ],
+    [
+      "innovation",
+      "enables",
+      "precision strikes"
+    ],
+    [
+      "innovation",
+      "enables",
+      "real-time intelligence"
+    ],
+    [
+      "innovation",
+      "enhanced by",
+      "rifled barrels"
+    ],
+    [
+      "innovation",
+      "facilitates",
+      "long-range combat"
+    ],
+    [
+      "innovation",
+      "influenced",
+      "Renaissance era"
+    ],
+    [
+      "innovation",
+      "inspired",
+      "bow and arrow"
+    ],
+    [
+      "innovation",
+      "inspired by",
+      "Greeks"
+    ],
+    [
+      "innovation",
+      "involves",
+      "adaptation"
+    ],
+    [
+      "innovation",
+      "is a process of",
+      "evolution"
+    ],
+    [
+      "innovation",
+      "leads to",
+      "advancements"
+    ],
+    [
+      "innovation",
+      "led to",
+      "autonomous robots"
+    ],
+    [
+      "innovation",
+      "led to",
+      "firearms"
+    ],
+    [
+      "innovation",
+      "led to",
+      "repeating firearms"
+    ],
+    [
+      "innovation",
+      "led to",
+      "submarines"
+    ],
+    [
+      "innovation",
+      "led to the creation of",
+      "sophisticated weapons"
+    ],
+    [
+      "innovation",
+      "led to the development of",
+      "nuclear weapons"
+    ],
+    [
+      "innovation",
+      "originated from",
+      "ancient times"
+    ],
+    [
+      "innovation",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "innovation",
+      "represents",
+      "drones"
+    ],
+    [
+      "innovation",
+      "revolutionized",
+      "gunpowder"
+    ],
+    [
+      "innovation",
+      "shapes",
+      "battlefield"
+    ],
+    [
+      "innovation",
+      "shapes",
+      "conflicts"
+    ],
+    [
+      "innovation",
+      "transformed",
+      "medieval warfare"
+    ],
+    [
+      "innovation",
+      "transformed",
+      "traditional tactics"
+    ],
+    [
+      "long-range combat",
+      "enabled",
+      "ancient times"
+    ],
+    [
+      "long-range combat",
+      "enhanced by",
+      "real-time intelligence"
+    ],
+    [
+      "long-range combat",
+      "enhances",
+      "technological edge"
+    ],
+    [
+      "long-range combat",
+      "is influenced by",
+      "battlefield"
+    ],
+    [
+      "long-range combat",
+      "led to",
+      "evolution"
+    ],
+    [
+      "long-range combat",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "long-range combat",
+      "utilized by",
+      "Greeks"
+    ],
+    [
+      "long-range combat",
+      "utilized in",
+      "Egyptians"
+    ],
+    [
+      "long-range combat",
+      "utilized in",
+      "fortified cities"
+    ],
+    [
+      "mass production",
+      "contributed to",
+      "decline of tactics"
+    ],
+    [
+      "mass production",
+      "drives the",
+      "evolution"
+    ],
+    [
+      "mass production",
+      "enabled by",
+      "Renaissance era"
+    ],
+    [
+      "mass production",
+      "enabled by",
+      "catapults"
+    ],
+    [
+      "mass production",
+      "enabled by",
+      "cyber warfare"
+    ],
+    [
+      "mass production",
+      "enabled by",
+      "medieval warfare"
+    ],
+    [
+      "mass production",
+      "enabled by",
+      "traditional tactics"
+    ],
+    [
+      "mass production",
+      "enables",
+      "hypersonic missiles"
+    ],
+    [
+      "mass production",
+      "enables",
+      "real-time intelligence"
+    ],
+    [
+      "mass production",
+      "enhanced by",
+      "engineering"
+    ],
+    [
+      "mass production",
+      "facilitates",
+      "submarines"
+    ],
+    [
+      "mass production",
+      "produced by",
+      "breech-loading mechanisms"
+    ],
+    [
+      "mass production",
+      "produced by",
+      "cannons"
+    ],
+    [
+      "mass production",
+      "shaped by",
+      "conflicts"
+    ],
+    [
+      "mass production",
+      "supports",
+      "repeating firearms"
+    ],
+    [
+      "mass production",
+      "utilized by",
+      "ancient civilizations"
+    ],
+    [
+      "medieval warfare",
+      "affected by",
+      "technological edge"
+    ],
+    [
+      "medieval warfare",
+      "defended by",
+      "fortified cities"
+    ],
+    [
+      "medieval warfare",
+      "enhances",
+      "repeating firearms"
+    ],
+    [
+      "medieval warfare",
+      "influences",
+      "evolution"
+    ],
+    [
+      "medieval warfare",
+      "influences",
+      "military strategies"
+    ],
+    [
+      "medieval warfare",
+      "is characterized by",
+      "Egyptians"
+    ],
+    [
+      "medieval warfare",
+      "is characterized by",
+      "conflicts"
+    ],
+    [
+      "medieval warfare",
+      "is utilized in",
+      "drones"
+    ],
+    [
+      "medieval warfare",
+      "replaced by",
+      "Renaissance era"
+    ],
+    [
+      "medieval warfare",
+      "transformed by",
+      "20th century"
+    ],
+    [
+      "medieval warfare",
+      "used in",
+      "trebuchets"
+    ],
+    [
+      "medieval warfare",
+      "utilized in",
+      "cannons"
+    ],
+    [
+      "medieval warfare",
+      "utilized in",
+      "firearms"
+    ],
+    [
+      "metallurgy",
+      "contributed to",
+      "tanks"
+    ],
+    [
+      "metallurgy",
+      "contributes to",
+      "rifled barrels"
+    ],
+    [
+      "metallurgy",
+      "enabled advancements in",
+      "20th century"
+    ],
+    [
+      "metallurgy",
+      "enhances",
+      "effectiveness"
+    ],
+    [
+      "metallurgy",
+      "influenced by",
+      "cannons"
+    ],
+    [
+      "metallurgy",
+      "supported by",
+      "ancient civilizations"
+    ],
+    [
+      "metallurgy",
+      "supports",
+      "military advantage"
+    ],
+    [
+      "metallurgy",
+      "utilized in",
+      "medieval warfare"
+    ],
+    [
+      "metallurgy",
+      "utilized in",
+      "trebuchets"
+    ],
+    [
+      "military advantage",
+      "benefit from",
+      "Egyptians"
+    ],
+    [
+      "military advantage",
+      "grants",
+      "drones"
+    ],
+    [
+      "military advantage",
+      "grants",
+      "missiles"
+    ],
+    [
+      "military advantage",
+      "provides",
+      "Cold War"
+    ],
+    [
+      "military advantage",
+      "provides",
+      "cannons"
+    ],
+    [
+      "military advantage",
+      "provides",
+      "gunpowder"
+    ],
+    [
+      "military advantage",
+      "provides",
+      "trebuchets"
+    ],
+    [
+      "military advantage",
+      "results in",
+      "technological edge"
+    ],
+    [
+      "military advantage",
+      "sought by",
+      "ancient civilizations"
+    ],
+    [
+      "military strategies",
+      "adapted to",
+      "firearms"
+    ],
+    [
+      "military strategies",
+      "adapted to",
+      "military technology"
+    ],
+    [
+      "military strategies",
+      "affects",
+      "metallurgy"
+    ],
+    [
+      "military strategies",
+      "defended by",
+      "fortified cities"
+    ],
+    [
+      "military strategies",
+      "enhances",
+      "sophisticated weapons"
+    ],
+    [
+      "military strategies",
+      "evolved from",
+      "evolution"
+    ],
+    [
+      "military strategies",
+      "influenced by",
+      "ancient civilizations"
+    ],
+    [
+      "military strategies",
+      "influences",
+      "conflicts"
+    ],
+    [
+      "military strategies",
+      "influences",
+      "effectiveness"
+    ],
+    [
+      "military strategies",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "military strategies",
+      "shaped by",
+      "World Wars"
+    ],
+    [
+      "military strategies",
+      "shaped by",
+      "technological edge"
+    ],
+    [
+      "military strategies",
+      "shapes",
+      "drones"
+    ],
+    [
+      "military strategies",
+      "utilizes",
+      "real-time intelligence"
+    ],
+    [
+      "military strategies",
+      "utilizes",
+      "tanks"
+    ],
+    [
+      "military strategies",
+      "utilizes",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "military superiority",
+      "achieved through",
+      "long-range combat"
+    ],
+    [
+      "military superiority",
+      "achieved through",
+      "military advantage"
+    ],
+    [
+      "military superiority",
+      "achieved through",
+      "sophisticated weapons"
+    ],
+    [
+      "military superiority",
+      "contributes to",
+      "gunpowder"
+    ],
+    [
+      "military superiority",
+      "contributes to",
+      "siege weapons"
+    ],
+    [
+      "military superiority",
+      "drives",
+      "evolution"
+    ],
+    [
+      "military superiority",
+      "drives",
+      "innovation"
+    ],
+    [
+      "military superiority",
+      "enables",
+      "autonomous robots"
+    ],
+    [
+      "military superiority",
+      "enables",
+      "precision strikes"
+    ],
+    [
+      "military superiority",
+      "enhanced by",
+      "artificial intelligence"
+    ],
+    [
+      "military superiority",
+      "enhanced by",
+      "cannons"
+    ],
+    [
+      "military superiority",
+      "enhanced by",
+      "missiles"
+    ],
+    [
+      "military superiority",
+      "enhanced by",
+      "modern archery"
+    ],
+    [
+      "military superiority",
+      "enhanced by",
+      "tanks"
+    ],
+    [
+      "military superiority",
+      "enhances",
+      "firearms"
+    ],
+    [
+      "military superiority",
+      "enhances",
+      "hypersonic missiles"
+    ],
+    [
+      "military superiority",
+      "enhances",
+      "real-time intelligence"
+    ],
+    [
+      "military superiority",
+      "influenced by",
+      "battles"
+    ],
+    [
+      "military superiority",
+      "influences",
+      "geopolitical landscape"
+    ],
+    [
+      "military superiority",
+      "is achieved through",
+      "nuclear weapons"
+    ],
+    [
+      "military superiority",
+      "is enhanced by",
+      "drones"
+    ],
+    [
+      "military superiority",
+      "is pursued for",
+      "advancements"
+    ],
+    [
+      "military superiority",
+      "is threatened by",
+      "cyber warfare"
+    ],
+    [
+      "military superiority",
+      "pursued for",
+      "conflicts"
+    ],
+    [
+      "military superiority",
+      "requires",
+      "technological edge"
+    ],
+    [
+      "military superiority",
+      "shaped by",
+      "20th century"
+    ],
+    [
+      "military technology",
+      "developed from",
+      "catapults"
+    ],
+    [
+      "military technology",
+      "developed from",
+      "hypersonic missiles"
+    ],
+    [
+      "military technology",
+      "drives",
+      "advancements"
+    ],
+    [
+      "military technology",
+      "enables",
+      "long-range combat"
+    ],
+    [
+      "military technology",
+      "enables",
+      "mass production"
+    ],
+    [
+      "military technology",
+      "enhanced by",
+      "real-time intelligence"
+    ],
+    [
+      "military technology",
+      "enhanced by",
+      "technological edge"
+    ],
+    [
+      "military technology",
+      "enhances",
+      "artificial intelligence"
+    ],
+    [
+      "military technology",
+      "includes",
+      "missiles"
+    ],
+    [
+      "military technology",
+      "includes",
+      "nuclear weapons"
+    ],
+    [
+      "military technology",
+      "includes",
+      "submarines"
+    ],
+    [
+      "military technology",
+      "includes",
+      "tanks"
+    ],
+    [
+      "military technology",
+      "includes",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "military technology",
+      "influenced by",
+      "decline of tactics"
+    ],
+    [
+      "military technology",
+      "integrates",
+      "autonomous robots"
+    ],
+    [
+      "military technology",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "military technology",
+      "shaped",
+      "military strategies"
+    ],
+    [
+      "military technology",
+      "shapes",
+      "battlefield"
+    ],
+    [
+      "military technology",
+      "shapes",
+      "conflicts"
+    ],
+    [
+      "military technology",
+      "shapes",
+      "geopolitical landscape"
+    ],
+    [
+      "military technology",
+      "transformed",
+      "World Wars"
+    ],
+    [
+      "military technology",
+      "transformed by",
+      "cyber warfare"
+    ],
+    [
+      "military technology",
+      "transformed by",
+      "drones"
+    ],
+    [
+      "military technology",
+      "utilized",
+      "trebuchets"
+    ],
+    [
+      "military technology",
+      "utilized in",
+      "directed energy weapons"
+    ],
+    [
+      "missiles",
+      "affects",
+      "geopolitical landscape"
+    ],
+    [
+      "missiles",
+      "competes with",
+      "cannons"
+    ],
+    [
+      "missiles",
+      "developed by",
+      "Egyptians"
+    ],
+    [
+      "missiles",
+      "developed during",
+      "World Wars"
+    ],
+    [
+      "missiles",
+      "enabled",
+      "precision strikes"
+    ],
+    [
+      "missiles",
+      "enhanced by",
+      "artificial intelligence"
+    ],
+    [
+      "missiles",
+      "enhanced by",
+      "real-time intelligence"
+    ],
+    [
+      "missiles",
+      "enhances",
+      "directed energy weapons"
+    ],
+    [
+      "missiles",
+      "enhances",
+      "long-range combat"
+    ],
+    [
+      "missiles",
+      "influenced by",
+      "traditional tactics"
+    ],
+    [
+      "missiles",
+      "informs",
+      "military strategies"
+    ],
+    [
+      "missiles",
+      "provides",
+      "technological edge"
+    ],
+    [
+      "missiles",
+      "saw advancements in",
+      "modern era"
+    ],
+    [
+      "missiles",
+      "utilizes",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "modern archery",
+      "compared to",
+      "catapults"
+    ],
+    [
+      "modern archery",
+      "developed techniques for",
+      "Egyptians"
+    ],
+    [
+      "modern archery",
+      "enhanced by",
+      "artificial intelligence"
+    ],
+    [
+      "modern archery",
+      "evolved from",
+      "bow and arrow"
+    ],
+    [
+      "modern archery",
+      "influenced by",
+      "20th century"
+    ],
+    [
+      "modern archery",
+      "influenced by",
+      "Greeks"
+    ],
+    [
+      "modern archery",
+      "influenced by",
+      "ancient civilizations"
+    ],
+    [
+      "modern archery",
+      "influenced by",
+      "cannons"
+    ],
+    [
+      "modern archery",
+      "influenced by",
+      "fortified cities"
+    ],
+    [
+      "modern archery",
+      "influenced by",
+      "military strategies"
+    ],
+    [
+      "modern archery",
+      "influenced by",
+      "modern era"
+    ],
+    [
+      "modern archery",
+      "inspired by",
+      "firearms"
+    ],
+    [
+      "modern archery",
+      "inspired by",
+      "innovation"
+    ],
+    [
+      "modern archery",
+      "is associated with",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "modern archery",
+      "originated from",
+      "ancient times"
+    ],
+    [
+      "modern archery",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "modern archery",
+      "replaced by",
+      "medieval warfare"
+    ],
+    [
+      "modern archery",
+      "represents",
+      "evolution"
+    ],
+    [
+      "modern archery",
+      "resulted from",
+      "mass production"
+    ],
+    [
+      "modern archery",
+      "utilized in",
+      "battles"
+    ],
+    [
+      "modern archery",
+      "utilized in",
+      "technological edge"
+    ],
+    [
+      "modern era",
+      "achieves",
+      "military advantage"
+    ],
+    [
+      "modern era",
+      "associated with",
+      "decline of tactics"
+    ],
+    [
+      "modern era",
+      "associated with",
+      "directed energy weapons"
+    ],
+    [
+      "modern era",
+      "associated with",
+      "nuclear weapons"
+    ],
+    [
+      "modern era",
+      "contributed to",
+      "engineering"
+    ],
+    [
+      "modern era",
+      "developed during",
+      "submarines"
+    ],
+    [
+      "modern era",
+      "driven by",
+      "mass production"
+    ],
+    [
+      "modern era",
+      "enables",
+      "real-time intelligence"
+    ],
+    [
+      "modern era",
+      "fosters",
+      "innovation"
+    ],
+    [
+      "modern era",
+      "influenced",
+      "long-range combat"
+    ],
+    [
+      "modern era",
+      "is contextualized by",
+      "battles"
+    ],
+    [
+      "modern era",
+      "is enhanced by",
+      "precision strikes"
+    ],
+    [
+      "modern era",
+      "utilized in",
+      "sophisticated weapons"
+    ],
+    [
+      "nuclear weapons",
+      "affected by",
+      "battlefield"
+    ],
+    [
+      "nuclear weapons",
+      "associated with",
+      "missiles"
+    ],
+    [
+      "nuclear weapons",
+      "compared to",
+      "tanks"
+    ],
+    [
+      "nuclear weapons",
+      "developed by",
+      "Egyptians"
+    ],
+    [
+      "nuclear weapons",
+      "developed during",
+      "World Wars"
+    ],
+    [
+      "nuclear weapons",
+      "developed from",
+      "firearms"
+    ],
+    [
+      "nuclear weapons",
+      "developed from",
+      "fortified cities"
+    ],
+    [
+      "nuclear weapons",
+      "developed through",
+      "metallurgy"
+    ],
+    [
+      "nuclear weapons",
+      "enables",
+      "precision strikes"
+    ],
+    [
+      "nuclear weapons",
+      "influences",
+      "geopolitical landscape"
+    ],
+    [
+      "nuclear weapons",
+      "influences",
+      "military strategies"
+    ],
+    [
+      "nuclear weapons",
+      "is a type of",
+      "rifled barrels"
+    ],
+    [
+      "nuclear weapons",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "nuclear weapons",
+      "provides",
+      "technological edge"
+    ],
+    [
+      "nuclear weapons",
+      "resulted in",
+      "decline of tactics"
+    ],
+    [
+      "precision strikes",
+      "countered by",
+      "medieval warfare"
+    ],
+    [
+      "precision strikes",
+      "dependent on",
+      "cannons"
+    ],
+    [
+      "precision strikes",
+      "driven by",
+      "evolution"
+    ],
+    [
+      "precision strikes",
+      "enabled by",
+      "artificial intelligence"
+    ],
+    [
+      "precision strikes",
+      "enabled by",
+      "autonomous robots"
+    ],
+    [
+      "precision strikes",
+      "enabled by",
+      "sophisticated weapons"
+    ],
+    [
+      "precision strikes",
+      "enabled by",
+      "tanks"
+    ],
+    [
+      "precision strikes",
+      "enabled by",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "precision strikes",
+      "enables",
+      "real-time intelligence"
+    ],
+    [
+      "precision strikes",
+      "enhances",
+      "long-range combat"
+    ],
+    [
+      "precision strikes",
+      "influenced by",
+      "battles"
+    ],
+    [
+      "precision strikes",
+      "informed",
+      "military strategies"
+    ],
+    [
+      "precision strikes",
+      "resulted from",
+      "Cold War"
+    ],
+    [
+      "precision strikes",
+      "utilized for",
+      "Renaissance era"
+    ],
+    [
+      "real-time intelligence",
+      "contributes to",
+      "military advantage"
+    ],
+    [
+      "real-time intelligence",
+      "derived from",
+      "engineering"
+    ],
+    [
+      "real-time intelligence",
+      "enhanced by",
+      "submarines"
+    ],
+    [
+      "real-time intelligence",
+      "enhanced by",
+      "traditional tactics"
+    ],
+    [
+      "real-time intelligence",
+      "informs",
+      "sophisticated weapons"
+    ],
+    [
+      "repeating firearms",
+      "breached by",
+      "fortified cities"
+    ],
+    [
+      "repeating firearms",
+      "dependent on",
+      "medieval warfare"
+    ],
+    [
+      "repeating firearms",
+      "enabled",
+      "ancient times"
+    ],
+    [
+      "repeating firearms",
+      "inspired by",
+      "modern archery"
+    ],
+    [
+      "repeating firearms",
+      "led to",
+      "Industrial Revolution"
+    ],
+    [
+      "repeating firearms",
+      "produced",
+      "Renaissance era"
+    ],
+    [
+      "rifled barrels",
+      "derived from",
+      "gunpowder"
+    ],
+    [
+      "rifled barrels",
+      "developed alongside",
+      "repeating firearms"
+    ],
+    [
+      "rifled barrels",
+      "influenced by",
+      "medieval warfare"
+    ],
+    [
+      "rifled barrels",
+      "is influenced by",
+      "modern archery"
+    ],
+    [
+      "rifled barrels",
+      "targeted by",
+      "fortified cities"
+    ],
+    [
+      "siege weapons",
+      "complemented by",
+      "repeating firearms"
+    ],
+    [
+      "siege weapons",
+      "complements",
+      "rifled barrels"
+    ],
+    [
+      "siege weapons",
+      "countered by",
+      "traditional tactics"
+    ],
+    [
+      "siege weapons",
+      "developed by",
+      "Greeks"
+    ],
+    [
+      "siege weapons",
+      "developed from",
+      "metallurgy"
+    ],
+    [
+      "siege weapons",
+      "enabled",
+      "long-range combat"
+    ],
+    [
+      "siege weapons",
+      "enabled by",
+      "mass production"
+    ],
+    [
+      "siege weapons",
+      "enhances",
+      "effectiveness"
+    ],
+    [
+      "siege weapons",
+      "evolves from",
+      "evolution"
+    ],
+    [
+      "siege weapons",
+      "includes",
+      "cannons"
+    ],
+    [
+      "siege weapons",
+      "includes",
+      "catapults"
+    ],
+    [
+      "siege weapons",
+      "includes",
+      "trebuchets"
+    ],
+    [
+      "siege weapons",
+      "influenced by",
+      "20th century"
+    ],
+    [
+      "siege weapons",
+      "influenced by",
+      "battles"
+    ],
+    [
+      "siege weapons",
+      "influenced by",
+      "firearms"
+    ],
+    [
+      "siege weapons",
+      "influenced by",
+      "modern archery"
+    ],
+    [
+      "siege weapons",
+      "influences",
+      "military strategies"
+    ],
+    [
+      "siege weapons",
+      "is a type of",
+      "sophisticated weapons"
+    ],
+    [
+      "siege weapons",
+      "is developed by",
+      "autonomous robots"
+    ],
+    [
+      "siege weapons",
+      "provided",
+      "conflicts"
+    ],
+    [
+      "siege weapons",
+      "provided",
+      "military advantage"
+    ],
+    [
+      "siege weapons",
+      "superseded by",
+      "decline of tactics"
+    ],
+    [
+      "siege weapons",
+      "used to attack",
+      "fortified cities"
+    ],
+    [
+      "siege weapons",
+      "utilized by",
+      "Egyptians"
+    ],
+    [
+      "siege weapons",
+      "utilized by",
+      "Romans"
+    ],
+    [
+      "siege weapons",
+      "utilized in",
+      "medieval warfare"
+    ],
+    [
+      "siege weapons",
+      "utilized in",
+      "modern era"
+    ],
+    [
+      "siege weapons",
+      "utilizes",
+      "gunpowder"
+    ],
+    [
+      "sophisticated weapons",
+      "contributed to",
+      "decline of tactics"
+    ],
+    [
+      "sophisticated weapons",
+      "countered by",
+      "traditional tactics"
+    ],
+    [
+      "sophisticated weapons",
+      "developed from",
+      "gunpowder"
+    ],
+    [
+      "sophisticated weapons",
+      "enhanced by",
+      "battlefield"
+    ],
+    [
+      "sophisticated weapons",
+      "enhanced by",
+      "effectiveness"
+    ],
+    [
+      "sophisticated weapons",
+      "enhanced by",
+      "long-range combat"
+    ],
+    [
+      "sophisticated weapons",
+      "enhances",
+      "cyber warfare"
+    ],
+    [
+      "sophisticated weapons",
+      "influenced by",
+      "medieval warfare"
+    ],
+    [
+      "sophisticated weapons",
+      "influenced by",
+      "metallurgy"
+    ],
+    [
+      "sophisticated weapons",
+      "is a type of",
+      "bow and arrow"
+    ],
+    [
+      "sophisticated weapons",
+      "produced by",
+      "mass production"
+    ],
+    [
+      "sophisticated weapons",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "sophisticated weapons",
+      "represents",
+      "evolution"
+    ],
+    [
+      "submarines",
+      "affected by",
+      "decline of tactics"
+    ],
+    [
+      "submarines",
+      "contributed to the",
+      "evolution"
+    ],
+    [
+      "submarines",
+      "developed during",
+      "20th century"
+    ],
+    [
+      "submarines",
+      "involved in",
+      "conflicts"
+    ],
+    [
+      "submarines",
+      "is a type of",
+      "sophisticated weapons"
+    ],
+    [
+      "submarines",
+      "produced by",
+      "mass production"
+    ],
+    [
+      "submarines",
+      "resulted from",
+      "engineering"
+    ],
+    [
+      "submarines",
+      "utilize",
+      "advancements"
+    ],
+    [
+      "tanks",
+      "compared to",
+      "modern archery"
+    ],
+    [
+      "tanks",
+      "developed by",
+      "Egyptians"
+    ],
+    [
+      "tanks",
+      "developed from",
+      "firearms"
+    ],
+    [
+      "tanks",
+      "emerged in",
+      "modern era"
+    ],
+    [
+      "tanks",
+      "enhanced by",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "tanks",
+      "enhances",
+      "effectiveness"
+    ],
+    [
+      "tanks",
+      "includes",
+      "sophisticated weapons"
+    ],
+    [
+      "tanks",
+      "influenced by",
+      "medieval warfare"
+    ],
+    [
+      "tanks",
+      "provides",
+      "military advantage"
+    ],
+    [
+      "tanks",
+      "replaced by",
+      "traditional tactics"
+    ],
+    [
+      "tanks",
+      "supports",
+      "real-time intelligence"
+    ],
+    [
+      "tanks",
+      "used in",
+      "fortified cities"
+    ],
+    [
+      "tanks",
+      "utilized by",
+      "Greeks"
+    ],
+    [
+      "tanks",
+      "utilized by",
+      "autonomous robots"
+    ],
+    [
+      "tanks",
+      "utilized in",
+      "battles"
+    ],
+    [
+      "technological edge",
+      "achieved through",
+      "repeating firearms"
+    ],
+    [
+      "technological edge",
+      "achieved through",
+      "sophisticated weapons"
+    ],
+    [
+      "technological edge",
+      "competes with",
+      "traditional tactics"
+    ],
+    [
+      "technological edge",
+      "contributes to",
+      "evolution"
+    ],
+    [
+      "technological edge",
+      "enables",
+      "battles"
+    ],
+    [
+      "technological edge",
+      "enhanced by",
+      "hypersonic missiles"
+    ],
+    [
+      "technological edge",
+      "enhances",
+      "directed energy weapons"
+    ],
+    [
+      "technological edge",
+      "enhances",
+      "tanks"
+    ],
+    [
+      "technological edge",
+      "facilitated",
+      "precision strikes"
+    ],
+    [
+      "technological edge",
+      "facilitates",
+      "mass production"
+    ],
+    [
+      "technological edge",
+      "influenced by",
+      "World Wars"
+    ],
+    [
+      "technological edge",
+      "informs",
+      "military strategies"
+    ],
+    [
+      "technological edge",
+      "provides",
+      "Egyptians"
+    ],
+    [
+      "technological edge",
+      "provides",
+      "artificial intelligence"
+    ],
+    [
+      "technological edge",
+      "provides",
+      "autonomous robots"
+    ],
+    [
+      "technological edge",
+      "provides",
+      "cyber warfare"
+    ],
+    [
+      "technological edge",
+      "provides",
+      "rifled barrels"
+    ],
+    [
+      "technological edge",
+      "provides",
+      "siege weapons"
+    ],
+    [
+      "technological edge",
+      "provides",
+      "submarines"
+    ],
+    [
+      "technological edge",
+      "provides",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "technological edge",
+      "resulted from the pursuit of",
+      "decline of tactics"
+    ],
+    [
+      "technological edge",
+      "supports",
+      "aircraft"
+    ],
+    [
+      "traditional tactics",
+      "challenges",
+      "nuclear weapons"
+    ],
+    [
+      "traditional tactics",
+      "compared to",
+      "modern archery"
+    ],
+    [
+      "traditional tactics",
+      "declined in effectiveness compared to",
+      "Cold War"
+    ],
+    [
+      "traditional tactics",
+      "influenced",
+      "conflicts"
+    ],
+    [
+      "traditional tactics",
+      "influenced by",
+      "aircraft"
+    ],
+    [
+      "traditional tactics",
+      "influenced by",
+      "battles"
+    ],
+    [
+      "traditional tactics",
+      "influenced by",
+      "hypersonic missiles"
+    ],
+    [
+      "traditional tactics",
+      "influenced by",
+      "innovation"
+    ],
+    [
+      "traditional tactics",
+      "influenced by",
+      "metallurgy"
+    ],
+    [
+      "traditional tactics",
+      "influenced traditional tactics",
+      "Industrial Revolution"
+    ],
+    [
+      "traditional tactics",
+      "influenced traditional tactics",
+      "Renaissance era"
+    ],
+    [
+      "traditional tactics",
+      "influences",
+      "battlefield"
+    ],
+    [
+      "traditional tactics",
+      "influences",
+      "military strategies"
+    ],
+    [
+      "traditional tactics",
+      "replaced by",
+      "bow and arrow"
+    ],
+    [
+      "trebuchets",
+      "attacked by",
+      "fortified cities"
+    ],
+    [
+      "trebuchets",
+      "compared to",
+      "nuclear weapons"
+    ],
+    [
+      "trebuchets",
+      "compared to",
+      "repeating firearms"
+    ],
+    [
+      "trebuchets",
+      "compared to",
+      "sophisticated weapons"
+    ],
+    [
+      "trebuchets",
+      "competes with",
+      "hypersonic missiles"
+    ],
+    [
+      "trebuchets",
+      "enabled by",
+      "precision strikes"
+    ],
+    [
+      "trebuchets",
+      "influenced by",
+      "aircraft"
+    ],
+    [
+      "trebuchets",
+      "influenced by",
+      "modern archery"
+    ],
+    [
+      "trebuchets",
+      "influenced by",
+      "traditional tactics"
+    ],
+    [
+      "trebuchets",
+      "influenced by",
+      "unmanned aerial vehicles"
+    ],
+    [
+      "trebuchets",
+      "used in",
+      "battlefield"
+    ],
+    [
+      "trebuchets",
+      "utilized by",
+      "Greeks"
+    ],
+    [
+      "trebuchets",
+      "utilized by",
+      "ancient civilizations"
+    ],
+    [
+      "trebuchets",
+      "utilized by",
+      "conflicts"
+    ],
+    [
+      "trebuchets",
+      "utilized in",
+      "firearms"
+    ],
+    [
+      "trebuchets",
+      "was developed from",
+      "breech-loading mechanisms"
+    ],
+    [
+      "unmanned aerial vehicles",
+      "contributed to",
+      "decline of tactics"
+    ],
+    [
+      "unmanned aerial vehicles",
+      "developed by",
+      "Egyptians"
+    ],
+    [
+      "unmanned aerial vehicles",
+      "developed by",
+      "Romans"
+    ],
+    [
+      "unmanned aerial vehicles",
+      "enhanced by",
+      "effectiveness"
+    ],
+    [
+      "unmanned aerial vehicles",
+      "enhanced by",
+      "long-range combat"
+    ],
+    [
+      "unmanned aerial vehicles",
+      "influenced by",
+      "Renaissance era"
+    ],
+    [
+      "unmanned aerial vehicles",
+      "influenced by",
+      "traditional tactics"
+    ],
+    [
+      "unmanned aerial vehicles",
+      "provided",
+      "military advantage"
+    ],
+    [
+      "unmanned aerial vehicles",
+      "targeted by",
+      "nuclear weapons"
+    ],
+    [
+      "unmanned aerial vehicles",
+      "transformed by",
+      "medieval warfare"
+    ],
+    [
+      "unmanned aerial vehicles",
+      "utilized by",
+      "real-time intelligence"
+    ]
+  ],
+  "edges": [
+    "achieved by",
+    "achieved through",
+    "achieves",
+    "adapted by",
+    "adapted to",
+    "advanced through",
+    "advances",
+    "affected by",
+    "affects",
+    "applied by",
+    "applies to",
+    "associated with",
+    "attacked by",
+    "benefit from",
+    "breached by",
+    "challenges",
+    "changed",
+    "characterized",
+    "characterized by",
+    "characterizes",
+    "compared to",
+    "competes with",
+    "complement",
+    "complemented by",
+    "complements",
+    "context for",
+    "contributed to",
+    "contributed to the",
+    "contributed to the decline of",
+    "contributes to",
+    "countered by",
+    "created from",
+    "declined due to",
+    "declined in effectiveness compared to",
+    "defended by",
+    "demonstrated by",
+    "dependent on",
+    "derived from",
+    "designed with",
+    "determines",
+    "developed",
+    "developed alongside",
+    "developed by",
+    "developed during",
+    "developed for",
+    "developed from",
+    "developed in",
+    "developed into",
+    "developed techniques for",
+    "developed through",
+    "driven by",
+    "drives",
+    "drives the",
+    "emerged during",
+    "emerged in",
+    "emerges from",
+    "employed by",
+    "employed in",
+    "employed traditional tactics",
+    "employs",
+    "enabled",
+    "enabled advancements in",
+    "enabled by",
+    "enabled development of",
+    "enables",
+    "engaged in",
+    "enhanced",
+    "enhanced by",
+    "enhances",
+    "evolved from",
+    "evolves from",
+    "experienced by",
+    "facilitated",
+    "facilitated by",
+    "facilitates",
+    "fosters",
+    "fought by",
+    "fueled",
+    "granted by",
+    "grants",
+    "has evolved since",
+    "impact on",
+    "impacted by",
+    "impacting",
+    "improved",
+    "improved by",
+    "improves",
+    "includes",
+    "incorporated",
+    "incorporates",
+    "increases",
+    "influenced",
+    "influenced by",
+    "influenced the decline of",
+    "influenced traditional tactics",
+    "influences",
+    "informed",
+    "informs",
+    "inspired",
+    "inspired by",
+    "integrated into",
+    "integrated with",
+    "integrates",
+    "introduced",
+    "introduced by",
+    "introduced during",
+    "involved in",
+    "involves",
+    "is a form of",
+    "is a goal of",
+    "is a measure of",
+    "is a predecessor of",
+    "is a process of",
+    "is a result of",
+    "is a type of",
+    "is achieved through",
+    "is associated with",
+    "is challenged by",
+    "is characterized by",
+    "is contextualized by",
+    "is developed by",
+    "is enhanced by",
+    "is gathered by",
+    "is influenced by",
+    "is pursued for",
+    "is shaped by",
+    "is threatened by",
+    "is utilized in",
+    "leads to",
+    "led to",
+    "led to advancements in",
+    "led to the creation of",
+    "led to the development of",
+    "marked",
+    "marks",
+    "occurred during",
+    "offers",
+    "originated from",
+    "originated in",
+    "overcame",
+    "paved the way for",
+    "preceded",
+    "preceded by",
+    "precedes",
+    "predecessor of",
+    "produced",
+    "produced by",
+    "produced during",
+    "provided",
+    "provides",
+    "provides a",
+    "pursued for",
+    "related to",
+    "replaced by",
+    "represents",
+    "requires",
+    "resulted from",
+    "resulted from the decline of",
+    "resulted from the pursuit of",
+    "resulted in",
+    "resulting in",
+    "results in",
+    "revolutionized",
+    "saw advancements in",
+    "shaped",
+    "shaped by",
+    "shapes",
+    "sought by",
+    "spurred",
+    "superseded by",
+    "supported by",
+    "supports",
+    "targeted by",
+    "transformed",
+    "transformed by",
+    "transforms",
+    "used against",
+    "used by",
+    "used in",
+    "used to attack",
+    "utilize",
+    "utilized",
+    "utilized by",
+    "utilized for",
+    "utilized in",
+    "utilized sophisticated weapons for",
+    "utilizes",
+    "was advanced by",
+    "was developed from",
+    "was utilized by"
+  ]
+}

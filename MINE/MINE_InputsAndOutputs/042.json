@@ -1,0 +1,2781 @@
+{
+  "entities": [
+    "adaptability",
+    "adequate rest",
+    "avoid confrontations",
+    "batteries",
+    "clean water",
+    "communication system",
+    "coordination",
+    "coping mechanisms",
+    "crisis management",
+    "crisis planning",
+    "danger awareness",
+    "emergency readiness",
+    "emotional well-being",
+    "escape plan",
+    "essential items",
+    "first aid",
+    "flashlight",
+    "food storage",
+    "headshots",
+    "health maintenance",
+    "knowledge",
+    "learning new skills",
+    "medical kit",
+    "mental resilience",
+    "multi-tool",
+    "non-perishable food",
+    "outbreak response",
+    "physical fitness",
+    "positive mindset",
+    "preparation",
+    "preparedness strategy",
+    "proper nutrition",
+    "quick decisions",
+    "resource management",
+    "resourcefulness",
+    "risk avoidance",
+    "roles and responsibilities",
+    "safe location",
+    "safety measures",
+    "safety prioritization",
+    "stockpiling essentials",
+    "stress management",
+    "survival kit",
+    "survival mindset",
+    "survival strategies",
+    "survival supplies",
+    "teamwork",
+    "trustworthy individuals",
+    "water supply",
+    "weapons preparedness",
+    "zombie characteristics"
+  ],
+  "relations": [
+    [
+      "adaptability",
+      "enhances",
+      "emotional well-being"
+    ],
+    [
+      "adaptability",
+      "enhances",
+      "flashlight"
+    ],
+    [
+      "adaptability",
+      "enhances",
+      "resourcefulness"
+    ],
+    [
+      "adaptability",
+      "enhances",
+      "stockpiling essentials"
+    ],
+    [
+      "adaptability",
+      "facilitates",
+      "risk avoidance"
+    ],
+    [
+      "adaptability",
+      "improves",
+      "outbreak response"
+    ],
+    [
+      "adaptability",
+      "improves",
+      "survival strategies"
+    ],
+    [
+      "adaptability",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "adaptability",
+      "involves",
+      "coping mechanisms"
+    ],
+    [
+      "adaptability",
+      "promotes",
+      "learning new skills"
+    ],
+    [
+      "adaptability",
+      "requires",
+      "safe location"
+    ],
+    [
+      "adequate rest",
+      "contributes to",
+      "physical fitness"
+    ],
+    [
+      "adequate rest",
+      "contributes to",
+      "positive mindset"
+    ],
+    [
+      "adequate rest",
+      "includes",
+      "medical kit"
+    ],
+    [
+      "adequate rest",
+      "informs",
+      "crisis planning"
+    ],
+    [
+      "adequate rest",
+      "informs",
+      "roles and responsibilities"
+    ],
+    [
+      "adequate rest",
+      "is included in",
+      "survival kit"
+    ],
+    [
+      "adequate rest",
+      "is necessary for",
+      "multi-tool"
+    ],
+    [
+      "adequate rest",
+      "provides",
+      "survival supplies"
+    ],
+    [
+      "adequate rest",
+      "reduces",
+      "risk avoidance"
+    ],
+    [
+      "adequate rest",
+      "supports",
+      "emergency readiness"
+    ],
+    [
+      "adequate rest",
+      "supports",
+      "first aid"
+    ],
+    [
+      "adequate rest",
+      "supports",
+      "health maintenance"
+    ],
+    [
+      "adequate rest",
+      "supports",
+      "proper nutrition"
+    ],
+    [
+      "adequate rest",
+      "supports",
+      "survival mindset"
+    ],
+    [
+      "avoid confrontations",
+      "encourages",
+      "learning new skills"
+    ],
+    [
+      "avoid confrontations",
+      "improves",
+      "water supply"
+    ],
+    [
+      "avoid confrontations",
+      "influences",
+      "first aid"
+    ],
+    [
+      "avoid confrontations",
+      "involves",
+      "roles and responsibilities"
+    ],
+    [
+      "avoid confrontations",
+      "promotes",
+      "headshots"
+    ],
+    [
+      "avoid confrontations",
+      "requires",
+      "physical fitness"
+    ],
+    [
+      "avoid confrontations",
+      "requires",
+      "quick decisions"
+    ],
+    [
+      "avoid confrontations",
+      "requires",
+      "resourcefulness"
+    ],
+    [
+      "batteries",
+      "contributes to",
+      "safety measures"
+    ],
+    [
+      "batteries",
+      "enhances",
+      "knowledge"
+    ],
+    [
+      "batteries",
+      "is essential for",
+      "clean water"
+    ],
+    [
+      "batteries",
+      "is necessary for",
+      "safe location"
+    ],
+    [
+      "batteries",
+      "is related to",
+      "risk avoidance"
+    ],
+    [
+      "batteries",
+      "is supported by",
+      "adequate rest"
+    ],
+    [
+      "batteries",
+      "powers",
+      "escape plan"
+    ],
+    [
+      "batteries",
+      "powers",
+      "first aid"
+    ],
+    [
+      "batteries",
+      "powers",
+      "flashlight"
+    ],
+    [
+      "batteries",
+      "provides",
+      "non-perishable food"
+    ],
+    [
+      "batteries",
+      "requires",
+      "avoid confrontations"
+    ],
+    [
+      "batteries",
+      "supports",
+      "crisis management"
+    ],
+    [
+      "batteries",
+      "utilized by",
+      "resource management"
+    ],
+    [
+      "clean water",
+      "depends on",
+      "teamwork"
+    ],
+    [
+      "clean water",
+      "enables",
+      "quick decisions"
+    ],
+    [
+      "clean water",
+      "enhances",
+      "positive mindset"
+    ],
+    [
+      "clean water",
+      "ensures",
+      "danger awareness"
+    ],
+    [
+      "clean water",
+      "is contained in",
+      "survival kit"
+    ],
+    [
+      "clean water",
+      "is essential for",
+      "weapons preparedness"
+    ],
+    [
+      "clean water",
+      "provides",
+      "non-perishable food"
+    ],
+    [
+      "clean water",
+      "requires",
+      "food storage"
+    ],
+    [
+      "clean water",
+      "supports",
+      "avoid confrontations"
+    ],
+    [
+      "clean water",
+      "supports",
+      "emotional well-being"
+    ],
+    [
+      "communication system",
+      "enables",
+      "quick decisions"
+    ],
+    [
+      "communication system",
+      "enhances",
+      "medical kit"
+    ],
+    [
+      "communication system",
+      "facilitates",
+      "positive mindset"
+    ],
+    [
+      "communication system",
+      "supports",
+      "clean water"
+    ],
+    [
+      "coordination",
+      "contributes to",
+      "emotional well-being"
+    ],
+    [
+      "coordination",
+      "demonstrates",
+      "resourcefulness"
+    ],
+    [
+      "coordination",
+      "depends on",
+      "knowledge"
+    ],
+    [
+      "coordination",
+      "enhances",
+      "adaptability"
+    ],
+    [
+      "coordination",
+      "enhances",
+      "safety measures"
+    ],
+    [
+      "coordination",
+      "enhances",
+      "stockpiling essentials"
+    ],
+    [
+      "coordination",
+      "ensures",
+      "water supply"
+    ],
+    [
+      "coordination",
+      "helps to",
+      "avoid confrontations"
+    ],
+    [
+      "coordination",
+      "improves",
+      "physical fitness"
+    ],
+    [
+      "coping mechanisms",
+      "enhances",
+      "communication system"
+    ],
+    [
+      "coping mechanisms",
+      "enhances",
+      "headshots"
+    ],
+    [
+      "coping mechanisms",
+      "enhances",
+      "knowledge"
+    ],
+    [
+      "coping mechanisms",
+      "enhances",
+      "physical fitness"
+    ],
+    [
+      "coping mechanisms",
+      "enhances",
+      "safe location"
+    ],
+    [
+      "coping mechanisms",
+      "informs",
+      "quick decisions"
+    ],
+    [
+      "coping mechanisms",
+      "is enhanced by",
+      "survival kit"
+    ],
+    [
+      "coping mechanisms",
+      "is supported by",
+      "mental resilience"
+    ],
+    [
+      "coping mechanisms",
+      "is supported by",
+      "resourcefulness"
+    ],
+    [
+      "coping mechanisms",
+      "provides",
+      "survival supplies"
+    ],
+    [
+      "coping mechanisms",
+      "supports",
+      "emotional well-being"
+    ],
+    [
+      "crisis management",
+      "improves",
+      "emergency readiness"
+    ],
+    [
+      "crisis management",
+      "informs",
+      "survival supplies"
+    ],
+    [
+      "crisis management",
+      "informs",
+      "zombie characteristics"
+    ],
+    [
+      "crisis management",
+      "is supported by",
+      "coping mechanisms"
+    ],
+    [
+      "crisis management",
+      "mitigates",
+      "avoid confrontations"
+    ],
+    [
+      "crisis management",
+      "requires",
+      "safe location"
+    ],
+    [
+      "crisis management",
+      "supports",
+      "emotional well-being"
+    ],
+    [
+      "crisis planning",
+      "guides",
+      "outbreak response"
+    ],
+    [
+      "crisis planning",
+      "informs",
+      "clean water"
+    ],
+    [
+      "crisis planning",
+      "informs",
+      "crisis management"
+    ],
+    [
+      "crisis planning",
+      "informs",
+      "non-perishable food"
+    ],
+    [
+      "crisis planning",
+      "requires",
+      "communication system"
+    ],
+    [
+      "crisis planning",
+      "requires",
+      "teamwork"
+    ],
+    [
+      "crisis planning",
+      "supports",
+      "emotional well-being"
+    ],
+    [
+      "crisis planning",
+      "supports",
+      "water supply"
+    ],
+    [
+      "danger awareness",
+      "enhances",
+      "coordination"
+    ],
+    [
+      "danger awareness",
+      "enhances",
+      "preparedness strategy"
+    ],
+    [
+      "danger awareness",
+      "enhances",
+      "resourcefulness"
+    ],
+    [
+      "danger awareness",
+      "enhances",
+      "survival mindset"
+    ],
+    [
+      "danger awareness",
+      "enhances",
+      "water supply"
+    ],
+    [
+      "danger awareness",
+      "influences",
+      "positive mindset"
+    ],
+    [
+      "danger awareness",
+      "informs",
+      "batteries"
+    ],
+    [
+      "danger awareness",
+      "informs",
+      "crisis management"
+    ],
+    [
+      "danger awareness",
+      "informs",
+      "food storage"
+    ],
+    [
+      "danger awareness",
+      "informs",
+      "trustworthy individuals"
+    ],
+    [
+      "danger awareness",
+      "involves",
+      "headshots"
+    ],
+    [
+      "danger awareness",
+      "involves",
+      "resource management"
+    ],
+    [
+      "danger awareness",
+      "involves",
+      "roles and responsibilities"
+    ],
+    [
+      "danger awareness",
+      "is essential for",
+      "medical kit"
+    ],
+    [
+      "danger awareness",
+      "is improved by",
+      "stockpiling essentials"
+    ],
+    [
+      "danger awareness",
+      "necessitates",
+      "quick decisions"
+    ],
+    [
+      "danger awareness",
+      "promotes",
+      "learning new skills"
+    ],
+    [
+      "danger awareness",
+      "supports",
+      "mental resilience"
+    ],
+    [
+      "danger awareness",
+      "supports",
+      "physical fitness"
+    ],
+    [
+      "emergency readiness",
+      "comprises",
+      "survival supplies"
+    ],
+    [
+      "emergency readiness",
+      "enhances",
+      "coping mechanisms"
+    ],
+    [
+      "emergency readiness",
+      "enhances",
+      "risk avoidance"
+    ],
+    [
+      "emergency readiness",
+      "enhances",
+      "survival mindset"
+    ],
+    [
+      "emergency readiness",
+      "enhances",
+      "zombie characteristics"
+    ],
+    [
+      "emergency readiness",
+      "facilitates",
+      "communication system"
+    ],
+    [
+      "emergency readiness",
+      "informs",
+      "crisis planning"
+    ],
+    [
+      "emergency readiness",
+      "is part of",
+      "batteries"
+    ],
+    [
+      "emergency readiness",
+      "is part of",
+      "flashlight"
+    ],
+    [
+      "emergency readiness",
+      "supports",
+      "medical kit"
+    ],
+    [
+      "emotional well-being",
+      "enhances",
+      "communication system"
+    ],
+    [
+      "emotional well-being",
+      "enhances",
+      "outbreak response"
+    ],
+    [
+      "escape plan",
+      "defines",
+      "roles and responsibilities"
+    ],
+    [
+      "escape plan",
+      "enhances",
+      "coping mechanisms"
+    ],
+    [
+      "escape plan",
+      "enhances",
+      "physical fitness"
+    ],
+    [
+      "escape plan",
+      "guides",
+      "clean water"
+    ],
+    [
+      "escape plan",
+      "guides",
+      "communication system"
+    ],
+    [
+      "escape plan",
+      "includes",
+      "medical kit"
+    ],
+    [
+      "escape plan",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "escape plan",
+      "informs",
+      "non-perishable food"
+    ],
+    [
+      "escape plan",
+      "informs",
+      "preparation"
+    ],
+    [
+      "escape plan",
+      "is crucial for",
+      "outbreak response"
+    ],
+    [
+      "escape plan",
+      "is linked to",
+      "safety prioritization"
+    ],
+    [
+      "escape plan",
+      "is needed for",
+      "adequate rest"
+    ],
+    [
+      "escape plan",
+      "is part of",
+      "crisis management"
+    ],
+    [
+      "escape plan",
+      "is part of",
+      "flashlight"
+    ],
+    [
+      "escape plan",
+      "requires",
+      "safe location"
+    ],
+    [
+      "escape plan",
+      "requires",
+      "water supply"
+    ],
+    [
+      "escape plan",
+      "supports",
+      "adaptability"
+    ],
+    [
+      "escape plan",
+      "supports",
+      "survival supplies"
+    ],
+    [
+      "escape plan",
+      "supports",
+      "teamwork"
+    ],
+    [
+      "essential items",
+      "comprises",
+      "survival kit"
+    ],
+    [
+      "essential items",
+      "contributes to",
+      "health maintenance"
+    ],
+    [
+      "essential items",
+      "defines",
+      "roles and responsibilities"
+    ],
+    [
+      "essential items",
+      "demonstrates",
+      "resourcefulness"
+    ],
+    [
+      "essential items",
+      "facilitates",
+      "communication system"
+    ],
+    [
+      "essential items",
+      "facilitates",
+      "resource management"
+    ],
+    [
+      "essential items",
+      "includes",
+      "flashlight"
+    ],
+    [
+      "essential items",
+      "includes",
+      "trustworthy individuals"
+    ],
+    [
+      "essential items",
+      "informs",
+      "safety prioritization"
+    ],
+    [
+      "essential items",
+      "is part of",
+      "multi-tool"
+    ],
+    [
+      "essential items",
+      "is part of",
+      "preparedness strategy"
+    ],
+    [
+      "essential items",
+      "promotes",
+      "learning new skills"
+    ],
+    [
+      "essential items",
+      "supports",
+      "adequate rest"
+    ],
+    [
+      "essential items",
+      "supports",
+      "stress management"
+    ],
+    [
+      "essential items",
+      "supports",
+      "survival mindset"
+    ],
+    [
+      "first aid",
+      "defines",
+      "roles and responsibilities"
+    ],
+    [
+      "first aid",
+      "enhances",
+      "adaptability"
+    ],
+    [
+      "first aid",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "first aid",
+      "facilitates",
+      "communication system"
+    ],
+    [
+      "first aid",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "first aid",
+      "informs",
+      "preparation"
+    ],
+    [
+      "first aid",
+      "informs",
+      "quick decisions"
+    ],
+    [
+      "first aid",
+      "is critical for",
+      "safety prioritization"
+    ],
+    [
+      "first aid",
+      "is crucial for",
+      "crisis management"
+    ],
+    [
+      "first aid",
+      "is part of",
+      "medical kit"
+    ],
+    [
+      "first aid",
+      "is part of",
+      "survival kit"
+    ],
+    [
+      "first aid",
+      "provides",
+      "clean water"
+    ],
+    [
+      "first aid",
+      "provides",
+      "non-perishable food"
+    ],
+    [
+      "first aid",
+      "requires",
+      "headshots"
+    ],
+    [
+      "first aid",
+      "requires",
+      "physical fitness"
+    ],
+    [
+      "first aid",
+      "supports",
+      "coping mechanisms"
+    ],
+    [
+      "first aid",
+      "supports",
+      "outbreak response"
+    ],
+    [
+      "flashlight",
+      "enables",
+      "quick decisions"
+    ],
+    [
+      "flashlight",
+      "facilitates",
+      "headshots"
+    ],
+    [
+      "flashlight",
+      "illuminates",
+      "multi-tool"
+    ],
+    [
+      "flashlight",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "flashlight",
+      "informs",
+      "zombie characteristics"
+    ],
+    [
+      "flashlight",
+      "is essential for",
+      "communication system"
+    ],
+    [
+      "flashlight",
+      "is used for",
+      "survival kit"
+    ],
+    [
+      "flashlight",
+      "supports",
+      "safe location"
+    ],
+    [
+      "flashlight",
+      "utilizes",
+      "safety prioritization"
+    ],
+    [
+      "food storage",
+      "complements",
+      "flashlight"
+    ],
+    [
+      "food storage",
+      "enhances",
+      "resourcefulness"
+    ],
+    [
+      "food storage",
+      "facilitates",
+      "communication system"
+    ],
+    [
+      "food storage",
+      "includes",
+      "non-perishable food"
+    ],
+    [
+      "food storage",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "food storage",
+      "informs",
+      "outbreak response"
+    ],
+    [
+      "food storage",
+      "informs",
+      "roles and responsibilities"
+    ],
+    [
+      "food storage",
+      "informs",
+      "safe location"
+    ],
+    [
+      "food storage",
+      "informs",
+      "survival strategies"
+    ],
+    [
+      "food storage",
+      "involves",
+      "learning new skills"
+    ],
+    [
+      "food storage",
+      "is essential for",
+      "crisis planning"
+    ],
+    [
+      "food storage",
+      "prioritizes",
+      "safety prioritization"
+    ],
+    [
+      "food storage",
+      "supports",
+      "crisis management"
+    ],
+    [
+      "food storage",
+      "supports",
+      "escape plan"
+    ],
+    [
+      "food storage",
+      "supports",
+      "physical fitness"
+    ],
+    [
+      "food storage",
+      "supports",
+      "positive mindset"
+    ],
+    [
+      "food storage",
+      "supports",
+      "resource management"
+    ],
+    [
+      "headshots",
+      "benefits from",
+      "positive mindset"
+    ],
+    [
+      "headshots",
+      "facilitates",
+      "communication system"
+    ],
+    [
+      "headshots",
+      "informs",
+      "food storage"
+    ],
+    [
+      "health maintenance",
+      "enables",
+      "coordination"
+    ],
+    [
+      "health maintenance",
+      "enhances",
+      "learning new skills"
+    ],
+    [
+      "health maintenance",
+      "enhances",
+      "survival strategies"
+    ],
+    [
+      "health maintenance",
+      "involves",
+      "roles and responsibilities"
+    ],
+    [
+      "health maintenance",
+      "is crucial for",
+      "safe location"
+    ],
+    [
+      "health maintenance",
+      "is part of",
+      "survival kit"
+    ],
+    [
+      "health maintenance",
+      "provides",
+      "batteries"
+    ],
+    [
+      "health maintenance",
+      "supports",
+      "coping mechanisms"
+    ],
+    [
+      "health maintenance",
+      "supports",
+      "medical kit"
+    ],
+    [
+      "health maintenance",
+      "supports",
+      "resourcefulness"
+    ],
+    [
+      "health maintenance",
+      "supports",
+      "safety measures"
+    ],
+    [
+      "health maintenance",
+      "supports",
+      "stockpiling essentials"
+    ],
+    [
+      "health maintenance",
+      "supports",
+      "survival supplies"
+    ],
+    [
+      "health maintenance",
+      "supports",
+      "water supply"
+    ],
+    [
+      "knowledge",
+      "enhances",
+      "communication system"
+    ],
+    [
+      "knowledge",
+      "enhances",
+      "physical fitness"
+    ],
+    [
+      "knowledge",
+      "informs",
+      "headshots"
+    ],
+    [
+      "knowledge",
+      "provides",
+      "clean water"
+    ],
+    [
+      "knowledge",
+      "requires",
+      "quick decisions"
+    ],
+    [
+      "learning new skills",
+      "enhances",
+      "knowledge"
+    ],
+    [
+      "learning new skills",
+      "informs",
+      "zombie characteristics"
+    ],
+    [
+      "learning new skills",
+      "is enhanced by",
+      "clean water"
+    ],
+    [
+      "learning new skills",
+      "is necessary for",
+      "headshots"
+    ],
+    [
+      "learning new skills",
+      "supports",
+      "coping mechanisms"
+    ],
+    [
+      "medical kit",
+      "complements",
+      "water supply"
+    ],
+    [
+      "medical kit",
+      "component of",
+      "crisis management"
+    ],
+    [
+      "medical kit",
+      "component of",
+      "multi-tool"
+    ],
+    [
+      "medical kit",
+      "enhances",
+      "resourcefulness"
+    ],
+    [
+      "medical kit",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "medical kit",
+      "facilitates",
+      "quick decisions"
+    ],
+    [
+      "medical kit",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "medical kit",
+      "is part of",
+      "safety measures"
+    ],
+    [
+      "medical kit",
+      "supports",
+      "emotional well-being"
+    ],
+    [
+      "mental resilience",
+      "aids in",
+      "crisis planning"
+    ],
+    [
+      "mental resilience",
+      "comprises",
+      "survival kit"
+    ],
+    [
+      "mental resilience",
+      "contributes to",
+      "emergency readiness"
+    ],
+    [
+      "mental resilience",
+      "enhances",
+      "adaptability"
+    ],
+    [
+      "mental resilience",
+      "enhances",
+      "outbreak response"
+    ],
+    [
+      "mental resilience",
+      "enhances",
+      "stockpiling essentials"
+    ],
+    [
+      "mental resilience",
+      "improves",
+      "headshots"
+    ],
+    [
+      "mental resilience",
+      "influences",
+      "quick decisions"
+    ],
+    [
+      "mental resilience",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "mental resilience",
+      "informs",
+      "preparedness strategy"
+    ],
+    [
+      "mental resilience",
+      "is supported by",
+      "multi-tool"
+    ],
+    [
+      "mental resilience",
+      "provides",
+      "non-perishable food"
+    ],
+    [
+      "mental resilience",
+      "supports",
+      "risk avoidance"
+    ],
+    [
+      "multi-tool",
+      "aids",
+      "coping mechanisms"
+    ],
+    [
+      "multi-tool",
+      "complements",
+      "first aid"
+    ],
+    [
+      "multi-tool",
+      "enhances",
+      "danger awareness"
+    ],
+    [
+      "multi-tool",
+      "enhances",
+      "knowledge"
+    ],
+    [
+      "multi-tool",
+      "facilitates",
+      "escape plan"
+    ],
+    [
+      "multi-tool",
+      "facilitates",
+      "preparation"
+    ],
+    [
+      "multi-tool",
+      "facilitates",
+      "survival mindset"
+    ],
+    [
+      "multi-tool",
+      "includes",
+      "survival kit"
+    ],
+    [
+      "multi-tool",
+      "is necessary for",
+      "safe location"
+    ],
+    [
+      "multi-tool",
+      "provides",
+      "survival supplies"
+    ],
+    [
+      "multi-tool",
+      "provides",
+      "water supply"
+    ],
+    [
+      "multi-tool",
+      "requires",
+      "headshots"
+    ],
+    [
+      "multi-tool",
+      "supports",
+      "emotional well-being"
+    ],
+    [
+      "non-perishable food",
+      "depends on",
+      "water supply"
+    ],
+    [
+      "non-perishable food",
+      "is used for",
+      "flashlight"
+    ],
+    [
+      "non-perishable food",
+      "supports",
+      "communication system"
+    ],
+    [
+      "outbreak response",
+      "facilitates",
+      "batteries"
+    ],
+    [
+      "outbreak response",
+      "facilitates",
+      "communication system"
+    ],
+    [
+      "outbreak response",
+      "informs",
+      "survival strategies"
+    ],
+    [
+      "outbreak response",
+      "is critical for",
+      "water supply"
+    ],
+    [
+      "outbreak response",
+      "is influenced by",
+      "roles and responsibilities"
+    ],
+    [
+      "outbreak response",
+      "provides",
+      "clean water"
+    ],
+    [
+      "outbreak response",
+      "requires",
+      "non-perishable food"
+    ],
+    [
+      "outbreak response",
+      "requires",
+      "safe location"
+    ],
+    [
+      "physical fitness",
+      "enables",
+      "quick decisions"
+    ],
+    [
+      "physical fitness",
+      "enhances",
+      "survival strategies"
+    ],
+    [
+      "positive mindset",
+      "ensures",
+      "water supply"
+    ],
+    [
+      "positive mindset",
+      "improves",
+      "adaptability"
+    ],
+    [
+      "positive mindset",
+      "is crucial for",
+      "safe location"
+    ],
+    [
+      "positive mindset",
+      "promotes",
+      "risk avoidance"
+    ],
+    [
+      "positive mindset",
+      "supports",
+      "emotional well-being"
+    ],
+    [
+      "positive mindset",
+      "supports",
+      "first aid"
+    ],
+    [
+      "positive mindset",
+      "supports",
+      "non-perishable food"
+    ],
+    [
+      "positive mindset",
+      "supports",
+      "physical fitness"
+    ],
+    [
+      "positive mindset",
+      "supports",
+      "stockpiling essentials"
+    ],
+    [
+      "preparation",
+      "defines",
+      "roles and responsibilities"
+    ],
+    [
+      "preparation",
+      "enables",
+      "communication system"
+    ],
+    [
+      "preparation",
+      "enables",
+      "learning new skills"
+    ],
+    [
+      "preparation",
+      "enables",
+      "quick decisions"
+    ],
+    [
+      "preparation",
+      "enhances",
+      "crisis management"
+    ],
+    [
+      "preparation",
+      "enhances",
+      "positive mindset"
+    ],
+    [
+      "preparation",
+      "enhances",
+      "safety measures"
+    ],
+    [
+      "preparation",
+      "ensures",
+      "emergency readiness"
+    ],
+    [
+      "preparation",
+      "establishes",
+      "safe location"
+    ],
+    [
+      "preparation",
+      "facilitates",
+      "mental resilience"
+    ],
+    [
+      "preparation",
+      "facilitates",
+      "risk avoidance"
+    ],
+    [
+      "preparation",
+      "includes",
+      "medical kit"
+    ],
+    [
+      "preparation",
+      "includes",
+      "non-perishable food"
+    ],
+    [
+      "preparation",
+      "includes",
+      "survival kit"
+    ],
+    [
+      "preparation",
+      "informs",
+      "survival strategies"
+    ],
+    [
+      "preparation",
+      "is essential for",
+      "crisis planning"
+    ],
+    [
+      "preparation",
+      "is essential for",
+      "knowledge"
+    ],
+    [
+      "preparation",
+      "is essential for",
+      "survival mindset"
+    ],
+    [
+      "preparation",
+      "is foundational to",
+      "preparedness strategy"
+    ],
+    [
+      "preparation",
+      "powers",
+      "batteries"
+    ],
+    [
+      "preparation",
+      "promotes",
+      "emotional well-being"
+    ],
+    [
+      "preparation",
+      "requires",
+      "headshots"
+    ],
+    [
+      "preparation",
+      "requires",
+      "physical fitness"
+    ],
+    [
+      "preparation",
+      "supports",
+      "clean water"
+    ],
+    [
+      "preparedness strategy",
+      "contributes to",
+      "physical fitness"
+    ],
+    [
+      "preparedness strategy",
+      "enhances",
+      "resourcefulness"
+    ],
+    [
+      "preparedness strategy",
+      "ensures",
+      "water supply"
+    ],
+    [
+      "preparedness strategy",
+      "facilitates",
+      "adaptability"
+    ],
+    [
+      "preparedness strategy",
+      "helps to",
+      "avoid confrontations"
+    ],
+    [
+      "preparedness strategy",
+      "includes",
+      "survival supplies"
+    ],
+    [
+      "preparedness strategy",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "preparedness strategy",
+      "informs",
+      "stockpiling essentials"
+    ],
+    [
+      "preparedness strategy",
+      "is essential for",
+      "clean water"
+    ],
+    [
+      "preparedness strategy",
+      "supports",
+      "emotional well-being"
+    ],
+    [
+      "proper nutrition",
+      "contributes to",
+      "crisis planning"
+    ],
+    [
+      "proper nutrition",
+      "defines",
+      "roles and responsibilities"
+    ],
+    [
+      "proper nutrition",
+      "enables",
+      "communication system"
+    ],
+    [
+      "proper nutrition",
+      "enhances",
+      "mental resilience"
+    ],
+    [
+      "proper nutrition",
+      "enhances",
+      "preparedness strategy"
+    ],
+    [
+      "proper nutrition",
+      "enhances",
+      "stress management"
+    ],
+    [
+      "proper nutrition",
+      "enhances",
+      "weapons preparedness"
+    ],
+    [
+      "proper nutrition",
+      "facilitates",
+      "coordination"
+    ],
+    [
+      "proper nutrition",
+      "facilitates",
+      "preparation"
+    ],
+    [
+      "proper nutrition",
+      "influences",
+      "quick decisions"
+    ],
+    [
+      "proper nutrition",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "proper nutrition",
+      "is included in",
+      "survival kit"
+    ],
+    [
+      "proper nutrition",
+      "is required for",
+      "batteries"
+    ],
+    [
+      "proper nutrition",
+      "provides",
+      "clean water"
+    ],
+    [
+      "proper nutrition",
+      "provides",
+      "first aid"
+    ],
+    [
+      "proper nutrition",
+      "provides",
+      "non-perishable food"
+    ],
+    [
+      "proper nutrition",
+      "supports",
+      "emergency readiness"
+    ],
+    [
+      "proper nutrition",
+      "supports",
+      "flashlight"
+    ],
+    [
+      "proper nutrition",
+      "supports",
+      "food storage"
+    ],
+    [
+      "proper nutrition",
+      "supports",
+      "headshots"
+    ],
+    [
+      "proper nutrition",
+      "supports",
+      "medical kit"
+    ],
+    [
+      "proper nutrition",
+      "supports",
+      "multi-tool"
+    ],
+    [
+      "proper nutrition",
+      "supports",
+      "positive mindset"
+    ],
+    [
+      "proper nutrition",
+      "supports",
+      "survival supplies"
+    ],
+    [
+      "proper nutrition",
+      "supports",
+      "water supply"
+    ],
+    [
+      "resource management",
+      "enables",
+      "coordination"
+    ],
+    [
+      "resource management",
+      "enhances",
+      "mental resilience"
+    ],
+    [
+      "resource management",
+      "enhances",
+      "preparedness strategy"
+    ],
+    [
+      "resource management",
+      "enhances",
+      "resourcefulness"
+    ],
+    [
+      "resource management",
+      "ensures",
+      "adequate rest"
+    ],
+    [
+      "resource management",
+      "ensures",
+      "water supply"
+    ],
+    [
+      "resource management",
+      "facilitates",
+      "learning new skills"
+    ],
+    [
+      "resource management",
+      "facilitates",
+      "safety prioritization"
+    ],
+    [
+      "resource management",
+      "facilitates",
+      "survival supplies"
+    ],
+    [
+      "resource management",
+      "influences",
+      "crisis management"
+    ],
+    [
+      "resource management",
+      "influences",
+      "positive mindset"
+    ],
+    [
+      "resource management",
+      "influences",
+      "survival mindset"
+    ],
+    [
+      "resource management",
+      "manages",
+      "batteries"
+    ],
+    [
+      "resource management",
+      "necessitates",
+      "quick decisions"
+    ],
+    [
+      "resource management",
+      "supports",
+      "health maintenance"
+    ],
+    [
+      "resource management",
+      "supports",
+      "physical fitness"
+    ],
+    [
+      "resourcefulness",
+      "demonstrates",
+      "stockpiling essentials"
+    ],
+    [
+      "resourcefulness",
+      "enhances",
+      "communication system"
+    ],
+    [
+      "resourcefulness",
+      "enhances",
+      "flashlight"
+    ],
+    [
+      "resourcefulness",
+      "enhances",
+      "knowledge"
+    ],
+    [
+      "resourcefulness",
+      "enhances",
+      "survival supplies"
+    ],
+    [
+      "resourcefulness",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "resourcefulness",
+      "ensures",
+      "clean water"
+    ],
+    [
+      "resourcefulness",
+      "improves",
+      "physical fitness"
+    ],
+    [
+      "resourcefulness",
+      "informs",
+      "zombie characteristics"
+    ],
+    [
+      "resourcefulness",
+      "is essential for",
+      "safe location"
+    ],
+    [
+      "risk avoidance",
+      "enhances",
+      "coping mechanisms"
+    ],
+    [
+      "risk avoidance",
+      "enhances",
+      "emotional well-being"
+    ],
+    [
+      "risk avoidance",
+      "facilitates",
+      "crisis planning"
+    ],
+    [
+      "risk avoidance",
+      "facilitates",
+      "safe location"
+    ],
+    [
+      "risk avoidance",
+      "informs",
+      "survival strategies"
+    ],
+    [
+      "risk avoidance",
+      "involves",
+      "headshots"
+    ],
+    [
+      "risk avoidance",
+      "supports",
+      "survival supplies"
+    ],
+    [
+      "roles and responsibilities",
+      "facilitates",
+      "communication system"
+    ],
+    [
+      "roles and responsibilities",
+      "improves",
+      "safety measures"
+    ],
+    [
+      "roles and responsibilities",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "roles and responsibilities",
+      "involves",
+      "risk avoidance"
+    ],
+    [
+      "roles and responsibilities",
+      "involves",
+      "stockpiling essentials"
+    ],
+    [
+      "roles and responsibilities",
+      "is essential for",
+      "medical kit"
+    ],
+    [
+      "roles and responsibilities",
+      "is implemented in",
+      "safe location"
+    ],
+    [
+      "roles and responsibilities",
+      "is influenced by",
+      "positive mindset"
+    ],
+    [
+      "roles and responsibilities",
+      "is necessary for",
+      "clean water"
+    ],
+    [
+      "roles and responsibilities",
+      "is necessary for",
+      "survival supplies"
+    ],
+    [
+      "roles and responsibilities",
+      "is used for",
+      "flashlight"
+    ],
+    [
+      "roles and responsibilities",
+      "promotes",
+      "resourcefulness"
+    ],
+    [
+      "roles and responsibilities",
+      "requires",
+      "teamwork"
+    ],
+    [
+      "safe location",
+      "informs",
+      "danger awareness"
+    ],
+    [
+      "safe location",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "safe location",
+      "is influenced by",
+      "zombie characteristics"
+    ],
+    [
+      "safe location",
+      "provides",
+      "mental resilience"
+    ],
+    [
+      "safe location",
+      "provides",
+      "proper nutrition"
+    ],
+    [
+      "safe location",
+      "provides",
+      "resource management"
+    ],
+    [
+      "safe location",
+      "provides",
+      "survival supplies"
+    ],
+    [
+      "safe location",
+      "provides safety for",
+      "trustworthy individuals"
+    ],
+    [
+      "safe location",
+      "requires",
+      "clean water"
+    ],
+    [
+      "safe location",
+      "supports",
+      "adequate rest"
+    ],
+    [
+      "safe location",
+      "supports",
+      "avoid confrontations"
+    ],
+    [
+      "safe location",
+      "supports",
+      "first aid"
+    ],
+    [
+      "safety measures",
+      "enhances",
+      "knowledge"
+    ],
+    [
+      "safety measures",
+      "enhances",
+      "resourcefulness"
+    ],
+    [
+      "safety measures",
+      "ensures",
+      "clean water"
+    ],
+    [
+      "safety measures",
+      "improves",
+      "physical fitness"
+    ],
+    [
+      "safety measures",
+      "informs",
+      "crisis planning"
+    ],
+    [
+      "safety measures",
+      "provides",
+      "survival supplies"
+    ],
+    [
+      "safety measures",
+      "supports",
+      "learning new skills"
+    ],
+    [
+      "safety prioritization",
+      "defines",
+      "roles and responsibilities"
+    ],
+    [
+      "safety prioritization",
+      "depends on",
+      "health maintenance"
+    ],
+    [
+      "safety prioritization",
+      "enhances",
+      "physical fitness"
+    ],
+    [
+      "safety prioritization",
+      "ensures",
+      "clean water"
+    ],
+    [
+      "safety prioritization",
+      "guides",
+      "outbreak response"
+    ],
+    [
+      "safety prioritization",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "safety prioritization",
+      "is improved by",
+      "crisis management"
+    ],
+    [
+      "safety prioritization",
+      "is necessary for",
+      "safe location"
+    ],
+    [
+      "safety prioritization",
+      "promotes",
+      "teamwork"
+    ],
+    [
+      "safety prioritization",
+      "supports",
+      "avoid confrontations"
+    ],
+    [
+      "safety prioritization",
+      "supports",
+      "coping mechanisms"
+    ],
+    [
+      "safety prioritization",
+      "supports",
+      "medical kit"
+    ],
+    [
+      "stockpiling essentials",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "stockpiling essentials",
+      "includes",
+      "batteries"
+    ],
+    [
+      "stockpiling essentials",
+      "increases",
+      "water supply"
+    ],
+    [
+      "stockpiling essentials",
+      "is crucial for",
+      "outbreak response"
+    ],
+    [
+      "stockpiling essentials",
+      "is part of",
+      "flashlight"
+    ],
+    [
+      "stockpiling essentials",
+      "requires",
+      "risk avoidance"
+    ],
+    [
+      "stockpiling essentials",
+      "supports",
+      "communication system"
+    ],
+    [
+      "stockpiling essentials",
+      "supports",
+      "coping mechanisms"
+    ],
+    [
+      "stress management",
+      "assists",
+      "zombie characteristics"
+    ],
+    [
+      "stress management",
+      "enhances",
+      "knowledge"
+    ],
+    [
+      "stress management",
+      "enhances",
+      "positive mindset"
+    ],
+    [
+      "stress management",
+      "enhances",
+      "safety measures"
+    ],
+    [
+      "stress management",
+      "improves",
+      "emergency readiness"
+    ],
+    [
+      "stress management",
+      "improves",
+      "headshots"
+    ],
+    [
+      "stress management",
+      "improves",
+      "risk avoidance"
+    ],
+    [
+      "stress management",
+      "improves",
+      "stockpiling essentials"
+    ],
+    [
+      "stress management",
+      "includes",
+      "coping mechanisms"
+    ],
+    [
+      "stress management",
+      "is essential for",
+      "preparation"
+    ],
+    [
+      "stress management",
+      "requires",
+      "quick decisions"
+    ],
+    [
+      "stress management",
+      "supports",
+      "health maintenance"
+    ],
+    [
+      "stress management",
+      "supports",
+      "survival strategies"
+    ],
+    [
+      "stress management",
+      "supports",
+      "water supply"
+    ],
+    [
+      "stress management",
+      "utilizes",
+      "multi-tool"
+    ],
+    [
+      "survival kit",
+      "contains",
+      "non-perishable food"
+    ],
+    [
+      "survival kit",
+      "demonstrates",
+      "resourcefulness"
+    ],
+    [
+      "survival kit",
+      "enhances",
+      "communication system"
+    ],
+    [
+      "survival kit",
+      "enhances",
+      "knowledge"
+    ],
+    [
+      "survival kit",
+      "enhances",
+      "survival mindset"
+    ],
+    [
+      "survival kit",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "survival kit",
+      "includes",
+      "roles and responsibilities"
+    ],
+    [
+      "survival kit",
+      "includes",
+      "safe location"
+    ],
+    [
+      "survival kit",
+      "includes",
+      "stockpiling essentials"
+    ],
+    [
+      "survival kit",
+      "informs",
+      "quick decisions"
+    ],
+    [
+      "survival kit",
+      "is critical for",
+      "outbreak response"
+    ],
+    [
+      "survival kit",
+      "is part of",
+      "escape plan"
+    ],
+    [
+      "survival kit",
+      "powers",
+      "batteries"
+    ],
+    [
+      "survival kit",
+      "provides",
+      "safety measures"
+    ],
+    [
+      "survival kit",
+      "requires",
+      "adaptability"
+    ],
+    [
+      "survival mindset",
+      "enhances",
+      "resourcefulness"
+    ],
+    [
+      "survival mindset",
+      "facilitates",
+      "coping mechanisms"
+    ],
+    [
+      "survival mindset",
+      "informs",
+      "zombie characteristics"
+    ],
+    [
+      "survival mindset",
+      "is included in",
+      "flashlight"
+    ],
+    [
+      "survival mindset",
+      "promotes",
+      "risk avoidance"
+    ],
+    [
+      "survival mindset",
+      "promotes",
+      "teamwork"
+    ],
+    [
+      "survival mindset",
+      "requires",
+      "emergency readiness"
+    ],
+    [
+      "survival mindset",
+      "requires",
+      "stockpiling essentials"
+    ],
+    [
+      "survival mindset",
+      "supports",
+      "communication system"
+    ],
+    [
+      "survival strategies",
+      "requires",
+      "quick decisions"
+    ],
+    [
+      "survival supplies",
+      "informs",
+      "survival strategies"
+    ],
+    [
+      "survival supplies",
+      "is part of",
+      "communication system"
+    ],
+    [
+      "survival supplies",
+      "requires",
+      "teamwork"
+    ],
+    [
+      "teamwork",
+      "enhances",
+      "knowledge"
+    ],
+    [
+      "teamwork",
+      "facilitates",
+      "communication system"
+    ],
+    [
+      "teamwork",
+      "is facilitated by",
+      "flashlight"
+    ],
+    [
+      "teamwork",
+      "requires",
+      "quick decisions"
+    ],
+    [
+      "trustworthy individuals",
+      "contributes to",
+      "mental resilience"
+    ],
+    [
+      "trustworthy individuals",
+      "enables",
+      "preparation"
+    ],
+    [
+      "trustworthy individuals",
+      "enhances",
+      "coping mechanisms"
+    ],
+    [
+      "trustworthy individuals",
+      "enhances",
+      "crisis planning"
+    ],
+    [
+      "trustworthy individuals",
+      "enhances",
+      "emergency readiness"
+    ],
+    [
+      "trustworthy individuals",
+      "enhances",
+      "learning new skills"
+    ],
+    [
+      "trustworthy individuals",
+      "enhances",
+      "safety measures"
+    ],
+    [
+      "trustworthy individuals",
+      "enhances",
+      "survival kit"
+    ],
+    [
+      "trustworthy individuals",
+      "facilitates",
+      "quick decisions"
+    ],
+    [
+      "trustworthy individuals",
+      "helps to",
+      "avoid confrontations"
+    ],
+    [
+      "trustworthy individuals",
+      "includes",
+      "flashlight"
+    ],
+    [
+      "trustworthy individuals",
+      "informs",
+      "zombie characteristics"
+    ],
+    [
+      "trustworthy individuals",
+      "is essential for",
+      "escape plan"
+    ],
+    [
+      "trustworthy individuals",
+      "is necessary for",
+      "health maintenance"
+    ],
+    [
+      "trustworthy individuals",
+      "provides",
+      "first aid"
+    ],
+    [
+      "trustworthy individuals",
+      "relies on",
+      "proper nutrition"
+    ],
+    [
+      "trustworthy individuals",
+      "seeks shelter in",
+      "safe location"
+    ],
+    [
+      "trustworthy individuals",
+      "supports",
+      "emotional well-being"
+    ],
+    [
+      "trustworthy individuals",
+      "supports",
+      "resourcefulness"
+    ],
+    [
+      "trustworthy individuals",
+      "supports",
+      "survival mindset"
+    ],
+    [
+      "water supply",
+      "depends on",
+      "safety prioritization"
+    ],
+    [
+      "water supply",
+      "enhances",
+      "emotional well-being"
+    ],
+    [
+      "water supply",
+      "enhances",
+      "resourcefulness"
+    ],
+    [
+      "water supply",
+      "facilitates",
+      "communication system"
+    ],
+    [
+      "water supply",
+      "provides",
+      "clean water"
+    ],
+    [
+      "water supply",
+      "supports",
+      "safe location"
+    ],
+    [
+      "weapons preparedness",
+      "complements",
+      "multi-tool"
+    ],
+    [
+      "weapons preparedness",
+      "complements",
+      "non-perishable food"
+    ],
+    [
+      "weapons preparedness",
+      "enhances",
+      "adaptability"
+    ],
+    [
+      "weapons preparedness",
+      "enhances",
+      "batteries"
+    ],
+    [
+      "weapons preparedness",
+      "enhances",
+      "positive mindset"
+    ],
+    [
+      "weapons preparedness",
+      "ensures",
+      "safe location"
+    ],
+    [
+      "weapons preparedness",
+      "facilitates",
+      "coordination"
+    ],
+    [
+      "weapons preparedness",
+      "includes",
+      "survival kit"
+    ],
+    [
+      "weapons preparedness",
+      "informs",
+      "danger awareness"
+    ],
+    [
+      "weapons preparedness",
+      "informs",
+      "knowledge"
+    ],
+    [
+      "weapons preparedness",
+      "informs",
+      "safety measures"
+    ],
+    [
+      "weapons preparedness",
+      "involves",
+      "roles and responsibilities"
+    ],
+    [
+      "weapons preparedness",
+      "is part of",
+      "preparation"
+    ],
+    [
+      "weapons preparedness",
+      "prepares for",
+      "crisis management"
+    ],
+    [
+      "weapons preparedness",
+      "reduces",
+      "risk avoidance"
+    ],
+    [
+      "weapons preparedness",
+      "requires",
+      "headshots"
+    ],
+    [
+      "weapons preparedness",
+      "supports",
+      "escape plan"
+    ],
+    [
+      "weapons preparedness",
+      "supports",
+      "first aid"
+    ],
+    [
+      "weapons preparedness",
+      "supports",
+      "resource management"
+    ],
+    [
+      "weapons preparedness",
+      "supports",
+      "trustworthy individuals"
+    ],
+    [
+      "zombie characteristics",
+      "facilitates",
+      "communication system"
+    ],
+    [
+      "zombie characteristics",
+      "guides",
+      "escape plan"
+    ],
+    [
+      "zombie characteristics",
+      "informs",
+      "first aid"
+    ],
+    [
+      "zombie characteristics",
+      "informs",
+      "medical kit"
+    ],
+    [
+      "zombie characteristics",
+      "informs",
+      "proper nutrition"
+    ],
+    [
+      "zombie characteristics",
+      "informs",
+      "quick decisions"
+    ],
+    [
+      "zombie characteristics",
+      "informs",
+      "safety prioritization"
+    ],
+    [
+      "zombie characteristics",
+      "requires",
+      "teamwork"
+    ]
+  ],
+  "edges": [
+    "aids",
+    "aids in",
+    "assists",
+    "benefits from",
+    "complements",
+    "component of",
+    "comprises",
+    "contains",
+    "contributes to",
+    "defines",
+    "demonstrates",
+    "depends on",
+    "enables",
+    "encourages",
+    "enhances",
+    "ensures",
+    "establishes",
+    "facilitates",
+    "guides",
+    "helps to",
+    "illuminates",
+    "improves",
+    "includes",
+    "increases",
+    "influences",
+    "informs",
+    "involves",
+    "is contained in",
+    "is critical for",
+    "is crucial for",
+    "is enhanced by",
+    "is essential for",
+    "is facilitated by",
+    "is foundational to",
+    "is implemented in",
+    "is improved by",
+    "is included in",
+    "is influenced by",
+    "is linked to",
+    "is necessary for",
+    "is needed for",
+    "is part of",
+    "is related to",
+    "is required for",
+    "is supported by",
+    "is used for",
+    "manages",
+    "mitigates",
+    "necessitates",
+    "powers",
+    "prepares for",
+    "prioritizes",
+    "promotes",
+    "provides",
+    "provides safety for",
+    "reduces",
+    "relies on",
+    "requires",
+    "seeks shelter in",
+    "supports",
+    "utilized by",
+    "utilizes"
+  ]
+}

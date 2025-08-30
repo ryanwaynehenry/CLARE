@@ -1,0 +1,1807 @@
+{
+  "entities": [
+    "academic growth",
+    "access to resources",
+    "beacons of knowledge",
+    "book clubs",
+    "collective memory",
+    "community connection",
+    "community engagement",
+    "community events",
+    "community hubs",
+    "community services",
+    "community support",
+    "critical thinking",
+    "cultural enrichment",
+    "cultural heritage",
+    "cultural identity",
+    "democracy",
+    "democratic discourse",
+    "digital collections",
+    "digital divide",
+    "digital literacy",
+    "digital resources",
+    "diverse viewpoints",
+    "educational programs",
+    "educational support",
+    "electronic databases",
+    "empowerment",
+    "engagement activities",
+    "enhancing knowledge",
+    "exploration",
+    "exploration opportunities",
+    "heritage preservation",
+    "ideas",
+    "individual potential",
+    "information access",
+    "information literacy",
+    "informed citizenship",
+    "intellectual freedom",
+    "internet services",
+    "knowledge repositories",
+    "knowledge sharing",
+    "learning support",
+    "libraries",
+    "lifelong learning",
+    "literacy promotion",
+    "online resources",
+    "patron needs",
+    "personal growth",
+    "physical resources",
+    "programs and exhibitions",
+    "relationship building",
+    "resource diversity",
+    "social fabric",
+    "social gatherings",
+    "societal advancement",
+    "societal contribution",
+    "technology access",
+    "varied interests",
+    "workshops"
+  ],
+  "relations": [
+    [
+      "academic growth",
+      "supports",
+      "educational programs"
+    ],
+    [
+      "access to resources",
+      "facilitates",
+      "online resources"
+    ],
+    [
+      "access to resources",
+      "facilitates",
+      "personal growth"
+    ],
+    [
+      "access to resources",
+      "includes",
+      "digital collections"
+    ],
+    [
+      "beacons of knowledge",
+      "offers",
+      "learning support"
+    ],
+    [
+      "beacons of knowledge",
+      "promotes",
+      "cultural identity"
+    ],
+    [
+      "beacons of knowledge",
+      "provides",
+      "access to resources"
+    ],
+    [
+      "beacons of knowledge",
+      "provides",
+      "information access"
+    ],
+    [
+      "beacons of knowledge",
+      "serves as",
+      "technology access"
+    ],
+    [
+      "beacons of knowledge",
+      "supports",
+      "cultural heritage"
+    ],
+    [
+      "beacons of knowledge",
+      "supports",
+      "democracy"
+    ],
+    [
+      "book clubs",
+      "benefits from",
+      "societal contribution"
+    ],
+    [
+      "book clubs",
+      "encourages",
+      "informed citizenship"
+    ],
+    [
+      "book clubs",
+      "facilitates",
+      "workshops"
+    ],
+    [
+      "book clubs",
+      "includes",
+      "programs and exhibitions"
+    ],
+    [
+      "book clubs",
+      "provides",
+      "access to resources"
+    ],
+    [
+      "book clubs",
+      "provides",
+      "digital resources"
+    ],
+    [
+      "collective memory",
+      "enhances",
+      "cultural enrichment"
+    ],
+    [
+      "collective memory",
+      "fosters",
+      "empowerment"
+    ],
+    [
+      "collective memory",
+      "preserves",
+      "community hubs"
+    ],
+    [
+      "community connection",
+      "encourages",
+      "workshops"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "democratic discourse"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "digital literacy"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "educational programs"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "information literacy"
+    ],
+    [
+      "community engagement",
+      "fosters",
+      "book clubs"
+    ],
+    [
+      "community engagement",
+      "fosters",
+      "community events"
+    ],
+    [
+      "community engagement",
+      "preserves",
+      "collective memory"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "intellectual freedom"
+    ],
+    [
+      "community engagement",
+      "provides",
+      "access to resources"
+    ],
+    [
+      "community engagement",
+      "provides",
+      "online resources"
+    ],
+    [
+      "community engagement",
+      "provides access to",
+      "internet services"
+    ],
+    [
+      "community engagement",
+      "supports",
+      "lifelong learning"
+    ],
+    [
+      "community engagement",
+      "supports",
+      "personal growth"
+    ],
+    [
+      "community events",
+      "fosters",
+      "cultural identity"
+    ],
+    [
+      "community events",
+      "includes",
+      "workshops"
+    ],
+    [
+      "community events",
+      "promotes",
+      "informed citizenship"
+    ],
+    [
+      "community events",
+      "provides",
+      "online resources"
+    ],
+    [
+      "community events",
+      "stimulates",
+      "ideas"
+    ],
+    [
+      "community events",
+      "supports",
+      "community services"
+    ],
+    [
+      "community events",
+      "supports",
+      "democracy"
+    ],
+    [
+      "community hubs",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "community hubs",
+      "fosters",
+      "community engagement"
+    ],
+    [
+      "community hubs",
+      "fosters",
+      "ideas"
+    ],
+    [
+      "community hubs",
+      "offers",
+      "educational programs"
+    ],
+    [
+      "community hubs",
+      "preserves",
+      "cultural heritage"
+    ],
+    [
+      "community hubs",
+      "promotes",
+      "informed citizenship"
+    ],
+    [
+      "community hubs",
+      "promotes",
+      "lifelong learning"
+    ],
+    [
+      "community hubs",
+      "provides",
+      "cultural enrichment"
+    ],
+    [
+      "community hubs",
+      "provides",
+      "physical resources"
+    ],
+    [
+      "community hubs",
+      "provides",
+      "technology access"
+    ],
+    [
+      "community hubs",
+      "supports",
+      "democracy"
+    ],
+    [
+      "community hubs",
+      "utilizes",
+      "electronic databases"
+    ],
+    [
+      "community services",
+      "contributes to",
+      "personal growth"
+    ],
+    [
+      "community services",
+      "enables",
+      "empowerment"
+    ],
+    [
+      "community services",
+      "enhances",
+      "digital literacy"
+    ],
+    [
+      "community services",
+      "includes",
+      "programs and exhibitions"
+    ],
+    [
+      "community services",
+      "shapes",
+      "cultural identity"
+    ],
+    [
+      "community services",
+      "supports",
+      "educational programs"
+    ],
+    [
+      "community services",
+      "supports",
+      "workshops"
+    ],
+    [
+      "community support",
+      "encourages",
+      "ideas"
+    ],
+    [
+      "community support",
+      "enhances",
+      "democratic discourse"
+    ],
+    [
+      "community support",
+      "fosters",
+      "knowledge sharing"
+    ],
+    [
+      "community support",
+      "is aided by",
+      "patron needs"
+    ],
+    [
+      "community support",
+      "promotes",
+      "lifelong learning"
+    ],
+    [
+      "community support",
+      "provides",
+      "exploration opportunities"
+    ],
+    [
+      "community support",
+      "represents",
+      "beacons of knowledge"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "digital collections"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "digital literacy"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "enhancing knowledge"
+    ],
+    [
+      "critical thinking",
+      "preserves",
+      "heritage preservation"
+    ],
+    [
+      "critical thinking",
+      "promotes",
+      "educational programs"
+    ],
+    [
+      "critical thinking",
+      "supports",
+      "access to resources"
+    ],
+    [
+      "critical thinking",
+      "supports",
+      "diverse viewpoints"
+    ],
+    [
+      "critical thinking",
+      "supports",
+      "information literacy"
+    ],
+    [
+      "critical thinking",
+      "supports",
+      "workshops"
+    ],
+    [
+      "cultural enrichment",
+      "enhances",
+      "cultural identity"
+    ],
+    [
+      "cultural enrichment",
+      "enhances",
+      "social gatherings"
+    ],
+    [
+      "cultural enrichment",
+      "facilitates",
+      "engagement activities"
+    ],
+    [
+      "cultural enrichment",
+      "fosters",
+      "community connection"
+    ],
+    [
+      "cultural enrichment",
+      "improves",
+      "digital literacy"
+    ],
+    [
+      "cultural enrichment",
+      "leads to",
+      "empowerment"
+    ],
+    [
+      "cultural enrichment",
+      "serves as",
+      "knowledge repositories"
+    ],
+    [
+      "cultural heritage",
+      "enhances",
+      "cultural enrichment"
+    ],
+    [
+      "cultural heritage",
+      "enhances",
+      "information literacy"
+    ],
+    [
+      "cultural heritage",
+      "facilitates",
+      "information access"
+    ],
+    [
+      "cultural heritage",
+      "hosts",
+      "book clubs"
+    ],
+    [
+      "cultural heritage",
+      "informs",
+      "diverse viewpoints"
+    ],
+    [
+      "cultural heritage",
+      "preserves",
+      "societal contribution"
+    ],
+    [
+      "cultural heritage",
+      "promotes",
+      "knowledge sharing"
+    ],
+    [
+      "cultural heritage",
+      "provides",
+      "access to resources"
+    ],
+    [
+      "cultural heritage",
+      "supports",
+      "educational programs"
+    ],
+    [
+      "cultural identity",
+      "explored through",
+      "workshops"
+    ],
+    [
+      "cultural identity",
+      "influences",
+      "societal contribution"
+    ],
+    [
+      "cultural identity",
+      "informs",
+      "knowledge repositories"
+    ],
+    [
+      "cultural identity",
+      "preserves",
+      "digital collections"
+    ],
+    [
+      "cultural identity",
+      "provides access to",
+      "access to resources"
+    ],
+    [
+      "cultural identity",
+      "represents",
+      "community hubs"
+    ],
+    [
+      "cultural identity",
+      "shapes",
+      "information access"
+    ],
+    [
+      "cultural identity",
+      "shapes",
+      "social fabric"
+    ],
+    [
+      "cultural identity",
+      "supports",
+      "democracy"
+    ],
+    [
+      "democratic discourse",
+      "empowers",
+      "empowerment"
+    ],
+    [
+      "democratic discourse",
+      "enables",
+      "digital resources"
+    ],
+    [
+      "democratic discourse",
+      "facilitates",
+      "access to resources"
+    ],
+    [
+      "democratic discourse",
+      "facilitates",
+      "community connection"
+    ],
+    [
+      "democratic discourse",
+      "influences",
+      "varied interests"
+    ],
+    [
+      "democratic discourse",
+      "shapes",
+      "social fabric"
+    ],
+    [
+      "democratic discourse",
+      "supports",
+      "beacons of knowledge"
+    ],
+    [
+      "democratic discourse",
+      "supports",
+      "cultural heritage"
+    ],
+    [
+      "digital collections",
+      "includes",
+      "cultural heritage"
+    ],
+    [
+      "digital collections",
+      "includes",
+      "social gatherings"
+    ],
+    [
+      "digital collections",
+      "provides",
+      "community services"
+    ],
+    [
+      "digital collections",
+      "supports",
+      "digital literacy"
+    ],
+    [
+      "digital collections",
+      "supports",
+      "ideas"
+    ],
+    [
+      "digital divide",
+      "addresses",
+      "community events"
+    ],
+    [
+      "digital divide",
+      "addresses",
+      "community services"
+    ],
+    [
+      "digital divide",
+      "bridges",
+      "community engagement"
+    ],
+    [
+      "digital divide",
+      "bridges",
+      "online resources"
+    ],
+    [
+      "digital divide",
+      "contributes to",
+      "societal advancement"
+    ],
+    [
+      "digital divide",
+      "creates",
+      "exploration opportunities"
+    ],
+    [
+      "digital divide",
+      "enables",
+      "personal growth"
+    ],
+    [
+      "digital divide",
+      "improves",
+      "information literacy"
+    ],
+    [
+      "digital divide",
+      "provides",
+      "access to resources"
+    ],
+    [
+      "digital divide",
+      "provides",
+      "internet services"
+    ],
+    [
+      "digital divide",
+      "provides",
+      "learning support"
+    ],
+    [
+      "digital divide",
+      "supports",
+      "democracy"
+    ],
+    [
+      "digital divide",
+      "supports",
+      "lifelong learning"
+    ],
+    [
+      "digital literacy",
+      "addresses",
+      "societal advancement"
+    ],
+    [
+      "digital resources",
+      "enables",
+      "access to resources"
+    ],
+    [
+      "digital resources",
+      "enables",
+      "information access"
+    ],
+    [
+      "digital resources",
+      "enhances",
+      "community events"
+    ],
+    [
+      "digital resources",
+      "enriches",
+      "cultural enrichment"
+    ],
+    [
+      "digital resources",
+      "improves",
+      "information literacy"
+    ],
+    [
+      "digital resources",
+      "includes",
+      "digital collections"
+    ],
+    [
+      "digital resources",
+      "provides",
+      "beacons of knowledge"
+    ],
+    [
+      "digital resources",
+      "provides",
+      "digital divide"
+    ],
+    [
+      "digital resources",
+      "provides",
+      "educational support"
+    ],
+    [
+      "digital resources",
+      "supported by",
+      "diverse viewpoints"
+    ],
+    [
+      "diverse viewpoints",
+      "contributes to",
+      "societal advancement"
+    ],
+    [
+      "diverse viewpoints",
+      "fosters",
+      "community connection"
+    ],
+    [
+      "diverse viewpoints",
+      "includes",
+      "digital collections"
+    ],
+    [
+      "diverse viewpoints",
+      "includes",
+      "programs and exhibitions"
+    ],
+    [
+      "diverse viewpoints",
+      "informs",
+      "engagement activities"
+    ],
+    [
+      "diverse viewpoints",
+      "reflects",
+      "patron needs"
+    ],
+    [
+      "diverse viewpoints",
+      "supports",
+      "academic growth"
+    ],
+    [
+      "educational programs",
+      "enhances",
+      "book clubs"
+    ],
+    [
+      "educational programs",
+      "enhances",
+      "community connection"
+    ],
+    [
+      "educational programs",
+      "enhances",
+      "digital literacy"
+    ],
+    [
+      "educational programs",
+      "improves",
+      "information literacy"
+    ],
+    [
+      "educational programs",
+      "informs",
+      "ideas"
+    ],
+    [
+      "educational programs",
+      "is enhanced by",
+      "societal contribution"
+    ],
+    [
+      "educational programs",
+      "provides",
+      "learning support"
+    ],
+    [
+      "educational programs",
+      "strengthens",
+      "social fabric"
+    ],
+    [
+      "educational programs",
+      "supports",
+      "collective memory"
+    ],
+    [
+      "educational support",
+      "enhances",
+      "digital literacy"
+    ],
+    [
+      "educational support",
+      "enhances",
+      "electronic databases"
+    ],
+    [
+      "educational support",
+      "provides",
+      "personal growth"
+    ],
+    [
+      "electronic databases",
+      "addresses",
+      "digital divide"
+    ],
+    [
+      "electronic databases",
+      "enhances",
+      "community services"
+    ],
+    [
+      "electronic databases",
+      "enhances",
+      "digital literacy"
+    ],
+    [
+      "electronic databases",
+      "enhances",
+      "personal growth"
+    ],
+    [
+      "electronic databases",
+      "fosters",
+      "relationship building"
+    ],
+    [
+      "electronic databases",
+      "promotes",
+      "informed citizenship"
+    ],
+    [
+      "electronic databases",
+      "reflects",
+      "cultural identity"
+    ],
+    [
+      "electronic databases",
+      "serves as",
+      "beacons of knowledge"
+    ],
+    [
+      "electronic databases",
+      "supports",
+      "book clubs"
+    ],
+    [
+      "electronic databases",
+      "supports",
+      "information literacy"
+    ],
+    [
+      "electronic databases",
+      "supports",
+      "lifelong learning"
+    ],
+    [
+      "empowerment",
+      "enables",
+      "diverse viewpoints"
+    ],
+    [
+      "empowerment",
+      "enables",
+      "informed citizenship"
+    ],
+    [
+      "empowerment",
+      "enables",
+      "social gatherings"
+    ],
+    [
+      "engagement activities",
+      "promotes",
+      "lifelong learning"
+    ],
+    [
+      "engagement activities",
+      "supports",
+      "literacy promotion"
+    ],
+    [
+      "enhancing knowledge",
+      "enhances",
+      "information literacy"
+    ],
+    [
+      "enhancing knowledge",
+      "promotes",
+      "personal growth"
+    ],
+    [
+      "enhancing knowledge",
+      "supports",
+      "lifelong learning"
+    ],
+    [
+      "exploration",
+      "enables",
+      "physical resources"
+    ],
+    [
+      "exploration",
+      "includes",
+      "programs and exhibitions"
+    ],
+    [
+      "exploration",
+      "promotes",
+      "beacons of knowledge"
+    ],
+    [
+      "exploration opportunities",
+      "offers",
+      "digital resources"
+    ],
+    [
+      "exploration opportunities",
+      "provides",
+      "lifelong learning"
+    ],
+    [
+      "exploration opportunities",
+      "provides",
+      "physical resources"
+    ],
+    [
+      "heritage preservation",
+      "enhances",
+      "digital literacy"
+    ],
+    [
+      "heritage preservation",
+      "promotes",
+      "literacy promotion"
+    ],
+    [
+      "heritage preservation",
+      "supports",
+      "democracy"
+    ],
+    [
+      "heritage preservation",
+      "supports",
+      "digital resources"
+    ],
+    [
+      "heritage preservation",
+      "supports",
+      "educational programs"
+    ],
+    [
+      "heritage preservation",
+      "supports",
+      "physical resources"
+    ],
+    [
+      "ideas",
+      "contributes to",
+      "societal advancement"
+    ],
+    [
+      "ideas",
+      "fosters",
+      "community connection"
+    ],
+    [
+      "ideas",
+      "informs",
+      "workshops"
+    ],
+    [
+      "ideas",
+      "leads to",
+      "empowerment"
+    ],
+    [
+      "individual potential",
+      "contributes to",
+      "online resources"
+    ],
+    [
+      "individual potential",
+      "drives",
+      "societal advancement"
+    ],
+    [
+      "individual potential",
+      "enables",
+      "exploration"
+    ],
+    [
+      "individual potential",
+      "enhances",
+      "digital literacy"
+    ],
+    [
+      "individual potential",
+      "enhances",
+      "knowledge repositories"
+    ],
+    [
+      "individual potential",
+      "improves",
+      "information literacy"
+    ],
+    [
+      "individual potential",
+      "shapes",
+      "cultural identity"
+    ],
+    [
+      "information access",
+      "enables",
+      "digital collections"
+    ],
+    [
+      "information access",
+      "enables",
+      "physical resources"
+    ],
+    [
+      "information access",
+      "enhances",
+      "information literacy"
+    ],
+    [
+      "information literacy",
+      "enhances",
+      "informed citizenship"
+    ],
+    [
+      "information literacy",
+      "enhances",
+      "internet services"
+    ],
+    [
+      "information literacy",
+      "enhances",
+      "physical resources"
+    ],
+    [
+      "informed citizenship",
+      "contributes to",
+      "collective memory"
+    ],
+    [
+      "informed citizenship",
+      "enables",
+      "democratic discourse"
+    ],
+    [
+      "informed citizenship",
+      "enhanced by",
+      "digital resources"
+    ],
+    [
+      "informed citizenship",
+      "enhances",
+      "digital literacy"
+    ],
+    [
+      "informed citizenship",
+      "enhances",
+      "literacy promotion"
+    ],
+    [
+      "informed citizenship",
+      "facilitates",
+      "workshops"
+    ],
+    [
+      "informed citizenship",
+      "informs",
+      "ideas"
+    ],
+    [
+      "informed citizenship",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "informed citizenship",
+      "promotes",
+      "digital collections"
+    ],
+    [
+      "informed citizenship",
+      "promotes",
+      "engagement activities"
+    ],
+    [
+      "informed citizenship",
+      "supports",
+      "patron needs"
+    ],
+    [
+      "informed citizenship",
+      "supports",
+      "programs and exhibitions"
+    ],
+    [
+      "intellectual freedom",
+      "enables",
+      "diverse viewpoints"
+    ],
+    [
+      "intellectual freedom",
+      "enhances",
+      "digital literacy"
+    ],
+    [
+      "intellectual freedom",
+      "enhances",
+      "educational programs"
+    ],
+    [
+      "intellectual freedom",
+      "facilitates",
+      "knowledge sharing"
+    ],
+    [
+      "intellectual freedom",
+      "preserves",
+      "collective memory"
+    ],
+    [
+      "intellectual freedom",
+      "promotes",
+      "democracy"
+    ],
+    [
+      "intellectual freedom",
+      "supports",
+      "digital resources"
+    ],
+    [
+      "internet services",
+      "enabled by",
+      "relationship building"
+    ],
+    [
+      "internet services",
+      "facilitated by",
+      "lifelong learning"
+    ],
+    [
+      "internet services",
+      "facilitates",
+      "diverse viewpoints"
+    ],
+    [
+      "internet services",
+      "improves",
+      "digital literacy"
+    ],
+    [
+      "internet services",
+      "provides",
+      "access to resources"
+    ],
+    [
+      "internet services",
+      "provides",
+      "book clubs"
+    ],
+    [
+      "internet services",
+      "supports",
+      "democratic discourse"
+    ],
+    [
+      "internet services",
+      "supports",
+      "electronic databases"
+    ],
+    [
+      "knowledge repositories",
+      "enhances",
+      "digital literacy"
+    ],
+    [
+      "knowledge repositories",
+      "informs",
+      "critical thinking"
+    ],
+    [
+      "knowledge repositories",
+      "supports",
+      "heritage preservation"
+    ],
+    [
+      "knowledge repositories",
+      "upholds",
+      "democracy"
+    ],
+    [
+      "knowledge sharing",
+      "represents",
+      "beacons of knowledge"
+    ],
+    [
+      "learning support",
+      "provides",
+      "societal contribution"
+    ],
+    [
+      "learning support",
+      "supports",
+      "book clubs"
+    ],
+    [
+      "learning support",
+      "supports",
+      "information access"
+    ],
+    [
+      "learning support",
+      "supports",
+      "physical resources"
+    ],
+    [
+      "libraries",
+      "enhances",
+      "enhancing knowledge"
+    ],
+    [
+      "libraries",
+      "hosts",
+      "workshops"
+    ],
+    [
+      "libraries",
+      "includes",
+      "digital collections"
+    ],
+    [
+      "libraries",
+      "is preserved by",
+      "collective memory"
+    ],
+    [
+      "libraries",
+      "is supported by",
+      "ideas"
+    ],
+    [
+      "libraries",
+      "offers",
+      "educational programs"
+    ],
+    [
+      "libraries",
+      "offers",
+      "internet services"
+    ],
+    [
+      "libraries",
+      "promotes",
+      "democracy"
+    ],
+    [
+      "libraries",
+      "provides",
+      "access to resources"
+    ],
+    [
+      "libraries",
+      "provides",
+      "digital resources"
+    ],
+    [
+      "libraries",
+      "provides access to",
+      "digital divide"
+    ],
+    [
+      "libraries",
+      "serves",
+      "varied interests"
+    ],
+    [
+      "libraries",
+      "supported by",
+      "academic growth"
+    ],
+    [
+      "libraries",
+      "supports",
+      "cultural identity"
+    ],
+    [
+      "libraries",
+      "supports",
+      "democratic discourse"
+    ],
+    [
+      "libraries",
+      "upholds",
+      "intellectual freedom"
+    ],
+    [
+      "lifelong learning",
+      "provides",
+      "access to resources"
+    ],
+    [
+      "lifelong learning",
+      "supports",
+      "community connection"
+    ],
+    [
+      "lifelong learning",
+      "supports",
+      "community events"
+    ],
+    [
+      "lifelong learning",
+      "supports",
+      "digital resources"
+    ],
+    [
+      "lifelong learning",
+      "supports",
+      "educational programs"
+    ],
+    [
+      "literacy promotion",
+      "facilitates",
+      "access to resources"
+    ],
+    [
+      "literacy promotion",
+      "facilitates",
+      "information access"
+    ],
+    [
+      "literacy promotion",
+      "facilitates",
+      "knowledge sharing"
+    ],
+    [
+      "literacy promotion",
+      "promotes",
+      "community support"
+    ],
+    [
+      "literacy promotion",
+      "provides",
+      "workshops"
+    ],
+    [
+      "online resources",
+      "improves",
+      "digital literacy"
+    ],
+    [
+      "online resources",
+      "includes",
+      "digital collections"
+    ],
+    [
+      "online resources",
+      "provides",
+      "book clubs"
+    ],
+    [
+      "online resources",
+      "provides",
+      "lifelong learning"
+    ],
+    [
+      "patron needs",
+      "addresses",
+      "community events"
+    ],
+    [
+      "patron needs",
+      "addresses",
+      "societal contribution"
+    ],
+    [
+      "patron needs",
+      "drives",
+      "community engagement"
+    ],
+    [
+      "personal growth",
+      "enhances",
+      "digital literacy"
+    ],
+    [
+      "personal growth",
+      "enhances",
+      "information literacy"
+    ],
+    [
+      "personal growth",
+      "facilitates",
+      "programs and exhibitions"
+    ],
+    [
+      "personal growth",
+      "fosters",
+      "literacy promotion"
+    ],
+    [
+      "physical resources",
+      "provides",
+      "access to resources"
+    ],
+    [
+      "physical resources",
+      "provides",
+      "digital divide"
+    ],
+    [
+      "physical resources",
+      "provides",
+      "educational support"
+    ],
+    [
+      "physical resources",
+      "supports",
+      "community events"
+    ],
+    [
+      "physical resources",
+      "utilizes",
+      "cultural heritage"
+    ],
+    [
+      "programs and exhibitions",
+      "addresses",
+      "patron needs"
+    ],
+    [
+      "programs and exhibitions",
+      "includes",
+      "empowerment"
+    ],
+    [
+      "relationship building",
+      "contributes to",
+      "societal advancement"
+    ],
+    [
+      "relationship building",
+      "enhances",
+      "cultural enrichment"
+    ],
+    [
+      "relationship building",
+      "enhances",
+      "educational programs"
+    ],
+    [
+      "relationship building",
+      "facilitates",
+      "access to resources"
+    ],
+    [
+      "relationship building",
+      "facilitates",
+      "democratic discourse"
+    ],
+    [
+      "relationship building",
+      "facilitates",
+      "social gatherings"
+    ],
+    [
+      "relationship building",
+      "promotes",
+      "literacy promotion"
+    ],
+    [
+      "resource diversity",
+      "addresses",
+      "digital divide"
+    ],
+    [
+      "resource diversity",
+      "caters to",
+      "varied interests"
+    ],
+    [
+      "resource diversity",
+      "encourages",
+      "social gatherings"
+    ],
+    [
+      "resource diversity",
+      "enhances",
+      "knowledge repositories"
+    ],
+    [
+      "resource diversity",
+      "includes",
+      "digital collections"
+    ],
+    [
+      "resource diversity",
+      "influences",
+      "democratic discourse"
+    ],
+    [
+      "resource diversity",
+      "provides",
+      "access to resources"
+    ],
+    [
+      "resource diversity",
+      "provides",
+      "internet services"
+    ],
+    [
+      "social fabric",
+      "contributes to",
+      "cultural heritage"
+    ],
+    [
+      "social fabric",
+      "contributes to",
+      "digital resources"
+    ],
+    [
+      "social fabric",
+      "contributes to",
+      "physical resources"
+    ],
+    [
+      "social gatherings",
+      "creates",
+      "exploration opportunities"
+    ],
+    [
+      "social gatherings",
+      "hosts",
+      "book clubs"
+    ],
+    [
+      "social gatherings",
+      "improves",
+      "information literacy"
+    ],
+    [
+      "social gatherings",
+      "involves",
+      "diverse viewpoints"
+    ],
+    [
+      "social gatherings",
+      "is enhanced by",
+      "informed citizenship"
+    ],
+    [
+      "societal advancement",
+      "advances",
+      "social fabric"
+    ],
+    [
+      "societal advancement",
+      "contributes to",
+      "knowledge repositories"
+    ],
+    [
+      "societal advancement",
+      "drives",
+      "enhancing knowledge"
+    ],
+    [
+      "societal advancement",
+      "supports",
+      "democracy"
+    ],
+    [
+      "societal advancement",
+      "supports",
+      "digital collections"
+    ],
+    [
+      "societal advancement",
+      "supports",
+      "programs and exhibitions"
+    ],
+    [
+      "societal contribution",
+      "enables",
+      "community services"
+    ],
+    [
+      "societal contribution",
+      "enhances",
+      "digital collections"
+    ],
+    [
+      "societal contribution",
+      "enhances",
+      "varied interests"
+    ],
+    [
+      "societal contribution",
+      "facilitates",
+      "democratic discourse"
+    ],
+    [
+      "societal contribution",
+      "facilitates",
+      "literacy promotion"
+    ],
+    [
+      "technology access",
+      "enables",
+      "collective memory"
+    ],
+    [
+      "technology access",
+      "enables",
+      "community events"
+    ],
+    [
+      "technology access",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "technology access",
+      "facilitates",
+      "heritage preservation"
+    ],
+    [
+      "technology access",
+      "facilitates",
+      "relationship building"
+    ],
+    [
+      "technology access",
+      "supports",
+      "enhancing knowledge"
+    ],
+    [
+      "technology access",
+      "supports",
+      "informed citizenship"
+    ],
+    [
+      "varied interests",
+      "addresses",
+      "community services"
+    ],
+    [
+      "varied interests",
+      "caters to",
+      "cultural heritage"
+    ],
+    [
+      "varied interests",
+      "caters to",
+      "digital resources"
+    ],
+    [
+      "varied interests",
+      "caters to",
+      "electronic databases"
+    ],
+    [
+      "varied interests",
+      "facilitates",
+      "workshops"
+    ],
+    [
+      "varied interests",
+      "fosters",
+      "community connection"
+    ],
+    [
+      "varied interests",
+      "informs",
+      "ideas"
+    ],
+    [
+      "workshops",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "workshops",
+      "enhances",
+      "digital literacy"
+    ],
+    [
+      "workshops",
+      "enhances",
+      "online resources"
+    ],
+    [
+      "workshops",
+      "offers",
+      "educational support"
+    ],
+    [
+      "workshops",
+      "supports",
+      "information literacy"
+    ]
+  ],
+  "edges": [
+    "addresses",
+    "advances",
+    "benefits from",
+    "bridges",
+    "caters to",
+    "contributes to",
+    "creates",
+    "drives",
+    "empowers",
+    "enabled by",
+    "enables",
+    "encourages",
+    "enhanced by",
+    "enhances",
+    "enriches",
+    "explored through",
+    "facilitated by",
+    "facilitates",
+    "fosters",
+    "hosts",
+    "improves",
+    "includes",
+    "influences",
+    "informs",
+    "involves",
+    "is aided by",
+    "is enhanced by",
+    "is preserved by",
+    "is supported by",
+    "leads to",
+    "offers",
+    "preserves",
+    "promotes",
+    "provides",
+    "provides access to",
+    "reflects",
+    "represents",
+    "serves",
+    "serves as",
+    "shapes",
+    "stimulates",
+    "strengthens",
+    "supported by",
+    "supports",
+    "upholds",
+    "utilizes"
+  ]
+}

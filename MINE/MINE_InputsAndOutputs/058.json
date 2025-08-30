@@ -1,0 +1,2899 @@
+{
+  "entities": [
+    "Andreas Vesalius",
+    "Renaissance period",
+    "accessibility",
+    "advancements",
+    "affordable healthcare",
+    "ancient civilizations",
+    "anesthesia",
+    "antibiotics",
+    "artificial intelligence",
+    "chronic diseases",
+    "communication",
+    "community health",
+    "continuity of care",
+    "drug development",
+    "electronic health records",
+    "genetic makeup",
+    "germ theory",
+    "health equity",
+    "health outcomes",
+    "healthcare challenges",
+    "healthcare delivery",
+    "healthcare disparities",
+    "healthcare practices",
+    "healthcare providers",
+    "healthcare transformation",
+    "human anatomy",
+    "infectious diseases",
+    "medical advancements",
+    "medical imaging",
+    "medical services",
+    "medical therapies",
+    "medical treatment",
+    "minimally invasive procedures",
+    "modern medicine",
+    "patient access",
+    "patient care",
+    "penicillin",
+    "personalized medicine",
+    "pharmaceutical industry",
+    "physiology",
+    "policy efforts",
+    "public health",
+    "public health initiatives",
+    "quality of life",
+    "scientific discoveries",
+    "surgery",
+    "technological innovations",
+    "technology integration",
+    "telemedicine",
+    "vaccines",
+    "wearable devices"
+  ],
+  "relations": [
+    [
+      "Andreas Vesalius",
+      "contributed to",
+      "advancements"
+    ],
+    [
+      "Andreas Vesalius",
+      "contributed to",
+      "germ theory"
+    ],
+    [
+      "Andreas Vesalius",
+      "contributes to",
+      "physiology"
+    ],
+    [
+      "Andreas Vesalius",
+      "influenced by",
+      "surgery"
+    ],
+    [
+      "Andreas Vesalius",
+      "led to",
+      "scientific discoveries"
+    ],
+    [
+      "Andreas Vesalius",
+      "studied by",
+      "human anatomy"
+    ],
+    [
+      "Andreas Vesalius",
+      "supports",
+      "public health"
+    ],
+    [
+      "Andreas Vesalius",
+      "was active during",
+      "Renaissance period"
+    ],
+    [
+      "Renaissance period",
+      "developed during",
+      "anesthesia"
+    ],
+    [
+      "Renaissance period",
+      "shaped by",
+      "germ theory"
+    ],
+    [
+      "accessibility",
+      "enables",
+      "affordable healthcare"
+    ],
+    [
+      "accessibility",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "accessibility",
+      "improves",
+      "community health"
+    ],
+    [
+      "accessibility",
+      "limits",
+      "infectious diseases"
+    ],
+    [
+      "accessibility",
+      "revolutionizes",
+      "anesthesia"
+    ],
+    [
+      "advancements",
+      "advances",
+      "medical treatment"
+    ],
+    [
+      "advancements",
+      "advances",
+      "personalized medicine"
+    ],
+    [
+      "advancements",
+      "affects",
+      "health outcomes"
+    ],
+    [
+      "advancements",
+      "contributed to",
+      "anesthesia"
+    ],
+    [
+      "advancements",
+      "contributes to",
+      "quality of life"
+    ],
+    [
+      "advancements",
+      "drives",
+      "artificial intelligence"
+    ],
+    [
+      "advancements",
+      "drives",
+      "healthcare delivery"
+    ],
+    [
+      "advancements",
+      "drives",
+      "modern medicine"
+    ],
+    [
+      "advancements",
+      "enhanced by",
+      "communication"
+    ],
+    [
+      "advancements",
+      "enhances",
+      "telemedicine"
+    ],
+    [
+      "advancements",
+      "facilitates",
+      "drug development"
+    ],
+    [
+      "advancements",
+      "improves",
+      "medical imaging"
+    ],
+    [
+      "advancements",
+      "includes",
+      "antibiotics"
+    ],
+    [
+      "advancements",
+      "result from",
+      "technological innovations"
+    ],
+    [
+      "advancements",
+      "resulted from",
+      "scientific discoveries"
+    ],
+    [
+      "advancements",
+      "revolutionized",
+      "penicillin"
+    ],
+    [
+      "affordable healthcare",
+      "addresses",
+      "chronic diseases"
+    ],
+    [
+      "affordable healthcare",
+      "drives",
+      "medical advancements"
+    ],
+    [
+      "affordable healthcare",
+      "enables",
+      "medical treatment"
+    ],
+    [
+      "affordable healthcare",
+      "enhances",
+      "patient access"
+    ],
+    [
+      "affordable healthcare",
+      "provides",
+      "medical services"
+    ],
+    [
+      "affordable healthcare",
+      "revolutionized",
+      "penicillin"
+    ],
+    [
+      "ancient civilizations",
+      "evolved into",
+      "modern medicine"
+    ],
+    [
+      "ancient civilizations",
+      "influenced",
+      "Andreas Vesalius"
+    ],
+    [
+      "ancient civilizations",
+      "influenced",
+      "advancements"
+    ],
+    [
+      "ancient civilizations",
+      "influenced by",
+      "surgery"
+    ],
+    [
+      "ancient civilizations",
+      "influenced by",
+      "technological innovations"
+    ],
+    [
+      "ancient civilizations",
+      "influences",
+      "medical imaging"
+    ],
+    [
+      "ancient civilizations",
+      "influences",
+      "minimally invasive procedures"
+    ],
+    [
+      "ancient civilizations",
+      "practiced by",
+      "medical treatment"
+    ],
+    [
+      "ancient civilizations",
+      "shaped",
+      "scientific discoveries"
+    ],
+    [
+      "anesthesia",
+      "facilitated by",
+      "healthcare practices"
+    ],
+    [
+      "anesthesia",
+      "facilitated by",
+      "infectious diseases"
+    ],
+    [
+      "anesthesia",
+      "facilitates",
+      "continuity of care"
+    ],
+    [
+      "anesthesia",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "anesthesia",
+      "inspired by",
+      "scientific discoveries"
+    ],
+    [
+      "anesthesia",
+      "is a factor in",
+      "medical advancements"
+    ],
+    [
+      "anesthesia",
+      "is administered through",
+      "medical treatment"
+    ],
+    [
+      "antibiotics",
+      "affects",
+      "communication"
+    ],
+    [
+      "antibiotics",
+      "benefits from",
+      "public health"
+    ],
+    [
+      "antibiotics",
+      "contributes to",
+      "medical advancements"
+    ],
+    [
+      "antibiotics",
+      "enhances",
+      "vaccines"
+    ],
+    [
+      "antibiotics",
+      "improves",
+      "healthcare delivery"
+    ],
+    [
+      "antibiotics",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "antibiotics",
+      "is a type of",
+      "penicillin"
+    ],
+    [
+      "antibiotics",
+      "resulted from",
+      "healthcare transformation"
+    ],
+    [
+      "antibiotics",
+      "treats",
+      "medical treatment"
+    ],
+    [
+      "artificial intelligence",
+      "addresses",
+      "chronic diseases"
+    ],
+    [
+      "artificial intelligence",
+      "advances",
+      "medical advancements"
+    ],
+    [
+      "artificial intelligence",
+      "applies to",
+      "minimally invasive procedures"
+    ],
+    [
+      "artificial intelligence",
+      "enhances",
+      "medical treatment"
+    ],
+    [
+      "artificial intelligence",
+      "enhances",
+      "telemedicine"
+    ],
+    [
+      "artificial intelligence",
+      "enhances",
+      "wearable devices"
+    ],
+    [
+      "artificial intelligence",
+      "guides",
+      "policy efforts"
+    ],
+    [
+      "artificial intelligence",
+      "improves",
+      "affordable healthcare"
+    ],
+    [
+      "artificial intelligence",
+      "improves",
+      "medical imaging"
+    ],
+    [
+      "artificial intelligence",
+      "transforms",
+      "modern medicine"
+    ],
+    [
+      "chronic diseases",
+      "affects",
+      "community health"
+    ],
+    [
+      "chronic diseases",
+      "affects",
+      "continuity of care"
+    ],
+    [
+      "chronic diseases",
+      "complicates",
+      "patient access"
+    ],
+    [
+      "chronic diseases",
+      "impacted by",
+      "healthcare transformation"
+    ],
+    [
+      "chronic diseases",
+      "impacts",
+      "healthcare practices"
+    ],
+    [
+      "chronic diseases",
+      "treats",
+      "antibiotics"
+    ],
+    [
+      "communication",
+      "affects",
+      "chronic diseases"
+    ],
+    [
+      "communication",
+      "enabled",
+      "ancient civilizations"
+    ],
+    [
+      "communication",
+      "enhances",
+      "community health"
+    ],
+    [
+      "communication",
+      "enhances",
+      "wearable devices"
+    ],
+    [
+      "communication",
+      "exacerbates",
+      "healthcare challenges"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "patient access"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "telemedicine"
+    ],
+    [
+      "communication",
+      "improves",
+      "continuity of care"
+    ],
+    [
+      "communication",
+      "improves",
+      "personalized medicine"
+    ],
+    [
+      "communication",
+      "supports",
+      "medical imaging"
+    ],
+    [
+      "communication",
+      "transforms",
+      "healthcare transformation"
+    ],
+    [
+      "community health",
+      "benefits from",
+      "healthcare providers"
+    ],
+    [
+      "community health",
+      "enhances",
+      "continuity of care"
+    ],
+    [
+      "community health",
+      "influences",
+      "genetic makeup"
+    ],
+    [
+      "community health",
+      "is supported by",
+      "patient care"
+    ],
+    [
+      "continuity of care",
+      "enhanced by",
+      "advancements"
+    ],
+    [
+      "continuity of care",
+      "enhanced by",
+      "medical advancements"
+    ],
+    [
+      "continuity of care",
+      "is essential for",
+      "human anatomy"
+    ],
+    [
+      "continuity of care",
+      "is supported by",
+      "affordable healthcare"
+    ],
+    [
+      "continuity of care",
+      "supported by",
+      "policy efforts"
+    ],
+    [
+      "drug development",
+      "depends on",
+      "healthcare delivery"
+    ],
+    [
+      "drug development",
+      "drives",
+      "pharmaceutical industry"
+    ],
+    [
+      "drug development",
+      "enables",
+      "personalized medicine"
+    ],
+    [
+      "drug development",
+      "enhances",
+      "artificial intelligence"
+    ],
+    [
+      "drug development",
+      "improves",
+      "community health"
+    ],
+    [
+      "drug development",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "drug development",
+      "influences",
+      "health outcomes"
+    ],
+    [
+      "drug development",
+      "influences",
+      "scientific discoveries"
+    ],
+    [
+      "drug development",
+      "informed",
+      "germ theory"
+    ],
+    [
+      "drug development",
+      "informs",
+      "physiology"
+    ],
+    [
+      "drug development",
+      "produces",
+      "vaccines"
+    ],
+    [
+      "drug development",
+      "supports",
+      "human anatomy"
+    ],
+    [
+      "drug development",
+      "transforms",
+      "healthcare transformation"
+    ],
+    [
+      "electronic health records",
+      "addresses",
+      "chronic diseases"
+    ],
+    [
+      "electronic health records",
+      "affects",
+      "health outcomes"
+    ],
+    [
+      "electronic health records",
+      "complicates",
+      "healthcare challenges"
+    ],
+    [
+      "electronic health records",
+      "drives",
+      "advancements"
+    ],
+    [
+      "electronic health records",
+      "enhances",
+      "artificial intelligence"
+    ],
+    [
+      "electronic health records",
+      "enhances",
+      "communication"
+    ],
+    [
+      "electronic health records",
+      "enhances",
+      "continuity of care"
+    ],
+    [
+      "electronic health records",
+      "enhances",
+      "healthcare practices"
+    ],
+    [
+      "electronic health records",
+      "enhances",
+      "medical imaging"
+    ],
+    [
+      "electronic health records",
+      "enhances",
+      "minimally invasive procedures"
+    ],
+    [
+      "electronic health records",
+      "enhances",
+      "patient care"
+    ],
+    [
+      "electronic health records",
+      "enhances",
+      "telemedicine"
+    ],
+    [
+      "electronic health records",
+      "enhances",
+      "wearable devices"
+    ],
+    [
+      "electronic health records",
+      "improves",
+      "community health"
+    ],
+    [
+      "electronic health records",
+      "improves",
+      "patient access"
+    ],
+    [
+      "electronic health records",
+      "influences",
+      "policy efforts"
+    ],
+    [
+      "electronic health records",
+      "supports",
+      "medical services"
+    ],
+    [
+      "electronic health records",
+      "supports",
+      "medical treatment"
+    ],
+    [
+      "electronic health records",
+      "supports",
+      "personalized medicine"
+    ],
+    [
+      "electronic health records",
+      "transforms",
+      "healthcare transformation"
+    ],
+    [
+      "electronic health records",
+      "utilized by",
+      "healthcare providers"
+    ],
+    [
+      "genetic makeup",
+      "affects",
+      "health equity"
+    ],
+    [
+      "genetic makeup",
+      "affects",
+      "public health"
+    ],
+    [
+      "genetic makeup",
+      "develops",
+      "pharmaceutical industry"
+    ],
+    [
+      "genetic makeup",
+      "guides",
+      "medical treatment"
+    ],
+    [
+      "genetic makeup",
+      "improves",
+      "accessibility"
+    ],
+    [
+      "genetic makeup",
+      "influenced",
+      "ancient civilizations"
+    ],
+    [
+      "genetic makeup",
+      "influences",
+      "quality of life"
+    ],
+    [
+      "genetic makeup",
+      "informs",
+      "modern medicine"
+    ],
+    [
+      "genetic makeup",
+      "tailored by",
+      "personalized medicine"
+    ],
+    [
+      "germ theory",
+      "developed from",
+      "antibiotics"
+    ],
+    [
+      "germ theory",
+      "developed from",
+      "vaccines"
+    ],
+    [
+      "germ theory",
+      "enabled by",
+      "drug development"
+    ],
+    [
+      "germ theory",
+      "impacts",
+      "chronic diseases"
+    ],
+    [
+      "germ theory",
+      "influenced by",
+      "advancements"
+    ],
+    [
+      "germ theory",
+      "informed by",
+      "human anatomy"
+    ],
+    [
+      "germ theory",
+      "informed by",
+      "medical services"
+    ],
+    [
+      "germ theory",
+      "informs",
+      "medical imaging"
+    ],
+    [
+      "germ theory",
+      "underpins",
+      "modern medicine"
+    ],
+    [
+      "germ theory",
+      "utilizes",
+      "healthcare providers"
+    ],
+    [
+      "health equity",
+      "affects",
+      "quality of life"
+    ],
+    [
+      "health equity",
+      "impacts",
+      "medical imaging"
+    ],
+    [
+      "health equity",
+      "improves",
+      "continuity of care"
+    ],
+    [
+      "health equity",
+      "supports",
+      "community health"
+    ],
+    [
+      "health outcomes",
+      "affects",
+      "public health"
+    ],
+    [
+      "health outcomes",
+      "enhances",
+      "artificial intelligence"
+    ],
+    [
+      "health outcomes",
+      "impacts",
+      "accessibility"
+    ],
+    [
+      "health outcomes",
+      "impacts",
+      "anesthesia"
+    ],
+    [
+      "health outcomes",
+      "improves",
+      "minimally invasive procedures"
+    ],
+    [
+      "health outcomes",
+      "improves",
+      "modern medicine"
+    ],
+    [
+      "health outcomes",
+      "improves",
+      "telemedicine"
+    ],
+    [
+      "health outcomes",
+      "influenced by",
+      "healthcare practices"
+    ],
+    [
+      "health outcomes",
+      "is affected by",
+      "electronic health records"
+    ],
+    [
+      "health outcomes",
+      "is challenged by",
+      "healthcare challenges"
+    ],
+    [
+      "health outcomes",
+      "is influenced by",
+      "health equity"
+    ],
+    [
+      "healthcare challenges",
+      "addresses",
+      "health equity"
+    ],
+    [
+      "healthcare challenges",
+      "challenges",
+      "advancements"
+    ],
+    [
+      "healthcare challenges",
+      "challenges",
+      "medical imaging"
+    ],
+    [
+      "healthcare challenges",
+      "exacerbates",
+      "telemedicine"
+    ],
+    [
+      "healthcare challenges",
+      "faces",
+      "medical treatment"
+    ],
+    [
+      "healthcare challenges",
+      "impacts",
+      "drug development"
+    ],
+    [
+      "healthcare delivery",
+      "addresses",
+      "infectious diseases"
+    ],
+    [
+      "healthcare delivery",
+      "affects",
+      "health outcomes"
+    ],
+    [
+      "healthcare delivery",
+      "contributes to",
+      "pharmaceutical industry"
+    ],
+    [
+      "healthcare delivery",
+      "developed from",
+      "vaccines"
+    ],
+    [
+      "healthcare delivery",
+      "enables",
+      "patient access"
+    ],
+    [
+      "healthcare delivery",
+      "enhances",
+      "anesthesia"
+    ],
+    [
+      "healthcare delivery",
+      "enhances",
+      "communication"
+    ],
+    [
+      "healthcare delivery",
+      "enhances",
+      "medical advancements"
+    ],
+    [
+      "healthcare delivery",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "healthcare delivery",
+      "enhances",
+      "telemedicine"
+    ],
+    [
+      "healthcare delivery",
+      "facilitates",
+      "patient care"
+    ],
+    [
+      "healthcare delivery",
+      "improves",
+      "accessibility"
+    ],
+    [
+      "healthcare delivery",
+      "improves",
+      "continuity of care"
+    ],
+    [
+      "healthcare delivery",
+      "improves",
+      "electronic health records"
+    ],
+    [
+      "healthcare delivery",
+      "improves",
+      "medical services"
+    ],
+    [
+      "healthcare delivery",
+      "influences",
+      "healthcare practices"
+    ],
+    [
+      "healthcare delivery",
+      "influences",
+      "medical imaging"
+    ],
+    [
+      "healthcare delivery",
+      "influences",
+      "modern medicine"
+    ],
+    [
+      "healthcare delivery",
+      "influences",
+      "physiology"
+    ],
+    [
+      "healthcare delivery",
+      "integrates",
+      "artificial intelligence"
+    ],
+    [
+      "healthcare delivery",
+      "integrates",
+      "personalized medicine"
+    ],
+    [
+      "healthcare delivery",
+      "supports",
+      "healthcare providers"
+    ],
+    [
+      "healthcare delivery",
+      "supports",
+      "public health"
+    ],
+    [
+      "healthcare delivery",
+      "tailors",
+      "genetic makeup"
+    ],
+    [
+      "healthcare disparities",
+      "addresses",
+      "artificial intelligence"
+    ],
+    [
+      "healthcare disparities",
+      "addresses",
+      "modern medicine"
+    ],
+    [
+      "healthcare disparities",
+      "affects",
+      "healthcare practices"
+    ],
+    [
+      "healthcare disparities",
+      "affects",
+      "healthcare providers"
+    ],
+    [
+      "healthcare disparities",
+      "affects",
+      "patient access"
+    ],
+    [
+      "healthcare disparities",
+      "exacerbates",
+      "chronic diseases"
+    ],
+    [
+      "healthcare disparities",
+      "exacerbates",
+      "healthcare challenges"
+    ],
+    [
+      "healthcare disparities",
+      "impacts",
+      "communication"
+    ],
+    [
+      "healthcare disparities",
+      "influences",
+      "affordable healthcare"
+    ],
+    [
+      "healthcare disparities",
+      "influences",
+      "genetic makeup"
+    ],
+    [
+      "healthcare disparities",
+      "is influenced by",
+      "medical imaging"
+    ],
+    [
+      "healthcare disparities",
+      "promotes",
+      "health equity"
+    ],
+    [
+      "healthcare practices",
+      "addresses",
+      "infectious diseases"
+    ],
+    [
+      "healthcare practices",
+      "affected by",
+      "public health initiatives"
+    ],
+    [
+      "healthcare practices",
+      "affects",
+      "health equity"
+    ],
+    [
+      "healthcare practices",
+      "affects",
+      "health outcomes"
+    ],
+    [
+      "healthcare practices",
+      "drives",
+      "drug development"
+    ],
+    [
+      "healthcare practices",
+      "enhances",
+      "community health"
+    ],
+    [
+      "healthcare practices",
+      "enhances",
+      "continuity of care"
+    ],
+    [
+      "healthcare practices",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "healthcare practices",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "healthcare practices",
+      "improves",
+      "artificial intelligence"
+    ],
+    [
+      "healthcare practices",
+      "improves",
+      "patient care"
+    ],
+    [
+      "healthcare practices",
+      "influenced by",
+      "minimally invasive procedures"
+    ],
+    [
+      "healthcare practices",
+      "influences",
+      "advancements"
+    ],
+    [
+      "healthcare practices",
+      "influences",
+      "pharmaceutical industry"
+    ],
+    [
+      "healthcare practices",
+      "informs",
+      "medical treatment"
+    ],
+    [
+      "healthcare practices",
+      "integrates",
+      "wearable devices"
+    ],
+    [
+      "healthcare practices",
+      "provides",
+      "medical services"
+    ],
+    [
+      "healthcare practices",
+      "revolutionized",
+      "antibiotics"
+    ],
+    [
+      "healthcare practices",
+      "supports",
+      "healthcare providers"
+    ],
+    [
+      "healthcare practices",
+      "tailors",
+      "genetic makeup"
+    ],
+    [
+      "healthcare practices",
+      "tailors",
+      "personalized medicine"
+    ],
+    [
+      "healthcare practices",
+      "transforms",
+      "telemedicine"
+    ],
+    [
+      "healthcare practices",
+      "utilizes",
+      "electronic health records"
+    ],
+    [
+      "healthcare providers",
+      "administer vaccines",
+      "vaccines"
+    ],
+    [
+      "healthcare providers",
+      "assisted by",
+      "infectious diseases"
+    ],
+    [
+      "healthcare providers",
+      "benefits from",
+      "advancements"
+    ],
+    [
+      "healthcare providers",
+      "enabled by",
+      "anesthesia"
+    ],
+    [
+      "healthcare providers",
+      "enables",
+      "affordable healthcare"
+    ],
+    [
+      "healthcare providers",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "healthcare providers",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "healthcare providers",
+      "improves",
+      "community health"
+    ],
+    [
+      "healthcare providers",
+      "influences",
+      "accessibility"
+    ],
+    [
+      "healthcare providers",
+      "influences",
+      "scientific discoveries"
+    ],
+    [
+      "healthcare providers",
+      "informs",
+      "genetic makeup"
+    ],
+    [
+      "healthcare providers",
+      "manages",
+      "chronic diseases"
+    ],
+    [
+      "healthcare providers",
+      "promotes",
+      "health equity"
+    ],
+    [
+      "healthcare providers",
+      "provided by",
+      "patient care"
+    ],
+    [
+      "healthcare providers",
+      "supports",
+      "public health"
+    ],
+    [
+      "healthcare providers",
+      "utilized by",
+      "human anatomy"
+    ],
+    [
+      "healthcare providers",
+      "utilizes",
+      "artificial intelligence"
+    ],
+    [
+      "healthcare providers",
+      "utilizes",
+      "telemedicine"
+    ],
+    [
+      "healthcare providers",
+      "utilizes",
+      "wearable devices"
+    ],
+    [
+      "healthcare transformation",
+      "addresses",
+      "chronic diseases"
+    ],
+    [
+      "healthcare transformation",
+      "contributed to",
+      "antibiotics"
+    ],
+    [
+      "healthcare transformation",
+      "contributes to",
+      "vaccines"
+    ],
+    [
+      "healthcare transformation",
+      "enhances",
+      "community health"
+    ],
+    [
+      "healthcare transformation",
+      "enhances",
+      "medical treatment"
+    ],
+    [
+      "healthcare transformation",
+      "facilitates",
+      "telemedicine"
+    ],
+    [
+      "healthcare transformation",
+      "improves",
+      "patient access"
+    ],
+    [
+      "healthcare transformation",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "healthcare transformation",
+      "influences",
+      "policy efforts"
+    ],
+    [
+      "healthcare transformation",
+      "is driven by",
+      "personalized medicine"
+    ],
+    [
+      "healthcare transformation",
+      "is transformed by",
+      "patient care"
+    ],
+    [
+      "healthcare transformation",
+      "promotes",
+      "health equity"
+    ],
+    [
+      "healthcare transformation",
+      "revolutionized by",
+      "anesthesia"
+    ],
+    [
+      "healthcare transformation",
+      "supports",
+      "continuity of care"
+    ],
+    [
+      "healthcare transformation",
+      "transformed by",
+      "healthcare practices"
+    ],
+    [
+      "human anatomy",
+      "advances",
+      "medical advancements"
+    ],
+    [
+      "human anatomy",
+      "affects",
+      "infectious diseases"
+    ],
+    [
+      "human anatomy",
+      "enhanced",
+      "anesthesia"
+    ],
+    [
+      "human anatomy",
+      "influenced by",
+      "advancements"
+    ],
+    [
+      "human anatomy",
+      "informed",
+      "ancient civilizations"
+    ],
+    [
+      "human anatomy",
+      "informed by",
+      "surgery"
+    ],
+    [
+      "human anatomy",
+      "informs",
+      "antibiotics"
+    ],
+    [
+      "human anatomy",
+      "informs",
+      "modern medicine"
+    ],
+    [
+      "human anatomy",
+      "supports",
+      "public health"
+    ],
+    [
+      "infectious diseases",
+      "affects",
+      "health equity"
+    ],
+    [
+      "infectious diseases",
+      "affects",
+      "patient care"
+    ],
+    [
+      "infectious diseases",
+      "affects",
+      "public health"
+    ],
+    [
+      "infectious diseases",
+      "analyzed by",
+      "artificial intelligence"
+    ],
+    [
+      "infectious diseases",
+      "challenges",
+      "public health initiatives"
+    ],
+    [
+      "infectious diseases",
+      "combats",
+      "vaccines"
+    ],
+    [
+      "infectious diseases",
+      "communicated about",
+      "communication"
+    ],
+    [
+      "infectious diseases",
+      "explains",
+      "germ theory"
+    ],
+    [
+      "infectious diseases",
+      "influences",
+      "genetic makeup"
+    ],
+    [
+      "infectious diseases",
+      "treated with",
+      "antibiotics"
+    ],
+    [
+      "medical advancements",
+      "benefits from",
+      "healthcare providers"
+    ],
+    [
+      "medical advancements",
+      "drives",
+      "healthcare challenges"
+    ],
+    [
+      "medical advancements",
+      "enhances",
+      "health outcomes"
+    ],
+    [
+      "medical advancements",
+      "supports",
+      "continuity of care"
+    ],
+    [
+      "medical imaging",
+      "diagnoses",
+      "chronic diseases"
+    ],
+    [
+      "medical imaging",
+      "enhanced by",
+      "technology integration"
+    ],
+    [
+      "medical imaging",
+      "facilitates",
+      "patient access"
+    ],
+    [
+      "medical imaging",
+      "improves",
+      "health outcomes"
+    ],
+    [
+      "medical imaging",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "medical imaging",
+      "is diagnosed by",
+      "infectious diseases"
+    ],
+    [
+      "medical imaging",
+      "supports",
+      "continuity of care"
+    ],
+    [
+      "medical services",
+      "contributes to",
+      "public health"
+    ],
+    [
+      "medical services",
+      "enhanced by",
+      "artificial intelligence"
+    ],
+    [
+      "medical services",
+      "enhances",
+      "communication"
+    ],
+    [
+      "medical services",
+      "enhances",
+      "telemedicine"
+    ],
+    [
+      "medical services",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "medical services",
+      "includes",
+      "vaccines"
+    ],
+    [
+      "medical services",
+      "informs",
+      "genetic makeup"
+    ],
+    [
+      "medical services",
+      "is supported by",
+      "public health initiatives"
+    ],
+    [
+      "medical services",
+      "provided by",
+      "healthcare providers"
+    ],
+    [
+      "medical services",
+      "provides",
+      "medical treatment"
+    ],
+    [
+      "medical services",
+      "supports",
+      "community health"
+    ],
+    [
+      "medical therapies",
+      "advances",
+      "medical advancements"
+    ],
+    [
+      "medical therapies",
+      "advances",
+      "modern medicine"
+    ],
+    [
+      "medical therapies",
+      "enhances",
+      "anesthesia"
+    ],
+    [
+      "medical therapies",
+      "enhances",
+      "minimally invasive procedures"
+    ],
+    [
+      "medical therapies",
+      "enhances",
+      "technology integration"
+    ],
+    [
+      "medical therapies",
+      "exacerbates",
+      "healthcare disparities"
+    ],
+    [
+      "medical therapies",
+      "improves",
+      "health outcomes"
+    ],
+    [
+      "medical therapies",
+      "improves",
+      "healthcare delivery"
+    ],
+    [
+      "medical therapies",
+      "influences",
+      "germ theory"
+    ],
+    [
+      "medical therapies",
+      "informs",
+      "public health"
+    ],
+    [
+      "medical therapies",
+      "is advanced by",
+      "technological innovations"
+    ],
+    [
+      "medical therapies",
+      "is enhanced by",
+      "artificial intelligence"
+    ],
+    [
+      "medical therapies",
+      "is facilitated by",
+      "telemedicine"
+    ],
+    [
+      "medical therapies",
+      "promotes",
+      "public health initiatives"
+    ],
+    [
+      "medical therapies",
+      "provided by",
+      "healthcare providers"
+    ],
+    [
+      "medical therapies",
+      "utilizes",
+      "electronic health records"
+    ],
+    [
+      "medical treatment",
+      "advances",
+      "personalized medicine"
+    ],
+    [
+      "medical treatment",
+      "developed for",
+      "medical therapies"
+    ],
+    [
+      "medical treatment",
+      "enhances",
+      "continuity of care"
+    ],
+    [
+      "medical treatment",
+      "facilitates",
+      "patient access"
+    ],
+    [
+      "medical treatment",
+      "facilitates",
+      "telemedicine"
+    ],
+    [
+      "medical treatment",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "medical treatment",
+      "influences",
+      "communication"
+    ],
+    [
+      "medical treatment",
+      "influences",
+      "health outcomes"
+    ],
+    [
+      "medical treatment",
+      "informs",
+      "germ theory"
+    ],
+    [
+      "medical treatment",
+      "informs",
+      "human anatomy"
+    ],
+    [
+      "medical treatment",
+      "receives",
+      "medical services"
+    ],
+    [
+      "medical treatment",
+      "shapes",
+      "policy efforts"
+    ],
+    [
+      "medical treatment",
+      "supports",
+      "community health"
+    ],
+    [
+      "medical treatment",
+      "supports",
+      "health equity"
+    ],
+    [
+      "medical treatment",
+      "utilizes",
+      "medical imaging"
+    ],
+    [
+      "minimally invasive procedures",
+      "contributes to",
+      "modern medicine"
+    ],
+    [
+      "minimally invasive procedures",
+      "enabled by",
+      "surgery"
+    ],
+    [
+      "minimally invasive procedures",
+      "enhanced by",
+      "patient care"
+    ],
+    [
+      "minimally invasive procedures",
+      "enhances",
+      "continuity of care"
+    ],
+    [
+      "minimally invasive procedures",
+      "enhances",
+      "healthcare delivery"
+    ],
+    [
+      "minimally invasive procedures",
+      "enhances",
+      "patient access"
+    ],
+    [
+      "minimally invasive procedures",
+      "enhances",
+      "personalized medicine"
+    ],
+    [
+      "minimally invasive procedures",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "minimally invasive procedures",
+      "facilitates",
+      "anesthesia"
+    ],
+    [
+      "minimally invasive procedures",
+      "includes",
+      "penicillin"
+    ],
+    [
+      "minimally invasive procedures",
+      "is a result of",
+      "medical advancements"
+    ],
+    [
+      "minimally invasive procedures",
+      "utilizes",
+      "wearable devices"
+    ],
+    [
+      "modern medicine",
+      "addresses",
+      "chronic diseases"
+    ],
+    [
+      "modern medicine",
+      "benefits from",
+      "health outcomes"
+    ],
+    [
+      "modern medicine",
+      "developed",
+      "vaccines"
+    ],
+    [
+      "modern medicine",
+      "developed from",
+      "healthcare practices"
+    ],
+    [
+      "modern medicine",
+      "enables",
+      "medical imaging"
+    ],
+    [
+      "modern medicine",
+      "encompasses",
+      "medical treatment"
+    ],
+    [
+      "modern medicine",
+      "enhances",
+      "medical services"
+    ],
+    [
+      "modern medicine",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "modern medicine",
+      "influenced by",
+      "Andreas Vesalius"
+    ],
+    [
+      "modern medicine",
+      "influenced by",
+      "Renaissance period"
+    ],
+    [
+      "modern medicine",
+      "influenced by",
+      "germ theory"
+    ],
+    [
+      "modern medicine",
+      "influences",
+      "physiology"
+    ],
+    [
+      "modern medicine",
+      "is a development of",
+      "personalized medicine"
+    ],
+    [
+      "modern medicine",
+      "is addressed by",
+      "infectious diseases"
+    ],
+    [
+      "modern medicine",
+      "is advanced by",
+      "medical therapies"
+    ],
+    [
+      "modern medicine",
+      "promotes",
+      "health equity"
+    ],
+    [
+      "modern medicine",
+      "treats",
+      "antibiotics"
+    ],
+    [
+      "modern medicine",
+      "utilizes",
+      "healthcare providers"
+    ],
+    [
+      "patient access",
+      "dependent on",
+      "healthcare delivery"
+    ],
+    [
+      "patient access",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "patient access",
+      "facilitated by",
+      "minimally invasive procedures"
+    ],
+    [
+      "patient access",
+      "facilitated by",
+      "public health initiatives"
+    ],
+    [
+      "patient access",
+      "facilitated by",
+      "wearable devices"
+    ],
+    [
+      "patient access",
+      "improves",
+      "penicillin"
+    ],
+    [
+      "patient access",
+      "is improved by",
+      "medical advancements"
+    ],
+    [
+      "patient care",
+      "enhanced by",
+      "public health initiatives"
+    ],
+    [
+      "patient care",
+      "enhanced by",
+      "telemedicine"
+    ],
+    [
+      "patient care",
+      "enhanced by",
+      "wearable devices"
+    ],
+    [
+      "patient care",
+      "enhances",
+      "artificial intelligence"
+    ],
+    [
+      "patient care",
+      "enhances",
+      "continuity of care"
+    ],
+    [
+      "patient care",
+      "facilitates",
+      "anesthesia"
+    ],
+    [
+      "patient care",
+      "impacted by",
+      "healthcare disparities"
+    ],
+    [
+      "patient care",
+      "improves",
+      "communication"
+    ],
+    [
+      "patient care",
+      "influences",
+      "accessibility"
+    ],
+    [
+      "patient care",
+      "is improved by",
+      "electronic health records"
+    ],
+    [
+      "patient care",
+      "supports",
+      "community health"
+    ],
+    [
+      "patient care",
+      "supports",
+      "pharmaceutical industry"
+    ],
+    [
+      "patient care",
+      "supports",
+      "public health"
+    ],
+    [
+      "patient care",
+      "transforms",
+      "healthcare transformation"
+    ],
+    [
+      "penicillin",
+      "benefited from",
+      "policy efforts"
+    ],
+    [
+      "penicillin",
+      "benefits from",
+      "accessibility"
+    ],
+    [
+      "penicillin",
+      "contributes to",
+      "medical advancements"
+    ],
+    [
+      "penicillin",
+      "developed from",
+      "genetic makeup"
+    ],
+    [
+      "penicillin",
+      "developed from",
+      "germ theory"
+    ],
+    [
+      "penicillin",
+      "developed from",
+      "modern medicine"
+    ],
+    [
+      "penicillin",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "penicillin",
+      "influenced by",
+      "healthcare transformation"
+    ],
+    [
+      "penicillin",
+      "is treated by",
+      "medical treatment"
+    ],
+    [
+      "penicillin",
+      "revolutionized by",
+      "wearable devices"
+    ],
+    [
+      "personalized medicine",
+      "addresses",
+      "chronic diseases"
+    ],
+    [
+      "personalized medicine",
+      "advances",
+      "medical advancements"
+    ],
+    [
+      "personalized medicine",
+      "benefits",
+      "anesthesia"
+    ],
+    [
+      "personalized medicine",
+      "developed from",
+      "penicillin"
+    ],
+    [
+      "personalized medicine",
+      "enhances",
+      "continuity of care"
+    ],
+    [
+      "pharmaceutical industry",
+      "advances",
+      "medical imaging"
+    ],
+    [
+      "pharmaceutical industry",
+      "benefits from",
+      "patient care"
+    ],
+    [
+      "pharmaceutical industry",
+      "depends on",
+      "health outcomes"
+    ],
+    [
+      "pharmaceutical industry",
+      "developed anesthesia for",
+      "anesthesia"
+    ],
+    [
+      "pharmaceutical industry",
+      "developed by",
+      "medical therapies"
+    ],
+    [
+      "pharmaceutical industry",
+      "develops",
+      "personalized medicine"
+    ],
+    [
+      "pharmaceutical industry",
+      "discovered by",
+      "penicillin"
+    ],
+    [
+      "pharmaceutical industry",
+      "drives",
+      "healthcare transformation"
+    ],
+    [
+      "pharmaceutical industry",
+      "drives",
+      "medical advancements"
+    ],
+    [
+      "pharmaceutical industry",
+      "drives",
+      "modern medicine"
+    ],
+    [
+      "pharmaceutical industry",
+      "enhances",
+      "community health"
+    ],
+    [
+      "pharmaceutical industry",
+      "enhances",
+      "continuity of care"
+    ],
+    [
+      "pharmaceutical industry",
+      "enhances",
+      "quality of life"
+    ],
+    [
+      "pharmaceutical industry",
+      "facilitates",
+      "telemedicine"
+    ],
+    [
+      "pharmaceutical industry",
+      "influences",
+      "electronic health records"
+    ],
+    [
+      "pharmaceutical industry",
+      "is supported by",
+      "advancements"
+    ],
+    [
+      "pharmaceutical industry",
+      "supports",
+      "affordable healthcare"
+    ],
+    [
+      "physiology",
+      "addresses",
+      "chronic diseases"
+    ],
+    [
+      "physiology",
+      "advances",
+      "scientific discoveries"
+    ],
+    [
+      "physiology",
+      "affects",
+      "accessibility"
+    ],
+    [
+      "physiology",
+      "applied in",
+      "artificial intelligence"
+    ],
+    [
+      "physiology",
+      "contributes to",
+      "public health"
+    ],
+    [
+      "physiology",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "physiology",
+      "informed",
+      "germ theory"
+    ],
+    [
+      "physiology",
+      "informed by",
+      "Andreas Vesalius"
+    ],
+    [
+      "physiology",
+      "informs",
+      "genetic makeup"
+    ],
+    [
+      "physiology",
+      "presents",
+      "healthcare challenges"
+    ],
+    [
+      "policy efforts",
+      "addresses",
+      "chronic diseases"
+    ],
+    [
+      "policy efforts",
+      "advances",
+      "personalized medicine"
+    ],
+    [
+      "policy efforts",
+      "enables",
+      "telemedicine"
+    ],
+    [
+      "policy efforts",
+      "enhances",
+      "continuity of care"
+    ],
+    [
+      "policy efforts",
+      "improves",
+      "community health"
+    ],
+    [
+      "policy efforts",
+      "influences",
+      "health outcomes"
+    ],
+    [
+      "policy efforts",
+      "influences",
+      "public health"
+    ],
+    [
+      "policy efforts",
+      "shapes",
+      "medical therapies"
+    ],
+    [
+      "policy efforts",
+      "supports",
+      "antibiotics"
+    ],
+    [
+      "public health",
+      "affects",
+      "chronic diseases"
+    ],
+    [
+      "public health",
+      "enhances",
+      "anesthesia"
+    ],
+    [
+      "public health",
+      "enhances",
+      "community health"
+    ],
+    [
+      "public health",
+      "enhances",
+      "continuity of care"
+    ],
+    [
+      "public health",
+      "informs",
+      "personalized medicine"
+    ],
+    [
+      "public health initiatives",
+      "addresses",
+      "chronic diseases"
+    ],
+    [
+      "public health initiatives",
+      "affects",
+      "health outcomes"
+    ],
+    [
+      "public health initiatives",
+      "collaborates with",
+      "healthcare providers"
+    ],
+    [
+      "public health initiatives",
+      "develops",
+      "vaccines"
+    ],
+    [
+      "public health initiatives",
+      "drives",
+      "healthcare transformation"
+    ],
+    [
+      "public health initiatives",
+      "enhances",
+      "antibiotics"
+    ],
+    [
+      "public health initiatives",
+      "enhances",
+      "communication"
+    ],
+    [
+      "public health initiatives",
+      "improves",
+      "healthcare delivery"
+    ],
+    [
+      "public health initiatives",
+      "improves",
+      "patient access"
+    ],
+    [
+      "public health initiatives",
+      "improves",
+      "patient care"
+    ],
+    [
+      "public health initiatives",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "public health initiatives",
+      "influences",
+      "healthcare practices"
+    ],
+    [
+      "public health initiatives",
+      "supports",
+      "affordable healthcare"
+    ],
+    [
+      "public health initiatives",
+      "supports",
+      "community health"
+    ],
+    [
+      "public health initiatives",
+      "supports",
+      "continuity of care"
+    ],
+    [
+      "public health initiatives",
+      "supports",
+      "medical services"
+    ],
+    [
+      "public health initiatives",
+      "utilizes",
+      "wearable devices"
+    ],
+    [
+      "quality of life",
+      "benefits from",
+      "public health"
+    ],
+    [
+      "quality of life",
+      "impacts",
+      "chronic diseases"
+    ],
+    [
+      "quality of life",
+      "improves",
+      "continuity of care"
+    ],
+    [
+      "quality of life",
+      "is enhanced by",
+      "wearable devices"
+    ],
+    [
+      "scientific discoveries",
+      "advances",
+      "modern medicine"
+    ],
+    [
+      "scientific discoveries",
+      "contributes to",
+      "human anatomy"
+    ],
+    [
+      "scientific discoveries",
+      "enabled",
+      "minimally invasive procedures"
+    ],
+    [
+      "scientific discoveries",
+      "enables",
+      "artificial intelligence"
+    ],
+    [
+      "scientific discoveries",
+      "enhances",
+      "public health"
+    ],
+    [
+      "scientific discoveries",
+      "facilitates",
+      "telemedicine"
+    ],
+    [
+      "scientific discoveries",
+      "informs",
+      "medical treatment"
+    ],
+    [
+      "scientific discoveries",
+      "led to",
+      "germ theory"
+    ],
+    [
+      "scientific discoveries",
+      "occurred during",
+      "Renaissance period"
+    ],
+    [
+      "scientific discoveries",
+      "supports",
+      "continuity of care"
+    ],
+    [
+      "scientific discoveries",
+      "supports",
+      "medical services"
+    ],
+    [
+      "surgery",
+      "advances",
+      "medical advancements"
+    ],
+    [
+      "surgery",
+      "enabled by",
+      "anesthesia"
+    ],
+    [
+      "surgery",
+      "enhanced by",
+      "technological innovations"
+    ],
+    [
+      "surgery",
+      "enhances",
+      "medical imaging"
+    ],
+    [
+      "surgery",
+      "improves",
+      "patient care"
+    ],
+    [
+      "surgery",
+      "involves",
+      "medical therapies"
+    ],
+    [
+      "surgery",
+      "involves",
+      "pharmaceutical industry"
+    ],
+    [
+      "surgery",
+      "supports",
+      "continuity of care"
+    ],
+    [
+      "surgery",
+      "supports",
+      "medical services"
+    ],
+    [
+      "technological innovations",
+      "advances",
+      "modern medicine"
+    ],
+    [
+      "technological innovations",
+      "advances",
+      "personalized medicine"
+    ],
+    [
+      "technological innovations",
+      "drives",
+      "advancements"
+    ],
+    [
+      "technological innovations",
+      "drives",
+      "medical advancements"
+    ],
+    [
+      "technological innovations",
+      "drives",
+      "technology integration"
+    ],
+    [
+      "technological innovations",
+      "enabled by",
+      "telemedicine"
+    ],
+    [
+      "technological innovations",
+      "enables",
+      "continuity of care"
+    ],
+    [
+      "technological innovations",
+      "enables",
+      "minimally invasive procedures"
+    ],
+    [
+      "technological innovations",
+      "enhances",
+      "healthcare delivery"
+    ],
+    [
+      "technological innovations",
+      "enhances",
+      "medical imaging"
+    ],
+    [
+      "technological innovations",
+      "enhances",
+      "patient access"
+    ],
+    [
+      "technological innovations",
+      "facilitates",
+      "affordable healthcare"
+    ],
+    [
+      "technological innovations",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "technological innovations",
+      "inspired by",
+      "Renaissance period"
+    ],
+    [
+      "technological innovations",
+      "integrates with",
+      "wearable devices"
+    ],
+    [
+      "technological innovations",
+      "presents",
+      "healthcare challenges"
+    ],
+    [
+      "technological innovations",
+      "transformed",
+      "medical treatment"
+    ],
+    [
+      "technological innovations",
+      "transforms",
+      "healthcare practices"
+    ],
+    [
+      "technological innovations",
+      "utilizes",
+      "artificial intelligence"
+    ],
+    [
+      "technology integration",
+      "drives",
+      "medical advancements"
+    ],
+    [
+      "technology integration",
+      "enables",
+      "minimally invasive procedures"
+    ],
+    [
+      "technology integration",
+      "enables",
+      "wearable devices"
+    ],
+    [
+      "technology integration",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "technology integration",
+      "enhances",
+      "artificial intelligence"
+    ],
+    [
+      "technology integration",
+      "enhances",
+      "communication"
+    ],
+    [
+      "technology integration",
+      "enhances",
+      "medical services"
+    ],
+    [
+      "technology integration",
+      "improves",
+      "electronic health records"
+    ],
+    [
+      "technology integration",
+      "improves",
+      "patient care"
+    ],
+    [
+      "technology integration",
+      "influences",
+      "health outcomes"
+    ],
+    [
+      "technology integration",
+      "promotes",
+      "affordable healthcare"
+    ],
+    [
+      "technology integration",
+      "supports",
+      "healthcare providers"
+    ],
+    [
+      "technology integration",
+      "transforms",
+      "healthcare practices"
+    ],
+    [
+      "technology integration",
+      "transforms",
+      "medical imaging"
+    ],
+    [
+      "telemedicine",
+      "enhances",
+      "continuity of care"
+    ],
+    [
+      "telemedicine",
+      "enhances",
+      "personalized medicine"
+    ],
+    [
+      "telemedicine",
+      "impedes",
+      "healthcare disparities"
+    ],
+    [
+      "telemedicine",
+      "improves",
+      "patient access"
+    ],
+    [
+      "telemedicine",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "telemedicine",
+      "improves",
+      "wearable devices"
+    ],
+    [
+      "telemedicine",
+      "manages",
+      "chronic diseases"
+    ],
+    [
+      "telemedicine",
+      "supports",
+      "community health"
+    ],
+    [
+      "vaccines",
+      "combats",
+      "chronic diseases"
+    ],
+    [
+      "vaccines",
+      "developed for",
+      "medical treatment"
+    ],
+    [
+      "vaccines",
+      "improved by",
+      "healthcare practices"
+    ],
+    [
+      "vaccines",
+      "improves",
+      "community health"
+    ],
+    [
+      "vaccines",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "vaccines",
+      "increases",
+      "patient access"
+    ],
+    [
+      "vaccines",
+      "integrates",
+      "personalized medicine"
+    ],
+    [
+      "vaccines",
+      "integrates",
+      "wearable devices"
+    ],
+    [
+      "vaccines",
+      "received by",
+      "healthcare providers"
+    ],
+    [
+      "vaccines",
+      "supports",
+      "public health"
+    ],
+    [
+      "wearable devices",
+      "drives",
+      "medical advancements"
+    ],
+    [
+      "wearable devices",
+      "facilitates",
+      "continuity of care"
+    ],
+    [
+      "wearable devices",
+      "impacts",
+      "chronic diseases"
+    ],
+    [
+      "wearable devices",
+      "impacts",
+      "healthcare disparities"
+    ],
+    [
+      "wearable devices",
+      "improves",
+      "affordable healthcare"
+    ],
+    [
+      "wearable devices",
+      "improves",
+      "patient access"
+    ],
+    [
+      "wearable devices",
+      "improves",
+      "quality of life"
+    ],
+    [
+      "wearable devices",
+      "supports",
+      "community health"
+    ],
+    [
+      "wearable devices",
+      "supports",
+      "personalized medicine"
+    ]
+  ],
+  "edges": [
+    "addresses",
+    "administer vaccines",
+    "advances",
+    "affected by",
+    "affects",
+    "analyzed by",
+    "applied in",
+    "applies to",
+    "assisted by",
+    "benefited from",
+    "benefits",
+    "benefits from",
+    "challenges",
+    "collaborates with",
+    "combats",
+    "communicated about",
+    "complicates",
+    "contributed to",
+    "contributes to",
+    "dependent on",
+    "depends on",
+    "developed",
+    "developed anesthesia for",
+    "developed by",
+    "developed during",
+    "developed for",
+    "developed from",
+    "develops",
+    "diagnoses",
+    "discovered by",
+    "drives",
+    "enabled",
+    "enabled by",
+    "enables",
+    "encompasses",
+    "enhanced",
+    "enhanced by",
+    "enhances",
+    "evolved into",
+    "exacerbates",
+    "explains",
+    "faces",
+    "facilitated by",
+    "facilitates",
+    "guides",
+    "impacted by",
+    "impacts",
+    "impedes",
+    "improved by",
+    "improves",
+    "includes",
+    "increases",
+    "influenced",
+    "influenced by",
+    "influences",
+    "informed",
+    "informed by",
+    "informs",
+    "inspired by",
+    "integrates",
+    "integrates with",
+    "involves",
+    "is a development of",
+    "is a factor in",
+    "is a result of",
+    "is a type of",
+    "is addressed by",
+    "is administered through",
+    "is advanced by",
+    "is affected by",
+    "is challenged by",
+    "is diagnosed by",
+    "is driven by",
+    "is enhanced by",
+    "is essential for",
+    "is facilitated by",
+    "is improved by",
+    "is influenced by",
+    "is supported by",
+    "is transformed by",
+    "is treated by",
+    "led to",
+    "limits",
+    "manages",
+    "occurred during",
+    "practiced by",
+    "presents",
+    "produces",
+    "promotes",
+    "provided by",
+    "provides",
+    "received by",
+    "receives",
+    "result from",
+    "resulted from",
+    "revolutionized",
+    "revolutionized by",
+    "revolutionizes",
+    "shaped",
+    "shaped by",
+    "shapes",
+    "studied by",
+    "supported by",
+    "supports",
+    "tailored by",
+    "tailors",
+    "transformed",
+    "transformed by",
+    "transforms",
+    "treated with",
+    "treats",
+    "underpins",
+    "utilized by",
+    "utilizes",
+    "was active during"
+  ]
+}

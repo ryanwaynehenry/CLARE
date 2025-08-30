@@ -1,0 +1,6366 @@
+{
+  "entities": [
+    "advancements in technology",
+    "air pollution",
+    "anaerobic digestion",
+    "baseload electricity",
+    "biodiesel",
+    "bioenergy",
+    "biofuels",
+    "biomass power",
+    "carbon emissions",
+    "carbon pricing",
+    "clean alternatives",
+    "clean energy",
+    "clean resources",
+    "cleaner world",
+    "climate change",
+    "climate solutions",
+    "cost reduction",
+    "cost-effectiveness",
+    "efficiency improvements",
+    "electricity generation",
+    "energy accessibility",
+    "energy conversion",
+    "energy demand",
+    "energy efficiency",
+    "energy future",
+    "energy innovation",
+    "energy needs",
+    "energy reliability",
+    "energy resilience",
+    "energy sources",
+    "energy storage",
+    "energy sustainability",
+    "energy transition",
+    "energy versatility",
+    "environmental impact",
+    "environmental sustainability",
+    "ethanol",
+    "fossil fuel alternative",
+    "geothermal energy",
+    "geothermal technology",
+    "global energy landscape",
+    "grid integration",
+    "hydropower",
+    "intermittent energy",
+    "international agreements",
+    "investment growth",
+    "kinetic energy",
+    "low-carbon economy",
+    "offshore wind",
+    "onshore wind",
+    "organic materials",
+    "policy support",
+    "public awareness",
+    "renewable energy growth",
+    "renewable energy potential",
+    "renewable energy targets",
+    "renewable resources",
+    "small-scale projects",
+    "smart grid",
+    "solar energy",
+    "solar panels",
+    "solar technology",
+    "solar tracking",
+    "subsidies",
+    "sustainable development",
+    "sustainable energy",
+    "sustainable solutions",
+    "technological advancements",
+    "thin-film cells",
+    "wind farms",
+    "wind power",
+    "wind turbines"
+  ],
+  "relations": [
+    [
+      "advancements in technology",
+      "addresses",
+      "air pollution"
+    ],
+    [
+      "advancements in technology",
+      "addresses",
+      "intermittent energy"
+    ],
+    [
+      "advancements in technology",
+      "advances",
+      "onshore wind"
+    ],
+    [
+      "advancements in technology",
+      "drives",
+      "energy needs"
+    ],
+    [
+      "advancements in technology",
+      "drives",
+      "solar panels"
+    ],
+    [
+      "advancements in technology",
+      "drives",
+      "sustainable development"
+    ],
+    [
+      "advancements in technology",
+      "enables",
+      "baseload electricity"
+    ],
+    [
+      "advancements in technology",
+      "enables",
+      "cost reduction"
+    ],
+    [
+      "advancements in technology",
+      "enhanced by",
+      "solar energy"
+    ],
+    [
+      "advancements in technology",
+      "enhances",
+      "bioenergy"
+    ],
+    [
+      "advancements in technology",
+      "enhances",
+      "biofuels"
+    ],
+    [
+      "advancements in technology",
+      "enhances",
+      "biomass power"
+    ],
+    [
+      "advancements in technology",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "advancements in technology",
+      "facilitates",
+      "subsidies"
+    ],
+    [
+      "advancements in technology",
+      "improves",
+      "biodiesel"
+    ],
+    [
+      "advancements in technology",
+      "improves",
+      "energy storage"
+    ],
+    [
+      "advancements in technology",
+      "improves",
+      "offshore wind"
+    ],
+    [
+      "advancements in technology",
+      "improves",
+      "solar tracking"
+    ],
+    [
+      "advancements in technology",
+      "influenced by",
+      "energy future"
+    ],
+    [
+      "advancements in technology",
+      "is advanced by",
+      "clean resources"
+    ],
+    [
+      "advancements in technology",
+      "is driven by",
+      "hydropower"
+    ],
+    [
+      "advancements in technology",
+      "reduces",
+      "carbon emissions"
+    ],
+    [
+      "advancements in technology",
+      "supports",
+      "clean energy"
+    ],
+    [
+      "advancements in technology",
+      "supports",
+      "policy support"
+    ],
+    [
+      "air pollution",
+      "contributes to",
+      "baseload electricity"
+    ],
+    [
+      "air pollution",
+      "contributes to",
+      "carbon emissions"
+    ],
+    [
+      "air pollution",
+      "contributes to",
+      "hydropower"
+    ],
+    [
+      "air pollution",
+      "contributes to",
+      "wind power"
+    ],
+    [
+      "air pollution",
+      "impacts",
+      "environmental sustainability"
+    ],
+    [
+      "air pollution",
+      "influences",
+      "energy demand"
+    ],
+    [
+      "air pollution",
+      "is affected by",
+      "biomass power"
+    ],
+    [
+      "air pollution",
+      "is affected by",
+      "environmental impact"
+    ],
+    [
+      "air pollution",
+      "is reduced by",
+      "energy storage"
+    ],
+    [
+      "air pollution",
+      "mitigates",
+      "energy future"
+    ],
+    [
+      "air pollution",
+      "mitigates",
+      "energy transition"
+    ],
+    [
+      "air pollution",
+      "mitigates",
+      "renewable energy potential"
+    ],
+    [
+      "air pollution",
+      "mitigates",
+      "renewable resources"
+    ],
+    [
+      "air pollution",
+      "mitigates",
+      "thin-film cells"
+    ],
+    [
+      "air pollution",
+      "reduces",
+      "anaerobic digestion"
+    ],
+    [
+      "air pollution",
+      "reduces",
+      "biofuels"
+    ],
+    [
+      "air pollution",
+      "reduces",
+      "clean energy"
+    ],
+    [
+      "air pollution",
+      "reduces",
+      "investment growth"
+    ],
+    [
+      "air pollution",
+      "reduces",
+      "smart grid"
+    ],
+    [
+      "air pollution",
+      "reduces",
+      "wind farms"
+    ],
+    [
+      "anaerobic digestion",
+      "contributes to",
+      "carbon emissions"
+    ],
+    [
+      "anaerobic digestion",
+      "contributes to",
+      "energy sustainability"
+    ],
+    [
+      "anaerobic digestion",
+      "contributes to",
+      "environmental sustainability"
+    ],
+    [
+      "anaerobic digestion",
+      "facilitates",
+      "energy conversion"
+    ],
+    [
+      "anaerobic digestion",
+      "generates",
+      "clean energy"
+    ],
+    [
+      "anaerobic digestion",
+      "improves",
+      "advancements in technology"
+    ],
+    [
+      "anaerobic digestion",
+      "improves",
+      "cost-effectiveness"
+    ],
+    [
+      "anaerobic digestion",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "anaerobic digestion",
+      "is affected by",
+      "environmental impact"
+    ],
+    [
+      "anaerobic digestion",
+      "is enhanced by",
+      "solar technology"
+    ],
+    [
+      "anaerobic digestion",
+      "is guided by",
+      "international agreements"
+    ],
+    [
+      "anaerobic digestion",
+      "produces",
+      "biodiesel"
+    ],
+    [
+      "anaerobic digestion",
+      "produces",
+      "bioenergy"
+    ],
+    [
+      "anaerobic digestion",
+      "produces",
+      "biomass power"
+    ],
+    [
+      "anaerobic digestion",
+      "promotes",
+      "cleaner world"
+    ],
+    [
+      "anaerobic digestion",
+      "promotes",
+      "renewable energy growth"
+    ],
+    [
+      "anaerobic digestion",
+      "provides",
+      "fossil fuel alternative"
+    ],
+    [
+      "anaerobic digestion",
+      "supports",
+      "energy transition"
+    ],
+    [
+      "anaerobic digestion",
+      "supports",
+      "renewable resources"
+    ],
+    [
+      "baseload electricity",
+      "depends on",
+      "energy resilience"
+    ],
+    [
+      "baseload electricity",
+      "enhances",
+      "climate solutions"
+    ],
+    [
+      "baseload electricity",
+      "provides",
+      "energy accessibility"
+    ],
+    [
+      "baseload electricity",
+      "provides",
+      "energy sustainability"
+    ],
+    [
+      "baseload electricity",
+      "provides",
+      "global energy landscape"
+    ],
+    [
+      "baseload electricity",
+      "provides",
+      "hydropower"
+    ],
+    [
+      "baseload electricity",
+      "provides",
+      "renewable energy potential"
+    ],
+    [
+      "baseload electricity",
+      "provides",
+      "small-scale projects"
+    ],
+    [
+      "baseload electricity",
+      "provides",
+      "solar panels"
+    ],
+    [
+      "baseload electricity",
+      "provides",
+      "wind power"
+    ],
+    [
+      "baseload electricity",
+      "supports",
+      "low-carbon economy"
+    ],
+    [
+      "biodiesel",
+      "contributes to",
+      "carbon emissions"
+    ],
+    [
+      "biodiesel",
+      "derived from",
+      "energy sources"
+    ],
+    [
+      "biodiesel",
+      "derived from",
+      "kinetic energy"
+    ],
+    [
+      "biodiesel",
+      "is a product of",
+      "wind turbines"
+    ],
+    [
+      "biodiesel",
+      "is a type of",
+      "ethanol"
+    ],
+    [
+      "biodiesel",
+      "is derived from",
+      "intermittent energy"
+    ],
+    [
+      "biodiesel",
+      "is influenced by",
+      "environmental impact"
+    ],
+    [
+      "biodiesel",
+      "is powered by",
+      "electricity generation"
+    ],
+    [
+      "biodiesel",
+      "is produced from",
+      "geothermal energy"
+    ],
+    [
+      "biodiesel",
+      "powered by",
+      "energy needs"
+    ],
+    [
+      "biodiesel",
+      "supports",
+      "environmental sustainability"
+    ],
+    [
+      "biodiesel",
+      "supports",
+      "low-carbon economy"
+    ],
+    [
+      "bioenergy",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "bioenergy",
+      "contributes to",
+      "environmental sustainability"
+    ],
+    [
+      "bioenergy",
+      "enables",
+      "energy conversion"
+    ],
+    [
+      "bioenergy",
+      "enhances",
+      "geothermal technology"
+    ],
+    [
+      "bioenergy",
+      "influences",
+      "global energy landscape"
+    ],
+    [
+      "bioenergy",
+      "is a type of",
+      "renewable resources"
+    ],
+    [
+      "bioenergy",
+      "mitigates",
+      "air pollution"
+    ],
+    [
+      "bioenergy",
+      "produces",
+      "biodiesel"
+    ],
+    [
+      "bioenergy",
+      "provides",
+      "clean energy"
+    ],
+    [
+      "bioenergy",
+      "reduces",
+      "carbon emissions"
+    ],
+    [
+      "biofuels",
+      "fuels",
+      "solar energy"
+    ],
+    [
+      "biofuels",
+      "is a source for",
+      "kinetic energy"
+    ],
+    [
+      "biofuels",
+      "is a type of",
+      "biodiesel"
+    ],
+    [
+      "biofuels",
+      "is a type of",
+      "clean energy"
+    ],
+    [
+      "biofuels",
+      "is a type of",
+      "ethanol"
+    ],
+    [
+      "biofuels",
+      "is influenced by",
+      "environmental impact"
+    ],
+    [
+      "biofuels",
+      "is reduced by",
+      "carbon emissions"
+    ],
+    [
+      "biofuels",
+      "powers",
+      "energy sources"
+    ],
+    [
+      "biofuels",
+      "produces",
+      "anaerobic digestion"
+    ],
+    [
+      "biofuels",
+      "produces",
+      "biomass power"
+    ],
+    [
+      "biomass power",
+      "benefits from",
+      "subsidies"
+    ],
+    [
+      "biomass power",
+      "contributes to",
+      "carbon emissions"
+    ],
+    [
+      "biomass power",
+      "enhances",
+      "geothermal technology"
+    ],
+    [
+      "biomass power",
+      "influences",
+      "global energy landscape"
+    ],
+    [
+      "biomass power",
+      "is complemented by",
+      "hydropower"
+    ],
+    [
+      "biomass power",
+      "powered by",
+      "energy needs"
+    ],
+    [
+      "biomass power",
+      "produces",
+      "biodiesel"
+    ],
+    [
+      "biomass power",
+      "produces",
+      "electricity generation"
+    ],
+    [
+      "biomass power",
+      "provides",
+      "fossil fuel alternative"
+    ],
+    [
+      "biomass power",
+      "utilizes",
+      "wind turbines"
+    ],
+    [
+      "carbon emissions",
+      "affects",
+      "technological advancements"
+    ],
+    [
+      "carbon emissions",
+      "affects",
+      "thin-film cells"
+    ],
+    [
+      "carbon emissions",
+      "contributes to",
+      "electricity generation"
+    ],
+    [
+      "carbon emissions",
+      "contributes to",
+      "energy efficiency"
+    ],
+    [
+      "carbon emissions",
+      "contributes to",
+      "energy needs"
+    ],
+    [
+      "carbon emissions",
+      "contributes to",
+      "geothermal technology"
+    ],
+    [
+      "carbon emissions",
+      "contributes to",
+      "solar panels"
+    ],
+    [
+      "carbon emissions",
+      "contributes to",
+      "sustainable energy"
+    ],
+    [
+      "carbon emissions",
+      "contributes to",
+      "wind turbines"
+    ],
+    [
+      "carbon emissions",
+      "impacts",
+      "kinetic energy"
+    ],
+    [
+      "carbon emissions",
+      "influences",
+      "energy storage"
+    ],
+    [
+      "carbon emissions",
+      "is affected by",
+      "smart grid"
+    ],
+    [
+      "carbon emissions",
+      "is influenced by",
+      "intermittent energy"
+    ],
+    [
+      "carbon emissions",
+      "lowers",
+      "cost reduction"
+    ],
+    [
+      "carbon emissions",
+      "mitigates",
+      "geothermal energy"
+    ],
+    [
+      "carbon emissions",
+      "raises awareness of",
+      "public awareness"
+    ],
+    [
+      "carbon emissions",
+      "reduces",
+      "carbon pricing"
+    ],
+    [
+      "carbon emissions",
+      "reduces",
+      "energy accessibility"
+    ],
+    [
+      "carbon emissions",
+      "reduces",
+      "environmental sustainability"
+    ],
+    [
+      "carbon emissions",
+      "reduces",
+      "fossil fuel alternative"
+    ],
+    [
+      "carbon emissions",
+      "reduces",
+      "solar energy"
+    ],
+    [
+      "carbon emissions",
+      "reduces",
+      "subsidies"
+    ],
+    [
+      "carbon emissions",
+      "reduces",
+      "sustainable solutions"
+    ],
+    [
+      "carbon emissions",
+      "results in",
+      "low-carbon economy"
+    ],
+    [
+      "carbon pricing",
+      "addresses",
+      "intermittent energy"
+    ],
+    [
+      "carbon pricing",
+      "affected by",
+      "environmental impact"
+    ],
+    [
+      "carbon pricing",
+      "affects",
+      "ethanol"
+    ],
+    [
+      "carbon pricing",
+      "affects",
+      "geothermal energy"
+    ],
+    [
+      "carbon pricing",
+      "affects",
+      "hydropower"
+    ],
+    [
+      "carbon pricing",
+      "affects",
+      "wind power"
+    ],
+    [
+      "carbon pricing",
+      "contributes to",
+      "cleaner world"
+    ],
+    [
+      "carbon pricing",
+      "enabled by",
+      "baseload electricity"
+    ],
+    [
+      "carbon pricing",
+      "enables",
+      "cost reduction"
+    ],
+    [
+      "carbon pricing",
+      "enables",
+      "policy support"
+    ],
+    [
+      "carbon pricing",
+      "generates",
+      "biomass power"
+    ],
+    [
+      "carbon pricing",
+      "influences",
+      "biofuels"
+    ],
+    [
+      "carbon pricing",
+      "influences",
+      "energy storage"
+    ],
+    [
+      "carbon pricing",
+      "influences",
+      "solar panels"
+    ],
+    [
+      "carbon pricing",
+      "influences",
+      "solar technology"
+    ],
+    [
+      "carbon pricing",
+      "influences",
+      "solar tracking"
+    ],
+    [
+      "carbon pricing",
+      "influences",
+      "wind farms"
+    ],
+    [
+      "carbon pricing",
+      "is influenced by",
+      "international agreements"
+    ],
+    [
+      "carbon pricing",
+      "mitigates",
+      "air pollution"
+    ],
+    [
+      "carbon pricing",
+      "promotes",
+      "clean energy"
+    ],
+    [
+      "carbon pricing",
+      "promotes",
+      "energy sustainability"
+    ],
+    [
+      "carbon pricing",
+      "promotes",
+      "sustainable solutions"
+    ],
+    [
+      "carbon pricing",
+      "regulates",
+      "biodiesel"
+    ],
+    [
+      "carbon pricing",
+      "shapes",
+      "energy future"
+    ],
+    [
+      "carbon pricing",
+      "supports",
+      "environmental sustainability"
+    ],
+    [
+      "carbon pricing",
+      "supports",
+      "sustainable energy"
+    ],
+    [
+      "clean alternatives",
+      "mitigates",
+      "climate change"
+    ],
+    [
+      "clean alternatives",
+      "reduces",
+      "air pollution"
+    ],
+    [
+      "clean energy",
+      "includes",
+      "renewable resources"
+    ],
+    [
+      "clean energy",
+      "is a response to",
+      "climate change"
+    ],
+    [
+      "clean energy",
+      "powers",
+      "organic materials"
+    ],
+    [
+      "clean energy",
+      "reduces",
+      "carbon emissions"
+    ],
+    [
+      "clean resources",
+      "addresses",
+      "intermittent energy"
+    ],
+    [
+      "clean resources",
+      "contributes to",
+      "low-carbon economy"
+    ],
+    [
+      "clean resources",
+      "drives",
+      "renewable energy growth"
+    ],
+    [
+      "clean resources",
+      "enables",
+      "anaerobic digestion"
+    ],
+    [
+      "clean resources",
+      "encourages",
+      "investment growth"
+    ],
+    [
+      "clean resources",
+      "facilitates",
+      "energy transition"
+    ],
+    [
+      "clean resources",
+      "includes",
+      "biofuels"
+    ],
+    [
+      "clean resources",
+      "is a source of",
+      "biodiesel"
+    ],
+    [
+      "clean resources",
+      "is a source of",
+      "wind power"
+    ],
+    [
+      "clean resources",
+      "provides",
+      "clean alternatives"
+    ],
+    [
+      "clean resources",
+      "reduces",
+      "air pollution"
+    ],
+    [
+      "clean resources",
+      "represents",
+      "sustainable energy"
+    ],
+    [
+      "clean resources",
+      "supports",
+      "electricity generation"
+    ],
+    [
+      "clean resources",
+      "utilizes",
+      "wind turbines"
+    ],
+    [
+      "cleaner world",
+      "benefits from",
+      "wind turbines"
+    ],
+    [
+      "cleaner world",
+      "contributes to",
+      "energy future"
+    ],
+    [
+      "cleaner world",
+      "contributes to",
+      "thin-film cells"
+    ],
+    [
+      "cleaner world",
+      "drives",
+      "advancements in technology"
+    ],
+    [
+      "cleaner world",
+      "enables",
+      "clean alternatives"
+    ],
+    [
+      "cleaner world",
+      "is a source of",
+      "bioenergy"
+    ],
+    [
+      "cleaner world",
+      "is supported by",
+      "sustainable solutions"
+    ],
+    [
+      "cleaner world",
+      "leads to",
+      "energy efficiency"
+    ],
+    [
+      "cleaner world",
+      "promotes",
+      "biofuels"
+    ],
+    [
+      "cleaner world",
+      "reduces",
+      "air pollution"
+    ],
+    [
+      "cleaner world",
+      "supports",
+      "energy versatility"
+    ],
+    [
+      "cleaner world",
+      "supports",
+      "international agreements"
+    ],
+    [
+      "climate change",
+      "affects",
+      "energy sustainability"
+    ],
+    [
+      "climate change",
+      "affects",
+      "environmental sustainability"
+    ],
+    [
+      "climate change",
+      "contributes to",
+      "organic materials"
+    ],
+    [
+      "climate change",
+      "drives",
+      "wind farms"
+    ],
+    [
+      "climate change",
+      "exacerbates",
+      "air pollution"
+    ],
+    [
+      "climate change",
+      "exacerbates",
+      "ethanol"
+    ],
+    [
+      "climate change",
+      "exacerbates",
+      "solar panels"
+    ],
+    [
+      "climate change",
+      "influences",
+      "environmental impact"
+    ],
+    [
+      "climate change",
+      "is affected by",
+      "baseload electricity"
+    ],
+    [
+      "climate change",
+      "is driven by",
+      "solar tracking"
+    ],
+    [
+      "climate change",
+      "is impacted by",
+      "biomass power"
+    ],
+    [
+      "climate change",
+      "mitigates",
+      "solar energy"
+    ],
+    [
+      "climate change",
+      "mitigates",
+      "sustainable energy"
+    ],
+    [
+      "climate change",
+      "reduces",
+      "biofuels"
+    ],
+    [
+      "climate change",
+      "shapes",
+      "energy future"
+    ],
+    [
+      "climate solutions",
+      "addresses",
+      "bioenergy"
+    ],
+    [
+      "climate solutions",
+      "advances",
+      "low-carbon economy"
+    ],
+    [
+      "climate solutions",
+      "challenges",
+      "intermittent energy"
+    ],
+    [
+      "climate solutions",
+      "contributes to",
+      "cleaner world"
+    ],
+    [
+      "climate solutions",
+      "drives",
+      "technological advancements"
+    ],
+    [
+      "climate solutions",
+      "enhances",
+      "advancements in technology"
+    ],
+    [
+      "climate solutions",
+      "enhances",
+      "energy versatility"
+    ],
+    [
+      "climate solutions",
+      "is supported by",
+      "subsidies"
+    ],
+    [
+      "climate solutions",
+      "leads to",
+      "cost reduction"
+    ],
+    [
+      "climate solutions",
+      "offers",
+      "renewable energy potential"
+    ],
+    [
+      "climate solutions",
+      "offers",
+      "wind power"
+    ],
+    [
+      "climate solutions",
+      "promotes",
+      "carbon pricing"
+    ],
+    [
+      "climate solutions",
+      "promotes",
+      "energy innovation"
+    ],
+    [
+      "climate solutions",
+      "promotes",
+      "environmental sustainability"
+    ],
+    [
+      "climate solutions",
+      "provides",
+      "biofuels"
+    ],
+    [
+      "climate solutions",
+      "provides",
+      "ethanol"
+    ],
+    [
+      "climate solutions",
+      "provides",
+      "solar panels"
+    ],
+    [
+      "climate solutions",
+      "provides",
+      "solar tracking"
+    ],
+    [
+      "climate solutions",
+      "provides",
+      "sustainable solutions"
+    ],
+    [
+      "climate solutions",
+      "shapes",
+      "energy future"
+    ],
+    [
+      "climate solutions",
+      "supports",
+      "biomass power"
+    ],
+    [
+      "climate solutions",
+      "supports",
+      "clean energy"
+    ],
+    [
+      "climate solutions",
+      "supports",
+      "energy storage"
+    ],
+    [
+      "climate solutions",
+      "supports",
+      "international agreements"
+    ],
+    [
+      "climate solutions",
+      "supports",
+      "policy support"
+    ],
+    [
+      "climate solutions",
+      "supports",
+      "sustainable development"
+    ],
+    [
+      "climate solutions",
+      "utilizes",
+      "organic materials"
+    ],
+    [
+      "cost reduction",
+      "benefits from",
+      "electricity generation"
+    ],
+    [
+      "cost reduction",
+      "enables",
+      "anaerobic digestion"
+    ],
+    [
+      "cost reduction",
+      "enables",
+      "bioenergy"
+    ],
+    [
+      "cost reduction",
+      "enables",
+      "biofuels"
+    ],
+    [
+      "cost reduction",
+      "enables",
+      "energy storage"
+    ],
+    [
+      "cost reduction",
+      "enables",
+      "low-carbon economy"
+    ],
+    [
+      "cost reduction",
+      "enables",
+      "policy support"
+    ],
+    [
+      "cost reduction",
+      "enables",
+      "solar technology"
+    ],
+    [
+      "cost reduction",
+      "enables",
+      "sustainable solutions"
+    ],
+    [
+      "cost reduction",
+      "facilitates",
+      "clean energy"
+    ],
+    [
+      "cost reduction",
+      "facilitates",
+      "energy transition"
+    ],
+    [
+      "cost reduction",
+      "facilitates",
+      "renewable resources"
+    ],
+    [
+      "cost reduction",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "cost reduction",
+      "is driven by",
+      "international agreements"
+    ],
+    [
+      "cost reduction",
+      "leads to",
+      "ethanol"
+    ],
+    [
+      "cost reduction",
+      "leads to",
+      "hydropower"
+    ],
+    [
+      "cost reduction",
+      "leads to",
+      "kinetic energy"
+    ],
+    [
+      "cost reduction",
+      "reduces",
+      "offshore wind"
+    ],
+    [
+      "cost reduction",
+      "results in",
+      "cost-effectiveness"
+    ],
+    [
+      "cost reduction",
+      "serves as",
+      "fossil fuel alternative"
+    ],
+    [
+      "cost-effectiveness",
+      "contributes to",
+      "biomass power"
+    ],
+    [
+      "cost-effectiveness",
+      "depends on",
+      "baseload electricity"
+    ],
+    [
+      "cost-effectiveness",
+      "enhances",
+      "biofuels"
+    ],
+    [
+      "cost-effectiveness",
+      "enhances",
+      "policy support"
+    ],
+    [
+      "cost-effectiveness",
+      "improves",
+      "energy conversion"
+    ],
+    [
+      "cost-effectiveness",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "cost-effectiveness",
+      "improves",
+      "solar tracking"
+    ],
+    [
+      "cost-effectiveness",
+      "improves",
+      "sustainable energy"
+    ],
+    [
+      "cost-effectiveness",
+      "influences",
+      "climate change"
+    ],
+    [
+      "cost-effectiveness",
+      "is associated with",
+      "kinetic energy"
+    ],
+    [
+      "cost-effectiveness",
+      "is influenced by",
+      "biodiesel"
+    ],
+    [
+      "efficiency improvements",
+      "addresses",
+      "energy demand"
+    ],
+    [
+      "efficiency improvements",
+      "benefits from",
+      "subsidies"
+    ],
+    [
+      "efficiency improvements",
+      "contributes to",
+      "cleaner world"
+    ],
+    [
+      "efficiency improvements",
+      "drives",
+      "advancements in technology"
+    ],
+    [
+      "efficiency improvements",
+      "drives",
+      "renewable energy growth"
+    ],
+    [
+      "efficiency improvements",
+      "enhances",
+      "biomass power"
+    ],
+    [
+      "efficiency improvements",
+      "enhances",
+      "energy storage"
+    ],
+    [
+      "efficiency improvements",
+      "enhances",
+      "policy support"
+    ],
+    [
+      "efficiency improvements",
+      "enhances",
+      "renewable resources"
+    ],
+    [
+      "efficiency improvements",
+      "enhances",
+      "solar tracking"
+    ],
+    [
+      "efficiency improvements",
+      "enhances",
+      "sustainable energy"
+    ],
+    [
+      "efficiency improvements",
+      "enhances",
+      "wind power"
+    ],
+    [
+      "efficiency improvements",
+      "improves",
+      "biofuels"
+    ],
+    [
+      "efficiency improvements",
+      "improves",
+      "hydropower"
+    ],
+    [
+      "efficiency improvements",
+      "improves",
+      "solar panels"
+    ],
+    [
+      "efficiency improvements",
+      "improves",
+      "wind farms"
+    ],
+    [
+      "efficiency improvements",
+      "increases",
+      "cost-effectiveness"
+    ],
+    [
+      "efficiency improvements",
+      "promotes",
+      "clean alternatives"
+    ],
+    [
+      "efficiency improvements",
+      "shapes",
+      "energy future"
+    ],
+    [
+      "electricity generation",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "electricity generation",
+      "drives",
+      "sustainable energy"
+    ],
+    [
+      "electricity generation",
+      "enhances",
+      "efficiency improvements"
+    ],
+    [
+      "electricity generation",
+      "enhances",
+      "energy sustainability"
+    ],
+    [
+      "electricity generation",
+      "enhances",
+      "solar technology"
+    ],
+    [
+      "electricity generation",
+      "enhances",
+      "solar tracking"
+    ],
+    [
+      "electricity generation",
+      "facilitates",
+      "anaerobic digestion"
+    ],
+    [
+      "electricity generation",
+      "facilitates",
+      "energy transition"
+    ],
+    [
+      "electricity generation",
+      "funds",
+      "subsidies"
+    ],
+    [
+      "electricity generation",
+      "increases",
+      "energy efficiency"
+    ],
+    [
+      "electricity generation",
+      "involves",
+      "energy conversion"
+    ],
+    [
+      "electricity generation",
+      "is derived from",
+      "kinetic energy"
+    ],
+    [
+      "electricity generation",
+      "is produced from",
+      "organic materials"
+    ],
+    [
+      "electricity generation",
+      "meets",
+      "energy demand"
+    ],
+    [
+      "electricity generation",
+      "produces",
+      "bioenergy"
+    ],
+    [
+      "electricity generation",
+      "produces",
+      "hydropower"
+    ],
+    [
+      "electricity generation",
+      "provides",
+      "sustainable solutions"
+    ],
+    [
+      "electricity generation",
+      "represents",
+      "clean energy"
+    ],
+    [
+      "electricity generation",
+      "supports",
+      "smart grid"
+    ],
+    [
+      "energy accessibility",
+      "addresses",
+      "intermittent energy"
+    ],
+    [
+      "energy accessibility",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "energy accessibility",
+      "derived from",
+      "organic materials"
+    ],
+    [
+      "energy accessibility",
+      "drives",
+      "renewable energy growth"
+    ],
+    [
+      "energy accessibility",
+      "enables",
+      "electricity generation"
+    ],
+    [
+      "energy accessibility",
+      "enables",
+      "policy support"
+    ],
+    [
+      "energy accessibility",
+      "enhances",
+      "geothermal technology"
+    ],
+    [
+      "energy accessibility",
+      "enhances",
+      "hydropower"
+    ],
+    [
+      "energy accessibility",
+      "enhances",
+      "wind farms"
+    ],
+    [
+      "energy accessibility",
+      "facilitates",
+      "energy transition"
+    ],
+    [
+      "energy accessibility",
+      "improves",
+      "cost-effectiveness"
+    ],
+    [
+      "energy accessibility",
+      "improves",
+      "energy storage"
+    ],
+    [
+      "energy accessibility",
+      "incentivizes",
+      "carbon pricing"
+    ],
+    [
+      "energy accessibility",
+      "promotes",
+      "cleaner world"
+    ],
+    [
+      "energy accessibility",
+      "results in",
+      "cost reduction"
+    ],
+    [
+      "energy accessibility",
+      "shapes",
+      "energy future"
+    ],
+    [
+      "energy accessibility",
+      "spurs",
+      "energy innovation"
+    ],
+    [
+      "energy accessibility",
+      "supports",
+      "energy sustainability"
+    ],
+    [
+      "energy conversion",
+      "generates",
+      "biomass power"
+    ],
+    [
+      "energy conversion",
+      "influences",
+      "environmental impact"
+    ],
+    [
+      "energy conversion",
+      "produces",
+      "biofuels"
+    ],
+    [
+      "energy conversion",
+      "provides",
+      "clean alternatives"
+    ],
+    [
+      "energy conversion",
+      "reduces",
+      "carbon emissions"
+    ],
+    [
+      "energy conversion",
+      "utilizes",
+      "renewable resources"
+    ],
+    [
+      "energy conversion",
+      "utilizes",
+      "wind power"
+    ],
+    [
+      "energy demand",
+      "addresses",
+      "cleaner world"
+    ],
+    [
+      "energy demand",
+      "driven by",
+      "advancements in technology"
+    ],
+    [
+      "energy demand",
+      "driven by",
+      "grid integration"
+    ],
+    [
+      "energy demand",
+      "drives",
+      "solar technology"
+    ],
+    [
+      "energy demand",
+      "drives",
+      "wind turbines"
+    ],
+    [
+      "energy demand",
+      "is influenced by",
+      "cost-effectiveness"
+    ],
+    [
+      "energy demand",
+      "is met by",
+      "wind power"
+    ],
+    [
+      "energy efficiency",
+      "facilitates",
+      "energy conversion"
+    ],
+    [
+      "energy efficiency",
+      "is enhanced by",
+      "energy reliability"
+    ],
+    [
+      "energy efficiency",
+      "reduces",
+      "air pollution"
+    ],
+    [
+      "energy efficiency",
+      "utilizes",
+      "biofuels"
+    ],
+    [
+      "energy future",
+      "enhances",
+      "policy support"
+    ],
+    [
+      "energy future",
+      "influences",
+      "wind power"
+    ],
+    [
+      "energy future",
+      "is influenced by",
+      "international agreements"
+    ],
+    [
+      "energy future",
+      "shapes",
+      "energy efficiency"
+    ],
+    [
+      "energy future",
+      "shapes",
+      "global energy landscape"
+    ],
+    [
+      "energy future",
+      "shapes",
+      "intermittent energy"
+    ],
+    [
+      "energy future",
+      "shapes",
+      "wind farms"
+    ],
+    [
+      "energy innovation",
+      "contributes to",
+      "air pollution"
+    ],
+    [
+      "energy innovation",
+      "drives",
+      "environmental impact"
+    ],
+    [
+      "energy innovation",
+      "enables",
+      "policy support"
+    ],
+    [
+      "energy innovation",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "energy innovation",
+      "facilitates",
+      "solar tracking"
+    ],
+    [
+      "energy innovation",
+      "fosters",
+      "sustainable solutions"
+    ],
+    [
+      "energy innovation",
+      "increases",
+      "energy demand"
+    ],
+    [
+      "energy innovation",
+      "is influenced by",
+      "advancements in technology"
+    ],
+    [
+      "energy innovation",
+      "shapes",
+      "energy future"
+    ],
+    [
+      "energy innovation",
+      "utilizes",
+      "kinetic energy"
+    ],
+    [
+      "energy needs",
+      "addresses",
+      "bioenergy"
+    ],
+    [
+      "energy needs",
+      "addresses",
+      "cost reduction"
+    ],
+    [
+      "energy needs",
+      "addresses",
+      "energy efficiency"
+    ],
+    [
+      "energy needs",
+      "addresses",
+      "energy sustainability"
+    ],
+    [
+      "energy needs",
+      "addresses",
+      "thin-film cells"
+    ],
+    [
+      "energy needs",
+      "affects",
+      "climate change"
+    ],
+    [
+      "energy needs",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "energy needs",
+      "depends on",
+      "hydropower"
+    ],
+    [
+      "energy needs",
+      "fulfills",
+      "ethanol"
+    ],
+    [
+      "energy needs",
+      "meets",
+      "clean alternatives"
+    ],
+    [
+      "energy needs",
+      "satisfies",
+      "biofuels"
+    ],
+    [
+      "energy needs",
+      "supports",
+      "anaerobic digestion"
+    ],
+    [
+      "energy reliability",
+      "contributes to",
+      "cleaner world"
+    ],
+    [
+      "energy reliability",
+      "enhances",
+      "bioenergy"
+    ],
+    [
+      "energy reliability",
+      "enhances",
+      "energy resilience"
+    ],
+    [
+      "energy reliability",
+      "enhances",
+      "geothermal energy"
+    ],
+    [
+      "energy reliability",
+      "enhances",
+      "geothermal technology"
+    ],
+    [
+      "energy reliability",
+      "enhances",
+      "grid integration"
+    ],
+    [
+      "energy reliability",
+      "enhances",
+      "onshore wind"
+    ],
+    [
+      "energy reliability",
+      "enhances",
+      "renewable energy potential"
+    ],
+    [
+      "energy reliability",
+      "enhances",
+      "solar panels"
+    ],
+    [
+      "energy reliability",
+      "enhances",
+      "technological advancements"
+    ],
+    [
+      "energy reliability",
+      "ensures",
+      "electricity generation"
+    ],
+    [
+      "energy reliability",
+      "ensures",
+      "energy sources"
+    ],
+    [
+      "energy reliability",
+      "ensures",
+      "wind power"
+    ],
+    [
+      "energy reliability",
+      "is affected by",
+      "environmental impact"
+    ],
+    [
+      "energy reliability",
+      "provides",
+      "baseload electricity"
+    ],
+    [
+      "energy reliability",
+      "provides",
+      "hydropower"
+    ],
+    [
+      "energy reliability",
+      "supports",
+      "advancements in technology"
+    ],
+    [
+      "energy reliability",
+      "supports",
+      "clean energy"
+    ],
+    [
+      "energy reliability",
+      "supports",
+      "ethanol"
+    ],
+    [
+      "energy reliability",
+      "supports",
+      "offshore wind"
+    ],
+    [
+      "energy reliability",
+      "supports",
+      "small-scale projects"
+    ],
+    [
+      "energy reliability",
+      "supports",
+      "wind farms"
+    ],
+    [
+      "energy resilience",
+      "addresses",
+      "energy demand"
+    ],
+    [
+      "energy resilience",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "energy resilience",
+      "contributes to",
+      "energy storage"
+    ],
+    [
+      "energy resilience",
+      "contributes to",
+      "hydropower"
+    ],
+    [
+      "energy resilience",
+      "contributes to",
+      "low-carbon economy"
+    ],
+    [
+      "energy resilience",
+      "contributes to",
+      "renewable energy potential"
+    ],
+    [
+      "energy resilience",
+      "enhances",
+      "biofuels"
+    ],
+    [
+      "energy resilience",
+      "enhances",
+      "electricity generation"
+    ],
+    [
+      "energy resilience",
+      "enhances",
+      "geothermal energy"
+    ],
+    [
+      "energy resilience",
+      "enhances",
+      "offshore wind"
+    ],
+    [
+      "energy resilience",
+      "enhances",
+      "onshore wind"
+    ],
+    [
+      "energy resilience",
+      "enhances",
+      "public awareness"
+    ],
+    [
+      "energy resilience",
+      "enhances",
+      "solar technology"
+    ],
+    [
+      "energy resilience",
+      "enhances",
+      "sustainable energy"
+    ],
+    [
+      "energy resilience",
+      "enhances",
+      "sustainable solutions"
+    ],
+    [
+      "energy resilience",
+      "enhances",
+      "wind power"
+    ],
+    [
+      "energy resilience",
+      "influences",
+      "carbon pricing"
+    ],
+    [
+      "energy resilience",
+      "is driven by",
+      "advancements in technology"
+    ],
+    [
+      "energy resilience",
+      "is supported by",
+      "bioenergy"
+    ],
+    [
+      "energy resilience",
+      "shapes",
+      "energy future"
+    ],
+    [
+      "energy resilience",
+      "shapes",
+      "global energy landscape"
+    ],
+    [
+      "energy resilience",
+      "strengthens",
+      "sustainable development"
+    ],
+    [
+      "energy resilience",
+      "supports",
+      "solar panels"
+    ],
+    [
+      "energy resilience",
+      "utilizes",
+      "kinetic energy"
+    ],
+    [
+      "energy sources",
+      "advances",
+      "geothermal technology"
+    ],
+    [
+      "energy sources",
+      "causes",
+      "air pollution"
+    ],
+    [
+      "energy sources",
+      "contributes to",
+      "cleaner world"
+    ],
+    [
+      "energy sources",
+      "contributes to",
+      "renewable energy growth"
+    ],
+    [
+      "energy sources",
+      "drives",
+      "advancements in technology"
+    ],
+    [
+      "energy sources",
+      "drives",
+      "investment growth"
+    ],
+    [
+      "energy sources",
+      "enables",
+      "electricity generation"
+    ],
+    [
+      "energy sources",
+      "enhances",
+      "efficiency improvements"
+    ],
+    [
+      "energy sources",
+      "enhances",
+      "energy storage"
+    ],
+    [
+      "energy sources",
+      "generates",
+      "hydropower"
+    ],
+    [
+      "energy sources",
+      "improves",
+      "energy accessibility"
+    ],
+    [
+      "energy sources",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "energy sources",
+      "includes",
+      "biomass power"
+    ],
+    [
+      "energy sources",
+      "includes",
+      "clean resources"
+    ],
+    [
+      "energy sources",
+      "includes",
+      "geothermal energy"
+    ],
+    [
+      "energy sources",
+      "includes",
+      "solar panels"
+    ],
+    [
+      "energy sources",
+      "includes",
+      "wind power"
+    ],
+    [
+      "energy sources",
+      "indicates",
+      "renewable energy potential"
+    ],
+    [
+      "energy sources",
+      "influences",
+      "carbon emissions"
+    ],
+    [
+      "energy sources",
+      "involves",
+      "energy conversion"
+    ],
+    [
+      "energy sources",
+      "is a type of",
+      "clean energy"
+    ],
+    [
+      "energy sources",
+      "is enhanced by",
+      "cost-effectiveness"
+    ],
+    [
+      "energy sources",
+      "is influenced by",
+      "climate change"
+    ],
+    [
+      "energy sources",
+      "is influenced by",
+      "international agreements"
+    ],
+    [
+      "energy sources",
+      "is supported by",
+      "policy support"
+    ],
+    [
+      "energy sources",
+      "leads to",
+      "cost reduction"
+    ],
+    [
+      "energy sources",
+      "produces",
+      "ethanol"
+    ],
+    [
+      "energy sources",
+      "promotes",
+      "environmental sustainability"
+    ],
+    [
+      "energy sources",
+      "serves as",
+      "fossil fuel alternative"
+    ],
+    [
+      "energy sources",
+      "shapes",
+      "global energy landscape"
+    ],
+    [
+      "energy sources",
+      "supports",
+      "energy sustainability"
+    ],
+    [
+      "energy storage",
+      "enhances",
+      "global energy landscape"
+    ],
+    [
+      "energy storage",
+      "enhances",
+      "wind power"
+    ],
+    [
+      "energy storage",
+      "exacerbates",
+      "climate change"
+    ],
+    [
+      "energy storage",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "energy storage",
+      "is supported by",
+      "baseload electricity"
+    ],
+    [
+      "energy storage",
+      "receives",
+      "policy support"
+    ],
+    [
+      "energy storage",
+      "supports",
+      "energy future"
+    ],
+    [
+      "energy storage",
+      "supports",
+      "geothermal energy"
+    ],
+    [
+      "energy storage",
+      "supports",
+      "hydropower"
+    ],
+    [
+      "energy storage",
+      "supports",
+      "renewable energy growth"
+    ],
+    [
+      "energy sustainability",
+      "contributes to",
+      "biodiesel"
+    ],
+    [
+      "energy sustainability",
+      "contributes to",
+      "cleaner world"
+    ],
+    [
+      "energy sustainability",
+      "enables",
+      "energy conversion"
+    ],
+    [
+      "energy sustainability",
+      "enhances",
+      "cost-effectiveness"
+    ],
+    [
+      "energy sustainability",
+      "enhances",
+      "renewable resources"
+    ],
+    [
+      "energy sustainability",
+      "improves",
+      "cost reduction"
+    ],
+    [
+      "energy sustainability",
+      "mitigates",
+      "air pollution"
+    ],
+    [
+      "energy sustainability",
+      "promotes",
+      "biofuels"
+    ],
+    [
+      "energy sustainability",
+      "shapes",
+      "global energy landscape"
+    ],
+    [
+      "energy sustainability",
+      "supports",
+      "clean alternatives"
+    ],
+    [
+      "energy transition",
+      "addresses",
+      "energy needs"
+    ],
+    [
+      "energy transition",
+      "enabled by",
+      "small-scale projects"
+    ],
+    [
+      "energy transition",
+      "enables",
+      "climate change"
+    ],
+    [
+      "energy transition",
+      "enables",
+      "geothermal energy"
+    ],
+    [
+      "energy transition",
+      "facilitates",
+      "biomass power"
+    ],
+    [
+      "energy transition",
+      "facilitates",
+      "clean alternatives"
+    ],
+    [
+      "energy transition",
+      "facilitates",
+      "clean energy"
+    ],
+    [
+      "energy transition",
+      "facilitates",
+      "energy efficiency"
+    ],
+    [
+      "energy transition",
+      "facilitates",
+      "energy innovation"
+    ],
+    [
+      "energy transition",
+      "facilitates",
+      "energy storage"
+    ],
+    [
+      "energy transition",
+      "facilitates",
+      "renewable resources"
+    ],
+    [
+      "energy transition",
+      "facilitates",
+      "solar technology"
+    ],
+    [
+      "energy transition",
+      "facilitates",
+      "wind power"
+    ],
+    [
+      "energy transition",
+      "influences",
+      "global energy landscape"
+    ],
+    [
+      "energy transition",
+      "supports",
+      "baseload electricity"
+    ],
+    [
+      "energy transition",
+      "supports",
+      "sustainable solutions"
+    ],
+    [
+      "energy transition",
+      "utilizes",
+      "wind turbines"
+    ],
+    [
+      "energy versatility",
+      "addresses",
+      "energy demand"
+    ],
+    [
+      "energy versatility",
+      "contributes to",
+      "renewable energy growth"
+    ],
+    [
+      "energy versatility",
+      "derived from",
+      "ethanol"
+    ],
+    [
+      "energy versatility",
+      "derived from",
+      "organic materials"
+    ],
+    [
+      "energy versatility",
+      "enables",
+      "biodiesel"
+    ],
+    [
+      "energy versatility",
+      "enables",
+      "electricity generation"
+    ],
+    [
+      "energy versatility",
+      "enhances",
+      "biomass power"
+    ],
+    [
+      "energy versatility",
+      "enhances",
+      "energy resilience"
+    ],
+    [
+      "energy versatility",
+      "enhances",
+      "energy storage"
+    ],
+    [
+      "energy versatility",
+      "enhances",
+      "solar tracking"
+    ],
+    [
+      "energy versatility",
+      "facilitates",
+      "grid integration"
+    ],
+    [
+      "energy versatility",
+      "influences",
+      "carbon pricing"
+    ],
+    [
+      "energy versatility",
+      "is enhanced by",
+      "onshore wind"
+    ],
+    [
+      "energy versatility",
+      "offers",
+      "bioenergy"
+    ],
+    [
+      "energy versatility",
+      "offers",
+      "wind farms"
+    ],
+    [
+      "energy versatility",
+      "promotes",
+      "sustainable development"
+    ],
+    [
+      "energy versatility",
+      "provides",
+      "clean alternatives"
+    ],
+    [
+      "energy versatility",
+      "provides",
+      "clean energy"
+    ],
+    [
+      "energy versatility",
+      "provides",
+      "sustainable solutions"
+    ],
+    [
+      "energy versatility",
+      "supports",
+      "renewable resources"
+    ],
+    [
+      "energy versatility",
+      "utilizes",
+      "wind turbines"
+    ],
+    [
+      "environmental impact",
+      "affects",
+      "energy sources"
+    ],
+    [
+      "environmental impact",
+      "affects",
+      "energy sustainability"
+    ],
+    [
+      "environmental impact",
+      "affects",
+      "hydropower"
+    ],
+    [
+      "environmental impact",
+      "affects",
+      "solar panels"
+    ],
+    [
+      "environmental impact",
+      "contributes to",
+      "air pollution"
+    ],
+    [
+      "environmental impact",
+      "contributes to",
+      "carbon emissions"
+    ],
+    [
+      "environmental impact",
+      "drives",
+      "technological advancements"
+    ],
+    [
+      "environmental impact",
+      "impacts",
+      "solar energy"
+    ],
+    [
+      "environmental impact",
+      "influences",
+      "biomass power"
+    ],
+    [
+      "environmental impact",
+      "influences",
+      "energy demand"
+    ],
+    [
+      "environmental impact",
+      "mitigates",
+      "clean energy"
+    ],
+    [
+      "environmental impact",
+      "promotes",
+      "environmental sustainability"
+    ],
+    [
+      "environmental impact",
+      "shapes",
+      "energy future"
+    ],
+    [
+      "environmental impact",
+      "supports",
+      "low-carbon economy"
+    ],
+    [
+      "environmental sustainability",
+      "contributes to",
+      "solar tracking"
+    ],
+    [
+      "environmental sustainability",
+      "enhances",
+      "biomass power"
+    ],
+    [
+      "environmental sustainability",
+      "influences",
+      "global energy landscape"
+    ],
+    [
+      "environmental sustainability",
+      "is supported by",
+      "baseload electricity"
+    ],
+    [
+      "environmental sustainability",
+      "promotes",
+      "clean alternatives"
+    ],
+    [
+      "environmental sustainability",
+      "promotes",
+      "clean energy"
+    ],
+    [
+      "environmental sustainability",
+      "supports",
+      "energy sustainability"
+    ],
+    [
+      "environmental sustainability",
+      "supports",
+      "thin-film cells"
+    ],
+    [
+      "ethanol",
+      "contributes to",
+      "air pollution"
+    ],
+    [
+      "ethanol",
+      "contributes to",
+      "cleaner world"
+    ],
+    [
+      "ethanol",
+      "contributes to",
+      "environmental sustainability"
+    ],
+    [
+      "ethanol",
+      "derived from",
+      "biomass power"
+    ],
+    [
+      "ethanol",
+      "derived from",
+      "electricity generation"
+    ],
+    [
+      "ethanol",
+      "facilitates",
+      "energy conversion"
+    ],
+    [
+      "ethanol",
+      "increases",
+      "carbon emissions"
+    ],
+    [
+      "ethanol",
+      "is a form of",
+      "clean energy"
+    ],
+    [
+      "ethanol",
+      "is a type of",
+      "bioenergy"
+    ],
+    [
+      "ethanol",
+      "is advanced by",
+      "advancements in technology"
+    ],
+    [
+      "ethanol",
+      "is derived from",
+      "renewable resources"
+    ],
+    [
+      "ethanol",
+      "is powered by",
+      "offshore wind"
+    ],
+    [
+      "ethanol",
+      "source of",
+      "energy versatility"
+    ],
+    [
+      "fossil fuel alternative",
+      "acts as",
+      "clean resources"
+    ],
+    [
+      "fossil fuel alternative",
+      "addresses",
+      "energy needs"
+    ],
+    [
+      "fossil fuel alternative",
+      "is a substitute for",
+      "renewable resources"
+    ],
+    [
+      "fossil fuel alternative",
+      "promotes",
+      "environmental sustainability"
+    ],
+    [
+      "fossil fuel alternative",
+      "serves as",
+      "biofuels"
+    ],
+    [
+      "fossil fuel alternative",
+      "serves as",
+      "clean alternatives"
+    ],
+    [
+      "fossil fuel alternative",
+      "serves as",
+      "clean energy"
+    ],
+    [
+      "fossil fuel alternative",
+      "serves as",
+      "climate change"
+    ],
+    [
+      "fossil fuel alternative",
+      "serves as",
+      "energy conversion"
+    ],
+    [
+      "fossil fuel alternative",
+      "serves as",
+      "energy sustainability"
+    ],
+    [
+      "fossil fuel alternative",
+      "serves as",
+      "environmental impact"
+    ],
+    [
+      "fossil fuel alternative",
+      "serves as",
+      "ethanol"
+    ],
+    [
+      "fossil fuel alternative",
+      "serves as",
+      "wind power"
+    ],
+    [
+      "geothermal energy",
+      "addresses",
+      "energy demand"
+    ],
+    [
+      "geothermal energy",
+      "affects",
+      "global energy landscape"
+    ],
+    [
+      "geothermal energy",
+      "benefits from",
+      "sustainable development"
+    ],
+    [
+      "geothermal energy",
+      "combats",
+      "climate change"
+    ],
+    [
+      "geothermal energy",
+      "derived from",
+      "energy needs"
+    ],
+    [
+      "geothermal energy",
+      "enables",
+      "electricity generation"
+    ],
+    [
+      "geothermal energy",
+      "impacts",
+      "environmental impact"
+    ],
+    [
+      "geothermal energy",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "geothermal energy",
+      "is a type of",
+      "bioenergy"
+    ],
+    [
+      "geothermal energy",
+      "is complemented by",
+      "hydropower"
+    ],
+    [
+      "geothermal energy",
+      "is supported by",
+      "energy future"
+    ],
+    [
+      "geothermal energy",
+      "provided by",
+      "baseload electricity"
+    ],
+    [
+      "geothermal energy",
+      "supports",
+      "solar technology"
+    ],
+    [
+      "geothermal technology",
+      "addresses",
+      "energy needs"
+    ],
+    [
+      "geothermal technology",
+      "combats",
+      "climate change"
+    ],
+    [
+      "geothermal technology",
+      "contributes to",
+      "cleaner world"
+    ],
+    [
+      "geothermal technology",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "geothermal technology",
+      "enhanced by",
+      "solar panels"
+    ],
+    [
+      "geothermal technology",
+      "facilitates",
+      "energy transition"
+    ],
+    [
+      "geothermal technology",
+      "facilitates",
+      "policy support"
+    ],
+    [
+      "geothermal technology",
+      "improves",
+      "intermittent energy"
+    ],
+    [
+      "geothermal technology",
+      "informs",
+      "carbon pricing"
+    ],
+    [
+      "geothermal technology",
+      "is utilized in",
+      "organic materials"
+    ],
+    [
+      "geothermal technology",
+      "leads to",
+      "cost reduction"
+    ],
+    [
+      "geothermal technology",
+      "produces",
+      "ethanol"
+    ],
+    [
+      "geothermal technology",
+      "produces",
+      "geothermal energy"
+    ],
+    [
+      "geothermal technology",
+      "promises",
+      "energy future"
+    ],
+    [
+      "geothermal technology",
+      "promotes",
+      "international agreements"
+    ],
+    [
+      "geothermal technology",
+      "provides",
+      "clean alternatives"
+    ],
+    [
+      "geothermal technology",
+      "serves as",
+      "fossil fuel alternative"
+    ],
+    [
+      "geothermal technology",
+      "supports",
+      "energy sustainability"
+    ],
+    [
+      "geothermal technology",
+      "supports",
+      "hydropower"
+    ],
+    [
+      "geothermal technology",
+      "supports",
+      "sustainable energy"
+    ],
+    [
+      "geothermal technology",
+      "supports",
+      "sustainable solutions"
+    ],
+    [
+      "geothermal technology",
+      "utilizes",
+      "smart grid"
+    ],
+    [
+      "global energy landscape",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "global energy landscape",
+      "affects",
+      "thin-film cells"
+    ],
+    [
+      "global energy landscape",
+      "influences",
+      "biofuels"
+    ],
+    [
+      "global energy landscape",
+      "influences",
+      "energy demand"
+    ],
+    [
+      "global energy landscape",
+      "influences",
+      "ethanol"
+    ],
+    [
+      "global energy landscape",
+      "influences",
+      "intermittent energy"
+    ],
+    [
+      "global energy landscape",
+      "influences",
+      "policy support"
+    ],
+    [
+      "global energy landscape",
+      "is influenced by",
+      "electricity generation"
+    ],
+    [
+      "global energy landscape",
+      "is shaped by",
+      "wind power"
+    ],
+    [
+      "grid integration",
+      "addresses",
+      "energy needs"
+    ],
+    [
+      "grid integration",
+      "advances",
+      "sustainable solutions"
+    ],
+    [
+      "grid integration",
+      "enables",
+      "energy storage"
+    ],
+    [
+      "grid integration",
+      "enables",
+      "hydropower"
+    ],
+    [
+      "grid integration",
+      "enables",
+      "sustainable energy"
+    ],
+    [
+      "grid integration",
+      "enhances",
+      "biofuels"
+    ],
+    [
+      "grid integration",
+      "enhances",
+      "energy sustainability"
+    ],
+    [
+      "grid integration",
+      "facilitates",
+      "ethanol"
+    ],
+    [
+      "grid integration",
+      "facilitates",
+      "geothermal energy"
+    ],
+    [
+      "grid integration",
+      "facilitates",
+      "low-carbon economy"
+    ],
+    [
+      "grid integration",
+      "facilitates",
+      "policy support"
+    ],
+    [
+      "grid integration",
+      "improves",
+      "cost-effectiveness"
+    ],
+    [
+      "grid integration",
+      "is integrated with",
+      "anaerobic digestion"
+    ],
+    [
+      "grid integration",
+      "leads to",
+      "cost reduction"
+    ],
+    [
+      "grid integration",
+      "promotes",
+      "clean alternatives"
+    ],
+    [
+      "grid integration",
+      "raises",
+      "public awareness"
+    ],
+    [
+      "grid integration",
+      "reduces",
+      "carbon emissions"
+    ],
+    [
+      "grid integration",
+      "supports",
+      "biomass power"
+    ],
+    [
+      "grid integration",
+      "supports",
+      "energy transition"
+    ],
+    [
+      "grid integration",
+      "supports",
+      "renewable energy growth"
+    ],
+    [
+      "grid integration",
+      "supports",
+      "renewable energy potential"
+    ],
+    [
+      "hydropower",
+      "addresses",
+      "energy needs"
+    ],
+    [
+      "hydropower",
+      "competes with",
+      "solar energy"
+    ],
+    [
+      "hydropower",
+      "competes with",
+      "solar panels"
+    ],
+    [
+      "hydropower",
+      "contributes to",
+      "energy future"
+    ],
+    [
+      "hydropower",
+      "contributes to",
+      "energy sustainability"
+    ],
+    [
+      "hydropower",
+      "derived from",
+      "kinetic energy"
+    ],
+    [
+      "hydropower",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "hydropower",
+      "facilitates",
+      "energy conversion"
+    ],
+    [
+      "hydropower",
+      "influences",
+      "cost-effectiveness"
+    ],
+    [
+      "hydropower",
+      "meets",
+      "energy demand"
+    ],
+    [
+      "hydropower",
+      "provides",
+      "sustainable solutions"
+    ],
+    [
+      "hydropower",
+      "serves as",
+      "fossil fuel alternative"
+    ],
+    [
+      "hydropower",
+      "shapes",
+      "global energy landscape"
+    ],
+    [
+      "hydropower",
+      "supports",
+      "environmental sustainability"
+    ],
+    [
+      "hydropower",
+      "utilizes",
+      "climate solutions"
+    ],
+    [
+      "intermittent energy",
+      "addresses",
+      "energy versatility"
+    ],
+    [
+      "intermittent energy",
+      "addresses",
+      "hydropower"
+    ],
+    [
+      "intermittent energy",
+      "affected by",
+      "onshore wind"
+    ],
+    [
+      "intermittent energy",
+      "affects",
+      "low-carbon economy"
+    ],
+    [
+      "intermittent energy",
+      "affects",
+      "thin-film cells"
+    ],
+    [
+      "intermittent energy",
+      "influences",
+      "international agreements"
+    ],
+    [
+      "intermittent energy",
+      "is affected by",
+      "electricity generation"
+    ],
+    [
+      "intermittent energy",
+      "is affected by",
+      "environmental sustainability"
+    ],
+    [
+      "intermittent energy",
+      "is affected by",
+      "solar panels"
+    ],
+    [
+      "intermittent energy",
+      "is an alternative to",
+      "fossil fuel alternative"
+    ],
+    [
+      "intermittent energy",
+      "is influenced by",
+      "energy conversion"
+    ],
+    [
+      "intermittent energy",
+      "mitigates",
+      "solar tracking"
+    ],
+    [
+      "international agreements",
+      "addresses",
+      "air pollution"
+    ],
+    [
+      "international agreements",
+      "addresses",
+      "energy needs"
+    ],
+    [
+      "international agreements",
+      "advances",
+      "environmental sustainability"
+    ],
+    [
+      "international agreements",
+      "facilitated by",
+      "solar technology"
+    ],
+    [
+      "international agreements",
+      "facilitates",
+      "climate change"
+    ],
+    [
+      "international agreements",
+      "facilitates",
+      "energy versatility"
+    ],
+    [
+      "international agreements",
+      "facilitates",
+      "policy support"
+    ],
+    [
+      "international agreements",
+      "influenced by",
+      "environmental impact"
+    ],
+    [
+      "international agreements",
+      "influences",
+      "electricity generation"
+    ],
+    [
+      "international agreements",
+      "is supported by",
+      "fossil fuel alternative"
+    ],
+    [
+      "international agreements",
+      "is supported by",
+      "solar panels"
+    ],
+    [
+      "international agreements",
+      "promoted by",
+      "baseload electricity"
+    ],
+    [
+      "international agreements",
+      "promotes",
+      "clean resources"
+    ],
+    [
+      "international agreements",
+      "promotes",
+      "low-carbon economy"
+    ],
+    [
+      "international agreements",
+      "shapes",
+      "ethanol"
+    ],
+    [
+      "international agreements",
+      "supported by",
+      "hydropower"
+    ],
+    [
+      "international agreements",
+      "supported by",
+      "wind farms"
+    ],
+    [
+      "international agreements",
+      "supports",
+      "biofuels"
+    ],
+    [
+      "international agreements",
+      "supports",
+      "clean alternatives"
+    ],
+    [
+      "international agreements",
+      "supports",
+      "energy accessibility"
+    ],
+    [
+      "international agreements",
+      "supports",
+      "solar tracking"
+    ],
+    [
+      "investment growth",
+      "accelerates",
+      "energy transition"
+    ],
+    [
+      "investment growth",
+      "addresses",
+      "energy needs"
+    ],
+    [
+      "investment growth",
+      "affects",
+      "climate change"
+    ],
+    [
+      "investment growth",
+      "drives",
+      "carbon pricing"
+    ],
+    [
+      "investment growth",
+      "drives",
+      "clean energy"
+    ],
+    [
+      "investment growth",
+      "drives",
+      "energy efficiency"
+    ],
+    [
+      "investment growth",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "investment growth",
+      "drives",
+      "geothermal energy"
+    ],
+    [
+      "investment growth",
+      "drives",
+      "geothermal technology"
+    ],
+    [
+      "investment growth",
+      "drives",
+      "offshore wind"
+    ],
+    [
+      "investment growth",
+      "drives",
+      "solar technology"
+    ],
+    [
+      "investment growth",
+      "drives",
+      "sustainable energy"
+    ],
+    [
+      "investment growth",
+      "drives",
+      "wind power"
+    ],
+    [
+      "investment growth",
+      "drives",
+      "wind turbines"
+    ],
+    [
+      "investment growth",
+      "enables",
+      "baseload electricity"
+    ],
+    [
+      "investment growth",
+      "enables",
+      "clean alternatives"
+    ],
+    [
+      "investment growth",
+      "encourages",
+      "policy support"
+    ],
+    [
+      "investment growth",
+      "enhances",
+      "energy conversion"
+    ],
+    [
+      "investment growth",
+      "fuels",
+      "biofuels"
+    ],
+    [
+      "investment growth",
+      "fuels",
+      "hydropower"
+    ],
+    [
+      "investment growth",
+      "fuels",
+      "sustainable development"
+    ],
+    [
+      "investment growth",
+      "improves",
+      "energy accessibility"
+    ],
+    [
+      "investment growth",
+      "indicates",
+      "renewable energy potential"
+    ],
+    [
+      "investment growth",
+      "is driven by",
+      "international agreements"
+    ],
+    [
+      "investment growth",
+      "promotes",
+      "efficiency improvements"
+    ],
+    [
+      "investment growth",
+      "promotes",
+      "sustainable solutions"
+    ],
+    [
+      "investment growth",
+      "supports",
+      "anaerobic digestion"
+    ],
+    [
+      "investment growth",
+      "supports",
+      "environmental sustainability"
+    ],
+    [
+      "investment growth",
+      "supports",
+      "low-carbon economy"
+    ],
+    [
+      "investment growth",
+      "supports",
+      "renewable resources"
+    ],
+    [
+      "kinetic energy",
+      "affects",
+      "energy demand"
+    ],
+    [
+      "kinetic energy",
+      "contributes to",
+      "clean energy"
+    ],
+    [
+      "kinetic energy",
+      "contributes to",
+      "environmental sustainability"
+    ],
+    [
+      "kinetic energy",
+      "enables",
+      "advancements in technology"
+    ],
+    [
+      "kinetic energy",
+      "harnesses",
+      "offshore wind"
+    ],
+    [
+      "kinetic energy",
+      "is derived from",
+      "solar technology"
+    ],
+    [
+      "kinetic energy",
+      "is harnessed by",
+      "energy future"
+    ],
+    [
+      "kinetic energy",
+      "is harnessed by",
+      "grid integration"
+    ],
+    [
+      "kinetic energy",
+      "offers",
+      "clean alternatives"
+    ],
+    [
+      "kinetic energy",
+      "powers",
+      "wind power"
+    ],
+    [
+      "kinetic energy",
+      "utilizes",
+      "geothermal technology"
+    ],
+    [
+      "kinetic energy",
+      "utilizes",
+      "wind farms"
+    ],
+    [
+      "low-carbon economy",
+      "addresses",
+      "energy needs"
+    ],
+    [
+      "low-carbon economy",
+      "enables",
+      "renewable resources"
+    ],
+    [
+      "low-carbon economy",
+      "enhances",
+      "geothermal technology"
+    ],
+    [
+      "low-carbon economy",
+      "influences",
+      "energy demand"
+    ],
+    [
+      "low-carbon economy",
+      "is supported by",
+      "biofuels"
+    ],
+    [
+      "low-carbon economy",
+      "promotes",
+      "clean alternatives"
+    ],
+    [
+      "low-carbon economy",
+      "supports",
+      "bioenergy"
+    ],
+    [
+      "low-carbon economy",
+      "supports",
+      "clean energy"
+    ],
+    [
+      "low-carbon economy",
+      "supports",
+      "energy conversion"
+    ],
+    [
+      "low-carbon economy",
+      "supports",
+      "energy storage"
+    ],
+    [
+      "low-carbon economy",
+      "supports",
+      "energy sustainability"
+    ],
+    [
+      "low-carbon economy",
+      "supports",
+      "ethanol"
+    ],
+    [
+      "low-carbon economy",
+      "supports",
+      "renewable energy growth"
+    ],
+    [
+      "low-carbon economy",
+      "supports",
+      "renewable energy potential"
+    ],
+    [
+      "low-carbon economy",
+      "supports",
+      "solar panels"
+    ],
+    [
+      "low-carbon economy",
+      "supports",
+      "sustainable solutions"
+    ],
+    [
+      "low-carbon economy",
+      "supports",
+      "wind farms"
+    ],
+    [
+      "low-carbon economy",
+      "supports",
+      "wind turbines"
+    ],
+    [
+      "offshore wind",
+      "addresses",
+      "intermittent energy"
+    ],
+    [
+      "offshore wind",
+      "complements",
+      "geothermal energy"
+    ],
+    [
+      "offshore wind",
+      "contributes to",
+      "cleaner world"
+    ],
+    [
+      "offshore wind",
+      "contributes to",
+      "renewable energy growth"
+    ],
+    [
+      "offshore wind",
+      "converted from",
+      "kinetic energy"
+    ],
+    [
+      "offshore wind",
+      "enhances",
+      "efficiency improvements"
+    ],
+    [
+      "offshore wind",
+      "enhances",
+      "solar panels"
+    ],
+    [
+      "offshore wind",
+      "facilitates",
+      "energy transition"
+    ],
+    [
+      "offshore wind",
+      "increases",
+      "energy demand"
+    ],
+    [
+      "offshore wind",
+      "influences",
+      "carbon pricing"
+    ],
+    [
+      "offshore wind",
+      "is a product of",
+      "biodiesel"
+    ],
+    [
+      "offshore wind",
+      "is supported by",
+      "international agreements"
+    ],
+    [
+      "offshore wind",
+      "receives",
+      "policy support"
+    ],
+    [
+      "offshore wind",
+      "shapes",
+      "energy future"
+    ],
+    [
+      "offshore wind",
+      "supports",
+      "subsidies"
+    ],
+    [
+      "offshore wind",
+      "supports",
+      "wind farms"
+    ],
+    [
+      "onshore wind",
+      "contributes to",
+      "renewable energy growth"
+    ],
+    [
+      "onshore wind",
+      "converts",
+      "kinetic energy"
+    ],
+    [
+      "onshore wind",
+      "enhances",
+      "energy storage"
+    ],
+    [
+      "onshore wind",
+      "enhances",
+      "geothermal technology"
+    ],
+    [
+      "onshore wind",
+      "facilitates",
+      "energy transition"
+    ],
+    [
+      "onshore wind",
+      "improves",
+      "efficiency improvements"
+    ],
+    [
+      "onshore wind",
+      "increases",
+      "energy demand"
+    ],
+    [
+      "onshore wind",
+      "is generated by",
+      "electricity generation"
+    ],
+    [
+      "onshore wind",
+      "leads to",
+      "cost reduction"
+    ],
+    [
+      "onshore wind",
+      "receives",
+      "policy support"
+    ],
+    [
+      "onshore wind",
+      "serves as",
+      "fossil fuel alternative"
+    ],
+    [
+      "onshore wind",
+      "shapes",
+      "energy future"
+    ],
+    [
+      "organic materials",
+      "addresses",
+      "energy needs"
+    ],
+    [
+      "organic materials",
+      "contributes to",
+      "cleaner world"
+    ],
+    [
+      "organic materials",
+      "contributes to",
+      "energy future"
+    ],
+    [
+      "organic materials",
+      "contributes to",
+      "kinetic energy"
+    ],
+    [
+      "organic materials",
+      "contributes to",
+      "sustainable energy"
+    ],
+    [
+      "organic materials",
+      "derived from",
+      "biofuels"
+    ],
+    [
+      "organic materials",
+      "derived from",
+      "ethanol"
+    ],
+    [
+      "organic materials",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "organic materials",
+      "drives",
+      "energy transition"
+    ],
+    [
+      "organic materials",
+      "involves",
+      "solar technology"
+    ],
+    [
+      "organic materials",
+      "is a source of",
+      "bioenergy"
+    ],
+    [
+      "organic materials",
+      "is a source of",
+      "geothermal energy"
+    ],
+    [
+      "organic materials",
+      "is processed by",
+      "anaerobic digestion"
+    ],
+    [
+      "organic materials",
+      "powers",
+      "wind turbines"
+    ],
+    [
+      "organic materials",
+      "promotes",
+      "environmental sustainability"
+    ],
+    [
+      "organic materials",
+      "provides",
+      "advancements in technology"
+    ],
+    [
+      "organic materials",
+      "provides",
+      "renewable resources"
+    ],
+    [
+      "organic materials",
+      "serves as",
+      "fossil fuel alternative"
+    ],
+    [
+      "organic materials",
+      "supported by",
+      "policy support"
+    ],
+    [
+      "organic materials",
+      "supports",
+      "energy sustainability"
+    ],
+    [
+      "organic materials",
+      "supports",
+      "low-carbon economy"
+    ],
+    [
+      "organic materials",
+      "used for",
+      "energy conversion"
+    ],
+    [
+      "organic materials",
+      "utilizes",
+      "hydropower"
+    ],
+    [
+      "policy support",
+      "drives",
+      "climate change"
+    ],
+    [
+      "policy support",
+      "enables",
+      "low-carbon economy"
+    ],
+    [
+      "policy support",
+      "enables",
+      "sustainable energy"
+    ],
+    [
+      "policy support",
+      "facilitated by",
+      "baseload electricity"
+    ],
+    [
+      "policy support",
+      "facilitates",
+      "environmental sustainability"
+    ],
+    [
+      "policy support",
+      "is addressed by",
+      "carbon emissions"
+    ],
+    [
+      "policy support",
+      "mitigated by",
+      "environmental impact"
+    ],
+    [
+      "policy support",
+      "receives",
+      "hydropower"
+    ],
+    [
+      "policy support",
+      "requires",
+      "electricity generation"
+    ],
+    [
+      "policy support",
+      "supports",
+      "energy versatility"
+    ],
+    [
+      "public awareness",
+      "affects",
+      "wind turbines"
+    ],
+    [
+      "public awareness",
+      "boosts",
+      "renewable energy potential"
+    ],
+    [
+      "public awareness",
+      "drives",
+      "advancements in technology"
+    ],
+    [
+      "public awareness",
+      "drives",
+      "efficiency improvements"
+    ],
+    [
+      "public awareness",
+      "drives",
+      "energy demand"
+    ],
+    [
+      "public awareness",
+      "enhances",
+      "geothermal technology"
+    ],
+    [
+      "public awareness",
+      "increases",
+      "solar technology"
+    ],
+    [
+      "public awareness",
+      "influences",
+      "climate change"
+    ],
+    [
+      "public awareness",
+      "informs",
+      "energy sources"
+    ],
+    [
+      "public awareness",
+      "informs",
+      "environmental impact"
+    ],
+    [
+      "public awareness",
+      "promotes",
+      "energy sustainability"
+    ],
+    [
+      "public awareness",
+      "promotes",
+      "onshore wind"
+    ],
+    [
+      "public awareness",
+      "promotes",
+      "policy support"
+    ],
+    [
+      "public awareness",
+      "promotes",
+      "sustainable development"
+    ],
+    [
+      "public awareness",
+      "promotes",
+      "sustainable solutions"
+    ],
+    [
+      "public awareness",
+      "promotes",
+      "wind power"
+    ],
+    [
+      "public awareness",
+      "shapes",
+      "energy future"
+    ],
+    [
+      "public awareness",
+      "shapes",
+      "global energy landscape"
+    ],
+    [
+      "public awareness",
+      "supports",
+      "geothermal energy"
+    ],
+    [
+      "public awareness",
+      "supports",
+      "hydropower"
+    ],
+    [
+      "public awareness",
+      "supports",
+      "international agreements"
+    ],
+    [
+      "public awareness",
+      "supports",
+      "low-carbon economy"
+    ],
+    [
+      "public awareness",
+      "utilizes",
+      "organic materials"
+    ],
+    [
+      "renewable energy growth",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "renewable energy growth",
+      "contributes to",
+      "clean energy"
+    ],
+    [
+      "renewable energy growth",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "renewable energy growth",
+      "drives",
+      "energy storage"
+    ],
+    [
+      "renewable energy growth",
+      "drives",
+      "kinetic energy"
+    ],
+    [
+      "renewable energy growth",
+      "drives",
+      "solar technology"
+    ],
+    [
+      "renewable energy growth",
+      "drives",
+      "wind power"
+    ],
+    [
+      "renewable energy growth",
+      "enables",
+      "cleaner world"
+    ],
+    [
+      "renewable energy growth",
+      "enables",
+      "energy conversion"
+    ],
+    [
+      "renewable energy growth",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "renewable energy growth",
+      "increases",
+      "energy demand"
+    ],
+    [
+      "renewable energy growth",
+      "increases",
+      "renewable resources"
+    ],
+    [
+      "renewable energy growth",
+      "meets",
+      "energy needs"
+    ],
+    [
+      "renewable energy growth",
+      "provides",
+      "clean alternatives"
+    ],
+    [
+      "renewable energy growth",
+      "serves as",
+      "fossil fuel alternative"
+    ],
+    [
+      "renewable energy growth",
+      "shapes",
+      "energy future"
+    ],
+    [
+      "renewable energy growth",
+      "shapes",
+      "global energy landscape"
+    ],
+    [
+      "renewable energy growth",
+      "supports",
+      "biodiesel"
+    ],
+    [
+      "renewable energy potential",
+      "contributes to",
+      "sustainable energy"
+    ],
+    [
+      "renewable energy potential",
+      "drives",
+      "efficiency improvements"
+    ],
+    [
+      "renewable energy potential",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "renewable energy potential",
+      "enables",
+      "energy conversion"
+    ],
+    [
+      "renewable energy potential",
+      "enables",
+      "energy storage"
+    ],
+    [
+      "renewable energy potential",
+      "enhances",
+      "cost-effectiveness"
+    ],
+    [
+      "renewable energy potential",
+      "enhances",
+      "onshore wind"
+    ],
+    [
+      "renewable energy potential",
+      "is a result of",
+      "electricity generation"
+    ],
+    [
+      "renewable energy potential",
+      "is supported by",
+      "international agreements"
+    ],
+    [
+      "renewable energy potential",
+      "is supported by",
+      "solar technology"
+    ],
+    [
+      "renewable energy potential",
+      "offers",
+      "clean alternatives"
+    ],
+    [
+      "renewable energy potential",
+      "promotes",
+      "environmental sustainability"
+    ],
+    [
+      "renewable energy potential",
+      "provides",
+      "geothermal energy"
+    ],
+    [
+      "renewable energy potential",
+      "represents",
+      "hydropower"
+    ],
+    [
+      "renewable energy potential",
+      "supports",
+      "biofuels"
+    ],
+    [
+      "renewable energy potential",
+      "supports",
+      "wind farms"
+    ],
+    [
+      "renewable energy potential",
+      "supports",
+      "wind power"
+    ],
+    [
+      "renewable energy targets",
+      "accelerates",
+      "energy transition"
+    ],
+    [
+      "renewable energy targets",
+      "addresses",
+      "energy demand"
+    ],
+    [
+      "renewable energy targets",
+      "addresses",
+      "energy needs"
+    ],
+    [
+      "renewable energy targets",
+      "advances",
+      "sustainable development"
+    ],
+    [
+      "renewable energy targets",
+      "advances",
+      "sustainable energy"
+    ],
+    [
+      "renewable energy targets",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "renewable energy targets",
+      "benefits",
+      "wind farms"
+    ],
+    [
+      "renewable energy targets",
+      "drives",
+      "advancements in technology"
+    ],
+    [
+      "renewable energy targets",
+      "enhances",
+      "energy versatility"
+    ],
+    [
+      "renewable energy targets",
+      "enhances",
+      "renewable energy potential"
+    ],
+    [
+      "renewable energy targets",
+      "facilitates",
+      "energy storage"
+    ],
+    [
+      "renewable energy targets",
+      "guides",
+      "energy sources"
+    ],
+    [
+      "renewable energy targets",
+      "guides",
+      "geothermal energy"
+    ],
+    [
+      "renewable energy targets",
+      "guides",
+      "hydropower"
+    ],
+    [
+      "renewable energy targets",
+      "improves",
+      "efficiency improvements"
+    ],
+    [
+      "renewable energy targets",
+      "influences",
+      "electricity generation"
+    ],
+    [
+      "renewable energy targets",
+      "influences",
+      "small-scale projects"
+    ],
+    [
+      "renewable energy targets",
+      "influences",
+      "solar energy"
+    ],
+    [
+      "renewable energy targets",
+      "is essential for",
+      "policy support"
+    ],
+    [
+      "renewable energy targets",
+      "is influenced by",
+      "climate change"
+    ],
+    [
+      "renewable energy targets",
+      "is influenced by",
+      "smart grid"
+    ],
+    [
+      "renewable energy targets",
+      "is linked to",
+      "carbon pricing"
+    ],
+    [
+      "renewable energy targets",
+      "is supported by",
+      "international agreements"
+    ],
+    [
+      "renewable energy targets",
+      "leads to",
+      "cleaner world"
+    ],
+    [
+      "renewable energy targets",
+      "leads to",
+      "cost reduction"
+    ],
+    [
+      "renewable energy targets",
+      "promotes",
+      "bioenergy"
+    ],
+    [
+      "renewable energy targets",
+      "promotes",
+      "environmental sustainability"
+    ],
+    [
+      "renewable energy targets",
+      "promotes",
+      "ethanol"
+    ],
+    [
+      "renewable energy targets",
+      "promotes",
+      "low-carbon economy"
+    ],
+    [
+      "renewable energy targets",
+      "promotes",
+      "offshore wind"
+    ],
+    [
+      "renewable energy targets",
+      "promotes",
+      "public awareness"
+    ],
+    [
+      "renewable energy targets",
+      "promotes",
+      "technological advancements"
+    ],
+    [
+      "renewable energy targets",
+      "promotes",
+      "wind power"
+    ],
+    [
+      "renewable energy targets",
+      "promotes",
+      "wind turbines"
+    ],
+    [
+      "renewable energy targets",
+      "provides",
+      "baseload electricity"
+    ],
+    [
+      "renewable energy targets",
+      "reduces",
+      "air pollution"
+    ],
+    [
+      "renewable energy targets",
+      "reduces",
+      "carbon emissions"
+    ],
+    [
+      "renewable energy targets",
+      "serves as",
+      "fossil fuel alternative"
+    ],
+    [
+      "renewable energy targets",
+      "shapes",
+      "global energy landscape"
+    ],
+    [
+      "renewable energy targets",
+      "stimulates",
+      "investment growth"
+    ],
+    [
+      "renewable energy targets",
+      "supports",
+      "clean resources"
+    ],
+    [
+      "renewable energy targets",
+      "supports",
+      "onshore wind"
+    ],
+    [
+      "renewable energy targets",
+      "supports",
+      "solar panels"
+    ],
+    [
+      "renewable energy targets",
+      "supports",
+      "solar technology"
+    ],
+    [
+      "renewable energy targets",
+      "supports",
+      "subsidies"
+    ],
+    [
+      "renewable resources",
+      "is a type of",
+      "solar energy"
+    ],
+    [
+      "renewable resources",
+      "is affected by",
+      "environmental impact"
+    ],
+    [
+      "renewable resources",
+      "is supported by",
+      "intermittent energy"
+    ],
+    [
+      "renewable resources",
+      "mitigates",
+      "climate change"
+    ],
+    [
+      "renewable resources",
+      "source of",
+      "renewable energy potential"
+    ],
+    [
+      "renewable resources",
+      "supports",
+      "carbon emissions"
+    ],
+    [
+      "small-scale projects",
+      "addresses",
+      "energy demand"
+    ],
+    [
+      "small-scale projects",
+      "addresses",
+      "intermittent energy"
+    ],
+    [
+      "small-scale projects",
+      "advances",
+      "energy sustainability"
+    ],
+    [
+      "small-scale projects",
+      "contributes to",
+      "cleaner world"
+    ],
+    [
+      "small-scale projects",
+      "enables",
+      "electricity generation"
+    ],
+    [
+      "small-scale projects",
+      "enables",
+      "energy conversion"
+    ],
+    [
+      "small-scale projects",
+      "enhances",
+      "energy storage"
+    ],
+    [
+      "small-scale projects",
+      "enhances",
+      "solar tracking"
+    ],
+    [
+      "small-scale projects",
+      "facilitates",
+      "energy transition"
+    ],
+    [
+      "small-scale projects",
+      "impacts",
+      "climate change"
+    ],
+    [
+      "small-scale projects",
+      "improves",
+      "energy accessibility"
+    ],
+    [
+      "small-scale projects",
+      "incorporates",
+      "wind turbines"
+    ],
+    [
+      "small-scale projects",
+      "influences",
+      "carbon pricing"
+    ],
+    [
+      "small-scale projects",
+      "is influenced by",
+      "international agreements"
+    ],
+    [
+      "small-scale projects",
+      "leads to",
+      "cost reduction"
+    ],
+    [
+      "small-scale projects",
+      "promotes",
+      "biomass power"
+    ],
+    [
+      "small-scale projects",
+      "promotes",
+      "energy innovation"
+    ],
+    [
+      "small-scale projects",
+      "promotes",
+      "sustainable development"
+    ],
+    [
+      "small-scale projects",
+      "provides",
+      "clean resources"
+    ],
+    [
+      "small-scale projects",
+      "provides",
+      "energy sources"
+    ],
+    [
+      "small-scale projects",
+      "provides",
+      "energy versatility"
+    ],
+    [
+      "small-scale projects",
+      "provides",
+      "sustainable solutions"
+    ],
+    [
+      "small-scale projects",
+      "receives",
+      "policy support"
+    ],
+    [
+      "small-scale projects",
+      "receives funding from",
+      "subsidies"
+    ],
+    [
+      "small-scale projects",
+      "reduces",
+      "carbon emissions"
+    ],
+    [
+      "small-scale projects",
+      "serves as",
+      "fossil fuel alternative"
+    ],
+    [
+      "small-scale projects",
+      "shapes",
+      "energy future"
+    ],
+    [
+      "small-scale projects",
+      "stimulates",
+      "investment growth"
+    ],
+    [
+      "small-scale projects",
+      "utilizes",
+      "geothermal energy"
+    ],
+    [
+      "small-scale projects",
+      "utilizes",
+      "renewable resources"
+    ],
+    [
+      "smart grid",
+      "accelerates",
+      "renewable energy growth"
+    ],
+    [
+      "smart grid",
+      "contributes to",
+      "cleaner world"
+    ],
+    [
+      "smart grid",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "smart grid",
+      "enables",
+      "sustainable development"
+    ],
+    [
+      "smart grid",
+      "enables",
+      "sustainable energy"
+    ],
+    [
+      "smart grid",
+      "enhances",
+      "advancements in technology"
+    ],
+    [
+      "smart grid",
+      "enhances",
+      "cost-effectiveness"
+    ],
+    [
+      "smart grid",
+      "enhances",
+      "energy storage"
+    ],
+    [
+      "smart grid",
+      "enhances",
+      "geothermal technology"
+    ],
+    [
+      "smart grid",
+      "enhances",
+      "grid integration"
+    ],
+    [
+      "smart grid",
+      "enhances",
+      "offshore wind"
+    ],
+    [
+      "smart grid",
+      "enhances",
+      "renewable energy potential"
+    ],
+    [
+      "smart grid",
+      "enhances",
+      "solar technology"
+    ],
+    [
+      "smart grid",
+      "enhances",
+      "technological advancements"
+    ],
+    [
+      "smart grid",
+      "facilitates",
+      "efficiency improvements"
+    ],
+    [
+      "smart grid",
+      "impacts",
+      "environmental impact"
+    ],
+    [
+      "smart grid",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "smart grid",
+      "increases",
+      "energy accessibility"
+    ],
+    [
+      "smart grid",
+      "influences",
+      "carbon pricing"
+    ],
+    [
+      "smart grid",
+      "is impacted by",
+      "climate change"
+    ],
+    [
+      "smart grid",
+      "optimizes",
+      "energy future"
+    ],
+    [
+      "smart grid",
+      "optimizes",
+      "energy sources"
+    ],
+    [
+      "smart grid",
+      "optimizes",
+      "intermittent energy"
+    ],
+    [
+      "smart grid",
+      "optimizes",
+      "solar energy"
+    ],
+    [
+      "smart grid",
+      "optimizes",
+      "solar panels"
+    ],
+    [
+      "smart grid",
+      "optimizes",
+      "solar tracking"
+    ],
+    [
+      "smart grid",
+      "optimizes",
+      "wind power"
+    ],
+    [
+      "smart grid",
+      "promotes",
+      "environmental sustainability"
+    ],
+    [
+      "smart grid",
+      "raises",
+      "public awareness"
+    ],
+    [
+      "smart grid",
+      "shapes",
+      "global energy landscape"
+    ],
+    [
+      "smart grid",
+      "stimulates",
+      "investment growth"
+    ],
+    [
+      "smart grid",
+      "supports",
+      "baseload electricity"
+    ],
+    [
+      "smart grid",
+      "supports",
+      "energy transition"
+    ],
+    [
+      "smart grid",
+      "supports",
+      "subsidies"
+    ],
+    [
+      "smart grid",
+      "utilizes",
+      "hydropower"
+    ],
+    [
+      "smart grid",
+      "utilizes",
+      "wind turbines"
+    ],
+    [
+      "solar energy",
+      "addresses",
+      "climate solutions"
+    ],
+    [
+      "solar energy",
+      "advances",
+      "technological advancements"
+    ],
+    [
+      "solar energy",
+      "contributes to",
+      "energy sustainability"
+    ],
+    [
+      "solar energy",
+      "enables",
+      "baseload electricity"
+    ],
+    [
+      "solar energy",
+      "generates",
+      "electricity generation"
+    ],
+    [
+      "solar energy",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "solar energy",
+      "includes",
+      "energy sources"
+    ],
+    [
+      "solar energy",
+      "is a source of",
+      "ethanol"
+    ],
+    [
+      "solar energy",
+      "is a type of",
+      "clean energy"
+    ],
+    [
+      "solar energy",
+      "is compared to",
+      "bioenergy"
+    ],
+    [
+      "solar energy",
+      "leads to",
+      "cost reduction"
+    ],
+    [
+      "solar energy",
+      "promotes",
+      "environmental sustainability"
+    ],
+    [
+      "solar energy",
+      "serves as",
+      "fossil fuel alternative"
+    ],
+    [
+      "solar energy",
+      "supports",
+      "energy transition"
+    ],
+    [
+      "solar energy",
+      "supports",
+      "small-scale projects"
+    ],
+    [
+      "solar energy",
+      "utilizes",
+      "anaerobic digestion"
+    ],
+    [
+      "solar energy",
+      "utilizes",
+      "solar technology"
+    ],
+    [
+      "solar panels",
+      "contributes to",
+      "cleaner world"
+    ],
+    [
+      "solar panels",
+      "contributes to",
+      "sustainable development"
+    ],
+    [
+      "solar panels",
+      "converts",
+      "kinetic energy"
+    ],
+    [
+      "solar panels",
+      "drives",
+      "energy demand"
+    ],
+    [
+      "solar panels",
+      "drives",
+      "renewable energy growth"
+    ],
+    [
+      "solar panels",
+      "enables",
+      "subsidies"
+    ],
+    [
+      "solar panels",
+      "enhances",
+      "energy efficiency"
+    ],
+    [
+      "solar panels",
+      "enhances",
+      "energy storage"
+    ],
+    [
+      "solar panels",
+      "enhances",
+      "public awareness"
+    ],
+    [
+      "solar panels",
+      "facilitates",
+      "policy support"
+    ],
+    [
+      "solar panels",
+      "improves",
+      "cost-effectiveness"
+    ],
+    [
+      "solar panels",
+      "increases",
+      "energy accessibility"
+    ],
+    [
+      "solar panels",
+      "influences",
+      "global energy landscape"
+    ],
+    [
+      "solar panels",
+      "is enhanced by",
+      "solar tracking"
+    ],
+    [
+      "solar panels",
+      "leads to",
+      "cost reduction"
+    ],
+    [
+      "solar panels",
+      "produces",
+      "electricity generation"
+    ],
+    [
+      "solar panels",
+      "represents",
+      "renewable energy potential"
+    ],
+    [
+      "solar panels",
+      "shapes",
+      "energy future"
+    ],
+    [
+      "solar panels",
+      "stimulates",
+      "investment growth"
+    ],
+    [
+      "solar panels",
+      "utilizes",
+      "organic materials"
+    ],
+    [
+      "solar panels",
+      "utilizes",
+      "solar energy"
+    ],
+    [
+      "solar technology",
+      "addresses",
+      "energy needs"
+    ],
+    [
+      "solar technology",
+      "addresses",
+      "intermittent energy"
+    ],
+    [
+      "solar technology",
+      "competes with",
+      "wind turbines"
+    ],
+    [
+      "solar technology",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "solar technology",
+      "enables",
+      "low-carbon economy"
+    ],
+    [
+      "solar technology",
+      "enhances",
+      "biomass power"
+    ],
+    [
+      "solar technology",
+      "enhances",
+      "energy reliability"
+    ],
+    [
+      "solar technology",
+      "enhances",
+      "onshore wind"
+    ],
+    [
+      "solar technology",
+      "enhances",
+      "renewable resources"
+    ],
+    [
+      "solar technology",
+      "enhances",
+      "solar tracking"
+    ],
+    [
+      "solar technology",
+      "facilitates",
+      "energy conversion"
+    ],
+    [
+      "solar technology",
+      "includes",
+      "energy sources"
+    ],
+    [
+      "solar technology",
+      "is essential for",
+      "policy support"
+    ],
+    [
+      "solar technology",
+      "supports",
+      "energy storage"
+    ],
+    [
+      "solar technology",
+      "supports",
+      "sustainable solutions"
+    ],
+    [
+      "solar tracking",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "solar tracking",
+      "complements",
+      "thin-film cells"
+    ],
+    [
+      "solar tracking",
+      "enhanced by",
+      "geothermal energy"
+    ],
+    [
+      "solar tracking",
+      "improves",
+      "energy reliability"
+    ],
+    [
+      "solar tracking",
+      "improves",
+      "wind farms"
+    ],
+    [
+      "solar tracking",
+      "improves",
+      "wind power"
+    ],
+    [
+      "solar tracking",
+      "influences",
+      "global energy landscape"
+    ],
+    [
+      "solar tracking",
+      "is provided by",
+      "baseload electricity"
+    ],
+    [
+      "solar tracking",
+      "reduces",
+      "carbon emissions"
+    ],
+    [
+      "solar tracking",
+      "utilizes",
+      "kinetic energy"
+    ],
+    [
+      "subsidies",
+      "addresses",
+      "energy needs"
+    ],
+    [
+      "subsidies",
+      "affects",
+      "global energy landscape"
+    ],
+    [
+      "subsidies",
+      "contributes to",
+      "cleaner world"
+    ],
+    [
+      "subsidies",
+      "contributes to",
+      "energy resilience"
+    ],
+    [
+      "subsidies",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "subsidies",
+      "enables",
+      "technological advancements"
+    ],
+    [
+      "subsidies",
+      "encourages",
+      "investment growth"
+    ],
+    [
+      "subsidies",
+      "enhances",
+      "efficiency improvements"
+    ],
+    [
+      "subsidies",
+      "enhances",
+      "solar technology"
+    ],
+    [
+      "subsidies",
+      "facilitates",
+      "cost reduction"
+    ],
+    [
+      "subsidies",
+      "facilitates",
+      "energy transition"
+    ],
+    [
+      "subsidies",
+      "facilitates",
+      "international agreements"
+    ],
+    [
+      "subsidies",
+      "funds",
+      "small-scale projects"
+    ],
+    [
+      "subsidies",
+      "funds",
+      "wind farms"
+    ],
+    [
+      "subsidies",
+      "increases",
+      "renewable energy potential"
+    ],
+    [
+      "subsidies",
+      "influences",
+      "energy future"
+    ],
+    [
+      "subsidies",
+      "influences",
+      "environmental impact"
+    ],
+    [
+      "subsidies",
+      "mitigates",
+      "climate change"
+    ],
+    [
+      "subsidies",
+      "promotes",
+      "energy conversion"
+    ],
+    [
+      "subsidies",
+      "promotes",
+      "energy sustainability"
+    ],
+    [
+      "subsidies",
+      "promotes",
+      "renewable energy growth"
+    ],
+    [
+      "subsidies",
+      "provides",
+      "solar tracking"
+    ],
+    [
+      "subsidies",
+      "raises",
+      "public awareness"
+    ],
+    [
+      "subsidies",
+      "reduces",
+      "air pollution"
+    ],
+    [
+      "subsidies",
+      "subsidizes",
+      "biodiesel"
+    ],
+    [
+      "subsidies",
+      "subsidizes",
+      "biofuels"
+    ],
+    [
+      "subsidies",
+      "supports",
+      "baseload electricity"
+    ],
+    [
+      "subsidies",
+      "supports",
+      "bioenergy"
+    ],
+    [
+      "subsidies",
+      "supports",
+      "clean alternatives"
+    ],
+    [
+      "subsidies",
+      "supports",
+      "clean resources"
+    ],
+    [
+      "subsidies",
+      "supports",
+      "energy sources"
+    ],
+    [
+      "subsidies",
+      "supports",
+      "energy storage"
+    ],
+    [
+      "subsidies",
+      "supports",
+      "environmental sustainability"
+    ],
+    [
+      "subsidies",
+      "supports",
+      "ethanol"
+    ],
+    [
+      "subsidies",
+      "supports",
+      "geothermal energy"
+    ],
+    [
+      "subsidies",
+      "supports",
+      "onshore wind"
+    ],
+    [
+      "subsidies",
+      "supports",
+      "organic materials"
+    ],
+    [
+      "subsidies",
+      "supports",
+      "policy support"
+    ],
+    [
+      "subsidies",
+      "supports",
+      "renewable resources"
+    ],
+    [
+      "subsidies",
+      "supports",
+      "sustainable energy"
+    ],
+    [
+      "subsidies",
+      "supports",
+      "wind power"
+    ],
+    [
+      "subsidies",
+      "supports",
+      "wind turbines"
+    ],
+    [
+      "sustainable development",
+      "advances",
+      "geothermal technology"
+    ],
+    [
+      "sustainable development",
+      "drives",
+      "energy demand"
+    ],
+    [
+      "sustainable development",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "sustainable development",
+      "enables",
+      "anaerobic digestion"
+    ],
+    [
+      "sustainable development",
+      "enables",
+      "energy storage"
+    ],
+    [
+      "sustainable development",
+      "enables",
+      "policy support"
+    ],
+    [
+      "sustainable development",
+      "impacts",
+      "intermittent energy"
+    ],
+    [
+      "sustainable development",
+      "improves",
+      "energy accessibility"
+    ],
+    [
+      "sustainable development",
+      "influences",
+      "carbon pricing"
+    ],
+    [
+      "sustainable development",
+      "is driven by",
+      "renewable energy potential"
+    ],
+    [
+      "sustainable development",
+      "promotes",
+      "biodiesel"
+    ],
+    [
+      "sustainable development",
+      "promotes",
+      "energy conversion"
+    ],
+    [
+      "sustainable development",
+      "promotes",
+      "renewable energy growth"
+    ],
+    [
+      "sustainable development",
+      "provides",
+      "baseload electricity"
+    ],
+    [
+      "sustainable development",
+      "shapes",
+      "energy future"
+    ],
+    [
+      "sustainable development",
+      "shapes",
+      "global energy landscape"
+    ],
+    [
+      "sustainable development",
+      "supports",
+      "bioenergy"
+    ],
+    [
+      "sustainable development",
+      "supports",
+      "clean alternatives"
+    ],
+    [
+      "sustainable development",
+      "supports",
+      "energy efficiency"
+    ],
+    [
+      "sustainable development",
+      "supports",
+      "ethanol"
+    ],
+    [
+      "sustainable development",
+      "supports",
+      "geothermal energy"
+    ],
+    [
+      "sustainable development",
+      "supports",
+      "international agreements"
+    ],
+    [
+      "sustainable development",
+      "supports",
+      "offshore wind"
+    ],
+    [
+      "sustainable development",
+      "supports",
+      "wind power"
+    ],
+    [
+      "sustainable energy",
+      "complements",
+      "biomass power"
+    ],
+    [
+      "sustainable energy",
+      "comprises",
+      "renewable resources"
+    ],
+    [
+      "sustainable energy",
+      "enhances",
+      "advancements in technology"
+    ],
+    [
+      "sustainable energy",
+      "is a goal of",
+      "wind power"
+    ],
+    [
+      "sustainable energy",
+      "is a part of",
+      "renewable energy growth"
+    ],
+    [
+      "sustainable energy",
+      "is enhanced by",
+      "energy reliability"
+    ],
+    [
+      "sustainable energy",
+      "meets",
+      "energy demand"
+    ],
+    [
+      "sustainable energy",
+      "mitigates",
+      "environmental impact"
+    ],
+    [
+      "sustainable energy",
+      "provides",
+      "baseload electricity"
+    ],
+    [
+      "sustainable energy",
+      "provides",
+      "clean alternatives"
+    ],
+    [
+      "sustainable energy",
+      "reduces",
+      "air pollution"
+    ],
+    [
+      "sustainable energy",
+      "supports",
+      "hydropower"
+    ],
+    [
+      "sustainable energy",
+      "supports",
+      "wind turbines"
+    ],
+    [
+      "sustainable solutions",
+      "addresses",
+      "air pollution"
+    ],
+    [
+      "sustainable solutions",
+      "addresses",
+      "intermittent energy"
+    ],
+    [
+      "sustainable solutions",
+      "benefits from",
+      "wind farms"
+    ],
+    [
+      "sustainable solutions",
+      "drives",
+      "advancements in technology"
+    ],
+    [
+      "sustainable solutions",
+      "encourages",
+      "renewable resources"
+    ],
+    [
+      "sustainable solutions",
+      "enhances",
+      "cost-effectiveness"
+    ],
+    [
+      "sustainable solutions",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "sustainable solutions",
+      "includes",
+      "biofuels"
+    ],
+    [
+      "sustainable solutions",
+      "offers",
+      "energy future"
+    ],
+    [
+      "sustainable solutions",
+      "promotes",
+      "international agreements"
+    ],
+    [
+      "sustainable solutions",
+      "provides",
+      "clean alternatives"
+    ],
+    [
+      "sustainable solutions",
+      "provides",
+      "geothermal energy"
+    ],
+    [
+      "sustainable solutions",
+      "requires",
+      "energy resilience"
+    ],
+    [
+      "sustainable solutions",
+      "requires",
+      "policy support"
+    ],
+    [
+      "sustainable solutions",
+      "serves as",
+      "fossil fuel alternative"
+    ],
+    [
+      "sustainable solutions",
+      "utilizes",
+      "kinetic energy"
+    ],
+    [
+      "technological advancements",
+      "addresses",
+      "energy needs"
+    ],
+    [
+      "technological advancements",
+      "advances",
+      "ethanol"
+    ],
+    [
+      "technological advancements",
+      "advances",
+      "geothermal energy"
+    ],
+    [
+      "technological advancements",
+      "advances",
+      "solar panels"
+    ],
+    [
+      "technological advancements",
+      "advances",
+      "sustainable energy"
+    ],
+    [
+      "technological advancements",
+      "benefits",
+      "wind farms"
+    ],
+    [
+      "technological advancements",
+      "drives",
+      "clean alternatives"
+    ],
+    [
+      "technological advancements",
+      "drives",
+      "energy sources"
+    ],
+    [
+      "technological advancements",
+      "drives",
+      "global energy landscape"
+    ],
+    [
+      "technological advancements",
+      "drives",
+      "solar technology"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "bioenergy"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "biofuels"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "energy versatility"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "environmental sustainability"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "grid integration"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "offshore wind"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "solar tracking"
+    ],
+    [
+      "technological advancements",
+      "facilitates",
+      "energy conversion"
+    ],
+    [
+      "technological advancements",
+      "fuels",
+      "investment growth"
+    ],
+    [
+      "technological advancements",
+      "impacts",
+      "climate change"
+    ],
+    [
+      "technological advancements",
+      "improves",
+      "anaerobic digestion"
+    ],
+    [
+      "technological advancements",
+      "improves",
+      "energy efficiency"
+    ],
+    [
+      "technological advancements",
+      "improves",
+      "energy storage"
+    ],
+    [
+      "technological advancements",
+      "improves",
+      "hydropower"
+    ],
+    [
+      "technological advancements",
+      "improves",
+      "onshore wind"
+    ],
+    [
+      "technological advancements",
+      "improves",
+      "wind power"
+    ],
+    [
+      "technological advancements",
+      "improves",
+      "wind turbines"
+    ],
+    [
+      "technological advancements",
+      "is influenced by",
+      "air pollution"
+    ],
+    [
+      "technological advancements",
+      "leads to",
+      "cost reduction"
+    ],
+    [
+      "technological advancements",
+      "leads to",
+      "efficiency improvements"
+    ],
+    [
+      "technological advancements",
+      "leads to",
+      "sustainable solutions"
+    ],
+    [
+      "technological advancements",
+      "promotes",
+      "sustainable development"
+    ],
+    [
+      "technological advancements",
+      "raises",
+      "public awareness"
+    ],
+    [
+      "technological advancements",
+      "shapes",
+      "energy demand"
+    ],
+    [
+      "technological advancements",
+      "shapes",
+      "energy future"
+    ],
+    [
+      "technological advancements",
+      "supports",
+      "low-carbon economy"
+    ],
+    [
+      "thin-film cells",
+      "advances",
+      "geothermal technology"
+    ],
+    [
+      "thin-film cells",
+      "contributes to",
+      "biomass power"
+    ],
+    [
+      "thin-film cells",
+      "contributes to",
+      "low-carbon economy"
+    ],
+    [
+      "thin-film cells",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "thin-film cells",
+      "drives",
+      "energy transition"
+    ],
+    [
+      "thin-film cells",
+      "enables",
+      "electricity generation"
+    ],
+    [
+      "thin-film cells",
+      "enables",
+      "smart grid"
+    ],
+    [
+      "thin-film cells",
+      "enables",
+      "sustainable energy"
+    ],
+    [
+      "thin-film cells",
+      "enhances",
+      "renewable energy potential"
+    ],
+    [
+      "thin-film cells",
+      "enhances",
+      "wind power"
+    ],
+    [
+      "thin-film cells",
+      "facilitates",
+      "energy conversion"
+    ],
+    [
+      "thin-film cells",
+      "improves",
+      "energy accessibility"
+    ],
+    [
+      "thin-film cells",
+      "influences",
+      "carbon pricing"
+    ],
+    [
+      "thin-film cells",
+      "influences",
+      "renewable energy targets"
+    ],
+    [
+      "thin-film cells",
+      "is supported by",
+      "subsidies"
+    ],
+    [
+      "thin-film cells",
+      "leads to",
+      "cost reduction"
+    ],
+    [
+      "thin-film cells",
+      "offers",
+      "sustainable solutions"
+    ],
+    [
+      "thin-film cells",
+      "provides",
+      "clean alternatives"
+    ],
+    [
+      "thin-film cells",
+      "represents",
+      "advancements in technology"
+    ],
+    [
+      "thin-film cells",
+      "supports",
+      "energy sustainability"
+    ],
+    [
+      "thin-film cells",
+      "supports",
+      "geothermal energy"
+    ],
+    [
+      "thin-film cells",
+      "supports",
+      "wind farms"
+    ],
+    [
+      "wind farms",
+      "affects",
+      "global energy landscape"
+    ],
+    [
+      "wind farms",
+      "drives",
+      "advancements in technology"
+    ],
+    [
+      "wind farms",
+      "enhances",
+      "cost-effectiveness"
+    ],
+    [
+      "wind farms",
+      "influences",
+      "energy demand"
+    ],
+    [
+      "wind farms",
+      "is complemented by",
+      "hydropower"
+    ],
+    [
+      "wind farms",
+      "is supported by",
+      "fossil fuel alternative"
+    ],
+    [
+      "wind farms",
+      "offers",
+      "clean alternatives"
+    ],
+    [
+      "wind farms",
+      "produces",
+      "wind power"
+    ],
+    [
+      "wind farms",
+      "provides",
+      "biofuels"
+    ],
+    [
+      "wind farms",
+      "provides",
+      "clean energy"
+    ],
+    [
+      "wind farms",
+      "provides",
+      "renewable resources"
+    ],
+    [
+      "wind farms",
+      "supported by",
+      "baseload electricity"
+    ],
+    [
+      "wind farms",
+      "supported by",
+      "policy support"
+    ],
+    [
+      "wind farms",
+      "supports",
+      "clean resources"
+    ],
+    [
+      "wind farms",
+      "supports",
+      "energy storage"
+    ],
+    [
+      "wind farms",
+      "supports",
+      "energy sustainability"
+    ],
+    [
+      "wind farms",
+      "utilized by",
+      "sustainable energy"
+    ],
+    [
+      "wind farms",
+      "utilizes",
+      "electricity generation"
+    ],
+    [
+      "wind power",
+      "competes with",
+      "geothermal energy"
+    ],
+    [
+      "wind power",
+      "competes with",
+      "solar panels"
+    ],
+    [
+      "wind power",
+      "enhances",
+      "advancements in technology"
+    ],
+    [
+      "wind power",
+      "influences",
+      "global energy landscape"
+    ],
+    [
+      "wind power",
+      "provides",
+      "clean alternatives"
+    ],
+    [
+      "wind power",
+      "receives",
+      "policy support"
+    ],
+    [
+      "wind power",
+      "requires",
+      "energy needs"
+    ],
+    [
+      "wind power",
+      "utilizes",
+      "organic materials"
+    ],
+    [
+      "wind turbines",
+      "affected by",
+      "carbon pricing"
+    ],
+    [
+      "wind turbines",
+      "aided by",
+      "policy support"
+    ],
+    [
+      "wind turbines",
+      "captures",
+      "intermittent energy"
+    ],
+    [
+      "wind turbines",
+      "contributes to",
+      "energy future"
+    ],
+    [
+      "wind turbines",
+      "converts",
+      "kinetic energy"
+    ],
+    [
+      "wind turbines",
+      "drives",
+      "energy innovation"
+    ],
+    [
+      "wind turbines",
+      "enhances",
+      "advancements in technology"
+    ],
+    [
+      "wind turbines",
+      "enhances",
+      "efficiency improvements"
+    ],
+    [
+      "wind turbines",
+      "facilitates",
+      "energy conversion"
+    ],
+    [
+      "wind turbines",
+      "fulfills",
+      "energy needs"
+    ],
+    [
+      "wind turbines",
+      "generates",
+      "wind power"
+    ],
+    [
+      "wind turbines",
+      "is enabled by",
+      "renewable energy potential"
+    ],
+    [
+      "wind turbines",
+      "is generated by",
+      "baseload electricity"
+    ],
+    [
+      "wind turbines",
+      "is impacted by",
+      "environmental impact"
+    ],
+    [
+      "wind turbines",
+      "offers",
+      "clean alternatives"
+    ],
+    [
+      "wind turbines",
+      "produces",
+      "bioenergy"
+    ],
+    [
+      "wind turbines",
+      "produces",
+      "clean energy"
+    ],
+    [
+      "wind turbines",
+      "reduces",
+      "air pollution"
+    ],
+    [
+      "wind turbines",
+      "serves as",
+      "fossil fuel alternative"
+    ],
+    [
+      "wind turbines",
+      "supported by",
+      "international agreements"
+    ],
+    [
+      "wind turbines",
+      "supports",
+      "energy storage"
+    ],
+    [
+      "wind turbines",
+      "utilizes",
+      "energy sources"
+    ],
+    [
+      "wind turbines",
+      "utilizes",
+      "solar energy"
+    ],
+    [
+      "wind turbines",
+      "utilizes",
+      "wind farms"
+    ]
+  ],
+  "edges": [
+    "accelerates",
+    "acts as",
+    "addresses",
+    "advances",
+    "affected by",
+    "affects",
+    "aided by",
+    "benefits",
+    "benefits from",
+    "boosts",
+    "captures",
+    "causes",
+    "challenges",
+    "combats",
+    "competes with",
+    "complements",
+    "comprises",
+    "contributes to",
+    "converted from",
+    "converts",
+    "depends on",
+    "derived from",
+    "driven by",
+    "drives",
+    "enabled by",
+    "enables",
+    "encourages",
+    "enhanced by",
+    "enhances",
+    "ensures",
+    "exacerbates",
+    "facilitated by",
+    "facilitates",
+    "fosters",
+    "fuels",
+    "fulfills",
+    "funds",
+    "generates",
+    "guides",
+    "harnesses",
+    "impacts",
+    "improves",
+    "incentivizes",
+    "includes",
+    "incorporates",
+    "increases",
+    "indicates",
+    "influenced by",
+    "influences",
+    "informs",
+    "involves",
+    "is a form of",
+    "is a goal of",
+    "is a part of",
+    "is a product of",
+    "is a response to",
+    "is a result of",
+    "is a source for",
+    "is a source of",
+    "is a substitute for",
+    "is a type of",
+    "is addressed by",
+    "is advanced by",
+    "is affected by",
+    "is an alternative to",
+    "is associated with",
+    "is compared to",
+    "is complemented by",
+    "is derived from",
+    "is driven by",
+    "is enabled by",
+    "is enhanced by",
+    "is essential for",
+    "is generated by",
+    "is guided by",
+    "is harnessed by",
+    "is impacted by",
+    "is influenced by",
+    "is integrated with",
+    "is linked to",
+    "is met by",
+    "is powered by",
+    "is processed by",
+    "is produced from",
+    "is provided by",
+    "is reduced by",
+    "is shaped by",
+    "is supported by",
+    "is utilized in",
+    "leads to",
+    "lowers",
+    "meets",
+    "mitigated by",
+    "mitigates",
+    "offers",
+    "optimizes",
+    "powered by",
+    "powers",
+    "produces",
+    "promises",
+    "promoted by",
+    "promotes",
+    "provided by",
+    "provides",
+    "raises",
+    "raises awareness of",
+    "receives",
+    "receives funding from",
+    "reduces",
+    "regulates",
+    "represents",
+    "requires",
+    "results in",
+    "satisfies",
+    "serves as",
+    "shapes",
+    "source of",
+    "spurs",
+    "stimulates",
+    "strengthens",
+    "subsidizes",
+    "supported by",
+    "supports",
+    "used for",
+    "utilized by",
+    "utilizes"
+  ]
+}

@@ -1,0 +1,4336 @@
+{
+  "entities": [
+    "carbon emissions",
+    "cheap labor",
+    "circular economy",
+    "clothing disposal",
+    "clothing lifecycle",
+    "clothing lifespan",
+    "clothing longevity",
+    "clothing trends",
+    "conscious choices",
+    "conscious consumer behavior",
+    "consumer behavior",
+    "consumer responsibility",
+    "deforestation",
+    "eco-friendly alternatives",
+    "eco-friendly practices",
+    "efficient production",
+    "environmental concerns",
+    "environmental degradation",
+    "environmental impact",
+    "environmental pollution",
+    "environmental responsibility",
+    "ethical considerations",
+    "ethical fashion",
+    "excessive consumption",
+    "fashion ecosystem",
+    "fast fashion",
+    "garment production",
+    "global transportation",
+    "greenhouse gas emissions",
+    "impact awareness",
+    "industry practices",
+    "industry responsibility",
+    "industry waste",
+    "landfill space",
+    "material sourcing",
+    "mindful consumption",
+    "negative effects",
+    "non-renewable resources",
+    "organic materials",
+    "pesticides",
+    "potential solutions",
+    "production efficiency",
+    "production impact",
+    "production practices",
+    "recycled materials",
+    "recycling",
+    "renewable resources",
+    "resource depletion",
+    "reuse",
+    "sustainability",
+    "sustainable fashion",
+    "synthetic materials",
+    "textile waste",
+    "unsafe working conditions",
+    "waste reduction",
+    "water scarcity"
+  ],
+  "relations": [
+    [
+      "carbon emissions",
+      "causes",
+      "environmental impact"
+    ],
+    [
+      "carbon emissions",
+      "contributes to",
+      "environmental pollution"
+    ],
+    [
+      "carbon emissions",
+      "contributes to",
+      "ethical fashion"
+    ],
+    [
+      "carbon emissions",
+      "contributes to",
+      "non-renewable resources"
+    ],
+    [
+      "carbon emissions",
+      "contributes to",
+      "resource depletion"
+    ],
+    [
+      "carbon emissions",
+      "influences",
+      "conscious choices"
+    ],
+    [
+      "carbon emissions",
+      "is influenced by",
+      "environmental responsibility"
+    ],
+    [
+      "carbon emissions",
+      "is influenced by",
+      "potential solutions"
+    ],
+    [
+      "carbon emissions",
+      "results in",
+      "mindful consumption"
+    ],
+    [
+      "carbon emissions",
+      "results in",
+      "negative effects"
+    ],
+    [
+      "cheap labor",
+      "affects",
+      "clothing lifecycle"
+    ],
+    [
+      "cheap labor",
+      "affects",
+      "clothing trends"
+    ],
+    [
+      "cheap labor",
+      "contributes to",
+      "carbon emissions"
+    ],
+    [
+      "cheap labor",
+      "exacerbates",
+      "environmental impact"
+    ],
+    [
+      "cheap labor",
+      "exploits",
+      "industry responsibility"
+    ],
+    [
+      "cheap labor",
+      "exploits",
+      "recycled materials"
+    ],
+    [
+      "cheap labor",
+      "exploits",
+      "renewable resources"
+    ],
+    [
+      "cheap labor",
+      "is driven by",
+      "environmental pollution"
+    ],
+    [
+      "cheap labor",
+      "is exacerbated by",
+      "resource depletion"
+    ],
+    [
+      "cheap labor",
+      "is exploited by",
+      "fashion ecosystem"
+    ],
+    [
+      "cheap labor",
+      "is influenced by",
+      "clothing lifespan"
+    ],
+    [
+      "cheap labor",
+      "is influenced by",
+      "consumer behavior"
+    ],
+    [
+      "cheap labor",
+      "is influenced by",
+      "global transportation"
+    ],
+    [
+      "cheap labor",
+      "leads to",
+      "waste reduction"
+    ],
+    [
+      "cheap labor",
+      "relies on",
+      "sustainable fashion"
+    ],
+    [
+      "circular economy",
+      "enables",
+      "reuse"
+    ],
+    [
+      "circular economy",
+      "enhances",
+      "efficient production"
+    ],
+    [
+      "circular economy",
+      "influences",
+      "clothing lifecycle"
+    ],
+    [
+      "circular economy",
+      "involves",
+      "ethical considerations"
+    ],
+    [
+      "circular economy",
+      "is addressed by",
+      "excessive consumption"
+    ],
+    [
+      "circular economy",
+      "is supported by",
+      "environmental impact"
+    ],
+    [
+      "circular economy",
+      "promotes",
+      "conscious consumer behavior"
+    ],
+    [
+      "circular economy",
+      "raises",
+      "impact awareness"
+    ],
+    [
+      "circular economy",
+      "reduces",
+      "carbon emissions"
+    ],
+    [
+      "circular economy",
+      "supports",
+      "sustainability"
+    ],
+    [
+      "clothing disposal",
+      "affects",
+      "material sourcing"
+    ],
+    [
+      "clothing disposal",
+      "affects",
+      "production efficiency"
+    ],
+    [
+      "clothing disposal",
+      "affects",
+      "sustainability"
+    ],
+    [
+      "clothing disposal",
+      "affects clothing disposal",
+      "ethical fashion"
+    ],
+    [
+      "clothing disposal",
+      "facilitates",
+      "reuse"
+    ],
+    [
+      "clothing disposal",
+      "is caused by",
+      "resource depletion"
+    ],
+    [
+      "clothing disposal",
+      "is related to",
+      "recycled materials"
+    ],
+    [
+      "clothing disposal",
+      "promotes",
+      "eco-friendly alternatives"
+    ],
+    [
+      "clothing disposal",
+      "results from",
+      "clothing lifespan"
+    ],
+    [
+      "clothing disposal",
+      "results in",
+      "recycling"
+    ],
+    [
+      "clothing disposal",
+      "results in",
+      "renewable resources"
+    ],
+    [
+      "clothing lifecycle",
+      "affects",
+      "clothing trends"
+    ],
+    [
+      "clothing lifecycle",
+      "affects",
+      "pesticides"
+    ],
+    [
+      "clothing lifecycle",
+      "affects",
+      "resource depletion"
+    ],
+    [
+      "clothing lifecycle",
+      "influences",
+      "industry responsibility"
+    ],
+    [
+      "clothing lifecycle",
+      "involves",
+      "ethical considerations"
+    ],
+    [
+      "clothing lifecycle",
+      "is affected by",
+      "environmental degradation"
+    ],
+    [
+      "clothing lifecycle",
+      "is impacted by",
+      "landfill space"
+    ],
+    [
+      "clothing lifecycle",
+      "is part of",
+      "production impact"
+    ],
+    [
+      "clothing lifecycle",
+      "is shaped by",
+      "sustainable fashion"
+    ],
+    [
+      "clothing lifecycle",
+      "results from",
+      "deforestation"
+    ],
+    [
+      "clothing lifecycle",
+      "results from",
+      "greenhouse gas emissions"
+    ],
+    [
+      "clothing lifespan",
+      "enhances",
+      "reuse"
+    ],
+    [
+      "clothing lifespan",
+      "facilitates",
+      "circular economy"
+    ],
+    [
+      "clothing lifespan",
+      "is affected by",
+      "production impact"
+    ],
+    [
+      "clothing lifespan",
+      "is impacted by",
+      "fast fashion"
+    ],
+    [
+      "clothing lifespan",
+      "is influenced by",
+      "ethical fashion"
+    ],
+    [
+      "clothing lifespan",
+      "is shaped by",
+      "consumer behavior"
+    ],
+    [
+      "clothing lifespan",
+      "promotes",
+      "recycled materials"
+    ],
+    [
+      "clothing lifespan",
+      "raises",
+      "impact awareness"
+    ],
+    [
+      "clothing lifespan",
+      "supports",
+      "eco-friendly practices"
+    ],
+    [
+      "clothing lifespan",
+      "supports",
+      "sustainability"
+    ],
+    [
+      "clothing longevity",
+      "affects",
+      "cheap labor"
+    ],
+    [
+      "clothing longevity",
+      "affects clothing longevity",
+      "environmental pollution"
+    ],
+    [
+      "clothing longevity",
+      "extends",
+      "non-renewable resources"
+    ],
+    [
+      "clothing longevity",
+      "impacts",
+      "fast fashion"
+    ],
+    [
+      "clothing longevity",
+      "impacts",
+      "greenhouse gas emissions"
+    ],
+    [
+      "clothing longevity",
+      "impacts clothing longevity",
+      "industry waste"
+    ],
+    [
+      "clothing longevity",
+      "is influenced by",
+      "environmental impact"
+    ],
+    [
+      "clothing longevity",
+      "is influenced by",
+      "landfill space"
+    ],
+    [
+      "clothing longevity",
+      "is supported by",
+      "synthetic materials"
+    ],
+    [
+      "clothing longevity",
+      "requires",
+      "efficient production"
+    ],
+    [
+      "clothing trends",
+      "generates",
+      "textile waste"
+    ],
+    [
+      "clothing trends",
+      "influences",
+      "carbon emissions"
+    ],
+    [
+      "clothing trends",
+      "influences",
+      "pesticides"
+    ],
+    [
+      "clothing trends",
+      "influences",
+      "renewable resources"
+    ],
+    [
+      "clothing trends",
+      "influences",
+      "resource depletion"
+    ],
+    [
+      "clothing trends",
+      "is influenced by",
+      "clothing lifespan"
+    ],
+    [
+      "clothing trends",
+      "is influenced by",
+      "synthetic materials"
+    ],
+    [
+      "clothing trends",
+      "is shaped by",
+      "fast fashion"
+    ],
+    [
+      "clothing trends",
+      "shapes",
+      "consumer behavior"
+    ],
+    [
+      "clothing trends",
+      "supports",
+      "reuse"
+    ],
+    [
+      "conscious choices",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "conscious choices",
+      "contributes to",
+      "greenhouse gas emissions"
+    ],
+    [
+      "conscious choices",
+      "encourages",
+      "efficient production"
+    ],
+    [
+      "conscious choices",
+      "encourages",
+      "mindful consumption"
+    ],
+    [
+      "conscious choices",
+      "encourages",
+      "reuse"
+    ],
+    [
+      "conscious choices",
+      "enhances",
+      "environmental responsibility"
+    ],
+    [
+      "conscious choices",
+      "enhances",
+      "production efficiency"
+    ],
+    [
+      "conscious choices",
+      "increases",
+      "impact awareness"
+    ],
+    [
+      "conscious choices",
+      "influences",
+      "clothing lifespan"
+    ],
+    [
+      "conscious choices",
+      "influences",
+      "ethical fashion"
+    ],
+    [
+      "conscious choices",
+      "involves",
+      "consumer responsibility"
+    ],
+    [
+      "conscious choices",
+      "leads to",
+      "negative effects"
+    ],
+    [
+      "conscious choices",
+      "shapes",
+      "consumer behavior"
+    ],
+    [
+      "conscious choices",
+      "shapes",
+      "production practices"
+    ],
+    [
+      "conscious choices",
+      "supports",
+      "circular economy"
+    ],
+    [
+      "conscious choices",
+      "supports",
+      "fashion ecosystem"
+    ],
+    [
+      "conscious choices",
+      "supports",
+      "potential solutions"
+    ],
+    [
+      "conscious consumer behavior",
+      "affects",
+      "clothing lifecycle"
+    ],
+    [
+      "conscious consumer behavior",
+      "affects",
+      "fast fashion"
+    ],
+    [
+      "conscious consumer behavior",
+      "driven by",
+      "industry responsibility"
+    ],
+    [
+      "conscious consumer behavior",
+      "drives",
+      "cheap labor"
+    ],
+    [
+      "conscious consumer behavior",
+      "enables",
+      "reuse"
+    ],
+    [
+      "conscious consumer behavior",
+      "encourages",
+      "eco-friendly alternatives"
+    ],
+    [
+      "conscious consumer behavior",
+      "enhances",
+      "efficient production"
+    ],
+    [
+      "conscious consumer behavior",
+      "influences",
+      "clothing trends"
+    ],
+    [
+      "conscious consumer behavior",
+      "is influenced by",
+      "environmental impact"
+    ],
+    [
+      "consumer behavior",
+      "affects",
+      "clothing longevity"
+    ],
+    [
+      "consumer behavior",
+      "influences",
+      "carbon emissions"
+    ],
+    [
+      "consumer behavior",
+      "influences",
+      "clothing lifecycle"
+    ],
+    [
+      "consumer behavior",
+      "influences",
+      "ethical considerations"
+    ],
+    [
+      "consumer behavior",
+      "influences",
+      "greenhouse gas emissions"
+    ],
+    [
+      "consumer behavior",
+      "influences",
+      "renewable resources"
+    ],
+    [
+      "consumer behavior",
+      "influences",
+      "synthetic materials"
+    ],
+    [
+      "consumer behavior",
+      "involves",
+      "organic materials"
+    ],
+    [
+      "consumer behavior",
+      "is influenced by",
+      "resource depletion"
+    ],
+    [
+      "consumer behavior",
+      "is influenced by",
+      "waste reduction"
+    ],
+    [
+      "consumer behavior",
+      "is shaped by",
+      "material sourcing"
+    ],
+    [
+      "consumer behavior",
+      "promotes",
+      "eco-friendly alternatives"
+    ],
+    [
+      "consumer responsibility",
+      "addresses",
+      "environmental concerns"
+    ],
+    [
+      "consumer responsibility",
+      "contributes to",
+      "carbon emissions"
+    ],
+    [
+      "consumer responsibility",
+      "demands",
+      "industry responsibility"
+    ],
+    [
+      "consumer responsibility",
+      "encourages",
+      "recycling"
+    ],
+    [
+      "consumer responsibility",
+      "encourages",
+      "renewable resources"
+    ],
+    [
+      "consumer responsibility",
+      "encourages",
+      "reuse"
+    ],
+    [
+      "consumer responsibility",
+      "enhances",
+      "clothing longevity"
+    ],
+    [
+      "consumer responsibility",
+      "influences",
+      "clothing lifecycle"
+    ],
+    [
+      "consumer responsibility",
+      "influences",
+      "clothing trends"
+    ],
+    [
+      "consumer responsibility",
+      "influences",
+      "fast fashion"
+    ],
+    [
+      "consumer responsibility",
+      "involves",
+      "pesticides"
+    ],
+    [
+      "consumer responsibility",
+      "involves",
+      "production practices"
+    ],
+    [
+      "consumer responsibility",
+      "involves",
+      "recycled materials"
+    ],
+    [
+      "consumer responsibility",
+      "is essential for",
+      "environmental responsibility"
+    ],
+    [
+      "consumer responsibility",
+      "promotes",
+      "mindful consumption"
+    ],
+    [
+      "consumer responsibility",
+      "promotes",
+      "organic materials"
+    ],
+    [
+      "consumer responsibility",
+      "raises",
+      "impact awareness"
+    ],
+    [
+      "consumer responsibility",
+      "requires",
+      "ethical fashion"
+    ],
+    [
+      "consumer responsibility",
+      "requires",
+      "global transportation"
+    ],
+    [
+      "consumer responsibility",
+      "shapes",
+      "fashion ecosystem"
+    ],
+    [
+      "deforestation",
+      "caused by",
+      "clothing lifespan"
+    ],
+    [
+      "deforestation",
+      "causes",
+      "industry waste"
+    ],
+    [
+      "deforestation",
+      "contributes to",
+      "carbon emissions"
+    ],
+    [
+      "deforestation",
+      "is a factor in",
+      "environmental responsibility"
+    ],
+    [
+      "deforestation",
+      "is affected by",
+      "environmental impact"
+    ],
+    [
+      "deforestation",
+      "is associated with",
+      "textile waste"
+    ],
+    [
+      "deforestation",
+      "is caused by",
+      "environmental pollution"
+    ],
+    [
+      "deforestation",
+      "is linked to",
+      "resource depletion"
+    ],
+    [
+      "deforestation",
+      "is mitigated by",
+      "waste reduction"
+    ],
+    [
+      "deforestation",
+      "offers",
+      "potential solutions"
+    ],
+    [
+      "deforestation",
+      "reduces",
+      "organic materials"
+    ],
+    [
+      "deforestation",
+      "results in",
+      "clothing disposal"
+    ],
+    [
+      "deforestation",
+      "results in",
+      "excessive consumption"
+    ],
+    [
+      "eco-friendly alternatives",
+      "involves",
+      "ethical considerations"
+    ],
+    [
+      "eco-friendly alternatives",
+      "is addressed by",
+      "textile waste"
+    ],
+    [
+      "eco-friendly alternatives",
+      "is an alternative to",
+      "clothing lifespan"
+    ],
+    [
+      "eco-friendly alternatives",
+      "is an alternative to",
+      "renewable resources"
+    ],
+    [
+      "eco-friendly alternatives",
+      "is an alternative to",
+      "synthetic materials"
+    ],
+    [
+      "eco-friendly alternatives",
+      "is sought by",
+      "fast fashion"
+    ],
+    [
+      "eco-friendly alternatives",
+      "offers alternatives to",
+      "carbon emissions"
+    ],
+    [
+      "eco-friendly alternatives",
+      "offers eco-friendly alternatives to",
+      "excessive consumption"
+    ],
+    [
+      "eco-friendly alternatives",
+      "provides",
+      "environmental concerns"
+    ],
+    [
+      "eco-friendly alternatives",
+      "provides",
+      "recycled materials"
+    ],
+    [
+      "eco-friendly practices",
+      "addresses",
+      "environmental concerns"
+    ],
+    [
+      "eco-friendly practices",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "eco-friendly practices",
+      "improves",
+      "clothing lifecycle"
+    ],
+    [
+      "eco-friendly practices",
+      "improves",
+      "efficient production"
+    ],
+    [
+      "eco-friendly practices",
+      "improves",
+      "production practices"
+    ],
+    [
+      "eco-friendly practices",
+      "incorporates",
+      "reuse"
+    ],
+    [
+      "eco-friendly practices",
+      "influences",
+      "clothing trends"
+    ],
+    [
+      "eco-friendly practices",
+      "involves",
+      "ethical considerations"
+    ],
+    [
+      "eco-friendly practices",
+      "is affected by",
+      "environmental impact"
+    ],
+    [
+      "eco-friendly practices",
+      "opposes",
+      "fast fashion"
+    ],
+    [
+      "eco-friendly practices",
+      "promotes",
+      "clothing longevity"
+    ],
+    [
+      "eco-friendly practices",
+      "promotes",
+      "conscious consumer behavior"
+    ],
+    [
+      "eco-friendly practices",
+      "promotes",
+      "mindful consumption"
+    ],
+    [
+      "eco-friendly practices",
+      "promotes",
+      "waste reduction"
+    ],
+    [
+      "eco-friendly practices",
+      "raises",
+      "impact awareness"
+    ],
+    [
+      "eco-friendly practices",
+      "reduces",
+      "carbon emissions"
+    ],
+    [
+      "eco-friendly practices",
+      "supports",
+      "circular economy"
+    ],
+    [
+      "eco-friendly practices",
+      "supports",
+      "renewable resources"
+    ],
+    [
+      "eco-friendly practices",
+      "utilizes",
+      "organic materials"
+    ],
+    [
+      "eco-friendly practices",
+      "utilizes",
+      "recycled materials"
+    ],
+    [
+      "efficient production",
+      "addresses",
+      "ethical considerations"
+    ],
+    [
+      "efficient production",
+      "affects",
+      "unsafe working conditions"
+    ],
+    [
+      "efficient production",
+      "causes",
+      "deforestation"
+    ],
+    [
+      "efficient production",
+      "enhances",
+      "clothing longevity"
+    ],
+    [
+      "efficient production",
+      "improves",
+      "industry waste"
+    ],
+    [
+      "efficient production",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "efficient production",
+      "is enhanced by",
+      "fashion ecosystem"
+    ],
+    [
+      "efficient production",
+      "is improved by",
+      "carbon emissions"
+    ],
+    [
+      "efficient production",
+      "is influenced by",
+      "greenhouse gas emissions"
+    ],
+    [
+      "efficient production",
+      "is shaped by",
+      "industry practices"
+    ],
+    [
+      "efficient production",
+      "is worsened by",
+      "environmental pollution"
+    ],
+    [
+      "efficient production",
+      "supports",
+      "sustainable fashion"
+    ],
+    [
+      "environmental concerns",
+      "addresses",
+      "organic materials"
+    ],
+    [
+      "environmental concerns",
+      "affects",
+      "clothing longevity"
+    ],
+    [
+      "environmental concerns",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "environmental concerns",
+      "contributes to",
+      "greenhouse gas emissions"
+    ],
+    [
+      "environmental concerns",
+      "contributes to",
+      "landfill space"
+    ],
+    [
+      "environmental concerns",
+      "contributes to",
+      "textile waste"
+    ],
+    [
+      "environmental concerns",
+      "contributes to",
+      "water scarcity"
+    ],
+    [
+      "environmental concerns",
+      "highlights",
+      "excessive consumption"
+    ],
+    [
+      "environmental concerns",
+      "is affected by",
+      "cheap labor"
+    ],
+    [
+      "environmental concerns",
+      "is driven by",
+      "conscious consumer behavior"
+    ],
+    [
+      "environmental concerns",
+      "is influenced by",
+      "industry responsibility"
+    ],
+    [
+      "environmental concerns",
+      "is linked to",
+      "clothing disposal"
+    ],
+    [
+      "environmental concerns",
+      "is related to",
+      "clothing lifecycle"
+    ],
+    [
+      "environmental concerns",
+      "is supported by",
+      "recycled materials"
+    ],
+    [
+      "environmental concerns",
+      "raises",
+      "clothing lifespan"
+    ],
+    [
+      "environmental concerns",
+      "relates to",
+      "sustainability"
+    ],
+    [
+      "environmental concerns",
+      "results in",
+      "negative effects"
+    ],
+    [
+      "environmental concerns",
+      "supports",
+      "circular economy"
+    ],
+    [
+      "environmental degradation",
+      "addresses",
+      "potential solutions"
+    ],
+    [
+      "environmental degradation",
+      "causes",
+      "deforestation"
+    ],
+    [
+      "environmental degradation",
+      "causes",
+      "garment production"
+    ],
+    [
+      "environmental degradation",
+      "contributes to",
+      "greenhouse gas emissions"
+    ],
+    [
+      "environmental degradation",
+      "contributes to",
+      "resource depletion"
+    ],
+    [
+      "environmental degradation",
+      "exacerbates",
+      "cheap labor"
+    ],
+    [
+      "environmental degradation",
+      "exacerbates",
+      "excessive consumption"
+    ],
+    [
+      "environmental degradation",
+      "is affected by",
+      "clothing lifespan"
+    ],
+    [
+      "environmental degradation",
+      "is caused by",
+      "environmental pollution"
+    ],
+    [
+      "environmental degradation",
+      "is caused by",
+      "pesticides"
+    ],
+    [
+      "environmental degradation",
+      "is caused by",
+      "synthetic materials"
+    ],
+    [
+      "environmental degradation",
+      "is exacerbated by",
+      "efficient production"
+    ],
+    [
+      "environmental degradation",
+      "is worsened by",
+      "water scarcity"
+    ],
+    [
+      "environmental degradation",
+      "results in",
+      "negative effects"
+    ],
+    [
+      "environmental degradation",
+      "results in",
+      "textile waste"
+    ],
+    [
+      "environmental impact",
+      "addresses",
+      "potential solutions"
+    ],
+    [
+      "environmental impact",
+      "affects",
+      "fashion ecosystem"
+    ],
+    [
+      "environmental impact",
+      "contributes to",
+      "excessive consumption"
+    ],
+    [
+      "environmental impact",
+      "drives",
+      "environmental responsibility"
+    ],
+    [
+      "environmental impact",
+      "influences",
+      "clothing trends"
+    ],
+    [
+      "environmental impact",
+      "influences",
+      "mindful consumption"
+    ],
+    [
+      "environmental impact",
+      "is affected by",
+      "organic materials"
+    ],
+    [
+      "environmental impact",
+      "is dependent on",
+      "renewable resources"
+    ],
+    [
+      "environmental impact",
+      "is influenced by",
+      "consumer responsibility"
+    ],
+    [
+      "environmental impact",
+      "is influenced by",
+      "recycled materials"
+    ],
+    [
+      "environmental impact",
+      "is influenced by",
+      "recycling"
+    ],
+    [
+      "environmental impact",
+      "offers",
+      "eco-friendly alternatives"
+    ],
+    [
+      "environmental impact",
+      "promotes",
+      "waste reduction"
+    ],
+    [
+      "environmental impact",
+      "raises",
+      "environmental concerns"
+    ],
+    [
+      "environmental impact",
+      "raises",
+      "ethical considerations"
+    ],
+    [
+      "environmental impact",
+      "results in",
+      "environmental pollution"
+    ],
+    [
+      "environmental impact",
+      "shapes",
+      "consumer behavior"
+    ],
+    [
+      "environmental pollution",
+      "causes",
+      "production efficiency"
+    ],
+    [
+      "environmental pollution",
+      "raises",
+      "environmental concerns"
+    ],
+    [
+      "environmental pollution",
+      "results in",
+      "production impact"
+    ],
+    [
+      "environmental responsibility",
+      "affects",
+      "clothing lifecycle"
+    ],
+    [
+      "environmental responsibility",
+      "encourages",
+      "conscious consumer behavior"
+    ],
+    [
+      "environmental responsibility",
+      "exacerbates",
+      "cheap labor"
+    ],
+    [
+      "environmental responsibility",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "environmental responsibility",
+      "is addressed by",
+      "environmental pollution"
+    ],
+    [
+      "environmental responsibility",
+      "raises",
+      "impact awareness"
+    ],
+    [
+      "environmental responsibility",
+      "supports",
+      "circular economy"
+    ],
+    [
+      "ethical considerations",
+      "influences",
+      "clothing trends"
+    ],
+    [
+      "ethical considerations",
+      "involves",
+      "environmental concerns"
+    ],
+    [
+      "ethical considerations",
+      "involves",
+      "organic materials"
+    ],
+    [
+      "ethical considerations",
+      "is a concern for",
+      "greenhouse gas emissions"
+    ],
+    [
+      "ethical considerations",
+      "is a concern for",
+      "water scarcity"
+    ],
+    [
+      "ethical considerations",
+      "is affected by",
+      "negative effects"
+    ],
+    [
+      "ethical considerations",
+      "is considered in",
+      "clothing disposal"
+    ],
+    [
+      "ethical considerations",
+      "is guided by",
+      "consumer behavior"
+    ],
+    [
+      "ethical considerations",
+      "is questioned by",
+      "environmental impact"
+    ],
+    [
+      "ethical considerations",
+      "is questioned by",
+      "fast fashion"
+    ],
+    [
+      "ethical considerations",
+      "raises ethical considerations for",
+      "carbon emissions"
+    ],
+    [
+      "ethical considerations",
+      "raises ethical considerations for",
+      "impact awareness"
+    ],
+    [
+      "ethical considerations",
+      "raises ethical considerations for",
+      "recycled materials"
+    ],
+    [
+      "ethical considerations",
+      "raises ethical considerations for",
+      "recycling"
+    ],
+    [
+      "ethical considerations",
+      "supports",
+      "clothing longevity"
+    ],
+    [
+      "ethical fashion",
+      "addresses",
+      "environmental concerns"
+    ],
+    [
+      "ethical fashion",
+      "affects",
+      "clothing lifespan"
+    ],
+    [
+      "ethical fashion",
+      "demands",
+      "environmental responsibility"
+    ],
+    [
+      "ethical fashion",
+      "demands",
+      "industry responsibility"
+    ],
+    [
+      "ethical fashion",
+      "encourages",
+      "eco-friendly practices"
+    ],
+    [
+      "ethical fashion",
+      "encourages",
+      "mindful consumption"
+    ],
+    [
+      "ethical fashion",
+      "enhances",
+      "circular economy"
+    ],
+    [
+      "ethical fashion",
+      "enhances",
+      "efficient production"
+    ],
+    [
+      "ethical fashion",
+      "increases",
+      "greenhouse gas emissions"
+    ],
+    [
+      "ethical fashion",
+      "increases",
+      "textile waste"
+    ],
+    [
+      "ethical fashion",
+      "influences",
+      "clothing trends"
+    ],
+    [
+      "ethical fashion",
+      "is linked to",
+      "material sourcing"
+    ],
+    [
+      "ethical fashion",
+      "promotes",
+      "eco-friendly alternatives"
+    ],
+    [
+      "ethical fashion",
+      "promotes",
+      "recycling"
+    ],
+    [
+      "ethical fashion",
+      "promotes",
+      "reuse"
+    ],
+    [
+      "ethical fashion",
+      "raises",
+      "impact awareness"
+    ],
+    [
+      "ethical fashion",
+      "shapes",
+      "consumer behavior"
+    ],
+    [
+      "ethical fashion",
+      "supports",
+      "sustainability"
+    ],
+    [
+      "ethical fashion",
+      "utilizes",
+      "organic materials"
+    ],
+    [
+      "ethical fashion",
+      "utilizes",
+      "recycled materials"
+    ],
+    [
+      "excessive consumption",
+      "affects",
+      "clothing lifecycle"
+    ],
+    [
+      "excessive consumption",
+      "drives",
+      "garment production"
+    ],
+    [
+      "excessive consumption",
+      "improves",
+      "efficient production"
+    ],
+    [
+      "excessive consumption",
+      "increases",
+      "carbon emissions"
+    ],
+    [
+      "excessive consumption",
+      "increases",
+      "impact awareness"
+    ],
+    [
+      "excessive consumption",
+      "is a result of",
+      "environmental pollution"
+    ],
+    [
+      "excessive consumption",
+      "is driven by",
+      "environmental concerns"
+    ],
+    [
+      "excessive consumption",
+      "is driven by",
+      "renewable resources"
+    ],
+    [
+      "excessive consumption",
+      "is exacerbated by",
+      "unsafe working conditions"
+    ],
+    [
+      "excessive consumption",
+      "leads to",
+      "water scarcity"
+    ],
+    [
+      "excessive consumption",
+      "reduces",
+      "eco-friendly practices"
+    ],
+    [
+      "excessive consumption",
+      "utilizes",
+      "organic materials"
+    ],
+    [
+      "fashion ecosystem",
+      "affects",
+      "fast fashion"
+    ],
+    [
+      "fashion ecosystem",
+      "contributes to",
+      "water scarcity"
+    ],
+    [
+      "fashion ecosystem",
+      "enhances",
+      "clothing longevity"
+    ],
+    [
+      "fashion ecosystem",
+      "influences",
+      "clothing trends"
+    ],
+    [
+      "fashion ecosystem",
+      "influences",
+      "production practices"
+    ],
+    [
+      "fashion ecosystem",
+      "is part of",
+      "material sourcing"
+    ],
+    [
+      "fashion ecosystem",
+      "promotes",
+      "eco-friendly alternatives"
+    ],
+    [
+      "fashion ecosystem",
+      "promotes",
+      "reuse"
+    ],
+    [
+      "fashion ecosystem",
+      "requires",
+      "environmental responsibility"
+    ],
+    [
+      "fashion ecosystem",
+      "shapes",
+      "consumer behavior"
+    ],
+    [
+      "fashion ecosystem",
+      "supports",
+      "circular economy"
+    ],
+    [
+      "fashion ecosystem",
+      "supports",
+      "efficient production"
+    ],
+    [
+      "fashion ecosystem",
+      "supports",
+      "sustainability"
+    ],
+    [
+      "fashion ecosystem",
+      "utilizes",
+      "organic materials"
+    ],
+    [
+      "fashion ecosystem",
+      "utilizes",
+      "recycled materials"
+    ],
+    [
+      "fast fashion",
+      "contrasts with",
+      "ethical fashion"
+    ],
+    [
+      "fast fashion",
+      "contrasts with",
+      "sustainable fashion"
+    ],
+    [
+      "fast fashion",
+      "defines",
+      "clothing lifecycle"
+    ],
+    [
+      "fast fashion",
+      "facilitates",
+      "reuse"
+    ],
+    [
+      "fast fashion",
+      "generates",
+      "textile waste"
+    ],
+    [
+      "fast fashion",
+      "influences",
+      "clothing trends"
+    ],
+    [
+      "fast fashion",
+      "is associated with",
+      "unsafe working conditions"
+    ],
+    [
+      "fast fashion",
+      "is driven by",
+      "excessive consumption"
+    ],
+    [
+      "fast fashion",
+      "is influenced by",
+      "mindful consumption"
+    ],
+    [
+      "fast fashion",
+      "is produced by",
+      "carbon emissions"
+    ],
+    [
+      "fast fashion",
+      "provides",
+      "eco-friendly alternatives"
+    ],
+    [
+      "fast fashion",
+      "raises",
+      "ethical considerations"
+    ],
+    [
+      "fast fashion",
+      "requires",
+      "sustainability"
+    ],
+    [
+      "fast fashion",
+      "results from",
+      "clothing disposal"
+    ],
+    [
+      "fast fashion",
+      "utilizes",
+      "organic materials"
+    ],
+    [
+      "garment production",
+      "affects",
+      "clothing lifecycle"
+    ],
+    [
+      "garment production",
+      "contributes to",
+      "environmental pollution"
+    ],
+    [
+      "garment production",
+      "depends on",
+      "clothing lifespan"
+    ],
+    [
+      "garment production",
+      "enables",
+      "reuse"
+    ],
+    [
+      "garment production",
+      "generates",
+      "industry waste"
+    ],
+    [
+      "garment production",
+      "improves",
+      "efficient production"
+    ],
+    [
+      "garment production",
+      "incorporates",
+      "recycled materials"
+    ],
+    [
+      "garment production",
+      "is associated with",
+      "unsafe working conditions"
+    ],
+    [
+      "garment production",
+      "is improved by",
+      "potential solutions"
+    ],
+    [
+      "garment production",
+      "is influenced by",
+      "renewable resources"
+    ],
+    [
+      "garment production",
+      "is made from",
+      "synthetic materials"
+    ],
+    [
+      "garment production",
+      "produces",
+      "greenhouse gas emissions"
+    ],
+    [
+      "garment production",
+      "results in",
+      "clothing disposal"
+    ],
+    [
+      "garment production",
+      "utilizes",
+      "organic materials"
+    ],
+    [
+      "global transportation",
+      "affects",
+      "clothing disposal"
+    ],
+    [
+      "global transportation",
+      "affects",
+      "clothing longevity"
+    ],
+    [
+      "global transportation",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "global transportation",
+      "affects",
+      "industry practices"
+    ],
+    [
+      "global transportation",
+      "contributes to",
+      "greenhouse gas emissions"
+    ],
+    [
+      "global transportation",
+      "contributes to",
+      "recycling"
+    ],
+    [
+      "global transportation",
+      "contributes to",
+      "textile waste"
+    ],
+    [
+      "global transportation",
+      "enhances",
+      "production efficiency"
+    ],
+    [
+      "global transportation",
+      "facilitates",
+      "garment production"
+    ],
+    [
+      "global transportation",
+      "impacts",
+      "clothing lifespan"
+    ],
+    [
+      "global transportation",
+      "increases",
+      "carbon emissions"
+    ],
+    [
+      "global transportation",
+      "influences",
+      "conscious choices"
+    ],
+    [
+      "global transportation",
+      "involves",
+      "material sourcing"
+    ],
+    [
+      "global transportation",
+      "involves",
+      "synthetic materials"
+    ],
+    [
+      "global transportation",
+      "is a concern for",
+      "industry responsibility"
+    ],
+    [
+      "global transportation",
+      "is affected by",
+      "clothing lifecycle"
+    ],
+    [
+      "global transportation",
+      "is affected by",
+      "environmental responsibility"
+    ],
+    [
+      "global transportation",
+      "is influenced by",
+      "conscious consumer behavior"
+    ],
+    [
+      "global transportation",
+      "promotes",
+      "eco-friendly practices"
+    ],
+    [
+      "global transportation",
+      "promotes",
+      "sustainable fashion"
+    ],
+    [
+      "global transportation",
+      "raises",
+      "environmental concerns"
+    ],
+    [
+      "global transportation",
+      "raises",
+      "impact awareness"
+    ],
+    [
+      "global transportation",
+      "shapes",
+      "clothing trends"
+    ],
+    [
+      "global transportation",
+      "shapes",
+      "consumer behavior"
+    ],
+    [
+      "global transportation",
+      "supports",
+      "circular economy"
+    ],
+    [
+      "global transportation",
+      "supports",
+      "sustainability"
+    ],
+    [
+      "greenhouse gas emissions",
+      "caused by",
+      "environmental degradation"
+    ],
+    [
+      "greenhouse gas emissions",
+      "contributes to",
+      "eco-friendly practices"
+    ],
+    [
+      "greenhouse gas emissions",
+      "contributes to",
+      "impact awareness"
+    ],
+    [
+      "greenhouse gas emissions",
+      "contributes to",
+      "resource depletion"
+    ],
+    [
+      "greenhouse gas emissions",
+      "increases",
+      "mindful consumption"
+    ],
+    [
+      "greenhouse gas emissions",
+      "increases",
+      "production efficiency"
+    ],
+    [
+      "greenhouse gas emissions",
+      "increases",
+      "recycling"
+    ],
+    [
+      "greenhouse gas emissions",
+      "increases",
+      "sustainability"
+    ],
+    [
+      "greenhouse gas emissions",
+      "increases",
+      "unsafe working conditions"
+    ],
+    [
+      "greenhouse gas emissions",
+      "influences",
+      "industry responsibility"
+    ],
+    [
+      "greenhouse gas emissions",
+      "is associated with",
+      "environmental impact"
+    ],
+    [
+      "greenhouse gas emissions",
+      "is caused by",
+      "environmental pollution"
+    ],
+    [
+      "greenhouse gas emissions",
+      "is caused by",
+      "production impact"
+    ],
+    [
+      "greenhouse gas emissions",
+      "is linked to",
+      "negative effects"
+    ],
+    [
+      "greenhouse gas emissions",
+      "reduces",
+      "circular economy"
+    ],
+    [
+      "greenhouse gas emissions",
+      "results in",
+      "deforestation"
+    ],
+    [
+      "greenhouse gas emissions",
+      "results in",
+      "environmental responsibility"
+    ],
+    [
+      "greenhouse gas emissions",
+      "results in",
+      "excessive consumption"
+    ],
+    [
+      "impact awareness",
+      "affects",
+      "clothing trends"
+    ],
+    [
+      "impact awareness",
+      "increases",
+      "fast fashion"
+    ],
+    [
+      "impact awareness",
+      "increases",
+      "reuse"
+    ],
+    [
+      "impact awareness",
+      "is influenced by",
+      "consumer behavior"
+    ],
+    [
+      "impact awareness",
+      "promotes",
+      "conscious consumer behavior"
+    ],
+    [
+      "impact awareness",
+      "promotes",
+      "eco-friendly alternatives"
+    ],
+    [
+      "impact awareness",
+      "raises",
+      "negative effects"
+    ],
+    [
+      "impact awareness",
+      "raises",
+      "sustainability"
+    ],
+    [
+      "industry practices",
+      "advocates for",
+      "eco-friendly alternatives"
+    ],
+    [
+      "industry practices",
+      "affects",
+      "fast fashion"
+    ],
+    [
+      "industry practices",
+      "encourages",
+      "eco-friendly practices"
+    ],
+    [
+      "industry practices",
+      "encourages",
+      "reuse"
+    ],
+    [
+      "industry practices",
+      "exacerbates",
+      "water scarcity"
+    ],
+    [
+      "industry practices",
+      "improves",
+      "efficient production"
+    ],
+    [
+      "industry practices",
+      "increases",
+      "impact awareness"
+    ],
+    [
+      "industry practices",
+      "influences",
+      "conscious consumer behavior"
+    ],
+    [
+      "industry practices",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "industry practices",
+      "influences",
+      "environmental responsibility"
+    ],
+    [
+      "industry practices",
+      "influences",
+      "ethical fashion"
+    ],
+    [
+      "industry practices",
+      "influences",
+      "production impact"
+    ],
+    [
+      "industry practices",
+      "influences",
+      "production practices"
+    ],
+    [
+      "industry practices",
+      "involves",
+      "material sourcing"
+    ],
+    [
+      "industry practices",
+      "is affected by",
+      "industry waste"
+    ],
+    [
+      "industry practices",
+      "is characterized by",
+      "cheap labor"
+    ],
+    [
+      "industry practices",
+      "is essential for",
+      "garment production"
+    ],
+    [
+      "industry practices",
+      "is guided by",
+      "sustainability"
+    ],
+    [
+      "industry practices",
+      "is linked to",
+      "non-renewable resources"
+    ],
+    [
+      "industry practices",
+      "promotes",
+      "clothing longevity"
+    ],
+    [
+      "industry practices",
+      "requires",
+      "consumer responsibility"
+    ],
+    [
+      "industry practices",
+      "results in",
+      "unsafe working conditions"
+    ],
+    [
+      "industry practices",
+      "utilizes",
+      "organic materials"
+    ],
+    [
+      "industry practices",
+      "utilizes",
+      "pesticides"
+    ],
+    [
+      "industry practices",
+      "utilizes",
+      "synthetic materials"
+    ],
+    [
+      "industry responsibility",
+      "addresses",
+      "excessive consumption"
+    ],
+    [
+      "industry responsibility",
+      "causes",
+      "negative effects"
+    ],
+    [
+      "industry responsibility",
+      "encourages",
+      "reuse"
+    ],
+    [
+      "industry responsibility",
+      "impacts",
+      "production efficiency"
+    ],
+    [
+      "industry responsibility",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "industry responsibility",
+      "is a consequence of",
+      "production impact"
+    ],
+    [
+      "industry responsibility",
+      "is influenced by",
+      "clothing lifespan"
+    ],
+    [
+      "industry responsibility",
+      "is linked to",
+      "carbon emissions"
+    ],
+    [
+      "industry responsibility",
+      "promotes",
+      "efficient production"
+    ],
+    [
+      "industry responsibility",
+      "requires",
+      "eco-friendly practices"
+    ],
+    [
+      "industry responsibility",
+      "requires",
+      "fast fashion"
+    ],
+    [
+      "industry waste",
+      "causes",
+      "environmental impact"
+    ],
+    [
+      "industry waste",
+      "causes",
+      "environmental pollution"
+    ],
+    [
+      "industry waste",
+      "contributes to",
+      "global transportation"
+    ],
+    [
+      "industry waste",
+      "highlights",
+      "environmental concerns"
+    ],
+    [
+      "industry waste",
+      "highlights",
+      "potential solutions"
+    ],
+    [
+      "industry waste",
+      "is addressed by",
+      "recycling"
+    ],
+    [
+      "industry waste",
+      "is affected by",
+      "clothing lifespan"
+    ],
+    [
+      "industry waste",
+      "is caused by",
+      "synthetic materials"
+    ],
+    [
+      "industry waste",
+      "is driven by",
+      "excessive consumption"
+    ],
+    [
+      "industry waste",
+      "is linked to",
+      "pesticides"
+    ],
+    [
+      "industry waste",
+      "produces",
+      "industry practices"
+    ],
+    [
+      "industry waste",
+      "reduces",
+      "recycled materials"
+    ],
+    [
+      "industry waste",
+      "reduces",
+      "waste reduction"
+    ],
+    [
+      "industry waste",
+      "results in",
+      "negative effects"
+    ],
+    [
+      "industry waste",
+      "results in",
+      "textile waste"
+    ],
+    [
+      "landfill space",
+      "contributes to",
+      "deforestation"
+    ],
+    [
+      "landfill space",
+      "contributes to",
+      "environmental pollution"
+    ],
+    [
+      "landfill space",
+      "contributes to",
+      "garment production"
+    ],
+    [
+      "landfill space",
+      "contributes to",
+      "global transportation"
+    ],
+    [
+      "landfill space",
+      "contributes to",
+      "production efficiency"
+    ],
+    [
+      "landfill space",
+      "contributes to",
+      "unsafe working conditions"
+    ],
+    [
+      "landfill space",
+      "fills",
+      "cheap labor"
+    ],
+    [
+      "landfill space",
+      "fills",
+      "environmental impact"
+    ],
+    [
+      "landfill space",
+      "fills",
+      "excessive consumption"
+    ],
+    [
+      "landfill space",
+      "fills",
+      "renewable resources"
+    ],
+    [
+      "landfill space",
+      "fills",
+      "textile waste"
+    ],
+    [
+      "landfill space",
+      "increases",
+      "efficient production"
+    ],
+    [
+      "landfill space",
+      "is a consequence of",
+      "environmental degradation"
+    ],
+    [
+      "landfill space",
+      "is a consequence of",
+      "resource depletion"
+    ],
+    [
+      "landfill space",
+      "is a result of",
+      "recycled materials"
+    ],
+    [
+      "landfill space",
+      "is affected by",
+      "clothing lifespan"
+    ],
+    [
+      "landfill space",
+      "is associated with",
+      "carbon emissions"
+    ],
+    [
+      "landfill space",
+      "is disposed of in",
+      "synthetic materials"
+    ],
+    [
+      "landfill space",
+      "is influenced by",
+      "material sourcing"
+    ],
+    [
+      "landfill space",
+      "is reduced by",
+      "waste reduction"
+    ],
+    [
+      "landfill space",
+      "occupies",
+      "clothing disposal"
+    ],
+    [
+      "landfill space",
+      "occupies",
+      "greenhouse gas emissions"
+    ],
+    [
+      "landfill space",
+      "occupies",
+      "negative effects"
+    ],
+    [
+      "landfill space",
+      "occupies",
+      "non-renewable resources"
+    ],
+    [
+      "material sourcing",
+      "affects",
+      "clothing lifecycle"
+    ],
+    [
+      "material sourcing",
+      "causes",
+      "environmental degradation"
+    ],
+    [
+      "material sourcing",
+      "causes",
+      "environmental pollution"
+    ],
+    [
+      "material sourcing",
+      "causes",
+      "resource depletion"
+    ],
+    [
+      "material sourcing",
+      "depends on",
+      "cheap labor"
+    ],
+    [
+      "material sourcing",
+      "encourages",
+      "eco-friendly practices"
+    ],
+    [
+      "material sourcing",
+      "encourages",
+      "mindful consumption"
+    ],
+    [
+      "material sourcing",
+      "enhances",
+      "production efficiency"
+    ],
+    [
+      "material sourcing",
+      "impacts",
+      "production impact"
+    ],
+    [
+      "material sourcing",
+      "informs",
+      "production practices"
+    ],
+    [
+      "material sourcing",
+      "is associated with",
+      "fast fashion"
+    ],
+    [
+      "material sourcing",
+      "is influenced by",
+      "clothing lifespan"
+    ],
+    [
+      "material sourcing",
+      "is reliant on",
+      "non-renewable resources"
+    ],
+    [
+      "material sourcing",
+      "leads to",
+      "excessive consumption"
+    ],
+    [
+      "material sourcing",
+      "offers",
+      "potential solutions"
+    ],
+    [
+      "material sourcing",
+      "provides",
+      "eco-friendly alternatives"
+    ],
+    [
+      "material sourcing",
+      "results in",
+      "deforestation"
+    ],
+    [
+      "material sourcing",
+      "supports",
+      "sustainability"
+    ],
+    [
+      "material sourcing",
+      "supports",
+      "waste reduction"
+    ],
+    [
+      "material sourcing",
+      "utilizes",
+      "organic materials"
+    ],
+    [
+      "mindful consumption",
+      "addresses",
+      "environmental concerns"
+    ],
+    [
+      "mindful consumption",
+      "affects",
+      "cheap labor"
+    ],
+    [
+      "mindful consumption",
+      "affects",
+      "clothing disposal"
+    ],
+    [
+      "mindful consumption",
+      "affects",
+      "clothing lifecycle"
+    ],
+    [
+      "mindful consumption",
+      "contributes to",
+      "waste reduction"
+    ],
+    [
+      "mindful consumption",
+      "encourages",
+      "environmental responsibility"
+    ],
+    [
+      "mindful consumption",
+      "enhances",
+      "efficient production"
+    ],
+    [
+      "mindful consumption",
+      "increases",
+      "textile waste"
+    ],
+    [
+      "mindful consumption",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "mindful consumption",
+      "influences",
+      "industry practices"
+    ],
+    [
+      "mindful consumption",
+      "is enhanced by",
+      "clothing lifespan"
+    ],
+    [
+      "mindful consumption",
+      "promotes",
+      "conscious consumer behavior"
+    ],
+    [
+      "mindful consumption",
+      "promotes",
+      "eco-friendly alternatives"
+    ],
+    [
+      "mindful consumption",
+      "promotes",
+      "reuse"
+    ],
+    [
+      "mindful consumption",
+      "promotes",
+      "sustainability"
+    ],
+    [
+      "mindful consumption",
+      "supports",
+      "circular economy"
+    ],
+    [
+      "mindful consumption",
+      "supports",
+      "recycled materials"
+    ],
+    [
+      "mindful consumption",
+      "supports",
+      "renewable resources"
+    ],
+    [
+      "mindful consumption",
+      "utilizes",
+      "organic materials"
+    ],
+    [
+      "negative effects",
+      "causes",
+      "garment production"
+    ],
+    [
+      "negative effects",
+      "causes",
+      "mindful consumption"
+    ],
+    [
+      "negative effects",
+      "causes",
+      "renewable resources"
+    ],
+    [
+      "negative effects",
+      "causes",
+      "sustainable fashion"
+    ],
+    [
+      "negative effects",
+      "causes",
+      "synthetic materials"
+    ],
+    [
+      "negative effects",
+      "is a consequence of",
+      "recycled materials"
+    ],
+    [
+      "negative effects",
+      "is a consequence of",
+      "resource depletion"
+    ],
+    [
+      "negative effects",
+      "is a result of",
+      "environmental pollution"
+    ],
+    [
+      "negative effects",
+      "is a result of",
+      "excessive consumption"
+    ],
+    [
+      "negative effects",
+      "is a result of",
+      "recycling"
+    ],
+    [
+      "negative effects",
+      "is affected by",
+      "clothing lifespan"
+    ],
+    [
+      "negative effects",
+      "is associated with",
+      "eco-friendly practices"
+    ],
+    [
+      "negative effects",
+      "is countered by",
+      "potential solutions"
+    ],
+    [
+      "negative effects",
+      "is influenced by",
+      "environmental responsibility"
+    ],
+    [
+      "negative effects",
+      "result of",
+      "industry responsibility"
+    ],
+    [
+      "negative effects",
+      "results from",
+      "global transportation"
+    ],
+    [
+      "negative effects",
+      "results in",
+      "cheap labor"
+    ],
+    [
+      "negative effects",
+      "results in",
+      "ethical fashion"
+    ],
+    [
+      "negative effects",
+      "results in",
+      "waste reduction"
+    ],
+    [
+      "non-renewable resources",
+      "affects",
+      "clothing lifecycle"
+    ],
+    [
+      "non-renewable resources",
+      "derived from",
+      "recycled materials"
+    ],
+    [
+      "non-renewable resources",
+      "is a factor in",
+      "cheap labor"
+    ],
+    [
+      "non-renewable resources",
+      "is a factor in",
+      "deforestation"
+    ],
+    [
+      "non-renewable resources",
+      "is a result of",
+      "environmental impact"
+    ],
+    [
+      "non-renewable resources",
+      "is affected by",
+      "clothing disposal"
+    ],
+    [
+      "non-renewable resources",
+      "is affected by",
+      "clothing lifespan"
+    ],
+    [
+      "non-renewable resources",
+      "is affected by",
+      "recycling"
+    ],
+    [
+      "non-renewable resources",
+      "is associated with",
+      "organic materials"
+    ],
+    [
+      "non-renewable resources",
+      "is caused by",
+      "environmental pollution"
+    ],
+    [
+      "non-renewable resources",
+      "is contrasted with",
+      "renewable resources"
+    ],
+    [
+      "non-renewable resources",
+      "is driven by",
+      "environmental degradation"
+    ],
+    [
+      "non-renewable resources",
+      "is impacted by",
+      "production efficiency"
+    ],
+    [
+      "non-renewable resources",
+      "is linked to",
+      "excessive consumption"
+    ],
+    [
+      "non-renewable resources",
+      "is linked to",
+      "negative effects"
+    ],
+    [
+      "non-renewable resources",
+      "reduces",
+      "waste reduction"
+    ],
+    [
+      "non-renewable resources",
+      "results in",
+      "resource depletion"
+    ],
+    [
+      "organic materials",
+      "contributes to",
+      "environmental pollution"
+    ],
+    [
+      "organic materials",
+      "involves",
+      "clothing disposal"
+    ],
+    [
+      "organic materials",
+      "is addressed by",
+      "environmental degradation"
+    ],
+    [
+      "organic materials",
+      "is affected by",
+      "landfill space"
+    ],
+    [
+      "organic materials",
+      "is characterized by",
+      "ethical fashion"
+    ],
+    [
+      "organic materials",
+      "is derived from",
+      "global transportation"
+    ],
+    [
+      "organic materials",
+      "is enhanced by",
+      "clothing longevity"
+    ],
+    [
+      "organic materials",
+      "is opposed to",
+      "synthetic materials"
+    ],
+    [
+      "organic materials",
+      "mitigated by",
+      "resource depletion"
+    ],
+    [
+      "pesticides",
+      "affects",
+      "clothing lifespan"
+    ],
+    [
+      "pesticides",
+      "affects",
+      "fashion ecosystem"
+    ],
+    [
+      "pesticides",
+      "contains",
+      "eco-friendly alternatives"
+    ],
+    [
+      "pesticides",
+      "contributes to",
+      "clothing disposal"
+    ],
+    [
+      "pesticides",
+      "exacerbated by",
+      "environmental impact"
+    ],
+    [
+      "pesticides",
+      "is affected by",
+      "deforestation"
+    ],
+    [
+      "pesticides",
+      "is affected by",
+      "garment production"
+    ],
+    [
+      "pesticides",
+      "is affected by",
+      "recycled materials"
+    ],
+    [
+      "pesticides",
+      "is affected by",
+      "textile waste"
+    ],
+    [
+      "pesticides",
+      "is caused by",
+      "water scarcity"
+    ],
+    [
+      "pesticides",
+      "is driven by",
+      "excessive consumption"
+    ],
+    [
+      "pesticides",
+      "is linked to",
+      "resource depletion"
+    ],
+    [
+      "pesticides",
+      "linked to",
+      "production impact"
+    ],
+    [
+      "potential solutions",
+      "addresses",
+      "clothing disposal"
+    ],
+    [
+      "potential solutions",
+      "addresses",
+      "environmental pollution"
+    ],
+    [
+      "potential solutions",
+      "addresses",
+      "ethical considerations"
+    ],
+    [
+      "potential solutions",
+      "addresses",
+      "recycling"
+    ],
+    [
+      "potential solutions",
+      "affects",
+      "clothing lifecycle"
+    ],
+    [
+      "potential solutions",
+      "contributes to",
+      "greenhouse gas emissions"
+    ],
+    [
+      "potential solutions",
+      "improves",
+      "efficient production"
+    ],
+    [
+      "potential solutions",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "potential solutions",
+      "is a response to",
+      "production practices"
+    ],
+    [
+      "potential solutions",
+      "is essential for",
+      "environmental responsibility"
+    ],
+    [
+      "potential solutions",
+      "mitigates",
+      "excessive consumption"
+    ],
+    [
+      "potential solutions",
+      "mitigates",
+      "water scarcity"
+    ],
+    [
+      "potential solutions",
+      "offers",
+      "synthetic materials"
+    ],
+    [
+      "potential solutions",
+      "promotes",
+      "circular economy"
+    ],
+    [
+      "potential solutions",
+      "promotes",
+      "clothing longevity"
+    ],
+    [
+      "potential solutions",
+      "promotes",
+      "conscious consumer behavior"
+    ],
+    [
+      "potential solutions",
+      "promotes",
+      "renewable resources"
+    ],
+    [
+      "potential solutions",
+      "promotes",
+      "waste reduction"
+    ],
+    [
+      "potential solutions",
+      "provides",
+      "production impact"
+    ],
+    [
+      "potential solutions",
+      "raises",
+      "impact awareness"
+    ],
+    [
+      "potential solutions",
+      "requires",
+      "industry responsibility"
+    ],
+    [
+      "potential solutions",
+      "supports",
+      "recycled materials"
+    ],
+    [
+      "potential solutions",
+      "supports",
+      "sustainability"
+    ],
+    [
+      "production efficiency",
+      "contributes to",
+      "carbon emissions"
+    ],
+    [
+      "production efficiency",
+      "contributes to",
+      "resource depletion"
+    ],
+    [
+      "production efficiency",
+      "contributes to",
+      "sustainability"
+    ],
+    [
+      "production efficiency",
+      "demands",
+      "environmental responsibility"
+    ],
+    [
+      "production efficiency",
+      "enhances",
+      "eco-friendly alternatives"
+    ],
+    [
+      "production efficiency",
+      "exacerbates",
+      "water scarcity"
+    ],
+    [
+      "production efficiency",
+      "extends",
+      "clothing longevity"
+    ],
+    [
+      "production efficiency",
+      "impacts",
+      "unsafe working conditions"
+    ],
+    [
+      "production efficiency",
+      "improves",
+      "waste reduction"
+    ],
+    [
+      "production efficiency",
+      "is a concern for",
+      "environmental concerns"
+    ],
+    [
+      "production efficiency",
+      "is influenced by",
+      "synthetic materials"
+    ],
+    [
+      "production efficiency",
+      "leads to",
+      "deforestation"
+    ],
+    [
+      "production efficiency",
+      "provides",
+      "potential solutions"
+    ],
+    [
+      "production efficiency",
+      "raises",
+      "impact awareness"
+    ],
+    [
+      "production efficiency",
+      "reduces",
+      "non-renewable resources"
+    ],
+    [
+      "production efficiency",
+      "reduces",
+      "textile waste"
+    ],
+    [
+      "production efficiency",
+      "requires",
+      "renewable resources"
+    ],
+    [
+      "production efficiency",
+      "supports",
+      "organic materials"
+    ],
+    [
+      "production impact",
+      "affects",
+      "clothing longevity"
+    ],
+    [
+      "production impact",
+      "affects",
+      "environmental degradation"
+    ],
+    [
+      "production impact",
+      "affects",
+      "excessive consumption"
+    ],
+    [
+      "production impact",
+      "affects",
+      "non-renewable resources"
+    ],
+    [
+      "production impact",
+      "affects",
+      "production practices"
+    ],
+    [
+      "production impact",
+      "affects",
+      "sustainability"
+    ],
+    [
+      "production impact",
+      "contributes to",
+      "textile waste"
+    ],
+    [
+      "production impact",
+      "demands",
+      "industry responsibility"
+    ],
+    [
+      "production impact",
+      "enables",
+      "circular economy"
+    ],
+    [
+      "production impact",
+      "impacts",
+      "clothing lifespan"
+    ],
+    [
+      "production impact",
+      "impacts",
+      "fast fashion"
+    ],
+    [
+      "production impact",
+      "influences",
+      "mindful consumption"
+    ],
+    [
+      "production impact",
+      "is a result of",
+      "unsafe working conditions"
+    ],
+    [
+      "production impact",
+      "is impacted by",
+      "cheap labor"
+    ],
+    [
+      "production impact",
+      "is improved by",
+      "organic materials"
+    ],
+    [
+      "production impact",
+      "is influenced by",
+      "conscious consumer behavior"
+    ],
+    [
+      "production impact",
+      "mitigates",
+      "eco-friendly practices"
+    ],
+    [
+      "production impact",
+      "relies on",
+      "synthetic materials"
+    ],
+    [
+      "production impact",
+      "requires",
+      "environmental responsibility"
+    ],
+    [
+      "production impact",
+      "results in",
+      "deforestation"
+    ],
+    [
+      "production impact",
+      "shapes",
+      "fashion ecosystem"
+    ],
+    [
+      "production practices",
+      "addresses",
+      "potential solutions"
+    ],
+    [
+      "production practices",
+      "affects",
+      "clothing disposal"
+    ],
+    [
+      "production practices",
+      "demands",
+      "industry responsibility"
+    ],
+    [
+      "production practices",
+      "enhances",
+      "waste reduction"
+    ],
+    [
+      "production practices",
+      "exploits",
+      "cheap labor"
+    ],
+    [
+      "production practices",
+      "impacts",
+      "industry waste"
+    ],
+    [
+      "production practices",
+      "influences",
+      "conscious consumer behavior"
+    ],
+    [
+      "production practices",
+      "informs",
+      "ethical fashion"
+    ],
+    [
+      "production practices",
+      "is influenced by",
+      "sustainability"
+    ],
+    [
+      "production practices",
+      "leads to",
+      "excessive consumption"
+    ],
+    [
+      "production practices",
+      "promotes",
+      "circular economy"
+    ],
+    [
+      "production practices",
+      "promotes",
+      "environmental responsibility"
+    ],
+    [
+      "production practices",
+      "promotes",
+      "renewable resources"
+    ],
+    [
+      "production practices",
+      "promotes",
+      "reuse"
+    ],
+    [
+      "production practices",
+      "raises",
+      "impact awareness"
+    ],
+    [
+      "production practices",
+      "shapes",
+      "consumer behavior"
+    ],
+    [
+      "production practices",
+      "utilizes",
+      "recycled materials"
+    ],
+    [
+      "recycled materials",
+      "competes with",
+      "synthetic materials"
+    ],
+    [
+      "recycled materials",
+      "enables",
+      "reuse"
+    ],
+    [
+      "recycled materials",
+      "enhances",
+      "clothing lifecycle"
+    ],
+    [
+      "recycled materials",
+      "enhances",
+      "clothing longevity"
+    ],
+    [
+      "recycled materials",
+      "facilitates",
+      "waste reduction"
+    ],
+    [
+      "recycled materials",
+      "increases",
+      "excessive consumption"
+    ],
+    [
+      "recycled materials",
+      "influences",
+      "clothing trends"
+    ],
+    [
+      "recycled materials",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "recycled materials",
+      "is associated with",
+      "fast fashion"
+    ],
+    [
+      "recycled materials",
+      "is influenced by",
+      "environmental pollution"
+    ],
+    [
+      "recycled materials",
+      "is sourced from",
+      "deforestation"
+    ],
+    [
+      "recycled materials",
+      "is utilized in",
+      "global transportation"
+    ],
+    [
+      "recycled materials",
+      "supports",
+      "sustainability"
+    ],
+    [
+      "recycled materials",
+      "utilizes",
+      "industry practices"
+    ],
+    [
+      "recycling",
+      "addresses",
+      "environmental concerns"
+    ],
+    [
+      "recycling",
+      "addresses",
+      "water scarcity"
+    ],
+    [
+      "recycling",
+      "affects",
+      "clothing trends"
+    ],
+    [
+      "recycling",
+      "affects",
+      "consumer behavior"
+    ],
+    [
+      "recycling",
+      "encourages",
+      "conscious consumer behavior"
+    ],
+    [
+      "recycling",
+      "extends",
+      "clothing longevity"
+    ],
+    [
+      "recycling",
+      "facilitates",
+      "reuse"
+    ],
+    [
+      "recycling",
+      "facilitates",
+      "waste reduction"
+    ],
+    [
+      "recycling",
+      "improves",
+      "clothing lifecycle"
+    ],
+    [
+      "recycling",
+      "influences",
+      "production practices"
+    ],
+    [
+      "recycling",
+      "involves",
+      "synthetic materials"
+    ],
+    [
+      "recycling",
+      "is a factor in",
+      "industry responsibility"
+    ],
+    [
+      "recycling",
+      "is a part of",
+      "circular economy"
+    ],
+    [
+      "recycling",
+      "is affected by",
+      "fast fashion"
+    ],
+    [
+      "recycling",
+      "is enhanced by",
+      "clothing lifespan"
+    ],
+    [
+      "recycling",
+      "is influenced by",
+      "cheap labor"
+    ],
+    [
+      "recycling",
+      "is promoted by",
+      "mindful consumption"
+    ],
+    [
+      "recycling",
+      "promotes",
+      "sustainability"
+    ],
+    [
+      "renewable resources",
+      "affects",
+      "clothing lifecycle"
+    ],
+    [
+      "renewable resources",
+      "facilitates",
+      "reuse"
+    ],
+    [
+      "renewable resources",
+      "involves",
+      "ethical considerations"
+    ],
+    [
+      "renewable resources",
+      "is a source of",
+      "organic materials"
+    ],
+    [
+      "renewable resources",
+      "is contrasted with",
+      "synthetic materials"
+    ],
+    [
+      "renewable resources",
+      "is supported by",
+      "resource depletion"
+    ],
+    [
+      "renewable resources",
+      "is sustained by",
+      "fashion ecosystem"
+    ],
+    [
+      "renewable resources",
+      "provides",
+      "deforestation"
+    ],
+    [
+      "renewable resources",
+      "relies on",
+      "environmental concerns"
+    ],
+    [
+      "renewable resources",
+      "supports",
+      "sustainability"
+    ],
+    [
+      "renewable resources",
+      "supports",
+      "waste reduction"
+    ],
+    [
+      "resource depletion",
+      "affects",
+      "sustainability"
+    ],
+    [
+      "resource depletion",
+      "causes",
+      "environmental impact"
+    ],
+    [
+      "resource depletion",
+      "contributes to",
+      "environmental pollution"
+    ],
+    [
+      "resource depletion",
+      "contributes to",
+      "industry waste"
+    ],
+    [
+      "resource depletion",
+      "contributes to",
+      "production impact"
+    ],
+    [
+      "resource depletion",
+      "contributes to",
+      "recycling"
+    ],
+    [
+      "resource depletion",
+      "drives",
+      "fast fashion"
+    ],
+    [
+      "resource depletion",
+      "exacerbates",
+      "recycled materials"
+    ],
+    [
+      "resource depletion",
+      "exacerbates",
+      "water scarcity"
+    ],
+    [
+      "resource depletion",
+      "is a factor in",
+      "synthetic materials"
+    ],
+    [
+      "resource depletion",
+      "is affected by",
+      "clothing longevity"
+    ],
+    [
+      "resource depletion",
+      "is impacted by",
+      "garment production"
+    ],
+    [
+      "resource depletion",
+      "is mitigated by",
+      "reuse"
+    ],
+    [
+      "resource depletion",
+      "offers",
+      "eco-friendly alternatives"
+    ],
+    [
+      "resource depletion",
+      "results from",
+      "excessive consumption"
+    ],
+    [
+      "reuse",
+      "extends",
+      "clothing lifecycle"
+    ],
+    [
+      "reuse",
+      "facilitates",
+      "efficient production"
+    ],
+    [
+      "reuse",
+      "incorporates",
+      "organic materials"
+    ],
+    [
+      "reuse",
+      "is a result of",
+      "consumer responsibility"
+    ],
+    [
+      "reuse",
+      "mitigates",
+      "water scarcity"
+    ],
+    [
+      "reuse",
+      "offers",
+      "eco-friendly alternatives"
+    ],
+    [
+      "sustainability",
+      "encourages",
+      "conscious consumer behavior"
+    ],
+    [
+      "sustainability",
+      "highlights",
+      "negative effects"
+    ],
+    [
+      "sustainability",
+      "informs",
+      "ethical considerations"
+    ],
+    [
+      "sustainability",
+      "is derived from",
+      "organic materials"
+    ],
+    [
+      "sustainability",
+      "is linked to",
+      "pesticides"
+    ],
+    [
+      "sustainability",
+      "offers",
+      "eco-friendly alternatives"
+    ],
+    [
+      "sustainability",
+      "promotes",
+      "reuse"
+    ],
+    [
+      "sustainability",
+      "promotes sustainability in",
+      "synthetic materials"
+    ],
+    [
+      "sustainability",
+      "shapes",
+      "consumer behavior"
+    ],
+    [
+      "sustainable fashion",
+      "addresses",
+      "unsafe working conditions"
+    ],
+    [
+      "sustainable fashion",
+      "affects",
+      "environmental impact"
+    ],
+    [
+      "sustainable fashion",
+      "contributes to",
+      "resource depletion"
+    ],
+    [
+      "sustainable fashion",
+      "demands",
+      "environmental responsibility"
+    ],
+    [
+      "sustainable fashion",
+      "encourages",
+      "conscious consumer behavior"
+    ],
+    [
+      "sustainable fashion",
+      "encourages",
+      "mindful consumption"
+    ],
+    [
+      "sustainable fashion",
+      "enhances",
+      "clothing longevity"
+    ],
+    [
+      "sustainable fashion",
+      "extends",
+      "clothing lifespan"
+    ],
+    [
+      "sustainable fashion",
+      "facilitates",
+      "reuse"
+    ],
+    [
+      "sustainable fashion",
+      "improves",
+      "production efficiency"
+    ],
+    [
+      "sustainable fashion",
+      "includes",
+      "recycled materials"
+    ],
+    [
+      "sustainable fashion",
+      "influences",
+      "clothing lifecycle"
+    ],
+    [
+      "sustainable fashion",
+      "influences",
+      "industry practices"
+    ],
+    [
+      "sustainable fashion",
+      "is connected to",
+      "circular economy"
+    ],
+    [
+      "sustainable fashion",
+      "is influenced by",
+      "clothing trends"
+    ],
+    [
+      "sustainable fashion",
+      "is influenced by",
+      "consumer behavior"
+    ],
+    [
+      "sustainable fashion",
+      "is influenced by",
+      "excessive consumption"
+    ],
+    [
+      "sustainable fashion",
+      "offers",
+      "potential solutions"
+    ],
+    [
+      "sustainable fashion",
+      "promotes",
+      "eco-friendly practices"
+    ],
+    [
+      "sustainable fashion",
+      "promotes",
+      "waste reduction"
+    ],
+    [
+      "sustainable fashion",
+      "raises",
+      "impact awareness"
+    ],
+    [
+      "sustainable fashion",
+      "requires",
+      "consumer responsibility"
+    ],
+    [
+      "sustainable fashion",
+      "supports",
+      "production practices"
+    ],
+    [
+      "sustainable fashion",
+      "utilizes",
+      "synthetic materials"
+    ],
+    [
+      "synthetic materials",
+      "contrasts with",
+      "organic materials"
+    ],
+    [
+      "synthetic materials",
+      "contributes to",
+      "water scarcity"
+    ],
+    [
+      "synthetic materials",
+      "derived from",
+      "deforestation"
+    ],
+    [
+      "synthetic materials",
+      "drives",
+      "clothing trends"
+    ],
+    [
+      "synthetic materials",
+      "drives",
+      "fast fashion"
+    ],
+    [
+      "synthetic materials",
+      "enhances",
+      "clothing longevity"
+    ],
+    [
+      "synthetic materials",
+      "impacts",
+      "consumer responsibility"
+    ],
+    [
+      "synthetic materials",
+      "influences",
+      "clothing lifecycle"
+    ],
+    [
+      "synthetic materials",
+      "is a factor in",
+      "environmental impact"
+    ],
+    [
+      "synthetic materials",
+      "is associated with",
+      "material sourcing"
+    ],
+    [
+      "synthetic materials",
+      "is caused by",
+      "environmental concerns"
+    ],
+    [
+      "synthetic materials",
+      "is derived from",
+      "fashion ecosystem"
+    ],
+    [
+      "synthetic materials",
+      "is influenced by",
+      "mindful consumption"
+    ],
+    [
+      "synthetic materials",
+      "is related to",
+      "reuse"
+    ],
+    [
+      "synthetic materials",
+      "relies on",
+      "ethical fashion"
+    ],
+    [
+      "textile waste",
+      "affects",
+      "clothing lifecycle"
+    ],
+    [
+      "textile waste",
+      "contrasts with",
+      "organic materials"
+    ],
+    [
+      "textile waste",
+      "contributes to",
+      "cheap labor"
+    ],
+    [
+      "textile waste",
+      "contributes to",
+      "production practices"
+    ],
+    [
+      "textile waste",
+      "contributes to",
+      "recycled materials"
+    ],
+    [
+      "textile waste",
+      "contributes to",
+      "resource depletion"
+    ],
+    [
+      "textile waste",
+      "exacerbates",
+      "sustainable fashion"
+    ],
+    [
+      "textile waste",
+      "generates",
+      "industry practices"
+    ],
+    [
+      "textile waste",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "textile waste",
+      "is a consequence of",
+      "clothing lifespan"
+    ],
+    [
+      "textile waste",
+      "is a consequence of",
+      "environmental impact"
+    ],
+    [
+      "textile waste",
+      "is a consequence of",
+      "negative effects"
+    ],
+    [
+      "textile waste",
+      "is a consequence of",
+      "renewable resources"
+    ],
+    [
+      "textile waste",
+      "is generated by",
+      "recycling"
+    ],
+    [
+      "textile waste",
+      "is linked to",
+      "sustainability"
+    ],
+    [
+      "textile waste",
+      "is mitigated by",
+      "reuse"
+    ],
+    [
+      "textile waste",
+      "is reduced by",
+      "potential solutions"
+    ],
+    [
+      "textile waste",
+      "offers",
+      "eco-friendly alternatives"
+    ],
+    [
+      "textile waste",
+      "results in",
+      "environmental pollution"
+    ],
+    [
+      "textile waste",
+      "results in",
+      "fashion ecosystem"
+    ],
+    [
+      "textile waste",
+      "results in",
+      "synthetic materials"
+    ],
+    [
+      "unsafe working conditions",
+      "affects",
+      "deforestation"
+    ],
+    [
+      "unsafe working conditions",
+      "affects",
+      "fashion ecosystem"
+    ],
+    [
+      "unsafe working conditions",
+      "contrasts with",
+      "eco-friendly practices"
+    ],
+    [
+      "unsafe working conditions",
+      "exacerbates",
+      "carbon emissions"
+    ],
+    [
+      "unsafe working conditions",
+      "exacerbates",
+      "environmental degradation"
+    ],
+    [
+      "unsafe working conditions",
+      "impacts",
+      "clothing lifecycle"
+    ],
+    [
+      "unsafe working conditions",
+      "impacts",
+      "conscious consumer behavior"
+    ],
+    [
+      "unsafe working conditions",
+      "impacts",
+      "environmental impact"
+    ],
+    [
+      "unsafe working conditions",
+      "is highlighted by",
+      "impact awareness"
+    ],
+    [
+      "unsafe working conditions",
+      "is linked to",
+      "circular economy"
+    ],
+    [
+      "unsafe working conditions",
+      "offers eco-friendly alternatives to",
+      "eco-friendly alternatives"
+    ],
+    [
+      "unsafe working conditions",
+      "results in",
+      "clothing lifespan"
+    ],
+    [
+      "unsafe working conditions",
+      "results in",
+      "negative effects"
+    ],
+    [
+      "waste reduction",
+      "enhances",
+      "clothing longevity"
+    ],
+    [
+      "waste reduction",
+      "enhances",
+      "organic materials"
+    ],
+    [
+      "waste reduction",
+      "enhances",
+      "sustainability"
+    ],
+    [
+      "waste reduction",
+      "exacerbates",
+      "unsafe working conditions"
+    ],
+    [
+      "waste reduction",
+      "is a goal of",
+      "potential solutions"
+    ],
+    [
+      "waste reduction",
+      "is addressed by",
+      "fast fashion"
+    ],
+    [
+      "waste reduction",
+      "is reduced by",
+      "environmental pollution"
+    ],
+    [
+      "waste reduction",
+      "mitigates",
+      "production impact"
+    ],
+    [
+      "waste reduction",
+      "reduces",
+      "clothing lifecycle"
+    ],
+    [
+      "waste reduction",
+      "reduces",
+      "excessive consumption"
+    ],
+    [
+      "waste reduction",
+      "results in",
+      "environmental degradation"
+    ],
+    [
+      "waste reduction",
+      "supports",
+      "eco-friendly alternatives"
+    ],
+    [
+      "water scarcity",
+      "contributes to",
+      "clothing disposal"
+    ],
+    [
+      "water scarcity",
+      "contributes to",
+      "eco-friendly practices"
+    ],
+    [
+      "water scarcity",
+      "contributes to",
+      "ethical fashion"
+    ],
+    [
+      "water scarcity",
+      "contributes to",
+      "material sourcing"
+    ],
+    [
+      "water scarcity",
+      "contributes to",
+      "waste reduction"
+    ],
+    [
+      "water scarcity",
+      "exacerbates",
+      "clothing lifecycle"
+    ],
+    [
+      "water scarcity",
+      "exacerbates",
+      "industry waste"
+    ],
+    [
+      "water scarcity",
+      "exacerbates",
+      "sustainable fashion"
+    ],
+    [
+      "water scarcity",
+      "exacerbates",
+      "textile waste"
+    ],
+    [
+      "water scarcity",
+      "is a result of",
+      "negative effects"
+    ],
+    [
+      "water scarcity",
+      "is affected by",
+      "fashion ecosystem"
+    ],
+    [
+      "water scarcity",
+      "is affected by",
+      "garment production"
+    ],
+    [
+      "water scarcity",
+      "is exacerbated by",
+      "environmental pollution"
+    ],
+    [
+      "water scarcity",
+      "is impacted by",
+      "greenhouse gas emissions"
+    ],
+    [
+      "water scarcity",
+      "is impacted by",
+      "mindful consumption"
+    ],
+    [
+      "water scarcity",
+      "is influenced by",
+      "industry practices"
+    ],
+    [
+      "water scarcity",
+      "is linked to",
+      "carbon emissions"
+    ],
+    [
+      "water scarcity",
+      "is linked to",
+      "recycled materials"
+    ],
+    [
+      "water scarcity",
+      "is linked to",
+      "renewable resources"
+    ],
+    [
+      "water scarcity",
+      "is mitigated by",
+      "organic materials"
+    ]
+  ],
+  "edges": [
+    "addresses",
+    "advocates for",
+    "affects",
+    "affects clothing disposal",
+    "affects clothing longevity",
+    "caused by",
+    "causes",
+    "competes with",
+    "contains",
+    "contrasts with",
+    "contributes to",
+    "defines",
+    "demands",
+    "depends on",
+    "derived from",
+    "driven by",
+    "drives",
+    "enables",
+    "encourages",
+    "enhances",
+    "exacerbated by",
+    "exacerbates",
+    "exploits",
+    "extends",
+    "facilitates",
+    "fills",
+    "generates",
+    "highlights",
+    "impacts",
+    "impacts clothing longevity",
+    "improves",
+    "includes",
+    "incorporates",
+    "increases",
+    "influences",
+    "informs",
+    "involves",
+    "is a concern for",
+    "is a consequence of",
+    "is a factor in",
+    "is a goal of",
+    "is a part of",
+    "is a response to",
+    "is a result of",
+    "is a source of",
+    "is addressed by",
+    "is affected by",
+    "is an alternative to",
+    "is associated with",
+    "is caused by",
+    "is characterized by",
+    "is connected to",
+    "is considered in",
+    "is contrasted with",
+    "is countered by",
+    "is dependent on",
+    "is derived from",
+    "is disposed of in",
+    "is driven by",
+    "is enhanced by",
+    "is essential for",
+    "is exacerbated by",
+    "is exploited by",
+    "is generated by",
+    "is guided by",
+    "is highlighted by",
+    "is impacted by",
+    "is improved by",
+    "is influenced by",
+    "is linked to",
+    "is made from",
+    "is mitigated by",
+    "is opposed to",
+    "is part of",
+    "is produced by",
+    "is promoted by",
+    "is questioned by",
+    "is reduced by",
+    "is related to",
+    "is reliant on",
+    "is shaped by",
+    "is sought by",
+    "is sourced from",
+    "is supported by",
+    "is sustained by",
+    "is utilized in",
+    "is worsened by",
+    "leads to",
+    "linked to",
+    "mitigated by",
+    "mitigates",
+    "occupies",
+    "offers",
+    "offers alternatives to",
+    "offers eco-friendly alternatives to",
+    "opposes",
+    "produces",
+    "promotes",
+    "promotes sustainability in",
+    "provides",
+    "raises",
+    "raises ethical considerations for",
+    "reduces",
+    "relates to",
+    "relies on",
+    "requires",
+    "result of",
+    "results from",
+    "results in",
+    "shapes",
+    "supports",
+    "utilizes"
+  ]
+}

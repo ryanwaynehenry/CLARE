@@ -1,0 +1,4993 @@
+{
+  "entities": [
+    "amygdala",
+    "attention",
+    "brain activity",
+    "brain regions",
+    "cerebellum",
+    "cognitive performance",
+    "cognitive processes",
+    "complexities of memory",
+    "connections between neurons",
+    "decision-making",
+    "electroencephalography",
+    "emotion",
+    "emotionally charged events",
+    "encoding process",
+    "enhancing memory function",
+    "episodic memories",
+    "external stimuli",
+    "focused attention",
+    "functional magnetic resonance imaging",
+    "hippocampus",
+    "information filtering",
+    "information retention",
+    "insights into memory",
+    "learning",
+    "learning processes",
+    "limbic structures",
+    "long-term potentiation",
+    "memory consolidation",
+    "memory disorders",
+    "memory formation",
+    "memory processing",
+    "memory tasks",
+    "memory traces",
+    "motor cortex",
+    "neocortex",
+    "neural mechanisms",
+    "neural networks",
+    "neuroimaging techniques",
+    "neutral events",
+    "overall well-being",
+    "perception",
+    "permanent storage",
+    "prefrontal cortex",
+    "prioritizing information",
+    "procedural memories",
+    "processing memories",
+    "reactivation",
+    "retrieval process",
+    "sensory information",
+    "sleep",
+    "stages of sleep",
+    "strengthening memories",
+    "synapses",
+    "synaptic plasticity",
+    "temporary storage",
+    "unlocking memory potential"
+  ],
+  "relations": [
+    [
+      "amygdala",
+      "activated by",
+      "reactivation"
+    ],
+    [
+      "amygdala",
+      "activates",
+      "cognitive processes"
+    ],
+    [
+      "amygdala",
+      "activates",
+      "emotionally charged events"
+    ],
+    [
+      "amygdala",
+      "enhances",
+      "hippocampus"
+    ],
+    [
+      "amygdala",
+      "influences",
+      "cognitive performance"
+    ],
+    [
+      "amygdala",
+      "influences",
+      "electroencephalography"
+    ],
+    [
+      "amygdala",
+      "influences",
+      "episodic memories"
+    ],
+    [
+      "amygdala",
+      "influences",
+      "insights into memory"
+    ],
+    [
+      "amygdala",
+      "influences",
+      "neuroimaging techniques"
+    ],
+    [
+      "amygdala",
+      "influences",
+      "procedural memories"
+    ],
+    [
+      "amygdala",
+      "influences",
+      "sleep"
+    ],
+    [
+      "amygdala",
+      "interacts with",
+      "neocortex"
+    ],
+    [
+      "amygdala",
+      "interacts with",
+      "neural networks"
+    ],
+    [
+      "amygdala",
+      "processed by",
+      "processing memories"
+    ],
+    [
+      "amygdala",
+      "processes",
+      "sensory information"
+    ],
+    [
+      "amygdala",
+      "supports",
+      "overall well-being"
+    ],
+    [
+      "attention",
+      "affects",
+      "amygdala"
+    ],
+    [
+      "attention",
+      "aids in",
+      "prioritizing information"
+    ],
+    [
+      "attention",
+      "enhances",
+      "brain regions"
+    ],
+    [
+      "attention",
+      "enhances",
+      "cerebellum"
+    ],
+    [
+      "attention",
+      "enhances",
+      "hippocampus"
+    ],
+    [
+      "attention",
+      "influences",
+      "decision-making"
+    ],
+    [
+      "attention",
+      "influences",
+      "motor cortex"
+    ],
+    [
+      "attention",
+      "influences",
+      "sleep"
+    ],
+    [
+      "attention",
+      "involves",
+      "neural mechanisms"
+    ],
+    [
+      "attention",
+      "measured by",
+      "electroencephalography"
+    ],
+    [
+      "attention",
+      "processes",
+      "sensory information"
+    ],
+    [
+      "attention",
+      "requires",
+      "procedural memories"
+    ],
+    [
+      "attention",
+      "supports",
+      "neural networks"
+    ],
+    [
+      "brain activity",
+      "affected by",
+      "overall well-being"
+    ],
+    [
+      "brain activity",
+      "affects",
+      "attention"
+    ],
+    [
+      "brain activity",
+      "affects",
+      "emotion"
+    ],
+    [
+      "brain activity",
+      "indicates",
+      "perception"
+    ],
+    [
+      "brain activity",
+      "indicates",
+      "synapses"
+    ],
+    [
+      "brain activity",
+      "influences",
+      "complexities of memory"
+    ],
+    [
+      "brain activity",
+      "influences",
+      "processing memories"
+    ],
+    [
+      "brain activity",
+      "involves",
+      "brain regions"
+    ],
+    [
+      "brain activity",
+      "is affected by",
+      "memory processing"
+    ],
+    [
+      "brain activity",
+      "is analyzed through",
+      "insights into memory"
+    ],
+    [
+      "brain activity",
+      "is influenced by",
+      "prioritizing information"
+    ],
+    [
+      "brain activity",
+      "is recorded by",
+      "electroencephalography"
+    ],
+    [
+      "brain activity",
+      "is reflected in",
+      "connections between neurons"
+    ],
+    [
+      "brain activity",
+      "is reflected in",
+      "neural mechanisms"
+    ],
+    [
+      "brain activity",
+      "measures",
+      "neuroimaging techniques"
+    ],
+    [
+      "brain activity",
+      "observed in",
+      "functional magnetic resonance imaging"
+    ],
+    [
+      "brain activity",
+      "reflected in",
+      "memory disorders"
+    ],
+    [
+      "brain activity",
+      "reflected in",
+      "memory traces"
+    ],
+    [
+      "brain activity",
+      "reflects",
+      "neocortex"
+    ],
+    [
+      "brain activity",
+      "reflects",
+      "permanent storage"
+    ],
+    [
+      "brain activity",
+      "reflects",
+      "prefrontal cortex"
+    ],
+    [
+      "brain regions",
+      "involves",
+      "memory formation"
+    ],
+    [
+      "brain regions",
+      "is analyzed by",
+      "information filtering"
+    ],
+    [
+      "brain regions",
+      "is associated with",
+      "emotion"
+    ],
+    [
+      "brain regions",
+      "part of",
+      "hippocampus"
+    ],
+    [
+      "brain regions",
+      "process sensory information",
+      "sensory information"
+    ],
+    [
+      "cerebellum",
+      "associated with",
+      "brain regions"
+    ],
+    [
+      "cerebellum",
+      "enables",
+      "synaptic plasticity"
+    ],
+    [
+      "cerebellum",
+      "enhances",
+      "focused attention"
+    ],
+    [
+      "cerebellum",
+      "enhances",
+      "strengthening memories"
+    ],
+    [
+      "cerebellum",
+      "influenced by",
+      "perception"
+    ],
+    [
+      "cerebellum",
+      "interacts with",
+      "amygdala"
+    ],
+    [
+      "cerebellum",
+      "involved in",
+      "neuroimaging techniques"
+    ],
+    [
+      "cerebellum",
+      "is associated with",
+      "retrieval process"
+    ],
+    [
+      "cerebellum",
+      "is enhanced by",
+      "long-term potentiation"
+    ],
+    [
+      "cerebellum",
+      "is involved in",
+      "memory formation"
+    ],
+    [
+      "cerebellum",
+      "is processed by",
+      "information filtering"
+    ],
+    [
+      "cerebellum",
+      "processes",
+      "sensory information"
+    ],
+    [
+      "cerebellum",
+      "supports",
+      "cognitive processes"
+    ],
+    [
+      "cerebellum",
+      "supports",
+      "enhancing memory function"
+    ],
+    [
+      "cognitive performance",
+      "enhances",
+      "attention"
+    ],
+    [
+      "cognitive performance",
+      "enhances",
+      "complexities of memory"
+    ],
+    [
+      "cognitive performance",
+      "enhances",
+      "connections between neurons"
+    ],
+    [
+      "cognitive performance",
+      "enhances",
+      "decision-making"
+    ],
+    [
+      "cognitive performance",
+      "enhances",
+      "emotionally charged events"
+    ],
+    [
+      "cognitive performance",
+      "enhances",
+      "insights into memory"
+    ],
+    [
+      "cognitive performance",
+      "enhances",
+      "limbic structures"
+    ],
+    [
+      "cognitive performance",
+      "enhances",
+      "procedural memories"
+    ],
+    [
+      "cognitive performance",
+      "impacts",
+      "memory disorders"
+    ],
+    [
+      "cognitive performance",
+      "impacts",
+      "neutral events"
+    ],
+    [
+      "cognitive performance",
+      "improves",
+      "memory traces"
+    ],
+    [
+      "cognitive performance",
+      "improves",
+      "prioritizing information"
+    ],
+    [
+      "cognitive performance",
+      "is enhanced by",
+      "cognitive processes"
+    ],
+    [
+      "cognitive performance",
+      "is improved by",
+      "focused attention"
+    ],
+    [
+      "cognitive processes",
+      "affects",
+      "perception"
+    ],
+    [
+      "cognitive processes",
+      "affects",
+      "prioritizing information"
+    ],
+    [
+      "cognitive processes",
+      "enhances",
+      "emotionally charged events"
+    ],
+    [
+      "cognitive processes",
+      "improves",
+      "enhancing memory function"
+    ],
+    [
+      "cognitive processes",
+      "improves",
+      "strengthening memories"
+    ],
+    [
+      "cognitive processes",
+      "influences",
+      "external stimuli"
+    ],
+    [
+      "cognitive processes",
+      "informs",
+      "complexities of memory"
+    ],
+    [
+      "cognitive processes",
+      "involves",
+      "decision-making"
+    ],
+    [
+      "cognitive processes",
+      "involves",
+      "hippocampus"
+    ],
+    [
+      "cognitive processes",
+      "provides",
+      "insights into memory"
+    ],
+    [
+      "cognitive processes",
+      "requires",
+      "attention"
+    ],
+    [
+      "complexities of memory",
+      "enhances",
+      "enhancing memory function"
+    ],
+    [
+      "complexities of memory",
+      "facilitates",
+      "long-term potentiation"
+    ],
+    [
+      "complexities of memory",
+      "influences",
+      "decision-making"
+    ],
+    [
+      "complexities of memory",
+      "is clarified by",
+      "strengthening memories"
+    ],
+    [
+      "complexities of memory",
+      "is derived from",
+      "sensory information"
+    ],
+    [
+      "complexities of memory",
+      "is influenced by",
+      "emotion"
+    ],
+    [
+      "complexities of memory",
+      "is related to",
+      "retrieval process"
+    ],
+    [
+      "complexities of memory",
+      "is stored in",
+      "temporary storage"
+    ],
+    [
+      "connections between neurons",
+      "affects",
+      "emotion"
+    ],
+    [
+      "connections between neurons",
+      "connects",
+      "decision-making"
+    ],
+    [
+      "connections between neurons",
+      "contributes to",
+      "memory formation"
+    ],
+    [
+      "connections between neurons",
+      "enhances",
+      "enhancing memory function"
+    ],
+    [
+      "connections between neurons",
+      "facilitates",
+      "encoding process"
+    ],
+    [
+      "connections between neurons",
+      "facilitates",
+      "learning"
+    ],
+    [
+      "connections between neurons",
+      "facilitates",
+      "memory processing"
+    ],
+    [
+      "connections between neurons",
+      "influenced by",
+      "neuroimaging techniques"
+    ],
+    [
+      "connections between neurons",
+      "influences",
+      "cognitive processes"
+    ],
+    [
+      "connections between neurons",
+      "influences",
+      "perception"
+    ],
+    [
+      "connections between neurons",
+      "involves",
+      "learning processes"
+    ],
+    [
+      "connections between neurons",
+      "is influenced by",
+      "retrieval process"
+    ],
+    [
+      "connections between neurons",
+      "modifies",
+      "synaptic plasticity"
+    ],
+    [
+      "connections between neurons",
+      "represents",
+      "memory traces"
+    ],
+    [
+      "connections between neurons",
+      "represents",
+      "temporary storage"
+    ],
+    [
+      "connections between neurons",
+      "strengthens",
+      "strengthening memories"
+    ],
+    [
+      "connections between neurons",
+      "supports",
+      "information retention"
+    ],
+    [
+      "connections between neurons",
+      "underlies",
+      "neural mechanisms"
+    ],
+    [
+      "decision-making",
+      "affected by",
+      "sleep"
+    ],
+    [
+      "decision-making",
+      "affects",
+      "emotion"
+    ],
+    [
+      "decision-making",
+      "drives",
+      "neural mechanisms"
+    ],
+    [
+      "decision-making",
+      "enhanced by",
+      "strengthening memories"
+    ],
+    [
+      "decision-making",
+      "enhances",
+      "enhancing memory function"
+    ],
+    [
+      "decision-making",
+      "enhances",
+      "learning"
+    ],
+    [
+      "decision-making",
+      "enhances",
+      "long-term potentiation"
+    ],
+    [
+      "decision-making",
+      "enhances",
+      "neuroimaging techniques"
+    ],
+    [
+      "decision-making",
+      "influences",
+      "amygdala"
+    ],
+    [
+      "decision-making",
+      "influences",
+      "brain activity"
+    ],
+    [
+      "decision-making",
+      "influences",
+      "memory processing"
+    ],
+    [
+      "decision-making",
+      "influences",
+      "prioritizing information"
+    ],
+    [
+      "decision-making",
+      "influences decision-making",
+      "processing memories"
+    ],
+    [
+      "decision-making",
+      "involves",
+      "brain regions"
+    ],
+    [
+      "decision-making",
+      "involves",
+      "cerebellum"
+    ],
+    [
+      "decision-making",
+      "involves",
+      "motor cortex"
+    ],
+    [
+      "decision-making",
+      "involves",
+      "procedural memories"
+    ],
+    [
+      "decision-making",
+      "is guided by",
+      "external stimuli"
+    ],
+    [
+      "decision-making",
+      "is influenced by",
+      "memory traces"
+    ],
+    [
+      "decision-making",
+      "is influenced by",
+      "neural networks"
+    ],
+    [
+      "decision-making",
+      "is processed by",
+      "neocortex"
+    ],
+    [
+      "decision-making",
+      "requires",
+      "permanent storage"
+    ],
+    [
+      "decision-making",
+      "supports",
+      "memory formation"
+    ],
+    [
+      "decision-making",
+      "utilizes",
+      "electroencephalography"
+    ],
+    [
+      "electroencephalography",
+      "is measured by",
+      "brain regions"
+    ],
+    [
+      "electroencephalography",
+      "is measured by",
+      "neutral events"
+    ],
+    [
+      "electroencephalography",
+      "measured by",
+      "cognitive processes"
+    ],
+    [
+      "electroencephalography",
+      "measured by",
+      "perception"
+    ],
+    [
+      "electroencephalography",
+      "measures",
+      "focused attention"
+    ],
+    [
+      "electroencephalography",
+      "measures",
+      "memory processing"
+    ],
+    [
+      "electroencephalography",
+      "processes",
+      "sensory information"
+    ],
+    [
+      "electroencephalography",
+      "studies",
+      "neural mechanisms"
+    ],
+    [
+      "emotion",
+      "affects",
+      "attention"
+    ],
+    [
+      "emotion",
+      "affects",
+      "focused attention"
+    ],
+    [
+      "emotion",
+      "affects",
+      "memory tasks"
+    ],
+    [
+      "emotion",
+      "affects",
+      "overall well-being"
+    ],
+    [
+      "emotion",
+      "affects",
+      "procedural memories"
+    ],
+    [
+      "emotion",
+      "affects",
+      "sensory information"
+    ],
+    [
+      "emotion",
+      "affects",
+      "sleep"
+    ],
+    [
+      "emotion",
+      "affects",
+      "synapses"
+    ],
+    [
+      "emotion",
+      "aids in",
+      "prioritizing information"
+    ],
+    [
+      "emotion",
+      "contributes to",
+      "memory disorders"
+    ],
+    [
+      "emotion",
+      "enhances",
+      "amygdala"
+    ],
+    [
+      "emotion",
+      "enhances",
+      "learning"
+    ],
+    [
+      "emotion",
+      "enhances",
+      "strengthening memories"
+    ],
+    [
+      "emotion",
+      "improves",
+      "enhancing memory function"
+    ],
+    [
+      "emotion",
+      "influenced by",
+      "cerebellum"
+    ],
+    [
+      "emotion",
+      "modulates",
+      "synaptic plasticity"
+    ],
+    [
+      "emotion",
+      "stimulates",
+      "external stimuli"
+    ],
+    [
+      "emotionally charged events",
+      "activates",
+      "brain regions"
+    ],
+    [
+      "emotionally charged events",
+      "activates",
+      "neural networks"
+    ],
+    [
+      "emotionally charged events",
+      "contributes to",
+      "overall well-being"
+    ],
+    [
+      "emotionally charged events",
+      "enhances",
+      "attention"
+    ],
+    [
+      "emotionally charged events",
+      "enhances",
+      "focused attention"
+    ],
+    [
+      "emotionally charged events",
+      "enhances",
+      "memory tasks"
+    ],
+    [
+      "emotionally charged events",
+      "enhances",
+      "neocortex"
+    ],
+    [
+      "emotionally charged events",
+      "enhances",
+      "neural mechanisms"
+    ],
+    [
+      "emotionally charged events",
+      "enhances",
+      "synaptic plasticity"
+    ],
+    [
+      "emotionally charged events",
+      "enhances prioritization of",
+      "prioritizing information"
+    ],
+    [
+      "emotionally charged events",
+      "enhances strengthening",
+      "strengthening memories"
+    ],
+    [
+      "emotionally charged events",
+      "exacerbates",
+      "memory disorders"
+    ],
+    [
+      "emotionally charged events",
+      "facilitates",
+      "learning"
+    ],
+    [
+      "emotionally charged events",
+      "facilitates",
+      "sleep"
+    ],
+    [
+      "emotionally charged events",
+      "improves",
+      "enhancing memory function"
+    ],
+    [
+      "emotionally charged events",
+      "influences",
+      "brain activity"
+    ],
+    [
+      "emotionally charged events",
+      "influences",
+      "cerebellum"
+    ],
+    [
+      "emotionally charged events",
+      "influences",
+      "hippocampus"
+    ],
+    [
+      "emotionally charged events",
+      "is influenced by",
+      "unlocking memory potential"
+    ],
+    [
+      "emotionally charged events",
+      "is measured by",
+      "electroencephalography"
+    ],
+    [
+      "emotionally charged events",
+      "processed by",
+      "prefrontal cortex"
+    ],
+    [
+      "emotionally charged events",
+      "represents",
+      "memory traces"
+    ],
+    [
+      "emotionally charged events",
+      "strengthens",
+      "synapses"
+    ],
+    [
+      "encoding process",
+      "enhances",
+      "strengthening memories"
+    ],
+    [
+      "encoding process",
+      "facilitates",
+      "learning"
+    ],
+    [
+      "encoding process",
+      "improves",
+      "enhancing memory function"
+    ],
+    [
+      "encoding process",
+      "influenced by",
+      "stages of sleep"
+    ],
+    [
+      "encoding process",
+      "informs",
+      "decision-making"
+    ],
+    [
+      "encoding process",
+      "involves",
+      "amygdala"
+    ],
+    [
+      "encoding process",
+      "involves",
+      "information filtering"
+    ],
+    [
+      "encoding process",
+      "involves",
+      "memory processing"
+    ],
+    [
+      "encoding process",
+      "involves",
+      "neocortex"
+    ],
+    [
+      "encoding process",
+      "involves",
+      "neural mechanisms"
+    ],
+    [
+      "encoding process",
+      "involves",
+      "synaptic plasticity"
+    ],
+    [
+      "encoding process",
+      "is affected by",
+      "sleep"
+    ],
+    [
+      "encoding process",
+      "is influenced by",
+      "brain activity"
+    ],
+    [
+      "encoding process",
+      "is processed by",
+      "motor cortex"
+    ],
+    [
+      "encoding process",
+      "requires",
+      "focused attention"
+    ],
+    [
+      "encoding process",
+      "supports",
+      "information retention"
+    ],
+    [
+      "encoding process",
+      "supports",
+      "memory consolidation"
+    ],
+    [
+      "encoding process",
+      "triggers",
+      "external stimuli"
+    ],
+    [
+      "encoding process",
+      "utilizes",
+      "neural networks"
+    ],
+    [
+      "enhancing memory function",
+      "affects",
+      "brain regions"
+    ],
+    [
+      "enhancing memory function",
+      "contributes to",
+      "overall well-being"
+    ],
+    [
+      "enhancing memory function",
+      "enhances",
+      "prefrontal cortex"
+    ],
+    [
+      "enhancing memory function",
+      "enhances",
+      "procedural memories"
+    ],
+    [
+      "enhancing memory function",
+      "facilitates",
+      "reactivation"
+    ],
+    [
+      "enhancing memory function",
+      "improves",
+      "cognitive performance"
+    ],
+    [
+      "enhancing memory function",
+      "improves",
+      "focused attention"
+    ],
+    [
+      "enhancing memory function",
+      "improves",
+      "information retention"
+    ],
+    [
+      "enhancing memory function",
+      "improves",
+      "learning"
+    ],
+    [
+      "enhancing memory function",
+      "improves",
+      "memory processing"
+    ],
+    [
+      "enhancing memory function",
+      "improves",
+      "memory tasks"
+    ],
+    [
+      "enhancing memory function",
+      "improves",
+      "motor cortex"
+    ],
+    [
+      "enhancing memory function",
+      "improves",
+      "sleep"
+    ],
+    [
+      "enhancing memory function",
+      "improves",
+      "strengthening memories"
+    ],
+    [
+      "enhancing memory function",
+      "improves",
+      "synaptic plasticity"
+    ],
+    [
+      "enhancing memory function",
+      "improves",
+      "temporary storage"
+    ],
+    [
+      "enhancing memory function",
+      "involves",
+      "neural mechanisms"
+    ],
+    [
+      "enhancing memory function",
+      "is related to",
+      "memory disorders"
+    ],
+    [
+      "enhancing memory function",
+      "is related to",
+      "neocortex"
+    ],
+    [
+      "enhancing memory function",
+      "strengthens",
+      "synapses"
+    ],
+    [
+      "enhancing memory function",
+      "supports",
+      "neural networks"
+    ],
+    [
+      "episodic memories",
+      "analyzes",
+      "neuroimaging techniques"
+    ],
+    [
+      "episodic memories",
+      "associated with",
+      "functional magnetic resonance imaging"
+    ],
+    [
+      "episodic memories",
+      "associated with",
+      "memory traces"
+    ],
+    [
+      "episodic memories",
+      "compared to",
+      "procedural memories"
+    ],
+    [
+      "episodic memories",
+      "contrasts with",
+      "neutral events"
+    ],
+    [
+      "episodic memories",
+      "enhances",
+      "attention"
+    ],
+    [
+      "episodic memories",
+      "enhances",
+      "cognitive performance"
+    ],
+    [
+      "episodic memories",
+      "enhances",
+      "learning"
+    ],
+    [
+      "episodic memories",
+      "influences",
+      "emotion"
+    ],
+    [
+      "episodic memories",
+      "influences",
+      "overall well-being"
+    ],
+    [
+      "episodic memories",
+      "involves",
+      "decision-making"
+    ],
+    [
+      "episodic memories",
+      "involves",
+      "retrieval process"
+    ],
+    [
+      "episodic memories",
+      "involves",
+      "unlocking memory potential"
+    ],
+    [
+      "episodic memories",
+      "is formed from",
+      "encoding process"
+    ],
+    [
+      "episodic memories",
+      "is informed by",
+      "insights into memory"
+    ],
+    [
+      "episodic memories",
+      "is recorded by",
+      "electroencephalography"
+    ],
+    [
+      "episodic memories",
+      "is related to",
+      "external stimuli"
+    ],
+    [
+      "episodic memories",
+      "related to",
+      "memory tasks"
+    ],
+    [
+      "episodic memories",
+      "relies on",
+      "connections between neurons"
+    ],
+    [
+      "episodic memories",
+      "stored as",
+      "sensory information"
+    ],
+    [
+      "episodic memories",
+      "stored in",
+      "permanent storage"
+    ],
+    [
+      "episodic memories",
+      "stores",
+      "brain regions"
+    ],
+    [
+      "episodic memories",
+      "stores",
+      "cerebellum"
+    ],
+    [
+      "episodic memories",
+      "type of",
+      "emotionally charged events"
+    ],
+    [
+      "episodic memories",
+      "utilizes",
+      "neural networks"
+    ],
+    [
+      "external stimuli",
+      "affects",
+      "brain activity"
+    ],
+    [
+      "external stimuli",
+      "affects",
+      "cognitive performance"
+    ],
+    [
+      "external stimuli",
+      "affects",
+      "overall well-being"
+    ],
+    [
+      "external stimuli",
+      "affects",
+      "synapses"
+    ],
+    [
+      "external stimuli",
+      "analyzes",
+      "neuroimaging techniques"
+    ],
+    [
+      "external stimuli",
+      "explored through",
+      "neural mechanisms"
+    ],
+    [
+      "external stimuli",
+      "filtered by",
+      "attention"
+    ],
+    [
+      "external stimuli",
+      "improves",
+      "focused attention"
+    ],
+    [
+      "external stimuli",
+      "influences",
+      "prioritizing information"
+    ],
+    [
+      "external stimuli",
+      "influences",
+      "unlocking memory potential"
+    ],
+    [
+      "external stimuli",
+      "is measured by",
+      "electroencephalography"
+    ],
+    [
+      "external stimuli",
+      "processed by",
+      "hippocampus"
+    ],
+    [
+      "external stimuli",
+      "processed by",
+      "motor cortex"
+    ],
+    [
+      "external stimuli",
+      "processes",
+      "brain regions"
+    ],
+    [
+      "external stimuli",
+      "processes",
+      "cerebellum"
+    ],
+    [
+      "external stimuli",
+      "provides",
+      "sensory information"
+    ],
+    [
+      "external stimuli",
+      "provides insights into",
+      "insights into memory"
+    ],
+    [
+      "external stimuli",
+      "stimulates",
+      "memory traces"
+    ],
+    [
+      "external stimuli",
+      "triggers",
+      "reactivation"
+    ],
+    [
+      "external stimuli",
+      "utilized in",
+      "memory tasks"
+    ],
+    [
+      "focused attention",
+      "activates",
+      "amygdala"
+    ],
+    [
+      "focused attention",
+      "affects",
+      "sleep"
+    ],
+    [
+      "focused attention",
+      "affects",
+      "stages of sleep"
+    ],
+    [
+      "focused attention",
+      "connects",
+      "neural networks"
+    ],
+    [
+      "focused attention",
+      "contributes to",
+      "strengthening memories"
+    ],
+    [
+      "focused attention",
+      "enhanced by",
+      "functional magnetic resonance imaging"
+    ],
+    [
+      "focused attention",
+      "enhanced by",
+      "memory processing"
+    ],
+    [
+      "focused attention",
+      "enhances",
+      "cognitive performance"
+    ],
+    [
+      "focused attention",
+      "enhances",
+      "complexities of memory"
+    ],
+    [
+      "focused attention",
+      "enhances",
+      "learning"
+    ],
+    [
+      "focused attention",
+      "enhances",
+      "synaptic plasticity"
+    ],
+    [
+      "focused attention",
+      "facilitates",
+      "reactivation"
+    ],
+    [
+      "focused attention",
+      "influences",
+      "motor cortex"
+    ],
+    [
+      "focused attention",
+      "influences",
+      "neocortex"
+    ],
+    [
+      "focused attention",
+      "involves",
+      "neural mechanisms"
+    ],
+    [
+      "focused attention",
+      "involves",
+      "prefrontal cortex"
+    ],
+    [
+      "focused attention",
+      "is influenced by",
+      "connections between neurons"
+    ],
+    [
+      "focused attention",
+      "processes",
+      "hippocampus"
+    ],
+    [
+      "focused attention",
+      "reflects",
+      "brain activity"
+    ],
+    [
+      "focused attention",
+      "requires",
+      "cognitive processes"
+    ],
+    [
+      "focused attention",
+      "requires",
+      "decision-making"
+    ],
+    [
+      "focused attention",
+      "requires",
+      "procedural memories"
+    ],
+    [
+      "focused attention",
+      "strengthens",
+      "synapses"
+    ],
+    [
+      "focused attention",
+      "supports",
+      "episodic memories"
+    ],
+    [
+      "focused attention",
+      "supports",
+      "overall well-being"
+    ],
+    [
+      "functional magnetic resonance imaging",
+      "affects",
+      "overall well-being"
+    ],
+    [
+      "functional magnetic resonance imaging",
+      "analyzes",
+      "external stimuli"
+    ],
+    [
+      "functional magnetic resonance imaging",
+      "analyzes",
+      "memory processing"
+    ],
+    [
+      "functional magnetic resonance imaging",
+      "assists",
+      "attention"
+    ],
+    [
+      "functional magnetic resonance imaging",
+      "enhances",
+      "cognitive performance"
+    ],
+    [
+      "functional magnetic resonance imaging",
+      "is involved in",
+      "encoding process"
+    ],
+    [
+      "functional magnetic resonance imaging",
+      "observed during",
+      "memory tasks"
+    ],
+    [
+      "functional magnetic resonance imaging",
+      "provides",
+      "insights into memory"
+    ],
+    [
+      "functional magnetic resonance imaging",
+      "provides insights into",
+      "cognitive processes"
+    ],
+    [
+      "functional magnetic resonance imaging",
+      "provides insights into",
+      "neural networks"
+    ],
+    [
+      "functional magnetic resonance imaging",
+      "studies",
+      "sleep"
+    ],
+    [
+      "functional magnetic resonance imaging",
+      "used in",
+      "processing memories"
+    ],
+    [
+      "functional magnetic resonance imaging",
+      "used to study",
+      "emotionally charged events"
+    ],
+    [
+      "functional magnetic resonance imaging",
+      "utilizes",
+      "perception"
+    ],
+    [
+      "functional magnetic resonance imaging",
+      "visualized by",
+      "decision-making"
+    ],
+    [
+      "hippocampus",
+      "activates",
+      "brain activity"
+    ],
+    [
+      "hippocampus",
+      "facilitates",
+      "strengthening memories"
+    ],
+    [
+      "hippocampus",
+      "filters information for",
+      "information filtering"
+    ],
+    [
+      "hippocampus",
+      "influences",
+      "decision-making"
+    ],
+    [
+      "hippocampus",
+      "influences",
+      "synaptic plasticity"
+    ],
+    [
+      "hippocampus",
+      "interacts with",
+      "cerebellum"
+    ],
+    [
+      "hippocampus",
+      "involves",
+      "memory consolidation"
+    ],
+    [
+      "hippocampus",
+      "involves",
+      "stages of sleep"
+    ],
+    [
+      "hippocampus",
+      "is facilitated by",
+      "long-term potentiation"
+    ],
+    [
+      "hippocampus",
+      "is involved in",
+      "temporary storage"
+    ],
+    [
+      "hippocampus",
+      "is processed by",
+      "memory processing"
+    ],
+    [
+      "hippocampus",
+      "is processed by",
+      "prioritizing information"
+    ],
+    [
+      "hippocampus",
+      "is studied by",
+      "electroencephalography"
+    ],
+    [
+      "hippocampus",
+      "processed by",
+      "emotion"
+    ],
+    [
+      "hippocampus",
+      "processed by",
+      "neutral events"
+    ],
+    [
+      "hippocampus",
+      "processes",
+      "connections between neurons"
+    ],
+    [
+      "hippocampus",
+      "processes",
+      "memory tasks"
+    ],
+    [
+      "hippocampus",
+      "provides insights into",
+      "insights into memory"
+    ],
+    [
+      "hippocampus",
+      "relies on",
+      "cognitive performance"
+    ],
+    [
+      "hippocampus",
+      "stored in",
+      "episodic memories"
+    ],
+    [
+      "hippocampus",
+      "stored in",
+      "procedural memories"
+    ],
+    [
+      "hippocampus",
+      "supports",
+      "enhancing memory function"
+    ],
+    [
+      "hippocampus",
+      "supports",
+      "overall well-being"
+    ],
+    [
+      "hippocampus",
+      "used in",
+      "functional magnetic resonance imaging"
+    ],
+    [
+      "information filtering",
+      "affects",
+      "emotionally charged events"
+    ],
+    [
+      "information filtering",
+      "affects",
+      "overall well-being"
+    ],
+    [
+      "information filtering",
+      "aids",
+      "reactivation"
+    ],
+    [
+      "information filtering",
+      "contributes to",
+      "memory disorders"
+    ],
+    [
+      "information filtering",
+      "enhances",
+      "cognitive performance"
+    ],
+    [
+      "information filtering",
+      "enhances",
+      "focused attention"
+    ],
+    [
+      "information filtering",
+      "enhances",
+      "long-term potentiation"
+    ],
+    [
+      "information filtering",
+      "enhances",
+      "unlocking memory potential"
+    ],
+    [
+      "information filtering",
+      "enhances strengthening",
+      "strengthening memories"
+    ],
+    [
+      "information filtering",
+      "filters for",
+      "sensory information"
+    ],
+    [
+      "information filtering",
+      "improves",
+      "enhancing memory function"
+    ],
+    [
+      "information filtering",
+      "influenced by",
+      "sleep"
+    ],
+    [
+      "information filtering",
+      "influences",
+      "amygdala"
+    ],
+    [
+      "information filtering",
+      "influences",
+      "connections between neurons"
+    ],
+    [
+      "information filtering",
+      "influences",
+      "emotion"
+    ],
+    [
+      "information filtering",
+      "involves",
+      "cognitive processes"
+    ],
+    [
+      "information filtering",
+      "involves",
+      "motor cortex"
+    ],
+    [
+      "information filtering",
+      "involves",
+      "synapses"
+    ],
+    [
+      "information filtering",
+      "involves",
+      "temporary storage"
+    ],
+    [
+      "information filtering",
+      "is crucial for",
+      "memory processing"
+    ],
+    [
+      "information filtering",
+      "is essential for",
+      "memory formation"
+    ],
+    [
+      "information filtering",
+      "is performed by",
+      "prefrontal cortex"
+    ],
+    [
+      "information filtering",
+      "prioritizes",
+      "prioritizing information"
+    ],
+    [
+      "information filtering",
+      "supports",
+      "information retention"
+    ],
+    [
+      "information filtering",
+      "utilizes",
+      "functional magnetic resonance imaging"
+    ],
+    [
+      "information filtering",
+      "utilizes",
+      "neural mechanisms"
+    ],
+    [
+      "information retention",
+      "contributes to",
+      "processing memories"
+    ],
+    [
+      "information retention",
+      "enhanced by",
+      "insights into memory"
+    ],
+    [
+      "information retention",
+      "enhanced by",
+      "sleep"
+    ],
+    [
+      "information retention",
+      "is retained by",
+      "cognitive processes"
+    ],
+    [
+      "information retention",
+      "is retained by",
+      "episodic memories"
+    ],
+    [
+      "information retention",
+      "is retained by",
+      "strengthening memories"
+    ],
+    [
+      "information retention",
+      "supports",
+      "perception"
+    ],
+    [
+      "insights into memory",
+      "facilitates",
+      "reactivation"
+    ],
+    [
+      "insights into memory",
+      "offers",
+      "connections between neurons"
+    ],
+    [
+      "insights into memory",
+      "provides",
+      "decision-making"
+    ],
+    [
+      "insights into memory",
+      "provides",
+      "emotionally charged events"
+    ],
+    [
+      "insights into memory",
+      "provides",
+      "encoding process"
+    ],
+    [
+      "insights into memory",
+      "provides",
+      "information filtering"
+    ],
+    [
+      "insights into memory",
+      "provides",
+      "learning processes"
+    ],
+    [
+      "insights into memory",
+      "provides",
+      "long-term potentiation"
+    ],
+    [
+      "insights into memory",
+      "provides",
+      "prefrontal cortex"
+    ],
+    [
+      "insights into memory",
+      "provides",
+      "retrieval process"
+    ],
+    [
+      "insights into memory",
+      "provides insights into",
+      "enhancing memory function"
+    ],
+    [
+      "insights into memory",
+      "provides insights into",
+      "memory processing"
+    ],
+    [
+      "insights into memory",
+      "provides insights into",
+      "memory traces"
+    ],
+    [
+      "insights into memory",
+      "provides insights into",
+      "procedural memories"
+    ],
+    [
+      "insights into memory",
+      "supports",
+      "memory consolidation"
+    ],
+    [
+      "learning",
+      "affects",
+      "synapses"
+    ],
+    [
+      "learning",
+      "depends on",
+      "episodic memories"
+    ],
+    [
+      "learning",
+      "enables",
+      "permanent storage"
+    ],
+    [
+      "learning",
+      "enhances",
+      "cognitive processes"
+    ],
+    [
+      "learning",
+      "facilitates",
+      "complexities of memory"
+    ],
+    [
+      "learning",
+      "influences",
+      "neocortex"
+    ],
+    [
+      "learning",
+      "is improved by",
+      "focused attention"
+    ],
+    [
+      "learning",
+      "is influenced by",
+      "synaptic plasticity"
+    ],
+    [
+      "learning",
+      "is processed by",
+      "motor cortex"
+    ],
+    [
+      "learning",
+      "is related to",
+      "neural mechanisms"
+    ],
+    [
+      "learning",
+      "utilizes",
+      "neural networks"
+    ],
+    [
+      "learning processes",
+      "affects",
+      "emotion"
+    ],
+    [
+      "learning processes",
+      "affects",
+      "overall well-being"
+    ],
+    [
+      "learning processes",
+      "enhanced by",
+      "cognitive performance"
+    ],
+    [
+      "learning processes",
+      "enhances",
+      "enhancing memory function"
+    ],
+    [
+      "learning processes",
+      "enhances",
+      "strengthening memories"
+    ],
+    [
+      "learning processes",
+      "filters sensory information for",
+      "sensory information"
+    ],
+    [
+      "learning processes",
+      "improves",
+      "information retention"
+    ],
+    [
+      "learning processes",
+      "influences",
+      "decision-making"
+    ],
+    [
+      "learning processes",
+      "influences",
+      "limbic structures"
+    ],
+    [
+      "learning processes",
+      "influences",
+      "stages of sleep"
+    ],
+    [
+      "learning processes",
+      "involves",
+      "cerebellum"
+    ],
+    [
+      "learning processes",
+      "involves",
+      "encoding process"
+    ],
+    [
+      "learning processes",
+      "involves",
+      "information filtering"
+    ],
+    [
+      "learning processes",
+      "involves",
+      "memory processing"
+    ],
+    [
+      "learning processes",
+      "involves",
+      "motor cortex"
+    ],
+    [
+      "learning processes",
+      "involves",
+      "neocortex"
+    ],
+    [
+      "learning processes",
+      "involves",
+      "prefrontal cortex"
+    ],
+    [
+      "learning processes",
+      "involves",
+      "synapses"
+    ],
+    [
+      "learning processes",
+      "involves",
+      "temporary storage"
+    ],
+    [
+      "learning processes",
+      "involves synaptic plasticity",
+      "synaptic plasticity"
+    ],
+    [
+      "learning processes",
+      "is influenced by",
+      "retrieval process"
+    ],
+    [
+      "learning processes",
+      "requires",
+      "focused attention"
+    ],
+    [
+      "learning processes",
+      "supports",
+      "memory consolidation"
+    ],
+    [
+      "limbic structures",
+      "affects",
+      "cognitive processes"
+    ],
+    [
+      "limbic structures",
+      "affects",
+      "complexities of memory"
+    ],
+    [
+      "limbic structures",
+      "affects",
+      "external stimuli"
+    ],
+    [
+      "limbic structures",
+      "contributes to",
+      "memory consolidation"
+    ],
+    [
+      "limbic structures",
+      "contributes to",
+      "memory formation"
+    ],
+    [
+      "limbic structures",
+      "enhances",
+      "emotionally charged events"
+    ],
+    [
+      "limbic structures",
+      "enhances",
+      "enhancing memory function"
+    ],
+    [
+      "limbic structures",
+      "enhances",
+      "insights into memory"
+    ],
+    [
+      "limbic structures",
+      "enhances",
+      "long-term potentiation"
+    ],
+    [
+      "limbic structures",
+      "facilitates",
+      "learning"
+    ],
+    [
+      "limbic structures",
+      "facilitates",
+      "memory processing"
+    ],
+    [
+      "limbic structures",
+      "facilitates",
+      "processing memories"
+    ],
+    [
+      "limbic structures",
+      "facilitates",
+      "reactivation"
+    ],
+    [
+      "limbic structures",
+      "facilitates",
+      "retrieval process"
+    ],
+    [
+      "limbic structures",
+      "facilitates unlocking of",
+      "unlocking memory potential"
+    ],
+    [
+      "limbic structures",
+      "forms",
+      "synapses"
+    ],
+    [
+      "limbic structures",
+      "influences",
+      "decision-making"
+    ],
+    [
+      "limbic structures",
+      "influences",
+      "emotion"
+    ],
+    [
+      "limbic structures",
+      "influences",
+      "encoding process"
+    ],
+    [
+      "limbic structures",
+      "influences",
+      "memory tasks"
+    ],
+    [
+      "limbic structures",
+      "influences",
+      "memory traces"
+    ],
+    [
+      "limbic structures",
+      "involves",
+      "information filtering"
+    ],
+    [
+      "limbic structures",
+      "involves",
+      "neural mechanisms"
+    ],
+    [
+      "limbic structures",
+      "is associated with",
+      "connections between neurons"
+    ],
+    [
+      "limbic structures",
+      "modulates",
+      "attention"
+    ],
+    [
+      "limbic structures",
+      "modulates",
+      "focused attention"
+    ],
+    [
+      "limbic structures",
+      "modulates",
+      "synaptic plasticity"
+    ],
+    [
+      "limbic structures",
+      "processes",
+      "sensory information"
+    ],
+    [
+      "limbic structures",
+      "supports",
+      "neural networks"
+    ],
+    [
+      "limbic structures",
+      "supports",
+      "permanent storage"
+    ],
+    [
+      "limbic structures",
+      "supports",
+      "prioritizing information"
+    ],
+    [
+      "limbic structures",
+      "supports",
+      "procedural memories"
+    ],
+    [
+      "long-term potentiation",
+      "affects",
+      "cognitive performance"
+    ],
+    [
+      "long-term potentiation",
+      "affects",
+      "emotion"
+    ],
+    [
+      "long-term potentiation",
+      "enhances",
+      "emotionally charged events"
+    ],
+    [
+      "long-term potentiation",
+      "enhances",
+      "enhancing memory function"
+    ],
+    [
+      "long-term potentiation",
+      "enhances",
+      "memory formation"
+    ],
+    [
+      "long-term potentiation",
+      "enhances",
+      "motor cortex"
+    ],
+    [
+      "long-term potentiation",
+      "enhances",
+      "processing memories"
+    ],
+    [
+      "long-term potentiation",
+      "enhances",
+      "reactivation"
+    ],
+    [
+      "long-term potentiation",
+      "facilitates",
+      "external stimuli"
+    ],
+    [
+      "long-term potentiation",
+      "facilitates",
+      "focused attention"
+    ],
+    [
+      "long-term potentiation",
+      "facilitates",
+      "learning"
+    ],
+    [
+      "long-term potentiation",
+      "facilitates",
+      "memory tasks"
+    ],
+    [
+      "long-term potentiation",
+      "facilitates",
+      "procedural memories"
+    ],
+    [
+      "long-term potentiation",
+      "influences",
+      "brain activity"
+    ],
+    [
+      "long-term potentiation",
+      "is influenced by",
+      "cognitive processes"
+    ],
+    [
+      "long-term potentiation",
+      "is part of",
+      "encoding process"
+    ],
+    [
+      "long-term potentiation",
+      "linked to",
+      "memory disorders"
+    ],
+    [
+      "long-term potentiation",
+      "strengthened by",
+      "connections between neurons"
+    ],
+    [
+      "long-term potentiation",
+      "strengthens",
+      "memory traces"
+    ],
+    [
+      "long-term potentiation",
+      "strengthens",
+      "sensory information"
+    ],
+    [
+      "long-term potentiation",
+      "strengthens",
+      "synapses"
+    ],
+    [
+      "long-term potentiation",
+      "strengthens",
+      "synaptic plasticity"
+    ],
+    [
+      "long-term potentiation",
+      "supports",
+      "memory processing"
+    ],
+    [
+      "long-term potentiation",
+      "underlies",
+      "neural mechanisms"
+    ],
+    [
+      "memory consolidation",
+      "affects",
+      "memory disorders"
+    ],
+    [
+      "memory consolidation",
+      "enables",
+      "processing memories"
+    ],
+    [
+      "memory consolidation",
+      "enhances",
+      "enhancing memory function"
+    ],
+    [
+      "memory consolidation",
+      "enhances",
+      "strengthening memories"
+    ],
+    [
+      "memory consolidation",
+      "facilitates",
+      "information retention"
+    ],
+    [
+      "memory consolidation",
+      "influences",
+      "cognitive processes"
+    ],
+    [
+      "memory consolidation",
+      "influences",
+      "perception"
+    ],
+    [
+      "memory consolidation",
+      "involves",
+      "episodic memories"
+    ],
+    [
+      "memory consolidation",
+      "involves",
+      "memory processing"
+    ],
+    [
+      "memory consolidation",
+      "involves",
+      "neocortex"
+    ],
+    [
+      "memory consolidation",
+      "involves",
+      "neural mechanisms"
+    ],
+    [
+      "memory consolidation",
+      "involves",
+      "permanent storage"
+    ],
+    [
+      "memory consolidation",
+      "involves",
+      "synapses"
+    ],
+    [
+      "memory consolidation",
+      "is part of",
+      "memory formation"
+    ],
+    [
+      "memory consolidation",
+      "requires",
+      "reactivation"
+    ],
+    [
+      "memory consolidation",
+      "requires",
+      "synaptic plasticity"
+    ],
+    [
+      "memory consolidation",
+      "strengthens",
+      "connections between neurons"
+    ],
+    [
+      "memory disorders",
+      "affects",
+      "brain regions"
+    ],
+    [
+      "memory disorders",
+      "affects",
+      "motor cortex"
+    ],
+    [
+      "memory disorders",
+      "affects",
+      "procedural memories"
+    ],
+    [
+      "memory disorders",
+      "affects prioritizing",
+      "prioritizing information"
+    ],
+    [
+      "memory disorders",
+      "associated with",
+      "cerebellum"
+    ],
+    [
+      "memory disorders",
+      "associated with",
+      "connections between neurons"
+    ],
+    [
+      "memory disorders",
+      "associated with",
+      "limbic structures"
+    ],
+    [
+      "memory disorders",
+      "contributes to",
+      "complexities of memory"
+    ],
+    [
+      "memory disorders",
+      "impacts",
+      "learning"
+    ],
+    [
+      "memory disorders",
+      "impacts",
+      "memory formation"
+    ],
+    [
+      "memory disorders",
+      "involves",
+      "neural networks"
+    ],
+    [
+      "memory disorders",
+      "is related to",
+      "neural mechanisms"
+    ],
+    [
+      "memory disorders",
+      "provides insights into",
+      "insights into memory"
+    ],
+    [
+      "memory formation",
+      "contributes to",
+      "enhancing memory function"
+    ],
+    [
+      "memory formation",
+      "enhanced by",
+      "focused attention"
+    ],
+    [
+      "memory formation",
+      "enhances",
+      "overall well-being"
+    ],
+    [
+      "memory formation",
+      "enhances",
+      "sleep"
+    ],
+    [
+      "memory formation",
+      "facilitates",
+      "information retention"
+    ],
+    [
+      "memory formation",
+      "facilitates",
+      "learning"
+    ],
+    [
+      "memory formation",
+      "improves",
+      "cognitive performance"
+    ],
+    [
+      "memory formation",
+      "influences",
+      "external stimuli"
+    ],
+    [
+      "memory formation",
+      "involves",
+      "cognitive processes"
+    ],
+    [
+      "memory formation",
+      "involves",
+      "complexities of memory"
+    ],
+    [
+      "memory formation",
+      "involves",
+      "episodic memories"
+    ],
+    [
+      "memory formation",
+      "involves",
+      "memory tasks"
+    ],
+    [
+      "memory formation",
+      "involves",
+      "memory traces"
+    ],
+    [
+      "memory formation",
+      "involves",
+      "prefrontal cortex"
+    ],
+    [
+      "memory formation",
+      "involves",
+      "procedural memories"
+    ],
+    [
+      "memory formation",
+      "involves",
+      "reactivation"
+    ],
+    [
+      "memory formation",
+      "involves",
+      "retrieval process"
+    ],
+    [
+      "memory formation",
+      "involves",
+      "sensory information"
+    ],
+    [
+      "memory formation",
+      "is a type of",
+      "memory processing"
+    ],
+    [
+      "memory formation",
+      "is facilitated by",
+      "long-term potentiation"
+    ],
+    [
+      "memory formation",
+      "is influenced by",
+      "emotion"
+    ],
+    [
+      "memory formation",
+      "relies on",
+      "hippocampus"
+    ],
+    [
+      "memory formation",
+      "stores",
+      "neocortex"
+    ],
+    [
+      "memory formation",
+      "transfers to",
+      "permanent storage"
+    ],
+    [
+      "memory formation",
+      "utilizes",
+      "neural networks"
+    ],
+    [
+      "memory processing",
+      "affected by",
+      "synaptic plasticity"
+    ],
+    [
+      "memory processing",
+      "involves",
+      "amygdala"
+    ],
+    [
+      "memory processing",
+      "involves",
+      "brain activity"
+    ],
+    [
+      "memory processing",
+      "is assessed by",
+      "memory tasks"
+    ],
+    [
+      "memory processing",
+      "is influenced by",
+      "attention"
+    ],
+    [
+      "memory processing",
+      "is linked to",
+      "memory disorders"
+    ],
+    [
+      "memory processing",
+      "is part of",
+      "retrieval process"
+    ],
+    [
+      "memory processing",
+      "prioritizes",
+      "prioritizing information"
+    ],
+    [
+      "memory processing",
+      "processed by",
+      "neutral events"
+    ],
+    [
+      "memory processing",
+      "processed by",
+      "procedural memories"
+    ],
+    [
+      "memory processing",
+      "processes",
+      "cognitive processes"
+    ],
+    [
+      "memory processing",
+      "processes",
+      "external stimuli"
+    ],
+    [
+      "memory processing",
+      "processes",
+      "sensory information"
+    ],
+    [
+      "memory processing",
+      "strengthens",
+      "strengthening memories"
+    ],
+    [
+      "memory processing",
+      "supports",
+      "information retention"
+    ],
+    [
+      "memory processing",
+      "underlies",
+      "neural mechanisms"
+    ],
+    [
+      "memory tasks",
+      "activates",
+      "amygdala"
+    ],
+    [
+      "memory tasks",
+      "affects",
+      "synaptic plasticity"
+    ],
+    [
+      "memory tasks",
+      "enhances",
+      "cognitive performance"
+    ],
+    [
+      "memory tasks",
+      "facilitates",
+      "strengthening memories"
+    ],
+    [
+      "memory tasks",
+      "influences",
+      "decision-making"
+    ],
+    [
+      "memory tasks",
+      "informs",
+      "brain regions"
+    ],
+    [
+      "memory tasks",
+      "involved in",
+      "connections between neurons"
+    ],
+    [
+      "memory tasks",
+      "involves",
+      "memory traces"
+    ],
+    [
+      "memory tasks",
+      "involves",
+      "procedural memories"
+    ],
+    [
+      "memory tasks",
+      "involves",
+      "synapses"
+    ],
+    [
+      "memory tasks",
+      "measured by",
+      "electroencephalography"
+    ],
+    [
+      "memory tasks",
+      "requires",
+      "attention"
+    ],
+    [
+      "memory tasks",
+      "requires",
+      "prioritizing information"
+    ],
+    [
+      "memory tasks",
+      "underlies",
+      "neural mechanisms"
+    ],
+    [
+      "memory tasks",
+      "utilized in",
+      "cerebellum"
+    ],
+    [
+      "memory traces",
+      "associated with",
+      "memory disorders"
+    ],
+    [
+      "memory traces",
+      "contributes to",
+      "overall well-being"
+    ],
+    [
+      "memory traces",
+      "enables",
+      "information retention"
+    ],
+    [
+      "memory traces",
+      "influences",
+      "learning"
+    ],
+    [
+      "memory traces",
+      "involves",
+      "encoding process"
+    ],
+    [
+      "memory traces",
+      "involves",
+      "memory processing"
+    ],
+    [
+      "memory traces",
+      "is affected by",
+      "synaptic plasticity"
+    ],
+    [
+      "memory traces",
+      "represents",
+      "complexities of memory"
+    ],
+    [
+      "memory traces",
+      "represents",
+      "perception"
+    ],
+    [
+      "memory traces",
+      "represents",
+      "sensory information"
+    ],
+    [
+      "memory traces",
+      "stored in",
+      "hippocampus"
+    ],
+    [
+      "memory traces",
+      "stores",
+      "cerebellum"
+    ],
+    [
+      "memory traces",
+      "supports",
+      "enhancing memory function"
+    ],
+    [
+      "motor cortex",
+      "connected to",
+      "electroencephalography"
+    ],
+    [
+      "motor cortex",
+      "contributes to",
+      "information retention"
+    ],
+    [
+      "motor cortex",
+      "controlled by",
+      "procedural memories"
+    ],
+    [
+      "motor cortex",
+      "coordinates",
+      "limbic structures"
+    ],
+    [
+      "motor cortex",
+      "influenced by",
+      "neural networks"
+    ],
+    [
+      "motor cortex",
+      "influenced by",
+      "synaptic plasticity"
+    ],
+    [
+      "motor cortex",
+      "influences",
+      "emotion"
+    ],
+    [
+      "motor cortex",
+      "influences",
+      "emotionally charged events"
+    ],
+    [
+      "motor cortex",
+      "involved in",
+      "memory tasks"
+    ],
+    [
+      "motor cortex",
+      "involved in",
+      "synapses"
+    ],
+    [
+      "motor cortex",
+      "involves",
+      "complexities of memory"
+    ],
+    [
+      "motor cortex",
+      "involves",
+      "memory processing"
+    ],
+    [
+      "motor cortex",
+      "involves",
+      "processing memories"
+    ],
+    [
+      "motor cortex",
+      "is associated with",
+      "brain regions"
+    ],
+    [
+      "motor cortex",
+      "is processed by",
+      "insights into memory"
+    ],
+    [
+      "motor cortex",
+      "is processed by",
+      "prioritizing information"
+    ],
+    [
+      "motor cortex",
+      "is processed by",
+      "unlocking memory potential"
+    ],
+    [
+      "motor cortex",
+      "is utilized by",
+      "cognitive performance"
+    ],
+    [
+      "motor cortex",
+      "processed by",
+      "strengthening memories"
+    ],
+    [
+      "motor cortex",
+      "stored in",
+      "memory traces"
+    ],
+    [
+      "motor cortex",
+      "supports",
+      "overall well-being"
+    ],
+    [
+      "motor cortex",
+      "utilizes",
+      "cognitive processes"
+    ],
+    [
+      "motor cortex",
+      "utilizes",
+      "permanent storage"
+    ],
+    [
+      "neocortex",
+      "affects",
+      "emotion"
+    ],
+    [
+      "neocortex",
+      "affects",
+      "memory disorders"
+    ],
+    [
+      "neocortex",
+      "associated with",
+      "overall well-being"
+    ],
+    [
+      "neocortex",
+      "connected to",
+      "connections between neurons"
+    ],
+    [
+      "neocortex",
+      "connected to",
+      "motor cortex"
+    ],
+    [
+      "neocortex",
+      "enhances",
+      "attention"
+    ],
+    [
+      "neocortex",
+      "enhances",
+      "strengthening memories"
+    ],
+    [
+      "neocortex",
+      "informs",
+      "information filtering"
+    ],
+    [
+      "neocortex",
+      "involves",
+      "cognitive processes"
+    ],
+    [
+      "neocortex",
+      "involves",
+      "neural networks"
+    ],
+    [
+      "neocortex",
+      "involves",
+      "processing memories"
+    ],
+    [
+      "neocortex",
+      "involves",
+      "retrieval process"
+    ],
+    [
+      "neocortex",
+      "is part of",
+      "brain regions"
+    ],
+    [
+      "neocortex",
+      "is processed by",
+      "complexities of memory"
+    ],
+    [
+      "neocortex",
+      "is processed by",
+      "perception"
+    ],
+    [
+      "neocortex",
+      "observed in",
+      "functional magnetic resonance imaging"
+    ],
+    [
+      "neocortex",
+      "processed by",
+      "memory tasks"
+    ],
+    [
+      "neocortex",
+      "stored in",
+      "episodic memories"
+    ],
+    [
+      "neocortex",
+      "stores",
+      "permanent storage"
+    ],
+    [
+      "neocortex",
+      "supports",
+      "cognitive performance"
+    ],
+    [
+      "neocortex",
+      "supports",
+      "stages of sleep"
+    ],
+    [
+      "neural mechanisms",
+      "facilitates",
+      "permanent storage"
+    ],
+    [
+      "neural mechanisms",
+      "influences",
+      "overall well-being"
+    ],
+    [
+      "neural mechanisms",
+      "informs",
+      "prefrontal cortex"
+    ],
+    [
+      "neural mechanisms",
+      "is informed by",
+      "insights into memory"
+    ],
+    [
+      "neural mechanisms",
+      "is informed by",
+      "prioritizing information"
+    ],
+    [
+      "neural mechanisms",
+      "is processed by",
+      "procedural memories"
+    ],
+    [
+      "neural mechanisms",
+      "is supported by",
+      "cognitive performance"
+    ],
+    [
+      "neural networks",
+      "comprises",
+      "brain regions"
+    ],
+    [
+      "neural networks",
+      "influences",
+      "long-term potentiation"
+    ],
+    [
+      "neural networks",
+      "informs",
+      "perception"
+    ],
+    [
+      "neural networks",
+      "is analyzed by",
+      "electroencephalography"
+    ],
+    [
+      "neural networks",
+      "is influenced by",
+      "reactivation"
+    ],
+    [
+      "neural networks",
+      "represents",
+      "memory traces"
+    ],
+    [
+      "neural networks",
+      "supported by",
+      "overall well-being"
+    ],
+    [
+      "neural networks",
+      "supports",
+      "cerebellum"
+    ],
+    [
+      "neural networks",
+      "supports",
+      "information retention"
+    ],
+    [
+      "neural networks",
+      "supports",
+      "prioritizing information"
+    ],
+    [
+      "neural networks",
+      "transfers to",
+      "permanent storage"
+    ],
+    [
+      "neural networks",
+      "utilizes",
+      "complexities of memory"
+    ],
+    [
+      "neural networks",
+      "utilizes",
+      "insights into memory"
+    ],
+    [
+      "neuroimaging techniques",
+      "affects",
+      "emotion"
+    ],
+    [
+      "neuroimaging techniques",
+      "aids",
+      "encoding process"
+    ],
+    [
+      "neuroimaging techniques",
+      "aids in",
+      "retrieval process"
+    ],
+    [
+      "neuroimaging techniques",
+      "analyzes",
+      "memory traces"
+    ],
+    [
+      "neuroimaging techniques",
+      "analyzes",
+      "motor cortex"
+    ],
+    [
+      "neuroimaging techniques",
+      "analyzes",
+      "neural networks"
+    ],
+    [
+      "neuroimaging techniques",
+      "analyzes",
+      "prefrontal cortex"
+    ],
+    [
+      "neuroimaging techniques",
+      "analyzes",
+      "sensory information"
+    ],
+    [
+      "neuroimaging techniques",
+      "complements",
+      "functional magnetic resonance imaging"
+    ],
+    [
+      "neuroimaging techniques",
+      "enhances",
+      "enhancing memory function"
+    ],
+    [
+      "neuroimaging techniques",
+      "enhances",
+      "focused attention"
+    ],
+    [
+      "neuroimaging techniques",
+      "enhances",
+      "learning"
+    ],
+    [
+      "neuroimaging techniques",
+      "enhances",
+      "long-term potentiation"
+    ],
+    [
+      "neuroimaging techniques",
+      "enhances",
+      "memory formation"
+    ],
+    [
+      "neuroimaging techniques",
+      "evaluates",
+      "memory tasks"
+    ],
+    [
+      "neuroimaging techniques",
+      "examines",
+      "cognitive processes"
+    ],
+    [
+      "neuroimaging techniques",
+      "examines",
+      "hippocampus"
+    ],
+    [
+      "neuroimaging techniques",
+      "facilitates",
+      "connections between neurons"
+    ],
+    [
+      "neuroimaging techniques",
+      "facilitates",
+      "permanent storage"
+    ],
+    [
+      "neuroimaging techniques",
+      "facilitates",
+      "unlocking memory potential"
+    ],
+    [
+      "neuroimaging techniques",
+      "facilitates information filtering",
+      "information filtering"
+    ],
+    [
+      "neuroimaging techniques",
+      "improves",
+      "cognitive performance"
+    ],
+    [
+      "neuroimaging techniques",
+      "influences",
+      "synapses"
+    ],
+    [
+      "neuroimaging techniques",
+      "informs",
+      "learning processes"
+    ],
+    [
+      "neuroimaging techniques",
+      "investigates",
+      "complexities of memory"
+    ],
+    [
+      "neuroimaging techniques",
+      "investigates",
+      "emotionally charged events"
+    ],
+    [
+      "neuroimaging techniques",
+      "investigates",
+      "sleep"
+    ],
+    [
+      "neuroimaging techniques",
+      "investigates",
+      "stages of sleep"
+    ],
+    [
+      "neuroimaging techniques",
+      "is associated with",
+      "neocortex"
+    ],
+    [
+      "neuroimaging techniques",
+      "studies",
+      "neural mechanisms"
+    ],
+    [
+      "neuroimaging techniques",
+      "studies",
+      "synaptic plasticity"
+    ],
+    [
+      "neuroimaging techniques",
+      "supports",
+      "information retention"
+    ],
+    [
+      "neuroimaging techniques",
+      "supports",
+      "memory consolidation"
+    ],
+    [
+      "neuroimaging techniques",
+      "supports",
+      "reactivation"
+    ],
+    [
+      "neuroimaging techniques",
+      "used for",
+      "memory processing"
+    ],
+    [
+      "neuroimaging techniques",
+      "utilized for",
+      "attention"
+    ],
+    [
+      "neuroimaging techniques",
+      "utilized in",
+      "limbic structures"
+    ],
+    [
+      "neutral events",
+      "affects",
+      "information filtering"
+    ],
+    [
+      "neutral events",
+      "affects",
+      "learning processes"
+    ],
+    [
+      "neutral events",
+      "affects",
+      "synapses"
+    ],
+    [
+      "neutral events",
+      "contrasts with",
+      "emotionally charged events"
+    ],
+    [
+      "neutral events",
+      "facilitates",
+      "learning"
+    ],
+    [
+      "neutral events",
+      "impacts",
+      "enhancing memory function"
+    ],
+    [
+      "neutral events",
+      "influences",
+      "attention"
+    ],
+    [
+      "neutral events",
+      "informs",
+      "neural mechanisms"
+    ],
+    [
+      "neutral events",
+      "is compared to",
+      "limbic structures"
+    ],
+    [
+      "neutral events",
+      "is compared to",
+      "long-term potentiation"
+    ],
+    [
+      "neutral events",
+      "is influenced by",
+      "complexities of memory"
+    ],
+    [
+      "neutral events",
+      "is processed by",
+      "neocortex"
+    ],
+    [
+      "neutral events",
+      "prioritizes",
+      "prioritizing information"
+    ],
+    [
+      "overall well-being",
+      "affects",
+      "brain regions"
+    ],
+    [
+      "overall well-being",
+      "affects",
+      "cerebellum"
+    ],
+    [
+      "overall well-being",
+      "affects",
+      "limbic structures"
+    ],
+    [
+      "overall well-being",
+      "affects",
+      "memory processing"
+    ],
+    [
+      "overall well-being",
+      "enhances",
+      "cognitive performance"
+    ],
+    [
+      "overall well-being",
+      "enhances",
+      "cognitive processes"
+    ],
+    [
+      "overall well-being",
+      "impacts",
+      "memory disorders"
+    ],
+    [
+      "overall well-being",
+      "is supported by",
+      "sleep"
+    ],
+    [
+      "overall well-being",
+      "supports",
+      "decision-making"
+    ],
+    [
+      "overall well-being",
+      "supports",
+      "learning"
+    ],
+    [
+      "overall well-being",
+      "supports",
+      "retrieval process"
+    ],
+    [
+      "perception",
+      "contributes to",
+      "learning"
+    ],
+    [
+      "perception",
+      "contributes to",
+      "memory formation"
+    ],
+    [
+      "perception",
+      "enhances",
+      "focused attention"
+    ],
+    [
+      "perception",
+      "facilitates",
+      "reactivation"
+    ],
+    [
+      "perception",
+      "facilitates",
+      "synapses"
+    ],
+    [
+      "perception",
+      "guides",
+      "attention"
+    ],
+    [
+      "perception",
+      "influences",
+      "memory processing"
+    ],
+    [
+      "perception",
+      "influences",
+      "retrieval process"
+    ],
+    [
+      "perception",
+      "involves",
+      "neural mechanisms"
+    ],
+    [
+      "perception",
+      "is impacted by",
+      "memory disorders"
+    ],
+    [
+      "perception",
+      "is processed by",
+      "motor cortex"
+    ],
+    [
+      "perception",
+      "is stored in",
+      "temporary storage"
+    ],
+    [
+      "perception",
+      "processed by",
+      "prefrontal cortex"
+    ],
+    [
+      "perception",
+      "provides",
+      "sensory information"
+    ],
+    [
+      "perception",
+      "stimulates",
+      "external stimuli"
+    ],
+    [
+      "perception",
+      "stored in",
+      "permanent storage"
+    ],
+    [
+      "perception",
+      "triggers",
+      "emotion"
+    ],
+    [
+      "permanent storage",
+      "contributes to",
+      "connections between neurons"
+    ],
+    [
+      "permanent storage",
+      "facilitated by",
+      "enhancing memory function"
+    ],
+    [
+      "permanent storage",
+      "facilitates",
+      "decision-making"
+    ],
+    [
+      "permanent storage",
+      "facilitates",
+      "processing memories"
+    ],
+    [
+      "permanent storage",
+      "involves",
+      "cognitive processes"
+    ],
+    [
+      "permanent storage",
+      "is a destination for",
+      "hippocampus"
+    ],
+    [
+      "permanent storage",
+      "is a process of",
+      "memory consolidation"
+    ],
+    [
+      "permanent storage",
+      "is stored in",
+      "encoding process"
+    ],
+    [
+      "permanent storage",
+      "is stored in",
+      "insights into memory"
+    ],
+    [
+      "permanent storage",
+      "is stored in",
+      "strengthening memories"
+    ],
+    [
+      "permanent storage",
+      "is stored in",
+      "synapses"
+    ],
+    [
+      "permanent storage",
+      "is supported by",
+      "synaptic plasticity"
+    ],
+    [
+      "permanent storage",
+      "is utilized for",
+      "learning processes"
+    ],
+    [
+      "permanent storage",
+      "stored in",
+      "memory traces"
+    ],
+    [
+      "permanent storage",
+      "supports",
+      "long-term potentiation"
+    ],
+    [
+      "prefrontal cortex",
+      "associated with",
+      "electroencephalography"
+    ],
+    [
+      "prefrontal cortex",
+      "influenced by",
+      "decision-making"
+    ],
+    [
+      "prefrontal cortex",
+      "influenced by",
+      "overall well-being"
+    ],
+    [
+      "prefrontal cortex",
+      "influences",
+      "cognitive performance"
+    ],
+    [
+      "prefrontal cortex",
+      "interacts with",
+      "neocortex"
+    ],
+    [
+      "prefrontal cortex",
+      "involves",
+      "memory processing"
+    ],
+    [
+      "prefrontal cortex",
+      "involves",
+      "stages of sleep"
+    ],
+    [
+      "prefrontal cortex",
+      "is influenced by",
+      "connections between neurons"
+    ],
+    [
+      "prefrontal cortex",
+      "is involved in",
+      "strengthening memories"
+    ],
+    [
+      "prefrontal cortex",
+      "is involved in",
+      "synapses"
+    ],
+    [
+      "prefrontal cortex",
+      "processed by",
+      "memory traces"
+    ],
+    [
+      "prefrontal cortex",
+      "processed by",
+      "neutral events"
+    ],
+    [
+      "prefrontal cortex",
+      "processed by",
+      "prioritizing information"
+    ],
+    [
+      "prefrontal cortex",
+      "processes",
+      "external stimuli"
+    ],
+    [
+      "prefrontal cortex",
+      "processes memories for",
+      "processing memories"
+    ],
+    [
+      "prefrontal cortex",
+      "supports retrieval for",
+      "retrieval process"
+    ],
+    [
+      "prefrontal cortex",
+      "utilized by",
+      "memory tasks"
+    ],
+    [
+      "prioritizing information",
+      "enhances",
+      "enhancing memory function"
+    ],
+    [
+      "prioritizing information",
+      "enhances",
+      "focused attention"
+    ],
+    [
+      "prioritizing information",
+      "enhances",
+      "long-term potentiation"
+    ],
+    [
+      "prioritizing information",
+      "guides",
+      "insights into memory"
+    ],
+    [
+      "prioritizing information",
+      "influenced by",
+      "stages of sleep"
+    ],
+    [
+      "prioritizing information",
+      "influences",
+      "connections between neurons"
+    ],
+    [
+      "prioritizing information",
+      "influences",
+      "encoding process"
+    ],
+    [
+      "prioritizing information",
+      "informs",
+      "memory traces"
+    ],
+    [
+      "prioritizing information",
+      "informs",
+      "procedural memories"
+    ],
+    [
+      "prioritizing information",
+      "involves",
+      "learning processes"
+    ],
+    [
+      "prioritizing information",
+      "is influenced by",
+      "episodic memories"
+    ],
+    [
+      "prioritizing information",
+      "processes",
+      "neocortex"
+    ],
+    [
+      "prioritizing information",
+      "supports",
+      "retrieval process"
+    ],
+    [
+      "procedural memories",
+      "analyzes",
+      "neuroimaging techniques"
+    ],
+    [
+      "procedural memories",
+      "associated with",
+      "connections between neurons"
+    ],
+    [
+      "procedural memories",
+      "contributes to",
+      "overall well-being"
+    ],
+    [
+      "procedural memories",
+      "enhanced by",
+      "learning"
+    ],
+    [
+      "procedural memories",
+      "enhanced by",
+      "strengthening memories"
+    ],
+    [
+      "procedural memories",
+      "enhances",
+      "synaptic plasticity"
+    ],
+    [
+      "procedural memories",
+      "informs",
+      "perception"
+    ],
+    [
+      "procedural memories",
+      "involves",
+      "brain activity"
+    ],
+    [
+      "procedural memories",
+      "involves",
+      "cerebellum"
+    ],
+    [
+      "procedural memories",
+      "involves",
+      "emotionally charged events"
+    ],
+    [
+      "procedural memories",
+      "is improved by",
+      "enhancing memory function"
+    ],
+    [
+      "procedural memories",
+      "is involved in",
+      "reactivation"
+    ],
+    [
+      "procedural memories",
+      "is triggered by",
+      "external stimuli"
+    ],
+    [
+      "procedural memories",
+      "related to",
+      "functional magnetic resonance imaging"
+    ],
+    [
+      "procedural memories",
+      "relates to",
+      "complexities of memory"
+    ],
+    [
+      "procedural memories",
+      "represents",
+      "memory traces"
+    ],
+    [
+      "procedural memories",
+      "stored in",
+      "neocortex"
+    ],
+    [
+      "procedural memories",
+      "stored in",
+      "permanent storage"
+    ],
+    [
+      "procedural memories",
+      "stored in",
+      "temporary storage"
+    ],
+    [
+      "procedural memories",
+      "supports",
+      "brain regions"
+    ],
+    [
+      "processing memories",
+      "affects",
+      "emotionally charged events"
+    ],
+    [
+      "processing memories",
+      "contributes to",
+      "memory formation"
+    ],
+    [
+      "processing memories",
+      "enhances",
+      "enhancing memory function"
+    ],
+    [
+      "processing memories",
+      "enhances",
+      "unlocking memory potential"
+    ],
+    [
+      "processing memories",
+      "facilitates",
+      "learning"
+    ],
+    [
+      "processing memories",
+      "involves",
+      "memory processing"
+    ],
+    [
+      "processing memories",
+      "involves",
+      "perception"
+    ],
+    [
+      "processing memories",
+      "involves complexities of",
+      "complexities of memory"
+    ],
+    [
+      "processing memories",
+      "is affected by",
+      "memory disorders"
+    ],
+    [
+      "processing memories",
+      "is evaluated through",
+      "memory tasks"
+    ],
+    [
+      "processing memories",
+      "is improved by",
+      "strengthening memories"
+    ],
+    [
+      "processing memories",
+      "is related to",
+      "procedural memories"
+    ],
+    [
+      "processing memories",
+      "is represented by",
+      "memory traces"
+    ],
+    [
+      "processing memories",
+      "is triggered by",
+      "external stimuli"
+    ],
+    [
+      "processing memories",
+      "processed by",
+      "cerebellum"
+    ],
+    [
+      "processing memories",
+      "utilizes",
+      "electroencephalography"
+    ],
+    [
+      "reactivation",
+      "activates",
+      "hippocampus"
+    ],
+    [
+      "reactivation",
+      "activates",
+      "motor cortex"
+    ],
+    [
+      "reactivation",
+      "activates",
+      "neural networks"
+    ],
+    [
+      "reactivation",
+      "affects",
+      "overall well-being"
+    ],
+    [
+      "reactivation",
+      "enhances",
+      "synaptic plasticity"
+    ],
+    [
+      "reactivation",
+      "facilitates",
+      "connections between neurons"
+    ],
+    [
+      "reactivation",
+      "facilitates",
+      "learning"
+    ],
+    [
+      "reactivation",
+      "facilitates",
+      "sleep"
+    ],
+    [
+      "reactivation",
+      "influences",
+      "brain activity"
+    ],
+    [
+      "reactivation",
+      "influences",
+      "neutral events"
+    ],
+    [
+      "reactivation",
+      "informs",
+      "neural mechanisms"
+    ],
+    [
+      "reactivation",
+      "involves",
+      "decision-making"
+    ],
+    [
+      "reactivation",
+      "involves",
+      "electroencephalography"
+    ],
+    [
+      "reactivation",
+      "involves",
+      "encoding process"
+    ],
+    [
+      "reactivation",
+      "involves",
+      "episodic memories"
+    ],
+    [
+      "reactivation",
+      "involves",
+      "memory processing"
+    ],
+    [
+      "reactivation",
+      "is enhanced by",
+      "strengthening memories"
+    ],
+    [
+      "reactivation",
+      "is influenced by",
+      "sensory information"
+    ],
+    [
+      "reactivation",
+      "receives",
+      "neocortex"
+    ],
+    [
+      "reactivation",
+      "requires",
+      "attention"
+    ],
+    [
+      "reactivation",
+      "supports information retention",
+      "information retention"
+    ],
+    [
+      "reactivation",
+      "transfers to",
+      "permanent storage"
+    ],
+    [
+      "retrieval process",
+      "enhances",
+      "strengthening memories"
+    ],
+    [
+      "retrieval process",
+      "facilitates",
+      "hippocampus"
+    ],
+    [
+      "retrieval process",
+      "facilitates",
+      "memory consolidation"
+    ],
+    [
+      "retrieval process",
+      "improves",
+      "enhancing memory function"
+    ],
+    [
+      "retrieval process",
+      "influences",
+      "emotion"
+    ],
+    [
+      "retrieval process",
+      "involves",
+      "neural mechanisms"
+    ],
+    [
+      "retrieval process",
+      "is assessed through",
+      "memory tasks"
+    ],
+    [
+      "retrieval process",
+      "is influenced by",
+      "external stimuli"
+    ],
+    [
+      "retrieval process",
+      "is influenced by",
+      "synaptic plasticity"
+    ],
+    [
+      "retrieval process",
+      "reflects",
+      "brain activity"
+    ],
+    [
+      "retrieval process",
+      "stores in",
+      "temporary storage"
+    ],
+    [
+      "retrieval process",
+      "supports",
+      "decision-making"
+    ],
+    [
+      "retrieval process",
+      "transfers to",
+      "permanent storage"
+    ],
+    [
+      "retrieval process",
+      "utilizes",
+      "motor cortex"
+    ],
+    [
+      "sensory information",
+      "affects",
+      "brain activity"
+    ],
+    [
+      "sensory information",
+      "affects",
+      "cognitive performance"
+    ],
+    [
+      "sensory information",
+      "affects",
+      "neural mechanisms"
+    ],
+    [
+      "sensory information",
+      "affects",
+      "overall well-being"
+    ],
+    [
+      "sensory information",
+      "connects",
+      "neural networks"
+    ],
+    [
+      "sensory information",
+      "derived from",
+      "connections between neurons"
+    ],
+    [
+      "sensory information",
+      "enables",
+      "permanent storage"
+    ],
+    [
+      "sensory information",
+      "enhances",
+      "focused attention"
+    ],
+    [
+      "sensory information",
+      "facilitates",
+      "learning"
+    ],
+    [
+      "sensory information",
+      "influences",
+      "memory disorders"
+    ],
+    [
+      "sensory information",
+      "influences",
+      "prioritizing information"
+    ],
+    [
+      "sensory information",
+      "informs",
+      "cognitive processes"
+    ],
+    [
+      "sensory information",
+      "involves",
+      "processing memories"
+    ],
+    [
+      "sensory information",
+      "involves",
+      "retrieval process"
+    ],
+    [
+      "sensory information",
+      "is derived from",
+      "insights into memory"
+    ],
+    [
+      "sensory information",
+      "is processed by",
+      "neocortex"
+    ],
+    [
+      "sensory information",
+      "processed by",
+      "hippocampus"
+    ],
+    [
+      "sensory information",
+      "processed by",
+      "motor cortex"
+    ],
+    [
+      "sensory information",
+      "processed by",
+      "prefrontal cortex"
+    ],
+    [
+      "sensory information",
+      "provides data for",
+      "functional magnetic resonance imaging"
+    ],
+    [
+      "sensory information",
+      "stored in",
+      "temporary storage"
+    ],
+    [
+      "sensory information",
+      "strengthens",
+      "synapses"
+    ],
+    [
+      "sensory information",
+      "transforms",
+      "encoding process"
+    ],
+    [
+      "sleep",
+      "affected by",
+      "memory traces"
+    ],
+    [
+      "sleep",
+      "affects",
+      "brain activity"
+    ],
+    [
+      "sleep",
+      "affects",
+      "external stimuli"
+    ],
+    [
+      "sleep",
+      "influences",
+      "complexities of memory"
+    ],
+    [
+      "sleep",
+      "influences",
+      "hippocampus"
+    ],
+    [
+      "sleep",
+      "influences",
+      "insights into memory"
+    ],
+    [
+      "sleep",
+      "influences",
+      "perception"
+    ],
+    [
+      "sleep",
+      "influences",
+      "prefrontal cortex"
+    ],
+    [
+      "sleep",
+      "is affected by",
+      "neural mechanisms"
+    ],
+    [
+      "sleep",
+      "is influenced by",
+      "episodic memories"
+    ],
+    [
+      "sleep",
+      "is supported by",
+      "permanent storage"
+    ],
+    [
+      "stages of sleep",
+      "affects",
+      "emotion"
+    ],
+    [
+      "stages of sleep",
+      "affects",
+      "information filtering"
+    ],
+    [
+      "stages of sleep",
+      "affects",
+      "neural mechanisms"
+    ],
+    [
+      "stages of sleep",
+      "affects",
+      "overall well-being"
+    ],
+    [
+      "stages of sleep",
+      "improves",
+      "cognitive performance"
+    ],
+    [
+      "stages of sleep",
+      "influenced by",
+      "episodic memories"
+    ],
+    [
+      "stages of sleep",
+      "involves",
+      "memory tasks"
+    ],
+    [
+      "stages of sleep",
+      "is characterized by",
+      "brain activity"
+    ],
+    [
+      "stages of sleep",
+      "monitored by",
+      "electroencephalography"
+    ],
+    [
+      "strengthening memories",
+      "contributes to",
+      "insights into memory"
+    ],
+    [
+      "strengthening memories",
+      "contributes to",
+      "overall well-being"
+    ],
+    [
+      "strengthening memories",
+      "enables",
+      "synaptic plasticity"
+    ],
+    [
+      "strengthening memories",
+      "enhances",
+      "external stimuli"
+    ],
+    [
+      "strengthening memories",
+      "impacts",
+      "memory disorders"
+    ],
+    [
+      "strengthening memories",
+      "involves",
+      "memory formation"
+    ],
+    [
+      "strengthening memories",
+      "is enhanced by",
+      "learning"
+    ],
+    [
+      "strengthening memories",
+      "strengthens through",
+      "sensory information"
+    ],
+    [
+      "strengthening memories",
+      "underlies",
+      "neural mechanisms"
+    ],
+    [
+      "synapses",
+      "comprises",
+      "neural networks"
+    ],
+    [
+      "synapses",
+      "enhanced by",
+      "cognitive performance"
+    ],
+    [
+      "synapses",
+      "facilitated by",
+      "processing memories"
+    ],
+    [
+      "synapses",
+      "forms",
+      "hippocampus"
+    ],
+    [
+      "synapses",
+      "influences",
+      "complexities of memory"
+    ],
+    [
+      "synapses",
+      "involved in",
+      "cerebellum"
+    ],
+    [
+      "synapses",
+      "involves",
+      "cognitive processes"
+    ],
+    [
+      "synapses",
+      "involves",
+      "memory formation"
+    ],
+    [
+      "synapses",
+      "involves",
+      "memory processing"
+    ],
+    [
+      "synapses",
+      "involves",
+      "overall well-being"
+    ],
+    [
+      "synapses",
+      "is facilitated by",
+      "neural mechanisms"
+    ],
+    [
+      "synapses",
+      "is formed by",
+      "brain regions"
+    ],
+    [
+      "synapses",
+      "is influenced by",
+      "decision-making"
+    ],
+    [
+      "synapses",
+      "is influenced by",
+      "retrieval process"
+    ],
+    [
+      "synapses",
+      "stored in",
+      "procedural memories"
+    ],
+    [
+      "synapses",
+      "strengthened by",
+      "episodic memories"
+    ],
+    [
+      "synapses",
+      "strengthened by",
+      "reactivation"
+    ],
+    [
+      "synaptic plasticity",
+      "enables",
+      "permanent storage"
+    ],
+    [
+      "synaptic plasticity",
+      "enables",
+      "temporary storage"
+    ],
+    [
+      "synaptic plasticity",
+      "enhanced by",
+      "cognitive processes"
+    ],
+    [
+      "synaptic plasticity",
+      "enhances",
+      "insights into memory"
+    ],
+    [
+      "synaptic plasticity",
+      "facilitates",
+      "learning"
+    ],
+    [
+      "synaptic plasticity",
+      "involves",
+      "prefrontal cortex"
+    ],
+    [
+      "synaptic plasticity",
+      "involves",
+      "synapses"
+    ],
+    [
+      "synaptic plasticity",
+      "processed by",
+      "sensory information"
+    ],
+    [
+      "synaptic plasticity",
+      "supports",
+      "episodic memories"
+    ],
+    [
+      "synaptic plasticity",
+      "supports",
+      "prioritizing information"
+    ],
+    [
+      "synaptic plasticity",
+      "underlies",
+      "neural mechanisms"
+    ],
+    [
+      "temporary storage",
+      "holds",
+      "motor cortex"
+    ],
+    [
+      "temporary storage",
+      "involves",
+      "neural networks"
+    ],
+    [
+      "temporary storage",
+      "involves",
+      "sleep"
+    ],
+    [
+      "temporary storage",
+      "is a factor in",
+      "long-term potentiation"
+    ],
+    [
+      "temporary storage",
+      "is influenced by",
+      "insights into memory"
+    ],
+    [
+      "temporary storage",
+      "is involved in",
+      "brain activity"
+    ],
+    [
+      "temporary storage",
+      "is stored in",
+      "encoding process"
+    ],
+    [
+      "temporary storage",
+      "is stored in",
+      "strengthening memories"
+    ],
+    [
+      "temporary storage",
+      "is utilized for",
+      "limbic structures"
+    ],
+    [
+      "temporary storage",
+      "stored in",
+      "memory processing"
+    ],
+    [
+      "temporary storage",
+      "stored in",
+      "memory traces"
+    ],
+    [
+      "temporary storage",
+      "stored in",
+      "reactivation"
+    ],
+    [
+      "temporary storage",
+      "utilizes",
+      "learning"
+    ],
+    [
+      "unlocking memory potential",
+      "affects",
+      "memory disorders"
+    ],
+    [
+      "unlocking memory potential",
+      "affects",
+      "overall well-being"
+    ],
+    [
+      "unlocking memory potential",
+      "contrasts with",
+      "neutral events"
+    ],
+    [
+      "unlocking memory potential",
+      "creates",
+      "memory traces"
+    ],
+    [
+      "unlocking memory potential",
+      "enables",
+      "synaptic plasticity"
+    ],
+    [
+      "unlocking memory potential",
+      "enhances",
+      "cognitive performance"
+    ],
+    [
+      "unlocking memory potential",
+      "enhances",
+      "emotion"
+    ],
+    [
+      "unlocking memory potential",
+      "enhances",
+      "enhancing memory function"
+    ],
+    [
+      "unlocking memory potential",
+      "enhances",
+      "focused attention"
+    ],
+    [
+      "unlocking memory potential",
+      "enhances",
+      "long-term potentiation"
+    ],
+    [
+      "unlocking memory potential",
+      "enhances",
+      "prefrontal cortex"
+    ],
+    [
+      "unlocking memory potential",
+      "enhances",
+      "procedural memories"
+    ],
+    [
+      "unlocking memory potential",
+      "enhances learning",
+      "learning"
+    ],
+    [
+      "unlocking memory potential",
+      "facilitates permanent storage",
+      "permanent storage"
+    ],
+    [
+      "unlocking memory potential",
+      "influences",
+      "hippocampus"
+    ],
+    [
+      "unlocking memory potential",
+      "influences",
+      "perception"
+    ],
+    [
+      "unlocking memory potential",
+      "involves",
+      "memory processing"
+    ],
+    [
+      "unlocking memory potential",
+      "involves",
+      "memory tasks"
+    ],
+    [
+      "unlocking memory potential",
+      "is related to",
+      "neocortex"
+    ],
+    [
+      "unlocking memory potential",
+      "leads to",
+      "memory formation"
+    ],
+    [
+      "unlocking memory potential",
+      "provides",
+      "insights into memory"
+    ],
+    [
+      "unlocking memory potential",
+      "requires",
+      "sensory information"
+    ],
+    [
+      "unlocking memory potential",
+      "supports",
+      "information retention"
+    ],
+    [
+      "unlocking memory potential",
+      "supports",
+      "neural networks"
+    ],
+    [
+      "unlocking memory potential",
+      "utilizes",
+      "temporary storage"
+    ]
+  ],
+  "edges": [
+    "activated by",
+    "activates",
+    "affected by",
+    "affects",
+    "affects prioritizing",
+    "aids",
+    "aids in",
+    "analyzes",
+    "assists",
+    "associated with",
+    "compared to",
+    "complements",
+    "comprises",
+    "connected to",
+    "connects",
+    "contrasts with",
+    "contributes to",
+    "controlled by",
+    "coordinates",
+    "creates",
+    "depends on",
+    "derived from",
+    "drives",
+    "enables",
+    "enhanced by",
+    "enhances",
+    "enhances learning",
+    "enhances prioritization of",
+    "enhances strengthening",
+    "evaluates",
+    "exacerbates",
+    "examines",
+    "explored through",
+    "facilitated by",
+    "facilitates",
+    "facilitates information filtering",
+    "facilitates permanent storage",
+    "facilitates unlocking of",
+    "filtered by",
+    "filters for",
+    "filters information for",
+    "filters sensory information for",
+    "forms",
+    "guides",
+    "holds",
+    "impacts",
+    "improves",
+    "indicates",
+    "influenced by",
+    "influences",
+    "influences decision-making",
+    "informs",
+    "interacts with",
+    "investigates",
+    "involved in",
+    "involves",
+    "involves complexities of",
+    "involves synaptic plasticity",
+    "is a destination for",
+    "is a factor in",
+    "is a process of",
+    "is a type of",
+    "is affected by",
+    "is analyzed by",
+    "is analyzed through",
+    "is assessed by",
+    "is assessed through",
+    "is associated with",
+    "is characterized by",
+    "is clarified by",
+    "is compared to",
+    "is crucial for",
+    "is derived from",
+    "is enhanced by",
+    "is essential for",
+    "is evaluated through",
+    "is facilitated by",
+    "is formed by",
+    "is formed from",
+    "is guided by",
+    "is impacted by",
+    "is improved by",
+    "is influenced by",
+    "is informed by",
+    "is involved in",
+    "is linked to",
+    "is measured by",
+    "is part of",
+    "is performed by",
+    "is processed by",
+    "is recorded by",
+    "is reflected in",
+    "is related to",
+    "is represented by",
+    "is retained by",
+    "is stored in",
+    "is studied by",
+    "is supported by",
+    "is triggered by",
+    "is utilized by",
+    "is utilized for",
+    "leads to",
+    "linked to",
+    "measured by",
+    "measures",
+    "modifies",
+    "modulates",
+    "monitored by",
+    "observed during",
+    "observed in",
+    "offers",
+    "part of",
+    "prioritizes",
+    "process sensory information",
+    "processed by",
+    "processes",
+    "processes memories for",
+    "provides",
+    "provides data for",
+    "provides insights into",
+    "receives",
+    "reflected in",
+    "reflects",
+    "related to",
+    "relates to",
+    "relies on",
+    "represents",
+    "requires",
+    "stimulates",
+    "stored as",
+    "stored in",
+    "stores",
+    "stores in",
+    "strengthened by",
+    "strengthens",
+    "strengthens through",
+    "studies",
+    "supported by",
+    "supports",
+    "supports information retention",
+    "supports retrieval for",
+    "transfers to",
+    "transforms",
+    "triggers",
+    "type of",
+    "underlies",
+    "used for",
+    "used in",
+    "used to study",
+    "utilized by",
+    "utilized for",
+    "utilized in",
+    "utilizes",
+    "visualized by"
+  ]
+}

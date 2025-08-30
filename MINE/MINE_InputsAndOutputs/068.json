@@ -1,0 +1,1619 @@
+{
+  "entities": [
+    "adventure narratives",
+    "altering events",
+    "alternate timelines",
+    "audience engagement",
+    "audience fascination",
+    "catastrophic events",
+    "causality questions",
+    "changing past",
+    "character arcs",
+    "character confrontation",
+    "character development",
+    "character navigation",
+    "consequences of actions",
+    "consequences of time travel",
+    "contemporary interpretations",
+    "creative storytelling",
+    "determinism issues",
+    "ethical dilemmas",
+    "ethical implications",
+    "exploration of time",
+    "fiction discussions",
+    "fiction evolution",
+    "fictional time travel",
+    "future catastrophe",
+    "history alteration",
+    "imaginative scenarios",
+    "magical time travel",
+    "multiple timelines",
+    "narrative possibilities",
+    "parallel universes",
+    "philosophical questions",
+    "plot devices",
+    "predetermined future",
+    "reality challenges",
+    "reality exploration",
+    "science fiction themes",
+    "storytelling depth",
+    "storytelling techniques",
+    "storytelling themes",
+    "supernatural powers",
+    "supernatural time manipulation",
+    "technology advancement",
+    "temporal exploration",
+    "temporal mechanics",
+    "time loops",
+    "time machine",
+    "time machine rules",
+    "time nature",
+    "time travel",
+    "time travel devices",
+    "unintended consequences",
+    "universe understanding"
+  ],
+  "relations": [
+    [
+      "adventure narratives",
+      "captures",
+      "audience fascination"
+    ],
+    [
+      "adventure narratives",
+      "enhances",
+      "universe understanding"
+    ],
+    [
+      "adventure narratives",
+      "explores",
+      "alternate timelines"
+    ],
+    [
+      "adventure narratives",
+      "explores",
+      "ethical dilemmas"
+    ],
+    [
+      "adventure narratives",
+      "intersects with",
+      "multiple timelines"
+    ],
+    [
+      "adventure narratives",
+      "introduces",
+      "parallel universes"
+    ],
+    [
+      "adventure narratives",
+      "presents",
+      "reality challenges"
+    ],
+    [
+      "adventure narratives",
+      "raises",
+      "ethical implications"
+    ],
+    [
+      "altering events",
+      "adds to",
+      "storytelling depth"
+    ],
+    [
+      "altering events",
+      "creates",
+      "imaginative scenarios"
+    ],
+    [
+      "altering events",
+      "influences",
+      "consequences of time travel"
+    ],
+    [
+      "altering events",
+      "informs",
+      "storytelling themes"
+    ],
+    [
+      "altering events",
+      "involves",
+      "parallel universes"
+    ],
+    [
+      "altering events",
+      "is affected by",
+      "character development"
+    ],
+    [
+      "altering events",
+      "presents",
+      "ethical implications"
+    ],
+    [
+      "altering events",
+      "raises",
+      "determinism issues"
+    ],
+    [
+      "altering events",
+      "raises",
+      "ethical dilemmas"
+    ],
+    [
+      "altering events",
+      "results in",
+      "future catastrophe"
+    ],
+    [
+      "alternate timelines",
+      "influences",
+      "storytelling depth"
+    ],
+    [
+      "alternate timelines",
+      "informs",
+      "storytelling techniques"
+    ],
+    [
+      "alternate timelines",
+      "informs",
+      "temporal exploration"
+    ],
+    [
+      "alternate timelines",
+      "is a concept of",
+      "fictional time travel"
+    ],
+    [
+      "alternate timelines",
+      "is a type of",
+      "parallel universes"
+    ],
+    [
+      "audience engagement",
+      "sparks",
+      "ethical dilemmas"
+    ],
+    [
+      "audience engagement",
+      "stimulates",
+      "ethical implications"
+    ],
+    [
+      "audience engagement",
+      "stimulates",
+      "fiction discussions"
+    ],
+    [
+      "audience fascination",
+      "captures",
+      "narrative possibilities"
+    ],
+    [
+      "audience fascination",
+      "captures",
+      "predetermined future"
+    ],
+    [
+      "audience fascination",
+      "drives",
+      "alternate timelines"
+    ],
+    [
+      "audience fascination",
+      "engages",
+      "fiction discussions"
+    ],
+    [
+      "audience fascination",
+      "intrigues",
+      "character confrontation"
+    ],
+    [
+      "audience fascination",
+      "invokes",
+      "reality exploration"
+    ],
+    [
+      "audience fascination",
+      "is fascinated by",
+      "storytelling depth"
+    ],
+    [
+      "audience fascination",
+      "sparks",
+      "unintended consequences"
+    ],
+    [
+      "audience fascination",
+      "sparks",
+      "universe understanding"
+    ],
+    [
+      "catastrophic events",
+      "drives",
+      "reality exploration"
+    ],
+    [
+      "catastrophic events",
+      "influences",
+      "creative storytelling"
+    ],
+    [
+      "catastrophic events",
+      "is caused by",
+      "unintended consequences"
+    ],
+    [
+      "catastrophic events",
+      "leads to",
+      "future catastrophe"
+    ],
+    [
+      "catastrophic events",
+      "raises",
+      "ethical implications"
+    ],
+    [
+      "causality questions",
+      "challenges",
+      "alternate timelines"
+    ],
+    [
+      "causality questions",
+      "influences",
+      "contemporary interpretations"
+    ],
+    [
+      "causality questions",
+      "raises",
+      "character arcs"
+    ],
+    [
+      "causality questions",
+      "raises",
+      "imaginative scenarios"
+    ],
+    [
+      "changing past",
+      "illustrates",
+      "fictional time travel"
+    ],
+    [
+      "changing past",
+      "informs",
+      "storytelling techniques"
+    ],
+    [
+      "changing past",
+      "is influenced by",
+      "consequences of actions"
+    ],
+    [
+      "character arcs",
+      "explores",
+      "causality questions"
+    ],
+    [
+      "character arcs",
+      "is influenced by",
+      "adventure narratives"
+    ],
+    [
+      "character arcs",
+      "is influenced by",
+      "altering events"
+    ],
+    [
+      "character arcs",
+      "is influenced by",
+      "predetermined future"
+    ],
+    [
+      "character arcs",
+      "shapes",
+      "audience engagement"
+    ],
+    [
+      "character confrontation",
+      "adds to",
+      "storytelling depth"
+    ],
+    [
+      "character confrontation",
+      "drives",
+      "audience engagement"
+    ],
+    [
+      "character confrontation",
+      "explores",
+      "science fiction themes"
+    ],
+    [
+      "character confrontation",
+      "explores",
+      "storytelling themes"
+    ],
+    [
+      "character confrontation",
+      "facilitates",
+      "reality exploration"
+    ],
+    [
+      "character confrontation",
+      "involves",
+      "adventure narratives"
+    ],
+    [
+      "character confrontation",
+      "involves",
+      "changing past"
+    ],
+    [
+      "character confrontation",
+      "involves",
+      "ethical implications"
+    ],
+    [
+      "character confrontation",
+      "is a technique of",
+      "storytelling techniques"
+    ],
+    [
+      "character development",
+      "challenges",
+      "reality challenges"
+    ],
+    [
+      "character development",
+      "enables",
+      "reality exploration"
+    ],
+    [
+      "character development",
+      "enables",
+      "supernatural powers"
+    ],
+    [
+      "character development",
+      "enhances",
+      "adventure narratives"
+    ],
+    [
+      "character development",
+      "enhances",
+      "storytelling depth"
+    ],
+    [
+      "character development",
+      "enhances",
+      "storytelling themes"
+    ],
+    [
+      "character development",
+      "explores",
+      "fictional time travel"
+    ],
+    [
+      "character development",
+      "explores",
+      "science fiction themes"
+    ],
+    [
+      "character development",
+      "fosters",
+      "imaginative scenarios"
+    ],
+    [
+      "character development",
+      "illustrates",
+      "consequences of time travel"
+    ],
+    [
+      "character development",
+      "influences",
+      "audience engagement"
+    ],
+    [
+      "character development",
+      "influences",
+      "contemporary interpretations"
+    ],
+    [
+      "character development",
+      "involves",
+      "history alteration"
+    ],
+    [
+      "character development",
+      "raises",
+      "ethical implications"
+    ],
+    [
+      "character development",
+      "shapes",
+      "multiple timelines"
+    ],
+    [
+      "character development",
+      "utilizes",
+      "storytelling techniques"
+    ],
+    [
+      "character navigation",
+      "creates",
+      "imaginative scenarios"
+    ],
+    [
+      "character navigation",
+      "enables",
+      "narrative possibilities"
+    ],
+    [
+      "character navigation",
+      "enables",
+      "supernatural powers"
+    ],
+    [
+      "character navigation",
+      "facilitates",
+      "reality exploration"
+    ],
+    [
+      "character navigation",
+      "informs",
+      "contemporary interpretations"
+    ],
+    [
+      "character navigation",
+      "involves",
+      "history alteration"
+    ],
+    [
+      "character navigation",
+      "involves",
+      "time travel"
+    ],
+    [
+      "character navigation",
+      "presents",
+      "reality challenges"
+    ],
+    [
+      "character navigation",
+      "promotes",
+      "audience engagement"
+    ],
+    [
+      "character navigation",
+      "raises",
+      "ethical implications"
+    ],
+    [
+      "character navigation",
+      "shapes",
+      "adventure narratives"
+    ],
+    [
+      "consequences of actions",
+      "adds depth to",
+      "storytelling depth"
+    ],
+    [
+      "consequences of actions",
+      "affects",
+      "altering events"
+    ],
+    [
+      "consequences of actions",
+      "enhances",
+      "universe understanding"
+    ],
+    [
+      "consequences of actions",
+      "fuels",
+      "audience fascination"
+    ],
+    [
+      "consequences of actions",
+      "highlights",
+      "consequences of time travel"
+    ],
+    [
+      "consequences of actions",
+      "influences",
+      "adventure narratives"
+    ],
+    [
+      "consequences of actions",
+      "involves",
+      "supernatural powers"
+    ],
+    [
+      "consequences of actions",
+      "leads to",
+      "catastrophic events"
+    ],
+    [
+      "consequences of actions",
+      "presents",
+      "reality challenges"
+    ],
+    [
+      "consequences of actions",
+      "raises",
+      "ethical dilemmas"
+    ],
+    [
+      "consequences of actions",
+      "raises",
+      "philosophical questions"
+    ],
+    [
+      "consequences of actions",
+      "shapes",
+      "character arcs"
+    ],
+    [
+      "consequences of actions",
+      "shapes",
+      "contemporary interpretations"
+    ],
+    [
+      "consequences of actions",
+      "shapes",
+      "storytelling themes"
+    ],
+    [
+      "consequences of actions",
+      "utilizes",
+      "storytelling techniques"
+    ],
+    [
+      "consequences of time travel",
+      "captures",
+      "audience fascination"
+    ],
+    [
+      "consequences of time travel",
+      "explores",
+      "parallel universes"
+    ],
+    [
+      "consequences of time travel",
+      "explores",
+      "reality exploration"
+    ],
+    [
+      "consequences of time travel",
+      "explores",
+      "storytelling themes"
+    ],
+    [
+      "consequences of time travel",
+      "involves",
+      "changing past"
+    ],
+    [
+      "consequences of time travel",
+      "is influenced by",
+      "predetermined future"
+    ],
+    [
+      "consequences of time travel",
+      "is related to",
+      "time travel"
+    ],
+    [
+      "consequences of time travel",
+      "leads to",
+      "alternate timelines"
+    ],
+    [
+      "consequences of time travel",
+      "presents",
+      "ethical dilemmas"
+    ],
+    [
+      "consequences of time travel",
+      "results in",
+      "character confrontation"
+    ],
+    [
+      "consequences of time travel",
+      "results in",
+      "future catastrophe"
+    ],
+    [
+      "contemporary interpretations",
+      "is interpreted in",
+      "unintended consequences"
+    ],
+    [
+      "contemporary interpretations",
+      "shapes",
+      "storytelling techniques"
+    ],
+    [
+      "creative storytelling",
+      "develops",
+      "character arcs"
+    ],
+    [
+      "creative storytelling",
+      "enables",
+      "altering events"
+    ],
+    [
+      "creative storytelling",
+      "enhances",
+      "storytelling depth"
+    ],
+    [
+      "creative storytelling",
+      "enhances",
+      "storytelling techniques"
+    ],
+    [
+      "creative storytelling",
+      "enhances",
+      "universe understanding"
+    ],
+    [
+      "creative storytelling",
+      "expands",
+      "narrative possibilities"
+    ],
+    [
+      "creative storytelling",
+      "explores",
+      "consequences of time travel"
+    ],
+    [
+      "creative storytelling",
+      "influences",
+      "consequences of actions"
+    ],
+    [
+      "creative storytelling",
+      "involves",
+      "imaginative scenarios"
+    ],
+    [
+      "creative storytelling",
+      "presents",
+      "reality challenges"
+    ],
+    [
+      "determinism issues",
+      "challenges",
+      "adventure narratives"
+    ],
+    [
+      "determinism issues",
+      "contributes to",
+      "fiction evolution"
+    ],
+    [
+      "determinism issues",
+      "is influenced by",
+      "universe understanding"
+    ],
+    [
+      "determinism issues",
+      "raises",
+      "audience engagement"
+    ],
+    [
+      "determinism issues",
+      "raises",
+      "consequences of time travel"
+    ],
+    [
+      "determinism issues",
+      "raises",
+      "storytelling techniques"
+    ],
+    [
+      "ethical dilemmas",
+      "explores",
+      "storytelling themes"
+    ],
+    [
+      "ethical dilemmas",
+      "involves",
+      "temporal exploration"
+    ],
+    [
+      "ethical dilemmas",
+      "raises",
+      "causality questions"
+    ],
+    [
+      "ethical dilemmas",
+      "raises",
+      "supernatural powers"
+    ],
+    [
+      "ethical implications",
+      "is influenced by",
+      "catastrophic events"
+    ],
+    [
+      "ethical implications",
+      "raises",
+      "universe understanding"
+    ],
+    [
+      "ethical implications",
+      "shapes",
+      "fiction evolution"
+    ],
+    [
+      "exploration of time",
+      "defines",
+      "time machine rules"
+    ],
+    [
+      "exploration of time",
+      "leads to",
+      "alternate timelines"
+    ],
+    [
+      "fiction discussions",
+      "adds",
+      "storytelling depth"
+    ],
+    [
+      "fiction discussions",
+      "encourages",
+      "adventure narratives"
+    ],
+    [
+      "fiction discussions",
+      "examines",
+      "consequences of time travel"
+    ],
+    [
+      "fiction discussions",
+      "fosters",
+      "character development"
+    ],
+    [
+      "fiction discussions",
+      "influences",
+      "universe understanding"
+    ],
+    [
+      "fiction discussions",
+      "involves",
+      "science fiction themes"
+    ],
+    [
+      "fiction discussions",
+      "involves",
+      "time travel"
+    ],
+    [
+      "fiction discussions",
+      "promotes",
+      "contemporary interpretations"
+    ],
+    [
+      "fiction discussions",
+      "questions",
+      "causality questions"
+    ],
+    [
+      "fiction discussions",
+      "shapes",
+      "storytelling themes"
+    ],
+    [
+      "fiction discussions",
+      "stimulates",
+      "fictional time travel"
+    ],
+    [
+      "fiction discussions",
+      "stimulates",
+      "supernatural powers"
+    ],
+    [
+      "fiction evolution",
+      "affects",
+      "catastrophic events"
+    ],
+    [
+      "fiction evolution",
+      "raises",
+      "causality questions"
+    ],
+    [
+      "fiction evolution",
+      "shapes",
+      "multiple timelines"
+    ],
+    [
+      "future catastrophe",
+      "is a consequence of",
+      "ethical implications"
+    ],
+    [
+      "future catastrophe",
+      "is prevented by",
+      "catastrophic events"
+    ],
+    [
+      "future catastrophe",
+      "leads to",
+      "adventure narratives"
+    ],
+    [
+      "future catastrophe",
+      "results in",
+      "audience engagement"
+    ],
+    [
+      "history alteration",
+      "enables",
+      "temporal exploration"
+    ],
+    [
+      "history alteration",
+      "enables",
+      "time travel"
+    ],
+    [
+      "history alteration",
+      "explores",
+      "reality exploration"
+    ],
+    [
+      "history alteration",
+      "inspires",
+      "imaginative scenarios"
+    ],
+    [
+      "history alteration",
+      "introduces",
+      "ethical dilemmas"
+    ],
+    [
+      "history alteration",
+      "is confronted by",
+      "character confrontation"
+    ],
+    [
+      "history alteration",
+      "raises",
+      "determinism issues"
+    ],
+    [
+      "history alteration",
+      "results in",
+      "future catastrophe"
+    ],
+    [
+      "history alteration",
+      "sparks",
+      "audience fascination"
+    ],
+    [
+      "imaginative scenarios",
+      "enhances",
+      "storytelling depth"
+    ],
+    [
+      "imaginative scenarios",
+      "explores",
+      "causality questions"
+    ],
+    [
+      "imaginative scenarios",
+      "inspires",
+      "narrative possibilities"
+    ],
+    [
+      "imaginative scenarios",
+      "inspires",
+      "philosophical questions"
+    ],
+    [
+      "multiple timelines",
+      "enhances",
+      "audience engagement"
+    ],
+    [
+      "multiple timelines",
+      "exists alongside",
+      "parallel universes"
+    ],
+    [
+      "multiple timelines",
+      "facilitates",
+      "temporal exploration"
+    ],
+    [
+      "multiple timelines",
+      "involves",
+      "creative storytelling"
+    ],
+    [
+      "multiple timelines",
+      "is a form of",
+      "time travel"
+    ],
+    [
+      "multiple timelines",
+      "is related to",
+      "alternate timelines"
+    ],
+    [
+      "multiple timelines",
+      "reveals",
+      "time nature"
+    ],
+    [
+      "narrative possibilities",
+      "expands",
+      "multiple timelines"
+    ],
+    [
+      "narrative possibilities",
+      "involves",
+      "changing past"
+    ],
+    [
+      "narrative possibilities",
+      "involves",
+      "character confrontation"
+    ],
+    [
+      "narrative possibilities",
+      "opens",
+      "alternate timelines"
+    ],
+    [
+      "narrative possibilities",
+      "shapes",
+      "fiction evolution"
+    ],
+    [
+      "parallel universes",
+      "contributes to",
+      "fiction evolution"
+    ],
+    [
+      "parallel universes",
+      "depicts",
+      "fictional time travel"
+    ],
+    [
+      "parallel universes",
+      "influences",
+      "supernatural powers"
+    ],
+    [
+      "parallel universes",
+      "involves",
+      "alternate timelines"
+    ],
+    [
+      "parallel universes",
+      "is a consequence of",
+      "catastrophic events"
+    ],
+    [
+      "parallel universes",
+      "is a method of",
+      "time travel"
+    ],
+    [
+      "parallel universes",
+      "results in",
+      "future catastrophe"
+    ],
+    [
+      "parallel universes",
+      "stimulates",
+      "audience engagement"
+    ],
+    [
+      "parallel universes",
+      "utilizes",
+      "storytelling techniques"
+    ],
+    [
+      "philosophical questions",
+      "contributes to",
+      "character development"
+    ],
+    [
+      "philosophical questions",
+      "explores",
+      "temporal exploration"
+    ],
+    [
+      "philosophical questions",
+      "influences",
+      "temporal mechanics"
+    ],
+    [
+      "philosophical questions",
+      "invokes",
+      "reality exploration"
+    ],
+    [
+      "philosophical questions",
+      "provokes",
+      "causality questions"
+    ],
+    [
+      "philosophical questions",
+      "raises",
+      "character arcs"
+    ],
+    [
+      "philosophical questions",
+      "raises",
+      "determinism issues"
+    ],
+    [
+      "philosophical questions",
+      "raises",
+      "future catastrophe"
+    ],
+    [
+      "philosophical questions",
+      "raises",
+      "time travel"
+    ],
+    [
+      "philosophical questions",
+      "shapes",
+      "fiction evolution"
+    ],
+    [
+      "philosophical questions",
+      "stimulates",
+      "fiction discussions"
+    ],
+    [
+      "predetermined future",
+      "affects",
+      "consequences of actions"
+    ],
+    [
+      "predetermined future",
+      "complicates",
+      "character navigation"
+    ],
+    [
+      "predetermined future",
+      "explores",
+      "science fiction themes"
+    ],
+    [
+      "predetermined future",
+      "involves",
+      "altering events"
+    ],
+    [
+      "predetermined future",
+      "is affected by",
+      "temporal mechanics"
+    ],
+    [
+      "predetermined future",
+      "leads to",
+      "imaginative scenarios"
+    ],
+    [
+      "predetermined future",
+      "raises",
+      "ethical dilemmas"
+    ],
+    [
+      "predetermined future",
+      "raises",
+      "ethical implications"
+    ],
+    [
+      "reality challenges",
+      "challenges",
+      "audience fascination"
+    ],
+    [
+      "reality challenges",
+      "challenges",
+      "storytelling techniques"
+    ],
+    [
+      "reality challenges",
+      "complicates",
+      "audience engagement"
+    ],
+    [
+      "reality challenges",
+      "highlights",
+      "ethical implications"
+    ],
+    [
+      "reality challenges",
+      "inspires",
+      "imaginative scenarios"
+    ],
+    [
+      "reality exploration",
+      "drives",
+      "fiction evolution"
+    ],
+    [
+      "reality exploration",
+      "enhances",
+      "storytelling depth"
+    ],
+    [
+      "reality exploration",
+      "explores",
+      "imaginative scenarios"
+    ],
+    [
+      "reality exploration",
+      "explores",
+      "science fiction themes"
+    ],
+    [
+      "reality exploration",
+      "is influenced by",
+      "fiction discussions"
+    ],
+    [
+      "science fiction themes",
+      "informs",
+      "catastrophic events"
+    ],
+    [
+      "science fiction themes",
+      "informs",
+      "changing past"
+    ],
+    [
+      "science fiction themes",
+      "informs",
+      "contemporary interpretations"
+    ],
+    [
+      "science fiction themes",
+      "inspires",
+      "imaginative scenarios"
+    ],
+    [
+      "science fiction themes",
+      "is a theme in",
+      "parallel universes"
+    ],
+    [
+      "science fiction themes",
+      "is a theme in",
+      "supernatural powers"
+    ],
+    [
+      "science fiction themes",
+      "is a theme in",
+      "universe understanding"
+    ],
+    [
+      "storytelling depth",
+      "captures",
+      "audience fascination"
+    ],
+    [
+      "storytelling depth",
+      "is influenced by",
+      "predetermined future"
+    ],
+    [
+      "storytelling depth",
+      "provokes",
+      "causality questions"
+    ],
+    [
+      "storytelling techniques",
+      "informs",
+      "catastrophic events"
+    ],
+    [
+      "storytelling themes",
+      "comprises",
+      "storytelling techniques"
+    ],
+    [
+      "storytelling themes",
+      "explores",
+      "fictional time travel"
+    ],
+    [
+      "storytelling themes",
+      "includes",
+      "supernatural powers"
+    ],
+    [
+      "storytelling themes",
+      "is a theme in",
+      "multiple timelines"
+    ],
+    [
+      "storytelling themes",
+      "raises",
+      "causality questions"
+    ],
+    [
+      "supernatural powers",
+      "can lead to",
+      "future catastrophe"
+    ],
+    [
+      "supernatural powers",
+      "creates",
+      "imaginative scenarios"
+    ],
+    [
+      "supernatural powers",
+      "enables",
+      "catastrophic events"
+    ],
+    [
+      "supernatural powers",
+      "enhances",
+      "adventure narratives"
+    ],
+    [
+      "supernatural powers",
+      "influences",
+      "fiction evolution"
+    ],
+    [
+      "supernatural powers",
+      "shapes",
+      "character arcs"
+    ],
+    [
+      "supernatural powers",
+      "stimulates",
+      "audience engagement"
+    ],
+    [
+      "supernatural time manipulation",
+      "creates",
+      "alternate timelines"
+    ],
+    [
+      "supernatural time manipulation",
+      "enables",
+      "magical time travel"
+    ],
+    [
+      "supernatural time manipulation",
+      "facilitates",
+      "exploration of time"
+    ],
+    [
+      "supernatural time manipulation",
+      "includes",
+      "time travel devices"
+    ],
+    [
+      "technology advancement",
+      "creates",
+      "time loops"
+    ],
+    [
+      "technology advancement",
+      "drives",
+      "plot devices"
+    ],
+    [
+      "temporal exploration",
+      "captures",
+      "audience fascination"
+    ],
+    [
+      "temporal exploration",
+      "depicts",
+      "fictional time travel"
+    ],
+    [
+      "temporal exploration",
+      "enables",
+      "altering events"
+    ],
+    [
+      "temporal exploration",
+      "evolves",
+      "fiction evolution"
+    ],
+    [
+      "temporal exploration",
+      "informs",
+      "contemporary interpretations"
+    ],
+    [
+      "temporal exploration",
+      "informs",
+      "science fiction themes"
+    ],
+    [
+      "temporal exploration",
+      "involves",
+      "parallel universes"
+    ],
+    [
+      "temporal exploration",
+      "involves",
+      "time travel"
+    ],
+    [
+      "temporal exploration",
+      "raises",
+      "determinism issues"
+    ],
+    [
+      "temporal exploration",
+      "shapes",
+      "character arcs"
+    ],
+    [
+      "temporal mechanics",
+      "affects",
+      "consequences of actions"
+    ],
+    [
+      "temporal mechanics",
+      "enhances",
+      "character development"
+    ],
+    [
+      "temporal mechanics",
+      "enhances",
+      "storytelling techniques"
+    ],
+    [
+      "temporal mechanics",
+      "explores",
+      "science fiction themes"
+    ],
+    [
+      "temporal mechanics",
+      "includes",
+      "parallel universes"
+    ],
+    [
+      "temporal mechanics",
+      "influences",
+      "predetermined future"
+    ],
+    [
+      "temporal mechanics",
+      "involves",
+      "changing past"
+    ],
+    [
+      "temporal mechanics",
+      "raises",
+      "determinism issues"
+    ],
+    [
+      "temporal mechanics",
+      "raises",
+      "ethical implications"
+    ],
+    [
+      "temporal mechanics",
+      "raises",
+      "philosophical questions"
+    ],
+    [
+      "temporal mechanics",
+      "sparks",
+      "fiction discussions"
+    ],
+    [
+      "time machine",
+      "facilitates",
+      "time travel"
+    ],
+    [
+      "time machine",
+      "is a type of",
+      "time travel devices"
+    ],
+    [
+      "time travel",
+      "can result in",
+      "future catastrophe"
+    ],
+    [
+      "time travel",
+      "is a concept of",
+      "alternate timelines"
+    ],
+    [
+      "time travel",
+      "is a method of",
+      "time machine"
+    ],
+    [
+      "time travel devices",
+      "creates",
+      "time loops"
+    ],
+    [
+      "unintended consequences",
+      "affects",
+      "temporal mechanics"
+    ],
+    [
+      "unintended consequences",
+      "can lead to",
+      "future catastrophe"
+    ],
+    [
+      "unintended consequences",
+      "creates",
+      "imaginative scenarios"
+    ],
+    [
+      "unintended consequences",
+      "illustrates",
+      "storytelling themes"
+    ],
+    [
+      "unintended consequences",
+      "is a factor in",
+      "ethical implications"
+    ],
+    [
+      "unintended consequences",
+      "is a theme in",
+      "adventure narratives"
+    ],
+    [
+      "unintended consequences",
+      "is influenced by",
+      "supernatural powers"
+    ],
+    [
+      "unintended consequences",
+      "is related to",
+      "temporal exploration"
+    ],
+    [
+      "unintended consequences",
+      "raises",
+      "causality questions"
+    ],
+    [
+      "unintended consequences",
+      "results in",
+      "catastrophic events"
+    ],
+    [
+      "universe understanding",
+      "enhances",
+      "audience engagement"
+    ],
+    [
+      "universe understanding",
+      "enhances",
+      "imaginative scenarios"
+    ],
+    [
+      "universe understanding",
+      "enhances",
+      "storytelling depth"
+    ],
+    [
+      "universe understanding",
+      "expands",
+      "narrative possibilities"
+    ],
+    [
+      "universe understanding",
+      "guides",
+      "character navigation"
+    ],
+    [
+      "universe understanding",
+      "influences",
+      "changing past"
+    ],
+    [
+      "universe understanding",
+      "informs",
+      "fiction evolution"
+    ],
+    [
+      "universe understanding",
+      "involves",
+      "parallel universes"
+    ],
+    [
+      "universe understanding",
+      "raises",
+      "determinism issues"
+    ]
+  ],
+  "edges": [
+    "adds",
+    "adds depth to",
+    "adds to",
+    "affects",
+    "can lead to",
+    "can result in",
+    "captures",
+    "challenges",
+    "complicates",
+    "comprises",
+    "contributes to",
+    "creates",
+    "defines",
+    "depicts",
+    "develops",
+    "drives",
+    "enables",
+    "encourages",
+    "engages",
+    "enhances",
+    "evolves",
+    "examines",
+    "exists alongside",
+    "expands",
+    "explores",
+    "facilitates",
+    "fosters",
+    "fuels",
+    "guides",
+    "highlights",
+    "illustrates",
+    "includes",
+    "influences",
+    "informs",
+    "inspires",
+    "intersects with",
+    "intrigues",
+    "introduces",
+    "invokes",
+    "involves",
+    "is a concept of",
+    "is a consequence of",
+    "is a factor in",
+    "is a form of",
+    "is a method of",
+    "is a technique of",
+    "is a theme in",
+    "is a type of",
+    "is affected by",
+    "is caused by",
+    "is confronted by",
+    "is fascinated by",
+    "is influenced by",
+    "is interpreted in",
+    "is prevented by",
+    "is related to",
+    "leads to",
+    "opens",
+    "presents",
+    "promotes",
+    "provokes",
+    "questions",
+    "raises",
+    "results in",
+    "reveals",
+    "shapes",
+    "sparks",
+    "stimulates",
+    "utilizes"
+  ]
+}

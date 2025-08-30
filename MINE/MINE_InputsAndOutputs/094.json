@@ -1,0 +1,1627 @@
+{
+  "entities": [
+    "acceptance",
+    "belonging",
+    "contentment",
+    "creative projects",
+    "cultivating gratitude",
+    "emotional exploration",
+    "emotional health",
+    "emotional resilience",
+    "emotional support",
+    "emotional well-being",
+    "engaging activities",
+    "enhancing happiness",
+    "flow activities",
+    "fulfilling lives",
+    "fulfillment",
+    "gratitude",
+    "happiness",
+    "happiness factors",
+    "impact on happiness",
+    "joy",
+    "joyful experiences",
+    "joyful pursuits",
+    "life meaning",
+    "life satisfaction",
+    "love",
+    "mastering skills",
+    "meaning",
+    "meaningful experiences",
+    "meaningful pursuits",
+    "meaningful relationships",
+    "mental health",
+    "overall well-being",
+    "personal fulfillment",
+    "personal growth",
+    "perspective shift",
+    "physical health",
+    "positive emotions",
+    "positive psychology",
+    "practicing gratitude",
+    "pursuing passion",
+    "relationships",
+    "resilience",
+    "satisfaction",
+    "science of happiness",
+    "scientific insights",
+    "social connections",
+    "stress coping",
+    "subjective experience",
+    "support networks",
+    "understanding happiness",
+    "unique experiences",
+    "universal goal",
+    "well-being"
+  ],
+  "relations": [
+    [
+      "acceptance",
+      "aids in stress coping",
+      "stress coping"
+    ],
+    [
+      "acceptance",
+      "enhances",
+      "physical health"
+    ],
+    [
+      "acceptance",
+      "facilitates",
+      "flow activities"
+    ],
+    [
+      "acceptance",
+      "facilitates",
+      "personal growth"
+    ],
+    [
+      "acceptance",
+      "influences",
+      "life satisfaction"
+    ],
+    [
+      "acceptance",
+      "is a component of",
+      "belonging"
+    ],
+    [
+      "acceptance",
+      "is a form of",
+      "gratitude"
+    ],
+    [
+      "acceptance",
+      "provides",
+      "meaning"
+    ],
+    [
+      "acceptance",
+      "supports",
+      "support networks"
+    ],
+    [
+      "belonging",
+      "is fostered by",
+      "social connections"
+    ],
+    [
+      "belonging",
+      "is pursued by",
+      "universal goal"
+    ],
+    [
+      "belonging",
+      "provides",
+      "well-being"
+    ],
+    [
+      "contentment",
+      "affects",
+      "physical health"
+    ],
+    [
+      "contentment",
+      "contributes to",
+      "life satisfaction"
+    ],
+    [
+      "contentment",
+      "contributes to",
+      "well-being"
+    ],
+    [
+      "contentment",
+      "is a form of",
+      "joy"
+    ],
+    [
+      "contentment",
+      "is supported by",
+      "support networks"
+    ],
+    [
+      "contentment",
+      "leads to",
+      "flow activities"
+    ],
+    [
+      "contentment",
+      "leads to",
+      "stress coping"
+    ],
+    [
+      "contentment",
+      "leads to",
+      "unique experiences"
+    ],
+    [
+      "contentment",
+      "promotes",
+      "fulfilling lives"
+    ],
+    [
+      "contentment",
+      "provides",
+      "meaning"
+    ],
+    [
+      "creative projects",
+      "builds",
+      "emotional resilience"
+    ],
+    [
+      "creative projects",
+      "elicits joy from",
+      "joy"
+    ],
+    [
+      "creative projects",
+      "facilitates",
+      "mastering skills"
+    ],
+    [
+      "creative projects",
+      "is fostered by",
+      "acceptance"
+    ],
+    [
+      "cultivating gratitude",
+      "enhances",
+      "emotional resilience"
+    ],
+    [
+      "cultivating gratitude",
+      "enhances overall well-being",
+      "overall well-being"
+    ],
+    [
+      "cultivating gratitude",
+      "improves stress coping",
+      "stress coping"
+    ],
+    [
+      "cultivating gratitude",
+      "leads to",
+      "contentment"
+    ],
+    [
+      "cultivating gratitude",
+      "promotes",
+      "acceptance"
+    ],
+    [
+      "cultivating gratitude",
+      "promotes",
+      "personal growth"
+    ],
+    [
+      "emotional exploration",
+      "contributes to",
+      "fulfilling lives"
+    ],
+    [
+      "emotional exploration",
+      "facilitates mastering",
+      "mastering skills"
+    ],
+    [
+      "emotional exploration",
+      "is studied in",
+      "science of happiness"
+    ],
+    [
+      "emotional health",
+      "affects",
+      "impact on happiness"
+    ],
+    [
+      "emotional health",
+      "affects",
+      "life satisfaction"
+    ],
+    [
+      "emotional health",
+      "affects",
+      "physical health"
+    ],
+    [
+      "emotional health",
+      "contributes to",
+      "overall well-being"
+    ],
+    [
+      "emotional health",
+      "enhances",
+      "belonging"
+    ],
+    [
+      "emotional health",
+      "enhances",
+      "enhancing happiness"
+    ],
+    [
+      "emotional health",
+      "enhances",
+      "joy"
+    ],
+    [
+      "emotional health",
+      "is affected by",
+      "resilience"
+    ],
+    [
+      "emotional health",
+      "supports",
+      "support networks"
+    ],
+    [
+      "emotional resilience",
+      "enhances",
+      "acceptance"
+    ],
+    [
+      "emotional resilience",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "emotional resilience",
+      "is supported by",
+      "contentment"
+    ],
+    [
+      "emotional resilience",
+      "provides",
+      "belonging"
+    ],
+    [
+      "emotional resilience",
+      "supports",
+      "scientific insights"
+    ],
+    [
+      "emotional support",
+      "enhances",
+      "positive emotions"
+    ],
+    [
+      "emotional support",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "emotional support",
+      "improves",
+      "physical health"
+    ],
+    [
+      "emotional support",
+      "is enhanced by",
+      "practicing gratitude"
+    ],
+    [
+      "emotional support",
+      "is provided by",
+      "acceptance"
+    ],
+    [
+      "emotional support",
+      "is provided by",
+      "support networks"
+    ],
+    [
+      "emotional support",
+      "leads to",
+      "contentment"
+    ],
+    [
+      "emotional support",
+      "supports",
+      "emotional health"
+    ],
+    [
+      "emotional support",
+      "supports",
+      "emotional well-being"
+    ],
+    [
+      "emotional support",
+      "supports",
+      "positive psychology"
+    ],
+    [
+      "emotional well-being",
+      "affects",
+      "impact on happiness"
+    ],
+    [
+      "emotional well-being",
+      "affects",
+      "well-being"
+    ],
+    [
+      "emotional well-being",
+      "enhances",
+      "fulfilling lives"
+    ],
+    [
+      "emotional well-being",
+      "enhances",
+      "joy"
+    ],
+    [
+      "emotional well-being",
+      "influences",
+      "overall well-being"
+    ],
+    [
+      "emotional well-being",
+      "is a source of",
+      "happiness"
+    ],
+    [
+      "emotional well-being",
+      "is enhanced by",
+      "gratitude"
+    ],
+    [
+      "emotional well-being",
+      "is enhanced by",
+      "positive psychology"
+    ],
+    [
+      "emotional well-being",
+      "provides",
+      "belonging"
+    ],
+    [
+      "emotional well-being",
+      "supports",
+      "personal fulfillment"
+    ],
+    [
+      "engaging activities",
+      "aids in",
+      "stress coping"
+    ],
+    [
+      "engaging activities",
+      "contributes to",
+      "fulfilling lives"
+    ],
+    [
+      "engaging activities",
+      "contributes to happiness",
+      "happiness"
+    ],
+    [
+      "engaging activities",
+      "is a goal of",
+      "universal goal"
+    ],
+    [
+      "engaging activities",
+      "leads to",
+      "personal fulfillment"
+    ],
+    [
+      "engaging activities",
+      "promotes",
+      "contentment"
+    ],
+    [
+      "engaging activities",
+      "provides",
+      "scientific insights"
+    ],
+    [
+      "flow activities",
+      "aids",
+      "stress coping"
+    ],
+    [
+      "flow activities",
+      "enhances",
+      "emotional well-being"
+    ],
+    [
+      "flow activities",
+      "evokes",
+      "joy"
+    ],
+    [
+      "flow activities",
+      "promotes emotional health",
+      "emotional health"
+    ],
+    [
+      "fulfilling lives",
+      "contributes to",
+      "belonging"
+    ],
+    [
+      "fulfilling lives",
+      "enhances",
+      "personal fulfillment"
+    ],
+    [
+      "fulfillment",
+      "achieves",
+      "happiness"
+    ],
+    [
+      "gratitude",
+      "enhances",
+      "stress coping"
+    ],
+    [
+      "gratitude",
+      "fosters",
+      "contentment"
+    ],
+    [
+      "happiness",
+      "enhances",
+      "gratitude"
+    ],
+    [
+      "happiness",
+      "involves",
+      "creative projects"
+    ],
+    [
+      "happiness",
+      "is a component of",
+      "well-being"
+    ],
+    [
+      "happiness",
+      "is associated with",
+      "joy"
+    ],
+    [
+      "happiness",
+      "is enhanced by",
+      "acceptance"
+    ],
+    [
+      "happiness",
+      "is influenced by",
+      "emotional health"
+    ],
+    [
+      "happiness",
+      "is linked to",
+      "contentment"
+    ],
+    [
+      "happiness",
+      "is linked to",
+      "fulfilling lives"
+    ],
+    [
+      "happiness",
+      "is supported by",
+      "emotional resilience"
+    ],
+    [
+      "happiness factors",
+      "informs",
+      "personal fulfillment"
+    ],
+    [
+      "happiness factors",
+      "is a factor in",
+      "gratitude"
+    ],
+    [
+      "happiness factors",
+      "is influenced by",
+      "resilience"
+    ],
+    [
+      "happiness factors",
+      "provides",
+      "meaning"
+    ],
+    [
+      "impact on happiness",
+      "is enhanced by",
+      "practicing gratitude"
+    ],
+    [
+      "impact on happiness",
+      "is influenced by",
+      "joyful experiences"
+    ],
+    [
+      "impact on happiness",
+      "is influenced by",
+      "satisfaction"
+    ],
+    [
+      "impact on happiness",
+      "supports emotional resilience",
+      "emotional resilience"
+    ],
+    [
+      "joy",
+      "evokes",
+      "stress coping"
+    ],
+    [
+      "joy",
+      "is a result of",
+      "well-being"
+    ],
+    [
+      "joy",
+      "is enhanced by",
+      "overall well-being"
+    ],
+    [
+      "joy",
+      "produces",
+      "joyful pursuits"
+    ],
+    [
+      "joy",
+      "produces",
+      "pursuing passion"
+    ],
+    [
+      "joyful experiences",
+      "increases",
+      "life satisfaction"
+    ],
+    [
+      "joyful experiences",
+      "informs",
+      "scientific insights"
+    ],
+    [
+      "joyful experiences",
+      "is influenced by",
+      "happiness factors"
+    ],
+    [
+      "joyful experiences",
+      "is linked to",
+      "gratitude"
+    ],
+    [
+      "joyful pursuits",
+      "provides",
+      "meaning"
+    ],
+    [
+      "life meaning",
+      "provides",
+      "belonging"
+    ],
+    [
+      "life meaning",
+      "provides",
+      "flow activities"
+    ],
+    [
+      "life meaning",
+      "provides",
+      "positive psychology"
+    ],
+    [
+      "life satisfaction",
+      "enhances emotional resilience",
+      "emotional resilience"
+    ],
+    [
+      "life satisfaction",
+      "increases",
+      "gratitude"
+    ],
+    [
+      "life satisfaction",
+      "is derived from",
+      "meaning"
+    ],
+    [
+      "life satisfaction",
+      "is related to",
+      "understanding happiness"
+    ],
+    [
+      "life satisfaction",
+      "promotes",
+      "personal growth"
+    ],
+    [
+      "love",
+      "affects",
+      "impact on happiness"
+    ],
+    [
+      "love",
+      "contributes to",
+      "acceptance"
+    ],
+    [
+      "love",
+      "contributes to",
+      "well-being"
+    ],
+    [
+      "love",
+      "enhances",
+      "contentment"
+    ],
+    [
+      "love",
+      "enhances",
+      "overall well-being"
+    ],
+    [
+      "love",
+      "is a source of",
+      "happiness"
+    ],
+    [
+      "love",
+      "is a type of",
+      "positive emotions"
+    ],
+    [
+      "love",
+      "is fostered by",
+      "meaningful relationships"
+    ],
+    [
+      "love",
+      "is studied in",
+      "science of happiness"
+    ],
+    [
+      "love",
+      "strengthens",
+      "relationships"
+    ],
+    [
+      "love",
+      "supports",
+      "resilience"
+    ],
+    [
+      "mastering skills",
+      "enhances",
+      "life meaning"
+    ],
+    [
+      "mastering skills",
+      "facilitates",
+      "personal growth"
+    ],
+    [
+      "meaning",
+      "enhances",
+      "enhancing happiness"
+    ],
+    [
+      "meaning",
+      "provides",
+      "belonging"
+    ],
+    [
+      "meaning",
+      "provides",
+      "joyful experiences"
+    ],
+    [
+      "meaning",
+      "provides",
+      "meaningful pursuits"
+    ],
+    [
+      "meaning",
+      "provides meaning to",
+      "impact on happiness"
+    ],
+    [
+      "meaningful experiences",
+      "contributes to",
+      "happiness factors"
+    ],
+    [
+      "meaningful experiences",
+      "enhances",
+      "emotional well-being"
+    ],
+    [
+      "meaningful experiences",
+      "enhances",
+      "understanding happiness"
+    ],
+    [
+      "meaningful experiences",
+      "fosters belonging",
+      "belonging"
+    ],
+    [
+      "meaningful experiences",
+      "improves",
+      "enhancing happiness"
+    ],
+    [
+      "meaningful experiences",
+      "informs",
+      "positive psychology"
+    ],
+    [
+      "meaningful experiences",
+      "involves",
+      "joyful pursuits"
+    ],
+    [
+      "meaningful experiences",
+      "involves pursuing",
+      "pursuing passion"
+    ],
+    [
+      "meaningful experiences",
+      "is influenced by",
+      "happiness"
+    ],
+    [
+      "meaningful experiences",
+      "promotes flow activities",
+      "flow activities"
+    ],
+    [
+      "meaningful pursuits",
+      "provides",
+      "life meaning"
+    ],
+    [
+      "meaningful relationships",
+      "contributes to",
+      "satisfaction"
+    ],
+    [
+      "meaningful relationships",
+      "is influenced by",
+      "life satisfaction"
+    ],
+    [
+      "mental health",
+      "improves",
+      "acceptance"
+    ],
+    [
+      "mental health",
+      "is a component of",
+      "emotional health"
+    ],
+    [
+      "mental health",
+      "strengthens",
+      "social connections"
+    ],
+    [
+      "overall well-being",
+      "contributes to",
+      "impact on happiness"
+    ],
+    [
+      "overall well-being",
+      "contributes to",
+      "meaningful experiences"
+    ],
+    [
+      "overall well-being",
+      "enhances",
+      "personal fulfillment"
+    ],
+    [
+      "overall well-being",
+      "is a factor in",
+      "satisfaction"
+    ],
+    [
+      "overall well-being",
+      "is a focus of",
+      "positive psychology"
+    ],
+    [
+      "overall well-being",
+      "is a measure of",
+      "contentment"
+    ],
+    [
+      "overall well-being",
+      "is influenced by",
+      "life satisfaction"
+    ],
+    [
+      "overall well-being",
+      "provides",
+      "meaning"
+    ],
+    [
+      "personal fulfillment",
+      "encourages",
+      "emotional exploration"
+    ],
+    [
+      "personal fulfillment",
+      "enhances",
+      "gratitude"
+    ],
+    [
+      "personal fulfillment",
+      "informs",
+      "positive psychology"
+    ],
+    [
+      "personal fulfillment",
+      "involves",
+      "joyful pursuits"
+    ],
+    [
+      "personal fulfillment",
+      "involves creative projects",
+      "creative projects"
+    ],
+    [
+      "personal fulfillment",
+      "is a result of",
+      "satisfaction"
+    ],
+    [
+      "personal fulfillment",
+      "is influenced by",
+      "social connections"
+    ],
+    [
+      "personal growth",
+      "contributes to",
+      "contentment"
+    ],
+    [
+      "personal growth",
+      "leads to",
+      "fulfilling lives"
+    ],
+    [
+      "perspective shift",
+      "improves",
+      "well-being"
+    ],
+    [
+      "perspective shift",
+      "influences",
+      "unique experiences"
+    ],
+    [
+      "perspective shift",
+      "shifts perspective of",
+      "emotional well-being"
+    ],
+    [
+      "physical health",
+      "affects",
+      "life meaning"
+    ],
+    [
+      "physical health",
+      "affects physical health",
+      "emotional exploration"
+    ],
+    [
+      "physical health",
+      "enhances",
+      "emotional resilience"
+    ],
+    [
+      "physical health",
+      "enhances",
+      "social connections"
+    ],
+    [
+      "physical health",
+      "fosters",
+      "belonging"
+    ],
+    [
+      "physical health",
+      "improves",
+      "joyful experiences"
+    ],
+    [
+      "physical health",
+      "improves",
+      "meaningful pursuits"
+    ],
+    [
+      "physical health",
+      "improves",
+      "scientific insights"
+    ],
+    [
+      "physical health",
+      "influences",
+      "emotional well-being"
+    ],
+    [
+      "positive emotions",
+      "affects",
+      "emotional well-being"
+    ],
+    [
+      "positive emotions",
+      "enhances",
+      "flow activities"
+    ],
+    [
+      "positive emotions",
+      "improves",
+      "emotional health"
+    ],
+    [
+      "positive emotions",
+      "improves",
+      "overall well-being"
+    ],
+    [
+      "positive emotions",
+      "improves",
+      "physical health"
+    ],
+    [
+      "positive emotions",
+      "increases",
+      "life satisfaction"
+    ],
+    [
+      "positive emotions",
+      "is associated with",
+      "joy"
+    ],
+    [
+      "positive emotions",
+      "is enhanced by",
+      "gratitude"
+    ],
+    [
+      "positive emotions",
+      "is pursued by",
+      "universal goal"
+    ],
+    [
+      "positive emotions",
+      "promotes",
+      "personal growth"
+    ],
+    [
+      "positive emotions",
+      "provides",
+      "meaning"
+    ],
+    [
+      "positive psychology",
+      "addresses",
+      "stress coping"
+    ],
+    [
+      "positive psychology",
+      "contributes to",
+      "fulfilling lives"
+    ],
+    [
+      "positive psychology",
+      "enhances",
+      "enhancing happiness"
+    ],
+    [
+      "positive psychology",
+      "influences",
+      "gratitude"
+    ],
+    [
+      "positive psychology",
+      "is a focus of",
+      "contentment"
+    ],
+    [
+      "positive psychology",
+      "is a focus of",
+      "joy"
+    ],
+    [
+      "positive psychology",
+      "is related to",
+      "acceptance"
+    ],
+    [
+      "positive psychology",
+      "promotes",
+      "emotional health"
+    ],
+    [
+      "positive psychology",
+      "promotes",
+      "physical health"
+    ],
+    [
+      "positive psychology",
+      "provides",
+      "meaning"
+    ],
+    [
+      "positive psychology",
+      "studies",
+      "happiness"
+    ],
+    [
+      "practicing gratitude",
+      "contributes to",
+      "meaning"
+    ],
+    [
+      "practicing gratitude",
+      "contributes to",
+      "overall well-being"
+    ],
+    [
+      "practicing gratitude",
+      "enhances",
+      "acceptance"
+    ],
+    [
+      "practicing gratitude",
+      "enhances",
+      "contentment"
+    ],
+    [
+      "practicing gratitude",
+      "enhances",
+      "enhancing happiness"
+    ],
+    [
+      "practicing gratitude",
+      "enhances",
+      "support networks"
+    ],
+    [
+      "practicing gratitude",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "practicing gratitude",
+      "increases",
+      "life satisfaction"
+    ],
+    [
+      "practicing gratitude",
+      "increases",
+      "positive emotions"
+    ],
+    [
+      "practicing gratitude",
+      "strengthens",
+      "social connections"
+    ],
+    [
+      "pursuing passion",
+      "enhances emotional well-being",
+      "emotional well-being"
+    ],
+    [
+      "pursuing passion",
+      "facilitates",
+      "emotional exploration"
+    ],
+    [
+      "pursuing passion",
+      "is a component of",
+      "positive psychology"
+    ],
+    [
+      "pursuing passion",
+      "is a source of",
+      "joyful pursuits"
+    ],
+    [
+      "pursuing passion",
+      "provides",
+      "life meaning"
+    ],
+    [
+      "relationships",
+      "enhances",
+      "enhancing happiness"
+    ],
+    [
+      "relationships",
+      "is characterized by",
+      "meaningful relationships"
+    ],
+    [
+      "relationships",
+      "leads to",
+      "personal fulfillment"
+    ],
+    [
+      "relationships",
+      "provides",
+      "belonging"
+    ],
+    [
+      "resilience",
+      "contributes to",
+      "satisfaction"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "life satisfaction"
+    ],
+    [
+      "resilience",
+      "influences",
+      "positive emotions"
+    ],
+    [
+      "resilience",
+      "is enhanced by",
+      "positive psychology"
+    ],
+    [
+      "resilience",
+      "is fostered by",
+      "gratitude"
+    ],
+    [
+      "resilience",
+      "is supported by",
+      "social connections"
+    ],
+    [
+      "resilience",
+      "promotes",
+      "contentment"
+    ],
+    [
+      "resilience",
+      "supports",
+      "mastering skills"
+    ],
+    [
+      "resilience",
+      "supports",
+      "well-being"
+    ],
+    [
+      "satisfaction",
+      "is a form of",
+      "contentment"
+    ],
+    [
+      "satisfaction",
+      "is a form of",
+      "emotional well-being"
+    ],
+    [
+      "satisfaction",
+      "is enhanced by",
+      "gratitude"
+    ],
+    [
+      "satisfaction",
+      "is influenced by",
+      "positive psychology"
+    ],
+    [
+      "satisfaction",
+      "leads to",
+      "fulfillment"
+    ],
+    [
+      "satisfaction",
+      "promotes",
+      "personal growth"
+    ],
+    [
+      "satisfaction",
+      "results from",
+      "practicing gratitude"
+    ],
+    [
+      "science of happiness",
+      "enhances",
+      "enhancing happiness"
+    ],
+    [
+      "science of happiness",
+      "is a component of",
+      "satisfaction"
+    ],
+    [
+      "science of happiness",
+      "is examined by",
+      "positive emotions"
+    ],
+    [
+      "science of happiness",
+      "is explored by",
+      "joy"
+    ],
+    [
+      "science of happiness",
+      "is explored in",
+      "positive psychology"
+    ],
+    [
+      "science of happiness",
+      "is informed by",
+      "flow activities"
+    ],
+    [
+      "science of happiness",
+      "is informed by",
+      "life satisfaction"
+    ],
+    [
+      "science of happiness",
+      "is studied by",
+      "acceptance"
+    ],
+    [
+      "science of happiness",
+      "is studied by",
+      "contentment"
+    ],
+    [
+      "science of happiness",
+      "is studied by",
+      "engaging activities"
+    ],
+    [
+      "science of happiness",
+      "is studied by",
+      "gratitude"
+    ],
+    [
+      "science of happiness",
+      "is studied by",
+      "well-being"
+    ],
+    [
+      "science of happiness",
+      "is studied in",
+      "emotional well-being"
+    ],
+    [
+      "science of happiness",
+      "is understood through",
+      "fulfillment"
+    ],
+    [
+      "scientific insights",
+      "informs",
+      "creative projects"
+    ],
+    [
+      "scientific insights",
+      "informs",
+      "flow activities"
+    ],
+    [
+      "scientific insights",
+      "informs",
+      "happiness"
+    ],
+    [
+      "scientific insights",
+      "informs about",
+      "positive emotions"
+    ],
+    [
+      "scientific insights",
+      "provides",
+      "unique experiences"
+    ],
+    [
+      "stress coping",
+      "enhances",
+      "life satisfaction"
+    ],
+    [
+      "stress coping",
+      "enhances emotional health",
+      "emotional health"
+    ],
+    [
+      "stress coping",
+      "facilitates",
+      "emotional exploration"
+    ],
+    [
+      "stress coping",
+      "influences",
+      "gratitude"
+    ],
+    [
+      "stress coping",
+      "is supported by",
+      "emotional well-being"
+    ],
+    [
+      "stress coping",
+      "promotes",
+      "joyful pursuits"
+    ],
+    [
+      "stress coping",
+      "supports",
+      "creative projects"
+    ],
+    [
+      "stress coping",
+      "supports",
+      "happiness"
+    ],
+    [
+      "subjective experience",
+      "is experienced subjectively by",
+      "engaging activities"
+    ],
+    [
+      "subjective experience",
+      "is influenced by",
+      "personal growth"
+    ],
+    [
+      "support networks",
+      "benefits from",
+      "positive emotions"
+    ],
+    [
+      "support networks",
+      "is a component of",
+      "social connections"
+    ],
+    [
+      "support networks",
+      "provides",
+      "belonging"
+    ],
+    [
+      "support networks",
+      "supports",
+      "joyful experiences"
+    ],
+    [
+      "understanding happiness",
+      "fosters personal growth",
+      "personal growth"
+    ],
+    [
+      "understanding happiness",
+      "informs",
+      "personal fulfillment"
+    ],
+    [
+      "understanding happiness",
+      "involves",
+      "gratitude"
+    ],
+    [
+      "understanding happiness",
+      "is understood through",
+      "resilience"
+    ],
+    [
+      "understanding happiness",
+      "leads to fulfillment in",
+      "fulfillment"
+    ],
+    [
+      "unique experiences",
+      "encourages",
+      "emotional exploration"
+    ],
+    [
+      "unique experiences",
+      "involves",
+      "universal goal"
+    ],
+    [
+      "unique experiences",
+      "involves creative projects",
+      "creative projects"
+    ],
+    [
+      "unique experiences",
+      "leads to",
+      "fulfillment"
+    ],
+    [
+      "unique experiences",
+      "leads to",
+      "joy"
+    ],
+    [
+      "unique experiences",
+      "shapes",
+      "acceptance"
+    ],
+    [
+      "universal goal",
+      "encourages",
+      "emotional exploration"
+    ],
+    [
+      "universal goal",
+      "is a field of study in",
+      "positive psychology"
+    ],
+    [
+      "universal goal",
+      "is a universal goal of",
+      "personal growth"
+    ],
+    [
+      "universal goal",
+      "is pursued as",
+      "joy"
+    ],
+    [
+      "universal goal",
+      "represents",
+      "fulfillment"
+    ],
+    [
+      "universal goal",
+      "supports",
+      "mental health"
+    ],
+    [
+      "well-being",
+      "affects",
+      "physical health"
+    ],
+    [
+      "well-being",
+      "contributes to",
+      "personal growth"
+    ],
+    [
+      "well-being",
+      "enhances",
+      "life meaning"
+    ],
+    [
+      "well-being",
+      "is a measure of",
+      "satisfaction"
+    ],
+    [
+      "well-being",
+      "is enhanced by",
+      "gratitude"
+    ],
+    [
+      "well-being",
+      "is influenced by",
+      "life satisfaction"
+    ],
+    [
+      "well-being",
+      "supports",
+      "support networks"
+    ]
+  ],
+  "edges": [
+    "achieves",
+    "addresses",
+    "affects",
+    "affects physical health",
+    "aids",
+    "aids in",
+    "aids in stress coping",
+    "benefits from",
+    "builds",
+    "contributes to",
+    "contributes to happiness",
+    "elicits joy from",
+    "encourages",
+    "enhances",
+    "enhances emotional health",
+    "enhances emotional resilience",
+    "enhances emotional well-being",
+    "enhances overall well-being",
+    "evokes",
+    "facilitates",
+    "facilitates mastering",
+    "fosters",
+    "fosters belonging",
+    "fosters personal growth",
+    "improves",
+    "improves stress coping",
+    "increases",
+    "influences",
+    "informs",
+    "informs about",
+    "involves",
+    "involves creative projects",
+    "involves pursuing",
+    "is a component of",
+    "is a factor in",
+    "is a field of study in",
+    "is a focus of",
+    "is a form of",
+    "is a goal of",
+    "is a measure of",
+    "is a result of",
+    "is a source of",
+    "is a type of",
+    "is a universal goal of",
+    "is affected by",
+    "is associated with",
+    "is characterized by",
+    "is derived from",
+    "is enhanced by",
+    "is examined by",
+    "is experienced subjectively by",
+    "is explored by",
+    "is explored in",
+    "is fostered by",
+    "is influenced by",
+    "is informed by",
+    "is linked to",
+    "is provided by",
+    "is pursued as",
+    "is pursued by",
+    "is related to",
+    "is studied by",
+    "is studied in",
+    "is supported by",
+    "is understood through",
+    "leads to",
+    "leads to fulfillment in",
+    "produces",
+    "promotes",
+    "promotes emotional health",
+    "promotes flow activities",
+    "provides",
+    "provides meaning to",
+    "represents",
+    "results from",
+    "shapes",
+    "shifts perspective of",
+    "strengthens",
+    "studies",
+    "supports",
+    "supports emotional resilience"
+  ]
+}

@@ -1,0 +1,2310 @@
+{
+  "entities": [
+    "adaptability",
+    "adhesive substance",
+    "adjustments",
+    "anchor line",
+    "building process",
+    "complex phenomenon",
+    "construction process",
+    "construction technique",
+    "egg sacs",
+    "elastic material",
+    "fascinating creatures",
+    "food sources",
+    "framework structure",
+    "hunting grounds",
+    "immobilization",
+    "instinctual behavior",
+    "intricate webs",
+    "location selection",
+    "mating rituals",
+    "precision",
+    "prey capture",
+    "prey capture mechanism",
+    "protein molecules",
+    "radial lines",
+    "resourcefulness",
+    "signal line",
+    "silk production",
+    "silk properties",
+    "silk strength",
+    "skill",
+    "spider movement",
+    "spiders",
+    "spinnerets",
+    "spiral lines",
+    "sticky silk",
+    "structural integrity",
+    "tension testing",
+    "trap line",
+    "trap prey",
+    "unique abilities",
+    "vibrations",
+    "web construction",
+    "web design",
+    "web shape",
+    "web-building"
+  ],
+  "relations": [
+    [
+      "adaptability",
+      "enables",
+      "trap prey"
+    ],
+    [
+      "adaptability",
+      "enhances",
+      "framework structure"
+    ],
+    [
+      "adaptability",
+      "enhances",
+      "precision"
+    ],
+    [
+      "adaptability",
+      "enhances",
+      "radial lines"
+    ],
+    [
+      "adaptability",
+      "enhances",
+      "skill"
+    ],
+    [
+      "adaptability",
+      "enhances",
+      "spinnerets"
+    ],
+    [
+      "adaptability",
+      "enhances",
+      "tension testing"
+    ],
+    [
+      "adaptability",
+      "enhances",
+      "web-building"
+    ],
+    [
+      "adaptability",
+      "influences",
+      "web shape"
+    ],
+    [
+      "adaptability",
+      "requires",
+      "immobilization"
+    ],
+    [
+      "adhesive substance",
+      "aids in",
+      "prey capture"
+    ],
+    [
+      "adhesive substance",
+      "contributes to",
+      "skill"
+    ],
+    [
+      "adhesive substance",
+      "helps to",
+      "trap prey"
+    ],
+    [
+      "adhesive substance",
+      "integral to",
+      "web-building"
+    ],
+    [
+      "adhesive substance",
+      "is involved in",
+      "construction process"
+    ],
+    [
+      "adhesive substance",
+      "is utilized in",
+      "anchor line"
+    ],
+    [
+      "adhesive substance",
+      "produced by",
+      "spinnerets"
+    ],
+    [
+      "adjustments",
+      "affects",
+      "construction technique"
+    ],
+    [
+      "adjustments",
+      "affects",
+      "framework structure"
+    ],
+    [
+      "adjustments",
+      "affects",
+      "trap prey"
+    ],
+    [
+      "adjustments",
+      "enhances",
+      "adaptability"
+    ],
+    [
+      "adjustments",
+      "enhances elastic material in",
+      "elastic material"
+    ],
+    [
+      "adjustments",
+      "ensures",
+      "structural integrity"
+    ],
+    [
+      "adjustments",
+      "influences",
+      "instinctual behavior"
+    ],
+    [
+      "adjustments",
+      "influences",
+      "sticky silk"
+    ],
+    [
+      "adjustments",
+      "is influenced by",
+      "immobilization"
+    ],
+    [
+      "adjustments",
+      "modifies",
+      "anchor line"
+    ],
+    [
+      "adjustments",
+      "modifies",
+      "web shape"
+    ],
+    [
+      "adjustments",
+      "requires",
+      "silk properties"
+    ],
+    [
+      "adjustments",
+      "requires",
+      "web construction"
+    ],
+    [
+      "adjustments",
+      "requires adjustments for",
+      "location selection"
+    ],
+    [
+      "adjustments",
+      "supports",
+      "trap line"
+    ],
+    [
+      "anchor line",
+      "composes",
+      "intricate webs"
+    ],
+    [
+      "anchor line",
+      "contributes to",
+      "web-building"
+    ],
+    [
+      "anchor line",
+      "enhances",
+      "adaptability"
+    ],
+    [
+      "anchor line",
+      "guides",
+      "signal line"
+    ],
+    [
+      "anchor line",
+      "is essential for",
+      "complex phenomenon"
+    ],
+    [
+      "anchor line",
+      "is influenced by",
+      "precision"
+    ],
+    [
+      "anchor line",
+      "is used in",
+      "mating rituals"
+    ],
+    [
+      "anchor line",
+      "serves as",
+      "hunting grounds"
+    ],
+    [
+      "anchor line",
+      "serves as",
+      "sticky silk"
+    ],
+    [
+      "anchor line",
+      "supports",
+      "food sources"
+    ],
+    [
+      "anchor line",
+      "supports",
+      "trap prey"
+    ],
+    [
+      "building process",
+      "contributes to",
+      "framework structure"
+    ],
+    [
+      "building process",
+      "demonstrates",
+      "adaptability"
+    ],
+    [
+      "building process",
+      "enables",
+      "trap prey"
+    ],
+    [
+      "building process",
+      "influences",
+      "adhesive substance"
+    ],
+    [
+      "building process",
+      "involves",
+      "tension testing"
+    ],
+    [
+      "building process",
+      "is influenced by",
+      "prey capture mechanism"
+    ],
+    [
+      "building process",
+      "is utilized by",
+      "anchor line"
+    ],
+    [
+      "building process",
+      "requires",
+      "precision"
+    ],
+    [
+      "complex phenomenon",
+      "demonstrates",
+      "adaptability"
+    ],
+    [
+      "complex phenomenon",
+      "exemplifies",
+      "immobilization"
+    ],
+    [
+      "complex phenomenon",
+      "facilitates",
+      "prey capture"
+    ],
+    [
+      "complex phenomenon",
+      "is a factor in",
+      "radial lines"
+    ],
+    [
+      "complex phenomenon",
+      "is a part of",
+      "sticky silk"
+    ],
+    [
+      "complex phenomenon",
+      "is affected by",
+      "structural integrity"
+    ],
+    [
+      "complex phenomenon",
+      "is characterized by",
+      "skill"
+    ],
+    [
+      "complex phenomenon",
+      "is explained by",
+      "construction process"
+    ],
+    [
+      "construction process",
+      "ensures",
+      "structural integrity"
+    ],
+    [
+      "construction process",
+      "facilitates",
+      "prey capture"
+    ],
+    [
+      "construction process",
+      "involves",
+      "construction technique"
+    ],
+    [
+      "construction process",
+      "is part of",
+      "adjustments"
+    ],
+    [
+      "construction process",
+      "is part of",
+      "silk strength"
+    ],
+    [
+      "construction process",
+      "is part of",
+      "trap line"
+    ],
+    [
+      "construction process",
+      "produces",
+      "intricate webs"
+    ],
+    [
+      "construction process",
+      "provides",
+      "framework structure"
+    ],
+    [
+      "construction technique",
+      "affects",
+      "vibrations"
+    ],
+    [
+      "construction technique",
+      "involves",
+      "tension testing"
+    ],
+    [
+      "construction technique",
+      "involves",
+      "web-building"
+    ],
+    [
+      "construction technique",
+      "is a component of",
+      "framework structure"
+    ],
+    [
+      "construction technique",
+      "is associated with",
+      "signal line"
+    ],
+    [
+      "construction technique",
+      "is characterized by",
+      "precision"
+    ],
+    [
+      "construction technique",
+      "is demonstrated by",
+      "spiders"
+    ],
+    [
+      "construction technique",
+      "is essential for",
+      "silk production"
+    ],
+    [
+      "construction technique",
+      "is made of",
+      "elastic material"
+    ],
+    [
+      "construction technique",
+      "is part of",
+      "building process"
+    ],
+    [
+      "construction technique",
+      "is utilized by",
+      "anchor line"
+    ],
+    [
+      "construction technique",
+      "produces",
+      "spinnerets"
+    ],
+    [
+      "construction technique",
+      "provides",
+      "hunting grounds"
+    ],
+    [
+      "construction technique",
+      "results in",
+      "intricate webs"
+    ],
+    [
+      "construction technique",
+      "utilizes",
+      "adhesive substance"
+    ],
+    [
+      "egg sacs",
+      "associated with",
+      "radial lines"
+    ],
+    [
+      "egg sacs",
+      "associated with",
+      "trap line"
+    ],
+    [
+      "egg sacs",
+      "composed of",
+      "adhesive substance"
+    ],
+    [
+      "egg sacs",
+      "enables",
+      "skill"
+    ],
+    [
+      "egg sacs",
+      "involves",
+      "prey capture"
+    ],
+    [
+      "egg sacs",
+      "is utilized for",
+      "food sources"
+    ],
+    [
+      "egg sacs",
+      "produces",
+      "spinnerets"
+    ],
+    [
+      "egg sacs",
+      "supports",
+      "anchor line"
+    ],
+    [
+      "elastic material",
+      "composed of",
+      "construction process"
+    ],
+    [
+      "elastic material",
+      "is a characteristic of",
+      "silk production"
+    ],
+    [
+      "elastic material",
+      "is a property of",
+      "spinnerets"
+    ],
+    [
+      "elastic material",
+      "is formed by",
+      "framework structure"
+    ],
+    [
+      "elastic material",
+      "is made of",
+      "anchor line"
+    ],
+    [
+      "fascinating creatures",
+      "capable of",
+      "trap prey"
+    ],
+    [
+      "fascinating creatures",
+      "exemplifies",
+      "intricate webs"
+    ],
+    [
+      "food sources",
+      "attracts",
+      "prey capture"
+    ],
+    [
+      "food sources",
+      "composes",
+      "protein molecules"
+    ],
+    [
+      "food sources",
+      "contributes to",
+      "web construction"
+    ],
+    [
+      "food sources",
+      "enables",
+      "trap prey"
+    ],
+    [
+      "food sources",
+      "enhances",
+      "resourcefulness"
+    ],
+    [
+      "food sources",
+      "influences",
+      "mating rituals"
+    ],
+    [
+      "food sources",
+      "informs",
+      "web design"
+    ],
+    [
+      "food sources",
+      "is necessary for",
+      "immobilization"
+    ],
+    [
+      "food sources",
+      "supports",
+      "silk production"
+    ],
+    [
+      "food sources",
+      "supports",
+      "unique abilities"
+    ],
+    [
+      "framework structure",
+      "contributes to",
+      "skill"
+    ],
+    [
+      "framework structure",
+      "informs",
+      "food sources"
+    ],
+    [
+      "framework structure",
+      "is part of",
+      "trap prey"
+    ],
+    [
+      "framework structure",
+      "is supported by",
+      "silk strength"
+    ],
+    [
+      "framework structure",
+      "supports",
+      "resourcefulness"
+    ],
+    [
+      "framework structure",
+      "supports",
+      "spiders"
+    ],
+    [
+      "hunting grounds",
+      "associated with",
+      "protein molecules"
+    ],
+    [
+      "hunting grounds",
+      "associated with",
+      "trap line"
+    ],
+    [
+      "hunting grounds",
+      "determines",
+      "web shape"
+    ],
+    [
+      "hunting grounds",
+      "enhances",
+      "precision"
+    ],
+    [
+      "hunting grounds",
+      "facilitates",
+      "prey capture"
+    ],
+    [
+      "hunting grounds",
+      "involves",
+      "tension testing"
+    ],
+    [
+      "hunting grounds",
+      "is influenced by",
+      "adjustments"
+    ],
+    [
+      "hunting grounds",
+      "is related to",
+      "construction process"
+    ],
+    [
+      "hunting grounds",
+      "provides",
+      "sticky silk"
+    ],
+    [
+      "hunting grounds",
+      "serves as",
+      "egg sacs"
+    ],
+    [
+      "hunting grounds",
+      "supports",
+      "silk production"
+    ],
+    [
+      "hunting grounds",
+      "used in",
+      "adhesive substance"
+    ],
+    [
+      "immobilization",
+      "depends on silk strength for",
+      "silk strength"
+    ],
+    [
+      "immobilization",
+      "enables",
+      "hunting grounds"
+    ],
+    [
+      "immobilization",
+      "enhances",
+      "trap prey"
+    ],
+    [
+      "immobilization",
+      "facilitates",
+      "spider movement"
+    ],
+    [
+      "immobilization",
+      "involves",
+      "web design"
+    ],
+    [
+      "immobilization",
+      "is a result of",
+      "intricate webs"
+    ],
+    [
+      "immobilization",
+      "is necessary for",
+      "location selection"
+    ],
+    [
+      "immobilization",
+      "is part of",
+      "construction process"
+    ],
+    [
+      "immobilization",
+      "is performed by",
+      "spiders"
+    ],
+    [
+      "immobilization",
+      "is used for",
+      "sticky silk"
+    ],
+    [
+      "instinctual behavior",
+      "demonstrates",
+      "sticky silk"
+    ],
+    [
+      "instinctual behavior",
+      "facilitates",
+      "prey capture"
+    ],
+    [
+      "instinctual behavior",
+      "results in",
+      "intricate webs"
+    ],
+    [
+      "intricate webs",
+      "composed of",
+      "radial lines"
+    ],
+    [
+      "intricate webs",
+      "constitutes",
+      "trap line"
+    ],
+    [
+      "intricate webs",
+      "constructs",
+      "spinnerets"
+    ],
+    [
+      "intricate webs",
+      "demonstrates",
+      "silk strength"
+    ],
+    [
+      "intricate webs",
+      "enables",
+      "prey capture"
+    ],
+    [
+      "intricate webs",
+      "enhances",
+      "adjustments"
+    ],
+    [
+      "intricate webs",
+      "integral to",
+      "adhesive substance"
+    ],
+    [
+      "intricate webs",
+      "is a component of",
+      "hunting grounds"
+    ],
+    [
+      "intricate webs",
+      "is a feature of",
+      "signal line"
+    ],
+    [
+      "intricate webs",
+      "is a part of",
+      "spiral lines"
+    ],
+    [
+      "intricate webs",
+      "is a result of",
+      "silk properties"
+    ],
+    [
+      "intricate webs",
+      "is determined by",
+      "structural integrity"
+    ],
+    [
+      "intricate webs",
+      "results in",
+      "building process"
+    ],
+    [
+      "intricate webs",
+      "results in",
+      "resourcefulness"
+    ],
+    [
+      "intricate webs",
+      "results in",
+      "web construction"
+    ],
+    [
+      "location selection",
+      "affects",
+      "structural integrity"
+    ],
+    [
+      "location selection",
+      "demonstrates",
+      "resourcefulness"
+    ],
+    [
+      "location selection",
+      "facilitates",
+      "web construction"
+    ],
+    [
+      "location selection",
+      "guides",
+      "anchor line"
+    ],
+    [
+      "location selection",
+      "guides",
+      "radial lines"
+    ],
+    [
+      "location selection",
+      "influences",
+      "building process"
+    ],
+    [
+      "location selection",
+      "influences spider movement during",
+      "spider movement"
+    ],
+    [
+      "location selection",
+      "informs",
+      "trap line"
+    ],
+    [
+      "location selection",
+      "involves location selection for",
+      "adjustments"
+    ],
+    [
+      "location selection",
+      "is utilized by",
+      "spiders"
+    ],
+    [
+      "location selection",
+      "requires",
+      "precision"
+    ],
+    [
+      "location selection",
+      "results in",
+      "intricate webs"
+    ],
+    [
+      "location selection",
+      "supports",
+      "adaptability"
+    ],
+    [
+      "mating rituals",
+      "associated with",
+      "egg sacs"
+    ],
+    [
+      "mating rituals",
+      "associated with",
+      "trap line"
+    ],
+    [
+      "mating rituals",
+      "involves",
+      "intricate webs"
+    ],
+    [
+      "mating rituals",
+      "is essential for",
+      "skill"
+    ],
+    [
+      "mating rituals",
+      "is influenced by",
+      "silk properties"
+    ],
+    [
+      "mating rituals",
+      "is influenced by",
+      "spider movement"
+    ],
+    [
+      "mating rituals",
+      "used in",
+      "sticky silk"
+    ],
+    [
+      "mating rituals",
+      "utilized in",
+      "precision"
+    ],
+    [
+      "mating rituals",
+      "utilized in",
+      "trap prey"
+    ],
+    [
+      "precision",
+      "demonstrates",
+      "spiral lines"
+    ],
+    [
+      "precision",
+      "determines",
+      "web shape"
+    ],
+    [
+      "precision",
+      "enhances",
+      "fascinating creatures"
+    ],
+    [
+      "precision",
+      "enhances",
+      "radial lines"
+    ],
+    [
+      "precision",
+      "enhances",
+      "web-building"
+    ],
+    [
+      "precision",
+      "forms",
+      "framework structure"
+    ],
+    [
+      "precision",
+      "is characterized by",
+      "construction process"
+    ],
+    [
+      "precision",
+      "is enhanced by",
+      "spinnerets"
+    ],
+    [
+      "precision",
+      "requires",
+      "signal line"
+    ],
+    [
+      "prey capture",
+      "contributes to",
+      "spiral lines"
+    ],
+    [
+      "prey capture",
+      "demonstrates",
+      "resourcefulness"
+    ],
+    [
+      "prey capture",
+      "enables",
+      "silk properties"
+    ],
+    [
+      "prey capture",
+      "enhances",
+      "adjustments"
+    ],
+    [
+      "prey capture",
+      "enhances",
+      "tension testing"
+    ],
+    [
+      "prey capture",
+      "influences",
+      "mating rituals"
+    ],
+    [
+      "prey capture",
+      "result of",
+      "complex phenomenon"
+    ],
+    [
+      "prey capture",
+      "signals",
+      "signal line"
+    ],
+    [
+      "prey capture mechanism",
+      "demonstrates",
+      "precision"
+    ],
+    [
+      "prey capture mechanism",
+      "enables",
+      "spider movement"
+    ],
+    [
+      "prey capture mechanism",
+      "facilitates",
+      "web-building"
+    ],
+    [
+      "prey capture mechanism",
+      "influences",
+      "location selection"
+    ],
+    [
+      "prey capture mechanism",
+      "informs",
+      "construction technique"
+    ],
+    [
+      "prey capture mechanism",
+      "involves",
+      "construction process"
+    ],
+    [
+      "prey capture mechanism",
+      "involves",
+      "tension testing"
+    ],
+    [
+      "prey capture mechanism",
+      "is a function of",
+      "prey capture"
+    ],
+    [
+      "prey capture mechanism",
+      "is related to",
+      "anchor line"
+    ],
+    [
+      "prey capture mechanism",
+      "is related to",
+      "web construction"
+    ],
+    [
+      "prey capture mechanism",
+      "is utilized by",
+      "spiders"
+    ],
+    [
+      "prey capture mechanism",
+      "requires",
+      "adjustments"
+    ],
+    [
+      "prey capture mechanism",
+      "supports",
+      "radial lines"
+    ],
+    [
+      "prey capture mechanism",
+      "utilizes",
+      "intricate webs"
+    ],
+    [
+      "prey capture mechanism",
+      "utilizes",
+      "trap line"
+    ],
+    [
+      "protein molecules",
+      "composed of",
+      "adhesive substance"
+    ],
+    [
+      "protein molecules",
+      "composed of",
+      "radial lines"
+    ],
+    [
+      "protein molecules",
+      "composed of",
+      "spinnerets"
+    ],
+    [
+      "protein molecules",
+      "comprises",
+      "complex phenomenon"
+    ],
+    [
+      "protein molecules",
+      "involves",
+      "mating rituals"
+    ],
+    [
+      "protein molecules",
+      "is based on",
+      "resourcefulness"
+    ],
+    [
+      "protein molecules",
+      "is composed of",
+      "immobilization"
+    ],
+    [
+      "protein molecules",
+      "is composed of",
+      "silk properties"
+    ],
+    [
+      "protein molecules",
+      "is composed of",
+      "spiral lines"
+    ],
+    [
+      "protein molecules",
+      "provides",
+      "fascinating creatures"
+    ],
+    [
+      "protein molecules",
+      "related to",
+      "precision"
+    ],
+    [
+      "radial lines",
+      "constitutes",
+      "framework structure"
+    ],
+    [
+      "radial lines",
+      "defines",
+      "web shape"
+    ],
+    [
+      "radial lines",
+      "facilitates",
+      "web-building"
+    ],
+    [
+      "radial lines",
+      "forms",
+      "web design"
+    ],
+    [
+      "radial lines",
+      "guides",
+      "anchor line"
+    ],
+    [
+      "radial lines",
+      "interconnects",
+      "spiral lines"
+    ],
+    [
+      "radial lines",
+      "is a technique in construction of",
+      "construction technique"
+    ],
+    [
+      "radial lines",
+      "is connected to",
+      "signal line"
+    ],
+    [
+      "radial lines",
+      "is influenced by",
+      "instinctual behavior"
+    ],
+    [
+      "radial lines",
+      "is part of",
+      "building process"
+    ],
+    [
+      "radial lines",
+      "is part of",
+      "construction process"
+    ],
+    [
+      "radial lines",
+      "is tested by",
+      "tension testing"
+    ],
+    [
+      "radial lines",
+      "requires",
+      "adjustments"
+    ],
+    [
+      "radial lines",
+      "showcases",
+      "unique abilities"
+    ],
+    [
+      "radial lines",
+      "supports",
+      "sticky silk"
+    ],
+    [
+      "resourcefulness",
+      "contributes to",
+      "adhesive substance"
+    ],
+    [
+      "resourcefulness",
+      "contributes to",
+      "web-building"
+    ],
+    [
+      "resourcefulness",
+      "demonstrates",
+      "construction process"
+    ],
+    [
+      "resourcefulness",
+      "demonstrates",
+      "immobilization"
+    ],
+    [
+      "resourcefulness",
+      "demonstrates",
+      "radial lines"
+    ],
+    [
+      "resourcefulness",
+      "enhances",
+      "construction technique"
+    ],
+    [
+      "resourcefulness",
+      "enhances",
+      "hunting grounds"
+    ],
+    [
+      "resourcefulness",
+      "enhances",
+      "silk properties"
+    ],
+    [
+      "resourcefulness",
+      "enhances",
+      "web shape"
+    ],
+    [
+      "resourcefulness",
+      "is demonstrated by",
+      "spiral lines"
+    ],
+    [
+      "resourcefulness",
+      "is enhanced by",
+      "silk strength"
+    ],
+    [
+      "resourcefulness",
+      "is enhanced by",
+      "structural integrity"
+    ],
+    [
+      "resourcefulness",
+      "produces",
+      "egg sacs"
+    ],
+    [
+      "signal line",
+      "alerts to",
+      "trap prey"
+    ],
+    [
+      "signal line",
+      "indicates",
+      "prey capture mechanism"
+    ],
+    [
+      "signal line",
+      "is indicated by",
+      "silk production"
+    ],
+    [
+      "silk production",
+      "demonstrates",
+      "precision"
+    ],
+    [
+      "silk production",
+      "depends on",
+      "adjustments"
+    ],
+    [
+      "silk production",
+      "determines",
+      "web shape"
+    ],
+    [
+      "silk production",
+      "informs",
+      "mating rituals"
+    ],
+    [
+      "silk production",
+      "is essential for",
+      "web-building"
+    ],
+    [
+      "silk production",
+      "is influenced by",
+      "construction process"
+    ],
+    [
+      "silk production",
+      "is produced by",
+      "fascinating creatures"
+    ],
+    [
+      "silk production",
+      "is produced by",
+      "trap line"
+    ],
+    [
+      "silk production",
+      "is used for",
+      "egg sacs"
+    ],
+    [
+      "silk production",
+      "provides",
+      "framework structure"
+    ],
+    [
+      "silk production",
+      "tests",
+      "tension testing"
+    ],
+    [
+      "silk production",
+      "utilizes",
+      "anchor line"
+    ],
+    [
+      "silk properties",
+      "defines",
+      "hunting grounds"
+    ],
+    [
+      "silk properties",
+      "demonstrates",
+      "skill"
+    ],
+    [
+      "silk properties",
+      "determines",
+      "silk strength"
+    ],
+    [
+      "silk properties",
+      "influences",
+      "web shape"
+    ],
+    [
+      "silk properties",
+      "informs",
+      "web design"
+    ],
+    [
+      "silk properties",
+      "is a component of",
+      "adhesive substance"
+    ],
+    [
+      "silk properties",
+      "is essential for",
+      "web-building"
+    ],
+    [
+      "silk properties",
+      "is utilized in",
+      "trap line"
+    ],
+    [
+      "silk strength",
+      "affects",
+      "adjustments"
+    ],
+    [
+      "silk strength",
+      "affects",
+      "spiral lines"
+    ],
+    [
+      "silk strength",
+      "demonstrates",
+      "adaptability"
+    ],
+    [
+      "silk strength",
+      "determines",
+      "radial lines"
+    ],
+    [
+      "silk strength",
+      "enables",
+      "trap prey"
+    ],
+    [
+      "silk strength",
+      "exemplifies",
+      "complex phenomenon"
+    ],
+    [
+      "silk strength",
+      "is demonstrated by",
+      "fascinating creatures"
+    ],
+    [
+      "silk strength",
+      "is determined by",
+      "protein molecules"
+    ],
+    [
+      "silk strength",
+      "signals",
+      "signal line"
+    ],
+    [
+      "silk strength",
+      "supports",
+      "prey capture"
+    ],
+    [
+      "skill",
+      "demonstrates",
+      "radial lines"
+    ],
+    [
+      "skill",
+      "enables",
+      "trap prey"
+    ],
+    [
+      "skill",
+      "enhances",
+      "precision"
+    ],
+    [
+      "skill",
+      "exemplifies",
+      "sticky silk"
+    ],
+    [
+      "skill",
+      "is part of",
+      "building process"
+    ],
+    [
+      "spider movement",
+      "affects",
+      "structural integrity"
+    ],
+    [
+      "spider movement",
+      "aids",
+      "construction technique"
+    ],
+    [
+      "spider movement",
+      "enables",
+      "silk strength"
+    ],
+    [
+      "spider movement",
+      "facilitates",
+      "silk production"
+    ],
+    [
+      "spider movement",
+      "facilitates",
+      "web-building"
+    ],
+    [
+      "spider movement",
+      "involves",
+      "adhesive substance"
+    ],
+    [
+      "spider movement",
+      "involves",
+      "tension testing"
+    ],
+    [
+      "spider movement",
+      "is demonstrated through",
+      "skill"
+    ],
+    [
+      "spider movement",
+      "is essential for trap prey in",
+      "trap prey"
+    ],
+    [
+      "spiders",
+      "captures",
+      "trap prey"
+    ],
+    [
+      "spiders",
+      "drives",
+      "instinctual behavior"
+    ],
+    [
+      "spiders",
+      "involves",
+      "web-building"
+    ],
+    [
+      "spiders",
+      "is created by",
+      "web construction"
+    ],
+    [
+      "spiders",
+      "is exemplified by",
+      "fascinating creatures"
+    ],
+    [
+      "spiders",
+      "is performed by",
+      "spider movement"
+    ],
+    [
+      "spiders",
+      "is produced by",
+      "silk properties"
+    ],
+    [
+      "spiders",
+      "is utilized by",
+      "sticky silk"
+    ],
+    [
+      "spiders",
+      "produced by",
+      "adhesive substance"
+    ],
+    [
+      "spiders",
+      "produces",
+      "egg sacs"
+    ],
+    [
+      "spiders",
+      "produces",
+      "silk production"
+    ],
+    [
+      "spiders",
+      "provides",
+      "food sources"
+    ],
+    [
+      "spiders",
+      "serve as",
+      "hunting grounds"
+    ],
+    [
+      "spiders",
+      "utilizes",
+      "anchor line"
+    ],
+    [
+      "spiders",
+      "utilizes prey capture for",
+      "prey capture"
+    ],
+    [
+      "spinnerets",
+      "aids in",
+      "prey capture"
+    ],
+    [
+      "spinnerets",
+      "determines",
+      "web shape"
+    ],
+    [
+      "spinnerets",
+      "enables",
+      "unique abilities"
+    ],
+    [
+      "spinnerets",
+      "enables",
+      "web-building"
+    ],
+    [
+      "spinnerets",
+      "is affected by",
+      "adjustments"
+    ],
+    [
+      "spinnerets",
+      "is enhanced by",
+      "resourcefulness"
+    ],
+    [
+      "spinnerets",
+      "produced by",
+      "radial lines"
+    ],
+    [
+      "spinnerets",
+      "produced by",
+      "signal line"
+    ],
+    [
+      "spinnerets",
+      "produced by",
+      "trap line"
+    ],
+    [
+      "spinnerets",
+      "produces",
+      "anchor line"
+    ],
+    [
+      "spinnerets",
+      "produces",
+      "silk properties"
+    ],
+    [
+      "spinnerets",
+      "produces",
+      "spiral lines"
+    ],
+    [
+      "spinnerets",
+      "produces",
+      "sticky silk"
+    ],
+    [
+      "spinnerets",
+      "utilizes",
+      "construction process"
+    ],
+    [
+      "spiral lines",
+      "composed of",
+      "construction process"
+    ],
+    [
+      "spiral lines",
+      "constructed using",
+      "anchor line"
+    ],
+    [
+      "spiral lines",
+      "contributes to",
+      "web shape"
+    ],
+    [
+      "spiral lines",
+      "enhances",
+      "trap line"
+    ],
+    [
+      "spiral lines",
+      "forms",
+      "framework structure"
+    ],
+    [
+      "spiral lines",
+      "indicates",
+      "signal line"
+    ],
+    [
+      "spiral lines",
+      "serves as",
+      "hunting grounds"
+    ],
+    [
+      "spiral lines",
+      "transmitted through",
+      "vibrations"
+    ],
+    [
+      "spiral lines",
+      "utilizes",
+      "skill"
+    ],
+    [
+      "sticky silk",
+      "composed of",
+      "protein molecules"
+    ],
+    [
+      "sticky silk",
+      "enables",
+      "spider movement"
+    ],
+    [
+      "sticky silk",
+      "enables",
+      "trap prey"
+    ],
+    [
+      "sticky silk",
+      "enhances",
+      "signal line"
+    ],
+    [
+      "sticky silk",
+      "facilitates",
+      "prey capture"
+    ],
+    [
+      "sticky silk",
+      "is characterized by",
+      "fascinating creatures"
+    ],
+    [
+      "sticky silk",
+      "is characterized by",
+      "silk strength"
+    ],
+    [
+      "sticky silk",
+      "is created by",
+      "adhesive substance"
+    ],
+    [
+      "sticky silk",
+      "produces",
+      "silk production"
+    ],
+    [
+      "sticky silk",
+      "requires",
+      "precision"
+    ],
+    [
+      "structural integrity",
+      "affects",
+      "prey capture"
+    ],
+    [
+      "structural integrity",
+      "comprises",
+      "framework structure"
+    ],
+    [
+      "structural integrity",
+      "contributes to",
+      "food sources"
+    ],
+    [
+      "structural integrity",
+      "contributes to",
+      "silk properties"
+    ],
+    [
+      "structural integrity",
+      "depends on",
+      "silk strength"
+    ],
+    [
+      "structural integrity",
+      "ensures",
+      "skill"
+    ],
+    [
+      "structural integrity",
+      "ensures",
+      "tension testing"
+    ],
+    [
+      "structural integrity",
+      "influences",
+      "building process"
+    ],
+    [
+      "structural integrity",
+      "is indicated by",
+      "signal line"
+    ],
+    [
+      "tension testing",
+      "informs",
+      "vibrations"
+    ],
+    [
+      "tension testing",
+      "involves",
+      "spiders"
+    ],
+    [
+      "tension testing",
+      "is tested by",
+      "silk production"
+    ],
+    [
+      "tension testing",
+      "is tested by",
+      "silk strength"
+    ],
+    [
+      "tension testing",
+      "requires",
+      "trap prey"
+    ],
+    [
+      "tension testing",
+      "tests",
+      "spinnerets"
+    ],
+    [
+      "trap line",
+      "alerts",
+      "food sources"
+    ],
+    [
+      "trap line",
+      "guides",
+      "anchor line"
+    ],
+    [
+      "trap line",
+      "involves",
+      "web-building"
+    ],
+    [
+      "trap line",
+      "is a component of",
+      "web design"
+    ],
+    [
+      "trap line",
+      "is made of",
+      "elastic material"
+    ],
+    [
+      "trap line",
+      "is part of",
+      "complex phenomenon"
+    ],
+    [
+      "trap line",
+      "is part of",
+      "framework structure"
+    ],
+    [
+      "trap line",
+      "is supported by",
+      "structural integrity"
+    ],
+    [
+      "trap line",
+      "produces",
+      "spiders"
+    ],
+    [
+      "trap line",
+      "signals",
+      "building process"
+    ],
+    [
+      "trap line",
+      "supports",
+      "silk strength"
+    ],
+    [
+      "trap line",
+      "utilized in",
+      "adhesive substance"
+    ],
+    [
+      "trap prey",
+      "captured by",
+      "intricate webs"
+    ],
+    [
+      "trap prey",
+      "captures",
+      "radial lines"
+    ],
+    [
+      "trap prey",
+      "captures",
+      "spinnerets"
+    ],
+    [
+      "trap prey",
+      "captures",
+      "spiral lines"
+    ],
+    [
+      "trap prey",
+      "demonstrates",
+      "unique abilities"
+    ],
+    [
+      "trap prey",
+      "detected by",
+      "vibrations"
+    ],
+    [
+      "trap prey",
+      "determines",
+      "prey capture mechanism"
+    ],
+    [
+      "trap prey",
+      "facilitates",
+      "structural integrity"
+    ],
+    [
+      "trap prey",
+      "is a function of",
+      "prey capture"
+    ],
+    [
+      "trap prey",
+      "is achieved by",
+      "construction process"
+    ],
+    [
+      "trap prey",
+      "is targeted by",
+      "trap line"
+    ],
+    [
+      "unique abilities",
+      "contributes to",
+      "resourcefulness"
+    ],
+    [
+      "unique abilities",
+      "demonstrates",
+      "skill"
+    ],
+    [
+      "unique abilities",
+      "demonstrates",
+      "spiral lines"
+    ],
+    [
+      "unique abilities",
+      "enables",
+      "silk properties"
+    ],
+    [
+      "unique abilities",
+      "enables",
+      "web-building"
+    ],
+    [
+      "unique abilities",
+      "is exhibited by",
+      "precision"
+    ],
+    [
+      "vibrations",
+      "ensures",
+      "structural integrity"
+    ],
+    [
+      "vibrations",
+      "influences",
+      "adjustments"
+    ],
+    [
+      "vibrations",
+      "informs",
+      "web-building"
+    ],
+    [
+      "vibrations",
+      "is affected by",
+      "precision"
+    ],
+    [
+      "vibrations",
+      "is affected by",
+      "sticky silk"
+    ],
+    [
+      "vibrations",
+      "is indicated by",
+      "web construction"
+    ],
+    [
+      "vibrations",
+      "is influenced by",
+      "radial lines"
+    ],
+    [
+      "vibrations",
+      "is influenced by vibrations during",
+      "building process"
+    ],
+    [
+      "vibrations",
+      "transmits",
+      "silk production"
+    ],
+    [
+      "vibrations",
+      "transmits",
+      "silk strength"
+    ],
+    [
+      "vibrations",
+      "transmitted by",
+      "adhesive substance"
+    ],
+    [
+      "vibrations",
+      "transmitted through",
+      "signal line"
+    ],
+    [
+      "vibrations",
+      "transmitted through",
+      "spinnerets"
+    ],
+    [
+      "web construction",
+      "demonstrates",
+      "resourcefulness"
+    ],
+    [
+      "web construction",
+      "depends on",
+      "silk strength"
+    ],
+    [
+      "web construction",
+      "enables",
+      "trap prey"
+    ],
+    [
+      "web construction",
+      "ensures",
+      "structural integrity"
+    ],
+    [
+      "web construction",
+      "involves",
+      "building process"
+    ],
+    [
+      "web construction",
+      "involves",
+      "signal line"
+    ],
+    [
+      "web construction",
+      "is a method of",
+      "web-building"
+    ],
+    [
+      "web construction",
+      "is essential for",
+      "silk properties"
+    ],
+    [
+      "web construction",
+      "requires",
+      "silk production"
+    ],
+    [
+      "web construction",
+      "supports",
+      "anchor line"
+    ],
+    [
+      "web design",
+      "affects",
+      "silk strength"
+    ],
+    [
+      "web design",
+      "enables",
+      "silk production"
+    ],
+    [
+      "web design",
+      "enhances",
+      "prey capture"
+    ],
+    [
+      "web design",
+      "ensures",
+      "tension testing"
+    ],
+    [
+      "web design",
+      "guides",
+      "building process"
+    ],
+    [
+      "web design",
+      "is a type of",
+      "construction technique"
+    ],
+    [
+      "web design",
+      "is made of",
+      "elastic material"
+    ],
+    [
+      "web design",
+      "is related to",
+      "web-building"
+    ],
+    [
+      "web design",
+      "serves as",
+      "hunting grounds"
+    ],
+    [
+      "web shape",
+      "defines",
+      "framework structure"
+    ],
+    [
+      "web shape",
+      "determines",
+      "structural integrity"
+    ],
+    [
+      "web shape",
+      "is determined by",
+      "silk strength"
+    ],
+    [
+      "web shape",
+      "shapes",
+      "adhesive substance"
+    ],
+    [
+      "web shape",
+      "shapes",
+      "anchor line"
+    ],
+    [
+      "web-building",
+      "enables",
+      "immobilization"
+    ],
+    [
+      "web-building",
+      "facilitates",
+      "hunting grounds"
+    ],
+    [
+      "web-building",
+      "facilitates",
+      "skill"
+    ],
+    [
+      "web-building",
+      "influences",
+      "adjustments"
+    ],
+    [
+      "web-building",
+      "involves",
+      "prey capture"
+    ],
+    [
+      "web-building",
+      "is driven by",
+      "instinctual behavior"
+    ],
+    [
+      "web-building",
+      "results in",
+      "intricate webs"
+    ]
+  ],
+  "edges": [
+    "affects",
+    "aids",
+    "aids in",
+    "alerts",
+    "alerts to",
+    "associated with",
+    "attracts",
+    "capable of",
+    "captured by",
+    "captures",
+    "composed of",
+    "composes",
+    "comprises",
+    "constitutes",
+    "constructed using",
+    "constructs",
+    "contributes to",
+    "defines",
+    "demonstrates",
+    "depends on",
+    "depends on silk strength for",
+    "detected by",
+    "determines",
+    "drives",
+    "enables",
+    "enhances",
+    "enhances elastic material in",
+    "ensures",
+    "exemplifies",
+    "facilitates",
+    "forms",
+    "guides",
+    "helps to",
+    "indicates",
+    "influences",
+    "influences spider movement during",
+    "informs",
+    "integral to",
+    "interconnects",
+    "involves",
+    "involves location selection for",
+    "is a characteristic of",
+    "is a component of",
+    "is a factor in",
+    "is a feature of",
+    "is a function of",
+    "is a method of",
+    "is a part of",
+    "is a property of",
+    "is a result of",
+    "is a technique in construction of",
+    "is a type of",
+    "is achieved by",
+    "is affected by",
+    "is associated with",
+    "is based on",
+    "is characterized by",
+    "is composed of",
+    "is connected to",
+    "is created by",
+    "is demonstrated by",
+    "is demonstrated through",
+    "is determined by",
+    "is driven by",
+    "is enhanced by",
+    "is essential for",
+    "is essential for trap prey in",
+    "is exemplified by",
+    "is exhibited by",
+    "is explained by",
+    "is formed by",
+    "is indicated by",
+    "is influenced by",
+    "is influenced by vibrations during",
+    "is involved in",
+    "is made of",
+    "is necessary for",
+    "is part of",
+    "is performed by",
+    "is produced by",
+    "is related to",
+    "is supported by",
+    "is targeted by",
+    "is tested by",
+    "is used for",
+    "is used in",
+    "is utilized by",
+    "is utilized for",
+    "is utilized in",
+    "modifies",
+    "produced by",
+    "produces",
+    "provides",
+    "related to",
+    "requires",
+    "requires adjustments for",
+    "result of",
+    "results in",
+    "serve as",
+    "serves as",
+    "shapes",
+    "showcases",
+    "signals",
+    "supports",
+    "tests",
+    "transmits",
+    "transmitted by",
+    "transmitted through",
+    "used in",
+    "utilized in",
+    "utilizes",
+    "utilizes prey capture for"
+  ]
+}

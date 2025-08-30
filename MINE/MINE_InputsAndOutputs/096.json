@@ -1,0 +1,3862 @@
+{
+  "entities": [
+    "abuse potential",
+    "advancements in cloning",
+    "benefits versus risks",
+    "boundaries",
+    "clones",
+    "cloning benefits",
+    "cloning consequences",
+    "cloning critics",
+    "cloning debates",
+    "cloning ethics",
+    "cloning misuse",
+    "cloning proponents",
+    "cloning technology",
+    "commodification",
+    "commodities",
+    "complex considerations",
+    "controversial topic",
+    "designer babies",
+    "distinct lives",
+    "diverse perspectives",
+    "divine authority",
+    "divine violation",
+    "ethical boundaries",
+    "ethical challenges",
+    "ethical concerns",
+    "ethical considerations",
+    "ethical dilemmas",
+    "ethical implications",
+    "ethical responsibility",
+    "existential dilemmas",
+    "experiences and emotions",
+    "exploitation",
+    "genetic disease research",
+    "genetic manipulation",
+    "genetic replica",
+    "health outcomes",
+    "healthcare challenges",
+    "healthcare debates",
+    "healthcare innovation",
+    "healthcare revolution",
+    "higher power",
+    "hubris",
+    "human cloning",
+    "human identity",
+    "human intervention",
+    "human nature",
+    "human rights",
+    "identical twins",
+    "identity issues",
+    "identity questions",
+    "improved quality of life",
+    "individual dignity",
+    "individual experiences",
+    "individual rights",
+    "individual well-being",
+    "individuality",
+    "life creation",
+    "medical advancements",
+    "medical breakthroughs",
+    "medical ethics",
+    "medical progress",
+    "medical technology",
+    "moral boundaries",
+    "moral challenges",
+    "moral obligations",
+    "moral questions",
+    "morality",
+    "natural order",
+    "open dialogue",
+    "organ harvesting",
+    "organ transplantation",
+    "patient-specific stem cells",
+    "personal health",
+    "personal identity",
+    "personal uniqueness",
+    "profound questions",
+    "public concern",
+    "public health",
+    "regenerative therapies",
+    "regulations",
+    "religious concerns",
+    "religious traditions",
+    "role of creator",
+    "sanctity of life",
+    "scientific discovery",
+    "scientific inquiry",
+    "scientific potential",
+    "scientific progress",
+    "societal impact",
+    "spiritual implications",
+    "spirituality",
+    "targeted treatments",
+    "therapeutic cloning",
+    "unethical experiments",
+    "unique dignity",
+    "unique identity"
+  ],
+  "relations": [
+    [
+      "abuse potential",
+      "enables",
+      "patient-specific stem cells"
+    ],
+    [
+      "abuse potential",
+      "enables",
+      "targeted treatments"
+    ],
+    [
+      "abuse potential",
+      "highlights",
+      "medical progress"
+    ],
+    [
+      "abuse potential",
+      "limits",
+      "scientific potential"
+    ],
+    [
+      "abuse potential",
+      "raises concerns about",
+      "scientific progress"
+    ],
+    [
+      "abuse potential",
+      "reduces",
+      "commodities"
+    ],
+    [
+      "advancements in cloning",
+      "challenges",
+      "divine violation"
+    ],
+    [
+      "advancements in cloning",
+      "creates",
+      "patient-specific stem cells"
+    ],
+    [
+      "advancements in cloning",
+      "drives",
+      "public concern"
+    ],
+    [
+      "advancements in cloning",
+      "enables",
+      "life creation"
+    ],
+    [
+      "advancements in cloning",
+      "enhances",
+      "human rights"
+    ],
+    [
+      "advancements in cloning",
+      "improves",
+      "public health"
+    ],
+    [
+      "advancements in cloning",
+      "is shaped by",
+      "morality"
+    ],
+    [
+      "advancements in cloning",
+      "leads to",
+      "medical breakthroughs"
+    ],
+    [
+      "advancements in cloning",
+      "limits",
+      "boundaries"
+    ],
+    [
+      "advancements in cloning",
+      "results in",
+      "medical advancements"
+    ],
+    [
+      "benefits versus risks",
+      "enhances",
+      "improved quality of life"
+    ],
+    [
+      "benefits versus risks",
+      "supports",
+      "genetic disease research"
+    ],
+    [
+      "boundaries",
+      "challenges",
+      "genetic replica"
+    ],
+    [
+      "boundaries",
+      "criticizes",
+      "cloning critics"
+    ],
+    [
+      "boundaries",
+      "defines",
+      "scientific discovery"
+    ],
+    [
+      "boundaries",
+      "influences",
+      "spirituality"
+    ],
+    [
+      "clones",
+      "affects",
+      "individual well-being"
+    ],
+    [
+      "clones",
+      "criticizes",
+      "cloning critics"
+    ],
+    [
+      "clones",
+      "questions",
+      "individuality"
+    ],
+    [
+      "clones",
+      "reduces to",
+      "commodities"
+    ],
+    [
+      "clones",
+      "replicates",
+      "human nature"
+    ],
+    [
+      "clones",
+      "replicates",
+      "identical twins"
+    ],
+    [
+      "cloning benefits",
+      "benefits from",
+      "individual rights"
+    ],
+    [
+      "cloning benefits",
+      "promotes",
+      "distinct lives"
+    ],
+    [
+      "cloning critics",
+      "demands",
+      "regulations"
+    ],
+    [
+      "cloning ethics",
+      "affects",
+      "personal health"
+    ],
+    [
+      "cloning ethics",
+      "challenges",
+      "individual dignity"
+    ],
+    [
+      "cloning ethics",
+      "contradicts",
+      "cloning misuse"
+    ],
+    [
+      "cloning ethics",
+      "enables",
+      "targeted treatments"
+    ],
+    [
+      "cloning ethics",
+      "guides",
+      "medical technology"
+    ],
+    [
+      "cloning ethics",
+      "informs",
+      "ethical concerns"
+    ],
+    [
+      "cloning ethics",
+      "involves",
+      "advancements in cloning"
+    ],
+    [
+      "cloning ethics",
+      "is a concern for",
+      "commodification"
+    ],
+    [
+      "cloning ethics",
+      "questions",
+      "medical advancements"
+    ],
+    [
+      "cloning ethics",
+      "raises",
+      "individual rights"
+    ],
+    [
+      "cloning ethics",
+      "raises concerns about",
+      "healthcare revolution"
+    ],
+    [
+      "cloning ethics",
+      "raises concerns about",
+      "organ harvesting"
+    ],
+    [
+      "cloning ethics",
+      "requires",
+      "regulations"
+    ],
+    [
+      "cloning proponents",
+      "exemplifies",
+      "hubris"
+    ],
+    [
+      "cloning proponents",
+      "raises",
+      "ethical implications"
+    ],
+    [
+      "cloning proponents",
+      "sparks",
+      "cloning debates"
+    ],
+    [
+      "cloning proponents",
+      "supports",
+      "clones"
+    ],
+    [
+      "cloning proponents",
+      "supports",
+      "cloning technology"
+    ],
+    [
+      "cloning technology",
+      "creates",
+      "patient-specific stem cells"
+    ],
+    [
+      "cloning technology",
+      "enables",
+      "medical breakthroughs"
+    ],
+    [
+      "cloning technology",
+      "enhances",
+      "health outcomes"
+    ],
+    [
+      "cloning technology",
+      "improves",
+      "personal health"
+    ],
+    [
+      "cloning technology",
+      "is a concern for",
+      "cloning misuse"
+    ],
+    [
+      "cloning technology",
+      "is driven by",
+      "medical advancements"
+    ],
+    [
+      "cloning technology",
+      "leads to",
+      "advancements in cloning"
+    ],
+    [
+      "commodification",
+      "contradicts",
+      "higher power"
+    ],
+    [
+      "commodification",
+      "defines",
+      "ethical boundaries"
+    ],
+    [
+      "commodification",
+      "is a result of",
+      "cloning misuse"
+    ],
+    [
+      "commodification",
+      "is associated with",
+      "cloning technology"
+    ],
+    [
+      "commodification",
+      "presents",
+      "ethical implications"
+    ],
+    [
+      "commodification",
+      "reduces",
+      "commodities"
+    ],
+    [
+      "commodities",
+      "contradicts",
+      "higher power"
+    ],
+    [
+      "commodities",
+      "is challenged by",
+      "natural order"
+    ],
+    [
+      "commodities",
+      "is defined by",
+      "moral boundaries"
+    ],
+    [
+      "commodities",
+      "is diminished by",
+      "moral obligations"
+    ],
+    [
+      "commodities",
+      "is reduced to",
+      "human identity"
+    ],
+    [
+      "commodities",
+      "is undermined by",
+      "individuality"
+    ],
+    [
+      "commodities",
+      "is viewed as",
+      "morality"
+    ],
+    [
+      "commodities",
+      "reduces",
+      "identity questions"
+    ],
+    [
+      "commodities",
+      "reduces to",
+      "boundaries"
+    ],
+    [
+      "commodities",
+      "reduces to",
+      "controversial topic"
+    ],
+    [
+      "commodities",
+      "reduces to",
+      "divine violation"
+    ],
+    [
+      "commodities",
+      "reduces to",
+      "human nature"
+    ],
+    [
+      "commodities",
+      "reduces to",
+      "individual experiences"
+    ],
+    [
+      "commodities",
+      "reduces to",
+      "personal identity"
+    ],
+    [
+      "commodities",
+      "reduces to",
+      "regulations"
+    ],
+    [
+      "commodities",
+      "views as",
+      "religious concerns"
+    ],
+    [
+      "complex considerations",
+      "influences",
+      "individual experiences"
+    ],
+    [
+      "controversial topic",
+      "challenges",
+      "morality"
+    ],
+    [
+      "controversial topic",
+      "is associated with",
+      "exploitation"
+    ],
+    [
+      "controversial topic",
+      "is associated with",
+      "religious concerns"
+    ],
+    [
+      "controversial topic",
+      "is centered on",
+      "human cloning"
+    ],
+    [
+      "controversial topic",
+      "is governed by",
+      "regulations"
+    ],
+    [
+      "controversial topic",
+      "is related to",
+      "human rights"
+    ],
+    [
+      "controversial topic",
+      "is viewed as",
+      "cloning ethics"
+    ],
+    [
+      "controversial topic",
+      "raises",
+      "abuse potential"
+    ],
+    [
+      "controversial topic",
+      "raises",
+      "ethical dilemmas"
+    ],
+    [
+      "controversial topic",
+      "raises",
+      "ethical responsibility"
+    ],
+    [
+      "designer babies",
+      "challenges",
+      "boundaries"
+    ],
+    [
+      "designer babies",
+      "challenges",
+      "higher power"
+    ],
+    [
+      "designer babies",
+      "challenges",
+      "role of creator"
+    ],
+    [
+      "designer babies",
+      "contrasts with",
+      "medical progress"
+    ],
+    [
+      "designer babies",
+      "derived from",
+      "patient-specific stem cells"
+    ],
+    [
+      "designer babies",
+      "drives",
+      "healthcare revolution"
+    ],
+    [
+      "designer babies",
+      "embodies",
+      "hubris"
+    ],
+    [
+      "designer babies",
+      "exploits",
+      "exploitation"
+    ],
+    [
+      "designer babies",
+      "impacts",
+      "societal impact"
+    ],
+    [
+      "designer babies",
+      "influences",
+      "divine authority"
+    ],
+    [
+      "designer babies",
+      "influences",
+      "scientific inquiry"
+    ],
+    [
+      "designer babies",
+      "influences",
+      "spirituality"
+    ],
+    [
+      "designer babies",
+      "is a concern for",
+      "organ harvesting"
+    ],
+    [
+      "designer babies",
+      "is associated with",
+      "human cloning"
+    ],
+    [
+      "designer babies",
+      "raises",
+      "ethical challenges"
+    ],
+    [
+      "designer babies",
+      "raises",
+      "moral challenges"
+    ],
+    [
+      "designer babies",
+      "raises",
+      "moral questions"
+    ],
+    [
+      "designer babies",
+      "raises",
+      "profound questions"
+    ],
+    [
+      "designer babies",
+      "reduces to",
+      "commodities"
+    ],
+    [
+      "designer babies",
+      "sparks",
+      "diverse perspectives"
+    ],
+    [
+      "distinct lives",
+      "defines",
+      "ethical boundaries"
+    ],
+    [
+      "distinct lives",
+      "influences",
+      "human identity"
+    ],
+    [
+      "distinct lives",
+      "influences",
+      "profound questions"
+    ],
+    [
+      "distinct lives",
+      "shapes",
+      "spirituality"
+    ],
+    [
+      "diverse perspectives",
+      "challenges",
+      "divine violation"
+    ],
+    [
+      "diverse perspectives",
+      "contrasts with",
+      "religious traditions"
+    ],
+    [
+      "diverse perspectives",
+      "influences",
+      "commodification"
+    ],
+    [
+      "diverse perspectives",
+      "influences",
+      "human cloning"
+    ],
+    [
+      "diverse perspectives",
+      "influences",
+      "individuality"
+    ],
+    [
+      "diverse perspectives",
+      "influences",
+      "morality"
+    ],
+    [
+      "diverse perspectives",
+      "informs",
+      "experiences and emotions"
+    ],
+    [
+      "diverse perspectives",
+      "informs",
+      "individual experiences"
+    ],
+    [
+      "diverse perspectives",
+      "informs",
+      "personal identity"
+    ],
+    [
+      "diverse perspectives",
+      "informs",
+      "unique dignity"
+    ],
+    [
+      "diverse perspectives",
+      "is influenced by",
+      "commodities"
+    ],
+    [
+      "diverse perspectives",
+      "is influenced by",
+      "public concern"
+    ],
+    [
+      "diverse perspectives",
+      "presents",
+      "existential dilemmas"
+    ],
+    [
+      "diverse perspectives",
+      "presents",
+      "moral challenges"
+    ],
+    [
+      "diverse perspectives",
+      "promotes",
+      "open dialogue"
+    ],
+    [
+      "diverse perspectives",
+      "shapes",
+      "controversial topic"
+    ],
+    [
+      "divine authority",
+      "challenges",
+      "sanctity of life"
+    ],
+    [
+      "divine authority",
+      "enables",
+      "scientific potential"
+    ],
+    [
+      "divine authority",
+      "influences",
+      "societal impact"
+    ],
+    [
+      "divine authority",
+      "is challenged by",
+      "human intervention"
+    ],
+    [
+      "divine authority",
+      "is concerned with",
+      "abuse potential"
+    ],
+    [
+      "divine authority",
+      "leads to",
+      "exploitation"
+    ],
+    [
+      "divine authority",
+      "shapes",
+      "ethical considerations"
+    ],
+    [
+      "divine authority",
+      "supports",
+      "genetic disease research"
+    ],
+    [
+      "divine violation",
+      "challenges",
+      "cloning critics"
+    ],
+    [
+      "divine violation",
+      "challenges",
+      "divine authority"
+    ],
+    [
+      "divine violation",
+      "challenges",
+      "patient-specific stem cells"
+    ],
+    [
+      "divine violation",
+      "contradicts",
+      "medical technology"
+    ],
+    [
+      "divine violation",
+      "creates",
+      "identity issues"
+    ],
+    [
+      "divine violation",
+      "involves",
+      "human cloning"
+    ],
+    [
+      "divine violation",
+      "is associated with",
+      "therapeutic cloning"
+    ],
+    [
+      "divine violation",
+      "presents",
+      "moral challenges"
+    ],
+    [
+      "divine violation",
+      "questions",
+      "role of creator"
+    ],
+    [
+      "divine violation",
+      "raises",
+      "existential dilemmas"
+    ],
+    [
+      "divine violation",
+      "raises",
+      "moral questions"
+    ],
+    [
+      "divine violation",
+      "violated by",
+      "human intervention"
+    ],
+    [
+      "divine violation",
+      "violated by",
+      "human rights"
+    ],
+    [
+      "divine violation",
+      "violates",
+      "cloning ethics"
+    ],
+    [
+      "divine violation",
+      "violates",
+      "ethical responsibility"
+    ],
+    [
+      "ethical boundaries",
+      "are defined by",
+      "healthcare debates"
+    ],
+    [
+      "ethical boundaries",
+      "defines",
+      "cloning ethics"
+    ],
+    [
+      "ethical boundaries",
+      "defines",
+      "personal identity"
+    ],
+    [
+      "ethical boundaries",
+      "defines",
+      "role of creator"
+    ],
+    [
+      "ethical boundaries",
+      "demands",
+      "ethical responsibility"
+    ],
+    [
+      "ethical boundaries",
+      "limits",
+      "life creation"
+    ],
+    [
+      "ethical boundaries",
+      "raises",
+      "designer babies"
+    ],
+    [
+      "ethical boundaries",
+      "raises",
+      "profound questions"
+    ],
+    [
+      "ethical challenges",
+      "is a subset of",
+      "ethical implications"
+    ],
+    [
+      "ethical challenges",
+      "is challenged by",
+      "moral boundaries"
+    ],
+    [
+      "ethical challenges",
+      "presents",
+      "personal identity"
+    ],
+    [
+      "ethical challenges",
+      "presents",
+      "public concern"
+    ],
+    [
+      "ethical challenges",
+      "presents",
+      "unique identity"
+    ],
+    [
+      "ethical concerns",
+      "addresses",
+      "regulations"
+    ],
+    [
+      "ethical concerns",
+      "addresses",
+      "targeted treatments"
+    ],
+    [
+      "ethical concerns",
+      "advances",
+      "medical progress"
+    ],
+    [
+      "ethical concerns",
+      "associated with",
+      "designer babies"
+    ],
+    [
+      "ethical concerns",
+      "complicates",
+      "advancements in cloning"
+    ],
+    [
+      "ethical concerns",
+      "informs",
+      "healthcare innovation"
+    ],
+    [
+      "ethical concerns",
+      "is a part of",
+      "controversial topic"
+    ],
+    [
+      "ethical concerns",
+      "presents",
+      "moral challenges"
+    ],
+    [
+      "ethical concerns",
+      "provokes",
+      "moral questions"
+    ],
+    [
+      "ethical concerns",
+      "questions",
+      "unique dignity"
+    ],
+    [
+      "ethical concerns",
+      "raises",
+      "boundaries"
+    ],
+    [
+      "ethical concerns",
+      "raises",
+      "cloning misuse"
+    ],
+    [
+      "ethical concerns",
+      "raises",
+      "cloning technology"
+    ],
+    [
+      "ethical concerns",
+      "raises",
+      "human cloning"
+    ],
+    [
+      "ethical concerns",
+      "raises",
+      "medical breakthroughs"
+    ],
+    [
+      "ethical concerns",
+      "raises",
+      "organ harvesting"
+    ],
+    [
+      "ethical concerns",
+      "raises",
+      "public concern"
+    ],
+    [
+      "ethical concerns",
+      "reflects",
+      "human nature"
+    ],
+    [
+      "ethical considerations",
+      "affects",
+      "health outcomes"
+    ],
+    [
+      "ethical considerations",
+      "challenges",
+      "hubris"
+    ],
+    [
+      "ethical considerations",
+      "influences",
+      "personal health"
+    ],
+    [
+      "ethical considerations",
+      "informs",
+      "advancements in cloning"
+    ],
+    [
+      "ethical considerations",
+      "involves",
+      "diverse perspectives"
+    ],
+    [
+      "ethical considerations",
+      "involves",
+      "morality"
+    ],
+    [
+      "ethical considerations",
+      "raises",
+      "exploitation"
+    ],
+    [
+      "ethical considerations",
+      "raises",
+      "organ harvesting"
+    ],
+    [
+      "ethical considerations",
+      "raises",
+      "profound questions"
+    ],
+    [
+      "ethical considerations",
+      "raises",
+      "role of creator"
+    ],
+    [
+      "ethical considerations",
+      "reduces to",
+      "commodities"
+    ],
+    [
+      "ethical considerations",
+      "supports",
+      "targeted treatments"
+    ],
+    [
+      "ethical considerations",
+      "supports",
+      "therapeutic cloning"
+    ],
+    [
+      "ethical dilemmas",
+      "exemplifies",
+      "hubris"
+    ],
+    [
+      "ethical dilemmas",
+      "poses",
+      "distinct lives"
+    ],
+    [
+      "ethical dilemmas",
+      "raises",
+      "individuality"
+    ],
+    [
+      "ethical dilemmas",
+      "raises",
+      "sanctity of life"
+    ],
+    [
+      "ethical dilemmas",
+      "raises",
+      "scientific progress"
+    ],
+    [
+      "ethical dilemmas",
+      "shapes",
+      "morality"
+    ],
+    [
+      "ethical implications",
+      "affects",
+      "medical progress"
+    ],
+    [
+      "ethical implications",
+      "are influenced by",
+      "healthcare debates"
+    ],
+    [
+      "ethical implications",
+      "drives",
+      "healthcare revolution"
+    ],
+    [
+      "ethical implications",
+      "enables",
+      "medical breakthroughs"
+    ],
+    [
+      "ethical implications",
+      "encourages",
+      "open dialogue"
+    ],
+    [
+      "ethical implications",
+      "influences",
+      "cloning ethics"
+    ],
+    [
+      "ethical implications",
+      "is associated with",
+      "advancements in cloning"
+    ],
+    [
+      "ethical implications",
+      "is associated with",
+      "genetic manipulation"
+    ],
+    [
+      "ethical implications",
+      "necessitates",
+      "regulations"
+    ],
+    [
+      "ethical implications",
+      "reduces to",
+      "commodities"
+    ],
+    [
+      "ethical responsibility",
+      "is a factor in",
+      "ethical challenges"
+    ],
+    [
+      "existential dilemmas",
+      "necessitates",
+      "regulations"
+    ],
+    [
+      "experiences and emotions",
+      "complicates",
+      "ethical challenges"
+    ],
+    [
+      "experiences and emotions",
+      "shapes",
+      "role of creator"
+    ],
+    [
+      "exploitation",
+      "contradicts",
+      "religious traditions"
+    ],
+    [
+      "exploitation",
+      "exploits",
+      "clones"
+    ],
+    [
+      "exploitation",
+      "exploits",
+      "individual experiences"
+    ],
+    [
+      "exploitation",
+      "influences",
+      "distinct lives"
+    ],
+    [
+      "exploitation",
+      "is associated with",
+      "human cloning"
+    ],
+    [
+      "exploitation",
+      "is undermined by",
+      "natural order"
+    ],
+    [
+      "exploitation",
+      "presents",
+      "ethical dilemmas"
+    ],
+    [
+      "exploitation",
+      "raises",
+      "public concern"
+    ],
+    [
+      "exploitation",
+      "reduces to",
+      "commodities"
+    ],
+    [
+      "exploitation",
+      "regulated by",
+      "regulations"
+    ],
+    [
+      "exploitation",
+      "undermines",
+      "individual dignity"
+    ],
+    [
+      "exploitation",
+      "undermines",
+      "personal identity"
+    ],
+    [
+      "genetic disease research",
+      "advances",
+      "healthcare innovation"
+    ],
+    [
+      "genetic disease research",
+      "drives research in",
+      "public concern"
+    ],
+    [
+      "genetic disease research",
+      "involves",
+      "boundaries"
+    ],
+    [
+      "genetic disease research",
+      "involves",
+      "cloning ethics"
+    ],
+    [
+      "genetic disease research",
+      "is a concern for",
+      "divine violation"
+    ],
+    [
+      "genetic disease research",
+      "produces",
+      "patient-specific stem cells"
+    ],
+    [
+      "genetic disease research",
+      "raises",
+      "ethical considerations"
+    ],
+    [
+      "genetic disease research",
+      "risks",
+      "organ harvesting"
+    ],
+    [
+      "genetic disease research",
+      "supports",
+      "human cloning"
+    ],
+    [
+      "genetic disease research",
+      "supports",
+      "human rights"
+    ],
+    [
+      "genetic disease research",
+      "supports",
+      "regenerative therapies"
+    ],
+    [
+      "genetic manipulation",
+      "advances",
+      "cloning technology"
+    ],
+    [
+      "genetic manipulation",
+      "affects",
+      "health outcomes"
+    ],
+    [
+      "genetic manipulation",
+      "depends on",
+      "scientific progress"
+    ],
+    [
+      "genetic manipulation",
+      "enables",
+      "targeted treatments"
+    ],
+    [
+      "genetic manipulation",
+      "facilitates",
+      "therapeutic cloning"
+    ],
+    [
+      "genetic manipulation",
+      "influences",
+      "personal health"
+    ],
+    [
+      "genetic manipulation",
+      "involves",
+      "human cloning"
+    ],
+    [
+      "genetic manipulation",
+      "leads to",
+      "medical breakthroughs"
+    ],
+    [
+      "genetic manipulation",
+      "raises",
+      "public concern"
+    ],
+    [
+      "genetic manipulation",
+      "requires",
+      "regulations"
+    ],
+    [
+      "genetic replica",
+      "creates",
+      "designer babies"
+    ],
+    [
+      "genetic replica",
+      "criticizes",
+      "cloning critics"
+    ],
+    [
+      "genetic replica",
+      "demands",
+      "ethical responsibility"
+    ],
+    [
+      "genetic replica",
+      "embodies",
+      "cloning ethics"
+    ],
+    [
+      "genetic replica",
+      "is a product of",
+      "human cloning"
+    ],
+    [
+      "genetic replica",
+      "is challenged by",
+      "sanctity of life"
+    ],
+    [
+      "genetic replica",
+      "questions",
+      "role of creator"
+    ],
+    [
+      "genetic replica",
+      "raises",
+      "profound questions"
+    ],
+    [
+      "health outcomes",
+      "influences",
+      "personal health"
+    ],
+    [
+      "health outcomes",
+      "influences",
+      "scientific inquiry"
+    ],
+    [
+      "healthcare challenges",
+      "faces",
+      "advancements in cloning"
+    ],
+    [
+      "healthcare challenges",
+      "faces",
+      "scientific progress"
+    ],
+    [
+      "healthcare challenges",
+      "is influenced by",
+      "morality"
+    ],
+    [
+      "healthcare challenges",
+      "offers",
+      "regenerative therapies"
+    ],
+    [
+      "healthcare challenges",
+      "poses",
+      "human cloning"
+    ],
+    [
+      "healthcare challenges",
+      "presents",
+      "public health"
+    ],
+    [
+      "healthcare challenges",
+      "produces",
+      "patient-specific stem cells"
+    ],
+    [
+      "healthcare challenges",
+      "raises",
+      "ethical considerations"
+    ],
+    [
+      "healthcare debates",
+      "demands",
+      "moral obligations"
+    ],
+    [
+      "healthcare debates",
+      "influences",
+      "human cloning"
+    ],
+    [
+      "healthcare debates",
+      "influences",
+      "public health"
+    ],
+    [
+      "healthcare debates",
+      "influences",
+      "scientific discovery"
+    ],
+    [
+      "healthcare debates",
+      "informs",
+      "cloning benefits"
+    ],
+    [
+      "healthcare debates",
+      "initiates",
+      "healthcare revolution"
+    ],
+    [
+      "healthcare debates",
+      "involves",
+      "ethical considerations"
+    ],
+    [
+      "healthcare debates",
+      "involves",
+      "ethical implications"
+    ],
+    [
+      "healthcare debates",
+      "involves",
+      "therapeutic cloning"
+    ],
+    [
+      "healthcare debates",
+      "poses",
+      "profound questions"
+    ],
+    [
+      "healthcare debates",
+      "promotes",
+      "open dialogue"
+    ],
+    [
+      "healthcare debates",
+      "questions",
+      "role of creator"
+    ],
+    [
+      "healthcare debates",
+      "raises",
+      "ethical boundaries"
+    ],
+    [
+      "healthcare debates",
+      "raises",
+      "organ harvesting"
+    ],
+    [
+      "healthcare debates",
+      "shapes",
+      "diverse perspectives"
+    ],
+    [
+      "healthcare debates",
+      "supports",
+      "genetic disease research"
+    ],
+    [
+      "healthcare innovation",
+      "benefits from",
+      "scientific progress"
+    ],
+    [
+      "healthcare innovation",
+      "creates",
+      "patient-specific stem cells"
+    ],
+    [
+      "healthcare innovation",
+      "drives",
+      "scientific inquiry"
+    ],
+    [
+      "healthcare innovation",
+      "enables",
+      "life creation"
+    ],
+    [
+      "healthcare innovation",
+      "is challenged by",
+      "sanctity of life"
+    ],
+    [
+      "healthcare innovation",
+      "is facilitated by",
+      "cloning technology"
+    ],
+    [
+      "healthcare innovation",
+      "leads to",
+      "medical breakthroughs"
+    ],
+    [
+      "healthcare revolution",
+      "drives",
+      "advancements in cloning"
+    ],
+    [
+      "healthcare revolution",
+      "drives",
+      "cloning technology"
+    ],
+    [
+      "healthcare revolution",
+      "drives",
+      "societal impact"
+    ],
+    [
+      "healthcare revolution",
+      "facilitates",
+      "genetic manipulation"
+    ],
+    [
+      "healthcare revolution",
+      "improves",
+      "health outcomes"
+    ],
+    [
+      "higher power",
+      "challenges",
+      "healthcare innovation"
+    ],
+    [
+      "higher power",
+      "challenges",
+      "human cloning"
+    ],
+    [
+      "higher power",
+      "challenges",
+      "individual dignity"
+    ],
+    [
+      "higher power",
+      "challenges",
+      "public concern"
+    ],
+    [
+      "higher power",
+      "challenges",
+      "scientific inquiry"
+    ],
+    [
+      "higher power",
+      "created by",
+      "scientific discovery"
+    ],
+    [
+      "higher power",
+      "demands",
+      "moral obligations"
+    ],
+    [
+      "higher power",
+      "imposes",
+      "ethical responsibility"
+    ],
+    [
+      "higher power",
+      "is challenged by",
+      "divine authority"
+    ],
+    [
+      "higher power",
+      "is created by",
+      "genetic replica"
+    ],
+    [
+      "higher power",
+      "is questioned by",
+      "ethical considerations"
+    ],
+    [
+      "higher power",
+      "is questioned by",
+      "morality"
+    ],
+    [
+      "higher power",
+      "is seen as",
+      "hubris"
+    ],
+    [
+      "higher power",
+      "questions",
+      "human nature"
+    ],
+    [
+      "hubris",
+      "challenges",
+      "individual dignity"
+    ],
+    [
+      "hubris",
+      "challenges",
+      "moral obligations"
+    ],
+    [
+      "hubris",
+      "challenges",
+      "morality"
+    ],
+    [
+      "hubris",
+      "demands",
+      "ethical responsibility"
+    ],
+    [
+      "hubris",
+      "is a factor in",
+      "ethical concerns"
+    ],
+    [
+      "hubris",
+      "is associated with",
+      "cloning technology"
+    ],
+    [
+      "hubris",
+      "is challenged by",
+      "spirituality"
+    ],
+    [
+      "hubris",
+      "is expressed by",
+      "public concern"
+    ],
+    [
+      "hubris",
+      "represents",
+      "role of creator"
+    ],
+    [
+      "human cloning",
+      "affects",
+      "personal health"
+    ],
+    [
+      "human cloning",
+      "challenges",
+      "moral boundaries"
+    ],
+    [
+      "human cloning",
+      "contributes to",
+      "medical progress"
+    ],
+    [
+      "human cloning",
+      "embodies",
+      "hubris"
+    ],
+    [
+      "human cloning",
+      "enables",
+      "therapeutic cloning"
+    ],
+    [
+      "human cloning",
+      "fuels",
+      "cloning debates"
+    ],
+    [
+      "human cloning",
+      "infringes on",
+      "individual rights"
+    ],
+    [
+      "human cloning",
+      "is a form of",
+      "cloning technology"
+    ],
+    [
+      "human cloning",
+      "is viewed as",
+      "religious traditions"
+    ],
+    [
+      "human cloning",
+      "presents",
+      "ethical dilemmas"
+    ],
+    [
+      "human cloning",
+      "presents",
+      "moral challenges"
+    ],
+    [
+      "human cloning",
+      "produces",
+      "patient-specific stem cells"
+    ],
+    [
+      "human cloning",
+      "questions",
+      "role of creator"
+    ],
+    [
+      "human cloning",
+      "raises",
+      "cloning ethics"
+    ],
+    [
+      "human cloning",
+      "reduces to",
+      "commodities"
+    ],
+    [
+      "human cloning",
+      "requires",
+      "open dialogue"
+    ],
+    [
+      "human cloning",
+      "requires",
+      "regulations"
+    ],
+    [
+      "human identity",
+      "affects",
+      "individual well-being"
+    ],
+    [
+      "human identity",
+      "affirms",
+      "unique dignity"
+    ],
+    [
+      "human identity",
+      "complicates",
+      "ethical dilemmas"
+    ],
+    [
+      "human identity",
+      "involves",
+      "identity issues"
+    ],
+    [
+      "human identity",
+      "is threatened by",
+      "exploitation"
+    ],
+    [
+      "human identity",
+      "presents",
+      "moral challenges"
+    ],
+    [
+      "human identity",
+      "raises",
+      "profound questions"
+    ],
+    [
+      "human intervention",
+      "affects",
+      "human nature"
+    ],
+    [
+      "human intervention",
+      "affects",
+      "public health"
+    ],
+    [
+      "human intervention",
+      "creates",
+      "designer babies"
+    ],
+    [
+      "human intervention",
+      "enables",
+      "targeted treatments"
+    ],
+    [
+      "human intervention",
+      "enhances",
+      "scientific potential"
+    ],
+    [
+      "human intervention",
+      "influences",
+      "health outcomes"
+    ],
+    [
+      "human intervention",
+      "influences",
+      "medical ethics"
+    ],
+    [
+      "human intervention",
+      "is a concern for",
+      "abuse potential"
+    ],
+    [
+      "human intervention",
+      "is criticized by",
+      "cloning critics"
+    ],
+    [
+      "human intervention",
+      "requires",
+      "regulations"
+    ],
+    [
+      "human intervention",
+      "violated by",
+      "sanctity of life"
+    ],
+    [
+      "human nature",
+      "demands",
+      "ethical responsibility"
+    ],
+    [
+      "human nature",
+      "reflects",
+      "sanctity of life"
+    ],
+    [
+      "human rights",
+      "affects",
+      "health outcomes"
+    ],
+    [
+      "human rights",
+      "challenges",
+      "ethical boundaries"
+    ],
+    [
+      "human rights",
+      "contradicts",
+      "designer babies"
+    ],
+    [
+      "human rights",
+      "facilitates",
+      "organ transplantation"
+    ],
+    [
+      "human rights",
+      "influences",
+      "personal health"
+    ],
+    [
+      "human rights",
+      "is affected by",
+      "genetic manipulation"
+    ],
+    [
+      "human rights",
+      "is produced by",
+      "patient-specific stem cells"
+    ],
+    [
+      "human rights",
+      "is violated by",
+      "exploitation"
+    ],
+    [
+      "human rights",
+      "presents",
+      "ethical dilemmas"
+    ],
+    [
+      "human rights",
+      "raises",
+      "ethical challenges"
+    ],
+    [
+      "human rights",
+      "supports",
+      "medical progress"
+    ],
+    [
+      "human rights",
+      "violates",
+      "unethical experiments"
+    ],
+    [
+      "identical twins",
+      "compares to",
+      "divine authority"
+    ],
+    [
+      "identity issues",
+      "challenges",
+      "individual dignity"
+    ],
+    [
+      "identity issues",
+      "creates",
+      "ethical challenges"
+    ],
+    [
+      "identity issues",
+      "infringes upon",
+      "individual rights"
+    ],
+    [
+      "identity issues",
+      "is",
+      "controversial topic"
+    ],
+    [
+      "identity issues",
+      "is affected by",
+      "exploitation"
+    ],
+    [
+      "identity issues",
+      "is influenced by",
+      "individual well-being"
+    ],
+    [
+      "identity issues",
+      "necessitates",
+      "regulations"
+    ],
+    [
+      "identity issues",
+      "questions",
+      "life creation"
+    ],
+    [
+      "identity issues",
+      "raises",
+      "designer babies"
+    ],
+    [
+      "identity issues",
+      "raises",
+      "genetic replica"
+    ],
+    [
+      "identity questions",
+      "invokes",
+      "diverse perspectives"
+    ],
+    [
+      "identity questions",
+      "involves",
+      "complex considerations"
+    ],
+    [
+      "identity questions",
+      "necessitates",
+      "open dialogue"
+    ],
+    [
+      "identity questions",
+      "raises",
+      "existential dilemmas"
+    ],
+    [
+      "identity questions",
+      "raises",
+      "personal identity"
+    ],
+    [
+      "identity questions",
+      "shapes",
+      "individual experiences"
+    ],
+    [
+      "improved quality of life",
+      "enhances",
+      "cloning consequences"
+    ],
+    [
+      "improved quality of life",
+      "enhances",
+      "personal health"
+    ],
+    [
+      "improved quality of life",
+      "improves",
+      "complex considerations"
+    ],
+    [
+      "improved quality of life",
+      "improves",
+      "healthcare debates"
+    ],
+    [
+      "individual dignity",
+      "contradicts",
+      "divine violation"
+    ],
+    [
+      "individual dignity",
+      "influences",
+      "distinct lives"
+    ],
+    [
+      "individual dignity",
+      "is compromised by",
+      "life creation"
+    ],
+    [
+      "individual dignity",
+      "requires",
+      "regulations"
+    ],
+    [
+      "individual dignity",
+      "supports",
+      "human rights"
+    ],
+    [
+      "individual dignity",
+      "undermines",
+      "genetic replica"
+    ],
+    [
+      "individual dignity",
+      "undermines",
+      "human nature"
+    ],
+    [
+      "individual rights",
+      "faces",
+      "ethical challenges"
+    ],
+    [
+      "individual rights",
+      "is upheld by",
+      "personal uniqueness"
+    ],
+    [
+      "individual rights",
+      "poses",
+      "profound questions"
+    ],
+    [
+      "individual rights",
+      "shapes",
+      "personal identity"
+    ],
+    [
+      "individual rights",
+      "upholds",
+      "individual dignity"
+    ],
+    [
+      "individual well-being",
+      "affects",
+      "complex considerations"
+    ],
+    [
+      "individual well-being",
+      "affects",
+      "existential dilemmas"
+    ],
+    [
+      "individual well-being",
+      "affects",
+      "individual dignity"
+    ],
+    [
+      "individual well-being",
+      "concerns",
+      "religious concerns"
+    ],
+    [
+      "individual well-being",
+      "enhances",
+      "personal uniqueness"
+    ],
+    [
+      "individual well-being",
+      "raises",
+      "ethical dilemmas"
+    ],
+    [
+      "individual well-being",
+      "shapes",
+      "individual experiences"
+    ],
+    [
+      "individuality",
+      "contradicts",
+      "exploitation"
+    ],
+    [
+      "individuality",
+      "influences",
+      "controversial topic"
+    ],
+    [
+      "individuality",
+      "influences",
+      "improved quality of life"
+    ],
+    [
+      "individuality",
+      "is a form of",
+      "unique identity"
+    ],
+    [
+      "individuality",
+      "is influenced by",
+      "moral boundaries"
+    ],
+    [
+      "individuality",
+      "raises",
+      "profound questions"
+    ],
+    [
+      "individuality",
+      "reduces to",
+      "commodities"
+    ],
+    [
+      "individuality",
+      "shapes",
+      "distinct lives"
+    ],
+    [
+      "individuality",
+      "shapes",
+      "individual experiences"
+    ],
+    [
+      "individuality",
+      "undermines",
+      "natural order"
+    ],
+    [
+      "life creation",
+      "enables",
+      "targeted treatments"
+    ],
+    [
+      "life creation",
+      "involves",
+      "scientific discovery"
+    ],
+    [
+      "life creation",
+      "is challenged by",
+      "sanctity of life"
+    ],
+    [
+      "life creation",
+      "produces",
+      "patient-specific stem cells"
+    ],
+    [
+      "life creation",
+      "requires",
+      "regulations"
+    ],
+    [
+      "medical advancements",
+      "advances",
+      "cloning technology"
+    ],
+    [
+      "medical advancements",
+      "advances",
+      "regenerative therapies"
+    ],
+    [
+      "medical advancements",
+      "contributes to",
+      "medical progress"
+    ],
+    [
+      "medical advancements",
+      "improves",
+      "health outcomes"
+    ],
+    [
+      "medical advancements",
+      "improves",
+      "public health"
+    ],
+    [
+      "medical advancements",
+      "is enhanced by",
+      "scientific potential"
+    ],
+    [
+      "medical ethics",
+      "addresses",
+      "human cloning"
+    ],
+    [
+      "medical ethics",
+      "advances",
+      "advancements in cloning"
+    ],
+    [
+      "medical ethics",
+      "advances",
+      "medical progress"
+    ],
+    [
+      "medical ethics",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "medical ethics",
+      "enables",
+      "healthcare revolution"
+    ],
+    [
+      "medical ethics",
+      "enables",
+      "regenerative therapies"
+    ],
+    [
+      "medical ethics",
+      "guides",
+      "scientific progress"
+    ],
+    [
+      "medical ethics",
+      "informs",
+      "public health"
+    ],
+    [
+      "medical ethics",
+      "informs",
+      "targeted treatments"
+    ],
+    [
+      "medical ethics",
+      "involves",
+      "ethical considerations"
+    ],
+    [
+      "medical ethics",
+      "involves",
+      "genetic manipulation"
+    ],
+    [
+      "medical ethics",
+      "overlaps with",
+      "cloning ethics"
+    ],
+    [
+      "medical ethics",
+      "questions",
+      "unethical experiments"
+    ],
+    [
+      "medical progress",
+      "enhances",
+      "sanctity of life"
+    ],
+    [
+      "medical progress",
+      "facilitates",
+      "patient-specific stem cells"
+    ],
+    [
+      "medical progress",
+      "is a result of",
+      "advancements in cloning"
+    ],
+    [
+      "medical progress",
+      "is a result of",
+      "targeted treatments"
+    ],
+    [
+      "medical technology",
+      "advances",
+      "genetic disease research"
+    ],
+    [
+      "medical technology",
+      "advances",
+      "medical progress"
+    ],
+    [
+      "medical technology",
+      "creates",
+      "designer babies"
+    ],
+    [
+      "medical technology",
+      "drives",
+      "medical breakthroughs"
+    ],
+    [
+      "medical technology",
+      "enables",
+      "organ harvesting"
+    ],
+    [
+      "medical technology",
+      "produces",
+      "patient-specific stem cells"
+    ],
+    [
+      "medical technology",
+      "requires",
+      "regulations"
+    ],
+    [
+      "moral boundaries",
+      "challenges",
+      "divine authority"
+    ],
+    [
+      "moral boundaries",
+      "challenges",
+      "scientific progress"
+    ],
+    [
+      "moral boundaries",
+      "defines",
+      "personal identity"
+    ],
+    [
+      "moral boundaries",
+      "gives rise to",
+      "moral questions"
+    ],
+    [
+      "moral boundaries",
+      "guides",
+      "ethical responsibility"
+    ],
+    [
+      "moral boundaries",
+      "requires",
+      "regulations"
+    ],
+    [
+      "moral challenges",
+      "challenges",
+      "boundaries"
+    ],
+    [
+      "moral challenges",
+      "challenges",
+      "higher power"
+    ],
+    [
+      "moral challenges",
+      "creates",
+      "genetic replica"
+    ],
+    [
+      "moral challenges",
+      "is impacted by",
+      "individual well-being"
+    ],
+    [
+      "moral challenges",
+      "presents",
+      "scientific potential"
+    ],
+    [
+      "moral obligations",
+      "defines",
+      "boundaries"
+    ],
+    [
+      "moral obligations",
+      "demands",
+      "exploitation"
+    ],
+    [
+      "moral obligations",
+      "demands",
+      "personal identity"
+    ],
+    [
+      "moral obligations",
+      "demands",
+      "scientific inquiry"
+    ],
+    [
+      "moral obligations",
+      "involves",
+      "ethical dilemmas"
+    ],
+    [
+      "moral obligations",
+      "involves",
+      "personal health"
+    ],
+    [
+      "moral obligations",
+      "is influenced by",
+      "sanctity of life"
+    ],
+    [
+      "moral obligations",
+      "requires",
+      "ethical concerns"
+    ],
+    [
+      "moral obligations",
+      "requires",
+      "unique dignity"
+    ],
+    [
+      "moral questions",
+      "influences",
+      "religious traditions"
+    ],
+    [
+      "moral questions",
+      "raises",
+      "distinct lives"
+    ],
+    [
+      "moral questions",
+      "raises",
+      "hubris"
+    ],
+    [
+      "moral questions",
+      "regulates",
+      "regulations"
+    ],
+    [
+      "morality",
+      "challenges",
+      "genetic replica"
+    ],
+    [
+      "morality",
+      "challenges",
+      "healthcare revolution"
+    ],
+    [
+      "morality",
+      "challenges",
+      "higher power"
+    ],
+    [
+      "morality",
+      "concerns",
+      "genetic disease research"
+    ],
+    [
+      "morality",
+      "guides",
+      "moral boundaries"
+    ],
+    [
+      "morality",
+      "is challenged by",
+      "natural order"
+    ],
+    [
+      "morality",
+      "is evaluated through",
+      "ethical concerns"
+    ],
+    [
+      "morality",
+      "is influenced by",
+      "moral obligations"
+    ],
+    [
+      "morality",
+      "is influenced by",
+      "organ harvesting"
+    ],
+    [
+      "morality",
+      "is related to",
+      "human cloning"
+    ],
+    [
+      "morality",
+      "questions",
+      "life creation"
+    ],
+    [
+      "morality",
+      "supports",
+      "targeted treatments"
+    ],
+    [
+      "morality",
+      "upholds",
+      "individual dignity"
+    ],
+    [
+      "natural order",
+      "challenges",
+      "human rights"
+    ],
+    [
+      "natural order",
+      "challenges",
+      "moral boundaries"
+    ],
+    [
+      "natural order",
+      "contradicts",
+      "ethical boundaries"
+    ],
+    [
+      "natural order",
+      "contradicts",
+      "ethical considerations"
+    ],
+    [
+      "natural order",
+      "is threatened by",
+      "unique dignity"
+    ],
+    [
+      "natural order",
+      "is upheld by",
+      "sanctity of life"
+    ],
+    [
+      "natural order",
+      "violates",
+      "designer babies"
+    ],
+    [
+      "open dialogue",
+      "demands",
+      "ethical responsibility"
+    ],
+    [
+      "open dialogue",
+      "encourages",
+      "individual well-being"
+    ],
+    [
+      "open dialogue",
+      "facilitates",
+      "experiences and emotions"
+    ],
+    [
+      "open dialogue",
+      "facilitates",
+      "moral challenges"
+    ],
+    [
+      "open dialogue",
+      "facilitates",
+      "profound questions"
+    ],
+    [
+      "open dialogue",
+      "promotes",
+      "individuality"
+    ],
+    [
+      "organ harvesting",
+      "affects",
+      "public health"
+    ],
+    [
+      "organ harvesting",
+      "contributes to",
+      "medical progress"
+    ],
+    [
+      "organ harvesting",
+      "demonstrates",
+      "scientific potential"
+    ],
+    [
+      "organ harvesting",
+      "facilitates",
+      "cloning technology"
+    ],
+    [
+      "organ harvesting",
+      "involves",
+      "genetic manipulation"
+    ],
+    [
+      "organ harvesting",
+      "is a consequence of",
+      "advancements in cloning"
+    ],
+    [
+      "organ harvesting",
+      "is a method for",
+      "patient-specific stem cells"
+    ],
+    [
+      "organ harvesting",
+      "is addressed by",
+      "ethical concerns"
+    ],
+    [
+      "organ transplantation",
+      "benefits from",
+      "genetic disease research"
+    ],
+    [
+      "organ transplantation",
+      "challenges",
+      "higher power"
+    ],
+    [
+      "organ transplantation",
+      "contrasts with",
+      "designer babies"
+    ],
+    [
+      "organ transplantation",
+      "enables",
+      "medical breakthroughs"
+    ],
+    [
+      "organ transplantation",
+      "involves",
+      "genetic manipulation"
+    ],
+    [
+      "organ transplantation",
+      "involves",
+      "organ harvesting"
+    ],
+    [
+      "organ transplantation",
+      "is a result of",
+      "human cloning"
+    ],
+    [
+      "organ transplantation",
+      "is governed by",
+      "medical ethics"
+    ],
+    [
+      "organ transplantation",
+      "produces",
+      "patient-specific stem cells"
+    ],
+    [
+      "organ transplantation",
+      "transforms",
+      "healthcare revolution"
+    ],
+    [
+      "patient-specific stem cells",
+      "benefits from",
+      "morality"
+    ],
+    [
+      "patient-specific stem cells",
+      "contributes to",
+      "medical breakthroughs"
+    ],
+    [
+      "patient-specific stem cells",
+      "derives from",
+      "scientific potential"
+    ],
+    [
+      "patient-specific stem cells",
+      "drives",
+      "healthcare revolution"
+    ],
+    [
+      "patient-specific stem cells",
+      "enables",
+      "ethical considerations"
+    ],
+    [
+      "patient-specific stem cells",
+      "utilizes",
+      "scientific discovery"
+    ],
+    [
+      "personal health",
+      "affects",
+      "healthcare challenges"
+    ],
+    [
+      "personal health",
+      "affects",
+      "healthcare revolution"
+    ],
+    [
+      "personal health",
+      "affects",
+      "identity issues"
+    ],
+    [
+      "personal health",
+      "enables",
+      "medical breakthroughs"
+    ],
+    [
+      "personal health",
+      "improves",
+      "medical advancements"
+    ],
+    [
+      "personal health",
+      "offers",
+      "cloning benefits"
+    ],
+    [
+      "personal health",
+      "produces",
+      "patient-specific stem cells"
+    ],
+    [
+      "personal identity",
+      "is defined by",
+      "unique dignity"
+    ],
+    [
+      "personal identity",
+      "is shaped by",
+      "moral obligations"
+    ],
+    [
+      "personal identity",
+      "shapes",
+      "distinct lives"
+    ],
+    [
+      "personal uniqueness",
+      "involves",
+      "complex considerations"
+    ],
+    [
+      "personal uniqueness",
+      "involves",
+      "diverse perspectives"
+    ],
+    [
+      "personal uniqueness",
+      "provokes",
+      "moral questions"
+    ],
+    [
+      "personal uniqueness",
+      "raises",
+      "identity questions"
+    ],
+    [
+      "personal uniqueness",
+      "relates to",
+      "human identity"
+    ],
+    [
+      "personal uniqueness",
+      "supports",
+      "unique dignity"
+    ],
+    [
+      "profound questions",
+      "provokes",
+      "scientific potential"
+    ],
+    [
+      "profound questions",
+      "raises",
+      "ethical challenges"
+    ],
+    [
+      "profound questions",
+      "raises",
+      "ethical concerns"
+    ],
+    [
+      "profound questions",
+      "raises",
+      "hubris"
+    ],
+    [
+      "public concern",
+      "affects",
+      "health outcomes"
+    ],
+    [
+      "public concern",
+      "challenges",
+      "natural order"
+    ],
+    [
+      "public concern",
+      "elicits",
+      "human cloning"
+    ],
+    [
+      "public concern",
+      "influences",
+      "individual rights"
+    ],
+    [
+      "public concern",
+      "involves",
+      "role of creator"
+    ],
+    [
+      "public concern",
+      "provokes",
+      "moral questions"
+    ],
+    [
+      "public concern",
+      "raises",
+      "medical technology"
+    ],
+    [
+      "public concern",
+      "raises",
+      "organ harvesting"
+    ],
+    [
+      "public concern",
+      "raises",
+      "patient-specific stem cells"
+    ],
+    [
+      "public concern",
+      "raises",
+      "profound questions"
+    ],
+    [
+      "public concern",
+      "raises",
+      "therapeutic cloning"
+    ],
+    [
+      "public concern",
+      "stimulates",
+      "healthcare innovation"
+    ],
+    [
+      "public health",
+      "advances",
+      "medical progress"
+    ],
+    [
+      "regenerative therapies",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "regenerative therapies",
+      "challenges",
+      "boundaries"
+    ],
+    [
+      "regenerative therapies",
+      "contributes to",
+      "medical progress"
+    ],
+    [
+      "regenerative therapies",
+      "enables",
+      "cloning technology"
+    ],
+    [
+      "regenerative therapies",
+      "guides",
+      "cloning ethics"
+    ],
+    [
+      "regenerative therapies",
+      "improves",
+      "public health"
+    ],
+    [
+      "regenerative therapies",
+      "involves",
+      "human cloning"
+    ],
+    [
+      "regenerative therapies",
+      "is a risk for",
+      "abuse potential"
+    ],
+    [
+      "regenerative therapies",
+      "is influenced by",
+      "higher power"
+    ],
+    [
+      "regenerative therapies",
+      "is linked to",
+      "designer babies"
+    ],
+    [
+      "regenerative therapies",
+      "leads to",
+      "targeted treatments"
+    ],
+    [
+      "regenerative therapies",
+      "produces",
+      "patient-specific stem cells"
+    ],
+    [
+      "regulations",
+      "defines",
+      "role of creator"
+    ],
+    [
+      "regulations",
+      "ensures",
+      "patient-specific stem cells"
+    ],
+    [
+      "regulations",
+      "influences",
+      "morality"
+    ],
+    [
+      "regulations",
+      "regulates",
+      "experiences and emotions"
+    ],
+    [
+      "regulations",
+      "requires",
+      "designer babies"
+    ],
+    [
+      "regulations",
+      "requires",
+      "hubris"
+    ],
+    [
+      "regulations",
+      "requires",
+      "identical twins"
+    ],
+    [
+      "regulations",
+      "requires",
+      "targeted treatments"
+    ],
+    [
+      "regulations",
+      "supports",
+      "medical progress"
+    ],
+    [
+      "religious concerns",
+      "affects",
+      "human identity"
+    ],
+    [
+      "religious concerns",
+      "affects",
+      "personal identity"
+    ],
+    [
+      "religious concerns",
+      "challenges",
+      "ethical boundaries"
+    ],
+    [
+      "religious concerns",
+      "challenges",
+      "individual dignity"
+    ],
+    [
+      "religious concerns",
+      "challenges",
+      "natural order"
+    ],
+    [
+      "religious concerns",
+      "challenges",
+      "unique dignity"
+    ],
+    [
+      "religious concerns",
+      "demands",
+      "ethical responsibility"
+    ],
+    [
+      "religious concerns",
+      "raises",
+      "ethical dilemmas"
+    ],
+    [
+      "religious concerns",
+      "raises",
+      "profound questions"
+    ],
+    [
+      "religious concerns",
+      "raises",
+      "spiritual implications"
+    ],
+    [
+      "religious traditions",
+      "challenges",
+      "hubris"
+    ],
+    [
+      "religious traditions",
+      "guides",
+      "divine authority"
+    ],
+    [
+      "religious traditions",
+      "influences",
+      "ethical concerns"
+    ],
+    [
+      "religious traditions",
+      "influences",
+      "human rights"
+    ],
+    [
+      "religious traditions",
+      "influences",
+      "scientific progress"
+    ],
+    [
+      "religious traditions",
+      "is influenced by",
+      "genetic replica"
+    ],
+    [
+      "religious traditions",
+      "is questioned by",
+      "unique identity"
+    ],
+    [
+      "religious traditions",
+      "is upheld by",
+      "natural order"
+    ],
+    [
+      "religious traditions",
+      "is upheld by",
+      "sanctity of life"
+    ],
+    [
+      "religious traditions",
+      "raises",
+      "ethical dilemmas"
+    ],
+    [
+      "religious traditions",
+      "reduces to",
+      "commodities"
+    ],
+    [
+      "religious traditions",
+      "requires",
+      "regulations"
+    ],
+    [
+      "religious traditions",
+      "views as",
+      "boundaries"
+    ],
+    [
+      "role of creator",
+      "influences",
+      "ethical implications"
+    ],
+    [
+      "role of creator",
+      "is influenced by",
+      "public concern"
+    ],
+    [
+      "sanctity of life",
+      "contradicts",
+      "designer babies"
+    ],
+    [
+      "sanctity of life",
+      "generates",
+      "public concern"
+    ],
+    [
+      "sanctity of life",
+      "guides",
+      "ethical considerations"
+    ],
+    [
+      "sanctity of life",
+      "influences",
+      "spirituality"
+    ],
+    [
+      "sanctity of life",
+      "is a method for",
+      "patient-specific stem cells"
+    ],
+    [
+      "sanctity of life",
+      "is challenged by",
+      "human cloning"
+    ],
+    [
+      "sanctity of life",
+      "is challenged by",
+      "medical advancements"
+    ],
+    [
+      "sanctity of life",
+      "is enhanced by",
+      "targeted treatments"
+    ],
+    [
+      "sanctity of life",
+      "is influenced by",
+      "advancements in cloning"
+    ],
+    [
+      "sanctity of life",
+      "is viewed as",
+      "controversial topic"
+    ],
+    [
+      "sanctity of life",
+      "questions",
+      "cloning ethics"
+    ],
+    [
+      "sanctity of life",
+      "raises",
+      "ethical concerns"
+    ],
+    [
+      "sanctity of life",
+      "supports",
+      "healthcare revolution"
+    ],
+    [
+      "sanctity of life",
+      "supports",
+      "regenerative therapies"
+    ],
+    [
+      "sanctity of life",
+      "upholds",
+      "unique dignity"
+    ],
+    [
+      "scientific discovery",
+      "advances",
+      "cloning technology"
+    ],
+    [
+      "scientific discovery",
+      "advances",
+      "genetic disease research"
+    ],
+    [
+      "scientific discovery",
+      "advances",
+      "human cloning"
+    ],
+    [
+      "scientific discovery",
+      "contributes to",
+      "medical progress"
+    ],
+    [
+      "scientific discovery",
+      "drives",
+      "advancements in cloning"
+    ],
+    [
+      "scientific discovery",
+      "drives",
+      "scientific inquiry"
+    ],
+    [
+      "scientific discovery",
+      "enables",
+      "life creation"
+    ],
+    [
+      "scientific discovery",
+      "enables",
+      "regenerative therapies"
+    ],
+    [
+      "scientific discovery",
+      "enables",
+      "targeted treatments"
+    ],
+    [
+      "scientific discovery",
+      "involves",
+      "designer babies"
+    ],
+    [
+      "scientific discovery",
+      "is governed by",
+      "regulations"
+    ],
+    [
+      "scientific discovery",
+      "leads to",
+      "medical advancements"
+    ],
+    [
+      "scientific discovery",
+      "supports",
+      "human rights"
+    ],
+    [
+      "scientific inquiry",
+      "challenges",
+      "boundaries"
+    ],
+    [
+      "scientific inquiry",
+      "influences",
+      "organ transplantation"
+    ],
+    [
+      "scientific inquiry",
+      "involves",
+      "patient-specific stem cells"
+    ],
+    [
+      "scientific inquiry",
+      "is examined by",
+      "organ harvesting"
+    ],
+    [
+      "scientific inquiry",
+      "requires",
+      "regulations"
+    ],
+    [
+      "scientific potential",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "scientific potential",
+      "contradicts",
+      "individual dignity"
+    ],
+    [
+      "scientific potential",
+      "contradicts",
+      "sanctity of life"
+    ],
+    [
+      "scientific potential",
+      "contributes to",
+      "medical progress"
+    ],
+    [
+      "scientific potential",
+      "demonstrates",
+      "life creation"
+    ],
+    [
+      "scientific potential",
+      "enables",
+      "advancements in cloning"
+    ],
+    [
+      "scientific potential",
+      "enables",
+      "identity issues"
+    ],
+    [
+      "scientific potential",
+      "enables",
+      "medical breakthroughs"
+    ],
+    [
+      "scientific potential",
+      "faces",
+      "healthcare challenges"
+    ],
+    [
+      "scientific potential",
+      "is produced by",
+      "patient-specific stem cells"
+    ],
+    [
+      "scientific potential",
+      "offers",
+      "scientific progress"
+    ],
+    [
+      "scientific potential",
+      "raises",
+      "ethical dilemmas"
+    ],
+    [
+      "scientific potential",
+      "supports",
+      "genetic disease research"
+    ],
+    [
+      "scientific progress",
+      "advances",
+      "genetic disease research"
+    ],
+    [
+      "scientific progress",
+      "advances",
+      "medical technology"
+    ],
+    [
+      "scientific progress",
+      "advances",
+      "public health"
+    ],
+    [
+      "scientific progress",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "scientific progress",
+      "drives",
+      "advancements in cloning"
+    ],
+    [
+      "scientific progress",
+      "drives",
+      "healthcare innovation"
+    ],
+    [
+      "scientific progress",
+      "enables",
+      "genetic manipulation"
+    ],
+    [
+      "scientific progress",
+      "enables",
+      "life creation"
+    ],
+    [
+      "scientific progress",
+      "enables",
+      "organ transplantation"
+    ],
+    [
+      "scientific progress",
+      "enables",
+      "targeted treatments"
+    ],
+    [
+      "scientific progress",
+      "is threatened by",
+      "individual dignity"
+    ],
+    [
+      "scientific progress",
+      "presents",
+      "ethical challenges"
+    ],
+    [
+      "scientific progress",
+      "raises",
+      "existential dilemmas"
+    ],
+    [
+      "scientific progress",
+      "results in",
+      "medical advancements"
+    ],
+    [
+      "societal impact",
+      "affects",
+      "targeted treatments"
+    ],
+    [
+      "societal impact",
+      "drives",
+      "advancements in cloning"
+    ],
+    [
+      "societal impact",
+      "influences",
+      "patient-specific stem cells"
+    ],
+    [
+      "societal impact",
+      "leads to",
+      "medical breakthroughs"
+    ],
+    [
+      "spiritual implications",
+      "highlights",
+      "cloning benefits"
+    ],
+    [
+      "spiritual implications",
+      "shapes",
+      "distinct lives"
+    ],
+    [
+      "spirituality",
+      "enhances",
+      "unique dignity"
+    ],
+    [
+      "spirituality",
+      "influences",
+      "cloning ethics"
+    ],
+    [
+      "spirituality",
+      "influences",
+      "identity issues"
+    ],
+    [
+      "spirituality",
+      "influences",
+      "morality"
+    ],
+    [
+      "spirituality",
+      "influences",
+      "religious traditions"
+    ],
+    [
+      "spirituality",
+      "intersects with",
+      "ethical dilemmas"
+    ],
+    [
+      "spirituality",
+      "is challenged by",
+      "human cloning"
+    ],
+    [
+      "spirituality",
+      "questions",
+      "role of creator"
+    ],
+    [
+      "spirituality",
+      "raises",
+      "moral challenges"
+    ],
+    [
+      "targeted treatments",
+      "contributes to",
+      "medical progress"
+    ],
+    [
+      "targeted treatments",
+      "developed from",
+      "patient-specific stem cells"
+    ],
+    [
+      "targeted treatments",
+      "improves",
+      "public health"
+    ],
+    [
+      "therapeutic cloning",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "therapeutic cloning",
+      "contributes to",
+      "medical progress"
+    ],
+    [
+      "therapeutic cloning",
+      "enables",
+      "targeted treatments"
+    ],
+    [
+      "therapeutic cloning",
+      "is addressed by",
+      "public concern"
+    ],
+    [
+      "therapeutic cloning",
+      "is criticized by",
+      "divine violation"
+    ],
+    [
+      "therapeutic cloning",
+      "offers",
+      "scientific potential"
+    ],
+    [
+      "therapeutic cloning",
+      "produces",
+      "patient-specific stem cells"
+    ],
+    [
+      "unethical experiments",
+      "affects",
+      "health outcomes"
+    ],
+    [
+      "unethical experiments",
+      "challenges",
+      "healthcare innovation"
+    ],
+    [
+      "unethical experiments",
+      "complicates",
+      "ethical dilemmas"
+    ],
+    [
+      "unethical experiments",
+      "contradicts",
+      "natural order"
+    ],
+    [
+      "unethical experiments",
+      "contradicts",
+      "regenerative therapies"
+    ],
+    [
+      "unethical experiments",
+      "exploits",
+      "exploitation"
+    ],
+    [
+      "unethical experiments",
+      "informs",
+      "scientific discovery"
+    ],
+    [
+      "unethical experiments",
+      "involves",
+      "genetic replica"
+    ],
+    [
+      "unethical experiments",
+      "involves",
+      "life creation"
+    ],
+    [
+      "unethical experiments",
+      "is a concern for",
+      "controversial topic"
+    ],
+    [
+      "unethical experiments",
+      "is a concern for",
+      "ethical concerns"
+    ],
+    [
+      "unethical experiments",
+      "is associated with",
+      "hubris"
+    ],
+    [
+      "unethical experiments",
+      "is associated with",
+      "human cloning"
+    ],
+    [
+      "unethical experiments",
+      "is examined by",
+      "scientific inquiry"
+    ],
+    [
+      "unethical experiments",
+      "is linked to",
+      "organ harvesting"
+    ],
+    [
+      "unethical experiments",
+      "questions",
+      "morality"
+    ],
+    [
+      "unethical experiments",
+      "raises",
+      "ethical considerations"
+    ],
+    [
+      "unethical experiments",
+      "raises",
+      "moral questions"
+    ],
+    [
+      "unethical experiments",
+      "reflects",
+      "diverse perspectives"
+    ],
+    [
+      "unethical experiments",
+      "regulated by",
+      "regulations"
+    ],
+    [
+      "unethical experiments",
+      "transgresses",
+      "moral boundaries"
+    ],
+    [
+      "unethical experiments",
+      "utilizes",
+      "patient-specific stem cells"
+    ],
+    [
+      "unique dignity",
+      "imposes",
+      "ethical responsibility"
+    ],
+    [
+      "unique dignity",
+      "informs",
+      "distinct lives"
+    ],
+    [
+      "unique dignity",
+      "poses",
+      "ethical challenges"
+    ],
+    [
+      "unique dignity",
+      "promotes",
+      "open dialogue"
+    ],
+    [
+      "unique dignity",
+      "shapes",
+      "experiences and emotions"
+    ],
+    [
+      "unique dignity",
+      "threatens",
+      "exploitation"
+    ],
+    [
+      "unique dignity",
+      "upholds",
+      "individual well-being"
+    ],
+    [
+      "unique dignity",
+      "upholds",
+      "morality"
+    ],
+    [
+      "unique identity",
+      "challenges",
+      "improved quality of life"
+    ],
+    [
+      "unique identity",
+      "contradicts",
+      "natural order"
+    ],
+    [
+      "unique identity",
+      "defines",
+      "human identity"
+    ],
+    [
+      "unique identity",
+      "demands",
+      "ethical responsibility"
+    ],
+    [
+      "unique identity",
+      "reduces to",
+      "commodities"
+    ]
+  ],
+  "edges": [
+    "addresses",
+    "advances",
+    "affects",
+    "affirms",
+    "are defined by",
+    "are influenced by",
+    "associated with",
+    "benefits from",
+    "challenges",
+    "compares to",
+    "complicates",
+    "concerns",
+    "contradicts",
+    "contrasts with",
+    "contributes to",
+    "created by",
+    "creates",
+    "criticizes",
+    "defines",
+    "demands",
+    "demonstrates",
+    "depends on",
+    "derived from",
+    "derives from",
+    "developed from",
+    "drives",
+    "drives research in",
+    "elicits",
+    "embodies",
+    "enables",
+    "encourages",
+    "enhances",
+    "ensures",
+    "exemplifies",
+    "exploits",
+    "faces",
+    "facilitates",
+    "fuels",
+    "generates",
+    "gives rise to",
+    "guides",
+    "highlights",
+    "impacts",
+    "imposes",
+    "improves",
+    "influences",
+    "informs",
+    "infringes on",
+    "infringes upon",
+    "initiates",
+    "intersects with",
+    "invokes",
+    "involves",
+    "is",
+    "is a concern for",
+    "is a consequence of",
+    "is a factor in",
+    "is a form of",
+    "is a method for",
+    "is a part of",
+    "is a product of",
+    "is a result of",
+    "is a risk for",
+    "is a subset of",
+    "is addressed by",
+    "is affected by",
+    "is associated with",
+    "is centered on",
+    "is challenged by",
+    "is compromised by",
+    "is concerned with",
+    "is created by",
+    "is criticized by",
+    "is defined by",
+    "is diminished by",
+    "is driven by",
+    "is enhanced by",
+    "is evaluated through",
+    "is examined by",
+    "is expressed by",
+    "is facilitated by",
+    "is governed by",
+    "is impacted by",
+    "is influenced by",
+    "is linked to",
+    "is produced by",
+    "is questioned by",
+    "is reduced to",
+    "is related to",
+    "is seen as",
+    "is shaped by",
+    "is threatened by",
+    "is undermined by",
+    "is upheld by",
+    "is viewed as",
+    "is violated by",
+    "leads to",
+    "limits",
+    "necessitates",
+    "offers",
+    "overlaps with",
+    "poses",
+    "presents",
+    "produces",
+    "promotes",
+    "provokes",
+    "questions",
+    "raises",
+    "raises concerns about",
+    "reduces",
+    "reduces to",
+    "reflects",
+    "regulated by",
+    "regulates",
+    "relates to",
+    "replicates",
+    "represents",
+    "requires",
+    "results in",
+    "risks",
+    "shapes",
+    "sparks",
+    "stimulates",
+    "supports",
+    "threatens",
+    "transforms",
+    "transgresses",
+    "undermines",
+    "upholds",
+    "utilizes",
+    "views as",
+    "violated by",
+    "violates"
+  ]
+}

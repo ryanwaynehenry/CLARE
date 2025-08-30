@@ -1,0 +1,1937 @@
+{
+  "entities": [
+    "blood pressure",
+    "camaraderie",
+    "classical",
+    "comfort",
+    "connections",
+    "cortisol levels",
+    "cultural background",
+    "electronic",
+    "elegance",
+    "emotional needs",
+    "emotional well-being",
+    "emotions",
+    "empathy",
+    "energize",
+    "energy",
+    "feelings",
+    "genre",
+    "heart rate",
+    "individual differences",
+    "inspire",
+    "intensity",
+    "introspection",
+    "jazz",
+    "joy",
+    "lyrics",
+    "memories",
+    "messages",
+    "mood",
+    "motivation",
+    "music",
+    "musical diversity",
+    "personal choices",
+    "personal preferences",
+    "physiological responses",
+    "pop",
+    "rebellion",
+    "relaxation",
+    "rock",
+    "social bonds",
+    "soothe",
+    "sophistication",
+    "style",
+    "subjective effects",
+    "themes",
+    "unity",
+    "uplift"
+  ],
+  "relations": [
+    [
+      "blood pressure",
+      "affects",
+      "cortisol levels"
+    ],
+    [
+      "blood pressure",
+      "affects",
+      "emotional well-being"
+    ],
+    [
+      "blood pressure",
+      "affects",
+      "empathy"
+    ],
+    [
+      "blood pressure",
+      "affects",
+      "jazz"
+    ],
+    [
+      "blood pressure",
+      "enhances",
+      "uplift"
+    ],
+    [
+      "blood pressure",
+      "motivates",
+      "motivation"
+    ],
+    [
+      "camaraderie",
+      "creates",
+      "genre"
+    ],
+    [
+      "camaraderie",
+      "energizes",
+      "energize"
+    ],
+    [
+      "camaraderie",
+      "enhances",
+      "introspection"
+    ],
+    [
+      "camaraderie",
+      "enhances",
+      "joy"
+    ],
+    [
+      "camaraderie",
+      "enhances",
+      "mood"
+    ],
+    [
+      "camaraderie",
+      "fosters",
+      "cortisol levels"
+    ],
+    [
+      "camaraderie",
+      "inspire",
+      "inspire"
+    ],
+    [
+      "camaraderie",
+      "is a result of",
+      "connections"
+    ],
+    [
+      "camaraderie",
+      "promotes",
+      "emotional well-being"
+    ],
+    [
+      "camaraderie",
+      "strengthens",
+      "heart rate"
+    ],
+    [
+      "classical",
+      "evokes",
+      "joy"
+    ],
+    [
+      "classical",
+      "fosters",
+      "unity"
+    ],
+    [
+      "classical",
+      "informs",
+      "themes"
+    ],
+    [
+      "classical",
+      "is a category of",
+      "genre"
+    ],
+    [
+      "classical",
+      "preferred by",
+      "personal preferences"
+    ],
+    [
+      "comfort",
+      "creates",
+      "unity"
+    ],
+    [
+      "comfort",
+      "enhances",
+      "emotional well-being"
+    ],
+    [
+      "comfort",
+      "is a result of",
+      "relaxation"
+    ],
+    [
+      "comfort",
+      "is a source of",
+      "motivation"
+    ],
+    [
+      "comfort",
+      "is given by",
+      "soothe"
+    ],
+    [
+      "comfort",
+      "provides",
+      "cortisol levels"
+    ],
+    [
+      "comfort",
+      "provides",
+      "energy"
+    ],
+    [
+      "comfort",
+      "provides",
+      "introspection"
+    ],
+    [
+      "comfort",
+      "provides",
+      "mood"
+    ],
+    [
+      "comfort",
+      "provides",
+      "social bonds"
+    ],
+    [
+      "comfort",
+      "provides",
+      "sophistication"
+    ],
+    [
+      "connections",
+      "creates",
+      "camaraderie"
+    ],
+    [
+      "connections",
+      "enhances",
+      "electronic"
+    ],
+    [
+      "connections",
+      "enhances",
+      "unity"
+    ],
+    [
+      "connections",
+      "evokes",
+      "empathy"
+    ],
+    [
+      "connections",
+      "induces",
+      "relaxation"
+    ],
+    [
+      "connections",
+      "influences",
+      "lyrics"
+    ],
+    [
+      "connections",
+      "is enhanced by",
+      "music"
+    ],
+    [
+      "connections",
+      "is shaped by",
+      "genre"
+    ],
+    [
+      "connections",
+      "provides",
+      "comfort"
+    ],
+    [
+      "connections",
+      "strengthens",
+      "social bonds"
+    ],
+    [
+      "cortisol levels",
+      "evokes",
+      "joy"
+    ],
+    [
+      "cortisol levels",
+      "increases",
+      "energize"
+    ],
+    [
+      "cortisol levels",
+      "influences",
+      "elegance"
+    ],
+    [
+      "cortisol levels",
+      "influences",
+      "mood"
+    ],
+    [
+      "cortisol levels",
+      "is influenced by",
+      "style"
+    ],
+    [
+      "cultural background",
+      "influences",
+      "lyrics"
+    ],
+    [
+      "cultural background",
+      "influences",
+      "musical diversity"
+    ],
+    [
+      "cultural background",
+      "shapes",
+      "elegance"
+    ],
+    [
+      "electronic",
+      "affects",
+      "blood pressure"
+    ],
+    [
+      "electronic",
+      "enhances",
+      "unity"
+    ],
+    [
+      "electronic",
+      "evokes",
+      "joy"
+    ],
+    [
+      "electronic",
+      "is a genre of",
+      "music"
+    ],
+    [
+      "electronic",
+      "is a type of",
+      "genre"
+    ],
+    [
+      "electronic",
+      "is a type of",
+      "style"
+    ],
+    [
+      "electronic",
+      "triggers",
+      "introspection"
+    ],
+    [
+      "elegance",
+      "associated with",
+      "heart rate"
+    ],
+    [
+      "elegance",
+      "associated with",
+      "music"
+    ],
+    [
+      "elegance",
+      "conveys",
+      "messages"
+    ],
+    [
+      "elegance",
+      "induces",
+      "soothe"
+    ],
+    [
+      "elegance",
+      "influences",
+      "personal preferences"
+    ],
+    [
+      "elegance",
+      "is associated with",
+      "classical"
+    ],
+    [
+      "elegance",
+      "is associated with",
+      "electronic"
+    ],
+    [
+      "elegance",
+      "is enhanced by",
+      "musical diversity"
+    ],
+    [
+      "emotional needs",
+      "addresses",
+      "connections"
+    ],
+    [
+      "emotional needs",
+      "addresses",
+      "cortisol levels"
+    ],
+    [
+      "emotional needs",
+      "addresses",
+      "inspire"
+    ],
+    [
+      "emotional needs",
+      "addresses",
+      "joy"
+    ],
+    [
+      "emotional needs",
+      "fulfills",
+      "empathy"
+    ],
+    [
+      "emotional needs",
+      "fulfills",
+      "introspection"
+    ],
+    [
+      "emotional needs",
+      "influences",
+      "blood pressure"
+    ],
+    [
+      "emotional needs",
+      "influences",
+      "genre"
+    ],
+    [
+      "emotional needs",
+      "influences",
+      "mood"
+    ],
+    [
+      "emotional needs",
+      "influences",
+      "physiological responses"
+    ],
+    [
+      "emotional needs",
+      "provides",
+      "comfort"
+    ],
+    [
+      "emotional needs",
+      "supports",
+      "emotional well-being"
+    ],
+    [
+      "emotional well-being",
+      "contributes to",
+      "energy"
+    ],
+    [
+      "emotional well-being",
+      "enhanced by",
+      "mood"
+    ],
+    [
+      "emotional well-being",
+      "enhances",
+      "introspection"
+    ],
+    [
+      "emotional well-being",
+      "enhances",
+      "messages"
+    ],
+    [
+      "emotional well-being",
+      "enhances",
+      "motivation"
+    ],
+    [
+      "emotional well-being",
+      "enhances",
+      "unity"
+    ],
+    [
+      "emotional well-being",
+      "improves",
+      "relaxation"
+    ],
+    [
+      "emotional well-being",
+      "is enhanced by",
+      "sophistication"
+    ],
+    [
+      "emotions",
+      "evokes",
+      "empathy"
+    ],
+    [
+      "emotions",
+      "evokes",
+      "intensity"
+    ],
+    [
+      "emotions",
+      "inspire",
+      "inspire"
+    ],
+    [
+      "emotions",
+      "reflects",
+      "connections"
+    ],
+    [
+      "empathy",
+      "can evoke",
+      "relaxation"
+    ],
+    [
+      "empathy",
+      "elicits",
+      "electronic"
+    ],
+    [
+      "empathy",
+      "elicits",
+      "physiological responses"
+    ],
+    [
+      "empathy",
+      "enhances",
+      "emotional well-being"
+    ],
+    [
+      "empathy",
+      "evokes",
+      "camaraderie"
+    ],
+    [
+      "empathy",
+      "is a genre of",
+      "genre"
+    ],
+    [
+      "empathy",
+      "is associated with",
+      "uplift"
+    ],
+    [
+      "empathy",
+      "is influenced by",
+      "pop"
+    ],
+    [
+      "empathy",
+      "promotes",
+      "introspection"
+    ],
+    [
+      "energize",
+      "can lead to",
+      "inspire"
+    ],
+    [
+      "energize",
+      "elicits",
+      "empathy"
+    ],
+    [
+      "energize",
+      "enhances",
+      "joy"
+    ],
+    [
+      "energize",
+      "enhances",
+      "mood"
+    ],
+    [
+      "energize",
+      "is affected by",
+      "blood pressure"
+    ],
+    [
+      "energize",
+      "is influenced by",
+      "physiological responses"
+    ],
+    [
+      "energize",
+      "is influenced by",
+      "social bonds"
+    ],
+    [
+      "energize",
+      "promotes",
+      "introspection"
+    ],
+    [
+      "energize",
+      "provides",
+      "comfort"
+    ],
+    [
+      "energy",
+      "affects",
+      "cortisol levels"
+    ],
+    [
+      "energy",
+      "affects",
+      "physiological responses"
+    ],
+    [
+      "energy",
+      "drives",
+      "rebellion"
+    ],
+    [
+      "energy",
+      "fosters",
+      "camaraderie"
+    ],
+    [
+      "energy",
+      "fosters",
+      "unity"
+    ],
+    [
+      "energy",
+      "increases",
+      "heart rate"
+    ],
+    [
+      "energy",
+      "induces",
+      "energize"
+    ],
+    [
+      "energy",
+      "influences",
+      "blood pressure"
+    ],
+    [
+      "energy",
+      "motivates",
+      "inspire"
+    ],
+    [
+      "feelings",
+      "influenced by",
+      "motivation"
+    ],
+    [
+      "feelings",
+      "is expressed through",
+      "emotions"
+    ],
+    [
+      "feelings",
+      "is expressed through",
+      "physiological responses"
+    ],
+    [
+      "feelings",
+      "is influenced by",
+      "introspection"
+    ],
+    [
+      "genre",
+      "creates",
+      "unity"
+    ],
+    [
+      "genre",
+      "influenced by",
+      "emotional well-being"
+    ],
+    [
+      "genre",
+      "influences",
+      "social bonds"
+    ],
+    [
+      "genre",
+      "is inspired by",
+      "inspire"
+    ],
+    [
+      "genre",
+      "shaped by",
+      "personal preferences"
+    ],
+    [
+      "genre",
+      "shapes",
+      "individual differences"
+    ],
+    [
+      "heart rate",
+      "affects",
+      "blood pressure"
+    ],
+    [
+      "heart rate",
+      "affects",
+      "cortisol levels"
+    ],
+    [
+      "heart rate",
+      "increases",
+      "energize"
+    ],
+    [
+      "heart rate",
+      "influences",
+      "personal preferences"
+    ],
+    [
+      "individual differences",
+      "influences",
+      "cultural background"
+    ],
+    [
+      "individual differences",
+      "influences",
+      "musical diversity"
+    ],
+    [
+      "individual differences",
+      "influences",
+      "pop"
+    ],
+    [
+      "inspire",
+      "affects",
+      "mood"
+    ],
+    [
+      "inspire",
+      "creates",
+      "unity"
+    ],
+    [
+      "inspire",
+      "elicits",
+      "feelings"
+    ],
+    [
+      "inspire",
+      "elicits",
+      "introspection"
+    ],
+    [
+      "inspire",
+      "evoked by",
+      "camaraderie"
+    ],
+    [
+      "inspire",
+      "evoked by",
+      "emotions"
+    ],
+    [
+      "inspire",
+      "inspires",
+      "heart rate"
+    ],
+    [
+      "inspire",
+      "motivates",
+      "intensity"
+    ],
+    [
+      "inspire",
+      "provides",
+      "comfort"
+    ],
+    [
+      "intensity",
+      "evokes",
+      "feelings"
+    ],
+    [
+      "introspection",
+      "evokes",
+      "rock"
+    ],
+    [
+      "introspection",
+      "is influenced by",
+      "inspire"
+    ],
+    [
+      "introspection",
+      "promotes",
+      "motivation"
+    ],
+    [
+      "introspection",
+      "promotes",
+      "rebellion"
+    ],
+    [
+      "introspection",
+      "promotes",
+      "relaxation"
+    ],
+    [
+      "introspection",
+      "promotes",
+      "uplift"
+    ],
+    [
+      "jazz",
+      "creates",
+      "unity"
+    ],
+    [
+      "jazz",
+      "elicits",
+      "empathy"
+    ],
+    [
+      "jazz",
+      "embodies",
+      "sophistication"
+    ],
+    [
+      "jazz",
+      "evokes",
+      "joy"
+    ],
+    [
+      "jazz",
+      "influences",
+      "personal choices"
+    ],
+    [
+      "jazz",
+      "shaped by",
+      "personal preferences"
+    ],
+    [
+      "joy",
+      "associated with",
+      "heart rate"
+    ],
+    [
+      "joy",
+      "can lead to",
+      "introspection"
+    ],
+    [
+      "joy",
+      "creates",
+      "connections"
+    ],
+    [
+      "joy",
+      "elicits",
+      "blood pressure"
+    ],
+    [
+      "joy",
+      "elicits",
+      "physiological responses"
+    ],
+    [
+      "joy",
+      "evokes",
+      "relaxation"
+    ],
+    [
+      "joy",
+      "fosters",
+      "unity"
+    ],
+    [
+      "joy",
+      "influences",
+      "mood"
+    ],
+    [
+      "joy",
+      "is associated with",
+      "empathy"
+    ],
+    [
+      "joy",
+      "is enhanced by",
+      "soothe"
+    ],
+    [
+      "joy",
+      "provides",
+      "comfort"
+    ],
+    [
+      "lyrics",
+      "conveys",
+      "messages"
+    ],
+    [
+      "lyrics",
+      "creates",
+      "unity"
+    ],
+    [
+      "lyrics",
+      "influences",
+      "emotions"
+    ],
+    [
+      "lyrics",
+      "influences",
+      "individual differences"
+    ],
+    [
+      "lyrics",
+      "influences",
+      "introspection"
+    ],
+    [
+      "memories",
+      "evokes",
+      "classical"
+    ],
+    [
+      "memories",
+      "evokes",
+      "empathy"
+    ],
+    [
+      "memories",
+      "facilitates",
+      "connections"
+    ],
+    [
+      "memories",
+      "fosters",
+      "unity"
+    ],
+    [
+      "memories",
+      "influences",
+      "electronic"
+    ],
+    [
+      "memories",
+      "influences",
+      "individual differences"
+    ],
+    [
+      "memories",
+      "influences",
+      "lyrics"
+    ],
+    [
+      "memories",
+      "informs",
+      "themes"
+    ],
+    [
+      "memories",
+      "is expressed through",
+      "music"
+    ],
+    [
+      "memories",
+      "strengthens",
+      "social bonds"
+    ],
+    [
+      "memories",
+      "triggers",
+      "introspection"
+    ],
+    [
+      "messages",
+      "affects",
+      "intensity"
+    ],
+    [
+      "messages",
+      "can soothe",
+      "soothe"
+    ],
+    [
+      "messages",
+      "can uplift",
+      "uplift"
+    ],
+    [
+      "messages",
+      "conveys",
+      "energy"
+    ],
+    [
+      "messages",
+      "conveys",
+      "mood"
+    ],
+    [
+      "messages",
+      "conveys",
+      "style"
+    ],
+    [
+      "messages",
+      "creates",
+      "connections"
+    ],
+    [
+      "messages",
+      "creates",
+      "unity"
+    ],
+    [
+      "messages",
+      "elicits",
+      "feelings"
+    ],
+    [
+      "messages",
+      "energizes",
+      "energize"
+    ],
+    [
+      "messages",
+      "evokes",
+      "empathy"
+    ],
+    [
+      "messages",
+      "fosters",
+      "camaraderie"
+    ],
+    [
+      "messages",
+      "influences",
+      "emotions"
+    ],
+    [
+      "messages",
+      "motivates",
+      "inspire"
+    ],
+    [
+      "messages",
+      "provides",
+      "comfort"
+    ],
+    [
+      "mood",
+      "affects",
+      "energy"
+    ],
+    [
+      "mood",
+      "affects",
+      "heart rate"
+    ],
+    [
+      "mood",
+      "influences",
+      "personal preferences"
+    ],
+    [
+      "mood",
+      "is affected by",
+      "soothe"
+    ],
+    [
+      "mood",
+      "is associated with",
+      "elegance"
+    ],
+    [
+      "motivation",
+      "can lead to",
+      "joy"
+    ],
+    [
+      "motivation",
+      "enhances",
+      "feelings"
+    ],
+    [
+      "motivation",
+      "evokes",
+      "empathy"
+    ],
+    [
+      "motivation",
+      "evokes",
+      "social bonds"
+    ],
+    [
+      "motivation",
+      "fulfills",
+      "emotional needs"
+    ],
+    [
+      "motivation",
+      "influences",
+      "emotions"
+    ],
+    [
+      "motivation",
+      "provides",
+      "comfort"
+    ],
+    [
+      "music",
+      "affects",
+      "blood pressure"
+    ],
+    [
+      "music",
+      "conveys",
+      "elegance"
+    ],
+    [
+      "music",
+      "creates",
+      "unity"
+    ],
+    [
+      "music",
+      "includes",
+      "electronic"
+    ],
+    [
+      "music",
+      "is a genre of",
+      "rock"
+    ],
+    [
+      "music",
+      "is associated with",
+      "sophistication"
+    ],
+    [
+      "music",
+      "is expressed through",
+      "musical diversity"
+    ],
+    [
+      "music",
+      "is influenced by",
+      "joy"
+    ],
+    [
+      "musical diversity",
+      "can inspire",
+      "inspire"
+    ],
+    [
+      "musical diversity",
+      "can soothe",
+      "soothe"
+    ],
+    [
+      "musical diversity",
+      "includes",
+      "electronic"
+    ],
+    [
+      "musical diversity",
+      "is influenced by",
+      "classical"
+    ],
+    [
+      "musical diversity",
+      "is influenced by",
+      "rebellion"
+    ],
+    [
+      "personal choices",
+      "associated with",
+      "rock"
+    ],
+    [
+      "personal choices",
+      "influences",
+      "cortisol levels"
+    ],
+    [
+      "personal choices",
+      "influences",
+      "genre"
+    ],
+    [
+      "personal choices",
+      "influences",
+      "individual differences"
+    ],
+    [
+      "personal choices",
+      "reflects",
+      "style"
+    ],
+    [
+      "personal choices",
+      "shaped by",
+      "classical"
+    ],
+    [
+      "personal choices",
+      "shaped by",
+      "electronic"
+    ],
+    [
+      "personal choices",
+      "shaped by",
+      "elegance"
+    ],
+    [
+      "personal choices",
+      "shaped by",
+      "jazz"
+    ],
+    [
+      "personal choices",
+      "shaped by",
+      "mood"
+    ],
+    [
+      "personal choices",
+      "shaped by",
+      "personal preferences"
+    ],
+    [
+      "personal choices",
+      "shaped by",
+      "rebellion"
+    ],
+    [
+      "personal choices",
+      "shaped by",
+      "sophistication"
+    ],
+    [
+      "personal choices",
+      "shapes",
+      "musical diversity"
+    ],
+    [
+      "personal preferences",
+      "affected by",
+      "heart rate"
+    ],
+    [
+      "personal preferences",
+      "can inspire",
+      "inspire"
+    ],
+    [
+      "personal preferences",
+      "influences",
+      "cultural background"
+    ],
+    [
+      "personal preferences",
+      "influences",
+      "genre"
+    ],
+    [
+      "personal preferences",
+      "influences",
+      "jazz"
+    ],
+    [
+      "personal preferences",
+      "influences",
+      "messages"
+    ],
+    [
+      "personal preferences",
+      "influences",
+      "personal choices"
+    ],
+    [
+      "personal preferences",
+      "influences",
+      "style"
+    ],
+    [
+      "personal preferences",
+      "is associated with",
+      "sophistication"
+    ],
+    [
+      "personal preferences",
+      "shaped by",
+      "elegance"
+    ],
+    [
+      "physiological responses",
+      "affects",
+      "blood pressure"
+    ],
+    [
+      "physiological responses",
+      "affects",
+      "emotional well-being"
+    ],
+    [
+      "physiological responses",
+      "affects",
+      "emotions"
+    ],
+    [
+      "physiological responses",
+      "drives",
+      "motivation"
+    ],
+    [
+      "physiological responses",
+      "promotes",
+      "uplift"
+    ],
+    [
+      "pop",
+      "conveys",
+      "themes"
+    ],
+    [
+      "pop",
+      "fosters",
+      "connections"
+    ],
+    [
+      "pop",
+      "fosters",
+      "unity"
+    ],
+    [
+      "pop",
+      "induces",
+      "introspection"
+    ],
+    [
+      "pop",
+      "influences",
+      "lyrics"
+    ],
+    [
+      "pop",
+      "is a type of",
+      "music"
+    ],
+    [
+      "pop",
+      "shaped by",
+      "individual differences"
+    ],
+    [
+      "rebellion",
+      "affects",
+      "emotional well-being"
+    ],
+    [
+      "rebellion",
+      "challenges",
+      "connections"
+    ],
+    [
+      "rebellion",
+      "contributes to",
+      "intensity"
+    ],
+    [
+      "rebellion",
+      "energizes",
+      "energize"
+    ],
+    [
+      "rebellion",
+      "evokes",
+      "empathy"
+    ],
+    [
+      "rebellion",
+      "fulfills",
+      "emotional needs"
+    ],
+    [
+      "rebellion",
+      "influences",
+      "rock"
+    ],
+    [
+      "rebellion",
+      "influences",
+      "themes"
+    ],
+    [
+      "rebellion",
+      "is influenced by",
+      "energy"
+    ],
+    [
+      "rebellion",
+      "is influenced by",
+      "individual differences"
+    ],
+    [
+      "rebellion",
+      "motivates",
+      "inspire"
+    ],
+    [
+      "relaxation",
+      "affects",
+      "mood"
+    ],
+    [
+      "relaxation",
+      "associated with",
+      "cortisol levels"
+    ],
+    [
+      "relaxation",
+      "fulfills",
+      "emotional needs"
+    ],
+    [
+      "relaxation",
+      "induces",
+      "energy"
+    ],
+    [
+      "relaxation",
+      "induces",
+      "soothe"
+    ],
+    [
+      "relaxation",
+      "is influenced by",
+      "jazz"
+    ],
+    [
+      "relaxation",
+      "provides",
+      "comfort"
+    ],
+    [
+      "rock",
+      "associated with",
+      "memories"
+    ],
+    [
+      "rock",
+      "associated with",
+      "personal preferences"
+    ],
+    [
+      "rock",
+      "includes",
+      "style"
+    ],
+    [
+      "rock",
+      "influences",
+      "musical diversity"
+    ],
+    [
+      "rock",
+      "is influenced by",
+      "empathy"
+    ],
+    [
+      "rock",
+      "shapes",
+      "cultural background"
+    ],
+    [
+      "social bonds",
+      "creates",
+      "unity"
+    ],
+    [
+      "social bonds",
+      "enhances",
+      "emotional well-being"
+    ],
+    [
+      "social bonds",
+      "enhances",
+      "emotions"
+    ],
+    [
+      "social bonds",
+      "enhances",
+      "jazz"
+    ],
+    [
+      "social bonds",
+      "enhances",
+      "music"
+    ],
+    [
+      "social bonds",
+      "evokes",
+      "feelings"
+    ],
+    [
+      "social bonds",
+      "evokes",
+      "joy"
+    ],
+    [
+      "social bonds",
+      "influences",
+      "emotional needs"
+    ],
+    [
+      "social bonds",
+      "influences",
+      "lyrics"
+    ],
+    [
+      "social bonds",
+      "influences",
+      "physiological responses"
+    ],
+    [
+      "social bonds",
+      "is supported by",
+      "rebellion"
+    ],
+    [
+      "social bonds",
+      "motivates",
+      "inspire"
+    ],
+    [
+      "social bonds",
+      "strengthens",
+      "blood pressure"
+    ],
+    [
+      "social bonds",
+      "strengthens",
+      "camaraderie"
+    ],
+    [
+      "social bonds",
+      "strengthens",
+      "classical"
+    ],
+    [
+      "social bonds",
+      "strengthens",
+      "empathy"
+    ],
+    [
+      "social bonds",
+      "strengthens",
+      "introspection"
+    ],
+    [
+      "social bonds",
+      "strengthens",
+      "relaxation"
+    ],
+    [
+      "social bonds",
+      "strengthens",
+      "rock"
+    ],
+    [
+      "social bonds",
+      "strengthens",
+      "uplift"
+    ],
+    [
+      "soothe",
+      "alleviates",
+      "mood"
+    ],
+    [
+      "soothe",
+      "calms",
+      "blood pressure"
+    ],
+    [
+      "soothe",
+      "calms",
+      "camaraderie"
+    ],
+    [
+      "soothe",
+      "can soothe",
+      "energy"
+    ],
+    [
+      "soothe",
+      "enhances",
+      "emotional well-being"
+    ],
+    [
+      "soothe",
+      "evokes",
+      "subjective effects"
+    ],
+    [
+      "soothe",
+      "is calmed by",
+      "heart rate"
+    ],
+    [
+      "soothe",
+      "is influenced by",
+      "style"
+    ],
+    [
+      "soothe",
+      "provides",
+      "comfort"
+    ],
+    [
+      "sophistication",
+      "associated with",
+      "connections"
+    ],
+    [
+      "sophistication",
+      "associated with",
+      "introspection"
+    ],
+    [
+      "sophistication",
+      "contrasts with",
+      "rebellion"
+    ],
+    [
+      "sophistication",
+      "conveys",
+      "inspire"
+    ],
+    [
+      "sophistication",
+      "fulfills",
+      "empathy"
+    ],
+    [
+      "sophistication",
+      "is associated with",
+      "classical"
+    ],
+    [
+      "sophistication",
+      "is associated with",
+      "rock"
+    ],
+    [
+      "sophistication",
+      "is associated with",
+      "social bonds"
+    ],
+    [
+      "style",
+      "is a genre of",
+      "rock"
+    ],
+    [
+      "style",
+      "is a type of",
+      "jazz"
+    ],
+    [
+      "style",
+      "is expressed through",
+      "music"
+    ],
+    [
+      "style",
+      "shaped by",
+      "personal preferences"
+    ],
+    [
+      "subjective effects",
+      "experienced as",
+      "soothe"
+    ],
+    [
+      "subjective effects",
+      "influences",
+      "feelings"
+    ],
+    [
+      "subjective effects",
+      "is influenced by",
+      "heart rate"
+    ],
+    [
+      "themes",
+      "conveys",
+      "connections"
+    ],
+    [
+      "themes",
+      "creates",
+      "camaraderie"
+    ],
+    [
+      "themes",
+      "creates",
+      "unity"
+    ],
+    [
+      "themes",
+      "energizes",
+      "energize"
+    ],
+    [
+      "themes",
+      "enhances",
+      "emotional well-being"
+    ],
+    [
+      "themes",
+      "evokes",
+      "empathy"
+    ],
+    [
+      "themes",
+      "influences",
+      "electronic"
+    ],
+    [
+      "themes",
+      "influences",
+      "intensity"
+    ],
+    [
+      "themes",
+      "influences",
+      "personal preferences"
+    ],
+    [
+      "themes",
+      "influences",
+      "rock"
+    ],
+    [
+      "themes",
+      "informs",
+      "jazz"
+    ],
+    [
+      "themes",
+      "informs",
+      "style"
+    ],
+    [
+      "themes",
+      "inspires",
+      "inspire"
+    ],
+    [
+      "themes",
+      "is conveyed through",
+      "music"
+    ],
+    [
+      "themes",
+      "offers",
+      "comfort"
+    ],
+    [
+      "unity",
+      "creates",
+      "physiological responses"
+    ],
+    [
+      "unity",
+      "fosters",
+      "blood pressure"
+    ],
+    [
+      "unity",
+      "fosters",
+      "emotions"
+    ],
+    [
+      "unity",
+      "fosters",
+      "introspection"
+    ],
+    [
+      "unity",
+      "fosters",
+      "sophistication"
+    ],
+    [
+      "unity",
+      "is created by",
+      "classical"
+    ],
+    [
+      "unity",
+      "is enhanced by",
+      "camaraderie"
+    ],
+    [
+      "unity",
+      "is enhanced by",
+      "joy"
+    ],
+    [
+      "unity",
+      "is enhanced by",
+      "memories"
+    ],
+    [
+      "unity",
+      "is supported by",
+      "connections"
+    ],
+    [
+      "unity",
+      "is supported by",
+      "emotional well-being"
+    ],
+    [
+      "uplift",
+      "can enhance",
+      "soothe"
+    ],
+    [
+      "uplift",
+      "can lead to",
+      "joy"
+    ],
+    [
+      "uplift",
+      "enhances",
+      "energize"
+    ],
+    [
+      "uplift",
+      "enhances",
+      "mood"
+    ],
+    [
+      "uplift",
+      "enhances",
+      "motivation"
+    ],
+    [
+      "uplift",
+      "fosters",
+      "connections"
+    ],
+    [
+      "uplift",
+      "fulfills",
+      "emotional needs"
+    ],
+    [
+      "uplift",
+      "improves",
+      "emotional well-being"
+    ],
+    [
+      "uplift",
+      "provides",
+      "comfort"
+    ],
+    [
+      "uplift",
+      "stimulates",
+      "energy"
+    ],
+    [
+      "uplift",
+      "uplifts",
+      "heart rate"
+    ]
+  ],
+  "edges": [
+    "addresses",
+    "affected by",
+    "affects",
+    "alleviates",
+    "associated with",
+    "calms",
+    "can enhance",
+    "can evoke",
+    "can inspire",
+    "can lead to",
+    "can soothe",
+    "can uplift",
+    "challenges",
+    "contrasts with",
+    "contributes to",
+    "conveys",
+    "creates",
+    "drives",
+    "elicits",
+    "embodies",
+    "energizes",
+    "enhanced by",
+    "enhances",
+    "evoked by",
+    "evokes",
+    "experienced as",
+    "facilitates",
+    "fosters",
+    "fulfills",
+    "improves",
+    "includes",
+    "increases",
+    "induces",
+    "influenced by",
+    "influences",
+    "informs",
+    "inspire",
+    "inspires",
+    "is a category of",
+    "is a genre of",
+    "is a result of",
+    "is a source of",
+    "is a type of",
+    "is affected by",
+    "is associated with",
+    "is calmed by",
+    "is conveyed through",
+    "is created by",
+    "is enhanced by",
+    "is expressed through",
+    "is given by",
+    "is influenced by",
+    "is inspired by",
+    "is shaped by",
+    "is supported by",
+    "motivates",
+    "offers",
+    "preferred by",
+    "promotes",
+    "provides",
+    "reflects",
+    "shaped by",
+    "shapes",
+    "stimulates",
+    "strengthens",
+    "supports",
+    "triggers",
+    "uplifts"
+  ]
+}

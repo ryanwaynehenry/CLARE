@@ -1,0 +1,2666 @@
+{
+  "entities": [
+    "active citizenship",
+    "active role",
+    "belonging",
+    "civic engagement",
+    "collective effort",
+    "collective responsibility",
+    "commitment",
+    "common goal",
+    "community",
+    "community building",
+    "community support",
+    "community well-being",
+    "compassion",
+    "compassionate society",
+    "connections",
+    "critical needs",
+    "disaster relief",
+    "diverse groups",
+    "education",
+    "encouragement",
+    "engagement",
+    "environmental conservation",
+    "equitable society",
+    "fulfillment",
+    "healthcare",
+    "healthy society",
+    "individual contributions",
+    "initiatives",
+    "inspiration",
+    "interests",
+    "involvement",
+    "just society",
+    "lasting friendships",
+    "mental health",
+    "opportunities",
+    "overall well-being",
+    "personal benefits",
+    "personal growth",
+    "positive change",
+    "positive impact",
+    "relationships",
+    "resources",
+    "self-discovery",
+    "self-esteem",
+    "sense of purpose",
+    "skill development",
+    "skills",
+    "social bonds",
+    "social justice",
+    "social responsibility",
+    "sustainable society",
+    "thriving society",
+    "unity",
+    "valuable experience",
+    "volunteer services",
+    "volunteering impact",
+    "volunteerism",
+    "vulnerable populations"
+  ],
+  "relations": [
+    [
+      "active citizenship",
+      "encourages",
+      "community"
+    ],
+    [
+      "active citizenship",
+      "encourages",
+      "interests"
+    ],
+    [
+      "active citizenship",
+      "encourages",
+      "relationships"
+    ],
+    [
+      "active role",
+      "contributes to",
+      "equitable society"
+    ],
+    [
+      "active role",
+      "contributes to",
+      "healthy society"
+    ],
+    [
+      "active role",
+      "contributes to",
+      "sustainable society"
+    ],
+    [
+      "active role",
+      "demonstrates",
+      "commitment"
+    ],
+    [
+      "active role",
+      "drives",
+      "initiatives"
+    ],
+    [
+      "active role",
+      "encourages",
+      "active citizenship"
+    ],
+    [
+      "active role",
+      "encourages",
+      "civic engagement"
+    ],
+    [
+      "active role",
+      "encourages",
+      "collective responsibility"
+    ],
+    [
+      "active role",
+      "encourages",
+      "compassion"
+    ],
+    [
+      "active role",
+      "encourages",
+      "environmental conservation"
+    ],
+    [
+      "active role",
+      "encourages",
+      "social justice"
+    ],
+    [
+      "active role",
+      "encourages",
+      "social responsibility"
+    ],
+    [
+      "active role",
+      "enhances",
+      "volunteering impact"
+    ],
+    [
+      "active role",
+      "facilitates",
+      "disaster relief"
+    ],
+    [
+      "active role",
+      "is demonstrated by",
+      "volunteerism"
+    ],
+    [
+      "active role",
+      "promotes",
+      "engagement"
+    ],
+    [
+      "active role",
+      "promotes",
+      "healthcare"
+    ],
+    [
+      "active role",
+      "supports",
+      "vulnerable populations"
+    ],
+    [
+      "belonging",
+      "contributes to",
+      "sustainable society"
+    ],
+    [
+      "belonging",
+      "creates",
+      "community"
+    ],
+    [
+      "belonging",
+      "encourages",
+      "active citizenship"
+    ],
+    [
+      "belonging",
+      "fosters",
+      "civic engagement"
+    ],
+    [
+      "belonging",
+      "fosters",
+      "social responsibility"
+    ],
+    [
+      "belonging",
+      "is a result of",
+      "positive change"
+    ],
+    [
+      "belonging",
+      "provides",
+      "environmental conservation"
+    ],
+    [
+      "civic engagement",
+      "addresses",
+      "vulnerable populations"
+    ],
+    [
+      "civic engagement",
+      "demonstrates",
+      "commitment"
+    ],
+    [
+      "civic engagement",
+      "encourages",
+      "active citizenship"
+    ],
+    [
+      "civic engagement",
+      "encourages",
+      "environmental conservation"
+    ],
+    [
+      "civic engagement",
+      "encourages",
+      "involvement"
+    ],
+    [
+      "civic engagement",
+      "enhances",
+      "community building"
+    ],
+    [
+      "civic engagement",
+      "facilitates",
+      "self-discovery"
+    ],
+    [
+      "civic engagement",
+      "fosters",
+      "connections"
+    ],
+    [
+      "civic engagement",
+      "inspires",
+      "inspiration"
+    ],
+    [
+      "civic engagement",
+      "involves",
+      "individual contributions"
+    ],
+    [
+      "civic engagement",
+      "is supported by",
+      "resources"
+    ],
+    [
+      "civic engagement",
+      "promotes",
+      "healthcare"
+    ],
+    [
+      "civic engagement",
+      "promotes",
+      "social responsibility"
+    ],
+    [
+      "civic engagement",
+      "provides",
+      "volunteer services"
+    ],
+    [
+      "civic engagement",
+      "requires",
+      "collective effort"
+    ],
+    [
+      "civic engagement",
+      "requires",
+      "collective responsibility"
+    ],
+    [
+      "civic engagement",
+      "strengthens",
+      "social bonds"
+    ],
+    [
+      "civic engagement",
+      "supports",
+      "community support"
+    ],
+    [
+      "civic engagement",
+      "supports",
+      "disaster relief"
+    ],
+    [
+      "civic engagement",
+      "supports",
+      "initiatives"
+    ],
+    [
+      "collective effort",
+      "is achieved through",
+      "common goal"
+    ],
+    [
+      "collective responsibility",
+      "promotes",
+      "active citizenship"
+    ],
+    [
+      "collective responsibility",
+      "requires",
+      "collective effort"
+    ],
+    [
+      "collective responsibility",
+      "requires",
+      "critical needs"
+    ],
+    [
+      "collective responsibility",
+      "supports",
+      "initiatives"
+    ],
+    [
+      "collective responsibility",
+      "supports",
+      "social responsibility"
+    ],
+    [
+      "commitment",
+      "demonstrates",
+      "connections"
+    ],
+    [
+      "commitment",
+      "demonstrates",
+      "skills"
+    ],
+    [
+      "commitment",
+      "demonstrates",
+      "social responsibility"
+    ],
+    [
+      "commitment",
+      "drives",
+      "initiatives"
+    ],
+    [
+      "commitment",
+      "fosters",
+      "belonging"
+    ],
+    [
+      "commitment",
+      "involves",
+      "involvement"
+    ],
+    [
+      "commitment",
+      "is demonstrated by",
+      "social justice"
+    ],
+    [
+      "commitment",
+      "is essential for",
+      "collective responsibility"
+    ],
+    [
+      "commitment",
+      "requires",
+      "relationships"
+    ],
+    [
+      "common goal",
+      "addresses",
+      "healthcare"
+    ],
+    [
+      "common goal",
+      "contributes to",
+      "thriving society"
+    ],
+    [
+      "common goal",
+      "creates",
+      "positive impact"
+    ],
+    [
+      "common goal",
+      "facilitates",
+      "self-discovery"
+    ],
+    [
+      "common goal",
+      "fosters",
+      "belonging"
+    ],
+    [
+      "common goal",
+      "fosters",
+      "connections"
+    ],
+    [
+      "common goal",
+      "fosters",
+      "unity"
+    ],
+    [
+      "common goal",
+      "influences",
+      "volunteering impact"
+    ],
+    [
+      "common goal",
+      "inspires",
+      "inspiration"
+    ],
+    [
+      "common goal",
+      "is a goal of",
+      "initiatives"
+    ],
+    [
+      "common goal",
+      "promotes",
+      "community building"
+    ],
+    [
+      "common goal",
+      "promotes",
+      "positive change"
+    ],
+    [
+      "common goal",
+      "requires",
+      "commitment"
+    ],
+    [
+      "common goal",
+      "supports",
+      "vulnerable populations"
+    ],
+    [
+      "community",
+      "contributes to",
+      "community building"
+    ],
+    [
+      "community",
+      "drives",
+      "initiatives"
+    ],
+    [
+      "community",
+      "is part of",
+      "community well-being"
+    ],
+    [
+      "community",
+      "promotes",
+      "engagement"
+    ],
+    [
+      "community",
+      "promotes",
+      "social responsibility"
+    ],
+    [
+      "community",
+      "requires",
+      "involvement"
+    ],
+    [
+      "community",
+      "sparks",
+      "inspiration"
+    ],
+    [
+      "community",
+      "strengthens",
+      "connections"
+    ],
+    [
+      "community",
+      "strengthens",
+      "relationships"
+    ],
+    [
+      "community",
+      "strengthens",
+      "social bonds"
+    ],
+    [
+      "community",
+      "supports",
+      "environmental conservation"
+    ],
+    [
+      "community",
+      "supports",
+      "vulnerable populations"
+    ],
+    [
+      "community building",
+      "drives",
+      "positive change"
+    ],
+    [
+      "community building",
+      "enhances",
+      "social responsibility"
+    ],
+    [
+      "community building",
+      "facilitates",
+      "encouragement"
+    ],
+    [
+      "community building",
+      "facilitates",
+      "self-discovery"
+    ],
+    [
+      "community building",
+      "fostered by",
+      "inspiration"
+    ],
+    [
+      "community building",
+      "promotes",
+      "active citizenship"
+    ],
+    [
+      "community building",
+      "promotes",
+      "unity"
+    ],
+    [
+      "community building",
+      "provided by",
+      "volunteer services"
+    ],
+    [
+      "community building",
+      "provides",
+      "fulfillment"
+    ],
+    [
+      "community building",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "community support",
+      "addresses",
+      "critical needs"
+    ],
+    [
+      "community support",
+      "demonstrates",
+      "commitment"
+    ],
+    [
+      "community support",
+      "fosters",
+      "connections"
+    ],
+    [
+      "community support",
+      "is essential for",
+      "initiatives"
+    ],
+    [
+      "community support",
+      "is provided by",
+      "resources"
+    ],
+    [
+      "community support",
+      "promotes",
+      "active citizenship"
+    ],
+    [
+      "community support",
+      "requires",
+      "collective effort"
+    ],
+    [
+      "community support",
+      "strengthens",
+      "community building"
+    ],
+    [
+      "community support",
+      "supports",
+      "sustainable society"
+    ],
+    [
+      "community support",
+      "supports",
+      "vulnerable populations"
+    ],
+    [
+      "community well-being",
+      "drives",
+      "positive change"
+    ],
+    [
+      "community well-being",
+      "enhances",
+      "collective effort"
+    ],
+    [
+      "community well-being",
+      "enhances",
+      "diverse groups"
+    ],
+    [
+      "community well-being",
+      "enhances",
+      "volunteer services"
+    ],
+    [
+      "community well-being",
+      "improves",
+      "mental health"
+    ],
+    [
+      "compassion",
+      "addresses",
+      "critical needs"
+    ],
+    [
+      "compassion",
+      "demands",
+      "collective responsibility"
+    ],
+    [
+      "compassion",
+      "drives",
+      "positive change"
+    ],
+    [
+      "compassion",
+      "fosters",
+      "unity"
+    ],
+    [
+      "compassion",
+      "fosters",
+      "volunteering impact"
+    ],
+    [
+      "compassion",
+      "promotes",
+      "belonging"
+    ],
+    [
+      "compassion",
+      "promotes",
+      "social responsibility"
+    ],
+    [
+      "compassion",
+      "supports",
+      "healthy society"
+    ],
+    [
+      "compassion",
+      "supports",
+      "initiatives"
+    ],
+    [
+      "compassion",
+      "supports",
+      "vulnerable populations"
+    ],
+    [
+      "compassionate society",
+      "addresses",
+      "critical needs"
+    ],
+    [
+      "compassionate society",
+      "benefits from",
+      "community support"
+    ],
+    [
+      "compassionate society",
+      "contributes to",
+      "environmental conservation"
+    ],
+    [
+      "compassionate society",
+      "is promoted by",
+      "volunteerism"
+    ],
+    [
+      "compassionate society",
+      "is supported by",
+      "sustainable society"
+    ],
+    [
+      "compassionate society",
+      "promotes",
+      "social responsibility"
+    ],
+    [
+      "compassionate society",
+      "reflects",
+      "commitment"
+    ],
+    [
+      "compassionate society",
+      "result from",
+      "individual contributions"
+    ],
+    [
+      "connections",
+      "creates",
+      "belonging"
+    ],
+    [
+      "connections",
+      "creates",
+      "positive impact"
+    ],
+    [
+      "connections",
+      "demands",
+      "collective responsibility"
+    ],
+    [
+      "connections",
+      "enables",
+      "collective effort"
+    ],
+    [
+      "connections",
+      "facilitates",
+      "community building"
+    ],
+    [
+      "connections",
+      "fosters",
+      "environmental conservation"
+    ],
+    [
+      "connections",
+      "improves",
+      "mental health"
+    ],
+    [
+      "connections",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "connections",
+      "strengthens",
+      "unity"
+    ],
+    [
+      "connections",
+      "supports",
+      "initiatives"
+    ],
+    [
+      "connections",
+      "supports",
+      "social responsibility"
+    ],
+    [
+      "critical needs",
+      "addresses",
+      "community"
+    ],
+    [
+      "critical needs",
+      "addresses",
+      "community well-being"
+    ],
+    [
+      "critical needs",
+      "addresses",
+      "individual contributions"
+    ],
+    [
+      "critical needs",
+      "addresses",
+      "initiatives"
+    ],
+    [
+      "critical needs",
+      "addresses",
+      "vulnerable populations"
+    ],
+    [
+      "critical needs",
+      "is addressed by",
+      "social responsibility"
+    ],
+    [
+      "critical needs",
+      "promotes",
+      "active citizenship"
+    ],
+    [
+      "disaster relief",
+      "addresses",
+      "critical needs"
+    ],
+    [
+      "disaster relief",
+      "contributes to",
+      "thriving society"
+    ],
+    [
+      "disaster relief",
+      "creates",
+      "positive impact"
+    ],
+    [
+      "disaster relief",
+      "demonstrates",
+      "compassion"
+    ],
+    [
+      "disaster relief",
+      "enhances",
+      "education"
+    ],
+    [
+      "disaster relief",
+      "improves",
+      "mental health"
+    ],
+    [
+      "disaster relief",
+      "influences",
+      "volunteering impact"
+    ],
+    [
+      "disaster relief",
+      "motivates",
+      "inspiration"
+    ],
+    [
+      "disaster relief",
+      "promotes",
+      "active citizenship"
+    ],
+    [
+      "disaster relief",
+      "promotes",
+      "social responsibility"
+    ],
+    [
+      "disaster relief",
+      "provides",
+      "healthcare"
+    ],
+    [
+      "disaster relief",
+      "provides",
+      "volunteer services"
+    ],
+    [
+      "disaster relief",
+      "requires",
+      "collective effort"
+    ],
+    [
+      "disaster relief",
+      "supports",
+      "common goal"
+    ],
+    [
+      "disaster relief",
+      "supports",
+      "community building"
+    ],
+    [
+      "disaster relief",
+      "supports",
+      "initiatives"
+    ],
+    [
+      "disaster relief",
+      "supports",
+      "volunteerism"
+    ],
+    [
+      "disaster relief",
+      "supports",
+      "vulnerable populations"
+    ],
+    [
+      "diverse groups",
+      "addresses",
+      "critical needs"
+    ],
+    [
+      "diverse groups",
+      "benefits from",
+      "community support"
+    ],
+    [
+      "diverse groups",
+      "builds",
+      "community"
+    ],
+    [
+      "diverse groups",
+      "creates",
+      "connections"
+    ],
+    [
+      "diverse groups",
+      "encourages",
+      "active citizenship"
+    ],
+    [
+      "diverse groups",
+      "encourages",
+      "civic engagement"
+    ],
+    [
+      "diverse groups",
+      "enhances",
+      "community building"
+    ],
+    [
+      "diverse groups",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "diverse groups",
+      "motivates",
+      "inspiration"
+    ],
+    [
+      "diverse groups",
+      "pursues",
+      "common goal"
+    ],
+    [
+      "diverse groups",
+      "requires",
+      "collective effort"
+    ],
+    [
+      "diverse groups",
+      "strengthens",
+      "social bonds"
+    ],
+    [
+      "diverse groups",
+      "supports",
+      "initiatives"
+    ],
+    [
+      "education",
+      "addresses",
+      "critical needs"
+    ],
+    [
+      "education",
+      "contributes to",
+      "just society"
+    ],
+    [
+      "education",
+      "contributes to",
+      "thriving society"
+    ],
+    [
+      "education",
+      "creates",
+      "positive impact"
+    ],
+    [
+      "education",
+      "demonstrates",
+      "commitment"
+    ],
+    [
+      "education",
+      "facilitates",
+      "personal growth"
+    ],
+    [
+      "education",
+      "facilitates",
+      "self-discovery"
+    ],
+    [
+      "education",
+      "improves",
+      "mental health"
+    ],
+    [
+      "education",
+      "is supported by",
+      "volunteerism"
+    ],
+    [
+      "education",
+      "promotes",
+      "positive change"
+    ],
+    [
+      "education",
+      "result from",
+      "individual contributions"
+    ],
+    [
+      "encouragement",
+      "creates",
+      "positive impact"
+    ],
+    [
+      "encouragement",
+      "fosters",
+      "unity"
+    ],
+    [
+      "encouragement",
+      "is enhanced by",
+      "overall well-being"
+    ],
+    [
+      "encouragement",
+      "is fostered by",
+      "sense of purpose"
+    ],
+    [
+      "encouragement",
+      "is supported by",
+      "thriving society"
+    ],
+    [
+      "engagement",
+      "achieves",
+      "common goal"
+    ],
+    [
+      "engagement",
+      "addresses",
+      "vulnerable populations"
+    ],
+    [
+      "engagement",
+      "aligns with",
+      "interests"
+    ],
+    [
+      "engagement",
+      "builds",
+      "social bonds"
+    ],
+    [
+      "engagement",
+      "contributes to",
+      "just society"
+    ],
+    [
+      "engagement",
+      "demonstrates",
+      "collective responsibility"
+    ],
+    [
+      "engagement",
+      "drives",
+      "initiatives"
+    ],
+    [
+      "engagement",
+      "enhances",
+      "social responsibility"
+    ],
+    [
+      "engagement",
+      "facilitates",
+      "self-discovery"
+    ],
+    [
+      "engagement",
+      "fosters",
+      "belonging"
+    ],
+    [
+      "engagement",
+      "provides",
+      "opportunities"
+    ],
+    [
+      "engagement",
+      "requires",
+      "collective effort"
+    ],
+    [
+      "engagement",
+      "supports",
+      "disaster relief"
+    ],
+    [
+      "engagement",
+      "supports",
+      "sustainable society"
+    ],
+    [
+      "engagement",
+      "utilizes",
+      "resources"
+    ],
+    [
+      "environmental conservation",
+      "addresses",
+      "critical needs"
+    ],
+    [
+      "environmental conservation",
+      "contributes to",
+      "just society"
+    ],
+    [
+      "environmental conservation",
+      "demonstrates",
+      "commitment"
+    ],
+    [
+      "environmental conservation",
+      "educates about",
+      "education"
+    ],
+    [
+      "environmental conservation",
+      "encourages",
+      "self-discovery"
+    ],
+    [
+      "environmental conservation",
+      "fosters",
+      "relationships"
+    ],
+    [
+      "environmental conservation",
+      "is promoted by",
+      "volunteerism"
+    ],
+    [
+      "environmental conservation",
+      "promotes",
+      "social responsibility"
+    ],
+    [
+      "environmental conservation",
+      "supported by",
+      "individual contributions"
+    ],
+    [
+      "environmental conservation",
+      "supports",
+      "disaster relief"
+    ],
+    [
+      "equitable society",
+      "addresses",
+      "disaster relief"
+    ],
+    [
+      "equitable society",
+      "aligns with",
+      "common goal"
+    ],
+    [
+      "equitable society",
+      "enables",
+      "skills"
+    ],
+    [
+      "equitable society",
+      "enhanced by",
+      "engagement"
+    ],
+    [
+      "equitable society",
+      "is a form of",
+      "commitment"
+    ],
+    [
+      "equitable society",
+      "is a goal of",
+      "sustainable society"
+    ],
+    [
+      "equitable society",
+      "is driven by",
+      "volunteerism"
+    ],
+    [
+      "equitable society",
+      "is supported by",
+      "social justice"
+    ],
+    [
+      "fulfillment",
+      "achieved through",
+      "positive change"
+    ],
+    [
+      "fulfillment",
+      "enhanced by",
+      "active citizenship"
+    ],
+    [
+      "fulfillment",
+      "is achieved by",
+      "equitable society"
+    ],
+    [
+      "fulfillment",
+      "is achieved through",
+      "environmental conservation"
+    ],
+    [
+      "fulfillment",
+      "is achieved through",
+      "sustainable society"
+    ],
+    [
+      "fulfillment",
+      "is realized by",
+      "compassionate society"
+    ],
+    [
+      "fulfillment",
+      "leads to",
+      "individual contributions"
+    ],
+    [
+      "fulfillment",
+      "leads to",
+      "opportunities"
+    ],
+    [
+      "fulfillment",
+      "provides",
+      "civic engagement"
+    ],
+    [
+      "fulfillment",
+      "provides",
+      "connections"
+    ],
+    [
+      "fulfillment",
+      "provides",
+      "social bonds"
+    ],
+    [
+      "fulfillment",
+      "provides",
+      "unity"
+    ],
+    [
+      "healthcare",
+      "affects",
+      "mental health"
+    ],
+    [
+      "healthcare",
+      "benefits from",
+      "social bonds"
+    ],
+    [
+      "healthcare",
+      "contributes to",
+      "positive impact"
+    ],
+    [
+      "healthcare",
+      "inspires",
+      "inspiration"
+    ],
+    [
+      "healthcare",
+      "is influenced by",
+      "positive change"
+    ],
+    [
+      "healthcare",
+      "promotes",
+      "personal growth"
+    ],
+    [
+      "healthcare",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "healthcare",
+      "supports",
+      "engagement"
+    ],
+    [
+      "healthcare",
+      "supports",
+      "initiatives"
+    ],
+    [
+      "healthcare",
+      "supports",
+      "self-esteem"
+    ],
+    [
+      "healthcare",
+      "supports",
+      "social responsibility"
+    ],
+    [
+      "healthy society",
+      "enhances",
+      "active citizenship"
+    ],
+    [
+      "healthy society",
+      "is supported by",
+      "engagement"
+    ],
+    [
+      "healthy society",
+      "supports",
+      "initiatives"
+    ],
+    [
+      "individual contributions",
+      "achieved by",
+      "common goal"
+    ],
+    [
+      "individual contributions",
+      "benefits from",
+      "diverse groups"
+    ],
+    [
+      "individual contributions",
+      "benefits from",
+      "vulnerable populations"
+    ],
+    [
+      "individual contributions",
+      "contributes to",
+      "community"
+    ],
+    [
+      "individual contributions",
+      "contributes to",
+      "healthy society"
+    ],
+    [
+      "individual contributions",
+      "facilitates",
+      "compassion"
+    ],
+    [
+      "individual contributions",
+      "facilitates",
+      "self-discovery"
+    ],
+    [
+      "individual contributions",
+      "fosters",
+      "belonging"
+    ],
+    [
+      "individual contributions",
+      "influences",
+      "interests"
+    ],
+    [
+      "individual contributions",
+      "is enhanced by",
+      "community support"
+    ],
+    [
+      "individual contributions",
+      "leads to",
+      "active citizenship"
+    ],
+    [
+      "individual contributions",
+      "supports",
+      "resources"
+    ],
+    [
+      "inspiration",
+      "drives",
+      "commitment"
+    ],
+    [
+      "inspiration",
+      "drives",
+      "critical needs"
+    ],
+    [
+      "inspiration",
+      "encourages",
+      "collective responsibility"
+    ],
+    [
+      "inspiration",
+      "encourages",
+      "social responsibility"
+    ],
+    [
+      "inspiration",
+      "encourages",
+      "volunteerism"
+    ],
+    [
+      "inspiration",
+      "fosters",
+      "belonging"
+    ],
+    [
+      "inspiration",
+      "inspired by",
+      "social bonds"
+    ],
+    [
+      "inspiration",
+      "is a result of",
+      "just society"
+    ],
+    [
+      "inspiration",
+      "leads to",
+      "fulfillment"
+    ],
+    [
+      "interests",
+      "demonstrates",
+      "commitment"
+    ],
+    [
+      "interests",
+      "influences",
+      "compassionate society"
+    ],
+    [
+      "interests",
+      "involves",
+      "skills"
+    ],
+    [
+      "interests",
+      "leads to",
+      "self-discovery"
+    ],
+    [
+      "involvement",
+      "drives",
+      "critical needs"
+    ],
+    [
+      "involvement",
+      "leads to",
+      "fulfillment"
+    ],
+    [
+      "involvement",
+      "requires",
+      "social bonds"
+    ],
+    [
+      "just society",
+      "aligns with",
+      "common goal"
+    ],
+    [
+      "just society",
+      "benefits from",
+      "environmental conservation"
+    ],
+    [
+      "just society",
+      "builds",
+      "connections"
+    ],
+    [
+      "just society",
+      "contributes to",
+      "skills"
+    ],
+    [
+      "just society",
+      "contributes to",
+      "social justice"
+    ],
+    [
+      "just society",
+      "enhances",
+      "community building"
+    ],
+    [
+      "just society",
+      "is a result of",
+      "equitable society"
+    ],
+    [
+      "just society",
+      "is achieved through",
+      "fulfillment"
+    ],
+    [
+      "just society",
+      "is supported by",
+      "sustainable society"
+    ],
+    [
+      "just society",
+      "promotes",
+      "active citizenship"
+    ],
+    [
+      "just society",
+      "requires",
+      "commitment"
+    ],
+    [
+      "just society",
+      "supports",
+      "initiatives"
+    ],
+    [
+      "lasting friendships",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "lasting friendships",
+      "contributes to",
+      "overall well-being"
+    ],
+    [
+      "lasting friendships",
+      "enhances",
+      "skill development"
+    ],
+    [
+      "lasting friendships",
+      "fosters",
+      "encouragement"
+    ],
+    [
+      "lasting friendships",
+      "improves",
+      "mental health"
+    ],
+    [
+      "lasting friendships",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "mental health",
+      "affects",
+      "positive impact"
+    ],
+    [
+      "mental health",
+      "promotes",
+      "positive change"
+    ],
+    [
+      "mental health",
+      "promotes",
+      "skill development"
+    ],
+    [
+      "mental health",
+      "supports",
+      "common goal"
+    ],
+    [
+      "opportunities",
+      "addresses",
+      "vulnerable populations"
+    ],
+    [
+      "opportunities",
+      "creates",
+      "compassionate society"
+    ],
+    [
+      "opportunities",
+      "facilitates",
+      "personal growth"
+    ],
+    [
+      "opportunities",
+      "leads to",
+      "initiatives"
+    ],
+    [
+      "opportunities",
+      "provides",
+      "belonging"
+    ],
+    [
+      "opportunities",
+      "provides",
+      "environmental conservation"
+    ],
+    [
+      "opportunities",
+      "provides",
+      "self-discovery"
+    ],
+    [
+      "opportunities",
+      "provides",
+      "skills"
+    ],
+    [
+      "opportunities",
+      "requires",
+      "commitment"
+    ],
+    [
+      "overall well-being",
+      "enhances",
+      "valuable experience"
+    ],
+    [
+      "overall well-being",
+      "leads to",
+      "personal growth"
+    ],
+    [
+      "personal benefits",
+      "enhances",
+      "overall well-being"
+    ],
+    [
+      "personal benefits",
+      "facilitates",
+      "personal growth"
+    ],
+    [
+      "personal benefits",
+      "promotes",
+      "encouragement"
+    ],
+    [
+      "personal benefits",
+      "promotes",
+      "unity"
+    ],
+    [
+      "personal benefits",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "personal growth",
+      "contributes to",
+      "positive change"
+    ],
+    [
+      "personal growth",
+      "enhances",
+      "skill development"
+    ],
+    [
+      "personal growth",
+      "facilitates",
+      "disaster relief"
+    ],
+    [
+      "personal growth",
+      "facilitates",
+      "self-discovery"
+    ],
+    [
+      "positive change",
+      "contributes to",
+      "personal benefits"
+    ],
+    [
+      "positive change",
+      "is improved by",
+      "self-esteem"
+    ],
+    [
+      "positive change",
+      "results in",
+      "positive impact"
+    ],
+    [
+      "positive impact",
+      "creates",
+      "self-esteem"
+    ],
+    [
+      "positive impact",
+      "results in",
+      "thriving society"
+    ],
+    [
+      "relationships",
+      "affects",
+      "vulnerable populations"
+    ],
+    [
+      "relationships",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "relationships",
+      "builds",
+      "civic engagement"
+    ],
+    [
+      "relationships",
+      "demonstrates",
+      "collective responsibility"
+    ],
+    [
+      "relationships",
+      "drives",
+      "positive change"
+    ],
+    [
+      "relationships",
+      "enhances",
+      "belonging"
+    ],
+    [
+      "relationships",
+      "enhances",
+      "mental health"
+    ],
+    [
+      "relationships",
+      "enhances",
+      "volunteering impact"
+    ],
+    [
+      "relationships",
+      "is a component of",
+      "social responsibility"
+    ],
+    [
+      "relationships",
+      "is driven by",
+      "initiatives"
+    ],
+    [
+      "relationships",
+      "is strengthened by",
+      "community well-being"
+    ],
+    [
+      "relationships",
+      "results in",
+      "positive impact"
+    ],
+    [
+      "relationships",
+      "strengthens",
+      "engagement"
+    ],
+    [
+      "relationships",
+      "supports",
+      "common goal"
+    ],
+    [
+      "relationships",
+      "supports",
+      "disaster relief"
+    ],
+    [
+      "relationships",
+      "supports",
+      "healthcare"
+    ],
+    [
+      "resources",
+      "benefits",
+      "healthy society"
+    ],
+    [
+      "resources",
+      "contributes to",
+      "sustainable society"
+    ],
+    [
+      "resources",
+      "demonstrates",
+      "commitment"
+    ],
+    [
+      "resources",
+      "fosters",
+      "connections"
+    ],
+    [
+      "resources",
+      "fuels",
+      "initiatives"
+    ],
+    [
+      "resources",
+      "nurtures",
+      "relationships"
+    ],
+    [
+      "resources",
+      "provides to",
+      "vulnerable populations"
+    ],
+    [
+      "resources",
+      "supports",
+      "collective effort"
+    ],
+    [
+      "resources",
+      "supports",
+      "disaster relief"
+    ],
+    [
+      "resources",
+      "supports",
+      "education"
+    ],
+    [
+      "resources",
+      "supports",
+      "healthcare"
+    ],
+    [
+      "resources",
+      "supports",
+      "social responsibility"
+    ],
+    [
+      "resources",
+      "supports",
+      "volunteering impact"
+    ],
+    [
+      "resources",
+      "supports",
+      "volunteerism"
+    ],
+    [
+      "resources",
+      "utilizes",
+      "community"
+    ],
+    [
+      "self-discovery",
+      "encourages",
+      "sustainable society"
+    ],
+    [
+      "self-discovery",
+      "is a result of",
+      "commitment"
+    ],
+    [
+      "self-esteem",
+      "enhances",
+      "education"
+    ],
+    [
+      "self-esteem",
+      "enhances",
+      "overall well-being"
+    ],
+    [
+      "self-esteem",
+      "enhances",
+      "personal benefits"
+    ],
+    [
+      "self-esteem",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "sense of purpose",
+      "creates",
+      "positive impact"
+    ],
+    [
+      "sense of purpose",
+      "enhanced by",
+      "overall well-being"
+    ],
+    [
+      "sense of purpose",
+      "enhances",
+      "mental health"
+    ],
+    [
+      "sense of purpose",
+      "fosters",
+      "collective effort"
+    ],
+    [
+      "sense of purpose",
+      "leads to",
+      "positive change"
+    ],
+    [
+      "sense of purpose",
+      "provides",
+      "disaster relief"
+    ],
+    [
+      "sense of purpose",
+      "provides",
+      "education"
+    ],
+    [
+      "sense of purpose",
+      "provides",
+      "social bonds"
+    ],
+    [
+      "sense of purpose",
+      "provides",
+      "unity"
+    ],
+    [
+      "skill development",
+      "enhances",
+      "overall well-being"
+    ],
+    [
+      "skill development",
+      "enhances",
+      "self-esteem"
+    ],
+    [
+      "skill development",
+      "enhances",
+      "sense of purpose"
+    ],
+    [
+      "skill development",
+      "leads to",
+      "positive change"
+    ],
+    [
+      "skills",
+      "demonstrates",
+      "social responsibility"
+    ],
+    [
+      "skills",
+      "enhances",
+      "compassionate society"
+    ],
+    [
+      "skills",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "skills",
+      "enhances",
+      "environmental conservation"
+    ],
+    [
+      "skills",
+      "influences",
+      "inspiration"
+    ],
+    [
+      "skills",
+      "leads to",
+      "self-discovery"
+    ],
+    [
+      "skills",
+      "supports",
+      "vulnerable populations"
+    ],
+    [
+      "social bonds",
+      "achieved through",
+      "common goal"
+    ],
+    [
+      "social bonds",
+      "contributes to",
+      "positive change"
+    ],
+    [
+      "social bonds",
+      "creates",
+      "connections"
+    ],
+    [
+      "social bonds",
+      "creates",
+      "positive impact"
+    ],
+    [
+      "social bonds",
+      "cultivates",
+      "compassionate society"
+    ],
+    [
+      "social bonds",
+      "demonstrates",
+      "commitment"
+    ],
+    [
+      "social bonds",
+      "enhances",
+      "belonging"
+    ],
+    [
+      "social bonds",
+      "enhances",
+      "individual contributions"
+    ],
+    [
+      "social bonds",
+      "enhances",
+      "mental health"
+    ],
+    [
+      "social bonds",
+      "enhances",
+      "social responsibility"
+    ],
+    [
+      "social bonds",
+      "facilitates",
+      "self-discovery"
+    ],
+    [
+      "social bonds",
+      "fosters",
+      "encouragement"
+    ],
+    [
+      "social bonds",
+      "promotes",
+      "collective responsibility"
+    ],
+    [
+      "social bonds",
+      "strengthens",
+      "involvement"
+    ],
+    [
+      "social bonds",
+      "strengthens",
+      "thriving society"
+    ],
+    [
+      "social bonds",
+      "strengthens",
+      "unity"
+    ],
+    [
+      "social bonds",
+      "supports",
+      "sustainable society"
+    ],
+    [
+      "social justice",
+      "aligns with",
+      "common goal"
+    ],
+    [
+      "social justice",
+      "contributes to",
+      "healthy society"
+    ],
+    [
+      "social justice",
+      "demands",
+      "collective responsibility"
+    ],
+    [
+      "social justice",
+      "drives",
+      "collective effort"
+    ],
+    [
+      "social justice",
+      "encourages",
+      "civic engagement"
+    ],
+    [
+      "social justice",
+      "encourages",
+      "engagement"
+    ],
+    [
+      "social justice",
+      "fosters",
+      "belonging"
+    ],
+    [
+      "social justice",
+      "initiates",
+      "initiatives"
+    ],
+    [
+      "social justice",
+      "inspires",
+      "interests"
+    ],
+    [
+      "social justice",
+      "is a goal of",
+      "compassionate society"
+    ],
+    [
+      "social justice",
+      "promotes",
+      "compassion"
+    ],
+    [
+      "social justice",
+      "provides",
+      "community support"
+    ],
+    [
+      "social justice",
+      "provides",
+      "fulfillment"
+    ],
+    [
+      "social justice",
+      "provides",
+      "opportunities"
+    ],
+    [
+      "social justice",
+      "requires",
+      "involvement"
+    ],
+    [
+      "social justice",
+      "strengthens",
+      "social bonds"
+    ],
+    [
+      "social justice",
+      "supports",
+      "connections"
+    ],
+    [
+      "social justice",
+      "supports",
+      "disaster relief"
+    ],
+    [
+      "social justice",
+      "supports",
+      "healthcare"
+    ],
+    [
+      "social justice",
+      "supports",
+      "resources"
+    ],
+    [
+      "social justice",
+      "supports",
+      "vulnerable populations"
+    ],
+    [
+      "social responsibility",
+      "addresses",
+      "initiatives"
+    ],
+    [
+      "social responsibility",
+      "encourages",
+      "involvement"
+    ],
+    [
+      "social responsibility",
+      "encourages",
+      "self-discovery"
+    ],
+    [
+      "social responsibility",
+      "is influenced by",
+      "volunteering impact"
+    ],
+    [
+      "social responsibility",
+      "promotes",
+      "equitable society"
+    ],
+    [
+      "sustainable society",
+      "addresses",
+      "critical needs"
+    ],
+    [
+      "sustainable society",
+      "contributes to",
+      "environmental conservation"
+    ],
+    [
+      "sustainable society",
+      "contributes to",
+      "individual contributions"
+    ],
+    [
+      "sustainable society",
+      "contributes to",
+      "opportunities"
+    ],
+    [
+      "sustainable society",
+      "contributes to",
+      "skills"
+    ],
+    [
+      "sustainable society",
+      "demonstrates",
+      "commitment"
+    ],
+    [
+      "sustainable society",
+      "supports",
+      "education"
+    ],
+    [
+      "sustainable society",
+      "supports",
+      "social responsibility"
+    ],
+    [
+      "sustainable society",
+      "supports",
+      "volunteerism"
+    ],
+    [
+      "thriving society",
+      "achieved through",
+      "collective effort"
+    ],
+    [
+      "thriving society",
+      "contributes to",
+      "community well-being"
+    ],
+    [
+      "thriving society",
+      "contributes to",
+      "healthcare"
+    ],
+    [
+      "thriving society",
+      "contributes to",
+      "mental health"
+    ],
+    [
+      "thriving society",
+      "contributes to",
+      "self-esteem"
+    ],
+    [
+      "thriving society",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "thriving society",
+      "supports",
+      "connections"
+    ],
+    [
+      "unity",
+      "creates",
+      "positive impact"
+    ],
+    [
+      "unity",
+      "fosters",
+      "education"
+    ],
+    [
+      "unity",
+      "promotes",
+      "healthcare"
+    ],
+    [
+      "unity",
+      "promotes",
+      "positive change"
+    ],
+    [
+      "unity",
+      "promotes",
+      "self-esteem"
+    ],
+    [
+      "valuable experience",
+      "contributes to",
+      "belonging"
+    ],
+    [
+      "valuable experience",
+      "enhances",
+      "lasting friendships"
+    ],
+    [
+      "valuable experience",
+      "facilitates",
+      "skill development"
+    ],
+    [
+      "valuable experience",
+      "leads to",
+      "interests"
+    ],
+    [
+      "valuable experience",
+      "provides",
+      "skills"
+    ],
+    [
+      "volunteer services",
+      "addresses",
+      "critical needs"
+    ],
+    [
+      "volunteer services",
+      "creates",
+      "positive impact"
+    ],
+    [
+      "volunteer services",
+      "demonstrates",
+      "commitment"
+    ],
+    [
+      "volunteer services",
+      "enhances",
+      "thriving society"
+    ],
+    [
+      "volunteer services",
+      "facilitates",
+      "personal growth"
+    ],
+    [
+      "volunteer services",
+      "is a form of",
+      "volunteerism"
+    ],
+    [
+      "volunteer services",
+      "is supported by",
+      "healthy society"
+    ],
+    [
+      "volunteer services",
+      "is supported by",
+      "just society"
+    ],
+    [
+      "volunteer services",
+      "promotes",
+      "involvement"
+    ],
+    [
+      "volunteer services",
+      "provides",
+      "inspiration"
+    ],
+    [
+      "volunteer services",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "volunteer services",
+      "supports",
+      "engagement"
+    ],
+    [
+      "volunteer services",
+      "supports",
+      "social responsibility"
+    ],
+    [
+      "volunteering impact",
+      "addresses",
+      "critical needs"
+    ],
+    [
+      "volunteering impact",
+      "creates",
+      "positive impact"
+    ],
+    [
+      "volunteering impact",
+      "demonstrates",
+      "commitment"
+    ],
+    [
+      "volunteering impact",
+      "drives",
+      "positive change"
+    ],
+    [
+      "volunteering impact",
+      "facilitates",
+      "self-discovery"
+    ],
+    [
+      "volunteering impact",
+      "fosters",
+      "unity"
+    ],
+    [
+      "volunteering impact",
+      "is influenced by",
+      "connections"
+    ],
+    [
+      "volunteering impact",
+      "is influenced by",
+      "social justice"
+    ],
+    [
+      "volunteerism",
+      "addresses",
+      "critical needs"
+    ],
+    [
+      "volunteerism",
+      "benefits from",
+      "healthcare"
+    ],
+    [
+      "volunteerism",
+      "benefits from",
+      "vulnerable populations"
+    ],
+    [
+      "volunteerism",
+      "drives",
+      "initiatives"
+    ],
+    [
+      "volunteerism",
+      "embodies",
+      "collective responsibility"
+    ],
+    [
+      "volunteerism",
+      "encourages",
+      "healthy society"
+    ],
+    [
+      "volunteerism",
+      "improves",
+      "mental health"
+    ],
+    [
+      "volunteerism",
+      "inspired by",
+      "interests"
+    ],
+    [
+      "volunteerism",
+      "inspires",
+      "compassion"
+    ],
+    [
+      "volunteerism",
+      "is enhanced by",
+      "self-esteem"
+    ],
+    [
+      "volunteerism",
+      "is influenced by",
+      "volunteering impact"
+    ],
+    [
+      "volunteerism",
+      "is supported by",
+      "engagement"
+    ],
+    [
+      "volunteerism",
+      "is utilized in",
+      "skills"
+    ],
+    [
+      "volunteerism",
+      "promotes",
+      "social responsibility"
+    ],
+    [
+      "vulnerable populations",
+      "benefits from",
+      "healthy society"
+    ],
+    [
+      "vulnerable populations",
+      "benefits from",
+      "initiatives"
+    ],
+    [
+      "vulnerable populations",
+      "benefits from",
+      "social responsibility"
+    ],
+    [
+      "vulnerable populations",
+      "benefits from",
+      "volunteering impact"
+    ],
+    [
+      "vulnerable populations",
+      "enhances",
+      "belonging"
+    ],
+    [
+      "vulnerable populations",
+      "promotes",
+      "collective responsibility"
+    ],
+    [
+      "vulnerable populations",
+      "requires",
+      "collective effort"
+    ],
+    [
+      "vulnerable populations",
+      "supports",
+      "community building"
+    ],
+    [
+      "vulnerable populations",
+      "supports",
+      "connections"
+    ],
+    [
+      "vulnerable populations",
+      "supports",
+      "education"
+    ],
+    [
+      "vulnerable populations",
+      "supports",
+      "environmental conservation"
+    ],
+    [
+      "vulnerable populations",
+      "supports",
+      "healthcare"
+    ],
+    [
+      "vulnerable populations",
+      "supports",
+      "social bonds"
+    ],
+    [
+      "vulnerable populations",
+      "supports",
+      "sustainable society"
+    ]
+  ],
+  "edges": [
+    "achieved by",
+    "achieved through",
+    "achieves",
+    "addresses",
+    "affects",
+    "aligns with",
+    "benefits",
+    "benefits from",
+    "boosts",
+    "builds",
+    "contributes to",
+    "creates",
+    "cultivates",
+    "demands",
+    "demonstrates",
+    "drives",
+    "educates about",
+    "embodies",
+    "enables",
+    "encourages",
+    "enhanced by",
+    "enhances",
+    "facilitates",
+    "fostered by",
+    "fosters",
+    "fuels",
+    "improves",
+    "influences",
+    "initiates",
+    "inspired by",
+    "inspires",
+    "involves",
+    "is a component of",
+    "is a form of",
+    "is a goal of",
+    "is a result of",
+    "is achieved by",
+    "is achieved through",
+    "is addressed by",
+    "is demonstrated by",
+    "is driven by",
+    "is enhanced by",
+    "is essential for",
+    "is fostered by",
+    "is improved by",
+    "is influenced by",
+    "is part of",
+    "is promoted by",
+    "is provided by",
+    "is realized by",
+    "is strengthened by",
+    "is supported by",
+    "is utilized in",
+    "leads to",
+    "motivates",
+    "nurtures",
+    "promotes",
+    "provided by",
+    "provides",
+    "provides to",
+    "pursues",
+    "reflects",
+    "requires",
+    "result from",
+    "results in",
+    "sparks",
+    "strengthens",
+    "supported by",
+    "supports",
+    "utilizes"
+  ]
+}

@@ -1,0 +1,5838 @@
+{
+  "entities": [
+    "activism",
+    "capacity building",
+    "collaborative efforts",
+    "collaborative initiatives",
+    "communication",
+    "communication breakdown",
+    "community",
+    "community displacement",
+    "community engagement",
+    "community fragmentation",
+    "community members",
+    "community resilience",
+    "community support",
+    "cultural assimilation",
+    "cultural heritage",
+    "cultural identity",
+    "cultural practices",
+    "cultural richness",
+    "dictionaries",
+    "documenting languages",
+    "dominant languages",
+    "ecological knowledge",
+    "economic pressures",
+    "educational initiatives",
+    "educational programs",
+    "educational resources",
+    "educational support",
+    "empower speakers",
+    "endangered languages",
+    "environmental factors",
+    "expression",
+    "forced migration",
+    "future generations",
+    "global challenges",
+    "globalization",
+    "grammars",
+    "heritage preservation",
+    "historical preservation",
+    "human creativity",
+    "identity",
+    "intergenerational transmission",
+    "language abandonment",
+    "language advocacy",
+    "language death",
+    "language decline",
+    "language documentation",
+    "language empowerment",
+    "language erosion",
+    "language extinction",
+    "language functionality",
+    "language initiatives",
+    "language learning",
+    "language loss",
+    "language marginalization",
+    "language preservation",
+    "language replacement",
+    "language resources",
+    "language revitalization",
+    "language survival",
+    "language sustainability",
+    "language teaching",
+    "linguistic diversity",
+    "linguistic heritage",
+    "linguistic support",
+    "local involvement",
+    "media representation",
+    "minority languages",
+    "multifaceted issue",
+    "natural disasters",
+    "preservation strategies",
+    "pressing concerns",
+    "promote languages",
+    "reclaim heritage",
+    "revitalization programs",
+    "self-esteem",
+    "social pressures",
+    "social structures",
+    "spiritual beliefs",
+    "support efforts",
+    "thriving languages",
+    "traditional knowledge",
+    "unique understanding",
+    "urbanization",
+    "well-being"
+  ],
+  "relations": [
+    [
+      "activism",
+      "addresses",
+      "traditional knowledge"
+    ],
+    [
+      "activism",
+      "advocates for",
+      "language preservation"
+    ],
+    [
+      "activism",
+      "benefits",
+      "future generations"
+    ],
+    [
+      "activism",
+      "empowers",
+      "empower speakers"
+    ],
+    [
+      "activism",
+      "enables",
+      "expression"
+    ],
+    [
+      "activism",
+      "enhances",
+      "support efforts"
+    ],
+    [
+      "activism",
+      "faces",
+      "global challenges"
+    ],
+    [
+      "activism",
+      "facilitates",
+      "language learning"
+    ],
+    [
+      "activism",
+      "informs",
+      "preservation strategies"
+    ],
+    [
+      "activism",
+      "involves",
+      "documenting languages"
+    ],
+    [
+      "activism",
+      "is mitigated by",
+      "language documentation"
+    ],
+    [
+      "activism",
+      "is utilized in",
+      "communication"
+    ],
+    [
+      "activism",
+      "preserves",
+      "cultural heritage"
+    ],
+    [
+      "activism",
+      "promotes",
+      "educational programs"
+    ],
+    [
+      "activism",
+      "promotes",
+      "language advocacy"
+    ],
+    [
+      "activism",
+      "promotes",
+      "thriving languages"
+    ],
+    [
+      "activism",
+      "provides",
+      "language resources"
+    ],
+    [
+      "activism",
+      "supplies",
+      "educational resources"
+    ],
+    [
+      "activism",
+      "supports",
+      "community support"
+    ],
+    [
+      "activism",
+      "supports",
+      "endangered languages"
+    ],
+    [
+      "activism",
+      "supports",
+      "language teaching"
+    ],
+    [
+      "capacity building",
+      "enables",
+      "language initiatives"
+    ],
+    [
+      "capacity building",
+      "enables",
+      "revitalization programs"
+    ],
+    [
+      "capacity building",
+      "enhances",
+      "ecological knowledge"
+    ],
+    [
+      "capacity building",
+      "enhances",
+      "educational programs"
+    ],
+    [
+      "capacity building",
+      "enhances",
+      "language advocacy"
+    ],
+    [
+      "capacity building",
+      "enhances",
+      "language teaching"
+    ],
+    [
+      "capacity building",
+      "informs",
+      "preservation strategies"
+    ],
+    [
+      "capacity building",
+      "supports",
+      "heritage preservation"
+    ],
+    [
+      "collaborative efforts",
+      "addresses",
+      "global challenges"
+    ],
+    [
+      "collaborative efforts",
+      "benefits",
+      "future generations"
+    ],
+    [
+      "collaborative efforts",
+      "contributes to",
+      "preservation strategies"
+    ],
+    [
+      "collaborative efforts",
+      "drives",
+      "language initiatives"
+    ],
+    [
+      "collaborative efforts",
+      "enhances",
+      "self-esteem"
+    ],
+    [
+      "collaborative efforts",
+      "facilitates",
+      "documenting languages"
+    ],
+    [
+      "collaborative efforts",
+      "facilitates",
+      "reclaim heritage"
+    ],
+    [
+      "collaborative efforts",
+      "influences",
+      "media representation"
+    ],
+    [
+      "collaborative efforts",
+      "involves",
+      "community members"
+    ],
+    [
+      "collaborative efforts",
+      "involves",
+      "cultural practices"
+    ],
+    [
+      "collaborative efforts",
+      "is strengthened by",
+      "minority languages"
+    ],
+    [
+      "collaborative efforts",
+      "preserves",
+      "cultural heritage"
+    ],
+    [
+      "collaborative efforts",
+      "promotes",
+      "revitalization programs"
+    ],
+    [
+      "collaborative efforts",
+      "provides",
+      "educational resources"
+    ],
+    [
+      "collaborative efforts",
+      "reinforces",
+      "cultural identity"
+    ],
+    [
+      "collaborative efforts",
+      "shapes",
+      "identity"
+    ],
+    [
+      "collaborative efforts",
+      "supports",
+      "language revitalization"
+    ],
+    [
+      "collaborative initiatives",
+      "addressed by",
+      "language marginalization"
+    ],
+    [
+      "collaborative initiatives",
+      "benefits from",
+      "well-being"
+    ],
+    [
+      "collaborative initiatives",
+      "contributes to",
+      "global challenges"
+    ],
+    [
+      "collaborative initiatives",
+      "facilitates",
+      "dictionaries"
+    ],
+    [
+      "collaborative initiatives",
+      "promotes",
+      "language learning"
+    ],
+    [
+      "collaborative initiatives",
+      "supports",
+      "heritage preservation"
+    ],
+    [
+      "communication",
+      "a type of",
+      "language resources"
+    ],
+    [
+      "communication",
+      "causes",
+      "language marginalization"
+    ],
+    [
+      "communication",
+      "enables",
+      "empower speakers"
+    ],
+    [
+      "communication",
+      "enables",
+      "grammars"
+    ],
+    [
+      "communication",
+      "enables",
+      "language functionality"
+    ],
+    [
+      "communication",
+      "encodes",
+      "ecological knowledge"
+    ],
+    [
+      "communication",
+      "enhances",
+      "capacity building"
+    ],
+    [
+      "communication",
+      "enhances",
+      "community resilience"
+    ],
+    [
+      "communication",
+      "enhances",
+      "cultural heritage"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "collaborative efforts"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "language initiatives"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "linguistic heritage"
+    ],
+    [
+      "communication",
+      "influences",
+      "cultural practices"
+    ],
+    [
+      "communication",
+      "involves",
+      "revitalization programs"
+    ],
+    [
+      "communication",
+      "is based on",
+      "activism"
+    ],
+    [
+      "communication",
+      "is essential for",
+      "heritage preservation"
+    ],
+    [
+      "communication",
+      "is expressed through",
+      "linguistic diversity"
+    ],
+    [
+      "communication",
+      "leads to",
+      "language erosion"
+    ],
+    [
+      "communication breakdown",
+      "experiences",
+      "community"
+    ],
+    [
+      "community",
+      "connected to",
+      "spiritual beliefs"
+    ],
+    [
+      "community",
+      "contributes to",
+      "historical preservation"
+    ],
+    [
+      "community",
+      "defines",
+      "identity"
+    ],
+    [
+      "community",
+      "enhances",
+      "collaborative efforts"
+    ],
+    [
+      "community",
+      "enhances",
+      "educational programs"
+    ],
+    [
+      "community",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "community",
+      "ensures",
+      "language survival"
+    ],
+    [
+      "community",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "community",
+      "facilitates",
+      "expression"
+    ],
+    [
+      "community",
+      "facilitates",
+      "language revitalization"
+    ],
+    [
+      "community",
+      "facilitates",
+      "preservation strategies"
+    ],
+    [
+      "community",
+      "facilitates",
+      "support efforts"
+    ],
+    [
+      "community",
+      "fosters",
+      "collaborative initiatives"
+    ],
+    [
+      "community",
+      "influences",
+      "intergenerational transmission"
+    ],
+    [
+      "community",
+      "informs",
+      "ecological knowledge"
+    ],
+    [
+      "community",
+      "initiates",
+      "language initiatives"
+    ],
+    [
+      "community",
+      "is involved in",
+      "language teaching"
+    ],
+    [
+      "community",
+      "is represented in",
+      "media representation"
+    ],
+    [
+      "community",
+      "maintains",
+      "linguistic heritage"
+    ],
+    [
+      "community",
+      "provides",
+      "educational resources"
+    ],
+    [
+      "community",
+      "provides",
+      "unique understanding"
+    ],
+    [
+      "community",
+      "shapes",
+      "cultural practices"
+    ],
+    [
+      "community",
+      "shapes",
+      "future generations"
+    ],
+    [
+      "community",
+      "supports",
+      "language learning"
+    ],
+    [
+      "community",
+      "supports",
+      "language sustainability"
+    ],
+    [
+      "community",
+      "supports",
+      "minority languages"
+    ],
+    [
+      "community displacement",
+      "results from",
+      "cultural assimilation"
+    ],
+    [
+      "community engagement",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "community engagement",
+      "creates",
+      "language resources"
+    ],
+    [
+      "community engagement",
+      "drives",
+      "cultural assimilation"
+    ],
+    [
+      "community engagement",
+      "drives",
+      "language initiatives"
+    ],
+    [
+      "community engagement",
+      "enables",
+      "empower speakers"
+    ],
+    [
+      "community engagement",
+      "enables",
+      "reclaim heritage"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "communication"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "cultural practices"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "ecological knowledge"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "expression"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "linguistic diversity"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "minority languages"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "support efforts"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "traditional knowledge"
+    ],
+    [
+      "community engagement",
+      "ensures",
+      "future generations"
+    ],
+    [
+      "community engagement",
+      "facilitates",
+      "documenting languages"
+    ],
+    [
+      "community engagement",
+      "facilitates",
+      "historical preservation"
+    ],
+    [
+      "community engagement",
+      "facilitates",
+      "language revitalization"
+    ],
+    [
+      "community engagement",
+      "fosters",
+      "human creativity"
+    ],
+    [
+      "community engagement",
+      "influences",
+      "spiritual beliefs"
+    ],
+    [
+      "community engagement",
+      "informs",
+      "preservation strategies"
+    ],
+    [
+      "community engagement",
+      "involves",
+      "local involvement"
+    ],
+    [
+      "community engagement",
+      "produces",
+      "dictionaries"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "grammars"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "language advocacy"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "language learning"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "language teaching"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "revitalization programs"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "well-being"
+    ],
+    [
+      "community engagement",
+      "shapes",
+      "social structures"
+    ],
+    [
+      "community engagement",
+      "supports",
+      "cultural heritage"
+    ],
+    [
+      "community engagement",
+      "supports",
+      "educational programs"
+    ],
+    [
+      "community engagement",
+      "supports",
+      "endangered languages"
+    ],
+    [
+      "community engagement",
+      "supports",
+      "linguistic heritage"
+    ],
+    [
+      "community fragmentation",
+      "influences",
+      "environmental factors"
+    ],
+    [
+      "community fragmentation",
+      "informs",
+      "language loss"
+    ],
+    [
+      "community fragmentation",
+      "results from",
+      "social pressures"
+    ],
+    [
+      "community members",
+      "associated with",
+      "minority languages"
+    ],
+    [
+      "community members",
+      "benefits from",
+      "historical preservation"
+    ],
+    [
+      "community members",
+      "benefits from",
+      "linguistic support"
+    ],
+    [
+      "community members",
+      "builds",
+      "community resilience"
+    ],
+    [
+      "community members",
+      "collaborates with",
+      "language resources"
+    ],
+    [
+      "community members",
+      "contributes to",
+      "expression"
+    ],
+    [
+      "community members",
+      "develops",
+      "preservation strategies"
+    ],
+    [
+      "community members",
+      "embodies",
+      "human creativity"
+    ],
+    [
+      "community members",
+      "encourages",
+      "local involvement"
+    ],
+    [
+      "community members",
+      "engages in",
+      "language advocacy"
+    ],
+    [
+      "community members",
+      "facilitates",
+      "educational programs"
+    ],
+    [
+      "community members",
+      "facilitates",
+      "language teaching"
+    ],
+    [
+      "community members",
+      "influences",
+      "communication"
+    ],
+    [
+      "community members",
+      "influences",
+      "social structures"
+    ],
+    [
+      "community members",
+      "initiates",
+      "educational initiatives"
+    ],
+    [
+      "community members",
+      "involves",
+      "ecological knowledge"
+    ],
+    [
+      "community members",
+      "is created by",
+      "grammars"
+    ],
+    [
+      "community members",
+      "is supported by",
+      "language erosion"
+    ],
+    [
+      "community members",
+      "receives",
+      "community support"
+    ],
+    [
+      "community members",
+      "shapes",
+      "identity"
+    ],
+    [
+      "community members",
+      "supported by",
+      "endangered languages"
+    ],
+    [
+      "community members",
+      "supported by",
+      "future generations"
+    ],
+    [
+      "community members",
+      "supported by",
+      "self-esteem"
+    ],
+    [
+      "community members",
+      "supported by",
+      "traditional knowledge"
+    ],
+    [
+      "community members",
+      "supports",
+      "thriving languages"
+    ],
+    [
+      "community resilience",
+      "challenges",
+      "community displacement"
+    ],
+    [
+      "community resilience",
+      "enhances",
+      "educational resources"
+    ],
+    [
+      "community resilience",
+      "facilitates",
+      "reclaim heritage"
+    ],
+    [
+      "community support",
+      "aids",
+      "heritage preservation"
+    ],
+    [
+      "community support",
+      "benefits from",
+      "communication"
+    ],
+    [
+      "community support",
+      "enables",
+      "language advocacy"
+    ],
+    [
+      "community support",
+      "enhances",
+      "educational programs"
+    ],
+    [
+      "community support",
+      "enhances",
+      "language teaching"
+    ],
+    [
+      "community support",
+      "facilitates",
+      "language revitalization"
+    ],
+    [
+      "community support",
+      "fosters",
+      "collaborative initiatives"
+    ],
+    [
+      "community support",
+      "guides",
+      "preservation strategies"
+    ],
+    [
+      "community support",
+      "promotes",
+      "capacity building"
+    ],
+    [
+      "community support",
+      "receives",
+      "linguistic diversity"
+    ],
+    [
+      "community support",
+      "requires",
+      "language extinction"
+    ],
+    [
+      "community support",
+      "supports",
+      "minority languages"
+    ],
+    [
+      "cultural assimilation",
+      "causes",
+      "community displacement"
+    ],
+    [
+      "cultural assimilation",
+      "contributes to",
+      "forced migration"
+    ],
+    [
+      "cultural assimilation",
+      "diminishes",
+      "cultural richness"
+    ],
+    [
+      "cultural assimilation",
+      "influences",
+      "local involvement"
+    ],
+    [
+      "cultural assimilation",
+      "influences",
+      "social structures"
+    ],
+    [
+      "cultural heritage",
+      "benefits",
+      "future generations"
+    ],
+    [
+      "cultural heritage",
+      "conveys",
+      "expression"
+    ],
+    [
+      "cultural heritage",
+      "embodies",
+      "community"
+    ],
+    [
+      "cultural heritage",
+      "enhances",
+      "capacity building"
+    ],
+    [
+      "cultural heritage",
+      "enhances",
+      "language learning"
+    ],
+    [
+      "cultural heritage",
+      "influences",
+      "social structures"
+    ],
+    [
+      "cultural heritage",
+      "informs",
+      "ecological knowledge"
+    ],
+    [
+      "cultural heritage",
+      "informs",
+      "language initiatives"
+    ],
+    [
+      "cultural heritage",
+      "informs",
+      "revitalization programs"
+    ],
+    [
+      "cultural heritage",
+      "involves",
+      "community members"
+    ],
+    [
+      "cultural heritage",
+      "is enriched by",
+      "community engagement"
+    ],
+    [
+      "cultural heritage",
+      "is essential for",
+      "historical preservation"
+    ],
+    [
+      "cultural heritage",
+      "is preserved by",
+      "identity"
+    ],
+    [
+      "cultural heritage",
+      "is preserved through",
+      "community support"
+    ],
+    [
+      "cultural heritage",
+      "preserves",
+      "cultural practices"
+    ],
+    [
+      "cultural heritage",
+      "preserves",
+      "grammars"
+    ],
+    [
+      "cultural heritage",
+      "preserves",
+      "language preservation"
+    ],
+    [
+      "cultural heritage",
+      "preserves",
+      "language resources"
+    ],
+    [
+      "cultural heritage",
+      "reflects",
+      "linguistic diversity"
+    ],
+    [
+      "cultural heritage",
+      "represents",
+      "dictionaries"
+    ],
+    [
+      "cultural heritage",
+      "supports",
+      "language revitalization"
+    ],
+    [
+      "cultural heritage",
+      "threatens",
+      "language extinction"
+    ],
+    [
+      "cultural identity",
+      "is influenced by",
+      "self-esteem"
+    ],
+    [
+      "cultural identity",
+      "is part of",
+      "linguistic diversity"
+    ],
+    [
+      "cultural identity",
+      "is shaped by",
+      "educational resources"
+    ],
+    [
+      "cultural identity",
+      "shapes",
+      "unique understanding"
+    ],
+    [
+      "cultural identity",
+      "threatens",
+      "language abandonment"
+    ],
+    [
+      "cultural practices",
+      "benefits",
+      "future generations"
+    ],
+    [
+      "cultural practices",
+      "enables",
+      "reclaim heritage"
+    ],
+    [
+      "cultural practices",
+      "encodes",
+      "ecological knowledge"
+    ],
+    [
+      "cultural practices",
+      "enhances",
+      "capacity building"
+    ],
+    [
+      "cultural practices",
+      "facilitates",
+      "language learning"
+    ],
+    [
+      "cultural practices",
+      "influences",
+      "grammars"
+    ],
+    [
+      "cultural practices",
+      "influences",
+      "social structures"
+    ],
+    [
+      "cultural practices",
+      "informs",
+      "educational programs"
+    ],
+    [
+      "cultural practices",
+      "informs",
+      "language teaching"
+    ],
+    [
+      "cultural practices",
+      "involves",
+      "community members"
+    ],
+    [
+      "cultural practices",
+      "is documented by",
+      "thriving languages"
+    ],
+    [
+      "cultural practices",
+      "reflects",
+      "human creativity"
+    ],
+    [
+      "cultural practices",
+      "strengthens",
+      "community resilience"
+    ],
+    [
+      "cultural practices",
+      "supported by",
+      "revitalization programs"
+    ],
+    [
+      "cultural practices",
+      "supports",
+      "language initiatives"
+    ],
+    [
+      "cultural practices",
+      "supports",
+      "language revitalization"
+    ],
+    [
+      "cultural richness",
+      "contributes to",
+      "heritage preservation"
+    ],
+    [
+      "cultural richness",
+      "contributes to",
+      "linguistic diversity"
+    ],
+    [
+      "cultural richness",
+      "drives",
+      "revitalization programs"
+    ],
+    [
+      "cultural richness",
+      "enables",
+      "communication"
+    ],
+    [
+      "cultural richness",
+      "enhances",
+      "community resilience"
+    ],
+    [
+      "cultural richness",
+      "enhances",
+      "cultural identity"
+    ],
+    [
+      "cultural richness",
+      "enhances",
+      "language learning"
+    ],
+    [
+      "cultural richness",
+      "enhances",
+      "self-esteem"
+    ],
+    [
+      "cultural richness",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "cultural richness",
+      "involves",
+      "community members"
+    ],
+    [
+      "cultural richness",
+      "is essential for",
+      "preservation strategies"
+    ],
+    [
+      "cultural richness",
+      "is represented by",
+      "media representation"
+    ],
+    [
+      "cultural richness",
+      "is supported by",
+      "linguistic support"
+    ],
+    [
+      "cultural richness",
+      "is supported by",
+      "local involvement"
+    ],
+    [
+      "cultural richness",
+      "nurtures",
+      "community"
+    ],
+    [
+      "cultural richness",
+      "presents",
+      "global challenges"
+    ],
+    [
+      "cultural richness",
+      "provides",
+      "unique understanding"
+    ],
+    [
+      "cultural richness",
+      "represents",
+      "cultural heritage"
+    ],
+    [
+      "cultural richness",
+      "shapes",
+      "identity"
+    ],
+    [
+      "cultural richness",
+      "supports",
+      "documenting languages"
+    ],
+    [
+      "cultural richness",
+      "supports",
+      "language revitalization"
+    ],
+    [
+      "cultural richness",
+      "supports",
+      "language survival"
+    ],
+    [
+      "cultural richness",
+      "supports",
+      "language sustainability"
+    ],
+    [
+      "cultural richness",
+      "supports",
+      "social structures"
+    ],
+    [
+      "dictionaries",
+      "a component of",
+      "revitalization programs"
+    ],
+    [
+      "dictionaries",
+      "a resource for",
+      "communication"
+    ],
+    [
+      "dictionaries",
+      "addresses",
+      "global challenges"
+    ],
+    [
+      "dictionaries",
+      "addresses",
+      "pressing concerns"
+    ],
+    [
+      "dictionaries",
+      "affects",
+      "self-esteem"
+    ],
+    [
+      "dictionaries",
+      "aids",
+      "language teaching"
+    ],
+    [
+      "dictionaries",
+      "aids in",
+      "preservation strategies"
+    ],
+    [
+      "dictionaries",
+      "create",
+      "community members"
+    ],
+    [
+      "dictionaries",
+      "documented in",
+      "language extinction"
+    ],
+    [
+      "dictionaries",
+      "encoded in",
+      "spiritual beliefs"
+    ],
+    [
+      "dictionaries",
+      "ensures",
+      "future generations"
+    ],
+    [
+      "dictionaries",
+      "facilitates",
+      "community support"
+    ],
+    [
+      "dictionaries",
+      "influences",
+      "social structures"
+    ],
+    [
+      "dictionaries",
+      "is a type of",
+      "grammars"
+    ],
+    [
+      "dictionaries",
+      "is a type of",
+      "language resources"
+    ],
+    [
+      "dictionaries",
+      "is created by",
+      "collaborative efforts"
+    ],
+    [
+      "dictionaries",
+      "is documented by",
+      "linguistic diversity"
+    ],
+    [
+      "dictionaries",
+      "is documented in",
+      "cultural richness"
+    ],
+    [
+      "dictionaries",
+      "is utilized for",
+      "language documentation"
+    ],
+    [
+      "dictionaries",
+      "provides",
+      "community"
+    ],
+    [
+      "dictionaries",
+      "reflects",
+      "cultural practices"
+    ],
+    [
+      "dictionaries",
+      "reflects",
+      "human creativity"
+    ],
+    [
+      "dictionaries",
+      "serves as",
+      "educational resources"
+    ],
+    [
+      "dictionaries",
+      "strengthens",
+      "community resilience"
+    ],
+    [
+      "dictionaries",
+      "supports",
+      "endangered languages"
+    ],
+    [
+      "dictionaries",
+      "supports",
+      "language advocacy"
+    ],
+    [
+      "dictionaries",
+      "supports",
+      "language marginalization"
+    ],
+    [
+      "dictionaries",
+      "supports",
+      "language revitalization"
+    ],
+    [
+      "documenting languages",
+      "addresses",
+      "global challenges"
+    ],
+    [
+      "documenting languages",
+      "affects",
+      "well-being"
+    ],
+    [
+      "documenting languages",
+      "documents",
+      "minority languages"
+    ],
+    [
+      "documenting languages",
+      "enables",
+      "reclaim heritage"
+    ],
+    [
+      "documenting languages",
+      "informs",
+      "language replacement"
+    ],
+    [
+      "documenting languages",
+      "is documented by",
+      "identity"
+    ],
+    [
+      "documenting languages",
+      "is documented by",
+      "language erosion"
+    ],
+    [
+      "documenting languages",
+      "is documented by",
+      "language extinction"
+    ],
+    [
+      "documenting languages",
+      "is documented by",
+      "spiritual beliefs"
+    ],
+    [
+      "documenting languages",
+      "is supported by",
+      "educational resources"
+    ],
+    [
+      "documenting languages",
+      "provides",
+      "unique understanding"
+    ],
+    [
+      "documenting languages",
+      "reflects",
+      "cultural identity"
+    ],
+    [
+      "documenting languages",
+      "strengthens",
+      "community resilience"
+    ],
+    [
+      "documenting languages",
+      "supports",
+      "educational initiatives"
+    ],
+    [
+      "documenting languages",
+      "supports",
+      "language learning"
+    ],
+    [
+      "documenting languages",
+      "supports",
+      "language teaching"
+    ],
+    [
+      "dominant languages",
+      "contributes to",
+      "language death"
+    ],
+    [
+      "dominant languages",
+      "is caused by",
+      "language extinction"
+    ],
+    [
+      "ecological knowledge",
+      "advocates for",
+      "language advocacy"
+    ],
+    [
+      "ecological knowledge",
+      "conveys",
+      "expression"
+    ],
+    [
+      "ecological knowledge",
+      "enhances",
+      "educational initiatives"
+    ],
+    [
+      "ecological knowledge",
+      "enhances",
+      "revitalization programs"
+    ],
+    [
+      "ecological knowledge",
+      "erodes",
+      "language replacement"
+    ],
+    [
+      "ecological knowledge",
+      "faces",
+      "global challenges"
+    ],
+    [
+      "ecological knowledge",
+      "influences",
+      "language extinction"
+    ],
+    [
+      "ecological knowledge",
+      "informs",
+      "dictionaries"
+    ],
+    [
+      "ecological knowledge",
+      "informs",
+      "future generations"
+    ],
+    [
+      "ecological knowledge",
+      "informs",
+      "language survival"
+    ],
+    [
+      "ecological knowledge",
+      "informs",
+      "social structures"
+    ],
+    [
+      "ecological knowledge",
+      "involves",
+      "multifaceted issue"
+    ],
+    [
+      "ecological knowledge",
+      "is crucial for",
+      "preservation strategies"
+    ],
+    [
+      "ecological knowledge",
+      "is vital for",
+      "heritage preservation"
+    ],
+    [
+      "ecological knowledge",
+      "preserves",
+      "historical preservation"
+    ],
+    [
+      "ecological knowledge",
+      "reflects",
+      "linguistic diversity"
+    ],
+    [
+      "ecological knowledge",
+      "shapes",
+      "cultural identity"
+    ],
+    [
+      "ecological knowledge",
+      "strengthens",
+      "community resilience"
+    ],
+    [
+      "ecological knowledge",
+      "supports",
+      "documenting languages"
+    ],
+    [
+      "ecological knowledge",
+      "threatens",
+      "language preservation"
+    ],
+    [
+      "economic pressures",
+      "contributes to",
+      "environmental factors"
+    ],
+    [
+      "economic pressures",
+      "drives",
+      "language decline"
+    ],
+    [
+      "educational initiatives",
+      "affects",
+      "cultural identity"
+    ],
+    [
+      "educational initiatives",
+      "facilitates",
+      "reclaim heritage"
+    ],
+    [
+      "educational initiatives",
+      "influences",
+      "expression"
+    ],
+    [
+      "educational initiatives",
+      "is enhanced by",
+      "identity"
+    ],
+    [
+      "educational initiatives",
+      "is promoted by",
+      "linguistic heritage"
+    ],
+    [
+      "educational initiatives",
+      "promotes",
+      "revitalization programs"
+    ],
+    [
+      "educational initiatives",
+      "strengthens",
+      "community resilience"
+    ],
+    [
+      "educational initiatives",
+      "supports",
+      "language learning"
+    ],
+    [
+      "educational programs",
+      "addresses",
+      "global challenges"
+    ],
+    [
+      "educational programs",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "educational programs",
+      "facilitates",
+      "collaborative initiatives"
+    ],
+    [
+      "educational programs",
+      "is supported by",
+      "communication"
+    ],
+    [
+      "educational programs",
+      "promotes",
+      "language learning"
+    ],
+    [
+      "educational programs",
+      "provides",
+      "unique understanding"
+    ],
+    [
+      "educational programs",
+      "reflects",
+      "human creativity"
+    ],
+    [
+      "educational programs",
+      "shapes",
+      "cultural identity"
+    ],
+    [
+      "educational programs",
+      "supports",
+      "grammars"
+    ],
+    [
+      "educational programs",
+      "supports",
+      "revitalization programs"
+    ],
+    [
+      "educational resources",
+      "aids",
+      "reclaim heritage"
+    ],
+    [
+      "educational resources",
+      "contributes to",
+      "educational initiatives"
+    ],
+    [
+      "educational resources",
+      "enhances",
+      "educational programs"
+    ],
+    [
+      "educational resources",
+      "facilitates",
+      "language learning"
+    ],
+    [
+      "educational resources",
+      "is a challenge for",
+      "language advocacy"
+    ],
+    [
+      "educational resources",
+      "provides",
+      "language marginalization"
+    ],
+    [
+      "educational resources",
+      "provides",
+      "spiritual beliefs"
+    ],
+    [
+      "educational resources",
+      "requires",
+      "language extinction"
+    ],
+    [
+      "educational support",
+      "empowers",
+      "empower speakers"
+    ],
+    [
+      "educational support",
+      "encourages",
+      "thriving languages"
+    ],
+    [
+      "educational support",
+      "enhances",
+      "collaborative efforts"
+    ],
+    [
+      "educational support",
+      "enhances",
+      "language advocacy"
+    ],
+    [
+      "educational support",
+      "enhances",
+      "linguistic heritage"
+    ],
+    [
+      "educational support",
+      "facilitates",
+      "language documentation"
+    ],
+    [
+      "educational support",
+      "improves",
+      "language functionality"
+    ],
+    [
+      "educational support",
+      "includes",
+      "dictionaries"
+    ],
+    [
+      "educational support",
+      "influences",
+      "social structures"
+    ],
+    [
+      "educational support",
+      "preserves",
+      "cultural heritage"
+    ],
+    [
+      "educational support",
+      "promotes",
+      "collaborative initiatives"
+    ],
+    [
+      "educational support",
+      "provides",
+      "linguistic support"
+    ],
+    [
+      "educational support",
+      "strengthens",
+      "community resilience"
+    ],
+    [
+      "educational support",
+      "supports",
+      "activism"
+    ],
+    [
+      "educational support",
+      "supports",
+      "capacity building"
+    ],
+    [
+      "educational support",
+      "supports",
+      "ecological knowledge"
+    ],
+    [
+      "educational support",
+      "supports",
+      "endangered languages"
+    ],
+    [
+      "educational support",
+      "supports",
+      "grammars"
+    ],
+    [
+      "educational support",
+      "supports",
+      "heritage preservation"
+    ],
+    [
+      "educational support",
+      "supports",
+      "historical preservation"
+    ],
+    [
+      "educational support",
+      "supports",
+      "language survival"
+    ],
+    [
+      "educational support",
+      "supports",
+      "language teaching"
+    ],
+    [
+      "educational support",
+      "supports",
+      "linguistic diversity"
+    ],
+    [
+      "educational support",
+      "supports",
+      "preservation strategies"
+    ],
+    [
+      "empower speakers",
+      "aids",
+      "grammars"
+    ],
+    [
+      "empower speakers",
+      "empowers",
+      "community"
+    ],
+    [
+      "empower speakers",
+      "enables",
+      "collaborative initiatives"
+    ],
+    [
+      "empower speakers",
+      "enables",
+      "expression"
+    ],
+    [
+      "empower speakers",
+      "enables",
+      "thriving languages"
+    ],
+    [
+      "empower speakers",
+      "enhances",
+      "human creativity"
+    ],
+    [
+      "empower speakers",
+      "enhances",
+      "language functionality"
+    ],
+    [
+      "empower speakers",
+      "enhances",
+      "linguistic diversity"
+    ],
+    [
+      "empower speakers",
+      "enhances",
+      "self-esteem"
+    ],
+    [
+      "empower speakers",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "empower speakers",
+      "ensures",
+      "future generations"
+    ],
+    [
+      "empower speakers",
+      "ensures",
+      "language survival"
+    ],
+    [
+      "empower speakers",
+      "facilitated by",
+      "revitalization programs"
+    ],
+    [
+      "empower speakers",
+      "fosters",
+      "unique understanding"
+    ],
+    [
+      "empower speakers",
+      "influences",
+      "cultural practices"
+    ],
+    [
+      "empower speakers",
+      "influences",
+      "social structures"
+    ],
+    [
+      "empower speakers",
+      "preserves",
+      "cultural heritage"
+    ],
+    [
+      "empower speakers",
+      "preserves",
+      "historical preservation"
+    ],
+    [
+      "empower speakers",
+      "promotes",
+      "language initiatives"
+    ],
+    [
+      "empower speakers",
+      "promotes",
+      "minority languages"
+    ],
+    [
+      "empower speakers",
+      "provides",
+      "dictionaries"
+    ],
+    [
+      "empower speakers",
+      "provides",
+      "linguistic support"
+    ],
+    [
+      "empower speakers",
+      "shapes",
+      "cultural identity"
+    ],
+    [
+      "empower speakers",
+      "shapes",
+      "identity"
+    ],
+    [
+      "empower speakers",
+      "strengthens",
+      "community resilience"
+    ],
+    [
+      "empower speakers",
+      "supports",
+      "educational initiatives"
+    ],
+    [
+      "empower speakers",
+      "supports",
+      "endangered languages"
+    ],
+    [
+      "empower speakers",
+      "supports",
+      "language teaching"
+    ],
+    [
+      "endangered languages",
+      "benefits",
+      "future generations"
+    ],
+    [
+      "endangered languages",
+      "benefits from",
+      "language revitalization"
+    ],
+    [
+      "endangered languages",
+      "enables",
+      "reclaim heritage"
+    ],
+    [
+      "endangered languages",
+      "encodes",
+      "ecological knowledge"
+    ],
+    [
+      "endangered languages",
+      "encourages",
+      "collaborative initiatives"
+    ],
+    [
+      "endangered languages",
+      "encourages",
+      "support efforts"
+    ],
+    [
+      "endangered languages",
+      "enhances",
+      "community resilience"
+    ],
+    [
+      "endangered languages",
+      "involves",
+      "cultural practices"
+    ],
+    [
+      "endangered languages",
+      "is taught through",
+      "language teaching"
+    ],
+    [
+      "endangered languages",
+      "preserves",
+      "cultural heritage"
+    ],
+    [
+      "endangered languages",
+      "promotes",
+      "language learning"
+    ],
+    [
+      "endangered languages",
+      "promotes",
+      "revitalization programs"
+    ],
+    [
+      "endangered languages",
+      "provides",
+      "expression"
+    ],
+    [
+      "endangered languages",
+      "requires",
+      "educational initiatives"
+    ],
+    [
+      "endangered languages",
+      "supports",
+      "linguistic diversity"
+    ],
+    [
+      "endangered languages",
+      "supports",
+      "thriving languages"
+    ],
+    [
+      "endangered languages",
+      "threatened by",
+      "community"
+    ],
+    [
+      "environmental factors",
+      "affects",
+      "intergenerational transmission"
+    ],
+    [
+      "environmental factors",
+      "can lead to",
+      "natural disasters"
+    ],
+    [
+      "environmental factors",
+      "causes",
+      "communication breakdown"
+    ],
+    [
+      "environmental factors",
+      "contributes to",
+      "language death"
+    ],
+    [
+      "environmental factors",
+      "is driven by",
+      "globalization"
+    ],
+    [
+      "expression",
+      "enables",
+      "traditional knowledge"
+    ],
+    [
+      "expression",
+      "expressed through",
+      "self-esteem"
+    ],
+    [
+      "expression",
+      "expresses",
+      "social structures"
+    ],
+    [
+      "expression",
+      "facilitates",
+      "language learning"
+    ],
+    [
+      "expression",
+      "is a form of",
+      "communication"
+    ],
+    [
+      "expression",
+      "is expressed by",
+      "support efforts"
+    ],
+    [
+      "expression",
+      "is expressed through",
+      "cultural practices"
+    ],
+    [
+      "expression",
+      "is expressed through",
+      "grammars"
+    ],
+    [
+      "expression",
+      "is expressed through",
+      "spiritual beliefs"
+    ],
+    [
+      "expression",
+      "limits",
+      "language abandonment"
+    ],
+    [
+      "expression",
+      "limits",
+      "language erosion"
+    ],
+    [
+      "expression",
+      "limits",
+      "language extinction"
+    ],
+    [
+      "expression",
+      "limits",
+      "language marginalization"
+    ],
+    [
+      "expression",
+      "limits",
+      "language replacement"
+    ],
+    [
+      "expression",
+      "used for",
+      "dictionaries"
+    ],
+    [
+      "forced migration",
+      "exacerbates",
+      "economic pressures"
+    ],
+    [
+      "future generations",
+      "benefits",
+      "cultural richness"
+    ],
+    [
+      "future generations",
+      "benefits from",
+      "documenting languages"
+    ],
+    [
+      "future generations",
+      "benefits from",
+      "educational programs"
+    ],
+    [
+      "future generations",
+      "benefits from",
+      "language revitalization"
+    ],
+    [
+      "future generations",
+      "benefits from",
+      "revitalization programs"
+    ],
+    [
+      "future generations",
+      "concerns",
+      "pressing concerns"
+    ],
+    [
+      "future generations",
+      "enables",
+      "capacity building"
+    ],
+    [
+      "future generations",
+      "ensures",
+      "preservation strategies"
+    ],
+    [
+      "future generations",
+      "ensures",
+      "thriving languages"
+    ],
+    [
+      "future generations",
+      "influenced by",
+      "identity"
+    ],
+    [
+      "future generations",
+      "preserved by",
+      "linguistic heritage"
+    ],
+    [
+      "future generations",
+      "provides",
+      "educational resources"
+    ],
+    [
+      "future generations",
+      "provides",
+      "expression"
+    ],
+    [
+      "future generations",
+      "reclaim",
+      "reclaim heritage"
+    ],
+    [
+      "future generations",
+      "shapes",
+      "cultural identity"
+    ],
+    [
+      "future generations",
+      "strengthens",
+      "community resilience"
+    ],
+    [
+      "future generations",
+      "strengthens",
+      "language advocacy"
+    ],
+    [
+      "future generations",
+      "supports",
+      "community support"
+    ],
+    [
+      "future generations",
+      "transmitted to",
+      "traditional knowledge"
+    ],
+    [
+      "global challenges",
+      "challenges",
+      "language empowerment"
+    ],
+    [
+      "global challenges",
+      "contributes to",
+      "language erosion"
+    ],
+    [
+      "global challenges",
+      "is impacted by",
+      "linguistic heritage"
+    ],
+    [
+      "globalization",
+      "drives",
+      "economic pressures"
+    ],
+    [
+      "globalization",
+      "impacts",
+      "intergenerational transmission"
+    ],
+    [
+      "globalization",
+      "leads to",
+      "communication breakdown"
+    ],
+    [
+      "grammars",
+      "aids",
+      "community support"
+    ],
+    [
+      "grammars",
+      "aids in",
+      "language preservation"
+    ],
+    [
+      "grammars",
+      "composed of",
+      "language resources"
+    ],
+    [
+      "grammars",
+      "contributes to",
+      "revitalization programs"
+    ],
+    [
+      "grammars",
+      "contributes to",
+      "thriving languages"
+    ],
+    [
+      "grammars",
+      "is dependent on",
+      "educational support"
+    ],
+    [
+      "grammars",
+      "is essential for",
+      "future generations"
+    ],
+    [
+      "grammars",
+      "supports",
+      "capacity building"
+    ],
+    [
+      "grammars",
+      "supports",
+      "collaborative initiatives"
+    ],
+    [
+      "grammars",
+      "supports",
+      "endangered languages"
+    ],
+    [
+      "grammars",
+      "supports",
+      "promote languages"
+    ],
+    [
+      "grammars",
+      "used in",
+      "community"
+    ],
+    [
+      "heritage preservation",
+      "enhances",
+      "language learning"
+    ],
+    [
+      "heritage preservation",
+      "ensures",
+      "thriving languages"
+    ],
+    [
+      "heritage preservation",
+      "impedes",
+      "language abandonment"
+    ],
+    [
+      "heritage preservation",
+      "is achieved through",
+      "documenting languages"
+    ],
+    [
+      "heritage preservation",
+      "is influenced by",
+      "social structures"
+    ],
+    [
+      "heritage preservation",
+      "is preserved by",
+      "cultural heritage"
+    ],
+    [
+      "heritage preservation",
+      "protects",
+      "language marginalization"
+    ],
+    [
+      "heritage preservation",
+      "provides",
+      "unique understanding"
+    ],
+    [
+      "heritage preservation",
+      "requires",
+      "support efforts"
+    ],
+    [
+      "heritage preservation",
+      "supports",
+      "reclaim heritage"
+    ],
+    [
+      "heritage preservation",
+      "supports",
+      "revitalization programs"
+    ],
+    [
+      "historical preservation",
+      "benefits",
+      "future generations"
+    ],
+    [
+      "historical preservation",
+      "enables",
+      "documenting languages"
+    ],
+    [
+      "historical preservation",
+      "enhances",
+      "language learning"
+    ],
+    [
+      "historical preservation",
+      "facilitates",
+      "language revitalization"
+    ],
+    [
+      "historical preservation",
+      "facilitates",
+      "reclaim heritage"
+    ],
+    [
+      "historical preservation",
+      "highlights",
+      "pressing concerns"
+    ],
+    [
+      "historical preservation",
+      "informs",
+      "preservation strategies"
+    ],
+    [
+      "historical preservation",
+      "is linked to",
+      "language extinction"
+    ],
+    [
+      "historical preservation",
+      "is preserved by",
+      "spiritual beliefs"
+    ],
+    [
+      "historical preservation",
+      "presents",
+      "global challenges"
+    ],
+    [
+      "historical preservation",
+      "preserves",
+      "language marginalization"
+    ],
+    [
+      "historical preservation",
+      "promotes",
+      "language advocacy"
+    ],
+    [
+      "historical preservation",
+      "protects",
+      "minority languages"
+    ],
+    [
+      "historical preservation",
+      "requires",
+      "collaborative efforts"
+    ],
+    [
+      "historical preservation",
+      "requires",
+      "collaborative initiatives"
+    ],
+    [
+      "historical preservation",
+      "shapes",
+      "cultural identity"
+    ],
+    [
+      "historical preservation",
+      "supports",
+      "language resources"
+    ],
+    [
+      "human creativity",
+      "demonstrates",
+      "linguistic diversity"
+    ],
+    [
+      "human creativity",
+      "derived from",
+      "expression"
+    ],
+    [
+      "human creativity",
+      "drives",
+      "collaborative initiatives"
+    ],
+    [
+      "human creativity",
+      "enables",
+      "communication"
+    ],
+    [
+      "human creativity",
+      "enhances",
+      "educational support"
+    ],
+    [
+      "human creativity",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "human creativity",
+      "inspired by",
+      "cultural heritage"
+    ],
+    [
+      "human creativity",
+      "inspired by",
+      "ecological knowledge"
+    ],
+    [
+      "human creativity",
+      "inspired by",
+      "endangered languages"
+    ],
+    [
+      "human creativity",
+      "inspired by",
+      "future generations"
+    ],
+    [
+      "human creativity",
+      "inspired by",
+      "identity"
+    ],
+    [
+      "human creativity",
+      "inspired by",
+      "language extinction"
+    ],
+    [
+      "human creativity",
+      "inspired by",
+      "language resources"
+    ],
+    [
+      "human creativity",
+      "is a reflection of",
+      "heritage preservation"
+    ],
+    [
+      "human creativity",
+      "is expressed through",
+      "language documentation"
+    ],
+    [
+      "human creativity",
+      "is expressed through",
+      "language teaching"
+    ],
+    [
+      "human creativity",
+      "is expressed through",
+      "minority languages"
+    ],
+    [
+      "human creativity",
+      "is inspired by",
+      "community"
+    ],
+    [
+      "human creativity",
+      "promotes",
+      "language advocacy"
+    ],
+    [
+      "human creativity",
+      "provides",
+      "unique understanding"
+    ],
+    [
+      "human creativity",
+      "reflects",
+      "cultural identity"
+    ],
+    [
+      "human creativity",
+      "reflects",
+      "grammars"
+    ],
+    [
+      "human creativity",
+      "reflects",
+      "language functionality"
+    ],
+    [
+      "human creativity",
+      "reflects",
+      "multifaceted issue"
+    ],
+    [
+      "human creativity",
+      "reflects",
+      "self-esteem"
+    ],
+    [
+      "identity",
+      "affects",
+      "language extinction"
+    ],
+    [
+      "identity",
+      "affects",
+      "self-esteem"
+    ],
+    [
+      "identity",
+      "enables",
+      "reclaim heritage"
+    ],
+    [
+      "identity",
+      "enhances",
+      "community resilience"
+    ],
+    [
+      "identity",
+      "expressed through",
+      "expression"
+    ],
+    [
+      "identity",
+      "influences",
+      "cultural practices"
+    ],
+    [
+      "identity",
+      "is represented by",
+      "endangered languages"
+    ],
+    [
+      "identity",
+      "reflects",
+      "social structures"
+    ],
+    [
+      "identity",
+      "shapes",
+      "communication"
+    ],
+    [
+      "identity",
+      "shapes",
+      "dictionaries"
+    ],
+    [
+      "identity",
+      "shapes",
+      "grammars"
+    ],
+    [
+      "identity",
+      "shapes",
+      "language teaching"
+    ],
+    [
+      "identity",
+      "shapes",
+      "linguistic heritage"
+    ],
+    [
+      "identity",
+      "shapes",
+      "spiritual beliefs"
+    ],
+    [
+      "identity",
+      "shapes",
+      "unique understanding"
+    ],
+    [
+      "identity",
+      "supports",
+      "support efforts"
+    ],
+    [
+      "intergenerational transmission",
+      "impacts",
+      "language erosion"
+    ],
+    [
+      "intergenerational transmission",
+      "is affected by",
+      "language decline"
+    ],
+    [
+      "language abandonment",
+      "affects",
+      "well-being"
+    ],
+    [
+      "language abandonment",
+      "impedes",
+      "intergenerational transmission"
+    ],
+    [
+      "language abandonment",
+      "leads to",
+      "communication"
+    ],
+    [
+      "language abandonment",
+      "results in",
+      "activism"
+    ],
+    [
+      "language abandonment",
+      "results in",
+      "future generations"
+    ],
+    [
+      "language abandonment",
+      "results in",
+      "grammars"
+    ],
+    [
+      "language abandonment",
+      "results in",
+      "language preservation"
+    ],
+    [
+      "language abandonment",
+      "results in",
+      "language survival"
+    ],
+    [
+      "language advocacy",
+      "encourages",
+      "language learning"
+    ],
+    [
+      "language advocacy",
+      "is a consequence of",
+      "educational resources"
+    ],
+    [
+      "language advocacy",
+      "is bolstered by",
+      "future generations"
+    ],
+    [
+      "language advocacy",
+      "is enhanced by",
+      "reclaim heritage"
+    ],
+    [
+      "language advocacy",
+      "provides",
+      "unique understanding"
+    ],
+    [
+      "language advocacy",
+      "supports",
+      "collaborative initiatives"
+    ],
+    [
+      "language death",
+      "accelerated by",
+      "globalization"
+    ],
+    [
+      "language death",
+      "contributes to",
+      "natural disasters"
+    ],
+    [
+      "language death",
+      "impacts",
+      "intergenerational transmission"
+    ],
+    [
+      "language decline",
+      "results in",
+      "language death"
+    ],
+    [
+      "language documentation",
+      "contributes to",
+      "historical preservation"
+    ],
+    [
+      "language documentation",
+      "enables",
+      "collaborative initiatives"
+    ],
+    [
+      "language documentation",
+      "enables",
+      "thriving languages"
+    ],
+    [
+      "language documentation",
+      "enhances",
+      "community engagement"
+    ],
+    [
+      "language documentation",
+      "informs",
+      "spiritual beliefs"
+    ],
+    [
+      "language documentation",
+      "is countered by",
+      "activism"
+    ],
+    [
+      "language documentation",
+      "is enhanced by",
+      "human creativity"
+    ],
+    [
+      "language documentation",
+      "is part of",
+      "language teaching"
+    ],
+    [
+      "language documentation",
+      "is promoted by",
+      "promote languages"
+    ],
+    [
+      "language documentation",
+      "supports",
+      "community resilience"
+    ],
+    [
+      "language documentation",
+      "supports",
+      "educational initiatives"
+    ],
+    [
+      "language documentation",
+      "supports",
+      "educational programs"
+    ],
+    [
+      "language documentation",
+      "supports",
+      "endangered languages"
+    ],
+    [
+      "language documentation",
+      "supports",
+      "language sustainability"
+    ],
+    [
+      "language documentation",
+      "supports",
+      "media representation"
+    ],
+    [
+      "language documentation",
+      "supports",
+      "revitalization programs"
+    ],
+    [
+      "language documentation",
+      "threatens",
+      "language empowerment"
+    ],
+    [
+      "language empowerment",
+      "advances",
+      "language initiatives"
+    ],
+    [
+      "language empowerment",
+      "advocates for",
+      "promote languages"
+    ],
+    [
+      "language empowerment",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "language empowerment",
+      "contributes to",
+      "language sustainability"
+    ],
+    [
+      "language empowerment",
+      "drives",
+      "activism"
+    ],
+    [
+      "language empowerment",
+      "enables",
+      "reclaim heritage"
+    ],
+    [
+      "language empowerment",
+      "enhances",
+      "cultural richness"
+    ],
+    [
+      "language empowerment",
+      "enhances",
+      "ecological knowledge"
+    ],
+    [
+      "language empowerment",
+      "enhances",
+      "language functionality"
+    ],
+    [
+      "language empowerment",
+      "enhances",
+      "media representation"
+    ],
+    [
+      "language empowerment",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "language empowerment",
+      "facilitates",
+      "language learning"
+    ],
+    [
+      "language empowerment",
+      "facilitates",
+      "language survival"
+    ],
+    [
+      "language empowerment",
+      "fosters",
+      "collaborative efforts"
+    ],
+    [
+      "language empowerment",
+      "includes",
+      "grammars"
+    ],
+    [
+      "language empowerment",
+      "includes",
+      "revitalization programs"
+    ],
+    [
+      "language empowerment",
+      "influences",
+      "cultural practices"
+    ],
+    [
+      "language empowerment",
+      "influences",
+      "social structures"
+    ],
+    [
+      "language empowerment",
+      "is facilitated by",
+      "language revitalization"
+    ],
+    [
+      "language empowerment",
+      "is influenced by",
+      "pressing concerns"
+    ],
+    [
+      "language empowerment",
+      "preserves",
+      "cultural heritage"
+    ],
+    [
+      "language empowerment",
+      "promotes",
+      "linguistic diversity"
+    ],
+    [
+      "language empowerment",
+      "provides",
+      "educational support"
+    ],
+    [
+      "language empowerment",
+      "provides",
+      "unique understanding"
+    ],
+    [
+      "language empowerment",
+      "reflects",
+      "human creativity"
+    ],
+    [
+      "language empowerment",
+      "strengthens",
+      "community resilience"
+    ],
+    [
+      "language empowerment",
+      "supports",
+      "historical preservation"
+    ],
+    [
+      "language erosion",
+      "contributes to",
+      "dictionaries"
+    ],
+    [
+      "language erosion",
+      "contributes to",
+      "educational support"
+    ],
+    [
+      "language erosion",
+      "contributes to",
+      "language empowerment"
+    ],
+    [
+      "language erosion",
+      "enhances",
+      "community members"
+    ],
+    [
+      "language erosion",
+      "impacts",
+      "educational programs"
+    ],
+    [
+      "language erosion",
+      "is affected by",
+      "communication"
+    ],
+    [
+      "language erosion",
+      "promotes",
+      "collaborative initiatives"
+    ],
+    [
+      "language erosion",
+      "results in",
+      "collaborative efforts"
+    ],
+    [
+      "language extinction",
+      "affects",
+      "future generations"
+    ],
+    [
+      "language extinction",
+      "affects",
+      "traditional knowledge"
+    ],
+    [
+      "language extinction",
+      "enables",
+      "empower speakers"
+    ],
+    [
+      "language extinction",
+      "is addressed by",
+      "language initiatives"
+    ],
+    [
+      "language extinction",
+      "is affected by",
+      "grammars"
+    ],
+    [
+      "language extinction",
+      "is influenced by",
+      "cultural practices"
+    ],
+    [
+      "language extinction",
+      "is supported by",
+      "language marginalization"
+    ],
+    [
+      "language extinction",
+      "promotes",
+      "language advocacy"
+    ],
+    [
+      "language extinction",
+      "requires",
+      "collaborative efforts"
+    ],
+    [
+      "language extinction",
+      "requires",
+      "language resources"
+    ],
+    [
+      "language extinction",
+      "results in",
+      "communication breakdown"
+    ],
+    [
+      "language extinction",
+      "results in",
+      "language erosion"
+    ],
+    [
+      "language extinction",
+      "supports",
+      "language revitalization"
+    ],
+    [
+      "language extinction",
+      "threatens",
+      "endangered languages"
+    ],
+    [
+      "language functionality",
+      "enables",
+      "language preservation"
+    ],
+    [
+      "language functionality",
+      "enables",
+      "linguistic support"
+    ],
+    [
+      "language functionality",
+      "enables",
+      "thriving languages"
+    ],
+    [
+      "language functionality",
+      "enables",
+      "traditional knowledge"
+    ],
+    [
+      "language functionality",
+      "ensures",
+      "heritage preservation"
+    ],
+    [
+      "language functionality",
+      "is facilitated by",
+      "language empowerment"
+    ],
+    [
+      "language functionality",
+      "is impacted by",
+      "linguistic heritage"
+    ],
+    [
+      "language functionality",
+      "is supported by",
+      "revitalization programs"
+    ],
+    [
+      "language initiatives",
+      "addresses",
+      "language marginalization"
+    ],
+    [
+      "language initiatives",
+      "benefits from",
+      "future generations"
+    ],
+    [
+      "language initiatives",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "language initiatives",
+      "enhances",
+      "language functionality"
+    ],
+    [
+      "language initiatives",
+      "enhances",
+      "support efforts"
+    ],
+    [
+      "language initiatives",
+      "is a type of",
+      "educational initiatives"
+    ],
+    [
+      "language initiatives",
+      "is initiated by",
+      "language abandonment"
+    ],
+    [
+      "language initiatives",
+      "nurtures",
+      "human creativity"
+    ],
+    [
+      "language initiatives",
+      "supports",
+      "thriving languages"
+    ],
+    [
+      "language learning",
+      "depends on",
+      "language survival"
+    ],
+    [
+      "language learning",
+      "facilitates",
+      "language documentation"
+    ],
+    [
+      "language learning",
+      "facilitates",
+      "unique understanding"
+    ],
+    [
+      "language learning",
+      "influences",
+      "identity"
+    ],
+    [
+      "language learning",
+      "informs",
+      "ecological knowledge"
+    ],
+    [
+      "language learning",
+      "is facilitated by",
+      "dictionaries"
+    ],
+    [
+      "language learning",
+      "is supported by",
+      "revitalization programs"
+    ],
+    [
+      "language learning",
+      "results in",
+      "language abandonment"
+    ],
+    [
+      "language loss",
+      "is enriched by",
+      "community fragmentation"
+    ],
+    [
+      "language loss",
+      "results in",
+      "language decline"
+    ],
+    [
+      "language loss",
+      "results in",
+      "social structures"
+    ],
+    [
+      "language marginalization",
+      "affects",
+      "identity"
+    ],
+    [
+      "language marginalization",
+      "contributes to",
+      "linguistic diversity"
+    ],
+    [
+      "language marginalization",
+      "engages",
+      "community members"
+    ],
+    [
+      "language marginalization",
+      "impacts",
+      "self-esteem"
+    ],
+    [
+      "language marginalization",
+      "impedes",
+      "language learning"
+    ],
+    [
+      "language marginalization",
+      "influences",
+      "cultural practices"
+    ],
+    [
+      "language marginalization",
+      "is a consequence of",
+      "empower speakers"
+    ],
+    [
+      "language marginalization",
+      "is addressed by",
+      "educational programs"
+    ],
+    [
+      "language marginalization",
+      "is affected by",
+      "language survival"
+    ],
+    [
+      "language marginalization",
+      "is caused by",
+      "linguistic support"
+    ],
+    [
+      "language marginalization",
+      "is informed by",
+      "language extinction"
+    ],
+    [
+      "language marginalization",
+      "marginalizes",
+      "language resources"
+    ],
+    [
+      "language marginalization",
+      "promotes",
+      "educational initiatives"
+    ],
+    [
+      "language marginalization",
+      "results in",
+      "community engagement"
+    ],
+    [
+      "language marginalization",
+      "results in",
+      "language erosion"
+    ],
+    [
+      "language marginalization",
+      "results in",
+      "unique understanding"
+    ],
+    [
+      "language marginalization",
+      "threatens",
+      "endangered languages"
+    ],
+    [
+      "language preservation",
+      "counteracts",
+      "language erosion"
+    ],
+    [
+      "language preservation",
+      "encodes",
+      "traditional knowledge"
+    ],
+    [
+      "language preservation",
+      "enhanced by",
+      "communication"
+    ],
+    [
+      "language preservation",
+      "ensures",
+      "language sustainability"
+    ],
+    [
+      "language preservation",
+      "influences",
+      "media representation"
+    ],
+    [
+      "language preservation",
+      "is countered by",
+      "language extinction"
+    ],
+    [
+      "language preservation",
+      "is driven by",
+      "collaborative initiatives"
+    ],
+    [
+      "language preservation",
+      "is essential for",
+      "revitalization programs"
+    ],
+    [
+      "language preservation",
+      "is expressed through",
+      "expression"
+    ],
+    [
+      "language preservation",
+      "provides",
+      "linguistic support"
+    ],
+    [
+      "language preservation",
+      "reflects",
+      "human creativity"
+    ],
+    [
+      "language preservation",
+      "requires",
+      "collaborative efforts"
+    ],
+    [
+      "language preservation",
+      "shapes",
+      "cultural identity"
+    ],
+    [
+      "language preservation",
+      "shapes",
+      "identity"
+    ],
+    [
+      "language preservation",
+      "strengthens",
+      "community resilience"
+    ],
+    [
+      "language preservation",
+      "supports",
+      "language resources"
+    ],
+    [
+      "language replacement",
+      "advocates for",
+      "language advocacy"
+    ],
+    [
+      "language replacement",
+      "affects",
+      "self-esteem"
+    ],
+    [
+      "language replacement",
+      "influences",
+      "educational resources"
+    ],
+    [
+      "language replacement",
+      "is a result of",
+      "historical preservation"
+    ],
+    [
+      "language replacement",
+      "is affected by",
+      "communication"
+    ],
+    [
+      "language replacement",
+      "is replaced by",
+      "grammars"
+    ],
+    [
+      "language replacement",
+      "is replaced by",
+      "language sustainability"
+    ],
+    [
+      "language replacement",
+      "leads to",
+      "local involvement"
+    ],
+    [
+      "language replacement",
+      "replaces",
+      "dictionaries"
+    ],
+    [
+      "language replacement",
+      "replaces",
+      "language preservation"
+    ],
+    [
+      "language replacement",
+      "replaces",
+      "language resources"
+    ],
+    [
+      "language replacement",
+      "replaces",
+      "promote languages"
+    ],
+    [
+      "language replacement",
+      "results in",
+      "collaborative efforts"
+    ],
+    [
+      "language replacement",
+      "results in",
+      "community engagement"
+    ],
+    [
+      "language replacement",
+      "results in",
+      "linguistic diversity"
+    ],
+    [
+      "language replacement",
+      "results in",
+      "linguistic support"
+    ],
+    [
+      "language replacement",
+      "supports",
+      "educational programs"
+    ],
+    [
+      "language resources",
+      "affects",
+      "self-esteem"
+    ],
+    [
+      "language resources",
+      "aids in",
+      "documenting languages"
+    ],
+    [
+      "language resources",
+      "enhances",
+      "capacity building"
+    ],
+    [
+      "language resources",
+      "facilitates",
+      "expression"
+    ],
+    [
+      "language resources",
+      "facilitates",
+      "language learning"
+    ],
+    [
+      "language resources",
+      "facilitates",
+      "language revitalization"
+    ],
+    [
+      "language resources",
+      "facilitates",
+      "revitalization programs"
+    ],
+    [
+      "language resources",
+      "influences",
+      "media representation"
+    ],
+    [
+      "language resources",
+      "is informed by",
+      "cultural practices"
+    ],
+    [
+      "language resources",
+      "is vital for",
+      "future generations"
+    ],
+    [
+      "language resources",
+      "preserves",
+      "traditional knowledge"
+    ],
+    [
+      "language resources",
+      "provides",
+      "community"
+    ],
+    [
+      "language resources",
+      "provides",
+      "community support"
+    ],
+    [
+      "language resources",
+      "provides",
+      "empower speakers"
+    ],
+    [
+      "language resources",
+      "provides",
+      "unique understanding"
+    ],
+    [
+      "language resources",
+      "shapes",
+      "identity"
+    ],
+    [
+      "language resources",
+      "strengthens",
+      "community resilience"
+    ],
+    [
+      "language resources",
+      "supports",
+      "ecological knowledge"
+    ],
+    [
+      "language resources",
+      "supports",
+      "endangered languages"
+    ],
+    [
+      "language resources",
+      "supports",
+      "heritage preservation"
+    ],
+    [
+      "language resources",
+      "supports",
+      "language initiatives"
+    ],
+    [
+      "language resources",
+      "supports",
+      "linguistic heritage"
+    ],
+    [
+      "language resources",
+      "supports",
+      "support efforts"
+    ],
+    [
+      "language resources",
+      "supports",
+      "thriving languages"
+    ],
+    [
+      "language revitalization",
+      "advocates for",
+      "language advocacy"
+    ],
+    [
+      "language revitalization",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "language revitalization",
+      "drives",
+      "collaborative initiatives"
+    ],
+    [
+      "language revitalization",
+      "enables",
+      "reclaim heritage"
+    ],
+    [
+      "language revitalization",
+      "enhances",
+      "ecological knowledge"
+    ],
+    [
+      "language revitalization",
+      "enhances",
+      "unique understanding"
+    ],
+    [
+      "language revitalization",
+      "facilitates",
+      "documenting languages"
+    ],
+    [
+      "language revitalization",
+      "facilitates",
+      "expression"
+    ],
+    [
+      "language revitalization",
+      "facilitates",
+      "language learning"
+    ],
+    [
+      "language revitalization",
+      "fosters",
+      "community resilience"
+    ],
+    [
+      "language revitalization",
+      "fosters",
+      "human creativity"
+    ],
+    [
+      "language revitalization",
+      "improves",
+      "well-being"
+    ],
+    [
+      "language revitalization",
+      "includes",
+      "language teaching"
+    ],
+    [
+      "language revitalization",
+      "includes",
+      "revitalization programs"
+    ],
+    [
+      "language revitalization",
+      "influences",
+      "social structures"
+    ],
+    [
+      "language revitalization",
+      "involves",
+      "community members"
+    ],
+    [
+      "language revitalization",
+      "is countered by",
+      "language replacement"
+    ],
+    [
+      "language revitalization",
+      "is supported by",
+      "identity"
+    ],
+    [
+      "language revitalization",
+      "is utilized in",
+      "grammars"
+    ],
+    [
+      "language revitalization",
+      "revitalizes",
+      "minority languages"
+    ],
+    [
+      "language revitalization",
+      "supports",
+      "communication"
+    ],
+    [
+      "language revitalization",
+      "supports",
+      "educational initiatives"
+    ],
+    [
+      "language revitalization",
+      "supports",
+      "thriving languages"
+    ],
+    [
+      "language survival",
+      "depends on",
+      "collaborative efforts"
+    ],
+    [
+      "language survival",
+      "enhances",
+      "community resilience"
+    ],
+    [
+      "language survival",
+      "is supported by",
+      "revitalization programs"
+    ],
+    [
+      "language survival",
+      "preserves",
+      "cultural heritage"
+    ],
+    [
+      "language survival",
+      "provides",
+      "educational resources"
+    ],
+    [
+      "language survival",
+      "shapes",
+      "cultural identity"
+    ],
+    [
+      "language survival",
+      "shapes",
+      "identity"
+    ],
+    [
+      "language survival",
+      "supports",
+      "dictionaries"
+    ],
+    [
+      "language survival",
+      "supports",
+      "educational initiatives"
+    ],
+    [
+      "language survival",
+      "supports",
+      "social structures"
+    ],
+    [
+      "language survival",
+      "supports",
+      "thriving languages"
+    ],
+    [
+      "language sustainability",
+      "affects",
+      "media representation"
+    ],
+    [
+      "language sustainability",
+      "depends on",
+      "language survival"
+    ],
+    [
+      "language sustainability",
+      "enhances",
+      "capacity building"
+    ],
+    [
+      "language sustainability",
+      "ensures",
+      "future generations"
+    ],
+    [
+      "language sustainability",
+      "ensures",
+      "linguistic heritage"
+    ],
+    [
+      "language sustainability",
+      "ensures",
+      "thriving languages"
+    ],
+    [
+      "language sustainability",
+      "influences",
+      "identity"
+    ],
+    [
+      "language sustainability",
+      "presents",
+      "global challenges"
+    ],
+    [
+      "language sustainability",
+      "requires",
+      "community support"
+    ],
+    [
+      "language sustainability",
+      "requires",
+      "support efforts"
+    ],
+    [
+      "language sustainability",
+      "supports",
+      "cultural heritage"
+    ],
+    [
+      "language sustainability",
+      "supports",
+      "educational initiatives"
+    ],
+    [
+      "language sustainability",
+      "supports",
+      "endangered languages"
+    ],
+    [
+      "language sustainability",
+      "supports",
+      "language initiatives"
+    ],
+    [
+      "language sustainability",
+      "supports",
+      "language learning"
+    ],
+    [
+      "language sustainability",
+      "supports",
+      "revitalization programs"
+    ],
+    [
+      "language teaching",
+      "advocates for",
+      "language advocacy"
+    ],
+    [
+      "language teaching",
+      "benefits from",
+      "future generations"
+    ],
+    [
+      "language teaching",
+      "complements",
+      "language learning"
+    ],
+    [
+      "language teaching",
+      "enhanced by",
+      "communication"
+    ],
+    [
+      "language teaching",
+      "enhances",
+      "revitalization programs"
+    ],
+    [
+      "language teaching",
+      "influences",
+      "language erosion"
+    ],
+    [
+      "language teaching",
+      "involves",
+      "grammars"
+    ],
+    [
+      "language teaching",
+      "is enhanced by",
+      "well-being"
+    ],
+    [
+      "language teaching",
+      "is facilitated by",
+      "expression"
+    ],
+    [
+      "language teaching",
+      "is facilitated by",
+      "thriving languages"
+    ],
+    [
+      "language teaching",
+      "is influenced by",
+      "self-esteem"
+    ],
+    [
+      "language teaching",
+      "is taught through",
+      "ecological knowledge"
+    ],
+    [
+      "language teaching",
+      "is taught through",
+      "spiritual beliefs"
+    ],
+    [
+      "language teaching",
+      "results from",
+      "language marginalization"
+    ],
+    [
+      "language teaching",
+      "results in",
+      "language extinction"
+    ],
+    [
+      "language teaching",
+      "supports",
+      "collaborative initiatives"
+    ],
+    [
+      "language teaching",
+      "supports",
+      "cultural heritage"
+    ],
+    [
+      "language teaching",
+      "supports",
+      "language resources"
+    ],
+    [
+      "linguistic diversity",
+      "contributes to",
+      "community"
+    ],
+    [
+      "linguistic diversity",
+      "contributes to",
+      "grammars"
+    ],
+    [
+      "linguistic diversity",
+      "contributes to",
+      "heritage preservation"
+    ],
+    [
+      "linguistic diversity",
+      "enhances",
+      "capacity building"
+    ],
+    [
+      "linguistic diversity",
+      "enhances",
+      "dictionaries"
+    ],
+    [
+      "linguistic diversity",
+      "ensures",
+      "future generations"
+    ],
+    [
+      "linguistic diversity",
+      "involves",
+      "community members"
+    ],
+    [
+      "linguistic diversity",
+      "is supported by",
+      "language resources"
+    ],
+    [
+      "linguistic diversity",
+      "promotes",
+      "language revitalization"
+    ],
+    [
+      "linguistic diversity",
+      "reflects",
+      "cultural practices"
+    ],
+    [
+      "linguistic diversity",
+      "shapes",
+      "identity"
+    ],
+    [
+      "linguistic diversity",
+      "supports",
+      "documenting languages"
+    ],
+    [
+      "linguistic diversity",
+      "supports",
+      "language learning"
+    ],
+    [
+      "linguistic diversity",
+      "supports",
+      "language teaching"
+    ],
+    [
+      "linguistic heritage",
+      "affects",
+      "self-esteem"
+    ],
+    [
+      "linguistic heritage",
+      "affects",
+      "well-being"
+    ],
+    [
+      "linguistic heritage",
+      "comprises",
+      "minority languages"
+    ],
+    [
+      "linguistic heritage",
+      "contributes to",
+      "linguistic diversity"
+    ],
+    [
+      "linguistic heritage",
+      "conveys",
+      "expression"
+    ],
+    [
+      "linguistic heritage",
+      "drives",
+      "activism"
+    ],
+    [
+      "linguistic heritage",
+      "embodies",
+      "unique understanding"
+    ],
+    [
+      "linguistic heritage",
+      "empowers",
+      "empower speakers"
+    ],
+    [
+      "linguistic heritage",
+      "encodes",
+      "ecological knowledge"
+    ],
+    [
+      "linguistic heritage",
+      "enhances",
+      "language learning"
+    ],
+    [
+      "linguistic heritage",
+      "influences",
+      "cultural practices"
+    ],
+    [
+      "linguistic heritage",
+      "informs",
+      "language teaching"
+    ],
+    [
+      "linguistic heritage",
+      "involves",
+      "community members"
+    ],
+    [
+      "linguistic heritage",
+      "is a component of",
+      "cultural heritage"
+    ],
+    [
+      "linguistic heritage",
+      "is a component of",
+      "media representation"
+    ],
+    [
+      "linguistic heritage",
+      "is influenced by",
+      "language functionality"
+    ],
+    [
+      "linguistic heritage",
+      "is influenced by",
+      "social structures"
+    ],
+    [
+      "linguistic heritage",
+      "is preserved by",
+      "endangered languages"
+    ],
+    [
+      "linguistic heritage",
+      "is promoted by",
+      "promote languages"
+    ],
+    [
+      "linguistic heritage",
+      "is vital for",
+      "historical preservation"
+    ],
+    [
+      "linguistic heritage",
+      "preserves",
+      "grammars"
+    ],
+    [
+      "linguistic heritage",
+      "preserves",
+      "language extinction"
+    ],
+    [
+      "linguistic heritage",
+      "promotes",
+      "collaborative efforts"
+    ],
+    [
+      "linguistic heritage",
+      "promotes",
+      "language revitalization"
+    ],
+    [
+      "linguistic heritage",
+      "reflects",
+      "human creativity"
+    ],
+    [
+      "linguistic heritage",
+      "strengthens",
+      "community resilience"
+    ],
+    [
+      "linguistic heritage",
+      "supports",
+      "support efforts"
+    ],
+    [
+      "linguistic support",
+      "accelerates",
+      "language erosion"
+    ],
+    [
+      "linguistic support",
+      "affects",
+      "self-esteem"
+    ],
+    [
+      "linguistic support",
+      "enhances",
+      "cultural identity"
+    ],
+    [
+      "linguistic support",
+      "enhances",
+      "language learning"
+    ],
+    [
+      "linguistic support",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "linguistic support",
+      "ensures",
+      "language survival"
+    ],
+    [
+      "linguistic support",
+      "facilitates",
+      "reclaim heritage"
+    ],
+    [
+      "linguistic support",
+      "fosters",
+      "collaborative initiatives"
+    ],
+    [
+      "linguistic support",
+      "improves",
+      "media representation"
+    ],
+    [
+      "linguistic support",
+      "provides",
+      "educational resources"
+    ],
+    [
+      "linguistic support",
+      "reflects",
+      "human creativity"
+    ],
+    [
+      "linguistic support",
+      "shapes",
+      "identity"
+    ],
+    [
+      "linguistic support",
+      "supports",
+      "cultural practices"
+    ],
+    [
+      "linguistic support",
+      "supports",
+      "educational initiatives"
+    ],
+    [
+      "linguistic support",
+      "supports",
+      "endangered languages"
+    ],
+    [
+      "linguistic support",
+      "supports",
+      "language revitalization"
+    ],
+    [
+      "linguistic support",
+      "supports",
+      "minority languages"
+    ],
+    [
+      "linguistic support",
+      "supports",
+      "revitalization programs"
+    ],
+    [
+      "linguistic support",
+      "underpins",
+      "social structures"
+    ],
+    [
+      "local involvement",
+      "is enriched by",
+      "cultural richness"
+    ],
+    [
+      "media representation",
+      "advocates for",
+      "language advocacy"
+    ],
+    [
+      "media representation",
+      "affects",
+      "language functionality"
+    ],
+    [
+      "media representation",
+      "aids in",
+      "heritage preservation"
+    ],
+    [
+      "media representation",
+      "enhances",
+      "capacity building"
+    ],
+    [
+      "media representation",
+      "enhances",
+      "language teaching"
+    ],
+    [
+      "media representation",
+      "facilitates",
+      "collaborative initiatives"
+    ],
+    [
+      "media representation",
+      "highlights",
+      "endangered languages"
+    ],
+    [
+      "media representation",
+      "is represented by",
+      "language extinction"
+    ],
+    [
+      "media representation",
+      "nurtures",
+      "thriving languages"
+    ],
+    [
+      "media representation",
+      "reflects",
+      "human creativity"
+    ],
+    [
+      "media representation",
+      "shapes",
+      "social structures"
+    ],
+    [
+      "media representation",
+      "strengthens",
+      "community resilience"
+    ],
+    [
+      "minority languages",
+      "affected by",
+      "identity"
+    ],
+    [
+      "minority languages",
+      "affected by",
+      "self-esteem"
+    ],
+    [
+      "minority languages",
+      "affects",
+      "language erosion"
+    ],
+    [
+      "minority languages",
+      "benefits from",
+      "language preservation"
+    ],
+    [
+      "minority languages",
+      "embodies",
+      "human creativity"
+    ],
+    [
+      "minority languages",
+      "enables",
+      "reclaim heritage"
+    ],
+    [
+      "minority languages",
+      "facilitates",
+      "language learning"
+    ],
+    [
+      "minority languages",
+      "informs",
+      "ecological knowledge"
+    ],
+    [
+      "minority languages",
+      "is influenced by",
+      "future generations"
+    ],
+    [
+      "minority languages",
+      "is represented by",
+      "spiritual beliefs"
+    ],
+    [
+      "minority languages",
+      "is supported by",
+      "language advocacy"
+    ],
+    [
+      "minority languages",
+      "is threatened by",
+      "dictionaries"
+    ],
+    [
+      "minority languages",
+      "is utilized by",
+      "grammars"
+    ],
+    [
+      "minority languages",
+      "is utilized in",
+      "language teaching"
+    ],
+    [
+      "minority languages",
+      "marginalizes",
+      "endangered languages"
+    ],
+    [
+      "minority languages",
+      "promotes",
+      "collaborative initiatives"
+    ],
+    [
+      "minority languages",
+      "promotes",
+      "community resilience"
+    ],
+    [
+      "minority languages",
+      "supports",
+      "educational initiatives"
+    ],
+    [
+      "minority languages",
+      "supports",
+      "heritage preservation"
+    ],
+    [
+      "minority languages",
+      "supports",
+      "language resources"
+    ],
+    [
+      "minority languages",
+      "supports",
+      "revitalization programs"
+    ],
+    [
+      "minority languages",
+      "threatened by",
+      "traditional knowledge"
+    ],
+    [
+      "minority languages",
+      "threatens",
+      "communication"
+    ],
+    [
+      "minority languages",
+      "threatens",
+      "cultural practices"
+    ],
+    [
+      "multifaceted issue",
+      "addresses",
+      "linguistic support"
+    ],
+    [
+      "multifaceted issue",
+      "enables",
+      "empower speakers"
+    ],
+    [
+      "multifaceted issue",
+      "involves",
+      "documenting languages"
+    ],
+    [
+      "multifaceted issue",
+      "is a component of",
+      "cultural richness"
+    ],
+    [
+      "multifaceted issue",
+      "presents",
+      "educational initiatives"
+    ],
+    [
+      "multifaceted issue",
+      "provides",
+      "unique understanding"
+    ],
+    [
+      "multifaceted issue",
+      "requires",
+      "community support"
+    ],
+    [
+      "multifaceted issue",
+      "supports",
+      "linguistic diversity"
+    ],
+    [
+      "natural disasters",
+      "causes",
+      "language loss"
+    ],
+    [
+      "natural disasters",
+      "contributes to",
+      "language erosion"
+    ],
+    [
+      "natural disasters",
+      "impacted by",
+      "intergenerational transmission"
+    ],
+    [
+      "preservation strategies",
+      "enables",
+      "reclaim heritage"
+    ],
+    [
+      "preservation strategies",
+      "enhances",
+      "community resilience"
+    ],
+    [
+      "preservation strategies",
+      "fosters",
+      "human creativity"
+    ],
+    [
+      "preservation strategies",
+      "improves",
+      "well-being"
+    ],
+    [
+      "preservation strategies",
+      "includes",
+      "educational programs"
+    ],
+    [
+      "preservation strategies",
+      "includes",
+      "language teaching"
+    ],
+    [
+      "preservation strategies",
+      "informs",
+      "spiritual beliefs"
+    ],
+    [
+      "preservation strategies",
+      "opposes",
+      "language extinction"
+    ],
+    [
+      "preservation strategies",
+      "supports",
+      "language learning"
+    ],
+    [
+      "pressing concerns",
+      "addresses",
+      "activism"
+    ],
+    [
+      "pressing concerns",
+      "addresses",
+      "capacity building"
+    ],
+    [
+      "pressing concerns",
+      "addresses",
+      "community support"
+    ],
+    [
+      "pressing concerns",
+      "addresses",
+      "educational programs"
+    ],
+    [
+      "pressing concerns",
+      "addresses",
+      "heritage preservation"
+    ],
+    [
+      "pressing concerns",
+      "addresses",
+      "language teaching"
+    ],
+    [
+      "pressing concerns",
+      "advocates for",
+      "language advocacy"
+    ],
+    [
+      "pressing concerns",
+      "drives",
+      "language initiatives"
+    ],
+    [
+      "pressing concerns",
+      "involves",
+      "preservation strategies"
+    ],
+    [
+      "pressing concerns",
+      "is a result of",
+      "language marginalization"
+    ],
+    [
+      "pressing concerns",
+      "is caused by",
+      "community displacement"
+    ],
+    [
+      "pressing concerns",
+      "is influenced by",
+      "linguistic heritage"
+    ],
+    [
+      "pressing concerns",
+      "raises",
+      "cultural assimilation"
+    ],
+    [
+      "pressing concerns",
+      "raises",
+      "cultural richness"
+    ],
+    [
+      "pressing concerns",
+      "raises",
+      "language preservation"
+    ],
+    [
+      "pressing concerns",
+      "reflects",
+      "expression"
+    ],
+    [
+      "pressing concerns",
+      "represents",
+      "unique understanding"
+    ],
+    [
+      "promote languages",
+      "advocates for",
+      "language initiatives"
+    ],
+    [
+      "promote languages",
+      "benefits from",
+      "community support"
+    ],
+    [
+      "promote languages",
+      "enables",
+      "empower speakers"
+    ],
+    [
+      "promote languages",
+      "enhances",
+      "human creativity"
+    ],
+    [
+      "promote languages",
+      "enhances",
+      "linguistic diversity"
+    ],
+    [
+      "promote languages",
+      "enhances",
+      "media representation"
+    ],
+    [
+      "promote languages",
+      "enhances",
+      "self-esteem"
+    ],
+    [
+      "promote languages",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "promote languages",
+      "exacerbates",
+      "language marginalization"
+    ],
+    [
+      "promote languages",
+      "facilitates",
+      "capacity building"
+    ],
+    [
+      "promote languages",
+      "facilitates",
+      "expression"
+    ],
+    [
+      "promote languages",
+      "involves",
+      "language teaching"
+    ],
+    [
+      "promote languages",
+      "produces",
+      "dictionaries"
+    ],
+    [
+      "promote languages",
+      "promotes",
+      "thriving languages"
+    ],
+    [
+      "promote languages",
+      "reflects",
+      "cultural practices"
+    ],
+    [
+      "promote languages",
+      "requires",
+      "local involvement"
+    ],
+    [
+      "promote languages",
+      "supports",
+      "educational initiatives"
+    ],
+    [
+      "promote languages",
+      "supports",
+      "language sustainability"
+    ],
+    [
+      "promote languages",
+      "supports",
+      "reclaim heritage"
+    ],
+    [
+      "promote languages",
+      "supports",
+      "revitalization programs"
+    ],
+    [
+      "reclaim heritage",
+      "aids",
+      "language survival"
+    ],
+    [
+      "reclaim heritage",
+      "aids in",
+      "language documentation"
+    ],
+    [
+      "reclaim heritage",
+      "enables",
+      "language functionality"
+    ],
+    [
+      "reclaim heritage",
+      "enables",
+      "language sustainability"
+    ],
+    [
+      "reclaim heritage",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "reclaim heritage",
+      "is a means to",
+      "linguistic heritage"
+    ],
+    [
+      "reclaim heritage",
+      "is essential for",
+      "dictionaries"
+    ],
+    [
+      "reclaim heritage",
+      "is facilitated by",
+      "language advocacy"
+    ],
+    [
+      "reclaim heritage",
+      "is reclaimed by",
+      "community"
+    ],
+    [
+      "reclaim heritage",
+      "is reclaimed by",
+      "cultural identity"
+    ],
+    [
+      "reclaim heritage",
+      "is reclaimed by",
+      "cultural richness"
+    ],
+    [
+      "reclaim heritage",
+      "leads to",
+      "language abandonment"
+    ],
+    [
+      "reclaim heritage",
+      "leads to",
+      "unique understanding"
+    ],
+    [
+      "reclaim heritage",
+      "reclaimed by",
+      "cultural heritage"
+    ],
+    [
+      "reclaim heritage",
+      "reclaimed by",
+      "expression"
+    ],
+    [
+      "reclaim heritage",
+      "requires",
+      "educational programs"
+    ],
+    [
+      "revitalization programs",
+      "aids",
+      "language extinction"
+    ],
+    [
+      "revitalization programs",
+      "facilitates",
+      "community members"
+    ],
+    [
+      "revitalization programs",
+      "facilitates",
+      "expression"
+    ],
+    [
+      "revitalization programs",
+      "fosters",
+      "collaborative initiatives"
+    ],
+    [
+      "revitalization programs",
+      "informs",
+      "spiritual beliefs"
+    ],
+    [
+      "revitalization programs",
+      "is expressed through",
+      "language learning"
+    ],
+    [
+      "revitalization programs",
+      "preserved by",
+      "linguistic heritage"
+    ],
+    [
+      "revitalization programs",
+      "preserved in",
+      "community"
+    ],
+    [
+      "revitalization programs",
+      "promotes",
+      "linguistic diversity"
+    ],
+    [
+      "revitalization programs",
+      "provides",
+      "unique understanding"
+    ],
+    [
+      "revitalization programs",
+      "supported by",
+      "identity"
+    ],
+    [
+      "revitalization programs",
+      "supported by",
+      "social structures"
+    ],
+    [
+      "self-esteem",
+      "affects",
+      "ecological knowledge"
+    ],
+    [
+      "self-esteem",
+      "affects",
+      "endangered languages"
+    ],
+    [
+      "self-esteem",
+      "affects",
+      "language survival"
+    ],
+    [
+      "self-esteem",
+      "affects",
+      "pressing concerns"
+    ],
+    [
+      "self-esteem",
+      "affects",
+      "well-being"
+    ],
+    [
+      "self-esteem",
+      "enhances",
+      "grammars"
+    ],
+    [
+      "self-esteem",
+      "enhances",
+      "revitalization programs"
+    ],
+    [
+      "self-esteem",
+      "enhances",
+      "traditional knowledge"
+    ],
+    [
+      "self-esteem",
+      "impacts",
+      "cultural heritage"
+    ],
+    [
+      "self-esteem",
+      "impacts",
+      "language extinction"
+    ],
+    [
+      "self-esteem",
+      "influences",
+      "communication"
+    ],
+    [
+      "self-esteem",
+      "influences",
+      "community"
+    ],
+    [
+      "self-esteem",
+      "influences",
+      "language learning"
+    ],
+    [
+      "self-esteem",
+      "influences",
+      "spiritual beliefs"
+    ],
+    [
+      "self-esteem",
+      "is affected by",
+      "media representation"
+    ],
+    [
+      "self-esteem",
+      "is enhanced by",
+      "educational support"
+    ],
+    [
+      "self-esteem",
+      "is influenced by",
+      "heritage preservation"
+    ],
+    [
+      "social pressures",
+      "drives",
+      "environmental factors"
+    ],
+    [
+      "social pressures",
+      "drives",
+      "globalization"
+    ],
+    [
+      "social structures",
+      "affects",
+      "community displacement"
+    ],
+    [
+      "social structures",
+      "influenced by",
+      "language resources"
+    ],
+    [
+      "social structures",
+      "influences",
+      "communication"
+    ],
+    [
+      "social structures",
+      "influences",
+      "endangered languages"
+    ],
+    [
+      "social structures",
+      "influences",
+      "identity"
+    ],
+    [
+      "social structures",
+      "influences",
+      "language initiatives"
+    ],
+    [
+      "social structures",
+      "influences",
+      "multifaceted issue"
+    ],
+    [
+      "social structures",
+      "influences",
+      "preservation strategies"
+    ],
+    [
+      "social structures",
+      "influences",
+      "self-esteem"
+    ],
+    [
+      "social structures",
+      "informs",
+      "educational programs"
+    ],
+    [
+      "social structures",
+      "is addressed by",
+      "language loss"
+    ],
+    [
+      "social structures",
+      "is influenced by",
+      "future generations"
+    ],
+    [
+      "social structures",
+      "is influenced by",
+      "language preservation"
+    ],
+    [
+      "social structures",
+      "nurtures",
+      "thriving languages"
+    ],
+    [
+      "social structures",
+      "shapes",
+      "unique understanding"
+    ],
+    [
+      "social structures",
+      "structures",
+      "grammars"
+    ],
+    [
+      "social structures",
+      "supports",
+      "language advocacy"
+    ],
+    [
+      "social structures",
+      "supports",
+      "language teaching"
+    ],
+    [
+      "social structures",
+      "supports",
+      "support efforts"
+    ],
+    [
+      "social structures",
+      "underpins",
+      "linguistic diversity"
+    ],
+    [
+      "spiritual beliefs",
+      "contributes to",
+      "language preservation"
+    ],
+    [
+      "spiritual beliefs",
+      "drives",
+      "collaborative efforts"
+    ],
+    [
+      "spiritual beliefs",
+      "encoded in",
+      "traditional knowledge"
+    ],
+    [
+      "spiritual beliefs",
+      "endangers",
+      "endangered languages"
+    ],
+    [
+      "spiritual beliefs",
+      "impacts",
+      "language extinction"
+    ],
+    [
+      "spiritual beliefs",
+      "influences",
+      "educational support"
+    ],
+    [
+      "spiritual beliefs",
+      "informs",
+      "cultural practices"
+    ],
+    [
+      "spiritual beliefs",
+      "involves",
+      "community members"
+    ],
+    [
+      "spiritual beliefs",
+      "is influenced by",
+      "linguistic heritage"
+    ],
+    [
+      "spiritual beliefs",
+      "is promoted by",
+      "language initiatives"
+    ],
+    [
+      "spiritual beliefs",
+      "is related to",
+      "grammars"
+    ],
+    [
+      "spiritual beliefs",
+      "is supported by",
+      "empower speakers"
+    ],
+    [
+      "spiritual beliefs",
+      "preserved for",
+      "future generations"
+    ],
+    [
+      "spiritual beliefs",
+      "promotes",
+      "activism"
+    ],
+    [
+      "spiritual beliefs",
+      "reflects",
+      "cultural heritage"
+    ],
+    [
+      "spiritual beliefs",
+      "requires",
+      "linguistic support"
+    ],
+    [
+      "spiritual beliefs",
+      "strengthens",
+      "capacity building"
+    ],
+    [
+      "spiritual beliefs",
+      "supports",
+      "language resources"
+    ],
+    [
+      "spiritual beliefs",
+      "supports",
+      "language revitalization"
+    ],
+    [
+      "support efforts",
+      "addresses",
+      "global challenges"
+    ],
+    [
+      "support efforts",
+      "aids",
+      "media representation"
+    ],
+    [
+      "support efforts",
+      "benefits from",
+      "language empowerment"
+    ],
+    [
+      "support efforts",
+      "benefits from",
+      "linguistic diversity"
+    ],
+    [
+      "support efforts",
+      "bolsters",
+      "language advocacy"
+    ],
+    [
+      "support efforts",
+      "contributes to",
+      "unique understanding"
+    ],
+    [
+      "support efforts",
+      "counteracts",
+      "language erosion"
+    ],
+    [
+      "support efforts",
+      "counteracts",
+      "language marginalization"
+    ],
+    [
+      "support efforts",
+      "enhances",
+      "educational programs"
+    ],
+    [
+      "support efforts",
+      "facilitates",
+      "educational initiatives"
+    ],
+    [
+      "support efforts",
+      "guides",
+      "preservation strategies"
+    ],
+    [
+      "support efforts",
+      "is supported by",
+      "language documentation"
+    ],
+    [
+      "support efforts",
+      "is supported by",
+      "linguistic support"
+    ],
+    [
+      "support efforts",
+      "promotes",
+      "language teaching"
+    ],
+    [
+      "support efforts",
+      "provides",
+      "educational support"
+    ],
+    [
+      "thriving languages",
+      "addresses",
+      "pressing concerns"
+    ],
+    [
+      "thriving languages",
+      "affects",
+      "language erosion"
+    ],
+    [
+      "thriving languages",
+      "enhances",
+      "self-esteem"
+    ],
+    [
+      "thriving languages",
+      "facilitates",
+      "language learning"
+    ],
+    [
+      "thriving languages",
+      "is enhanced by",
+      "cultural practices"
+    ],
+    [
+      "thriving languages",
+      "is supported by",
+      "community"
+    ],
+    [
+      "thriving languages",
+      "marginalizes",
+      "language marginalization"
+    ],
+    [
+      "thriving languages",
+      "provides",
+      "unique understanding"
+    ],
+    [
+      "thriving languages",
+      "reflects",
+      "human creativity"
+    ],
+    [
+      "thriving languages",
+      "supported by",
+      "educational initiatives"
+    ],
+    [
+      "traditional knowledge",
+      "advocates for",
+      "language advocacy"
+    ],
+    [
+      "traditional knowledge",
+      "complements",
+      "ecological knowledge"
+    ],
+    [
+      "traditional knowledge",
+      "enables",
+      "reclaim heritage"
+    ],
+    [
+      "traditional knowledge",
+      "encodes",
+      "community"
+    ],
+    [
+      "traditional knowledge",
+      "encodes",
+      "grammars"
+    ],
+    [
+      "traditional knowledge",
+      "ensures",
+      "language sustainability"
+    ],
+    [
+      "traditional knowledge",
+      "facilitates",
+      "language learning"
+    ],
+    [
+      "traditional knowledge",
+      "influences",
+      "human creativity"
+    ],
+    [
+      "traditional knowledge",
+      "informs",
+      "communication"
+    ],
+    [
+      "traditional knowledge",
+      "informs",
+      "educational programs"
+    ],
+    [
+      "traditional knowledge",
+      "informs",
+      "language initiatives"
+    ],
+    [
+      "traditional knowledge",
+      "is encoded in",
+      "cultural practices"
+    ],
+    [
+      "traditional knowledge",
+      "is essential for",
+      "heritage preservation"
+    ],
+    [
+      "traditional knowledge",
+      "is essential for",
+      "preservation strategies"
+    ],
+    [
+      "traditional knowledge",
+      "is referenced in",
+      "dictionaries"
+    ],
+    [
+      "traditional knowledge",
+      "preserves",
+      "cultural heritage"
+    ],
+    [
+      "traditional knowledge",
+      "preserves",
+      "endangered languages"
+    ],
+    [
+      "traditional knowledge",
+      "provides",
+      "linguistic support"
+    ],
+    [
+      "traditional knowledge",
+      "represents",
+      "linguistic diversity"
+    ],
+    [
+      "traditional knowledge",
+      "shapes",
+      "identity"
+    ],
+    [
+      "traditional knowledge",
+      "supported by",
+      "revitalization programs"
+    ],
+    [
+      "traditional knowledge",
+      "supports",
+      "historical preservation"
+    ],
+    [
+      "traditional knowledge",
+      "supports",
+      "language revitalization"
+    ],
+    [
+      "traditional knowledge",
+      "supports",
+      "language teaching"
+    ],
+    [
+      "unique understanding",
+      "contributes to",
+      "media representation"
+    ],
+    [
+      "unique understanding",
+      "enhances",
+      "educational resources"
+    ],
+    [
+      "unique understanding",
+      "is preserved by",
+      "language preservation"
+    ],
+    [
+      "unique understanding",
+      "provides",
+      "educational support"
+    ],
+    [
+      "unique understanding",
+      "provides",
+      "expression"
+    ],
+    [
+      "unique understanding",
+      "provides",
+      "future generations"
+    ],
+    [
+      "unique understanding",
+      "provides",
+      "language functionality"
+    ],
+    [
+      "unique understanding",
+      "provides",
+      "language teaching"
+    ],
+    [
+      "unique understanding",
+      "provides",
+      "well-being"
+    ],
+    [
+      "urbanization",
+      "creates",
+      "economic pressures"
+    ],
+    [
+      "urbanization",
+      "drives",
+      "globalization"
+    ],
+    [
+      "well-being",
+      "affects",
+      "communication"
+    ],
+    [
+      "well-being",
+      "affects",
+      "cultural heritage"
+    ],
+    [
+      "well-being",
+      "affects",
+      "ecological knowledge"
+    ],
+    [
+      "well-being",
+      "affects",
+      "language documentation"
+    ],
+    [
+      "well-being",
+      "affects",
+      "language resources"
+    ],
+    [
+      "well-being",
+      "affects",
+      "social structures"
+    ],
+    [
+      "well-being",
+      "contributes to",
+      "dictionaries"
+    ],
+    [
+      "well-being",
+      "contributes to",
+      "grammars"
+    ],
+    [
+      "well-being",
+      "enhances",
+      "community resilience"
+    ],
+    [
+      "well-being",
+      "enhances",
+      "cultural identity"
+    ],
+    [
+      "well-being",
+      "enhances",
+      "endangered languages"
+    ],
+    [
+      "well-being",
+      "enhances",
+      "heritage preservation"
+    ],
+    [
+      "well-being",
+      "enhances",
+      "spiritual beliefs"
+    ],
+    [
+      "well-being",
+      "impacts",
+      "expression"
+    ],
+    [
+      "well-being",
+      "impacts",
+      "language extinction"
+    ],
+    [
+      "well-being",
+      "impacts",
+      "linguistic diversity"
+    ],
+    [
+      "well-being",
+      "impacts",
+      "minority languages"
+    ],
+    [
+      "well-being",
+      "influences",
+      "cultural practices"
+    ],
+    [
+      "well-being",
+      "promotes",
+      "language sustainability"
+    ],
+    [
+      "well-being",
+      "supports",
+      "community members"
+    ],
+    [
+      "well-being",
+      "supports",
+      "revitalization programs"
+    ],
+    [
+      "well-being",
+      "supports",
+      "traditional knowledge"
+    ]
+  ],
+  "edges": [
+    "a component of",
+    "a resource for",
+    "a type of",
+    "accelerated by",
+    "accelerates",
+    "addressed by",
+    "addresses",
+    "advances",
+    "advocates for",
+    "affected by",
+    "affects",
+    "aids",
+    "aids in",
+    "associated with",
+    "benefits",
+    "benefits from",
+    "bolsters",
+    "boosts",
+    "builds",
+    "can lead to",
+    "causes",
+    "challenges",
+    "collaborates with",
+    "complements",
+    "composed of",
+    "comprises",
+    "concerns",
+    "connected to",
+    "contributes to",
+    "conveys",
+    "counteracts",
+    "create",
+    "creates",
+    "defines",
+    "demonstrates",
+    "depends on",
+    "derived from",
+    "develops",
+    "diminishes",
+    "documented in",
+    "documents",
+    "drives",
+    "embodies",
+    "empowers",
+    "enables",
+    "encoded in",
+    "encodes",
+    "encourages",
+    "endangers",
+    "engages",
+    "engages in",
+    "enhanced by",
+    "enhances",
+    "ensures",
+    "erodes",
+    "exacerbates",
+    "experiences",
+    "expressed through",
+    "expresses",
+    "faces",
+    "facilitated by",
+    "facilitates",
+    "fosters",
+    "guides",
+    "highlights",
+    "impacted by",
+    "impacts",
+    "impedes",
+    "improves",
+    "includes",
+    "influenced by",
+    "influences",
+    "informs",
+    "initiates",
+    "inspired by",
+    "involves",
+    "is a challenge for",
+    "is a component of",
+    "is a consequence of",
+    "is a form of",
+    "is a means to",
+    "is a reflection of",
+    "is a result of",
+    "is a type of",
+    "is achieved through",
+    "is addressed by",
+    "is affected by",
+    "is based on",
+    "is bolstered by",
+    "is caused by",
+    "is countered by",
+    "is created by",
+    "is crucial for",
+    "is dependent on",
+    "is documented by",
+    "is documented in",
+    "is driven by",
+    "is encoded in",
+    "is enhanced by",
+    "is enriched by",
+    "is essential for",
+    "is expressed by",
+    "is expressed through",
+    "is facilitated by",
+    "is impacted by",
+    "is influenced by",
+    "is informed by",
+    "is initiated by",
+    "is inspired by",
+    "is involved in",
+    "is linked to",
+    "is mitigated by",
+    "is part of",
+    "is preserved by",
+    "is preserved through",
+    "is promoted by",
+    "is reclaimed by",
+    "is referenced in",
+    "is related to",
+    "is replaced by",
+    "is represented by",
+    "is represented in",
+    "is shaped by",
+    "is strengthened by",
+    "is supported by",
+    "is taught through",
+    "is threatened by",
+    "is utilized by",
+    "is utilized for",
+    "is utilized in",
+    "is vital for",
+    "leads to",
+    "limits",
+    "maintains",
+    "marginalizes",
+    "nurtures",
+    "opposes",
+    "presents",
+    "preserved by",
+    "preserved for",
+    "preserved in",
+    "preserves",
+    "produces",
+    "promotes",
+    "protects",
+    "provides",
+    "raises",
+    "receives",
+    "reclaim",
+    "reclaimed by",
+    "reflects",
+    "reinforces",
+    "replaces",
+    "represents",
+    "requires",
+    "results from",
+    "results in",
+    "revitalizes",
+    "serves as",
+    "shapes",
+    "strengthens",
+    "structures",
+    "supplies",
+    "supported by",
+    "supports",
+    "threatened by",
+    "threatens",
+    "transmitted to",
+    "underpins",
+    "used for",
+    "used in"
+  ]
+}

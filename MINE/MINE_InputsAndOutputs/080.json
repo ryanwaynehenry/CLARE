@@ -1,0 +1,5496 @@
+{
+  "entities": [
+    "activities",
+    "adapt",
+    "adaptability",
+    "adversity",
+    "ants",
+    "architectural techniques",
+    "backbone",
+    "behavior",
+    "building",
+    "caring",
+    "chambers",
+    "chemical signals",
+    "collaborative effort",
+    "colony",
+    "communication",
+    "community",
+    "complex",
+    "construct",
+    "construction",
+    "continuity",
+    "cooperation",
+    "coordination",
+    "defense",
+    "distinct",
+    "efficiency",
+    "efficient",
+    "eggs",
+    "engineering",
+    "engineering abilities",
+    "environment",
+    "evolution",
+    "exploration",
+    "fascinating",
+    "flooding",
+    "foraging",
+    "functions",
+    "fungus gardens",
+    "harmonious",
+    "hierarchy",
+    "impressive",
+    "improvise",
+    "ingenuity",
+    "insights",
+    "instinct",
+    "larvae",
+    "leafcutter ants",
+    "lessons",
+    "mastery",
+    "materials",
+    "maximize",
+    "mobilize",
+    "natural disasters",
+    "nature",
+    "nest",
+    "nest building",
+    "new site",
+    "organization",
+    "pheromones",
+    "population",
+    "principles",
+    "process",
+    "prosperity",
+    "protection",
+    "queen",
+    "relocate",
+    "repairing",
+    "resilience",
+    "resources",
+    "response",
+    "responsibilities",
+    "roles",
+    "safety",
+    "skills",
+    "societies",
+    "society",
+    "soldier ants",
+    "species",
+    "strategies",
+    "structure",
+    "successful",
+    "survival",
+    "sustainable",
+    "symbiotic relationship",
+    "tasks",
+    "teamwork",
+    "threats",
+    "thrive",
+    "tunnels",
+    "worker ants"
+  ],
+  "relations": [
+    [
+      "activities",
+      "defines",
+      "roles"
+    ],
+    [
+      "activities",
+      "enhances",
+      "cooperation"
+    ],
+    [
+      "activities",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "activities",
+      "includes",
+      "building"
+    ],
+    [
+      "activities",
+      "includes",
+      "tasks"
+    ],
+    [
+      "activities",
+      "involves",
+      "caring"
+    ],
+    [
+      "activities",
+      "is influenced by",
+      "queen"
+    ],
+    [
+      "activities",
+      "perform during",
+      "construct"
+    ],
+    [
+      "activities",
+      "performed by",
+      "leafcutter ants"
+    ],
+    [
+      "activities",
+      "requires",
+      "coordination"
+    ],
+    [
+      "activities",
+      "supports",
+      "thrive"
+    ],
+    [
+      "adapt",
+      "adapted to",
+      "eggs"
+    ],
+    [
+      "adapt",
+      "enables",
+      "thrive"
+    ],
+    [
+      "adapt",
+      "is supported by",
+      "survival"
+    ],
+    [
+      "adapt",
+      "require adaptation from",
+      "adversity"
+    ],
+    [
+      "adapt",
+      "requires",
+      "successful"
+    ],
+    [
+      "adaptability",
+      "characterizes",
+      "societies"
+    ],
+    [
+      "adaptability",
+      "demonstrates",
+      "engineering"
+    ],
+    [
+      "adaptability",
+      "depends on",
+      "prosperity"
+    ],
+    [
+      "adaptability",
+      "enables",
+      "adapt"
+    ],
+    [
+      "adaptability",
+      "enables",
+      "improvise"
+    ],
+    [
+      "adaptability",
+      "enables",
+      "thrive"
+    ],
+    [
+      "adaptability",
+      "enhances",
+      "architectural techniques"
+    ],
+    [
+      "adaptability",
+      "enhances",
+      "chemical signals"
+    ],
+    [
+      "adaptability",
+      "enhances",
+      "foraging"
+    ],
+    [
+      "adaptability",
+      "facilitates",
+      "adversity"
+    ],
+    [
+      "adaptability",
+      "facilitates",
+      "new site"
+    ],
+    [
+      "adaptability",
+      "informs",
+      "pheromones"
+    ],
+    [
+      "adaptability",
+      "is associated with",
+      "complex"
+    ],
+    [
+      "adaptability",
+      "is influenced by",
+      "tunnels"
+    ],
+    [
+      "adaptability",
+      "promotes",
+      "efficient"
+    ],
+    [
+      "adaptability",
+      "promotes cooperation through",
+      "cooperation"
+    ],
+    [
+      "adaptability",
+      "responds to",
+      "threats"
+    ],
+    [
+      "adversity",
+      "challenges",
+      "population"
+    ],
+    [
+      "adversity",
+      "enables",
+      "relocate"
+    ],
+    [
+      "adversity",
+      "intrigues",
+      "fascinating"
+    ],
+    [
+      "adversity",
+      "overcomes",
+      "ants"
+    ],
+    [
+      "adversity",
+      "provides",
+      "insights"
+    ],
+    [
+      "adversity",
+      "respond to",
+      "adapt"
+    ],
+    [
+      "adversity",
+      "responds to",
+      "larvae"
+    ],
+    [
+      "adversity",
+      "tests",
+      "successful"
+    ],
+    [
+      "adversity",
+      "triggers",
+      "new site"
+    ],
+    [
+      "ants",
+      "built by",
+      "fungus gardens"
+    ],
+    [
+      "ants",
+      "carried by",
+      "relocate"
+    ],
+    [
+      "ants",
+      "characterizes",
+      "efficient"
+    ],
+    [
+      "ants",
+      "constructed by",
+      "structure"
+    ],
+    [
+      "ants",
+      "demonstrates",
+      "ingenuity"
+    ],
+    [
+      "ants",
+      "ensures",
+      "survival"
+    ],
+    [
+      "ants",
+      "exhibits",
+      "mastery"
+    ],
+    [
+      "ants",
+      "exhibits efficiency in",
+      "efficiency"
+    ],
+    [
+      "ants",
+      "is a type of",
+      "leafcutter ants"
+    ],
+    [
+      "ants",
+      "is associated with",
+      "larvae"
+    ],
+    [
+      "ants",
+      "is derived from",
+      "insights"
+    ],
+    [
+      "ants",
+      "is ensured by",
+      "continuity"
+    ],
+    [
+      "ants",
+      "is exhibited by",
+      "adapt"
+    ],
+    [
+      "ants",
+      "is performed by",
+      "improvise"
+    ],
+    [
+      "ants",
+      "is utilized by",
+      "engineering"
+    ],
+    [
+      "ants",
+      "performed by",
+      "activities"
+    ],
+    [
+      "ants",
+      "performed by",
+      "building"
+    ],
+    [
+      "ants",
+      "relocates to",
+      "new site"
+    ],
+    [
+      "architectural techniques",
+      "aids",
+      "construct"
+    ],
+    [
+      "architectural techniques",
+      "challenges",
+      "adversity"
+    ],
+    [
+      "architectural techniques",
+      "contributes to",
+      "thrive"
+    ],
+    [
+      "architectural techniques",
+      "defines",
+      "structure"
+    ],
+    [
+      "architectural techniques",
+      "demonstrates",
+      "engineering abilities"
+    ],
+    [
+      "architectural techniques",
+      "demonstrates",
+      "ingenuity"
+    ],
+    [
+      "architectural techniques",
+      "enables",
+      "adapt"
+    ],
+    [
+      "architectural techniques",
+      "ensures survival through",
+      "survival"
+    ],
+    [
+      "architectural techniques",
+      "facilitates",
+      "repairing"
+    ],
+    [
+      "architectural techniques",
+      "influenced by",
+      "larvae"
+    ],
+    [
+      "architectural techniques",
+      "influences",
+      "nature"
+    ],
+    [
+      "architectural techniques",
+      "involves",
+      "construction"
+    ],
+    [
+      "architectural techniques",
+      "is involved in",
+      "process"
+    ],
+    [
+      "architectural techniques",
+      "is utilized in",
+      "foraging"
+    ],
+    [
+      "architectural techniques",
+      "used in",
+      "chambers"
+    ],
+    [
+      "architectural techniques",
+      "utilizes",
+      "chemical signals"
+    ],
+    [
+      "architectural techniques",
+      "utilizes",
+      "exploration"
+    ],
+    [
+      "backbone",
+      "affects",
+      "flooding"
+    ],
+    [
+      "backbone",
+      "comprises",
+      "soldier ants"
+    ],
+    [
+      "backbone",
+      "is a key to",
+      "resilience"
+    ],
+    [
+      "backbone",
+      "is crucial for",
+      "construct"
+    ],
+    [
+      "backbone",
+      "is described as",
+      "cooperation"
+    ],
+    [
+      "backbone",
+      "is essential for",
+      "new site"
+    ],
+    [
+      "backbone",
+      "represents",
+      "complex"
+    ],
+    [
+      "backbone",
+      "supports",
+      "ants"
+    ],
+    [
+      "backbone",
+      "supports",
+      "building"
+    ],
+    [
+      "backbone",
+      "supports",
+      "community"
+    ],
+    [
+      "backbone",
+      "supports",
+      "continuity"
+    ],
+    [
+      "backbone",
+      "supports",
+      "hierarchy"
+    ],
+    [
+      "backbone",
+      "supports",
+      "prosperity"
+    ],
+    [
+      "backbone",
+      "supports",
+      "queen"
+    ],
+    [
+      "backbone",
+      "supports",
+      "survival"
+    ],
+    [
+      "behavior",
+      "achieves",
+      "successful"
+    ],
+    [
+      "behavior",
+      "influences",
+      "adapt"
+    ],
+    [
+      "behavior",
+      "influences",
+      "adaptability"
+    ],
+    [
+      "behavior",
+      "influences",
+      "continuity"
+    ],
+    [
+      "behavior",
+      "influences",
+      "ingenuity"
+    ],
+    [
+      "behavior",
+      "influences",
+      "organization"
+    ],
+    [
+      "building",
+      "constructed from",
+      "chambers"
+    ],
+    [
+      "building",
+      "contributes to",
+      "efficiency"
+    ],
+    [
+      "building",
+      "contributes to",
+      "thrive"
+    ],
+    [
+      "building",
+      "creates",
+      "structure"
+    ],
+    [
+      "building",
+      "demonstrates",
+      "engineering abilities"
+    ],
+    [
+      "building",
+      "exhibits",
+      "ingenuity"
+    ],
+    [
+      "building",
+      "facilitates",
+      "chemical signals"
+    ],
+    [
+      "building",
+      "involves",
+      "architectural techniques"
+    ],
+    [
+      "building",
+      "involves",
+      "construct"
+    ],
+    [
+      "building",
+      "involves",
+      "construction"
+    ],
+    [
+      "building",
+      "involves",
+      "nest building"
+    ],
+    [
+      "building",
+      "involves",
+      "repairing"
+    ],
+    [
+      "building",
+      "involves",
+      "resilience"
+    ],
+    [
+      "building",
+      "involves",
+      "symbiotic relationship"
+    ],
+    [
+      "building",
+      "is a process of",
+      "process"
+    ],
+    [
+      "building",
+      "is essential for",
+      "continuity"
+    ],
+    [
+      "building",
+      "supports",
+      "survival"
+    ],
+    [
+      "caring",
+      "cared for by",
+      "eggs"
+    ],
+    [
+      "caring",
+      "contributes to",
+      "organization"
+    ],
+    [
+      "caring",
+      "enables",
+      "thrive"
+    ],
+    [
+      "caring",
+      "enhances",
+      "coordination"
+    ],
+    [
+      "caring",
+      "facilitates",
+      "survival"
+    ],
+    [
+      "caring",
+      "influences",
+      "behavior"
+    ],
+    [
+      "caring",
+      "receives care from",
+      "community"
+    ],
+    [
+      "caring",
+      "shapes",
+      "hierarchy"
+    ],
+    [
+      "caring",
+      "supports",
+      "backbone"
+    ],
+    [
+      "caring",
+      "supports",
+      "soldier ants"
+    ],
+    [
+      "chambers",
+      "builds successful",
+      "successful"
+    ],
+    [
+      "chambers",
+      "comprises",
+      "structure"
+    ],
+    [
+      "chambers",
+      "constructed in",
+      "communication"
+    ],
+    [
+      "chambers",
+      "contributes to",
+      "efficient"
+    ],
+    [
+      "chambers",
+      "influences",
+      "pheromones"
+    ],
+    [
+      "chambers",
+      "is part of",
+      "nature"
+    ],
+    [
+      "chambers",
+      "is part of",
+      "process"
+    ],
+    [
+      "chambers",
+      "requires",
+      "engineering"
+    ],
+    [
+      "chemical signals",
+      "facilitates",
+      "engineering"
+    ],
+    [
+      "chemical signals",
+      "facilitates",
+      "improvise"
+    ],
+    [
+      "chemical signals",
+      "facilitates",
+      "pheromones"
+    ],
+    [
+      "chemical signals",
+      "improves",
+      "efficient"
+    ],
+    [
+      "chemical signals",
+      "informs",
+      "chambers"
+    ],
+    [
+      "chemical signals",
+      "involves",
+      "process"
+    ],
+    [
+      "chemical signals",
+      "supports",
+      "foraging"
+    ],
+    [
+      "chemical signals",
+      "utilized by",
+      "materials"
+    ],
+    [
+      "chemical signals",
+      "utilizes",
+      "successful"
+    ],
+    [
+      "chemical signals",
+      "utilizes",
+      "worker ants"
+    ],
+    [
+      "collaborative effort",
+      "builds",
+      "societies"
+    ],
+    [
+      "collaborative effort",
+      "contributes to",
+      "defense"
+    ],
+    [
+      "collaborative effort",
+      "demonstrates",
+      "ingenuity"
+    ],
+    [
+      "collaborative effort",
+      "demonstrates",
+      "teamwork"
+    ],
+    [
+      "collaborative effort",
+      "enables",
+      "instinct"
+    ],
+    [
+      "collaborative effort",
+      "enhances",
+      "coordination"
+    ],
+    [
+      "collaborative effort",
+      "enhances",
+      "organization"
+    ],
+    [
+      "collaborative effort",
+      "enhances",
+      "symbiotic relationship"
+    ],
+    [
+      "collaborative effort",
+      "establishes",
+      "hierarchy"
+    ],
+    [
+      "collaborative effort",
+      "involves",
+      "caring"
+    ],
+    [
+      "collaborative effort",
+      "is a form of",
+      "cooperation"
+    ],
+    [
+      "collaborative effort",
+      "is achieved through",
+      "successful"
+    ],
+    [
+      "collaborative effort",
+      "provides",
+      "protection"
+    ],
+    [
+      "collaborative effort",
+      "results from",
+      "response"
+    ],
+    [
+      "collaborative effort",
+      "results from",
+      "society"
+    ],
+    [
+      "collaborative effort",
+      "results in",
+      "complex"
+    ],
+    [
+      "colony",
+      "caring for",
+      "caring"
+    ],
+    [
+      "colony",
+      "forms",
+      "societies"
+    ],
+    [
+      "colony",
+      "is a source of",
+      "prosperity"
+    ],
+    [
+      "colony",
+      "is a type of",
+      "complex"
+    ],
+    [
+      "colony",
+      "is essential for",
+      "activities"
+    ],
+    [
+      "colony",
+      "provides",
+      "lessons"
+    ],
+    [
+      "colony",
+      "provides",
+      "protection"
+    ],
+    [
+      "colony",
+      "requires",
+      "adapt"
+    ],
+    [
+      "colony",
+      "supports",
+      "mastery"
+    ],
+    [
+      "colony",
+      "supports",
+      "resilience"
+    ],
+    [
+      "colony",
+      "supports",
+      "thrive"
+    ],
+    [
+      "communication",
+      "enhances",
+      "adaptability"
+    ],
+    [
+      "communication",
+      "enhances",
+      "coordination"
+    ],
+    [
+      "communication",
+      "enhances",
+      "efficient"
+    ],
+    [
+      "communication",
+      "enhances",
+      "engineering"
+    ],
+    [
+      "communication",
+      "enhances",
+      "symbiotic relationship"
+    ],
+    [
+      "communication",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "chemical signals"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "collaborative effort"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "cooperation"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "nest"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "organization"
+    ],
+    [
+      "communication",
+      "facilitates foraging through",
+      "foraging"
+    ],
+    [
+      "communication",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "communication",
+      "influences",
+      "behavior"
+    ],
+    [
+      "communication",
+      "offers insights into",
+      "insights"
+    ],
+    [
+      "communication",
+      "promotes",
+      "sustainable"
+    ],
+    [
+      "communication",
+      "utilized in",
+      "pheromones"
+    ],
+    [
+      "community",
+      "defines",
+      "roles"
+    ],
+    [
+      "community",
+      "enables",
+      "collaborative effort"
+    ],
+    [
+      "community",
+      "enables",
+      "thrive"
+    ],
+    [
+      "community",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "community",
+      "is a reaction to",
+      "response"
+    ],
+    [
+      "community",
+      "is crucial for",
+      "defense"
+    ],
+    [
+      "community",
+      "is governed by",
+      "queen"
+    ],
+    [
+      "community",
+      "supports",
+      "population"
+    ],
+    [
+      "complex",
+      "forms",
+      "hierarchy"
+    ],
+    [
+      "complex",
+      "is a result of",
+      "prosperity"
+    ],
+    [
+      "complex",
+      "is ensured by",
+      "survival"
+    ],
+    [
+      "complex",
+      "results in",
+      "efficient"
+    ],
+    [
+      "construct",
+      "affects",
+      "natural disasters"
+    ],
+    [
+      "construct",
+      "enables",
+      "relocate"
+    ],
+    [
+      "construct",
+      "enables",
+      "thrive"
+    ],
+    [
+      "construct",
+      "ensures",
+      "safety"
+    ],
+    [
+      "construct",
+      "ensures",
+      "survival"
+    ],
+    [
+      "construct",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "construct",
+      "initiates",
+      "new site"
+    ],
+    [
+      "construct",
+      "involves",
+      "foraging"
+    ],
+    [
+      "construct",
+      "performed by",
+      "ants"
+    ],
+    [
+      "construct",
+      "requires",
+      "improvise"
+    ],
+    [
+      "construct",
+      "results in",
+      "efficient"
+    ],
+    [
+      "construct",
+      "used to",
+      "environment"
+    ],
+    [
+      "construct",
+      "utilizes",
+      "engineering"
+    ],
+    [
+      "construction",
+      "challenges",
+      "adversity"
+    ],
+    [
+      "construction",
+      "contributes to survival through",
+      "survival"
+    ],
+    [
+      "construction",
+      "describes",
+      "process"
+    ],
+    [
+      "construction",
+      "enhances",
+      "efficiency"
+    ],
+    [
+      "construction",
+      "involves",
+      "engineering"
+    ],
+    [
+      "construction",
+      "involves",
+      "soldier ants"
+    ],
+    [
+      "construction",
+      "performs",
+      "leafcutter ants"
+    ],
+    [
+      "construction",
+      "supports",
+      "backbone"
+    ],
+    [
+      "continuity",
+      "defines",
+      "roles"
+    ],
+    [
+      "continuity",
+      "demonstrates",
+      "fascinating"
+    ],
+    [
+      "continuity",
+      "drives",
+      "evolution"
+    ],
+    [
+      "continuity",
+      "enables",
+      "improvise"
+    ],
+    [
+      "continuity",
+      "enhances",
+      "adaptability"
+    ],
+    [
+      "continuity",
+      "ensures",
+      "organization"
+    ],
+    [
+      "continuity",
+      "ensures",
+      "population"
+    ],
+    [
+      "continuity",
+      "ensures",
+      "queen"
+    ],
+    [
+      "continuity",
+      "ensures",
+      "relocate"
+    ],
+    [
+      "continuity",
+      "ensures",
+      "responsibilities"
+    ],
+    [
+      "continuity",
+      "ensures",
+      "successful"
+    ],
+    [
+      "continuity",
+      "is essential for",
+      "caring"
+    ],
+    [
+      "continuity",
+      "is essential for",
+      "exploration"
+    ],
+    [
+      "continuity",
+      "is vital for",
+      "strategies"
+    ],
+    [
+      "continuity",
+      "supports",
+      "efficient"
+    ],
+    [
+      "cooperation",
+      "creates",
+      "colony"
+    ],
+    [
+      "cooperation",
+      "enables",
+      "repairing"
+    ],
+    [
+      "cooperation",
+      "ensures",
+      "survival"
+    ],
+    [
+      "cooperation",
+      "includes",
+      "soldier ants"
+    ],
+    [
+      "cooperation",
+      "informs",
+      "societies"
+    ],
+    [
+      "cooperation",
+      "provides",
+      "protection"
+    ],
+    [
+      "coordination",
+      "enables",
+      "backbone"
+    ],
+    [
+      "coordination",
+      "requires",
+      "threats"
+    ],
+    [
+      "defense",
+      "defended by",
+      "societies"
+    ],
+    [
+      "defense",
+      "ensured by",
+      "prosperity"
+    ],
+    [
+      "defense",
+      "ensures",
+      "survival"
+    ],
+    [
+      "defense",
+      "mitigated by",
+      "adversity"
+    ],
+    [
+      "defense",
+      "protects",
+      "eggs"
+    ],
+    [
+      "defense",
+      "related to",
+      "activities"
+    ],
+    [
+      "defense",
+      "requires",
+      "adapt"
+    ],
+    [
+      "distinct",
+      "defines",
+      "hierarchy"
+    ],
+    [
+      "distinct",
+      "ensures",
+      "protection"
+    ],
+    [
+      "distinct",
+      "is a characteristic of",
+      "societies"
+    ],
+    [
+      "distinct",
+      "is a type of",
+      "complex"
+    ],
+    [
+      "distinct",
+      "is characterized by",
+      "symbiotic relationship"
+    ],
+    [
+      "distinct",
+      "offers",
+      "principles"
+    ],
+    [
+      "distinct",
+      "provides",
+      "lessons"
+    ],
+    [
+      "efficiency",
+      "achieved through",
+      "prosperity"
+    ],
+    [
+      "efficiency",
+      "enhanced by",
+      "larvae"
+    ],
+    [
+      "efficiency",
+      "enhances",
+      "adapt"
+    ],
+    [
+      "efficiency",
+      "enhances",
+      "backbone"
+    ],
+    [
+      "efficiency",
+      "enhances",
+      "chambers"
+    ],
+    [
+      "efficiency",
+      "enhances",
+      "engineering"
+    ],
+    [
+      "efficiency",
+      "enhances",
+      "engineering abilities"
+    ],
+    [
+      "efficiency",
+      "facilitates",
+      "pheromones"
+    ],
+    [
+      "efficiency",
+      "improves",
+      "activities"
+    ],
+    [
+      "efficiency",
+      "improves",
+      "adversity"
+    ],
+    [
+      "efficiency",
+      "improves",
+      "environment"
+    ],
+    [
+      "efficiency",
+      "improves",
+      "foraging"
+    ],
+    [
+      "efficiency",
+      "improves",
+      "soldier ants"
+    ],
+    [
+      "efficient",
+      "achieves",
+      "maximize"
+    ],
+    [
+      "efficient",
+      "is enhanced by",
+      "repairing"
+    ],
+    [
+      "efficient",
+      "is facilitated by",
+      "symbiotic relationship"
+    ],
+    [
+      "eggs",
+      "associated with",
+      "exploration"
+    ],
+    [
+      "eggs",
+      "defines",
+      "responsibilities"
+    ],
+    [
+      "eggs",
+      "enables",
+      "collaborative effort"
+    ],
+    [
+      "eggs",
+      "enhanced by",
+      "maximize"
+    ],
+    [
+      "eggs",
+      "ensures continuity of",
+      "continuity"
+    ],
+    [
+      "eggs",
+      "influences",
+      "behavior"
+    ],
+    [
+      "eggs",
+      "is part of",
+      "activities"
+    ],
+    [
+      "eggs",
+      "is part of",
+      "hierarchy"
+    ],
+    [
+      "eggs",
+      "is produced by",
+      "ants"
+    ],
+    [
+      "eggs",
+      "is relocated to",
+      "new site"
+    ],
+    [
+      "eggs",
+      "produces",
+      "queen"
+    ],
+    [
+      "eggs",
+      "supports",
+      "colony"
+    ],
+    [
+      "eggs",
+      "utilizes",
+      "foraging"
+    ],
+    [
+      "engineering",
+      "involves",
+      "process"
+    ],
+    [
+      "engineering",
+      "is a result of",
+      "successful"
+    ],
+    [
+      "engineering",
+      "utilized in",
+      "nature"
+    ],
+    [
+      "engineering abilities",
+      "demonstrated by",
+      "fungus gardens"
+    ],
+    [
+      "engineering abilities",
+      "demonstrates",
+      "ants"
+    ],
+    [
+      "engineering abilities",
+      "demonstrates",
+      "efficient"
+    ],
+    [
+      "engineering abilities",
+      "enhanced by",
+      "construct"
+    ],
+    [
+      "engineering abilities",
+      "enhances",
+      "adaptability"
+    ],
+    [
+      "engineering abilities",
+      "enhances",
+      "process"
+    ],
+    [
+      "engineering abilities",
+      "ensures",
+      "safety"
+    ],
+    [
+      "engineering abilities",
+      "facilitates",
+      "foraging"
+    ],
+    [
+      "engineering abilities",
+      "supports",
+      "chambers"
+    ],
+    [
+      "engineering abilities",
+      "utilizes",
+      "chemical signals"
+    ],
+    [
+      "engineering abilities",
+      "utilizes",
+      "pheromones"
+    ],
+    [
+      "environment",
+      "contains",
+      "chambers"
+    ],
+    [
+      "environment",
+      "demonstrates",
+      "engineering abilities"
+    ],
+    [
+      "environment",
+      "enables thriving in",
+      "thrive"
+    ],
+    [
+      "environment",
+      "encourages",
+      "exploration"
+    ],
+    [
+      "environment",
+      "enhances",
+      "communication"
+    ],
+    [
+      "environment",
+      "influences",
+      "complex"
+    ],
+    [
+      "environment",
+      "influences",
+      "foraging"
+    ],
+    [
+      "environment",
+      "influences",
+      "nest building"
+    ],
+    [
+      "environment",
+      "influences",
+      "structure"
+    ],
+    [
+      "environment",
+      "inhabits",
+      "ants"
+    ],
+    [
+      "environment",
+      "is crucial for",
+      "survival"
+    ],
+    [
+      "environment",
+      "is perceived as",
+      "fascinating"
+    ],
+    [
+      "environment",
+      "relocated to",
+      "new site"
+    ],
+    [
+      "environment",
+      "shapes",
+      "construction"
+    ],
+    [
+      "environment",
+      "supports",
+      "fungus gardens"
+    ],
+    [
+      "environment",
+      "utilizes",
+      "materials"
+    ],
+    [
+      "evolution",
+      "demonstrates",
+      "ingenuity"
+    ],
+    [
+      "evolution",
+      "derived from",
+      "lessons"
+    ],
+    [
+      "evolution",
+      "enables",
+      "improvise"
+    ],
+    [
+      "evolution",
+      "enables",
+      "thrive"
+    ],
+    [
+      "evolution",
+      "enhanced by",
+      "maximize"
+    ],
+    [
+      "evolution",
+      "enhances",
+      "engineering abilities"
+    ],
+    [
+      "evolution",
+      "influences",
+      "organization"
+    ],
+    [
+      "evolution",
+      "influences",
+      "principles"
+    ],
+    [
+      "evolution",
+      "leads to",
+      "new site"
+    ],
+    [
+      "evolution",
+      "promotes",
+      "efficient"
+    ],
+    [
+      "evolution",
+      "results in",
+      "complex"
+    ],
+    [
+      "exploration",
+      "demonstrates",
+      "ingenuity"
+    ],
+    [
+      "exploration",
+      "enables",
+      "thrive"
+    ],
+    [
+      "exploration",
+      "enhances",
+      "efficiency"
+    ],
+    [
+      "exploration",
+      "facilitates",
+      "chemical signals"
+    ],
+    [
+      "exploration",
+      "includes",
+      "ants"
+    ],
+    [
+      "exploration",
+      "involves",
+      "building"
+    ],
+    [
+      "exploration",
+      "involves",
+      "construction"
+    ],
+    [
+      "exploration",
+      "is a factor in",
+      "new site"
+    ],
+    [
+      "exploration",
+      "is part of",
+      "symbiotic relationship"
+    ],
+    [
+      "exploration",
+      "triggers",
+      "natural disasters"
+    ],
+    [
+      "exploration",
+      "triggers",
+      "relocate"
+    ],
+    [
+      "exploration",
+      "utilized by",
+      "soldier ants"
+    ],
+    [
+      "fascinating",
+      "captures",
+      "backbone"
+    ],
+    [
+      "fascinating",
+      "captures",
+      "strategies"
+    ],
+    [
+      "fascinating",
+      "enables",
+      "thrive"
+    ],
+    [
+      "fascinating",
+      "encourages",
+      "adapt"
+    ],
+    [
+      "fascinating",
+      "ensures",
+      "survival"
+    ],
+    [
+      "fascinating",
+      "intrigues",
+      "principles"
+    ],
+    [
+      "fascinating",
+      "intrigues",
+      "society"
+    ],
+    [
+      "fascinating",
+      "intrigues",
+      "threats"
+    ],
+    [
+      "fascinating",
+      "involves",
+      "foraging"
+    ],
+    [
+      "fascinating",
+      "is characterized by",
+      "efficiency"
+    ],
+    [
+      "fascinating",
+      "is exemplified by",
+      "societies"
+    ],
+    [
+      "fascinating",
+      "is perceived as",
+      "relocate"
+    ],
+    [
+      "fascinating",
+      "is perceived as",
+      "successful"
+    ],
+    [
+      "flooding",
+      "affects",
+      "architectural techniques"
+    ],
+    [
+      "flooding",
+      "affects",
+      "efficiency"
+    ],
+    [
+      "flooding",
+      "affects",
+      "larvae"
+    ],
+    [
+      "flooding",
+      "affects",
+      "leafcutter ants"
+    ],
+    [
+      "flooding",
+      "affects",
+      "materials"
+    ],
+    [
+      "flooding",
+      "affects",
+      "structure"
+    ],
+    [
+      "flooding",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "flooding",
+      "impacts",
+      "eggs"
+    ],
+    [
+      "flooding",
+      "impacts",
+      "mastery"
+    ],
+    [
+      "flooding",
+      "influences",
+      "construction"
+    ],
+    [
+      "flooding",
+      "influences",
+      "symbiotic relationship"
+    ],
+    [
+      "flooding",
+      "respond to",
+      "ants"
+    ],
+    [
+      "flooding",
+      "responds to",
+      "improvise"
+    ],
+    [
+      "flooding",
+      "responds to",
+      "resilience"
+    ],
+    [
+      "flooding",
+      "triggers",
+      "building"
+    ],
+    [
+      "flooding",
+      "triggers",
+      "evolution"
+    ],
+    [
+      "flooding",
+      "triggers",
+      "relocate"
+    ],
+    [
+      "foraging",
+      "affects",
+      "flooding"
+    ],
+    [
+      "foraging",
+      "enables",
+      "thrive"
+    ],
+    [
+      "foraging",
+      "facilitates",
+      "pheromones"
+    ],
+    [
+      "foraging",
+      "is influenced by",
+      "chambers"
+    ],
+    [
+      "foraging",
+      "performed by",
+      "leafcutter ants"
+    ],
+    [
+      "foraging",
+      "performed during",
+      "repairing"
+    ],
+    [
+      "functions",
+      "serves as",
+      "safety"
+    ],
+    [
+      "fungus gardens",
+      "composed of",
+      "structure"
+    ],
+    [
+      "fungus gardens",
+      "exemplifies",
+      "ingenuity"
+    ],
+    [
+      "fungus gardens",
+      "facilitates",
+      "chemical signals"
+    ],
+    [
+      "fungus gardens",
+      "influences",
+      "nest building"
+    ],
+    [
+      "fungus gardens",
+      "involves",
+      "building"
+    ],
+    [
+      "fungus gardens",
+      "is built in",
+      "new site"
+    ],
+    [
+      "fungus gardens",
+      "is characterized by",
+      "fascinating"
+    ],
+    [
+      "fungus gardens",
+      "is cultivated by",
+      "foraging"
+    ],
+    [
+      "fungus gardens",
+      "utilizes",
+      "architectural techniques"
+    ],
+    [
+      "harmonious",
+      "creates",
+      "society"
+    ],
+    [
+      "harmonious",
+      "is characterized by",
+      "complex"
+    ],
+    [
+      "harmonious",
+      "is characterized by",
+      "structure"
+    ],
+    [
+      "harmonious",
+      "is found in",
+      "chambers"
+    ],
+    [
+      "harmonious",
+      "promotes",
+      "fungus gardens"
+    ],
+    [
+      "harmonious",
+      "results in",
+      "collaborative effort"
+    ],
+    [
+      "hierarchy",
+      "comprises",
+      "ants"
+    ],
+    [
+      "hierarchy",
+      "creates",
+      "mastery"
+    ],
+    [
+      "impressive",
+      "contributes to",
+      "prosperity"
+    ],
+    [
+      "impressive",
+      "demonstrates",
+      "engineering"
+    ],
+    [
+      "impressive",
+      "demonstrates",
+      "ingenuity"
+    ],
+    [
+      "impressive",
+      "describes",
+      "mastery"
+    ],
+    [
+      "impressive",
+      "enhances",
+      "nest building"
+    ],
+    [
+      "impressive",
+      "ensures",
+      "continuity"
+    ],
+    [
+      "impressive",
+      "facilitates",
+      "chemical signals"
+    ],
+    [
+      "impressive",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "impressive",
+      "involves",
+      "construct"
+    ],
+    [
+      "impressive",
+      "involves",
+      "repairing"
+    ],
+    [
+      "impressive",
+      "is challenged by",
+      "adversity"
+    ],
+    [
+      "impressive",
+      "is demonstrated by",
+      "adaptability"
+    ],
+    [
+      "impressive",
+      "is necessary for",
+      "adapt"
+    ],
+    [
+      "improvise",
+      "benefits from",
+      "larvae"
+    ],
+    [
+      "improvise",
+      "demonstrates",
+      "leafcutter ants"
+    ],
+    [
+      "improvise",
+      "enables",
+      "exploration"
+    ],
+    [
+      "improvise",
+      "enables",
+      "maximize"
+    ],
+    [
+      "improvise",
+      "enables",
+      "sustainable"
+    ],
+    [
+      "improvise",
+      "enables",
+      "thrive"
+    ],
+    [
+      "improvise",
+      "enhances",
+      "efficient"
+    ],
+    [
+      "improvise",
+      "informs",
+      "insights"
+    ],
+    [
+      "improvise",
+      "is essential for",
+      "structure"
+    ],
+    [
+      "improvise",
+      "is necessary for",
+      "natural disasters"
+    ],
+    [
+      "improvise",
+      "is related to",
+      "foraging"
+    ],
+    [
+      "improvise",
+      "relocate to",
+      "new site"
+    ],
+    [
+      "improvise",
+      "requires",
+      "symbiotic relationship"
+    ],
+    [
+      "improvise",
+      "respond to",
+      "environment"
+    ],
+    [
+      "improvise",
+      "supports",
+      "eggs"
+    ],
+    [
+      "improvise",
+      "utilizes",
+      "pheromones"
+    ],
+    [
+      "improvise",
+      "utilizes",
+      "resources"
+    ],
+    [
+      "ingenuity",
+      "allows to",
+      "thrive"
+    ],
+    [
+      "ingenuity",
+      "contributes to",
+      "efficient"
+    ],
+    [
+      "ingenuity",
+      "demonstrates",
+      "engineering"
+    ],
+    [
+      "ingenuity",
+      "demonstrates",
+      "flooding"
+    ],
+    [
+      "ingenuity",
+      "demonstrates",
+      "relocate"
+    ],
+    [
+      "ingenuity",
+      "enables",
+      "adapt"
+    ],
+    [
+      "ingenuity",
+      "enables",
+      "improvise"
+    ],
+    [
+      "ingenuity",
+      "enhances",
+      "backbone"
+    ],
+    [
+      "ingenuity",
+      "enhances",
+      "cooperation"
+    ],
+    [
+      "ingenuity",
+      "enhances",
+      "engineering abilities"
+    ],
+    [
+      "ingenuity",
+      "ensures",
+      "survival"
+    ],
+    [
+      "ingenuity",
+      "exemplifies",
+      "symbiotic relationship"
+    ],
+    [
+      "ingenuity",
+      "exhibited by",
+      "soldier ants"
+    ],
+    [
+      "ingenuity",
+      "facilitates",
+      "chemical signals"
+    ],
+    [
+      "ingenuity",
+      "facilitates",
+      "pheromones"
+    ],
+    [
+      "ingenuity",
+      "influences",
+      "maximize"
+    ],
+    [
+      "ingenuity",
+      "inspired by",
+      "adversity"
+    ],
+    [
+      "ingenuity",
+      "is a form of",
+      "organization"
+    ],
+    [
+      "ingenuity",
+      "supports",
+      "foraging"
+    ],
+    [
+      "ingenuity",
+      "supports",
+      "teamwork"
+    ],
+    [
+      "insights",
+      "enhances",
+      "efficient"
+    ],
+    [
+      "insights",
+      "informs",
+      "behavior"
+    ],
+    [
+      "insights",
+      "informs",
+      "chemical signals"
+    ],
+    [
+      "insights",
+      "informs",
+      "engineering abilities"
+    ],
+    [
+      "insights",
+      "informs",
+      "nest building"
+    ],
+    [
+      "insights",
+      "is gained from",
+      "relocate"
+    ],
+    [
+      "insights",
+      "offers",
+      "lessons"
+    ],
+    [
+      "insights",
+      "provides",
+      "architectural techniques"
+    ],
+    [
+      "insights",
+      "provides",
+      "cooperation"
+    ],
+    [
+      "insights",
+      "provides",
+      "coordination"
+    ],
+    [
+      "insights",
+      "provides",
+      "distinct"
+    ],
+    [
+      "insights",
+      "provides",
+      "flooding"
+    ],
+    [
+      "insights",
+      "provides",
+      "fungus gardens"
+    ],
+    [
+      "insights",
+      "provides",
+      "hierarchy"
+    ],
+    [
+      "insights",
+      "provides",
+      "society"
+    ],
+    [
+      "insights",
+      "provides",
+      "sustainable"
+    ],
+    [
+      "insights",
+      "provides",
+      "teamwork"
+    ],
+    [
+      "insights",
+      "provides",
+      "tunnels"
+    ],
+    [
+      "insights",
+      "provides insights into",
+      "nature"
+    ],
+    [
+      "insights",
+      "provides insights into",
+      "species"
+    ],
+    [
+      "instinct",
+      "contributes to",
+      "successful"
+    ],
+    [
+      "instinct",
+      "demonstrates",
+      "resilience"
+    ],
+    [
+      "instinct",
+      "enhances",
+      "adaptability"
+    ],
+    [
+      "instinct",
+      "guides",
+      "soldier ants"
+    ],
+    [
+      "instinct",
+      "influences",
+      "activities"
+    ],
+    [
+      "instinct",
+      "provides",
+      "insights"
+    ],
+    [
+      "instinct",
+      "triggers",
+      "adversity"
+    ],
+    [
+      "larvae",
+      "contributes to",
+      "prosperity"
+    ],
+    [
+      "larvae",
+      "involves",
+      "building"
+    ],
+    [
+      "larvae",
+      "is necessary for",
+      "relocate"
+    ],
+    [
+      "larvae",
+      "utilizes",
+      "resources"
+    ],
+    [
+      "leafcutter ants",
+      "affected by",
+      "natural disasters"
+    ],
+    [
+      "leafcutter ants",
+      "benefits from",
+      "repairing"
+    ],
+    [
+      "leafcutter ants",
+      "constructed by",
+      "structure"
+    ],
+    [
+      "leafcutter ants",
+      "created by",
+      "fungus gardens"
+    ],
+    [
+      "leafcutter ants",
+      "exemplified by",
+      "efficient"
+    ],
+    [
+      "leafcutter ants",
+      "is performed by",
+      "construct"
+    ],
+    [
+      "leafcutter ants",
+      "performed by",
+      "building"
+    ],
+    [
+      "leafcutter ants",
+      "thrives in",
+      "thrive"
+    ],
+    [
+      "lessons",
+      "informs",
+      "roles"
+    ],
+    [
+      "lessons",
+      "informs",
+      "skills"
+    ],
+    [
+      "lessons",
+      "informs about",
+      "natural disasters"
+    ],
+    [
+      "lessons",
+      "offers",
+      "fascinating"
+    ],
+    [
+      "lessons",
+      "offers",
+      "symbiotic relationship"
+    ],
+    [
+      "lessons",
+      "provides",
+      "activities"
+    ],
+    [
+      "lessons",
+      "provides",
+      "community"
+    ],
+    [
+      "lessons",
+      "provides",
+      "defense"
+    ],
+    [
+      "lessons",
+      "provides",
+      "ingenuity"
+    ],
+    [
+      "lessons",
+      "provides",
+      "society"
+    ],
+    [
+      "lessons",
+      "provides lessons on",
+      "behavior"
+    ],
+    [
+      "mastery",
+      "achieved through",
+      "community"
+    ],
+    [
+      "mastery",
+      "achieved through",
+      "responsibilities"
+    ],
+    [
+      "mastery",
+      "affects",
+      "population"
+    ],
+    [
+      "mastery",
+      "characterized by",
+      "fascinating"
+    ],
+    [
+      "mastery",
+      "contributes to",
+      "thrive"
+    ],
+    [
+      "mastery",
+      "demonstrates",
+      "complex"
+    ],
+    [
+      "mastery",
+      "demonstrates",
+      "coordination"
+    ],
+    [
+      "mastery",
+      "demonstrates",
+      "soldier ants"
+    ],
+    [
+      "mastery",
+      "enhances",
+      "efficiency"
+    ],
+    [
+      "mastery",
+      "involves",
+      "building"
+    ],
+    [
+      "mastery",
+      "involves",
+      "caring"
+    ],
+    [
+      "mastery",
+      "involves",
+      "construction"
+    ],
+    [
+      "mastery",
+      "is a result of",
+      "resilience"
+    ],
+    [
+      "mastery",
+      "is essential for",
+      "backbone"
+    ],
+    [
+      "mastery",
+      "leads to",
+      "prosperity"
+    ],
+    [
+      "mastery",
+      "protects against",
+      "threats"
+    ],
+    [
+      "mastery",
+      "supports",
+      "defense"
+    ],
+    [
+      "mastery",
+      "supports",
+      "symbiotic relationship"
+    ],
+    [
+      "materials",
+      "aids",
+      "communication"
+    ],
+    [
+      "materials",
+      "composes",
+      "structure"
+    ],
+    [
+      "materials",
+      "demonstrates",
+      "engineering abilities"
+    ],
+    [
+      "materials",
+      "enhances",
+      "efficiency"
+    ],
+    [
+      "materials",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "materials",
+      "is a component of",
+      "chambers"
+    ],
+    [
+      "materials",
+      "is essential for",
+      "successful"
+    ],
+    [
+      "materials",
+      "is influenced by",
+      "adaptability"
+    ],
+    [
+      "materials",
+      "is used to build",
+      "tunnels"
+    ],
+    [
+      "materials",
+      "is utilized as",
+      "resources"
+    ],
+    [
+      "materials",
+      "is utilized for",
+      "new site"
+    ],
+    [
+      "materials",
+      "provides",
+      "insights"
+    ],
+    [
+      "materials",
+      "supports",
+      "symbiotic relationship"
+    ],
+    [
+      "materials",
+      "used to",
+      "relocate"
+    ],
+    [
+      "materials",
+      "utilized by",
+      "ants"
+    ],
+    [
+      "materials",
+      "utilized in",
+      "process"
+    ],
+    [
+      "materials",
+      "utilizes",
+      "leafcutter ants"
+    ],
+    [
+      "materials",
+      "utilizes",
+      "nest building"
+    ],
+    [
+      "maximize",
+      "enables",
+      "new site"
+    ],
+    [
+      "maximize",
+      "enables",
+      "thrive"
+    ],
+    [
+      "maximize",
+      "improves",
+      "responsibilities"
+    ],
+    [
+      "maximize",
+      "informs",
+      "principles"
+    ],
+    [
+      "maximize",
+      "is a response to",
+      "flooding"
+    ],
+    [
+      "maximize",
+      "maximizes",
+      "caring"
+    ],
+    [
+      "maximize",
+      "promotes",
+      "sustainable"
+    ],
+    [
+      "maximize",
+      "results in",
+      "complex"
+    ],
+    [
+      "maximize",
+      "strengthened by",
+      "resilience"
+    ],
+    [
+      "maximize",
+      "supports",
+      "colony"
+    ],
+    [
+      "mobilize",
+      "assists",
+      "soldier ants"
+    ],
+    [
+      "mobilize",
+      "demonstrates",
+      "ingenuity"
+    ],
+    [
+      "mobilize",
+      "enables",
+      "societies"
+    ],
+    [
+      "mobilize",
+      "enables",
+      "thrive"
+    ],
+    [
+      "mobilize",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "mobilize",
+      "ensures",
+      "safety"
+    ],
+    [
+      "mobilize",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "mobilize",
+      "facilitates",
+      "cooperation"
+    ],
+    [
+      "mobilize",
+      "facilitates",
+      "society"
+    ],
+    [
+      "mobilize",
+      "initiates",
+      "behavior"
+    ],
+    [
+      "mobilize",
+      "is a result of",
+      "symbiotic relationship"
+    ],
+    [
+      "mobilize",
+      "mobilizes for",
+      "protection"
+    ],
+    [
+      "mobilize",
+      "mobilizes in response to",
+      "natural disasters"
+    ],
+    [
+      "mobilize",
+      "mobilizes to",
+      "colony"
+    ],
+    [
+      "mobilize",
+      "requires",
+      "organization"
+    ],
+    [
+      "mobilize",
+      "requires coordination for",
+      "coordination"
+    ],
+    [
+      "mobilize",
+      "responds to",
+      "adversity"
+    ],
+    [
+      "mobilize",
+      "supports",
+      "defense"
+    ],
+    [
+      "mobilize",
+      "supports",
+      "repairing"
+    ],
+    [
+      "mobilize",
+      "triggers",
+      "response"
+    ],
+    [
+      "natural disasters",
+      "affected by",
+      "eggs"
+    ],
+    [
+      "natural disasters",
+      "affects",
+      "roles"
+    ],
+    [
+      "natural disasters",
+      "impacted by",
+      "community"
+    ],
+    [
+      "natural disasters",
+      "impacts",
+      "activities"
+    ],
+    [
+      "natural disasters",
+      "impacts",
+      "adversity"
+    ],
+    [
+      "natural disasters",
+      "impacts",
+      "efficiency"
+    ],
+    [
+      "natural disasters",
+      "impacts",
+      "larvae"
+    ],
+    [
+      "natural disasters",
+      "impacts",
+      "nest"
+    ],
+    [
+      "natural disasters",
+      "is affected by",
+      "building"
+    ],
+    [
+      "natural disasters",
+      "is affected by",
+      "new site"
+    ],
+    [
+      "natural disasters",
+      "is challenged by",
+      "backbone"
+    ],
+    [
+      "natural disasters",
+      "is impacted by",
+      "survival"
+    ],
+    [
+      "natural disasters",
+      "responded to by",
+      "foraging"
+    ],
+    [
+      "natural disasters",
+      "responds to",
+      "caring"
+    ],
+    [
+      "natural disasters",
+      "responds to",
+      "soldier ants"
+    ],
+    [
+      "natural disasters",
+      "responds to",
+      "threats"
+    ],
+    [
+      "nature",
+      "affects",
+      "flooding"
+    ],
+    [
+      "nature",
+      "communicates through",
+      "pheromones"
+    ],
+    [
+      "nature",
+      "enables",
+      "adapt"
+    ],
+    [
+      "nature",
+      "enables",
+      "improvise"
+    ],
+    [
+      "nature",
+      "influences",
+      "evolution"
+    ],
+    [
+      "nature",
+      "influences",
+      "resources"
+    ],
+    [
+      "nature",
+      "influences",
+      "tunnels"
+    ],
+    [
+      "nature",
+      "inhabits",
+      "ants"
+    ],
+    [
+      "nature",
+      "interacts with",
+      "leafcutter ants"
+    ],
+    [
+      "nature",
+      "involves",
+      "foraging"
+    ],
+    [
+      "nature",
+      "is influenced by",
+      "backbone"
+    ],
+    [
+      "nature",
+      "mastered by",
+      "mastery"
+    ],
+    [
+      "nature",
+      "provides",
+      "eggs"
+    ],
+    [
+      "nature",
+      "reflects",
+      "successful"
+    ],
+    [
+      "nest",
+      "is a result of",
+      "response"
+    ],
+    [
+      "nest",
+      "is central to",
+      "process"
+    ],
+    [
+      "nest",
+      "is created by",
+      "construct"
+    ],
+    [
+      "nest",
+      "is part of",
+      "instinct"
+    ],
+    [
+      "nest",
+      "serves various",
+      "functions"
+    ],
+    [
+      "nest building",
+      "demonstrates",
+      "adaptability"
+    ],
+    [
+      "nest building",
+      "demonstrates",
+      "ingenuity"
+    ],
+    [
+      "nest building",
+      "enables",
+      "engineering abilities"
+    ],
+    [
+      "nest building",
+      "evolves into",
+      "evolution"
+    ],
+    [
+      "nest building",
+      "facilitates",
+      "chemical signals"
+    ],
+    [
+      "nest building",
+      "facilitates",
+      "new site"
+    ],
+    [
+      "nest building",
+      "includes",
+      "tunnels"
+    ],
+    [
+      "nest building",
+      "influences",
+      "flooding"
+    ],
+    [
+      "nest building",
+      "influences",
+      "nature"
+    ],
+    [
+      "nest building",
+      "involves",
+      "architectural techniques"
+    ],
+    [
+      "nest building",
+      "involves",
+      "construct"
+    ],
+    [
+      "nest building",
+      "is a process of",
+      "exploration"
+    ],
+    [
+      "nest building",
+      "is a process of",
+      "process"
+    ],
+    [
+      "nest building",
+      "is guided by",
+      "pheromones"
+    ],
+    [
+      "nest building",
+      "is part of",
+      "chambers"
+    ],
+    [
+      "nest building",
+      "is performed by",
+      "ants"
+    ],
+    [
+      "nest building",
+      "requires",
+      "foraging"
+    ],
+    [
+      "nest building",
+      "requires",
+      "improvise"
+    ],
+    [
+      "new site",
+      "achieved through",
+      "prosperity"
+    ],
+    [
+      "new site",
+      "demonstrates",
+      "resilience"
+    ],
+    [
+      "new site",
+      "ensures",
+      "survival"
+    ],
+    [
+      "new site",
+      "establishes",
+      "hierarchy"
+    ],
+    [
+      "new site",
+      "improvise at",
+      "improvise"
+    ],
+    [
+      "new site",
+      "influences",
+      "strategies"
+    ],
+    [
+      "new site",
+      "involves",
+      "process"
+    ],
+    [
+      "new site",
+      "is utilized by",
+      "leafcutter ants"
+    ],
+    [
+      "new site",
+      "relocated to",
+      "larvae"
+    ],
+    [
+      "organization",
+      "achieved through",
+      "successful"
+    ],
+    [
+      "organization",
+      "enables",
+      "coordination"
+    ],
+    [
+      "organization",
+      "establishes",
+      "hierarchy"
+    ],
+    [
+      "organization",
+      "facilitates",
+      "defense"
+    ],
+    [
+      "organization",
+      "facilitates",
+      "protection"
+    ],
+    [
+      "organization",
+      "informs",
+      "roles"
+    ],
+    [
+      "organization",
+      "is a characteristic of",
+      "complex"
+    ],
+    [
+      "organization",
+      "is a factor in",
+      "eggs"
+    ],
+    [
+      "pheromones",
+      "facilitates",
+      "engineering"
+    ],
+    [
+      "pheromones",
+      "is achieved through",
+      "successful"
+    ],
+    [
+      "pheromones",
+      "is part of",
+      "process"
+    ],
+    [
+      "pheromones",
+      "is used by",
+      "leafcutter ants"
+    ],
+    [
+      "pheromones",
+      "utilizes",
+      "ants"
+    ],
+    [
+      "population",
+      "enables",
+      "organization"
+    ],
+    [
+      "population",
+      "ensures",
+      "eggs"
+    ],
+    [
+      "population",
+      "ensures",
+      "survival"
+    ],
+    [
+      "population",
+      "facilitates",
+      "mobilize"
+    ],
+    [
+      "population",
+      "influences",
+      "behavior"
+    ],
+    [
+      "population",
+      "is a concern for",
+      "defense"
+    ],
+    [
+      "population",
+      "is cared for by",
+      "caring"
+    ],
+    [
+      "population",
+      "is enhanced by",
+      "coordination"
+    ],
+    [
+      "population",
+      "supports",
+      "activities"
+    ],
+    [
+      "population",
+      "supports",
+      "backbone"
+    ],
+    [
+      "population",
+      "supports",
+      "thrive"
+    ],
+    [
+      "population",
+      "threatens",
+      "threats"
+    ],
+    [
+      "principles",
+      "challenges",
+      "adversity"
+    ],
+    [
+      "principles",
+      "defines",
+      "responsibilities"
+    ],
+    [
+      "principles",
+      "enhances",
+      "adaptability"
+    ],
+    [
+      "principles",
+      "enhances",
+      "symbiotic relationship"
+    ],
+    [
+      "principles",
+      "guides",
+      "building"
+    ],
+    [
+      "principles",
+      "illustrates",
+      "impressive"
+    ],
+    [
+      "principles",
+      "influences",
+      "efficiency"
+    ],
+    [
+      "principles",
+      "informs",
+      "community"
+    ],
+    [
+      "principles",
+      "informs",
+      "harmonious"
+    ],
+    [
+      "principles",
+      "informs",
+      "ingenuity"
+    ],
+    [
+      "principles",
+      "informs",
+      "mastery"
+    ],
+    [
+      "principles",
+      "informs",
+      "structure"
+    ],
+    [
+      "principles",
+      "shapes",
+      "behavior"
+    ],
+    [
+      "principles",
+      "supports",
+      "adapt"
+    ],
+    [
+      "principles",
+      "supports",
+      "backbone"
+    ],
+    [
+      "principles",
+      "supports",
+      "continuity"
+    ],
+    [
+      "principles",
+      "supports",
+      "thrive"
+    ],
+    [
+      "principles",
+      "underpin",
+      "ants"
+    ],
+    [
+      "principles",
+      "underpins",
+      "societies"
+    ],
+    [
+      "process",
+      "demonstrates",
+      "ingenuity"
+    ],
+    [
+      "process",
+      "enhanced by",
+      "skills"
+    ],
+    [
+      "process",
+      "influences",
+      "flooding"
+    ],
+    [
+      "process",
+      "informs",
+      "insights"
+    ],
+    [
+      "process",
+      "informs",
+      "nature"
+    ],
+    [
+      "process",
+      "is part of",
+      "fungus gardens"
+    ],
+    [
+      "process",
+      "is performed by",
+      "ants"
+    ],
+    [
+      "prosperity",
+      "contributes to",
+      "complex"
+    ],
+    [
+      "prosperity",
+      "contributes to",
+      "resilience"
+    ],
+    [
+      "prosperity",
+      "contributes to",
+      "strategies"
+    ],
+    [
+      "prosperity",
+      "demonstrates",
+      "ingenuity"
+    ],
+    [
+      "prosperity",
+      "drives",
+      "exploration"
+    ],
+    [
+      "prosperity",
+      "enhances",
+      "architectural techniques"
+    ],
+    [
+      "prosperity",
+      "ensures",
+      "roles"
+    ],
+    [
+      "prosperity",
+      "facilitates",
+      "construction"
+    ],
+    [
+      "prosperity",
+      "impacts",
+      "flooding"
+    ],
+    [
+      "prosperity",
+      "is supported by",
+      "foraging"
+    ],
+    [
+      "prosperity",
+      "is supported by",
+      "repairing"
+    ],
+    [
+      "prosperity",
+      "provides",
+      "lessons"
+    ],
+    [
+      "prosperity",
+      "supports",
+      "ants"
+    ],
+    [
+      "prosperity",
+      "supports",
+      "principles"
+    ],
+    [
+      "prosperity",
+      "supports",
+      "survival"
+    ],
+    [
+      "protection",
+      "ensured by",
+      "community"
+    ],
+    [
+      "protection",
+      "ensured by",
+      "instinct"
+    ],
+    [
+      "protection",
+      "ensured by",
+      "society"
+    ],
+    [
+      "protection",
+      "ensured by",
+      "tasks"
+    ],
+    [
+      "protection",
+      "ensures",
+      "safety"
+    ],
+    [
+      "protection",
+      "protected by",
+      "population"
+    ],
+    [
+      "protection",
+      "provides",
+      "queen"
+    ],
+    [
+      "queen",
+      "contributes to",
+      "organization"
+    ],
+    [
+      "queen",
+      "enables",
+      "coordination"
+    ],
+    [
+      "queen",
+      "guides",
+      "instinct"
+    ],
+    [
+      "queen",
+      "is associated with",
+      "species"
+    ],
+    [
+      "queen",
+      "is cared for by",
+      "repairing"
+    ],
+    [
+      "queen",
+      "is central to",
+      "colony"
+    ],
+    [
+      "queen",
+      "is central to",
+      "society"
+    ],
+    [
+      "queen",
+      "is crucial for",
+      "adapt"
+    ],
+    [
+      "queen",
+      "is essential for",
+      "cooperation"
+    ],
+    [
+      "queen",
+      "is influenced by",
+      "lessons"
+    ],
+    [
+      "queen",
+      "is part of",
+      "hierarchy"
+    ],
+    [
+      "queen",
+      "protected by",
+      "adversity"
+    ],
+    [
+      "queen",
+      "protected by",
+      "defense"
+    ],
+    [
+      "queen",
+      "protected by",
+      "resilience"
+    ],
+    [
+      "queen",
+      "provides care for",
+      "caring"
+    ],
+    [
+      "queen",
+      "serves",
+      "societies"
+    ],
+    [
+      "queen",
+      "supports",
+      "collaborative effort"
+    ],
+    [
+      "queen",
+      "supports",
+      "teamwork"
+    ],
+    [
+      "relocate",
+      "enables",
+      "natural disasters"
+    ],
+    [
+      "relocate",
+      "enables",
+      "nest building"
+    ],
+    [
+      "relocate",
+      "enables",
+      "repairing"
+    ],
+    [
+      "relocate",
+      "enables",
+      "sustainable"
+    ],
+    [
+      "relocate",
+      "enables",
+      "symbiotic relationship"
+    ],
+    [
+      "relocate",
+      "enables",
+      "tunnels"
+    ],
+    [
+      "relocate",
+      "facilitates",
+      "complex"
+    ],
+    [
+      "relocate",
+      "facilitates",
+      "pheromones"
+    ],
+    [
+      "relocate",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "relocate",
+      "influences",
+      "structure"
+    ],
+    [
+      "relocate",
+      "involves",
+      "chambers"
+    ],
+    [
+      "relocate",
+      "involves",
+      "construction"
+    ],
+    [
+      "relocate",
+      "involves",
+      "new site"
+    ],
+    [
+      "relocate",
+      "involves",
+      "process"
+    ],
+    [
+      "relocate",
+      "is a response to",
+      "adapt"
+    ],
+    [
+      "relocate",
+      "is guided by",
+      "chemical signals"
+    ],
+    [
+      "relocate",
+      "is influenced by",
+      "activities"
+    ],
+    [
+      "relocate",
+      "is influenced by",
+      "nature"
+    ],
+    [
+      "relocate",
+      "is part of",
+      "building"
+    ],
+    [
+      "relocate",
+      "performed by",
+      "soldier ants"
+    ],
+    [
+      "relocate",
+      "relocates to",
+      "mastery"
+    ],
+    [
+      "relocate",
+      "requires",
+      "engineering"
+    ],
+    [
+      "relocate",
+      "triggers",
+      "environment"
+    ],
+    [
+      "repairing",
+      "affects",
+      "flooding"
+    ],
+    [
+      "repairing",
+      "enhanced by",
+      "mastery"
+    ],
+    [
+      "repairing",
+      "enhances",
+      "ingenuity"
+    ],
+    [
+      "repairing",
+      "facilitates",
+      "adapt"
+    ],
+    [
+      "repairing",
+      "improved by",
+      "maximize"
+    ],
+    [
+      "repairing",
+      "involves",
+      "community"
+    ],
+    [
+      "repairing",
+      "involves",
+      "construct"
+    ],
+    [
+      "repairing",
+      "involves",
+      "evolution"
+    ],
+    [
+      "repairing",
+      "involves",
+      "larvae"
+    ],
+    [
+      "repairing",
+      "is a reaction to",
+      "response"
+    ],
+    [
+      "repairing",
+      "is addressed by",
+      "adversity"
+    ],
+    [
+      "repairing",
+      "is crucial for",
+      "successful"
+    ],
+    [
+      "repairing",
+      "is enhanced by",
+      "coordination"
+    ],
+    [
+      "repairing",
+      "is performed by",
+      "soldier ants"
+    ],
+    [
+      "repairing",
+      "is supported by",
+      "principles"
+    ],
+    [
+      "repairing",
+      "maintains",
+      "population"
+    ],
+    [
+      "repairing",
+      "performed by",
+      "species"
+    ],
+    [
+      "repairing",
+      "supports",
+      "resilience"
+    ],
+    [
+      "resilience",
+      "contributes to",
+      "survival"
+    ],
+    [
+      "resilience",
+      "demonstrates",
+      "principles"
+    ],
+    [
+      "resilience",
+      "demonstrates",
+      "thrive"
+    ],
+    [
+      "resilience",
+      "drives",
+      "evolution"
+    ],
+    [
+      "resilience",
+      "enables",
+      "adapt"
+    ],
+    [
+      "resilience",
+      "enables",
+      "improvise"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "community"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "efficient"
+    ],
+    [
+      "resilience",
+      "ensures",
+      "continuity"
+    ],
+    [
+      "resilience",
+      "facilitates",
+      "adaptability"
+    ],
+    [
+      "resilience",
+      "facilitates",
+      "relocate"
+    ],
+    [
+      "resilience",
+      "involves",
+      "responsibilities"
+    ],
+    [
+      "resilience",
+      "is demonstrated by",
+      "leafcutter ants"
+    ],
+    [
+      "resilience",
+      "requires",
+      "coordination"
+    ],
+    [
+      "resilience",
+      "supports construction of",
+      "construction"
+    ],
+    [
+      "resources",
+      "aids",
+      "repairing"
+    ],
+    [
+      "resources",
+      "contributes to",
+      "prosperity"
+    ],
+    [
+      "resources",
+      "demonstrates",
+      "mastery"
+    ],
+    [
+      "resources",
+      "enables",
+      "chemical signals"
+    ],
+    [
+      "resources",
+      "enhances",
+      "efficiency"
+    ],
+    [
+      "resources",
+      "enhances",
+      "engineering abilities"
+    ],
+    [
+      "resources",
+      "facilitates",
+      "symbiotic relationship"
+    ],
+    [
+      "resources",
+      "guides",
+      "strategies"
+    ],
+    [
+      "resources",
+      "involves",
+      "construction"
+    ],
+    [
+      "resources",
+      "is essential for",
+      "adapt"
+    ],
+    [
+      "resources",
+      "is essential for",
+      "nest building"
+    ],
+    [
+      "resources",
+      "is utilized by",
+      "ants"
+    ],
+    [
+      "resources",
+      "is utilized by",
+      "relocate"
+    ],
+    [
+      "resources",
+      "serves as",
+      "backbone"
+    ],
+    [
+      "resources",
+      "supports",
+      "fungus gardens"
+    ],
+    [
+      "resources",
+      "supports",
+      "thrive"
+    ],
+    [
+      "resources",
+      "supports",
+      "tunnels"
+    ],
+    [
+      "resources",
+      "used to",
+      "construct"
+    ],
+    [
+      "resources",
+      "utilized by",
+      "architectural techniques"
+    ],
+    [
+      "resources",
+      "utilized by",
+      "structure"
+    ],
+    [
+      "resources",
+      "utilized for",
+      "building"
+    ],
+    [
+      "response",
+      "enables",
+      "defense"
+    ],
+    [
+      "response",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "response",
+      "ensures",
+      "safety"
+    ],
+    [
+      "response",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "response",
+      "involves",
+      "caring"
+    ],
+    [
+      "response",
+      "is a reaction to",
+      "adversity"
+    ],
+    [
+      "response",
+      "leads to",
+      "lessons"
+    ],
+    [
+      "response",
+      "promotes",
+      "cooperation"
+    ],
+    [
+      "response",
+      "requires",
+      "coordination"
+    ],
+    [
+      "response",
+      "responds to",
+      "colony"
+    ],
+    [
+      "response",
+      "supports",
+      "population"
+    ],
+    [
+      "responsibilities",
+      "addresses",
+      "threats"
+    ],
+    [
+      "responsibilities",
+      "affected by",
+      "natural disasters"
+    ],
+    [
+      "responsibilities",
+      "affects",
+      "population"
+    ],
+    [
+      "responsibilities",
+      "are",
+      "distinct"
+    ],
+    [
+      "responsibilities",
+      "are assigned to",
+      "societies"
+    ],
+    [
+      "responsibilities",
+      "assigned to",
+      "species"
+    ],
+    [
+      "responsibilities",
+      "contributes to",
+      "thrive"
+    ],
+    [
+      "responsibilities",
+      "defines",
+      "colony"
+    ],
+    [
+      "responsibilities",
+      "defines",
+      "hierarchy"
+    ],
+    [
+      "responsibilities",
+      "defines",
+      "roles"
+    ],
+    [
+      "responsibilities",
+      "enables",
+      "cooperation"
+    ],
+    [
+      "responsibilities",
+      "enables",
+      "mobilize"
+    ],
+    [
+      "responsibilities",
+      "ensures",
+      "protection"
+    ],
+    [
+      "responsibilities",
+      "ensures",
+      "survival"
+    ],
+    [
+      "responsibilities",
+      "includes",
+      "repairing"
+    ],
+    [
+      "responsibilities",
+      "includes",
+      "tasks"
+    ],
+    [
+      "responsibilities",
+      "involves",
+      "activities"
+    ],
+    [
+      "responsibilities",
+      "involves",
+      "caring"
+    ],
+    [
+      "responsibilities",
+      "is fulfilled by",
+      "backbone"
+    ],
+    [
+      "responsibilities",
+      "is linked to",
+      "defense"
+    ],
+    [
+      "responsibilities",
+      "is necessary for",
+      "adapt"
+    ],
+    [
+      "responsibilities",
+      "is part of",
+      "organization"
+    ],
+    [
+      "responsibilities",
+      "mitigates",
+      "adversity"
+    ],
+    [
+      "responsibilities",
+      "requires",
+      "collaborative effort"
+    ],
+    [
+      "responsibilities",
+      "requires",
+      "coordination"
+    ],
+    [
+      "responsibilities",
+      "shapes",
+      "behavior"
+    ],
+    [
+      "roles",
+      "associated with",
+      "eggs"
+    ],
+    [
+      "roles",
+      "comprises",
+      "backbone"
+    ],
+    [
+      "roles",
+      "constitutes",
+      "colony"
+    ],
+    [
+      "roles",
+      "enables",
+      "thrive"
+    ],
+    [
+      "roles",
+      "ensures",
+      "population"
+    ],
+    [
+      "roles",
+      "influences",
+      "maximize"
+    ],
+    [
+      "roles",
+      "informs",
+      "defense"
+    ],
+    [
+      "roles",
+      "involves",
+      "caring"
+    ],
+    [
+      "roles",
+      "is held by",
+      "queen"
+    ],
+    [
+      "roles",
+      "performed by",
+      "tasks"
+    ],
+    [
+      "roles",
+      "provides",
+      "protection"
+    ],
+    [
+      "roles",
+      "requires",
+      "coordination"
+    ],
+    [
+      "roles",
+      "tests",
+      "adversity"
+    ],
+    [
+      "safety",
+      "enhances",
+      "communication"
+    ],
+    [
+      "safety",
+      "ensures",
+      "construction"
+    ],
+    [
+      "safety",
+      "ensures",
+      "cooperation"
+    ],
+    [
+      "skills",
+      "enhances",
+      "communication"
+    ],
+    [
+      "skills",
+      "enhances",
+      "engineering abilities"
+    ],
+    [
+      "skills",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "skills",
+      "includes",
+      "tasks"
+    ],
+    [
+      "skills",
+      "involves",
+      "construction"
+    ],
+    [
+      "skills",
+      "is related to",
+      "nest building"
+    ],
+    [
+      "skills",
+      "requires",
+      "coordination"
+    ],
+    [
+      "societies",
+      "involves",
+      "caring"
+    ],
+    [
+      "societies",
+      "provides",
+      "protection"
+    ],
+    [
+      "societies",
+      "requires",
+      "coordination"
+    ],
+    [
+      "societies",
+      "respond to",
+      "adapt"
+    ],
+    [
+      "societies",
+      "supports",
+      "teamwork"
+    ],
+    [
+      "society",
+      "comprises",
+      "colony"
+    ],
+    [
+      "society",
+      "enhances",
+      "cooperation"
+    ],
+    [
+      "society",
+      "is a part of",
+      "continuity"
+    ],
+    [
+      "society",
+      "is a type of",
+      "complex"
+    ],
+    [
+      "society",
+      "is essential for",
+      "adapt"
+    ],
+    [
+      "society",
+      "is supported by",
+      "eggs"
+    ],
+    [
+      "society",
+      "requires",
+      "defense"
+    ],
+    [
+      "society",
+      "structures",
+      "organization"
+    ],
+    [
+      "soldier ants",
+      "adapt to",
+      "improvise"
+    ],
+    [
+      "soldier ants",
+      "benefits from",
+      "insights"
+    ],
+    [
+      "soldier ants",
+      "benefits from",
+      "symbiotic relationship"
+    ],
+    [
+      "soldier ants",
+      "defended by",
+      "activities"
+    ],
+    [
+      "soldier ants",
+      "defended by",
+      "larvae"
+    ],
+    [
+      "soldier ants",
+      "defended by",
+      "response"
+    ],
+    [
+      "soldier ants",
+      "defends",
+      "population"
+    ],
+    [
+      "soldier ants",
+      "defends",
+      "resources"
+    ],
+    [
+      "soldier ants",
+      "defends",
+      "roles"
+    ],
+    [
+      "soldier ants",
+      "defends colony from",
+      "colony"
+    ],
+    [
+      "soldier ants",
+      "ensures",
+      "survival"
+    ],
+    [
+      "soldier ants",
+      "exemplifies",
+      "resilience"
+    ],
+    [
+      "soldier ants",
+      "exhibits",
+      "coordination"
+    ],
+    [
+      "soldier ants",
+      "is a response to",
+      "adapt"
+    ],
+    [
+      "soldier ants",
+      "is defended by",
+      "adaptability"
+    ],
+    [
+      "soldier ants",
+      "is part of",
+      "hierarchy"
+    ],
+    [
+      "soldier ants",
+      "is protected by",
+      "queen"
+    ],
+    [
+      "soldier ants",
+      "performed by",
+      "construct"
+    ],
+    [
+      "soldier ants",
+      "supported by",
+      "teamwork"
+    ],
+    [
+      "soldier ants",
+      "threatens",
+      "threats"
+    ],
+    [
+      "soldier ants",
+      "thrives",
+      "thrive"
+    ],
+    [
+      "species",
+      "comprises",
+      "backbone"
+    ],
+    [
+      "species",
+      "demonstrates",
+      "collaborative effort"
+    ],
+    [
+      "species",
+      "determines",
+      "structure"
+    ],
+    [
+      "species",
+      "engages in",
+      "building"
+    ],
+    [
+      "species",
+      "enhances",
+      "adaptability"
+    ],
+    [
+      "species",
+      "exhibits",
+      "architectural techniques"
+    ],
+    [
+      "species",
+      "includes",
+      "soldier ants"
+    ],
+    [
+      "species",
+      "is established at",
+      "new site"
+    ],
+    [
+      "species",
+      "nurtured by",
+      "eggs"
+    ],
+    [
+      "species",
+      "promotes",
+      "efficient"
+    ],
+    [
+      "species",
+      "promotes",
+      "harmonious"
+    ],
+    [
+      "species",
+      "responds to",
+      "adversity"
+    ],
+    [
+      "strategies",
+      "creates",
+      "fungus gardens"
+    ],
+    [
+      "strategies",
+      "demonstrates",
+      "ingenuity"
+    ],
+    [
+      "strategies",
+      "employed by",
+      "ants"
+    ],
+    [
+      "strategies",
+      "employs",
+      "soldier ants"
+    ],
+    [
+      "strategies",
+      "employs",
+      "species"
+    ],
+    [
+      "strategies",
+      "employs",
+      "teamwork"
+    ],
+    [
+      "strategies",
+      "enables",
+      "adapt"
+    ],
+    [
+      "strategies",
+      "enhances",
+      "efficiency"
+    ],
+    [
+      "strategies",
+      "enhances",
+      "maximize"
+    ],
+    [
+      "strategies",
+      "enhances",
+      "thrive"
+    ],
+    [
+      "strategies",
+      "exposes",
+      "threats"
+    ],
+    [
+      "strategies",
+      "facilitates",
+      "chemical signals"
+    ],
+    [
+      "strategies",
+      "guides",
+      "building"
+    ],
+    [
+      "strategies",
+      "influences",
+      "nature"
+    ],
+    [
+      "strategies",
+      "influences",
+      "response"
+    ],
+    [
+      "strategies",
+      "informs",
+      "adversity"
+    ],
+    [
+      "strategies",
+      "informs",
+      "behavior"
+    ],
+    [
+      "strategies",
+      "informs",
+      "complex"
+    ],
+    [
+      "strategies",
+      "informs",
+      "evolution"
+    ],
+    [
+      "strategies",
+      "informs",
+      "symbiotic relationship"
+    ],
+    [
+      "strategies",
+      "involves",
+      "collaborative effort"
+    ],
+    [
+      "strategies",
+      "involves",
+      "foraging"
+    ],
+    [
+      "strategies",
+      "involves",
+      "nest building"
+    ],
+    [
+      "strategies",
+      "reinforces",
+      "backbone"
+    ],
+    [
+      "strategies",
+      "requires",
+      "adaptability"
+    ],
+    [
+      "strategies",
+      "requires",
+      "tunnels"
+    ],
+    [
+      "strategies",
+      "utilizes",
+      "architectural techniques"
+    ],
+    [
+      "structure",
+      "is a result of",
+      "efficiency"
+    ],
+    [
+      "successful",
+      "achieved by",
+      "society"
+    ],
+    [
+      "successful",
+      "achieves",
+      "mastery"
+    ],
+    [
+      "successful",
+      "contributes to",
+      "resources"
+    ],
+    [
+      "successful",
+      "contributes to",
+      "thrive"
+    ],
+    [
+      "successful",
+      "demonstrates",
+      "adaptability"
+    ],
+    [
+      "successful",
+      "enables",
+      "teamwork"
+    ],
+    [
+      "successful",
+      "inhabits",
+      "ants"
+    ],
+    [
+      "successful",
+      "is achieved through",
+      "mobilize"
+    ],
+    [
+      "successful",
+      "is linked to",
+      "sustainable"
+    ],
+    [
+      "successful",
+      "provides",
+      "lessons"
+    ],
+    [
+      "successful",
+      "results in",
+      "exploration"
+    ],
+    [
+      "survival",
+      "depends on",
+      "activities"
+    ],
+    [
+      "survival",
+      "depends on",
+      "building"
+    ],
+    [
+      "survival",
+      "depends on",
+      "community"
+    ],
+    [
+      "survival",
+      "ensures",
+      "colony"
+    ],
+    [
+      "survival",
+      "ensures",
+      "continuity"
+    ],
+    [
+      "survival",
+      "ensures",
+      "sustainable"
+    ],
+    [
+      "survival",
+      "is crucial for",
+      "teamwork"
+    ],
+    [
+      "survival",
+      "is essential for",
+      "repairing"
+    ],
+    [
+      "survival",
+      "provides",
+      "lessons"
+    ],
+    [
+      "sustainable",
+      "demonstrates",
+      "ingenuity"
+    ],
+    [
+      "sustainable",
+      "enables",
+      "adapt"
+    ],
+    [
+      "sustainable",
+      "enhances",
+      "chambers"
+    ],
+    [
+      "sustainable",
+      "enhances",
+      "chemical signals"
+    ],
+    [
+      "sustainable",
+      "enhances",
+      "engineering abilities"
+    ],
+    [
+      "sustainable",
+      "enhances",
+      "foraging"
+    ],
+    [
+      "sustainable",
+      "ensured by",
+      "eggs"
+    ],
+    [
+      "sustainable",
+      "facilitates",
+      "construct"
+    ],
+    [
+      "sustainable",
+      "involves",
+      "architectural techniques"
+    ],
+    [
+      "sustainable",
+      "is a part of",
+      "process"
+    ],
+    [
+      "sustainable",
+      "is essential for",
+      "building"
+    ],
+    [
+      "sustainable",
+      "is essential for",
+      "tunnels"
+    ],
+    [
+      "sustainable",
+      "promotes",
+      "efficient"
+    ],
+    [
+      "sustainable",
+      "supports",
+      "larvae"
+    ],
+    [
+      "sustainable",
+      "utilizes",
+      "leafcutter ants"
+    ],
+    [
+      "symbiotic relationship",
+      "communicates through",
+      "pheromones"
+    ],
+    [
+      "symbiotic relationship",
+      "demonstrates",
+      "engineering abilities"
+    ],
+    [
+      "symbiotic relationship",
+      "enhances",
+      "foraging"
+    ],
+    [
+      "symbiotic relationship",
+      "influences",
+      "behavior"
+    ],
+    [
+      "symbiotic relationship",
+      "involves",
+      "ants"
+    ],
+    [
+      "symbiotic relationship",
+      "involves",
+      "chemical signals"
+    ],
+    [
+      "symbiotic relationship",
+      "involves",
+      "process"
+    ],
+    [
+      "symbiotic relationship",
+      "is a feature of",
+      "societies"
+    ],
+    [
+      "symbiotic relationship",
+      "is a result of",
+      "harmonious"
+    ],
+    [
+      "symbiotic relationship",
+      "is based on",
+      "organization"
+    ],
+    [
+      "symbiotic relationship",
+      "is challenged by",
+      "adversity"
+    ],
+    [
+      "symbiotic relationship",
+      "is exemplified by",
+      "cooperation"
+    ],
+    [
+      "symbiotic relationship",
+      "is part of",
+      "fungus gardens"
+    ],
+    [
+      "symbiotic relationship",
+      "offers",
+      "insights"
+    ],
+    [
+      "symbiotic relationship",
+      "supports",
+      "adapt"
+    ],
+    [
+      "symbiotic relationship",
+      "supports",
+      "backbone"
+    ],
+    [
+      "symbiotic relationship",
+      "supports",
+      "survival"
+    ],
+    [
+      "symbiotic relationship",
+      "utilizes",
+      "chambers"
+    ],
+    [
+      "tasks",
+      "comprises",
+      "functions"
+    ],
+    [
+      "tasks",
+      "includes",
+      "construct"
+    ],
+    [
+      "tasks",
+      "involves",
+      "caring"
+    ],
+    [
+      "tasks",
+      "involves",
+      "construction"
+    ],
+    [
+      "tasks",
+      "is a role in",
+      "defense"
+    ],
+    [
+      "teamwork",
+      "defends against",
+      "threats"
+    ],
+    [
+      "teamwork",
+      "demonstrated by",
+      "mastery"
+    ],
+    [
+      "teamwork",
+      "enables",
+      "population"
+    ],
+    [
+      "teamwork",
+      "enables",
+      "thrive"
+    ],
+    [
+      "teamwork",
+      "enhances",
+      "coordination"
+    ],
+    [
+      "teamwork",
+      "enhances",
+      "symbiotic relationship"
+    ],
+    [
+      "teamwork",
+      "ensures",
+      "protection"
+    ],
+    [
+      "teamwork",
+      "facilitates",
+      "caring"
+    ],
+    [
+      "teamwork",
+      "facilitates",
+      "evolution"
+    ],
+    [
+      "teamwork",
+      "informs",
+      "lessons"
+    ],
+    [
+      "teamwork",
+      "is challenged by",
+      "adversity"
+    ],
+    [
+      "teamwork",
+      "is demonstrated by",
+      "resilience"
+    ],
+    [
+      "teamwork",
+      "requires",
+      "adaptability"
+    ],
+    [
+      "threats",
+      "defend against",
+      "collaborative effort"
+    ],
+    [
+      "threats",
+      "defended against",
+      "prosperity"
+    ],
+    [
+      "threats",
+      "defends against",
+      "repairing"
+    ],
+    [
+      "threats",
+      "defends against",
+      "resilience"
+    ],
+    [
+      "threats",
+      "endangered by",
+      "survival"
+    ],
+    [
+      "threats",
+      "influences",
+      "behavior"
+    ],
+    [
+      "threats",
+      "is threatened by",
+      "queen"
+    ],
+    [
+      "threats",
+      "mitigates",
+      "successful"
+    ],
+    [
+      "threats",
+      "poses",
+      "lessons"
+    ],
+    [
+      "threats",
+      "protects against",
+      "insights"
+    ],
+    [
+      "threats",
+      "threatens",
+      "backbone"
+    ],
+    [
+      "threats",
+      "threatens",
+      "skills"
+    ],
+    [
+      "threats",
+      "threatens",
+      "society"
+    ],
+    [
+      "thrive",
+      "contributes to",
+      "lessons"
+    ],
+    [
+      "thrive",
+      "enables",
+      "efficiency"
+    ],
+    [
+      "thrive",
+      "enables",
+      "new site"
+    ],
+    [
+      "thrive",
+      "enhances",
+      "coordination"
+    ],
+    [
+      "thrive",
+      "responds to",
+      "flooding"
+    ],
+    [
+      "thrive",
+      "supports",
+      "construction"
+    ],
+    [
+      "thrive",
+      "supports",
+      "defense"
+    ],
+    [
+      "thrive",
+      "threatens",
+      "threats"
+    ],
+    [
+      "tunnels",
+      "comprises",
+      "nest"
+    ],
+    [
+      "tunnels",
+      "contributes to",
+      "efficiency"
+    ],
+    [
+      "tunnels",
+      "demonstrates",
+      "engineering abilities"
+    ],
+    [
+      "tunnels",
+      "enables",
+      "improvise"
+    ],
+    [
+      "tunnels",
+      "enhances",
+      "efficient"
+    ],
+    [
+      "tunnels",
+      "facilitates",
+      "engineering"
+    ],
+    [
+      "tunnels",
+      "guides",
+      "chemical signals"
+    ],
+    [
+      "tunnels",
+      "is a component of",
+      "chambers"
+    ],
+    [
+      "tunnels",
+      "is achieved by",
+      "construct"
+    ],
+    [
+      "tunnels",
+      "is demonstrated by",
+      "successful"
+    ],
+    [
+      "tunnels",
+      "is part of",
+      "construction"
+    ],
+    [
+      "tunnels",
+      "is part of",
+      "process"
+    ],
+    [
+      "tunnels",
+      "supports",
+      "foraging"
+    ],
+    [
+      "tunnels",
+      "utilizes",
+      "pheromones"
+    ],
+    [
+      "worker ants",
+      "cared for by",
+      "larvae"
+    ],
+    [
+      "worker ants",
+      "constructed by",
+      "fungus gardens"
+    ],
+    [
+      "worker ants",
+      "contributes to",
+      "leafcutter ants"
+    ],
+    [
+      "worker ants",
+      "is maintained by",
+      "chambers"
+    ],
+    [
+      "worker ants",
+      "is utilized by",
+      "materials"
+    ]
+  ],
+  "edges": [
+    "achieved by",
+    "achieved through",
+    "achieves",
+    "adapt to",
+    "adapted to",
+    "addresses",
+    "affected by",
+    "affects",
+    "aids",
+    "allows to",
+    "are",
+    "are assigned to",
+    "assigned to",
+    "assists",
+    "associated with",
+    "benefits from",
+    "builds",
+    "builds successful",
+    "built by",
+    "captures",
+    "cared for by",
+    "caring for",
+    "carried by",
+    "challenges",
+    "characterized by",
+    "characterizes",
+    "communicates through",
+    "composed of",
+    "composes",
+    "comprises",
+    "constitutes",
+    "constructed by",
+    "constructed from",
+    "constructed in",
+    "contains",
+    "contributes to",
+    "contributes to survival through",
+    "created by",
+    "creates",
+    "defend against",
+    "defended against",
+    "defended by",
+    "defends",
+    "defends against",
+    "defends colony from",
+    "defines",
+    "demonstrated by",
+    "demonstrates",
+    "depends on",
+    "derived from",
+    "describes",
+    "determines",
+    "drives",
+    "employed by",
+    "employs",
+    "enables",
+    "enables thriving in",
+    "encourages",
+    "endangered by",
+    "engages in",
+    "enhanced by",
+    "enhances",
+    "ensured by",
+    "ensures",
+    "ensures continuity of",
+    "ensures survival through",
+    "establishes",
+    "evolves into",
+    "exemplified by",
+    "exemplifies",
+    "exhibited by",
+    "exhibits",
+    "exhibits efficiency in",
+    "exposes",
+    "facilitates",
+    "facilitates foraging through",
+    "forms",
+    "guides",
+    "illustrates",
+    "impacted by",
+    "impacts",
+    "improved by",
+    "improves",
+    "improvise at",
+    "includes",
+    "influenced by",
+    "influences",
+    "informs",
+    "informs about",
+    "inhabits",
+    "initiates",
+    "inspired by",
+    "interacts with",
+    "intrigues",
+    "involves",
+    "is a characteristic of",
+    "is a component of",
+    "is a concern for",
+    "is a factor in",
+    "is a feature of",
+    "is a form of",
+    "is a key to",
+    "is a part of",
+    "is a process of",
+    "is a reaction to",
+    "is a response to",
+    "is a result of",
+    "is a role in",
+    "is a source of",
+    "is a type of",
+    "is achieved by",
+    "is achieved through",
+    "is addressed by",
+    "is affected by",
+    "is associated with",
+    "is based on",
+    "is built in",
+    "is cared for by",
+    "is central to",
+    "is challenged by",
+    "is characterized by",
+    "is created by",
+    "is crucial for",
+    "is cultivated by",
+    "is defended by",
+    "is demonstrated by",
+    "is derived from",
+    "is described as",
+    "is enhanced by",
+    "is ensured by",
+    "is essential for",
+    "is established at",
+    "is exemplified by",
+    "is exhibited by",
+    "is facilitated by",
+    "is found in",
+    "is fulfilled by",
+    "is gained from",
+    "is governed by",
+    "is guided by",
+    "is held by",
+    "is impacted by",
+    "is influenced by",
+    "is involved in",
+    "is linked to",
+    "is maintained by",
+    "is necessary for",
+    "is part of",
+    "is perceived as",
+    "is performed by",
+    "is produced by",
+    "is protected by",
+    "is related to",
+    "is relocated to",
+    "is supported by",
+    "is threatened by",
+    "is used by",
+    "is used to build",
+    "is utilized as",
+    "is utilized by",
+    "is utilized for",
+    "is utilized in",
+    "is vital for",
+    "leads to",
+    "maintains",
+    "mastered by",
+    "maximizes",
+    "mitigated by",
+    "mitigates",
+    "mobilizes for",
+    "mobilizes in response to",
+    "mobilizes to",
+    "nurtured by",
+    "offers",
+    "offers insights into",
+    "overcomes",
+    "perform during",
+    "performed by",
+    "performed during",
+    "performs",
+    "poses",
+    "produces",
+    "promotes",
+    "promotes cooperation through",
+    "protected by",
+    "protects",
+    "protects against",
+    "provides",
+    "provides care for",
+    "provides insights into",
+    "provides lessons on",
+    "receives care from",
+    "reflects",
+    "reinforces",
+    "related to",
+    "relocate to",
+    "relocated to",
+    "relocates to",
+    "represents",
+    "require adaptation from",
+    "requires",
+    "requires coordination for",
+    "respond to",
+    "responded to by",
+    "responds to",
+    "results from",
+    "results in",
+    "serves",
+    "serves as",
+    "serves various",
+    "shapes",
+    "strengthened by",
+    "structures",
+    "supported by",
+    "supports",
+    "supports construction of",
+    "tests",
+    "threatens",
+    "thrives",
+    "thrives in",
+    "triggers",
+    "underpin",
+    "underpins",
+    "used in",
+    "used to",
+    "utilized by",
+    "utilized for",
+    "utilized in",
+    "utilizes"
+  ]
+}

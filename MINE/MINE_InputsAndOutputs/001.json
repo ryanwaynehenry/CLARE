@@ -1,0 +1,1552 @@
+{
+  "entities": [
+    "adult butterfly",
+    "adult stage",
+    "biodiversity",
+    "butterfly development",
+    "camouflage",
+    "caterpillars",
+    "chrysalis",
+    "ecosystem role",
+    "egg stage",
+    "egg variation",
+    "emergence",
+    "first flight",
+    "flower nectar",
+    "fluid wings",
+    "host plants",
+    "larva emergence",
+    "larva stage",
+    "leaf underside",
+    "life cycle",
+    "metamorphosis",
+    "molting",
+    "nectar feeding",
+    "new tissues",
+    "organ dissolution",
+    "plant balance",
+    "pollen transfer",
+    "pollination",
+    "predator protection",
+    "proboscis",
+    "protective features",
+    "pupa stage",
+    "reproduction",
+    "short lifespan",
+    "species variation",
+    "species-specific eggs",
+    "tubular mouthparts",
+    "voracious eaters",
+    "wings formation"
+  ],
+  "relations": [
+    [
+      "adult butterfly",
+      "contribute to",
+      "biodiversity"
+    ],
+    [
+      "adult butterfly",
+      "contribute to",
+      "pollination"
+    ],
+    [
+      "adult butterfly",
+      "contributes to",
+      "ecosystem role"
+    ],
+    [
+      "adult butterfly",
+      "develops",
+      "fluid wings"
+    ],
+    [
+      "adult butterfly",
+      "engage in",
+      "reproduction"
+    ],
+    [
+      "adult butterfly",
+      "feeds on",
+      "flower nectar"
+    ],
+    [
+      "adult butterfly",
+      "follows",
+      "emergence"
+    ],
+    [
+      "adult butterfly",
+      "involves",
+      "organ dissolution"
+    ],
+    [
+      "adult butterfly",
+      "is part of",
+      "life cycle"
+    ],
+    [
+      "adult butterfly",
+      "lay eggs on",
+      "host plants"
+    ],
+    [
+      "adult butterfly",
+      "lays",
+      "species-specific eggs"
+    ],
+    [
+      "adult butterfly",
+      "maintains",
+      "plant balance"
+    ],
+    [
+      "adult butterfly",
+      "performed by",
+      "nectar feeding"
+    ],
+    [
+      "adult butterfly",
+      "performs",
+      "pollen transfer"
+    ],
+    [
+      "adult butterfly",
+      "prepares for",
+      "first flight"
+    ],
+    [
+      "adult butterfly",
+      "requires",
+      "predator protection"
+    ],
+    [
+      "adult butterfly",
+      "results in",
+      "butterfly development"
+    ],
+    [
+      "adult butterfly",
+      "results in",
+      "wings formation"
+    ],
+    [
+      "adult butterfly",
+      "use for feeding",
+      "proboscis"
+    ],
+    [
+      "adult butterfly",
+      "uses",
+      "tubular mouthparts"
+    ],
+    [
+      "adult stage",
+      "characterized by",
+      "short lifespan"
+    ],
+    [
+      "adult stage",
+      "contribute to",
+      "biodiversity"
+    ],
+    [
+      "adult stage",
+      "contributes to",
+      "pollination"
+    ],
+    [
+      "adult stage",
+      "culminates in",
+      "first flight"
+    ],
+    [
+      "adult stage",
+      "feeds on",
+      "flower nectar"
+    ],
+    [
+      "adult stage",
+      "final phase of",
+      "butterfly development"
+    ],
+    [
+      "adult stage",
+      "follows",
+      "emergence"
+    ],
+    [
+      "adult stage",
+      "involves",
+      "new tissues"
+    ],
+    [
+      "adult stage",
+      "involves",
+      "pollen transfer"
+    ],
+    [
+      "adult stage",
+      "involves",
+      "reproduction"
+    ],
+    [
+      "adult stage",
+      "is part of",
+      "adult butterfly"
+    ],
+    [
+      "adult stage",
+      "lays",
+      "species-specific eggs"
+    ],
+    [
+      "adult stage",
+      "occurs during",
+      "nectar feeding"
+    ],
+    [
+      "adult stage",
+      "occurs during",
+      "wings formation"
+    ],
+    [
+      "adult stage",
+      "occurs in",
+      "fluid wings"
+    ],
+    [
+      "adult stage",
+      "part of",
+      "life cycle"
+    ],
+    [
+      "adult stage",
+      "provides",
+      "predator protection"
+    ],
+    [
+      "adult stage",
+      "uses",
+      "proboscis"
+    ],
+    [
+      "adult stage",
+      "uses",
+      "tubular mouthparts"
+    ],
+    [
+      "biodiversity",
+      "contributes to",
+      "caterpillars"
+    ],
+    [
+      "butterfly development",
+      "contributes to",
+      "biodiversity"
+    ],
+    [
+      "butterfly development",
+      "includes",
+      "wings formation"
+    ],
+    [
+      "butterfly development",
+      "involves",
+      "fluid wings"
+    ],
+    [
+      "butterfly development",
+      "involves",
+      "metamorphosis"
+    ],
+    [
+      "butterfly development",
+      "involves",
+      "molting"
+    ],
+    [
+      "butterfly development",
+      "leads to",
+      "reproduction"
+    ],
+    [
+      "butterfly development",
+      "maintained by",
+      "plant balance"
+    ],
+    [
+      "butterfly development",
+      "occurs in",
+      "chrysalis"
+    ],
+    [
+      "caterpillars",
+      "develop into",
+      "adult butterfly"
+    ],
+    [
+      "caterpillars",
+      "develop into",
+      "new tissues"
+    ],
+    [
+      "caterpillars",
+      "develop into",
+      "pupa stage"
+    ],
+    [
+      "caterpillars",
+      "food source for",
+      "flower nectar"
+    ],
+    [
+      "caterpillars",
+      "formed by",
+      "chrysalis"
+    ],
+    [
+      "caterpillars",
+      "found on",
+      "leaf underside"
+    ],
+    [
+      "caterpillars",
+      "occurs in",
+      "organ dissolution"
+    ],
+    [
+      "caterpillars",
+      "performed by",
+      "first flight"
+    ],
+    [
+      "caterpillars",
+      "performed by",
+      "pollination"
+    ],
+    [
+      "caterpillars",
+      "possessed by",
+      "protective features"
+    ],
+    [
+      "caterpillars",
+      "process of",
+      "molting"
+    ],
+    [
+      "caterpillars",
+      "provides",
+      "predator protection"
+    ],
+    [
+      "caterpillars",
+      "results from",
+      "butterfly development"
+    ],
+    [
+      "caterpillars",
+      "results from",
+      "wings formation"
+    ],
+    [
+      "caterpillars",
+      "undergo",
+      "metamorphosis"
+    ],
+    [
+      "caterpillars",
+      "use for protection",
+      "camouflage"
+    ],
+    [
+      "chrysalis",
+      "emerge from",
+      "adult stage"
+    ],
+    [
+      "chrysalis",
+      "emerges from",
+      "adult butterfly"
+    ],
+    [
+      "chrysalis",
+      "emerges from",
+      "first flight"
+    ],
+    [
+      "chrysalis",
+      "encloses",
+      "wings formation"
+    ],
+    [
+      "chrysalis",
+      "occurs in",
+      "metamorphosis"
+    ],
+    [
+      "chrysalis",
+      "occurs on",
+      "leaf underside"
+    ],
+    [
+      "chrysalis",
+      "protected by",
+      "protective features"
+    ],
+    [
+      "chrysalis",
+      "provides",
+      "predator protection"
+    ],
+    [
+      "ecosystem role",
+      "contributes to",
+      "adult stage"
+    ],
+    [
+      "ecosystem role",
+      "contributes to",
+      "biodiversity"
+    ],
+    [
+      "ecosystem role",
+      "contributes to",
+      "butterfly development"
+    ],
+    [
+      "ecosystem role",
+      "contributes to",
+      "nectar feeding"
+    ],
+    [
+      "ecosystem role",
+      "contributes to",
+      "pollen transfer"
+    ],
+    [
+      "ecosystem role",
+      "contributes to",
+      "reproduction"
+    ],
+    [
+      "ecosystem role",
+      "contributes to",
+      "voracious eaters"
+    ],
+    [
+      "ecosystem role",
+      "fulfilled by",
+      "caterpillars"
+    ],
+    [
+      "ecosystem role",
+      "includes",
+      "life cycle"
+    ],
+    [
+      "ecosystem role",
+      "includes",
+      "metamorphosis"
+    ],
+    [
+      "ecosystem role",
+      "includes",
+      "pollination"
+    ],
+    [
+      "ecosystem role",
+      "includes",
+      "predator protection"
+    ],
+    [
+      "ecosystem role",
+      "includes",
+      "pupa stage"
+    ],
+    [
+      "ecosystem role",
+      "influences",
+      "short lifespan"
+    ],
+    [
+      "ecosystem role",
+      "is part of",
+      "larva stage"
+    ],
+    [
+      "ecosystem role",
+      "maintains",
+      "plant balance"
+    ],
+    [
+      "egg stage",
+      "begins with",
+      "butterfly development"
+    ],
+    [
+      "egg stage",
+      "develop into",
+      "caterpillars"
+    ],
+    [
+      "egg stage",
+      "emerge from",
+      "adult butterfly"
+    ],
+    [
+      "egg stage",
+      "initiates",
+      "reproduction"
+    ],
+    [
+      "egg stage",
+      "laid on",
+      "leaf underside"
+    ],
+    [
+      "egg stage",
+      "leads to",
+      "larva emergence"
+    ],
+    [
+      "egg stage",
+      "provides",
+      "predator protection"
+    ],
+    [
+      "egg variation",
+      "depends on",
+      "host plants"
+    ],
+    [
+      "egg variation",
+      "determines",
+      "species-specific eggs"
+    ],
+    [
+      "egg variation",
+      "influences",
+      "caterpillars"
+    ],
+    [
+      "egg variation",
+      "influences",
+      "larva emergence"
+    ],
+    [
+      "egg variation",
+      "influences",
+      "new tissues"
+    ],
+    [
+      "egg variation",
+      "occurs on",
+      "leaf underside"
+    ],
+    [
+      "egg variation",
+      "precedes",
+      "pupa stage"
+    ],
+    [
+      "egg variation",
+      "provides",
+      "predator protection"
+    ],
+    [
+      "egg variation",
+      "reflects",
+      "species variation"
+    ],
+    [
+      "emergence",
+      "enables",
+      "pollen transfer"
+    ],
+    [
+      "emergence",
+      "enables",
+      "reproduction"
+    ],
+    [
+      "emergence",
+      "follows",
+      "butterfly development"
+    ],
+    [
+      "emergence",
+      "follows",
+      "first flight"
+    ],
+    [
+      "emergence",
+      "involves",
+      "fluid wings"
+    ],
+    [
+      "emergence",
+      "occurs in",
+      "chrysalis"
+    ],
+    [
+      "emergence",
+      "part of",
+      "life cycle"
+    ],
+    [
+      "emergence",
+      "uses",
+      "tubular mouthparts"
+    ],
+    [
+      "first flight",
+      "culminates in",
+      "butterfly development"
+    ],
+    [
+      "first flight",
+      "enabled by",
+      "wings formation"
+    ],
+    [
+      "first flight",
+      "precedes",
+      "larva stage"
+    ],
+    [
+      "first flight",
+      "precedes",
+      "reproduction"
+    ],
+    [
+      "first flight",
+      "prepares for",
+      "pupa stage"
+    ],
+    [
+      "flower nectar",
+      "contributes to",
+      "ecosystem role"
+    ],
+    [
+      "flower nectar",
+      "depends on",
+      "biodiversity"
+    ],
+    [
+      "fluid wings",
+      "results in",
+      "wings formation"
+    ],
+    [
+      "host plants",
+      "determine",
+      "species-specific eggs"
+    ],
+    [
+      "host plants",
+      "determines",
+      "species variation"
+    ],
+    [
+      "host plants",
+      "located on",
+      "leaf underside"
+    ],
+    [
+      "host plants",
+      "location for laying",
+      "egg stage"
+    ],
+    [
+      "host plants",
+      "maintains",
+      "plant balance"
+    ],
+    [
+      "host plants",
+      "provide food for",
+      "larva stage"
+    ],
+    [
+      "host plants",
+      "support",
+      "butterfly development"
+    ],
+    [
+      "host plants",
+      "support",
+      "caterpillars"
+    ],
+    [
+      "host plants",
+      "support",
+      "larva emergence"
+    ],
+    [
+      "host plants",
+      "support",
+      "life cycle"
+    ],
+    [
+      "host plants",
+      "support",
+      "pupa stage"
+    ],
+    [
+      "host plants",
+      "support",
+      "reproduction"
+    ],
+    [
+      "host plants",
+      "supports",
+      "emergence"
+    ],
+    [
+      "larva emergence",
+      "aids",
+      "camouflage"
+    ],
+    [
+      "larva emergence",
+      "develops into",
+      "adult butterfly"
+    ],
+    [
+      "larva emergence",
+      "develops into",
+      "new tissues"
+    ],
+    [
+      "larva emergence",
+      "emerges from",
+      "chrysalis"
+    ],
+    [
+      "larva emergence",
+      "follows",
+      "molting"
+    ],
+    [
+      "larva emergence",
+      "occurs on",
+      "leaf underside"
+    ],
+    [
+      "larva emergence",
+      "precedes",
+      "butterfly development"
+    ],
+    [
+      "larva emergence",
+      "precedes",
+      "pupa stage"
+    ],
+    [
+      "larva emergence",
+      "protects",
+      "protective features"
+    ],
+    [
+      "larva emergence",
+      "results in",
+      "metamorphosis"
+    ],
+    [
+      "larva stage",
+      "consists of",
+      "caterpillars"
+    ],
+    [
+      "larva stage",
+      "contributes to",
+      "pollination"
+    ],
+    [
+      "larva stage",
+      "develop into",
+      "adult butterfly"
+    ],
+    [
+      "larva stage",
+      "enables",
+      "camouflage"
+    ],
+    [
+      "larva stage",
+      "follows",
+      "egg stage"
+    ],
+    [
+      "larva stage",
+      "follows",
+      "emergence"
+    ],
+    [
+      "larva stage",
+      "follows",
+      "pollen transfer"
+    ],
+    [
+      "larva stage",
+      "initiates",
+      "butterfly development"
+    ],
+    [
+      "larva stage",
+      "involves",
+      "molting"
+    ],
+    [
+      "larva stage",
+      "leads to",
+      "chrysalis"
+    ],
+    [
+      "larva stage",
+      "leads to",
+      "new tissues"
+    ],
+    [
+      "larva stage",
+      "leads to",
+      "pupa stage"
+    ],
+    [
+      "larva stage",
+      "maintains",
+      "plant balance"
+    ],
+    [
+      "larva stage",
+      "occurs on",
+      "leaf underside"
+    ],
+    [
+      "larva stage",
+      "precedes",
+      "larva emergence"
+    ],
+    [
+      "larva stage",
+      "precedes",
+      "metamorphosis"
+    ],
+    [
+      "larva stage",
+      "provides",
+      "predator protection"
+    ],
+    [
+      "leaf underside",
+      "aids",
+      "camouflage"
+    ],
+    [
+      "leaf underside",
+      "laid on",
+      "species variation"
+    ],
+    [
+      "leaf underside",
+      "located on",
+      "protective features"
+    ],
+    [
+      "leaf underside",
+      "offers",
+      "predator protection"
+    ],
+    [
+      "life cycle",
+      "begins with",
+      "egg stage"
+    ],
+    [
+      "life cycle",
+      "includes",
+      "butterfly development"
+    ],
+    [
+      "life cycle",
+      "includes",
+      "caterpillars"
+    ],
+    [
+      "life cycle",
+      "includes",
+      "larva emergence"
+    ],
+    [
+      "life cycle",
+      "includes",
+      "larva stage"
+    ],
+    [
+      "life cycle",
+      "includes",
+      "metamorphosis"
+    ],
+    [
+      "life cycle",
+      "includes",
+      "pollination"
+    ],
+    [
+      "life cycle",
+      "includes",
+      "pupa stage"
+    ],
+    [
+      "life cycle",
+      "includes",
+      "reproduction"
+    ],
+    [
+      "life cycle",
+      "includes",
+      "species-specific eggs"
+    ],
+    [
+      "life cycle",
+      "part of",
+      "egg variation"
+    ],
+    [
+      "life cycle",
+      "part of",
+      "short lifespan"
+    ],
+    [
+      "metamorphosis",
+      "leads to",
+      "egg stage"
+    ],
+    [
+      "metamorphosis",
+      "results from",
+      "adult butterfly"
+    ],
+    [
+      "metamorphosis",
+      "results from",
+      "adult stage"
+    ],
+    [
+      "metamorphosis",
+      "results from",
+      "emergence"
+    ],
+    [
+      "metamorphosis",
+      "results from",
+      "first flight"
+    ],
+    [
+      "metamorphosis",
+      "results in",
+      "wings formation"
+    ],
+    [
+      "nectar feeding",
+      "contributes to",
+      "butterfly development"
+    ],
+    [
+      "nectar feeding",
+      "enables",
+      "pollination"
+    ],
+    [
+      "nectar feeding",
+      "enhances",
+      "biodiversity"
+    ],
+    [
+      "nectar feeding",
+      "facilitates",
+      "pollen transfer"
+    ],
+    [
+      "nectar feeding",
+      "involves",
+      "flower nectar"
+    ],
+    [
+      "nectar feeding",
+      "is part of",
+      "life cycle"
+    ],
+    [
+      "nectar feeding",
+      "performed by",
+      "proboscis"
+    ],
+    [
+      "nectar feeding",
+      "requires",
+      "tubular mouthparts"
+    ],
+    [
+      "nectar feeding",
+      "supports",
+      "reproduction"
+    ],
+    [
+      "new tissues",
+      "develop into",
+      "adult butterfly"
+    ],
+    [
+      "new tissues",
+      "develop into",
+      "wings formation"
+    ],
+    [
+      "new tissues",
+      "develop within",
+      "chrysalis"
+    ],
+    [
+      "new tissues",
+      "enables",
+      "first flight"
+    ],
+    [
+      "new tissues",
+      "form during",
+      "metamorphosis"
+    ],
+    [
+      "new tissues",
+      "involves",
+      "butterfly development"
+    ],
+    [
+      "organ dissolution",
+      "enables",
+      "wings formation"
+    ],
+    [
+      "organ dissolution",
+      "is part of",
+      "butterfly development"
+    ],
+    [
+      "organ dissolution",
+      "leads to",
+      "new tissues"
+    ],
+    [
+      "organ dissolution",
+      "occurs during",
+      "larva stage"
+    ],
+    [
+      "organ dissolution",
+      "occurs during",
+      "metamorphosis"
+    ],
+    [
+      "organ dissolution",
+      "occurs during",
+      "pupa stage"
+    ],
+    [
+      "organ dissolution",
+      "occurs in",
+      "chrysalis"
+    ],
+    [
+      "organ dissolution",
+      "part of",
+      "life cycle"
+    ],
+    [
+      "organ dissolution",
+      "precedes",
+      "emergence"
+    ],
+    [
+      "plant balance",
+      "contributes to",
+      "egg variation"
+    ],
+    [
+      "plant balance",
+      "maintained by",
+      "voracious eaters"
+    ],
+    [
+      "plant balance",
+      "maintains",
+      "caterpillars"
+    ],
+    [
+      "plant balance",
+      "maintains",
+      "pollen transfer"
+    ],
+    [
+      "plant balance",
+      "maintains",
+      "pollination"
+    ],
+    [
+      "plant balance",
+      "supports",
+      "camouflage"
+    ],
+    [
+      "pollen transfer",
+      "contributes to",
+      "biodiversity"
+    ],
+    [
+      "pollen transfer",
+      "enables",
+      "reproduction"
+    ],
+    [
+      "pollen transfer",
+      "facilitated by",
+      "proboscis"
+    ],
+    [
+      "pollen transfer",
+      "involves",
+      "flower nectar"
+    ],
+    [
+      "pollen transfer",
+      "support",
+      "host plants"
+    ],
+    [
+      "pollination",
+      "enhances",
+      "biodiversity"
+    ],
+    [
+      "pollination",
+      "facilitated by",
+      "flower nectar"
+    ],
+    [
+      "pollination",
+      "facilitated by",
+      "proboscis"
+    ],
+    [
+      "pollination",
+      "supports",
+      "reproduction"
+    ],
+    [
+      "predator protection",
+      "aids in",
+      "camouflage"
+    ],
+    [
+      "predator protection",
+      "enhances",
+      "biodiversity"
+    ],
+    [
+      "proboscis",
+      "consumed by",
+      "flower nectar"
+    ],
+    [
+      "proboscis",
+      "emerges with",
+      "emergence"
+    ],
+    [
+      "protective features",
+      "aids in",
+      "camouflage"
+    ],
+    [
+      "protective features",
+      "characterizes",
+      "egg stage"
+    ],
+    [
+      "protective features",
+      "characterizes",
+      "larva stage"
+    ],
+    [
+      "protective features",
+      "contributes to",
+      "butterfly development"
+    ],
+    [
+      "protective features",
+      "possesses",
+      "adult butterfly"
+    ],
+    [
+      "protective features",
+      "provides",
+      "predator protection"
+    ],
+    [
+      "pupa stage",
+      "develops into",
+      "new tissues"
+    ],
+    [
+      "pupa stage",
+      "emerges from",
+      "adult butterfly"
+    ],
+    [
+      "pupa stage",
+      "enables",
+      "butterfly development"
+    ],
+    [
+      "pupa stage",
+      "follows",
+      "emergence"
+    ],
+    [
+      "pupa stage",
+      "forms into",
+      "chrysalis"
+    ],
+    [
+      "pupa stage",
+      "involves",
+      "metamorphosis"
+    ],
+    [
+      "pupa stage",
+      "leads to",
+      "wings formation"
+    ],
+    [
+      "pupa stage",
+      "occurs on",
+      "leaf underside"
+    ],
+    [
+      "pupa stage",
+      "protects",
+      "protective features"
+    ],
+    [
+      "pupa stage",
+      "provides",
+      "predator protection"
+    ],
+    [
+      "reproduction",
+      "occurs on",
+      "leaf underside"
+    ],
+    [
+      "short lifespan",
+      "characterizes",
+      "adult butterfly"
+    ],
+    [
+      "short lifespan",
+      "depends on",
+      "species variation"
+    ],
+    [
+      "species variation",
+      "affects",
+      "butterfly development"
+    ],
+    [
+      "species variation",
+      "affects",
+      "egg stage"
+    ],
+    [
+      "species variation",
+      "affects",
+      "new tissues"
+    ],
+    [
+      "species variation",
+      "affects",
+      "pollen transfer"
+    ],
+    [
+      "species variation",
+      "affects",
+      "pollination"
+    ],
+    [
+      "species variation",
+      "contributes to",
+      "biodiversity"
+    ],
+    [
+      "species variation",
+      "determines",
+      "camouflage"
+    ],
+    [
+      "species variation",
+      "determines",
+      "caterpillars"
+    ],
+    [
+      "species variation",
+      "influences",
+      "adult butterfly"
+    ],
+    [
+      "species variation",
+      "influences",
+      "larva stage"
+    ],
+    [
+      "species variation",
+      "influences",
+      "life cycle"
+    ],
+    [
+      "species variation",
+      "influences",
+      "metamorphosis"
+    ],
+    [
+      "species variation",
+      "influences",
+      "reproduction"
+    ],
+    [
+      "species variation",
+      "influences",
+      "tubular mouthparts"
+    ],
+    [
+      "species-specific eggs",
+      "contributes to",
+      "biodiversity"
+    ],
+    [
+      "species-specific eggs",
+      "designed for",
+      "predator protection"
+    ],
+    [
+      "species-specific eggs",
+      "enables",
+      "reproduction"
+    ],
+    [
+      "species-specific eggs",
+      "follows",
+      "larva stage"
+    ],
+    [
+      "species-specific eggs",
+      "follows",
+      "molting"
+    ],
+    [
+      "species-specific eggs",
+      "hatch into",
+      "caterpillars"
+    ],
+    [
+      "species-specific eggs",
+      "laid on",
+      "leaf underside"
+    ],
+    [
+      "species-specific eggs",
+      "leads to",
+      "larva emergence"
+    ],
+    [
+      "species-specific eggs",
+      "occurs in",
+      "egg stage"
+    ],
+    [
+      "tubular mouthparts",
+      "aid",
+      "biodiversity"
+    ],
+    [
+      "tubular mouthparts",
+      "aids",
+      "butterfly development"
+    ],
+    [
+      "tubular mouthparts",
+      "are",
+      "proboscis"
+    ],
+    [
+      "tubular mouthparts",
+      "consumes",
+      "flower nectar"
+    ],
+    [
+      "tubular mouthparts",
+      "facilitate",
+      "pollination"
+    ],
+    [
+      "tubular mouthparts",
+      "facilitates",
+      "pollen transfer"
+    ],
+    [
+      "voracious eaters",
+      "characteristic of",
+      "larva stage"
+    ],
+    [
+      "voracious eaters",
+      "characterizes",
+      "species variation"
+    ],
+    [
+      "voracious eaters",
+      "contributes to",
+      "pollination"
+    ],
+    [
+      "voracious eaters",
+      "describe",
+      "caterpillars"
+    ],
+    [
+      "voracious eaters",
+      "develop into",
+      "new tissues"
+    ],
+    [
+      "voracious eaters",
+      "enables",
+      "predator protection"
+    ],
+    [
+      "voracious eaters",
+      "is part of",
+      "life cycle"
+    ],
+    [
+      "voracious eaters",
+      "leads to",
+      "larva emergence"
+    ],
+    [
+      "voracious eaters",
+      "provide food for",
+      "host plants"
+    ],
+    [
+      "voracious eaters",
+      "require",
+      "molting"
+    ],
+    [
+      "wings formation",
+      "develops during",
+      "larva stage"
+    ]
+  ],
+  "edges": [
+    "affects",
+    "aid",
+    "aids",
+    "aids in",
+    "are",
+    "begins with",
+    "characteristic of",
+    "characterized by",
+    "characterizes",
+    "consists of",
+    "consumed by",
+    "consumes",
+    "contribute to",
+    "contributes to",
+    "culminates in",
+    "depends on",
+    "describe",
+    "designed for",
+    "determine",
+    "determines",
+    "develop into",
+    "develop within",
+    "develops",
+    "develops during",
+    "develops into",
+    "emerge from",
+    "emerges from",
+    "emerges with",
+    "enabled by",
+    "enables",
+    "encloses",
+    "engage in",
+    "enhances",
+    "facilitate",
+    "facilitated by",
+    "facilitates",
+    "feeds on",
+    "final phase of",
+    "follows",
+    "food source for",
+    "form during",
+    "formed by",
+    "forms into",
+    "found on",
+    "fulfilled by",
+    "hatch into",
+    "includes",
+    "influences",
+    "initiates",
+    "involves",
+    "is part of",
+    "laid on",
+    "lay eggs on",
+    "lays",
+    "leads to",
+    "located on",
+    "location for laying",
+    "maintained by",
+    "maintains",
+    "occurs during",
+    "occurs in",
+    "occurs on",
+    "offers",
+    "part of",
+    "performed by",
+    "performs",
+    "possessed by",
+    "possesses",
+    "precedes",
+    "prepares for",
+    "process of",
+    "protected by",
+    "protects",
+    "provide food for",
+    "provides",
+    "reflects",
+    "require",
+    "requires",
+    "results from",
+    "results in",
+    "support",
+    "supports",
+    "undergo",
+    "use for feeding",
+    "use for protection",
+    "uses"
+  ]
+}

@@ -1,0 +1,2956 @@
+{
+  "entities": [
+    "air currents",
+    "air saturation",
+    "air temperature",
+    "atmospheric conditions",
+    "atmospheric dynamics",
+    "atmospheric layers",
+    "cirrus clouds",
+    "clear days",
+    "cloud characteristics",
+    "cloud development",
+    "cloud formation",
+    "cloud observation",
+    "cloud types",
+    "complex processes",
+    "condensation process",
+    "cooling air",
+    "cumulonimbus clouds",
+    "cumulus clouds",
+    "dew point",
+    "environmental appreciation",
+    "fluffy appearance",
+    "gentle lifting",
+    "gray color",
+    "high altitude",
+    "humidity levels",
+    "ice crystals",
+    "interaction factors",
+    "light rain",
+    "low-lying clouds",
+    "meteorological phenomena",
+    "meteorological study",
+    "moisture content",
+    "moisture dynamics",
+    "natural phenomenon",
+    "overcast skies",
+    "rain",
+    "sky characteristics",
+    "sky observation",
+    "slow cooling",
+    "solar heating",
+    "stratus clouds",
+    "temperature influence",
+    "thin clouds",
+    "thunderstorms",
+    "tiny droplets",
+    "uniform layer",
+    "visible clouds",
+    "visual appearance",
+    "warm moist air",
+    "water vapor",
+    "weather association",
+    "weather forecasting",
+    "weather patterns",
+    "weather types"
+  ],
+  "relations": [
+    [
+      "air currents",
+      "affects",
+      "air saturation"
+    ],
+    [
+      "air currents",
+      "affects",
+      "ice crystals"
+    ],
+    [
+      "air currents",
+      "affects",
+      "stratus clouds"
+    ],
+    [
+      "air currents",
+      "affects",
+      "thin clouds"
+    ],
+    [
+      "air currents",
+      "can cause",
+      "rain"
+    ],
+    [
+      "air currents",
+      "can lead to",
+      "light rain"
+    ],
+    [
+      "air currents",
+      "can lead to",
+      "overcast skies"
+    ],
+    [
+      "air currents",
+      "causes",
+      "slow cooling"
+    ],
+    [
+      "air currents",
+      "facilitates",
+      "cloud formation"
+    ],
+    [
+      "air currents",
+      "facilitates",
+      "gentle lifting"
+    ],
+    [
+      "air currents",
+      "influences",
+      "atmospheric conditions"
+    ],
+    [
+      "air currents",
+      "influences",
+      "cloud characteristics"
+    ],
+    [
+      "air currents",
+      "influences",
+      "moisture dynamics"
+    ],
+    [
+      "air currents",
+      "influences",
+      "tiny droplets"
+    ],
+    [
+      "air currents",
+      "interacts with",
+      "atmospheric layers"
+    ],
+    [
+      "air currents",
+      "occurs at",
+      "high altitude"
+    ],
+    [
+      "air saturation",
+      "caused by",
+      "tiny droplets"
+    ],
+    [
+      "air saturation",
+      "causes",
+      "light rain"
+    ],
+    [
+      "air saturation",
+      "enables",
+      "condensation process"
+    ],
+    [
+      "air saturation",
+      "influences",
+      "slow cooling"
+    ],
+    [
+      "air saturation",
+      "is influenced by",
+      "cloud observation"
+    ],
+    [
+      "air saturation",
+      "is related to",
+      "sky characteristics"
+    ],
+    [
+      "air saturation",
+      "is studied in",
+      "meteorological study"
+    ],
+    [
+      "air saturation",
+      "leads to",
+      "ice crystals"
+    ],
+    [
+      "air saturation",
+      "leads to",
+      "stratus clouds"
+    ],
+    [
+      "air saturation",
+      "requires",
+      "low-lying clouds"
+    ],
+    [
+      "air temperature",
+      "affects",
+      "air saturation"
+    ],
+    [
+      "air temperature",
+      "determines",
+      "dew point"
+    ],
+    [
+      "air temperature",
+      "enables",
+      "cloud formation"
+    ],
+    [
+      "air temperature",
+      "influences",
+      "atmospheric dynamics"
+    ],
+    [
+      "air temperature",
+      "influences",
+      "condensation process"
+    ],
+    [
+      "air temperature",
+      "influences",
+      "uniform layer"
+    ],
+    [
+      "air temperature",
+      "is caused by",
+      "gentle lifting"
+    ],
+    [
+      "air temperature",
+      "is influenced by",
+      "cloud observation"
+    ],
+    [
+      "atmospheric conditions",
+      "affected by",
+      "tiny droplets"
+    ],
+    [
+      "atmospheric conditions",
+      "affects",
+      "atmospheric layers"
+    ],
+    [
+      "atmospheric conditions",
+      "affects",
+      "cloud formation"
+    ],
+    [
+      "atmospheric conditions",
+      "influenced by",
+      "sky observation"
+    ],
+    [
+      "atmospheric conditions",
+      "influences",
+      "overcast skies"
+    ],
+    [
+      "atmospheric conditions",
+      "is associated with",
+      "stratus clouds"
+    ],
+    [
+      "atmospheric conditions",
+      "is essential for",
+      "condensation process"
+    ],
+    [
+      "atmospheric conditions",
+      "is related to",
+      "weather association"
+    ],
+    [
+      "atmospheric conditions",
+      "is studied in",
+      "meteorological study"
+    ],
+    [
+      "atmospheric conditions",
+      "results in",
+      "rain"
+    ],
+    [
+      "atmospheric dynamics",
+      "affects",
+      "stratus clouds"
+    ],
+    [
+      "atmospheric dynamics",
+      "affects",
+      "weather association"
+    ],
+    [
+      "atmospheric dynamics",
+      "describes",
+      "cloud characteristics"
+    ],
+    [
+      "atmospheric dynamics",
+      "describes",
+      "cloud types"
+    ],
+    [
+      "atmospheric dynamics",
+      "influenced by",
+      "sky observation"
+    ],
+    [
+      "atmospheric dynamics",
+      "influences",
+      "weather patterns"
+    ],
+    [
+      "atmospheric dynamics",
+      "involves",
+      "air currents"
+    ],
+    [
+      "atmospheric dynamics",
+      "is part of",
+      "condensation process"
+    ],
+    [
+      "atmospheric dynamics",
+      "studies",
+      "meteorological study"
+    ],
+    [
+      "atmospheric layers",
+      "is a part of",
+      "water vapor"
+    ],
+    [
+      "atmospheric layers",
+      "is influenced by",
+      "tiny droplets"
+    ],
+    [
+      "cirrus clouds",
+      "associated with",
+      "weather association"
+    ],
+    [
+      "cirrus clouds",
+      "can be associated with",
+      "thunderstorms"
+    ],
+    [
+      "cirrus clouds",
+      "can develop into",
+      "cumulonimbus clouds"
+    ],
+    [
+      "cirrus clouds",
+      "describes",
+      "sky characteristics"
+    ],
+    [
+      "cirrus clouds",
+      "is a type of",
+      "thin clouds"
+    ],
+    [
+      "cirrus clouds",
+      "is affected by",
+      "air saturation"
+    ],
+    [
+      "cirrus clouds",
+      "is associated with",
+      "gray color"
+    ],
+    [
+      "cirrus clouds",
+      "is observed on",
+      "clear days"
+    ],
+    [
+      "cirrus clouds",
+      "observed in",
+      "sky observation"
+    ],
+    [
+      "clear days",
+      "can occur on",
+      "low-lying clouds"
+    ],
+    [
+      "clear days",
+      "is associated with",
+      "cloud types"
+    ],
+    [
+      "clear days",
+      "is observed on",
+      "cumulonimbus clouds"
+    ],
+    [
+      "clear days",
+      "is observed on",
+      "visible clouds"
+    ],
+    [
+      "clear days",
+      "is observed on",
+      "weather types"
+    ],
+    [
+      "clear days",
+      "is often seen on",
+      "ice crystals"
+    ],
+    [
+      "clear days",
+      "occurs on",
+      "light rain"
+    ],
+    [
+      "cloud characteristics",
+      "affects",
+      "weather association"
+    ],
+    [
+      "cloud characteristics",
+      "describes",
+      "cloud types"
+    ],
+    [
+      "cloud characteristics",
+      "describes",
+      "weather types"
+    ],
+    [
+      "cloud characteristics",
+      "determines",
+      "dew point"
+    ],
+    [
+      "cloud characteristics",
+      "influences",
+      "cloud formation"
+    ],
+    [
+      "cloud characteristics",
+      "is a subject of",
+      "meteorological study"
+    ],
+    [
+      "cloud characteristics",
+      "is a type of",
+      "natural phenomenon"
+    ],
+    [
+      "cloud characteristics",
+      "is composed of",
+      "ice crystals"
+    ],
+    [
+      "cloud development",
+      "affects",
+      "cloud characteristics"
+    ],
+    [
+      "cloud development",
+      "can lead to",
+      "thunderstorms"
+    ],
+    [
+      "cloud development",
+      "composed of",
+      "water vapor"
+    ],
+    [
+      "cloud development",
+      "develops into",
+      "cumulonimbus clouds"
+    ],
+    [
+      "cloud development",
+      "influenced by",
+      "air temperature"
+    ],
+    [
+      "cloud development",
+      "influences",
+      "air currents"
+    ],
+    [
+      "cloud development",
+      "influences",
+      "moisture dynamics"
+    ],
+    [
+      "cloud development",
+      "influences",
+      "solar heating"
+    ],
+    [
+      "cloud development",
+      "influences",
+      "weather association"
+    ],
+    [
+      "cloud development",
+      "is a type of",
+      "natural phenomenon"
+    ],
+    [
+      "cloud development",
+      "is dependent on",
+      "condensation process"
+    ],
+    [
+      "cloud development",
+      "is important for",
+      "weather forecasting"
+    ],
+    [
+      "cloud development",
+      "is influenced by",
+      "air saturation"
+    ],
+    [
+      "cloud development",
+      "is influenced by",
+      "dew point"
+    ],
+    [
+      "cloud development",
+      "is influenced by",
+      "gentle lifting"
+    ],
+    [
+      "cloud development",
+      "is influenced by",
+      "interaction factors"
+    ],
+    [
+      "cloud development",
+      "is observed in",
+      "cloud observation"
+    ],
+    [
+      "cloud development",
+      "requires",
+      "warm moist air"
+    ],
+    [
+      "cloud development",
+      "studied in",
+      "meteorological study"
+    ],
+    [
+      "cloud formation",
+      "influenced by",
+      "sky observation"
+    ],
+    [
+      "cloud formation",
+      "influences",
+      "dew point"
+    ],
+    [
+      "cloud formation",
+      "is a result of",
+      "light rain"
+    ],
+    [
+      "cloud formation",
+      "is a result of",
+      "natural phenomenon"
+    ],
+    [
+      "cloud formation",
+      "is influenced by",
+      "low-lying clouds"
+    ],
+    [
+      "cloud formation",
+      "is influenced by",
+      "overcast skies"
+    ],
+    [
+      "cloud formation",
+      "is influenced by",
+      "stratus clouds"
+    ],
+    [
+      "cloud observation",
+      "affects",
+      "air currents"
+    ],
+    [
+      "cloud observation",
+      "composed of",
+      "ice crystals"
+    ],
+    [
+      "cloud observation",
+      "influences",
+      "weather patterns"
+    ],
+    [
+      "cloud observation",
+      "is facilitated by",
+      "gentle lifting"
+    ],
+    [
+      "cloud observation",
+      "is observed in",
+      "low-lying clouds"
+    ],
+    [
+      "cloud observation",
+      "is observed in",
+      "water vapor"
+    ],
+    [
+      "cloud observation",
+      "is related to",
+      "moisture dynamics"
+    ],
+    [
+      "cloud observation",
+      "is studied in",
+      "meteorological study"
+    ],
+    [
+      "cloud observation",
+      "leads to",
+      "cloud formation"
+    ],
+    [
+      "cloud types",
+      "affected by",
+      "cooling air"
+    ],
+    [
+      "cloud types",
+      "is defined by",
+      "cloud development"
+    ],
+    [
+      "cloud types",
+      "is defined by",
+      "complex processes"
+    ],
+    [
+      "cloud types",
+      "is influenced by",
+      "temperature influence"
+    ],
+    [
+      "cloud types",
+      "results in",
+      "cloud formation"
+    ],
+    [
+      "complex processes",
+      "can result in",
+      "overcast skies"
+    ],
+    [
+      "complex processes",
+      "enables",
+      "cloud observation"
+    ],
+    [
+      "complex processes",
+      "involves",
+      "air temperature"
+    ],
+    [
+      "complex processes",
+      "involves",
+      "ice crystals"
+    ],
+    [
+      "complex processes",
+      "involves",
+      "interaction factors"
+    ],
+    [
+      "complex processes",
+      "is a part of",
+      "condensation process"
+    ],
+    [
+      "complex processes",
+      "is influenced by",
+      "weather forecasting"
+    ],
+    [
+      "complex processes",
+      "is part of",
+      "tiny droplets"
+    ],
+    [
+      "complex processes",
+      "is studied in",
+      "meteorological study"
+    ],
+    [
+      "complex processes",
+      "leads to",
+      "air saturation"
+    ],
+    [
+      "condensation process",
+      "describes",
+      "sky characteristics"
+    ],
+    [
+      "condensation process",
+      "determines",
+      "cloud types"
+    ],
+    [
+      "condensation process",
+      "facilitates",
+      "air currents"
+    ],
+    [
+      "condensation process",
+      "facilitates",
+      "cooling air"
+    ],
+    [
+      "condensation process",
+      "is a result of",
+      "overcast skies"
+    ],
+    [
+      "condensation process",
+      "is associated with",
+      "cumulonimbus clouds"
+    ],
+    [
+      "condensation process",
+      "is associated with",
+      "weather association"
+    ],
+    [
+      "condensation process",
+      "is studied in",
+      "meteorological study"
+    ],
+    [
+      "condensation process",
+      "produces",
+      "ice crystals"
+    ],
+    [
+      "condensation process",
+      "produces",
+      "stratus clouds"
+    ],
+    [
+      "condensation process",
+      "results in",
+      "rain"
+    ],
+    [
+      "cooling air",
+      "affects",
+      "air saturation"
+    ],
+    [
+      "cooling air",
+      "determines",
+      "cloud types"
+    ],
+    [
+      "cooling air",
+      "facilitates",
+      "cloud formation"
+    ],
+    [
+      "cooling air",
+      "influences",
+      "environmental appreciation"
+    ],
+    [
+      "cooling air",
+      "is a phenomenon of",
+      "natural phenomenon"
+    ],
+    [
+      "cooling air",
+      "is caused by",
+      "thunderstorms"
+    ],
+    [
+      "cooling air",
+      "is influenced by",
+      "sky observation"
+    ],
+    [
+      "cumulonimbus clouds",
+      "associated with",
+      "cloud observation"
+    ],
+    [
+      "cumulonimbus clouds",
+      "associated with",
+      "sky observation"
+    ],
+    [
+      "cumulonimbus clouds",
+      "associated with",
+      "warm moist air"
+    ],
+    [
+      "cumulonimbus clouds",
+      "develops from",
+      "stratus clouds"
+    ],
+    [
+      "cumulonimbus clouds",
+      "is a result of",
+      "cloud formation"
+    ],
+    [
+      "cumulonimbus clouds",
+      "is a type of",
+      "meteorological phenomena"
+    ],
+    [
+      "cumulonimbus clouds",
+      "is a type of",
+      "natural phenomenon"
+    ],
+    [
+      "cumulonimbus clouds",
+      "is a type of",
+      "visible clouds"
+    ],
+    [
+      "cumulonimbus clouds",
+      "is associated with",
+      "weather association"
+    ],
+    [
+      "cumulonimbus clouds",
+      "is associated with",
+      "weather types"
+    ],
+    [
+      "cumulonimbus clouds",
+      "is formed from",
+      "moisture content"
+    ],
+    [
+      "cumulonimbus clouds",
+      "is formed from",
+      "tiny droplets"
+    ],
+    [
+      "cumulus clouds",
+      "associated with",
+      "overcast skies"
+    ],
+    [
+      "cumulus clouds",
+      "associated with",
+      "weather patterns"
+    ],
+    [
+      "cumulus clouds",
+      "can develop into",
+      "low-lying clouds"
+    ],
+    [
+      "cumulus clouds",
+      "characteristic of",
+      "fluffy appearance"
+    ],
+    [
+      "cumulus clouds",
+      "composed of",
+      "cloud development"
+    ],
+    [
+      "cumulus clouds",
+      "develops into",
+      "cumulonimbus clouds"
+    ],
+    [
+      "cumulus clouds",
+      "is a type of",
+      "cloud types"
+    ],
+    [
+      "cumulus clouds",
+      "is a type of",
+      "visible clouds"
+    ],
+    [
+      "cumulus clouds",
+      "is associated with",
+      "gray color"
+    ],
+    [
+      "cumulus clouds",
+      "is observed in",
+      "sky observation"
+    ],
+    [
+      "cumulus clouds",
+      "requires",
+      "gentle lifting"
+    ],
+    [
+      "dew point",
+      "can result in",
+      "rain"
+    ],
+    [
+      "dew point",
+      "determines",
+      "cloud types"
+    ],
+    [
+      "dew point",
+      "determines",
+      "humidity levels"
+    ],
+    [
+      "dew point",
+      "is a factor in",
+      "meteorological phenomena"
+    ],
+    [
+      "dew point",
+      "is affected by",
+      "overcast skies"
+    ],
+    [
+      "dew point",
+      "is influenced by",
+      "water vapor"
+    ],
+    [
+      "dew point",
+      "is related to",
+      "light rain"
+    ],
+    [
+      "dew point",
+      "is related to",
+      "natural phenomenon"
+    ],
+    [
+      "dew point",
+      "is related to",
+      "sky characteristics"
+    ],
+    [
+      "dew point",
+      "reached by",
+      "tiny droplets"
+    ],
+    [
+      "dew point",
+      "reaches",
+      "warm moist air"
+    ],
+    [
+      "dew point",
+      "triggers",
+      "condensation process"
+    ],
+    [
+      "environmental appreciation",
+      "enhances",
+      "dew point"
+    ],
+    [
+      "environmental appreciation",
+      "enhances",
+      "moisture dynamics"
+    ],
+    [
+      "environmental appreciation",
+      "enhances",
+      "natural phenomenon"
+    ],
+    [
+      "environmental appreciation",
+      "enhances",
+      "water vapor"
+    ],
+    [
+      "environmental appreciation",
+      "enhances",
+      "weather patterns"
+    ],
+    [
+      "environmental appreciation",
+      "is studied in",
+      "meteorological study"
+    ],
+    [
+      "fluffy appearance",
+      "is associated with",
+      "cloud types"
+    ],
+    [
+      "fluffy appearance",
+      "is characterized by",
+      "ice crystals"
+    ],
+    [
+      "fluffy appearance",
+      "is characterized by",
+      "tiny droplets"
+    ],
+    [
+      "gentle lifting",
+      "contributes to",
+      "cloud formation"
+    ],
+    [
+      "gentle lifting",
+      "is formed by",
+      "low-lying clouds"
+    ],
+    [
+      "gentle lifting",
+      "is influenced by",
+      "cooling air"
+    ],
+    [
+      "gentle lifting",
+      "is influenced by",
+      "visible clouds"
+    ],
+    [
+      "gentle lifting",
+      "leads to",
+      "cloud types"
+    ],
+    [
+      "gentle lifting",
+      "leads to",
+      "stratus clouds"
+    ],
+    [
+      "gentle lifting",
+      "requires",
+      "clear days"
+    ],
+    [
+      "gentle lifting",
+      "requires",
+      "slow cooling"
+    ],
+    [
+      "gentle lifting",
+      "results from",
+      "overcast skies"
+    ],
+    [
+      "gentle lifting",
+      "results in",
+      "rain"
+    ],
+    [
+      "gray color",
+      "can cause",
+      "light rain"
+    ],
+    [
+      "gray color",
+      "causes",
+      "overcast skies"
+    ],
+    [
+      "gray color",
+      "is characteristic of",
+      "stratus clouds"
+    ],
+    [
+      "gray color",
+      "is characterized by",
+      "low-lying clouds"
+    ],
+    [
+      "high altitude",
+      "can occur at",
+      "visible clouds"
+    ],
+    [
+      "high altitude",
+      "forms at",
+      "uniform layer"
+    ],
+    [
+      "high altitude",
+      "is characterized by",
+      "sky characteristics"
+    ],
+    [
+      "high altitude",
+      "is formed at",
+      "cirrus clouds"
+    ],
+    [
+      "high altitude",
+      "is found at",
+      "rain"
+    ],
+    [
+      "high altitude",
+      "is found at",
+      "tiny droplets"
+    ],
+    [
+      "high altitude",
+      "is not typically found at",
+      "cumulus clouds"
+    ],
+    [
+      "high altitude",
+      "is observed at",
+      "clear days"
+    ],
+    [
+      "high altitude",
+      "is observed at",
+      "natural phenomenon"
+    ],
+    [
+      "high altitude",
+      "is studied in",
+      "meteorological study"
+    ],
+    [
+      "high altitude",
+      "occurs at",
+      "cloud formation"
+    ],
+    [
+      "humidity levels",
+      "affects",
+      "air temperature"
+    ],
+    [
+      "humidity levels",
+      "affects",
+      "cloud observation"
+    ],
+    [
+      "humidity levels",
+      "affects",
+      "condensation process"
+    ],
+    [
+      "humidity levels",
+      "affects",
+      "cooling air"
+    ],
+    [
+      "humidity levels",
+      "affects",
+      "slow cooling"
+    ],
+    [
+      "humidity levels",
+      "affects",
+      "thin clouds"
+    ],
+    [
+      "humidity levels",
+      "affects",
+      "tiny droplets"
+    ],
+    [
+      "humidity levels",
+      "affects",
+      "warm moist air"
+    ],
+    [
+      "humidity levels",
+      "affects",
+      "weather patterns"
+    ],
+    [
+      "humidity levels",
+      "can affect",
+      "air currents"
+    ],
+    [
+      "humidity levels",
+      "can lead to",
+      "cumulonimbus clouds"
+    ],
+    [
+      "humidity levels",
+      "can lead to",
+      "rain"
+    ],
+    [
+      "humidity levels",
+      "determines",
+      "cloud types"
+    ],
+    [
+      "humidity levels",
+      "influences",
+      "interaction factors"
+    ],
+    [
+      "humidity levels",
+      "influences",
+      "sky observation"
+    ],
+    [
+      "humidity levels",
+      "influences",
+      "stratus clouds"
+    ],
+    [
+      "humidity levels",
+      "is a characteristic of",
+      "natural phenomenon"
+    ],
+    [
+      "humidity levels",
+      "is a component of",
+      "atmospheric layers"
+    ],
+    [
+      "humidity levels",
+      "is influenced by",
+      "cloud formation"
+    ],
+    [
+      "humidity levels",
+      "is influenced by",
+      "low-lying clouds"
+    ],
+    [
+      "humidity levels",
+      "is influenced by",
+      "weather forecasting"
+    ],
+    [
+      "humidity levels",
+      "studied in",
+      "meteorological study"
+    ],
+    [
+      "ice crystals",
+      "affected by",
+      "interaction factors"
+    ],
+    [
+      "ice crystals",
+      "composed of",
+      "tiny droplets"
+    ],
+    [
+      "ice crystals",
+      "composes",
+      "stratus clouds"
+    ],
+    [
+      "ice crystals",
+      "formed from",
+      "atmospheric conditions"
+    ],
+    [
+      "ice crystals",
+      "forms from",
+      "slow cooling"
+    ],
+    [
+      "ice crystals",
+      "influences",
+      "temperature influence"
+    ],
+    [
+      "ice crystals",
+      "is a component of",
+      "cumulonimbus clouds"
+    ],
+    [
+      "ice crystals",
+      "is composed of",
+      "dew point"
+    ],
+    [
+      "ice crystals",
+      "is composed of",
+      "uniform layer"
+    ],
+    [
+      "ice crystals",
+      "is formed from",
+      "visible clouds"
+    ],
+    [
+      "ice crystals",
+      "is involved in",
+      "cloud formation"
+    ],
+    [
+      "ice crystals",
+      "observed in",
+      "cloud observation"
+    ],
+    [
+      "interaction factors",
+      "affects",
+      "air temperature"
+    ],
+    [
+      "interaction factors",
+      "contributes to",
+      "cloud formation"
+    ],
+    [
+      "interaction factors",
+      "is influenced by",
+      "temperature influence"
+    ],
+    [
+      "interaction factors",
+      "is influenced by",
+      "uniform layer"
+    ],
+    [
+      "light rain",
+      "can lead to",
+      "humidity levels"
+    ],
+    [
+      "light rain",
+      "can lead to",
+      "solar heating"
+    ],
+    [
+      "light rain",
+      "can lead to",
+      "water vapor"
+    ],
+    [
+      "light rain",
+      "can occur during",
+      "visible clouds"
+    ],
+    [
+      "light rain",
+      "can result in",
+      "sky observation"
+    ],
+    [
+      "light rain",
+      "can result in",
+      "tiny droplets"
+    ],
+    [
+      "light rain",
+      "causes",
+      "uniform layer"
+    ],
+    [
+      "light rain",
+      "causes",
+      "warm moist air"
+    ],
+    [
+      "light rain",
+      "is associated with",
+      "cloud observation"
+    ],
+    [
+      "light rain",
+      "is caused by",
+      "gentle lifting"
+    ],
+    [
+      "light rain",
+      "is influenced by",
+      "atmospheric dynamics"
+    ],
+    [
+      "light rain",
+      "is linked to",
+      "visual appearance"
+    ],
+    [
+      "light rain",
+      "produces",
+      "cumulus clouds"
+    ],
+    [
+      "light rain",
+      "results from",
+      "condensation process"
+    ],
+    [
+      "light rain",
+      "results in",
+      "rain"
+    ],
+    [
+      "low-lying clouds",
+      "affected by",
+      "air temperature"
+    ],
+    [
+      "low-lying clouds",
+      "affects",
+      "moisture dynamics"
+    ],
+    [
+      "low-lying clouds",
+      "affects",
+      "weather patterns"
+    ],
+    [
+      "low-lying clouds",
+      "analyzed in",
+      "meteorological study"
+    ],
+    [
+      "low-lying clouds",
+      "can affect",
+      "air currents"
+    ],
+    [
+      "low-lying clouds",
+      "can develop into",
+      "cumulonimbus clouds"
+    ],
+    [
+      "low-lying clouds",
+      "formed from",
+      "warm moist air"
+    ],
+    [
+      "low-lying clouds",
+      "forms",
+      "dew point"
+    ],
+    [
+      "low-lying clouds",
+      "forms due to",
+      "slow cooling"
+    ],
+    [
+      "low-lying clouds",
+      "influences",
+      "visible clouds"
+    ],
+    [
+      "low-lying clouds",
+      "is a factor in",
+      "water vapor"
+    ],
+    [
+      "low-lying clouds",
+      "is a feature of",
+      "uniform layer"
+    ],
+    [
+      "low-lying clouds",
+      "is a result of",
+      "condensation process"
+    ],
+    [
+      "low-lying clouds",
+      "is a type of",
+      "natural phenomenon"
+    ],
+    [
+      "low-lying clouds",
+      "is categorized as",
+      "cloud types"
+    ],
+    [
+      "low-lying clouds",
+      "is influenced by",
+      "interaction factors"
+    ],
+    [
+      "low-lying clouds",
+      "results from",
+      "cooling air"
+    ],
+    [
+      "meteorological phenomena",
+      "leads to",
+      "high altitude"
+    ],
+    [
+      "meteorological phenomena",
+      "results in",
+      "cloud formation"
+    ],
+    [
+      "meteorological study",
+      "is related to",
+      "weather association"
+    ],
+    [
+      "meteorological study",
+      "is studied by",
+      "cumulonimbus clouds"
+    ],
+    [
+      "meteorological study",
+      "is studied by",
+      "slow cooling"
+    ],
+    [
+      "meteorological study",
+      "is studied in",
+      "stratus clouds"
+    ],
+    [
+      "meteorological study",
+      "subject of",
+      "air temperature"
+    ],
+    [
+      "moisture content",
+      "affects",
+      "atmospheric layers"
+    ],
+    [
+      "moisture content",
+      "affects",
+      "humidity levels"
+    ],
+    [
+      "moisture content",
+      "affects",
+      "temperature influence"
+    ],
+    [
+      "moisture content",
+      "affects",
+      "weather patterns"
+    ],
+    [
+      "moisture content",
+      "can lead to",
+      "thunderstorms"
+    ],
+    [
+      "moisture content",
+      "composed of",
+      "tiny droplets"
+    ],
+    [
+      "moisture content",
+      "comprises",
+      "water vapor"
+    ],
+    [
+      "moisture content",
+      "contributes to",
+      "cloud formation"
+    ],
+    [
+      "moisture content",
+      "determines",
+      "dew point"
+    ],
+    [
+      "moisture content",
+      "facilitates",
+      "gentle lifting"
+    ],
+    [
+      "moisture content",
+      "forms",
+      "uniform layer"
+    ],
+    [
+      "moisture content",
+      "influences",
+      "environmental appreciation"
+    ],
+    [
+      "moisture content",
+      "influences",
+      "warm moist air"
+    ],
+    [
+      "moisture content",
+      "involved in",
+      "condensation process"
+    ],
+    [
+      "moisture content",
+      "is a factor in",
+      "natural phenomenon"
+    ],
+    [
+      "moisture content",
+      "is important for",
+      "weather forecasting"
+    ],
+    [
+      "moisture content",
+      "is involved in",
+      "complex processes"
+    ],
+    [
+      "moisture content",
+      "results in",
+      "rain"
+    ],
+    [
+      "moisture dynamics",
+      "affected by",
+      "overcast skies"
+    ],
+    [
+      "moisture dynamics",
+      "affects",
+      "dew point"
+    ],
+    [
+      "moisture dynamics",
+      "contributes to",
+      "cloud formation"
+    ],
+    [
+      "moisture dynamics",
+      "determines",
+      "cloud types"
+    ],
+    [
+      "moisture dynamics",
+      "influences",
+      "condensation process"
+    ],
+    [
+      "moisture dynamics",
+      "influences",
+      "interaction factors"
+    ],
+    [
+      "moisture dynamics",
+      "is a phenomenon of",
+      "meteorological phenomena"
+    ],
+    [
+      "moisture dynamics",
+      "is a type of",
+      "cumulonimbus clouds"
+    ],
+    [
+      "moisture dynamics",
+      "is composed of",
+      "ice crystals"
+    ],
+    [
+      "moisture dynamics",
+      "is influenced by",
+      "atmospheric dynamics"
+    ],
+    [
+      "moisture dynamics",
+      "is influenced by",
+      "slow cooling"
+    ],
+    [
+      "natural phenomenon",
+      "exemplifies",
+      "solar heating"
+    ],
+    [
+      "natural phenomenon",
+      "involves",
+      "gentle lifting"
+    ],
+    [
+      "natural phenomenon",
+      "is a characteristic of",
+      "light rain"
+    ],
+    [
+      "natural phenomenon",
+      "is a form of",
+      "cloud observation"
+    ],
+    [
+      "natural phenomenon",
+      "is a type of",
+      "atmospheric layers"
+    ],
+    [
+      "natural phenomenon",
+      "is a type of",
+      "overcast skies"
+    ],
+    [
+      "natural phenomenon",
+      "is a type of",
+      "tiny droplets"
+    ],
+    [
+      "natural phenomenon",
+      "is part of",
+      "condensation process"
+    ],
+    [
+      "natural phenomenon",
+      "is related to",
+      "weather association"
+    ],
+    [
+      "overcast skies",
+      "affects",
+      "atmospheric dynamics"
+    ],
+    [
+      "overcast skies",
+      "associated with",
+      "sky observation"
+    ],
+    [
+      "overcast skies",
+      "can lead to",
+      "cirrus clouds"
+    ],
+    [
+      "overcast skies",
+      "can lead to",
+      "thunderstorms"
+    ],
+    [
+      "overcast skies",
+      "describes",
+      "sky characteristics"
+    ],
+    [
+      "overcast skies",
+      "is a type of",
+      "visible clouds"
+    ],
+    [
+      "overcast skies",
+      "is associated with",
+      "low-lying clouds"
+    ],
+    [
+      "overcast skies",
+      "is associated with",
+      "weather association"
+    ],
+    [
+      "overcast skies",
+      "is formed by",
+      "stratus clouds"
+    ],
+    [
+      "overcast skies",
+      "is influenced by",
+      "cloud observation"
+    ],
+    [
+      "overcast skies",
+      "is influenced by",
+      "cooling air"
+    ],
+    [
+      "overcast skies",
+      "is influenced by",
+      "weather patterns"
+    ],
+    [
+      "overcast skies",
+      "produces",
+      "light rain"
+    ],
+    [
+      "overcast skies",
+      "results in",
+      "air temperature"
+    ],
+    [
+      "rain",
+      "can lead to",
+      "cloud formation"
+    ],
+    [
+      "rain",
+      "causes",
+      "cooling air"
+    ],
+    [
+      "rain",
+      "causes",
+      "fluffy appearance"
+    ],
+    [
+      "rain",
+      "influenced by",
+      "sky characteristics"
+    ],
+    [
+      "rain",
+      "influences",
+      "sky observation"
+    ],
+    [
+      "rain",
+      "is influenced by",
+      "environmental appreciation"
+    ],
+    [
+      "rain",
+      "is produced by",
+      "stratus clouds"
+    ],
+    [
+      "rain",
+      "predicts",
+      "weather forecasting"
+    ],
+    [
+      "rain",
+      "results in",
+      "air saturation"
+    ],
+    [
+      "rain",
+      "results in",
+      "cloud observation"
+    ],
+    [
+      "rain",
+      "results in",
+      "interaction factors"
+    ],
+    [
+      "rain",
+      "results in",
+      "overcast skies"
+    ],
+    [
+      "rain",
+      "results in",
+      "uniform layer"
+    ],
+    [
+      "rain",
+      "results in",
+      "visible clouds"
+    ],
+    [
+      "sky characteristics",
+      "characterized by",
+      "atmospheric dynamics"
+    ],
+    [
+      "sky characteristics",
+      "described by",
+      "fluffy appearance"
+    ],
+    [
+      "sky characteristics",
+      "is characterized by",
+      "cloud development"
+    ],
+    [
+      "sky characteristics",
+      "is characterized by",
+      "weather patterns"
+    ],
+    [
+      "sky characteristics",
+      "is influenced by",
+      "weather association"
+    ],
+    [
+      "sky observation",
+      "associated with",
+      "cirrus clouds"
+    ],
+    [
+      "sky observation",
+      "determines",
+      "dew point"
+    ],
+    [
+      "sky observation",
+      "influences",
+      "air temperature"
+    ],
+    [
+      "sky observation",
+      "is associated with",
+      "moisture content"
+    ],
+    [
+      "sky observation",
+      "is categorized by",
+      "weather types"
+    ],
+    [
+      "sky observation",
+      "is influenced by",
+      "air currents"
+    ],
+    [
+      "sky observation",
+      "is observed in",
+      "cloud observation"
+    ],
+    [
+      "sky observation",
+      "is observed in",
+      "gray color"
+    ],
+    [
+      "sky observation",
+      "is part of",
+      "condensation process"
+    ],
+    [
+      "sky observation",
+      "observed in",
+      "thunderstorms"
+    ],
+    [
+      "sky observation",
+      "occurs on",
+      "clear days"
+    ],
+    [
+      "sky observation",
+      "studied in",
+      "meteorological study"
+    ],
+    [
+      "slow cooling",
+      "caused by",
+      "air temperature"
+    ],
+    [
+      "slow cooling",
+      "caused by",
+      "light rain"
+    ],
+    [
+      "slow cooling",
+      "caused by",
+      "tiny droplets"
+    ],
+    [
+      "slow cooling",
+      "facilitates",
+      "gentle lifting"
+    ],
+    [
+      "slow cooling",
+      "forms",
+      "stratus clouds"
+    ],
+    [
+      "slow cooling",
+      "is a result of",
+      "temperature influence"
+    ],
+    [
+      "slow cooling",
+      "is influenced by",
+      "warm moist air"
+    ],
+    [
+      "slow cooling",
+      "result of",
+      "air saturation"
+    ],
+    [
+      "slow cooling",
+      "results from",
+      "uniform layer"
+    ],
+    [
+      "slow cooling",
+      "results from",
+      "water vapor"
+    ],
+    [
+      "solar heating",
+      "affected by",
+      "cloud development"
+    ],
+    [
+      "solar heating",
+      "affected by",
+      "low-lying clouds"
+    ],
+    [
+      "solar heating",
+      "affects",
+      "air temperature"
+    ],
+    [
+      "solar heating",
+      "affects",
+      "cloud observation"
+    ],
+    [
+      "solar heating",
+      "affects",
+      "dew point"
+    ],
+    [
+      "solar heating",
+      "affects",
+      "moisture dynamics"
+    ],
+    [
+      "solar heating",
+      "affects",
+      "slow cooling"
+    ],
+    [
+      "solar heating",
+      "affects",
+      "weather patterns"
+    ],
+    [
+      "solar heating",
+      "can lead to",
+      "overcast skies"
+    ],
+    [
+      "solar heating",
+      "contributes to",
+      "cloud formation"
+    ],
+    [
+      "solar heating",
+      "influences",
+      "air currents"
+    ],
+    [
+      "solar heating",
+      "initiates",
+      "condensation process"
+    ],
+    [
+      "solar heating",
+      "is a result of",
+      "ice crystals"
+    ],
+    [
+      "solar heating",
+      "is driven by",
+      "water vapor"
+    ],
+    [
+      "solar heating",
+      "is influenced by",
+      "uniform layer"
+    ],
+    [
+      "solar heating",
+      "leads to",
+      "cooling air"
+    ],
+    [
+      "solar heating",
+      "leads to",
+      "cumulonimbus clouds"
+    ],
+    [
+      "solar heating",
+      "provides",
+      "warm moist air"
+    ],
+    [
+      "solar heating",
+      "studied in",
+      "meteorological study"
+    ],
+    [
+      "stratus clouds",
+      "formed by",
+      "cooling air"
+    ],
+    [
+      "stratus clouds",
+      "is a type of",
+      "atmospheric layers"
+    ],
+    [
+      "stratus clouds",
+      "is a type of",
+      "cloud characteristics"
+    ],
+    [
+      "stratus clouds",
+      "is a type of",
+      "low-lying clouds"
+    ],
+    [
+      "stratus clouds",
+      "is a type of",
+      "natural phenomenon"
+    ],
+    [
+      "stratus clouds",
+      "is a type of",
+      "visible clouds"
+    ],
+    [
+      "stratus clouds",
+      "is associated with",
+      "clear days"
+    ],
+    [
+      "stratus clouds",
+      "is associated with",
+      "light rain"
+    ],
+    [
+      "stratus clouds",
+      "is characterized by",
+      "sky characteristics"
+    ],
+    [
+      "stratus clouds",
+      "is formed by",
+      "temperature influence"
+    ],
+    [
+      "stratus clouds",
+      "is influenced by",
+      "interaction factors"
+    ],
+    [
+      "stratus clouds",
+      "is influenced by",
+      "weather patterns"
+    ],
+    [
+      "stratus clouds",
+      "is observed in",
+      "cloud observation"
+    ],
+    [
+      "stratus clouds",
+      "is related to",
+      "cirrus clouds"
+    ],
+    [
+      "temperature influence",
+      "affects",
+      "condensation process"
+    ],
+    [
+      "temperature influence",
+      "affects",
+      "cooling air"
+    ],
+    [
+      "temperature influence",
+      "affects",
+      "dew point"
+    ],
+    [
+      "temperature influence",
+      "affects",
+      "gentle lifting"
+    ],
+    [
+      "temperature influence",
+      "affects",
+      "high altitude"
+    ],
+    [
+      "temperature influence",
+      "affects",
+      "moisture dynamics"
+    ],
+    [
+      "temperature influence",
+      "affects",
+      "sky characteristics"
+    ],
+    [
+      "temperature influence",
+      "affects",
+      "solar heating"
+    ],
+    [
+      "temperature influence",
+      "affects",
+      "warm moist air"
+    ],
+    [
+      "temperature influence",
+      "affects",
+      "weather patterns"
+    ],
+    [
+      "temperature influence",
+      "can lead to",
+      "cumulonimbus clouds"
+    ],
+    [
+      "temperature influence",
+      "can produce",
+      "light rain"
+    ],
+    [
+      "temperature influence",
+      "contributes to",
+      "rain"
+    ],
+    [
+      "temperature influence",
+      "influenced by",
+      "sky observation"
+    ],
+    [
+      "thin clouds",
+      "associated with",
+      "clear days"
+    ],
+    [
+      "thin clouds",
+      "associated with",
+      "dew point"
+    ],
+    [
+      "thin clouds",
+      "associated with",
+      "warm moist air"
+    ],
+    [
+      "thin clouds",
+      "can result in",
+      "rain"
+    ],
+    [
+      "thin clouds",
+      "influences",
+      "cloud formation"
+    ],
+    [
+      "thin clouds",
+      "is affected by",
+      "interaction factors"
+    ],
+    [
+      "thin clouds",
+      "is caused by",
+      "overcast skies"
+    ],
+    [
+      "thin clouds",
+      "occurs at",
+      "high altitude"
+    ],
+    [
+      "thin clouds",
+      "produced by",
+      "light rain"
+    ],
+    [
+      "thunderstorms",
+      "affects",
+      "air currents"
+    ],
+    [
+      "thunderstorms",
+      "associated with",
+      "cumulonimbus clouds"
+    ],
+    [
+      "thunderstorms",
+      "can influence",
+      "humidity levels"
+    ],
+    [
+      "thunderstorms",
+      "can lead to",
+      "stratus clouds"
+    ],
+    [
+      "thunderstorms",
+      "can produce",
+      "ice crystals"
+    ],
+    [
+      "thunderstorms",
+      "can produce",
+      "rain"
+    ],
+    [
+      "thunderstorms",
+      "causes",
+      "air saturation"
+    ],
+    [
+      "thunderstorms",
+      "enhances",
+      "environmental appreciation"
+    ],
+    [
+      "thunderstorms",
+      "is associated with",
+      "gray color"
+    ],
+    [
+      "thunderstorms",
+      "is associated with",
+      "uniform layer"
+    ],
+    [
+      "thunderstorms",
+      "is associated with",
+      "weather association"
+    ],
+    [
+      "thunderstorms",
+      "is caused by",
+      "visible clouds"
+    ],
+    [
+      "thunderstorms",
+      "is influenced by",
+      "cloud formation"
+    ],
+    [
+      "tiny droplets",
+      "contributes to",
+      "rain"
+    ],
+    [
+      "tiny droplets",
+      "defines",
+      "cloud characteristics"
+    ],
+    [
+      "tiny droplets",
+      "enables",
+      "cloud observation"
+    ],
+    [
+      "tiny droplets",
+      "forms",
+      "stratus clouds"
+    ],
+    [
+      "tiny droplets",
+      "is a component of",
+      "meteorological phenomena"
+    ],
+    [
+      "tiny droplets",
+      "is associated with",
+      "overcast skies"
+    ],
+    [
+      "tiny droplets",
+      "is composed of",
+      "low-lying clouds"
+    ],
+    [
+      "tiny droplets",
+      "is composed of",
+      "visible clouds"
+    ],
+    [
+      "tiny droplets",
+      "is essential for",
+      "cloud formation"
+    ],
+    [
+      "tiny droplets",
+      "part of",
+      "condensation process"
+    ],
+    [
+      "tiny droplets",
+      "results from",
+      "air saturation"
+    ],
+    [
+      "uniform layer",
+      "comprises",
+      "atmospheric layers"
+    ],
+    [
+      "uniform layer",
+      "is a characteristic of",
+      "cumulus clouds"
+    ],
+    [
+      "uniform layer",
+      "is a characteristic of",
+      "natural phenomenon"
+    ],
+    [
+      "uniform layer",
+      "is a characteristic of",
+      "tiny droplets"
+    ],
+    [
+      "uniform layer",
+      "is characterized by",
+      "overcast skies"
+    ],
+    [
+      "uniform layer",
+      "is formed by",
+      "cloud development"
+    ],
+    [
+      "uniform layer",
+      "is influenced by",
+      "temperature influence"
+    ],
+    [
+      "uniform layer",
+      "is observed in",
+      "cloud observation"
+    ],
+    [
+      "uniform layer",
+      "is part of",
+      "cloud formation"
+    ],
+    [
+      "visible clouds",
+      "is a category of",
+      "natural phenomenon"
+    ],
+    [
+      "visible clouds",
+      "is a type of",
+      "low-lying clouds"
+    ],
+    [
+      "visible clouds",
+      "is formed from",
+      "cloud development"
+    ],
+    [
+      "visible clouds",
+      "result of",
+      "low-lying clouds"
+    ],
+    [
+      "visual appearance",
+      "describes",
+      "stratus clouds"
+    ],
+    [
+      "visual appearance",
+      "occurs on",
+      "clear days"
+    ],
+    [
+      "warm moist air",
+      "can lead to",
+      "rain"
+    ],
+    [
+      "warm moist air",
+      "composed of",
+      "air temperature"
+    ],
+    [
+      "warm moist air",
+      "formed by",
+      "uniform layer"
+    ],
+    [
+      "warm moist air",
+      "forms",
+      "stratus clouds"
+    ],
+    [
+      "warm moist air",
+      "influences",
+      "cloud development"
+    ],
+    [
+      "warm moist air",
+      "initiates",
+      "condensation process"
+    ],
+    [
+      "warm moist air",
+      "is a component of",
+      "water vapor"
+    ],
+    [
+      "warm moist air",
+      "is a source of",
+      "tiny droplets"
+    ],
+    [
+      "warm moist air",
+      "is lifted by",
+      "gentle lifting"
+    ],
+    [
+      "warm moist air",
+      "requires",
+      "low-lying clouds"
+    ],
+    [
+      "warm moist air",
+      "requires",
+      "solar heating"
+    ],
+    [
+      "warm moist air",
+      "triggers",
+      "cloud formation"
+    ],
+    [
+      "water vapor",
+      "affects",
+      "cooling air"
+    ],
+    [
+      "water vapor",
+      "affects",
+      "interaction factors"
+    ],
+    [
+      "water vapor",
+      "can contribute to",
+      "thunderstorms"
+    ],
+    [
+      "water vapor",
+      "can form",
+      "cumulonimbus clouds"
+    ],
+    [
+      "water vapor",
+      "can influence",
+      "air currents"
+    ],
+    [
+      "water vapor",
+      "forms",
+      "thin clouds"
+    ],
+    [
+      "water vapor",
+      "forms stratus clouds from",
+      "stratus clouds"
+    ],
+    [
+      "water vapor",
+      "includes",
+      "cloud types"
+    ],
+    [
+      "water vapor",
+      "influences",
+      "air temperature"
+    ],
+    [
+      "water vapor",
+      "influences",
+      "weather patterns"
+    ],
+    [
+      "water vapor",
+      "involves",
+      "condensation process"
+    ],
+    [
+      "water vapor",
+      "is a characteristic of",
+      "uniform layer"
+    ],
+    [
+      "water vapor",
+      "is a component of",
+      "natural phenomenon"
+    ],
+    [
+      "water vapor",
+      "is essential for",
+      "cloud formation"
+    ],
+    [
+      "water vapor",
+      "is influenced by",
+      "humidity levels"
+    ],
+    [
+      "water vapor",
+      "is used in",
+      "weather forecasting"
+    ],
+    [
+      "water vapor",
+      "results in",
+      "cloud development"
+    ],
+    [
+      "water vapor",
+      "results in",
+      "rain"
+    ],
+    [
+      "water vapor",
+      "transforms into",
+      "ice crystals"
+    ],
+    [
+      "water vapor",
+      "transforms into",
+      "tiny droplets"
+    ],
+    [
+      "weather association",
+      "associated with",
+      "clear days"
+    ],
+    [
+      "weather association",
+      "associated with",
+      "gray color"
+    ],
+    [
+      "weather association",
+      "associated with",
+      "stratus clouds"
+    ],
+    [
+      "weather association",
+      "influences",
+      "moisture content"
+    ],
+    [
+      "weather association",
+      "is linked to",
+      "cooling air"
+    ],
+    [
+      "weather association",
+      "is linked to",
+      "slow cooling"
+    ],
+    [
+      "weather association",
+      "is related to",
+      "complex processes"
+    ],
+    [
+      "weather association",
+      "is related to",
+      "cumulus clouds"
+    ],
+    [
+      "weather association",
+      "linked to",
+      "air currents"
+    ],
+    [
+      "weather association",
+      "linked to",
+      "tiny droplets"
+    ],
+    [
+      "weather forecasting",
+      "affects",
+      "air currents"
+    ],
+    [
+      "weather forecasting",
+      "aids in",
+      "low-lying clouds"
+    ],
+    [
+      "weather forecasting",
+      "depends on",
+      "air saturation"
+    ],
+    [
+      "weather forecasting",
+      "depends on",
+      "atmospheric conditions"
+    ],
+    [
+      "weather forecasting",
+      "depends on",
+      "cloud observation"
+    ],
+    [
+      "weather forecasting",
+      "influences",
+      "cooling air"
+    ],
+    [
+      "weather forecasting",
+      "informs",
+      "meteorological study"
+    ],
+    [
+      "weather forecasting",
+      "is associated with",
+      "cumulonimbus clouds"
+    ],
+    [
+      "weather forecasting",
+      "is influenced by",
+      "dew point"
+    ],
+    [
+      "weather forecasting",
+      "is influenced by",
+      "gentle lifting"
+    ],
+    [
+      "weather forecasting",
+      "is influenced by",
+      "uniform layer"
+    ],
+    [
+      "weather forecasting",
+      "is part of",
+      "condensation process"
+    ],
+    [
+      "weather forecasting",
+      "relies on",
+      "solar heating"
+    ],
+    [
+      "weather patterns",
+      "affects",
+      "air currents"
+    ],
+    [
+      "weather patterns",
+      "affects",
+      "air temperature"
+    ],
+    [
+      "weather patterns",
+      "affects",
+      "moisture dynamics"
+    ],
+    [
+      "weather patterns",
+      "affects",
+      "visible clouds"
+    ],
+    [
+      "weather patterns",
+      "influences",
+      "cloud characteristics"
+    ],
+    [
+      "weather patterns",
+      "influences",
+      "weather association"
+    ],
+    [
+      "weather patterns",
+      "involves",
+      "gentle lifting"
+    ],
+    [
+      "weather patterns",
+      "involves",
+      "interaction factors"
+    ],
+    [
+      "weather patterns",
+      "is associated with",
+      "meteorological phenomena"
+    ],
+    [
+      "weather patterns",
+      "is categorized by",
+      "cloud types"
+    ],
+    [
+      "weather patterns",
+      "is essential for",
+      "condensation process"
+    ],
+    [
+      "weather patterns",
+      "is influenced by",
+      "sky observation"
+    ],
+    [
+      "weather patterns",
+      "is observed in",
+      "uniform layer"
+    ],
+    [
+      "weather patterns",
+      "result of",
+      "atmospheric dynamics"
+    ],
+    [
+      "weather patterns",
+      "results in",
+      "air saturation"
+    ],
+    [
+      "weather types",
+      "defines",
+      "sky characteristics"
+    ],
+    [
+      "weather types",
+      "includes",
+      "thunderstorms"
+    ],
+    [
+      "weather types",
+      "is a type of",
+      "cumulus clouds"
+    ],
+    [
+      "weather types",
+      "is a type of",
+      "light rain"
+    ]
+  ],
+  "edges": [
+    "affected by",
+    "affects",
+    "aids in",
+    "analyzed in",
+    "associated with",
+    "can affect",
+    "can be associated with",
+    "can cause",
+    "can contribute to",
+    "can develop into",
+    "can form",
+    "can influence",
+    "can lead to",
+    "can occur at",
+    "can occur during",
+    "can occur on",
+    "can produce",
+    "can result in",
+    "caused by",
+    "causes",
+    "characteristic of",
+    "characterized by",
+    "composed of",
+    "composes",
+    "comprises",
+    "contributes to",
+    "defines",
+    "depends on",
+    "described by",
+    "describes",
+    "determines",
+    "develops from",
+    "develops into",
+    "enables",
+    "enhances",
+    "exemplifies",
+    "facilitates",
+    "formed by",
+    "formed from",
+    "forms",
+    "forms at",
+    "forms due to",
+    "forms from",
+    "forms stratus clouds from",
+    "includes",
+    "influenced by",
+    "influences",
+    "informs",
+    "initiates",
+    "interacts with",
+    "involved in",
+    "involves",
+    "is a category of",
+    "is a characteristic of",
+    "is a component of",
+    "is a factor in",
+    "is a feature of",
+    "is a form of",
+    "is a part of",
+    "is a phenomenon of",
+    "is a result of",
+    "is a source of",
+    "is a subject of",
+    "is a type of",
+    "is affected by",
+    "is associated with",
+    "is categorized as",
+    "is categorized by",
+    "is caused by",
+    "is characteristic of",
+    "is characterized by",
+    "is composed of",
+    "is defined by",
+    "is dependent on",
+    "is driven by",
+    "is essential for",
+    "is facilitated by",
+    "is formed at",
+    "is formed by",
+    "is formed from",
+    "is found at",
+    "is important for",
+    "is influenced by",
+    "is involved in",
+    "is lifted by",
+    "is linked to",
+    "is not typically found at",
+    "is observed at",
+    "is observed in",
+    "is observed on",
+    "is often seen on",
+    "is part of",
+    "is produced by",
+    "is related to",
+    "is studied by",
+    "is studied in",
+    "is used in",
+    "leads to",
+    "linked to",
+    "observed in",
+    "occurs at",
+    "occurs on",
+    "part of",
+    "predicts",
+    "produced by",
+    "produces",
+    "provides",
+    "reached by",
+    "reaches",
+    "relies on",
+    "requires",
+    "result of",
+    "results from",
+    "results in",
+    "studied in",
+    "studies",
+    "subject of",
+    "transforms into",
+    "triggers"
+  ]
+}

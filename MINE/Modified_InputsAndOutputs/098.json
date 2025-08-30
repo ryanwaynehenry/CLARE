@@ -1,0 +1,1824 @@
+{
+  "entities": [
+    "18th century",
+    "20th century",
+    "Blue Origin",
+    "SpaceX",
+    "aerial surveys",
+    "airplanes",
+    "ancient civilizations",
+    "ancient transportation",
+    "animal transportation",
+    "automobiles",
+    "autonomous vehicles",
+    "canals",
+    "carbon footprint",
+    "commercial aviation",
+    "commercial spaceflight",
+    "commuting",
+    "connectivity",
+    "cultural exchange",
+    "delivery services",
+    "digital infrastructure",
+    "drones",
+    "efficiency",
+    "electric vehicles",
+    "environmental impact",
+    "exploration",
+    "goods exchange",
+    "high-speed pods",
+    "human exploration",
+    "hyperloop technology",
+    "industrial development",
+    "infrastructure monitoring",
+    "innovation",
+    "interplanetary travel",
+    "invention of the wheel",
+    "leisure travel",
+    "locomotives",
+    "long-distance travel",
+    "maritime trade",
+    "mass production",
+    "modern technologies",
+    "navigation apps",
+    "personal transportation",
+    "railway networks",
+    "ride-sharing services",
+    "sailing ships",
+    "smart cities",
+    "space tourism",
+    "space travel",
+    "steam engine",
+    "steamships",
+    "sustainable practices",
+    "technology advancements",
+    "trade routes",
+    "transportation accessibility",
+    "transportation evolution",
+    "transportation history",
+    "transportation systems",
+    "travel efficiency",
+    "travel times",
+    "urban growth",
+    "walking",
+    "wheeled carts"
+  ],
+  "relations": [
+    [
+      "Blue Origin",
+      "enables",
+      "space travel"
+    ],
+    [
+      "SpaceX",
+      "enables",
+      "space travel"
+    ],
+    [
+      "aerial surveys",
+      "utilizes",
+      "space travel"
+    ],
+    [
+      "airplanes",
+      "dominate travel in",
+      "20th century"
+    ],
+    [
+      "airplanes",
+      "expands into",
+      "space travel"
+    ],
+    [
+      "airplanes",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "airplanes",
+      "influences",
+      "hyperloop technology"
+    ],
+    [
+      "airplanes",
+      "supports",
+      "digital infrastructure"
+    ],
+    [
+      "airplanes",
+      "supports",
+      "leisure travel"
+    ],
+    [
+      "ancient civilizations",
+      "developed by",
+      "ancient transportation"
+    ],
+    [
+      "ancient civilizations",
+      "nurtured",
+      "canals"
+    ],
+    [
+      "ancient transportation",
+      "enables",
+      "exploration"
+    ],
+    [
+      "ancient transportation",
+      "facilitates",
+      "human exploration"
+    ],
+    [
+      "ancient transportation",
+      "includes",
+      "walking"
+    ],
+    [
+      "ancient transportation",
+      "precedes",
+      "animal transportation"
+    ],
+    [
+      "animal transportation",
+      "enables",
+      "space tourism"
+    ],
+    [
+      "animal transportation",
+      "improves",
+      "transportation accessibility"
+    ],
+    [
+      "automobiles",
+      "competes with",
+      "locomotives"
+    ],
+    [
+      "automobiles",
+      "competes with",
+      "railway networks"
+    ],
+    [
+      "automobiles",
+      "dominate travel in",
+      "20th century"
+    ],
+    [
+      "automobiles",
+      "enables",
+      "long-distance travel"
+    ],
+    [
+      "automobiles",
+      "enhances",
+      "efficiency"
+    ],
+    [
+      "automobiles",
+      "is a component of",
+      "transportation systems"
+    ],
+    [
+      "automobiles",
+      "preceded by",
+      "steam engine"
+    ],
+    [
+      "automobiles",
+      "produced by",
+      "mass production"
+    ],
+    [
+      "autonomous vehicles",
+      "depends on",
+      "digital infrastructure"
+    ],
+    [
+      "autonomous vehicles",
+      "enables",
+      "personal transportation"
+    ],
+    [
+      "autonomous vehicles",
+      "enables",
+      "ride-sharing services"
+    ],
+    [
+      "autonomous vehicles",
+      "improves",
+      "travel efficiency"
+    ],
+    [
+      "autonomous vehicles",
+      "reduces",
+      "carbon footprint"
+    ],
+    [
+      "autonomous vehicles",
+      "supports",
+      "interplanetary travel"
+    ],
+    [
+      "autonomous vehicles",
+      "supports",
+      "urban growth"
+    ],
+    [
+      "autonomous vehicles",
+      "utilizes",
+      "modern technologies"
+    ],
+    [
+      "canals",
+      "facilitates",
+      "goods exchange"
+    ],
+    [
+      "canals",
+      "facilitates",
+      "maritime trade"
+    ],
+    [
+      "canals",
+      "influences",
+      "ancient transportation"
+    ],
+    [
+      "carbon footprint",
+      "affected by",
+      "travel times"
+    ],
+    [
+      "carbon footprint",
+      "affects",
+      "ancient transportation"
+    ],
+    [
+      "carbon footprint",
+      "contributes to",
+      "mass production"
+    ],
+    [
+      "carbon footprint",
+      "contributes to",
+      "wheeled carts"
+    ],
+    [
+      "carbon footprint",
+      "impacts",
+      "commercial aviation"
+    ],
+    [
+      "carbon footprint",
+      "impacts",
+      "transportation systems"
+    ],
+    [
+      "carbon footprint",
+      "is reduced by",
+      "aerial surveys"
+    ],
+    [
+      "carbon footprint",
+      "mitigates",
+      "commercial spaceflight"
+    ],
+    [
+      "carbon footprint",
+      "mitigates",
+      "modern technologies"
+    ],
+    [
+      "carbon footprint",
+      "reduces",
+      "efficiency"
+    ],
+    [
+      "carbon footprint",
+      "reduces",
+      "travel efficiency"
+    ],
+    [
+      "commercial aviation",
+      "complements",
+      "drones"
+    ],
+    [
+      "commercial aviation",
+      "enhances",
+      "cultural exchange"
+    ],
+    [
+      "commercial aviation",
+      "facilitates",
+      "long-distance travel"
+    ],
+    [
+      "commercial aviation",
+      "facilitates",
+      "urban growth"
+    ],
+    [
+      "commercial aviation",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "commercial aviation",
+      "supports",
+      "delivery services"
+    ],
+    [
+      "commercial spaceflight",
+      "enables",
+      "interplanetary travel"
+    ],
+    [
+      "commercial spaceflight",
+      "enhances",
+      "travel efficiency"
+    ],
+    [
+      "commercial spaceflight",
+      "facilitates",
+      "aerial surveys"
+    ],
+    [
+      "commuting",
+      "increases",
+      "carbon footprint"
+    ],
+    [
+      "commuting",
+      "is shaped by",
+      "environmental impact"
+    ],
+    [
+      "commuting",
+      "requires",
+      "transportation accessibility"
+    ],
+    [
+      "commuting",
+      "supports",
+      "urban growth"
+    ],
+    [
+      "connectivity",
+      "enables",
+      "commercial spaceflight"
+    ],
+    [
+      "connectivity",
+      "enables",
+      "goods exchange"
+    ],
+    [
+      "connectivity",
+      "enhances",
+      "aerial surveys"
+    ],
+    [
+      "cultural exchange",
+      "enables",
+      "commercial spaceflight"
+    ],
+    [
+      "cultural exchange",
+      "enables",
+      "wheeled carts"
+    ],
+    [
+      "cultural exchange",
+      "is shaped by",
+      "environmental impact"
+    ],
+    [
+      "delivery services",
+      "affects",
+      "travel times"
+    ],
+    [
+      "delivery services",
+      "enables",
+      "mass production"
+    ],
+    [
+      "delivery services",
+      "enhances",
+      "ride-sharing services"
+    ],
+    [
+      "delivery services",
+      "facilitates",
+      "long-distance travel"
+    ],
+    [
+      "delivery services",
+      "facilitates",
+      "personal transportation"
+    ],
+    [
+      "delivery services",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "delivery services",
+      "reduces",
+      "carbon footprint"
+    ],
+    [
+      "delivery services",
+      "utilizes",
+      "airplanes"
+    ],
+    [
+      "delivery services",
+      "utilizes",
+      "high-speed pods"
+    ],
+    [
+      "digital infrastructure",
+      "enhances",
+      "drones"
+    ],
+    [
+      "digital infrastructure",
+      "enhances",
+      "modern technologies"
+    ],
+    [
+      "digital infrastructure",
+      "enhances",
+      "ride-sharing services"
+    ],
+    [
+      "digital infrastructure",
+      "enhances",
+      "smart cities"
+    ],
+    [
+      "digital infrastructure",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "digital infrastructure",
+      "improves",
+      "travel efficiency"
+    ],
+    [
+      "digital infrastructure",
+      "influences",
+      "travel times"
+    ],
+    [
+      "digital infrastructure",
+      "integrates with",
+      "electric vehicles"
+    ],
+    [
+      "digital infrastructure",
+      "is enhanced by",
+      "transportation systems"
+    ],
+    [
+      "digital infrastructure",
+      "reduces",
+      "carbon footprint"
+    ],
+    [
+      "digital infrastructure",
+      "supports",
+      "aerial surveys"
+    ],
+    [
+      "digital infrastructure",
+      "supports",
+      "autonomous vehicles"
+    ],
+    [
+      "digital infrastructure",
+      "supports",
+      "commercial aviation"
+    ],
+    [
+      "digital infrastructure",
+      "supports",
+      "delivery services"
+    ],
+    [
+      "digital infrastructure",
+      "supports",
+      "high-speed pods"
+    ],
+    [
+      "digital infrastructure",
+      "supports",
+      "long-distance travel"
+    ],
+    [
+      "digital infrastructure",
+      "supports",
+      "mass production"
+    ],
+    [
+      "digital infrastructure",
+      "supports",
+      "personal transportation"
+    ],
+    [
+      "digital infrastructure",
+      "supports",
+      "sustainable practices"
+    ],
+    [
+      "digital infrastructure",
+      "supports",
+      "wheeled carts"
+    ],
+    [
+      "drones",
+      "affects",
+      "travel times"
+    ],
+    [
+      "drones",
+      "enhances",
+      "personal transportation"
+    ],
+    [
+      "drones",
+      "enhances",
+      "travel efficiency"
+    ],
+    [
+      "drones",
+      "evolved from",
+      "wheeled carts"
+    ],
+    [
+      "drones",
+      "influences",
+      "airplanes"
+    ],
+    [
+      "drones",
+      "is a part of",
+      "transportation systems"
+    ],
+    [
+      "drones",
+      "supports",
+      "sustainable practices"
+    ],
+    [
+      "efficiency",
+      "drives",
+      "urban growth"
+    ],
+    [
+      "efficiency",
+      "enhances",
+      "mass production"
+    ],
+    [
+      "efficiency",
+      "enhances",
+      "ride-sharing services"
+    ],
+    [
+      "efficiency",
+      "enhances",
+      "space travel"
+    ],
+    [
+      "efficiency",
+      "improved by",
+      "wheeled carts"
+    ],
+    [
+      "efficiency",
+      "improves",
+      "long-distance travel"
+    ],
+    [
+      "efficiency",
+      "improves",
+      "sustainable practices"
+    ],
+    [
+      "efficiency",
+      "improves",
+      "travel times"
+    ],
+    [
+      "electric vehicles",
+      "advances",
+      "hyperloop technology"
+    ],
+    [
+      "electric vehicles",
+      "enhances",
+      "efficiency"
+    ],
+    [
+      "electric vehicles",
+      "is a type of",
+      "high-speed pods"
+    ],
+    [
+      "electric vehicles",
+      "is related to",
+      "space travel"
+    ],
+    [
+      "electric vehicles",
+      "produced by",
+      "mass production"
+    ],
+    [
+      "electric vehicles",
+      "supports",
+      "delivery services"
+    ],
+    [
+      "electric vehicles",
+      "supports",
+      "urban growth"
+    ],
+    [
+      "electric vehicles",
+      "transforms",
+      "transportation systems"
+    ],
+    [
+      "electric vehicles",
+      "utilizes",
+      "modern technologies"
+    ],
+    [
+      "environmental impact",
+      "affects",
+      "commercial aviation"
+    ],
+    [
+      "environmental impact",
+      "affects",
+      "commuting"
+    ],
+    [
+      "environmental impact",
+      "affects",
+      "cultural exchange"
+    ],
+    [
+      "environmental impact",
+      "drives",
+      "urban growth"
+    ],
+    [
+      "environmental impact",
+      "impacts",
+      "transportation accessibility"
+    ],
+    [
+      "environmental impact",
+      "reduces",
+      "electric vehicles"
+    ],
+    [
+      "environmental impact",
+      "utilizes",
+      "drones"
+    ],
+    [
+      "exploration",
+      "enables",
+      "goods exchange"
+    ],
+    [
+      "exploration",
+      "enhances",
+      "personal transportation"
+    ],
+    [
+      "exploration",
+      "facilitated by",
+      "wheeled carts"
+    ],
+    [
+      "exploration",
+      "reduces",
+      "carbon footprint"
+    ],
+    [
+      "goods exchange",
+      "enables",
+      "wheeled carts"
+    ],
+    [
+      "goods exchange",
+      "utilizes",
+      "steamships"
+    ],
+    [
+      "high-speed pods",
+      "improves",
+      "travel efficiency"
+    ],
+    [
+      "high-speed pods",
+      "is a component of",
+      "commercial spaceflight"
+    ],
+    [
+      "high-speed pods",
+      "monitored by",
+      "infrastructure monitoring"
+    ],
+    [
+      "high-speed pods",
+      "reduces",
+      "carbon footprint"
+    ],
+    [
+      "high-speed pods",
+      "utilizes",
+      "ride-sharing services"
+    ],
+    [
+      "human exploration",
+      "enables",
+      "goods exchange"
+    ],
+    [
+      "human exploration",
+      "facilitates",
+      "travel times"
+    ],
+    [
+      "hyperloop technology",
+      "enables",
+      "commercial spaceflight"
+    ],
+    [
+      "hyperloop technology",
+      "improves",
+      "personal transportation"
+    ],
+    [
+      "hyperloop technology",
+      "improves",
+      "travel efficiency"
+    ],
+    [
+      "hyperloop technology",
+      "reduced by",
+      "travel times"
+    ],
+    [
+      "hyperloop technology",
+      "reduces",
+      "carbon footprint"
+    ],
+    [
+      "industrial development",
+      "drives",
+      "transportation systems"
+    ],
+    [
+      "industrial development",
+      "enables",
+      "human exploration"
+    ],
+    [
+      "industrial development",
+      "enables",
+      "mass production"
+    ],
+    [
+      "industrial development",
+      "enhances",
+      "travel efficiency"
+    ],
+    [
+      "industrial development",
+      "is supported by",
+      "railway networks"
+    ],
+    [
+      "industrial development",
+      "utilizes",
+      "steamships"
+    ],
+    [
+      "infrastructure monitoring",
+      "enhances",
+      "travel efficiency"
+    ],
+    [
+      "infrastructure monitoring",
+      "facilitates",
+      "mass production"
+    ],
+    [
+      "infrastructure monitoring",
+      "monitors",
+      "airplanes"
+    ],
+    [
+      "infrastructure monitoring",
+      "utilizes",
+      "drones"
+    ],
+    [
+      "innovation",
+      "drives",
+      "technology advancements"
+    ],
+    [
+      "innovation",
+      "facilitates",
+      "interplanetary travel"
+    ],
+    [
+      "innovation",
+      "improves",
+      "travel times"
+    ],
+    [
+      "innovation",
+      "inspired",
+      "wheeled carts"
+    ],
+    [
+      "innovation",
+      "reduces",
+      "carbon footprint"
+    ],
+    [
+      "innovation",
+      "revolutionized",
+      "steam engine"
+    ],
+    [
+      "innovation",
+      "revolutionized",
+      "steamships"
+    ],
+    [
+      "innovation",
+      "transforms",
+      "personal transportation"
+    ],
+    [
+      "interplanetary travel",
+      "drives",
+      "technology advancements"
+    ],
+    [
+      "interplanetary travel",
+      "enables",
+      "drones"
+    ],
+    [
+      "interplanetary travel",
+      "enables",
+      "exploration"
+    ],
+    [
+      "interplanetary travel",
+      "enhanced by",
+      "navigation apps"
+    ],
+    [
+      "interplanetary travel",
+      "facilitates",
+      "human exploration"
+    ],
+    [
+      "interplanetary travel",
+      "is a form of",
+      "space travel"
+    ],
+    [
+      "invention of the wheel",
+      "led to",
+      "wheeled carts"
+    ],
+    [
+      "leisure travel",
+      "enhances",
+      "technology advancements"
+    ],
+    [
+      "locomotives",
+      "driven by",
+      "steam engine"
+    ],
+    [
+      "locomotives",
+      "supports",
+      "maritime trade"
+    ],
+    [
+      "locomotives",
+      "utilizes",
+      "railway networks"
+    ],
+    [
+      "long-distance travel",
+      "affects",
+      "carbon footprint"
+    ],
+    [
+      "long-distance travel",
+      "enables",
+      "interplanetary travel"
+    ],
+    [
+      "long-distance travel",
+      "enables",
+      "technology advancements"
+    ],
+    [
+      "long-distance travel",
+      "enables",
+      "transportation history"
+    ],
+    [
+      "long-distance travel",
+      "is enhanced by",
+      "digital infrastructure"
+    ],
+    [
+      "long-distance travel",
+      "is reliant on",
+      "automobiles"
+    ],
+    [
+      "long-distance travel",
+      "supports",
+      "human exploration"
+    ],
+    [
+      "maritime trade",
+      "affects",
+      "travel times"
+    ],
+    [
+      "maritime trade",
+      "enhances",
+      "efficiency"
+    ],
+    [
+      "maritime trade",
+      "enhances",
+      "transportation systems"
+    ],
+    [
+      "maritime trade",
+      "enhances",
+      "travel efficiency"
+    ],
+    [
+      "maritime trade",
+      "influences",
+      "railway networks"
+    ],
+    [
+      "maritime trade",
+      "supports",
+      "automobiles"
+    ],
+    [
+      "mass production",
+      "drives",
+      "hyperloop technology"
+    ],
+    [
+      "mass production",
+      "enables",
+      "commercial aviation"
+    ],
+    [
+      "mass production",
+      "enables",
+      "commuting"
+    ],
+    [
+      "mass production",
+      "enables",
+      "personal transportation"
+    ],
+    [
+      "mass production",
+      "enables",
+      "railway networks"
+    ],
+    [
+      "mass production",
+      "facilitates",
+      "high-speed pods"
+    ],
+    [
+      "mass production",
+      "produced by",
+      "autonomous vehicles"
+    ],
+    [
+      "mass production",
+      "promotes",
+      "cultural exchange"
+    ],
+    [
+      "modern technologies",
+      "advances",
+      "sustainable practices"
+    ],
+    [
+      "modern technologies",
+      "drives",
+      "autonomous vehicles"
+    ],
+    [
+      "modern technologies",
+      "enables",
+      "commercial spaceflight"
+    ],
+    [
+      "modern technologies",
+      "enables",
+      "mass production"
+    ],
+    [
+      "modern technologies",
+      "enhances",
+      "personal transportation"
+    ],
+    [
+      "modern technologies",
+      "enhances",
+      "transportation systems"
+    ],
+    [
+      "modern technologies",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "modern technologies",
+      "includes",
+      "airplanes"
+    ],
+    [
+      "modern technologies",
+      "includes",
+      "space tourism"
+    ],
+    [
+      "modern technologies",
+      "integrates with",
+      "smart cities"
+    ],
+    [
+      "modern technologies",
+      "is a type of",
+      "wheeled carts"
+    ],
+    [
+      "modern technologies",
+      "reduces",
+      "travel times"
+    ],
+    [
+      "modern technologies",
+      "supports",
+      "ride-sharing services"
+    ],
+    [
+      "modern technologies",
+      "transforms",
+      "long-distance travel"
+    ],
+    [
+      "navigation apps",
+      "influenced by",
+      "steam engine"
+    ],
+    [
+      "navigation apps",
+      "utilized by",
+      "trade routes"
+    ],
+    [
+      "navigation apps",
+      "utilizes",
+      "innovation"
+    ],
+    [
+      "personal transportation",
+      "enables",
+      "high-speed pods"
+    ],
+    [
+      "personal transportation",
+      "enhances",
+      "travel times"
+    ],
+    [
+      "personal transportation",
+      "evolved into",
+      "ancient transportation"
+    ],
+    [
+      "personal transportation",
+      "evolved into",
+      "animal transportation"
+    ],
+    [
+      "personal transportation",
+      "facilitates",
+      "commercial spaceflight"
+    ],
+    [
+      "personal transportation",
+      "facilitates",
+      "human exploration"
+    ],
+    [
+      "personal transportation",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "personal transportation",
+      "influences",
+      "transportation systems"
+    ],
+    [
+      "personal transportation",
+      "is used for",
+      "aerial surveys"
+    ],
+    [
+      "railway networks",
+      "contributes to",
+      "industrial development"
+    ],
+    [
+      "railway networks",
+      "enabled by",
+      "steam engine"
+    ],
+    [
+      "railway networks",
+      "enhances",
+      "travel efficiency"
+    ],
+    [
+      "railway networks",
+      "facilitates",
+      "goods exchange"
+    ],
+    [
+      "railway networks",
+      "improves",
+      "efficiency"
+    ],
+    [
+      "railway networks",
+      "supports",
+      "transportation systems"
+    ],
+    [
+      "railway networks",
+      "supports",
+      "urban growth"
+    ],
+    [
+      "ride-sharing services",
+      "enables",
+      "personal transportation"
+    ],
+    [
+      "ride-sharing services",
+      "improves",
+      "transportation systems"
+    ],
+    [
+      "ride-sharing services",
+      "transforms",
+      "space travel"
+    ],
+    [
+      "ride-sharing services",
+      "utilizes",
+      "autonomous vehicles"
+    ],
+    [
+      "ride-sharing services",
+      "utilizes",
+      "hyperloop technology"
+    ],
+    [
+      "sailing ships",
+      "enables",
+      "exploration"
+    ],
+    [
+      "smart cities",
+      "enhances",
+      "railway networks"
+    ],
+    [
+      "smart cities",
+      "integrates",
+      "ride-sharing services"
+    ],
+    [
+      "smart cities",
+      "integrates with",
+      "high-speed pods"
+    ],
+    [
+      "smart cities",
+      "integrates with",
+      "hyperloop technology"
+    ],
+    [
+      "smart cities",
+      "utilizes",
+      "aerial surveys"
+    ],
+    [
+      "smart cities",
+      "utilizes",
+      "autonomous vehicles"
+    ],
+    [
+      "smart cities",
+      "utilizes",
+      "delivery services"
+    ],
+    [
+      "space tourism",
+      "benefits from",
+      "commercial aviation"
+    ],
+    [
+      "space tourism",
+      "enhances",
+      "drones"
+    ],
+    [
+      "space tourism",
+      "facilitates",
+      "delivery services"
+    ],
+    [
+      "space tourism",
+      "is a goal of",
+      "interplanetary travel"
+    ],
+    [
+      "space tourism",
+      "is supported by",
+      "animal transportation"
+    ],
+    [
+      "space tourism",
+      "promotes",
+      "space travel"
+    ],
+    [
+      "space travel",
+      "expands",
+      "commercial aviation"
+    ],
+    [
+      "space travel",
+      "impacts",
+      "carbon footprint"
+    ],
+    [
+      "steam engine",
+      "aided by",
+      "navigation apps"
+    ],
+    [
+      "steam engine",
+      "contributes to",
+      "human exploration"
+    ],
+    [
+      "steam engine",
+      "enables",
+      "exploration"
+    ],
+    [
+      "steam engine",
+      "influenced by",
+      "automobiles"
+    ],
+    [
+      "steam engine",
+      "powered by",
+      "canals"
+    ],
+    [
+      "steam engine",
+      "revolutionized",
+      "maritime trade"
+    ],
+    [
+      "steam engine",
+      "was created in",
+      "18th century"
+    ],
+    [
+      "steamships",
+      "enables",
+      "exploration"
+    ],
+    [
+      "steamships",
+      "facilitates",
+      "human exploration"
+    ],
+    [
+      "steamships",
+      "is a type of",
+      "railway networks"
+    ],
+    [
+      "steamships",
+      "supported",
+      "maritime trade"
+    ],
+    [
+      "steamships",
+      "transported by",
+      "canals"
+    ],
+    [
+      "steamships",
+      "were created in",
+      "18th century"
+    ],
+    [
+      "sustainable practices",
+      "drives",
+      "hyperloop technology"
+    ],
+    [
+      "sustainable practices",
+      "improves",
+      "transportation systems"
+    ],
+    [
+      "sustainable practices",
+      "influences",
+      "space travel"
+    ],
+    [
+      "sustainable practices",
+      "influences",
+      "wheeled carts"
+    ],
+    [
+      "sustainable practices",
+      "promotes",
+      "delivery services"
+    ],
+    [
+      "sustainable practices",
+      "promotes",
+      "ride-sharing services"
+    ],
+    [
+      "sustainable practices",
+      "supports",
+      "commercial spaceflight"
+    ],
+    [
+      "sustainable practices",
+      "utilizes",
+      "drones"
+    ],
+    [
+      "technology advancements",
+      "depends on",
+      "long-distance travel"
+    ],
+    [
+      "technology advancements",
+      "led to",
+      "steamships"
+    ],
+    [
+      "trade routes",
+      "connected by",
+      "locomotives"
+    ],
+    [
+      "trade routes",
+      "connected by",
+      "railway networks"
+    ],
+    [
+      "trade routes",
+      "connects",
+      "canals"
+    ],
+    [
+      "trade routes",
+      "drives",
+      "innovation"
+    ],
+    [
+      "trade routes",
+      "enhanced by",
+      "navigation apps"
+    ],
+    [
+      "trade routes",
+      "facilitated by",
+      "maritime trade"
+    ],
+    [
+      "trade routes",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "trade routes",
+      "facilitates",
+      "steamships"
+    ],
+    [
+      "trade routes",
+      "supports",
+      "human exploration"
+    ],
+    [
+      "trade routes",
+      "supports",
+      "industrial development"
+    ],
+    [
+      "transportation accessibility",
+      "enables",
+      "commercial spaceflight"
+    ],
+    [
+      "transportation accessibility",
+      "enhances",
+      "exploration"
+    ],
+    [
+      "transportation accessibility",
+      "improves",
+      "commuting"
+    ],
+    [
+      "transportation accessibility",
+      "is influenced by",
+      "environmental impact"
+    ],
+    [
+      "transportation evolution",
+      "drives",
+      "transportation systems"
+    ],
+    [
+      "transportation evolution",
+      "enhances",
+      "aerial surveys"
+    ],
+    [
+      "transportation evolution",
+      "improves",
+      "travel efficiency"
+    ],
+    [
+      "transportation evolution",
+      "influences",
+      "hyperloop technology"
+    ],
+    [
+      "transportation evolution",
+      "influences",
+      "leisure travel"
+    ],
+    [
+      "transportation evolution",
+      "influences",
+      "maritime trade"
+    ],
+    [
+      "transportation evolution",
+      "influences",
+      "personal transportation"
+    ],
+    [
+      "transportation evolution",
+      "informs",
+      "infrastructure monitoring"
+    ],
+    [
+      "transportation evolution",
+      "shaped by",
+      "modern technologies"
+    ],
+    [
+      "transportation evolution",
+      "supports",
+      "digital infrastructure"
+    ],
+    [
+      "transportation evolution",
+      "transforms",
+      "automobiles"
+    ],
+    [
+      "transportation history",
+      "drives",
+      "technology advancements"
+    ],
+    [
+      "transportation history",
+      "historically significant to",
+      "canals"
+    ],
+    [
+      "transportation history",
+      "influences",
+      "urban growth"
+    ],
+    [
+      "transportation history",
+      "informs",
+      "ancient transportation"
+    ],
+    [
+      "transportation systems",
+      "comprises",
+      "airplanes"
+    ],
+    [
+      "transportation systems",
+      "enables",
+      "space travel"
+    ],
+    [
+      "transportation systems",
+      "influences",
+      "long-distance travel"
+    ],
+    [
+      "transportation systems",
+      "influences",
+      "travel times"
+    ],
+    [
+      "transportation systems",
+      "informs",
+      "aerial surveys"
+    ],
+    [
+      "transportation systems",
+      "is influenced by",
+      "transportation evolution"
+    ],
+    [
+      "transportation systems",
+      "supports",
+      "commercial spaceflight"
+    ],
+    [
+      "transportation systems",
+      "supports",
+      "commuting"
+    ],
+    [
+      "transportation systems",
+      "supports",
+      "high-speed pods"
+    ],
+    [
+      "transportation systems",
+      "utilizes",
+      "wheeled carts"
+    ],
+    [
+      "travel efficiency",
+      "improves",
+      "leisure travel"
+    ],
+    [
+      "travel efficiency",
+      "is a factor in",
+      "hyperloop technology"
+    ],
+    [
+      "travel efficiency",
+      "is affected by",
+      "carbon footprint"
+    ],
+    [
+      "travel efficiency",
+      "is influenced by",
+      "drones"
+    ],
+    [
+      "travel times",
+      "affects",
+      "ancient transportation"
+    ],
+    [
+      "travel times",
+      "affects",
+      "leisure travel"
+    ],
+    [
+      "travel times",
+      "affects",
+      "railway networks"
+    ],
+    [
+      "travel times",
+      "improves",
+      "high-speed pods"
+    ],
+    [
+      "travel times",
+      "reduces",
+      "commercial aviation"
+    ],
+    [
+      "travel times",
+      "reduces",
+      "ride-sharing services"
+    ],
+    [
+      "urban growth",
+      "benefits from",
+      "commercial aviation"
+    ],
+    [
+      "urban growth",
+      "drives",
+      "hyperloop technology"
+    ],
+    [
+      "urban growth",
+      "enhances",
+      "cultural exchange"
+    ],
+    [
+      "urban growth",
+      "influences",
+      "transportation systems"
+    ],
+    [
+      "urban growth",
+      "supports",
+      "aerial surveys"
+    ],
+    [
+      "urban growth",
+      "transforms",
+      "ride-sharing services"
+    ],
+    [
+      "walking",
+      "the earliest form of",
+      "personal transportation"
+    ],
+    [
+      "wheeled carts",
+      "enabled by",
+      "mass production"
+    ],
+    [
+      "wheeled carts",
+      "enables",
+      "long-distance travel"
+    ],
+    [
+      "wheeled carts",
+      "evolved from",
+      "high-speed pods"
+    ],
+    [
+      "wheeled carts",
+      "facilitates",
+      "commuting"
+    ],
+    [
+      "wheeled carts",
+      "historically precedes",
+      "commercial aviation"
+    ],
+    [
+      "wheeled carts",
+      "influenced by",
+      "drones"
+    ],
+    [
+      "wheeled carts",
+      "is a predecessor of",
+      "delivery services"
+    ],
+    [
+      "wheeled carts",
+      "utilizes",
+      "aerial surveys"
+    ]
+  ],
+  "edges": [
+    "advances",
+    "affected by",
+    "affects",
+    "aided by",
+    "benefits from",
+    "competes with",
+    "complements",
+    "comprises",
+    "connected by",
+    "connects",
+    "contributes to",
+    "depends on",
+    "developed by",
+    "dominate travel in",
+    "driven by",
+    "drives",
+    "enabled by",
+    "enables",
+    "enhanced by",
+    "enhances",
+    "evolved from",
+    "evolved into",
+    "expands",
+    "expands into",
+    "facilitated by",
+    "facilitates",
+    "historically precedes",
+    "historically significant to",
+    "impacts",
+    "improved by",
+    "improves",
+    "includes",
+    "increases",
+    "influenced by",
+    "influences",
+    "informs",
+    "inspired",
+    "integrates",
+    "integrates with",
+    "is a component of",
+    "is a factor in",
+    "is a form of",
+    "is a goal of",
+    "is a part of",
+    "is a predecessor of",
+    "is a type of",
+    "is affected by",
+    "is enhanced by",
+    "is influenced by",
+    "is reduced by",
+    "is related to",
+    "is reliant on",
+    "is shaped by",
+    "is supported by",
+    "is used for",
+    "led to",
+    "mitigates",
+    "monitored by",
+    "monitors",
+    "nurtured",
+    "powered by",
+    "preceded by",
+    "precedes",
+    "produced by",
+    "promotes",
+    "reduced by",
+    "reduces",
+    "requires",
+    "revolutionized",
+    "shaped by",
+    "supported",
+    "supports",
+    "the earliest form of",
+    "transforms",
+    "transported by",
+    "utilized by",
+    "utilizes",
+    "was created in",
+    "were created in"
+  ]
+}

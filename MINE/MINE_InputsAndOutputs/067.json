@@ -1,0 +1,2528 @@
+{
+  "entities": [
+    "Brothers Grimm",
+    "Charles Perrault",
+    "Cinderella",
+    "European folklore",
+    "Galatea",
+    "German traditions",
+    "Hansel and Gretel",
+    "Italian traditions",
+    "Pygmalion",
+    "Rhodopis",
+    "Slavic traditions",
+    "Snow White",
+    "abandoned",
+    "ancient Greece",
+    "ancient myths",
+    "ancient origins",
+    "beloved stories",
+    "bravery",
+    "cannibalistic witch",
+    "captivating audiences",
+    "children",
+    "classic stories",
+    "classic tales",
+    "connection",
+    "creativity",
+    "cultural heritage",
+    "cultural myths",
+    "cultural significance",
+    "cultural variations",
+    "enchanting stories",
+    "enduring popularity",
+    "fairy godmother",
+    "fairytales",
+    "folklore",
+    "glass slipper",
+    "happily ever after",
+    "heroic characters",
+    "history",
+    "human experience",
+    "imagination",
+    "insights",
+    "jealousy",
+    "lost slipper",
+    "love",
+    "magical elements",
+    "moral lessons",
+    "oral traditions",
+    "retelling",
+    "seven dwarfs",
+    "siblings",
+    "storytelling",
+    "stroke of midnight",
+    "sweets",
+    "timeless themes",
+    "transformation",
+    "triumph",
+    "wicked stepmother",
+    "wit",
+    "witches",
+    "woods"
+  ],
+  "relations": [
+    [
+      "Brothers Grimm",
+      "collected by",
+      "Hansel and Gretel"
+    ],
+    [
+      "Brothers Grimm",
+      "collected by",
+      "seven dwarfs"
+    ],
+    [
+      "Brothers Grimm",
+      "collected by",
+      "siblings"
+    ],
+    [
+      "Brothers Grimm",
+      "collected by",
+      "woods"
+    ],
+    [
+      "Brothers Grimm",
+      "compiled by",
+      "classic tales"
+    ],
+    [
+      "Brothers Grimm",
+      "depicts",
+      "jealousy"
+    ],
+    [
+      "Brothers Grimm",
+      "derived from",
+      "moral lessons"
+    ],
+    [
+      "Brothers Grimm",
+      "features in",
+      "magical elements"
+    ],
+    [
+      "Brothers Grimm",
+      "influences",
+      "cultural heritage"
+    ],
+    [
+      "Brothers Grimm",
+      "inspired by",
+      "transformation"
+    ],
+    [
+      "Brothers Grimm",
+      "is a theme in",
+      "happily ever after"
+    ],
+    [
+      "Brothers Grimm",
+      "preserved by",
+      "oral traditions"
+    ],
+    [
+      "Charles Perrault",
+      "associated with",
+      "glass slipper"
+    ],
+    [
+      "Charles Perrault",
+      "associated with",
+      "lost slipper"
+    ],
+    [
+      "Charles Perrault",
+      "contributes to",
+      "enduring popularity"
+    ],
+    [
+      "Charles Perrault",
+      "influenced by",
+      "Italian traditions"
+    ],
+    [
+      "Charles Perrault",
+      "influenced by",
+      "cultural variations"
+    ],
+    [
+      "Charles Perrault",
+      "influences",
+      "folklore"
+    ],
+    [
+      "Charles Perrault",
+      "inspired by",
+      "transformation"
+    ],
+    [
+      "Charles Perrault",
+      "introduced by",
+      "fairy godmother"
+    ],
+    [
+      "Charles Perrault",
+      "is a source for",
+      "ancient origins"
+    ],
+    [
+      "Charles Perrault",
+      "represents",
+      "cultural significance"
+    ],
+    [
+      "Cinderella",
+      "authored",
+      "Charles Perrault"
+    ],
+    [
+      "Cinderella",
+      "grants",
+      "fairy godmother"
+    ],
+    [
+      "Cinderella",
+      "loses",
+      "lost slipper"
+    ],
+    [
+      "Cinderella",
+      "utilizes",
+      "wit"
+    ],
+    [
+      "Cinderella",
+      "worn by",
+      "glass slipper"
+    ],
+    [
+      "European folklore",
+      "features",
+      "magical elements"
+    ],
+    [
+      "European folklore",
+      "includes",
+      "fairytales"
+    ],
+    [
+      "European folklore",
+      "influenced by",
+      "Charles Perrault"
+    ],
+    [
+      "European folklore",
+      "influenced by",
+      "captivating audiences"
+    ],
+    [
+      "European folklore",
+      "influenced by",
+      "jealousy"
+    ],
+    [
+      "European folklore",
+      "influences",
+      "cultural variations"
+    ],
+    [
+      "European folklore",
+      "is a form of",
+      "storytelling"
+    ],
+    [
+      "European folklore",
+      "is reflected in",
+      "enduring popularity"
+    ],
+    [
+      "European folklore",
+      "reflects",
+      "timeless themes"
+    ],
+    [
+      "Galatea",
+      "achieved by",
+      "triumph"
+    ],
+    [
+      "Galatea",
+      "associated with",
+      "Snow White"
+    ],
+    [
+      "Galatea",
+      "associated with",
+      "lost slipper"
+    ],
+    [
+      "Galatea",
+      "inspired by",
+      "Charles Perrault"
+    ],
+    [
+      "Galatea",
+      "inspired by",
+      "glass slipper"
+    ],
+    [
+      "Galatea",
+      "inspired by",
+      "happily ever after"
+    ],
+    [
+      "German traditions",
+      "associated with",
+      "woods"
+    ],
+    [
+      "German traditions",
+      "compiled by",
+      "Brothers Grimm"
+    ],
+    [
+      "German traditions",
+      "is celebrated by",
+      "triumph"
+    ],
+    [
+      "German traditions",
+      "originated from",
+      "Hansel and Gretel"
+    ],
+    [
+      "German traditions",
+      "shapes",
+      "connection"
+    ],
+    [
+      "Hansel and Gretel",
+      "achieved by",
+      "triumph"
+    ],
+    [
+      "Hansel and Gretel",
+      "achieves",
+      "happily ever after"
+    ],
+    [
+      "Hansel and Gretel",
+      "are",
+      "siblings"
+    ],
+    [
+      "Hansel and Gretel",
+      "assisted by",
+      "seven dwarfs"
+    ],
+    [
+      "Hansel and Gretel",
+      "features",
+      "children"
+    ],
+    [
+      "Hansel and Gretel",
+      "features",
+      "magical elements"
+    ],
+    [
+      "Hansel and Gretel",
+      "inspired by",
+      "classic tales"
+    ],
+    [
+      "Hansel and Gretel",
+      "involves",
+      "storytelling"
+    ],
+    [
+      "Hansel and Gretel",
+      "navigated",
+      "woods"
+    ],
+    [
+      "Hansel and Gretel",
+      "outsmarted",
+      "cannibalistic witch"
+    ],
+    [
+      "Hansel and Gretel",
+      "teaches",
+      "moral lessons"
+    ],
+    [
+      "Hansel and Gretel",
+      "utilizes",
+      "wit"
+    ],
+    [
+      "Italian traditions",
+      "contributes to",
+      "magical elements"
+    ],
+    [
+      "Italian traditions",
+      "influenced by",
+      "cultural variations"
+    ],
+    [
+      "Italian traditions",
+      "influenced by",
+      "history"
+    ],
+    [
+      "Italian traditions",
+      "influenced by",
+      "jealousy"
+    ],
+    [
+      "Italian traditions",
+      "influenced by",
+      "love"
+    ],
+    [
+      "Italian traditions",
+      "influenced by",
+      "moral lessons"
+    ],
+    [
+      "Italian traditions",
+      "influenced by",
+      "oral traditions"
+    ],
+    [
+      "Italian traditions",
+      "influences",
+      "cultural heritage"
+    ],
+    [
+      "Italian traditions",
+      "influences",
+      "fairytales"
+    ],
+    [
+      "Italian traditions",
+      "influences",
+      "human experience"
+    ],
+    [
+      "Italian traditions",
+      "influences",
+      "retelling"
+    ],
+    [
+      "Italian traditions",
+      "influences",
+      "storytelling"
+    ],
+    [
+      "Italian traditions",
+      "informs",
+      "classic stories"
+    ],
+    [
+      "Italian traditions",
+      "inspired by",
+      "cultural myths"
+    ],
+    [
+      "Italian traditions",
+      "inspires",
+      "enchanting stories"
+    ],
+    [
+      "Italian traditions",
+      "is part of",
+      "European folklore"
+    ],
+    [
+      "Italian traditions",
+      "nurtures",
+      "creativity"
+    ],
+    [
+      "Italian traditions",
+      "part of",
+      "Rhodopis"
+    ],
+    [
+      "Pygmalion",
+      "inspired by",
+      "imagination"
+    ],
+    [
+      "Pygmalion",
+      "inspired by",
+      "lost slipper"
+    ],
+    [
+      "Pygmalion",
+      "inspired by",
+      "retelling"
+    ],
+    [
+      "Pygmalion",
+      "inspired by",
+      "timeless themes"
+    ],
+    [
+      "Pygmalion",
+      "is linked to",
+      "connection"
+    ],
+    [
+      "Pygmalion",
+      "reflected in",
+      "human experience"
+    ],
+    [
+      "Pygmalion",
+      "resulted in",
+      "triumph"
+    ],
+    [
+      "Rhodopis",
+      "achieved",
+      "happily ever after"
+    ],
+    [
+      "Rhodopis",
+      "associated with",
+      "love"
+    ],
+    [
+      "Rhodopis",
+      "embodies",
+      "timeless themes"
+    ],
+    [
+      "Rhodopis",
+      "is retold as",
+      "retelling"
+    ],
+    [
+      "Rhodopis",
+      "recorded in",
+      "history"
+    ],
+    [
+      "Rhodopis",
+      "reflects",
+      "cultural heritage"
+    ],
+    [
+      "Rhodopis",
+      "undergoes",
+      "transformation"
+    ],
+    [
+      "Slavic traditions",
+      "influenced by",
+      "cultural heritage"
+    ],
+    [
+      "Slavic traditions",
+      "influenced by",
+      "enduring popularity"
+    ],
+    [
+      "Slavic traditions",
+      "inspired by",
+      "cultural variations"
+    ],
+    [
+      "Slavic traditions",
+      "is part of",
+      "oral traditions"
+    ],
+    [
+      "Snow White",
+      "is pursued by",
+      "wicked stepmother"
+    ],
+    [
+      "Snow White",
+      "is utilized by",
+      "wit"
+    ],
+    [
+      "Snow White",
+      "undergoes",
+      "transformation"
+    ],
+    [
+      "abandoned",
+      "features in",
+      "Cinderella"
+    ],
+    [
+      "abandoned",
+      "oppressed by",
+      "wicked stepmother"
+    ],
+    [
+      "ancient Greece",
+      "influenced by",
+      "Italian traditions"
+    ],
+    [
+      "ancient Greece",
+      "influenced by",
+      "cultural variations"
+    ],
+    [
+      "ancient Greece",
+      "influenced by",
+      "heroic characters"
+    ],
+    [
+      "ancient Greece",
+      "inspired",
+      "Charles Perrault"
+    ],
+    [
+      "ancient Greece",
+      "originated from",
+      "Rhodopis"
+    ],
+    [
+      "ancient Greece",
+      "originated from",
+      "enchanting stories"
+    ],
+    [
+      "ancient Greece",
+      "originated from",
+      "folklore"
+    ],
+    [
+      "ancient Greece",
+      "originated from",
+      "timeless themes"
+    ],
+    [
+      "ancient myths",
+      "depicts",
+      "heroic characters"
+    ],
+    [
+      "ancient myths",
+      "derived from",
+      "classic tales"
+    ],
+    [
+      "ancient myths",
+      "derived from",
+      "magical elements"
+    ],
+    [
+      "ancient myths",
+      "influences",
+      "European folklore"
+    ],
+    [
+      "ancient myths",
+      "influences",
+      "enduring popularity"
+    ],
+    [
+      "ancient myths",
+      "influences",
+      "timeless themes"
+    ],
+    [
+      "ancient myths",
+      "inspired by",
+      "beloved stories"
+    ],
+    [
+      "ancient myths",
+      "inspired by",
+      "cultural variations"
+    ],
+    [
+      "ancient myths",
+      "inspired by",
+      "fairy godmother"
+    ],
+    [
+      "ancient myths",
+      "inspired by",
+      "fairytales"
+    ],
+    [
+      "ancient myths",
+      "inspired by",
+      "moral lessons"
+    ],
+    [
+      "ancient myths",
+      "is inspired by",
+      "enchanting stories"
+    ],
+    [
+      "ancient myths",
+      "is represented by",
+      "wit"
+    ],
+    [
+      "ancient myths",
+      "is rooted in",
+      "cultural heritage"
+    ],
+    [
+      "ancient myths",
+      "originates from",
+      "triumph"
+    ],
+    [
+      "ancient origins",
+      "contributes to",
+      "enduring popularity"
+    ],
+    [
+      "ancient origins",
+      "fuels",
+      "imagination"
+    ],
+    [
+      "ancient origins",
+      "influences",
+      "enchanting stories"
+    ],
+    [
+      "ancient origins",
+      "inspired by",
+      "Charles Perrault"
+    ],
+    [
+      "ancient origins",
+      "is reflected in",
+      "cultural significance"
+    ],
+    [
+      "ancient origins",
+      "originated in",
+      "ancient Greece"
+    ],
+    [
+      "ancient origins",
+      "rooted in",
+      "human experience"
+    ],
+    [
+      "ancient origins",
+      "traced back to",
+      "Rhodopis"
+    ],
+    [
+      "beloved stories",
+      "appreciated in",
+      "classic tales"
+    ],
+    [
+      "beloved stories",
+      "appreciated in",
+      "imagination"
+    ],
+    [
+      "beloved stories",
+      "cherished by",
+      "Italian traditions"
+    ],
+    [
+      "beloved stories",
+      "cherished by",
+      "enchanting stories"
+    ],
+    [
+      "beloved stories",
+      "embodies",
+      "timeless themes"
+    ],
+    [
+      "beloved stories",
+      "enriches",
+      "storytelling"
+    ],
+    [
+      "beloved stories",
+      "inspired by",
+      "creativity"
+    ],
+    [
+      "beloved stories",
+      "inspired by",
+      "cultural variations"
+    ],
+    [
+      "beloved stories",
+      "inspired by",
+      "love"
+    ],
+    [
+      "beloved stories",
+      "is enhanced by",
+      "enduring popularity"
+    ],
+    [
+      "beloved stories",
+      "is rooted in",
+      "European folklore"
+    ],
+    [
+      "beloved stories",
+      "is rooted in",
+      "oral traditions"
+    ],
+    [
+      "beloved stories",
+      "shapes",
+      "cultural heritage"
+    ],
+    [
+      "bravery",
+      "demonstrated by",
+      "ancient origins"
+    ],
+    [
+      "bravery",
+      "demonstrates",
+      "beloved stories"
+    ],
+    [
+      "bravery",
+      "illustrates",
+      "European folklore"
+    ],
+    [
+      "bravery",
+      "illustrates",
+      "human experience"
+    ],
+    [
+      "bravery",
+      "inspired by",
+      "captivating audiences"
+    ],
+    [
+      "bravery",
+      "is demonstrated by",
+      "enchanting stories"
+    ],
+    [
+      "bravery",
+      "is exemplified by",
+      "cultural heritage"
+    ],
+    [
+      "bravery",
+      "outsmarted by",
+      "cannibalistic witch"
+    ],
+    [
+      "bravery",
+      "overcome by",
+      "sweets"
+    ],
+    [
+      "cannibalistic witch",
+      "encounters",
+      "Charles Perrault"
+    ],
+    [
+      "cannibalistic witch",
+      "features",
+      "Italian traditions"
+    ],
+    [
+      "cannibalistic witch",
+      "features",
+      "enduring popularity"
+    ],
+    [
+      "cannibalistic witch",
+      "inspired by",
+      "ancient myths"
+    ],
+    [
+      "cannibalistic witch",
+      "is part of",
+      "folklore"
+    ],
+    [
+      "cannibalistic witch",
+      "is represented by",
+      "cultural significance"
+    ],
+    [
+      "cannibalistic witch",
+      "opposes",
+      "wicked stepmother"
+    ],
+    [
+      "cannibalistic witch",
+      "outsmarted by",
+      "wit"
+    ],
+    [
+      "cannibalistic witch",
+      "threatens",
+      "Snow White"
+    ],
+    [
+      "cannibalistic witch",
+      "threatens",
+      "stroke of midnight"
+    ],
+    [
+      "captivating audiences",
+      "attracts",
+      "heroic characters"
+    ],
+    [
+      "captivating audiences",
+      "captivated by",
+      "human experience"
+    ],
+    [
+      "captivating audiences",
+      "captivates",
+      "Pygmalion"
+    ],
+    [
+      "captivating audiences",
+      "creates",
+      "connection"
+    ],
+    [
+      "captivating audiences",
+      "drives",
+      "enduring popularity"
+    ],
+    [
+      "captivating audiences",
+      "enhances",
+      "cultural significance"
+    ],
+    [
+      "captivating audiences",
+      "enhances",
+      "storytelling"
+    ],
+    [
+      "captivating audiences",
+      "entertains",
+      "Rhodopis"
+    ],
+    [
+      "captivating audiences",
+      "entertains",
+      "children"
+    ],
+    [
+      "captivating audiences",
+      "enthralls",
+      "fairytales"
+    ],
+    [
+      "captivating audiences",
+      "inspired",
+      "Brothers Grimm"
+    ],
+    [
+      "children",
+      "features",
+      "magical elements"
+    ],
+    [
+      "children",
+      "influenced by",
+      "German traditions"
+    ],
+    [
+      "children",
+      "influences",
+      "cultural heritage"
+    ],
+    [
+      "children",
+      "inspired by",
+      "storytelling"
+    ],
+    [
+      "children",
+      "is about",
+      "Hansel and Gretel"
+    ],
+    [
+      "children",
+      "offers",
+      "connection"
+    ],
+    [
+      "children",
+      "utilizes",
+      "wit"
+    ],
+    [
+      "classic stories",
+      "enthralled by",
+      "captivating audiences"
+    ],
+    [
+      "classic stories",
+      "includes",
+      "cultural heritage"
+    ],
+    [
+      "classic stories",
+      "influences",
+      "Slavic traditions"
+    ],
+    [
+      "classic stories",
+      "inspired by",
+      "Hansel and Gretel"
+    ],
+    [
+      "classic stories",
+      "inspired by",
+      "storytelling"
+    ],
+    [
+      "classic stories",
+      "is a type of",
+      "Rhodopis"
+    ],
+    [
+      "classic stories",
+      "is a type of",
+      "enchanting stories"
+    ],
+    [
+      "classic stories",
+      "is characterized by",
+      "cultural significance"
+    ],
+    [
+      "classic stories",
+      "provide",
+      "insights"
+    ],
+    [
+      "classic tales",
+      "contains",
+      "magical elements"
+    ],
+    [
+      "classic tales",
+      "engages",
+      "captivating audiences"
+    ],
+    [
+      "classic tales",
+      "explores",
+      "love"
+    ],
+    [
+      "classic tales",
+      "fosters",
+      "creativity"
+    ],
+    [
+      "classic tales",
+      "illustrates",
+      "human experience"
+    ],
+    [
+      "classic tales",
+      "includes",
+      "enchanting stories"
+    ],
+    [
+      "classic tales",
+      "influenced by",
+      "European folklore"
+    ],
+    [
+      "classic tales",
+      "influenced by",
+      "Italian traditions"
+    ],
+    [
+      "classic tales",
+      "influenced by",
+      "Slavic traditions"
+    ],
+    [
+      "classic tales",
+      "inspired by",
+      "cultural variations"
+    ],
+    [
+      "classic tales",
+      "is significant for",
+      "cultural significance"
+    ],
+    [
+      "classic tales",
+      "provides",
+      "insights"
+    ],
+    [
+      "classic tales",
+      "stimulates",
+      "imagination"
+    ],
+    [
+      "connection",
+      "enhances",
+      "love"
+    ],
+    [
+      "connection",
+      "facilitates",
+      "storytelling"
+    ],
+    [
+      "connection",
+      "is connected to",
+      "Hansel and Gretel"
+    ],
+    [
+      "connection",
+      "is enhanced by",
+      "cultural heritage"
+    ],
+    [
+      "connection",
+      "provides",
+      "insights"
+    ],
+    [
+      "connection",
+      "represents",
+      "siblings"
+    ],
+    [
+      "creativity",
+      "demonstrates",
+      "wit"
+    ],
+    [
+      "creativity",
+      "enhances",
+      "storytelling"
+    ],
+    [
+      "creativity",
+      "fuels",
+      "enduring popularity"
+    ],
+    [
+      "creativity",
+      "informs",
+      "Slavic traditions"
+    ],
+    [
+      "creativity",
+      "inspired by",
+      "Rhodopis"
+    ],
+    [
+      "creativity",
+      "inspired by",
+      "ancient myths"
+    ],
+    [
+      "creativity",
+      "inspired by",
+      "cultural myths"
+    ],
+    [
+      "creativity",
+      "inspired by",
+      "fairy godmother"
+    ],
+    [
+      "creativity",
+      "inspired by",
+      "jealousy"
+    ],
+    [
+      "creativity",
+      "inspired by",
+      "love"
+    ],
+    [
+      "creativity",
+      "involves",
+      "timeless themes"
+    ],
+    [
+      "creativity",
+      "nurtures",
+      "European folklore"
+    ],
+    [
+      "creativity",
+      "represents",
+      "cultural significance"
+    ],
+    [
+      "creativity",
+      "requires",
+      "bravery"
+    ],
+    [
+      "creativity",
+      "shapes",
+      "history"
+    ],
+    [
+      "cultural heritage",
+      "encompasses",
+      "fairytales"
+    ],
+    [
+      "cultural heritage",
+      "encompasses",
+      "retelling"
+    ],
+    [
+      "cultural heritage",
+      "features",
+      "magical elements"
+    ],
+    [
+      "cultural heritage",
+      "includes",
+      "heroic characters"
+    ],
+    [
+      "cultural heritage",
+      "influenced by",
+      "love"
+    ],
+    [
+      "cultural heritage",
+      "inspired by",
+      "captivating audiences"
+    ],
+    [
+      "cultural heritage",
+      "is shaped by",
+      "oral traditions"
+    ],
+    [
+      "cultural heritage",
+      "nurtures",
+      "classic tales"
+    ],
+    [
+      "cultural heritage",
+      "nurtures",
+      "creativity"
+    ],
+    [
+      "cultural heritage",
+      "rooted in",
+      "history"
+    ],
+    [
+      "cultural heritage",
+      "rooted in",
+      "jealousy"
+    ],
+    [
+      "cultural myths",
+      "embodies",
+      "heroic characters"
+    ],
+    [
+      "cultural myths",
+      "enhances",
+      "enduring popularity"
+    ],
+    [
+      "cultural myths",
+      "enhances",
+      "storytelling"
+    ],
+    [
+      "cultural myths",
+      "holds",
+      "cultural significance"
+    ],
+    [
+      "cultural myths",
+      "influences",
+      "European folklore"
+    ],
+    [
+      "cultural myths",
+      "influences",
+      "captivating audiences"
+    ],
+    [
+      "cultural myths",
+      "informs",
+      "classic stories"
+    ],
+    [
+      "cultural myths",
+      "informs",
+      "fairytales"
+    ],
+    [
+      "cultural myths",
+      "informs",
+      "oral traditions"
+    ],
+    [
+      "cultural myths",
+      "reflect",
+      "timeless themes"
+    ],
+    [
+      "cultural myths",
+      "revives",
+      "retelling"
+    ],
+    [
+      "cultural myths",
+      "shapes",
+      "beloved stories"
+    ],
+    [
+      "cultural myths",
+      "shapes",
+      "history"
+    ],
+    [
+      "cultural significance",
+      "is a result of",
+      "triumph"
+    ],
+    [
+      "cultural significance",
+      "is influenced by",
+      "beloved stories"
+    ],
+    [
+      "cultural significance",
+      "is represented by",
+      "magical elements"
+    ],
+    [
+      "cultural significance",
+      "is represented by",
+      "timeless themes"
+    ],
+    [
+      "cultural variations",
+      "enhances",
+      "cultural significance"
+    ],
+    [
+      "cultural variations",
+      "features",
+      "heroic characters"
+    ],
+    [
+      "cultural variations",
+      "features",
+      "magical elements"
+    ],
+    [
+      "cultural variations",
+      "includes",
+      "classic stories"
+    ],
+    [
+      "cultural variations",
+      "includes",
+      "fairytales"
+    ],
+    [
+      "cultural variations",
+      "intersects with",
+      "cultural heritage"
+    ],
+    [
+      "cultural variations",
+      "is characterized by",
+      "cannibalistic witch"
+    ],
+    [
+      "cultural variations",
+      "is characterized by",
+      "retelling"
+    ],
+    [
+      "cultural variations",
+      "is influenced by",
+      "jealousy"
+    ],
+    [
+      "cultural variations",
+      "reflected in",
+      "enchanting stories"
+    ],
+    [
+      "cultural variations",
+      "reflected in",
+      "human experience"
+    ],
+    [
+      "enchanting stories",
+      "authored by",
+      "Charles Perrault"
+    ],
+    [
+      "enchanting stories",
+      "celebrated in",
+      "Rhodopis"
+    ],
+    [
+      "enchanting stories",
+      "features",
+      "magical elements"
+    ],
+    [
+      "enchanting stories",
+      "fosters",
+      "creativity"
+    ],
+    [
+      "enchanting stories",
+      "influences",
+      "jealousy"
+    ],
+    [
+      "enchanting stories",
+      "involves",
+      "retelling"
+    ],
+    [
+      "enchanting stories",
+      "shaped by",
+      "history"
+    ],
+    [
+      "enchanting stories",
+      "sparks",
+      "imagination"
+    ],
+    [
+      "enduring popularity",
+      "associated with",
+      "timeless themes"
+    ],
+    [
+      "enduring popularity",
+      "contributes to",
+      "bravery"
+    ],
+    [
+      "enduring popularity",
+      "contributes to",
+      "cultural significance"
+    ],
+    [
+      "enduring popularity",
+      "contributes to",
+      "enchanting stories"
+    ],
+    [
+      "enduring popularity",
+      "enhances",
+      "magical elements"
+    ],
+    [
+      "enduring popularity",
+      "enhances",
+      "storytelling"
+    ],
+    [
+      "enduring popularity",
+      "is a result of",
+      "folklore"
+    ],
+    [
+      "enduring popularity",
+      "is influenced by",
+      "jealousy"
+    ],
+    [
+      "enduring popularity",
+      "is supported by",
+      "classic tales"
+    ],
+    [
+      "enduring popularity",
+      "reflected in",
+      "human experience"
+    ],
+    [
+      "fairy godmother",
+      "influenced by",
+      "ancient Greece"
+    ],
+    [
+      "fairy godmother",
+      "inspired by",
+      "cultural myths"
+    ],
+    [
+      "fairy godmother",
+      "introduces",
+      "retelling"
+    ],
+    [
+      "fairy godmother",
+      "is characterized by",
+      "enchanting stories"
+    ],
+    [
+      "fairy godmother",
+      "is enhanced by",
+      "enduring popularity"
+    ],
+    [
+      "fairy godmother",
+      "supports",
+      "heroic characters"
+    ],
+    [
+      "fairytales",
+      "collected by",
+      "Brothers Grimm"
+    ],
+    [
+      "fairytales",
+      "features",
+      "magical elements"
+    ],
+    [
+      "fairytales",
+      "illustrates",
+      "human experience"
+    ],
+    [
+      "fairytales",
+      "includes",
+      "classic stories"
+    ],
+    [
+      "fairytales",
+      "includes",
+      "folklore"
+    ],
+    [
+      "fairytales",
+      "inspired by",
+      "Hansel and Gretel"
+    ],
+    [
+      "fairytales",
+      "inspired by",
+      "jealousy"
+    ],
+    [
+      "fairytales",
+      "is a form of",
+      "retelling"
+    ],
+    [
+      "fairytales",
+      "is a result of",
+      "enduring popularity"
+    ],
+    [
+      "fairytales",
+      "is defined by",
+      "cultural significance"
+    ],
+    [
+      "fairytales",
+      "origin of",
+      "Rhodopis"
+    ],
+    [
+      "fairytales",
+      "provides",
+      "insights"
+    ],
+    [
+      "folklore",
+      "contains",
+      "sweets"
+    ],
+    [
+      "folklore",
+      "contributes to",
+      "cultural significance"
+    ],
+    [
+      "folklore",
+      "embodies",
+      "bravery"
+    ],
+    [
+      "folklore",
+      "enriches",
+      "enchanting stories"
+    ],
+    [
+      "folklore",
+      "entertains",
+      "captivating audiences"
+    ],
+    [
+      "folklore",
+      "features in",
+      "cannibalistic witch"
+    ],
+    [
+      "folklore",
+      "fosters",
+      "creativity"
+    ],
+    [
+      "folklore",
+      "influences",
+      "ancient myths"
+    ],
+    [
+      "folklore",
+      "influences",
+      "fairy godmother"
+    ],
+    [
+      "folklore",
+      "informs",
+      "classic tales"
+    ],
+    [
+      "folklore",
+      "informs",
+      "oral traditions"
+    ],
+    [
+      "folklore",
+      "informs",
+      "timeless themes"
+    ],
+    [
+      "folklore",
+      "is influenced by",
+      "Italian traditions"
+    ],
+    [
+      "folklore",
+      "is part of",
+      "Rhodopis"
+    ],
+    [
+      "folklore",
+      "reinterpreted in",
+      "retelling"
+    ],
+    [
+      "folklore",
+      "shapes",
+      "human experience"
+    ],
+    [
+      "folklore",
+      "shows",
+      "cultural variations"
+    ],
+    [
+      "glass slipper",
+      "associated with",
+      "fairy godmother"
+    ],
+    [
+      "glass slipper",
+      "belongs to",
+      "Cinderella"
+    ],
+    [
+      "glass slipper",
+      "demonstrated through",
+      "wit"
+    ],
+    [
+      "happily ever after",
+      "achieved by",
+      "Cinderella"
+    ],
+    [
+      "happily ever after",
+      "achieved by",
+      "Snow White"
+    ],
+    [
+      "happily ever after",
+      "achieved by",
+      "triumph"
+    ],
+    [
+      "happily ever after",
+      "associated with",
+      "stroke of midnight"
+    ],
+    [
+      "happily ever after",
+      "culminates in",
+      "human experience"
+    ],
+    [
+      "happily ever after",
+      "published by",
+      "Brothers Grimm"
+    ],
+    [
+      "happily ever after",
+      "reflects",
+      "timeless themes"
+    ],
+    [
+      "heroic characters",
+      "drives",
+      "enduring popularity"
+    ],
+    [
+      "heroic characters",
+      "embodied in",
+      "fairytales"
+    ],
+    [
+      "heroic characters",
+      "embodies",
+      "classic stories"
+    ],
+    [
+      "heroic characters",
+      "embodies",
+      "human experience"
+    ],
+    [
+      "heroic characters",
+      "features",
+      "Rhodopis"
+    ],
+    [
+      "heroic characters",
+      "inspired by",
+      "ancient myths"
+    ],
+    [
+      "heroic characters",
+      "represents",
+      "cultural significance"
+    ],
+    [
+      "heroic characters",
+      "teaches",
+      "moral lessons"
+    ],
+    [
+      "history",
+      "reinterpreted as",
+      "retelling"
+    ],
+    [
+      "history",
+      "supports",
+      "enduring popularity"
+    ],
+    [
+      "human experience",
+      "fosters",
+      "enchanting stories"
+    ],
+    [
+      "human experience",
+      "influences",
+      "cultural heritage"
+    ],
+    [
+      "human experience",
+      "influences",
+      "oral traditions"
+    ],
+    [
+      "human experience",
+      "informs",
+      "love"
+    ],
+    [
+      "human experience",
+      "provides",
+      "moral lessons"
+    ],
+    [
+      "human experience",
+      "reflects",
+      "cultural significance"
+    ],
+    [
+      "human experience",
+      "shapes",
+      "creativity"
+    ],
+    [
+      "imagination",
+      "influences",
+      "cultural significance"
+    ],
+    [
+      "imagination",
+      "informs",
+      "classic stories"
+    ],
+    [
+      "imagination",
+      "inspired by",
+      "fairytales"
+    ],
+    [
+      "imagination",
+      "sparks",
+      "creativity"
+    ],
+    [
+      "imagination",
+      "stimulates",
+      "enduring popularity"
+    ],
+    [
+      "imagination",
+      "stimulates",
+      "retelling"
+    ],
+    [
+      "insights",
+      "offers",
+      "Brothers Grimm"
+    ],
+    [
+      "insights",
+      "provides",
+      "captivating audiences"
+    ],
+    [
+      "insights",
+      "provides",
+      "happily ever after"
+    ],
+    [
+      "insights",
+      "provides",
+      "jealousy"
+    ],
+    [
+      "insights",
+      "provides",
+      "triumph"
+    ],
+    [
+      "jealousy",
+      "drives",
+      "retelling"
+    ],
+    [
+      "jealousy",
+      "engages",
+      "captivating audiences"
+    ],
+    [
+      "jealousy",
+      "influences",
+      "oral traditions"
+    ],
+    [
+      "jealousy",
+      "teaches",
+      "moral lessons"
+    ],
+    [
+      "love",
+      "contributes to",
+      "enduring popularity"
+    ],
+    [
+      "love",
+      "enhances",
+      "storytelling"
+    ],
+    [
+      "love",
+      "holds",
+      "cultural significance"
+    ],
+    [
+      "love",
+      "informs",
+      "fairytales"
+    ],
+    [
+      "love",
+      "informs",
+      "history"
+    ],
+    [
+      "love",
+      "involves",
+      "Hansel and Gretel"
+    ],
+    [
+      "love",
+      "is embodied in",
+      "enchanting stories"
+    ],
+    [
+      "magical elements",
+      "collected by",
+      "Brothers Grimm"
+    ],
+    [
+      "magical elements",
+      "enhanced by",
+      "captivating audiences"
+    ],
+    [
+      "magical elements",
+      "features",
+      "history"
+    ],
+    [
+      "magical elements",
+      "inspired by",
+      "creativity"
+    ],
+    [
+      "magical elements",
+      "is part of",
+      "Hansel and Gretel"
+    ],
+    [
+      "magical elements",
+      "provide",
+      "insights"
+    ],
+    [
+      "moral lessons",
+      "are inherent in",
+      "fairytales"
+    ],
+    [
+      "moral lessons",
+      "complements",
+      "magical elements"
+    ],
+    [
+      "moral lessons",
+      "contributes to",
+      "enduring popularity"
+    ],
+    [
+      "moral lessons",
+      "conveys",
+      "classic tales"
+    ],
+    [
+      "moral lessons",
+      "derived from",
+      "European folklore"
+    ],
+    [
+      "moral lessons",
+      "enhances",
+      "cultural significance"
+    ],
+    [
+      "moral lessons",
+      "enhances",
+      "storytelling"
+    ],
+    [
+      "moral lessons",
+      "fosters",
+      "connection"
+    ],
+    [
+      "moral lessons",
+      "included in",
+      "Brothers Grimm"
+    ],
+    [
+      "moral lessons",
+      "informs",
+      "Slavic traditions"
+    ],
+    [
+      "moral lessons",
+      "informs",
+      "beloved stories"
+    ],
+    [
+      "moral lessons",
+      "informs",
+      "bravery"
+    ],
+    [
+      "moral lessons",
+      "informs",
+      "cultural heritage"
+    ],
+    [
+      "moral lessons",
+      "informs",
+      "timeless themes"
+    ],
+    [
+      "moral lessons",
+      "offer",
+      "insights"
+    ],
+    [
+      "oral traditions",
+      "complements",
+      "timeless themes"
+    ],
+    [
+      "oral traditions",
+      "contributes to",
+      "enduring popularity"
+    ],
+    [
+      "oral traditions",
+      "demonstrated through",
+      "bravery"
+    ],
+    [
+      "oral traditions",
+      "engages",
+      "captivating audiences"
+    ],
+    [
+      "oral traditions",
+      "facilitates",
+      "connection"
+    ],
+    [
+      "oral traditions",
+      "informs",
+      "Slavic traditions"
+    ],
+    [
+      "oral traditions",
+      "informs",
+      "cultural variations"
+    ],
+    [
+      "oral traditions",
+      "informs",
+      "storytelling"
+    ],
+    [
+      "oral traditions",
+      "inspire",
+      "classic stories"
+    ],
+    [
+      "oral traditions",
+      "inspire",
+      "heroic characters"
+    ],
+    [
+      "oral traditions",
+      "involves",
+      "retelling"
+    ],
+    [
+      "oral traditions",
+      "is informed by",
+      "classic tales"
+    ],
+    [
+      "oral traditions",
+      "offers",
+      "insights"
+    ],
+    [
+      "oral traditions",
+      "preserved by",
+      "Rhodopis"
+    ],
+    [
+      "retelling",
+      "based on",
+      "ancient myths"
+    ],
+    [
+      "retelling",
+      "influenced by",
+      "ancient Greece"
+    ],
+    [
+      "retelling",
+      "informs",
+      "classic stories"
+    ],
+    [
+      "retelling",
+      "inspired by",
+      "Charles Perrault"
+    ],
+    [
+      "retelling",
+      "involves",
+      "ancient origins"
+    ],
+    [
+      "retelling",
+      "involves",
+      "classic tales"
+    ],
+    [
+      "retelling",
+      "involves",
+      "magical elements"
+    ],
+    [
+      "retelling",
+      "is a part of",
+      "moral lessons"
+    ],
+    [
+      "retelling",
+      "is influenced by",
+      "enduring popularity"
+    ],
+    [
+      "retelling",
+      "is inspired by",
+      "captivating audiences"
+    ],
+    [
+      "retelling",
+      "is represented by",
+      "cultural significance"
+    ],
+    [
+      "seven dwarfs",
+      "achieved",
+      "triumph"
+    ],
+    [
+      "seven dwarfs",
+      "assists",
+      "Snow White"
+    ],
+    [
+      "seven dwarfs",
+      "is opposed by",
+      "cannibalistic witch"
+    ],
+    [
+      "seven dwarfs",
+      "supports",
+      "siblings"
+    ],
+    [
+      "siblings",
+      "influences",
+      "German traditions"
+    ],
+    [
+      "siblings",
+      "utilized",
+      "wit"
+    ],
+    [
+      "storytelling",
+      "compiled by",
+      "Brothers Grimm"
+    ],
+    [
+      "storytelling",
+      "demonstrates",
+      "bravery"
+    ],
+    [
+      "storytelling",
+      "features",
+      "magical elements"
+    ],
+    [
+      "storytelling",
+      "includes",
+      "fairytales"
+    ],
+    [
+      "storytelling",
+      "influences",
+      "ancient myths"
+    ],
+    [
+      "storytelling",
+      "inspired by",
+      "oral traditions"
+    ],
+    [
+      "stroke of midnight",
+      "associated with",
+      "glass slipper"
+    ],
+    [
+      "stroke of midnight",
+      "culminates in",
+      "human experience"
+    ],
+    [
+      "stroke of midnight",
+      "introduces",
+      "magical elements"
+    ],
+    [
+      "stroke of midnight",
+      "opposes",
+      "wicked stepmother"
+    ],
+    [
+      "stroke of midnight",
+      "represents",
+      "imagination"
+    ],
+    [
+      "sweets",
+      "attracts",
+      "Hansel and Gretel"
+    ],
+    [
+      "sweets",
+      "attracts",
+      "captivating audiences"
+    ],
+    [
+      "sweets",
+      "belongs to",
+      "cannibalistic witch"
+    ],
+    [
+      "sweets",
+      "enhances",
+      "storytelling"
+    ],
+    [
+      "sweets",
+      "is featured in",
+      "cultural heritage"
+    ],
+    [
+      "timeless themes",
+      "influenced by",
+      "Italian traditions"
+    ],
+    [
+      "timeless themes",
+      "is represented by",
+      "folklore"
+    ],
+    [
+      "transformation",
+      "characterized by",
+      "enchanting stories"
+    ],
+    [
+      "transformation",
+      "explores",
+      "retelling"
+    ],
+    [
+      "transformation",
+      "illustrates",
+      "human experience"
+    ],
+    [
+      "transformation",
+      "involves",
+      "Hansel and Gretel"
+    ],
+    [
+      "transformation",
+      "leads to",
+      "triumph"
+    ],
+    [
+      "triumph",
+      "achieved by",
+      "lost slipper"
+    ],
+    [
+      "triumph",
+      "achieved in",
+      "woods"
+    ],
+    [
+      "triumph",
+      "achieved through",
+      "wit"
+    ],
+    [
+      "triumph",
+      "achieves",
+      "Snow White"
+    ],
+    [
+      "triumph",
+      "inspired by",
+      "captivating audiences"
+    ],
+    [
+      "wicked stepmother",
+      "overcame by",
+      "triumph"
+    ],
+    [
+      "wicked stepmother",
+      "overcome by",
+      "wit"
+    ],
+    [
+      "wit",
+      "contributes to",
+      "captivating audiences"
+    ],
+    [
+      "wit",
+      "informs",
+      "ancient myths"
+    ],
+    [
+      "wit",
+      "inspired by",
+      "German traditions"
+    ],
+    [
+      "wit",
+      "is a characteristic of",
+      "Snow White"
+    ],
+    [
+      "witches",
+      "antagonized by",
+      "classic tales"
+    ],
+    [
+      "witches",
+      "attracts",
+      "sweets"
+    ],
+    [
+      "witches",
+      "caused by",
+      "transformation"
+    ],
+    [
+      "witches",
+      "defeated by",
+      "triumph"
+    ],
+    [
+      "witches",
+      "enhances",
+      "storytelling"
+    ],
+    [
+      "witches",
+      "influenced by",
+      "timeless themes"
+    ],
+    [
+      "witches",
+      "influences",
+      "cultural heritage"
+    ],
+    [
+      "witches",
+      "influences",
+      "imagination"
+    ],
+    [
+      "witches",
+      "is associated with",
+      "retelling"
+    ],
+    [
+      "witches",
+      "opposes",
+      "Hansel and Gretel"
+    ],
+    [
+      "woods",
+      "abandoned in",
+      "siblings"
+    ]
+  ],
+  "edges": [
+    "abandoned in",
+    "achieved",
+    "achieved by",
+    "achieved in",
+    "achieved through",
+    "achieves",
+    "antagonized by",
+    "appreciated in",
+    "are",
+    "are inherent in",
+    "assisted by",
+    "assists",
+    "associated with",
+    "attracts",
+    "authored",
+    "authored by",
+    "based on",
+    "belongs to",
+    "captivated by",
+    "captivates",
+    "caused by",
+    "celebrated in",
+    "characterized by",
+    "cherished by",
+    "collected by",
+    "compiled by",
+    "complements",
+    "contains",
+    "contributes to",
+    "conveys",
+    "creates",
+    "culminates in",
+    "defeated by",
+    "demonstrated by",
+    "demonstrated through",
+    "demonstrates",
+    "depicts",
+    "derived from",
+    "drives",
+    "embodied in",
+    "embodies",
+    "encompasses",
+    "encounters",
+    "engages",
+    "enhanced by",
+    "enhances",
+    "enriches",
+    "entertains",
+    "enthralled by",
+    "enthralls",
+    "explores",
+    "facilitates",
+    "features",
+    "features in",
+    "fosters",
+    "fuels",
+    "grants",
+    "holds",
+    "illustrates",
+    "included in",
+    "includes",
+    "influenced by",
+    "influences",
+    "informs",
+    "inspire",
+    "inspired",
+    "inspired by",
+    "inspires",
+    "intersects with",
+    "introduced by",
+    "introduces",
+    "involves",
+    "is a characteristic of",
+    "is a form of",
+    "is a part of",
+    "is a result of",
+    "is a source for",
+    "is a theme in",
+    "is a type of",
+    "is about",
+    "is associated with",
+    "is celebrated by",
+    "is characterized by",
+    "is connected to",
+    "is defined by",
+    "is demonstrated by",
+    "is embodied in",
+    "is enhanced by",
+    "is exemplified by",
+    "is featured in",
+    "is influenced by",
+    "is informed by",
+    "is inspired by",
+    "is linked to",
+    "is opposed by",
+    "is part of",
+    "is pursued by",
+    "is reflected in",
+    "is represented by",
+    "is retold as",
+    "is rooted in",
+    "is shaped by",
+    "is significant for",
+    "is supported by",
+    "is utilized by",
+    "leads to",
+    "loses",
+    "navigated",
+    "nurtures",
+    "offer",
+    "offers",
+    "opposes",
+    "oppressed by",
+    "origin of",
+    "originated from",
+    "originated in",
+    "originates from",
+    "outsmarted",
+    "outsmarted by",
+    "overcame by",
+    "overcome by",
+    "part of",
+    "preserved by",
+    "provide",
+    "provides",
+    "published by",
+    "recorded in",
+    "reflect",
+    "reflected in",
+    "reflects",
+    "reinterpreted as",
+    "reinterpreted in",
+    "represents",
+    "requires",
+    "resulted in",
+    "revives",
+    "rooted in",
+    "shaped by",
+    "shapes",
+    "shows",
+    "sparks",
+    "stimulates",
+    "supports",
+    "teaches",
+    "threatens",
+    "traced back to",
+    "undergoes",
+    "utilized",
+    "utilizes",
+    "worn by"
+  ]
+}

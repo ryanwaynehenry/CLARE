@@ -1,0 +1,3403 @@
+{
+  "entities": [
+    "Bermuda",
+    "Bermuda Triangle",
+    "December 1945",
+    "Devil's Triangle",
+    "Flight 19",
+    "March 1918",
+    "Miami",
+    "North Atlantic Ocean",
+    "Puerto Rico",
+    "U.S. Navy",
+    "USS Cyclops",
+    "allure",
+    "aviation",
+    "bombers",
+    "buoyancy loss",
+    "captivating secrets",
+    "cargo ship",
+    "compass malfunctions",
+    "concrete evidence",
+    "crew members",
+    "disappearances",
+    "distress call",
+    "enthusiasts",
+    "exploration",
+    "extraterrestrial involvement",
+    "historical events",
+    "incidents",
+    "intrigue",
+    "investigations",
+    "magnetic anomalies",
+    "manganese ore",
+    "maritime",
+    "maritime lore",
+    "methane gas",
+    "missing",
+    "missing aircraft",
+    "missing ships",
+    "modern era",
+    "mystery",
+    "naval history",
+    "navigation systems",
+    "phenomena",
+    "rescue operations",
+    "rogue waves",
+    "scientific explanations",
+    "search and rescue",
+    "search missions",
+    "severe weather",
+    "supernatural forces",
+    "theories",
+    "tragedy",
+    "training flight",
+    "unexplained disappearances",
+    "unexplained incidents",
+    "unexplained phenomena",
+    "unresolved cases",
+    "weather patterns",
+    "wreckage"
+  ],
+  "relations": [
+    [
+      "Bermuda",
+      "associated with",
+      "Flight 19"
+    ],
+    [
+      "Bermuda",
+      "is a source of",
+      "intrigue"
+    ],
+    [
+      "Bermuda",
+      "is a topic of",
+      "compass malfunctions"
+    ],
+    [
+      "Bermuda",
+      "is found in",
+      "manganese ore"
+    ],
+    [
+      "Bermuda",
+      "is located in",
+      "unresolved cases"
+    ],
+    [
+      "Bermuda",
+      "is located near",
+      "Bermuda Triangle"
+    ],
+    [
+      "Bermuda",
+      "located in",
+      "missing aircraft"
+    ],
+    [
+      "Bermuda Triangle",
+      "associated with",
+      "Flight 19"
+    ],
+    [
+      "Bermuda Triangle",
+      "associated with",
+      "methane gas"
+    ],
+    [
+      "Bermuda Triangle",
+      "associated with",
+      "missing aircraft"
+    ],
+    [
+      "Bermuda Triangle",
+      "associated with",
+      "unexplained disappearances"
+    ],
+    [
+      "Bermuda Triangle",
+      "attracts",
+      "enthusiasts"
+    ],
+    [
+      "Bermuda Triangle",
+      "captures",
+      "intrigue"
+    ],
+    [
+      "Bermuda Triangle",
+      "conducts",
+      "search and rescue"
+    ],
+    [
+      "Bermuda Triangle",
+      "explains",
+      "scientific explanations"
+    ],
+    [
+      "Bermuda Triangle",
+      "is a condition of",
+      "severe weather"
+    ],
+    [
+      "Bermuda Triangle",
+      "is a factor in",
+      "rogue waves"
+    ],
+    [
+      "Bermuda Triangle",
+      "is a topic of",
+      "aviation"
+    ],
+    [
+      "Bermuda Triangle",
+      "is associated with",
+      "extraterrestrial involvement"
+    ],
+    [
+      "Bermuda Triangle",
+      "is characterized by",
+      "unexplained incidents"
+    ],
+    [
+      "Bermuda Triangle",
+      "is characterized by",
+      "unexplained phenomena"
+    ],
+    [
+      "Bermuda Triangle",
+      "is located between",
+      "Puerto Rico"
+    ],
+    [
+      "Bermuda Triangle",
+      "is located near",
+      "Miami"
+    ],
+    [
+      "Bermuda Triangle",
+      "is part of",
+      "wreckage"
+    ],
+    [
+      "Bermuda Triangle",
+      "located in",
+      "North Atlantic Ocean"
+    ],
+    [
+      "Bermuda Triangle",
+      "subject of",
+      "exploration"
+    ],
+    [
+      "Bermuda Triangle",
+      "subject of",
+      "investigations"
+    ],
+    [
+      "December 1945",
+      "caused by",
+      "severe weather"
+    ],
+    [
+      "December 1945",
+      "conducted during",
+      "rescue operations"
+    ],
+    [
+      "December 1945",
+      "included in",
+      "crew members"
+    ],
+    [
+      "December 1945",
+      "is a case of",
+      "unexplained phenomena"
+    ],
+    [
+      "December 1945",
+      "is an example of",
+      "historical events"
+    ],
+    [
+      "December 1945",
+      "occurred during",
+      "search and rescue"
+    ],
+    [
+      "December 1945",
+      "occurred during",
+      "unexplained disappearances"
+    ],
+    [
+      "December 1945",
+      "occurred in",
+      "captivating secrets"
+    ],
+    [
+      "Devil's Triangle",
+      "are associated with",
+      "incidents"
+    ],
+    [
+      "Devil's Triangle",
+      "associated with",
+      "rogue waves"
+    ],
+    [
+      "Devil's Triangle",
+      "associated with",
+      "tragedy"
+    ],
+    [
+      "Devil's Triangle",
+      "associated with",
+      "unexplained disappearances"
+    ],
+    [
+      "Devil's Triangle",
+      "characterizes",
+      "unexplained incidents"
+    ],
+    [
+      "Devil's Triangle",
+      "is a mystery of",
+      "modern era"
+    ],
+    [
+      "Devil's Triangle",
+      "is associated with",
+      "intrigue"
+    ],
+    [
+      "Devil's Triangle",
+      "is associated with",
+      "unexplained phenomena"
+    ],
+    [
+      "Devil's Triangle",
+      "is known as",
+      "Bermuda"
+    ],
+    [
+      "Devil's Triangle",
+      "is located in",
+      "wreckage"
+    ],
+    [
+      "Devil's Triangle",
+      "location of",
+      "Miami"
+    ],
+    [
+      "Flight 19",
+      "affected by",
+      "compass malfunctions"
+    ],
+    [
+      "Flight 19",
+      "associated with",
+      "wreckage"
+    ],
+    [
+      "Flight 19",
+      "captivates",
+      "allure"
+    ],
+    [
+      "Flight 19",
+      "captures",
+      "intrigue"
+    ],
+    [
+      "Flight 19",
+      "classified as",
+      "unexplained incidents"
+    ],
+    [
+      "Flight 19",
+      "composed of",
+      "crew members"
+    ],
+    [
+      "Flight 19",
+      "conducted for",
+      "search missions"
+    ],
+    [
+      "Flight 19",
+      "disappeared in",
+      "North Atlantic Ocean"
+    ],
+    [
+      "Flight 19",
+      "involves",
+      "unexplained disappearances"
+    ],
+    [
+      "Flight 19",
+      "is a type of",
+      "missing aircraft"
+    ],
+    [
+      "Flight 19",
+      "is a type of",
+      "training flight"
+    ],
+    [
+      "Flight 19",
+      "is related to",
+      "rescue operations"
+    ],
+    [
+      "Flight 19",
+      "is related to",
+      "search and rescue"
+    ],
+    [
+      "Flight 19",
+      "located near",
+      "Miami"
+    ],
+    [
+      "Flight 19",
+      "operated by",
+      "U.S. Navy"
+    ],
+    [
+      "Flight 19",
+      "utilized by",
+      "navigation systems"
+    ],
+    [
+      "Flight 19",
+      "vanished during",
+      "missing ships"
+    ],
+    [
+      "March 1918",
+      "are linked to",
+      "unresolved cases"
+    ],
+    [
+      "March 1918",
+      "drives",
+      "exploration"
+    ],
+    [
+      "March 1918",
+      "interests",
+      "enthusiasts"
+    ],
+    [
+      "Miami",
+      "borders",
+      "Bermuda"
+    ],
+    [
+      "Miami",
+      "involves",
+      "unexplained phenomena"
+    ],
+    [
+      "Miami",
+      "is related to",
+      "unresolved cases"
+    ],
+    [
+      "Miami",
+      "occurred in",
+      "unexplained disappearances"
+    ],
+    [
+      "Miami",
+      "supports",
+      "rescue operations"
+    ],
+    [
+      "North Atlantic Ocean",
+      "affects",
+      "navigation systems"
+    ],
+    [
+      "North Atlantic Ocean",
+      "explains",
+      "theories"
+    ],
+    [
+      "North Atlantic Ocean",
+      "is explored in",
+      "exploration"
+    ],
+    [
+      "North Atlantic Ocean",
+      "is located in",
+      "wreckage"
+    ],
+    [
+      "North Atlantic Ocean",
+      "is the location of",
+      "unexplained disappearances"
+    ],
+    [
+      "North Atlantic Ocean",
+      "occurs in",
+      "rescue operations"
+    ],
+    [
+      "North Atlantic Ocean",
+      "surrounds",
+      "captivating secrets"
+    ],
+    [
+      "Puerto Rico",
+      "affects",
+      "compass malfunctions"
+    ],
+    [
+      "Puerto Rico",
+      "associated with",
+      "missing aircraft"
+    ],
+    [
+      "Puerto Rico",
+      "conducted in",
+      "investigations"
+    ],
+    [
+      "Puerto Rico",
+      "conducted in",
+      "rescue operations"
+    ],
+    [
+      "Puerto Rico",
+      "is a subject of",
+      "modern era"
+    ],
+    [
+      "Puerto Rico",
+      "is associated with",
+      "Flight 19"
+    ],
+    [
+      "Puerto Rico",
+      "is located near",
+      "USS Cyclops"
+    ],
+    [
+      "Puerto Rico",
+      "is located near",
+      "scientific explanations"
+    ],
+    [
+      "Puerto Rico",
+      "is located near",
+      "training flight"
+    ],
+    [
+      "Puerto Rico",
+      "location of",
+      "unexplained incidents"
+    ],
+    [
+      "U.S. Navy",
+      "affects",
+      "severe weather"
+    ],
+    [
+      "U.S. Navy",
+      "associated with",
+      "disappearances"
+    ],
+    [
+      "U.S. Navy",
+      "conducted by",
+      "rescue operations"
+    ],
+    [
+      "U.S. Navy",
+      "conducted by",
+      "search missions"
+    ],
+    [
+      "U.S. Navy",
+      "conducts",
+      "search and rescue"
+    ],
+    [
+      "U.S. Navy",
+      "conducts",
+      "training flight"
+    ],
+    [
+      "U.S. Navy",
+      "involved in",
+      "tragedy"
+    ],
+    [
+      "U.S. Navy",
+      "involved in",
+      "unexplained incidents"
+    ],
+    [
+      "U.S. Navy",
+      "is associated with",
+      "methane gas"
+    ],
+    [
+      "U.S. Navy",
+      "is associated with",
+      "missing aircraft"
+    ],
+    [
+      "U.S. Navy",
+      "is linked to",
+      "unexplained phenomena"
+    ],
+    [
+      "U.S. Navy",
+      "shapes",
+      "historical events"
+    ],
+    [
+      "U.S. Navy",
+      "supplied by",
+      "manganese ore"
+    ],
+    [
+      "USS Cyclops",
+      "associated with",
+      "wreckage"
+    ],
+    [
+      "USS Cyclops",
+      "composed of",
+      "crew members"
+    ],
+    [
+      "USS Cyclops",
+      "disappeared near",
+      "Bermuda"
+    ],
+    [
+      "USS Cyclops",
+      "fascinates",
+      "intrigue"
+    ],
+    [
+      "USS Cyclops",
+      "involved in",
+      "phenomena"
+    ],
+    [
+      "USS Cyclops",
+      "is associated with",
+      "North Atlantic Ocean"
+    ],
+    [
+      "USS Cyclops",
+      "is associated with",
+      "distress call"
+    ],
+    [
+      "USS Cyclops",
+      "is caused by",
+      "buoyancy loss"
+    ],
+    [
+      "USS Cyclops",
+      "is influenced by",
+      "magnetic anomalies"
+    ],
+    [
+      "USS Cyclops",
+      "is involved in",
+      "methane gas"
+    ],
+    [
+      "USS Cyclops",
+      "operated by",
+      "U.S. Navy"
+    ],
+    [
+      "USS Cyclops",
+      "responds to",
+      "rescue operations"
+    ],
+    [
+      "USS Cyclops",
+      "searches for",
+      "search missions"
+    ],
+    [
+      "allure",
+      "attracts",
+      "enthusiasts"
+    ],
+    [
+      "allure",
+      "creates",
+      "unexplained incidents"
+    ],
+    [
+      "allure",
+      "drives",
+      "disappearances"
+    ],
+    [
+      "allure",
+      "drives",
+      "exploration"
+    ],
+    [
+      "allure",
+      "enhances",
+      "intrigue"
+    ],
+    [
+      "allure",
+      "is a source of",
+      "magnetic anomalies"
+    ],
+    [
+      "allure",
+      "is associated with",
+      "Bermuda"
+    ],
+    [
+      "allure",
+      "is associated with",
+      "Bermuda Triangle"
+    ],
+    [
+      "allure",
+      "is associated with",
+      "Devil's Triangle"
+    ],
+    [
+      "allure",
+      "is associated with",
+      "phenomena"
+    ],
+    [
+      "allure",
+      "is influenced by",
+      "supernatural forces"
+    ],
+    [
+      "allure",
+      "is located in",
+      "North Atlantic Ocean"
+    ],
+    [
+      "aviation",
+      "affects",
+      "compass malfunctions"
+    ],
+    [
+      "aviation",
+      "associated with",
+      "wreckage"
+    ],
+    [
+      "aviation",
+      "attracts",
+      "allure"
+    ],
+    [
+      "aviation",
+      "explains",
+      "unexplained phenomena"
+    ],
+    [
+      "aviation",
+      "investigates",
+      "investigations"
+    ],
+    [
+      "aviation",
+      "involves",
+      "disappearances"
+    ],
+    [
+      "aviation",
+      "is associated with",
+      "Devil's Triangle"
+    ],
+    [
+      "aviation",
+      "is associated with",
+      "methane gas"
+    ],
+    [
+      "aviation",
+      "is related to",
+      "missing"
+    ],
+    [
+      "bombers",
+      "affects",
+      "buoyancy loss"
+    ],
+    [
+      "bombers",
+      "conducted during",
+      "training flight"
+    ],
+    [
+      "bombers",
+      "contained",
+      "crew members"
+    ],
+    [
+      "bombers",
+      "disappeared in",
+      "Devil's Triangle"
+    ],
+    [
+      "bombers",
+      "is a location of",
+      "Bermuda Triangle"
+    ],
+    [
+      "bombers",
+      "is affected by",
+      "methane gas"
+    ],
+    [
+      "bombers",
+      "is attributed to",
+      "supernatural forces"
+    ],
+    [
+      "bombers",
+      "is located in",
+      "Bermuda"
+    ],
+    [
+      "bombers",
+      "is represented by",
+      "Flight 19"
+    ],
+    [
+      "bombers",
+      "results in",
+      "tragedy"
+    ],
+    [
+      "buoyancy loss",
+      "affects",
+      "crew members"
+    ],
+    [
+      "buoyancy loss",
+      "affects",
+      "search and rescue"
+    ],
+    [
+      "buoyancy loss",
+      "causes",
+      "methane gas"
+    ],
+    [
+      "buoyancy loss",
+      "is attributed to",
+      "supernatural forces"
+    ],
+    [
+      "buoyancy loss",
+      "results in",
+      "incidents"
+    ],
+    [
+      "buoyancy loss",
+      "results in",
+      "missing ships"
+    ],
+    [
+      "captivating secrets",
+      "attracts",
+      "enthusiasts"
+    ],
+    [
+      "captivating secrets",
+      "connected to",
+      "wreckage"
+    ],
+    [
+      "captivating secrets",
+      "creates",
+      "intrigue"
+    ],
+    [
+      "captivating secrets",
+      "explains",
+      "severe weather"
+    ],
+    [
+      "captivating secrets",
+      "explains",
+      "unexplained phenomena"
+    ],
+    [
+      "captivating secrets",
+      "inspired by",
+      "modern era"
+    ],
+    [
+      "captivating secrets",
+      "involves",
+      "Flight 19"
+    ],
+    [
+      "captivating secrets",
+      "involves",
+      "incidents"
+    ],
+    [
+      "captivating secrets",
+      "involves",
+      "methane gas"
+    ],
+    [
+      "captivating secrets",
+      "involves",
+      "search and rescue"
+    ],
+    [
+      "captivating secrets",
+      "is located in",
+      "Bermuda"
+    ],
+    [
+      "captivating secrets",
+      "linked to",
+      "rescue operations"
+    ],
+    [
+      "captivating secrets",
+      "reveals",
+      "Devil's Triangle"
+    ],
+    [
+      "captivating secrets",
+      "reveals",
+      "Puerto Rico"
+    ],
+    [
+      "captivating secrets",
+      "reveals",
+      "allure"
+    ],
+    [
+      "captivating secrets",
+      "reveals",
+      "manganese ore"
+    ],
+    [
+      "captivating secrets",
+      "reveals",
+      "rogue waves"
+    ],
+    [
+      "captivating secrets",
+      "reveals",
+      "tragedy"
+    ],
+    [
+      "captivating secrets",
+      "reveals",
+      "weather patterns"
+    ],
+    [
+      "captivating secrets",
+      "suggests",
+      "supernatural forces"
+    ],
+    [
+      "cargo ship",
+      "carried by",
+      "manganese ore"
+    ],
+    [
+      "cargo ship",
+      "experiences",
+      "buoyancy loss"
+    ],
+    [
+      "cargo ship",
+      "is affected by",
+      "methane gas"
+    ],
+    [
+      "cargo ship",
+      "is located in",
+      "North Atlantic Ocean"
+    ],
+    [
+      "cargo ship",
+      "is related to",
+      "missing ships"
+    ],
+    [
+      "cargo ship",
+      "linked to",
+      "unexplained disappearances"
+    ],
+    [
+      "cargo ship",
+      "went missing near",
+      "Bermuda"
+    ],
+    [
+      "compass malfunctions",
+      "caused compass malfunctions in",
+      "Flight 19"
+    ],
+    [
+      "compass malfunctions",
+      "causes",
+      "intrigue"
+    ],
+    [
+      "compass malfunctions",
+      "causes",
+      "modern era"
+    ],
+    [
+      "compass malfunctions",
+      "causes",
+      "unexplained disappearances"
+    ],
+    [
+      "compass malfunctions",
+      "causes",
+      "wreckage"
+    ],
+    [
+      "compass malfunctions",
+      "experiences",
+      "bombers"
+    ],
+    [
+      "compass malfunctions",
+      "explains",
+      "unexplained phenomena"
+    ],
+    [
+      "concrete evidence",
+      "is lacking",
+      "unexplained phenomena"
+    ],
+    [
+      "concrete evidence",
+      "is needed for",
+      "investigations"
+    ],
+    [
+      "concrete evidence",
+      "is needed for",
+      "methane gas"
+    ],
+    [
+      "concrete evidence",
+      "is required for",
+      "distress call"
+    ],
+    [
+      "concrete evidence",
+      "is sought as",
+      "Flight 19"
+    ],
+    [
+      "concrete evidence",
+      "is sought by",
+      "exploration"
+    ],
+    [
+      "concrete evidence",
+      "is supported by",
+      "intrigue"
+    ],
+    [
+      "concrete evidence",
+      "is supported by",
+      "weather patterns"
+    ],
+    [
+      "concrete evidence",
+      "lacks",
+      "Bermuda Triangle"
+    ],
+    [
+      "concrete evidence",
+      "lacks",
+      "magnetic anomalies"
+    ],
+    [
+      "concrete evidence",
+      "lacks",
+      "missing aircraft"
+    ],
+    [
+      "concrete evidence",
+      "lacks",
+      "supernatural forces"
+    ],
+    [
+      "concrete evidence",
+      "requires",
+      "aviation"
+    ],
+    [
+      "concrete evidence",
+      "seeks",
+      "enthusiasts"
+    ],
+    [
+      "crew members",
+      "are part of",
+      "enthusiasts"
+    ],
+    [
+      "crew members",
+      "associated with",
+      "naval history"
+    ],
+    [
+      "crew members",
+      "involves",
+      "unexplained disappearances"
+    ],
+    [
+      "crew members",
+      "involves",
+      "unexplained incidents"
+    ],
+    [
+      "crew members",
+      "is associated with",
+      "Bermuda"
+    ],
+    [
+      "crew members",
+      "is associated with",
+      "extraterrestrial involvement"
+    ],
+    [
+      "crew members",
+      "is associated with",
+      "theories"
+    ],
+    [
+      "crew members",
+      "is informed by",
+      "maritime lore"
+    ],
+    [
+      "crew members",
+      "is of interest to",
+      "allure"
+    ],
+    [
+      "crew members",
+      "is part of",
+      "aviation"
+    ],
+    [
+      "crew members",
+      "lost in",
+      "North Atlantic Ocean"
+    ],
+    [
+      "crew members",
+      "part of",
+      "Flight 19"
+    ],
+    [
+      "crew members",
+      "part of",
+      "U.S. Navy"
+    ],
+    [
+      "crew members",
+      "part of",
+      "USS Cyclops"
+    ],
+    [
+      "crew members",
+      "was part of",
+      "December 1945"
+    ],
+    [
+      "crew members",
+      "were part of",
+      "bombers"
+    ],
+    [
+      "disappearances",
+      "associated with",
+      "North Atlantic Ocean"
+    ],
+    [
+      "disappearances",
+      "is a cause of",
+      "Flight 19"
+    ],
+    [
+      "disappearances",
+      "is documented in",
+      "naval history"
+    ],
+    [
+      "disappearances",
+      "is linked to",
+      "distress call"
+    ],
+    [
+      "disappearances",
+      "is linked to",
+      "training flight"
+    ],
+    [
+      "disappearances",
+      "leads to",
+      "unresolved cases"
+    ],
+    [
+      "disappearances",
+      "results in",
+      "buoyancy loss"
+    ],
+    [
+      "distress call",
+      "associated with",
+      "incidents"
+    ],
+    [
+      "distress call",
+      "associated with",
+      "unexplained disappearances"
+    ],
+    [
+      "distress call",
+      "occurred in",
+      "December 1945"
+    ],
+    [
+      "distress call",
+      "received",
+      "search and rescue"
+    ],
+    [
+      "distress call",
+      "related to",
+      "missing ships"
+    ],
+    [
+      "distress call",
+      "reported by",
+      "missing aircraft"
+    ],
+    [
+      "distress call",
+      "reported from",
+      "Miami"
+    ],
+    [
+      "distress call",
+      "was sent by",
+      "U.S. Navy"
+    ],
+    [
+      "enthusiasts",
+      "attracts",
+      "aviation"
+    ],
+    [
+      "enthusiasts",
+      "attracts",
+      "missing ships"
+    ],
+    [
+      "enthusiasts",
+      "attracts",
+      "training flight"
+    ],
+    [
+      "enthusiasts",
+      "fascinated by",
+      "Bermuda"
+    ],
+    [
+      "enthusiasts",
+      "interested in",
+      "North Atlantic Ocean"
+    ],
+    [
+      "enthusiasts",
+      "interested in",
+      "disappearances"
+    ],
+    [
+      "enthusiasts",
+      "is sought by",
+      "methane gas"
+    ],
+    [
+      "exploration",
+      "affects",
+      "compass malfunctions"
+    ],
+    [
+      "exploration",
+      "associated with",
+      "Bermuda"
+    ],
+    [
+      "exploration",
+      "fuels",
+      "intrigue"
+    ],
+    [
+      "exploration",
+      "involves",
+      "training flight"
+    ],
+    [
+      "exploration",
+      "is located in",
+      "Miami"
+    ],
+    [
+      "exploration",
+      "provides",
+      "scientific explanations"
+    ],
+    [
+      "extraterrestrial involvement",
+      "affects",
+      "compass malfunctions"
+    ],
+    [
+      "extraterrestrial involvement",
+      "associated with",
+      "disappearances"
+    ],
+    [
+      "extraterrestrial involvement",
+      "associated with",
+      "missing ships"
+    ],
+    [
+      "extraterrestrial involvement",
+      "associated with",
+      "unresolved cases"
+    ],
+    [
+      "extraterrestrial involvement",
+      "influences",
+      "naval history"
+    ],
+    [
+      "extraterrestrial involvement",
+      "is a factor in",
+      "intrigue"
+    ],
+    [
+      "extraterrestrial involvement",
+      "is a theory of",
+      "supernatural forces"
+    ],
+    [
+      "extraterrestrial involvement",
+      "is influenced by",
+      "search and rescue"
+    ],
+    [
+      "extraterrestrial involvement",
+      "is investigated by",
+      "investigations"
+    ],
+    [
+      "extraterrestrial involvement",
+      "is investigated by",
+      "search missions"
+    ],
+    [
+      "extraterrestrial involvement",
+      "is linked to",
+      "incidents"
+    ],
+    [
+      "extraterrestrial involvement",
+      "is linked to",
+      "severe weather"
+    ],
+    [
+      "extraterrestrial involvement",
+      "is proposed by",
+      "theories"
+    ],
+    [
+      "extraterrestrial involvement",
+      "speculated involvement of",
+      "missing aircraft"
+    ],
+    [
+      "extraterrestrial involvement",
+      "suggests",
+      "rescue operations"
+    ],
+    [
+      "historical events",
+      "associated with",
+      "North Atlantic Ocean"
+    ],
+    [
+      "historical events",
+      "associated with",
+      "bombers"
+    ],
+    [
+      "historical events",
+      "context for",
+      "missing ships"
+    ],
+    [
+      "historical events",
+      "documented in",
+      "unexplained phenomena"
+    ],
+    [
+      "historical events",
+      "documented in",
+      "wreckage"
+    ],
+    [
+      "historical events",
+      "influences",
+      "navigation systems"
+    ],
+    [
+      "historical events",
+      "related to",
+      "distress call"
+    ],
+    [
+      "incidents",
+      "associated with",
+      "Bermuda Triangle"
+    ],
+    [
+      "incidents",
+      "associated with",
+      "compass malfunctions"
+    ],
+    [
+      "incidents",
+      "classified as",
+      "training flight"
+    ],
+    [
+      "incidents",
+      "explains",
+      "navigation systems"
+    ],
+    [
+      "incidents",
+      "involved in",
+      "U.S. Navy"
+    ],
+    [
+      "incidents",
+      "involves",
+      "distress call"
+    ],
+    [
+      "incidents",
+      "involves",
+      "rescue operations"
+    ],
+    [
+      "intrigue",
+      "evokes",
+      "wreckage"
+    ],
+    [
+      "intrigue",
+      "involves",
+      "unexplained phenomena"
+    ],
+    [
+      "intrigue",
+      "is a source of",
+      "phenomena"
+    ],
+    [
+      "intrigue",
+      "is a source of",
+      "search and rescue"
+    ],
+    [
+      "intrigue",
+      "is a subject of",
+      "disappearances"
+    ],
+    [
+      "intrigue",
+      "is a subject of",
+      "navigation systems"
+    ],
+    [
+      "intrigue",
+      "is captivated by",
+      "allure"
+    ],
+    [
+      "intrigue",
+      "linked to",
+      "rescue operations"
+    ],
+    [
+      "investigations",
+      "addresses",
+      "unresolved cases"
+    ],
+    [
+      "investigations",
+      "engages with",
+      "enthusiasts"
+    ],
+    [
+      "investigations",
+      "focuses on",
+      "Bermuda"
+    ],
+    [
+      "investigations",
+      "investigated by",
+      "bombers"
+    ],
+    [
+      "investigations",
+      "investigated by",
+      "missing aircraft"
+    ],
+    [
+      "investigations",
+      "investigates",
+      "Devil's Triangle"
+    ],
+    [
+      "investigations",
+      "investigates",
+      "incidents"
+    ],
+    [
+      "investigations",
+      "is investigated by",
+      "Flight 19"
+    ],
+    [
+      "investigations",
+      "is investigated by",
+      "phenomena"
+    ],
+    [
+      "investigations",
+      "is investigated by",
+      "wreckage"
+    ],
+    [
+      "investigations",
+      "is related to",
+      "compass malfunctions"
+    ],
+    [
+      "investigations",
+      "subject of",
+      "manganese ore"
+    ],
+    [
+      "magnetic anomalies",
+      "affected",
+      "bombers"
+    ],
+    [
+      "magnetic anomalies",
+      "affects",
+      "U.S. Navy"
+    ],
+    [
+      "magnetic anomalies",
+      "affects",
+      "USS Cyclops"
+    ],
+    [
+      "magnetic anomalies",
+      "affects",
+      "aviation"
+    ],
+    [
+      "magnetic anomalies",
+      "affects",
+      "rescue operations"
+    ],
+    [
+      "magnetic anomalies",
+      "affects",
+      "search missions"
+    ],
+    [
+      "magnetic anomalies",
+      "associated with",
+      "methane gas"
+    ],
+    [
+      "magnetic anomalies",
+      "causes",
+      "compass malfunctions"
+    ],
+    [
+      "magnetic anomalies",
+      "causes",
+      "unexplained disappearances"
+    ],
+    [
+      "magnetic anomalies",
+      "explained by",
+      "scientific explanations"
+    ],
+    [
+      "magnetic anomalies",
+      "explored in",
+      "exploration"
+    ],
+    [
+      "magnetic anomalies",
+      "influences",
+      "phenomena"
+    ],
+    [
+      "magnetic anomalies",
+      "influences",
+      "severe weather"
+    ],
+    [
+      "magnetic anomalies",
+      "interferes with",
+      "training flight"
+    ],
+    [
+      "magnetic anomalies",
+      "investigated by",
+      "investigations"
+    ],
+    [
+      "magnetic anomalies",
+      "is a factor in",
+      "unexplained incidents"
+    ],
+    [
+      "magnetic anomalies",
+      "is affected by",
+      "mystery"
+    ],
+    [
+      "magnetic anomalies",
+      "is associated with",
+      "manganese ore"
+    ],
+    [
+      "magnetic anomalies",
+      "is located in",
+      "Bermuda"
+    ],
+    [
+      "magnetic anomalies",
+      "is part of",
+      "Devil's Triangle"
+    ],
+    [
+      "magnetic anomalies",
+      "present in",
+      "North Atlantic Ocean"
+    ],
+    [
+      "magnetic anomalies",
+      "supports",
+      "theories"
+    ],
+    [
+      "manganese ore",
+      "causes",
+      "buoyancy loss"
+    ],
+    [
+      "manganese ore",
+      "is a factor in",
+      "phenomena"
+    ],
+    [
+      "manganese ore",
+      "is a source of",
+      "intrigue"
+    ],
+    [
+      "manganese ore",
+      "is associated with",
+      "supernatural forces"
+    ],
+    [
+      "manganese ore",
+      "is found in",
+      "North Atlantic Ocean"
+    ],
+    [
+      "manganese ore",
+      "is linked to",
+      "Bermuda Triangle"
+    ],
+    [
+      "manganese ore",
+      "is part of",
+      "naval history"
+    ],
+    [
+      "manganese ore",
+      "was carrying",
+      "USS Cyclops"
+    ],
+    [
+      "maritime",
+      "affects",
+      "compass malfunctions"
+    ],
+    [
+      "maritime",
+      "affects",
+      "weather patterns"
+    ],
+    [
+      "maritime",
+      "associated with",
+      "missing aircraft"
+    ],
+    [
+      "maritime",
+      "includes",
+      "incidents"
+    ],
+    [
+      "maritime",
+      "includes",
+      "missing ships"
+    ],
+    [
+      "maritime",
+      "includes",
+      "phenomena"
+    ],
+    [
+      "maritime",
+      "informs",
+      "theories"
+    ],
+    [
+      "maritime",
+      "investigates",
+      "investigations"
+    ],
+    [
+      "maritime",
+      "is associated with",
+      "supernatural forces"
+    ],
+    [
+      "maritime",
+      "is derived from",
+      "maritime lore"
+    ],
+    [
+      "maritime",
+      "is exemplified by",
+      "Flight 19"
+    ],
+    [
+      "maritime",
+      "is located near",
+      "Bermuda"
+    ],
+    [
+      "maritime",
+      "is part of",
+      "wreckage"
+    ],
+    [
+      "maritime",
+      "is synonymous with",
+      "Devil's Triangle"
+    ],
+    [
+      "maritime",
+      "lacks",
+      "concrete evidence"
+    ],
+    [
+      "maritime",
+      "located in",
+      "North Atlantic Ocean"
+    ],
+    [
+      "maritime lore",
+      "affected by",
+      "severe weather"
+    ],
+    [
+      "maritime lore",
+      "affects",
+      "weather patterns"
+    ],
+    [
+      "maritime lore",
+      "associated with",
+      "manganese ore"
+    ],
+    [
+      "maritime lore",
+      "causes",
+      "compass malfunctions"
+    ],
+    [
+      "maritime lore",
+      "describes",
+      "unresolved cases"
+    ],
+    [
+      "maritime lore",
+      "drives",
+      "exploration"
+    ],
+    [
+      "maritime lore",
+      "enhances",
+      "allure"
+    ],
+    [
+      "maritime lore",
+      "explains",
+      "scientific explanations"
+    ],
+    [
+      "maritime lore",
+      "fuels",
+      "intrigue"
+    ],
+    [
+      "maritime lore",
+      "impacts",
+      "navigation systems"
+    ],
+    [
+      "maritime lore",
+      "includes",
+      "USS Cyclops"
+    ],
+    [
+      "maritime lore",
+      "includes",
+      "bombers"
+    ],
+    [
+      "maritime lore",
+      "influences",
+      "Devil's Triangle"
+    ],
+    [
+      "maritime lore",
+      "influences",
+      "aviation"
+    ],
+    [
+      "maritime lore",
+      "informs",
+      "unexplained disappearances"
+    ],
+    [
+      "maritime lore",
+      "informs about",
+      "crew members"
+    ],
+    [
+      "maritime lore",
+      "informs about",
+      "search and rescue"
+    ],
+    [
+      "maritime lore",
+      "investigated by",
+      "March 1918"
+    ],
+    [
+      "maritime lore",
+      "involves",
+      "U.S. Navy"
+    ],
+    [
+      "maritime lore",
+      "is a component of",
+      "naval history"
+    ],
+    [
+      "maritime lore",
+      "is associated with",
+      "Bermuda Triangle"
+    ],
+    [
+      "maritime lore",
+      "is discussed in",
+      "theories"
+    ],
+    [
+      "maritime lore",
+      "is examined in",
+      "investigations"
+    ],
+    [
+      "maritime lore",
+      "is related to",
+      "training flight"
+    ],
+    [
+      "maritime lore",
+      "occurred in",
+      "December 1945"
+    ],
+    [
+      "maritime lore",
+      "utilizes",
+      "search missions"
+    ],
+    [
+      "methane gas",
+      "affects",
+      "compass malfunctions"
+    ],
+    [
+      "methane gas",
+      "affects",
+      "missing ships"
+    ],
+    [
+      "methane gas",
+      "associated with",
+      "Devil's Triangle"
+    ],
+    [
+      "methane gas",
+      "contributes to",
+      "unexplained phenomena"
+    ],
+    [
+      "methane gas",
+      "contributes to",
+      "unresolved cases"
+    ],
+    [
+      "methane gas",
+      "drives",
+      "disappearances"
+    ],
+    [
+      "methane gas",
+      "influenced by",
+      "Flight 19"
+    ],
+    [
+      "methane gas",
+      "influences",
+      "unexplained disappearances"
+    ],
+    [
+      "methane gas",
+      "is a potential cause of",
+      "modern era"
+    ],
+    [
+      "methane gas",
+      "is affected by",
+      "rescue operations"
+    ],
+    [
+      "methane gas",
+      "is associated with",
+      "supernatural forces"
+    ],
+    [
+      "methane gas",
+      "is found near",
+      "Puerto Rico"
+    ],
+    [
+      "methane gas",
+      "is influenced by",
+      "extraterrestrial involvement"
+    ],
+    [
+      "methane gas",
+      "is linked to",
+      "Bermuda"
+    ],
+    [
+      "methane gas",
+      "provides",
+      "scientific explanations"
+    ],
+    [
+      "missing",
+      "associated with",
+      "unexplained disappearances"
+    ],
+    [
+      "missing",
+      "characterizes",
+      "unresolved cases"
+    ],
+    [
+      "missing",
+      "describes",
+      "maritime"
+    ],
+    [
+      "missing",
+      "is a result of",
+      "allure"
+    ],
+    [
+      "missing aircraft",
+      "associated with",
+      "manganese ore"
+    ],
+    [
+      "missing aircraft",
+      "caused by",
+      "compass malfunctions"
+    ],
+    [
+      "missing aircraft",
+      "compared to",
+      "cargo ship"
+    ],
+    [
+      "missing aircraft",
+      "composed of",
+      "crew members"
+    ],
+    [
+      "missing aircraft",
+      "explains",
+      "allure"
+    ],
+    [
+      "missing aircraft",
+      "involves",
+      "rescue operations"
+    ],
+    [
+      "missing aircraft",
+      "is part of",
+      "training flight"
+    ],
+    [
+      "missing aircraft",
+      "is related to",
+      "wreckage"
+    ],
+    [
+      "missing aircraft",
+      "received by",
+      "distress call"
+    ],
+    [
+      "missing aircraft",
+      "resulted in",
+      "tragedy"
+    ],
+    [
+      "missing aircraft",
+      "reveals",
+      "captivating secrets"
+    ],
+    [
+      "missing ships",
+      "associated with",
+      "Flight 19"
+    ],
+    [
+      "missing ships",
+      "associated with",
+      "incidents"
+    ],
+    [
+      "missing ships",
+      "contributes to",
+      "unresolved cases"
+    ],
+    [
+      "missing ships",
+      "crew members of",
+      "crew members"
+    ],
+    [
+      "missing ships",
+      "describes",
+      "unexplained phenomena"
+    ],
+    [
+      "missing ships",
+      "involves",
+      "search and rescue"
+    ],
+    [
+      "missing ships",
+      "is explained by",
+      "phenomena"
+    ],
+    [
+      "missing ships",
+      "results in",
+      "unexplained disappearances"
+    ],
+    [
+      "missing ships",
+      "suggests",
+      "supernatural forces"
+    ],
+    [
+      "modern era",
+      "fascinates",
+      "intrigue"
+    ],
+    [
+      "modern era",
+      "historical context of",
+      "mystery"
+    ],
+    [
+      "modern era",
+      "involves",
+      "missing aircraft"
+    ],
+    [
+      "modern era",
+      "is a case of",
+      "Flight 19"
+    ],
+    [
+      "modern era",
+      "is associated with",
+      "Bermuda"
+    ],
+    [
+      "modern era",
+      "is associated with",
+      "Bermuda Triangle"
+    ],
+    [
+      "mystery",
+      "contributes to",
+      "compass malfunctions"
+    ],
+    [
+      "mystery",
+      "explains",
+      "unexplained disappearances"
+    ],
+    [
+      "mystery",
+      "influences",
+      "magnetic anomalies"
+    ],
+    [
+      "mystery",
+      "influences",
+      "supernatural forces"
+    ],
+    [
+      "mystery",
+      "investigated by",
+      "search missions"
+    ],
+    [
+      "mystery",
+      "involves",
+      "Flight 19"
+    ],
+    [
+      "mystery",
+      "involves",
+      "missing ships"
+    ],
+    [
+      "mystery",
+      "is explained by",
+      "investigations"
+    ],
+    [
+      "mystery",
+      "is related to",
+      "unexplained phenomena"
+    ],
+    [
+      "mystery",
+      "related to",
+      "maritime"
+    ],
+    [
+      "naval history",
+      "documented in",
+      "Miami"
+    ],
+    [
+      "naval history",
+      "documented in",
+      "rescue operations"
+    ],
+    [
+      "naval history",
+      "fuels",
+      "intrigue"
+    ],
+    [
+      "naval history",
+      "influences",
+      "rogue waves"
+    ],
+    [
+      "naval history",
+      "influences",
+      "wreckage"
+    ],
+    [
+      "naval history",
+      "involves",
+      "U.S. Navy"
+    ],
+    [
+      "naval history",
+      "involves",
+      "search missions"
+    ],
+    [
+      "naval history",
+      "is influenced by",
+      "tragedy"
+    ],
+    [
+      "naval history",
+      "is informed by",
+      "unexplained incidents"
+    ],
+    [
+      "naval history",
+      "is related to",
+      "unresolved cases"
+    ],
+    [
+      "naval history",
+      "occurred in",
+      "December 1945"
+    ],
+    [
+      "naval history",
+      "shaped by",
+      "allure"
+    ],
+    [
+      "navigation systems",
+      "affected by",
+      "Devil's Triangle"
+    ],
+    [
+      "navigation systems",
+      "affects",
+      "captivating secrets"
+    ],
+    [
+      "navigation systems",
+      "affects",
+      "unexplained phenomena"
+    ],
+    [
+      "navigation systems",
+      "causes",
+      "compass malfunctions"
+    ],
+    [
+      "navigation systems",
+      "contributes to",
+      "disappearances"
+    ],
+    [
+      "navigation systems",
+      "explains",
+      "unexplained incidents"
+    ],
+    [
+      "navigation systems",
+      "is essential for",
+      "naval history"
+    ],
+    [
+      "navigation systems",
+      "is of interest to",
+      "enthusiasts"
+    ],
+    [
+      "navigation systems",
+      "is used for",
+      "Flight 19"
+    ],
+    [
+      "navigation systems",
+      "utilized in",
+      "search missions"
+    ],
+    [
+      "phenomena",
+      "accounts for",
+      "unexplained disappearances"
+    ],
+    [
+      "phenomena",
+      "affects",
+      "navigation systems"
+    ],
+    [
+      "phenomena",
+      "associated with",
+      "methane gas"
+    ],
+    [
+      "phenomena",
+      "caused by",
+      "disappearances"
+    ],
+    [
+      "phenomena",
+      "causes",
+      "compass malfunctions"
+    ],
+    [
+      "phenomena",
+      "evokes",
+      "intrigue"
+    ],
+    [
+      "phenomena",
+      "exists in",
+      "North Atlantic Ocean"
+    ],
+    [
+      "phenomena",
+      "explains",
+      "captivating secrets"
+    ],
+    [
+      "phenomena",
+      "explains",
+      "scientific explanations"
+    ],
+    [
+      "phenomena",
+      "is related to",
+      "missing"
+    ],
+    [
+      "phenomena",
+      "is synonymous with",
+      "Devil's Triangle"
+    ],
+    [
+      "rescue operations",
+      "affects",
+      "compass malfunctions"
+    ],
+    [
+      "rescue operations",
+      "associated with",
+      "Bermuda"
+    ],
+    [
+      "rescue operations",
+      "associated with",
+      "Devil's Triangle"
+    ],
+    [
+      "rescue operations",
+      "conducted by",
+      "Bermuda Triangle"
+    ],
+    [
+      "rescue operations",
+      "conducted for",
+      "missing"
+    ],
+    [
+      "rescue operations",
+      "conducted for",
+      "missing ships"
+    ],
+    [
+      "rescue operations",
+      "impacted by",
+      "severe weather"
+    ],
+    [
+      "rescue operations",
+      "investigates",
+      "unexplained phenomena"
+    ],
+    [
+      "rescue operations",
+      "involved in",
+      "cargo ship"
+    ],
+    [
+      "rescue operations",
+      "involved in",
+      "manganese ore"
+    ],
+    [
+      "rescue operations",
+      "involves",
+      "aviation"
+    ],
+    [
+      "rescue operations",
+      "involves",
+      "crew members"
+    ],
+    [
+      "rescue operations",
+      "involves",
+      "maritime"
+    ],
+    [
+      "rescue operations",
+      "involves",
+      "maritime lore"
+    ],
+    [
+      "rescue operations",
+      "involves",
+      "rogue waves"
+    ],
+    [
+      "rescue operations",
+      "is caused by",
+      "buoyancy loss"
+    ],
+    [
+      "rescue operations",
+      "is impacted by",
+      "modern era"
+    ],
+    [
+      "rescue operations",
+      "is related to",
+      "phenomena"
+    ],
+    [
+      "rescue operations",
+      "is sought by",
+      "wreckage"
+    ],
+    [
+      "rescue operations",
+      "linked to",
+      "supernatural forces"
+    ],
+    [
+      "rescue operations",
+      "linked to",
+      "unexplained incidents"
+    ],
+    [
+      "rogue waves",
+      "affected by",
+      "bombers"
+    ],
+    [
+      "rogue waves",
+      "affects",
+      "North Atlantic Ocean"
+    ],
+    [
+      "rogue waves",
+      "affects",
+      "aviation"
+    ],
+    [
+      "rogue waves",
+      "affects",
+      "navigation systems"
+    ],
+    [
+      "rogue waves",
+      "are a factor in",
+      "missing"
+    ],
+    [
+      "rogue waves",
+      "are explained by",
+      "theories"
+    ],
+    [
+      "rogue waves",
+      "are part of",
+      "investigations"
+    ],
+    [
+      "rogue waves",
+      "cause",
+      "compass malfunctions"
+    ],
+    [
+      "rogue waves",
+      "causes",
+      "buoyancy loss"
+    ],
+    [
+      "rogue waves",
+      "complicates",
+      "search missions"
+    ],
+    [
+      "rogue waves",
+      "contributes to",
+      "disappearances"
+    ],
+    [
+      "rogue waves",
+      "influences",
+      "exploration"
+    ],
+    [
+      "rogue waves",
+      "influences",
+      "phenomena"
+    ],
+    [
+      "rogue waves",
+      "is a cause of",
+      "severe weather"
+    ],
+    [
+      "scientific explanations",
+      "clarifies",
+      "unexplained phenomena"
+    ],
+    [
+      "scientific explanations",
+      "explains",
+      "captivating secrets"
+    ],
+    [
+      "scientific explanations",
+      "explains",
+      "unexplained incidents"
+    ],
+    [
+      "scientific explanations",
+      "is a source of",
+      "allure"
+    ],
+    [
+      "scientific explanations",
+      "is explained by",
+      "investigations"
+    ],
+    [
+      "search and rescue",
+      "associated with",
+      "unresolved cases"
+    ],
+    [
+      "search and rescue",
+      "causes",
+      "compass malfunctions"
+    ],
+    [
+      "search and rescue",
+      "conducted by",
+      "unexplained disappearances"
+    ],
+    [
+      "search and rescue",
+      "conducts operations in",
+      "Bermuda"
+    ],
+    [
+      "search and rescue",
+      "documented in",
+      "historical events"
+    ],
+    [
+      "search and rescue",
+      "is affected by",
+      "magnetic anomalies"
+    ],
+    [
+      "search and rescue",
+      "occurs in",
+      "Devil's Triangle"
+    ],
+    [
+      "search and rescue",
+      "occurs near",
+      "Puerto Rico"
+    ],
+    [
+      "search and rescue",
+      "operates in",
+      "North Atlantic Ocean"
+    ],
+    [
+      "search and rescue",
+      "related to",
+      "unexplained phenomena"
+    ],
+    [
+      "search and rescue",
+      "results in",
+      "disappearances"
+    ],
+    [
+      "search and rescue",
+      "searched for",
+      "USS Cyclops"
+    ],
+    [
+      "search and rescue",
+      "searches for",
+      "missing aircraft"
+    ],
+    [
+      "search missions",
+      "affects",
+      "weather patterns"
+    ],
+    [
+      "search missions",
+      "conducted during",
+      "bombers"
+    ],
+    [
+      "search missions",
+      "explored in",
+      "supernatural forces"
+    ],
+    [
+      "search missions",
+      "impacts",
+      "wreckage"
+    ],
+    [
+      "search missions",
+      "influences",
+      "distress call"
+    ],
+    [
+      "search missions",
+      "involves",
+      "unexplained incidents"
+    ],
+    [
+      "search missions",
+      "is investigated by",
+      "phenomena"
+    ],
+    [
+      "search missions",
+      "related to",
+      "incidents"
+    ],
+    [
+      "search missions",
+      "response to",
+      "unexplained disappearances"
+    ],
+    [
+      "search missions",
+      "resulted in",
+      "tragedy"
+    ],
+    [
+      "search missions",
+      "results in",
+      "buoyancy loss"
+    ],
+    [
+      "search missions",
+      "targeted by",
+      "missing aircraft"
+    ],
+    [
+      "severe weather",
+      "affected the fate of",
+      "USS Cyclops"
+    ],
+    [
+      "severe weather",
+      "caused by",
+      "buoyancy loss"
+    ],
+    [
+      "severe weather",
+      "causes",
+      "tragedy"
+    ],
+    [
+      "severe weather",
+      "complicated",
+      "search missions"
+    ],
+    [
+      "severe weather",
+      "contributes to",
+      "unexplained phenomena"
+    ],
+    [
+      "severe weather",
+      "explained by",
+      "scientific explanations"
+    ],
+    [
+      "severe weather",
+      "impacts",
+      "maritime"
+    ],
+    [
+      "severe weather",
+      "influenced by",
+      "disappearances"
+    ],
+    [
+      "severe weather",
+      "influences",
+      "historical events"
+    ],
+    [
+      "severe weather",
+      "investigated by",
+      "investigations"
+    ],
+    [
+      "supernatural forces",
+      "is affected by",
+      "mystery"
+    ],
+    [
+      "supernatural forces",
+      "is influenced by",
+      "crew members"
+    ],
+    [
+      "supernatural forces",
+      "is linked to",
+      "modern era"
+    ],
+    [
+      "theories",
+      "are related to",
+      "methane gas"
+    ],
+    [
+      "theories",
+      "explains",
+      "compass malfunctions"
+    ],
+    [
+      "theories",
+      "explains",
+      "phenomena"
+    ],
+    [
+      "theories",
+      "explains",
+      "unexplained phenomena"
+    ],
+    [
+      "theories",
+      "influences",
+      "weather patterns"
+    ],
+    [
+      "theories",
+      "informs",
+      "exploration"
+    ],
+    [
+      "theories",
+      "is connected to",
+      "Bermuda"
+    ],
+    [
+      "theories",
+      "is explained by",
+      "supernatural forces"
+    ],
+    [
+      "theories",
+      "suggests",
+      "extraterrestrial involvement"
+    ],
+    [
+      "tragedy",
+      "caused",
+      "missing aircraft"
+    ],
+    [
+      "tragedy",
+      "interests",
+      "enthusiasts"
+    ],
+    [
+      "tragedy",
+      "is a consequence of",
+      "disappearances"
+    ],
+    [
+      "tragedy",
+      "relates to",
+      "aviation"
+    ],
+    [
+      "tragedy",
+      "results in",
+      "buoyancy loss"
+    ],
+    [
+      "tragedy",
+      "results in",
+      "distress call"
+    ],
+    [
+      "tragedy",
+      "results in",
+      "search and rescue"
+    ],
+    [
+      "training flight",
+      "associated with",
+      "rescue operations"
+    ],
+    [
+      "training flight",
+      "conducted during",
+      "search and rescue"
+    ],
+    [
+      "training flight",
+      "explains",
+      "unexplained phenomena"
+    ],
+    [
+      "training flight",
+      "informs about",
+      "naval history"
+    ],
+    [
+      "training flight",
+      "involved",
+      "bombers"
+    ],
+    [
+      "training flight",
+      "is documented in",
+      "historical events"
+    ],
+    [
+      "training flight",
+      "is explained by",
+      "phenomena"
+    ],
+    [
+      "training flight",
+      "is related to",
+      "distress call"
+    ],
+    [
+      "training flight",
+      "is related to",
+      "methane gas"
+    ],
+    [
+      "training flight",
+      "is related to",
+      "wreckage"
+    ],
+    [
+      "training flight",
+      "related to",
+      "scientific explanations"
+    ],
+    [
+      "unexplained disappearances",
+      "affects",
+      "navigation systems"
+    ],
+    [
+      "unexplained disappearances",
+      "are explained by",
+      "scientific explanations"
+    ],
+    [
+      "unexplained disappearances",
+      "are part of",
+      "unresolved cases"
+    ],
+    [
+      "unexplained disappearances",
+      "attributed to",
+      "supernatural forces"
+    ],
+    [
+      "unexplained disappearances",
+      "documented in",
+      "naval history"
+    ],
+    [
+      "unexplained disappearances",
+      "drives",
+      "exploration"
+    ],
+    [
+      "unexplained disappearances",
+      "enhances",
+      "allure"
+    ],
+    [
+      "unexplained disappearances",
+      "fuels",
+      "intrigue"
+    ],
+    [
+      "unexplained disappearances",
+      "includes",
+      "maritime"
+    ],
+    [
+      "unexplained disappearances",
+      "interests",
+      "enthusiasts"
+    ],
+    [
+      "unexplained disappearances",
+      "involves",
+      "aviation"
+    ],
+    [
+      "unexplained disappearances",
+      "is a cause of",
+      "rogue waves"
+    ],
+    [
+      "unexplained disappearances",
+      "is a phenomenon of",
+      "Bermuda"
+    ],
+    [
+      "unexplained disappearances",
+      "is a result of",
+      "mystery"
+    ],
+    [
+      "unexplained disappearances",
+      "is a type of",
+      "unexplained incidents"
+    ],
+    [
+      "unexplained disappearances",
+      "is explained by",
+      "extraterrestrial involvement"
+    ],
+    [
+      "unexplained disappearances",
+      "is explained by",
+      "phenomena"
+    ],
+    [
+      "unexplained disappearances",
+      "is explained by",
+      "theories"
+    ],
+    [
+      "unexplained disappearances",
+      "is influenced by",
+      "weather patterns"
+    ],
+    [
+      "unexplained disappearances",
+      "is linked to",
+      "training flight"
+    ],
+    [
+      "unexplained disappearances",
+      "occurs in",
+      "North Atlantic Ocean"
+    ],
+    [
+      "unexplained disappearances",
+      "prompted",
+      "search missions"
+    ],
+    [
+      "unexplained disappearances",
+      "resulted from",
+      "search and rescue"
+    ],
+    [
+      "unexplained disappearances",
+      "reveals",
+      "captivating secrets"
+    ],
+    [
+      "unexplained incidents",
+      "are investigated by",
+      "investigations"
+    ],
+    [
+      "unexplained incidents",
+      "are linked to",
+      "compass malfunctions"
+    ],
+    [
+      "unexplained incidents",
+      "attracts",
+      "enthusiasts"
+    ],
+    [
+      "unexplained incidents",
+      "context for",
+      "modern era"
+    ],
+    [
+      "unexplained incidents",
+      "explains",
+      "missing aircraft"
+    ],
+    [
+      "unexplained incidents",
+      "explains",
+      "rogue waves"
+    ],
+    [
+      "unexplained incidents",
+      "influences",
+      "extraterrestrial involvement"
+    ],
+    [
+      "unexplained incidents",
+      "informs",
+      "maritime lore"
+    ],
+    [
+      "unexplained incidents",
+      "involves",
+      "aviation"
+    ],
+    [
+      "unexplained incidents",
+      "involves",
+      "maritime"
+    ],
+    [
+      "unexplained incidents",
+      "is a cause of",
+      "disappearances"
+    ],
+    [
+      "unexplained incidents",
+      "is drawn to",
+      "allure"
+    ],
+    [
+      "unexplained incidents",
+      "is influenced by",
+      "severe weather"
+    ],
+    [
+      "unexplained incidents",
+      "related to",
+      "wreckage"
+    ],
+    [
+      "unexplained phenomena",
+      "associated with",
+      "North Atlantic Ocean"
+    ],
+    [
+      "unexplained phenomena",
+      "caused by",
+      "rescue operations"
+    ],
+    [
+      "unexplained phenomena",
+      "connected to",
+      "distress call"
+    ],
+    [
+      "unexplained phenomena",
+      "exemplifies",
+      "bombers"
+    ],
+    [
+      "unexplained phenomena",
+      "explained by",
+      "cargo ship"
+    ],
+    [
+      "unexplained phenomena",
+      "explains",
+      "disappearances"
+    ],
+    [
+      "unexplained phenomena",
+      "is explained by",
+      "exploration"
+    ],
+    [
+      "unexplained phenomena",
+      "suggests",
+      "supernatural forces"
+    ],
+    [
+      "unresolved cases",
+      "associated with",
+      "allure"
+    ],
+    [
+      "unresolved cases",
+      "associated with",
+      "crew members"
+    ],
+    [
+      "unresolved cases",
+      "associated with",
+      "search missions"
+    ],
+    [
+      "unresolved cases",
+      "context for",
+      "modern era"
+    ],
+    [
+      "unresolved cases",
+      "contributes to",
+      "compass malfunctions"
+    ],
+    [
+      "unresolved cases",
+      "involves",
+      "USS Cyclops"
+    ],
+    [
+      "unresolved cases",
+      "is a factor in",
+      "Devil's Triangle"
+    ],
+    [
+      "unresolved cases",
+      "is a type of",
+      "unexplained incidents"
+    ],
+    [
+      "unresolved cases",
+      "is part of",
+      "distress call"
+    ],
+    [
+      "unresolved cases",
+      "is part of",
+      "mystery"
+    ],
+    [
+      "unresolved cases",
+      "is related to",
+      "tragedy"
+    ],
+    [
+      "unresolved cases",
+      "linked to",
+      "rescue operations"
+    ],
+    [
+      "unresolved cases",
+      "linked to",
+      "wreckage"
+    ],
+    [
+      "unresolved cases",
+      "pertains to",
+      "North Atlantic Ocean"
+    ],
+    [
+      "unresolved cases",
+      "relates to",
+      "incidents"
+    ],
+    [
+      "weather patterns",
+      "affects",
+      "Bermuda"
+    ],
+    [
+      "weather patterns",
+      "affects",
+      "Puerto Rico"
+    ],
+    [
+      "weather patterns",
+      "affects",
+      "exploration"
+    ],
+    [
+      "weather patterns",
+      "affects",
+      "unexplained disappearances"
+    ],
+    [
+      "weather patterns",
+      "contributes to",
+      "intrigue"
+    ],
+    [
+      "weather patterns",
+      "contributes to",
+      "unexplained incidents"
+    ],
+    [
+      "weather patterns",
+      "contributes to",
+      "unexplained phenomena"
+    ],
+    [
+      "weather patterns",
+      "leads to",
+      "compass malfunctions"
+    ],
+    [
+      "weather patterns",
+      "linked to",
+      "supernatural forces"
+    ],
+    [
+      "wreckage",
+      "is part of",
+      "maritime lore"
+    ],
+    [
+      "wreckage",
+      "is searched for in",
+      "Miami"
+    ]
+  ],
+  "edges": [
+    "accounts for",
+    "addresses",
+    "affected",
+    "affected by",
+    "affected the fate of",
+    "affects",
+    "are a factor in",
+    "are associated with",
+    "are explained by",
+    "are investigated by",
+    "are linked to",
+    "are part of",
+    "are related to",
+    "associated with",
+    "attracts",
+    "attributed to",
+    "borders",
+    "captivates",
+    "captures",
+    "carried by",
+    "cause",
+    "caused",
+    "caused by",
+    "caused compass malfunctions in",
+    "causes",
+    "characterizes",
+    "clarifies",
+    "classified as",
+    "compared to",
+    "complicated",
+    "complicates",
+    "composed of",
+    "conducted by",
+    "conducted during",
+    "conducted for",
+    "conducted in",
+    "conducts",
+    "conducts operations in",
+    "connected to",
+    "contained",
+    "context for",
+    "contributes to",
+    "creates",
+    "crew members of",
+    "describes",
+    "disappeared in",
+    "disappeared near",
+    "documented in",
+    "drives",
+    "engages with",
+    "enhances",
+    "evokes",
+    "exemplifies",
+    "exists in",
+    "experiences",
+    "explained by",
+    "explains",
+    "explored in",
+    "fascinated by",
+    "fascinates",
+    "focuses on",
+    "fuels",
+    "historical context of",
+    "impacted by",
+    "impacts",
+    "included in",
+    "includes",
+    "influenced by",
+    "influences",
+    "informs",
+    "informs about",
+    "inspired by",
+    "interested in",
+    "interests",
+    "interferes with",
+    "investigated by",
+    "investigates",
+    "involved",
+    "involved in",
+    "involves",
+    "is a case of",
+    "is a cause of",
+    "is a component of",
+    "is a condition of",
+    "is a consequence of",
+    "is a factor in",
+    "is a location of",
+    "is a mystery of",
+    "is a phenomenon of",
+    "is a potential cause of",
+    "is a result of",
+    "is a source of",
+    "is a subject of",
+    "is a theory of",
+    "is a topic of",
+    "is a type of",
+    "is affected by",
+    "is an example of",
+    "is associated with",
+    "is attributed to",
+    "is captivated by",
+    "is caused by",
+    "is characterized by",
+    "is connected to",
+    "is derived from",
+    "is discussed in",
+    "is documented in",
+    "is drawn to",
+    "is essential for",
+    "is examined in",
+    "is exemplified by",
+    "is explained by",
+    "is explored in",
+    "is found in",
+    "is found near",
+    "is impacted by",
+    "is influenced by",
+    "is informed by",
+    "is investigated by",
+    "is involved in",
+    "is known as",
+    "is lacking",
+    "is linked to",
+    "is located between",
+    "is located in",
+    "is located near",
+    "is needed for",
+    "is of interest to",
+    "is part of",
+    "is proposed by",
+    "is related to",
+    "is represented by",
+    "is required for",
+    "is searched for in",
+    "is sought as",
+    "is sought by",
+    "is supported by",
+    "is synonymous with",
+    "is the location of",
+    "is used for",
+    "lacks",
+    "leads to",
+    "linked to",
+    "located in",
+    "located near",
+    "location of",
+    "lost in",
+    "occurred during",
+    "occurred in",
+    "occurs in",
+    "occurs near",
+    "operated by",
+    "operates in",
+    "part of",
+    "pertains to",
+    "present in",
+    "prompted",
+    "provides",
+    "received",
+    "received by",
+    "related to",
+    "relates to",
+    "reported by",
+    "reported from",
+    "requires",
+    "responds to",
+    "response to",
+    "resulted from",
+    "resulted in",
+    "results in",
+    "reveals",
+    "searched for",
+    "searches for",
+    "seeks",
+    "shaped by",
+    "shapes",
+    "speculated involvement of",
+    "subject of",
+    "suggests",
+    "supplied by",
+    "supports",
+    "surrounds",
+    "targeted by",
+    "utilized by",
+    "utilized in",
+    "utilizes",
+    "vanished during",
+    "was carrying",
+    "was part of",
+    "was sent by",
+    "went missing near",
+    "were part of"
+  ]
+}

@@ -1,0 +1,1425 @@
+{
+  "entities": [
+    "advancements",
+    "challenges",
+    "collaboration tools",
+    "communication platforms",
+    "community engagement",
+    "crime detection",
+    "crime prevention",
+    "crime reporting",
+    "crime trends",
+    "criminal behavior",
+    "criminal investigations",
+    "data mining",
+    "deterrent effect",
+    "effectiveness",
+    "ethical considerations",
+    "evidence gathering",
+    "high-risk areas",
+    "incident reports",
+    "innovation",
+    "law enforcement",
+    "monitoring activities",
+    "potential threats",
+    "predictive analytics",
+    "preventive measures",
+    "privacy rights",
+    "proactive approach",
+    "public participation",
+    "public safety",
+    "public spaces",
+    "real-time alerts",
+    "real-time information",
+    "regulations",
+    "resource allocation",
+    "responsible use",
+    "safer communities",
+    "secure communication",
+    "shared responsibility",
+    "social media",
+    "strategic placement",
+    "surveillance cameras",
+    "suspect identification",
+    "suspicious behaviors",
+    "technology",
+    "video analytics"
+  ],
+  "relations": [
+    [
+      "advancements",
+      "drives",
+      "high-risk areas"
+    ],
+    [
+      "advancements",
+      "drives",
+      "innovation"
+    ],
+    [
+      "advancements",
+      "enabled by",
+      "secure communication"
+    ],
+    [
+      "advancements",
+      "enhanced by",
+      "safer communities"
+    ],
+    [
+      "advancements",
+      "enhances",
+      "collaboration tools"
+    ],
+    [
+      "advancements",
+      "enhances",
+      "public safety"
+    ],
+    [
+      "advancements",
+      "improves",
+      "effectiveness"
+    ],
+    [
+      "advancements",
+      "influences",
+      "criminal behavior"
+    ],
+    [
+      "advancements",
+      "influences",
+      "shared responsibility"
+    ],
+    [
+      "advancements",
+      "informs",
+      "proactive approach"
+    ],
+    [
+      "challenges",
+      "associated with",
+      "ethical considerations"
+    ],
+    [
+      "challenges",
+      "complicates",
+      "predictive analytics"
+    ],
+    [
+      "challenges",
+      "exacerbates",
+      "criminal behavior"
+    ],
+    [
+      "challenges",
+      "promotes",
+      "community engagement"
+    ],
+    [
+      "challenges",
+      "requires",
+      "regulations"
+    ],
+    [
+      "collaboration tools",
+      "enhances",
+      "preventive measures"
+    ],
+    [
+      "collaboration tools",
+      "enhances",
+      "proactive approach"
+    ],
+    [
+      "collaboration tools",
+      "facilitates",
+      "technology"
+    ],
+    [
+      "collaboration tools",
+      "hinders",
+      "challenges"
+    ],
+    [
+      "collaboration tools",
+      "improves",
+      "public safety"
+    ],
+    [
+      "communication platforms",
+      "analyzes",
+      "crime trends"
+    ],
+    [
+      "communication platforms",
+      "contributes to",
+      "safer communities"
+    ],
+    [
+      "communication platforms",
+      "enables",
+      "preventive measures"
+    ],
+    [
+      "communication platforms",
+      "enables",
+      "secure communication"
+    ],
+    [
+      "communication platforms",
+      "enables",
+      "technology"
+    ],
+    [
+      "communication platforms",
+      "enhances",
+      "community engagement"
+    ],
+    [
+      "communication platforms",
+      "enhances",
+      "effectiveness"
+    ],
+    [
+      "communication platforms",
+      "facilitates",
+      "crime prevention"
+    ],
+    [
+      "communication platforms",
+      "facilitates",
+      "incident reports"
+    ],
+    [
+      "communication platforms",
+      "heightens",
+      "potential threats"
+    ],
+    [
+      "communication platforms",
+      "improves",
+      "advancements"
+    ],
+    [
+      "communication platforms",
+      "influences",
+      "criminal behavior"
+    ],
+    [
+      "communication platforms",
+      "informs",
+      "data mining"
+    ],
+    [
+      "communication platforms",
+      "informs",
+      "proactive approach"
+    ],
+    [
+      "communication platforms",
+      "integrates",
+      "predictive analytics"
+    ],
+    [
+      "communication platforms",
+      "optimizes",
+      "resource allocation"
+    ],
+    [
+      "communication platforms",
+      "provides",
+      "real-time information"
+    ],
+    [
+      "communication platforms",
+      "supports",
+      "criminal investigations"
+    ],
+    [
+      "communication platforms",
+      "supports",
+      "shared responsibility"
+    ],
+    [
+      "community engagement",
+      "drives",
+      "innovation"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "effectiveness"
+    ],
+    [
+      "community engagement",
+      "facilitates",
+      "social media"
+    ],
+    [
+      "community engagement",
+      "fosters",
+      "safer communities"
+    ],
+    [
+      "community engagement",
+      "fosters",
+      "shared responsibility"
+    ],
+    [
+      "community engagement",
+      "improves",
+      "public safety"
+    ],
+    [
+      "community engagement",
+      "informed by",
+      "incident reports"
+    ],
+    [
+      "community engagement",
+      "supports",
+      "collaboration tools"
+    ],
+    [
+      "community engagement",
+      "supports",
+      "preventive measures"
+    ],
+    [
+      "community engagement",
+      "supports",
+      "proactive approach"
+    ],
+    [
+      "community engagement",
+      "utilizes",
+      "data mining"
+    ],
+    [
+      "community engagement",
+      "utilizes",
+      "predictive analytics"
+    ],
+    [
+      "crime detection",
+      "enhanced by",
+      "data mining"
+    ],
+    [
+      "crime detection",
+      "enhances",
+      "predictive analytics"
+    ],
+    [
+      "crime detection",
+      "influences",
+      "ethical considerations"
+    ],
+    [
+      "crime prevention",
+      "addresses",
+      "ethical considerations"
+    ],
+    [
+      "crime prevention",
+      "addresses",
+      "potential threats"
+    ],
+    [
+      "crime prevention",
+      "aids in",
+      "evidence gathering"
+    ],
+    [
+      "crime prevention",
+      "enhanced by",
+      "proactive approach"
+    ],
+    [
+      "crime prevention",
+      "enhances",
+      "advancements"
+    ],
+    [
+      "crime prevention",
+      "govern",
+      "regulations"
+    ],
+    [
+      "crime prevention",
+      "improves",
+      "effectiveness"
+    ],
+    [
+      "crime prevention",
+      "influences",
+      "suspicious behaviors"
+    ],
+    [
+      "crime prevention",
+      "informs",
+      "preventive measures"
+    ],
+    [
+      "crime prevention",
+      "involves",
+      "criminal investigations"
+    ],
+    [
+      "crime prevention",
+      "is influenced by",
+      "criminal behavior"
+    ],
+    [
+      "crime prevention",
+      "promotes",
+      "shared responsibility"
+    ],
+    [
+      "crime prevention",
+      "requires",
+      "resource allocation"
+    ],
+    [
+      "crime prevention",
+      "utilizes",
+      "technology"
+    ],
+    [
+      "crime reporting",
+      "alerts to",
+      "potential threats"
+    ],
+    [
+      "crime reporting",
+      "contributes to",
+      "safer communities"
+    ],
+    [
+      "crime reporting",
+      "facilitates",
+      "communication platforms"
+    ],
+    [
+      "crime reporting",
+      "identifies",
+      "high-risk areas"
+    ],
+    [
+      "crime trends",
+      "influences",
+      "effectiveness"
+    ],
+    [
+      "crime trends",
+      "informs",
+      "crime detection"
+    ],
+    [
+      "crime trends",
+      "leads to",
+      "preventive measures"
+    ],
+    [
+      "criminal behavior",
+      "addresses",
+      "regulations"
+    ],
+    [
+      "criminal behavior",
+      "affects",
+      "privacy rights"
+    ],
+    [
+      "criminal behavior",
+      "impacted by",
+      "safer communities"
+    ],
+    [
+      "criminal behavior",
+      "impacts",
+      "effectiveness"
+    ],
+    [
+      "criminal behavior",
+      "indicates",
+      "high-risk areas"
+    ],
+    [
+      "criminal behavior",
+      "indicates",
+      "suspicious behaviors"
+    ],
+    [
+      "criminal behavior",
+      "informs",
+      "crime detection"
+    ],
+    [
+      "criminal behavior",
+      "involves",
+      "crime reporting"
+    ],
+    [
+      "criminal behavior",
+      "involves",
+      "criminal investigations"
+    ],
+    [
+      "criminal investigations",
+      "affects",
+      "ethical considerations"
+    ],
+    [
+      "criminal investigations",
+      "complicates",
+      "challenges"
+    ],
+    [
+      "criminal investigations",
+      "enhances",
+      "data mining"
+    ],
+    [
+      "criminal investigations",
+      "guidelines for",
+      "regulations"
+    ],
+    [
+      "criminal investigations",
+      "impacting",
+      "privacy rights"
+    ],
+    [
+      "criminal investigations",
+      "influences",
+      "advancements"
+    ],
+    [
+      "criminal investigations",
+      "investigates",
+      "potential threats"
+    ],
+    [
+      "criminal investigations",
+      "supports",
+      "shared responsibility"
+    ],
+    [
+      "criminal investigations",
+      "utilizes",
+      "predictive analytics"
+    ],
+    [
+      "deterrent effect",
+      "impacts",
+      "privacy rights"
+    ],
+    [
+      "deterrent effect",
+      "influences",
+      "crime trends"
+    ],
+    [
+      "deterrent effect",
+      "influences",
+      "resource allocation"
+    ],
+    [
+      "effectiveness",
+      "affects",
+      "challenges"
+    ],
+    [
+      "effectiveness",
+      "affects",
+      "real-time alerts"
+    ],
+    [
+      "effectiveness",
+      "enables",
+      "real-time information"
+    ],
+    [
+      "effectiveness",
+      "enhances",
+      "predictive analytics"
+    ],
+    [
+      "effectiveness",
+      "enhances",
+      "proactive approach"
+    ],
+    [
+      "effectiveness",
+      "improves",
+      "data mining"
+    ],
+    [
+      "effectiveness",
+      "improves",
+      "high-risk areas"
+    ],
+    [
+      "effectiveness",
+      "improves",
+      "preventive measures"
+    ],
+    [
+      "ethical considerations",
+      "affected by",
+      "safer communities"
+    ],
+    [
+      "ethical considerations",
+      "detects",
+      "suspicious behaviors"
+    ],
+    [
+      "ethical considerations",
+      "influenced by",
+      "secure communication"
+    ],
+    [
+      "ethical considerations",
+      "is influenced by",
+      "shared responsibility"
+    ],
+    [
+      "ethical considerations",
+      "raises",
+      "innovation"
+    ],
+    [
+      "ethical considerations",
+      "raises",
+      "potential threats"
+    ],
+    [
+      "ethical considerations",
+      "raises concerns about",
+      "communication platforms"
+    ],
+    [
+      "high-risk areas",
+      "associated with",
+      "suspicious behaviors"
+    ],
+    [
+      "high-risk areas",
+      "investigated in",
+      "criminal investigations"
+    ],
+    [
+      "high-risk areas",
+      "promotes",
+      "shared responsibility"
+    ],
+    [
+      "high-risk areas",
+      "supports",
+      "evidence gathering"
+    ],
+    [
+      "high-risk areas",
+      "targeted by",
+      "preventive measures"
+    ],
+    [
+      "high-risk areas",
+      "targets",
+      "crime prevention"
+    ],
+    [
+      "high-risk areas",
+      "targets",
+      "potential threats"
+    ],
+    [
+      "incident reports",
+      "compared to",
+      "social media"
+    ],
+    [
+      "incident reports",
+      "contributes to",
+      "effectiveness"
+    ],
+    [
+      "incident reports",
+      "indicates",
+      "potential threats"
+    ],
+    [
+      "incident reports",
+      "informed by",
+      "predictive analytics"
+    ],
+    [
+      "incident reports",
+      "informs",
+      "data mining"
+    ],
+    [
+      "incident reports",
+      "informs",
+      "resource allocation"
+    ],
+    [
+      "incident reports",
+      "provides",
+      "evidence gathering"
+    ],
+    [
+      "incident reports",
+      "provides",
+      "real-time information"
+    ],
+    [
+      "incident reports",
+      "supports",
+      "proactive approach"
+    ],
+    [
+      "incident reports",
+      "utilized by",
+      "communication platforms"
+    ],
+    [
+      "innovation",
+      "contributes to",
+      "crime prevention"
+    ],
+    [
+      "innovation",
+      "contributes to",
+      "safer communities"
+    ],
+    [
+      "innovation",
+      "drives",
+      "communication platforms"
+    ],
+    [
+      "innovation",
+      "enables",
+      "proactive approach"
+    ],
+    [
+      "innovation",
+      "enhances",
+      "data mining"
+    ],
+    [
+      "innovation",
+      "enhances",
+      "evidence gathering"
+    ],
+    [
+      "innovation",
+      "facilitates",
+      "preventive measures"
+    ],
+    [
+      "innovation",
+      "improves",
+      "effectiveness"
+    ],
+    [
+      "innovation",
+      "promotes",
+      "shared responsibility"
+    ],
+    [
+      "innovation",
+      "supports",
+      "criminal investigations"
+    ],
+    [
+      "law enforcement",
+      "addressed by",
+      "potential threats"
+    ],
+    [
+      "law enforcement",
+      "advances",
+      "advancements"
+    ],
+    [
+      "law enforcement",
+      "concerns about",
+      "privacy rights"
+    ],
+    [
+      "law enforcement",
+      "drives",
+      "innovation"
+    ],
+    [
+      "law enforcement",
+      "enables",
+      "proactive approach"
+    ],
+    [
+      "law enforcement",
+      "enhanced by",
+      "technology"
+    ],
+    [
+      "law enforcement",
+      "enhances",
+      "safer communities"
+    ],
+    [
+      "law enforcement",
+      "facilitates",
+      "secure communication"
+    ],
+    [
+      "law enforcement",
+      "focuses on",
+      "high-risk areas"
+    ],
+    [
+      "law enforcement",
+      "improves",
+      "effectiveness"
+    ],
+    [
+      "law enforcement",
+      "involves",
+      "criminal investigations"
+    ],
+    [
+      "law enforcement",
+      "monitors",
+      "suspicious behaviors"
+    ],
+    [
+      "law enforcement",
+      "promotes",
+      "shared responsibility"
+    ],
+    [
+      "law enforcement",
+      "requires",
+      "responsible use"
+    ],
+    [
+      "law enforcement",
+      "utilized by",
+      "communication platforms"
+    ],
+    [
+      "law enforcement",
+      "utilizes",
+      "crime prevention"
+    ],
+    [
+      "law enforcement",
+      "utilizes",
+      "data mining"
+    ],
+    [
+      "potential threats",
+      "discussed on",
+      "social media"
+    ],
+    [
+      "potential threats",
+      "enhances",
+      "public safety"
+    ],
+    [
+      "potential threats",
+      "identified by",
+      "data mining"
+    ],
+    [
+      "potential threats",
+      "identified by",
+      "predictive analytics"
+    ],
+    [
+      "potential threats",
+      "is enhanced by",
+      "technology"
+    ],
+    [
+      "potential threats",
+      "provides",
+      "real-time information"
+    ],
+    [
+      "predictive analytics",
+      "analyzes",
+      "data mining"
+    ],
+    [
+      "preventive measures",
+      "addresses",
+      "suspicious behaviors"
+    ],
+    [
+      "preventive measures",
+      "impacts",
+      "challenges"
+    ],
+    [
+      "preventive measures",
+      "informs",
+      "data mining"
+    ],
+    [
+      "preventive measures",
+      "informs",
+      "incident reports"
+    ],
+    [
+      "preventive measures",
+      "informs",
+      "real-time information"
+    ],
+    [
+      "preventive measures",
+      "requires",
+      "public safety"
+    ],
+    [
+      "preventive measures",
+      "utilized by",
+      "social media"
+    ],
+    [
+      "privacy rights",
+      "complicates",
+      "crime prevention"
+    ],
+    [
+      "privacy rights",
+      "impacts",
+      "suspect identification"
+    ],
+    [
+      "proactive approach",
+      "addresses",
+      "potential threats"
+    ],
+    [
+      "proactive approach",
+      "contributes to",
+      "criminal behavior"
+    ],
+    [
+      "proactive approach",
+      "enabled by",
+      "incident reports"
+    ],
+    [
+      "proactive approach",
+      "enhances",
+      "data mining"
+    ],
+    [
+      "proactive approach",
+      "enhances",
+      "public safety"
+    ],
+    [
+      "proactive approach",
+      "improves",
+      "criminal investigations"
+    ],
+    [
+      "proactive approach",
+      "influences",
+      "challenges"
+    ],
+    [
+      "proactive approach",
+      "informs",
+      "preventive measures"
+    ],
+    [
+      "proactive approach",
+      "requires",
+      "regulations"
+    ],
+    [
+      "proactive approach",
+      "supports",
+      "real-time information"
+    ],
+    [
+      "proactive approach",
+      "utilized in",
+      "predictive analytics"
+    ],
+    [
+      "public participation",
+      "contributes to",
+      "safer communities"
+    ],
+    [
+      "public participation",
+      "enabled by",
+      "technology"
+    ],
+    [
+      "public participation",
+      "enables",
+      "real-time information"
+    ],
+    [
+      "public participation",
+      "encourages",
+      "shared responsibility"
+    ],
+    [
+      "public participation",
+      "facilitated by",
+      "secure communication"
+    ],
+    [
+      "public participation",
+      "facilitates",
+      "social media"
+    ],
+    [
+      "public participation",
+      "improves",
+      "public safety"
+    ],
+    [
+      "public safety",
+      "affects",
+      "challenges"
+    ],
+    [
+      "public safety",
+      "enhanced by",
+      "effectiveness"
+    ],
+    [
+      "public safety",
+      "enhanced by",
+      "social media"
+    ],
+    [
+      "public safety",
+      "enhanced by",
+      "technology"
+    ],
+    [
+      "public safety",
+      "enhances",
+      "real-time information"
+    ],
+    [
+      "public safety",
+      "informs",
+      "incident reports"
+    ],
+    [
+      "public safety",
+      "is governed by",
+      "regulations"
+    ],
+    [
+      "public safety",
+      "utilizes",
+      "predictive analytics"
+    ],
+    [
+      "real-time alerts",
+      "complicates",
+      "challenges"
+    ],
+    [
+      "real-time alerts",
+      "contributes to",
+      "evidence gathering"
+    ],
+    [
+      "real-time alerts",
+      "driven by",
+      "innovation"
+    ],
+    [
+      "real-time alerts",
+      "enabled by",
+      "predictive analytics"
+    ],
+    [
+      "real-time alerts",
+      "enables",
+      "proactive approach"
+    ],
+    [
+      "real-time information",
+      "derived from",
+      "data mining"
+    ],
+    [
+      "real-time information",
+      "enhances",
+      "community engagement"
+    ],
+    [
+      "real-time information",
+      "enhances",
+      "predictive analytics"
+    ],
+    [
+      "real-time information",
+      "enhances",
+      "social media"
+    ],
+    [
+      "regulations",
+      "governed by",
+      "resource allocation"
+    ],
+    [
+      "regulations",
+      "influenced by",
+      "advancements"
+    ],
+    [
+      "regulations",
+      "regulated by",
+      "community engagement"
+    ],
+    [
+      "regulations",
+      "regulated by",
+      "secure communication"
+    ],
+    [
+      "regulations",
+      "requires",
+      "high-risk areas"
+    ],
+    [
+      "resource allocation",
+      "depends on",
+      "effectiveness"
+    ],
+    [
+      "resource allocation",
+      "depends on",
+      "evidence gathering"
+    ],
+    [
+      "resource allocation",
+      "guides",
+      "preventive measures"
+    ],
+    [
+      "resource allocation",
+      "informs",
+      "collaboration tools"
+    ],
+    [
+      "resource allocation",
+      "supports",
+      "public safety"
+    ],
+    [
+      "responsible use",
+      "depends on",
+      "effectiveness"
+    ],
+    [
+      "responsible use",
+      "requires",
+      "crime trends"
+    ],
+    [
+      "safer communities",
+      "addresses",
+      "proactive approach"
+    ],
+    [
+      "safer communities",
+      "enhances",
+      "high-risk areas"
+    ],
+    [
+      "safer communities",
+      "is enhanced by",
+      "technology"
+    ],
+    [
+      "safer communities",
+      "promotes",
+      "crime prevention"
+    ],
+    [
+      "safer communities",
+      "promotes",
+      "shared responsibility"
+    ],
+    [
+      "secure communication",
+      "addresses",
+      "criminal behavior"
+    ],
+    [
+      "secure communication",
+      "aids",
+      "criminal investigations"
+    ],
+    [
+      "secure communication",
+      "contributes to",
+      "safer communities"
+    ],
+    [
+      "secure communication",
+      "drives",
+      "innovation"
+    ],
+    [
+      "secure communication",
+      "enables",
+      "challenges"
+    ],
+    [
+      "secure communication",
+      "encourages",
+      "shared responsibility"
+    ],
+    [
+      "secure communication",
+      "enhances",
+      "public safety"
+    ],
+    [
+      "secure communication",
+      "facilitates",
+      "collaboration tools"
+    ],
+    [
+      "secure communication",
+      "facilitates",
+      "evidence gathering"
+    ],
+    [
+      "secure communication",
+      "improves",
+      "effectiveness"
+    ],
+    [
+      "secure communication",
+      "supports",
+      "crime prevention"
+    ],
+    [
+      "secure communication",
+      "supports",
+      "technology"
+    ],
+    [
+      "shared responsibility",
+      "is governed by",
+      "regulations"
+    ],
+    [
+      "shared responsibility",
+      "promotes",
+      "challenges"
+    ],
+    [
+      "shared responsibility",
+      "promotes",
+      "criminal behavior"
+    ],
+    [
+      "shared responsibility",
+      "promotes",
+      "potential threats"
+    ],
+    [
+      "shared responsibility",
+      "requires",
+      "proactive approach"
+    ],
+    [
+      "shared responsibility",
+      "shared by",
+      "public safety"
+    ],
+    [
+      "social media",
+      "enhances",
+      "predictive analytics"
+    ],
+    [
+      "social media",
+      "fueled by",
+      "innovation"
+    ],
+    [
+      "social media",
+      "influences",
+      "effectiveness"
+    ],
+    [
+      "social media",
+      "supports",
+      "data mining"
+    ],
+    [
+      "social media",
+      "utilizes",
+      "evidence gathering"
+    ],
+    [
+      "strategic placement",
+      "supports",
+      "public safety"
+    ],
+    [
+      "surveillance cameras",
+      "detects",
+      "suspicious behaviors"
+    ],
+    [
+      "surveillance cameras",
+      "enhanced by",
+      "video analytics"
+    ],
+    [
+      "surveillance cameras",
+      "monitors",
+      "public spaces"
+    ],
+    [
+      "suspect identification",
+      "utilizes",
+      "video analytics"
+    ],
+    [
+      "suspicious behaviors",
+      "analyzed by",
+      "data mining"
+    ],
+    [
+      "suspicious behaviors",
+      "detects",
+      "predictive analytics"
+    ],
+    [
+      "suspicious behaviors",
+      "detects",
+      "video analytics"
+    ],
+    [
+      "suspicious behaviors",
+      "investigated in",
+      "criminal investigations"
+    ],
+    [
+      "technology",
+      "aids",
+      "criminal investigations"
+    ],
+    [
+      "technology",
+      "contributes to",
+      "criminal behavior"
+    ],
+    [
+      "technology",
+      "encourages",
+      "shared responsibility"
+    ],
+    [
+      "technology",
+      "shaped by",
+      "ethical considerations"
+    ],
+    [
+      "video analytics",
+      "enables",
+      "monitoring activities"
+    ]
+  ],
+  "edges": [
+    "addressed by",
+    "addresses",
+    "advances",
+    "affected by",
+    "affects",
+    "aids",
+    "aids in",
+    "alerts to",
+    "analyzed by",
+    "analyzes",
+    "associated with",
+    "compared to",
+    "complicates",
+    "concerns about",
+    "contributes to",
+    "depends on",
+    "derived from",
+    "detects",
+    "discussed on",
+    "driven by",
+    "drives",
+    "enabled by",
+    "enables",
+    "encourages",
+    "enhanced by",
+    "enhances",
+    "exacerbates",
+    "facilitated by",
+    "facilitates",
+    "focuses on",
+    "fosters",
+    "fueled by",
+    "govern",
+    "governed by",
+    "guidelines for",
+    "guides",
+    "heightens",
+    "hinders",
+    "identified by",
+    "identifies",
+    "impacted by",
+    "impacting",
+    "impacts",
+    "improves",
+    "indicates",
+    "influenced by",
+    "influences",
+    "informed by",
+    "informs",
+    "integrates",
+    "investigated in",
+    "investigates",
+    "involves",
+    "is enhanced by",
+    "is governed by",
+    "is influenced by",
+    "leads to",
+    "monitors",
+    "optimizes",
+    "promotes",
+    "provides",
+    "raises",
+    "raises concerns about",
+    "regulated by",
+    "requires",
+    "shaped by",
+    "shared by",
+    "supports",
+    "targeted by",
+    "targets",
+    "utilized by",
+    "utilized in",
+    "utilizes"
+  ]
+}

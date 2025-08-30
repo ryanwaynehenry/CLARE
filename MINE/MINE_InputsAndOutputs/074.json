@@ -1,0 +1,4402 @@
+{
+  "entities": [
+    "accomplishment",
+    "achievement",
+    "adventure",
+    "authenticity",
+    "celebrate artists",
+    "closure",
+    "cohesive collection",
+    "collecting experience",
+    "collection value",
+    "collector's journey",
+    "common behavior",
+    "community engagement",
+    "complexity of collecting",
+    "connection to past",
+    "craftsmanship",
+    "desire for control",
+    "emotional connections",
+    "emotional fulfillment",
+    "excitement",
+    "exploration",
+    "financial security",
+    "fulfillment",
+    "historical perspectives",
+    "history",
+    "hobbies",
+    "human nature",
+    "identity",
+    "important moments",
+    "individuality",
+    "interests",
+    "joy",
+    "like-minded individuals",
+    "long-term investment",
+    "market trends",
+    "milestone",
+    "motivation",
+    "motivations",
+    "need for completion",
+    "nostalgia",
+    "organizing collections",
+    "passions",
+    "personal fulfillment",
+    "personal growth",
+    "personality",
+    "predictability",
+    "preservation methods",
+    "pride",
+    "psychological perspective",
+    "psychological reasons",
+    "purpose",
+    "pursuit of novelty",
+    "rare collectibles",
+    "reflection of self",
+    "rewarding experience",
+    "satisfaction",
+    "self-esteem",
+    "self-expression",
+    "sense of order",
+    "sense of purpose",
+    "shared experiences",
+    "sharing experiences",
+    "stability",
+    "stimulating activity",
+    "tangible reminders",
+    "thrill of discovery",
+    "underlying motivations",
+    "unique items",
+    "unity",
+    "values",
+    "wholeness"
+  ],
+  "relations": [
+    [
+      "accomplishment",
+      "is achieved through",
+      "cohesive collection"
+    ],
+    [
+      "accomplishment",
+      "is achieved through",
+      "satisfaction"
+    ],
+    [
+      "achievement",
+      "brings",
+      "joy"
+    ],
+    [
+      "achievement",
+      "enhances",
+      "sharing experiences"
+    ],
+    [
+      "achievement",
+      "fulfills",
+      "need for completion"
+    ],
+    [
+      "achievement",
+      "involves",
+      "organizing collections"
+    ],
+    [
+      "achievement",
+      "is a result of",
+      "wholeness"
+    ],
+    [
+      "achievement",
+      "is achieved through",
+      "collector's journey"
+    ],
+    [
+      "achievement",
+      "is achieved through",
+      "thrill of discovery"
+    ],
+    [
+      "achievement",
+      "is influenced by",
+      "market trends"
+    ],
+    [
+      "achievement",
+      "is linked to",
+      "complexity of collecting"
+    ],
+    [
+      "achievement",
+      "leads to",
+      "accomplishment"
+    ],
+    [
+      "achievement",
+      "represents",
+      "self-expression"
+    ],
+    [
+      "achievement",
+      "results in",
+      "fulfillment"
+    ],
+    [
+      "adventure",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "adventure",
+      "drives",
+      "motivation"
+    ],
+    [
+      "adventure",
+      "encourages",
+      "self-expression"
+    ],
+    [
+      "adventure",
+      "fuels",
+      "interests"
+    ],
+    [
+      "adventure",
+      "fuels",
+      "pride"
+    ],
+    [
+      "adventure",
+      "inspired by",
+      "nostalgia"
+    ],
+    [
+      "adventure",
+      "is a part of",
+      "wholeness"
+    ],
+    [
+      "adventure",
+      "is a reflection of",
+      "human nature"
+    ],
+    [
+      "adventure",
+      "is derived from",
+      "satisfaction"
+    ],
+    [
+      "adventure",
+      "is enhanced by",
+      "predictability"
+    ],
+    [
+      "adventure",
+      "is explored through",
+      "psychological perspective"
+    ],
+    [
+      "adventure",
+      "offers",
+      "common behavior"
+    ],
+    [
+      "adventure",
+      "provides",
+      "connection to past"
+    ],
+    [
+      "adventure",
+      "provides",
+      "emotional fulfillment"
+    ],
+    [
+      "adventure",
+      "provides",
+      "important moments"
+    ],
+    [
+      "adventure",
+      "provides",
+      "personal fulfillment"
+    ],
+    [
+      "adventure",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "adventure",
+      "satisfies",
+      "need for completion"
+    ],
+    [
+      "adventure",
+      "serves as",
+      "tangible reminders"
+    ],
+    [
+      "authenticity",
+      "embodies",
+      "pride"
+    ],
+    [
+      "authenticity",
+      "is a characteristic of",
+      "common behavior"
+    ],
+    [
+      "authenticity",
+      "is enhanced by",
+      "self-esteem"
+    ],
+    [
+      "authenticity",
+      "is expressed through",
+      "personal growth"
+    ],
+    [
+      "authenticity",
+      "is influenced by",
+      "motivations"
+    ],
+    [
+      "authenticity",
+      "is linked to",
+      "pursuit of novelty"
+    ],
+    [
+      "authenticity",
+      "offers",
+      "sense of purpose"
+    ],
+    [
+      "authenticity",
+      "reflects",
+      "passions"
+    ],
+    [
+      "authenticity",
+      "reflects",
+      "unity"
+    ],
+    [
+      "authenticity",
+      "requires",
+      "achievement"
+    ],
+    [
+      "authenticity",
+      "requires",
+      "fulfillment"
+    ],
+    [
+      "authenticity",
+      "values of",
+      "like-minded individuals"
+    ],
+    [
+      "celebrate artists",
+      "celebrates",
+      "collection value"
+    ],
+    [
+      "celebrate artists",
+      "demonstrates",
+      "authenticity"
+    ],
+    [
+      "celebrate artists",
+      "is part of",
+      "collector's journey"
+    ],
+    [
+      "celebrate artists",
+      "results in",
+      "accomplishment"
+    ],
+    [
+      "closure",
+      "is a source of",
+      "rewarding experience"
+    ],
+    [
+      "closure",
+      "is achieved through",
+      "fulfillment"
+    ],
+    [
+      "closure",
+      "leads to",
+      "psychological reasons"
+    ],
+    [
+      "closure",
+      "provides",
+      "emotional connections"
+    ],
+    [
+      "closure",
+      "provides",
+      "financial security"
+    ],
+    [
+      "closure",
+      "provides",
+      "interests"
+    ],
+    [
+      "closure",
+      "provides",
+      "long-term investment"
+    ],
+    [
+      "closure",
+      "provides",
+      "motivation"
+    ],
+    [
+      "closure",
+      "provides",
+      "personal fulfillment"
+    ],
+    [
+      "closure",
+      "provides",
+      "thrill of discovery"
+    ],
+    [
+      "closure",
+      "provides",
+      "wholeness"
+    ],
+    [
+      "closure",
+      "satisfies",
+      "need for completion"
+    ],
+    [
+      "cohesive collection",
+      "facilitates",
+      "sharing experiences"
+    ],
+    [
+      "cohesive collection",
+      "fulfills",
+      "emotional fulfillment"
+    ],
+    [
+      "cohesive collection",
+      "is achieved through",
+      "wholeness"
+    ],
+    [
+      "cohesive collection",
+      "results in",
+      "achievement"
+    ],
+    [
+      "collecting experience",
+      "contributes to",
+      "personal growth"
+    ],
+    [
+      "collecting experience",
+      "creates",
+      "cohesive collection"
+    ],
+    [
+      "collecting experience",
+      "defines",
+      "personality"
+    ],
+    [
+      "collecting experience",
+      "drives",
+      "motivations"
+    ],
+    [
+      "collecting experience",
+      "encourages",
+      "exploration"
+    ],
+    [
+      "collecting experience",
+      "enhances",
+      "individuality"
+    ],
+    [
+      "collecting experience",
+      "ensures",
+      "financial security"
+    ],
+    [
+      "collecting experience",
+      "evokes",
+      "pride"
+    ],
+    [
+      "collecting experience",
+      "facilitates",
+      "self-expression"
+    ],
+    [
+      "collecting experience",
+      "fuels",
+      "pursuit of novelty"
+    ],
+    [
+      "collecting experience",
+      "gives",
+      "sense of purpose"
+    ],
+    [
+      "collecting experience",
+      "informs",
+      "psychological perspective"
+    ],
+    [
+      "collecting experience",
+      "is characterized by",
+      "stimulating activity"
+    ],
+    [
+      "collecting experience",
+      "is driven by",
+      "desire for control"
+    ],
+    [
+      "collecting experience",
+      "is linked to",
+      "long-term investment"
+    ],
+    [
+      "collecting experience",
+      "is shaped by",
+      "underlying motivations"
+    ],
+    [
+      "collecting experience",
+      "leads to",
+      "adventure"
+    ],
+    [
+      "collecting experience",
+      "offers",
+      "excitement"
+    ],
+    [
+      "collecting experience",
+      "promotes",
+      "unity"
+    ],
+    [
+      "collecting experience",
+      "provides",
+      "purpose"
+    ],
+    [
+      "collecting experience",
+      "provides",
+      "sense of order"
+    ],
+    [
+      "collecting experience",
+      "reflects",
+      "craftsmanship"
+    ],
+    [
+      "collecting experience",
+      "reflects",
+      "passions"
+    ],
+    [
+      "collecting experience",
+      "shapes",
+      "identity"
+    ],
+    [
+      "collection value",
+      "contributes to",
+      "cohesive collection"
+    ],
+    [
+      "collection value",
+      "enhances",
+      "collecting experience"
+    ],
+    [
+      "collection value",
+      "increases",
+      "values"
+    ],
+    [
+      "collection value",
+      "is part of",
+      "collector's journey"
+    ],
+    [
+      "collection value",
+      "mirrors",
+      "complexity of collecting"
+    ],
+    [
+      "collector's journey",
+      "is characterized as",
+      "rewarding experience"
+    ],
+    [
+      "collector's journey",
+      "is marked by",
+      "accomplishment"
+    ],
+    [
+      "collector's journey",
+      "marks",
+      "milestone"
+    ],
+    [
+      "collector's journey",
+      "requires",
+      "authenticity"
+    ],
+    [
+      "common behavior",
+      "exemplifies",
+      "stability"
+    ],
+    [
+      "common behavior",
+      "is a characteristic of",
+      "motivation"
+    ],
+    [
+      "common behavior",
+      "is a form of",
+      "stimulating activity"
+    ],
+    [
+      "common behavior",
+      "is a result of",
+      "personal growth"
+    ],
+    [
+      "common behavior",
+      "is exhibited by",
+      "unity"
+    ],
+    [
+      "common behavior",
+      "is influenced by",
+      "important moments"
+    ],
+    [
+      "common behavior",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "common behavior",
+      "satisfies",
+      "need for completion"
+    ],
+    [
+      "community engagement",
+      "brings",
+      "joy"
+    ],
+    [
+      "community engagement",
+      "contributes to",
+      "wholeness"
+    ],
+    [
+      "community engagement",
+      "creates",
+      "thrill of discovery"
+    ],
+    [
+      "community engagement",
+      "drives",
+      "motivations"
+    ],
+    [
+      "community engagement",
+      "encourages",
+      "adventure"
+    ],
+    [
+      "community engagement",
+      "encourages",
+      "exploration"
+    ],
+    [
+      "community engagement",
+      "facilitates",
+      "organizing collections"
+    ],
+    [
+      "community engagement",
+      "is influenced by",
+      "underlying motivations"
+    ],
+    [
+      "community engagement",
+      "is rooted in",
+      "human nature"
+    ],
+    [
+      "community engagement",
+      "leads to",
+      "accomplishment"
+    ],
+    [
+      "community engagement",
+      "leads to",
+      "achievement"
+    ],
+    [
+      "community engagement",
+      "leads to",
+      "personal fulfillment"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "personal growth"
+    ],
+    [
+      "community engagement",
+      "promotes",
+      "stability"
+    ],
+    [
+      "community engagement",
+      "provides",
+      "emotional fulfillment"
+    ],
+    [
+      "community engagement",
+      "provides",
+      "fulfillment"
+    ],
+    [
+      "community engagement",
+      "reflects",
+      "craftsmanship"
+    ],
+    [
+      "community engagement",
+      "represents",
+      "common behavior"
+    ],
+    [
+      "community engagement",
+      "stimulates",
+      "excitement"
+    ],
+    [
+      "community engagement",
+      "supports",
+      "long-term investment"
+    ],
+    [
+      "complexity of collecting",
+      "contributes to",
+      "emotional fulfillment"
+    ],
+    [
+      "complexity of collecting",
+      "contributes to",
+      "satisfaction"
+    ],
+    [
+      "complexity of collecting",
+      "facilitates",
+      "self-expression"
+    ],
+    [
+      "complexity of collecting",
+      "influences",
+      "collecting experience"
+    ],
+    [
+      "complexity of collecting",
+      "influences",
+      "sharing experiences"
+    ],
+    [
+      "complexity of collecting",
+      "is driven by",
+      "need for completion"
+    ],
+    [
+      "complexity of collecting",
+      "results in",
+      "cohesive collection"
+    ],
+    [
+      "complexity of collecting",
+      "serves as",
+      "purpose"
+    ],
+    [
+      "connection to past",
+      "drives",
+      "motivations"
+    ],
+    [
+      "connection to past",
+      "enhances",
+      "individuality"
+    ],
+    [
+      "connection to past",
+      "informs",
+      "historical perspectives"
+    ],
+    [
+      "connection to past",
+      "informs",
+      "psychological perspective"
+    ],
+    [
+      "connection to past",
+      "informs",
+      "psychological reasons"
+    ],
+    [
+      "connection to past",
+      "informs",
+      "underlying motivations"
+    ],
+    [
+      "connection to past",
+      "is linked to",
+      "financial security"
+    ],
+    [
+      "connection to past",
+      "is linked to",
+      "long-term investment"
+    ],
+    [
+      "connection to past",
+      "provides",
+      "closure"
+    ],
+    [
+      "connection to past",
+      "provides",
+      "stability"
+    ],
+    [
+      "connection to past",
+      "reflects",
+      "human nature"
+    ],
+    [
+      "connection to past",
+      "serves as",
+      "motivation"
+    ],
+    [
+      "connection to past",
+      "serves as",
+      "tangible reminders"
+    ],
+    [
+      "craftsmanship",
+      "connects with",
+      "like-minded individuals"
+    ],
+    [
+      "craftsmanship",
+      "contributes to",
+      "fulfillment"
+    ],
+    [
+      "craftsmanship",
+      "contributes to",
+      "personal fulfillment"
+    ],
+    [
+      "craftsmanship",
+      "creates",
+      "thrill of discovery"
+    ],
+    [
+      "craftsmanship",
+      "elicits",
+      "excitement"
+    ],
+    [
+      "craftsmanship",
+      "enables",
+      "self-expression"
+    ],
+    [
+      "craftsmanship",
+      "fosters",
+      "personal growth"
+    ],
+    [
+      "craftsmanship",
+      "inspires",
+      "exploration"
+    ],
+    [
+      "craftsmanship",
+      "is a form of",
+      "reflection of self"
+    ],
+    [
+      "craftsmanship",
+      "is an example of",
+      "common behavior"
+    ],
+    [
+      "craftsmanship",
+      "promotes",
+      "adventure"
+    ],
+    [
+      "craftsmanship",
+      "provides",
+      "sense of order"
+    ],
+    [
+      "craftsmanship",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "craftsmanship",
+      "reflects",
+      "passions"
+    ],
+    [
+      "craftsmanship",
+      "reflects",
+      "personality"
+    ],
+    [
+      "craftsmanship",
+      "reflects",
+      "purpose"
+    ],
+    [
+      "desire for control",
+      "achieves",
+      "unity"
+    ],
+    [
+      "desire for control",
+      "brings",
+      "joy"
+    ],
+    [
+      "desire for control",
+      "creates",
+      "sense of order"
+    ],
+    [
+      "desire for control",
+      "drives",
+      "motivation"
+    ],
+    [
+      "desire for control",
+      "drives",
+      "thrill of discovery"
+    ],
+    [
+      "desire for control",
+      "enables",
+      "self-expression"
+    ],
+    [
+      "desire for control",
+      "enhances",
+      "shared experiences"
+    ],
+    [
+      "desire for control",
+      "influences",
+      "market trends"
+    ],
+    [
+      "desire for control",
+      "influences",
+      "personality"
+    ],
+    [
+      "desire for control",
+      "influences",
+      "sense of purpose"
+    ],
+    [
+      "desire for control",
+      "is a factor in",
+      "psychological perspective"
+    ],
+    [
+      "desire for control",
+      "is a factor in",
+      "stimulating activity"
+    ],
+    [
+      "desire for control",
+      "is influenced by",
+      "craftsmanship"
+    ],
+    [
+      "desire for control",
+      "is influenced by",
+      "predictability"
+    ],
+    [
+      "desire for control",
+      "is linked to",
+      "need for completion"
+    ],
+    [
+      "desire for control",
+      "leads to",
+      "fulfillment"
+    ],
+    [
+      "desire for control",
+      "leads to",
+      "personal fulfillment"
+    ],
+    [
+      "desire for control",
+      "leads to",
+      "rewarding experience"
+    ],
+    [
+      "desire for control",
+      "promotes",
+      "personal growth"
+    ],
+    [
+      "desire for control",
+      "satisfies",
+      "satisfaction"
+    ],
+    [
+      "desire for control",
+      "shapes",
+      "interests"
+    ],
+    [
+      "desire for control",
+      "stimulates",
+      "excitement"
+    ],
+    [
+      "emotional connections",
+      "creates",
+      "connection to past"
+    ],
+    [
+      "emotional connections",
+      "creates",
+      "craftsmanship"
+    ],
+    [
+      "emotional connections",
+      "drives",
+      "exploration"
+    ],
+    [
+      "emotional connections",
+      "drives",
+      "motivation"
+    ],
+    [
+      "emotional connections",
+      "drives",
+      "motivations"
+    ],
+    [
+      "emotional connections",
+      "evokes",
+      "nostalgia"
+    ],
+    [
+      "emotional connections",
+      "fosters",
+      "personal growth"
+    ],
+    [
+      "emotional connections",
+      "fuels",
+      "adventure"
+    ],
+    [
+      "emotional connections",
+      "influences",
+      "historical perspectives"
+    ],
+    [
+      "emotional connections",
+      "informs",
+      "hobbies"
+    ],
+    [
+      "emotional connections",
+      "informs",
+      "psychological reasons"
+    ],
+    [
+      "emotional connections",
+      "is formed by",
+      "individuality"
+    ],
+    [
+      "emotional connections",
+      "is linked to",
+      "common behavior"
+    ],
+    [
+      "emotional connections",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "emotional connections",
+      "reflects",
+      "interests"
+    ],
+    [
+      "emotional connections",
+      "shapes",
+      "human nature"
+    ],
+    [
+      "emotional connections",
+      "triggers",
+      "important moments"
+    ],
+    [
+      "emotional fulfillment",
+      "fulfills",
+      "excitement"
+    ],
+    [
+      "emotional fulfillment",
+      "is a form of",
+      "rewarding experience"
+    ],
+    [
+      "emotional fulfillment",
+      "is a result of",
+      "human nature"
+    ],
+    [
+      "emotional fulfillment",
+      "is achieved through",
+      "achievement"
+    ],
+    [
+      "emotional fulfillment",
+      "is achieved through",
+      "closure"
+    ],
+    [
+      "emotional fulfillment",
+      "is achieved through",
+      "fulfillment"
+    ],
+    [
+      "emotional fulfillment",
+      "is achieved through",
+      "unity"
+    ],
+    [
+      "emotional fulfillment",
+      "is derived from",
+      "joy"
+    ],
+    [
+      "emotional fulfillment",
+      "is fulfilled by",
+      "satisfaction"
+    ],
+    [
+      "excitement",
+      "contributes to",
+      "unity"
+    ],
+    [
+      "excitement",
+      "drives",
+      "motivation"
+    ],
+    [
+      "excitement",
+      "expresses",
+      "self-expression"
+    ],
+    [
+      "excitement",
+      "is a result of",
+      "satisfaction"
+    ],
+    [
+      "excitement",
+      "is driven by",
+      "nostalgia"
+    ],
+    [
+      "excitement",
+      "is expressed through",
+      "identity"
+    ],
+    [
+      "excitement",
+      "is expressed through",
+      "reflection of self"
+    ],
+    [
+      "excitement",
+      "offers",
+      "financial security"
+    ],
+    [
+      "excitement",
+      "offers",
+      "rewarding experience"
+    ],
+    [
+      "excitement",
+      "satisfies",
+      "need for completion"
+    ],
+    [
+      "excitement",
+      "stimulates",
+      "purpose"
+    ],
+    [
+      "excitement",
+      "stimulates",
+      "sense of order"
+    ],
+    [
+      "excitement",
+      "triggers",
+      "joy"
+    ],
+    [
+      "exploration",
+      "creates",
+      "joy"
+    ],
+    [
+      "exploration",
+      "drives",
+      "nostalgia"
+    ],
+    [
+      "exploration",
+      "encourages",
+      "adventure"
+    ],
+    [
+      "exploration",
+      "enhances",
+      "authenticity"
+    ],
+    [
+      "exploration",
+      "enhances",
+      "personal growth"
+    ],
+    [
+      "exploration",
+      "explains",
+      "psychological reasons"
+    ],
+    [
+      "exploration",
+      "facilitates",
+      "self-expression"
+    ],
+    [
+      "exploration",
+      "fuels",
+      "individuality"
+    ],
+    [
+      "exploration",
+      "fuels",
+      "thrill of discovery"
+    ],
+    [
+      "exploration",
+      "involves",
+      "sharing experiences"
+    ],
+    [
+      "exploration",
+      "is associated with",
+      "pride"
+    ],
+    [
+      "exploration",
+      "is related to",
+      "identity"
+    ],
+    [
+      "exploration",
+      "leads to",
+      "closure"
+    ],
+    [
+      "exploration",
+      "provides",
+      "fulfillment"
+    ],
+    [
+      "exploration",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "exploration",
+      "satisfies",
+      "need for completion"
+    ],
+    [
+      "exploration",
+      "serves as",
+      "tangible reminders"
+    ],
+    [
+      "exploration",
+      "shapes",
+      "history"
+    ],
+    [
+      "exploration",
+      "stimulates",
+      "satisfaction"
+    ],
+    [
+      "financial security",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "financial security",
+      "contributes to",
+      "satisfaction"
+    ],
+    [
+      "financial security",
+      "ensures",
+      "authenticity"
+    ],
+    [
+      "financial security",
+      "is a form of",
+      "common behavior"
+    ],
+    [
+      "financial security",
+      "is associated with",
+      "predictability"
+    ],
+    [
+      "financial security",
+      "is influenced by",
+      "underlying motivations"
+    ],
+    [
+      "financial security",
+      "provides",
+      "long-term investment"
+    ],
+    [
+      "financial security",
+      "provides",
+      "motivation"
+    ],
+    [
+      "financial security",
+      "provides",
+      "pride"
+    ],
+    [
+      "financial security",
+      "provides",
+      "shared experiences"
+    ],
+    [
+      "financial security",
+      "provides",
+      "thrill of discovery"
+    ],
+    [
+      "financial security",
+      "relates to",
+      "important moments"
+    ],
+    [
+      "fulfillment",
+      "drives",
+      "motivation"
+    ],
+    [
+      "fulfillment",
+      "enhances",
+      "self-esteem"
+    ],
+    [
+      "fulfillment",
+      "fuels",
+      "adventure"
+    ],
+    [
+      "fulfillment",
+      "is a form of",
+      "satisfaction"
+    ],
+    [
+      "fulfillment",
+      "leads to",
+      "accomplishment"
+    ],
+    [
+      "fulfillment",
+      "leads to",
+      "pride"
+    ],
+    [
+      "fulfillment",
+      "provides",
+      "like-minded individuals"
+    ],
+    [
+      "fulfillment",
+      "provides",
+      "tangible reminders"
+    ],
+    [
+      "historical perspectives",
+      "compares to",
+      "psychological perspective"
+    ],
+    [
+      "historical perspectives",
+      "contributes to",
+      "personal growth"
+    ],
+    [
+      "historical perspectives",
+      "encourages",
+      "exploration"
+    ],
+    [
+      "historical perspectives",
+      "highlights",
+      "important moments"
+    ],
+    [
+      "historical perspectives",
+      "influences",
+      "desire for control"
+    ],
+    [
+      "historical perspectives",
+      "influences",
+      "long-term investment"
+    ],
+    [
+      "historical perspectives",
+      "informs",
+      "pursuit of novelty"
+    ],
+    [
+      "historical perspectives",
+      "informs",
+      "underlying motivations"
+    ],
+    [
+      "historical perspectives",
+      "is associated with",
+      "pride"
+    ],
+    [
+      "historical perspectives",
+      "is influenced by",
+      "financial security"
+    ],
+    [
+      "historical perspectives",
+      "provides",
+      "history"
+    ],
+    [
+      "historical perspectives",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "history",
+      "informs",
+      "desire for control"
+    ],
+    [
+      "history",
+      "informs",
+      "unity"
+    ],
+    [
+      "history",
+      "is explored in",
+      "psychological reasons"
+    ],
+    [
+      "history",
+      "is influenced by",
+      "sense of order"
+    ],
+    [
+      "history",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "history",
+      "reflects",
+      "passions"
+    ],
+    [
+      "history",
+      "represents",
+      "important moments"
+    ],
+    [
+      "hobbies",
+      "informs",
+      "historical perspectives"
+    ],
+    [
+      "human nature",
+      "drives",
+      "sense of purpose"
+    ],
+    [
+      "human nature",
+      "embodies",
+      "personality"
+    ],
+    [
+      "human nature",
+      "influences",
+      "identity"
+    ],
+    [
+      "human nature",
+      "influences",
+      "passions"
+    ],
+    [
+      "human nature",
+      "informs",
+      "history"
+    ],
+    [
+      "human nature",
+      "is a characteristic of",
+      "unity"
+    ],
+    [
+      "human nature",
+      "is a reflection of",
+      "rewarding experience"
+    ],
+    [
+      "human nature",
+      "is derived from",
+      "fulfillment"
+    ],
+    [
+      "human nature",
+      "is influenced by",
+      "long-term investment"
+    ],
+    [
+      "human nature",
+      "is inherent in",
+      "financial security"
+    ],
+    [
+      "human nature",
+      "is inherent to",
+      "predictability"
+    ],
+    [
+      "human nature",
+      "is inherent to",
+      "pride"
+    ],
+    [
+      "human nature",
+      "is linked to",
+      "psychological reasons"
+    ],
+    [
+      "human nature",
+      "is rooted in",
+      "personal fulfillment"
+    ],
+    [
+      "human nature",
+      "reflects",
+      "desire for control"
+    ],
+    [
+      "human nature",
+      "reflects",
+      "historical perspectives"
+    ],
+    [
+      "human nature",
+      "reflects",
+      "purpose"
+    ],
+    [
+      "human nature",
+      "shapes",
+      "individuality"
+    ],
+    [
+      "identity",
+      "achieves",
+      "accomplishment"
+    ],
+    [
+      "identity",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "identity",
+      "celebrates",
+      "celebrate artists"
+    ],
+    [
+      "identity",
+      "connects with",
+      "like-minded individuals"
+    ],
+    [
+      "identity",
+      "contributes to",
+      "personal fulfillment"
+    ],
+    [
+      "identity",
+      "defines",
+      "craftsmanship"
+    ],
+    [
+      "identity",
+      "drives",
+      "motivation"
+    ],
+    [
+      "identity",
+      "enhances",
+      "rewarding experience"
+    ],
+    [
+      "identity",
+      "evokes",
+      "tangible reminders"
+    ],
+    [
+      "identity",
+      "informs",
+      "shared experiences"
+    ],
+    [
+      "identity",
+      "is expressed through",
+      "fulfillment"
+    ],
+    [
+      "identity",
+      "is expressed through",
+      "individuality"
+    ],
+    [
+      "identity",
+      "is expressed through",
+      "unity"
+    ],
+    [
+      "identity",
+      "reflects",
+      "sense of purpose"
+    ],
+    [
+      "important moments",
+      "evokes",
+      "interests"
+    ],
+    [
+      "important moments",
+      "evokes",
+      "pursuit of novelty"
+    ],
+    [
+      "important moments",
+      "evokes",
+      "unity"
+    ],
+    [
+      "important moments",
+      "is influenced by",
+      "long-term investment"
+    ],
+    [
+      "important moments",
+      "leads to",
+      "personal fulfillment"
+    ],
+    [
+      "important moments",
+      "marks",
+      "exploration"
+    ],
+    [
+      "important moments",
+      "marks",
+      "hobbies"
+    ],
+    [
+      "important moments",
+      "marks",
+      "pride"
+    ],
+    [
+      "important moments",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "important moments",
+      "reminds",
+      "underlying motivations"
+    ],
+    [
+      "important moments",
+      "shapes",
+      "motivation"
+    ],
+    [
+      "individuality",
+      "drives",
+      "sense of purpose"
+    ],
+    [
+      "individuality",
+      "enhances",
+      "emotional fulfillment"
+    ],
+    [
+      "individuality",
+      "informs",
+      "nostalgia"
+    ],
+    [
+      "individuality",
+      "is expressed through",
+      "common behavior"
+    ],
+    [
+      "individuality",
+      "is expressed through",
+      "craftsmanship"
+    ],
+    [
+      "individuality",
+      "is expressed through",
+      "long-term investment"
+    ],
+    [
+      "individuality",
+      "is expressed through",
+      "satisfaction"
+    ],
+    [
+      "individuality",
+      "is expressed through",
+      "unity"
+    ],
+    [
+      "individuality",
+      "is influenced by",
+      "fulfillment"
+    ],
+    [
+      "individuality",
+      "is influenced by",
+      "predictability"
+    ],
+    [
+      "individuality",
+      "reflects",
+      "personal growth"
+    ],
+    [
+      "individuality",
+      "represents",
+      "tangible reminders"
+    ],
+    [
+      "interests",
+      "creates",
+      "rewarding experience"
+    ],
+    [
+      "interests",
+      "enhances",
+      "personal fulfillment"
+    ],
+    [
+      "interests",
+      "facilitates",
+      "sharing experiences"
+    ],
+    [
+      "interests",
+      "fulfills",
+      "fulfillment"
+    ],
+    [
+      "interests",
+      "fulfills",
+      "need for completion"
+    ],
+    [
+      "interests",
+      "is expressed through",
+      "self-expression"
+    ],
+    [
+      "interests",
+      "provides",
+      "stability"
+    ],
+    [
+      "interests",
+      "reflects",
+      "craftsmanship"
+    ],
+    [
+      "interests",
+      "reflects",
+      "excitement"
+    ],
+    [
+      "interests",
+      "reflects",
+      "human nature"
+    ],
+    [
+      "interests",
+      "reflects",
+      "nostalgia"
+    ],
+    [
+      "joy",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "joy",
+      "brings",
+      "interests"
+    ],
+    [
+      "joy",
+      "enhances",
+      "financial security"
+    ],
+    [
+      "joy",
+      "evokes",
+      "wholeness"
+    ],
+    [
+      "joy",
+      "facilitates",
+      "sharing experiences"
+    ],
+    [
+      "joy",
+      "is a common result of",
+      "common behavior"
+    ],
+    [
+      "joy",
+      "is caused by",
+      "excitement"
+    ],
+    [
+      "joy",
+      "is enhanced by",
+      "personal growth"
+    ],
+    [
+      "joy",
+      "leads to",
+      "fulfillment"
+    ],
+    [
+      "joy",
+      "leads to",
+      "stimulating activity"
+    ],
+    [
+      "joy",
+      "provides",
+      "emotional fulfillment"
+    ],
+    [
+      "joy",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "joy",
+      "results in",
+      "organizing collections"
+    ],
+    [
+      "joy",
+      "results in",
+      "purpose"
+    ],
+    [
+      "joy",
+      "triggers",
+      "accomplishment"
+    ],
+    [
+      "joy",
+      "triggers",
+      "thrill of discovery"
+    ],
+    [
+      "joy",
+      "triggers",
+      "underlying motivations"
+    ],
+    [
+      "like-minded individuals",
+      "connects",
+      "interests"
+    ],
+    [
+      "like-minded individuals",
+      "encourages",
+      "exploration"
+    ],
+    [
+      "like-minded individuals",
+      "encourages",
+      "motivations"
+    ],
+    [
+      "like-minded individuals",
+      "enhances",
+      "adventure"
+    ],
+    [
+      "like-minded individuals",
+      "evokes",
+      "pride"
+    ],
+    [
+      "like-minded individuals",
+      "is shared by",
+      "human nature"
+    ],
+    [
+      "like-minded individuals",
+      "is supported by",
+      "sense of order"
+    ],
+    [
+      "like-minded individuals",
+      "offers",
+      "tangible reminders"
+    ],
+    [
+      "like-minded individuals",
+      "provides",
+      "rewarding experience"
+    ],
+    [
+      "like-minded individuals",
+      "reflects",
+      "individuality"
+    ],
+    [
+      "like-minded individuals",
+      "reflects",
+      "personality"
+    ],
+    [
+      "long-term investment",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "long-term investment",
+      "creates",
+      "sense of order"
+    ],
+    [
+      "long-term investment",
+      "encourages",
+      "adventure"
+    ],
+    [
+      "long-term investment",
+      "enhances",
+      "thrill of discovery"
+    ],
+    [
+      "long-term investment",
+      "fulfills",
+      "desire for control"
+    ],
+    [
+      "long-term investment",
+      "informs",
+      "values"
+    ],
+    [
+      "long-term investment",
+      "is a form of",
+      "nostalgia"
+    ],
+    [
+      "long-term investment",
+      "is a form of",
+      "stimulating activity"
+    ],
+    [
+      "long-term investment",
+      "is influenced by",
+      "craftsmanship"
+    ],
+    [
+      "long-term investment",
+      "is linked to",
+      "tangible reminders"
+    ],
+    [
+      "long-term investment",
+      "supports",
+      "need for completion"
+    ],
+    [
+      "market trends",
+      "affects",
+      "interests"
+    ],
+    [
+      "market trends",
+      "affects",
+      "passions"
+    ],
+    [
+      "market trends",
+      "affects",
+      "self-esteem"
+    ],
+    [
+      "market trends",
+      "contributes to",
+      "fulfillment"
+    ],
+    [
+      "market trends",
+      "enhances",
+      "sharing experiences"
+    ],
+    [
+      "market trends",
+      "influences",
+      "motivation"
+    ],
+    [
+      "market trends",
+      "influences",
+      "underlying motivations"
+    ],
+    [
+      "market trends",
+      "is informed by",
+      "history"
+    ],
+    [
+      "market trends",
+      "reflects",
+      "human nature"
+    ],
+    [
+      "milestone",
+      "marks",
+      "authenticity"
+    ],
+    [
+      "milestone",
+      "marks",
+      "fulfillment"
+    ],
+    [
+      "milestone",
+      "marks",
+      "like-minded individuals"
+    ],
+    [
+      "milestone",
+      "marks",
+      "passions"
+    ],
+    [
+      "milestone",
+      "marks",
+      "predictability"
+    ],
+    [
+      "motivation",
+      "drives",
+      "sense of order"
+    ],
+    [
+      "motivation",
+      "enhances",
+      "satisfaction"
+    ],
+    [
+      "motivation",
+      "ensures",
+      "authenticity"
+    ],
+    [
+      "motivation",
+      "explains",
+      "psychological reasons"
+    ],
+    [
+      "motivation",
+      "fuels",
+      "thrill of discovery"
+    ],
+    [
+      "motivation",
+      "informs",
+      "unity"
+    ],
+    [
+      "motivation",
+      "motivates",
+      "historical perspectives"
+    ],
+    [
+      "motivation",
+      "provides",
+      "emotional fulfillment"
+    ],
+    [
+      "motivation",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "motivation",
+      "provides",
+      "stability"
+    ],
+    [
+      "motivation",
+      "stimulates",
+      "self-expression"
+    ],
+    [
+      "motivations",
+      "drives",
+      "pursuit of novelty"
+    ],
+    [
+      "motivations",
+      "enhances",
+      "self-esteem"
+    ],
+    [
+      "motivations",
+      "influences",
+      "nostalgia"
+    ],
+    [
+      "motivations",
+      "influences",
+      "pride"
+    ],
+    [
+      "motivations",
+      "informs",
+      "psychological perspective"
+    ],
+    [
+      "motivations",
+      "inspired by",
+      "collecting experience"
+    ],
+    [
+      "motivations",
+      "is a motivation for",
+      "craftsmanship"
+    ],
+    [
+      "motivations",
+      "is derived from",
+      "satisfaction"
+    ],
+    [
+      "motivations",
+      "is driven by",
+      "fulfillment"
+    ],
+    [
+      "motivations",
+      "is driven by",
+      "predictability"
+    ],
+    [
+      "motivations",
+      "is expressed through",
+      "unity"
+    ],
+    [
+      "motivations",
+      "is influenced by",
+      "long-term investment"
+    ],
+    [
+      "motivations",
+      "is influenced by",
+      "wholeness"
+    ],
+    [
+      "motivations",
+      "provides",
+      "stability"
+    ],
+    [
+      "need for completion",
+      "enhances",
+      "self-esteem"
+    ],
+    [
+      "need for completion",
+      "is a requirement for",
+      "cohesive collection"
+    ],
+    [
+      "need for completion",
+      "is fulfilled by",
+      "unity"
+    ],
+    [
+      "need for completion",
+      "satisfies",
+      "accomplishment"
+    ],
+    [
+      "need for completion",
+      "satisfies",
+      "craftsmanship"
+    ],
+    [
+      "need for completion",
+      "satisfies",
+      "sharing experiences"
+    ],
+    [
+      "nostalgia",
+      "appreciates",
+      "craftsmanship"
+    ],
+    [
+      "nostalgia",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "nostalgia",
+      "creates",
+      "connection to past"
+    ],
+    [
+      "nostalgia",
+      "creates",
+      "unity"
+    ],
+    [
+      "nostalgia",
+      "enhances",
+      "personal fulfillment"
+    ],
+    [
+      "nostalgia",
+      "enhances",
+      "pride"
+    ],
+    [
+      "nostalgia",
+      "facilitates",
+      "closure"
+    ],
+    [
+      "nostalgia",
+      "illustrates",
+      "common behavior"
+    ],
+    [
+      "nostalgia",
+      "informs",
+      "history"
+    ],
+    [
+      "nostalgia",
+      "is linked to",
+      "underlying motivations"
+    ],
+    [
+      "nostalgia",
+      "provides",
+      "sense of order"
+    ],
+    [
+      "nostalgia",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "nostalgia",
+      "triggers",
+      "important moments"
+    ],
+    [
+      "organizing collections",
+      "drives",
+      "complexity of collecting"
+    ],
+    [
+      "organizing collections",
+      "is achieved through",
+      "accomplishment"
+    ],
+    [
+      "organizing collections",
+      "provides",
+      "emotional fulfillment"
+    ],
+    [
+      "organizing collections",
+      "satisfies",
+      "need for completion"
+    ],
+    [
+      "passions",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "passions",
+      "celebrates",
+      "celebrate artists"
+    ],
+    [
+      "passions",
+      "drives",
+      "adventure"
+    ],
+    [
+      "passions",
+      "drives",
+      "motivations"
+    ],
+    [
+      "passions",
+      "enables",
+      "self-expression"
+    ],
+    [
+      "passions",
+      "facilitates",
+      "sharing experiences"
+    ],
+    [
+      "passions",
+      "gives",
+      "sense of purpose"
+    ],
+    [
+      "passions",
+      "informs",
+      "unity"
+    ],
+    [
+      "passions",
+      "is reflected in",
+      "common behavior"
+    ],
+    [
+      "passions",
+      "leads to",
+      "personal fulfillment"
+    ],
+    [
+      "passions",
+      "motivates",
+      "motivation"
+    ],
+    [
+      "passions",
+      "provides",
+      "rewarding experience"
+    ],
+    [
+      "passions",
+      "reflects",
+      "identity"
+    ],
+    [
+      "passions",
+      "reflects",
+      "individuality"
+    ],
+    [
+      "personal fulfillment",
+      "contributes to",
+      "history"
+    ],
+    [
+      "personal fulfillment",
+      "enhances",
+      "emotional fulfillment"
+    ],
+    [
+      "personal fulfillment",
+      "is a source of",
+      "fulfillment"
+    ],
+    [
+      "personal fulfillment",
+      "is achieved through",
+      "psychological reasons"
+    ],
+    [
+      "personal fulfillment",
+      "is achieved through",
+      "unity"
+    ],
+    [
+      "personal fulfillment",
+      "is fulfilled by",
+      "underlying motivations"
+    ],
+    [
+      "personal fulfillment",
+      "is fulfilled by",
+      "values"
+    ],
+    [
+      "personal fulfillment",
+      "is inspired by",
+      "passions"
+    ],
+    [
+      "personal fulfillment",
+      "provides",
+      "stability"
+    ],
+    [
+      "personal fulfillment",
+      "results in",
+      "emotional connections"
+    ],
+    [
+      "personal fulfillment",
+      "satisfies",
+      "need for completion"
+    ],
+    [
+      "personal growth",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "personal growth",
+      "contributes to",
+      "thrill of discovery"
+    ],
+    [
+      "personal growth",
+      "contributes to",
+      "wholeness"
+    ],
+    [
+      "personal growth",
+      "enhances",
+      "individuality"
+    ],
+    [
+      "personal growth",
+      "facilitates",
+      "closure"
+    ],
+    [
+      "personal growth",
+      "fuels",
+      "adventure"
+    ],
+    [
+      "personal growth",
+      "involves",
+      "motivations"
+    ],
+    [
+      "personal growth",
+      "is enhanced by",
+      "predictability"
+    ],
+    [
+      "personal growth",
+      "is influenced by",
+      "important moments"
+    ],
+    [
+      "personal growth",
+      "is linked to",
+      "psychological reasons"
+    ],
+    [
+      "personal growth",
+      "is linked to",
+      "rewarding experience"
+    ],
+    [
+      "personal growth",
+      "provides",
+      "tangible reminders"
+    ],
+    [
+      "personal growth",
+      "results in",
+      "pride"
+    ],
+    [
+      "personality",
+      "celebrates",
+      "celebrate artists"
+    ],
+    [
+      "personality",
+      "defines",
+      "identity"
+    ],
+    [
+      "personality",
+      "enhances",
+      "personal fulfillment"
+    ],
+    [
+      "personality",
+      "fuels",
+      "adventure"
+    ],
+    [
+      "personality",
+      "is a factor in",
+      "predictability"
+    ],
+    [
+      "personality",
+      "is a reflection of",
+      "achievement"
+    ],
+    [
+      "personality",
+      "is expressed through",
+      "shared experiences"
+    ],
+    [
+      "personality",
+      "reflects",
+      "passions"
+    ],
+    [
+      "personality",
+      "reflects",
+      "rewarding experience"
+    ],
+    [
+      "personality",
+      "shapes",
+      "collector's journey"
+    ],
+    [
+      "predictability",
+      "affects",
+      "market trends"
+    ],
+    [
+      "predictability",
+      "contributes to",
+      "unity"
+    ],
+    [
+      "predictability",
+      "creates",
+      "craftsmanship"
+    ],
+    [
+      "predictability",
+      "creates",
+      "shared experiences"
+    ],
+    [
+      "predictability",
+      "ensures",
+      "authenticity"
+    ],
+    [
+      "predictability",
+      "informs",
+      "psychological perspective"
+    ],
+    [
+      "predictability",
+      "is linked to",
+      "underlying motivations"
+    ],
+    [
+      "predictability",
+      "leads to",
+      "closure"
+    ],
+    [
+      "predictability",
+      "provides",
+      "collector's journey"
+    ],
+    [
+      "predictability",
+      "provides",
+      "excitement"
+    ],
+    [
+      "predictability",
+      "provides",
+      "sense of order"
+    ],
+    [
+      "predictability",
+      "satisfies",
+      "need for completion"
+    ],
+    [
+      "predictability",
+      "stimulates",
+      "unique items"
+    ],
+    [
+      "predictability",
+      "supports",
+      "long-term investment"
+    ],
+    [
+      "preservation methods",
+      "requires",
+      "hobbies"
+    ],
+    [
+      "pride",
+      "boosts",
+      "need for completion"
+    ],
+    [
+      "pride",
+      "contributes to",
+      "sense of purpose"
+    ],
+    [
+      "pride",
+      "enhances",
+      "individuality"
+    ],
+    [
+      "pride",
+      "evokes",
+      "market trends"
+    ],
+    [
+      "pride",
+      "expresses",
+      "self-expression"
+    ],
+    [
+      "pride",
+      "is a result of",
+      "joy"
+    ],
+    [
+      "pride",
+      "is a source of",
+      "pursuit of novelty"
+    ],
+    [
+      "pride",
+      "is a source of",
+      "sense of order"
+    ],
+    [
+      "pride",
+      "is appreciated by",
+      "connection to past"
+    ],
+    [
+      "pride",
+      "is associated with",
+      "long-term investment"
+    ],
+    [
+      "pride",
+      "is expressed through",
+      "personality"
+    ],
+    [
+      "pride",
+      "leads to",
+      "closure"
+    ],
+    [
+      "psychological perspective",
+      "enhances",
+      "sharing experiences"
+    ],
+    [
+      "psychological perspective",
+      "fulfills",
+      "need for completion"
+    ],
+    [
+      "psychological perspective",
+      "influences",
+      "satisfaction"
+    ],
+    [
+      "psychological perspective",
+      "informs",
+      "closure"
+    ],
+    [
+      "psychological perspective",
+      "informs",
+      "history"
+    ],
+    [
+      "psychological perspective",
+      "informs",
+      "identity"
+    ],
+    [
+      "psychological perspective",
+      "informs",
+      "passions"
+    ],
+    [
+      "psychological perspective",
+      "informs",
+      "personality"
+    ],
+    [
+      "psychological perspective",
+      "informs",
+      "tangible reminders"
+    ],
+    [
+      "psychological perspective",
+      "informs",
+      "unity"
+    ],
+    [
+      "psychological perspective",
+      "is a perspective on",
+      "sense of order"
+    ],
+    [
+      "psychological perspective",
+      "is analyzed by",
+      "personal growth"
+    ],
+    [
+      "psychological perspective",
+      "is analyzed in",
+      "excitement"
+    ],
+    [
+      "psychological perspective",
+      "is analyzed through",
+      "important moments"
+    ],
+    [
+      "psychological perspective",
+      "is viewed through",
+      "pride"
+    ],
+    [
+      "psychological perspective",
+      "leads to",
+      "emotional fulfillment"
+    ],
+    [
+      "psychological perspective",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "psychological perspective",
+      "provides",
+      "wholeness"
+    ],
+    [
+      "psychological perspective",
+      "shapes",
+      "motivations"
+    ],
+    [
+      "psychological reasons",
+      "explains",
+      "motivations"
+    ],
+    [
+      "psychological reasons",
+      "explains",
+      "nostalgia"
+    ],
+    [
+      "psychological reasons",
+      "informs",
+      "craftsmanship"
+    ],
+    [
+      "psychological reasons",
+      "informs",
+      "individuality"
+    ],
+    [
+      "psychological reasons",
+      "informs",
+      "underlying motivations"
+    ],
+    [
+      "psychological reasons",
+      "inspired by",
+      "excitement"
+    ],
+    [
+      "psychological reasons",
+      "is analyzed by",
+      "pursuit of novelty"
+    ],
+    [
+      "psychological reasons",
+      "is explained by",
+      "unity"
+    ],
+    [
+      "psychological reasons",
+      "is linked to",
+      "pride"
+    ],
+    [
+      "psychological reasons",
+      "promotes",
+      "adventure"
+    ],
+    [
+      "psychological reasons",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "purpose",
+      "achieves",
+      "achievement"
+    ],
+    [
+      "purpose",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "purpose",
+      "contributes to",
+      "accomplishment"
+    ],
+    [
+      "purpose",
+      "drives",
+      "adventure"
+    ],
+    [
+      "purpose",
+      "drives",
+      "desire for control"
+    ],
+    [
+      "purpose",
+      "drives",
+      "exploration"
+    ],
+    [
+      "purpose",
+      "drives",
+      "stimulating activity"
+    ],
+    [
+      "purpose",
+      "enables",
+      "self-expression"
+    ],
+    [
+      "purpose",
+      "ensures",
+      "authenticity"
+    ],
+    [
+      "purpose",
+      "facilitates",
+      "sharing experiences"
+    ],
+    [
+      "purpose",
+      "forms",
+      "cohesive collection"
+    ],
+    [
+      "purpose",
+      "fosters",
+      "community engagement"
+    ],
+    [
+      "purpose",
+      "fosters",
+      "pride"
+    ],
+    [
+      "purpose",
+      "fulfills",
+      "need for completion"
+    ],
+    [
+      "purpose",
+      "informs",
+      "psychological perspective"
+    ],
+    [
+      "purpose",
+      "involves",
+      "organizing collections"
+    ],
+    [
+      "purpose",
+      "provides",
+      "financial security"
+    ],
+    [
+      "purpose",
+      "provides",
+      "stability"
+    ],
+    [
+      "purpose",
+      "provides",
+      "wholeness"
+    ],
+    [
+      "purpose",
+      "reflects",
+      "reflection of self"
+    ],
+    [
+      "pursuit of novelty",
+      "brings",
+      "joy"
+    ],
+    [
+      "pursuit of novelty",
+      "can be",
+      "long-term investment"
+    ],
+    [
+      "pursuit of novelty",
+      "connects",
+      "like-minded individuals"
+    ],
+    [
+      "pursuit of novelty",
+      "drives",
+      "personality"
+    ],
+    [
+      "pursuit of novelty",
+      "drives",
+      "sense of purpose"
+    ],
+    [
+      "pursuit of novelty",
+      "enables",
+      "self-expression"
+    ],
+    [
+      "pursuit of novelty",
+      "encourages",
+      "adventure"
+    ],
+    [
+      "pursuit of novelty",
+      "enhances",
+      "sharing experiences"
+    ],
+    [
+      "pursuit of novelty",
+      "fuels",
+      "exploration"
+    ],
+    [
+      "pursuit of novelty",
+      "fulfills",
+      "fulfillment"
+    ],
+    [
+      "pursuit of novelty",
+      "influences",
+      "desire for control"
+    ],
+    [
+      "pursuit of novelty",
+      "involves",
+      "emotional connections"
+    ],
+    [
+      "pursuit of novelty",
+      "is linked to",
+      "psychological perspective"
+    ],
+    [
+      "pursuit of novelty",
+      "offers",
+      "rewarding experience"
+    ],
+    [
+      "pursuit of novelty",
+      "offers",
+      "wholeness"
+    ],
+    [
+      "pursuit of novelty",
+      "organizes",
+      "sense of order"
+    ],
+    [
+      "pursuit of novelty",
+      "provides",
+      "purpose"
+    ],
+    [
+      "pursuit of novelty",
+      "provides",
+      "stability"
+    ],
+    [
+      "pursuit of novelty",
+      "reflects",
+      "identity"
+    ],
+    [
+      "pursuit of novelty",
+      "reflects",
+      "individuality"
+    ],
+    [
+      "pursuit of novelty",
+      "represents",
+      "reflection of self"
+    ],
+    [
+      "pursuit of novelty",
+      "stimulates",
+      "passions"
+    ],
+    [
+      "rare collectibles",
+      "includes",
+      "unique items"
+    ],
+    [
+      "reflection of self",
+      "is a manifestation of",
+      "like-minded individuals"
+    ],
+    [
+      "reflection of self",
+      "is a reflection of",
+      "pride"
+    ],
+    [
+      "reflection of self",
+      "is expressed through",
+      "self-expression"
+    ],
+    [
+      "reflection of self",
+      "marks",
+      "milestone"
+    ],
+    [
+      "reflection of self",
+      "offers",
+      "sense of purpose"
+    ],
+    [
+      "reflection of self",
+      "reflects",
+      "passions"
+    ],
+    [
+      "reflection of self",
+      "reveals",
+      "market trends"
+    ],
+    [
+      "reflection of self",
+      "serves as",
+      "tangible reminders"
+    ],
+    [
+      "rewarding experience",
+      "drives",
+      "motivations"
+    ],
+    [
+      "rewarding experience",
+      "enhances",
+      "individuality"
+    ],
+    [
+      "rewarding experience",
+      "enhances",
+      "long-term investment"
+    ],
+    [
+      "rewarding experience",
+      "enhances",
+      "market trends"
+    ],
+    [
+      "rewarding experience",
+      "is a result of",
+      "joy"
+    ],
+    [
+      "rewarding experience",
+      "is a type of",
+      "fulfillment"
+    ],
+    [
+      "rewarding experience",
+      "is enhanced by",
+      "shared experiences"
+    ],
+    [
+      "rewarding experience",
+      "is linked to",
+      "psychological perspective"
+    ],
+    [
+      "rewarding experience",
+      "is part of",
+      "thrill of discovery"
+    ],
+    [
+      "rewarding experience",
+      "motivates",
+      "underlying motivations"
+    ],
+    [
+      "rewarding experience",
+      "reflects",
+      "reflection of self"
+    ],
+    [
+      "rewarding experience",
+      "results in",
+      "achievement"
+    ],
+    [
+      "rewarding experience",
+      "serves as",
+      "tangible reminders"
+    ],
+    [
+      "satisfaction",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "satisfaction",
+      "contributes to",
+      "personal fulfillment"
+    ],
+    [
+      "satisfaction",
+      "contributes to",
+      "sense of order"
+    ],
+    [
+      "satisfaction",
+      "enhances",
+      "sharing experiences"
+    ],
+    [
+      "satisfaction",
+      "illustrates",
+      "common behavior"
+    ],
+    [
+      "satisfaction",
+      "is a result of",
+      "achievement"
+    ],
+    [
+      "satisfaction",
+      "is influenced by",
+      "underlying motivations"
+    ],
+    [
+      "satisfaction",
+      "leads to",
+      "pride"
+    ],
+    [
+      "satisfaction",
+      "leads to",
+      "wholeness"
+    ],
+    [
+      "satisfaction",
+      "results in",
+      "predictability"
+    ],
+    [
+      "satisfaction",
+      "results in",
+      "unity"
+    ],
+    [
+      "satisfaction",
+      "satisfies",
+      "need for completion"
+    ],
+    [
+      "satisfaction",
+      "satisfies",
+      "pursuit of novelty"
+    ],
+    [
+      "self-esteem",
+      "affects",
+      "psychological perspective"
+    ],
+    [
+      "self-esteem",
+      "boosts",
+      "connection to past"
+    ],
+    [
+      "self-esteem",
+      "boosts",
+      "desire for control"
+    ],
+    [
+      "self-esteem",
+      "boosts",
+      "important moments"
+    ],
+    [
+      "self-esteem",
+      "enhances",
+      "collecting experience"
+    ],
+    [
+      "self-esteem",
+      "enhances",
+      "craftsmanship"
+    ],
+    [
+      "self-esteem",
+      "enhances",
+      "historical perspectives"
+    ],
+    [
+      "self-esteem",
+      "enhances",
+      "history"
+    ],
+    [
+      "self-esteem",
+      "enhances",
+      "like-minded individuals"
+    ],
+    [
+      "self-esteem",
+      "informs",
+      "psychological reasons"
+    ],
+    [
+      "self-esteem",
+      "is influenced by",
+      "reflection of self"
+    ],
+    [
+      "self-esteem",
+      "is reflected in",
+      "personality"
+    ],
+    [
+      "self-esteem",
+      "supports",
+      "individuality"
+    ],
+    [
+      "self-expression",
+      "demonstrates",
+      "authenticity"
+    ],
+    [
+      "self-expression",
+      "expresses",
+      "individuality"
+    ],
+    [
+      "self-expression",
+      "fulfills",
+      "need for completion"
+    ],
+    [
+      "self-expression",
+      "involves",
+      "organizing collections"
+    ],
+    [
+      "self-expression",
+      "involves",
+      "sharing experiences"
+    ],
+    [
+      "self-expression",
+      "is a form of",
+      "common behavior"
+    ],
+    [
+      "self-expression",
+      "provides",
+      "emotional fulfillment"
+    ],
+    [
+      "self-expression",
+      "reflects",
+      "market trends"
+    ],
+    [
+      "sense of order",
+      "affects",
+      "market trends"
+    ],
+    [
+      "sense of order",
+      "brings",
+      "joy"
+    ],
+    [
+      "sense of order",
+      "connects",
+      "connection to past"
+    ],
+    [
+      "sense of order",
+      "contributes to",
+      "personal fulfillment"
+    ],
+    [
+      "sense of order",
+      "contributes to",
+      "personal growth"
+    ],
+    [
+      "sense of order",
+      "contributes to",
+      "wholeness"
+    ],
+    [
+      "sense of order",
+      "creates",
+      "thrill of discovery"
+    ],
+    [
+      "sense of order",
+      "enhances",
+      "self-esteem"
+    ],
+    [
+      "sense of order",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "sense of order",
+      "informs",
+      "psychological reasons"
+    ],
+    [
+      "sense of order",
+      "is a result of",
+      "satisfaction"
+    ],
+    [
+      "sense of order",
+      "is associated with",
+      "important moments"
+    ],
+    [
+      "sense of order",
+      "is related to",
+      "historical perspectives"
+    ],
+    [
+      "sense of order",
+      "is related to",
+      "stimulating activity"
+    ],
+    [
+      "sense of order",
+      "leads to",
+      "emotional fulfillment"
+    ],
+    [
+      "sense of order",
+      "provides",
+      "closure"
+    ],
+    [
+      "sense of order",
+      "provides",
+      "common behavior"
+    ],
+    [
+      "sense of order",
+      "provides",
+      "financial security"
+    ],
+    [
+      "sense of order",
+      "provides",
+      "identity"
+    ],
+    [
+      "sense of order",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "sense of order",
+      "reflects",
+      "interests"
+    ],
+    [
+      "sense of purpose",
+      "achieves",
+      "closure"
+    ],
+    [
+      "sense of purpose",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "sense of purpose",
+      "driven by",
+      "self-expression"
+    ],
+    [
+      "sense of purpose",
+      "drives",
+      "personality"
+    ],
+    [
+      "sense of purpose",
+      "informs",
+      "motivations"
+    ],
+    [
+      "sense of purpose",
+      "is achieved through",
+      "financial security"
+    ],
+    [
+      "sense of purpose",
+      "provides",
+      "emotional fulfillment"
+    ],
+    [
+      "sense of purpose",
+      "provides",
+      "fulfillment"
+    ],
+    [
+      "sense of purpose",
+      "provides",
+      "predictability"
+    ],
+    [
+      "sense of purpose",
+      "satisfies",
+      "need for completion"
+    ],
+    [
+      "shared experiences",
+      "connects",
+      "like-minded individuals"
+    ],
+    [
+      "shared experiences",
+      "contrasts with",
+      "individuality"
+    ],
+    [
+      "shared experiences",
+      "contributes to",
+      "adventure"
+    ],
+    [
+      "shared experiences",
+      "contributes to",
+      "sense of order"
+    ],
+    [
+      "shared experiences",
+      "enables",
+      "self-expression"
+    ],
+    [
+      "shared experiences",
+      "enhances",
+      "authenticity"
+    ],
+    [
+      "shared experiences",
+      "evokes",
+      "pride"
+    ],
+    [
+      "shared experiences",
+      "facilitates",
+      "sense of purpose"
+    ],
+    [
+      "shared experiences",
+      "fosters",
+      "excitement"
+    ],
+    [
+      "shared experiences",
+      "includes",
+      "unique items"
+    ],
+    [
+      "shared experiences",
+      "influences",
+      "motivations"
+    ],
+    [
+      "shared experiences",
+      "informs",
+      "history"
+    ],
+    [
+      "shared experiences",
+      "involves",
+      "sharing experiences"
+    ],
+    [
+      "shared experiences",
+      "is a form of",
+      "stimulating activity"
+    ],
+    [
+      "shared experiences",
+      "is connected to",
+      "underlying motivations"
+    ],
+    [
+      "shared experiences",
+      "is derived from",
+      "collecting experience"
+    ],
+    [
+      "shared experiences",
+      "is part of",
+      "celebrate artists"
+    ],
+    [
+      "shared experiences",
+      "is part of",
+      "collector's journey"
+    ],
+    [
+      "shared experiences",
+      "leads to",
+      "personal fulfillment"
+    ],
+    [
+      "shared experiences",
+      "marks",
+      "milestone"
+    ],
+    [
+      "shared experiences",
+      "provides",
+      "stability"
+    ],
+    [
+      "shared experiences",
+      "reflects",
+      "human nature"
+    ],
+    [
+      "shared experiences",
+      "results in",
+      "accomplishment"
+    ],
+    [
+      "sharing experiences",
+      "connects",
+      "unity"
+    ],
+    [
+      "sharing experiences",
+      "enhances",
+      "adventure"
+    ],
+    [
+      "sharing experiences",
+      "enhances",
+      "emotional fulfillment"
+    ],
+    [
+      "sharing experiences",
+      "enhances",
+      "personal growth"
+    ],
+    [
+      "sharing experiences",
+      "enhances",
+      "sense of purpose"
+    ],
+    [
+      "sharing experiences",
+      "enhances",
+      "stability"
+    ],
+    [
+      "sharing experiences",
+      "facilitates",
+      "sense of order"
+    ],
+    [
+      "sharing experiences",
+      "is enhanced by",
+      "excitement"
+    ],
+    [
+      "sharing experiences",
+      "is enhanced by",
+      "thrill of discovery"
+    ],
+    [
+      "sharing experiences",
+      "is shared through",
+      "individuality"
+    ],
+    [
+      "stability",
+      "contributes to",
+      "joy"
+    ],
+    [
+      "stability",
+      "contributes to",
+      "self-esteem"
+    ],
+    [
+      "stability",
+      "contributes to",
+      "sense of order"
+    ],
+    [
+      "stability",
+      "contributes to",
+      "tangible reminders"
+    ],
+    [
+      "stability",
+      "is a source of",
+      "satisfaction"
+    ],
+    [
+      "stability",
+      "is influenced by",
+      "psychological perspective"
+    ],
+    [
+      "stability",
+      "is supported by",
+      "personal growth"
+    ],
+    [
+      "stability",
+      "is supported by",
+      "unity"
+    ],
+    [
+      "stability",
+      "offers",
+      "closure"
+    ],
+    [
+      "stability",
+      "provides",
+      "exploration"
+    ],
+    [
+      "stability",
+      "provides",
+      "financial security"
+    ],
+    [
+      "stability",
+      "provides",
+      "historical perspectives"
+    ],
+    [
+      "stability",
+      "provides",
+      "long-term investment"
+    ],
+    [
+      "stability",
+      "provides",
+      "nostalgia"
+    ],
+    [
+      "stability",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "stability",
+      "provides",
+      "thrill of discovery"
+    ],
+    [
+      "stability",
+      "supports",
+      "pride"
+    ],
+    [
+      "stimulating activity",
+      "contributes to",
+      "personal fulfillment"
+    ],
+    [
+      "stimulating activity",
+      "drives",
+      "motivations"
+    ],
+    [
+      "stimulating activity",
+      "encourages",
+      "exploration"
+    ],
+    [
+      "stimulating activity",
+      "encourages",
+      "individuality"
+    ],
+    [
+      "stimulating activity",
+      "enhances",
+      "nostalgia"
+    ],
+    [
+      "stimulating activity",
+      "facilitates",
+      "self-expression"
+    ],
+    [
+      "stimulating activity",
+      "generates",
+      "excitement"
+    ],
+    [
+      "stimulating activity",
+      "induces",
+      "thrill of discovery"
+    ],
+    [
+      "stimulating activity",
+      "is a form of",
+      "personality"
+    ],
+    [
+      "stimulating activity",
+      "is a form of",
+      "rewarding experience"
+    ],
+    [
+      "stimulating activity",
+      "is enhanced by",
+      "satisfaction"
+    ],
+    [
+      "stimulating activity",
+      "is influenced by",
+      "authenticity"
+    ],
+    [
+      "stimulating activity",
+      "is linked to",
+      "tangible reminders"
+    ],
+    [
+      "stimulating activity",
+      "is viewed through",
+      "psychological perspective"
+    ],
+    [
+      "stimulating activity",
+      "promotes",
+      "personal growth"
+    ],
+    [
+      "stimulating activity",
+      "provides",
+      "adventure"
+    ],
+    [
+      "stimulating activity",
+      "provides",
+      "predictability"
+    ],
+    [
+      "stimulating activity",
+      "shapes",
+      "identity"
+    ],
+    [
+      "tangible reminders",
+      "evokes",
+      "history"
+    ],
+    [
+      "tangible reminders",
+      "evokes",
+      "personality"
+    ],
+    [
+      "tangible reminders",
+      "informs",
+      "human nature"
+    ],
+    [
+      "tangible reminders",
+      "is inspired by",
+      "financial security"
+    ],
+    [
+      "tangible reminders",
+      "is inspired by",
+      "motivation"
+    ],
+    [
+      "tangible reminders",
+      "is represented by",
+      "sense of order"
+    ],
+    [
+      "tangible reminders",
+      "provides",
+      "predictability"
+    ],
+    [
+      "tangible reminders",
+      "reinforces",
+      "sense of purpose"
+    ],
+    [
+      "tangible reminders",
+      "reminds of",
+      "unity"
+    ],
+    [
+      "tangible reminders",
+      "serves as",
+      "craftsmanship"
+    ],
+    [
+      "tangible reminders",
+      "serves as",
+      "excitement"
+    ],
+    [
+      "tangible reminders",
+      "serves as",
+      "nostalgia"
+    ],
+    [
+      "tangible reminders",
+      "serves as",
+      "passions"
+    ],
+    [
+      "tangible reminders",
+      "serves as",
+      "pride"
+    ],
+    [
+      "thrill of discovery",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "thrill of discovery",
+      "drives",
+      "motivations"
+    ],
+    [
+      "thrill of discovery",
+      "encourages",
+      "self-expression"
+    ],
+    [
+      "thrill of discovery",
+      "facilitates",
+      "sharing experiences"
+    ],
+    [
+      "thrill of discovery",
+      "informs",
+      "individuality"
+    ],
+    [
+      "thrill of discovery",
+      "informs",
+      "psychological perspective"
+    ],
+    [
+      "thrill of discovery",
+      "is inspired by",
+      "excitement"
+    ],
+    [
+      "thrill of discovery",
+      "is inspired by",
+      "wholeness"
+    ],
+    [
+      "thrill of discovery",
+      "is linked to",
+      "organizing collections"
+    ],
+    [
+      "thrill of discovery",
+      "leads to",
+      "pursuit of novelty"
+    ],
+    [
+      "thrill of discovery",
+      "provides",
+      "emotional fulfillment"
+    ],
+    [
+      "thrill of discovery",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "thrill of discovery",
+      "results in",
+      "accomplishment"
+    ],
+    [
+      "thrill of discovery",
+      "stimulates",
+      "interests"
+    ],
+    [
+      "underlying motivations",
+      "contributes to",
+      "personal growth"
+    ],
+    [
+      "underlying motivations",
+      "contributes to",
+      "sense of order"
+    ],
+    [
+      "underlying motivations",
+      "creates",
+      "excitement"
+    ],
+    [
+      "underlying motivations",
+      "creates",
+      "stability"
+    ],
+    [
+      "underlying motivations",
+      "drives",
+      "need for completion"
+    ],
+    [
+      "underlying motivations",
+      "drives",
+      "pursuit of novelty"
+    ],
+    [
+      "underlying motivations",
+      "informs",
+      "emotional connections"
+    ],
+    [
+      "underlying motivations",
+      "informs",
+      "psychological perspective"
+    ],
+    [
+      "underlying motivations",
+      "is a result of",
+      "rewarding experience"
+    ],
+    [
+      "underlying motivations",
+      "is linked to",
+      "desire for control"
+    ],
+    [
+      "underlying motivations",
+      "is linked to",
+      "thrill of discovery"
+    ],
+    [
+      "underlying motivations",
+      "is rooted in",
+      "human nature"
+    ],
+    [
+      "underlying motivations",
+      "offers",
+      "tangible reminders"
+    ],
+    [
+      "underlying motivations",
+      "promotes",
+      "community engagement"
+    ],
+    [
+      "underlying motivations",
+      "provides",
+      "financial security"
+    ],
+    [
+      "underlying motivations",
+      "shapes",
+      "identity"
+    ],
+    [
+      "underlying motivations",
+      "shapes",
+      "interests"
+    ],
+    [
+      "underlying motivations",
+      "shapes",
+      "values"
+    ],
+    [
+      "unique items",
+      "defines",
+      "identity"
+    ],
+    [
+      "unique items",
+      "is determined by",
+      "collection value"
+    ],
+    [
+      "unique items",
+      "leads to",
+      "accomplishment"
+    ],
+    [
+      "unique items",
+      "marks",
+      "milestone"
+    ],
+    [
+      "unique items",
+      "provides",
+      "rewarding experience"
+    ],
+    [
+      "unique items",
+      "represents",
+      "achievement"
+    ],
+    [
+      "unique items",
+      "represents",
+      "reflection of self"
+    ],
+    [
+      "unity",
+      "achieves",
+      "closure"
+    ],
+    [
+      "unity",
+      "contributes to",
+      "stability"
+    ],
+    [
+      "unity",
+      "informs",
+      "craftsmanship"
+    ],
+    [
+      "unity",
+      "is a",
+      "reflection of self"
+    ],
+    [
+      "unity",
+      "offers",
+      "rewarding experience"
+    ],
+    [
+      "unity",
+      "provides",
+      "sense of purpose"
+    ],
+    [
+      "values",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "values",
+      "creates",
+      "sense of order"
+    ],
+    [
+      "values",
+      "drives",
+      "exploration"
+    ],
+    [
+      "values",
+      "drives",
+      "motivations"
+    ],
+    [
+      "values",
+      "drives",
+      "pursuit of novelty"
+    ],
+    [
+      "values",
+      "encourages",
+      "adventure"
+    ],
+    [
+      "values",
+      "guides",
+      "purpose"
+    ],
+    [
+      "values",
+      "influences",
+      "hobbies"
+    ],
+    [
+      "values",
+      "influences",
+      "human nature"
+    ],
+    [
+      "values",
+      "informs",
+      "historical perspectives"
+    ],
+    [
+      "values",
+      "is a form of",
+      "stimulating activity"
+    ],
+    [
+      "values",
+      "is celebrated by",
+      "celebrate artists"
+    ],
+    [
+      "values",
+      "is expressed through",
+      "sharing experiences"
+    ],
+    [
+      "values",
+      "is shared among",
+      "like-minded individuals"
+    ],
+    [
+      "values",
+      "marks",
+      "important moments"
+    ],
+    [
+      "values",
+      "marks",
+      "milestone"
+    ],
+    [
+      "values",
+      "reflects",
+      "identity"
+    ],
+    [
+      "values",
+      "reflects",
+      "interests"
+    ],
+    [
+      "values",
+      "represents",
+      "unique items"
+    ],
+    [
+      "values",
+      "shapes",
+      "individuality"
+    ],
+    [
+      "wholeness",
+      "contributes to",
+      "exploration"
+    ],
+    [
+      "wholeness",
+      "contributes to",
+      "long-term investment"
+    ],
+    [
+      "wholeness",
+      "contributes to",
+      "stimulating activity"
+    ],
+    [
+      "wholeness",
+      "enables",
+      "self-expression"
+    ],
+    [
+      "wholeness",
+      "fulfills",
+      "need for completion"
+    ],
+    [
+      "wholeness",
+      "is a form of",
+      "individuality"
+    ],
+    [
+      "wholeness",
+      "is achieved through",
+      "organizing collections"
+    ],
+    [
+      "wholeness",
+      "is associated with",
+      "emotional fulfillment"
+    ],
+    [
+      "wholeness",
+      "results in",
+      "rewarding experience"
+    ]
+  ],
+  "edges": [
+    "achieves",
+    "affects",
+    "appreciates",
+    "boosts",
+    "brings",
+    "can be",
+    "celebrates",
+    "compares to",
+    "connects",
+    "connects with",
+    "contrasts with",
+    "contributes to",
+    "creates",
+    "defines",
+    "demonstrates",
+    "driven by",
+    "drives",
+    "elicits",
+    "embodies",
+    "enables",
+    "encourages",
+    "enhances",
+    "ensures",
+    "evokes",
+    "exemplifies",
+    "explains",
+    "expresses",
+    "facilitates",
+    "forms",
+    "fosters",
+    "fuels",
+    "fulfills",
+    "generates",
+    "gives",
+    "guides",
+    "highlights",
+    "illustrates",
+    "includes",
+    "increases",
+    "induces",
+    "influences",
+    "informs",
+    "inspired by",
+    "inspires",
+    "involves",
+    "is a",
+    "is a characteristic of",
+    "is a common result of",
+    "is a factor in",
+    "is a form of",
+    "is a manifestation of",
+    "is a motivation for",
+    "is a part of",
+    "is a perspective on",
+    "is a reflection of",
+    "is a requirement for",
+    "is a result of",
+    "is a source of",
+    "is a type of",
+    "is achieved through",
+    "is an example of",
+    "is analyzed by",
+    "is analyzed in",
+    "is analyzed through",
+    "is appreciated by",
+    "is associated with",
+    "is caused by",
+    "is celebrated by",
+    "is characterized as",
+    "is characterized by",
+    "is connected to",
+    "is derived from",
+    "is determined by",
+    "is driven by",
+    "is enhanced by",
+    "is exhibited by",
+    "is explained by",
+    "is explored in",
+    "is explored through",
+    "is expressed through",
+    "is formed by",
+    "is fulfilled by",
+    "is influenced by",
+    "is informed by",
+    "is inherent in",
+    "is inherent to",
+    "is inspired by",
+    "is linked to",
+    "is marked by",
+    "is part of",
+    "is reflected in",
+    "is related to",
+    "is represented by",
+    "is rooted in",
+    "is shaped by",
+    "is shared among",
+    "is shared by",
+    "is shared through",
+    "is supported by",
+    "is viewed through",
+    "leads to",
+    "marks",
+    "mirrors",
+    "motivates",
+    "offers",
+    "organizes",
+    "promotes",
+    "provides",
+    "reflects",
+    "reinforces",
+    "relates to",
+    "reminds",
+    "reminds of",
+    "represents",
+    "requires",
+    "results in",
+    "reveals",
+    "satisfies",
+    "serves as",
+    "shapes",
+    "stimulates",
+    "supports",
+    "triggers",
+    "values of"
+  ]
+}

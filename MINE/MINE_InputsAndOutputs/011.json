@@ -1,0 +1,10602 @@
+{
+  "entities": [
+    "Broca's area",
+    "Wernicke's area",
+    "acquisition",
+    "acquisition ease",
+    "analysis",
+    "angular gyrus",
+    "arcuate fasciculus",
+    "articulatory muscles",
+    "auditory cortex",
+    "auditory information",
+    "brain function",
+    "brain plasticity",
+    "brain regions",
+    "brain reorganization",
+    "brain research",
+    "brain stages",
+    "children's learning",
+    "cognition",
+    "cognitive integration",
+    "cognitive processes",
+    "coherent speech",
+    "communication development",
+    "communication disorders",
+    "communication facilitation",
+    "communication skills",
+    "complex computations",
+    "complex processes",
+    "comprehension",
+    "content understanding",
+    "decoding",
+    "developmental adaptability",
+    "developmental stages",
+    "expressive aphasia",
+    "grammatical organization",
+    "grammatical processing",
+    "grammatical rules",
+    "graphemes",
+    "integration",
+    "language acquisition",
+    "language comprehension",
+    "language development",
+    "language efficiency",
+    "language learning",
+    "language processing",
+    "language proficiency",
+    "language retrieval",
+    "language stages",
+    "language structures",
+    "learning adaptability",
+    "learning process",
+    "left hemisphere",
+    "linguistic flexibility",
+    "linguistic function",
+    "linguistic growth",
+    "linguistic input",
+    "linguistic output",
+    "linguistic understanding",
+    "meaning extraction",
+    "meaning linking",
+    "meaningful communication",
+    "mental lexicon",
+    "motor areas",
+    "motor commands",
+    "multifaceted interactions",
+    "neural adaptation",
+    "neural connections",
+    "neural networks",
+    "neural pathways",
+    "neural plasticity",
+    "neural regions",
+    "neurorehabilitation",
+    "perception",
+    "phonemes",
+    "phonological information",
+    "processing harmony",
+    "processing implications",
+    "production",
+    "reading support",
+    "receptive aphasia",
+    "recognition",
+    "response generation",
+    "semantic information",
+    "semantic processing",
+    "sentence production",
+    "sentence structure",
+    "speech muscles",
+    "speech perception",
+    "speech production",
+    "speech sounds",
+    "stages of processing",
+    "syntactic information",
+    "visual cortex",
+    "visual information",
+    "word learning",
+    "word retrieval",
+    "writing support",
+    "written symbols"
+  ],
+  "relations": [
+    [
+      "Broca's area",
+      "affects",
+      "expressive aphasia"
+    ],
+    [
+      "Broca's area",
+      "connected to",
+      "arcuate fasciculus"
+    ],
+    [
+      "Broca's area",
+      "connected to",
+      "neural connections"
+    ],
+    [
+      "Broca's area",
+      "connects with",
+      "Wernicke's area"
+    ],
+    [
+      "Broca's area",
+      "contributes to",
+      "linguistic growth"
+    ],
+    [
+      "Broca's area",
+      "controlled by",
+      "speech muscles"
+    ],
+    [
+      "Broca's area",
+      "enables",
+      "communication skills"
+    ],
+    [
+      "Broca's area",
+      "enhances",
+      "learning adaptability"
+    ],
+    [
+      "Broca's area",
+      "facilitates",
+      "acquisition"
+    ],
+    [
+      "Broca's area",
+      "facilitates",
+      "communication facilitation"
+    ],
+    [
+      "Broca's area",
+      "facilitates",
+      "grammatical processing"
+    ],
+    [
+      "Broca's area",
+      "influences",
+      "multifaceted interactions"
+    ],
+    [
+      "Broca's area",
+      "informs",
+      "auditory cortex"
+    ],
+    [
+      "Broca's area",
+      "informs",
+      "language stages"
+    ],
+    [
+      "Broca's area",
+      "involves",
+      "integration"
+    ],
+    [
+      "Broca's area",
+      "involves",
+      "neural pathways"
+    ],
+    [
+      "Broca's area",
+      "is a function of",
+      "linguistic output"
+    ],
+    [
+      "Broca's area",
+      "is associated with",
+      "communication disorders"
+    ],
+    [
+      "Broca's area",
+      "is associated with",
+      "language retrieval"
+    ],
+    [
+      "Broca's area",
+      "is influenced by",
+      "processing harmony"
+    ],
+    [
+      "Broca's area",
+      "processes",
+      "analysis"
+    ],
+    [
+      "Broca's area",
+      "processes",
+      "linguistic input"
+    ],
+    [
+      "Broca's area",
+      "processes",
+      "semantic processing"
+    ],
+    [
+      "Broca's area",
+      "produced by",
+      "coherent speech"
+    ],
+    [
+      "Broca's area",
+      "supports",
+      "content understanding"
+    ],
+    [
+      "Broca's area",
+      "supports",
+      "linguistic function"
+    ],
+    [
+      "Broca's area",
+      "supports",
+      "stages of processing"
+    ],
+    [
+      "Wernicke's area",
+      "associated with",
+      "brain plasticity"
+    ],
+    [
+      "Wernicke's area",
+      "associated with",
+      "brain reorganization"
+    ],
+    [
+      "Wernicke's area",
+      "associated with",
+      "expressive aphasia"
+    ],
+    [
+      "Wernicke's area",
+      "communicates with",
+      "Broca's area"
+    ],
+    [
+      "Wernicke's area",
+      "contributes to",
+      "language acquisition"
+    ],
+    [
+      "Wernicke's area",
+      "contributes to",
+      "linguistic growth"
+    ],
+    [
+      "Wernicke's area",
+      "facilitates",
+      "linguistic function"
+    ],
+    [
+      "Wernicke's area",
+      "facilitates processing in",
+      "processing harmony"
+    ],
+    [
+      "Wernicke's area",
+      "influences",
+      "speech muscles"
+    ],
+    [
+      "Wernicke's area",
+      "involved in",
+      "cognition"
+    ],
+    [
+      "Wernicke's area",
+      "involves",
+      "stages of processing"
+    ],
+    [
+      "Wernicke's area",
+      "is analyzed by",
+      "analysis"
+    ],
+    [
+      "Wernicke's area",
+      "is associated with",
+      "processing implications"
+    ],
+    [
+      "Wernicke's area",
+      "is involved in",
+      "recognition"
+    ],
+    [
+      "Wernicke's area",
+      "is located in",
+      "neural connections"
+    ],
+    [
+      "Wernicke's area",
+      "is part of",
+      "neural regions"
+    ],
+    [
+      "Wernicke's area",
+      "is processed by",
+      "grammatical organization"
+    ],
+    [
+      "Wernicke's area",
+      "is processed by",
+      "language processing"
+    ],
+    [
+      "Wernicke's area",
+      "supports",
+      "communication skills"
+    ],
+    [
+      "Wernicke's area",
+      "supports",
+      "word retrieval"
+    ],
+    [
+      "acquisition",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "acquisition",
+      "enhances",
+      "coherent speech"
+    ],
+    [
+      "acquisition",
+      "influences",
+      "grammatical processing"
+    ],
+    [
+      "acquisition",
+      "informs",
+      "brain research"
+    ],
+    [
+      "acquisition",
+      "involves",
+      "cognition"
+    ],
+    [
+      "acquisition",
+      "involves",
+      "decoding"
+    ],
+    [
+      "acquisition",
+      "involves",
+      "language structures"
+    ],
+    [
+      "acquisition",
+      "is supported by",
+      "Broca's area"
+    ],
+    [
+      "acquisition",
+      "results in",
+      "linguistic output"
+    ],
+    [
+      "acquisition ease",
+      "affects",
+      "language stages"
+    ],
+    [
+      "acquisition ease",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "acquisition ease",
+      "enables",
+      "semantic processing"
+    ],
+    [
+      "acquisition ease",
+      "enhances",
+      "auditory information"
+    ],
+    [
+      "acquisition ease",
+      "enhances",
+      "children's learning"
+    ],
+    [
+      "acquisition ease",
+      "enhances",
+      "cognitive processes"
+    ],
+    [
+      "acquisition ease",
+      "enhances",
+      "communication facilitation"
+    ],
+    [
+      "acquisition ease",
+      "enhances",
+      "decoding"
+    ],
+    [
+      "acquisition ease",
+      "enhances",
+      "developmental stages"
+    ],
+    [
+      "acquisition ease",
+      "enhances",
+      "learning adaptability"
+    ],
+    [
+      "acquisition ease",
+      "enhances",
+      "neural plasticity"
+    ],
+    [
+      "acquisition ease",
+      "enhances",
+      "visual information"
+    ],
+    [
+      "acquisition ease",
+      "facilitates",
+      "grammatical processing"
+    ],
+    [
+      "acquisition ease",
+      "facilitates",
+      "grammatical rules"
+    ],
+    [
+      "acquisition ease",
+      "facilitates",
+      "mental lexicon"
+    ],
+    [
+      "acquisition ease",
+      "facilitates",
+      "recognition"
+    ],
+    [
+      "acquisition ease",
+      "facilitates",
+      "stages of processing"
+    ],
+    [
+      "acquisition ease",
+      "involves",
+      "motor commands"
+    ],
+    [
+      "acquisition ease",
+      "involves",
+      "syntactic information"
+    ],
+    [
+      "acquisition ease",
+      "is facilitated by",
+      "developmental adaptability"
+    ],
+    [
+      "acquisition ease",
+      "promotes",
+      "multifaceted interactions"
+    ],
+    [
+      "acquisition ease",
+      "requires",
+      "articulatory muscles"
+    ],
+    [
+      "acquisition ease",
+      "supports",
+      "language structures"
+    ],
+    [
+      "analysis",
+      "contributes to",
+      "communication development"
+    ],
+    [
+      "analysis",
+      "contributes to",
+      "language development"
+    ],
+    [
+      "analysis",
+      "enables",
+      "acquisition ease"
+    ],
+    [
+      "analysis",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "analysis",
+      "involves",
+      "brain stages"
+    ],
+    [
+      "analysis",
+      "involves",
+      "decoding"
+    ],
+    [
+      "analysis",
+      "involves",
+      "graphemes"
+    ],
+    [
+      "analysis",
+      "involves",
+      "language retrieval"
+    ],
+    [
+      "analysis",
+      "involves",
+      "linguistic input"
+    ],
+    [
+      "analysis",
+      "involves",
+      "written symbols"
+    ],
+    [
+      "analysis",
+      "is a factor in",
+      "language efficiency"
+    ],
+    [
+      "analysis",
+      "is part of",
+      "perception"
+    ],
+    [
+      "analysis",
+      "supports",
+      "acquisition"
+    ],
+    [
+      "analysis",
+      "supports",
+      "linguistic growth"
+    ],
+    [
+      "angular gyrus",
+      "connects",
+      "Broca's area"
+    ],
+    [
+      "angular gyrus",
+      "connects",
+      "neural connections"
+    ],
+    [
+      "angular gyrus",
+      "connects to",
+      "Wernicke's area"
+    ],
+    [
+      "angular gyrus",
+      "connects to",
+      "neural pathways"
+    ],
+    [
+      "angular gyrus",
+      "contributes to",
+      "cognition"
+    ],
+    [
+      "angular gyrus",
+      "contributes to",
+      "grammatical processing"
+    ],
+    [
+      "angular gyrus",
+      "contributes to",
+      "language processing"
+    ],
+    [
+      "angular gyrus",
+      "controls",
+      "speech muscles"
+    ],
+    [
+      "angular gyrus",
+      "coordinates",
+      "motor areas"
+    ],
+    [
+      "angular gyrus",
+      "enables",
+      "linguistic flexibility"
+    ],
+    [
+      "angular gyrus",
+      "enables",
+      "response generation"
+    ],
+    [
+      "angular gyrus",
+      "enhances",
+      "neural plasticity"
+    ],
+    [
+      "angular gyrus",
+      "facilitates",
+      "communication skills"
+    ],
+    [
+      "angular gyrus",
+      "facilitates",
+      "content understanding"
+    ],
+    [
+      "angular gyrus",
+      "facilitates",
+      "integration"
+    ],
+    [
+      "angular gyrus",
+      "facilitates",
+      "perception"
+    ],
+    [
+      "angular gyrus",
+      "facilitates",
+      "production"
+    ],
+    [
+      "angular gyrus",
+      "facilitates",
+      "speech production"
+    ],
+    [
+      "angular gyrus",
+      "has implications for",
+      "processing implications"
+    ],
+    [
+      "angular gyrus",
+      "influences",
+      "cognitive processes"
+    ],
+    [
+      "angular gyrus",
+      "integrates",
+      "auditory cortex"
+    ],
+    [
+      "angular gyrus",
+      "involves",
+      "recognition"
+    ],
+    [
+      "angular gyrus",
+      "is influenced by",
+      "brain plasticity"
+    ],
+    [
+      "angular gyrus",
+      "is part of",
+      "brain regions"
+    ],
+    [
+      "angular gyrus",
+      "is studied in",
+      "brain research"
+    ],
+    [
+      "angular gyrus",
+      "processed by",
+      "visual information"
+    ],
+    [
+      "angular gyrus",
+      "processes",
+      "graphemes"
+    ],
+    [
+      "angular gyrus",
+      "processes",
+      "written symbols"
+    ],
+    [
+      "angular gyrus",
+      "supports",
+      "cognitive integration"
+    ],
+    [
+      "angular gyrus",
+      "supports",
+      "communication development"
+    ],
+    [
+      "angular gyrus",
+      "supports",
+      "language development"
+    ],
+    [
+      "angular gyrus",
+      "supports",
+      "linguistic function"
+    ],
+    [
+      "angular gyrus",
+      "supports",
+      "semantic processing"
+    ],
+    [
+      "arcuate fasciculus",
+      "affected by",
+      "coherent speech"
+    ],
+    [
+      "arcuate fasciculus",
+      "affected by",
+      "expressive aphasia"
+    ],
+    [
+      "arcuate fasciculus",
+      "connected by",
+      "language processing"
+    ],
+    [
+      "arcuate fasciculus",
+      "connects",
+      "Wernicke's area"
+    ],
+    [
+      "arcuate fasciculus",
+      "connects",
+      "angular gyrus"
+    ],
+    [
+      "arcuate fasciculus",
+      "connects",
+      "written symbols"
+    ],
+    [
+      "arcuate fasciculus",
+      "enables",
+      "production"
+    ],
+    [
+      "arcuate fasciculus",
+      "enhances",
+      "acquisition"
+    ],
+    [
+      "arcuate fasciculus",
+      "facilitates",
+      "grammatical processing"
+    ],
+    [
+      "arcuate fasciculus",
+      "facilitates",
+      "linguistic function"
+    ],
+    [
+      "arcuate fasciculus",
+      "influences",
+      "speech muscles"
+    ],
+    [
+      "arcuate fasciculus",
+      "involves",
+      "graphemes"
+    ],
+    [
+      "arcuate fasciculus",
+      "is connected to",
+      "brain function"
+    ],
+    [
+      "arcuate fasciculus",
+      "is facilitated by",
+      "content understanding"
+    ],
+    [
+      "arcuate fasciculus",
+      "promotes",
+      "language development"
+    ],
+    [
+      "articulatory muscles",
+      "affected by",
+      "communication disorders"
+    ],
+    [
+      "articulatory muscles",
+      "affects",
+      "expressive aphasia"
+    ],
+    [
+      "articulatory muscles",
+      "commands",
+      "recognition"
+    ],
+    [
+      "articulatory muscles",
+      "controlled by",
+      "brain function"
+    ],
+    [
+      "articulatory muscles",
+      "controlled by",
+      "coherent speech"
+    ],
+    [
+      "articulatory muscles",
+      "controlled by",
+      "communication skills"
+    ],
+    [
+      "articulatory muscles",
+      "controlled by",
+      "graphemes"
+    ],
+    [
+      "articulatory muscles",
+      "controlled by",
+      "response generation"
+    ],
+    [
+      "articulatory muscles",
+      "controlled by",
+      "speech perception"
+    ],
+    [
+      "articulatory muscles",
+      "controls",
+      "Broca's area"
+    ],
+    [
+      "articulatory muscles",
+      "controls",
+      "brain research"
+    ],
+    [
+      "articulatory muscles",
+      "controls",
+      "cognition"
+    ],
+    [
+      "articulatory muscles",
+      "controls",
+      "cognitive processes"
+    ],
+    [
+      "articulatory muscles",
+      "controls",
+      "communication facilitation"
+    ],
+    [
+      "articulatory muscles",
+      "controls",
+      "meaning linking"
+    ],
+    [
+      "articulatory muscles",
+      "controls",
+      "phonological information"
+    ],
+    [
+      "articulatory muscles",
+      "controls",
+      "speech muscles"
+    ],
+    [
+      "articulatory muscles",
+      "develops",
+      "language development"
+    ],
+    [
+      "articulatory muscles",
+      "executed by",
+      "word learning"
+    ],
+    [
+      "articulatory muscles",
+      "influences",
+      "language efficiency"
+    ],
+    [
+      "articulatory muscles",
+      "influences",
+      "phonemes"
+    ],
+    [
+      "articulatory muscles",
+      "influences",
+      "semantic information"
+    ],
+    [
+      "articulatory muscles",
+      "involves",
+      "language learning"
+    ],
+    [
+      "articulatory muscles",
+      "involves",
+      "meaning extraction"
+    ],
+    [
+      "articulatory muscles",
+      "involves",
+      "receptive aphasia"
+    ],
+    [
+      "articulatory muscles",
+      "involves",
+      "syntactic information"
+    ],
+    [
+      "articulatory muscles",
+      "is executed by",
+      "acquisition"
+    ],
+    [
+      "articulatory muscles",
+      "requires",
+      "speech production"
+    ],
+    [
+      "auditory cortex",
+      "aids",
+      "meaning extraction"
+    ],
+    [
+      "auditory cortex",
+      "aids",
+      "semantic processing"
+    ],
+    [
+      "auditory cortex",
+      "connected to",
+      "neural connections"
+    ],
+    [
+      "auditory cortex",
+      "connects to",
+      "arcuate fasciculus"
+    ],
+    [
+      "auditory cortex",
+      "contributes to",
+      "linguistic growth"
+    ],
+    [
+      "auditory cortex",
+      "controlled by",
+      "speech muscles"
+    ],
+    [
+      "auditory cortex",
+      "controls",
+      "articulatory muscles"
+    ],
+    [
+      "auditory cortex",
+      "coordinates with",
+      "motor areas"
+    ],
+    [
+      "auditory cortex",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "auditory cortex",
+      "facilitates",
+      "acquisition"
+    ],
+    [
+      "auditory cortex",
+      "facilitates",
+      "recognition"
+    ],
+    [
+      "auditory cortex",
+      "impairs",
+      "expressive aphasia"
+    ],
+    [
+      "auditory cortex",
+      "influences",
+      "brain reorganization"
+    ],
+    [
+      "auditory cortex",
+      "initiates",
+      "perception"
+    ],
+    [
+      "auditory cortex",
+      "interacts with",
+      "Wernicke's area"
+    ],
+    [
+      "auditory cortex",
+      "involved in",
+      "brain stages"
+    ],
+    [
+      "auditory cortex",
+      "involves",
+      "grammatical organization"
+    ],
+    [
+      "auditory cortex",
+      "involves",
+      "language processing"
+    ],
+    [
+      "auditory cortex",
+      "involves",
+      "language stages"
+    ],
+    [
+      "auditory cortex",
+      "involves",
+      "linguistic understanding"
+    ],
+    [
+      "auditory cortex",
+      "involves",
+      "sentence production"
+    ],
+    [
+      "auditory cortex",
+      "is facilitated by",
+      "processing harmony"
+    ],
+    [
+      "auditory cortex",
+      "is involved in",
+      "brain regions"
+    ],
+    [
+      "auditory cortex",
+      "is involved in",
+      "production"
+    ],
+    [
+      "auditory cortex",
+      "is processed by",
+      "coherent speech"
+    ],
+    [
+      "auditory cortex",
+      "is processed by",
+      "response generation"
+    ],
+    [
+      "auditory cortex",
+      "processed by",
+      "language structures"
+    ],
+    [
+      "auditory cortex",
+      "processed by",
+      "linguistic output"
+    ],
+    [
+      "auditory cortex",
+      "processed by",
+      "word learning"
+    ],
+    [
+      "auditory cortex",
+      "processes",
+      "auditory information"
+    ],
+    [
+      "auditory cortex",
+      "processes",
+      "complex computations"
+    ],
+    [
+      "auditory cortex",
+      "processes",
+      "graphemes"
+    ],
+    [
+      "auditory cortex",
+      "processes",
+      "speech sounds"
+    ],
+    [
+      "auditory cortex",
+      "processes",
+      "written symbols"
+    ],
+    [
+      "auditory cortex",
+      "supports",
+      "communication development"
+    ],
+    [
+      "auditory cortex",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "auditory cortex",
+      "supports",
+      "language comprehension"
+    ],
+    [
+      "auditory cortex",
+      "supports",
+      "language development"
+    ],
+    [
+      "auditory cortex",
+      "supports",
+      "language efficiency"
+    ],
+    [
+      "auditory cortex",
+      "supports",
+      "language proficiency"
+    ],
+    [
+      "auditory information",
+      "aids",
+      "decoding"
+    ],
+    [
+      "auditory information",
+      "aids",
+      "grammatical processing"
+    ],
+    [
+      "auditory information",
+      "comprises",
+      "phonemes"
+    ],
+    [
+      "auditory information",
+      "comprises",
+      "speech sounds"
+    ],
+    [
+      "auditory information",
+      "contributes to",
+      "meaning extraction"
+    ],
+    [
+      "auditory information",
+      "enhances",
+      "developmental adaptability"
+    ],
+    [
+      "auditory information",
+      "facilitates",
+      "meaningful communication"
+    ],
+    [
+      "auditory information",
+      "has implications for",
+      "processing implications"
+    ],
+    [
+      "auditory information",
+      "influences",
+      "children's learning"
+    ],
+    [
+      "auditory information",
+      "influences",
+      "response generation"
+    ],
+    [
+      "auditory information",
+      "interacts with",
+      "neural networks"
+    ],
+    [
+      "auditory information",
+      "involves",
+      "analysis"
+    ],
+    [
+      "auditory information",
+      "involves",
+      "complex processes"
+    ],
+    [
+      "auditory information",
+      "involves",
+      "language processing"
+    ],
+    [
+      "auditory information",
+      "involves",
+      "linguistic understanding"
+    ],
+    [
+      "auditory information",
+      "involves",
+      "word learning"
+    ],
+    [
+      "auditory information",
+      "is informed by",
+      "linguistic output"
+    ],
+    [
+      "auditory information",
+      "is processed by",
+      "Wernicke's area"
+    ],
+    [
+      "auditory information",
+      "is processed by",
+      "complex computations"
+    ],
+    [
+      "auditory information",
+      "is processed by",
+      "linguistic flexibility"
+    ],
+    [
+      "auditory information",
+      "is processed by",
+      "neural adaptation"
+    ],
+    [
+      "auditory information",
+      "is processed by",
+      "sentence structure"
+    ],
+    [
+      "auditory information",
+      "is processed in",
+      "language stages"
+    ],
+    [
+      "auditory information",
+      "leads to",
+      "perception"
+    ],
+    [
+      "auditory information",
+      "processed by",
+      "angular gyrus"
+    ],
+    [
+      "auditory information",
+      "processed by",
+      "coherent speech"
+    ],
+    [
+      "auditory information",
+      "processed by",
+      "content understanding"
+    ],
+    [
+      "auditory information",
+      "processes",
+      "Broca's area"
+    ],
+    [
+      "auditory information",
+      "processes",
+      "visual cortex"
+    ],
+    [
+      "auditory information",
+      "provides",
+      "linguistic input"
+    ],
+    [
+      "auditory information",
+      "provides",
+      "reading support"
+    ],
+    [
+      "auditory information",
+      "supports",
+      "communication skills"
+    ],
+    [
+      "auditory information",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "brain function",
+      "enables",
+      "Wernicke's area"
+    ],
+    [
+      "brain function",
+      "enables",
+      "communication facilitation"
+    ],
+    [
+      "brain function",
+      "enables",
+      "content understanding"
+    ],
+    [
+      "brain function",
+      "influences",
+      "communication development"
+    ],
+    [
+      "brain function",
+      "involves",
+      "acquisition"
+    ],
+    [
+      "brain function",
+      "is a component of",
+      "communication skills"
+    ],
+    [
+      "brain function",
+      "supports",
+      "Broca's area"
+    ],
+    [
+      "brain function",
+      "supports",
+      "neural plasticity"
+    ],
+    [
+      "brain function",
+      "supports",
+      "visual cortex"
+    ],
+    [
+      "brain function",
+      "supports",
+      "writing support"
+    ],
+    [
+      "brain plasticity",
+      "affects",
+      "motor commands"
+    ],
+    [
+      "brain plasticity",
+      "controls",
+      "articulatory muscles"
+    ],
+    [
+      "brain plasticity",
+      "enables",
+      "production"
+    ],
+    [
+      "brain plasticity",
+      "enhances",
+      "brain regions"
+    ],
+    [
+      "brain plasticity",
+      "enhances",
+      "motor areas"
+    ],
+    [
+      "brain plasticity",
+      "enhances",
+      "speech muscles"
+    ],
+    [
+      "brain plasticity",
+      "facilitates",
+      "acquisition"
+    ],
+    [
+      "brain plasticity",
+      "facilitates",
+      "language development"
+    ],
+    [
+      "brain plasticity",
+      "is influenced by",
+      "auditory cortex"
+    ],
+    [
+      "brain plasticity",
+      "provides",
+      "writing support"
+    ],
+    [
+      "brain plasticity",
+      "supports",
+      "neurorehabilitation"
+    ],
+    [
+      "brain regions",
+      "comprises",
+      "brain function"
+    ],
+    [
+      "brain regions",
+      "comprises",
+      "recognition"
+    ],
+    [
+      "brain regions",
+      "controlled by",
+      "speech muscles"
+    ],
+    [
+      "brain regions",
+      "coordinates with",
+      "motor areas"
+    ],
+    [
+      "brain regions",
+      "enables",
+      "coherent speech"
+    ],
+    [
+      "brain regions",
+      "involves",
+      "analysis"
+    ],
+    [
+      "brain regions",
+      "involves",
+      "linguistic output"
+    ],
+    [
+      "brain regions",
+      "involves",
+      "perception"
+    ],
+    [
+      "brain regions",
+      "is supported by",
+      "content understanding"
+    ],
+    [
+      "brain regions",
+      "provides",
+      "linguistic input"
+    ],
+    [
+      "brain regions",
+      "supports",
+      "acquisition"
+    ],
+    [
+      "brain regions",
+      "supports",
+      "communication facilitation"
+    ],
+    [
+      "brain regions",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "brain regions",
+      "supports",
+      "semantic processing"
+    ],
+    [
+      "brain reorganization",
+      "enables",
+      "linguistic flexibility"
+    ],
+    [
+      "brain reorganization",
+      "enables",
+      "sentence structure"
+    ],
+    [
+      "brain reorganization",
+      "enables",
+      "speech sounds"
+    ],
+    [
+      "brain reorganization",
+      "enhances",
+      "communication skills"
+    ],
+    [
+      "brain reorganization",
+      "enhances",
+      "mental lexicon"
+    ],
+    [
+      "brain reorganization",
+      "facilitates",
+      "acquisition"
+    ],
+    [
+      "brain reorganization",
+      "facilitates",
+      "acquisition ease"
+    ],
+    [
+      "brain reorganization",
+      "facilitates",
+      "neural connections"
+    ],
+    [
+      "brain reorganization",
+      "facilitates",
+      "written symbols"
+    ],
+    [
+      "brain reorganization",
+      "improves",
+      "language proficiency"
+    ],
+    [
+      "brain reorganization",
+      "influences",
+      "cognition"
+    ],
+    [
+      "brain reorganization",
+      "influences",
+      "language stages"
+    ],
+    [
+      "brain reorganization",
+      "influences",
+      "language structures"
+    ],
+    [
+      "brain reorganization",
+      "involves",
+      "angular gyrus"
+    ],
+    [
+      "brain reorganization",
+      "involves",
+      "language processing"
+    ],
+    [
+      "brain reorganization",
+      "involves",
+      "linguistic output"
+    ],
+    [
+      "brain reorganization",
+      "involves",
+      "neural networks"
+    ],
+    [
+      "brain reorganization",
+      "involves",
+      "sentence production"
+    ],
+    [
+      "brain reorganization",
+      "processes",
+      "auditory information"
+    ],
+    [
+      "brain reorganization",
+      "promotes",
+      "language development"
+    ],
+    [
+      "brain reorganization",
+      "provides",
+      "syntactic information"
+    ],
+    [
+      "brain reorganization",
+      "supports",
+      "grammatical organization"
+    ],
+    [
+      "brain reorganization",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "brain reorganization",
+      "supports",
+      "meaning extraction"
+    ],
+    [
+      "brain reorganization",
+      "supports",
+      "motor areas"
+    ],
+    [
+      "brain reorganization",
+      "supports",
+      "semantic information"
+    ],
+    [
+      "brain reorganization",
+      "supports",
+      "semantic processing"
+    ],
+    [
+      "brain reorganization",
+      "supports",
+      "word retrieval"
+    ],
+    [
+      "brain research",
+      "advances",
+      "language acquisition"
+    ],
+    [
+      "brain research",
+      "analyzes",
+      "linguistic input"
+    ],
+    [
+      "brain research",
+      "contributes to",
+      "semantic processing"
+    ],
+    [
+      "brain research",
+      "drives",
+      "semantic information"
+    ],
+    [
+      "brain research",
+      "facilitates",
+      "decoding"
+    ],
+    [
+      "brain research",
+      "influences",
+      "communication facilitation"
+    ],
+    [
+      "brain research",
+      "informs",
+      "analysis"
+    ],
+    [
+      "brain research",
+      "informs",
+      "communication disorders"
+    ],
+    [
+      "brain research",
+      "informs",
+      "developmental adaptability"
+    ],
+    [
+      "brain research",
+      "informs",
+      "grammatical processing"
+    ],
+    [
+      "brain research",
+      "informs",
+      "linguistic understanding"
+    ],
+    [
+      "brain research",
+      "informs",
+      "speech muscles"
+    ],
+    [
+      "brain research",
+      "informs",
+      "speech production"
+    ],
+    [
+      "brain research",
+      "informs",
+      "syntactic information"
+    ],
+    [
+      "brain research",
+      "involves",
+      "language stages"
+    ],
+    [
+      "brain research",
+      "is informed by",
+      "language retrieval"
+    ],
+    [
+      "brain research",
+      "is studied by",
+      "word learning"
+    ],
+    [
+      "brain research",
+      "is studied in",
+      "expressive aphasia"
+    ],
+    [
+      "brain research",
+      "studies",
+      "arcuate fasciculus"
+    ],
+    [
+      "brain research",
+      "supports",
+      "perception"
+    ],
+    [
+      "brain stages",
+      "enhances",
+      "developmental adaptability"
+    ],
+    [
+      "brain stages",
+      "facilitates",
+      "language development"
+    ],
+    [
+      "brain stages",
+      "influences",
+      "sentence production"
+    ],
+    [
+      "brain stages",
+      "influences",
+      "word retrieval"
+    ],
+    [
+      "brain stages",
+      "involves",
+      "acquisition"
+    ],
+    [
+      "brain stages",
+      "involves",
+      "cognitive processes"
+    ],
+    [
+      "brain stages",
+      "involves",
+      "decoding"
+    ],
+    [
+      "brain stages",
+      "involves",
+      "grammatical organization"
+    ],
+    [
+      "brain stages",
+      "involves",
+      "linguistic input"
+    ],
+    [
+      "brain stages",
+      "involves",
+      "linguistic understanding"
+    ],
+    [
+      "brain stages",
+      "involves",
+      "neural pathways"
+    ],
+    [
+      "brain stages",
+      "involves",
+      "production"
+    ],
+    [
+      "brain stages",
+      "involves",
+      "speech perception"
+    ],
+    [
+      "brain stages",
+      "involves",
+      "speech production"
+    ],
+    [
+      "brain stages",
+      "is affected by",
+      "coherent speech"
+    ],
+    [
+      "brain stages",
+      "is part of",
+      "language comprehension"
+    ],
+    [
+      "brain stages",
+      "promotes",
+      "linguistic growth"
+    ],
+    [
+      "brain stages",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "brain stages",
+      "supports",
+      "learning adaptability"
+    ],
+    [
+      "children's learning",
+      "facilitates",
+      "linguistic function"
+    ],
+    [
+      "children's learning",
+      "informs",
+      "brain research"
+    ],
+    [
+      "children's learning",
+      "supports",
+      "language development"
+    ],
+    [
+      "children's learning",
+      "supports",
+      "linguistic input"
+    ],
+    [
+      "children's learning",
+      "utilized by",
+      "speech muscles"
+    ],
+    [
+      "cognition",
+      "affects",
+      "visual cortex"
+    ],
+    [
+      "cognition",
+      "enables",
+      "linguistic flexibility"
+    ],
+    [
+      "cognition",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "cognition",
+      "enhances",
+      "acquisition ease"
+    ],
+    [
+      "cognition",
+      "enhances",
+      "children's learning"
+    ],
+    [
+      "cognition",
+      "impacts",
+      "expressive aphasia"
+    ],
+    [
+      "cognition",
+      "includes",
+      "developmental stages"
+    ],
+    [
+      "cognition",
+      "influences",
+      "coherent speech"
+    ],
+    [
+      "cognition",
+      "influences",
+      "comprehension"
+    ],
+    [
+      "cognition",
+      "influences",
+      "language acquisition"
+    ],
+    [
+      "cognition",
+      "influences",
+      "language development"
+    ],
+    [
+      "cognition",
+      "influences",
+      "language structures"
+    ],
+    [
+      "cognition",
+      "influences",
+      "speech perception"
+    ],
+    [
+      "cognition",
+      "involves",
+      "perception"
+    ],
+    [
+      "cognition",
+      "is processed by",
+      "auditory information"
+    ],
+    [
+      "cognition",
+      "is processed by",
+      "semantic processing"
+    ],
+    [
+      "cognition",
+      "processes",
+      "linguistic input"
+    ],
+    [
+      "cognition",
+      "supports",
+      "Broca's area"
+    ],
+    [
+      "cognitive integration",
+      "affects",
+      "processing implications"
+    ],
+    [
+      "cognitive integration",
+      "contributes to",
+      "linguistic function"
+    ],
+    [
+      "cognitive integration",
+      "enables",
+      "language acquisition"
+    ],
+    [
+      "cognitive integration",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "cognitive integration",
+      "enables",
+      "speech production"
+    ],
+    [
+      "cognitive integration",
+      "enhances",
+      "brain reorganization"
+    ],
+    [
+      "cognitive integration",
+      "enhances",
+      "communication development"
+    ],
+    [
+      "cognitive integration",
+      "enhances",
+      "communication facilitation"
+    ],
+    [
+      "cognitive integration",
+      "enhances",
+      "learning adaptability"
+    ],
+    [
+      "cognitive integration",
+      "facilitates",
+      "acquisition"
+    ],
+    [
+      "cognitive integration",
+      "facilitates",
+      "acquisition ease"
+    ],
+    [
+      "cognitive integration",
+      "facilitates",
+      "language development"
+    ],
+    [
+      "cognitive integration",
+      "impairs",
+      "expressive aphasia"
+    ],
+    [
+      "cognitive integration",
+      "informs",
+      "brain research"
+    ],
+    [
+      "cognitive integration",
+      "integrated by",
+      "word retrieval"
+    ],
+    [
+      "cognitive integration",
+      "integrates",
+      "linguistic input"
+    ],
+    [
+      "cognitive integration",
+      "involves",
+      "complex processes"
+    ],
+    [
+      "cognitive integration",
+      "involves",
+      "motor areas"
+    ],
+    [
+      "cognitive integration",
+      "involves",
+      "neural pathways"
+    ],
+    [
+      "cognitive integration",
+      "involves",
+      "perception"
+    ],
+    [
+      "cognitive integration",
+      "involves",
+      "phonemes"
+    ],
+    [
+      "cognitive integration",
+      "involves",
+      "production"
+    ],
+    [
+      "cognitive integration",
+      "is related to",
+      "communication disorders"
+    ],
+    [
+      "cognitive integration",
+      "promotes",
+      "linguistic growth"
+    ],
+    [
+      "cognitive integration",
+      "requires",
+      "coherent speech"
+    ],
+    [
+      "cognitive integration",
+      "requires",
+      "linguistic output"
+    ],
+    [
+      "cognitive integration",
+      "shapes",
+      "developmental stages"
+    ],
+    [
+      "cognitive integration",
+      "supports",
+      "graphemes"
+    ],
+    [
+      "cognitive integration",
+      "supports",
+      "recognition"
+    ],
+    [
+      "cognitive integration",
+      "supports",
+      "semantic processing"
+    ],
+    [
+      "cognitive integration",
+      "supports",
+      "writing support"
+    ],
+    [
+      "cognitive integration",
+      "supports",
+      "written symbols"
+    ],
+    [
+      "cognitive processes",
+      "comprises",
+      "language stages"
+    ],
+    [
+      "cognitive processes",
+      "connects",
+      "neural pathways"
+    ],
+    [
+      "cognitive processes",
+      "enables",
+      "linguistic function"
+    ],
+    [
+      "cognitive processes",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "cognitive processes",
+      "facilitates",
+      "acquisition"
+    ],
+    [
+      "cognitive processes",
+      "influences",
+      "language proficiency"
+    ],
+    [
+      "cognitive processes",
+      "influences",
+      "meaning linking"
+    ],
+    [
+      "cognitive processes",
+      "influences",
+      "mental lexicon"
+    ],
+    [
+      "cognitive processes",
+      "involves",
+      "phonemes"
+    ],
+    [
+      "cognitive processes",
+      "involves",
+      "semantic processing"
+    ],
+    [
+      "cognitive processes",
+      "involves",
+      "sentence production"
+    ],
+    [
+      "cognitive processes",
+      "involves",
+      "speech production"
+    ],
+    [
+      "cognitive processes",
+      "involves",
+      "speech sounds"
+    ],
+    [
+      "cognitive processes",
+      "supports",
+      "Broca's area"
+    ],
+    [
+      "cognitive processes",
+      "supports",
+      "arcuate fasciculus"
+    ],
+    [
+      "coherent speech",
+      "depends on",
+      "learning process"
+    ],
+    [
+      "coherent speech",
+      "enables",
+      "brain function"
+    ],
+    [
+      "coherent speech",
+      "enables",
+      "brain reorganization"
+    ],
+    [
+      "coherent speech",
+      "enables",
+      "complex computations"
+    ],
+    [
+      "coherent speech",
+      "enables",
+      "content understanding"
+    ],
+    [
+      "coherent speech",
+      "enables",
+      "language processing"
+    ],
+    [
+      "coherent speech",
+      "enhances",
+      "acquisition ease"
+    ],
+    [
+      "coherent speech",
+      "enhances",
+      "angular gyrus"
+    ],
+    [
+      "coherent speech",
+      "facilitates",
+      "communication facilitation"
+    ],
+    [
+      "coherent speech",
+      "impairs",
+      "expressive aphasia"
+    ],
+    [
+      "coherent speech",
+      "involves",
+      "semantic information"
+    ],
+    [
+      "coherent speech",
+      "is a product of",
+      "comprehension"
+    ],
+    [
+      "coherent speech",
+      "is a type of",
+      "linguistic function"
+    ],
+    [
+      "coherent speech",
+      "is affected by",
+      "communication disorders"
+    ],
+    [
+      "coherent speech",
+      "is influenced by",
+      "language comprehension"
+    ],
+    [
+      "coherent speech",
+      "is part of",
+      "integration"
+    ],
+    [
+      "coherent speech",
+      "requires",
+      "grammatical organization"
+    ],
+    [
+      "coherent speech",
+      "results in",
+      "language proficiency"
+    ],
+    [
+      "coherent speech",
+      "results in",
+      "linguistic output"
+    ],
+    [
+      "coherent speech",
+      "results in",
+      "linguistic understanding"
+    ],
+    [
+      "coherent speech",
+      "results in",
+      "sentence production"
+    ],
+    [
+      "coherent speech",
+      "supports",
+      "communication development"
+    ],
+    [
+      "coherent speech",
+      "utilizes",
+      "mental lexicon"
+    ],
+    [
+      "communication development",
+      "enhances",
+      "developmental adaptability"
+    ],
+    [
+      "communication development",
+      "enhances",
+      "linguistic function"
+    ],
+    [
+      "communication development",
+      "enhances",
+      "neural plasticity"
+    ],
+    [
+      "communication development",
+      "enhances",
+      "phonemes"
+    ],
+    [
+      "communication development",
+      "enhances",
+      "visual information"
+    ],
+    [
+      "communication development",
+      "facilitates",
+      "acquisition"
+    ],
+    [
+      "communication development",
+      "impacts",
+      "communication disorders"
+    ],
+    [
+      "communication development",
+      "involves",
+      "complex processes"
+    ],
+    [
+      "communication development",
+      "involves",
+      "decoding"
+    ],
+    [
+      "communication development",
+      "involves",
+      "grammatical processing"
+    ],
+    [
+      "communication development",
+      "involves",
+      "production"
+    ],
+    [
+      "communication development",
+      "involves",
+      "recognition"
+    ],
+    [
+      "communication development",
+      "involves",
+      "written symbols"
+    ],
+    [
+      "communication development",
+      "requires",
+      "articulatory muscles"
+    ],
+    [
+      "communication development",
+      "shapes",
+      "developmental stages"
+    ],
+    [
+      "communication development",
+      "supports",
+      "language development"
+    ],
+    [
+      "communication development",
+      "supports",
+      "syntactic information"
+    ],
+    [
+      "communication development",
+      "supports",
+      "visual cortex"
+    ],
+    [
+      "communication disorders",
+      "affects",
+      "auditory information"
+    ],
+    [
+      "communication disorders",
+      "affects",
+      "brain function"
+    ],
+    [
+      "communication disorders",
+      "affects",
+      "brain plasticity"
+    ],
+    [
+      "communication disorders",
+      "affects",
+      "content understanding"
+    ],
+    [
+      "communication disorders",
+      "affects",
+      "language development"
+    ],
+    [
+      "communication disorders",
+      "affects",
+      "motor areas"
+    ],
+    [
+      "communication disorders",
+      "affects",
+      "production"
+    ],
+    [
+      "communication disorders",
+      "complicates",
+      "linguistic flexibility"
+    ],
+    [
+      "communication disorders",
+      "impacts",
+      "acquisition"
+    ],
+    [
+      "communication disorders",
+      "impacts",
+      "neural connections"
+    ],
+    [
+      "communication disorders",
+      "impairs",
+      "coherent speech"
+    ],
+    [
+      "communication disorders",
+      "is associated with",
+      "receptive aphasia"
+    ],
+    [
+      "communication disorders",
+      "supports",
+      "neurorehabilitation"
+    ],
+    [
+      "communication facilitation",
+      "aids",
+      "linguistic input"
+    ],
+    [
+      "communication facilitation",
+      "enhanced by",
+      "mental lexicon"
+    ],
+    [
+      "communication facilitation",
+      "enhances",
+      "grammatical processing"
+    ],
+    [
+      "communication facilitation",
+      "enhances",
+      "production"
+    ],
+    [
+      "communication facilitation",
+      "enhances",
+      "recognition"
+    ],
+    [
+      "communication facilitation",
+      "enhances",
+      "syntactic information"
+    ],
+    [
+      "communication facilitation",
+      "facilitates",
+      "angular gyrus"
+    ],
+    [
+      "communication facilitation",
+      "facilitates",
+      "auditory cortex"
+    ],
+    [
+      "communication facilitation",
+      "facilitates",
+      "brain stages"
+    ],
+    [
+      "communication facilitation",
+      "facilitates",
+      "neural networks"
+    ],
+    [
+      "communication facilitation",
+      "facilitates",
+      "visual cortex"
+    ],
+    [
+      "communication facilitation",
+      "involves",
+      "motor commands"
+    ],
+    [
+      "communication facilitation",
+      "promotes",
+      "children's learning"
+    ],
+    [
+      "communication facilitation",
+      "promotes",
+      "language development"
+    ],
+    [
+      "communication facilitation",
+      "results in",
+      "response generation"
+    ],
+    [
+      "communication facilitation",
+      "supports",
+      "acquisition"
+    ],
+    [
+      "communication facilitation",
+      "supports",
+      "neurorehabilitation"
+    ],
+    [
+      "communication facilitation",
+      "supports",
+      "stages of processing"
+    ],
+    [
+      "communication facilitation",
+      "supports",
+      "visual information"
+    ],
+    [
+      "communication skills",
+      "contributes to",
+      "processing harmony"
+    ],
+    [
+      "communication skills",
+      "depends on",
+      "comprehension"
+    ],
+    [
+      "communication skills",
+      "enhances",
+      "acquisition ease"
+    ],
+    [
+      "communication skills",
+      "enhances",
+      "auditory cortex"
+    ],
+    [
+      "communication skills",
+      "enhances",
+      "brain stages"
+    ],
+    [
+      "communication skills",
+      "enhances",
+      "content understanding"
+    ],
+    [
+      "communication skills",
+      "enhances",
+      "developmental adaptability"
+    ],
+    [
+      "communication skills",
+      "enhances",
+      "grammatical organization"
+    ],
+    [
+      "communication skills",
+      "enhances",
+      "language comprehension"
+    ],
+    [
+      "communication skills",
+      "enhances",
+      "language processing"
+    ],
+    [
+      "communication skills",
+      "enhances",
+      "learning adaptability"
+    ],
+    [
+      "communication skills",
+      "enhances",
+      "linguistic growth"
+    ],
+    [
+      "communication skills",
+      "enhances",
+      "neurorehabilitation"
+    ],
+    [
+      "communication skills",
+      "facilitates",
+      "language acquisition"
+    ],
+    [
+      "communication skills",
+      "facilitates",
+      "language learning"
+    ],
+    [
+      "communication skills",
+      "facilitates",
+      "meaning linking"
+    ],
+    [
+      "communication skills",
+      "improves",
+      "syntactic information"
+    ],
+    [
+      "communication skills",
+      "informs",
+      "semantic information"
+    ],
+    [
+      "communication skills",
+      "involves",
+      "meaning extraction"
+    ],
+    [
+      "communication skills",
+      "involves",
+      "perception"
+    ],
+    [
+      "communication skills",
+      "involves",
+      "phonemes"
+    ],
+    [
+      "communication skills",
+      "involves",
+      "production"
+    ],
+    [
+      "communication skills",
+      "involves",
+      "visual cortex"
+    ],
+    [
+      "communication skills",
+      "is enhanced by",
+      "language efficiency"
+    ],
+    [
+      "communication skills",
+      "is enhanced by",
+      "semantic processing"
+    ],
+    [
+      "communication skills",
+      "is linked to",
+      "mental lexicon"
+    ],
+    [
+      "communication skills",
+      "is supported by",
+      "language retrieval"
+    ],
+    [
+      "communication skills",
+      "requires",
+      "motor areas"
+    ],
+    [
+      "communication skills",
+      "requires",
+      "sentence production"
+    ],
+    [
+      "communication skills",
+      "supports",
+      "cognitive integration"
+    ],
+    [
+      "communication skills",
+      "supports",
+      "communication development"
+    ],
+    [
+      "communication skills",
+      "supports",
+      "decoding"
+    ],
+    [
+      "communication skills",
+      "supports",
+      "grammatical processing"
+    ],
+    [
+      "communication skills",
+      "supports",
+      "language structures"
+    ],
+    [
+      "communication skills",
+      "supports",
+      "neural adaptation"
+    ],
+    [
+      "communication skills",
+      "supports",
+      "neural connections"
+    ],
+    [
+      "communication skills",
+      "utilizes",
+      "neural networks"
+    ],
+    [
+      "complex computations",
+      "associated with",
+      "Broca's area"
+    ],
+    [
+      "complex computations",
+      "engages",
+      "motor areas"
+    ],
+    [
+      "complex computations",
+      "engages",
+      "neural regions"
+    ],
+    [
+      "complex computations",
+      "facilitates",
+      "integration"
+    ],
+    [
+      "complex computations",
+      "facilitates",
+      "language retrieval"
+    ],
+    [
+      "complex computations",
+      "facilitates",
+      "meaning linking"
+    ],
+    [
+      "complex computations",
+      "improves",
+      "language proficiency"
+    ],
+    [
+      "complex computations",
+      "influenced by",
+      "sentence production"
+    ],
+    [
+      "complex computations",
+      "informs",
+      "sentence structure"
+    ],
+    [
+      "complex computations",
+      "informs",
+      "word learning"
+    ],
+    [
+      "complex computations",
+      "involves",
+      "brain stages"
+    ],
+    [
+      "complex computations",
+      "involves",
+      "cognitive processes"
+    ],
+    [
+      "complex computations",
+      "involves",
+      "communication development"
+    ],
+    [
+      "complex computations",
+      "involves",
+      "decoding"
+    ],
+    [
+      "complex computations",
+      "involves",
+      "expressive aphasia"
+    ],
+    [
+      "complex computations",
+      "involves",
+      "linguistic input"
+    ],
+    [
+      "complex computations",
+      "involves",
+      "neural plasticity"
+    ],
+    [
+      "complex computations",
+      "involves",
+      "semantic processing"
+    ],
+    [
+      "complex computations",
+      "involves",
+      "syntactic information"
+    ],
+    [
+      "complex computations",
+      "is facilitated by",
+      "arcuate fasciculus"
+    ],
+    [
+      "complex computations",
+      "is involved in",
+      "visual cortex"
+    ],
+    [
+      "complex computations",
+      "necessitates",
+      "grammatical processing"
+    ],
+    [
+      "complex computations",
+      "requires",
+      "grammatical organization"
+    ],
+    [
+      "complex computations",
+      "requires",
+      "language acquisition"
+    ],
+    [
+      "complex computations",
+      "requires",
+      "linguistic growth"
+    ],
+    [
+      "complex computations",
+      "requires",
+      "linguistic output"
+    ],
+    [
+      "complex computations",
+      "requires",
+      "neural networks"
+    ],
+    [
+      "complex computations",
+      "supports",
+      "language development"
+    ],
+    [
+      "complex processes",
+      "arises from",
+      "processing implications"
+    ],
+    [
+      "complex processes",
+      "enhances",
+      "children's learning"
+    ],
+    [
+      "complex processes",
+      "involves",
+      "grammatical processing"
+    ],
+    [
+      "complex processes",
+      "involves",
+      "semantic processing"
+    ],
+    [
+      "complex processes",
+      "results from",
+      "coherent speech"
+    ],
+    [
+      "comprehension",
+      "enables",
+      "linguistic flexibility"
+    ],
+    [
+      "comprehension",
+      "enhances",
+      "developmental adaptability"
+    ],
+    [
+      "comprehension",
+      "facilitates",
+      "recognition"
+    ],
+    [
+      "comprehension",
+      "facilitates",
+      "word learning"
+    ],
+    [
+      "comprehension",
+      "influences",
+      "response generation"
+    ],
+    [
+      "comprehension",
+      "involves",
+      "auditory cortex"
+    ],
+    [
+      "comprehension",
+      "involves",
+      "grammatical processing"
+    ],
+    [
+      "comprehension",
+      "involves",
+      "graphemes"
+    ],
+    [
+      "comprehension",
+      "involves",
+      "integration"
+    ],
+    [
+      "comprehension",
+      "involves",
+      "multifaceted interactions"
+    ],
+    [
+      "comprehension",
+      "involves",
+      "semantic processing"
+    ],
+    [
+      "comprehension",
+      "involves",
+      "written symbols"
+    ],
+    [
+      "comprehension",
+      "is a stage of",
+      "language stages"
+    ],
+    [
+      "comprehension",
+      "is influenced by",
+      "neural plasticity"
+    ],
+    [
+      "comprehension",
+      "is part of",
+      "acquisition"
+    ],
+    [
+      "comprehension",
+      "is processed by",
+      "linguistic input"
+    ],
+    [
+      "comprehension",
+      "is produced by",
+      "linguistic output"
+    ],
+    [
+      "comprehension",
+      "is understood by",
+      "mental lexicon"
+    ],
+    [
+      "comprehension",
+      "precedes",
+      "production"
+    ],
+    [
+      "comprehension",
+      "processes",
+      "auditory information"
+    ],
+    [
+      "comprehension",
+      "relates to",
+      "speech sounds"
+    ],
+    [
+      "comprehension",
+      "requires",
+      "cognitive integration"
+    ],
+    [
+      "comprehension",
+      "requires",
+      "complex computations"
+    ],
+    [
+      "comprehension",
+      "requires",
+      "language proficiency"
+    ],
+    [
+      "comprehension",
+      "results in",
+      "coherent speech"
+    ],
+    [
+      "comprehension",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "comprehension",
+      "supports",
+      "language development"
+    ],
+    [
+      "comprehension",
+      "supports",
+      "linguistic function"
+    ],
+    [
+      "content understanding",
+      "achieved through",
+      "language processing"
+    ],
+    [
+      "content understanding",
+      "aids",
+      "word learning"
+    ],
+    [
+      "content understanding",
+      "contributes to",
+      "language acquisition"
+    ],
+    [
+      "content understanding",
+      "drives",
+      "linguistic growth"
+    ],
+    [
+      "content understanding",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "content understanding",
+      "enhances",
+      "cognition"
+    ],
+    [
+      "content understanding",
+      "enhances",
+      "learning process"
+    ],
+    [
+      "content understanding",
+      "influences",
+      "language stages"
+    ],
+    [
+      "content understanding",
+      "involves",
+      "brain stages"
+    ],
+    [
+      "content understanding",
+      "involves",
+      "meaning extraction"
+    ],
+    [
+      "content understanding",
+      "involves",
+      "neural regions"
+    ],
+    [
+      "content understanding",
+      "involves",
+      "recognition"
+    ],
+    [
+      "content understanding",
+      "involves",
+      "semantic processing"
+    ],
+    [
+      "content understanding",
+      "involves",
+      "visual information"
+    ],
+    [
+      "content understanding",
+      "is linked to",
+      "meaning linking"
+    ],
+    [
+      "content understanding",
+      "is part of",
+      "grammatical processing"
+    ],
+    [
+      "content understanding",
+      "leads to",
+      "response generation"
+    ],
+    [
+      "content understanding",
+      "requires",
+      "integration"
+    ],
+    [
+      "content understanding",
+      "requires",
+      "motor areas"
+    ],
+    [
+      "content understanding",
+      "requires",
+      "neural networks"
+    ],
+    [
+      "content understanding",
+      "requires",
+      "syntactic information"
+    ],
+    [
+      "content understanding",
+      "supports",
+      "linguistic flexibility"
+    ],
+    [
+      "decoding",
+      "aids in",
+      "reading support"
+    ],
+    [
+      "decoding",
+      "facilitates",
+      "brain reorganization"
+    ],
+    [
+      "decoding",
+      "facilitates",
+      "meaningful communication"
+    ],
+    [
+      "decoding",
+      "involves",
+      "production"
+    ],
+    [
+      "decoding",
+      "involves",
+      "written symbols"
+    ],
+    [
+      "decoding",
+      "is decoded by",
+      "cognition"
+    ],
+    [
+      "decoding",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "developmental adaptability",
+      "enhances",
+      "children's learning"
+    ],
+    [
+      "developmental adaptability",
+      "enhances",
+      "decoding"
+    ],
+    [
+      "developmental adaptability",
+      "enhances",
+      "semantic processing"
+    ],
+    [
+      "developmental adaptability",
+      "enhances",
+      "speech perception"
+    ],
+    [
+      "developmental adaptability",
+      "enhances",
+      "visual information"
+    ],
+    [
+      "developmental adaptability",
+      "facilitates",
+      "language acquisition"
+    ],
+    [
+      "developmental adaptability",
+      "facilitates",
+      "language development"
+    ],
+    [
+      "developmental adaptability",
+      "facilitates",
+      "production"
+    ],
+    [
+      "developmental adaptability",
+      "influenced by",
+      "stages of processing"
+    ],
+    [
+      "developmental adaptability",
+      "is influenced by",
+      "analysis"
+    ],
+    [
+      "developmental adaptability",
+      "supports",
+      "acquisition"
+    ],
+    [
+      "developmental adaptability",
+      "supports",
+      "semantic information"
+    ],
+    [
+      "developmental stages",
+      "enables",
+      "language acquisition"
+    ],
+    [
+      "developmental stages",
+      "influences",
+      "language efficiency"
+    ],
+    [
+      "developmental stages",
+      "influences",
+      "meaningful communication"
+    ],
+    [
+      "developmental stages",
+      "informs",
+      "auditory information"
+    ],
+    [
+      "developmental stages",
+      "informs",
+      "speech sounds"
+    ],
+    [
+      "developmental stages",
+      "is a stage of",
+      "mental lexicon"
+    ],
+    [
+      "developmental stages",
+      "is part of",
+      "meaning linking"
+    ],
+    [
+      "expressive aphasia",
+      "affects",
+      "motor areas"
+    ],
+    [
+      "expressive aphasia",
+      "impacts",
+      "brain function"
+    ],
+    [
+      "expressive aphasia",
+      "impairs",
+      "content understanding"
+    ],
+    [
+      "expressive aphasia",
+      "is affected by",
+      "visual cortex"
+    ],
+    [
+      "expressive aphasia",
+      "relates to",
+      "linguistic function"
+    ],
+    [
+      "expressive aphasia",
+      "results in",
+      "angular gyrus"
+    ],
+    [
+      "expressive aphasia",
+      "results in",
+      "auditory cortex"
+    ],
+    [
+      "expressive aphasia",
+      "results in",
+      "brain reorganization"
+    ],
+    [
+      "expressive aphasia",
+      "results in",
+      "language processing"
+    ],
+    [
+      "grammatical organization",
+      "contributes to",
+      "language acquisition"
+    ],
+    [
+      "grammatical organization",
+      "contributes to",
+      "language development"
+    ],
+    [
+      "grammatical organization",
+      "contributes to",
+      "linguistic function"
+    ],
+    [
+      "grammatical organization",
+      "contributes to",
+      "stages of processing"
+    ],
+    [
+      "grammatical organization",
+      "controls",
+      "articulatory muscles"
+    ],
+    [
+      "grammatical organization",
+      "enhances",
+      "communication facilitation"
+    ],
+    [
+      "grammatical organization",
+      "enhances",
+      "neural plasticity"
+    ],
+    [
+      "grammatical organization",
+      "facilitates",
+      "production"
+    ],
+    [
+      "grammatical organization",
+      "influences",
+      "comprehension"
+    ],
+    [
+      "grammatical organization",
+      "informs",
+      "mental lexicon"
+    ],
+    [
+      "grammatical organization",
+      "involves",
+      "recognition"
+    ],
+    [
+      "grammatical organization",
+      "involves",
+      "semantic processing"
+    ],
+    [
+      "grammatical organization",
+      "involves",
+      "speech sounds"
+    ],
+    [
+      "grammatical organization",
+      "is facilitated by",
+      "neural pathways"
+    ],
+    [
+      "grammatical organization",
+      "is performed by",
+      "neural regions"
+    ],
+    [
+      "grammatical organization",
+      "promotes",
+      "linguistic growth"
+    ],
+    [
+      "grammatical organization",
+      "requires",
+      "sentence structure"
+    ],
+    [
+      "grammatical organization",
+      "requires",
+      "speech production"
+    ],
+    [
+      "grammatical organization",
+      "supports",
+      "acquisition"
+    ],
+    [
+      "grammatical organization",
+      "supports",
+      "children's learning"
+    ],
+    [
+      "grammatical organization",
+      "supports",
+      "cognitive integration"
+    ],
+    [
+      "grammatical organization",
+      "supports",
+      "developmental adaptability"
+    ],
+    [
+      "grammatical organization",
+      "supports",
+      "language retrieval"
+    ],
+    [
+      "grammatical organization",
+      "supports",
+      "meaning extraction"
+    ],
+    [
+      "grammatical organization",
+      "supports",
+      "reading support"
+    ],
+    [
+      "grammatical organization",
+      "supports",
+      "visual information"
+    ],
+    [
+      "grammatical processing",
+      "affects",
+      "expressive aphasia"
+    ],
+    [
+      "grammatical processing",
+      "enhances",
+      "linguistic output"
+    ],
+    [
+      "grammatical processing",
+      "impacts",
+      "receptive aphasia"
+    ],
+    [
+      "grammatical processing",
+      "influences",
+      "auditory cortex"
+    ],
+    [
+      "grammatical processing",
+      "influences",
+      "motor areas"
+    ],
+    [
+      "grammatical processing",
+      "influences",
+      "perception"
+    ],
+    [
+      "grammatical processing",
+      "involved in",
+      "articulatory muscles"
+    ],
+    [
+      "grammatical processing",
+      "involves",
+      "brain regions"
+    ],
+    [
+      "grammatical processing",
+      "involves",
+      "stages of processing"
+    ],
+    [
+      "grammatical processing",
+      "is involved in",
+      "decoding"
+    ],
+    [
+      "grammatical processing",
+      "is involved in",
+      "semantic processing"
+    ],
+    [
+      "grammatical processing",
+      "is processed by",
+      "cognition"
+    ],
+    [
+      "grammatical processing",
+      "precedes",
+      "production"
+    ],
+    [
+      "grammatical processing",
+      "requires",
+      "coherent speech"
+    ],
+    [
+      "grammatical processing",
+      "requires",
+      "speech sounds"
+    ],
+    [
+      "grammatical processing",
+      "supports",
+      "language development"
+    ],
+    [
+      "grammatical rules",
+      "affects",
+      "auditory information"
+    ],
+    [
+      "grammatical rules",
+      "aids",
+      "communication facilitation"
+    ],
+    [
+      "grammatical rules",
+      "aids in",
+      "word learning"
+    ],
+    [
+      "grammatical rules",
+      "connects",
+      "meaning linking"
+    ],
+    [
+      "grammatical rules",
+      "contributes to",
+      "semantic processing"
+    ],
+    [
+      "grammatical rules",
+      "controls",
+      "motor commands"
+    ],
+    [
+      "grammatical rules",
+      "defines",
+      "graphemes"
+    ],
+    [
+      "grammatical rules",
+      "enables",
+      "coherent speech"
+    ],
+    [
+      "grammatical rules",
+      "facilitates",
+      "children's learning"
+    ],
+    [
+      "grammatical rules",
+      "facilitates",
+      "language acquisition"
+    ],
+    [
+      "grammatical rules",
+      "governs",
+      "written symbols"
+    ],
+    [
+      "grammatical rules",
+      "guides",
+      "cognitive processes"
+    ],
+    [
+      "grammatical rules",
+      "guides",
+      "comprehension"
+    ],
+    [
+      "grammatical rules",
+      "guides",
+      "grammatical organization"
+    ],
+    [
+      "grammatical rules",
+      "guides",
+      "linguistic input"
+    ],
+    [
+      "grammatical rules",
+      "guides",
+      "linguistic output"
+    ],
+    [
+      "grammatical rules",
+      "guides",
+      "response generation"
+    ],
+    [
+      "grammatical rules",
+      "guides",
+      "sentence production"
+    ],
+    [
+      "grammatical rules",
+      "improves",
+      "language efficiency"
+    ],
+    [
+      "grammatical rules",
+      "influences",
+      "brain reorganization"
+    ],
+    [
+      "grammatical rules",
+      "influences",
+      "linguistic growth"
+    ],
+    [
+      "grammatical rules",
+      "influences",
+      "perception"
+    ],
+    [
+      "grammatical rules",
+      "informs",
+      "content understanding"
+    ],
+    [
+      "grammatical rules",
+      "informs",
+      "integration"
+    ],
+    [
+      "grammatical rules",
+      "informs",
+      "language stages"
+    ],
+    [
+      "grammatical rules",
+      "involves",
+      "complex processes"
+    ],
+    [
+      "grammatical rules",
+      "involves",
+      "grammatical processing"
+    ],
+    [
+      "grammatical rules",
+      "involves",
+      "language proficiency"
+    ],
+    [
+      "grammatical rules",
+      "involves",
+      "language structures"
+    ],
+    [
+      "grammatical rules",
+      "involves",
+      "linguistic understanding"
+    ],
+    [
+      "grammatical rules",
+      "involves",
+      "recognition"
+    ],
+    [
+      "grammatical rules",
+      "is essential for",
+      "analysis"
+    ],
+    [
+      "grammatical rules",
+      "is necessary for",
+      "speech production"
+    ],
+    [
+      "grammatical rules",
+      "is processed as",
+      "speech sounds"
+    ],
+    [
+      "grammatical rules",
+      "is processed by",
+      "neural networks"
+    ],
+    [
+      "grammatical rules",
+      "is related to",
+      "phonemes"
+    ],
+    [
+      "grammatical rules",
+      "processed by",
+      "auditory cortex"
+    ],
+    [
+      "grammatical rules",
+      "requires",
+      "decoding"
+    ],
+    [
+      "grammatical rules",
+      "supports",
+      "reading support"
+    ],
+    [
+      "graphemes",
+      "affects",
+      "processing implications"
+    ],
+    [
+      "graphemes",
+      "composed of",
+      "linguistic output"
+    ],
+    [
+      "graphemes",
+      "comprises",
+      "stages of processing"
+    ],
+    [
+      "graphemes",
+      "contains",
+      "mental lexicon"
+    ],
+    [
+      "graphemes",
+      "enhances",
+      "acquisition"
+    ],
+    [
+      "graphemes",
+      "enhances",
+      "communication development"
+    ],
+    [
+      "graphemes",
+      "enhances",
+      "communication facilitation"
+    ],
+    [
+      "graphemes",
+      "executed by",
+      "motor commands"
+    ],
+    [
+      "graphemes",
+      "facilitates",
+      "children's learning"
+    ],
+    [
+      "graphemes",
+      "facilitates",
+      "language development"
+    ],
+    [
+      "graphemes",
+      "involves",
+      "cognitive processes"
+    ],
+    [
+      "graphemes",
+      "involves",
+      "linguistic understanding"
+    ],
+    [
+      "graphemes",
+      "involves",
+      "perception"
+    ],
+    [
+      "graphemes",
+      "involves",
+      "recognition"
+    ],
+    [
+      "graphemes",
+      "involves",
+      "word retrieval"
+    ],
+    [
+      "graphemes",
+      "is involved in",
+      "semantic processing"
+    ],
+    [
+      "graphemes",
+      "is linked to",
+      "neural pathways"
+    ],
+    [
+      "graphemes",
+      "is related to",
+      "communication disorders"
+    ],
+    [
+      "graphemes",
+      "is supported by",
+      "writing support"
+    ],
+    [
+      "graphemes",
+      "serves as",
+      "linguistic input"
+    ],
+    [
+      "graphemes",
+      "supports",
+      "grammatical processing"
+    ],
+    [
+      "graphemes",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "graphemes",
+      "used in",
+      "decoding"
+    ],
+    [
+      "graphemes",
+      "utilizes",
+      "language comprehension"
+    ],
+    [
+      "integration",
+      "affects",
+      "processing implications"
+    ],
+    [
+      "integration",
+      "enables",
+      "word retrieval"
+    ],
+    [
+      "integration",
+      "engages",
+      "motor areas"
+    ],
+    [
+      "integration",
+      "enhances",
+      "acquisition ease"
+    ],
+    [
+      "integration",
+      "enhances",
+      "communication facilitation"
+    ],
+    [
+      "integration",
+      "enhances",
+      "language development"
+    ],
+    [
+      "integration",
+      "enhances",
+      "learning process"
+    ],
+    [
+      "integration",
+      "facilitates",
+      "decoding"
+    ],
+    [
+      "integration",
+      "facilitates",
+      "grammatical processing"
+    ],
+    [
+      "integration",
+      "facilitates",
+      "language retrieval"
+    ],
+    [
+      "integration",
+      "interacts with",
+      "neural networks"
+    ],
+    [
+      "integration",
+      "involves",
+      "motor commands"
+    ],
+    [
+      "integration",
+      "involves",
+      "semantic processing"
+    ],
+    [
+      "integration",
+      "involves",
+      "speech production"
+    ],
+    [
+      "integration",
+      "is achieved through",
+      "linguistic output"
+    ],
+    [
+      "integration",
+      "is essential for",
+      "left hemisphere"
+    ],
+    [
+      "integration",
+      "is essential for",
+      "recognition"
+    ],
+    [
+      "integration",
+      "is involved in",
+      "auditory information"
+    ],
+    [
+      "integration",
+      "is involved in",
+      "expressive aphasia"
+    ],
+    [
+      "integration",
+      "is part of",
+      "perception"
+    ],
+    [
+      "integration",
+      "leads to",
+      "production"
+    ],
+    [
+      "integration",
+      "organizes",
+      "grammatical organization"
+    ],
+    [
+      "integration",
+      "processes",
+      "Wernicke's area"
+    ],
+    [
+      "integration",
+      "processes",
+      "linguistic input"
+    ],
+    [
+      "integration",
+      "promotes",
+      "linguistic flexibility"
+    ],
+    [
+      "integration",
+      "supports",
+      "acquisition"
+    ],
+    [
+      "integration",
+      "supports",
+      "auditory cortex"
+    ],
+    [
+      "integration",
+      "supports",
+      "cognitive processes"
+    ],
+    [
+      "integration",
+      "supports",
+      "communication development"
+    ],
+    [
+      "integration",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "integration",
+      "supports",
+      "linguistic function"
+    ],
+    [
+      "integration",
+      "supports",
+      "visual information"
+    ],
+    [
+      "integration",
+      "supports",
+      "writing support"
+    ],
+    [
+      "language acquisition",
+      "informs",
+      "sentence structure"
+    ],
+    [
+      "language acquisition",
+      "is influenced by",
+      "perception"
+    ],
+    [
+      "language acquisition",
+      "is necessary for",
+      "grammatical processing"
+    ],
+    [
+      "language acquisition",
+      "is supported by",
+      "coherent speech"
+    ],
+    [
+      "language acquisition",
+      "promotes",
+      "language development"
+    ],
+    [
+      "language acquisition",
+      "supports",
+      "Broca's area"
+    ],
+    [
+      "language acquisition",
+      "supports",
+      "phonological information"
+    ],
+    [
+      "language comprehension",
+      "affects",
+      "coherent speech"
+    ],
+    [
+      "language comprehension",
+      "affects",
+      "neural adaptation"
+    ],
+    [
+      "language comprehension",
+      "aided by",
+      "linguistic output"
+    ],
+    [
+      "language comprehension",
+      "aids in",
+      "mental lexicon"
+    ],
+    [
+      "language comprehension",
+      "contributes to",
+      "linguistic function"
+    ],
+    [
+      "language comprehension",
+      "encompasses",
+      "complex processes"
+    ],
+    [
+      "language comprehension",
+      "enhances",
+      "communication development"
+    ],
+    [
+      "language comprehension",
+      "enhances",
+      "language efficiency"
+    ],
+    [
+      "language comprehension",
+      "facilitates",
+      "acquisition"
+    ],
+    [
+      "language comprehension",
+      "facilitates",
+      "communication facilitation"
+    ],
+    [
+      "language comprehension",
+      "facilitates",
+      "content understanding"
+    ],
+    [
+      "language comprehension",
+      "facilitates",
+      "language acquisition"
+    ],
+    [
+      "language comprehension",
+      "facilitates",
+      "word learning"
+    ],
+    [
+      "language comprehension",
+      "influences",
+      "language development"
+    ],
+    [
+      "language comprehension",
+      "influences",
+      "sentence structure"
+    ],
+    [
+      "language comprehension",
+      "interacts with",
+      "neural networks"
+    ],
+    [
+      "language comprehension",
+      "involves",
+      "analysis"
+    ],
+    [
+      "language comprehension",
+      "involves",
+      "decoding"
+    ],
+    [
+      "language comprehension",
+      "involves",
+      "recognition"
+    ],
+    [
+      "language comprehension",
+      "involves",
+      "semantic processing"
+    ],
+    [
+      "language comprehension",
+      "is a component of",
+      "language processing"
+    ],
+    [
+      "language comprehension",
+      "is achieved through",
+      "cognitive integration"
+    ],
+    [
+      "language comprehension",
+      "is processed in",
+      "phonemes"
+    ],
+    [
+      "language comprehension",
+      "is supported by",
+      "developmental adaptability"
+    ],
+    [
+      "language comprehension",
+      "processes",
+      "auditory information"
+    ],
+    [
+      "language comprehension",
+      "promotes",
+      "processing harmony"
+    ],
+    [
+      "language comprehension",
+      "requires",
+      "grammatical processing"
+    ],
+    [
+      "language comprehension",
+      "requires",
+      "grammatical rules"
+    ],
+    [
+      "language comprehension",
+      "supports",
+      "language learning"
+    ],
+    [
+      "language comprehension",
+      "supports",
+      "reading support"
+    ],
+    [
+      "language development",
+      "developed by",
+      "speech muscles"
+    ],
+    [
+      "language development",
+      "facilitates",
+      "coherent speech"
+    ],
+    [
+      "language development",
+      "influences",
+      "sentence structure"
+    ],
+    [
+      "language development",
+      "promotes",
+      "speech perception"
+    ],
+    [
+      "language efficiency",
+      "affects",
+      "linguistic input"
+    ],
+    [
+      "language efficiency",
+      "enables",
+      "recognition"
+    ],
+    [
+      "language efficiency",
+      "enables",
+      "sentence production"
+    ],
+    [
+      "language efficiency",
+      "enhances",
+      "acquisition ease"
+    ],
+    [
+      "language efficiency",
+      "enhances",
+      "children's learning"
+    ],
+    [
+      "language efficiency",
+      "enhances",
+      "comprehension"
+    ],
+    [
+      "language efficiency",
+      "enhances",
+      "grammatical organization"
+    ],
+    [
+      "language efficiency",
+      "enhances",
+      "grammatical processing"
+    ],
+    [
+      "language efficiency",
+      "enhances",
+      "neural networks"
+    ],
+    [
+      "language efficiency",
+      "enhances",
+      "semantic information"
+    ],
+    [
+      "language efficiency",
+      "enhances",
+      "word learning"
+    ],
+    [
+      "language efficiency",
+      "facilitates",
+      "communication facilitation"
+    ],
+    [
+      "language efficiency",
+      "improves",
+      "brain reorganization"
+    ],
+    [
+      "language efficiency",
+      "influences",
+      "decoding"
+    ],
+    [
+      "language efficiency",
+      "influences",
+      "developmental adaptability"
+    ],
+    [
+      "language efficiency",
+      "influences",
+      "graphemes"
+    ],
+    [
+      "language efficiency",
+      "influences",
+      "linguistic function"
+    ],
+    [
+      "language efficiency",
+      "involves",
+      "cognitive integration"
+    ],
+    [
+      "language efficiency",
+      "involves",
+      "speech production"
+    ],
+    [
+      "language efficiency",
+      "involves",
+      "syntactic information"
+    ],
+    [
+      "language efficiency",
+      "is influenced by",
+      "language retrieval"
+    ],
+    [
+      "language efficiency",
+      "links",
+      "meaning linking"
+    ],
+    [
+      "language efficiency",
+      "processes",
+      "auditory information"
+    ],
+    [
+      "language efficiency",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "language learning",
+      "contributes to",
+      "content understanding"
+    ],
+    [
+      "language learning",
+      "contributes to",
+      "language development"
+    ],
+    [
+      "language learning",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "language learning",
+      "enhances",
+      "acquisition ease"
+    ],
+    [
+      "language learning",
+      "enhances",
+      "analysis"
+    ],
+    [
+      "language learning",
+      "enhances",
+      "children's learning"
+    ],
+    [
+      "language learning",
+      "enhances",
+      "cognition"
+    ],
+    [
+      "language learning",
+      "enhances",
+      "coherent speech"
+    ],
+    [
+      "language learning",
+      "enhances",
+      "communication facilitation"
+    ],
+    [
+      "language learning",
+      "enhances",
+      "perception"
+    ],
+    [
+      "language learning",
+      "enhances",
+      "visual information"
+    ],
+    [
+      "language learning",
+      "enhances",
+      "word learning"
+    ],
+    [
+      "language learning",
+      "facilitates",
+      "neural connections"
+    ],
+    [
+      "language learning",
+      "improves",
+      "language efficiency"
+    ],
+    [
+      "language learning",
+      "involves",
+      "acquisition"
+    ],
+    [
+      "language learning",
+      "involves",
+      "grammatical processing"
+    ],
+    [
+      "language learning",
+      "involves",
+      "language structures"
+    ],
+    [
+      "language learning",
+      "involves",
+      "production"
+    ],
+    [
+      "language learning",
+      "involves",
+      "semantic information"
+    ],
+    [
+      "language learning",
+      "involves",
+      "sentence production"
+    ],
+    [
+      "language learning",
+      "involves",
+      "stages of processing"
+    ],
+    [
+      "language learning",
+      "involves",
+      "syntactic information"
+    ],
+    [
+      "language learning",
+      "involves",
+      "word retrieval"
+    ],
+    [
+      "language learning",
+      "involves",
+      "written symbols"
+    ],
+    [
+      "language learning",
+      "is enhanced by",
+      "processing harmony"
+    ],
+    [
+      "language learning",
+      "is essential for",
+      "linguistic function"
+    ],
+    [
+      "language learning",
+      "is influenced by",
+      "neural adaptation"
+    ],
+    [
+      "language learning",
+      "is processed by",
+      "speech sounds"
+    ],
+    [
+      "language learning",
+      "is related to",
+      "linguistic input"
+    ],
+    [
+      "language learning",
+      "promotes",
+      "linguistic flexibility"
+    ],
+    [
+      "language learning",
+      "promotes",
+      "multifaceted interactions"
+    ],
+    [
+      "language learning",
+      "supports",
+      "grammatical organization"
+    ],
+    [
+      "language learning",
+      "supports",
+      "integration"
+    ],
+    [
+      "language processing",
+      "demonstrates",
+      "learning adaptability"
+    ],
+    [
+      "language processing",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "language processing",
+      "enhances",
+      "language efficiency"
+    ],
+    [
+      "language processing",
+      "facilitates",
+      "left hemisphere"
+    ],
+    [
+      "language processing",
+      "facilitates",
+      "meaning linking"
+    ],
+    [
+      "language processing",
+      "facilitates",
+      "neural plasticity"
+    ],
+    [
+      "language processing",
+      "fosters",
+      "linguistic growth"
+    ],
+    [
+      "language processing",
+      "includes",
+      "language comprehension"
+    ],
+    [
+      "language processing",
+      "influences",
+      "communication development"
+    ],
+    [
+      "language processing",
+      "involves",
+      "Broca's area"
+    ],
+    [
+      "language processing",
+      "involves",
+      "analysis"
+    ],
+    [
+      "language processing",
+      "involves",
+      "comprehension"
+    ],
+    [
+      "language processing",
+      "involves",
+      "decoding"
+    ],
+    [
+      "language processing",
+      "involves",
+      "grammatical organization"
+    ],
+    [
+      "language processing",
+      "involves",
+      "grammatical processing"
+    ],
+    [
+      "language processing",
+      "involves",
+      "grammatical rules"
+    ],
+    [
+      "language processing",
+      "involves",
+      "graphemes"
+    ],
+    [
+      "language processing",
+      "involves",
+      "integration"
+    ],
+    [
+      "language processing",
+      "involves",
+      "language acquisition"
+    ],
+    [
+      "language processing",
+      "involves",
+      "perception"
+    ],
+    [
+      "language processing",
+      "involves",
+      "production"
+    ],
+    [
+      "language processing",
+      "involves",
+      "recognition"
+    ],
+    [
+      "language processing",
+      "involves",
+      "response generation"
+    ],
+    [
+      "language processing",
+      "involves",
+      "semantic processing"
+    ],
+    [
+      "language processing",
+      "involves",
+      "speech perception"
+    ],
+    [
+      "language processing",
+      "involves",
+      "speech sounds"
+    ],
+    [
+      "language processing",
+      "involves",
+      "word learning"
+    ],
+    [
+      "language processing",
+      "involves",
+      "word retrieval"
+    ],
+    [
+      "language processing",
+      "involves",
+      "written symbols"
+    ],
+    [
+      "language processing",
+      "is affected by",
+      "neural adaptation"
+    ],
+    [
+      "language processing",
+      "is processed by",
+      "neural regions"
+    ],
+    [
+      "language processing",
+      "requires",
+      "syntactic information"
+    ],
+    [
+      "language processing",
+      "supports",
+      "mental lexicon"
+    ],
+    [
+      "language processing",
+      "supports",
+      "writing support"
+    ],
+    [
+      "language proficiency",
+      "affects",
+      "motor commands"
+    ],
+    [
+      "language proficiency",
+      "aids",
+      "reading support"
+    ],
+    [
+      "language proficiency",
+      "contributes to",
+      "communication development"
+    ],
+    [
+      "language proficiency",
+      "contributes to",
+      "language development"
+    ],
+    [
+      "language proficiency",
+      "controls",
+      "articulatory muscles"
+    ],
+    [
+      "language proficiency",
+      "depends on",
+      "integration"
+    ],
+    [
+      "language proficiency",
+      "enhances",
+      "children's learning"
+    ],
+    [
+      "language proficiency",
+      "enhances",
+      "cognition"
+    ],
+    [
+      "language proficiency",
+      "enhances",
+      "communication facilitation"
+    ],
+    [
+      "language proficiency",
+      "enhances",
+      "content understanding"
+    ],
+    [
+      "language proficiency",
+      "enhances",
+      "phonological information"
+    ],
+    [
+      "language proficiency",
+      "enhances",
+      "word learning"
+    ],
+    [
+      "language proficiency",
+      "enhances",
+      "word retrieval"
+    ],
+    [
+      "language proficiency",
+      "influences",
+      "learning process"
+    ],
+    [
+      "language proficiency",
+      "involves",
+      "auditory information"
+    ],
+    [
+      "language proficiency",
+      "involves",
+      "recognition"
+    ],
+    [
+      "language proficiency",
+      "involves",
+      "speech sounds"
+    ],
+    [
+      "language proficiency",
+      "is influenced by",
+      "response generation"
+    ],
+    [
+      "language proficiency",
+      "underlies",
+      "neural networks"
+    ],
+    [
+      "language retrieval",
+      "comprises",
+      "complex processes"
+    ],
+    [
+      "language retrieval",
+      "contributes to",
+      "linguistic growth"
+    ],
+    [
+      "language retrieval",
+      "enables",
+      "brain reorganization"
+    ],
+    [
+      "language retrieval",
+      "enables",
+      "speech production"
+    ],
+    [
+      "language retrieval",
+      "enhances",
+      "communication facilitation"
+    ],
+    [
+      "language retrieval",
+      "facilitates",
+      "acquisition ease"
+    ],
+    [
+      "language retrieval",
+      "facilitates",
+      "cognitive integration"
+    ],
+    [
+      "language retrieval",
+      "facilitates",
+      "language proficiency"
+    ],
+    [
+      "language retrieval",
+      "facilitates",
+      "semantic processing"
+    ],
+    [
+      "language retrieval",
+      "influences",
+      "developmental stages"
+    ],
+    [
+      "language retrieval",
+      "involves",
+      "linguistic output"
+    ],
+    [
+      "language retrieval",
+      "involves",
+      "meaning extraction"
+    ],
+    [
+      "language retrieval",
+      "is influenced by",
+      "learning adaptability"
+    ],
+    [
+      "language retrieval",
+      "is necessary for",
+      "brain stages"
+    ],
+    [
+      "language retrieval",
+      "is part of",
+      "language acquisition"
+    ],
+    [
+      "language retrieval",
+      "is part of",
+      "perception"
+    ],
+    [
+      "language retrieval",
+      "is utilized in",
+      "graphemes"
+    ],
+    [
+      "language retrieval",
+      "supports",
+      "comprehension"
+    ],
+    [
+      "language retrieval",
+      "supports",
+      "neural connections"
+    ],
+    [
+      "language retrieval",
+      "utilizes",
+      "neural networks"
+    ],
+    [
+      "language stages",
+      "activates",
+      "motor areas"
+    ],
+    [
+      "language stages",
+      "correlates with",
+      "neural regions"
+    ],
+    [
+      "language stages",
+      "involves",
+      "acquisition"
+    ],
+    [
+      "language stages",
+      "involves",
+      "language proficiency"
+    ],
+    [
+      "language stages",
+      "involves",
+      "linguistic output"
+    ],
+    [
+      "language stages",
+      "involves",
+      "linguistic understanding"
+    ],
+    [
+      "language stages",
+      "is a stage of",
+      "perception"
+    ],
+    [
+      "language stages",
+      "is part of",
+      "meaning extraction"
+    ],
+    [
+      "language stages",
+      "promotes",
+      "language development"
+    ],
+    [
+      "language stages",
+      "promotes",
+      "linguistic growth"
+    ],
+    [
+      "language stages",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "language structures",
+      "affects",
+      "speech sounds"
+    ],
+    [
+      "language structures",
+      "aids",
+      "decoding"
+    ],
+    [
+      "language structures",
+      "aids",
+      "word retrieval"
+    ],
+    [
+      "language structures",
+      "aids in",
+      "word learning"
+    ],
+    [
+      "language structures",
+      "comprises",
+      "graphemes"
+    ],
+    [
+      "language structures",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "language structures",
+      "enables",
+      "speech production"
+    ],
+    [
+      "language structures",
+      "enhances",
+      "developmental adaptability"
+    ],
+    [
+      "language structures",
+      "influences",
+      "communication development"
+    ],
+    [
+      "language structures",
+      "informs",
+      "auditory information"
+    ],
+    [
+      "language structures",
+      "involves",
+      "linguistic input"
+    ],
+    [
+      "language structures",
+      "involves",
+      "recognition"
+    ],
+    [
+      "language structures",
+      "involves",
+      "response generation"
+    ],
+    [
+      "language structures",
+      "is controlled by",
+      "articulatory muscles"
+    ],
+    [
+      "language structures",
+      "requires",
+      "grammatical organization"
+    ],
+    [
+      "language structures",
+      "requires",
+      "grammatical processing"
+    ],
+    [
+      "language structures",
+      "requires",
+      "production"
+    ],
+    [
+      "language structures",
+      "supports",
+      "language development"
+    ],
+    [
+      "language structures",
+      "supports",
+      "learning process"
+    ],
+    [
+      "language structures",
+      "supports",
+      "neural connections"
+    ],
+    [
+      "language structures",
+      "supports",
+      "reading support"
+    ],
+    [
+      "language structures",
+      "supports",
+      "visual information"
+    ],
+    [
+      "learning adaptability",
+      "benefits from",
+      "brain regions"
+    ],
+    [
+      "learning adaptability",
+      "depends on",
+      "cognitive processes"
+    ],
+    [
+      "learning adaptability",
+      "enhanced by",
+      "integration"
+    ],
+    [
+      "learning adaptability",
+      "enhances",
+      "acquisition"
+    ],
+    [
+      "learning adaptability",
+      "enhances",
+      "auditory information"
+    ],
+    [
+      "learning adaptability",
+      "enhances",
+      "communication development"
+    ],
+    [
+      "learning adaptability",
+      "enhances",
+      "content understanding"
+    ],
+    [
+      "learning adaptability",
+      "enhances",
+      "linguistic function"
+    ],
+    [
+      "learning adaptability",
+      "enhances",
+      "linguistic input"
+    ],
+    [
+      "learning adaptability",
+      "enhances",
+      "neural networks"
+    ],
+    [
+      "learning adaptability",
+      "enhances",
+      "perception"
+    ],
+    [
+      "learning adaptability",
+      "enhances",
+      "stages of processing"
+    ],
+    [
+      "learning adaptability",
+      "facilitates",
+      "communication facilitation"
+    ],
+    [
+      "learning adaptability",
+      "influenced by",
+      "sentence structure"
+    ],
+    [
+      "learning adaptability",
+      "involves",
+      "syntactic information"
+    ],
+    [
+      "learning adaptability",
+      "supported by",
+      "complex computations"
+    ],
+    [
+      "learning adaptability",
+      "supports",
+      "developmental stages"
+    ],
+    [
+      "learning adaptability",
+      "supports",
+      "grammatical processing"
+    ],
+    [
+      "learning adaptability",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "learning adaptability",
+      "supports",
+      "language development"
+    ],
+    [
+      "learning adaptability",
+      "supports",
+      "language learning"
+    ],
+    [
+      "learning adaptability",
+      "supports",
+      "linguistic growth"
+    ],
+    [
+      "learning process",
+      "controls",
+      "articulatory muscles"
+    ],
+    [
+      "learning process",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "learning process",
+      "enhances",
+      "communication facilitation"
+    ],
+    [
+      "learning process",
+      "enhances",
+      "comprehension"
+    ],
+    [
+      "learning process",
+      "facilitated by",
+      "linguistic output"
+    ],
+    [
+      "learning process",
+      "facilitates",
+      "acquisition ease"
+    ],
+    [
+      "learning process",
+      "facilitates",
+      "coherent speech"
+    ],
+    [
+      "learning process",
+      "facilitates",
+      "meaning extraction"
+    ],
+    [
+      "learning process",
+      "influences",
+      "linguistic function"
+    ],
+    [
+      "learning process",
+      "involves",
+      "Broca's area"
+    ],
+    [
+      "learning process",
+      "involves",
+      "analysis"
+    ],
+    [
+      "learning process",
+      "involves",
+      "brain regions"
+    ],
+    [
+      "learning process",
+      "involves",
+      "cognitive processes"
+    ],
+    [
+      "learning process",
+      "involves",
+      "decoding"
+    ],
+    [
+      "learning process",
+      "involves",
+      "developmental stages"
+    ],
+    [
+      "learning process",
+      "involves",
+      "motor areas"
+    ],
+    [
+      "learning process",
+      "involves",
+      "neural pathways"
+    ],
+    [
+      "learning process",
+      "involves",
+      "phonemes"
+    ],
+    [
+      "learning process",
+      "involves",
+      "production"
+    ],
+    [
+      "learning process",
+      "involves",
+      "semantic processing"
+    ],
+    [
+      "learning process",
+      "involves",
+      "sentence production"
+    ],
+    [
+      "learning process",
+      "involves",
+      "speech sounds"
+    ],
+    [
+      "learning process",
+      "involves",
+      "syntactic information"
+    ],
+    [
+      "learning process",
+      "involves",
+      "visual information"
+    ],
+    [
+      "learning process",
+      "involves",
+      "written symbols"
+    ],
+    [
+      "learning process",
+      "is a stage of",
+      "perception"
+    ],
+    [
+      "learning process",
+      "is essential for",
+      "grammatical rules"
+    ],
+    [
+      "learning process",
+      "requires",
+      "motor commands"
+    ],
+    [
+      "learning process",
+      "supports",
+      "Wernicke's area"
+    ],
+    [
+      "learning process",
+      "supports",
+      "acquisition"
+    ],
+    [
+      "learning process",
+      "supports",
+      "language development"
+    ],
+    [
+      "learning process",
+      "supports",
+      "semantic information"
+    ],
+    [
+      "left hemisphere",
+      "contains",
+      "arcuate fasciculus"
+    ],
+    [
+      "left hemisphere",
+      "controls",
+      "production"
+    ],
+    [
+      "left hemisphere",
+      "enables",
+      "recognition"
+    ],
+    [
+      "left hemisphere",
+      "facilitates",
+      "brain plasticity"
+    ],
+    [
+      "left hemisphere",
+      "facilitates",
+      "speech production"
+    ],
+    [
+      "left hemisphere",
+      "includes",
+      "Broca's area"
+    ],
+    [
+      "left hemisphere",
+      "influences",
+      "articulatory muscles"
+    ],
+    [
+      "left hemisphere",
+      "involves",
+      "cognitive integration"
+    ],
+    [
+      "left hemisphere",
+      "involves",
+      "sentence production"
+    ],
+    [
+      "left hemisphere",
+      "is associated with",
+      "brain reorganization"
+    ],
+    [
+      "left hemisphere",
+      "is crucial for",
+      "cognition"
+    ],
+    [
+      "left hemisphere",
+      "is involved in",
+      "neural pathways"
+    ],
+    [
+      "left hemisphere",
+      "is part of",
+      "Wernicke's area"
+    ],
+    [
+      "left hemisphere",
+      "is processed by",
+      "expressive aphasia"
+    ],
+    [
+      "left hemisphere",
+      "located in",
+      "brain function"
+    ],
+    [
+      "left hemisphere",
+      "performs",
+      "analysis"
+    ],
+    [
+      "left hemisphere",
+      "processed by",
+      "coherent speech"
+    ],
+    [
+      "left hemisphere",
+      "processed by",
+      "content understanding"
+    ],
+    [
+      "left hemisphere",
+      "processes",
+      "auditory information"
+    ],
+    [
+      "left hemisphere",
+      "supports",
+      "cognitive processes"
+    ],
+    [
+      "left hemisphere",
+      "supports",
+      "communication development"
+    ],
+    [
+      "left hemisphere",
+      "supports",
+      "communication skills"
+    ],
+    [
+      "left hemisphere",
+      "supports",
+      "linguistic function"
+    ],
+    [
+      "left hemisphere",
+      "supports",
+      "neurorehabilitation"
+    ],
+    [
+      "left hemisphere",
+      "supports",
+      "semantic processing"
+    ],
+    [
+      "linguistic flexibility",
+      "associated with",
+      "Wernicke's area"
+    ],
+    [
+      "linguistic flexibility",
+      "comprises",
+      "complex processes"
+    ],
+    [
+      "linguistic flexibility",
+      "contributes to",
+      "meaning linking"
+    ],
+    [
+      "linguistic flexibility",
+      "enables",
+      "language acquisition"
+    ],
+    [
+      "linguistic flexibility",
+      "enhanced by",
+      "language comprehension"
+    ],
+    [
+      "linguistic flexibility",
+      "enhances",
+      "linguistic understanding"
+    ],
+    [
+      "linguistic flexibility",
+      "enhances",
+      "neural networks"
+    ],
+    [
+      "linguistic flexibility",
+      "enhances",
+      "recognition"
+    ],
+    [
+      "linguistic flexibility",
+      "facilitates",
+      "acquisition"
+    ],
+    [
+      "linguistic flexibility",
+      "facilitates",
+      "arcuate fasciculus"
+    ],
+    [
+      "linguistic flexibility",
+      "facilitates",
+      "communication facilitation"
+    ],
+    [
+      "linguistic flexibility",
+      "facilitates",
+      "meaning extraction"
+    ],
+    [
+      "linguistic flexibility",
+      "facilitates",
+      "semantic processing"
+    ],
+    [
+      "linguistic flexibility",
+      "influences",
+      "syntactic information"
+    ],
+    [
+      "linguistic flexibility",
+      "involves",
+      "analysis"
+    ],
+    [
+      "linguistic flexibility",
+      "involves",
+      "brain regions"
+    ],
+    [
+      "linguistic flexibility",
+      "involves",
+      "motor commands"
+    ],
+    [
+      "linguistic flexibility",
+      "promotes",
+      "linguistic growth"
+    ],
+    [
+      "linguistic flexibility",
+      "supports",
+      "communication development"
+    ],
+    [
+      "linguistic flexibility",
+      "supports",
+      "decoding"
+    ],
+    [
+      "linguistic flexibility",
+      "supports",
+      "language retrieval"
+    ],
+    [
+      "linguistic flexibility",
+      "supports",
+      "learning process"
+    ],
+    [
+      "linguistic flexibility",
+      "supports",
+      "perception"
+    ],
+    [
+      "linguistic function",
+      "contributes to",
+      "language structures"
+    ],
+    [
+      "linguistic function",
+      "enables",
+      "auditory cortex"
+    ],
+    [
+      "linguistic function",
+      "enables",
+      "perception"
+    ],
+    [
+      "linguistic function",
+      "enables",
+      "semantic processing"
+    ],
+    [
+      "linguistic function",
+      "enhances",
+      "language development"
+    ],
+    [
+      "linguistic function",
+      "is a component of",
+      "speech production"
+    ],
+    [
+      "linguistic function",
+      "is affected by",
+      "receptive aphasia"
+    ],
+    [
+      "linguistic function",
+      "is involved in",
+      "grammatical processing"
+    ],
+    [
+      "linguistic function",
+      "results in",
+      "production"
+    ],
+    [
+      "linguistic function",
+      "supports",
+      "brain stages"
+    ],
+    [
+      "linguistic function",
+      "supports",
+      "mental lexicon"
+    ],
+    [
+      "linguistic function",
+      "supports",
+      "reading support"
+    ],
+    [
+      "linguistic growth",
+      "controls",
+      "articulatory muscles"
+    ],
+    [
+      "linguistic growth",
+      "involves",
+      "decoding"
+    ],
+    [
+      "linguistic growth",
+      "involves",
+      "grammatical processing"
+    ],
+    [
+      "linguistic growth",
+      "involves",
+      "written symbols"
+    ],
+    [
+      "linguistic growth",
+      "promotes",
+      "meaningful communication"
+    ],
+    [
+      "linguistic growth",
+      "results in",
+      "acquisition"
+    ],
+    [
+      "linguistic growth",
+      "results in",
+      "production"
+    ],
+    [
+      "linguistic growth",
+      "supports",
+      "children's learning"
+    ],
+    [
+      "linguistic growth",
+      "triggers",
+      "motor commands"
+    ],
+    [
+      "linguistic input",
+      "comprehends",
+      "language comprehension"
+    ],
+    [
+      "linguistic input",
+      "controls",
+      "articulatory muscles"
+    ],
+    [
+      "linguistic input",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "linguistic input",
+      "enhances",
+      "language acquisition"
+    ],
+    [
+      "linguistic input",
+      "facilitates",
+      "language development"
+    ],
+    [
+      "linguistic input",
+      "influences",
+      "cognitive processes"
+    ],
+    [
+      "linguistic input",
+      "influences",
+      "communication development"
+    ],
+    [
+      "linguistic input",
+      "influences",
+      "language stages"
+    ],
+    [
+      "linguistic input",
+      "informs",
+      "developmental stages"
+    ],
+    [
+      "linguistic input",
+      "input for",
+      "phonemes"
+    ],
+    [
+      "linguistic input",
+      "involves",
+      "semantic processing"
+    ],
+    [
+      "linguistic input",
+      "is influenced by",
+      "grammatical organization"
+    ],
+    [
+      "linguistic input",
+      "is part of",
+      "acquisition"
+    ],
+    [
+      "linguistic input",
+      "is processed as",
+      "perception"
+    ],
+    [
+      "linguistic input",
+      "leads to",
+      "production"
+    ],
+    [
+      "linguistic input",
+      "processed by",
+      "linguistic output"
+    ],
+    [
+      "linguistic input",
+      "processes",
+      "Wernicke's area"
+    ],
+    [
+      "linguistic input",
+      "provides",
+      "auditory cortex"
+    ],
+    [
+      "linguistic input",
+      "provides",
+      "language retrieval"
+    ],
+    [
+      "linguistic input",
+      "provides",
+      "mental lexicon"
+    ],
+    [
+      "linguistic input",
+      "receives",
+      "language processing"
+    ],
+    [
+      "linguistic input",
+      "requires",
+      "decoding"
+    ],
+    [
+      "linguistic input",
+      "supports",
+      "reading support"
+    ],
+    [
+      "linguistic input",
+      "triggers",
+      "motor commands"
+    ],
+    [
+      "linguistic input",
+      "utilized by",
+      "semantic information"
+    ],
+    [
+      "linguistic output",
+      "controls",
+      "articulatory muscles"
+    ],
+    [
+      "linguistic output",
+      "depends on",
+      "language proficiency"
+    ],
+    [
+      "linguistic output",
+      "drives",
+      "linguistic growth"
+    ],
+    [
+      "linguistic output",
+      "enables",
+      "content understanding"
+    ],
+    [
+      "linguistic output",
+      "enhances",
+      "developmental adaptability"
+    ],
+    [
+      "linguistic output",
+      "enhances",
+      "language efficiency"
+    ],
+    [
+      "linguistic output",
+      "influences",
+      "brain stages"
+    ],
+    [
+      "linguistic output",
+      "influences",
+      "neural regions"
+    ],
+    [
+      "linguistic output",
+      "involves",
+      "grammatical organization"
+    ],
+    [
+      "linguistic output",
+      "involves",
+      "language acquisition"
+    ],
+    [
+      "linguistic output",
+      "involves",
+      "language structures"
+    ],
+    [
+      "linguistic output",
+      "is influenced by",
+      "children's learning"
+    ],
+    [
+      "linguistic output",
+      "is influenced by",
+      "neural plasticity"
+    ],
+    [
+      "linguistic output",
+      "produces",
+      "mental lexicon"
+    ],
+    [
+      "linguistic output",
+      "produces",
+      "neural networks"
+    ],
+    [
+      "linguistic output",
+      "results in",
+      "complex processes"
+    ],
+    [
+      "linguistic output",
+      "results in",
+      "production"
+    ],
+    [
+      "linguistic output",
+      "strengthens",
+      "neural connections"
+    ],
+    [
+      "linguistic output",
+      "supports",
+      "language development"
+    ],
+    [
+      "linguistic understanding",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "linguistic understanding",
+      "enhances",
+      "cognitive integration"
+    ],
+    [
+      "linguistic understanding",
+      "enhances",
+      "communication facilitation"
+    ],
+    [
+      "linguistic understanding",
+      "enhances",
+      "language learning"
+    ],
+    [
+      "linguistic understanding",
+      "enhances",
+      "language proficiency"
+    ],
+    [
+      "linguistic understanding",
+      "enhances",
+      "learning adaptability"
+    ],
+    [
+      "linguistic understanding",
+      "enhances",
+      "perception"
+    ],
+    [
+      "linguistic understanding",
+      "facilitates",
+      "brain reorganization"
+    ],
+    [
+      "linguistic understanding",
+      "facilitates",
+      "integration"
+    ],
+    [
+      "linguistic understanding",
+      "facilitates",
+      "semantic processing"
+    ],
+    [
+      "linguistic understanding",
+      "facilitates",
+      "word learning"
+    ],
+    [
+      "linguistic understanding",
+      "influences",
+      "developmental adaptability"
+    ],
+    [
+      "linguistic understanding",
+      "informs",
+      "language structures"
+    ],
+    [
+      "linguistic understanding",
+      "involves",
+      "cognitive processes"
+    ],
+    [
+      "linguistic understanding",
+      "involves",
+      "complex computations"
+    ],
+    [
+      "linguistic understanding",
+      "involves",
+      "grammatical processing"
+    ],
+    [
+      "linguistic understanding",
+      "involves",
+      "linguistic input"
+    ],
+    [
+      "linguistic understanding",
+      "involves",
+      "sentence structure"
+    ],
+    [
+      "linguistic understanding",
+      "involves",
+      "speech sounds"
+    ],
+    [
+      "linguistic understanding",
+      "is supported by",
+      "neural connections"
+    ],
+    [
+      "linguistic understanding",
+      "leads to",
+      "production"
+    ],
+    [
+      "linguistic understanding",
+      "precedes",
+      "speech production"
+    ],
+    [
+      "linguistic understanding",
+      "requires",
+      "content understanding"
+    ],
+    [
+      "linguistic understanding",
+      "results in",
+      "linguistic output"
+    ],
+    [
+      "linguistic understanding",
+      "supports",
+      "children's learning"
+    ],
+    [
+      "linguistic understanding",
+      "supports",
+      "developmental stages"
+    ],
+    [
+      "linguistic understanding",
+      "supports",
+      "language retrieval"
+    ],
+    [
+      "linguistic understanding",
+      "underpins",
+      "language processing"
+    ],
+    [
+      "linguistic understanding",
+      "utilizes",
+      "semantic information"
+    ],
+    [
+      "meaning extraction",
+      "aids",
+      "coherent speech"
+    ],
+    [
+      "meaning extraction",
+      "aids",
+      "speech perception"
+    ],
+    [
+      "meaning extraction",
+      "aids",
+      "visual cortex"
+    ],
+    [
+      "meaning extraction",
+      "contributes to",
+      "language development"
+    ],
+    [
+      "meaning extraction",
+      "derived from",
+      "cognition"
+    ],
+    [
+      "meaning extraction",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "meaning extraction",
+      "enhances",
+      "communication development"
+    ],
+    [
+      "meaning extraction",
+      "enhances",
+      "language efficiency"
+    ],
+    [
+      "meaning extraction",
+      "enhances",
+      "learning adaptability"
+    ],
+    [
+      "meaning extraction",
+      "facilitates",
+      "acquisition"
+    ],
+    [
+      "meaning extraction",
+      "facilitates",
+      "language acquisition"
+    ],
+    [
+      "meaning extraction",
+      "involves",
+      "brain stages"
+    ],
+    [
+      "meaning extraction",
+      "involves",
+      "grammatical processing"
+    ],
+    [
+      "meaning extraction",
+      "involves",
+      "linguistic input"
+    ],
+    [
+      "meaning extraction",
+      "involves",
+      "perception"
+    ],
+    [
+      "meaning extraction",
+      "involves",
+      "recognition"
+    ],
+    [
+      "meaning extraction",
+      "involves",
+      "syntactic information"
+    ],
+    [
+      "meaning extraction",
+      "involves",
+      "written symbols"
+    ],
+    [
+      "meaning extraction",
+      "is utilized for",
+      "speech sounds"
+    ],
+    [
+      "meaning extraction",
+      "promotes",
+      "linguistic growth"
+    ],
+    [
+      "meaning extraction",
+      "supports",
+      "communication facilitation"
+    ],
+    [
+      "meaning linking",
+      "connects",
+      "brain regions"
+    ],
+    [
+      "meaning linking",
+      "enhances",
+      "acquisition ease"
+    ],
+    [
+      "meaning linking",
+      "enhances",
+      "children's learning"
+    ],
+    [
+      "meaning linking",
+      "enhances",
+      "meaningful communication"
+    ],
+    [
+      "meaning linking",
+      "facilitates",
+      "acquisition"
+    ],
+    [
+      "meaning linking",
+      "facilitates",
+      "communication facilitation"
+    ],
+    [
+      "meaning linking",
+      "facilitates",
+      "language development"
+    ],
+    [
+      "meaning linking",
+      "facilitates",
+      "linguistic input"
+    ],
+    [
+      "meaning linking",
+      "facilitates",
+      "meaning extraction"
+    ],
+    [
+      "meaning linking",
+      "facilitates",
+      "mental lexicon"
+    ],
+    [
+      "meaning linking",
+      "involves",
+      "Wernicke's area"
+    ],
+    [
+      "meaning linking",
+      "involves",
+      "analysis"
+    ],
+    [
+      "meaning linking",
+      "involves",
+      "auditory information"
+    ],
+    [
+      "meaning linking",
+      "involves",
+      "language stages"
+    ],
+    [
+      "meaning linking",
+      "involves",
+      "learning process"
+    ],
+    [
+      "meaning linking",
+      "involves",
+      "speech sounds"
+    ],
+    [
+      "meaning linking",
+      "is essential for",
+      "language acquisition"
+    ],
+    [
+      "meaning linking",
+      "is part of",
+      "complex processes"
+    ],
+    [
+      "meaning linking",
+      "is processed by",
+      "Broca's area"
+    ],
+    [
+      "meaning linking",
+      "links",
+      "graphemes"
+    ],
+    [
+      "meaning linking",
+      "promotes",
+      "linguistic growth"
+    ],
+    [
+      "meaning linking",
+      "requires",
+      "recognition"
+    ],
+    [
+      "meaning linking",
+      "supports",
+      "linguistic function"
+    ],
+    [
+      "meaningful communication",
+      "controlled by",
+      "articulatory muscles"
+    ],
+    [
+      "meaningful communication",
+      "enables",
+      "grammatical rules"
+    ],
+    [
+      "meaningful communication",
+      "enables",
+      "graphemes"
+    ],
+    [
+      "meaningful communication",
+      "enables",
+      "mental lexicon"
+    ],
+    [
+      "meaningful communication",
+      "enables",
+      "perception"
+    ],
+    [
+      "meaningful communication",
+      "enables",
+      "sentence structure"
+    ],
+    [
+      "meaningful communication",
+      "facilitates",
+      "speech sounds"
+    ],
+    [
+      "meaningful communication",
+      "influences",
+      "processing implications"
+    ],
+    [
+      "meaningful communication",
+      "involves",
+      "semantic processing"
+    ],
+    [
+      "meaningful communication",
+      "is a result of",
+      "coherent speech"
+    ],
+    [
+      "meaningful communication",
+      "is related to",
+      "brain stages"
+    ],
+    [
+      "meaningful communication",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "meaningful communication",
+      "supports",
+      "language development"
+    ],
+    [
+      "mental lexicon",
+      "aids",
+      "semantic processing"
+    ],
+    [
+      "mental lexicon",
+      "connects",
+      "neural connections"
+    ],
+    [
+      "mental lexicon",
+      "contains",
+      "semantic information"
+    ],
+    [
+      "mental lexicon",
+      "dictates",
+      "grammatical rules"
+    ],
+    [
+      "mental lexicon",
+      "enables",
+      "content understanding"
+    ],
+    [
+      "mental lexicon",
+      "enables",
+      "language retrieval"
+    ],
+    [
+      "mental lexicon",
+      "enables",
+      "recognition"
+    ],
+    [
+      "mental lexicon",
+      "encompasses",
+      "complex computations"
+    ],
+    [
+      "mental lexicon",
+      "enhances",
+      "language efficiency"
+    ],
+    [
+      "mental lexicon",
+      "enhances",
+      "word learning"
+    ],
+    [
+      "mental lexicon",
+      "facilitates",
+      "acquisition"
+    ],
+    [
+      "mental lexicon",
+      "facilitates",
+      "language learning"
+    ],
+    [
+      "mental lexicon",
+      "facilitates",
+      "meaning extraction"
+    ],
+    [
+      "mental lexicon",
+      "includes",
+      "language structures"
+    ],
+    [
+      "mental lexicon",
+      "influences",
+      "cognition"
+    ],
+    [
+      "mental lexicon",
+      "interacts with",
+      "auditory cortex"
+    ],
+    [
+      "mental lexicon",
+      "involves",
+      "articulatory muscles"
+    ],
+    [
+      "mental lexicon",
+      "involves",
+      "grammatical processing"
+    ],
+    [
+      "mental lexicon",
+      "is studied by",
+      "brain research"
+    ],
+    [
+      "mental lexicon",
+      "processes",
+      "auditory information"
+    ],
+    [
+      "mental lexicon",
+      "supports",
+      "decoding"
+    ],
+    [
+      "mental lexicon",
+      "supports",
+      "developmental adaptability"
+    ],
+    [
+      "mental lexicon",
+      "supports",
+      "language development"
+    ],
+    [
+      "mental lexicon",
+      "supports",
+      "learning process"
+    ],
+    [
+      "mental lexicon",
+      "supports",
+      "linguistic flexibility"
+    ],
+    [
+      "mental lexicon",
+      "supports",
+      "production"
+    ],
+    [
+      "motor areas",
+      "activated by",
+      "linguistic input"
+    ],
+    [
+      "motor areas",
+      "activates",
+      "auditory information"
+    ],
+    [
+      "motor areas",
+      "connects",
+      "arcuate fasciculus"
+    ],
+    [
+      "motor areas",
+      "controlled by",
+      "brain function"
+    ],
+    [
+      "motor areas",
+      "controlled by",
+      "linguistic output"
+    ],
+    [
+      "motor areas",
+      "controlled by",
+      "recognition"
+    ],
+    [
+      "motor areas",
+      "controlled by",
+      "speech muscles"
+    ],
+    [
+      "motor areas",
+      "enables",
+      "linguistic function"
+    ],
+    [
+      "motor areas",
+      "engages",
+      "linguistic growth"
+    ],
+    [
+      "motor areas",
+      "facilitates",
+      "language acquisition"
+    ],
+    [
+      "motor areas",
+      "facilitates",
+      "word retrieval"
+    ],
+    [
+      "motor areas",
+      "influences",
+      "cognition"
+    ],
+    [
+      "motor areas",
+      "influences",
+      "processing implications"
+    ],
+    [
+      "motor areas",
+      "interacts with",
+      "Wernicke's area"
+    ],
+    [
+      "motor areas",
+      "involves",
+      "language processing"
+    ],
+    [
+      "motor areas",
+      "involves",
+      "language retrieval"
+    ],
+    [
+      "motor areas",
+      "involves",
+      "multifaceted interactions"
+    ],
+    [
+      "motor areas",
+      "involves",
+      "reading support"
+    ],
+    [
+      "motor areas",
+      "is engaged by",
+      "stages of processing"
+    ],
+    [
+      "motor areas",
+      "is impacted by",
+      "communication disorders"
+    ],
+    [
+      "motor areas",
+      "is influenced by",
+      "linguistic flexibility"
+    ],
+    [
+      "motor areas",
+      "is influenced by",
+      "receptive aphasia"
+    ],
+    [
+      "motor areas",
+      "linked to",
+      "meaning linking"
+    ],
+    [
+      "motor areas",
+      "receives input from",
+      "auditory cortex"
+    ],
+    [
+      "motor areas",
+      "utilized by",
+      "cognitive processes"
+    ],
+    [
+      "motor areas",
+      "utilizes",
+      "Broca's area"
+    ],
+    [
+      "motor areas",
+      "utilizes",
+      "analysis"
+    ],
+    [
+      "motor commands",
+      "controlled by",
+      "articulatory muscles"
+    ],
+    [
+      "motor commands",
+      "controlled by",
+      "cognitive processes"
+    ],
+    [
+      "motor commands",
+      "controlled by",
+      "learning adaptability"
+    ],
+    [
+      "motor commands",
+      "controls",
+      "production"
+    ],
+    [
+      "motor commands",
+      "executed by",
+      "analysis"
+    ],
+    [
+      "motor commands",
+      "executed by",
+      "auditory cortex"
+    ],
+    [
+      "motor commands",
+      "executed by",
+      "complex processes"
+    ],
+    [
+      "motor commands",
+      "executed by",
+      "language stages"
+    ],
+    [
+      "motor commands",
+      "generates",
+      "acquisition"
+    ],
+    [
+      "motor commands",
+      "guides",
+      "semantic information"
+    ],
+    [
+      "motor commands",
+      "guides",
+      "writing support"
+    ],
+    [
+      "motor commands",
+      "influences",
+      "cognition"
+    ],
+    [
+      "motor commands",
+      "influences",
+      "comprehension"
+    ],
+    [
+      "motor commands",
+      "influences",
+      "grammatical processing"
+    ],
+    [
+      "motor commands",
+      "influences",
+      "language comprehension"
+    ],
+    [
+      "motor commands",
+      "influences",
+      "language efficiency"
+    ],
+    [
+      "motor commands",
+      "influences",
+      "linguistic understanding"
+    ],
+    [
+      "motor commands",
+      "influences",
+      "meaning linking"
+    ],
+    [
+      "motor commands",
+      "influences",
+      "neural plasticity"
+    ],
+    [
+      "motor commands",
+      "influences",
+      "perception"
+    ],
+    [
+      "motor commands",
+      "influences",
+      "phonemes"
+    ],
+    [
+      "motor commands",
+      "initiates",
+      "coherent speech"
+    ],
+    [
+      "motor commands",
+      "initiates",
+      "language acquisition"
+    ],
+    [
+      "motor commands",
+      "initiates",
+      "recognition"
+    ],
+    [
+      "motor commands",
+      "initiates",
+      "speech production"
+    ],
+    [
+      "motor commands",
+      "initiates",
+      "word retrieval"
+    ],
+    [
+      "motor commands",
+      "involves",
+      "semantic processing"
+    ],
+    [
+      "motor commands",
+      "is controlled by",
+      "speech muscles"
+    ],
+    [
+      "motor commands",
+      "is executed by",
+      "auditory information"
+    ],
+    [
+      "motor commands",
+      "is executed by",
+      "brain research"
+    ],
+    [
+      "motor commands",
+      "is executed by",
+      "linguistic function"
+    ],
+    [
+      "motor commands",
+      "requires",
+      "language learning"
+    ],
+    [
+      "motor commands",
+      "requires",
+      "meaning extraction"
+    ],
+    [
+      "motor commands",
+      "triggered by",
+      "linguistic output"
+    ],
+    [
+      "motor commands",
+      "utilized by",
+      "syntactic information"
+    ],
+    [
+      "motor commands",
+      "utilized for",
+      "mental lexicon"
+    ],
+    [
+      "multifaceted interactions",
+      "associated with",
+      "linguistic function"
+    ],
+    [
+      "multifaceted interactions",
+      "contributes to",
+      "grammatical organization"
+    ],
+    [
+      "multifaceted interactions",
+      "enables",
+      "integration"
+    ],
+    [
+      "multifaceted interactions",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "multifaceted interactions",
+      "enhances",
+      "language development"
+    ],
+    [
+      "multifaceted interactions",
+      "facilitates",
+      "acquisition"
+    ],
+    [
+      "multifaceted interactions",
+      "facilitates",
+      "word retrieval"
+    ],
+    [
+      "multifaceted interactions",
+      "influences",
+      "communication development"
+    ],
+    [
+      "multifaceted interactions",
+      "involves",
+      "brain regions"
+    ],
+    [
+      "multifaceted interactions",
+      "involves",
+      "grammatical processing"
+    ],
+    [
+      "multifaceted interactions",
+      "involves",
+      "language acquisition"
+    ],
+    [
+      "multifaceted interactions",
+      "involves",
+      "perception"
+    ],
+    [
+      "multifaceted interactions",
+      "involves",
+      "speech sounds"
+    ],
+    [
+      "multifaceted interactions",
+      "involves",
+      "visual information"
+    ],
+    [
+      "multifaceted interactions",
+      "is influenced by",
+      "language efficiency"
+    ],
+    [
+      "multifaceted interactions",
+      "promotes",
+      "communication facilitation"
+    ],
+    [
+      "multifaceted interactions",
+      "promotes",
+      "word learning"
+    ],
+    [
+      "multifaceted interactions",
+      "supports",
+      "linguistic input"
+    ],
+    [
+      "multifaceted interactions",
+      "supports",
+      "writing support"
+    ],
+    [
+      "neural adaptation",
+      "advances",
+      "brain research"
+    ],
+    [
+      "neural adaptation",
+      "contributes to",
+      "language development"
+    ],
+    [
+      "neural adaptation",
+      "enables",
+      "brain plasticity"
+    ],
+    [
+      "neural adaptation",
+      "enables",
+      "linguistic flexibility"
+    ],
+    [
+      "neural adaptation",
+      "enables",
+      "meaning linking"
+    ],
+    [
+      "neural adaptation",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "neural adaptation",
+      "enhances",
+      "comprehension"
+    ],
+    [
+      "neural adaptation",
+      "enhances",
+      "language efficiency"
+    ],
+    [
+      "neural adaptation",
+      "enhances",
+      "neural plasticity"
+    ],
+    [
+      "neural adaptation",
+      "enhances",
+      "response generation"
+    ],
+    [
+      "neural adaptation",
+      "enhances",
+      "word learning"
+    ],
+    [
+      "neural adaptation",
+      "facilitates",
+      "graphemes"
+    ],
+    [
+      "neural adaptation",
+      "influenced by",
+      "sentence structure"
+    ],
+    [
+      "neural adaptation",
+      "influences",
+      "linguistic input"
+    ],
+    [
+      "neural adaptation",
+      "influences",
+      "semantic information"
+    ],
+    [
+      "neural adaptation",
+      "influences",
+      "speech production"
+    ],
+    [
+      "neural adaptation",
+      "involves",
+      "decoding"
+    ],
+    [
+      "neural adaptation",
+      "involves",
+      "neural connections"
+    ],
+    [
+      "neural adaptation",
+      "involves",
+      "syntactic information"
+    ],
+    [
+      "neural adaptation",
+      "involves",
+      "written symbols"
+    ],
+    [
+      "neural adaptation",
+      "is a result of",
+      "language proficiency"
+    ],
+    [
+      "neural adaptation",
+      "promotes",
+      "linguistic growth"
+    ],
+    [
+      "neural adaptation",
+      "supports",
+      "acquisition"
+    ],
+    [
+      "neural adaptation",
+      "supports",
+      "cognition"
+    ],
+    [
+      "neural adaptation",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "neural adaptation",
+      "supports",
+      "meaning extraction"
+    ],
+    [
+      "neural adaptation",
+      "supports",
+      "neural networks"
+    ],
+    [
+      "neural adaptation",
+      "supports",
+      "writing support"
+    ],
+    [
+      "neural connections",
+      "contributes to",
+      "learning adaptability"
+    ],
+    [
+      "neural connections",
+      "contributes to",
+      "learning process"
+    ],
+    [
+      "neural connections",
+      "contributes to",
+      "linguistic growth"
+    ],
+    [
+      "neural connections",
+      "depends on",
+      "coherent speech"
+    ],
+    [
+      "neural connections",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "neural connections",
+      "enables",
+      "recognition"
+    ],
+    [
+      "neural connections",
+      "enables",
+      "speech production"
+    ],
+    [
+      "neural connections",
+      "enhances",
+      "acquisition ease"
+    ],
+    [
+      "neural connections",
+      "enhances",
+      "brain plasticity"
+    ],
+    [
+      "neural connections",
+      "facilitates",
+      "children's learning"
+    ],
+    [
+      "neural connections",
+      "facilitates",
+      "meaning extraction"
+    ],
+    [
+      "neural connections",
+      "facilitates",
+      "meaning linking"
+    ],
+    [
+      "neural connections",
+      "facilitates",
+      "word retrieval"
+    ],
+    [
+      "neural connections",
+      "impacts",
+      "expressive aphasia"
+    ],
+    [
+      "neural connections",
+      "involves",
+      "phonemes"
+    ],
+    [
+      "neural connections",
+      "is enhanced by",
+      "language proficiency"
+    ],
+    [
+      "neural connections",
+      "processes",
+      "auditory information"
+    ],
+    [
+      "neural connections",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "neural networks",
+      "controls",
+      "articulatory muscles"
+    ],
+    [
+      "neural networks",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "neural networks",
+      "enhances",
+      "children's learning"
+    ],
+    [
+      "neural networks",
+      "enhances",
+      "developmental adaptability"
+    ],
+    [
+      "neural networks",
+      "facilitates",
+      "semantic processing"
+    ],
+    [
+      "neural networks",
+      "influences",
+      "motor commands"
+    ],
+    [
+      "neural networks",
+      "involves",
+      "analysis"
+    ],
+    [
+      "neural networks",
+      "processes",
+      "visual information"
+    ],
+    [
+      "neural networks",
+      "supports",
+      "decoding"
+    ],
+    [
+      "neural networks",
+      "supports",
+      "linguistic function"
+    ],
+    [
+      "neural networks",
+      "supports",
+      "linguistic input"
+    ],
+    [
+      "neural networks",
+      "supports",
+      "reading support"
+    ],
+    [
+      "neural networks",
+      "underpins",
+      "complex processes"
+    ],
+    [
+      "neural networks",
+      "utilizes",
+      "coherent speech"
+    ],
+    [
+      "neural pathways",
+      "affects",
+      "communication disorders"
+    ],
+    [
+      "neural pathways",
+      "affects",
+      "processing implications"
+    ],
+    [
+      "neural pathways",
+      "associated with",
+      "expressive aphasia"
+    ],
+    [
+      "neural pathways",
+      "enables",
+      "brain function"
+    ],
+    [
+      "neural pathways",
+      "enables",
+      "brain reorganization"
+    ],
+    [
+      "neural pathways",
+      "enables",
+      "linguistic function"
+    ],
+    [
+      "neural pathways",
+      "enables",
+      "recognition"
+    ],
+    [
+      "neural pathways",
+      "enhances",
+      "communication facilitation"
+    ],
+    [
+      "neural pathways",
+      "facilitates",
+      "semantic processing"
+    ],
+    [
+      "neural pathways",
+      "is connected to",
+      "language retrieval"
+    ],
+    [
+      "neural pathways",
+      "is located in",
+      "Wernicke's area"
+    ],
+    [
+      "neural pathways",
+      "processed by",
+      "auditory information"
+    ],
+    [
+      "neural pathways",
+      "supports",
+      "communication development"
+    ],
+    [
+      "neural pathways",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "neural pathways",
+      "supports",
+      "language development"
+    ],
+    [
+      "neural plasticity",
+      "affects",
+      "communication disorders"
+    ],
+    [
+      "neural plasticity",
+      "controlled by",
+      "speech muscles"
+    ],
+    [
+      "neural plasticity",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "neural plasticity",
+      "enhances",
+      "children's learning"
+    ],
+    [
+      "neural plasticity",
+      "enhances",
+      "language acquisition"
+    ],
+    [
+      "neural plasticity",
+      "enhances",
+      "language development"
+    ],
+    [
+      "neural plasticity",
+      "facilitates",
+      "decoding"
+    ],
+    [
+      "neural plasticity",
+      "influences",
+      "articulatory muscles"
+    ],
+    [
+      "neural plasticity",
+      "influences",
+      "brain stages"
+    ],
+    [
+      "neural plasticity",
+      "influences",
+      "linguistic input"
+    ],
+    [
+      "neural plasticity",
+      "influences",
+      "linguistic understanding"
+    ],
+    [
+      "neural plasticity",
+      "involves",
+      "grammatical processing"
+    ],
+    [
+      "neural plasticity",
+      "is influenced by",
+      "grammatical rules"
+    ],
+    [
+      "neural plasticity",
+      "is influenced by",
+      "stages of processing"
+    ],
+    [
+      "neural plasticity",
+      "is supported by",
+      "meaning linking"
+    ],
+    [
+      "neural plasticity",
+      "promotes",
+      "linguistic growth"
+    ],
+    [
+      "neural plasticity",
+      "supports",
+      "developmental adaptability"
+    ],
+    [
+      "neural plasticity",
+      "supports",
+      "developmental stages"
+    ],
+    [
+      "neural plasticity",
+      "supports",
+      "integration"
+    ],
+    [
+      "neural plasticity",
+      "supports",
+      "neurorehabilitation"
+    ],
+    [
+      "neural plasticity",
+      "supports",
+      "production"
+    ],
+    [
+      "neural plasticity",
+      "supports",
+      "semantic processing"
+    ],
+    [
+      "neural regions",
+      "contributes to",
+      "language acquisition"
+    ],
+    [
+      "neural regions",
+      "controlled by",
+      "speech muscles"
+    ],
+    [
+      "neural regions",
+      "enables",
+      "linguistic function"
+    ],
+    [
+      "neural regions",
+      "involves",
+      "graphemes"
+    ],
+    [
+      "neural regions",
+      "involves",
+      "language retrieval"
+    ],
+    [
+      "neural regions",
+      "involves",
+      "recognition"
+    ],
+    [
+      "neural regions",
+      "processes",
+      "linguistic input"
+    ],
+    [
+      "neural regions",
+      "processes",
+      "visual information"
+    ],
+    [
+      "neural regions",
+      "promotes",
+      "linguistic growth"
+    ],
+    [
+      "neural regions",
+      "represents",
+      "written symbols"
+    ],
+    [
+      "neural regions",
+      "supported by",
+      "acquisition ease"
+    ],
+    [
+      "neural regions",
+      "supported by",
+      "word retrieval"
+    ],
+    [
+      "neural regions",
+      "supports",
+      "semantic processing"
+    ],
+    [
+      "neurorehabilitation",
+      "activated by",
+      "motor areas"
+    ],
+    [
+      "neurorehabilitation",
+      "aids",
+      "speech muscles"
+    ],
+    [
+      "neurorehabilitation",
+      "enhances",
+      "language development"
+    ],
+    [
+      "neurorehabilitation",
+      "enhances",
+      "production"
+    ],
+    [
+      "neurorehabilitation",
+      "facilitated by",
+      "learning adaptability"
+    ],
+    [
+      "neurorehabilitation",
+      "is treated in",
+      "coherent speech"
+    ],
+    [
+      "neurorehabilitation",
+      "supports",
+      "angular gyrus"
+    ],
+    [
+      "neurorehabilitation",
+      "supports",
+      "auditory cortex"
+    ],
+    [
+      "neurorehabilitation",
+      "supports",
+      "neural adaptation"
+    ],
+    [
+      "perception",
+      "affects",
+      "expressive aphasia"
+    ],
+    [
+      "perception",
+      "affects",
+      "processing implications"
+    ],
+    [
+      "perception",
+      "analyzed by",
+      "Wernicke's area"
+    ],
+    [
+      "perception",
+      "enhances",
+      "neural plasticity"
+    ],
+    [
+      "perception",
+      "facilitates",
+      "communication development"
+    ],
+    [
+      "perception",
+      "facilitates",
+      "communication facilitation"
+    ],
+    [
+      "perception",
+      "facilitates",
+      "language development"
+    ],
+    [
+      "perception",
+      "impairs",
+      "receptive aphasia"
+    ],
+    [
+      "perception",
+      "influences",
+      "language proficiency"
+    ],
+    [
+      "perception",
+      "involves",
+      "content understanding"
+    ],
+    [
+      "perception",
+      "involves",
+      "neural networks"
+    ],
+    [
+      "perception",
+      "involves",
+      "neural pathways"
+    ],
+    [
+      "perception",
+      "involves",
+      "semantic processing"
+    ],
+    [
+      "perception",
+      "involves",
+      "written symbols"
+    ],
+    [
+      "perception",
+      "is a stage of",
+      "decoding"
+    ],
+    [
+      "perception",
+      "is a stage of",
+      "stages of processing"
+    ],
+    [
+      "perception",
+      "is affected by",
+      "communication disorders"
+    ],
+    [
+      "perception",
+      "is influenced by",
+      "brain reorganization"
+    ],
+    [
+      "perception",
+      "is influenced by",
+      "linguistic output"
+    ],
+    [
+      "perception",
+      "is perceived by",
+      "coherent speech"
+    ],
+    [
+      "perception",
+      "is processed by",
+      "auditory cortex"
+    ],
+    [
+      "perception",
+      "precedes",
+      "recognition"
+    ],
+    [
+      "perception",
+      "promotes",
+      "linguistic growth"
+    ],
+    [
+      "perception",
+      "provides",
+      "syntactic information"
+    ],
+    [
+      "perception",
+      "requires",
+      "sentence production"
+    ],
+    [
+      "phonemes",
+      "aids",
+      "acquisition"
+    ],
+    [
+      "phonemes",
+      "composed of",
+      "content understanding"
+    ],
+    [
+      "phonemes",
+      "composed of",
+      "language structures"
+    ],
+    [
+      "phonemes",
+      "comprises",
+      "complex processes"
+    ],
+    [
+      "phonemes",
+      "comprises",
+      "linguistic output"
+    ],
+    [
+      "phonemes",
+      "enhances",
+      "language acquisition"
+    ],
+    [
+      "phonemes",
+      "facilitates",
+      "recognition"
+    ],
+    [
+      "phonemes",
+      "influences",
+      "semantic processing"
+    ],
+    [
+      "phonemes",
+      "involves",
+      "language retrieval"
+    ],
+    [
+      "phonemes",
+      "involves",
+      "perception"
+    ],
+    [
+      "phonemes",
+      "is decoded by",
+      "decoding"
+    ],
+    [
+      "phonemes",
+      "is processed by",
+      "integration"
+    ],
+    [
+      "phonemes",
+      "is related to",
+      "word retrieval"
+    ],
+    [
+      "phonemes",
+      "organizes",
+      "grammatical organization"
+    ],
+    [
+      "phonemes",
+      "produces",
+      "speech production"
+    ],
+    [
+      "phonemes",
+      "supports",
+      "language development"
+    ],
+    [
+      "phonological information",
+      "aids",
+      "cognitive integration"
+    ],
+    [
+      "phonological information",
+      "comprises",
+      "phonemes"
+    ],
+    [
+      "phonological information",
+      "contributes to",
+      "comprehension"
+    ],
+    [
+      "phonological information",
+      "contributes to",
+      "grammatical organization"
+    ],
+    [
+      "phonological information",
+      "contributes to",
+      "linguistic growth"
+    ],
+    [
+      "phonological information",
+      "contributes to",
+      "speech production"
+    ],
+    [
+      "phonological information",
+      "enables",
+      "communication facilitation"
+    ],
+    [
+      "phonological information",
+      "enhances",
+      "acquisition ease"
+    ],
+    [
+      "phonological information",
+      "enhances",
+      "cognition"
+    ],
+    [
+      "phonological information",
+      "enhances",
+      "learning adaptability"
+    ],
+    [
+      "phonological information",
+      "facilitates",
+      "integration"
+    ],
+    [
+      "phonological information",
+      "facilitates",
+      "word learning"
+    ],
+    [
+      "phonological information",
+      "guides",
+      "motor commands"
+    ],
+    [
+      "phonological information",
+      "influences",
+      "cognitive processes"
+    ],
+    [
+      "phonological information",
+      "influences",
+      "neural plasticity"
+    ],
+    [
+      "phonological information",
+      "influences",
+      "sentence structure"
+    ],
+    [
+      "phonological information",
+      "informs",
+      "production"
+    ],
+    [
+      "phonological information",
+      "involves",
+      "analysis"
+    ],
+    [
+      "phonological information",
+      "involves",
+      "mental lexicon"
+    ],
+    [
+      "phonological information",
+      "involves",
+      "neural connections"
+    ],
+    [
+      "phonological information",
+      "involves",
+      "speech sounds"
+    ],
+    [
+      "phonological information",
+      "is involved in",
+      "language stages"
+    ],
+    [
+      "phonological information",
+      "is necessary for",
+      "sentence production"
+    ],
+    [
+      "phonological information",
+      "is processed by",
+      "auditory information"
+    ],
+    [
+      "phonological information",
+      "is processed by",
+      "language processing"
+    ],
+    [
+      "phonological information",
+      "is processed by",
+      "perception"
+    ],
+    [
+      "phonological information",
+      "is processed by",
+      "recognition"
+    ],
+    [
+      "phonological information",
+      "links",
+      "meaning linking"
+    ],
+    [
+      "phonological information",
+      "processed by",
+      "auditory cortex"
+    ],
+    [
+      "phonological information",
+      "supports",
+      "developmental stages"
+    ],
+    [
+      "phonological information",
+      "supports",
+      "language comprehension"
+    ],
+    [
+      "phonological information",
+      "supports",
+      "learning process"
+    ],
+    [
+      "phonological information",
+      "supports",
+      "linguistic function"
+    ],
+    [
+      "phonological information",
+      "supports",
+      "neural networks"
+    ],
+    [
+      "processing harmony",
+      "enables",
+      "production"
+    ],
+    [
+      "processing harmony",
+      "enables",
+      "response generation"
+    ],
+    [
+      "processing harmony",
+      "enhances",
+      "syntactic information"
+    ],
+    [
+      "processing harmony",
+      "facilitates",
+      "brain regions"
+    ],
+    [
+      "processing harmony",
+      "facilitates",
+      "perception"
+    ],
+    [
+      "processing harmony",
+      "is achieved through",
+      "comprehension"
+    ],
+    [
+      "processing harmony",
+      "is related to",
+      "mental lexicon"
+    ],
+    [
+      "processing harmony",
+      "is supported by",
+      "neural plasticity"
+    ],
+    [
+      "processing harmony",
+      "promotes",
+      "developmental adaptability"
+    ],
+    [
+      "processing harmony",
+      "requires",
+      "neural networks"
+    ],
+    [
+      "processing harmony",
+      "requires",
+      "sentence production"
+    ],
+    [
+      "processing harmony",
+      "results in",
+      "meaningful communication"
+    ],
+    [
+      "processing harmony",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "processing implications",
+      "affects",
+      "acquisition"
+    ],
+    [
+      "processing implications",
+      "affects",
+      "children's learning"
+    ],
+    [
+      "processing implications",
+      "affects",
+      "communication development"
+    ],
+    [
+      "processing implications",
+      "affects",
+      "language development"
+    ],
+    [
+      "processing implications",
+      "affects",
+      "linguistic function"
+    ],
+    [
+      "processing implications",
+      "affects",
+      "meaning extraction"
+    ],
+    [
+      "processing implications",
+      "affects",
+      "semantic information"
+    ],
+    [
+      "processing implications",
+      "affects",
+      "syntactic information"
+    ],
+    [
+      "processing implications",
+      "has",
+      "neural regions"
+    ],
+    [
+      "processing implications",
+      "has implications for",
+      "stages of processing"
+    ],
+    [
+      "processing implications",
+      "informs",
+      "language stages"
+    ],
+    [
+      "processing implications",
+      "informs",
+      "mental lexicon"
+    ],
+    [
+      "processing implications",
+      "is a factor in",
+      "coherent speech"
+    ],
+    [
+      "processing implications",
+      "is related to",
+      "auditory cortex"
+    ],
+    [
+      "processing implications",
+      "is related to",
+      "grammatical processing"
+    ],
+    [
+      "production",
+      "contributes to",
+      "language acquisition"
+    ],
+    [
+      "production",
+      "enables",
+      "acquisition ease"
+    ],
+    [
+      "production",
+      "enables",
+      "brain function"
+    ],
+    [
+      "production",
+      "follows",
+      "comprehension"
+    ],
+    [
+      "production",
+      "generates",
+      "content understanding"
+    ],
+    [
+      "production",
+      "impairs",
+      "expressive aphasia"
+    ],
+    [
+      "production",
+      "influences",
+      "cognition"
+    ],
+    [
+      "production",
+      "influences",
+      "neural adaptation"
+    ],
+    [
+      "production",
+      "involves",
+      "neural networks"
+    ],
+    [
+      "production",
+      "is a result of",
+      "language proficiency"
+    ],
+    [
+      "production",
+      "is a stage of",
+      "language processing"
+    ],
+    [
+      "production",
+      "is activated by",
+      "articulatory muscles"
+    ],
+    [
+      "production",
+      "is influenced by",
+      "language efficiency"
+    ],
+    [
+      "production",
+      "leads to",
+      "perception"
+    ],
+    [
+      "production",
+      "leads to",
+      "speech perception"
+    ],
+    [
+      "production",
+      "produced by",
+      "motor commands"
+    ],
+    [
+      "production",
+      "produces",
+      "speech muscles"
+    ],
+    [
+      "production",
+      "promotes",
+      "language development"
+    ],
+    [
+      "production",
+      "requires",
+      "linguistic understanding"
+    ],
+    [
+      "production",
+      "results in",
+      "coherent speech"
+    ],
+    [
+      "reading support",
+      "aids",
+      "graphemes"
+    ],
+    [
+      "reading support",
+      "aids",
+      "meaning extraction"
+    ],
+    [
+      "reading support",
+      "aids",
+      "meaning linking"
+    ],
+    [
+      "reading support",
+      "aids",
+      "neurorehabilitation"
+    ],
+    [
+      "reading support",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "reading support",
+      "enhances",
+      "brain plasticity"
+    ],
+    [
+      "reading support",
+      "enhances",
+      "learning adaptability"
+    ],
+    [
+      "reading support",
+      "enhances",
+      "neural plasticity"
+    ],
+    [
+      "reading support",
+      "enhances",
+      "speech perception"
+    ],
+    [
+      "reading support",
+      "facilitates",
+      "acquisition ease"
+    ],
+    [
+      "reading support",
+      "facilitates",
+      "language retrieval"
+    ],
+    [
+      "reading support",
+      "facilitates",
+      "linguistic understanding"
+    ],
+    [
+      "reading support",
+      "facilitates",
+      "neural pathways"
+    ],
+    [
+      "reading support",
+      "facilitates",
+      "neural regions"
+    ],
+    [
+      "reading support",
+      "involves",
+      "Wernicke's area"
+    ],
+    [
+      "reading support",
+      "is enhanced by",
+      "language processing"
+    ],
+    [
+      "reading support",
+      "provides",
+      "language stages"
+    ],
+    [
+      "reading support",
+      "supports",
+      "Broca's area"
+    ],
+    [
+      "reading support",
+      "supports",
+      "articulatory muscles"
+    ],
+    [
+      "reading support",
+      "supports",
+      "developmental adaptability"
+    ],
+    [
+      "reading support",
+      "supports",
+      "developmental stages"
+    ],
+    [
+      "reading support",
+      "supports",
+      "recognition"
+    ],
+    [
+      "reading support",
+      "supports",
+      "writing support"
+    ],
+    [
+      "receptive aphasia",
+      "affects",
+      "acquisition"
+    ],
+    [
+      "receptive aphasia",
+      "affects",
+      "neurorehabilitation"
+    ],
+    [
+      "receptive aphasia",
+      "caused by",
+      "angular gyrus"
+    ],
+    [
+      "receptive aphasia",
+      "caused by",
+      "speech perception"
+    ],
+    [
+      "receptive aphasia",
+      "causes",
+      "auditory cortex"
+    ],
+    [
+      "receptive aphasia",
+      "impacts",
+      "language processing"
+    ],
+    [
+      "receptive aphasia",
+      "impairs",
+      "comprehension"
+    ],
+    [
+      "receptive aphasia",
+      "impairs",
+      "language comprehension"
+    ],
+    [
+      "receptive aphasia",
+      "impairs",
+      "meaning extraction"
+    ],
+    [
+      "receptive aphasia",
+      "impairs",
+      "mental lexicon"
+    ],
+    [
+      "receptive aphasia",
+      "impairs",
+      "phonemes"
+    ],
+    [
+      "receptive aphasia",
+      "impairs",
+      "semantic information"
+    ],
+    [
+      "receptive aphasia",
+      "impairs",
+      "word retrieval"
+    ],
+    [
+      "receptive aphasia",
+      "is represented by",
+      "written symbols"
+    ],
+    [
+      "receptive aphasia",
+      "results from",
+      "brain function"
+    ],
+    [
+      "receptive aphasia",
+      "results in",
+      "Broca's area"
+    ],
+    [
+      "receptive aphasia",
+      "results in",
+      "Wernicke's area"
+    ],
+    [
+      "receptive aphasia",
+      "results in",
+      "arcuate fasciculus"
+    ],
+    [
+      "receptive aphasia",
+      "results in",
+      "brain plasticity"
+    ],
+    [
+      "receptive aphasia",
+      "results in",
+      "cognition"
+    ],
+    [
+      "receptive aphasia",
+      "results in",
+      "communication skills"
+    ],
+    [
+      "receptive aphasia",
+      "results in",
+      "complex computations"
+    ],
+    [
+      "receptive aphasia",
+      "results in",
+      "decoding"
+    ],
+    [
+      "receptive aphasia",
+      "results in",
+      "graphemes"
+    ],
+    [
+      "receptive aphasia",
+      "results in",
+      "language efficiency"
+    ],
+    [
+      "receptive aphasia",
+      "results in",
+      "language retrieval"
+    ],
+    [
+      "receptive aphasia",
+      "results in",
+      "phonological information"
+    ],
+    [
+      "receptive aphasia",
+      "results in",
+      "speech sounds"
+    ],
+    [
+      "receptive aphasia",
+      "results in",
+      "word learning"
+    ],
+    [
+      "recognition",
+      "depends on",
+      "response generation"
+    ],
+    [
+      "recognition",
+      "enables",
+      "linguistic function"
+    ],
+    [
+      "recognition",
+      "facilitates",
+      "language acquisition"
+    ],
+    [
+      "recognition",
+      "facilitates",
+      "meaningful communication"
+    ],
+    [
+      "recognition",
+      "influences",
+      "cognition"
+    ],
+    [
+      "recognition",
+      "involves",
+      "analysis"
+    ],
+    [
+      "recognition",
+      "involves",
+      "auditory information"
+    ],
+    [
+      "recognition",
+      "involves",
+      "decoding"
+    ],
+    [
+      "recognition",
+      "involves",
+      "linguistic input"
+    ],
+    [
+      "recognition",
+      "involves",
+      "linguistic understanding"
+    ],
+    [
+      "recognition",
+      "involves",
+      "semantic processing"
+    ],
+    [
+      "recognition",
+      "involves",
+      "word learning"
+    ],
+    [
+      "recognition",
+      "is a result of",
+      "linguistic output"
+    ],
+    [
+      "recognition",
+      "is identified by",
+      "coherent speech"
+    ],
+    [
+      "recognition",
+      "is involved in",
+      "Broca's area"
+    ],
+    [
+      "recognition",
+      "is involved in",
+      "complex computations"
+    ],
+    [
+      "recognition",
+      "is involved in",
+      "neural plasticity"
+    ],
+    [
+      "recognition",
+      "is part of",
+      "brain stages"
+    ],
+    [
+      "recognition",
+      "is part of",
+      "grammatical processing"
+    ],
+    [
+      "recognition",
+      "is recognized by",
+      "brain reorganization"
+    ],
+    [
+      "recognition",
+      "is recognized by",
+      "neural adaptation"
+    ],
+    [
+      "recognition",
+      "leads to",
+      "production"
+    ],
+    [
+      "recognition",
+      "results from",
+      "receptive aphasia"
+    ],
+    [
+      "recognition",
+      "supports",
+      "children's learning"
+    ],
+    [
+      "response generation",
+      "affects",
+      "communication disorders"
+    ],
+    [
+      "response generation",
+      "demonstrates",
+      "developmental adaptability"
+    ],
+    [
+      "response generation",
+      "depends on",
+      "neural plasticity"
+    ],
+    [
+      "response generation",
+      "facilitates",
+      "meaningful communication"
+    ],
+    [
+      "response generation",
+      "generated from",
+      "linguistic input"
+    ],
+    [
+      "response generation",
+      "generates",
+      "brain function"
+    ],
+    [
+      "response generation",
+      "involves",
+      "brain stages"
+    ],
+    [
+      "response generation",
+      "involves",
+      "cognitive processes"
+    ],
+    [
+      "response generation",
+      "involves",
+      "grammatical organization"
+    ],
+    [
+      "response generation",
+      "involves",
+      "grammatical processing"
+    ],
+    [
+      "response generation",
+      "involves",
+      "language development"
+    ],
+    [
+      "response generation",
+      "involves",
+      "language retrieval"
+    ],
+    [
+      "response generation",
+      "involves",
+      "phonemes"
+    ],
+    [
+      "response generation",
+      "involves",
+      "semantic processing"
+    ],
+    [
+      "response generation",
+      "involves",
+      "speech production"
+    ],
+    [
+      "response generation",
+      "involves",
+      "speech sounds"
+    ],
+    [
+      "response generation",
+      "is a part of",
+      "language stages"
+    ],
+    [
+      "response generation",
+      "is facilitated by",
+      "neural networks"
+    ],
+    [
+      "response generation",
+      "is influenced by",
+      "brain reorganization"
+    ],
+    [
+      "response generation",
+      "is influenced by",
+      "brain research"
+    ],
+    [
+      "response generation",
+      "is influenced by",
+      "developmental stages"
+    ],
+    [
+      "response generation",
+      "is involved in",
+      "graphemes"
+    ],
+    [
+      "response generation",
+      "is part of",
+      "production"
+    ],
+    [
+      "response generation",
+      "leads to",
+      "communication development"
+    ],
+    [
+      "response generation",
+      "produces",
+      "linguistic output"
+    ],
+    [
+      "response generation",
+      "requires",
+      "integration"
+    ],
+    [
+      "response generation",
+      "requires",
+      "linguistic flexibility"
+    ],
+    [
+      "response generation",
+      "results in",
+      "language learning"
+    ],
+    [
+      "response generation",
+      "results in",
+      "meaning extraction"
+    ],
+    [
+      "response generation",
+      "results in",
+      "written symbols"
+    ],
+    [
+      "response generation",
+      "supports",
+      "children's learning"
+    ],
+    [
+      "semantic information",
+      "contributes to",
+      "linguistic function"
+    ],
+    [
+      "semantic information",
+      "describes",
+      "written symbols"
+    ],
+    [
+      "semantic information",
+      "enhances",
+      "communication development"
+    ],
+    [
+      "semantic information",
+      "enhances",
+      "communication facilitation"
+    ],
+    [
+      "semantic information",
+      "facilitates",
+      "language acquisition"
+    ],
+    [
+      "semantic information",
+      "influences",
+      "cognition"
+    ],
+    [
+      "semantic information",
+      "influences",
+      "comprehension"
+    ],
+    [
+      "semantic information",
+      "informs",
+      "grammatical processing"
+    ],
+    [
+      "semantic information",
+      "informs",
+      "production"
+    ],
+    [
+      "semantic information",
+      "informs",
+      "speech sounds"
+    ],
+    [
+      "semantic information",
+      "integrates",
+      "auditory information"
+    ],
+    [
+      "semantic information",
+      "involves",
+      "analysis"
+    ],
+    [
+      "semantic information",
+      "involves",
+      "decoding"
+    ],
+    [
+      "semantic information",
+      "involves",
+      "language structures"
+    ],
+    [
+      "semantic information",
+      "involves",
+      "perception"
+    ],
+    [
+      "semantic information",
+      "involves",
+      "recognition"
+    ],
+    [
+      "semantic information",
+      "involves",
+      "speech perception"
+    ],
+    [
+      "semantic information",
+      "involves",
+      "syntactic information"
+    ],
+    [
+      "semantic information",
+      "is essential for",
+      "speech production"
+    ],
+    [
+      "semantic information",
+      "is informed by",
+      "language proficiency"
+    ],
+    [
+      "semantic information",
+      "is integrated by",
+      "integration"
+    ],
+    [
+      "semantic information",
+      "is part of",
+      "semantic processing"
+    ],
+    [
+      "semantic information",
+      "links",
+      "meaning linking"
+    ],
+    [
+      "semantic information",
+      "supports",
+      "acquisition"
+    ],
+    [
+      "semantic information",
+      "supports",
+      "children's learning"
+    ],
+    [
+      "semantic information",
+      "supports",
+      "cognitive integration"
+    ],
+    [
+      "semantic information",
+      "supports",
+      "language retrieval"
+    ],
+    [
+      "semantic information",
+      "supports",
+      "linguistic flexibility"
+    ],
+    [
+      "semantic information",
+      "supports",
+      "linguistic growth"
+    ],
+    [
+      "semantic information",
+      "supports",
+      "meaningful communication"
+    ],
+    [
+      "semantic information",
+      "supports",
+      "neural networks"
+    ],
+    [
+      "semantic information",
+      "supports",
+      "word learning"
+    ],
+    [
+      "semantic processing",
+      "affects",
+      "expressive aphasia"
+    ],
+    [
+      "semantic processing",
+      "causes",
+      "receptive aphasia"
+    ],
+    [
+      "semantic processing",
+      "facilitates",
+      "language acquisition"
+    ],
+    [
+      "semantic processing",
+      "impacts",
+      "communication disorders"
+    ],
+    [
+      "semantic processing",
+      "influenced by",
+      "sentence production"
+    ],
+    [
+      "semantic processing",
+      "influences",
+      "developmental stages"
+    ],
+    [
+      "semantic processing",
+      "influences",
+      "linguistic output"
+    ],
+    [
+      "semantic processing",
+      "informs",
+      "motor areas"
+    ],
+    [
+      "semantic processing",
+      "informs",
+      "neural connections"
+    ],
+    [
+      "semantic processing",
+      "involves",
+      "articulatory muscles"
+    ],
+    [
+      "semantic processing",
+      "involves",
+      "coherent speech"
+    ],
+    [
+      "semantic processing",
+      "involves",
+      "language proficiency"
+    ],
+    [
+      "semantic processing",
+      "is facilitated by",
+      "brain regions"
+    ],
+    [
+      "semantic processing",
+      "is influenced by",
+      "brain stages"
+    ],
+    [
+      "semantic processing",
+      "is processed by",
+      "speech perception"
+    ],
+    [
+      "semantic processing",
+      "supports",
+      "acquisition"
+    ],
+    [
+      "sentence production",
+      "activates",
+      "articulatory muscles"
+    ],
+    [
+      "sentence production",
+      "affects",
+      "expressive aphasia"
+    ],
+    [
+      "sentence production",
+      "benefits from",
+      "developmental adaptability"
+    ],
+    [
+      "sentence production",
+      "controlled by",
+      "motor commands"
+    ],
+    [
+      "sentence production",
+      "depends on",
+      "auditory information"
+    ],
+    [
+      "sentence production",
+      "depends on",
+      "speech production"
+    ],
+    [
+      "sentence production",
+      "depends on",
+      "syntactic information"
+    ],
+    [
+      "sentence production",
+      "enhances",
+      "children's learning"
+    ],
+    [
+      "sentence production",
+      "facilitates",
+      "acquisition ease"
+    ],
+    [
+      "sentence production",
+      "facilitates",
+      "communication facilitation"
+    ],
+    [
+      "sentence production",
+      "influences",
+      "speech perception"
+    ],
+    [
+      "sentence production",
+      "involves",
+      "complex processes"
+    ],
+    [
+      "sentence production",
+      "involves",
+      "content understanding"
+    ],
+    [
+      "sentence production",
+      "involves",
+      "language comprehension"
+    ],
+    [
+      "sentence production",
+      "involves",
+      "meaning extraction"
+    ],
+    [
+      "sentence production",
+      "involves",
+      "semantic information"
+    ],
+    [
+      "sentence production",
+      "involves",
+      "speech muscles"
+    ],
+    [
+      "sentence production",
+      "involves",
+      "stages of processing"
+    ],
+    [
+      "sentence production",
+      "is a result of",
+      "language acquisition"
+    ],
+    [
+      "sentence production",
+      "is influenced by",
+      "neural plasticity"
+    ],
+    [
+      "sentence production",
+      "is part of",
+      "language stages"
+    ],
+    [
+      "sentence production",
+      "requires",
+      "analysis"
+    ],
+    [
+      "sentence production",
+      "requires",
+      "integration"
+    ],
+    [
+      "sentence production",
+      "requires",
+      "language proficiency"
+    ],
+    [
+      "sentence production",
+      "requires",
+      "language retrieval"
+    ],
+    [
+      "sentence production",
+      "requires",
+      "language structures"
+    ],
+    [
+      "sentence production",
+      "requires",
+      "neural networks"
+    ],
+    [
+      "sentence production",
+      "requires",
+      "neural pathways"
+    ],
+    [
+      "sentence production",
+      "requires",
+      "recognition"
+    ],
+    [
+      "sentence production",
+      "results in",
+      "linguistic growth"
+    ],
+    [
+      "sentence production",
+      "results in",
+      "response generation"
+    ],
+    [
+      "sentence structure",
+      "contributes to",
+      "processing harmony"
+    ],
+    [
+      "sentence structure",
+      "facilitates",
+      "acquisition"
+    ],
+    [
+      "sentence structure",
+      "facilitates",
+      "comprehension"
+    ],
+    [
+      "sentence structure",
+      "governs",
+      "grammatical rules"
+    ],
+    [
+      "sentence structure",
+      "influences",
+      "communication development"
+    ],
+    [
+      "sentence structure",
+      "influences",
+      "developmental stages"
+    ],
+    [
+      "sentence structure",
+      "influences",
+      "language learning"
+    ],
+    [
+      "sentence structure",
+      "influences",
+      "linguistic growth"
+    ],
+    [
+      "sentence structure",
+      "influences",
+      "production"
+    ],
+    [
+      "sentence structure",
+      "informs",
+      "language stages"
+    ],
+    [
+      "sentence structure",
+      "informs",
+      "linguistic input"
+    ],
+    [
+      "sentence structure",
+      "informs",
+      "neurorehabilitation"
+    ],
+    [
+      "sentence structure",
+      "informs",
+      "visual information"
+    ],
+    [
+      "sentence structure",
+      "informs",
+      "word learning"
+    ],
+    [
+      "sentence structure",
+      "involves",
+      "analysis"
+    ],
+    [
+      "sentence structure",
+      "involves",
+      "cognitive processes"
+    ],
+    [
+      "sentence structure",
+      "involves",
+      "neural networks"
+    ],
+    [
+      "sentence structure",
+      "involves",
+      "recognition"
+    ],
+    [
+      "sentence structure",
+      "involves",
+      "stages of processing"
+    ],
+    [
+      "sentence structure",
+      "involves",
+      "syntactic information"
+    ],
+    [
+      "sentence structure",
+      "is influenced by",
+      "linguistic output"
+    ],
+    [
+      "sentence structure",
+      "is supported by",
+      "neural connections"
+    ],
+    [
+      "sentence structure",
+      "requires",
+      "cognitive integration"
+    ],
+    [
+      "sentence structure",
+      "requires",
+      "grammatical processing"
+    ],
+    [
+      "sentence structure",
+      "requires",
+      "motor commands"
+    ],
+    [
+      "sentence structure",
+      "supports",
+      "children's learning"
+    ],
+    [
+      "sentence structure",
+      "supports",
+      "meaning linking"
+    ],
+    [
+      "speech muscles",
+      "affects",
+      "expressive aphasia"
+    ],
+    [
+      "speech muscles",
+      "affects",
+      "visual cortex"
+    ],
+    [
+      "speech muscles",
+      "controlled by",
+      "coherent speech"
+    ],
+    [
+      "speech muscles",
+      "controls",
+      "brain function"
+    ],
+    [
+      "speech muscles",
+      "controls",
+      "speech production"
+    ],
+    [
+      "speech muscles",
+      "executed by",
+      "production"
+    ],
+    [
+      "speech muscles",
+      "is influenced by",
+      "angular gyrus"
+    ],
+    [
+      "speech muscles",
+      "is influenced by",
+      "linguistic flexibility"
+    ],
+    [
+      "speech perception",
+      "determines",
+      "acquisition ease"
+    ],
+    [
+      "speech perception",
+      "drives",
+      "brain research"
+    ],
+    [
+      "speech perception",
+      "enhances",
+      "content understanding"
+    ],
+    [
+      "speech perception",
+      "enhances",
+      "language learning"
+    ],
+    [
+      "speech perception",
+      "enhances",
+      "neural plasticity"
+    ],
+    [
+      "speech perception",
+      "enhances",
+      "word learning"
+    ],
+    [
+      "speech perception",
+      "facilitates",
+      "cognitive integration"
+    ],
+    [
+      "speech perception",
+      "improves",
+      "language efficiency"
+    ],
+    [
+      "speech perception",
+      "involves",
+      "decoding"
+    ],
+    [
+      "speech perception",
+      "involves",
+      "grammatical processing"
+    ],
+    [
+      "speech perception",
+      "involves",
+      "language stages"
+    ],
+    [
+      "speech perception",
+      "involves",
+      "recognition"
+    ],
+    [
+      "speech perception",
+      "involves",
+      "sentence structure"
+    ],
+    [
+      "speech perception",
+      "is a component of",
+      "linguistic function"
+    ],
+    [
+      "speech perception",
+      "is processed by",
+      "mental lexicon"
+    ],
+    [
+      "speech perception",
+      "leads to",
+      "comprehension"
+    ],
+    [
+      "speech perception",
+      "processes",
+      "auditory information"
+    ],
+    [
+      "speech perception",
+      "promotes",
+      "linguistic flexibility"
+    ],
+    [
+      "speech perception",
+      "requires",
+      "grammatical organization"
+    ],
+    [
+      "speech perception",
+      "requires",
+      "neural adaptation"
+    ],
+    [
+      "speech perception",
+      "supports",
+      "acquisition"
+    ],
+    [
+      "speech perception",
+      "supports",
+      "communication development"
+    ],
+    [
+      "speech perception",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "speech perception",
+      "supports",
+      "neural networks"
+    ],
+    [
+      "speech production",
+      "contributes to",
+      "communication development"
+    ],
+    [
+      "speech production",
+      "facilitates",
+      "auditory information"
+    ],
+    [
+      "speech production",
+      "facilitates",
+      "children's learning"
+    ],
+    [
+      "speech production",
+      "impairs",
+      "expressive aphasia"
+    ],
+    [
+      "speech production",
+      "influences",
+      "auditory cortex"
+    ],
+    [
+      "speech production",
+      "influences",
+      "comprehension"
+    ],
+    [
+      "speech production",
+      "influences",
+      "language acquisition"
+    ],
+    [
+      "speech production",
+      "influences",
+      "language comprehension"
+    ],
+    [
+      "speech production",
+      "influences",
+      "semantic processing"
+    ],
+    [
+      "speech production",
+      "involves",
+      "brain function"
+    ],
+    [
+      "speech production",
+      "involves",
+      "language learning"
+    ],
+    [
+      "speech production",
+      "involves",
+      "meaning extraction"
+    ],
+    [
+      "speech production",
+      "involves",
+      "speech sounds"
+    ],
+    [
+      "speech production",
+      "involves",
+      "stages of processing"
+    ],
+    [
+      "speech production",
+      "is controlled by",
+      "neural pathways"
+    ],
+    [
+      "speech production",
+      "produced by",
+      "cognition"
+    ],
+    [
+      "speech production",
+      "promotes",
+      "linguistic growth"
+    ],
+    [
+      "speech production",
+      "requires",
+      "content understanding"
+    ],
+    [
+      "speech production",
+      "requires",
+      "developmental adaptability"
+    ],
+    [
+      "speech production",
+      "requires",
+      "grammatical processing"
+    ],
+    [
+      "speech production",
+      "results in",
+      "language processing"
+    ],
+    [
+      "speech production",
+      "results in",
+      "language proficiency"
+    ],
+    [
+      "speech production",
+      "supports",
+      "arcuate fasciculus"
+    ],
+    [
+      "speech production",
+      "supports",
+      "language development"
+    ],
+    [
+      "speech production",
+      "supports",
+      "writing support"
+    ],
+    [
+      "speech production",
+      "utilizes",
+      "neural networks"
+    ],
+    [
+      "speech sounds",
+      "activates",
+      "motor commands"
+    ],
+    [
+      "speech sounds",
+      "comprises",
+      "language stages"
+    ],
+    [
+      "speech sounds",
+      "contributes to",
+      "linguistic function"
+    ],
+    [
+      "speech sounds",
+      "controls",
+      "articulatory muscles"
+    ],
+    [
+      "speech sounds",
+      "enhances",
+      "communication skills"
+    ],
+    [
+      "speech sounds",
+      "enhances",
+      "learning adaptability"
+    ],
+    [
+      "speech sounds",
+      "facilitates",
+      "acquisition"
+    ],
+    [
+      "speech sounds",
+      "facilitates",
+      "language acquisition"
+    ],
+    [
+      "speech sounds",
+      "includes",
+      "phonemes"
+    ],
+    [
+      "speech sounds",
+      "influences",
+      "cognition"
+    ],
+    [
+      "speech sounds",
+      "influences",
+      "language comprehension"
+    ],
+    [
+      "speech sounds",
+      "informs",
+      "brain research"
+    ],
+    [
+      "speech sounds",
+      "initiates",
+      "perception"
+    ],
+    [
+      "speech sounds",
+      "involves",
+      "linguistic output"
+    ],
+    [
+      "speech sounds",
+      "is influenced by",
+      "sentence structure"
+    ],
+    [
+      "speech sounds",
+      "is interpreted by",
+      "visual cortex"
+    ],
+    [
+      "speech sounds",
+      "is processed by",
+      "decoding"
+    ],
+    [
+      "speech sounds",
+      "is recognized by",
+      "speech perception"
+    ],
+    [
+      "speech sounds",
+      "is retrieved from",
+      "mental lexicon"
+    ],
+    [
+      "speech sounds",
+      "leads to",
+      "production"
+    ],
+    [
+      "speech sounds",
+      "processed by",
+      "neural networks"
+    ],
+    [
+      "speech sounds",
+      "produces",
+      "coherent speech"
+    ],
+    [
+      "speech sounds",
+      "promotes",
+      "linguistic growth"
+    ],
+    [
+      "speech sounds",
+      "serves as",
+      "linguistic input"
+    ],
+    [
+      "speech sounds",
+      "supports",
+      "communication development"
+    ],
+    [
+      "speech sounds",
+      "supports",
+      "language development"
+    ],
+    [
+      "stages of processing",
+      "correlates with",
+      "neural regions"
+    ],
+    [
+      "stages of processing",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "stages of processing",
+      "enhances",
+      "children's learning"
+    ],
+    [
+      "stages of processing",
+      "facilitates",
+      "cognitive integration"
+    ],
+    [
+      "stages of processing",
+      "facilitates",
+      "language acquisition"
+    ],
+    [
+      "stages of processing",
+      "influences",
+      "semantic information"
+    ],
+    [
+      "stages of processing",
+      "informs",
+      "brain regions"
+    ],
+    [
+      "stages of processing",
+      "informs",
+      "comprehension"
+    ],
+    [
+      "stages of processing",
+      "involves",
+      "brain reorganization"
+    ],
+    [
+      "stages of processing",
+      "involves",
+      "decoding"
+    ],
+    [
+      "stages of processing",
+      "involves",
+      "learning process"
+    ],
+    [
+      "stages of processing",
+      "involves",
+      "linguistic input"
+    ],
+    [
+      "stages of processing",
+      "involves",
+      "linguistic output"
+    ],
+    [
+      "stages of processing",
+      "involves",
+      "meaning extraction"
+    ],
+    [
+      "stages of processing",
+      "involves",
+      "speech sounds"
+    ],
+    [
+      "stages of processing",
+      "involves",
+      "word retrieval"
+    ],
+    [
+      "stages of processing",
+      "is affected by",
+      "coherent speech"
+    ],
+    [
+      "stages of processing",
+      "is part of",
+      "integration"
+    ],
+    [
+      "stages of processing",
+      "is part of",
+      "response generation"
+    ],
+    [
+      "stages of processing",
+      "supports",
+      "linguistic growth"
+    ],
+    [
+      "stages of processing",
+      "supports",
+      "reading support"
+    ],
+    [
+      "stages of processing",
+      "utilizes",
+      "visual information"
+    ],
+    [
+      "syntactic information",
+      "contributes to",
+      "graphemes"
+    ],
+    [
+      "syntactic information",
+      "contributes to",
+      "language acquisition"
+    ],
+    [
+      "syntactic information",
+      "enhances",
+      "linguistic growth"
+    ],
+    [
+      "syntactic information",
+      "enhances",
+      "neural plasticity"
+    ],
+    [
+      "syntactic information",
+      "informs",
+      "brain stages"
+    ],
+    [
+      "syntactic information",
+      "informs",
+      "cognition"
+    ],
+    [
+      "syntactic information",
+      "integrates",
+      "visual information"
+    ],
+    [
+      "syntactic information",
+      "involves",
+      "language stages"
+    ],
+    [
+      "syntactic information",
+      "is essential for",
+      "acquisition"
+    ],
+    [
+      "syntactic information",
+      "is part of",
+      "complex processes"
+    ],
+    [
+      "syntactic information",
+      "processes",
+      "visual cortex"
+    ],
+    [
+      "syntactic information",
+      "supports",
+      "language development"
+    ],
+    [
+      "syntactic information",
+      "supports",
+      "meaningful communication"
+    ],
+    [
+      "syntactic information",
+      "supports",
+      "reading support"
+    ],
+    [
+      "syntactic information",
+      "supports",
+      "recognition"
+    ],
+    [
+      "syntactic information",
+      "supports",
+      "written symbols"
+    ],
+    [
+      "visual cortex",
+      "aids",
+      "integration"
+    ],
+    [
+      "visual cortex",
+      "aids",
+      "reading support"
+    ],
+    [
+      "visual cortex",
+      "connects to",
+      "arcuate fasciculus"
+    ],
+    [
+      "visual cortex",
+      "enables",
+      "decoding"
+    ],
+    [
+      "visual cortex",
+      "enables",
+      "linguistic flexibility"
+    ],
+    [
+      "visual cortex",
+      "enables",
+      "perception"
+    ],
+    [
+      "visual cortex",
+      "enables",
+      "recognition"
+    ],
+    [
+      "visual cortex",
+      "encompasses",
+      "left hemisphere"
+    ],
+    [
+      "visual cortex",
+      "enhances",
+      "brain reorganization"
+    ],
+    [
+      "visual cortex",
+      "facilitates",
+      "comprehension"
+    ],
+    [
+      "visual cortex",
+      "includes",
+      "brain regions"
+    ],
+    [
+      "visual cortex",
+      "influences",
+      "cognitive processes"
+    ],
+    [
+      "visual cortex",
+      "integrates",
+      "cognitive integration"
+    ],
+    [
+      "visual cortex",
+      "interacts with",
+      "Wernicke's area"
+    ],
+    [
+      "visual cortex",
+      "interacts with",
+      "multifaceted interactions"
+    ],
+    [
+      "visual cortex",
+      "is involved in",
+      "sentence production"
+    ],
+    [
+      "visual cortex",
+      "is processed by",
+      "semantic information"
+    ],
+    [
+      "visual cortex",
+      "is processed by",
+      "written symbols"
+    ],
+    [
+      "visual cortex",
+      "processes",
+      "graphemes"
+    ],
+    [
+      "visual cortex",
+      "processes",
+      "language structures"
+    ],
+    [
+      "visual cortex",
+      "processes",
+      "phonemes"
+    ],
+    [
+      "visual cortex",
+      "processes",
+      "phonological information"
+    ],
+    [
+      "visual cortex",
+      "processes",
+      "speech sounds"
+    ],
+    [
+      "visual cortex",
+      "supports",
+      "analysis"
+    ],
+    [
+      "visual cortex",
+      "supports",
+      "language comprehension"
+    ],
+    [
+      "visual cortex",
+      "supports",
+      "language development"
+    ],
+    [
+      "visual cortex",
+      "supports",
+      "language proficiency"
+    ],
+    [
+      "visual cortex",
+      "supports",
+      "neural adaptation"
+    ],
+    [
+      "visual cortex",
+      "supports",
+      "neural regions"
+    ],
+    [
+      "visual cortex",
+      "supports",
+      "neurorehabilitation"
+    ],
+    [
+      "visual cortex",
+      "supports",
+      "word learning"
+    ],
+    [
+      "visual information",
+      "activates",
+      "motor areas"
+    ],
+    [
+      "visual information",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "visual information",
+      "influences",
+      "linguistic flexibility"
+    ],
+    [
+      "visual information",
+      "informs",
+      "sentence production"
+    ],
+    [
+      "visual information",
+      "involves",
+      "brain stages"
+    ],
+    [
+      "visual information",
+      "involves",
+      "neural connections"
+    ],
+    [
+      "visual information",
+      "processes",
+      "visual cortex"
+    ],
+    [
+      "visual information",
+      "provides",
+      "brain regions"
+    ],
+    [
+      "visual information",
+      "provides",
+      "linguistic input"
+    ],
+    [
+      "visual information",
+      "provides",
+      "phonemes"
+    ],
+    [
+      "visual information",
+      "represents",
+      "written symbols"
+    ],
+    [
+      "visual information",
+      "supports",
+      "cognitive processes"
+    ],
+    [
+      "visual information",
+      "supports",
+      "communication skills"
+    ],
+    [
+      "visual information",
+      "supports",
+      "grammatical processing"
+    ],
+    [
+      "visual information",
+      "supports",
+      "language proficiency"
+    ],
+    [
+      "visual information",
+      "supports",
+      "linguistic output"
+    ],
+    [
+      "visual information",
+      "supports",
+      "production"
+    ],
+    [
+      "visual information",
+      "supports",
+      "semantic processing"
+    ],
+    [
+      "visual information",
+      "supports",
+      "word retrieval"
+    ],
+    [
+      "word learning",
+      "contributes to",
+      "processing harmony"
+    ],
+    [
+      "word learning",
+      "enables",
+      "meaningful communication"
+    ],
+    [
+      "word learning",
+      "enhances",
+      "acquisition ease"
+    ],
+    [
+      "word learning",
+      "enhances",
+      "children's learning"
+    ],
+    [
+      "word learning",
+      "enhances",
+      "cognition"
+    ],
+    [
+      "word learning",
+      "enhances",
+      "developmental adaptability"
+    ],
+    [
+      "word learning",
+      "enhances",
+      "learning adaptability"
+    ],
+    [
+      "word learning",
+      "enhances",
+      "linguistic function"
+    ],
+    [
+      "word learning",
+      "facilitates",
+      "linguistic input"
+    ],
+    [
+      "word learning",
+      "facilitates",
+      "phonemes"
+    ],
+    [
+      "word learning",
+      "informs",
+      "syntactic information"
+    ],
+    [
+      "word learning",
+      "involves",
+      "decoding"
+    ],
+    [
+      "word learning",
+      "involves",
+      "grammatical processing"
+    ],
+    [
+      "word learning",
+      "involves",
+      "language retrieval"
+    ],
+    [
+      "word learning",
+      "involves",
+      "motor commands"
+    ],
+    [
+      "word learning",
+      "involves",
+      "speech sounds"
+    ],
+    [
+      "word learning",
+      "is a component of",
+      "acquisition"
+    ],
+    [
+      "word learning",
+      "is part of",
+      "language stages"
+    ],
+    [
+      "word learning",
+      "is related to",
+      "semantic processing"
+    ],
+    [
+      "word learning",
+      "links",
+      "meaning linking"
+    ],
+    [
+      "word learning",
+      "promotes",
+      "communication facilitation"
+    ],
+    [
+      "word learning",
+      "requires",
+      "grammatical organization"
+    ],
+    [
+      "word learning",
+      "supports",
+      "communication development"
+    ],
+    [
+      "word learning",
+      "supports",
+      "language acquisition"
+    ],
+    [
+      "word learning",
+      "supports",
+      "language development"
+    ],
+    [
+      "word learning",
+      "supports",
+      "linguistic flexibility"
+    ],
+    [
+      "word learning",
+      "supports",
+      "perception"
+    ],
+    [
+      "word retrieval",
+      "aids",
+      "comprehension"
+    ],
+    [
+      "word retrieval",
+      "aids in",
+      "sentence structure"
+    ],
+    [
+      "word retrieval",
+      "contributes to",
+      "language acquisition"
+    ],
+    [
+      "word retrieval",
+      "controls",
+      "articulatory muscles"
+    ],
+    [
+      "word retrieval",
+      "depends on",
+      "response generation"
+    ],
+    [
+      "word retrieval",
+      "depends on",
+      "sentence production"
+    ],
+    [
+      "word retrieval",
+      "depends on",
+      "syntactic information"
+    ],
+    [
+      "word retrieval",
+      "enhances",
+      "communication facilitation"
+    ],
+    [
+      "word retrieval",
+      "enhances",
+      "communication skills"
+    ],
+    [
+      "word retrieval",
+      "enhances",
+      "linguistic flexibility"
+    ],
+    [
+      "word retrieval",
+      "enhances",
+      "neural plasticity"
+    ],
+    [
+      "word retrieval",
+      "facilitates",
+      "acquisition"
+    ],
+    [
+      "word retrieval",
+      "facilitates",
+      "grammatical processing"
+    ],
+    [
+      "word retrieval",
+      "facilitates",
+      "learning process"
+    ],
+    [
+      "word retrieval",
+      "facilitates",
+      "linguistic understanding"
+    ],
+    [
+      "word retrieval",
+      "facilitates",
+      "perception"
+    ],
+    [
+      "word retrieval",
+      "facilitates",
+      "visual cortex"
+    ],
+    [
+      "word retrieval",
+      "informs",
+      "meaning extraction"
+    ],
+    [
+      "word retrieval",
+      "involves",
+      "cognitive processes"
+    ],
+    [
+      "word retrieval",
+      "involves",
+      "complex processes"
+    ],
+    [
+      "word retrieval",
+      "involves",
+      "neural pathways"
+    ],
+    [
+      "word retrieval",
+      "involves",
+      "semantic processing"
+    ],
+    [
+      "word retrieval",
+      "involves",
+      "speech sounds"
+    ],
+    [
+      "word retrieval",
+      "is a component of",
+      "language retrieval"
+    ],
+    [
+      "word retrieval",
+      "is part of",
+      "production"
+    ],
+    [
+      "word retrieval",
+      "links",
+      "meaning linking"
+    ],
+    [
+      "word retrieval",
+      "promotes",
+      "communication development"
+    ],
+    [
+      "word retrieval",
+      "requires",
+      "complex computations"
+    ],
+    [
+      "word retrieval",
+      "results in",
+      "linguistic output"
+    ],
+    [
+      "word retrieval",
+      "supports",
+      "decoding"
+    ],
+    [
+      "word retrieval",
+      "supports",
+      "linguistic growth"
+    ],
+    [
+      "word retrieval",
+      "supports",
+      "reading support"
+    ],
+    [
+      "writing support",
+      "activates",
+      "articulatory muscles"
+    ],
+    [
+      "writing support",
+      "activates",
+      "motor areas"
+    ],
+    [
+      "writing support",
+      "contributes to",
+      "language development"
+    ],
+    [
+      "writing support",
+      "enhances",
+      "learning adaptability"
+    ],
+    [
+      "writing support",
+      "facilitates",
+      "neural networks"
+    ],
+    [
+      "writing support",
+      "is influenced by",
+      "neural plasticity"
+    ],
+    [
+      "writing support",
+      "provides",
+      "visual information"
+    ],
+    [
+      "writing support",
+      "supports",
+      "auditory cortex"
+    ],
+    [
+      "writing support",
+      "supports",
+      "brain regions"
+    ],
+    [
+      "writing support",
+      "supports",
+      "brain reorganization"
+    ],
+    [
+      "writing support",
+      "supports",
+      "neural pathways"
+    ],
+    [
+      "writing support",
+      "supports",
+      "sentence production"
+    ],
+    [
+      "writing support",
+      "supports",
+      "sentence structure"
+    ],
+    [
+      "written symbols",
+      "affected by",
+      "expressive aphasia"
+    ],
+    [
+      "written symbols",
+      "applies to",
+      "grammatical processing"
+    ],
+    [
+      "written symbols",
+      "composed of",
+      "phonemes"
+    ],
+    [
+      "written symbols",
+      "comprises",
+      "sentence structure"
+    ],
+    [
+      "written symbols",
+      "contributes to",
+      "language development"
+    ],
+    [
+      "written symbols",
+      "enhances",
+      "neural plasticity"
+    ],
+    [
+      "written symbols",
+      "includes",
+      "stages of processing"
+    ],
+    [
+      "written symbols",
+      "involves",
+      "acquisition"
+    ],
+    [
+      "written symbols",
+      "involves",
+      "cognition"
+    ],
+    [
+      "written symbols",
+      "involves",
+      "cognitive processes"
+    ],
+    [
+      "written symbols",
+      "involves",
+      "language comprehension"
+    ],
+    [
+      "written symbols",
+      "involves",
+      "language structures"
+    ],
+    [
+      "written symbols",
+      "involves",
+      "sentence production"
+    ],
+    [
+      "written symbols",
+      "involves",
+      "word retrieval"
+    ],
+    [
+      "written symbols",
+      "is processed as",
+      "linguistic input"
+    ],
+    [
+      "written symbols",
+      "is processed by",
+      "motor areas"
+    ],
+    [
+      "written symbols",
+      "processes",
+      "Wernicke's area"
+    ],
+    [
+      "written symbols",
+      "represented by",
+      "complex processes"
+    ],
+    [
+      "written symbols",
+      "represented by",
+      "meaningful communication"
+    ],
+    [
+      "written symbols",
+      "studies",
+      "brain research"
+    ],
+    [
+      "written symbols",
+      "supports",
+      "writing support"
+    ],
+    [
+      "written symbols",
+      "utilized by",
+      "learning adaptability"
+    ],
+    [
+      "written symbols",
+      "utilizes",
+      "language efficiency"
+    ]
+  ],
+  "edges": [
+    "achieved through",
+    "activated by",
+    "activates",
+    "advances",
+    "affected by",
+    "affects",
+    "aided by",
+    "aids",
+    "aids in",
+    "analyzed by",
+    "analyzes",
+    "applies to",
+    "arises from",
+    "associated with",
+    "benefits from",
+    "caused by",
+    "causes",
+    "commands",
+    "communicates with",
+    "complicates",
+    "composed of",
+    "comprehends",
+    "comprises",
+    "connected by",
+    "connected to",
+    "connects",
+    "connects to",
+    "connects with",
+    "contains",
+    "contributes to",
+    "controlled by",
+    "controls",
+    "coordinates",
+    "coordinates with",
+    "correlates with",
+    "defines",
+    "demonstrates",
+    "depends on",
+    "derived from",
+    "describes",
+    "determines",
+    "developed by",
+    "develops",
+    "dictates",
+    "drives",
+    "enables",
+    "encompasses",
+    "engages",
+    "enhanced by",
+    "enhances",
+    "executed by",
+    "facilitated by",
+    "facilitates",
+    "facilitates processing in",
+    "follows",
+    "fosters",
+    "generated from",
+    "generates",
+    "governs",
+    "guides",
+    "has",
+    "has implications for",
+    "impacts",
+    "impairs",
+    "improves",
+    "includes",
+    "influenced by",
+    "influences",
+    "informs",
+    "initiates",
+    "input for",
+    "integrated by",
+    "integrates",
+    "interacts with",
+    "involved in",
+    "involves",
+    "is a component of",
+    "is a factor in",
+    "is a function of",
+    "is a part of",
+    "is a product of",
+    "is a result of",
+    "is a stage of",
+    "is a type of",
+    "is achieved through",
+    "is activated by",
+    "is affected by",
+    "is analyzed by",
+    "is associated with",
+    "is connected to",
+    "is controlled by",
+    "is crucial for",
+    "is decoded by",
+    "is engaged by",
+    "is enhanced by",
+    "is essential for",
+    "is executed by",
+    "is facilitated by",
+    "is identified by",
+    "is impacted by",
+    "is influenced by",
+    "is informed by",
+    "is integrated by",
+    "is interpreted by",
+    "is involved in",
+    "is linked to",
+    "is located in",
+    "is necessary for",
+    "is part of",
+    "is perceived by",
+    "is performed by",
+    "is processed as",
+    "is processed by",
+    "is processed in",
+    "is produced by",
+    "is recognized by",
+    "is related to",
+    "is represented by",
+    "is retrieved from",
+    "is studied by",
+    "is studied in",
+    "is supported by",
+    "is treated in",
+    "is understood by",
+    "is utilized for",
+    "is utilized in",
+    "leads to",
+    "linked to",
+    "links",
+    "located in",
+    "necessitates",
+    "organizes",
+    "performs",
+    "precedes",
+    "processed by",
+    "processes",
+    "produced by",
+    "produces",
+    "promotes",
+    "provides",
+    "receives",
+    "receives input from",
+    "relates to",
+    "represented by",
+    "represents",
+    "requires",
+    "results from",
+    "results in",
+    "serves as",
+    "shapes",
+    "strengthens",
+    "studies",
+    "supported by",
+    "supports",
+    "triggered by",
+    "triggers",
+    "underlies",
+    "underpins",
+    "used in",
+    "utilized by",
+    "utilized for",
+    "utilizes"
+  ]
+}

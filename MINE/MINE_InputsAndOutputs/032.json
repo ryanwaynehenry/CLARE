@@ -1,0 +1,1497 @@
+{
+  "entities": [
+    "17th century",
+    "Arabian Peninsula",
+    "Enlightenment period",
+    "Europe",
+    "Kaldi legend",
+    "Rousseau",
+    "Voltaire",
+    "biodiversity loss",
+    "business transactions",
+    "cafe culture",
+    "coffee breaks",
+    "coffee cultivation",
+    "coffee culture",
+    "coffee history",
+    "coffee houses",
+    "community",
+    "community engagement",
+    "cultural impact",
+    "daily lives",
+    "debates",
+    "deforestation",
+    "economic implications",
+    "employment opportunities",
+    "energy",
+    "environmental implications",
+    "ethical sourcing",
+    "focus",
+    "friendship",
+    "global phenomenon",
+    "history",
+    "hospitality",
+    "ideas exchange",
+    "intellectual discussions",
+    "lifestyle",
+    "morning rituals",
+    "multi-billion dollar industry",
+    "penny universities",
+    "personal identity",
+    "political discourse",
+    "productivity",
+    "quality",
+    "social connections",
+    "social gatherings",
+    "social spaces",
+    "social status",
+    "sustainability",
+    "sustainable farming",
+    "traded commodities",
+    "urban social fabric",
+    "warmth",
+    "water usage"
+  ],
+  "relations": [
+    [
+      "17th century",
+      "emerged in",
+      "coffee houses"
+    ],
+    [
+      "17th century",
+      "participated in",
+      "intellectual discussions"
+    ],
+    [
+      "Arabian Peninsula",
+      "contributes to",
+      "ideas exchange"
+    ],
+    [
+      "Arabian Peninsula",
+      "influenced by",
+      "cultural impact"
+    ],
+    [
+      "Arabian Peninsula",
+      "influenced by",
+      "urban social fabric"
+    ],
+    [
+      "Arabian Peninsula",
+      "originated from",
+      "coffee culture"
+    ],
+    [
+      "Arabian Peninsula",
+      "originated from",
+      "global phenomenon"
+    ],
+    [
+      "Arabian Peninsula",
+      "originated from",
+      "warmth"
+    ],
+    [
+      "Enlightenment period",
+      "emerges from",
+      "social spaces"
+    ],
+    [
+      "Enlightenment period",
+      "facilitated",
+      "intellectual discussions"
+    ],
+    [
+      "Enlightenment period",
+      "influenced by",
+      "personal identity"
+    ],
+    [
+      "Enlightenment period",
+      "influenced by",
+      "social status"
+    ],
+    [
+      "Enlightenment period",
+      "influences",
+      "Europe"
+    ],
+    [
+      "Enlightenment period",
+      "originated from",
+      "Arabian Peninsula"
+    ],
+    [
+      "Enlightenment period",
+      "shaped by",
+      "coffee houses"
+    ],
+    [
+      "Europe",
+      "influenced by",
+      "Rousseau"
+    ],
+    [
+      "Europe",
+      "influenced by",
+      "coffee breaks"
+    ],
+    [
+      "Kaldi legend",
+      "inspired by",
+      "coffee houses"
+    ],
+    [
+      "Rousseau",
+      "engaged in",
+      "intellectual discussions"
+    ],
+    [
+      "Rousseau",
+      "influenced by",
+      "coffee breaks"
+    ],
+    [
+      "Rousseau",
+      "influences",
+      "social connections"
+    ],
+    [
+      "Voltaire",
+      "engaged in",
+      "debates"
+    ],
+    [
+      "Voltaire",
+      "influenced by",
+      "Enlightenment period"
+    ],
+    [
+      "Voltaire",
+      "influenced by",
+      "cafe culture"
+    ],
+    [
+      "Voltaire",
+      "is associated with",
+      "Kaldi legend"
+    ],
+    [
+      "Voltaire",
+      "is influenced by",
+      "lifestyle"
+    ],
+    [
+      "Voltaire",
+      "utilized in",
+      "social spaces"
+    ],
+    [
+      "biodiversity loss",
+      "affected by",
+      "employment opportunities"
+    ],
+    [
+      "biodiversity loss",
+      "contributes to",
+      "global phenomenon"
+    ],
+    [
+      "biodiversity loss",
+      "impacts",
+      "business transactions"
+    ],
+    [
+      "biodiversity loss",
+      "impacts",
+      "multi-billion dollar industry"
+    ],
+    [
+      "biodiversity loss",
+      "impacts",
+      "traded commodities"
+    ],
+    [
+      "biodiversity loss",
+      "is affected by",
+      "lifestyle"
+    ],
+    [
+      "biodiversity loss",
+      "mitigates",
+      "sustainable farming"
+    ],
+    [
+      "business transactions",
+      "affects",
+      "environmental implications"
+    ],
+    [
+      "business transactions",
+      "is influenced by",
+      "coffee cultivation"
+    ],
+    [
+      "business transactions",
+      "is influenced by",
+      "employment opportunities"
+    ],
+    [
+      "business transactions",
+      "is part of",
+      "morning rituals"
+    ],
+    [
+      "cafe culture",
+      "creates",
+      "social spaces"
+    ],
+    [
+      "cafe culture",
+      "encourages",
+      "intellectual discussions"
+    ],
+    [
+      "cafe culture",
+      "enhances",
+      "social connections"
+    ],
+    [
+      "cafe culture",
+      "facilitates",
+      "social gatherings"
+    ],
+    [
+      "cafe culture",
+      "is part of",
+      "ideas exchange"
+    ],
+    [
+      "cafe culture",
+      "is shaped by",
+      "Enlightenment period"
+    ],
+    [
+      "cafe culture",
+      "is shaped by",
+      "energy"
+    ],
+    [
+      "cafe culture",
+      "promotes",
+      "community engagement"
+    ],
+    [
+      "coffee breaks",
+      "benefit from",
+      "coffee houses"
+    ],
+    [
+      "coffee breaks",
+      "boosts",
+      "productivity"
+    ],
+    [
+      "coffee breaks",
+      "enhances",
+      "cafe culture"
+    ],
+    [
+      "coffee breaks",
+      "facilitates",
+      "business transactions"
+    ],
+    [
+      "coffee breaks",
+      "facilitates",
+      "coffee culture"
+    ],
+    [
+      "coffee breaks",
+      "initiates",
+      "morning rituals"
+    ],
+    [
+      "coffee breaks",
+      "occurs in",
+      "social spaces"
+    ],
+    [
+      "coffee breaks",
+      "stimulates",
+      "intellectual discussions"
+    ],
+    [
+      "coffee cultivation",
+      "facilitates",
+      "business transactions"
+    ],
+    [
+      "coffee cultivation",
+      "facilitates",
+      "political discourse"
+    ],
+    [
+      "coffee cultivation",
+      "influences",
+      "cultural impact"
+    ],
+    [
+      "coffee cultivation",
+      "provides",
+      "employment opportunities"
+    ],
+    [
+      "coffee cultivation",
+      "represents",
+      "multi-billion dollar industry"
+    ],
+    [
+      "coffee culture",
+      "defines",
+      "lifestyle"
+    ],
+    [
+      "coffee culture",
+      "developed from",
+      "17th century"
+    ],
+    [
+      "coffee culture",
+      "emerged in",
+      "Europe"
+    ],
+    [
+      "coffee culture",
+      "evolved from",
+      "coffee history"
+    ],
+    [
+      "coffee culture",
+      "facilitates",
+      "social spaces"
+    ],
+    [
+      "coffee culture",
+      "fosters",
+      "community"
+    ],
+    [
+      "coffee culture",
+      "impacts",
+      "environmental implications"
+    ],
+    [
+      "coffee culture",
+      "influenced",
+      "Enlightenment period"
+    ],
+    [
+      "coffee culture",
+      "influenced by",
+      "Voltaire"
+    ],
+    [
+      "coffee culture",
+      "influences",
+      "political discourse"
+    ],
+    [
+      "coffee culture",
+      "integrates into",
+      "daily lives"
+    ],
+    [
+      "coffee culture",
+      "is characterized by",
+      "global phenomenon"
+    ],
+    [
+      "coffee culture",
+      "is part of",
+      "cafe culture"
+    ],
+    [
+      "coffee culture",
+      "promotes",
+      "community engagement"
+    ],
+    [
+      "coffee culture",
+      "promotes",
+      "intellectual discussions"
+    ],
+    [
+      "coffee culture",
+      "shapes",
+      "cultural impact"
+    ],
+    [
+      "coffee culture",
+      "stimulates",
+      "debates"
+    ],
+    [
+      "coffee culture",
+      "strengthens",
+      "social connections"
+    ],
+    [
+      "coffee culture",
+      "supported by",
+      "friendship"
+    ],
+    [
+      "coffee history",
+      "documented in",
+      "intellectual discussions"
+    ],
+    [
+      "coffee history",
+      "impacts",
+      "water usage"
+    ],
+    [
+      "coffee history",
+      "influenced by",
+      "17th century"
+    ],
+    [
+      "coffee history",
+      "influenced by",
+      "Voltaire"
+    ],
+    [
+      "coffee history",
+      "informs",
+      "community engagement"
+    ],
+    [
+      "coffee history",
+      "informs",
+      "personal identity"
+    ],
+    [
+      "coffee history",
+      "is influenced by",
+      "economic implications"
+    ],
+    [
+      "coffee history",
+      "is part of",
+      "Europe"
+    ],
+    [
+      "coffee history",
+      "is part of",
+      "Rousseau"
+    ],
+    [
+      "coffee houses",
+      "creates",
+      "community"
+    ],
+    [
+      "coffee houses",
+      "emerged in",
+      "Europe"
+    ],
+    [
+      "coffee houses",
+      "evokes",
+      "warmth"
+    ],
+    [
+      "coffee houses",
+      "facilitates",
+      "coffee breaks"
+    ],
+    [
+      "coffee houses",
+      "facilitates",
+      "social gatherings"
+    ],
+    [
+      "coffee houses",
+      "functions as",
+      "social spaces"
+    ],
+    [
+      "coffee houses",
+      "hosts",
+      "debates"
+    ],
+    [
+      "coffee houses",
+      "influenced",
+      "Enlightenment period"
+    ],
+    [
+      "coffee houses",
+      "influenced by",
+      "cafe culture"
+    ],
+    [
+      "community",
+      "embodied by",
+      "warmth"
+    ],
+    [
+      "community",
+      "enhances",
+      "daily lives"
+    ],
+    [
+      "community",
+      "enhances",
+      "social gatherings"
+    ],
+    [
+      "community",
+      "fosters",
+      "urban social fabric"
+    ],
+    [
+      "community",
+      "is a reflection of",
+      "social status"
+    ],
+    [
+      "community",
+      "nurtures",
+      "Enlightenment period"
+    ],
+    [
+      "community",
+      "promotes",
+      "intellectual discussions"
+    ],
+    [
+      "community",
+      "stimulates",
+      "debates"
+    ],
+    [
+      "community engagement",
+      "benefits from",
+      "business transactions"
+    ],
+    [
+      "community engagement",
+      "benefits from",
+      "cafe culture"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "friendship"
+    ],
+    [
+      "community engagement",
+      "enhances",
+      "warmth"
+    ],
+    [
+      "community engagement",
+      "supported by",
+      "political discourse"
+    ],
+    [
+      "cultural impact",
+      "affects",
+      "water usage"
+    ],
+    [
+      "cultural impact",
+      "influences",
+      "daily lives"
+    ],
+    [
+      "cultural impact",
+      "originated from",
+      "Arabian Peninsula"
+    ],
+    [
+      "daily lives",
+      "affected by",
+      "cultural impact"
+    ],
+    [
+      "daily lives",
+      "enhanced by",
+      "productivity"
+    ],
+    [
+      "daily lives",
+      "enriches",
+      "intellectual discussions"
+    ],
+    [
+      "daily lives",
+      "influences",
+      "cafe culture"
+    ],
+    [
+      "daily lives",
+      "integrates into",
+      "coffee breaks"
+    ],
+    [
+      "daily lives",
+      "integrates into",
+      "ideas exchange"
+    ],
+    [
+      "daily lives",
+      "is experienced in",
+      "global phenomenon"
+    ],
+    [
+      "daily lives",
+      "is facilitated by",
+      "business transactions"
+    ],
+    [
+      "daily lives",
+      "supported by",
+      "community"
+    ],
+    [
+      "debates",
+      "fueled by",
+      "coffee culture"
+    ],
+    [
+      "deforestation",
+      "contributes to",
+      "sustainable farming"
+    ],
+    [
+      "deforestation",
+      "is addressed by",
+      "ethical sourcing"
+    ],
+    [
+      "deforestation",
+      "is impacted by",
+      "traded commodities"
+    ],
+    [
+      "deforestation",
+      "threatens",
+      "sustainability"
+    ],
+    [
+      "economic implications",
+      "influenced by",
+      "lifestyle"
+    ],
+    [
+      "economic implications",
+      "shapes",
+      "personal identity"
+    ],
+    [
+      "employment opportunities",
+      "contributes to",
+      "economic implications"
+    ],
+    [
+      "employment opportunities",
+      "is supported by",
+      "friendship"
+    ],
+    [
+      "employment opportunities",
+      "provides",
+      "daily lives"
+    ],
+    [
+      "employment opportunities",
+      "provides",
+      "multi-billion dollar industry"
+    ],
+    [
+      "employment opportunities",
+      "provides",
+      "productivity"
+    ],
+    [
+      "employment opportunities",
+      "provides",
+      "sustainable farming"
+    ],
+    [
+      "energy",
+      "enhances",
+      "focus"
+    ],
+    [
+      "energy",
+      "influences",
+      "cultural impact"
+    ],
+    [
+      "energy",
+      "influences",
+      "lifestyle"
+    ],
+    [
+      "energy",
+      "stimulates",
+      "intellectual discussions"
+    ],
+    [
+      "environmental implications",
+      "affects",
+      "quality"
+    ],
+    [
+      "environmental implications",
+      "impacts",
+      "personal identity"
+    ],
+    [
+      "environmental implications",
+      "requires",
+      "ethical sourcing"
+    ],
+    [
+      "environmental implications",
+      "requires",
+      "sustainable farming"
+    ],
+    [
+      "environmental implications",
+      "shaped by",
+      "lifestyle"
+    ],
+    [
+      "friendship",
+      "associated with",
+      "morning rituals"
+    ],
+    [
+      "friendship",
+      "enhances",
+      "coffee culture"
+    ],
+    [
+      "friendship",
+      "enhances",
+      "daily lives"
+    ],
+    [
+      "friendship",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "friendship",
+      "exists in",
+      "social spaces"
+    ],
+    [
+      "friendship",
+      "facilitates",
+      "political discourse"
+    ],
+    [
+      "friendship",
+      "fosters",
+      "community"
+    ],
+    [
+      "friendship",
+      "influences",
+      "cultural impact"
+    ],
+    [
+      "friendship",
+      "is a manifestation of",
+      "global phenomenon"
+    ],
+    [
+      "friendship",
+      "is associated with",
+      "coffee breaks"
+    ],
+    [
+      "friendship",
+      "is expressed through",
+      "sustainability"
+    ],
+    [
+      "friendship",
+      "is linked to",
+      "cafe culture"
+    ],
+    [
+      "friendship",
+      "reflects",
+      "social status"
+    ],
+    [
+      "friendship",
+      "represents",
+      "hospitality"
+    ],
+    [
+      "global phenomenon",
+      "influenced by",
+      "Voltaire"
+    ],
+    [
+      "global phenomenon",
+      "is a result of",
+      "coffee cultivation"
+    ],
+    [
+      "global phenomenon",
+      "is categorized as",
+      "traded commodities"
+    ],
+    [
+      "global phenomenon",
+      "is characterized by",
+      "morning rituals"
+    ],
+    [
+      "global phenomenon",
+      "is influenced by",
+      "Europe"
+    ],
+    [
+      "history",
+      "describes",
+      "coffee history"
+    ],
+    [
+      "history",
+      "documented in",
+      "debates"
+    ],
+    [
+      "history",
+      "influenced by",
+      "lifestyle"
+    ],
+    [
+      "history",
+      "informs",
+      "intellectual discussions"
+    ],
+    [
+      "history",
+      "is characterized by",
+      "global phenomenon"
+    ],
+    [
+      "history",
+      "is informed by",
+      "ideas exchange"
+    ],
+    [
+      "history",
+      "originated from",
+      "Arabian Peninsula"
+    ],
+    [
+      "history",
+      "shaped by",
+      "Enlightenment period"
+    ],
+    [
+      "hospitality",
+      "enhanced by",
+      "business transactions"
+    ],
+    [
+      "hospitality",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "hospitality",
+      "is a factor in",
+      "traded commodities"
+    ],
+    [
+      "hospitality",
+      "is associated with",
+      "coffee houses"
+    ],
+    [
+      "hospitality",
+      "is associated with",
+      "global phenomenon"
+    ],
+    [
+      "hospitality",
+      "represents",
+      "coffee breaks"
+    ],
+    [
+      "hospitality",
+      "symbolizes",
+      "morning rituals"
+    ],
+    [
+      "ideas exchange",
+      "contributes to",
+      "global phenomenon"
+    ],
+    [
+      "ideas exchange",
+      "engaged in",
+      "Voltaire"
+    ],
+    [
+      "ideas exchange",
+      "enhances",
+      "community engagement"
+    ],
+    [
+      "ideas exchange",
+      "facilitates",
+      "intellectual discussions"
+    ],
+    [
+      "ideas exchange",
+      "influenced",
+      "coffee history"
+    ],
+    [
+      "ideas exchange",
+      "is part of",
+      "Rousseau"
+    ],
+    [
+      "ideas exchange",
+      "shaped by",
+      "cultural impact"
+    ],
+    [
+      "ideas exchange",
+      "shapes",
+      "lifestyle"
+    ],
+    [
+      "lifestyle",
+      "affects",
+      "economic implications"
+    ],
+    [
+      "lifestyle",
+      "impacts",
+      "environmental implications"
+    ],
+    [
+      "lifestyle",
+      "influenced by",
+      "coffee culture"
+    ],
+    [
+      "lifestyle",
+      "influences",
+      "cafe culture"
+    ],
+    [
+      "lifestyle",
+      "requires",
+      "sustainable farming"
+    ],
+    [
+      "morning rituals",
+      "enhances",
+      "focus"
+    ],
+    [
+      "morning rituals",
+      "influences",
+      "personal identity"
+    ],
+    [
+      "morning rituals",
+      "is part of",
+      "coffee houses"
+    ],
+    [
+      "multi-billion dollar industry",
+      "affects",
+      "daily lives"
+    ],
+    [
+      "multi-billion dollar industry",
+      "associated with",
+      "ethical sourcing"
+    ],
+    [
+      "multi-billion dollar industry",
+      "influenced by",
+      "Arabian Peninsula"
+    ],
+    [
+      "multi-billion dollar industry",
+      "is characterized as",
+      "global phenomenon"
+    ],
+    [
+      "multi-billion dollar industry",
+      "is influenced by",
+      "economic implications"
+    ],
+    [
+      "multi-billion dollar industry",
+      "is part of",
+      "Rousseau"
+    ],
+    [
+      "multi-billion dollar industry",
+      "is part of",
+      "traded commodities"
+    ],
+    [
+      "multi-billion dollar industry",
+      "is supported by",
+      "business transactions"
+    ],
+    [
+      "multi-billion dollar industry",
+      "supports",
+      "productivity"
+    ],
+    [
+      "penny universities",
+      "originated in",
+      "Europe"
+    ],
+    [
+      "personal identity",
+      "influences",
+      "sustainable farming"
+    ],
+    [
+      "personal identity",
+      "is influenced by",
+      "hospitality"
+    ],
+    [
+      "personal identity",
+      "shapes",
+      "political discourse"
+    ],
+    [
+      "political discourse",
+      "affects",
+      "economic implications"
+    ],
+    [
+      "political discourse",
+      "facilitates",
+      "debates"
+    ],
+    [
+      "political discourse",
+      "is explored in",
+      "history"
+    ],
+    [
+      "political discourse",
+      "originated from",
+      "Arabian Peninsula"
+    ],
+    [
+      "productivity",
+      "benefit from",
+      "coffee breaks"
+    ],
+    [
+      "productivity",
+      "enhances",
+      "energy"
+    ],
+    [
+      "productivity",
+      "facilitates",
+      "morning rituals"
+    ],
+    [
+      "productivity",
+      "impacts",
+      "deforestation"
+    ],
+    [
+      "productivity",
+      "is enhanced by",
+      "business transactions"
+    ],
+    [
+      "productivity",
+      "is influenced by",
+      "cultural impact"
+    ],
+    [
+      "quality",
+      "affects",
+      "cultural impact"
+    ],
+    [
+      "quality",
+      "creates",
+      "employment opportunities"
+    ],
+    [
+      "quality",
+      "enhances",
+      "community engagement"
+    ],
+    [
+      "quality",
+      "enhances",
+      "focus"
+    ],
+    [
+      "quality",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "quality",
+      "influences",
+      "daily lives"
+    ],
+    [
+      "quality",
+      "initiates",
+      "morning rituals"
+    ],
+    [
+      "quality",
+      "is essential for",
+      "coffee cultivation"
+    ],
+    [
+      "quality",
+      "symbolizes",
+      "hospitality"
+    ],
+    [
+      "social connections",
+      "facilitates",
+      "social spaces"
+    ],
+    [
+      "social connections",
+      "fosters",
+      "community"
+    ],
+    [
+      "social gatherings",
+      "participated in",
+      "Voltaire"
+    ],
+    [
+      "social spaces",
+      "exists in",
+      "lifestyle"
+    ],
+    [
+      "social spaces",
+      "inspired",
+      "coffee history"
+    ],
+    [
+      "social spaces",
+      "occurs in",
+      "political discourse"
+    ],
+    [
+      "social spaces",
+      "takes place in",
+      "debates"
+    ],
+    [
+      "social status",
+      "enhances",
+      "coffee breaks"
+    ],
+    [
+      "social status",
+      "enhances",
+      "social gatherings"
+    ],
+    [
+      "social status",
+      "influenced by",
+      "friendship"
+    ],
+    [
+      "social status",
+      "influences",
+      "debates"
+    ],
+    [
+      "social status",
+      "influences",
+      "history"
+    ],
+    [
+      "social status",
+      "is associated with",
+      "coffee houses"
+    ],
+    [
+      "social status",
+      "reflects",
+      "coffee culture"
+    ],
+    [
+      "social status",
+      "reflects",
+      "energy"
+    ],
+    [
+      "sustainability",
+      "affects",
+      "economic implications"
+    ],
+    [
+      "sustainability",
+      "drives",
+      "multi-billion dollar industry"
+    ],
+    [
+      "sustainability",
+      "is rooted in",
+      "coffee history"
+    ],
+    [
+      "sustainability",
+      "requires",
+      "sustainable farming"
+    ],
+    [
+      "sustainable farming",
+      "depends on",
+      "quality"
+    ],
+    [
+      "sustainable farming",
+      "requires",
+      "deforestation"
+    ],
+    [
+      "sustainable farming",
+      "supports",
+      "personal identity"
+    ],
+    [
+      "sustainable farming",
+      "supports",
+      "productivity"
+    ],
+    [
+      "traded commodities",
+      "is a component of",
+      "penny universities"
+    ],
+    [
+      "traded commodities",
+      "is a consequence of",
+      "deforestation"
+    ],
+    [
+      "traded commodities",
+      "is associated with",
+      "business transactions"
+    ],
+    [
+      "traded commodities",
+      "is associated with",
+      "personal identity"
+    ],
+    [
+      "traded commodities",
+      "is influenced by",
+      "cultural impact"
+    ],
+    [
+      "traded commodities",
+      "is linked to",
+      "productivity"
+    ],
+    [
+      "traded commodities",
+      "requires",
+      "ethical sourcing"
+    ],
+    [
+      "urban social fabric",
+      "is shaped by",
+      "ideas exchange"
+    ],
+    [
+      "urban social fabric",
+      "shapes",
+      "daily lives"
+    ],
+    [
+      "warmth",
+      "integrates into",
+      "daily lives"
+    ],
+    [
+      "warmth",
+      "is enhanced by",
+      "energy"
+    ],
+    [
+      "warmth",
+      "is expressed through",
+      "personal identity"
+    ],
+    [
+      "warmth",
+      "is represented by",
+      "global phenomenon"
+    ],
+    [
+      "warmth",
+      "symbolizes",
+      "community"
+    ],
+    [
+      "warmth",
+      "symbolizes",
+      "friendship"
+    ],
+    [
+      "warmth",
+      "symbolizes",
+      "social gatherings"
+    ],
+    [
+      "water usage",
+      "affects",
+      "economic implications"
+    ],
+    [
+      "water usage",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "water usage",
+      "is a factor in",
+      "sustainability"
+    ],
+    [
+      "water usage",
+      "is a factor in",
+      "traded commodities"
+    ],
+    [
+      "water usage",
+      "requires",
+      "energy"
+    ],
+    [
+      "water usage",
+      "requires",
+      "sustainable farming"
+    ]
+  ],
+  "edges": [
+    "affected by",
+    "affects",
+    "associated with",
+    "benefit from",
+    "benefits from",
+    "boosts",
+    "contributes to",
+    "creates",
+    "defines",
+    "depends on",
+    "describes",
+    "developed from",
+    "documented in",
+    "drives",
+    "embodied by",
+    "emerged in",
+    "emerges from",
+    "encourages",
+    "engaged in",
+    "enhanced by",
+    "enhances",
+    "enriches",
+    "evokes",
+    "evolved from",
+    "exists in",
+    "facilitated",
+    "facilitates",
+    "fosters",
+    "fueled by",
+    "functions as",
+    "hosts",
+    "impacts",
+    "influenced",
+    "influenced by",
+    "influences",
+    "informs",
+    "initiates",
+    "inspired",
+    "inspired by",
+    "integrates into",
+    "is a component of",
+    "is a consequence of",
+    "is a factor in",
+    "is a manifestation of",
+    "is a reflection of",
+    "is a result of",
+    "is addressed by",
+    "is affected by",
+    "is associated with",
+    "is categorized as",
+    "is characterized as",
+    "is characterized by",
+    "is enhanced by",
+    "is essential for",
+    "is experienced in",
+    "is explored in",
+    "is expressed through",
+    "is facilitated by",
+    "is impacted by",
+    "is influenced by",
+    "is informed by",
+    "is linked to",
+    "is part of",
+    "is represented by",
+    "is rooted in",
+    "is shaped by",
+    "is supported by",
+    "mitigates",
+    "nurtures",
+    "occurs in",
+    "originated from",
+    "originated in",
+    "participated in",
+    "promotes",
+    "provides",
+    "reflects",
+    "represents",
+    "requires",
+    "shaped by",
+    "shapes",
+    "stimulates",
+    "strengthens",
+    "supported by",
+    "supports",
+    "symbolizes",
+    "takes place in",
+    "threatens",
+    "utilized in"
+  ]
+}

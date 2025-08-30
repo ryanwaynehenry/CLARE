@@ -1,0 +1,8634 @@
+{
+  "entities": [
+    "Earth perspective",
+    "Earth views",
+    "astronaut life",
+    "astronaut training",
+    "astronauts",
+    "beauty of Earth",
+    "bone loss",
+    "boundaries pushing",
+    "challenges",
+    "cleaning chores",
+    "collaboration",
+    "communication",
+    "crew coordination",
+    "crew dynamics",
+    "crew health",
+    "crew interactions",
+    "crew living conditions",
+    "crew morale",
+    "crew responsibilities",
+    "crew socialization",
+    "crew well-being",
+    "daily routine",
+    "daily tasks",
+    "dedication",
+    "dedication to health",
+    "dedication to science",
+    "demanding job",
+    "down time",
+    "engagement",
+    "essential tasks",
+    "evening routine",
+    "exercise regimen",
+    "experiment conduction",
+    "exploration drive",
+    "extraordinary experiences",
+    "final check-in",
+    "fitness importance",
+    "gazing at Earth",
+    "groundbreaking research",
+    "health and well-being",
+    "health maintenance",
+    "human knowledge",
+    "intelligence",
+    "maintenance duties",
+    "maintenance work",
+    "meal preparation",
+    "mealtime breaks",
+    "mental well-being",
+    "microgravity effects",
+    "mission control",
+    "mission control check-in",
+    "mission instructions",
+    "mission objectives",
+    "mission success",
+    "morning briefing",
+    "muscle loss",
+    "mysteries of universe",
+    "operational efficiency",
+    "orchestration of activities",
+    "passion for exploration",
+    "personal reflection",
+    "personal time",
+    "physical condition",
+    "physical exertion",
+    "physical fitness",
+    "reading",
+    "relaxation",
+    "resilience",
+    "rewards",
+    "routine checks",
+    "sacrifices",
+    "scientific experiments",
+    "scientific research",
+    "skills testing",
+    "sleep preparation",
+    "sleeping bags",
+    "sleeping quarters",
+    "space challenges",
+    "space environment",
+    "space exploration",
+    "space living",
+    "space station operations",
+    "specialized equipment",
+    "system maintenance",
+    "task completion",
+    "task management",
+    "task prioritization",
+    "task variety",
+    "teamwork",
+    "unique experiences",
+    "unique profession",
+    "watching movies",
+    "work assignments",
+    "work-life balance"
+  ],
+  "relations": [
+    [
+      "Earth perspective",
+      "contributes to",
+      "crew well-being"
+    ],
+    [
+      "Earth perspective",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "Earth perspective",
+      "enhances",
+      "crew socialization"
+    ],
+    [
+      "Earth perspective",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "Earth perspective",
+      "expands",
+      "human knowledge"
+    ],
+    [
+      "Earth perspective",
+      "fosters",
+      "crew interactions"
+    ],
+    [
+      "Earth perspective",
+      "guides",
+      "mission instructions"
+    ],
+    [
+      "Earth perspective",
+      "highlights",
+      "beauty of Earth"
+    ],
+    [
+      "Earth perspective",
+      "highlights",
+      "microgravity effects"
+    ],
+    [
+      "Earth perspective",
+      "influences",
+      "mental well-being"
+    ],
+    [
+      "Earth perspective",
+      "informs",
+      "exercise regimen"
+    ],
+    [
+      "Earth perspective",
+      "informs",
+      "personal reflection"
+    ],
+    [
+      "Earth perspective",
+      "provides",
+      "extraordinary experiences"
+    ],
+    [
+      "Earth perspective",
+      "provides",
+      "morning briefing"
+    ],
+    [
+      "Earth perspective",
+      "provides",
+      "resilience"
+    ],
+    [
+      "Earth perspective",
+      "requires",
+      "dedication to health"
+    ],
+    [
+      "Earth views",
+      "aids",
+      "communication"
+    ],
+    [
+      "Earth views",
+      "boosts",
+      "crew morale"
+    ],
+    [
+      "Earth views",
+      "enhances",
+      "crew coordination"
+    ],
+    [
+      "Earth views",
+      "enhances",
+      "crew socialization"
+    ],
+    [
+      "Earth views",
+      "informs",
+      "crew responsibilities"
+    ],
+    [
+      "Earth views",
+      "informs",
+      "orchestration of activities"
+    ],
+    [
+      "Earth views",
+      "inspires",
+      "personal reflection"
+    ],
+    [
+      "Earth views",
+      "motivates",
+      "exploration drive"
+    ],
+    [
+      "Earth views",
+      "supports",
+      "mental well-being"
+    ],
+    [
+      "astronaut life",
+      "affects",
+      "physical condition"
+    ],
+    [
+      "astronaut life",
+      "affects",
+      "work-life balance"
+    ],
+    [
+      "astronaut life",
+      "drives",
+      "exploration drive"
+    ],
+    [
+      "astronaut life",
+      "enables",
+      "groundbreaking research"
+    ],
+    [
+      "astronaut life",
+      "highlights",
+      "beauty of Earth"
+    ],
+    [
+      "astronaut life",
+      "includes two hour",
+      "exercise regimen"
+    ],
+    [
+      "astronaut life",
+      "involves",
+      "engagement"
+    ],
+    [
+      "astronaut life",
+      "involves",
+      "experiment conduction"
+    ],
+    [
+      "astronaut life",
+      "involves",
+      "physical exertion"
+    ],
+    [
+      "astronaut life",
+      "involves",
+      "scientific experiments"
+    ],
+    [
+      "astronaut life",
+      "involves",
+      "scientific research"
+    ],
+    [
+      "astronaut life",
+      "is driven by",
+      "dedication to science"
+    ],
+    [
+      "astronaut life",
+      "presents",
+      "challenges"
+    ],
+    [
+      "astronaut life",
+      "provides",
+      "Earth perspective"
+    ],
+    [
+      "astronaut training",
+      "contributes to",
+      "mission success"
+    ],
+    [
+      "astronaut training",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "astronaut training",
+      "enhances",
+      "beauty of Earth"
+    ],
+    [
+      "astronaut training",
+      "enhances",
+      "operational efficiency"
+    ],
+    [
+      "astronaut training",
+      "enhances",
+      "physical fitness"
+    ],
+    [
+      "astronaut training",
+      "impacts",
+      "microgravity effects"
+    ],
+    [
+      "astronaut training",
+      "improves",
+      "communication"
+    ],
+    [
+      "astronaut training",
+      "informs",
+      "Earth views"
+    ],
+    [
+      "astronaut training",
+      "is supported by",
+      "crew interactions"
+    ],
+    [
+      "astronaut training",
+      "requires",
+      "mysteries of universe"
+    ],
+    [
+      "astronaut training",
+      "supports",
+      "exercise regimen"
+    ],
+    [
+      "astronauts",
+      "are fascinated by",
+      "space exploration"
+    ],
+    [
+      "beauty of Earth",
+      "contrasts with",
+      "daily tasks"
+    ],
+    [
+      "beauty of Earth",
+      "creates",
+      "extraordinary experiences"
+    ],
+    [
+      "beauty of Earth",
+      "enhances",
+      "experiment conduction"
+    ],
+    [
+      "beauty of Earth",
+      "influences",
+      "task prioritization"
+    ],
+    [
+      "beauty of Earth",
+      "informs",
+      "crew interactions"
+    ],
+    [
+      "beauty of Earth",
+      "informs",
+      "maintenance work"
+    ],
+    [
+      "beauty of Earth",
+      "informs",
+      "mission control"
+    ],
+    [
+      "beauty of Earth",
+      "informs",
+      "scientific experiments"
+    ],
+    [
+      "beauty of Earth",
+      "informs",
+      "work assignments"
+    ],
+    [
+      "beauty of Earth",
+      "inspired by",
+      "physical exertion"
+    ],
+    [
+      "beauty of Earth",
+      "inspired by",
+      "resilience"
+    ],
+    [
+      "beauty of Earth",
+      "involves",
+      "scientific research"
+    ],
+    [
+      "beauty of Earth",
+      "is appreciated by",
+      "work-life balance"
+    ],
+    [
+      "beauty of Earth",
+      "is enhanced by",
+      "mental well-being"
+    ],
+    [
+      "beauty of Earth",
+      "is enhanced by",
+      "orchestration of activities"
+    ],
+    [
+      "beauty of Earth",
+      "is inspired by",
+      "task completion"
+    ],
+    [
+      "beauty of Earth",
+      "is inspired by",
+      "teamwork"
+    ],
+    [
+      "beauty of Earth",
+      "monitored by",
+      "routine checks"
+    ],
+    [
+      "beauty of Earth",
+      "reveals",
+      "unique experiences"
+    ],
+    [
+      "beauty of Earth",
+      "supports",
+      "physical fitness"
+    ],
+    [
+      "bone loss",
+      "affects",
+      "crew health"
+    ],
+    [
+      "bone loss",
+      "affects",
+      "daily routine"
+    ],
+    [
+      "bone loss",
+      "affects",
+      "down time"
+    ],
+    [
+      "bone loss",
+      "affects",
+      "health and well-being"
+    ],
+    [
+      "bone loss",
+      "contributes to",
+      "maintenance work"
+    ],
+    [
+      "bone loss",
+      "counteracts",
+      "health maintenance"
+    ],
+    [
+      "bone loss",
+      "exacerbates",
+      "crew living conditions"
+    ],
+    [
+      "bone loss",
+      "exacerbates",
+      "space station operations"
+    ],
+    [
+      "bone loss",
+      "informs about",
+      "mission control"
+    ],
+    [
+      "bone loss",
+      "is affected by",
+      "mealtime breaks"
+    ],
+    [
+      "bone loss",
+      "is affected by",
+      "physical condition"
+    ],
+    [
+      "bone loss",
+      "is impacted by",
+      "mental well-being"
+    ],
+    [
+      "bone loss",
+      "is monitored by",
+      "routine checks"
+    ],
+    [
+      "bone loss",
+      "mitigates",
+      "dedication to health"
+    ],
+    [
+      "bone loss",
+      "mitigates",
+      "mission control check-in"
+    ],
+    [
+      "bone loss",
+      "results in",
+      "microgravity effects"
+    ],
+    [
+      "boundaries pushing",
+      "boosts",
+      "crew morale"
+    ],
+    [
+      "boundaries pushing",
+      "contributes to",
+      "space challenges"
+    ],
+    [
+      "boundaries pushing",
+      "drives",
+      "dedication to science"
+    ],
+    [
+      "boundaries pushing",
+      "enhances",
+      "mental well-being"
+    ],
+    [
+      "boundaries pushing",
+      "facilitates",
+      "orchestration of activities"
+    ],
+    [
+      "boundaries pushing",
+      "facilitates",
+      "task variety"
+    ],
+    [
+      "boundaries pushing",
+      "improves",
+      "physical condition"
+    ],
+    [
+      "boundaries pushing",
+      "influences",
+      "crew dynamics"
+    ],
+    [
+      "boundaries pushing",
+      "inspired by",
+      "beauty of Earth"
+    ],
+    [
+      "boundaries pushing",
+      "involves",
+      "astronaut training"
+    ],
+    [
+      "boundaries pushing",
+      "involves",
+      "maintenance duties"
+    ],
+    [
+      "boundaries pushing",
+      "involves",
+      "scientific experiments"
+    ],
+    [
+      "boundaries pushing",
+      "is associated with",
+      "unique profession"
+    ],
+    [
+      "boundaries pushing",
+      "is driven by",
+      "dedication to health"
+    ],
+    [
+      "boundaries pushing",
+      "is driven by",
+      "work assignments"
+    ],
+    [
+      "boundaries pushing",
+      "is related to",
+      "mysteries of universe"
+    ],
+    [
+      "boundaries pushing",
+      "leads to",
+      "mission success"
+    ],
+    [
+      "boundaries pushing",
+      "provides",
+      "Earth perspective"
+    ],
+    [
+      "boundaries pushing",
+      "requires",
+      "collaboration"
+    ],
+    [
+      "boundaries pushing",
+      "requires",
+      "intelligence"
+    ],
+    [
+      "boundaries pushing",
+      "requires",
+      "physical exertion"
+    ],
+    [
+      "boundaries pushing",
+      "requires",
+      "resilience"
+    ],
+    [
+      "challenges",
+      "addresses",
+      "mission control"
+    ],
+    [
+      "challenges",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "challenges",
+      "enhances",
+      "physical fitness"
+    ],
+    [
+      "challenges",
+      "guides",
+      "mission instructions"
+    ],
+    [
+      "challenges",
+      "impacts",
+      "crew morale"
+    ],
+    [
+      "challenges",
+      "includes",
+      "cleaning chores"
+    ],
+    [
+      "challenges",
+      "informs",
+      "scientific research"
+    ],
+    [
+      "challenges",
+      "necessitates",
+      "essential tasks"
+    ],
+    [
+      "challenges",
+      "presents",
+      "Earth perspective"
+    ],
+    [
+      "challenges",
+      "presents",
+      "human knowledge"
+    ],
+    [
+      "challenges",
+      "presents",
+      "morning briefing"
+    ],
+    [
+      "challenges",
+      "presents",
+      "physical condition"
+    ],
+    [
+      "challenges",
+      "presents",
+      "unique profession"
+    ],
+    [
+      "challenges",
+      "presents challenges to",
+      "mental well-being"
+    ],
+    [
+      "challenges",
+      "reported during",
+      "final check-in"
+    ],
+    [
+      "challenges",
+      "requires",
+      "dedication"
+    ],
+    [
+      "challenges",
+      "requires",
+      "orchestration of activities"
+    ],
+    [
+      "challenges",
+      "results in",
+      "microgravity effects"
+    ],
+    [
+      "cleaning chores",
+      "affects",
+      "mental well-being"
+    ],
+    [
+      "cleaning chores",
+      "constitutes",
+      "essential tasks"
+    ],
+    [
+      "cleaning chores",
+      "demonstrates",
+      "dedication"
+    ],
+    [
+      "cleaning chores",
+      "facilitates",
+      "groundbreaking research"
+    ],
+    [
+      "cleaning chores",
+      "facilitates",
+      "mission control check-in"
+    ],
+    [
+      "cleaning chores",
+      "involves",
+      "unique experiences"
+    ],
+    [
+      "cleaning chores",
+      "is affected by",
+      "crew dynamics"
+    ],
+    [
+      "cleaning chores",
+      "is impacted by",
+      "muscle loss"
+    ],
+    [
+      "cleaning chores",
+      "is part of",
+      "daily routine"
+    ],
+    [
+      "cleaning chores",
+      "is part of",
+      "evening routine"
+    ],
+    [
+      "cleaning chores",
+      "is related to",
+      "task variety"
+    ],
+    [
+      "cleaning chores",
+      "oversees",
+      "mission control"
+    ],
+    [
+      "cleaning chores",
+      "required for",
+      "sacrifices"
+    ],
+    [
+      "cleaning chores",
+      "requires",
+      "boundaries pushing"
+    ],
+    [
+      "cleaning chores",
+      "supports",
+      "scientific research"
+    ],
+    [
+      "collaboration",
+      "contributes to",
+      "mission success"
+    ],
+    [
+      "collaboration",
+      "encompasses",
+      "essential tasks"
+    ],
+    [
+      "collaboration",
+      "enhances",
+      "daily tasks"
+    ],
+    [
+      "collaboration",
+      "enhances",
+      "physical condition"
+    ],
+    [
+      "collaboration",
+      "enhances",
+      "physical fitness"
+    ],
+    [
+      "collaboration",
+      "enhances",
+      "sleeping quarters"
+    ],
+    [
+      "collaboration",
+      "enhances",
+      "task prioritization"
+    ],
+    [
+      "collaboration",
+      "facilitates",
+      "mealtime breaks"
+    ],
+    [
+      "collaboration",
+      "influences",
+      "evening routine"
+    ],
+    [
+      "collaboration",
+      "informs",
+      "mission instructions"
+    ],
+    [
+      "collaboration",
+      "is enhanced by",
+      "scientific research"
+    ],
+    [
+      "collaboration",
+      "leads to",
+      "extraordinary experiences"
+    ],
+    [
+      "collaboration",
+      "presents",
+      "space challenges"
+    ],
+    [
+      "collaboration",
+      "promotes",
+      "crew health"
+    ],
+    [
+      "collaboration",
+      "requires",
+      "dedication"
+    ],
+    [
+      "collaboration",
+      "results from",
+      "unique experiences"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "orchestration of activities"
+    ],
+    [
+      "communication",
+      "is enhanced by",
+      "daily tasks"
+    ],
+    [
+      "communication",
+      "results from",
+      "sacrifices"
+    ],
+    [
+      "communication",
+      "results in",
+      "rewards"
+    ],
+    [
+      "crew coordination",
+      "depends on",
+      "cleaning chores"
+    ],
+    [
+      "crew coordination",
+      "enhances",
+      "work assignments"
+    ],
+    [
+      "crew coordination",
+      "ensures",
+      "mission success"
+    ],
+    [
+      "crew coordination",
+      "ensures",
+      "system maintenance"
+    ],
+    [
+      "crew coordination",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "crew coordination",
+      "involves",
+      "daily tasks"
+    ],
+    [
+      "crew coordination",
+      "involves",
+      "meal preparation"
+    ],
+    [
+      "crew coordination",
+      "is achieved through",
+      "morning briefing"
+    ],
+    [
+      "crew coordination",
+      "is structured by",
+      "daily routine"
+    ],
+    [
+      "crew coordination",
+      "presents",
+      "challenges"
+    ],
+    [
+      "crew coordination",
+      "requires",
+      "exercise regimen"
+    ],
+    [
+      "crew coordination",
+      "supports",
+      "physical condition"
+    ],
+    [
+      "crew coordination",
+      "supports",
+      "scientific research"
+    ],
+    [
+      "crew dynamics",
+      "affects",
+      "daily tasks"
+    ],
+    [
+      "crew dynamics",
+      "affects",
+      "down time"
+    ],
+    [
+      "crew dynamics",
+      "affects",
+      "space living"
+    ],
+    [
+      "crew dynamics",
+      "affects",
+      "task prioritization"
+    ],
+    [
+      "crew dynamics",
+      "affects",
+      "task variety"
+    ],
+    [
+      "crew dynamics",
+      "aligns with",
+      "mission objectives"
+    ],
+    [
+      "crew dynamics",
+      "drives",
+      "dedication"
+    ],
+    [
+      "crew dynamics",
+      "enhances",
+      "dedication to science"
+    ],
+    [
+      "crew dynamics",
+      "facilitates",
+      "teamwork"
+    ],
+    [
+      "crew dynamics",
+      "guides",
+      "mission instructions"
+    ],
+    [
+      "crew dynamics",
+      "influences",
+      "cleaning chores"
+    ],
+    [
+      "crew dynamics",
+      "influences",
+      "crew socialization"
+    ],
+    [
+      "crew dynamics",
+      "influences",
+      "mysteries of universe"
+    ],
+    [
+      "crew dynamics",
+      "involves",
+      "maintenance duties"
+    ],
+    [
+      "crew dynamics",
+      "is supported by",
+      "astronaut training"
+    ],
+    [
+      "crew dynamics",
+      "shapes",
+      "Earth views"
+    ],
+    [
+      "crew dynamics",
+      "shapes",
+      "communication"
+    ],
+    [
+      "crew health",
+      "affects",
+      "Earth perspective"
+    ],
+    [
+      "crew health",
+      "affects",
+      "task prioritization"
+    ],
+    [
+      "crew health",
+      "benefits from",
+      "dedication to science"
+    ],
+    [
+      "crew health",
+      "depends on",
+      "crew morale"
+    ],
+    [
+      "crew health",
+      "is fueled by",
+      "passion for exploration"
+    ],
+    [
+      "crew health",
+      "is part of",
+      "daily routine"
+    ],
+    [
+      "crew health",
+      "is supported by",
+      "cleaning chores"
+    ],
+    [
+      "crew health",
+      "is supported by",
+      "scientific research"
+    ],
+    [
+      "crew health",
+      "promotes",
+      "morning briefing"
+    ],
+    [
+      "crew health",
+      "promotes",
+      "task completion"
+    ],
+    [
+      "crew health",
+      "requires",
+      "dedication"
+    ],
+    [
+      "crew health",
+      "supports",
+      "beauty of Earth"
+    ],
+    [
+      "crew health",
+      "supports",
+      "exercise regimen"
+    ],
+    [
+      "crew health",
+      "supports",
+      "mission control"
+    ],
+    [
+      "crew health",
+      "supports",
+      "physical fitness"
+    ],
+    [
+      "crew interactions",
+      "affects",
+      "evening routine"
+    ],
+    [
+      "crew interactions",
+      "contributes to",
+      "mission success"
+    ],
+    [
+      "crew interactions",
+      "enhances",
+      "astronaut training"
+    ],
+    [
+      "crew interactions",
+      "enhances",
+      "operational efficiency"
+    ],
+    [
+      "crew interactions",
+      "enhances",
+      "personal reflection"
+    ],
+    [
+      "crew interactions",
+      "facilitates",
+      "orchestration of activities"
+    ],
+    [
+      "crew interactions",
+      "facilitates",
+      "task completion"
+    ],
+    [
+      "crew interactions",
+      "fosters",
+      "collaboration"
+    ],
+    [
+      "crew interactions",
+      "guides",
+      "mission instructions"
+    ],
+    [
+      "crew interactions",
+      "influences",
+      "daily routine"
+    ],
+    [
+      "crew interactions",
+      "influences",
+      "daily tasks"
+    ],
+    [
+      "crew interactions",
+      "influences",
+      "space challenges"
+    ],
+    [
+      "crew interactions",
+      "involves",
+      "daily tasks"
+    ],
+    [
+      "crew interactions",
+      "involves",
+      "engagement"
+    ],
+    [
+      "crew interactions",
+      "involves",
+      "mission control check-in"
+    ],
+    [
+      "crew interactions",
+      "involves",
+      "physical exertion"
+    ],
+    [
+      "crew interactions",
+      "involves",
+      "routine checks"
+    ],
+    [
+      "crew interactions",
+      "involves",
+      "scientific experiments"
+    ],
+    [
+      "crew interactions",
+      "involves",
+      "unique profession"
+    ],
+    [
+      "crew interactions",
+      "involves",
+      "work assignments"
+    ],
+    [
+      "crew interactions",
+      "occurs during",
+      "down time"
+    ],
+    [
+      "crew interactions",
+      "occurs during",
+      "mealtime breaks"
+    ],
+    [
+      "crew interactions",
+      "reflects",
+      "dedication to science"
+    ],
+    [
+      "crew interactions",
+      "supports",
+      "health and well-being"
+    ],
+    [
+      "crew living conditions",
+      "affects",
+      "Earth views"
+    ],
+    [
+      "crew living conditions",
+      "affects",
+      "daily routine"
+    ],
+    [
+      "crew living conditions",
+      "affects",
+      "final check-in"
+    ],
+    [
+      "crew living conditions",
+      "affects",
+      "microgravity effects"
+    ],
+    [
+      "crew living conditions",
+      "affects",
+      "rewards"
+    ],
+    [
+      "crew living conditions",
+      "affects",
+      "work-life balance"
+    ],
+    [
+      "crew living conditions",
+      "contributes to",
+      "mission success"
+    ],
+    [
+      "crew living conditions",
+      "enhances",
+      "beauty of Earth"
+    ],
+    [
+      "crew living conditions",
+      "facilitates",
+      "crew coordination"
+    ],
+    [
+      "crew living conditions",
+      "impacts",
+      "relaxation"
+    ],
+    [
+      "crew living conditions",
+      "influenced by",
+      "mission control"
+    ],
+    [
+      "crew living conditions",
+      "influences",
+      "orchestration of activities"
+    ],
+    [
+      "crew living conditions",
+      "involves",
+      "daily tasks"
+    ],
+    [
+      "crew living conditions",
+      "involves",
+      "meal preparation"
+    ],
+    [
+      "crew living conditions",
+      "necessitates",
+      "essential tasks"
+    ],
+    [
+      "crew living conditions",
+      "provides",
+      "unique experiences"
+    ],
+    [
+      "crew living conditions",
+      "supports",
+      "health and well-being"
+    ],
+    [
+      "crew living conditions",
+      "utilizes",
+      "specialized equipment"
+    ],
+    [
+      "crew morale",
+      "affects",
+      "orchestration of activities"
+    ],
+    [
+      "crew morale",
+      "affects",
+      "scientific experiments"
+    ],
+    [
+      "crew morale",
+      "affects",
+      "space station operations"
+    ],
+    [
+      "crew morale",
+      "affects",
+      "task prioritization"
+    ],
+    [
+      "crew morale",
+      "boosts",
+      "down time"
+    ],
+    [
+      "crew morale",
+      "boosts",
+      "exercise regimen"
+    ],
+    [
+      "crew morale",
+      "boosts",
+      "morning briefing"
+    ],
+    [
+      "crew morale",
+      "boosts",
+      "work assignments"
+    ],
+    [
+      "crew morale",
+      "drives",
+      "dedication"
+    ],
+    [
+      "crew morale",
+      "enhanced by",
+      "dedication to science"
+    ],
+    [
+      "crew morale",
+      "enhances",
+      "collaboration"
+    ],
+    [
+      "crew morale",
+      "enhances",
+      "communication"
+    ],
+    [
+      "crew morale",
+      "enhances",
+      "crew socialization"
+    ],
+    [
+      "crew morale",
+      "enhances",
+      "mealtime breaks"
+    ],
+    [
+      "crew morale",
+      "enhances",
+      "operational efficiency"
+    ],
+    [
+      "crew morale",
+      "enhances",
+      "personal time"
+    ],
+    [
+      "crew morale",
+      "enhances",
+      "physical exertion"
+    ],
+    [
+      "crew morale",
+      "enhances",
+      "relaxation"
+    ],
+    [
+      "crew morale",
+      "enhances",
+      "space living"
+    ],
+    [
+      "crew morale",
+      "influences",
+      "experiment conduction"
+    ],
+    [
+      "crew morale",
+      "is influenced by",
+      "crew living conditions"
+    ],
+    [
+      "crew morale",
+      "is inspired by",
+      "beauty of Earth"
+    ],
+    [
+      "crew morale",
+      "promotes",
+      "health maintenance"
+    ],
+    [
+      "crew morale",
+      "strengthens",
+      "teamwork"
+    ],
+    [
+      "crew morale",
+      "supports",
+      "crew health"
+    ],
+    [
+      "crew morale",
+      "supports",
+      "crew responsibilities"
+    ],
+    [
+      "crew morale",
+      "supports",
+      "evening routine"
+    ],
+    [
+      "crew morale",
+      "supports",
+      "health and well-being"
+    ],
+    [
+      "crew morale",
+      "supports",
+      "mental well-being"
+    ],
+    [
+      "crew morale",
+      "supports",
+      "physical fitness"
+    ],
+    [
+      "crew responsibilities",
+      "affects",
+      "physical condition"
+    ],
+    [
+      "crew responsibilities",
+      "defines",
+      "demanding job"
+    ],
+    [
+      "crew responsibilities",
+      "defines",
+      "unique profession"
+    ],
+    [
+      "crew responsibilities",
+      "enables",
+      "crew socialization"
+    ],
+    [
+      "crew responsibilities",
+      "enhances",
+      "crew well-being"
+    ],
+    [
+      "crew responsibilities",
+      "facilitates",
+      "space station operations"
+    ],
+    [
+      "crew responsibilities",
+      "includes",
+      "down time"
+    ],
+    [
+      "crew responsibilities",
+      "includes",
+      "essential tasks"
+    ],
+    [
+      "crew responsibilities",
+      "includes",
+      "meal preparation"
+    ],
+    [
+      "crew responsibilities",
+      "includes",
+      "mealtime breaks"
+    ],
+    [
+      "crew responsibilities",
+      "involves",
+      "boundaries pushing"
+    ],
+    [
+      "crew responsibilities",
+      "involves",
+      "daily tasks"
+    ],
+    [
+      "crew responsibilities",
+      "involves",
+      "scientific experiments"
+    ],
+    [
+      "crew responsibilities",
+      "involves",
+      "scientific research"
+    ],
+    [
+      "crew responsibilities",
+      "involves",
+      "sleeping quarters"
+    ],
+    [
+      "crew responsibilities",
+      "involves",
+      "system maintenance"
+    ],
+    [
+      "crew responsibilities",
+      "involves",
+      "task prioritization"
+    ],
+    [
+      "crew responsibilities",
+      "is fueled by",
+      "passion for exploration"
+    ],
+    [
+      "crew responsibilities",
+      "is guided by",
+      "Earth views"
+    ],
+    [
+      "crew responsibilities",
+      "necessitates",
+      "exercise regimen"
+    ],
+    [
+      "crew responsibilities",
+      "oversees",
+      "mission control"
+    ],
+    [
+      "crew responsibilities",
+      "presents",
+      "challenges"
+    ],
+    [
+      "crew responsibilities",
+      "provides",
+      "rewards"
+    ],
+    [
+      "crew responsibilities",
+      "requires",
+      "collaboration"
+    ],
+    [
+      "crew responsibilities",
+      "requires",
+      "crew coordination"
+    ],
+    [
+      "crew responsibilities",
+      "requires",
+      "dedication"
+    ],
+    [
+      "crew responsibilities",
+      "requires",
+      "physical fitness"
+    ],
+    [
+      "crew responsibilities",
+      "requires",
+      "teamwork"
+    ],
+    [
+      "crew responsibilities",
+      "shapes",
+      "evening routine"
+    ],
+    [
+      "crew socialization",
+      "contributes to",
+      "crew health"
+    ],
+    [
+      "crew socialization",
+      "contributes to",
+      "mission success"
+    ],
+    [
+      "crew socialization",
+      "enhances",
+      "beauty of Earth"
+    ],
+    [
+      "crew socialization",
+      "enhances",
+      "communication"
+    ],
+    [
+      "crew socialization",
+      "enhances",
+      "exercise regimen"
+    ],
+    [
+      "crew socialization",
+      "enhances",
+      "physical condition"
+    ],
+    [
+      "crew socialization",
+      "enhances",
+      "scientific research"
+    ],
+    [
+      "crew socialization",
+      "impacts",
+      "muscle loss"
+    ],
+    [
+      "crew socialization",
+      "influences",
+      "daily tasks"
+    ],
+    [
+      "crew socialization",
+      "influences",
+      "work assignments"
+    ],
+    [
+      "crew socialization",
+      "is enhanced by",
+      "maintenance work"
+    ],
+    [
+      "crew socialization",
+      "is enhanced by",
+      "mealtime breaks"
+    ],
+    [
+      "crew socialization",
+      "is necessary for",
+      "essential tasks"
+    ],
+    [
+      "crew socialization",
+      "offers",
+      "rewards"
+    ],
+    [
+      "crew socialization",
+      "promotes",
+      "health and well-being"
+    ],
+    [
+      "crew socialization",
+      "provides",
+      "extraordinary experiences"
+    ],
+    [
+      "crew socialization",
+      "receives updates from",
+      "final check-in"
+    ],
+    [
+      "crew socialization",
+      "supports",
+      "meal preparation"
+    ],
+    [
+      "crew well-being",
+      "contributes to",
+      "mealtime breaks"
+    ],
+    [
+      "crew well-being",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "crew well-being",
+      "enhances",
+      "communication"
+    ],
+    [
+      "crew well-being",
+      "enhances",
+      "essential tasks"
+    ],
+    [
+      "crew well-being",
+      "enhances",
+      "mysteries of universe"
+    ],
+    [
+      "crew well-being",
+      "enhances",
+      "rewards"
+    ],
+    [
+      "crew well-being",
+      "ensures",
+      "health and well-being"
+    ],
+    [
+      "crew well-being",
+      "ensures",
+      "routine checks"
+    ],
+    [
+      "crew well-being",
+      "facilitates",
+      "meal preparation"
+    ],
+    [
+      "crew well-being",
+      "facilitates",
+      "morning briefing"
+    ],
+    [
+      "crew well-being",
+      "influences",
+      "beauty of Earth"
+    ],
+    [
+      "crew well-being",
+      "promotes",
+      "astronaut training"
+    ],
+    [
+      "crew well-being",
+      "requires",
+      "exercise regimen"
+    ],
+    [
+      "crew well-being",
+      "supports",
+      "task variety"
+    ],
+    [
+      "daily routine",
+      "guides",
+      "mission objectives"
+    ],
+    [
+      "daily routine",
+      "includes",
+      "routine checks"
+    ],
+    [
+      "daily routine",
+      "influences",
+      "rewards"
+    ],
+    [
+      "daily routine",
+      "integral to",
+      "specialized equipment"
+    ],
+    [
+      "daily routine",
+      "involves",
+      "space station operations"
+    ],
+    [
+      "daily routine",
+      "is influenced by",
+      "daily tasks"
+    ],
+    [
+      "daily routine",
+      "is part of",
+      "crew socialization"
+    ],
+    [
+      "daily routine",
+      "is part of",
+      "personal time"
+    ],
+    [
+      "daily routine",
+      "is part of",
+      "physical condition"
+    ],
+    [
+      "daily routine",
+      "is part of",
+      "sleeping quarters"
+    ],
+    [
+      "daily routine",
+      "supports",
+      "exercise regimen"
+    ],
+    [
+      "daily routine",
+      "supports",
+      "physical fitness"
+    ],
+    [
+      "daily tasks",
+      "affects",
+      "crew living conditions"
+    ],
+    [
+      "daily tasks",
+      "comprises",
+      "maintenance duties"
+    ],
+    [
+      "daily tasks",
+      "contributes to",
+      "mission success"
+    ],
+    [
+      "daily tasks",
+      "determines",
+      "task prioritization"
+    ],
+    [
+      "daily tasks",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "daily tasks",
+      "enhances",
+      "specialized equipment"
+    ],
+    [
+      "daily tasks",
+      "facilitates",
+      "collaboration"
+    ],
+    [
+      "daily tasks",
+      "facilitates",
+      "crew socialization"
+    ],
+    [
+      "daily tasks",
+      "guides",
+      "mission control"
+    ],
+    [
+      "daily tasks",
+      "guides",
+      "mission instructions"
+    ],
+    [
+      "daily tasks",
+      "guides",
+      "morning briefing"
+    ],
+    [
+      "daily tasks",
+      "includes",
+      "space station operations"
+    ],
+    [
+      "daily tasks",
+      "includes",
+      "system maintenance"
+    ],
+    [
+      "daily tasks",
+      "includes",
+      "unique experiences"
+    ],
+    [
+      "daily tasks",
+      "influences",
+      "crew health"
+    ],
+    [
+      "daily tasks",
+      "influences",
+      "crew morale"
+    ],
+    [
+      "daily tasks",
+      "influences",
+      "dedication to science"
+    ],
+    [
+      "daily tasks",
+      "influences",
+      "human knowledge"
+    ],
+    [
+      "daily tasks",
+      "influences",
+      "personal time"
+    ],
+    [
+      "daily tasks",
+      "influences",
+      "sacrifices"
+    ],
+    [
+      "daily tasks",
+      "informed by",
+      "mission objectives"
+    ],
+    [
+      "daily tasks",
+      "informs",
+      "Earth views"
+    ],
+    [
+      "daily tasks",
+      "informs",
+      "groundbreaking research"
+    ],
+    [
+      "daily tasks",
+      "informs",
+      "health maintenance"
+    ],
+    [
+      "daily tasks",
+      "informs",
+      "mission success"
+    ],
+    [
+      "daily tasks",
+      "informs",
+      "morning briefing"
+    ],
+    [
+      "daily tasks",
+      "informs",
+      "physical exertion"
+    ],
+    [
+      "daily tasks",
+      "informs",
+      "space exploration"
+    ],
+    [
+      "daily tasks",
+      "informs",
+      "work assignments"
+    ],
+    [
+      "daily tasks",
+      "involves",
+      "demanding job"
+    ],
+    [
+      "daily tasks",
+      "involves",
+      "evening routine"
+    ],
+    [
+      "daily tasks",
+      "involves",
+      "routine checks"
+    ],
+    [
+      "daily tasks",
+      "involves",
+      "sacrifices"
+    ],
+    [
+      "daily tasks",
+      "involves",
+      "scientific research"
+    ],
+    [
+      "daily tasks",
+      "is essential for",
+      "physical fitness"
+    ],
+    [
+      "daily tasks",
+      "is influenced by",
+      "beauty of Earth"
+    ],
+    [
+      "daily tasks",
+      "is influenced by",
+      "mysteries of universe"
+    ],
+    [
+      "daily tasks",
+      "is influenced by",
+      "physical condition"
+    ],
+    [
+      "daily tasks",
+      "is informed by",
+      "Earth perspective"
+    ],
+    [
+      "daily tasks",
+      "is part of",
+      "personal time"
+    ],
+    [
+      "daily tasks",
+      "is part of",
+      "sleeping quarters"
+    ],
+    [
+      "daily tasks",
+      "occurs during",
+      "mealtime breaks"
+    ],
+    [
+      "daily tasks",
+      "results in",
+      "rewards"
+    ],
+    [
+      "daily tasks",
+      "shapes",
+      "Earth perspective"
+    ],
+    [
+      "daily tasks",
+      "supports",
+      "crew health"
+    ],
+    [
+      "daily tasks",
+      "supports",
+      "physical fitness"
+    ],
+    [
+      "dedication",
+      "depends on",
+      "physical condition"
+    ],
+    [
+      "dedication",
+      "driven by",
+      "scientific experiments"
+    ],
+    [
+      "dedication",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "dedication",
+      "enables",
+      "orchestration of activities"
+    ],
+    [
+      "dedication",
+      "enhances",
+      "communication"
+    ],
+    [
+      "dedication",
+      "enhances",
+      "physical fitness"
+    ],
+    [
+      "dedication",
+      "informs",
+      "final check-in"
+    ],
+    [
+      "dedication",
+      "involves",
+      "routine checks"
+    ],
+    [
+      "dedication",
+      "involves",
+      "scientific research"
+    ],
+    [
+      "dedication",
+      "is driven by",
+      "beauty of Earth"
+    ],
+    [
+      "dedication",
+      "is influenced by",
+      "personal reflection"
+    ],
+    [
+      "dedication",
+      "motivates",
+      "Earth perspective"
+    ],
+    [
+      "dedication",
+      "receives",
+      "mission control"
+    ],
+    [
+      "dedication",
+      "requires",
+      "demanding job"
+    ],
+    [
+      "dedication",
+      "requires",
+      "maintenance work"
+    ],
+    [
+      "dedication",
+      "requires",
+      "morning briefing"
+    ],
+    [
+      "dedication",
+      "requires",
+      "relaxation"
+    ],
+    [
+      "dedication",
+      "requires",
+      "sacrifices"
+    ],
+    [
+      "dedication",
+      "requires",
+      "space challenges"
+    ],
+    [
+      "dedication",
+      "requires",
+      "work-life balance"
+    ],
+    [
+      "dedication",
+      "supports",
+      "mission instructions"
+    ],
+    [
+      "dedication to health",
+      "contributes to",
+      "crew well-being"
+    ],
+    [
+      "dedication to health",
+      "contributes to",
+      "mission success"
+    ],
+    [
+      "dedication to health",
+      "demands",
+      "demanding job"
+    ],
+    [
+      "dedication to health",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "dedication to health",
+      "enables",
+      "crew responsibilities"
+    ],
+    [
+      "dedication to health",
+      "encourages",
+      "personal reflection"
+    ],
+    [
+      "dedication to health",
+      "enhances",
+      "astronaut training"
+    ],
+    [
+      "dedication to health",
+      "enhances",
+      "health and well-being"
+    ],
+    [
+      "dedication to health",
+      "ensures",
+      "task completion"
+    ],
+    [
+      "dedication to health",
+      "facilitates",
+      "orchestration of activities"
+    ],
+    [
+      "dedication to health",
+      "involves",
+      "system maintenance"
+    ],
+    [
+      "dedication to health",
+      "involves",
+      "work assignments"
+    ],
+    [
+      "dedication to health",
+      "is driven by",
+      "crew living conditions"
+    ],
+    [
+      "dedication to health",
+      "is essential for",
+      "meal preparation"
+    ],
+    [
+      "dedication to health",
+      "is essential for",
+      "unique profession"
+    ],
+    [
+      "dedication to health",
+      "is part of",
+      "daily routine"
+    ],
+    [
+      "dedication to health",
+      "mitigates",
+      "microgravity effects"
+    ],
+    [
+      "dedication to health",
+      "requires",
+      "physical exertion"
+    ],
+    [
+      "dedication to health",
+      "supports",
+      "exercise regimen"
+    ],
+    [
+      "dedication to health",
+      "supports",
+      "maintenance duties"
+    ],
+    [
+      "dedication to health",
+      "supports",
+      "mysteries of universe"
+    ],
+    [
+      "dedication to science",
+      "drives",
+      "extraordinary experiences"
+    ],
+    [
+      "dedication to science",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "dedication to science",
+      "drives",
+      "physical exertion"
+    ],
+    [
+      "dedication to science",
+      "enables",
+      "scientific experiments"
+    ],
+    [
+      "dedication to science",
+      "enhances",
+      "communication"
+    ],
+    [
+      "dedication to science",
+      "enhances",
+      "crew coordination"
+    ],
+    [
+      "dedication to science",
+      "enhances",
+      "crew socialization"
+    ],
+    [
+      "dedication to science",
+      "enhances",
+      "physical fitness"
+    ],
+    [
+      "dedication to science",
+      "guides",
+      "morning briefing"
+    ],
+    [
+      "dedication to science",
+      "informs",
+      "work assignments"
+    ],
+    [
+      "dedication to science",
+      "inspired by",
+      "Earth views"
+    ],
+    [
+      "dedication to science",
+      "inspires",
+      "personal reflection"
+    ],
+    [
+      "dedication to science",
+      "is affected by",
+      "space environment"
+    ],
+    [
+      "dedication to science",
+      "is crucial for",
+      "essential tasks"
+    ],
+    [
+      "dedication to science",
+      "is impacted by",
+      "microgravity effects"
+    ],
+    [
+      "dedication to science",
+      "is inspired by",
+      "beauty of Earth"
+    ],
+    [
+      "dedication to science",
+      "is motivated by",
+      "space exploration"
+    ],
+    [
+      "dedication to science",
+      "poses",
+      "challenges"
+    ],
+    [
+      "dedication to science",
+      "requires",
+      "crew dynamics"
+    ],
+    [
+      "dedication to science",
+      "supports",
+      "crew health"
+    ],
+    [
+      "dedication to science",
+      "supports",
+      "exercise regimen"
+    ],
+    [
+      "dedication to science",
+      "supports",
+      "physical condition"
+    ],
+    [
+      "demanding job",
+      "affects",
+      "crew health"
+    ],
+    [
+      "demanding job",
+      "affects",
+      "crew living conditions"
+    ],
+    [
+      "demanding job",
+      "affects",
+      "health and well-being"
+    ],
+    [
+      "demanding job",
+      "affects",
+      "physical condition"
+    ],
+    [
+      "demanding job",
+      "demands",
+      "intelligence"
+    ],
+    [
+      "demanding job",
+      "drives",
+      "mysteries of universe"
+    ],
+    [
+      "demanding job",
+      "highlights",
+      "fitness importance"
+    ],
+    [
+      "demanding job",
+      "includes",
+      "cleaning chores"
+    ],
+    [
+      "demanding job",
+      "includes",
+      "maintenance duties"
+    ],
+    [
+      "demanding job",
+      "involves",
+      "scientific experiments"
+    ],
+    [
+      "demanding job",
+      "involves",
+      "work assignments"
+    ],
+    [
+      "demanding job",
+      "is a result of",
+      "groundbreaking research"
+    ],
+    [
+      "demanding job",
+      "is a result of",
+      "mission objectives"
+    ],
+    [
+      "demanding job",
+      "is a result of",
+      "unique experiences"
+    ],
+    [
+      "demanding job",
+      "is achieved through",
+      "task completion"
+    ],
+    [
+      "demanding job",
+      "is influenced by",
+      "work-life balance"
+    ],
+    [
+      "demanding job",
+      "offers",
+      "extraordinary experiences"
+    ],
+    [
+      "demanding job",
+      "oversees",
+      "mission control"
+    ],
+    [
+      "demanding job",
+      "presents",
+      "challenges"
+    ],
+    [
+      "demanding job",
+      "reflects",
+      "maintenance work"
+    ],
+    [
+      "demanding job",
+      "requires",
+      "astronaut training"
+    ],
+    [
+      "demanding job",
+      "requires",
+      "collaboration"
+    ],
+    [
+      "demanding job",
+      "requires",
+      "orchestration of activities"
+    ],
+    [
+      "demanding job",
+      "requires",
+      "physical exertion"
+    ],
+    [
+      "demanding job",
+      "results from",
+      "sacrifices"
+    ],
+    [
+      "demanding job",
+      "results in",
+      "space living"
+    ],
+    [
+      "down time",
+      "affects",
+      "space station operations"
+    ],
+    [
+      "down time",
+      "enhances",
+      "crew coordination"
+    ],
+    [
+      "down time",
+      "facilitates",
+      "crew socialization"
+    ],
+    [
+      "down time",
+      "includes",
+      "mealtime breaks"
+    ],
+    [
+      "down time",
+      "influences",
+      "Earth perspective"
+    ],
+    [
+      "down time",
+      "interferes with",
+      "maintenance duties"
+    ],
+    [
+      "down time",
+      "interferes with",
+      "maintenance work"
+    ],
+    [
+      "down time",
+      "involves",
+      "mission control"
+    ],
+    [
+      "down time",
+      "is balanced with",
+      "daily tasks"
+    ],
+    [
+      "down time",
+      "is crucial for",
+      "mission success"
+    ],
+    [
+      "down time",
+      "is integrated into",
+      "daily routine"
+    ],
+    [
+      "down time",
+      "is part of",
+      "evening routine"
+    ],
+    [
+      "down time",
+      "occurs during",
+      "skills testing"
+    ],
+    [
+      "down time",
+      "promotes",
+      "crew well-being"
+    ],
+    [
+      "down time",
+      "promotes",
+      "health and well-being"
+    ],
+    [
+      "down time",
+      "provides",
+      "human knowledge"
+    ],
+    [
+      "down time",
+      "provides",
+      "unique experiences"
+    ],
+    [
+      "down time",
+      "requires",
+      "groundbreaking research"
+    ],
+    [
+      "engagement",
+      "aligns with",
+      "mission objectives"
+    ],
+    [
+      "engagement",
+      "drives",
+      "dedication to science"
+    ],
+    [
+      "engagement",
+      "facilitates",
+      "crew socialization"
+    ],
+    [
+      "engagement",
+      "facilitates",
+      "mission control check-in"
+    ],
+    [
+      "engagement",
+      "facilitates",
+      "skills testing"
+    ],
+    [
+      "engagement",
+      "facilitates",
+      "space station operations"
+    ],
+    [
+      "engagement",
+      "fosters",
+      "teamwork"
+    ],
+    [
+      "engagement",
+      "improves",
+      "operational efficiency"
+    ],
+    [
+      "engagement",
+      "includes",
+      "essential tasks"
+    ],
+    [
+      "engagement",
+      "influences",
+      "task prioritization"
+    ],
+    [
+      "engagement",
+      "involves",
+      "crew responsibilities"
+    ],
+    [
+      "engagement",
+      "involves",
+      "physical exertion"
+    ],
+    [
+      "engagement",
+      "is part of",
+      "evening routine"
+    ],
+    [
+      "engagement",
+      "is part of",
+      "work assignments"
+    ],
+    [
+      "engagement",
+      "promotes",
+      "collaboration"
+    ],
+    [
+      "engagement",
+      "promotes",
+      "dedication to health"
+    ],
+    [
+      "engagement",
+      "promotes",
+      "task completion"
+    ],
+    [
+      "engagement",
+      "provides",
+      "rewards"
+    ],
+    [
+      "engagement",
+      "shapes",
+      "crew dynamics"
+    ],
+    [
+      "engagement",
+      "sparks",
+      "mysteries of universe"
+    ],
+    [
+      "engagement",
+      "supports",
+      "exercise regimen"
+    ],
+    [
+      "engagement",
+      "supports",
+      "mental well-being"
+    ],
+    [
+      "essential tasks",
+      "counteracts",
+      "muscle loss"
+    ],
+    [
+      "essential tasks",
+      "depends on",
+      "mission success"
+    ],
+    [
+      "essential tasks",
+      "depends on",
+      "task prioritization"
+    ],
+    [
+      "essential tasks",
+      "includes",
+      "daily tasks"
+    ],
+    [
+      "essential tasks",
+      "includes",
+      "routine checks"
+    ],
+    [
+      "essential tasks",
+      "involves",
+      "task completion"
+    ],
+    [
+      "essential tasks",
+      "is a result of",
+      "rewards"
+    ],
+    [
+      "essential tasks",
+      "is crucial for",
+      "task variety"
+    ],
+    [
+      "essential tasks",
+      "is essential for",
+      "exercise regimen"
+    ],
+    [
+      "essential tasks",
+      "is fueled by",
+      "passion for exploration"
+    ],
+    [
+      "essential tasks",
+      "supports",
+      "Earth perspective"
+    ],
+    [
+      "essential tasks",
+      "supports",
+      "physical fitness"
+    ],
+    [
+      "evening routine",
+      "impacts",
+      "muscle loss"
+    ],
+    [
+      "evening routine",
+      "includes",
+      "routine checks"
+    ],
+    [
+      "evening routine",
+      "influences",
+      "beauty of Earth"
+    ],
+    [
+      "evening routine",
+      "influences",
+      "crew well-being"
+    ],
+    [
+      "evening routine",
+      "influences",
+      "physical condition"
+    ],
+    [
+      "evening routine",
+      "influences",
+      "work-life balance"
+    ],
+    [
+      "evening routine",
+      "is enhanced by",
+      "operational efficiency"
+    ],
+    [
+      "evening routine",
+      "is influenced by",
+      "morning briefing"
+    ],
+    [
+      "evening routine",
+      "is part of",
+      "Earth views"
+    ],
+    [
+      "evening routine",
+      "is part of",
+      "crew socialization"
+    ],
+    [
+      "evening routine",
+      "is part of",
+      "daily routine"
+    ],
+    [
+      "evening routine",
+      "is part of",
+      "rewards"
+    ],
+    [
+      "evening routine",
+      "is supported by",
+      "mental well-being"
+    ],
+    [
+      "evening routine",
+      "part of",
+      "sleeping quarters"
+    ],
+    [
+      "evening routine",
+      "prepares for",
+      "astronaut training"
+    ],
+    [
+      "exercise regimen",
+      "is countered by",
+      "sacrifices"
+    ],
+    [
+      "exercise regimen",
+      "is guided by",
+      "mission control"
+    ],
+    [
+      "exercise regimen",
+      "is necessary for",
+      "work assignments"
+    ],
+    [
+      "exercise regimen",
+      "is part of",
+      "personal time"
+    ],
+    [
+      "exercise regimen",
+      "mitigates",
+      "bone loss"
+    ],
+    [
+      "exercise regimen",
+      "monitors",
+      "mission control check-in"
+    ],
+    [
+      "exercise regimen",
+      "prepares for",
+      "sleep preparation"
+    ],
+    [
+      "exercise regimen",
+      "requires",
+      "maintenance duties"
+    ],
+    [
+      "exercise regimen",
+      "requires",
+      "maintenance work"
+    ],
+    [
+      "exercise regimen",
+      "supports",
+      "health and well-being"
+    ],
+    [
+      "exercise regimen",
+      "supports",
+      "meal preparation"
+    ],
+    [
+      "exercise regimen",
+      "supports",
+      "mental well-being"
+    ],
+    [
+      "exercise regimen",
+      "supports",
+      "morning briefing"
+    ],
+    [
+      "exercise regimen",
+      "supports",
+      "physical fitness"
+    ],
+    [
+      "exercise regimen",
+      "supports",
+      "scientific research"
+    ],
+    [
+      "exercise regimen",
+      "utilized for",
+      "specialized equipment"
+    ],
+    [
+      "experiment conduction",
+      "affects",
+      "physical condition"
+    ],
+    [
+      "experiment conduction",
+      "aligns with",
+      "mission objectives"
+    ],
+    [
+      "experiment conduction",
+      "assesses",
+      "skills testing"
+    ],
+    [
+      "experiment conduction",
+      "creates",
+      "unique experiences"
+    ],
+    [
+      "experiment conduction",
+      "demonstrates",
+      "resilience"
+    ],
+    [
+      "experiment conduction",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "experiment conduction",
+      "enhances",
+      "operational efficiency"
+    ],
+    [
+      "experiment conduction",
+      "facilitates",
+      "specialized equipment"
+    ],
+    [
+      "experiment conduction",
+      "highlights",
+      "fitness importance"
+    ],
+    [
+      "experiment conduction",
+      "improves",
+      "mental well-being"
+    ],
+    [
+      "experiment conduction",
+      "informs",
+      "Earth views"
+    ],
+    [
+      "experiment conduction",
+      "involves",
+      "Earth perspective"
+    ],
+    [
+      "experiment conduction",
+      "involves",
+      "scientific experiments"
+    ],
+    [
+      "experiment conduction",
+      "is driven by",
+      "dedication to health"
+    ],
+    [
+      "experiment conduction",
+      "is part of",
+      "evening routine"
+    ],
+    [
+      "experiment conduction",
+      "is part of",
+      "groundbreaking research"
+    ],
+    [
+      "experiment conduction",
+      "mitigates",
+      "microgravity effects"
+    ],
+    [
+      "experiment conduction",
+      "occurs in",
+      "space environment"
+    ],
+    [
+      "experiment conduction",
+      "provides",
+      "rewards"
+    ],
+    [
+      "experiment conduction",
+      "requires",
+      "dedication to science"
+    ],
+    [
+      "experiment conduction",
+      "requires",
+      "intelligence"
+    ],
+    [
+      "experiment conduction",
+      "supports",
+      "crew well-being"
+    ],
+    [
+      "experiment conduction",
+      "supports",
+      "physical fitness"
+    ],
+    [
+      "exploration drive",
+      "drives",
+      "boundaries pushing"
+    ],
+    [
+      "exploration drive",
+      "drives",
+      "challenges"
+    ],
+    [
+      "exploration drive",
+      "drives",
+      "collaboration"
+    ],
+    [
+      "exploration drive",
+      "drives",
+      "demanding job"
+    ],
+    [
+      "exploration drive",
+      "drives",
+      "essential tasks"
+    ],
+    [
+      "exploration drive",
+      "drives",
+      "maintenance duties"
+    ],
+    [
+      "exploration drive",
+      "drives",
+      "morning briefing"
+    ],
+    [
+      "exploration drive",
+      "drives",
+      "scientific experiments"
+    ],
+    [
+      "exploration drive",
+      "drives",
+      "task completion"
+    ],
+    [
+      "exploration drive",
+      "drives",
+      "task prioritization"
+    ],
+    [
+      "exploration drive",
+      "drives",
+      "work assignments"
+    ],
+    [
+      "exploration drive",
+      "encourages",
+      "crew socialization"
+    ],
+    [
+      "exploration drive",
+      "enhances",
+      "crew well-being"
+    ],
+    [
+      "exploration drive",
+      "enhances",
+      "health and well-being"
+    ],
+    [
+      "exploration drive",
+      "enhances",
+      "mental well-being"
+    ],
+    [
+      "exploration drive",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "exploration drive",
+      "explores",
+      "mysteries of universe"
+    ],
+    [
+      "exploration drive",
+      "fosters",
+      "crew coordination"
+    ],
+    [
+      "exploration drive",
+      "fuels",
+      "human knowledge"
+    ],
+    [
+      "exploration drive",
+      "impacts",
+      "physical condition"
+    ],
+    [
+      "exploration drive",
+      "influences",
+      "crew dynamics"
+    ],
+    [
+      "exploration drive",
+      "involves",
+      "maintenance work"
+    ],
+    [
+      "exploration drive",
+      "is driven by",
+      "dedication"
+    ],
+    [
+      "exploration drive",
+      "is part of",
+      "evening routine"
+    ],
+    [
+      "exploration drive",
+      "motivates",
+      "dedication to science"
+    ],
+    [
+      "exploration drive",
+      "motivates",
+      "sacrifices"
+    ],
+    [
+      "exploration drive",
+      "motivates",
+      "space living"
+    ],
+    [
+      "exploration drive",
+      "promotes",
+      "scientific research"
+    ],
+    [
+      "exploration drive",
+      "requires",
+      "physical fitness"
+    ],
+    [
+      "extraordinary experiences",
+      "demonstrates",
+      "dedication"
+    ],
+    [
+      "extraordinary experiences",
+      "enables",
+      "mission control"
+    ],
+    [
+      "extraordinary experiences",
+      "enables",
+      "skills testing"
+    ],
+    [
+      "extraordinary experiences",
+      "includes",
+      "cleaning chores"
+    ],
+    [
+      "extraordinary experiences",
+      "includes",
+      "scientific research"
+    ],
+    [
+      "extraordinary experiences",
+      "influences",
+      "task prioritization"
+    ],
+    [
+      "extraordinary experiences",
+      "is influenced by",
+      "work-life balance"
+    ],
+    [
+      "extraordinary experiences",
+      "leads to",
+      "daily tasks"
+    ],
+    [
+      "extraordinary experiences",
+      "results in",
+      "maintenance duties"
+    ],
+    [
+      "extraordinary experiences",
+      "results in",
+      "task completion"
+    ],
+    [
+      "extraordinary experiences",
+      "results in",
+      "work assignments"
+    ],
+    [
+      "final check-in",
+      "addresses",
+      "challenges"
+    ],
+    [
+      "final check-in",
+      "coordinates",
+      "orchestration of activities"
+    ],
+    [
+      "final check-in",
+      "determines",
+      "task variety"
+    ],
+    [
+      "final check-in",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "final check-in",
+      "improves",
+      "crew coordination"
+    ],
+    [
+      "final check-in",
+      "improves",
+      "operational efficiency"
+    ],
+    [
+      "final check-in",
+      "influences",
+      "crew morale"
+    ],
+    [
+      "final check-in",
+      "informs",
+      "daily tasks"
+    ],
+    [
+      "final check-in",
+      "informs",
+      "space exploration"
+    ],
+    [
+      "final check-in",
+      "integrated into",
+      "daily routine"
+    ],
+    [
+      "final check-in",
+      "involves",
+      "exercise regimen"
+    ],
+    [
+      "final check-in",
+      "involves",
+      "intelligence"
+    ],
+    [
+      "final check-in",
+      "involves",
+      "morning briefing"
+    ],
+    [
+      "final check-in",
+      "involves",
+      "space station operations"
+    ],
+    [
+      "final check-in",
+      "involves",
+      "system maintenance"
+    ],
+    [
+      "final check-in",
+      "is part of",
+      "evening routine"
+    ],
+    [
+      "final check-in",
+      "is reported during",
+      "Earth views"
+    ],
+    [
+      "final check-in",
+      "mitigates",
+      "bone loss"
+    ],
+    [
+      "final check-in",
+      "provides",
+      "extraordinary experiences"
+    ],
+    [
+      "final check-in",
+      "provides",
+      "space environment"
+    ],
+    [
+      "final check-in",
+      "provides guidance for",
+      "mission objectives"
+    ],
+    [
+      "final check-in",
+      "reports on",
+      "daily tasks"
+    ],
+    [
+      "final check-in",
+      "requires",
+      "collaboration"
+    ],
+    [
+      "final check-in",
+      "supports",
+      "crew health"
+    ],
+    [
+      "final check-in",
+      "supports",
+      "crew well-being"
+    ],
+    [
+      "final check-in",
+      "supports",
+      "mental well-being"
+    ],
+    [
+      "final check-in",
+      "verifies",
+      "task completion"
+    ],
+    [
+      "fitness importance",
+      "enhances",
+      "crew socialization"
+    ],
+    [
+      "fitness importance",
+      "guides",
+      "mission instructions"
+    ],
+    [
+      "fitness importance",
+      "influences",
+      "task prioritization"
+    ],
+    [
+      "fitness importance",
+      "integral to",
+      "daily routine"
+    ],
+    [
+      "fitness importance",
+      "is crucial for",
+      "maintenance duties"
+    ],
+    [
+      "fitness importance",
+      "mitigates",
+      "microgravity effects"
+    ],
+    [
+      "fitness importance",
+      "necessitates",
+      "essential tasks"
+    ],
+    [
+      "fitness importance",
+      "requires",
+      "physical exertion"
+    ],
+    [
+      "fitness importance",
+      "supports",
+      "crew health"
+    ],
+    [
+      "fitness importance",
+      "supports",
+      "physical condition"
+    ],
+    [
+      "groundbreaking research",
+      "complements",
+      "cleaning chores"
+    ],
+    [
+      "groundbreaking research",
+      "demonstrates",
+      "dedication to science"
+    ],
+    [
+      "groundbreaking research",
+      "drives",
+      "mission control"
+    ],
+    [
+      "groundbreaking research",
+      "enables",
+      "personal time"
+    ],
+    [
+      "groundbreaking research",
+      "enables",
+      "space station operations"
+    ],
+    [
+      "groundbreaking research",
+      "enhances",
+      "crew well-being"
+    ],
+    [
+      "groundbreaking research",
+      "explores",
+      "mysteries of universe"
+    ],
+    [
+      "groundbreaking research",
+      "facilitates",
+      "crew socialization"
+    ],
+    [
+      "groundbreaking research",
+      "facilitates",
+      "space living"
+    ],
+    [
+      "groundbreaking research",
+      "highlights",
+      "fitness importance"
+    ],
+    [
+      "groundbreaking research",
+      "influences",
+      "crew dynamics"
+    ],
+    [
+      "groundbreaking research",
+      "informs",
+      "Earth perspective"
+    ],
+    [
+      "groundbreaking research",
+      "informs",
+      "scientific research"
+    ],
+    [
+      "groundbreaking research",
+      "involves",
+      "work-life balance"
+    ],
+    [
+      "groundbreaking research",
+      "is affected by",
+      "space environment"
+    ],
+    [
+      "groundbreaking research",
+      "is assessed by",
+      "skills testing"
+    ],
+    [
+      "groundbreaking research",
+      "is characterized by",
+      "task variety"
+    ],
+    [
+      "groundbreaking research",
+      "is foundational for",
+      "astronaut training"
+    ],
+    [
+      "groundbreaking research",
+      "promotes",
+      "crew interactions"
+    ],
+    [
+      "groundbreaking research",
+      "reflects",
+      "dedication"
+    ],
+    [
+      "groundbreaking research",
+      "requires",
+      "crew coordination"
+    ],
+    [
+      "groundbreaking research",
+      "requires",
+      "maintenance duties"
+    ],
+    [
+      "groundbreaking research",
+      "requires",
+      "resilience"
+    ],
+    [
+      "groundbreaking research",
+      "requires",
+      "teamwork"
+    ],
+    [
+      "groundbreaking research",
+      "supports",
+      "dedication to health"
+    ],
+    [
+      "groundbreaking research",
+      "supports",
+      "relaxation"
+    ],
+    [
+      "health and well-being",
+      "affects health and well-being of",
+      "sacrifices"
+    ],
+    [
+      "health and well-being",
+      "comprises",
+      "daily routine"
+    ],
+    [
+      "health and well-being",
+      "contributes to",
+      "extraordinary experiences"
+    ],
+    [
+      "health and well-being",
+      "contributes to",
+      "physical fitness"
+    ],
+    [
+      "health and well-being",
+      "enhances",
+      "final check-in"
+    ],
+    [
+      "health and well-being",
+      "enhances",
+      "physical condition"
+    ],
+    [
+      "health and well-being",
+      "enhances",
+      "resilience"
+    ],
+    [
+      "health and well-being",
+      "ensures",
+      "sleeping quarters"
+    ],
+    [
+      "health and well-being",
+      "is enhanced by",
+      "beauty of Earth"
+    ],
+    [
+      "health and well-being",
+      "supports",
+      "daily tasks"
+    ],
+    [
+      "health and well-being",
+      "supports",
+      "evening routine"
+    ],
+    [
+      "health and well-being",
+      "supports",
+      "human knowledge"
+    ],
+    [
+      "health and well-being",
+      "supports",
+      "mission control"
+    ],
+    [
+      "health and well-being",
+      "supports",
+      "morning briefing"
+    ],
+    [
+      "health and well-being",
+      "supports",
+      "scientific research"
+    ],
+    [
+      "health maintenance",
+      "contributes to",
+      "evening routine"
+    ],
+    [
+      "health maintenance",
+      "emphasizes",
+      "fitness importance"
+    ],
+    [
+      "health maintenance",
+      "enhances",
+      "crew coordination"
+    ],
+    [
+      "health maintenance",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "health maintenance",
+      "enhances",
+      "operational efficiency"
+    ],
+    [
+      "health maintenance",
+      "ensures",
+      "collaboration"
+    ],
+    [
+      "health maintenance",
+      "ensures",
+      "crew well-being"
+    ],
+    [
+      "health maintenance",
+      "ensures",
+      "maintenance duties"
+    ],
+    [
+      "health maintenance",
+      "ensures",
+      "space station operations"
+    ],
+    [
+      "health maintenance",
+      "ensures",
+      "task completion"
+    ],
+    [
+      "health maintenance",
+      "includes",
+      "mealtime breaks"
+    ],
+    [
+      "health maintenance",
+      "involves",
+      "daily tasks"
+    ],
+    [
+      "health maintenance",
+      "is prioritized by",
+      "task prioritization"
+    ],
+    [
+      "health maintenance",
+      "promotes",
+      "teamwork"
+    ],
+    [
+      "health maintenance",
+      "provides",
+      "rewards"
+    ],
+    [
+      "health maintenance",
+      "requires",
+      "task variety"
+    ],
+    [
+      "health maintenance",
+      "supports",
+      "crew socialization"
+    ],
+    [
+      "health maintenance",
+      "supports",
+      "final check-in"
+    ],
+    [
+      "health maintenance",
+      "supports",
+      "health and well-being"
+    ],
+    [
+      "health maintenance",
+      "supports",
+      "mental well-being"
+    ],
+    [
+      "health maintenance",
+      "supports",
+      "mission success"
+    ],
+    [
+      "human knowledge",
+      "advances",
+      "groundbreaking research"
+    ],
+    [
+      "human knowledge",
+      "advances",
+      "personal time"
+    ],
+    [
+      "human knowledge",
+      "advances",
+      "scientific research"
+    ],
+    [
+      "human knowledge",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "human knowledge",
+      "enhances",
+      "astronaut life"
+    ],
+    [
+      "human knowledge",
+      "enhances",
+      "astronaut training"
+    ],
+    [
+      "human knowledge",
+      "enhances",
+      "final check-in"
+    ],
+    [
+      "human knowledge",
+      "enhances",
+      "relaxation"
+    ],
+    [
+      "human knowledge",
+      "expands",
+      "Earth views"
+    ],
+    [
+      "human knowledge",
+      "guides",
+      "mission instructions"
+    ],
+    [
+      "human knowledge",
+      "guides",
+      "mission objectives"
+    ],
+    [
+      "human knowledge",
+      "informs",
+      "mental well-being"
+    ],
+    [
+      "human knowledge",
+      "involves",
+      "cleaning chores"
+    ],
+    [
+      "human knowledge",
+      "involves",
+      "essential tasks"
+    ],
+    [
+      "human knowledge",
+      "is enhanced by",
+      "morning briefing"
+    ],
+    [
+      "human knowledge",
+      "requires",
+      "dedication"
+    ],
+    [
+      "human knowledge",
+      "requires",
+      "dedication to health"
+    ],
+    [
+      "intelligence",
+      "enables",
+      "collaboration"
+    ],
+    [
+      "intelligence",
+      "enables",
+      "essential tasks"
+    ],
+    [
+      "intelligence",
+      "enhances",
+      "crew socialization"
+    ],
+    [
+      "intelligence",
+      "facilitates",
+      "morning briefing"
+    ],
+    [
+      "intelligence",
+      "facilitates",
+      "task completion"
+    ],
+    [
+      "intelligence",
+      "facilitates",
+      "task prioritization"
+    ],
+    [
+      "intelligence",
+      "fuels",
+      "passion for exploration"
+    ],
+    [
+      "intelligence",
+      "influenced by",
+      "mental well-being"
+    ],
+    [
+      "intelligence",
+      "informs",
+      "daily tasks"
+    ],
+    [
+      "intelligence",
+      "is essential for",
+      "astronaut training"
+    ],
+    [
+      "intelligence",
+      "is essential for",
+      "dedication"
+    ],
+    [
+      "intelligence",
+      "requires",
+      "routine checks"
+    ],
+    [
+      "intelligence",
+      "requires",
+      "work assignments"
+    ],
+    [
+      "intelligence",
+      "shapes",
+      "evening routine"
+    ],
+    [
+      "intelligence",
+      "supports",
+      "mission control"
+    ],
+    [
+      "intelligence",
+      "supports",
+      "scientific research"
+    ],
+    [
+      "maintenance duties",
+      "complements",
+      "meal preparation"
+    ],
+    [
+      "maintenance duties",
+      "comprises",
+      "daily routine"
+    ],
+    [
+      "maintenance duties",
+      "comprises",
+      "daily tasks"
+    ],
+    [
+      "maintenance duties",
+      "enhances",
+      "beauty of Earth"
+    ],
+    [
+      "maintenance duties",
+      "enhances",
+      "physical fitness"
+    ],
+    [
+      "maintenance duties",
+      "guides",
+      "mission instructions"
+    ],
+    [
+      "maintenance duties",
+      "informs",
+      "final check-in"
+    ],
+    [
+      "maintenance duties",
+      "involves",
+      "resilience"
+    ],
+    [
+      "maintenance duties",
+      "involves",
+      "routine checks"
+    ],
+    [
+      "maintenance duties",
+      "involves",
+      "unique experiences"
+    ],
+    [
+      "maintenance duties",
+      "is coordinated by",
+      "mission control"
+    ],
+    [
+      "maintenance duties",
+      "is crucial for",
+      "essential tasks"
+    ],
+    [
+      "maintenance duties",
+      "is required for",
+      "intelligence"
+    ],
+    [
+      "maintenance duties",
+      "mitigates",
+      "bone loss"
+    ],
+    [
+      "maintenance duties",
+      "presents",
+      "challenges"
+    ],
+    [
+      "maintenance duties",
+      "promotes",
+      "health and well-being"
+    ],
+    [
+      "maintenance duties",
+      "requires",
+      "collaboration"
+    ],
+    [
+      "maintenance duties",
+      "requires",
+      "task prioritization"
+    ],
+    [
+      "maintenance duties",
+      "supports",
+      "crew health"
+    ],
+    [
+      "maintenance duties",
+      "supports",
+      "mental well-being"
+    ],
+    [
+      "maintenance duties",
+      "supports",
+      "physical condition"
+    ],
+    [
+      "maintenance work",
+      "affects",
+      "crew interactions"
+    ],
+    [
+      "maintenance work",
+      "affects",
+      "crew morale"
+    ],
+    [
+      "maintenance work",
+      "contributes to",
+      "mission success"
+    ],
+    [
+      "maintenance work",
+      "contributes to",
+      "muscle loss"
+    ],
+    [
+      "maintenance work",
+      "demands",
+      "resilience"
+    ],
+    [
+      "maintenance work",
+      "depends on",
+      "final check-in"
+    ],
+    [
+      "maintenance work",
+      "enhances",
+      "communication"
+    ],
+    [
+      "maintenance work",
+      "enhances",
+      "physical fitness"
+    ],
+    [
+      "maintenance work",
+      "facilitates",
+      "scientific experiments"
+    ],
+    [
+      "maintenance work",
+      "guides",
+      "task prioritization"
+    ],
+    [
+      "maintenance work",
+      "highlights",
+      "fitness importance"
+    ],
+    [
+      "maintenance work",
+      "includes",
+      "maintenance duties"
+    ],
+    [
+      "maintenance work",
+      "includes",
+      "work assignments"
+    ],
+    [
+      "maintenance work",
+      "influences",
+      "personal reflection"
+    ],
+    [
+      "maintenance work",
+      "intersects with",
+      "crew socialization"
+    ],
+    [
+      "maintenance work",
+      "involves",
+      "relaxation"
+    ],
+    [
+      "maintenance work",
+      "is associated with",
+      "crew responsibilities"
+    ],
+    [
+      "maintenance work",
+      "is essential for",
+      "dedication to health"
+    ],
+    [
+      "maintenance work",
+      "is part of",
+      "daily routine"
+    ],
+    [
+      "maintenance work",
+      "presents",
+      "challenges"
+    ],
+    [
+      "maintenance work",
+      "promotes",
+      "health and well-being"
+    ],
+    [
+      "maintenance work",
+      "requires",
+      "Earth views"
+    ],
+    [
+      "maintenance work",
+      "requires",
+      "collaboration"
+    ],
+    [
+      "maintenance work",
+      "requires",
+      "intelligence"
+    ],
+    [
+      "maintenance work",
+      "requires",
+      "mission objectives"
+    ],
+    [
+      "maintenance work",
+      "requires",
+      "routine checks"
+    ],
+    [
+      "maintenance work",
+      "requires",
+      "teamwork"
+    ],
+    [
+      "maintenance work",
+      "supports",
+      "space station operations"
+    ],
+    [
+      "meal preparation",
+      "constitutes",
+      "essential tasks"
+    ],
+    [
+      "meal preparation",
+      "informs",
+      "final check-in"
+    ],
+    [
+      "meal preparation",
+      "involves",
+      "daily tasks"
+    ],
+    [
+      "meal preparation",
+      "is countered by",
+      "bone loss"
+    ],
+    [
+      "meal preparation",
+      "is part of",
+      "down time"
+    ],
+    [
+      "meal preparation",
+      "is part of",
+      "orchestration of activities"
+    ],
+    [
+      "meal preparation",
+      "is part of",
+      "routine checks"
+    ],
+    [
+      "meal preparation",
+      "mitigated by",
+      "muscle loss"
+    ],
+    [
+      "meal preparation",
+      "occurs during",
+      "mealtime breaks"
+    ],
+    [
+      "meal preparation",
+      "requires",
+      "work assignments"
+    ],
+    [
+      "meal preparation",
+      "supports",
+      "work-life balance"
+    ],
+    [
+      "mealtime breaks",
+      "enhances",
+      "communication"
+    ],
+    [
+      "mealtime breaks",
+      "enhances",
+      "mental well-being"
+    ],
+    [
+      "mealtime breaks",
+      "includes",
+      "daily routine"
+    ],
+    [
+      "mealtime breaks",
+      "influences",
+      "mission objectives"
+    ],
+    [
+      "mealtime breaks",
+      "interrupts",
+      "exercise regimen"
+    ],
+    [
+      "mealtime breaks",
+      "interrupts",
+      "maintenance work"
+    ],
+    [
+      "mealtime breaks",
+      "interrupts",
+      "system maintenance"
+    ],
+    [
+      "mealtime breaks",
+      "interrupts",
+      "task prioritization"
+    ],
+    [
+      "mealtime breaks",
+      "is complemented by",
+      "maintenance duties"
+    ],
+    [
+      "mealtime breaks",
+      "mitigated by",
+      "muscle loss"
+    ],
+    [
+      "mealtime breaks",
+      "occurs during",
+      "engagement"
+    ],
+    [
+      "mealtime breaks",
+      "occurs during",
+      "relaxation"
+    ],
+    [
+      "mealtime breaks",
+      "occurs during",
+      "task completion"
+    ],
+    [
+      "mealtime breaks",
+      "precedes",
+      "sleep preparation"
+    ],
+    [
+      "mealtime breaks",
+      "provides",
+      "fitness importance"
+    ],
+    [
+      "mealtime breaks",
+      "provides",
+      "rewards"
+    ],
+    [
+      "mealtime breaks",
+      "provides",
+      "sleeping quarters"
+    ],
+    [
+      "mealtime breaks",
+      "supports",
+      "crew health"
+    ],
+    [
+      "mental well-being",
+      "affects",
+      "Earth perspective"
+    ],
+    [
+      "mental well-being",
+      "affects",
+      "challenges"
+    ],
+    [
+      "mental well-being",
+      "affects",
+      "crew health"
+    ],
+    [
+      "mental well-being",
+      "affects",
+      "maintenance work"
+    ],
+    [
+      "mental well-being",
+      "affects",
+      "physical condition"
+    ],
+    [
+      "mental well-being",
+      "affects",
+      "space environment"
+    ],
+    [
+      "mental well-being",
+      "affects",
+      "work assignments"
+    ],
+    [
+      "mental well-being",
+      "boosts",
+      "crew socialization"
+    ],
+    [
+      "mental well-being",
+      "contributes to",
+      "health and well-being"
+    ],
+    [
+      "mental well-being",
+      "enhances",
+      "Earth views"
+    ],
+    [
+      "mental well-being",
+      "enhances",
+      "astronaut training"
+    ],
+    [
+      "mental well-being",
+      "enhances",
+      "dedication"
+    ],
+    [
+      "mental well-being",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "mental well-being",
+      "enhances",
+      "extraordinary experiences"
+    ],
+    [
+      "mental well-being",
+      "enhances",
+      "groundbreaking research"
+    ],
+    [
+      "mental well-being",
+      "enhances",
+      "intelligence"
+    ],
+    [
+      "mental well-being",
+      "enhances",
+      "morning briefing"
+    ],
+    [
+      "mental well-being",
+      "enhances",
+      "personal reflection"
+    ],
+    [
+      "mental well-being",
+      "enhances",
+      "physical fitness"
+    ],
+    [
+      "mental well-being",
+      "enhances",
+      "sleep preparation"
+    ],
+    [
+      "mental well-being",
+      "impacts",
+      "crew responsibilities"
+    ],
+    [
+      "mental well-being",
+      "improves",
+      "mealtime breaks"
+    ],
+    [
+      "mental well-being",
+      "influences",
+      "daily tasks"
+    ],
+    [
+      "mental well-being",
+      "influences",
+      "meal preparation"
+    ],
+    [
+      "mental well-being",
+      "influences",
+      "scientific experiments"
+    ],
+    [
+      "mental well-being",
+      "informs",
+      "scientific research"
+    ],
+    [
+      "mental well-being",
+      "involves",
+      "meal preparation"
+    ],
+    [
+      "mental well-being",
+      "is essential for",
+      "essential tasks"
+    ],
+    [
+      "mental well-being",
+      "is influenced by",
+      "mission control check-in"
+    ],
+    [
+      "mental well-being",
+      "is influenced by",
+      "passion for exploration"
+    ],
+    [
+      "mental well-being",
+      "is influenced by",
+      "routine checks"
+    ],
+    [
+      "mental well-being",
+      "is supported by",
+      "daily tasks"
+    ],
+    [
+      "mental well-being",
+      "offers",
+      "rewards"
+    ],
+    [
+      "mental well-being",
+      "requires",
+      "maintenance duties"
+    ],
+    [
+      "mental well-being",
+      "shapes",
+      "daily routine"
+    ],
+    [
+      "mental well-being",
+      "supports",
+      "crew interactions"
+    ],
+    [
+      "mental well-being",
+      "supports",
+      "dedication to health"
+    ],
+    [
+      "mental well-being",
+      "supports",
+      "dedication to science"
+    ],
+    [
+      "mental well-being",
+      "supports",
+      "exercise regimen"
+    ],
+    [
+      "mental well-being",
+      "supports",
+      "final check-in"
+    ],
+    [
+      "mental well-being",
+      "supports",
+      "mission control"
+    ],
+    [
+      "mental well-being",
+      "supports",
+      "personal time"
+    ],
+    [
+      "mental well-being",
+      "supports",
+      "physical fitness"
+    ],
+    [
+      "mental well-being",
+      "supports",
+      "routine checks"
+    ],
+    [
+      "mental well-being",
+      "supports",
+      "scientific experiments"
+    ],
+    [
+      "mental well-being",
+      "supports",
+      "task variety"
+    ],
+    [
+      "mental well-being",
+      "supports",
+      "unique profession"
+    ],
+    [
+      "mental well-being",
+      "supports",
+      "work assignments"
+    ],
+    [
+      "microgravity effects",
+      "causes",
+      "physical exertion"
+    ],
+    [
+      "microgravity effects",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "microgravity effects",
+      "encourages",
+      "personal reflection"
+    ],
+    [
+      "microgravity effects",
+      "exacerbates",
+      "beauty of Earth"
+    ],
+    [
+      "microgravity effects",
+      "impacts",
+      "astronaut life"
+    ],
+    [
+      "microgravity effects",
+      "impacts",
+      "operational efficiency"
+    ],
+    [
+      "microgravity effects",
+      "impacts",
+      "physical fitness"
+    ],
+    [
+      "microgravity effects",
+      "mitigates",
+      "final check-in"
+    ],
+    [
+      "microgravity effects",
+      "mitigates",
+      "sleep preparation"
+    ],
+    [
+      "microgravity effects",
+      "necessitates",
+      "exercise regimen"
+    ],
+    [
+      "microgravity effects",
+      "results in",
+      "space environment"
+    ],
+    [
+      "mission control",
+      "affects",
+      "crew dynamics"
+    ],
+    [
+      "mission control",
+      "affects",
+      "personal time"
+    ],
+    [
+      "mission control",
+      "communicates with",
+      "work-life balance"
+    ],
+    [
+      "mission control",
+      "coordinates",
+      "space station operations"
+    ],
+    [
+      "mission control",
+      "coordinates with",
+      "morning briefing"
+    ],
+    [
+      "mission control",
+      "defines",
+      "unique profession"
+    ],
+    [
+      "mission control",
+      "demonstrates",
+      "dedication to science"
+    ],
+    [
+      "mission control",
+      "enables",
+      "collaboration"
+    ],
+    [
+      "mission control",
+      "ensures",
+      "crew coordination"
+    ],
+    [
+      "mission control",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "mission control",
+      "facilitates",
+      "engagement"
+    ],
+    [
+      "mission control",
+      "facilitates",
+      "meal preparation"
+    ],
+    [
+      "mission control",
+      "facilitates",
+      "teamwork"
+    ],
+    [
+      "mission control",
+      "involves",
+      "routine checks"
+    ],
+    [
+      "mission control",
+      "oversees",
+      "essential tasks"
+    ],
+    [
+      "mission control",
+      "oversees",
+      "maintenance work"
+    ],
+    [
+      "mission control check-in",
+      "confirms",
+      "task completion"
+    ],
+    [
+      "mission control check-in",
+      "contributes to",
+      "mission success"
+    ],
+    [
+      "mission control check-in",
+      "enables",
+      "communication"
+    ],
+    [
+      "mission control check-in",
+      "encourages",
+      "crew socialization"
+    ],
+    [
+      "mission control check-in",
+      "facilitates",
+      "collaboration"
+    ],
+    [
+      "mission control check-in",
+      "facilitates",
+      "down time"
+    ],
+    [
+      "mission control check-in",
+      "is guided by",
+      "maintenance duties"
+    ],
+    [
+      "mission control check-in",
+      "is informed by",
+      "crew coordination"
+    ],
+    [
+      "mission control check-in",
+      "is informed by",
+      "mission objectives"
+    ],
+    [
+      "mission control check-in",
+      "is necessary for",
+      "system maintenance"
+    ],
+    [
+      "mission control check-in",
+      "is part of",
+      "final check-in"
+    ],
+    [
+      "mission control check-in",
+      "monitors",
+      "maintenance work"
+    ],
+    [
+      "mission control check-in",
+      "monitors",
+      "muscle loss"
+    ],
+    [
+      "mission control check-in",
+      "promotes",
+      "health and well-being"
+    ],
+    [
+      "mission control check-in",
+      "provides",
+      "daily tasks"
+    ],
+    [
+      "mission control check-in",
+      "provides",
+      "mission instructions"
+    ],
+    [
+      "mission control check-in",
+      "receives updates from",
+      "personal time"
+    ],
+    [
+      "mission control check-in",
+      "requires",
+      "sleeping quarters"
+    ],
+    [
+      "mission control check-in",
+      "triggers",
+      "task variety"
+    ],
+    [
+      "mission instructions",
+      "defines",
+      "essential tasks"
+    ],
+    [
+      "mission instructions",
+      "dictates",
+      "muscle loss"
+    ],
+    [
+      "mission instructions",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "mission instructions",
+      "guides",
+      "Earth views"
+    ],
+    [
+      "mission instructions",
+      "guides",
+      "boundaries pushing"
+    ],
+    [
+      "mission instructions",
+      "guides",
+      "daily routine"
+    ],
+    [
+      "mission instructions",
+      "guides",
+      "dedication to health"
+    ],
+    [
+      "mission instructions",
+      "guides",
+      "demanding job"
+    ],
+    [
+      "mission instructions",
+      "guides",
+      "down time"
+    ],
+    [
+      "mission instructions",
+      "guides",
+      "evening routine"
+    ],
+    [
+      "mission instructions",
+      "guides",
+      "health maintenance"
+    ],
+    [
+      "mission instructions",
+      "guides",
+      "intelligence"
+    ],
+    [
+      "mission instructions",
+      "guides",
+      "maintenance work"
+    ],
+    [
+      "mission instructions",
+      "guides",
+      "mental well-being"
+    ],
+    [
+      "mission instructions",
+      "guides",
+      "mysteries of universe"
+    ],
+    [
+      "mission instructions",
+      "guides",
+      "physical condition"
+    ],
+    [
+      "mission instructions",
+      "guides",
+      "scientific experiments"
+    ],
+    [
+      "mission instructions",
+      "guides",
+      "scientific research"
+    ],
+    [
+      "mission instructions",
+      "guides",
+      "sleeping quarters"
+    ],
+    [
+      "mission instructions",
+      "guides",
+      "unique experiences"
+    ],
+    [
+      "mission instructions",
+      "informs",
+      "cleaning chores"
+    ],
+    [
+      "mission instructions",
+      "informs",
+      "crew morale"
+    ],
+    [
+      "mission instructions",
+      "informs",
+      "dedication to science"
+    ],
+    [
+      "mission instructions",
+      "informs",
+      "system maintenance"
+    ],
+    [
+      "mission instructions",
+      "informs",
+      "work-life balance"
+    ],
+    [
+      "mission instructions",
+      "supports",
+      "crew health"
+    ],
+    [
+      "mission objectives",
+      "aligns with",
+      "dedication to science"
+    ],
+    [
+      "mission objectives",
+      "determines",
+      "space challenges"
+    ],
+    [
+      "mission objectives",
+      "drives",
+      "groundbreaking research"
+    ],
+    [
+      "mission objectives",
+      "ensures",
+      "mission success"
+    ],
+    [
+      "mission objectives",
+      "guides",
+      "collaboration"
+    ],
+    [
+      "mission objectives",
+      "guides",
+      "crew responsibilities"
+    ],
+    [
+      "mission objectives",
+      "guides",
+      "daily tasks"
+    ],
+    [
+      "mission objectives",
+      "guides",
+      "dedication"
+    ],
+    [
+      "mission objectives",
+      "guides",
+      "health maintenance"
+    ],
+    [
+      "mission objectives",
+      "guides",
+      "intelligence"
+    ],
+    [
+      "mission objectives",
+      "guides",
+      "maintenance work"
+    ],
+    [
+      "mission objectives",
+      "guides",
+      "meal preparation"
+    ],
+    [
+      "mission objectives",
+      "guides",
+      "mission instructions"
+    ],
+    [
+      "mission objectives",
+      "guides",
+      "morning briefing"
+    ],
+    [
+      "mission objectives",
+      "guides",
+      "sleeping quarters"
+    ],
+    [
+      "mission objectives",
+      "guides",
+      "system maintenance"
+    ],
+    [
+      "mission objectives",
+      "highlights",
+      "fitness importance"
+    ],
+    [
+      "mission objectives",
+      "influences",
+      "crew living conditions"
+    ],
+    [
+      "mission objectives",
+      "influences",
+      "mental well-being"
+    ],
+    [
+      "mission objectives",
+      "influences",
+      "microgravity effects"
+    ],
+    [
+      "mission objectives",
+      "influences",
+      "personal reflection"
+    ],
+    [
+      "mission objectives",
+      "informs",
+      "scientific research"
+    ],
+    [
+      "mission objectives",
+      "informs",
+      "task prioritization"
+    ],
+    [
+      "mission objectives",
+      "is essential for",
+      "astronaut training"
+    ],
+    [
+      "mission objectives",
+      "necessitates",
+      "exercise regimen"
+    ],
+    [
+      "mission objectives",
+      "presents",
+      "challenges"
+    ],
+    [
+      "mission objectives",
+      "requires",
+      "maintenance duties"
+    ],
+    [
+      "mission objectives",
+      "requires",
+      "physical exertion"
+    ],
+    [
+      "mission objectives",
+      "sets mission objectives for",
+      "mission control"
+    ],
+    [
+      "mission objectives",
+      "shapes",
+      "Earth perspective"
+    ],
+    [
+      "mission objectives",
+      "shapes",
+      "space environment"
+    ],
+    [
+      "mission objectives",
+      "supports",
+      "crew well-being"
+    ],
+    [
+      "mission success",
+      "complicates",
+      "space challenges"
+    ],
+    [
+      "mission success",
+      "contributes to",
+      "Earth perspective"
+    ],
+    [
+      "mission success",
+      "contributes to",
+      "challenges"
+    ],
+    [
+      "mission success",
+      "contributes to",
+      "dedication to science"
+    ],
+    [
+      "mission success",
+      "contributes to",
+      "evening routine"
+    ],
+    [
+      "mission success",
+      "contributes to",
+      "mission instructions"
+    ],
+    [
+      "mission success",
+      "contributes to",
+      "personal reflection"
+    ],
+    [
+      "mission success",
+      "depends on",
+      "daily routine"
+    ],
+    [
+      "mission success",
+      "ensures",
+      "space station operations"
+    ],
+    [
+      "mission success",
+      "leads to",
+      "task completion"
+    ],
+    [
+      "morning briefing",
+      "benefits from",
+      "resilience"
+    ],
+    [
+      "morning briefing",
+      "enhances",
+      "crew interactions"
+    ],
+    [
+      "morning briefing",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "morning briefing",
+      "fosters",
+      "collaboration"
+    ],
+    [
+      "morning briefing",
+      "guides",
+      "work assignments"
+    ],
+    [
+      "morning briefing",
+      "includes",
+      "cleaning chores"
+    ],
+    [
+      "morning briefing",
+      "informed by",
+      "health maintenance"
+    ],
+    [
+      "morning briefing",
+      "informs",
+      "maintenance duties"
+    ],
+    [
+      "morning briefing",
+      "informs",
+      "maintenance work"
+    ],
+    [
+      "morning briefing",
+      "informs",
+      "scientific experiments"
+    ],
+    [
+      "morning briefing",
+      "informs",
+      "task prioritization"
+    ],
+    [
+      "morning briefing",
+      "informs",
+      "unique experiences"
+    ],
+    [
+      "morning briefing",
+      "is discussed in",
+      "boundaries pushing"
+    ],
+    [
+      "morning briefing",
+      "is discussed in",
+      "mental well-being"
+    ],
+    [
+      "morning briefing",
+      "is discussed in",
+      "specialized equipment"
+    ],
+    [
+      "morning briefing",
+      "is facilitated by",
+      "down time"
+    ],
+    [
+      "morning briefing",
+      "is followed by",
+      "mission control check-in"
+    ],
+    [
+      "morning briefing",
+      "is part of",
+      "daily routine"
+    ],
+    [
+      "morning briefing",
+      "precedes",
+      "meal preparation"
+    ],
+    [
+      "morning briefing",
+      "precedes",
+      "mealtime breaks"
+    ],
+    [
+      "morning briefing",
+      "precedes",
+      "relaxation"
+    ],
+    [
+      "morning briefing",
+      "provides",
+      "mission instructions"
+    ],
+    [
+      "morning briefing",
+      "provides",
+      "rewards"
+    ],
+    [
+      "morning briefing",
+      "supports",
+      "system maintenance"
+    ],
+    [
+      "muscle loss",
+      "affects",
+      "crew health"
+    ],
+    [
+      "muscle loss",
+      "affects",
+      "operational efficiency"
+    ],
+    [
+      "muscle loss",
+      "impacts",
+      "task prioritization"
+    ],
+    [
+      "muscle loss",
+      "is addressed by",
+      "morning briefing"
+    ],
+    [
+      "muscle loss",
+      "is influenced by",
+      "task management"
+    ],
+    [
+      "muscle loss",
+      "results in",
+      "crew living conditions"
+    ],
+    [
+      "muscle loss",
+      "results in",
+      "crew responsibilities"
+    ],
+    [
+      "muscle loss",
+      "results in",
+      "down time"
+    ],
+    [
+      "mysteries of universe",
+      "drives",
+      "dedication to science"
+    ],
+    [
+      "mysteries of universe",
+      "drives",
+      "mental well-being"
+    ],
+    [
+      "mysteries of universe",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "mysteries of universe",
+      "drives",
+      "scientific research"
+    ],
+    [
+      "mysteries of universe",
+      "informs",
+      "final check-in"
+    ],
+    [
+      "mysteries of universe",
+      "inspires",
+      "Earth views"
+    ],
+    [
+      "mysteries of universe",
+      "involves",
+      "crew responsibilities"
+    ],
+    [
+      "mysteries of universe",
+      "involves",
+      "essential tasks"
+    ],
+    [
+      "mysteries of universe",
+      "involves",
+      "physical exertion"
+    ],
+    [
+      "mysteries of universe",
+      "is explored by",
+      "unique profession"
+    ],
+    [
+      "mysteries of universe",
+      "is influenced by",
+      "crew living conditions"
+    ],
+    [
+      "operational efficiency",
+      "affects",
+      "sacrifices"
+    ],
+    [
+      "operational efficiency",
+      "depends on",
+      "mission instructions"
+    ],
+    [
+      "operational efficiency",
+      "enhances",
+      "crew coordination"
+    ],
+    [
+      "operational efficiency",
+      "enhances",
+      "down time"
+    ],
+    [
+      "operational efficiency",
+      "enhances",
+      "fitness importance"
+    ],
+    [
+      "operational efficiency",
+      "enhances",
+      "meal preparation"
+    ],
+    [
+      "operational efficiency",
+      "enhances",
+      "mealtime breaks"
+    ],
+    [
+      "operational efficiency",
+      "enhances",
+      "mental well-being"
+    ],
+    [
+      "operational efficiency",
+      "enhances",
+      "orchestration of activities"
+    ],
+    [
+      "operational efficiency",
+      "enhances",
+      "physical fitness"
+    ],
+    [
+      "operational efficiency",
+      "enhances",
+      "scientific research"
+    ],
+    [
+      "operational efficiency",
+      "enhances",
+      "work-life balance"
+    ],
+    [
+      "operational efficiency",
+      "improves",
+      "crew socialization"
+    ],
+    [
+      "operational efficiency",
+      "improves",
+      "physical condition"
+    ],
+    [
+      "operational efficiency",
+      "improves",
+      "scientific experiments"
+    ],
+    [
+      "operational efficiency",
+      "influences",
+      "daily routine"
+    ],
+    [
+      "operational efficiency",
+      "is a concern for",
+      "muscle loss"
+    ],
+    [
+      "operational efficiency",
+      "is influenced by",
+      "crew living conditions"
+    ],
+    [
+      "operational efficiency",
+      "supports",
+      "exercise regimen"
+    ],
+    [
+      "orchestration of activities",
+      "demands",
+      "resilience"
+    ],
+    [
+      "orchestration of activities",
+      "influences",
+      "mental well-being"
+    ],
+    [
+      "orchestration of activities",
+      "is influenced by",
+      "mysteries of universe"
+    ],
+    [
+      "orchestration of activities",
+      "results from",
+      "rewards"
+    ],
+    [
+      "passion for exploration",
+      "drives",
+      "beauty of Earth"
+    ],
+    [
+      "passion for exploration",
+      "drives",
+      "daily tasks"
+    ],
+    [
+      "passion for exploration",
+      "drives",
+      "maintenance duties"
+    ],
+    [
+      "passion for exploration",
+      "drives",
+      "mission objectives"
+    ],
+    [
+      "passion for exploration",
+      "fuels",
+      "crew socialization"
+    ],
+    [
+      "passion for exploration",
+      "fuels",
+      "mental well-being"
+    ],
+    [
+      "passion for exploration",
+      "fuels",
+      "morning briefing"
+    ],
+    [
+      "passion for exploration",
+      "influences",
+      "physical condition"
+    ],
+    [
+      "passion for exploration",
+      "inspires",
+      "mission control"
+    ],
+    [
+      "passion for exploration",
+      "is driven by",
+      "personal time"
+    ],
+    [
+      "passion for exploration",
+      "is motivated by",
+      "boundaries pushing"
+    ],
+    [
+      "personal reflection",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "personal reflection",
+      "guides",
+      "mission control"
+    ],
+    [
+      "personal reflection",
+      "informs",
+      "intelligence"
+    ],
+    [
+      "personal reflection",
+      "informs",
+      "maintenance duties"
+    ],
+    [
+      "personal reflection",
+      "informs",
+      "mission instructions"
+    ],
+    [
+      "personal reflection",
+      "informs",
+      "morning briefing"
+    ],
+    [
+      "personal reflection",
+      "inspires",
+      "beauty of Earth"
+    ],
+    [
+      "personal reflection",
+      "involves",
+      "relaxation"
+    ],
+    [
+      "personal reflection",
+      "is driven by",
+      "passion for exploration"
+    ],
+    [
+      "personal reflection",
+      "is influenced by",
+      "mental well-being"
+    ],
+    [
+      "personal reflection",
+      "reflects",
+      "health and well-being"
+    ],
+    [
+      "personal reflection",
+      "reflects",
+      "rewards"
+    ],
+    [
+      "personal reflection",
+      "reflects",
+      "scientific experiments"
+    ],
+    [
+      "personal reflection",
+      "reflects on",
+      "work assignments"
+    ],
+    [
+      "personal reflection",
+      "requires",
+      "task completion"
+    ],
+    [
+      "personal reflection",
+      "result of",
+      "sacrifices"
+    ],
+    [
+      "personal reflection",
+      "results in",
+      "task variety"
+    ],
+    [
+      "personal time",
+      "aids",
+      "crew coordination"
+    ],
+    [
+      "personal time",
+      "contributes to",
+      "orchestration of activities"
+    ],
+    [
+      "personal time",
+      "enhances",
+      "crew interactions"
+    ],
+    [
+      "personal time",
+      "enhances",
+      "mental well-being"
+    ],
+    [
+      "personal time",
+      "facilitates",
+      "crew socialization"
+    ],
+    [
+      "personal time",
+      "fosters",
+      "teamwork"
+    ],
+    [
+      "personal time",
+      "influences",
+      "crew dynamics"
+    ],
+    [
+      "personal time",
+      "influences",
+      "evening routine"
+    ],
+    [
+      "personal time",
+      "interrupts",
+      "final check-in"
+    ],
+    [
+      "personal time",
+      "involves",
+      "maintenance work"
+    ],
+    [
+      "personal time",
+      "involves",
+      "task prioritization"
+    ],
+    [
+      "personal time",
+      "is essential for",
+      "astronaut training"
+    ],
+    [
+      "personal time",
+      "is supported by",
+      "dedication"
+    ],
+    [
+      "personal time",
+      "promotes",
+      "crew well-being"
+    ],
+    [
+      "personal time",
+      "provides",
+      "Earth views"
+    ],
+    [
+      "personal time",
+      "supports",
+      "boundaries pushing"
+    ],
+    [
+      "personal time",
+      "supports",
+      "physical fitness"
+    ],
+    [
+      "personal time",
+      "yields",
+      "rewards"
+    ],
+    [
+      "physical condition",
+      "affects",
+      "crew interactions"
+    ],
+    [
+      "physical condition",
+      "affects",
+      "maintenance work"
+    ],
+    [
+      "physical condition",
+      "affects",
+      "mental well-being"
+    ],
+    [
+      "physical condition",
+      "affects",
+      "morning briefing"
+    ],
+    [
+      "physical condition",
+      "affects",
+      "sacrifices"
+    ],
+    [
+      "physical condition",
+      "affects",
+      "scientific experiments"
+    ],
+    [
+      "physical condition",
+      "depends on",
+      "crew morale"
+    ],
+    [
+      "physical condition",
+      "depends on",
+      "task completion"
+    ],
+    [
+      "physical condition",
+      "enhances",
+      "human knowledge"
+    ],
+    [
+      "physical condition",
+      "influences",
+      "Earth perspective"
+    ],
+    [
+      "physical condition",
+      "informs",
+      "personal reflection"
+    ],
+    [
+      "physical condition",
+      "is maintained by",
+      "resilience"
+    ],
+    [
+      "physical condition",
+      "maintains",
+      "exercise regimen"
+    ],
+    [
+      "physical condition",
+      "maintains",
+      "health maintenance"
+    ],
+    [
+      "physical condition",
+      "monitors",
+      "mission control"
+    ],
+    [
+      "physical condition",
+      "requires",
+      "astronaut training"
+    ],
+    [
+      "physical condition",
+      "supports",
+      "Earth views"
+    ],
+    [
+      "physical condition",
+      "supports",
+      "down time"
+    ],
+    [
+      "physical exertion",
+      "affects",
+      "physical condition"
+    ],
+    [
+      "physical exertion",
+      "complements",
+      "scientific research"
+    ],
+    [
+      "physical exertion",
+      "enhances",
+      "mental well-being"
+    ],
+    [
+      "physical exertion",
+      "enhances",
+      "personal reflection"
+    ],
+    [
+      "physical exertion",
+      "fuels",
+      "passion for exploration"
+    ],
+    [
+      "physical exertion",
+      "influences",
+      "work-life balance"
+    ],
+    [
+      "physical exertion",
+      "is enhanced by",
+      "Earth views"
+    ],
+    [
+      "physical exertion",
+      "requires",
+      "exercise regimen"
+    ],
+    [
+      "physical fitness",
+      "contributes to",
+      "final check-in"
+    ],
+    [
+      "physical fitness",
+      "enhances",
+      "health maintenance"
+    ],
+    [
+      "physical fitness",
+      "ensures",
+      "mission control"
+    ],
+    [
+      "physical fitness",
+      "facilitates",
+      "mealtime breaks"
+    ],
+    [
+      "physical fitness",
+      "influences",
+      "challenges"
+    ],
+    [
+      "physical fitness",
+      "is driven by",
+      "passion for exploration"
+    ],
+    [
+      "physical fitness",
+      "is influenced by",
+      "Earth perspective"
+    ],
+    [
+      "physical fitness",
+      "promotes",
+      "Earth views"
+    ],
+    [
+      "physical fitness",
+      "requires",
+      "down time"
+    ],
+    [
+      "physical fitness",
+      "requires",
+      "groundbreaking research"
+    ],
+    [
+      "physical fitness",
+      "requires",
+      "physical exertion"
+    ],
+    [
+      "physical fitness",
+      "requires",
+      "work assignments"
+    ],
+    [
+      "physical fitness",
+      "supports",
+      "crew dynamics"
+    ],
+    [
+      "physical fitness",
+      "supports",
+      "engagement"
+    ],
+    [
+      "physical fitness",
+      "supports",
+      "resilience"
+    ],
+    [
+      "relaxation",
+      "contributes to",
+      "health maintenance"
+    ],
+    [
+      "relaxation",
+      "enhances",
+      "crew interactions"
+    ],
+    [
+      "relaxation",
+      "enhances",
+      "health and well-being"
+    ],
+    [
+      "relaxation",
+      "enhances",
+      "mental well-being"
+    ],
+    [
+      "relaxation",
+      "enhances",
+      "mission success"
+    ],
+    [
+      "relaxation",
+      "facilitates",
+      "astronaut life"
+    ],
+    [
+      "relaxation",
+      "fosters",
+      "engagement"
+    ],
+    [
+      "relaxation",
+      "fosters",
+      "teamwork"
+    ],
+    [
+      "relaxation",
+      "includes",
+      "daily tasks"
+    ],
+    [
+      "relaxation",
+      "includes",
+      "gazing at Earth"
+    ],
+    [
+      "relaxation",
+      "includes",
+      "reading"
+    ],
+    [
+      "relaxation",
+      "includes",
+      "watching movies"
+    ],
+    [
+      "relaxation",
+      "influences",
+      "daily tasks"
+    ],
+    [
+      "relaxation",
+      "influences",
+      "space station operations"
+    ],
+    [
+      "relaxation",
+      "is part of",
+      "personal time"
+    ],
+    [
+      "relaxation",
+      "occurs after",
+      "mission control check-in"
+    ],
+    [
+      "relaxation",
+      "presents",
+      "space challenges"
+    ],
+    [
+      "relaxation",
+      "promotes",
+      "crew socialization"
+    ],
+    [
+      "relaxation",
+      "provides",
+      "Earth perspective"
+    ],
+    [
+      "relaxation",
+      "provides context for",
+      "space exploration"
+    ],
+    [
+      "relaxation",
+      "supports",
+      "physical fitness"
+    ],
+    [
+      "relaxation",
+      "supports",
+      "resilience"
+    ],
+    [
+      "resilience",
+      "contributes to",
+      "crew well-being"
+    ],
+    [
+      "resilience",
+      "defines",
+      "unique profession"
+    ],
+    [
+      "resilience",
+      "demands resilience from",
+      "final check-in"
+    ],
+    [
+      "resilience",
+      "demonstrates",
+      "extraordinary experiences"
+    ],
+    [
+      "resilience",
+      "demonstrates",
+      "scientific experiments"
+    ],
+    [
+      "resilience",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "crew socialization"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "physical exertion"
+    ],
+    [
+      "resilience",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "resilience",
+      "explores",
+      "mysteries of universe"
+    ],
+    [
+      "resilience",
+      "facilitates",
+      "engagement"
+    ],
+    [
+      "resilience",
+      "influences",
+      "daily tasks"
+    ],
+    [
+      "resilience",
+      "informs",
+      "personal reflection"
+    ],
+    [
+      "resilience",
+      "involves",
+      "crew responsibilities"
+    ],
+    [
+      "resilience",
+      "involves",
+      "daily tasks"
+    ],
+    [
+      "resilience",
+      "is developed through",
+      "astronaut training"
+    ],
+    [
+      "resilience",
+      "is part of",
+      "evening routine"
+    ],
+    [
+      "resilience",
+      "is supported by",
+      "down time"
+    ],
+    [
+      "resilience",
+      "requires",
+      "maintenance work"
+    ],
+    [
+      "resilience",
+      "requires",
+      "routine checks"
+    ],
+    [
+      "resilience",
+      "requires",
+      "task prioritization"
+    ],
+    [
+      "resilience",
+      "supports",
+      "crew health"
+    ],
+    [
+      "resilience",
+      "supports resilience in",
+      "mission control"
+    ],
+    [
+      "rewards",
+      "informs",
+      "mission instructions"
+    ],
+    [
+      "rewards",
+      "is a consequence of",
+      "daily tasks"
+    ],
+    [
+      "rewards",
+      "is a result of",
+      "dedication to health"
+    ],
+    [
+      "rewards",
+      "is rewarded by",
+      "human knowledge"
+    ],
+    [
+      "rewards",
+      "offers",
+      "astronaut life"
+    ],
+    [
+      "rewards",
+      "offers",
+      "space challenges"
+    ],
+    [
+      "rewards",
+      "offers",
+      "space environment"
+    ],
+    [
+      "rewards",
+      "offers",
+      "system maintenance"
+    ],
+    [
+      "rewards",
+      "provides",
+      "astronaut training"
+    ],
+    [
+      "rewards",
+      "provides",
+      "down time"
+    ],
+    [
+      "rewards",
+      "provides",
+      "final check-in"
+    ],
+    [
+      "rewards",
+      "provides",
+      "maintenance duties"
+    ],
+    [
+      "rewards",
+      "provides",
+      "mental well-being"
+    ],
+    [
+      "rewards",
+      "provides",
+      "teamwork"
+    ],
+    [
+      "rewards",
+      "results in",
+      "boundaries pushing"
+    ],
+    [
+      "rewards",
+      "results in",
+      "mission control check-in"
+    ],
+    [
+      "rewards",
+      "yields",
+      "exploration drive"
+    ],
+    [
+      "rewards",
+      "yields",
+      "physical exertion"
+    ],
+    [
+      "rewards",
+      "yields",
+      "specialized equipment"
+    ],
+    [
+      "routine checks",
+      "affects",
+      "scientific research"
+    ],
+    [
+      "routine checks",
+      "ensures",
+      "mission success"
+    ],
+    [
+      "routine checks",
+      "ensures",
+      "operational efficiency"
+    ],
+    [
+      "routine checks",
+      "ensures",
+      "orchestration of activities"
+    ],
+    [
+      "routine checks",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "routine checks",
+      "influences",
+      "work-life balance"
+    ],
+    [
+      "routine checks",
+      "informs",
+      "mission objectives"
+    ],
+    [
+      "routine checks",
+      "involves",
+      "morning briefing"
+    ],
+    [
+      "routine checks",
+      "involves",
+      "sacrifices"
+    ],
+    [
+      "routine checks",
+      "is assessed by",
+      "physical condition"
+    ],
+    [
+      "routine checks",
+      "is informed by",
+      "daily tasks"
+    ],
+    [
+      "routine checks",
+      "is monitored by",
+      "human knowledge"
+    ],
+    [
+      "routine checks",
+      "is necessary for",
+      "physical fitness"
+    ],
+    [
+      "routine checks",
+      "monitored by",
+      "muscle loss"
+    ],
+    [
+      "routine checks",
+      "monitors",
+      "personal reflection"
+    ],
+    [
+      "routine checks",
+      "observed during",
+      "beauty of Earth"
+    ],
+    [
+      "routine checks",
+      "requires",
+      "Earth views"
+    ],
+    [
+      "routine checks",
+      "requires",
+      "passion for exploration"
+    ],
+    [
+      "routine checks",
+      "supports",
+      "health and well-being"
+    ],
+    [
+      "routine checks",
+      "supports",
+      "sleep preparation"
+    ],
+    [
+      "routine checks",
+      "utilized for",
+      "specialized equipment"
+    ],
+    [
+      "sacrifices",
+      "contributes to",
+      "mission success"
+    ],
+    [
+      "sacrifices",
+      "contributes to",
+      "physical fitness"
+    ],
+    [
+      "sacrifices",
+      "demonstrates",
+      "dedication to science"
+    ],
+    [
+      "sacrifices",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "sacrifices",
+      "impacts",
+      "crew dynamics"
+    ],
+    [
+      "sacrifices",
+      "impacts",
+      "mental well-being"
+    ],
+    [
+      "sacrifices",
+      "influences",
+      "mission objectives"
+    ],
+    [
+      "sacrifices",
+      "influences",
+      "task prioritization"
+    ],
+    [
+      "sacrifices",
+      "inspired by",
+      "space exploration"
+    ],
+    [
+      "sacrifices",
+      "is impacted by",
+      "crew responsibilities"
+    ],
+    [
+      "sacrifices",
+      "is influenced by",
+      "mission control"
+    ],
+    [
+      "sacrifices",
+      "leads to",
+      "personal reflection"
+    ],
+    [
+      "sacrifices",
+      "motivates",
+      "human knowledge"
+    ],
+    [
+      "sacrifices",
+      "presents",
+      "challenges"
+    ],
+    [
+      "sacrifices",
+      "presents",
+      "space challenges"
+    ],
+    [
+      "sacrifices",
+      "requires",
+      "crew coordination"
+    ],
+    [
+      "sacrifices",
+      "requires",
+      "experiment conduction"
+    ],
+    [
+      "sacrifices",
+      "requires",
+      "groundbreaking research"
+    ],
+    [
+      "scientific experiments",
+      "affects",
+      "health and well-being"
+    ],
+    [
+      "scientific experiments",
+      "constitutes",
+      "essential tasks"
+    ],
+    [
+      "scientific experiments",
+      "demonstrates",
+      "microgravity effects"
+    ],
+    [
+      "scientific experiments",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "scientific experiments",
+      "enhances",
+      "Earth views"
+    ],
+    [
+      "scientific experiments",
+      "includes",
+      "work assignments"
+    ],
+    [
+      "scientific experiments",
+      "influences",
+      "down time"
+    ],
+    [
+      "scientific experiments",
+      "informs",
+      "Earth perspective"
+    ],
+    [
+      "scientific experiments",
+      "informs",
+      "final check-in"
+    ],
+    [
+      "scientific experiments",
+      "informs",
+      "human knowledge"
+    ],
+    [
+      "scientific experiments",
+      "informs",
+      "mission control"
+    ],
+    [
+      "scientific experiments",
+      "involves",
+      "crew socialization"
+    ],
+    [
+      "scientific experiments",
+      "involves",
+      "routine checks"
+    ],
+    [
+      "scientific experiments",
+      "involves",
+      "scientific research"
+    ],
+    [
+      "scientific experiments",
+      "is conducted in",
+      "space environment"
+    ],
+    [
+      "scientific experiments",
+      "is influenced by",
+      "sacrifices"
+    ],
+    [
+      "scientific experiments",
+      "is part of",
+      "evening routine"
+    ],
+    [
+      "scientific experiments",
+      "leads to",
+      "task completion"
+    ],
+    [
+      "scientific experiments",
+      "requires",
+      "cleaning chores"
+    ],
+    [
+      "scientific experiments",
+      "requires",
+      "dedication"
+    ],
+    [
+      "scientific experiments",
+      "requires",
+      "exercise regimen"
+    ],
+    [
+      "scientific experiments",
+      "requires",
+      "physical exertion"
+    ],
+    [
+      "scientific experiments",
+      "requires",
+      "physical fitness"
+    ],
+    [
+      "scientific research",
+      "comprises",
+      "scientific experiments"
+    ],
+    [
+      "scientific research",
+      "driven by",
+      "sacrifices"
+    ],
+    [
+      "scientific research",
+      "enhances",
+      "physical condition"
+    ],
+    [
+      "scientific research",
+      "guides",
+      "mission control"
+    ],
+    [
+      "scientific research",
+      "influences",
+      "down time"
+    ],
+    [
+      "scientific research",
+      "influences",
+      "personal reflection"
+    ],
+    [
+      "scientific research",
+      "informs",
+      "Earth perspective"
+    ],
+    [
+      "scientific research",
+      "informs",
+      "final check-in"
+    ],
+    [
+      "scientific research",
+      "informs",
+      "morning briefing"
+    ],
+    [
+      "scientific research",
+      "investigates",
+      "microgravity effects"
+    ],
+    [
+      "scientific research",
+      "is conducted in",
+      "space environment"
+    ],
+    [
+      "scientific research",
+      "is motivated by",
+      "passion for exploration"
+    ],
+    [
+      "scientific research",
+      "supports",
+      "Earth views"
+    ],
+    [
+      "scientific research",
+      "supports",
+      "personal time"
+    ],
+    [
+      "skills testing",
+      "affects",
+      "work-life balance"
+    ],
+    [
+      "skills testing",
+      "assesses",
+      "communication"
+    ],
+    [
+      "skills testing",
+      "assesses",
+      "daily tasks"
+    ],
+    [
+      "skills testing",
+      "assesses",
+      "mental well-being"
+    ],
+    [
+      "skills testing",
+      "assesses",
+      "physical condition"
+    ],
+    [
+      "skills testing",
+      "contributes to",
+      "mission success"
+    ],
+    [
+      "skills testing",
+      "demonstrates",
+      "dedication to science"
+    ],
+    [
+      "skills testing",
+      "enhances",
+      "operational efficiency"
+    ],
+    [
+      "skills testing",
+      "evaluates",
+      "crew coordination"
+    ],
+    [
+      "skills testing",
+      "evaluates",
+      "crew living conditions"
+    ],
+    [
+      "skills testing",
+      "evaluates",
+      "daily tasks"
+    ],
+    [
+      "skills testing",
+      "evaluates",
+      "mission control"
+    ],
+    [
+      "skills testing",
+      "evaluates",
+      "physical exertion"
+    ],
+    [
+      "skills testing",
+      "facilitates",
+      "meal preparation"
+    ],
+    [
+      "skills testing",
+      "involves",
+      "personal reflection"
+    ],
+    [
+      "skills testing",
+      "is assessed by",
+      "evening routine"
+    ],
+    [
+      "skills testing",
+      "is assessed by",
+      "morning briefing"
+    ],
+    [
+      "skills testing",
+      "is associated with",
+      "unique profession"
+    ],
+    [
+      "skills testing",
+      "is informed by",
+      "Earth perspective"
+    ],
+    [
+      "skills testing",
+      "presents",
+      "challenges"
+    ],
+    [
+      "skills testing",
+      "presents",
+      "space challenges"
+    ],
+    [
+      "skills testing",
+      "promotes",
+      "crew socialization"
+    ],
+    [
+      "skills testing",
+      "requires",
+      "physical fitness"
+    ],
+    [
+      "skills testing",
+      "requires",
+      "teamwork"
+    ],
+    [
+      "skills testing",
+      "supports",
+      "crew health"
+    ],
+    [
+      "skills testing",
+      "supports",
+      "exercise regimen"
+    ],
+    [
+      "skills testing",
+      "tests",
+      "Earth views"
+    ],
+    [
+      "skills testing",
+      "tests",
+      "crew responsibilities"
+    ],
+    [
+      "skills testing",
+      "tests",
+      "demanding job"
+    ],
+    [
+      "skills testing",
+      "tests",
+      "orchestration of activities"
+    ],
+    [
+      "skills testing",
+      "tests",
+      "system maintenance"
+    ],
+    [
+      "sleep preparation",
+      "depends on",
+      "crew coordination"
+    ],
+    [
+      "sleep preparation",
+      "encourages",
+      "crew socialization"
+    ],
+    [
+      "sleep preparation",
+      "enhances",
+      "crew interactions"
+    ],
+    [
+      "sleep preparation",
+      "follows",
+      "morning briefing"
+    ],
+    [
+      "sleep preparation",
+      "informs",
+      "mission instructions"
+    ],
+    [
+      "sleep preparation",
+      "involves",
+      "cleaning chores"
+    ],
+    [
+      "sleep preparation",
+      "involves",
+      "task prioritization"
+    ],
+    [
+      "sleep preparation",
+      "is followed by",
+      "engagement"
+    ],
+    [
+      "sleep preparation",
+      "is influenced by",
+      "daily tasks"
+    ],
+    [
+      "sleep preparation",
+      "is influenced by",
+      "essential tasks"
+    ],
+    [
+      "sleep preparation",
+      "is part of",
+      "daily routine"
+    ],
+    [
+      "sleep preparation",
+      "is related to",
+      "system maintenance"
+    ],
+    [
+      "sleep preparation",
+      "precedes",
+      "relaxation"
+    ],
+    [
+      "sleep preparation",
+      "prepares for",
+      "maintenance work"
+    ],
+    [
+      "sleep preparation",
+      "promotes",
+      "crew health"
+    ],
+    [
+      "sleep preparation",
+      "requires",
+      "teamwork"
+    ],
+    [
+      "sleep preparation",
+      "supports",
+      "health and well-being"
+    ],
+    [
+      "sleep preparation",
+      "supports",
+      "health maintenance"
+    ],
+    [
+      "sleep preparation",
+      "utilizes",
+      "specialized equipment"
+    ],
+    [
+      "sleeping quarters",
+      "comprised of",
+      "sleeping bags"
+    ],
+    [
+      "sleeping quarters",
+      "contributes to",
+      "crew well-being"
+    ],
+    [
+      "sleeping quarters",
+      "enhances",
+      "operational efficiency"
+    ],
+    [
+      "sleeping quarters",
+      "involves",
+      "maintenance duties"
+    ],
+    [
+      "sleeping quarters",
+      "is affected by",
+      "crew interactions"
+    ],
+    [
+      "sleeping quarters",
+      "is checked by",
+      "routine checks"
+    ],
+    [
+      "sleeping quarters",
+      "leads to",
+      "final check-in"
+    ],
+    [
+      "sleeping quarters",
+      "supports",
+      "crew coordination"
+    ],
+    [
+      "sleeping quarters",
+      "supports",
+      "crew health"
+    ],
+    [
+      "sleeping quarters",
+      "supports",
+      "mental well-being"
+    ],
+    [
+      "space challenges",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "space challenges",
+      "involves",
+      "scientific research"
+    ],
+    [
+      "space challenges",
+      "presents",
+      "Earth perspective"
+    ],
+    [
+      "space challenges",
+      "presents",
+      "dedication to health"
+    ],
+    [
+      "space challenges",
+      "presents",
+      "personal reflection"
+    ],
+    [
+      "space challenges",
+      "presents",
+      "space environment"
+    ],
+    [
+      "space challenges",
+      "presents challenges to",
+      "dedication to science"
+    ],
+    [
+      "space challenges",
+      "requires",
+      "physical fitness"
+    ],
+    [
+      "space environment",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "space environment",
+      "influences",
+      "Earth perspective"
+    ],
+    [
+      "space environment",
+      "is shaped by",
+      "personal reflection"
+    ],
+    [
+      "space environment",
+      "is shaped by",
+      "unique profession"
+    ],
+    [
+      "space exploration",
+      "affects",
+      "physical condition"
+    ],
+    [
+      "space exploration",
+      "boosts",
+      "crew morale"
+    ],
+    [
+      "space exploration",
+      "drives",
+      "exploration drive"
+    ],
+    [
+      "space exploration",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "space exploration",
+      "encompasses",
+      "unique experiences"
+    ],
+    [
+      "space exploration",
+      "enhances",
+      "crew interactions"
+    ],
+    [
+      "space exploration",
+      "facilitates",
+      "collaboration"
+    ],
+    [
+      "space exploration",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "space exploration",
+      "inspires personal reflection on",
+      "personal reflection"
+    ],
+    [
+      "space exploration",
+      "involves",
+      "experiment conduction"
+    ],
+    [
+      "space exploration",
+      "involves",
+      "groundbreaking research"
+    ],
+    [
+      "space exploration",
+      "involves",
+      "scientific experiments"
+    ],
+    [
+      "space exploration",
+      "is a part of",
+      "unique profession"
+    ],
+    [
+      "space exploration",
+      "is associated with",
+      "beauty of Earth"
+    ],
+    [
+      "space exploration",
+      "offers",
+      "rewards"
+    ],
+    [
+      "space exploration",
+      "presents",
+      "challenges"
+    ],
+    [
+      "space exploration",
+      "requires",
+      "astronaut training"
+    ],
+    [
+      "space exploration",
+      "requires",
+      "physical exertion"
+    ],
+    [
+      "space exploration",
+      "requires",
+      "physical fitness"
+    ],
+    [
+      "space exploration",
+      "requires",
+      "sacrifices"
+    ],
+    [
+      "space exploration",
+      "supports",
+      "crew well-being"
+    ],
+    [
+      "space exploration",
+      "supports",
+      "mental well-being"
+    ],
+    [
+      "space living",
+      "encompasses",
+      "boundaries pushing"
+    ],
+    [
+      "space living",
+      "encompasses",
+      "unique profession"
+    ],
+    [
+      "space living",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "space living",
+      "guides",
+      "mission objectives"
+    ],
+    [
+      "space living",
+      "includes",
+      "scientific experiments"
+    ],
+    [
+      "space living",
+      "influences",
+      "personal reflection"
+    ],
+    [
+      "space living",
+      "involves",
+      "daily tasks"
+    ],
+    [
+      "space living",
+      "is a result of",
+      "astronaut training"
+    ],
+    [
+      "space living",
+      "is affected by",
+      "microgravity effects"
+    ],
+    [
+      "space living",
+      "presents",
+      "challenges"
+    ],
+    [
+      "space living",
+      "requires",
+      "dedication"
+    ],
+    [
+      "space living",
+      "requires",
+      "dedication to health"
+    ],
+    [
+      "space living",
+      "requires",
+      "physical exertion"
+    ],
+    [
+      "space station operations",
+      "affects",
+      "crew living conditions"
+    ],
+    [
+      "space station operations",
+      "affects",
+      "mental well-being"
+    ],
+    [
+      "space station operations",
+      "depends on",
+      "skills testing"
+    ],
+    [
+      "space station operations",
+      "encourages",
+      "crew socialization"
+    ],
+    [
+      "space station operations",
+      "ensures",
+      "operational efficiency"
+    ],
+    [
+      "space station operations",
+      "facilitated by",
+      "maintenance work"
+    ],
+    [
+      "space station operations",
+      "impacts",
+      "muscle loss"
+    ],
+    [
+      "space station operations",
+      "initiates",
+      "morning briefing"
+    ],
+    [
+      "space station operations",
+      "involves",
+      "orchestration of activities"
+    ],
+    [
+      "space station operations",
+      "involves",
+      "task prioritization"
+    ],
+    [
+      "space station operations",
+      "involves",
+      "work assignments"
+    ],
+    [
+      "space station operations",
+      "requires",
+      "cleaning chores"
+    ],
+    [
+      "space station operations",
+      "requires",
+      "maintenance duties"
+    ],
+    [
+      "space station operations",
+      "supports",
+      "crew well-being"
+    ],
+    [
+      "space station operations",
+      "supports",
+      "exercise regimen"
+    ],
+    [
+      "space station operations",
+      "supports",
+      "mental well-being"
+    ],
+    [
+      "space station operations",
+      "supports",
+      "scientific research"
+    ],
+    [
+      "specialized equipment",
+      "benefits",
+      "crew well-being"
+    ],
+    [
+      "specialized equipment",
+      "contributes to",
+      "dedication to health"
+    ],
+    [
+      "specialized equipment",
+      "emphasizes",
+      "fitness importance"
+    ],
+    [
+      "specialized equipment",
+      "encourages",
+      "crew socialization"
+    ],
+    [
+      "specialized equipment",
+      "enhances",
+      "physical condition"
+    ],
+    [
+      "specialized equipment",
+      "enhances",
+      "physical fitness"
+    ],
+    [
+      "specialized equipment",
+      "facilitates",
+      "collaboration"
+    ],
+    [
+      "specialized equipment",
+      "facilitates",
+      "daily tasks"
+    ],
+    [
+      "specialized equipment",
+      "facilitates",
+      "maintenance duties"
+    ],
+    [
+      "specialized equipment",
+      "facilitates",
+      "mealtime breaks"
+    ],
+    [
+      "specialized equipment",
+      "facilitates",
+      "orchestration of activities"
+    ],
+    [
+      "specialized equipment",
+      "facilitates",
+      "scientific experiments"
+    ],
+    [
+      "specialized equipment",
+      "facilitates",
+      "task completion"
+    ],
+    [
+      "specialized equipment",
+      "includes",
+      "maintenance work"
+    ],
+    [
+      "specialized equipment",
+      "is necessary for",
+      "mission instructions"
+    ],
+    [
+      "specialized equipment",
+      "is part of",
+      "astronaut training"
+    ],
+    [
+      "specialized equipment",
+      "is utilized for",
+      "dedication to science"
+    ],
+    [
+      "specialized equipment",
+      "mitigated by",
+      "muscle loss"
+    ],
+    [
+      "specialized equipment",
+      "promotes",
+      "crew health"
+    ],
+    [
+      "specialized equipment",
+      "requires",
+      "sacrifices"
+    ],
+    [
+      "specialized equipment",
+      "supports",
+      "essential tasks"
+    ],
+    [
+      "specialized equipment",
+      "supports",
+      "exercise regimen"
+    ],
+    [
+      "specialized equipment",
+      "supports",
+      "health and well-being"
+    ],
+    [
+      "specialized equipment",
+      "supports",
+      "physical exertion"
+    ],
+    [
+      "specialized equipment",
+      "utilized in",
+      "final check-in"
+    ],
+    [
+      "specialized equipment",
+      "utilizes",
+      "down time"
+    ],
+    [
+      "specialized equipment",
+      "utilizes",
+      "mission control"
+    ],
+    [
+      "specialized equipment",
+      "utilizes",
+      "personal time"
+    ],
+    [
+      "specialized equipment",
+      "utilizes",
+      "space station operations"
+    ],
+    [
+      "system maintenance",
+      "ensures",
+      "crew health"
+    ],
+    [
+      "system maintenance",
+      "ensures",
+      "health and well-being"
+    ],
+    [
+      "system maintenance",
+      "facilitates",
+      "engagement"
+    ],
+    [
+      "system maintenance",
+      "influences",
+      "daily tasks"
+    ],
+    [
+      "system maintenance",
+      "involves",
+      "meal preparation"
+    ],
+    [
+      "system maintenance",
+      "is addressed by",
+      "muscle loss"
+    ],
+    [
+      "system maintenance",
+      "is essential for",
+      "daily routine"
+    ],
+    [
+      "system maintenance",
+      "is necessary for",
+      "crew responsibilities"
+    ],
+    [
+      "system maintenance",
+      "is necessary for",
+      "exercise regimen"
+    ],
+    [
+      "system maintenance",
+      "is necessary for",
+      "task completion"
+    ],
+    [
+      "system maintenance",
+      "is part of",
+      "essential tasks"
+    ],
+    [
+      "system maintenance",
+      "is part of",
+      "evening routine"
+    ],
+    [
+      "system maintenance",
+      "oversees",
+      "mission control"
+    ],
+    [
+      "system maintenance",
+      "supports",
+      "mental well-being"
+    ],
+    [
+      "system maintenance",
+      "supports",
+      "physical fitness"
+    ],
+    [
+      "task completion",
+      "completes",
+      "work assignments"
+    ],
+    [
+      "task completion",
+      "demonstrates",
+      "dedication"
+    ],
+    [
+      "task completion",
+      "depends on",
+      "crew coordination"
+    ],
+    [
+      "task completion",
+      "enables",
+      "relaxation"
+    ],
+    [
+      "task completion",
+      "enables",
+      "skills testing"
+    ],
+    [
+      "task completion",
+      "enhanced by",
+      "mental well-being"
+    ],
+    [
+      "task completion",
+      "enhances",
+      "Earth views"
+    ],
+    [
+      "task completion",
+      "facilitates",
+      "work-life balance"
+    ],
+    [
+      "task completion",
+      "follows",
+      "down time"
+    ],
+    [
+      "task completion",
+      "follows",
+      "morning briefing"
+    ],
+    [
+      "task completion",
+      "follows",
+      "sleep preparation"
+    ],
+    [
+      "task completion",
+      "improves",
+      "operational efficiency"
+    ],
+    [
+      "task completion",
+      "influences",
+      "crew morale"
+    ],
+    [
+      "task completion",
+      "involves",
+      "cleaning chores"
+    ],
+    [
+      "task completion",
+      "is achieved through",
+      "crew dynamics"
+    ],
+    [
+      "task completion",
+      "is achieved through",
+      "groundbreaking research"
+    ],
+    [
+      "task completion",
+      "is part of",
+      "daily routine"
+    ],
+    [
+      "task completion",
+      "is part of",
+      "daily tasks"
+    ],
+    [
+      "task completion",
+      "supports",
+      "health and well-being"
+    ],
+    [
+      "task management",
+      "advances",
+      "human knowledge"
+    ],
+    [
+      "task management",
+      "affects",
+      "crew living conditions"
+    ],
+    [
+      "task management",
+      "affects",
+      "crew well-being"
+    ],
+    [
+      "task management",
+      "affects",
+      "health and well-being"
+    ],
+    [
+      "task management",
+      "affects",
+      "physical condition"
+    ],
+    [
+      "task management",
+      "aligns with",
+      "mission objectives"
+    ],
+    [
+      "task management",
+      "emphasizes",
+      "fitness importance"
+    ],
+    [
+      "task management",
+      "enables",
+      "orchestration of activities"
+    ],
+    [
+      "task management",
+      "encompasses",
+      "extraordinary experiences"
+    ],
+    [
+      "task management",
+      "enhances",
+      "crew socialization"
+    ],
+    [
+      "task management",
+      "enhances",
+      "space station operations"
+    ],
+    [
+      "task management",
+      "ensures",
+      "crew health"
+    ],
+    [
+      "task management",
+      "facilitates",
+      "boundaries pushing"
+    ],
+    [
+      "task management",
+      "facilitates",
+      "crew coordination"
+    ],
+    [
+      "task management",
+      "guides",
+      "mission instructions"
+    ],
+    [
+      "task management",
+      "impacts",
+      "muscle loss"
+    ],
+    [
+      "task management",
+      "improves",
+      "mental well-being"
+    ],
+    [
+      "task management",
+      "includes",
+      "cleaning chores"
+    ],
+    [
+      "task management",
+      "includes",
+      "essential tasks"
+    ],
+    [
+      "task management",
+      "influences",
+      "personal time"
+    ],
+    [
+      "task management",
+      "influences",
+      "task variety"
+    ],
+    [
+      "task management",
+      "involves",
+      "maintenance duties"
+    ],
+    [
+      "task management",
+      "involves",
+      "maintenance work"
+    ],
+    [
+      "task management",
+      "involves",
+      "meal preparation"
+    ],
+    [
+      "task management",
+      "involves",
+      "scientific research"
+    ],
+    [
+      "task management",
+      "is managed by",
+      "final check-in"
+    ],
+    [
+      "task management",
+      "leads to",
+      "task completion"
+    ],
+    [
+      "task management",
+      "organizes",
+      "daily routine"
+    ],
+    [
+      "task management",
+      "organizes",
+      "work assignments"
+    ],
+    [
+      "task management",
+      "requires",
+      "dedication"
+    ],
+    [
+      "task management",
+      "requires",
+      "dedication to health"
+    ],
+    [
+      "task management",
+      "requires",
+      "physical fitness"
+    ],
+    [
+      "task management",
+      "supports",
+      "dedication to science"
+    ],
+    [
+      "task management",
+      "supports",
+      "health maintenance"
+    ],
+    [
+      "task management",
+      "tests",
+      "skills testing"
+    ],
+    [
+      "task prioritization",
+      "contributes to",
+      "bone loss"
+    ],
+    [
+      "task prioritization",
+      "contributes to",
+      "mission success"
+    ],
+    [
+      "task prioritization",
+      "depends on",
+      "task completion"
+    ],
+    [
+      "task prioritization",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "task prioritization",
+      "encourages",
+      "personal reflection"
+    ],
+    [
+      "task prioritization",
+      "guides",
+      "daily routine"
+    ],
+    [
+      "task prioritization",
+      "guides",
+      "final check-in"
+    ],
+    [
+      "task prioritization",
+      "guides",
+      "mission control"
+    ],
+    [
+      "task prioritization",
+      "influences",
+      "exercise regimen"
+    ],
+    [
+      "task prioritization",
+      "influences",
+      "meal preparation"
+    ],
+    [
+      "task prioritization",
+      "informs",
+      "Earth views"
+    ],
+    [
+      "task prioritization",
+      "informs",
+      "cleaning chores"
+    ],
+    [
+      "task prioritization",
+      "informs",
+      "groundbreaking research"
+    ],
+    [
+      "task prioritization",
+      "informs",
+      "routine checks"
+    ],
+    [
+      "task prioritization",
+      "involves",
+      "orchestration of activities"
+    ],
+    [
+      "task prioritization",
+      "is influenced by",
+      "communication"
+    ],
+    [
+      "task prioritization",
+      "is part of",
+      "system maintenance"
+    ],
+    [
+      "task variety",
+      "comprises",
+      "daily routine"
+    ],
+    [
+      "task variety",
+      "contributes to",
+      "mission success"
+    ],
+    [
+      "task variety",
+      "determines",
+      "task prioritization"
+    ],
+    [
+      "task variety",
+      "enhances",
+      "crew coordination"
+    ],
+    [
+      "task variety",
+      "enhances",
+      "human knowledge"
+    ],
+    [
+      "task variety",
+      "enhances",
+      "operational efficiency"
+    ],
+    [
+      "task variety",
+      "enhances",
+      "teamwork"
+    ],
+    [
+      "task variety",
+      "includes",
+      "crew responsibilities"
+    ],
+    [
+      "task variety",
+      "includes",
+      "daily tasks"
+    ],
+    [
+      "task variety",
+      "includes",
+      "maintenance duties"
+    ],
+    [
+      "task variety",
+      "includes",
+      "scientific experiments"
+    ],
+    [
+      "task variety",
+      "includes",
+      "work assignments"
+    ],
+    [
+      "task variety",
+      "influences",
+      "crew living conditions"
+    ],
+    [
+      "task variety",
+      "influences",
+      "daily tasks"
+    ],
+    [
+      "task variety",
+      "influences",
+      "personal time"
+    ],
+    [
+      "task variety",
+      "involves",
+      "evening routine"
+    ],
+    [
+      "task variety",
+      "involves",
+      "routine checks"
+    ],
+    [
+      "task variety",
+      "is complemented by",
+      "exercise regimen"
+    ],
+    [
+      "task variety",
+      "is followed by",
+      "mealtime breaks"
+    ],
+    [
+      "task variety",
+      "presents",
+      "challenges"
+    ],
+    [
+      "task variety",
+      "promotes",
+      "collaboration"
+    ],
+    [
+      "task variety",
+      "provides",
+      "Earth perspective"
+    ],
+    [
+      "task variety",
+      "supports",
+      "physical condition"
+    ],
+    [
+      "teamwork",
+      "comprises",
+      "daily tasks"
+    ],
+    [
+      "teamwork",
+      "creates",
+      "challenges"
+    ],
+    [
+      "teamwork",
+      "defines",
+      "daily routine"
+    ],
+    [
+      "teamwork",
+      "depends on",
+      "final check-in"
+    ],
+    [
+      "teamwork",
+      "enables",
+      "task completion"
+    ],
+    [
+      "teamwork",
+      "encompasses",
+      "essential tasks"
+    ],
+    [
+      "teamwork",
+      "enhances",
+      "collaboration"
+    ],
+    [
+      "teamwork",
+      "enhances",
+      "crew well-being"
+    ],
+    [
+      "teamwork",
+      "enhances",
+      "physical fitness"
+    ],
+    [
+      "teamwork",
+      "facilitates",
+      "crew socialization"
+    ],
+    [
+      "teamwork",
+      "facilitates",
+      "morning briefing"
+    ],
+    [
+      "teamwork",
+      "facilitates",
+      "space living"
+    ],
+    [
+      "teamwork",
+      "facilitates",
+      "space station operations"
+    ],
+    [
+      "teamwork",
+      "guides",
+      "mission objectives"
+    ],
+    [
+      "teamwork",
+      "involves",
+      "daily tasks"
+    ],
+    [
+      "teamwork",
+      "involves",
+      "work assignments"
+    ],
+    [
+      "teamwork",
+      "is based on",
+      "mission instructions"
+    ],
+    [
+      "teamwork",
+      "is driven by",
+      "dedication to science"
+    ],
+    [
+      "teamwork",
+      "is essential for",
+      "astronaut training"
+    ],
+    [
+      "teamwork",
+      "provides",
+      "extraordinary experiences"
+    ],
+    [
+      "teamwork",
+      "requires",
+      "physical exertion"
+    ],
+    [
+      "teamwork",
+      "supports",
+      "crew health"
+    ],
+    [
+      "teamwork",
+      "supports",
+      "mental well-being"
+    ],
+    [
+      "unique experiences",
+      "contributes to",
+      "health and well-being"
+    ],
+    [
+      "unique experiences",
+      "contributes to",
+      "mental well-being"
+    ],
+    [
+      "unique experiences",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "unique experiences",
+      "enhances",
+      "mental well-being"
+    ],
+    [
+      "unique experiences",
+      "enhances",
+      "physical fitness"
+    ],
+    [
+      "unique experiences",
+      "enriches",
+      "relaxation"
+    ],
+    [
+      "unique experiences",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "unique experiences",
+      "facilitates",
+      "groundbreaking research"
+    ],
+    [
+      "unique experiences",
+      "fosters",
+      "crew interactions"
+    ],
+    [
+      "unique experiences",
+      "includes",
+      "maintenance work"
+    ],
+    [
+      "unique experiences",
+      "influences",
+      "crew dynamics"
+    ],
+    [
+      "unique experiences",
+      "involves",
+      "scientific experiments"
+    ],
+    [
+      "unique experiences",
+      "is characterized by",
+      "physical exertion"
+    ],
+    [
+      "unique experiences",
+      "is driven by",
+      "dedication to science"
+    ],
+    [
+      "unique experiences",
+      "is enhanced by",
+      "physical condition"
+    ],
+    [
+      "unique experiences",
+      "leads to",
+      "personal reflection"
+    ],
+    [
+      "unique experiences",
+      "leads to",
+      "task completion"
+    ],
+    [
+      "unique experiences",
+      "offers",
+      "astronaut life"
+    ],
+    [
+      "unique experiences",
+      "offers",
+      "space living"
+    ],
+    [
+      "unique experiences",
+      "promotes",
+      "crew health"
+    ],
+    [
+      "unique experiences",
+      "provides",
+      "Earth perspective"
+    ],
+    [
+      "unique experiences",
+      "provides",
+      "Earth views"
+    ],
+    [
+      "unique experiences",
+      "provides",
+      "final check-in"
+    ],
+    [
+      "unique experiences",
+      "provides",
+      "mission control"
+    ],
+    [
+      "unique experiences",
+      "provides",
+      "rewards"
+    ],
+    [
+      "unique experiences",
+      "reflects",
+      "dedication to health"
+    ],
+    [
+      "unique experiences",
+      "requires",
+      "astronaut training"
+    ],
+    [
+      "unique experiences",
+      "shapes",
+      "daily tasks"
+    ],
+    [
+      "unique profession",
+      "drives",
+      "passion for exploration"
+    ],
+    [
+      "unique profession",
+      "enhances",
+      "crew morale"
+    ],
+    [
+      "unique profession",
+      "faces",
+      "space challenges"
+    ],
+    [
+      "unique profession",
+      "guides",
+      "mission instructions"
+    ],
+    [
+      "unique profession",
+      "guides",
+      "mission objectives"
+    ],
+    [
+      "unique profession",
+      "highlights",
+      "fitness importance"
+    ],
+    [
+      "unique profession",
+      "informs",
+      "Earth views"
+    ],
+    [
+      "unique profession",
+      "involves",
+      "cleaning chores"
+    ],
+    [
+      "unique profession",
+      "involves",
+      "space station operations"
+    ],
+    [
+      "unique profession",
+      "is associated with",
+      "sacrifices"
+    ],
+    [
+      "unique profession",
+      "is characterized by",
+      "morning briefing"
+    ],
+    [
+      "unique profession",
+      "is characterized by",
+      "task variety"
+    ],
+    [
+      "unique profession",
+      "is driven by",
+      "engagement"
+    ],
+    [
+      "unique profession",
+      "is part of",
+      "maintenance work"
+    ],
+    [
+      "unique profession",
+      "is part of",
+      "personal reflection"
+    ],
+    [
+      "unique profession",
+      "provides",
+      "extraordinary experiences"
+    ],
+    [
+      "unique profession",
+      "provides",
+      "rewards"
+    ],
+    [
+      "unique profession",
+      "requires",
+      "dedication to science"
+    ],
+    [
+      "unique profession",
+      "requires",
+      "exercise regimen"
+    ],
+    [
+      "unique profession",
+      "requires",
+      "intelligence"
+    ],
+    [
+      "unique profession",
+      "requires",
+      "physical exertion"
+    ],
+    [
+      "unique profession",
+      "requires",
+      "space environment"
+    ],
+    [
+      "unique profession",
+      "shapes",
+      "Earth perspective"
+    ],
+    [
+      "work assignments",
+      "comprises",
+      "daily routine"
+    ],
+    [
+      "work assignments",
+      "contributes to",
+      "mission success"
+    ],
+    [
+      "work assignments",
+      "directs",
+      "mission control"
+    ],
+    [
+      "work assignments",
+      "guides",
+      "Earth perspective"
+    ],
+    [
+      "work assignments",
+      "guides",
+      "final check-in"
+    ],
+    [
+      "work assignments",
+      "guides",
+      "human knowledge"
+    ],
+    [
+      "work assignments",
+      "guides",
+      "mission objectives"
+    ],
+    [
+      "work assignments",
+      "includes",
+      "crew responsibilities"
+    ],
+    [
+      "work assignments",
+      "influences",
+      "crew well-being"
+    ],
+    [
+      "work assignments",
+      "informs",
+      "crew living conditions"
+    ],
+    [
+      "work assignments",
+      "informs",
+      "physical condition"
+    ],
+    [
+      "work assignments",
+      "interrupts",
+      "relaxation"
+    ],
+    [
+      "work assignments",
+      "involves",
+      "scientific research"
+    ],
+    [
+      "work assignments",
+      "is driven by",
+      "passion for exploration"
+    ],
+    [
+      "work assignments",
+      "is used for",
+      "specialized equipment"
+    ],
+    [
+      "work assignments",
+      "part of",
+      "scientific experiments"
+    ],
+    [
+      "work assignments",
+      "requires",
+      "dedication"
+    ],
+    [
+      "work assignments",
+      "requires",
+      "sacrifices"
+    ],
+    [
+      "work assignments",
+      "supports",
+      "crew health"
+    ],
+    [
+      "work assignments",
+      "supports",
+      "health and well-being"
+    ],
+    [
+      "work-life balance",
+      "affects",
+      "Earth views"
+    ],
+    [
+      "work-life balance",
+      "affects",
+      "crew health"
+    ],
+    [
+      "work-life balance",
+      "affects",
+      "down time"
+    ],
+    [
+      "work-life balance",
+      "affects",
+      "mental well-being"
+    ],
+    [
+      "work-life balance",
+      "enhances",
+      "health maintenance"
+    ],
+    [
+      "work-life balance",
+      "guides",
+      "daily tasks"
+    ],
+    [
+      "work-life balance",
+      "includes",
+      "mealtime breaks"
+    ],
+    [
+      "work-life balance",
+      "involves",
+      "crew responsibilities"
+    ],
+    [
+      "work-life balance",
+      "is driven by",
+      "passion for exploration"
+    ],
+    [
+      "work-life balance",
+      "is necessary for",
+      "essential tasks"
+    ],
+    [
+      "work-life balance",
+      "is part of",
+      "morning briefing"
+    ],
+    [
+      "work-life balance",
+      "promotes",
+      "engagement"
+    ],
+    [
+      "work-life balance",
+      "provides",
+      "Earth perspective"
+    ],
+    [
+      "work-life balance",
+      "provides",
+      "rewards"
+    ],
+    [
+      "work-life balance",
+      "requires",
+      "dedication to health"
+    ],
+    [
+      "work-life balance",
+      "supports",
+      "exercise regimen"
+    ]
+  ],
+  "edges": [
+    "addresses",
+    "advances",
+    "affects",
+    "affects health and well-being of",
+    "aids",
+    "aligns with",
+    "are fascinated by",
+    "assesses",
+    "benefits",
+    "benefits from",
+    "boosts",
+    "causes",
+    "communicates with",
+    "complements",
+    "completes",
+    "complicates",
+    "comprised of",
+    "comprises",
+    "confirms",
+    "constitutes",
+    "contrasts with",
+    "contributes to",
+    "coordinates",
+    "coordinates with",
+    "counteracts",
+    "creates",
+    "defines",
+    "demands",
+    "demands resilience from",
+    "demonstrates",
+    "depends on",
+    "determines",
+    "dictates",
+    "directs",
+    "driven by",
+    "drives",
+    "emphasizes",
+    "enables",
+    "encompasses",
+    "encourages",
+    "enhanced by",
+    "enhances",
+    "enriches",
+    "ensures",
+    "evaluates",
+    "exacerbates",
+    "expands",
+    "explores",
+    "faces",
+    "facilitated by",
+    "facilitates",
+    "follows",
+    "fosters",
+    "fuels",
+    "guides",
+    "highlights",
+    "impacts",
+    "improves",
+    "includes",
+    "includes two hour",
+    "influenced by",
+    "influences",
+    "informed by",
+    "informs",
+    "informs about",
+    "initiates",
+    "inspired by",
+    "inspires",
+    "inspires personal reflection on",
+    "integral to",
+    "integrated into",
+    "interferes with",
+    "interrupts",
+    "intersects with",
+    "investigates",
+    "involves",
+    "is a concern for",
+    "is a consequence of",
+    "is a part of",
+    "is a result of",
+    "is achieved through",
+    "is addressed by",
+    "is affected by",
+    "is appreciated by",
+    "is assessed by",
+    "is associated with",
+    "is balanced with",
+    "is based on",
+    "is characterized by",
+    "is checked by",
+    "is complemented by",
+    "is conducted in",
+    "is coordinated by",
+    "is countered by",
+    "is crucial for",
+    "is developed through",
+    "is discussed in",
+    "is driven by",
+    "is enhanced by",
+    "is essential for",
+    "is explored by",
+    "is facilitated by",
+    "is followed by",
+    "is foundational for",
+    "is fueled by",
+    "is guided by",
+    "is impacted by",
+    "is influenced by",
+    "is informed by",
+    "is inspired by",
+    "is integrated into",
+    "is maintained by",
+    "is managed by",
+    "is monitored by",
+    "is motivated by",
+    "is necessary for",
+    "is part of",
+    "is prioritized by",
+    "is related to",
+    "is reported during",
+    "is required for",
+    "is rewarded by",
+    "is shaped by",
+    "is structured by",
+    "is supported by",
+    "is used for",
+    "is utilized for",
+    "leads to",
+    "maintains",
+    "mitigated by",
+    "mitigates",
+    "monitored by",
+    "monitors",
+    "motivates",
+    "necessitates",
+    "observed during",
+    "occurs after",
+    "occurs during",
+    "occurs in",
+    "offers",
+    "organizes",
+    "oversees",
+    "part of",
+    "poses",
+    "precedes",
+    "prepares for",
+    "presents",
+    "presents challenges to",
+    "promotes",
+    "provides",
+    "provides context for",
+    "provides guidance for",
+    "receives",
+    "receives updates from",
+    "reflects",
+    "reflects on",
+    "reported during",
+    "reports on",
+    "required for",
+    "requires",
+    "result of",
+    "results from",
+    "results in",
+    "reveals",
+    "sets mission objectives for",
+    "shapes",
+    "sparks",
+    "strengthens",
+    "supports",
+    "supports resilience in",
+    "tests",
+    "triggers",
+    "utilized for",
+    "utilized in",
+    "utilizes",
+    "verifies",
+    "yields"
+  ]
+}

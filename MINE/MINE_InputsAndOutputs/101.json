@@ -1,0 +1,2248 @@
+{
+  "entities": [
+    "Alzheimer's disease",
+    "active engagement",
+    "adults' development",
+    "analytical skills",
+    "auditory processing",
+    "brain stimulation",
+    "children's development",
+    "cognitive benefits",
+    "cognitive development",
+    "cognitive functioning",
+    "cognitive skills",
+    "communication",
+    "concentration",
+    "critical thinking",
+    "decoding sounds",
+    "developmental benefits",
+    "developmental impact",
+    "discipline",
+    "emotional intelligence",
+    "emotional response",
+    "emotional responses",
+    "empathy",
+    "engagement",
+    "enhanced abilities",
+    "exploration",
+    "exposure benefits",
+    "impact on cognition",
+    "instrument playing",
+    "joy",
+    "language development",
+    "learning enhancement",
+    "life-long engagement",
+    "memory disorders",
+    "memory enhancement",
+    "memory retention",
+    "music effects",
+    "music exposure",
+    "music learning",
+    "music therapy",
+    "musical patterns",
+    "nostalgia",
+    "pattern recognition",
+    "positive impact",
+    "problem-solving skills",
+    "research findings",
+    "sadness",
+    "skill improvement",
+    "sound patterns",
+    "spatial reasoning",
+    "speech production",
+    "studies",
+    "therapeutic applications",
+    "therapeutic tool",
+    "transferable skills"
+  ],
+  "relations": [
+    [
+      "Alzheimer's disease",
+      "improved by",
+      "impact on cognition"
+    ],
+    [
+      "active engagement",
+      "affects",
+      "developmental impact"
+    ],
+    [
+      "active engagement",
+      "develops",
+      "emotional intelligence"
+    ],
+    [
+      "active engagement",
+      "develops",
+      "empathy"
+    ],
+    [
+      "active engagement",
+      "enhances",
+      "pattern recognition"
+    ],
+    [
+      "active engagement",
+      "enhances",
+      "problem-solving skills"
+    ],
+    [
+      "active engagement",
+      "evokes",
+      "emotional response"
+    ],
+    [
+      "active engagement",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "active engagement",
+      "facilitates",
+      "speech production"
+    ],
+    [
+      "active engagement",
+      "improves",
+      "cognitive functioning"
+    ],
+    [
+      "active engagement",
+      "informs",
+      "research findings"
+    ],
+    [
+      "active engagement",
+      "involves",
+      "studies"
+    ],
+    [
+      "active engagement",
+      "promotes",
+      "cognitive development"
+    ],
+    [
+      "active engagement",
+      "promotes",
+      "life-long engagement"
+    ],
+    [
+      "active engagement",
+      "requires",
+      "concentration"
+    ],
+    [
+      "adults' development",
+      "affects",
+      "emotional responses"
+    ],
+    [
+      "adults' development",
+      "encourages",
+      "exploration"
+    ],
+    [
+      "adults' development",
+      "enhances",
+      "emotional intelligence"
+    ],
+    [
+      "adults' development",
+      "influences",
+      "cognitive skills"
+    ],
+    [
+      "adults' development",
+      "influences",
+      "research findings"
+    ],
+    [
+      "adults' development",
+      "involves",
+      "auditory processing"
+    ],
+    [
+      "adults' development",
+      "stimulates",
+      "brain stimulation"
+    ],
+    [
+      "analytical skills",
+      "derived from",
+      "research findings"
+    ],
+    [
+      "analytical skills",
+      "enhances",
+      "active engagement"
+    ],
+    [
+      "analytical skills",
+      "enhances",
+      "life-long engagement"
+    ],
+    [
+      "analytical skills",
+      "enhances",
+      "nostalgia"
+    ],
+    [
+      "analytical skills",
+      "facilitates",
+      "pattern recognition"
+    ],
+    [
+      "analytical skills",
+      "improves",
+      "problem-solving skills"
+    ],
+    [
+      "analytical skills",
+      "interprets",
+      "musical patterns"
+    ],
+    [
+      "analytical skills",
+      "requires",
+      "emotional responses"
+    ],
+    [
+      "analytical skills",
+      "requires",
+      "enhanced abilities"
+    ],
+    [
+      "analytical skills",
+      "requires",
+      "sadness"
+    ],
+    [
+      "auditory processing",
+      "contributes to",
+      "cognitive development"
+    ],
+    [
+      "auditory processing",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "auditory processing",
+      "improves",
+      "problem-solving skills"
+    ],
+    [
+      "auditory processing",
+      "involves",
+      "developmental impact"
+    ],
+    [
+      "auditory processing",
+      "supports",
+      "speech production"
+    ],
+    [
+      "brain stimulation",
+      "enhances",
+      "active engagement"
+    ],
+    [
+      "brain stimulation",
+      "enhances",
+      "concentration"
+    ],
+    [
+      "brain stimulation",
+      "enhances",
+      "empathy"
+    ],
+    [
+      "brain stimulation",
+      "is stimulated by",
+      "transferable skills"
+    ],
+    [
+      "brain stimulation",
+      "reported in",
+      "research findings"
+    ],
+    [
+      "brain stimulation",
+      "stimulates",
+      "auditory processing"
+    ],
+    [
+      "brain stimulation",
+      "stimulates",
+      "decoding sounds"
+    ],
+    [
+      "brain stimulation",
+      "stimulates",
+      "music exposure"
+    ],
+    [
+      "brain stimulation",
+      "stimulates",
+      "music learning"
+    ],
+    [
+      "brain stimulation",
+      "stimulates",
+      "sadness"
+    ],
+    [
+      "brain stimulation",
+      "triggers",
+      "emotional response"
+    ],
+    [
+      "children's development",
+      "affected by",
+      "music effects"
+    ],
+    [
+      "children's development",
+      "encourages",
+      "exploration"
+    ],
+    [
+      "children's development",
+      "enhances",
+      "auditory processing"
+    ],
+    [
+      "children's development",
+      "enhances",
+      "concentration"
+    ],
+    [
+      "children's development",
+      "enhances",
+      "emotional intelligence"
+    ],
+    [
+      "children's development",
+      "influences",
+      "cognitive functioning"
+    ],
+    [
+      "children's development",
+      "influences",
+      "communication"
+    ],
+    [
+      "children's development",
+      "influences",
+      "emotional response"
+    ],
+    [
+      "children's development",
+      "supports",
+      "language development"
+    ],
+    [
+      "cognitive benefits",
+      "improves",
+      "Alzheimer's disease"
+    ],
+    [
+      "cognitive benefits",
+      "provides",
+      "memory retention"
+    ],
+    [
+      "cognitive development",
+      "enhances",
+      "adults' development"
+    ],
+    [
+      "cognitive development",
+      "enhances",
+      "analytical skills"
+    ],
+    [
+      "cognitive development",
+      "enhances",
+      "cognitive functioning"
+    ],
+    [
+      "cognitive development",
+      "enhances",
+      "joy"
+    ],
+    [
+      "cognitive development",
+      "influences",
+      "children's development"
+    ],
+    [
+      "cognitive development",
+      "influences",
+      "developmental impact"
+    ],
+    [
+      "cognitive development",
+      "influences",
+      "emotional response"
+    ],
+    [
+      "cognitive development",
+      "influences",
+      "music exposure"
+    ],
+    [
+      "cognitive development",
+      "requires",
+      "discipline"
+    ],
+    [
+      "cognitive functioning",
+      "affects",
+      "emotional response"
+    ],
+    [
+      "cognitive functioning",
+      "enhances",
+      "enhanced abilities"
+    ],
+    [
+      "cognitive functioning",
+      "enhances",
+      "problem-solving skills"
+    ],
+    [
+      "cognitive functioning",
+      "impacts",
+      "sadness"
+    ],
+    [
+      "cognitive functioning",
+      "influences",
+      "emotional responses"
+    ],
+    [
+      "cognitive functioning",
+      "supports",
+      "sound patterns"
+    ],
+    [
+      "cognitive skills",
+      "encourages",
+      "exploration"
+    ],
+    [
+      "cognitive skills",
+      "enhances",
+      "active engagement"
+    ],
+    [
+      "cognitive skills",
+      "enhances",
+      "auditory processing"
+    ],
+    [
+      "cognitive skills",
+      "enhances",
+      "music learning"
+    ],
+    [
+      "cognitive skills",
+      "enhances",
+      "pattern recognition"
+    ],
+    [
+      "cognitive skills",
+      "improves",
+      "decoding sounds"
+    ],
+    [
+      "cognitive skills",
+      "improves",
+      "engagement"
+    ],
+    [
+      "cognitive skills",
+      "influences",
+      "emotional intelligence"
+    ],
+    [
+      "cognitive skills",
+      "promotes",
+      "life-long engagement"
+    ],
+    [
+      "cognitive skills",
+      "requires",
+      "concentration"
+    ],
+    [
+      "communication",
+      "affects",
+      "music effects"
+    ],
+    [
+      "communication",
+      "enhances",
+      "cognitive development"
+    ],
+    [
+      "communication",
+      "enhances",
+      "joy"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "adults' development"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "emotional response"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "language development"
+    ],
+    [
+      "communication",
+      "fosters",
+      "empathy"
+    ],
+    [
+      "concentration",
+      "affects",
+      "emotional responses"
+    ],
+    [
+      "concentration",
+      "affects",
+      "nostalgia"
+    ],
+    [
+      "concentration",
+      "improves",
+      "cognitive functioning"
+    ],
+    [
+      "concentration",
+      "improves",
+      "studies"
+    ],
+    [
+      "concentration",
+      "requires",
+      "developmental impact"
+    ],
+    [
+      "concentration",
+      "requires",
+      "discipline"
+    ],
+    [
+      "critical thinking",
+      "contributes to",
+      "cognitive development"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "active engagement"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "cognitive functioning"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "emotional intelligence"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "music therapy"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "problem-solving skills"
+    ],
+    [
+      "critical thinking",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "critical thinking",
+      "facilitates",
+      "pattern recognition"
+    ],
+    [
+      "critical thinking",
+      "involves",
+      "auditory processing"
+    ],
+    [
+      "critical thinking",
+      "involves",
+      "musical patterns"
+    ],
+    [
+      "critical thinking",
+      "promotes",
+      "exploration"
+    ],
+    [
+      "critical thinking",
+      "requires",
+      "concentration"
+    ],
+    [
+      "critical thinking",
+      "results in",
+      "enhanced abilities"
+    ],
+    [
+      "critical thinking",
+      "stimulates",
+      "brain stimulation"
+    ],
+    [
+      "decoding sounds",
+      "comprises",
+      "sound patterns"
+    ],
+    [
+      "decoding sounds",
+      "contributes to",
+      "transferable skills"
+    ],
+    [
+      "decoding sounds",
+      "enhances",
+      "emotional intelligence"
+    ],
+    [
+      "decoding sounds",
+      "enhances",
+      "problem-solving skills"
+    ],
+    [
+      "decoding sounds",
+      "facilitates",
+      "auditory processing"
+    ],
+    [
+      "decoding sounds",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "decoding sounds",
+      "facilitates",
+      "critical thinking"
+    ],
+    [
+      "decoding sounds",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "decoding sounds",
+      "facilitates",
+      "pattern recognition"
+    ],
+    [
+      "decoding sounds",
+      "facilitates",
+      "speech production"
+    ],
+    [
+      "decoding sounds",
+      "improves",
+      "cognitive functioning"
+    ],
+    [
+      "decoding sounds",
+      "influences",
+      "developmental impact"
+    ],
+    [
+      "decoding sounds",
+      "involves",
+      "musical patterns"
+    ],
+    [
+      "decoding sounds",
+      "requires",
+      "discipline"
+    ],
+    [
+      "decoding sounds",
+      "supports",
+      "children's development"
+    ],
+    [
+      "developmental benefits",
+      "leads to",
+      "therapeutic applications"
+    ],
+    [
+      "developmental benefits",
+      "provides",
+      "exposure benefits"
+    ],
+    [
+      "developmental benefits",
+      "provides",
+      "positive impact"
+    ],
+    [
+      "developmental benefits",
+      "results in",
+      "cognitive benefits"
+    ],
+    [
+      "developmental impact",
+      "affects",
+      "emotional responses"
+    ],
+    [
+      "developmental impact",
+      "affects",
+      "nostalgia"
+    ],
+    [
+      "developmental impact",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "developmental impact",
+      "influences",
+      "adults' development"
+    ],
+    [
+      "developmental impact",
+      "is influenced by",
+      "cognitive functioning"
+    ],
+    [
+      "discipline",
+      "enhances",
+      "cognitive functioning"
+    ],
+    [
+      "discipline",
+      "examined in",
+      "studies"
+    ],
+    [
+      "discipline",
+      "fosters",
+      "adults' development"
+    ],
+    [
+      "discipline",
+      "requires",
+      "brain stimulation"
+    ],
+    [
+      "discipline",
+      "requires",
+      "critical thinking"
+    ],
+    [
+      "discipline",
+      "requires",
+      "developmental impact"
+    ],
+    [
+      "discipline",
+      "requires",
+      "emotional responses"
+    ],
+    [
+      "discipline",
+      "requires",
+      "joy"
+    ],
+    [
+      "discipline",
+      "requires",
+      "music learning"
+    ],
+    [
+      "discipline",
+      "requires",
+      "pattern recognition"
+    ],
+    [
+      "discipline",
+      "requires",
+      "problem-solving skills"
+    ],
+    [
+      "discipline",
+      "requires",
+      "speech production"
+    ],
+    [
+      "emotional intelligence",
+      "developed through",
+      "cognitive functioning"
+    ],
+    [
+      "emotional intelligence",
+      "enhanced by",
+      "nostalgia"
+    ],
+    [
+      "emotional intelligence",
+      "enhances",
+      "concentration"
+    ],
+    [
+      "emotional intelligence",
+      "enhances",
+      "joy"
+    ],
+    [
+      "emotional intelligence",
+      "enhances",
+      "sadness"
+    ],
+    [
+      "emotional intelligence",
+      "enhances",
+      "studies"
+    ],
+    [
+      "emotional intelligence",
+      "is enhanced by",
+      "cognitive development"
+    ],
+    [
+      "emotional response",
+      "affects",
+      "developmental impact"
+    ],
+    [
+      "emotional response",
+      "affects",
+      "pattern recognition"
+    ],
+    [
+      "emotional response",
+      "elicits",
+      "sound patterns"
+    ],
+    [
+      "emotional response",
+      "elicits",
+      "transferable skills"
+    ],
+    [
+      "emotional response",
+      "evokes",
+      "engagement"
+    ],
+    [
+      "emotional response",
+      "evokes",
+      "musical patterns"
+    ],
+    [
+      "emotional response",
+      "influences",
+      "cognitive skills"
+    ],
+    [
+      "emotional response",
+      "influences",
+      "exploration"
+    ],
+    [
+      "emotional response",
+      "influences",
+      "language development"
+    ],
+    [
+      "emotional response",
+      "is a type of",
+      "sadness"
+    ],
+    [
+      "emotional responses",
+      "develops",
+      "emotional intelligence"
+    ],
+    [
+      "emotional responses",
+      "develops",
+      "empathy"
+    ],
+    [
+      "emotional responses",
+      "elicits",
+      "decoding sounds"
+    ],
+    [
+      "emotional responses",
+      "enhances",
+      "language development"
+    ],
+    [
+      "emotional responses",
+      "enhances",
+      "pattern recognition"
+    ],
+    [
+      "emotional responses",
+      "evokes",
+      "auditory processing"
+    ],
+    [
+      "emotional responses",
+      "evokes",
+      "emotional response"
+    ],
+    [
+      "emotional responses",
+      "evokes",
+      "music learning"
+    ],
+    [
+      "emotional responses",
+      "influences",
+      "active engagement"
+    ],
+    [
+      "emotional responses",
+      "influences",
+      "children's development"
+    ],
+    [
+      "emotional responses",
+      "influences",
+      "cognitive development"
+    ],
+    [
+      "emotional responses",
+      "influences",
+      "music effects"
+    ],
+    [
+      "emotional responses",
+      "involves",
+      "critical thinking"
+    ],
+    [
+      "empathy",
+      "contributes to",
+      "cognitive development"
+    ],
+    [
+      "empathy",
+      "drives",
+      "exploration"
+    ],
+    [
+      "empathy",
+      "enhanced by",
+      "music exposure"
+    ],
+    [
+      "empathy",
+      "enhances",
+      "adults' development"
+    ],
+    [
+      "empathy",
+      "enhances",
+      "analytical skills"
+    ],
+    [
+      "empathy",
+      "evokes",
+      "decoding sounds"
+    ],
+    [
+      "empathy",
+      "evokes",
+      "nostalgia"
+    ],
+    [
+      "empathy",
+      "fosters",
+      "cognitive skills"
+    ],
+    [
+      "empathy",
+      "influences",
+      "cognitive functioning"
+    ],
+    [
+      "empathy",
+      "influences",
+      "developmental impact"
+    ],
+    [
+      "empathy",
+      "influences",
+      "problem-solving skills"
+    ],
+    [
+      "empathy",
+      "influences",
+      "speech production"
+    ],
+    [
+      "empathy",
+      "is a component of",
+      "emotional intelligence"
+    ],
+    [
+      "empathy",
+      "supports",
+      "children's development"
+    ],
+    [
+      "empathy",
+      "supports",
+      "life-long engagement"
+    ],
+    [
+      "engagement",
+      "contributes to",
+      "adults' development"
+    ],
+    [
+      "engagement",
+      "develops",
+      "emotional intelligence"
+    ],
+    [
+      "engagement",
+      "encourages",
+      "exploration"
+    ],
+    [
+      "engagement",
+      "enhances",
+      "cognitive development"
+    ],
+    [
+      "engagement",
+      "enhances",
+      "pattern recognition"
+    ],
+    [
+      "engagement",
+      "enhances",
+      "problem-solving skills"
+    ],
+    [
+      "engagement",
+      "evokes",
+      "joy"
+    ],
+    [
+      "engagement",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "engagement",
+      "fosters",
+      "empathy"
+    ],
+    [
+      "engagement",
+      "has",
+      "developmental impact"
+    ],
+    [
+      "engagement",
+      "involves",
+      "musical patterns"
+    ],
+    [
+      "engagement",
+      "requires",
+      "concentration"
+    ],
+    [
+      "engagement",
+      "requires",
+      "discipline"
+    ],
+    [
+      "enhanced abilities",
+      "contributes to",
+      "adults' development"
+    ],
+    [
+      "enhanced abilities",
+      "contributes to",
+      "developmental impact"
+    ],
+    [
+      "enhanced abilities",
+      "demonstrates",
+      "research findings"
+    ],
+    [
+      "enhanced abilities",
+      "influences",
+      "cognitive development"
+    ],
+    [
+      "enhanced abilities",
+      "provides",
+      "transferable skills"
+    ],
+    [
+      "enhanced abilities",
+      "results in",
+      "cognitive benefits"
+    ],
+    [
+      "enhanced abilities",
+      "results in",
+      "engagement"
+    ],
+    [
+      "enhanced abilities",
+      "results in",
+      "music learning"
+    ],
+    [
+      "enhanced abilities",
+      "stimulates",
+      "brain stimulation"
+    ],
+    [
+      "exploration",
+      "contributes to",
+      "skill improvement"
+    ],
+    [
+      "exploration",
+      "enhances",
+      "emotional intelligence"
+    ],
+    [
+      "exploration",
+      "enhances",
+      "learning enhancement"
+    ],
+    [
+      "exploration",
+      "enhances",
+      "transferable skills"
+    ],
+    [
+      "exploration",
+      "explored through",
+      "brain stimulation"
+    ],
+    [
+      "exploration",
+      "explored through",
+      "research findings"
+    ],
+    [
+      "exploration",
+      "promotes",
+      "life-long engagement"
+    ],
+    [
+      "exposure benefits",
+      "provides",
+      "cognitive benefits"
+    ],
+    [
+      "exposure benefits",
+      "supports",
+      "language development"
+    ],
+    [
+      "exposure benefits",
+      "supports",
+      "therapeutic applications"
+    ],
+    [
+      "impact on cognition",
+      "influences",
+      "memory retention"
+    ],
+    [
+      "instrument playing",
+      "affects",
+      "developmental impact"
+    ],
+    [
+      "instrument playing",
+      "contributes to",
+      "children's development"
+    ],
+    [
+      "instrument playing",
+      "develops",
+      "cognitive skills"
+    ],
+    [
+      "instrument playing",
+      "develops",
+      "emotional intelligence"
+    ],
+    [
+      "instrument playing",
+      "develops",
+      "transferable skills"
+    ],
+    [
+      "instrument playing",
+      "elicits",
+      "emotional response"
+    ],
+    [
+      "instrument playing",
+      "enhances",
+      "cognitive functioning"
+    ],
+    [
+      "instrument playing",
+      "enhances",
+      "decoding sounds"
+    ],
+    [
+      "instrument playing",
+      "enhances",
+      "pattern recognition"
+    ],
+    [
+      "instrument playing",
+      "enhances",
+      "spatial reasoning"
+    ],
+    [
+      "instrument playing",
+      "evokes",
+      "joy"
+    ],
+    [
+      "instrument playing",
+      "involves",
+      "musical patterns"
+    ],
+    [
+      "instrument playing",
+      "requires",
+      "active engagement"
+    ],
+    [
+      "instrument playing",
+      "requires",
+      "concentration"
+    ],
+    [
+      "instrument playing",
+      "requires",
+      "discipline"
+    ],
+    [
+      "joy",
+      "associated with",
+      "problem-solving skills"
+    ],
+    [
+      "joy",
+      "elicits",
+      "adults' development"
+    ],
+    [
+      "joy",
+      "elicits",
+      "auditory processing"
+    ],
+    [
+      "joy",
+      "elicits",
+      "empathy"
+    ],
+    [
+      "joy",
+      "elicits",
+      "studies"
+    ],
+    [
+      "joy",
+      "enhances",
+      "cognitive functioning"
+    ],
+    [
+      "joy",
+      "evokes",
+      "active engagement"
+    ],
+    [
+      "joy",
+      "evokes",
+      "analytical skills"
+    ],
+    [
+      "joy",
+      "evokes",
+      "brain stimulation"
+    ],
+    [
+      "joy",
+      "evokes",
+      "cognitive skills"
+    ],
+    [
+      "joy",
+      "evokes",
+      "emotional response"
+    ],
+    [
+      "joy",
+      "evokes",
+      "music effects"
+    ],
+    [
+      "joy",
+      "evokes",
+      "pattern recognition"
+    ],
+    [
+      "joy",
+      "evokes",
+      "research findings"
+    ],
+    [
+      "joy",
+      "evokes",
+      "transferable skills"
+    ],
+    [
+      "language development",
+      "supports",
+      "joy"
+    ],
+    [
+      "learning enhancement",
+      "enhances",
+      "adults' development"
+    ],
+    [
+      "learning enhancement",
+      "enhances",
+      "decoding sounds"
+    ],
+    [
+      "life-long engagement",
+      "is enhanced by",
+      "cognitive functioning"
+    ],
+    [
+      "memory disorders",
+      "impacts",
+      "memory retention"
+    ],
+    [
+      "memory enhancement",
+      "improves",
+      "memory disorders"
+    ],
+    [
+      "memory enhancement",
+      "improves",
+      "memory retention"
+    ],
+    [
+      "memory retention",
+      "impacts",
+      "Alzheimer's disease"
+    ],
+    [
+      "music effects",
+      "demonstrated by",
+      "studies"
+    ],
+    [
+      "music effects",
+      "demonstrates",
+      "pattern recognition"
+    ],
+    [
+      "music effects",
+      "evokes",
+      "sadness"
+    ],
+    [
+      "music effects",
+      "influenced by",
+      "musical patterns"
+    ],
+    [
+      "music exposure",
+      "benefits from",
+      "adults' development"
+    ],
+    [
+      "music exposure",
+      "benefits from",
+      "developmental impact"
+    ],
+    [
+      "music exposure",
+      "benefits from",
+      "therapeutic tool"
+    ],
+    [
+      "music exposure",
+      "benefits from",
+      "transferable skills"
+    ],
+    [
+      "music exposure",
+      "enhanced by",
+      "problem-solving skills"
+    ],
+    [
+      "music exposure",
+      "enhances",
+      "decoding sounds"
+    ],
+    [
+      "music exposure",
+      "evokes",
+      "joy"
+    ],
+    [
+      "music exposure",
+      "evokes",
+      "sadness"
+    ],
+    [
+      "music exposure",
+      "improves",
+      "cognitive functioning"
+    ],
+    [
+      "music exposure",
+      "influences",
+      "engagement"
+    ],
+    [
+      "music exposure",
+      "influences",
+      "musical patterns"
+    ],
+    [
+      "music exposure",
+      "influences",
+      "nostalgia"
+    ],
+    [
+      "music exposure",
+      "promotes",
+      "children's development"
+    ],
+    [
+      "music exposure",
+      "supported by",
+      "research findings"
+    ],
+    [
+      "music learning",
+      "contributes to",
+      "developmental impact"
+    ],
+    [
+      "music learning",
+      "develops",
+      "emotional intelligence"
+    ],
+    [
+      "music learning",
+      "enhances",
+      "cognitive development"
+    ],
+    [
+      "music learning",
+      "enhances",
+      "cognitive functioning"
+    ],
+    [
+      "music learning",
+      "evokes",
+      "joy"
+    ],
+    [
+      "music learning",
+      "fosters",
+      "empathy"
+    ],
+    [
+      "music learning",
+      "improves",
+      "problem-solving skills"
+    ],
+    [
+      "music learning",
+      "improves",
+      "speech production"
+    ],
+    [
+      "music learning",
+      "influences",
+      "musical patterns"
+    ],
+    [
+      "music learning",
+      "involves",
+      "sound patterns"
+    ],
+    [
+      "music learning",
+      "promotes",
+      "exploration"
+    ],
+    [
+      "music learning",
+      "promotes",
+      "life-long engagement"
+    ],
+    [
+      "music learning",
+      "requires",
+      "music exposure"
+    ],
+    [
+      "music learning",
+      "supports",
+      "communication"
+    ],
+    [
+      "music therapy",
+      "addresses",
+      "sadness"
+    ],
+    [
+      "music therapy",
+      "benefits",
+      "children's development"
+    ],
+    [
+      "music therapy",
+      "develops",
+      "empathy"
+    ],
+    [
+      "music therapy",
+      "elicits",
+      "emotional response"
+    ],
+    [
+      "music therapy",
+      "enhances",
+      "analytical skills"
+    ],
+    [
+      "music therapy",
+      "enhances",
+      "emotional intelligence"
+    ],
+    [
+      "music therapy",
+      "evokes",
+      "emotional responses"
+    ],
+    [
+      "music therapy",
+      "facilitates",
+      "engagement"
+    ],
+    [
+      "music therapy",
+      "improves",
+      "auditory processing"
+    ],
+    [
+      "music therapy",
+      "improves",
+      "cognitive functioning"
+    ],
+    [
+      "music therapy",
+      "improves",
+      "concentration"
+    ],
+    [
+      "music therapy",
+      "promotes",
+      "life-long engagement"
+    ],
+    [
+      "music therapy",
+      "provides",
+      "positive impact"
+    ],
+    [
+      "music therapy",
+      "stimulates",
+      "brain stimulation"
+    ],
+    [
+      "music therapy",
+      "supports",
+      "cognitive skills"
+    ],
+    [
+      "music therapy",
+      "supports",
+      "developmental impact"
+    ],
+    [
+      "music therapy",
+      "supports",
+      "language development"
+    ],
+    [
+      "musical patterns",
+      "affects",
+      "developmental impact"
+    ],
+    [
+      "musical patterns",
+      "develops",
+      "emotional intelligence"
+    ],
+    [
+      "musical patterns",
+      "evokes",
+      "joy"
+    ],
+    [
+      "musical patterns",
+      "improves",
+      "pattern recognition"
+    ],
+    [
+      "musical patterns",
+      "influences",
+      "adults' development"
+    ],
+    [
+      "musical patterns",
+      "influences",
+      "cognitive skills"
+    ],
+    [
+      "musical patterns",
+      "influences",
+      "nostalgia"
+    ],
+    [
+      "musical patterns",
+      "requires",
+      "active engagement"
+    ],
+    [
+      "musical patterns",
+      "requires",
+      "discipline"
+    ],
+    [
+      "musical patterns",
+      "supports",
+      "children's development"
+    ],
+    [
+      "musical patterns",
+      "supports",
+      "cognitive development"
+    ],
+    [
+      "nostalgia",
+      "evokes",
+      "music effects"
+    ],
+    [
+      "nostalgia",
+      "influences",
+      "spatial reasoning"
+    ],
+    [
+      "pattern recognition",
+      "affects",
+      "developmental impact"
+    ],
+    [
+      "pattern recognition",
+      "contributes to",
+      "cognitive development"
+    ],
+    [
+      "pattern recognition",
+      "enhanced by",
+      "cognitive functioning"
+    ],
+    [
+      "pattern recognition",
+      "enhances",
+      "children's development"
+    ],
+    [
+      "pattern recognition",
+      "enhances",
+      "nostalgia"
+    ],
+    [
+      "pattern recognition",
+      "improves",
+      "problem-solving skills"
+    ],
+    [
+      "positive impact",
+      "results in",
+      "cognitive benefits"
+    ],
+    [
+      "problem-solving skills",
+      "enhances",
+      "cognitive development"
+    ],
+    [
+      "problem-solving skills",
+      "enhances",
+      "emotional intelligence"
+    ],
+    [
+      "problem-solving skills",
+      "enhances",
+      "exploration"
+    ],
+    [
+      "problem-solving skills",
+      "enhances",
+      "musical patterns"
+    ],
+    [
+      "problem-solving skills",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "problem-solving skills",
+      "influences",
+      "adults' development"
+    ],
+    [
+      "problem-solving skills",
+      "influences",
+      "emotional response"
+    ],
+    [
+      "problem-solving skills",
+      "influences",
+      "emotional responses"
+    ],
+    [
+      "problem-solving skills",
+      "influences",
+      "sadness"
+    ],
+    [
+      "problem-solving skills",
+      "requires",
+      "concentration"
+    ],
+    [
+      "research findings",
+      "demonstrates",
+      "engagement"
+    ],
+    [
+      "research findings",
+      "enhances",
+      "communication"
+    ],
+    [
+      "research findings",
+      "enhances",
+      "concentration"
+    ],
+    [
+      "research findings",
+      "informs",
+      "problem-solving skills"
+    ],
+    [
+      "research findings",
+      "reveals",
+      "emotional response"
+    ],
+    [
+      "research findings",
+      "supports",
+      "cognitive development"
+    ],
+    [
+      "research findings",
+      "supports",
+      "music learning"
+    ],
+    [
+      "sadness",
+      "associated with",
+      "research findings"
+    ],
+    [
+      "sadness",
+      "evokes",
+      "emotional responses"
+    ],
+    [
+      "sadness",
+      "evokes",
+      "music learning"
+    ],
+    [
+      "sadness",
+      "evokes",
+      "transferable skills"
+    ],
+    [
+      "sadness",
+      "studied in relation to",
+      "sound patterns"
+    ],
+    [
+      "sadness",
+      "triggers",
+      "decoding sounds"
+    ],
+    [
+      "skill improvement",
+      "enhances",
+      "life-long engagement"
+    ],
+    [
+      "skill improvement",
+      "improves",
+      "problem-solving skills"
+    ],
+    [
+      "skill improvement",
+      "leads to",
+      "transferable skills"
+    ],
+    [
+      "skill improvement",
+      "serves as",
+      "therapeutic tool"
+    ],
+    [
+      "sound patterns",
+      "demands",
+      "discipline"
+    ],
+    [
+      "sound patterns",
+      "develops",
+      "emotional intelligence"
+    ],
+    [
+      "sound patterns",
+      "enhances",
+      "analytical skills"
+    ],
+    [
+      "sound patterns",
+      "enhances",
+      "learning enhancement"
+    ],
+    [
+      "sound patterns",
+      "enhances",
+      "problem-solving skills"
+    ],
+    [
+      "sound patterns",
+      "enhances",
+      "transferable skills"
+    ],
+    [
+      "sound patterns",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "sound patterns",
+      "facilitates",
+      "engagement"
+    ],
+    [
+      "sound patterns",
+      "influences",
+      "cognitive development"
+    ],
+    [
+      "sound patterns",
+      "involves",
+      "auditory processing"
+    ],
+    [
+      "sound patterns",
+      "involves",
+      "critical thinking"
+    ],
+    [
+      "sound patterns",
+      "involves",
+      "exploration"
+    ],
+    [
+      "sound patterns",
+      "requires",
+      "active engagement"
+    ],
+    [
+      "sound patterns",
+      "results from",
+      "music exposure"
+    ],
+    [
+      "sound patterns",
+      "serves as",
+      "therapeutic tool"
+    ],
+    [
+      "sound patterns",
+      "supports",
+      "children's development"
+    ],
+    [
+      "spatial reasoning",
+      "enhances",
+      "problem-solving skills"
+    ],
+    [
+      "speech production",
+      "benefits from",
+      "music exposure"
+    ],
+    [
+      "speech production",
+      "enhances",
+      "emotional intelligence"
+    ],
+    [
+      "speech production",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "speech production",
+      "improves",
+      "brain stimulation"
+    ],
+    [
+      "speech production",
+      "influences",
+      "emotional responses"
+    ],
+    [
+      "speech production",
+      "influences",
+      "music effects"
+    ],
+    [
+      "speech production",
+      "influences",
+      "musical patterns"
+    ],
+    [
+      "speech production",
+      "influences",
+      "problem-solving skills"
+    ],
+    [
+      "speech production",
+      "informed by",
+      "critical thinking"
+    ],
+    [
+      "speech production",
+      "requires",
+      "concentration"
+    ],
+    [
+      "speech production",
+      "supports",
+      "children's development"
+    ],
+    [
+      "speech production",
+      "supports",
+      "language development"
+    ],
+    [
+      "studies",
+      "analyzed by",
+      "auditory processing"
+    ],
+    [
+      "studies",
+      "analyzed by",
+      "emotional response"
+    ],
+    [
+      "studies",
+      "analyzed by",
+      "empathy"
+    ],
+    [
+      "studies",
+      "analyzed in",
+      "decoding sounds"
+    ],
+    [
+      "studies",
+      "analyzed in",
+      "sound patterns"
+    ],
+    [
+      "studies",
+      "examined in",
+      "music therapy"
+    ],
+    [
+      "studies",
+      "examines",
+      "engagement"
+    ],
+    [
+      "studies",
+      "examines",
+      "musical patterns"
+    ],
+    [
+      "studies",
+      "informed by",
+      "adults' development"
+    ],
+    [
+      "studies",
+      "informed by",
+      "cognitive development"
+    ],
+    [
+      "studies",
+      "informs",
+      "cognitive functioning"
+    ],
+    [
+      "studies",
+      "informs",
+      "critical thinking"
+    ],
+    [
+      "studies",
+      "investigated by",
+      "developmental impact"
+    ],
+    [
+      "studies",
+      "investigated by",
+      "music exposure"
+    ],
+    [
+      "studies",
+      "investigated by",
+      "transferable skills"
+    ],
+    [
+      "studies",
+      "investigated in",
+      "communication"
+    ],
+    [
+      "studies",
+      "investigated in",
+      "pattern recognition"
+    ],
+    [
+      "studies",
+      "is studied in relation to",
+      "sadness"
+    ],
+    [
+      "studies",
+      "supported by",
+      "music learning"
+    ],
+    [
+      "studies",
+      "supported by",
+      "speech production"
+    ],
+    [
+      "therapeutic applications",
+      "enhances",
+      "learning enhancement"
+    ],
+    [
+      "therapeutic applications",
+      "has",
+      "positive impact"
+    ],
+    [
+      "therapeutic tool",
+      "enhances",
+      "life-long engagement"
+    ],
+    [
+      "therapeutic tool",
+      "provides",
+      "transferable skills"
+    ],
+    [
+      "therapeutic tool",
+      "serves as",
+      "therapeutic applications"
+    ],
+    [
+      "therapeutic tool",
+      "utilizes",
+      "musical patterns"
+    ],
+    [
+      "transferable skills",
+      "develops",
+      "emotional responses"
+    ],
+    [
+      "transferable skills",
+      "enhances",
+      "active engagement"
+    ],
+    [
+      "transferable skills",
+      "enhances",
+      "analytical skills"
+    ],
+    [
+      "transferable skills",
+      "enhances",
+      "cognitive functioning"
+    ],
+    [
+      "transferable skills",
+      "enhances",
+      "problem-solving skills"
+    ],
+    [
+      "transferable skills",
+      "influences",
+      "developmental impact"
+    ],
+    [
+      "transferable skills",
+      "requires",
+      "discipline"
+    ],
+    [
+      "transferable skills",
+      "supports",
+      "life-long engagement"
+    ],
+    [
+      "transferable skills",
+      "transfers to",
+      "cognitive skills"
+    ]
+  ],
+  "edges": [
+    "addresses",
+    "affected by",
+    "affects",
+    "analyzed by",
+    "analyzed in",
+    "associated with",
+    "benefits",
+    "benefits from",
+    "comprises",
+    "contributes to",
+    "demands",
+    "demonstrated by",
+    "demonstrates",
+    "derived from",
+    "developed through",
+    "develops",
+    "drives",
+    "elicits",
+    "encourages",
+    "enhanced by",
+    "enhances",
+    "evokes",
+    "examined in",
+    "examines",
+    "explored through",
+    "facilitates",
+    "fosters",
+    "has",
+    "impacts",
+    "improved by",
+    "improves",
+    "influenced by",
+    "influences",
+    "informed by",
+    "informs",
+    "interprets",
+    "investigated by",
+    "investigated in",
+    "involves",
+    "is a component of",
+    "is a type of",
+    "is enhanced by",
+    "is influenced by",
+    "is stimulated by",
+    "is studied in relation to",
+    "leads to",
+    "promotes",
+    "provides",
+    "reported in",
+    "requires",
+    "results from",
+    "results in",
+    "reveals",
+    "serves as",
+    "stimulates",
+    "studied in relation to",
+    "supported by",
+    "supports",
+    "transfers to",
+    "triggers",
+    "utilizes"
+  ]
+}

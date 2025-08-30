@@ -1,0 +1,3696 @@
+{
+  "entities": [
+    "Inca Empire",
+    "agricultural practices",
+    "agriculture",
+    "ancient Mesopotamia",
+    "ancient societies",
+    "civilization",
+    "civilization growth",
+    "clean water",
+    "climate change",
+    "complex societies",
+    "conservation",
+    "cultural diffusion",
+    "cultural exchange",
+    "development",
+    "economic development",
+    "economic exchange",
+    "empire expansion",
+    "energy",
+    "environmental sustainability",
+    "food production",
+    "food surplus",
+    "future generations",
+    "goods exchange",
+    "historical impact",
+    "historical trade",
+    "history",
+    "human interaction",
+    "hydroelectric power",
+    "industry",
+    "irrigation",
+    "irrigation systems",
+    "maritime trade",
+    "mechanization",
+    "military campaigns",
+    "pollution",
+    "population growth",
+    "power sources",
+    "regional interaction",
+    "renewable energy",
+    "resource management",
+    "resource utilization",
+    "river systems",
+    "sanitation",
+    "sea routes",
+    "settlements",
+    "societal complexity",
+    "societal evolution",
+    "strategic importance",
+    "surplus food",
+    "survival",
+    "technological advancements",
+    "technological spread",
+    "trade networks",
+    "trade routes",
+    "transportation",
+    "transportation importance",
+    "transportation networks",
+    "water",
+    "water scarcity",
+    "waterways"
+  ],
+  "relations": [
+    [
+      "Inca Empire",
+      "contributed to",
+      "development"
+    ],
+    [
+      "Inca Empire",
+      "contributed to",
+      "population growth"
+    ],
+    [
+      "Inca Empire",
+      "contributed to",
+      "technological spread"
+    ],
+    [
+      "Inca Empire",
+      "contributes to",
+      "economic development"
+    ],
+    [
+      "Inca Empire",
+      "developed irrigation systems for",
+      "irrigation systems"
+    ],
+    [
+      "Inca Empire",
+      "drives",
+      "technological advancements"
+    ],
+    [
+      "Inca Empire",
+      "enables",
+      "food production"
+    ],
+    [
+      "Inca Empire",
+      "engaged in",
+      "military campaigns"
+    ],
+    [
+      "Inca Empire",
+      "established industry in",
+      "industry"
+    ],
+    [
+      "Inca Empire",
+      "facilitated by",
+      "cultural exchange"
+    ],
+    [
+      "Inca Empire",
+      "facilitates",
+      "goods exchange"
+    ],
+    [
+      "Inca Empire",
+      "has",
+      "historical impact"
+    ],
+    [
+      "Inca Empire",
+      "influenced",
+      "ancient societies"
+    ],
+    [
+      "Inca Empire",
+      "influenced",
+      "civilization"
+    ],
+    [
+      "Inca Empire",
+      "influenced by",
+      "societal complexity"
+    ],
+    [
+      "Inca Empire",
+      "part of",
+      "trade networks"
+    ],
+    [
+      "Inca Empire",
+      "strategically significant for",
+      "strategic importance"
+    ],
+    [
+      "Inca Empire",
+      "utilized",
+      "power sources"
+    ],
+    [
+      "Inca Empire",
+      "utilized for",
+      "agriculture"
+    ],
+    [
+      "Inca Empire",
+      "utilized for",
+      "transportation"
+    ],
+    [
+      "Inca Empire",
+      "utilizes",
+      "transportation networks"
+    ],
+    [
+      "Inca Empire",
+      "was influenced by",
+      "waterways"
+    ],
+    [
+      "agricultural practices",
+      "affects",
+      "water scarcity"
+    ],
+    [
+      "agricultural practices",
+      "enables",
+      "economic exchange"
+    ],
+    [
+      "agricultural practices",
+      "enhances",
+      "regional interaction"
+    ],
+    [
+      "agricultural practices",
+      "facilitates",
+      "empire expansion"
+    ],
+    [
+      "agricultural practices",
+      "influences",
+      "food production"
+    ],
+    [
+      "agricultural practices",
+      "requires",
+      "clean water"
+    ],
+    [
+      "agricultural practices",
+      "requires",
+      "irrigation"
+    ],
+    [
+      "agricultural practices",
+      "results in",
+      "food surplus"
+    ],
+    [
+      "agricultural practices",
+      "supports",
+      "complex societies"
+    ],
+    [
+      "agricultural practices",
+      "utilizes",
+      "irrigation systems"
+    ],
+    [
+      "agriculture",
+      "enables",
+      "irrigation"
+    ],
+    [
+      "agriculture",
+      "enhances",
+      "resource utilization"
+    ],
+    [
+      "agriculture",
+      "facilitated by",
+      "survival"
+    ],
+    [
+      "agriculture",
+      "facilitated by",
+      "transportation"
+    ],
+    [
+      "agriculture",
+      "facilitates",
+      "maritime trade"
+    ],
+    [
+      "agriculture",
+      "fuels",
+      "economic development"
+    ],
+    [
+      "agriculture",
+      "impacts",
+      "pollution"
+    ],
+    [
+      "agriculture",
+      "influenced by",
+      "history"
+    ],
+    [
+      "agriculture",
+      "nurtures",
+      "civilization"
+    ],
+    [
+      "agriculture",
+      "produces",
+      "surplus food"
+    ],
+    [
+      "agriculture",
+      "requires",
+      "water"
+    ],
+    [
+      "agriculture",
+      "results in",
+      "food production"
+    ],
+    [
+      "agriculture",
+      "supports",
+      "irrigation systems"
+    ],
+    [
+      "agriculture",
+      "supports",
+      "sanitation"
+    ],
+    [
+      "ancient Mesopotamia",
+      "associated with",
+      "goods exchange"
+    ],
+    [
+      "ancient Mesopotamia",
+      "constructed by",
+      "irrigation"
+    ],
+    [
+      "ancient Mesopotamia",
+      "dependent on",
+      "waterways"
+    ],
+    [
+      "ancient Mesopotamia",
+      "developed by",
+      "transportation networks"
+    ],
+    [
+      "ancient Mesopotamia",
+      "developed in",
+      "historical trade"
+    ],
+    [
+      "ancient Mesopotamia",
+      "influenced by",
+      "civilization"
+    ],
+    [
+      "ancient Mesopotamia",
+      "influenced by",
+      "cultural exchange"
+    ],
+    [
+      "ancient Mesopotamia",
+      "influenced by",
+      "economic exchange"
+    ],
+    [
+      "ancient Mesopotamia",
+      "influenced by",
+      "maritime trade"
+    ],
+    [
+      "ancient Mesopotamia",
+      "influenced by",
+      "mechanization"
+    ],
+    [
+      "ancient Mesopotamia",
+      "originated from",
+      "trade networks"
+    ],
+    [
+      "ancient Mesopotamia",
+      "produced by",
+      "food surplus"
+    ],
+    [
+      "ancient Mesopotamia",
+      "shaped by",
+      "historical impact"
+    ],
+    [
+      "ancient Mesopotamia",
+      "shaped by",
+      "trade routes"
+    ],
+    [
+      "ancient Mesopotamia",
+      "sustained by",
+      "clean water"
+    ],
+    [
+      "ancient Mesopotamia",
+      "was foundational for",
+      "agriculture"
+    ],
+    [
+      "ancient societies",
+      "contributes to",
+      "development"
+    ],
+    [
+      "ancient societies",
+      "contributes to",
+      "population growth"
+    ],
+    [
+      "ancient societies",
+      "enables",
+      "transportation"
+    ],
+    [
+      "ancient societies",
+      "established by",
+      "settlements"
+    ],
+    [
+      "ancient societies",
+      "facilitates",
+      "cultural diffusion"
+    ],
+    [
+      "ancient societies",
+      "formed by",
+      "trade networks"
+    ],
+    [
+      "ancient societies",
+      "highlights",
+      "transportation importance"
+    ],
+    [
+      "ancient societies",
+      "influenced by",
+      "mechanization"
+    ],
+    [
+      "ancient societies",
+      "interacts with",
+      "regional interaction"
+    ],
+    [
+      "ancient societies",
+      "is engaged in",
+      "maritime trade"
+    ],
+    [
+      "ancient societies",
+      "is foundational for",
+      "agriculture"
+    ],
+    [
+      "ancient societies",
+      "is utilized by",
+      "trade routes"
+    ],
+    [
+      "ancient societies",
+      "leads to",
+      "societal evolution"
+    ],
+    [
+      "ancient societies",
+      "led to",
+      "complex societies"
+    ],
+    [
+      "ancient societies",
+      "requires",
+      "sanitation"
+    ],
+    [
+      "ancient societies",
+      "shaped by",
+      "Inca Empire"
+    ],
+    [
+      "ancient societies",
+      "shaped by",
+      "technological advancements"
+    ],
+    [
+      "ancient societies",
+      "supported",
+      "food production"
+    ],
+    [
+      "ancient societies",
+      "utilized",
+      "resource utilization"
+    ],
+    [
+      "ancient societies",
+      "utilizes",
+      "irrigation systems"
+    ],
+    [
+      "civilization",
+      "affects",
+      "climate change"
+    ],
+    [
+      "civilization",
+      "contributed to",
+      "trade networks"
+    ],
+    [
+      "civilization",
+      "developed into",
+      "ancient societies"
+    ],
+    [
+      "civilization",
+      "emerged from",
+      "complex societies"
+    ],
+    [
+      "civilization",
+      "facilitated by",
+      "goods exchange"
+    ],
+    [
+      "civilization",
+      "influences",
+      "technological advancements"
+    ],
+    [
+      "civilization",
+      "part of",
+      "Inca Empire"
+    ],
+    [
+      "civilization",
+      "shapes",
+      "military campaigns"
+    ],
+    [
+      "civilization",
+      "supports",
+      "sanitation"
+    ],
+    [
+      "civilization",
+      "sustained by",
+      "surplus food"
+    ],
+    [
+      "civilization growth",
+      "contributes to",
+      "complex societies"
+    ],
+    [
+      "civilization growth",
+      "contributes to",
+      "historical impact"
+    ],
+    [
+      "civilization growth",
+      "drives",
+      "industry"
+    ],
+    [
+      "civilization growth",
+      "drives",
+      "irrigation systems"
+    ],
+    [
+      "civilization growth",
+      "drives",
+      "technological spread"
+    ],
+    [
+      "civilization growth",
+      "enables",
+      "irrigation"
+    ],
+    [
+      "civilization growth",
+      "enables",
+      "military campaigns"
+    ],
+    [
+      "civilization growth",
+      "enables",
+      "trade routes"
+    ],
+    [
+      "civilization growth",
+      "enhances",
+      "food production"
+    ],
+    [
+      "civilization growth",
+      "fosters",
+      "regional interaction"
+    ],
+    [
+      "civilization growth",
+      "impacts",
+      "climate change"
+    ],
+    [
+      "civilization growth",
+      "leads to",
+      "societal evolution"
+    ],
+    [
+      "civilization growth",
+      "nurtured by",
+      "ancient societies"
+    ],
+    [
+      "civilization growth",
+      "promotes",
+      "cultural diffusion"
+    ],
+    [
+      "civilization growth",
+      "promotes",
+      "human interaction"
+    ],
+    [
+      "clean water",
+      "depends on",
+      "civilization growth"
+    ],
+    [
+      "clean water",
+      "depends on",
+      "food production"
+    ],
+    [
+      "clean water",
+      "depends on",
+      "future generations"
+    ],
+    [
+      "clean water",
+      "enables",
+      "economic exchange"
+    ],
+    [
+      "clean water",
+      "facilitates",
+      "human interaction"
+    ],
+    [
+      "clean water",
+      "impacted by",
+      "pollution"
+    ],
+    [
+      "clean water",
+      "is necessary for",
+      "surplus food"
+    ],
+    [
+      "clean water",
+      "provides",
+      "ancient societies"
+    ],
+    [
+      "clean water",
+      "provides",
+      "hydroelectric power"
+    ],
+    [
+      "clean water",
+      "provides",
+      "water"
+    ],
+    [
+      "clean water",
+      "provides",
+      "water scarcity"
+    ],
+    [
+      "clean water",
+      "requires",
+      "agriculture"
+    ],
+    [
+      "clean water",
+      "requires",
+      "societal evolution"
+    ],
+    [
+      "clean water",
+      "utilized for",
+      "resource utilization"
+    ],
+    [
+      "climate change",
+      "affected",
+      "historical trade"
+    ],
+    [
+      "climate change",
+      "affects",
+      "transportation networks"
+    ],
+    [
+      "climate change",
+      "exacerbates",
+      "water scarcity"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "survival"
+    ],
+    [
+      "climate change",
+      "influences",
+      "societal evolution"
+    ],
+    [
+      "complex societies",
+      "affects",
+      "pollution"
+    ],
+    [
+      "complex societies",
+      "benefits from",
+      "future generations"
+    ],
+    [
+      "complex societies",
+      "challenges",
+      "water scarcity"
+    ],
+    [
+      "complex societies",
+      "contributes to",
+      "agriculture"
+    ],
+    [
+      "complex societies",
+      "contributes to",
+      "water"
+    ],
+    [
+      "complex societies",
+      "enables",
+      "economic development"
+    ],
+    [
+      "complex societies",
+      "enables",
+      "economic exchange"
+    ],
+    [
+      "complex societies",
+      "fostered by",
+      "goods exchange"
+    ],
+    [
+      "complex societies",
+      "shaped by",
+      "historical impact"
+    ],
+    [
+      "complex societies",
+      "shaped by",
+      "history"
+    ],
+    [
+      "complex societies",
+      "shapes",
+      "human interaction"
+    ],
+    [
+      "complex societies",
+      "supports",
+      "irrigation systems"
+    ],
+    [
+      "conservation",
+      "contributes to",
+      "civilization"
+    ],
+    [
+      "conservation",
+      "drives",
+      "technological spread"
+    ],
+    [
+      "conservation",
+      "enables",
+      "sea routes"
+    ],
+    [
+      "conservation",
+      "ensures",
+      "clean water"
+    ],
+    [
+      "conservation",
+      "improves",
+      "resource utilization"
+    ],
+    [
+      "conservation",
+      "influenced by",
+      "technological advancements"
+    ],
+    [
+      "conservation",
+      "influences",
+      "historical impact"
+    ],
+    [
+      "conservation",
+      "influences",
+      "societal evolution"
+    ],
+    [
+      "conservation",
+      "promotes",
+      "energy"
+    ],
+    [
+      "conservation",
+      "supports",
+      "agriculture"
+    ],
+    [
+      "conservation",
+      "supports",
+      "economic development"
+    ],
+    [
+      "conservation",
+      "supports",
+      "renewable energy"
+    ],
+    [
+      "cultural diffusion",
+      "drives",
+      "industry"
+    ],
+    [
+      "cultural diffusion",
+      "enables",
+      "goods exchange"
+    ],
+    [
+      "cultural diffusion",
+      "enhanced",
+      "human interaction"
+    ],
+    [
+      "cultural diffusion",
+      "enhances",
+      "transportation importance"
+    ],
+    [
+      "cultural diffusion",
+      "facilitates",
+      "economic development"
+    ],
+    [
+      "cultural diffusion",
+      "facilitates",
+      "sea routes"
+    ],
+    [
+      "cultural diffusion",
+      "influences",
+      "development"
+    ],
+    [
+      "cultural diffusion",
+      "influences",
+      "river systems"
+    ],
+    [
+      "cultural diffusion",
+      "influences",
+      "settlements"
+    ],
+    [
+      "cultural diffusion",
+      "influences",
+      "societal evolution"
+    ],
+    [
+      "cultural diffusion",
+      "promotes",
+      "ancient Mesopotamia"
+    ],
+    [
+      "cultural diffusion",
+      "promotes",
+      "complex societies"
+    ],
+    [
+      "cultural diffusion",
+      "promotes",
+      "economic exchange"
+    ],
+    [
+      "cultural diffusion",
+      "supported",
+      "irrigation systems"
+    ],
+    [
+      "cultural diffusion",
+      "utilized by",
+      "resource utilization"
+    ],
+    [
+      "cultural exchange",
+      "enables",
+      "transportation importance"
+    ],
+    [
+      "cultural exchange",
+      "facilitates",
+      "power sources"
+    ],
+    [
+      "cultural exchange",
+      "facilitates",
+      "sea routes"
+    ],
+    [
+      "cultural exchange",
+      "influences",
+      "economic exchange"
+    ],
+    [
+      "cultural exchange",
+      "supports",
+      "clean water"
+    ],
+    [
+      "development",
+      "contributes to",
+      "civilization"
+    ],
+    [
+      "development",
+      "enabled by",
+      "irrigation"
+    ],
+    [
+      "development",
+      "enables",
+      "surplus food"
+    ],
+    [
+      "development",
+      "enables",
+      "transportation networks"
+    ],
+    [
+      "development",
+      "enhanced by",
+      "maritime trade"
+    ],
+    [
+      "development",
+      "enhances",
+      "food production"
+    ],
+    [
+      "development",
+      "highlights",
+      "transportation importance"
+    ],
+    [
+      "development",
+      "improves",
+      "sanitation"
+    ],
+    [
+      "development",
+      "influenced by",
+      "ancient Mesopotamia"
+    ],
+    [
+      "development",
+      "informs",
+      "agricultural practices"
+    ],
+    [
+      "development",
+      "is generated by",
+      "hydroelectric power"
+    ],
+    [
+      "development",
+      "is shaped by",
+      "water"
+    ],
+    [
+      "development",
+      "leads to",
+      "settlements"
+    ],
+    [
+      "development",
+      "led to",
+      "complex societies"
+    ],
+    [
+      "development",
+      "requires",
+      "conservation"
+    ],
+    [
+      "development",
+      "shaped by",
+      "future generations"
+    ],
+    [
+      "development",
+      "shaped by",
+      "military campaigns"
+    ],
+    [
+      "development",
+      "supports",
+      "river systems"
+    ],
+    [
+      "economic development",
+      "driven by",
+      "surplus food"
+    ],
+    [
+      "economic development",
+      "drives",
+      "cultural exchange"
+    ],
+    [
+      "economic development",
+      "drives",
+      "energy"
+    ],
+    [
+      "economic development",
+      "enables",
+      "clean water"
+    ],
+    [
+      "economic development",
+      "enables",
+      "renewable energy"
+    ],
+    [
+      "economic development",
+      "enhances",
+      "irrigation"
+    ],
+    [
+      "economic development",
+      "facilitates",
+      "sea routes"
+    ],
+    [
+      "economic development",
+      "improves",
+      "sanitation"
+    ],
+    [
+      "economic development",
+      "supports",
+      "transportation networks"
+    ],
+    [
+      "economic exchange",
+      "facilitated",
+      "food surplus"
+    ],
+    [
+      "economic exchange",
+      "utilizes",
+      "sea routes"
+    ],
+    [
+      "empire expansion",
+      "depends on",
+      "agriculture"
+    ],
+    [
+      "empire expansion",
+      "drives",
+      "goods exchange"
+    ],
+    [
+      "empire expansion",
+      "drives",
+      "historical trade"
+    ],
+    [
+      "empire expansion",
+      "enables",
+      "economic exchange"
+    ],
+    [
+      "empire expansion",
+      "enhances",
+      "irrigation systems"
+    ],
+    [
+      "empire expansion",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "empire expansion",
+      "facilitates",
+      "economic development"
+    ],
+    [
+      "empire expansion",
+      "facilitates",
+      "human interaction"
+    ],
+    [
+      "empire expansion",
+      "facilitates",
+      "maritime trade"
+    ],
+    [
+      "empire expansion",
+      "facilitates",
+      "settlements"
+    ],
+    [
+      "empire expansion",
+      "facilitates",
+      "transportation networks"
+    ],
+    [
+      "empire expansion",
+      "supports",
+      "irrigation"
+    ],
+    [
+      "energy",
+      "provides",
+      "water"
+    ],
+    [
+      "energy",
+      "utilized in",
+      "surplus food"
+    ],
+    [
+      "environmental sustainability",
+      "affects",
+      "population growth"
+    ],
+    [
+      "environmental sustainability",
+      "enables",
+      "irrigation systems"
+    ],
+    [
+      "environmental sustainability",
+      "enhances",
+      "surplus food"
+    ],
+    [
+      "environmental sustainability",
+      "ensures",
+      "future generations"
+    ],
+    [
+      "environmental sustainability",
+      "generates",
+      "hydroelectric power"
+    ],
+    [
+      "environmental sustainability",
+      "influences",
+      "agricultural practices"
+    ],
+    [
+      "environmental sustainability",
+      "is linked to",
+      "energy"
+    ],
+    [
+      "environmental sustainability",
+      "provides",
+      "power sources"
+    ],
+    [
+      "environmental sustainability",
+      "supports",
+      "agriculture"
+    ],
+    [
+      "environmental sustainability",
+      "supports",
+      "civilization growth"
+    ],
+    [
+      "environmental sustainability",
+      "supports",
+      "food production"
+    ],
+    [
+      "environmental sustainability",
+      "supports",
+      "renewable energy"
+    ],
+    [
+      "food production",
+      "affects",
+      "climate change"
+    ],
+    [
+      "food production",
+      "impacted by",
+      "pollution"
+    ],
+    [
+      "food surplus",
+      "benefits from",
+      "trade routes"
+    ],
+    [
+      "food surplus",
+      "enabled",
+      "waterways"
+    ],
+    [
+      "food surplus",
+      "enables",
+      "cultural exchange"
+    ],
+    [
+      "food surplus",
+      "enables",
+      "food production"
+    ],
+    [
+      "food surplus",
+      "enables",
+      "water"
+    ],
+    [
+      "food surplus",
+      "facilitates",
+      "goods exchange"
+    ],
+    [
+      "food surplus",
+      "powers",
+      "energy"
+    ],
+    [
+      "food surplus",
+      "promotes",
+      "regional interaction"
+    ],
+    [
+      "food surplus",
+      "supports",
+      "civilization"
+    ],
+    [
+      "food surplus",
+      "supports",
+      "complex societies"
+    ],
+    [
+      "food surplus",
+      "supports",
+      "survival"
+    ],
+    [
+      "future generations",
+      "benefits from",
+      "irrigation systems"
+    ],
+    [
+      "future generations",
+      "benefits from",
+      "regional interaction"
+    ],
+    [
+      "future generations",
+      "depends on",
+      "irrigation"
+    ],
+    [
+      "future generations",
+      "enables",
+      "cultural exchange"
+    ],
+    [
+      "future generations",
+      "ensures",
+      "renewable energy"
+    ],
+    [
+      "future generations",
+      "influences",
+      "societal evolution"
+    ],
+    [
+      "future generations",
+      "is impacted by",
+      "pollution"
+    ],
+    [
+      "future generations",
+      "supports",
+      "energy"
+    ],
+    [
+      "future generations",
+      "threatens",
+      "water scarcity"
+    ],
+    [
+      "goods exchange",
+      "affects",
+      "historical impact"
+    ],
+    [
+      "goods exchange",
+      "contributes to",
+      "economic development"
+    ],
+    [
+      "goods exchange",
+      "enables",
+      "surplus food"
+    ],
+    [
+      "goods exchange",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "goods exchange",
+      "facilitates",
+      "military campaigns"
+    ],
+    [
+      "goods exchange",
+      "highlights",
+      "transportation importance"
+    ],
+    [
+      "goods exchange",
+      "involved in",
+      "historical trade"
+    ],
+    [
+      "goods exchange",
+      "involves",
+      "energy"
+    ],
+    [
+      "goods exchange",
+      "involves",
+      "renewable energy"
+    ],
+    [
+      "historical impact",
+      "drives",
+      "food production"
+    ],
+    [
+      "historical impact",
+      "has",
+      "hydroelectric power"
+    ],
+    [
+      "historical impact",
+      "influences",
+      "transportation"
+    ],
+    [
+      "historical impact",
+      "shapes",
+      "economic development"
+    ],
+    [
+      "historical trade",
+      "enables",
+      "maritime trade"
+    ],
+    [
+      "historical trade",
+      "facilitated",
+      "sea routes"
+    ],
+    [
+      "historical trade",
+      "fosters",
+      "cultural exchange"
+    ],
+    [
+      "historical trade",
+      "highlights",
+      "transportation importance"
+    ],
+    [
+      "historical trade",
+      "influenced by",
+      "industry"
+    ],
+    [
+      "historical trade",
+      "influenced by",
+      "water scarcity"
+    ],
+    [
+      "historical trade",
+      "influences",
+      "history"
+    ],
+    [
+      "historical trade",
+      "is part of",
+      "trade routes"
+    ],
+    [
+      "historical trade",
+      "relies on",
+      "river systems"
+    ],
+    [
+      "historical trade",
+      "shaped",
+      "complex societies"
+    ],
+    [
+      "historical trade",
+      "shapes",
+      "historical impact"
+    ],
+    [
+      "history",
+      "contributes to",
+      "civilization growth"
+    ],
+    [
+      "history",
+      "contributes to",
+      "renewable energy"
+    ],
+    [
+      "history",
+      "facilitated by",
+      "cultural exchange"
+    ],
+    [
+      "history",
+      "facilitates",
+      "trade routes"
+    ],
+    [
+      "history",
+      "influenced",
+      "technological advancements"
+    ],
+    [
+      "history",
+      "influences",
+      "resource utilization"
+    ],
+    [
+      "history",
+      "influences",
+      "trade networks"
+    ],
+    [
+      "history",
+      "influences",
+      "transportation importance"
+    ],
+    [
+      "history",
+      "influences",
+      "transportation networks"
+    ],
+    [
+      "history",
+      "shapes",
+      "societal evolution"
+    ],
+    [
+      "history",
+      "shapes",
+      "strategic importance"
+    ],
+    [
+      "human interaction",
+      "depends on",
+      "water"
+    ],
+    [
+      "human interaction",
+      "influenced",
+      "hydroelectric power"
+    ],
+    [
+      "hydroelectric power",
+      "affected by",
+      "climate change"
+    ],
+    [
+      "hydroelectric power",
+      "contributes to",
+      "food surplus"
+    ],
+    [
+      "hydroelectric power",
+      "facilitates",
+      "economic exchange"
+    ],
+    [
+      "hydroelectric power",
+      "facilitates",
+      "goods exchange"
+    ],
+    [
+      "hydroelectric power",
+      "impacts",
+      "water scarcity"
+    ],
+    [
+      "hydroelectric power",
+      "is generated by",
+      "industry"
+    ],
+    [
+      "hydroelectric power",
+      "is powered by",
+      "transportation"
+    ],
+    [
+      "hydroelectric power",
+      "powered by",
+      "agricultural practices"
+    ],
+    [
+      "hydroelectric power",
+      "provides",
+      "power sources"
+    ],
+    [
+      "hydroelectric power",
+      "provides",
+      "water"
+    ],
+    [
+      "hydroelectric power",
+      "provides energy for",
+      "pollution"
+    ],
+    [
+      "hydroelectric power",
+      "supported by",
+      "civilization growth"
+    ],
+    [
+      "hydroelectric power",
+      "supports",
+      "agriculture"
+    ],
+    [
+      "hydroelectric power",
+      "supports",
+      "civilization"
+    ],
+    [
+      "industry",
+      "derived from",
+      "renewable energy"
+    ],
+    [
+      "industry",
+      "drives",
+      "empire expansion"
+    ],
+    [
+      "industry",
+      "facilitates",
+      "goods exchange"
+    ],
+    [
+      "industry",
+      "supplied by",
+      "energy"
+    ],
+    [
+      "industry",
+      "supported by",
+      "agriculture"
+    ],
+    [
+      "irrigation",
+      "dependent on",
+      "agriculture"
+    ],
+    [
+      "irrigation",
+      "depends on",
+      "food surplus"
+    ],
+    [
+      "irrigation",
+      "highlights",
+      "transportation importance"
+    ],
+    [
+      "irrigation",
+      "is utilized for",
+      "hydroelectric power"
+    ],
+    [
+      "irrigation",
+      "is utilized for",
+      "water"
+    ],
+    [
+      "irrigation",
+      "necessary for",
+      "sanitation"
+    ],
+    [
+      "irrigation",
+      "promoted",
+      "cultural exchange"
+    ],
+    [
+      "irrigation",
+      "promotes",
+      "economic exchange"
+    ],
+    [
+      "irrigation",
+      "utilized in",
+      "energy"
+    ],
+    [
+      "irrigation systems",
+      "enabled by",
+      "population growth"
+    ],
+    [
+      "irrigation systems",
+      "enabled by",
+      "societal complexity"
+    ],
+    [
+      "irrigation systems",
+      "facilitates",
+      "survival"
+    ],
+    [
+      "irrigation systems",
+      "increases",
+      "food production"
+    ],
+    [
+      "irrigation systems",
+      "is influenced by",
+      "water scarcity"
+    ],
+    [
+      "irrigation systems",
+      "originated from",
+      "ancient Mesopotamia"
+    ],
+    [
+      "irrigation systems",
+      "provides",
+      "clean water"
+    ],
+    [
+      "irrigation systems",
+      "supported by",
+      "trade routes"
+    ],
+    [
+      "irrigation systems",
+      "supported by",
+      "transportation"
+    ],
+    [
+      "irrigation systems",
+      "supports",
+      "goods exchange"
+    ],
+    [
+      "irrigation systems",
+      "supports",
+      "hydroelectric power"
+    ],
+    [
+      "irrigation systems",
+      "utilized",
+      "societal evolution"
+    ],
+    [
+      "maritime trade",
+      "affects",
+      "water scarcity"
+    ],
+    [
+      "maritime trade",
+      "benefits from",
+      "hydroelectric power"
+    ],
+    [
+      "maritime trade",
+      "contributes to",
+      "civilization"
+    ],
+    [
+      "maritime trade",
+      "contributes to",
+      "complex societies"
+    ],
+    [
+      "maritime trade",
+      "dependent on",
+      "agriculture"
+    ],
+    [
+      "maritime trade",
+      "drives",
+      "energy"
+    ],
+    [
+      "maritime trade",
+      "facilitates",
+      "human interaction"
+    ],
+    [
+      "maritime trade",
+      "involves",
+      "economic exchange"
+    ],
+    [
+      "maritime trade",
+      "promotes",
+      "cultural exchange"
+    ],
+    [
+      "maritime trade",
+      "supports",
+      "food production"
+    ],
+    [
+      "maritime trade",
+      "utilizes",
+      "sea routes"
+    ],
+    [
+      "mechanization",
+      "drives",
+      "energy"
+    ],
+    [
+      "mechanization",
+      "enabled",
+      "hydroelectric power"
+    ],
+    [
+      "mechanization",
+      "enables",
+      "trade networks"
+    ],
+    [
+      "mechanization",
+      "enhanced by",
+      "irrigation systems"
+    ],
+    [
+      "mechanization",
+      "enhances",
+      "food production"
+    ],
+    [
+      "mechanization",
+      "enhances",
+      "goods exchange"
+    ],
+    [
+      "mechanization",
+      "enhances",
+      "resource utilization"
+    ],
+    [
+      "mechanization",
+      "enhances",
+      "technological advancements"
+    ],
+    [
+      "mechanization",
+      "enhances",
+      "waterways"
+    ],
+    [
+      "mechanization",
+      "influenced",
+      "regional interaction"
+    ],
+    [
+      "mechanization",
+      "is a part of",
+      "industry"
+    ],
+    [
+      "mechanization",
+      "is driven by",
+      "agriculture"
+    ],
+    [
+      "mechanization",
+      "is enhanced by",
+      "complex societies"
+    ],
+    [
+      "mechanization",
+      "promotes",
+      "economic development"
+    ],
+    [
+      "mechanization",
+      "resulted in",
+      "development"
+    ],
+    [
+      "mechanization",
+      "shapes",
+      "history"
+    ],
+    [
+      "mechanization",
+      "supports",
+      "transportation networks"
+    ],
+    [
+      "military campaigns",
+      "affected by",
+      "trade routes"
+    ],
+    [
+      "military campaigns",
+      "affects",
+      "complex societies"
+    ],
+    [
+      "military campaigns",
+      "affects",
+      "food production"
+    ],
+    [
+      "military campaigns",
+      "drives",
+      "development"
+    ],
+    [
+      "military campaigns",
+      "drives",
+      "technological advancements"
+    ],
+    [
+      "military campaigns",
+      "enables",
+      "cultural exchange"
+    ],
+    [
+      "military campaigns",
+      "facilitates",
+      "empire expansion"
+    ],
+    [
+      "military campaigns",
+      "important for",
+      "transportation importance"
+    ],
+    [
+      "military campaigns",
+      "influenced by",
+      "history"
+    ],
+    [
+      "military campaigns",
+      "influences",
+      "cultural diffusion"
+    ],
+    [
+      "military campaigns",
+      "influences",
+      "maritime trade"
+    ],
+    [
+      "military campaigns",
+      "influences",
+      "population growth"
+    ],
+    [
+      "military campaigns",
+      "is influenced by",
+      "water"
+    ],
+    [
+      "military campaigns",
+      "utilizes",
+      "ancient societies"
+    ],
+    [
+      "pollution",
+      "affects",
+      "environmental sustainability"
+    ],
+    [
+      "pollution",
+      "exacerbates",
+      "water scarcity"
+    ],
+    [
+      "pollution",
+      "has",
+      "historical impact"
+    ],
+    [
+      "pollution",
+      "impacted by",
+      "civilization growth"
+    ],
+    [
+      "pollution",
+      "is affected by",
+      "military campaigns"
+    ],
+    [
+      "population growth",
+      "benefits from",
+      "future generations"
+    ],
+    [
+      "population growth",
+      "contributes to",
+      "conservation"
+    ],
+    [
+      "population growth",
+      "drives",
+      "ancient Mesopotamia"
+    ],
+    [
+      "population growth",
+      "drives",
+      "cultural diffusion"
+    ],
+    [
+      "population growth",
+      "drives",
+      "goods exchange"
+    ],
+    [
+      "population growth",
+      "enables",
+      "food surplus"
+    ],
+    [
+      "population growth",
+      "impacts",
+      "climate change"
+    ],
+    [
+      "population growth",
+      "influences",
+      "human interaction"
+    ],
+    [
+      "population growth",
+      "influences",
+      "river systems"
+    ],
+    [
+      "population growth",
+      "is essential for",
+      "clean water"
+    ],
+    [
+      "population growth",
+      "leads to",
+      "complex societies"
+    ],
+    [
+      "population growth",
+      "led to",
+      "settlements"
+    ],
+    [
+      "population growth",
+      "results in",
+      "surplus food"
+    ],
+    [
+      "population growth",
+      "supports",
+      "power sources"
+    ],
+    [
+      "power sources",
+      "dependent on",
+      "civilization growth"
+    ],
+    [
+      "power sources",
+      "enhances",
+      "regional interaction"
+    ],
+    [
+      "power sources",
+      "generates",
+      "renewable energy"
+    ],
+    [
+      "power sources",
+      "leveraged",
+      "resource utilization"
+    ],
+    [
+      "power sources",
+      "provides",
+      "energy"
+    ],
+    [
+      "power sources",
+      "supplies",
+      "waterways"
+    ],
+    [
+      "power sources",
+      "supports",
+      "food production"
+    ],
+    [
+      "power sources",
+      "supports",
+      "maritime trade"
+    ],
+    [
+      "regional interaction",
+      "enables",
+      "maritime trade"
+    ],
+    [
+      "regional interaction",
+      "enables",
+      "sea routes"
+    ],
+    [
+      "regional interaction",
+      "enhances",
+      "economic exchange"
+    ],
+    [
+      "regional interaction",
+      "enhances",
+      "irrigation"
+    ],
+    [
+      "regional interaction",
+      "facilitates",
+      "historical trade"
+    ],
+    [
+      "regional interaction",
+      "influences",
+      "human interaction"
+    ],
+    [
+      "regional interaction",
+      "influences",
+      "settlements"
+    ],
+    [
+      "regional interaction",
+      "provides",
+      "clean water"
+    ],
+    [
+      "regional interaction",
+      "requires",
+      "water"
+    ],
+    [
+      "renewable energy",
+      "contributes to",
+      "resource utilization"
+    ],
+    [
+      "renewable energy",
+      "powered by",
+      "mechanization"
+    ],
+    [
+      "renewable energy",
+      "provides",
+      "clean water"
+    ],
+    [
+      "renewable energy",
+      "provides",
+      "waterways"
+    ],
+    [
+      "renewable energy",
+      "supports",
+      "food production"
+    ],
+    [
+      "renewable energy",
+      "supports",
+      "food surplus"
+    ],
+    [
+      "resource management",
+      "advances",
+      "technological advancements"
+    ],
+    [
+      "resource management",
+      "affects",
+      "pollution"
+    ],
+    [
+      "resource management",
+      "affects",
+      "transportation importance"
+    ],
+    [
+      "resource management",
+      "contributes to",
+      "civilization growth"
+    ],
+    [
+      "resource management",
+      "contributes to",
+      "economic development"
+    ],
+    [
+      "resource management",
+      "enhanced",
+      "trade networks"
+    ],
+    [
+      "resource management",
+      "enhances",
+      "agriculture"
+    ],
+    [
+      "resource management",
+      "enhances",
+      "irrigation"
+    ],
+    [
+      "resource management",
+      "facilitated by",
+      "maritime trade"
+    ],
+    [
+      "resource management",
+      "guides",
+      "future generations"
+    ],
+    [
+      "resource management",
+      "impacts",
+      "water scarcity"
+    ],
+    [
+      "resource management",
+      "informs",
+      "agricultural practices"
+    ],
+    [
+      "resource management",
+      "manages",
+      "water"
+    ],
+    [
+      "resource management",
+      "produced",
+      "surplus food"
+    ],
+    [
+      "resource management",
+      "promotes",
+      "cultural diffusion"
+    ],
+    [
+      "resource management",
+      "promotes",
+      "technological spread"
+    ],
+    [
+      "resource management",
+      "provides",
+      "energy"
+    ],
+    [
+      "resource management",
+      "provides",
+      "power sources"
+    ],
+    [
+      "resource management",
+      "supports",
+      "development"
+    ],
+    [
+      "resource management",
+      "supports",
+      "transportation"
+    ],
+    [
+      "resource utilization",
+      "associated with",
+      "ancient Mesopotamia"
+    ],
+    [
+      "resource utilization",
+      "enables",
+      "food production"
+    ],
+    [
+      "resource utilization",
+      "impacted by",
+      "pollution"
+    ],
+    [
+      "resource utilization",
+      "involves",
+      "economic exchange"
+    ],
+    [
+      "resource utilization",
+      "is crucial for",
+      "transportation importance"
+    ],
+    [
+      "resource utilization",
+      "utilized by",
+      "surplus food"
+    ],
+    [
+      "river systems",
+      "depends on",
+      "industry"
+    ],
+    [
+      "river systems",
+      "enables",
+      "economic exchange"
+    ],
+    [
+      "river systems",
+      "facilitated by",
+      "goods exchange"
+    ],
+    [
+      "river systems",
+      "influenced",
+      "ancient Mesopotamia"
+    ],
+    [
+      "river systems",
+      "influences",
+      "human interaction"
+    ],
+    [
+      "river systems",
+      "provided by",
+      "food surplus"
+    ],
+    [
+      "river systems",
+      "source of",
+      "water"
+    ],
+    [
+      "river systems",
+      "supports",
+      "complex societies"
+    ],
+    [
+      "river systems",
+      "supports",
+      "food production"
+    ],
+    [
+      "river systems",
+      "supports",
+      "irrigation systems"
+    ],
+    [
+      "river systems",
+      "supports",
+      "maritime trade"
+    ],
+    [
+      "river systems",
+      "supports",
+      "technological spread"
+    ],
+    [
+      "river systems",
+      "supports",
+      "transportation importance"
+    ],
+    [
+      "river systems",
+      "supports",
+      "water scarcity"
+    ],
+    [
+      "river systems",
+      "utilized by",
+      "resource utilization"
+    ],
+    [
+      "river systems",
+      "utilized by",
+      "transportation networks"
+    ],
+    [
+      "sanitation",
+      "dependent on",
+      "civilization"
+    ],
+    [
+      "sanitation",
+      "dependent on",
+      "food surplus"
+    ],
+    [
+      "sanitation",
+      "depends on",
+      "settlements"
+    ],
+    [
+      "sanitation",
+      "depends on",
+      "survival"
+    ],
+    [
+      "sanitation",
+      "facilitates",
+      "economic exchange"
+    ],
+    [
+      "sanitation",
+      "impacts",
+      "water scarcity"
+    ],
+    [
+      "sanitation",
+      "originated in",
+      "ancient Mesopotamia"
+    ],
+    [
+      "sanitation",
+      "provides",
+      "clean water"
+    ],
+    [
+      "sanitation",
+      "requires",
+      "population growth"
+    ],
+    [
+      "sea routes",
+      "affects",
+      "pollution"
+    ],
+    [
+      "sea routes",
+      "facilitated by",
+      "sanitation"
+    ],
+    [
+      "sea routes",
+      "facilitates",
+      "population growth"
+    ],
+    [
+      "sea routes",
+      "is facilitated by",
+      "surplus food"
+    ],
+    [
+      "sea routes",
+      "supports",
+      "economic development"
+    ],
+    [
+      "sea routes",
+      "utilized by",
+      "goods exchange"
+    ],
+    [
+      "sea routes",
+      "utilizes",
+      "survival"
+    ],
+    [
+      "sea routes",
+      "utilizes",
+      "transportation"
+    ],
+    [
+      "settlements",
+      "affects",
+      "climate change"
+    ],
+    [
+      "settlements",
+      "affects",
+      "water scarcity"
+    ],
+    [
+      "settlements",
+      "contributes to",
+      "complex societies"
+    ],
+    [
+      "settlements",
+      "depends on",
+      "river systems"
+    ],
+    [
+      "settlements",
+      "enables",
+      "irrigation"
+    ],
+    [
+      "settlements",
+      "establishes",
+      "transportation"
+    ],
+    [
+      "settlements",
+      "facilitated",
+      "economic exchange"
+    ],
+    [
+      "settlements",
+      "influences",
+      "ancient Mesopotamia"
+    ],
+    [
+      "settlements",
+      "involves",
+      "human interaction"
+    ],
+    [
+      "settlements",
+      "is influenced by",
+      "transportation importance"
+    ],
+    [
+      "settlements",
+      "is supported by",
+      "irrigation systems"
+    ],
+    [
+      "settlements",
+      "produced by",
+      "surplus food"
+    ],
+    [
+      "settlements",
+      "supported",
+      "trade networks"
+    ],
+    [
+      "settlements",
+      "supported",
+      "trade routes"
+    ],
+    [
+      "settlements",
+      "supports",
+      "civilization growth"
+    ],
+    [
+      "settlements",
+      "supports",
+      "transportation networks"
+    ],
+    [
+      "societal complexity",
+      "affects",
+      "water scarcity"
+    ],
+    [
+      "societal complexity",
+      "contributes to",
+      "cultural diffusion"
+    ],
+    [
+      "societal complexity",
+      "contributes to",
+      "development"
+    ],
+    [
+      "societal complexity",
+      "contributes to",
+      "economic exchange"
+    ],
+    [
+      "societal complexity",
+      "depends on",
+      "agriculture"
+    ],
+    [
+      "societal complexity",
+      "drives",
+      "military campaigns"
+    ],
+    [
+      "societal complexity",
+      "drives",
+      "population growth"
+    ],
+    [
+      "societal complexity",
+      "drives",
+      "renewable energy"
+    ],
+    [
+      "societal complexity",
+      "enabled",
+      "trade routes"
+    ],
+    [
+      "societal complexity",
+      "enables",
+      "food surplus"
+    ],
+    [
+      "societal complexity",
+      "enhances",
+      "sea routes"
+    ],
+    [
+      "societal complexity",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "societal complexity",
+      "facilitates",
+      "maritime trade"
+    ],
+    [
+      "societal complexity",
+      "facilitates",
+      "technological spread"
+    ],
+    [
+      "societal complexity",
+      "fosters",
+      "civilization growth"
+    ],
+    [
+      "societal complexity",
+      "influences",
+      "goods exchange"
+    ],
+    [
+      "societal complexity",
+      "is influenced by",
+      "trade networks"
+    ],
+    [
+      "societal complexity",
+      "led to",
+      "complex societies"
+    ],
+    [
+      "societal complexity",
+      "powered by",
+      "hydroelectric power"
+    ],
+    [
+      "societal complexity",
+      "provides",
+      "clean water"
+    ],
+    [
+      "societal complexity",
+      "supports",
+      "surplus food"
+    ],
+    [
+      "societal evolution",
+      "driven by",
+      "renewable energy"
+    ],
+    [
+      "societal evolution",
+      "facilitated",
+      "human interaction"
+    ],
+    [
+      "societal evolution",
+      "facilitates",
+      "goods exchange"
+    ],
+    [
+      "societal evolution",
+      "facilitates",
+      "sea routes"
+    ],
+    [
+      "societal evolution",
+      "influenced",
+      "power sources"
+    ],
+    [
+      "societal evolution",
+      "promotes",
+      "cultural exchange"
+    ],
+    [
+      "societal evolution",
+      "requires",
+      "energy"
+    ],
+    [
+      "societal evolution",
+      "shapes",
+      "civilization"
+    ],
+    [
+      "societal evolution",
+      "shapes",
+      "historical impact"
+    ],
+    [
+      "strategic importance",
+      "contributes to",
+      "economic development"
+    ],
+    [
+      "strategic importance",
+      "contributes to",
+      "empire expansion"
+    ],
+    [
+      "strategic importance",
+      "enhances",
+      "cultural diffusion"
+    ],
+    [
+      "strategic importance",
+      "facilitates",
+      "goods exchange"
+    ],
+    [
+      "strategic importance",
+      "facilitates",
+      "maritime trade"
+    ],
+    [
+      "strategic importance",
+      "holds",
+      "water"
+    ],
+    [
+      "strategic importance",
+      "influences",
+      "sea routes"
+    ],
+    [
+      "strategic importance",
+      "is crucial for",
+      "transportation networks"
+    ],
+    [
+      "surplus food",
+      "affects",
+      "pollution"
+    ],
+    [
+      "surplus food",
+      "dependent on",
+      "water scarcity"
+    ],
+    [
+      "surplus food",
+      "drives",
+      "economic exchange"
+    ],
+    [
+      "surplus food",
+      "enabled by",
+      "irrigation systems"
+    ],
+    [
+      "surplus food",
+      "produced by",
+      "ancient societies"
+    ],
+    [
+      "surplus food",
+      "provides",
+      "Inca Empire"
+    ],
+    [
+      "surplus food",
+      "supports",
+      "complex societies"
+    ],
+    [
+      "survival",
+      "depends on",
+      "civilization growth"
+    ],
+    [
+      "survival",
+      "depends on",
+      "clean water"
+    ],
+    [
+      "survival",
+      "drives",
+      "societal evolution"
+    ],
+    [
+      "survival",
+      "enabled by",
+      "irrigation"
+    ],
+    [
+      "survival",
+      "enables",
+      "economic exchange"
+    ],
+    [
+      "survival",
+      "ensures",
+      "future generations"
+    ],
+    [
+      "survival",
+      "essential for",
+      "trade routes"
+    ],
+    [
+      "survival",
+      "essential for",
+      "waterways"
+    ],
+    [
+      "survival",
+      "establishes",
+      "settlements"
+    ],
+    [
+      "survival",
+      "facilitates",
+      "empire expansion"
+    ],
+    [
+      "survival",
+      "influences",
+      "cultural exchange"
+    ],
+    [
+      "survival",
+      "influences",
+      "human interaction"
+    ],
+    [
+      "survival",
+      "informs",
+      "agricultural practices"
+    ],
+    [
+      "survival",
+      "is essential for",
+      "water"
+    ],
+    [
+      "survival",
+      "is essential for",
+      "water scarcity"
+    ],
+    [
+      "survival",
+      "is influenced by",
+      "development"
+    ],
+    [
+      "survival",
+      "supports",
+      "agriculture"
+    ],
+    [
+      "survival",
+      "supports",
+      "complex societies"
+    ],
+    [
+      "survival",
+      "supports",
+      "transportation networks"
+    ],
+    [
+      "survival",
+      "utilizes",
+      "resource utilization"
+    ],
+    [
+      "technological advancements",
+      "contributes to",
+      "complex societies"
+    ],
+    [
+      "technological advancements",
+      "driven by",
+      "power sources"
+    ],
+    [
+      "technological advancements",
+      "driven by",
+      "renewable energy"
+    ],
+    [
+      "technological advancements",
+      "drives",
+      "development"
+    ],
+    [
+      "technological advancements",
+      "drives",
+      "economic development"
+    ],
+    [
+      "technological advancements",
+      "drives",
+      "trade networks"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "agriculture"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "goods exchange"
+    ],
+    [
+      "technological advancements",
+      "enhances",
+      "human interaction"
+    ],
+    [
+      "technological advancements",
+      "highlighted",
+      "transportation importance"
+    ],
+    [
+      "technological advancements",
+      "is advanced by",
+      "industry"
+    ],
+    [
+      "technological advancements",
+      "powered by",
+      "energy"
+    ],
+    [
+      "technological advancements",
+      "promotes",
+      "cultural diffusion"
+    ],
+    [
+      "technological advancements",
+      "promotes",
+      "technological spread"
+    ],
+    [
+      "technological advancements",
+      "shaped by",
+      "history"
+    ],
+    [
+      "technological spread",
+      "drives",
+      "hydroelectric power"
+    ],
+    [
+      "technological spread",
+      "drives",
+      "industry"
+    ],
+    [
+      "technological spread",
+      "enables",
+      "empire expansion"
+    ],
+    [
+      "technological spread",
+      "enables",
+      "sea routes"
+    ],
+    [
+      "technological spread",
+      "enhances",
+      "agriculture"
+    ],
+    [
+      "technological spread",
+      "enhances",
+      "food production"
+    ],
+    [
+      "technological spread",
+      "enhances",
+      "irrigation systems"
+    ],
+    [
+      "technological spread",
+      "enhances",
+      "transportation importance"
+    ],
+    [
+      "technological spread",
+      "exacerbates",
+      "water scarcity"
+    ],
+    [
+      "technological spread",
+      "facilitated by",
+      "civilization"
+    ],
+    [
+      "technological spread",
+      "facilitates",
+      "cultural diffusion"
+    ],
+    [
+      "technological spread",
+      "facilitates",
+      "transportation"
+    ],
+    [
+      "technological spread",
+      "spreads",
+      "maritime trade"
+    ],
+    [
+      "trade networks",
+      "connected",
+      "Inca Empire"
+    ],
+    [
+      "trade networks",
+      "connects",
+      "transportation networks"
+    ],
+    [
+      "trade networks",
+      "contributed to",
+      "empire expansion"
+    ],
+    [
+      "trade networks",
+      "contributes to",
+      "complex societies"
+    ],
+    [
+      "trade networks",
+      "contributes to",
+      "economic development"
+    ],
+    [
+      "trade networks",
+      "drives",
+      "societal evolution"
+    ],
+    [
+      "trade networks",
+      "enables",
+      "cultural exchange"
+    ],
+    [
+      "trade networks",
+      "facilitated by",
+      "trade routes"
+    ],
+    [
+      "trade networks",
+      "facilitates",
+      "economic exchange"
+    ],
+    [
+      "trade networks",
+      "facilitates",
+      "goods exchange"
+    ],
+    [
+      "trade networks",
+      "facilitates",
+      "historical trade"
+    ],
+    [
+      "trade networks",
+      "facilitates",
+      "maritime trade"
+    ],
+    [
+      "trade networks",
+      "is challenged by",
+      "climate change"
+    ],
+    [
+      "trade networks",
+      "is supported by",
+      "waterways"
+    ],
+    [
+      "trade networks",
+      "promotes",
+      "cultural diffusion"
+    ],
+    [
+      "trade networks",
+      "promotes",
+      "human interaction"
+    ],
+    [
+      "trade networks",
+      "shapes",
+      "historical impact"
+    ],
+    [
+      "trade networks",
+      "supports",
+      "agriculture"
+    ],
+    [
+      "trade networks",
+      "supports",
+      "civilization growth"
+    ],
+    [
+      "trade networks",
+      "supports",
+      "population growth"
+    ],
+    [
+      "trade networks",
+      "supports",
+      "resource utilization"
+    ],
+    [
+      "trade networks",
+      "supports",
+      "transportation"
+    ],
+    [
+      "trade routes",
+      "connects",
+      "regional interaction"
+    ],
+    [
+      "trade routes",
+      "contributes to",
+      "development"
+    ],
+    [
+      "trade routes",
+      "contributes to",
+      "empire expansion"
+    ],
+    [
+      "trade routes",
+      "enables",
+      "cultural exchange"
+    ],
+    [
+      "trade routes",
+      "enables",
+      "human interaction"
+    ],
+    [
+      "trade routes",
+      "enables",
+      "surplus food"
+    ],
+    [
+      "trade routes",
+      "enhances",
+      "complex societies"
+    ],
+    [
+      "trade routes",
+      "enhances",
+      "technological spread"
+    ],
+    [
+      "trade routes",
+      "facilitates",
+      "economic exchange"
+    ],
+    [
+      "trade routes",
+      "facilitates",
+      "goods exchange"
+    ],
+    [
+      "trade routes",
+      "facilitates",
+      "maritime trade"
+    ],
+    [
+      "trade routes",
+      "facilitates",
+      "river systems"
+    ],
+    [
+      "trade routes",
+      "highlights",
+      "transportation importance"
+    ],
+    [
+      "trade routes",
+      "influences",
+      "military campaigns"
+    ],
+    [
+      "trade routes",
+      "promotes",
+      "cultural diffusion"
+    ],
+    [
+      "trade routes",
+      "shaped by",
+      "history"
+    ],
+    [
+      "trade routes",
+      "shapes",
+      "historical impact"
+    ],
+    [
+      "trade routes",
+      "supports",
+      "agriculture"
+    ],
+    [
+      "trade routes",
+      "supports",
+      "industry"
+    ],
+    [
+      "transportation",
+      "drives",
+      "economic development"
+    ],
+    [
+      "transportation",
+      "enabled by",
+      "survival"
+    ],
+    [
+      "transportation",
+      "enables",
+      "empire expansion"
+    ],
+    [
+      "transportation",
+      "enables",
+      "historical trade"
+    ],
+    [
+      "transportation",
+      "enhances",
+      "regional interaction"
+    ],
+    [
+      "transportation",
+      "facilitated by",
+      "maritime trade"
+    ],
+    [
+      "transportation",
+      "influences",
+      "human interaction"
+    ],
+    [
+      "transportation",
+      "leads to",
+      "food surplus"
+    ],
+    [
+      "transportation",
+      "supports",
+      "agriculture"
+    ],
+    [
+      "transportation",
+      "supports",
+      "economic exchange"
+    ],
+    [
+      "transportation importance",
+      "connects",
+      "sea routes"
+    ],
+    [
+      "transportation importance",
+      "depends on",
+      "surplus food"
+    ],
+    [
+      "transportation importance",
+      "enhanced by",
+      "irrigation systems"
+    ],
+    [
+      "transportation importance",
+      "influences",
+      "human interaction"
+    ],
+    [
+      "transportation networks",
+      "depends on",
+      "goods exchange"
+    ],
+    [
+      "transportation networks",
+      "enables",
+      "civilization"
+    ],
+    [
+      "transportation networks",
+      "facilitates",
+      "human interaction"
+    ],
+    [
+      "transportation networks",
+      "is essential for",
+      "sanitation"
+    ],
+    [
+      "transportation networks",
+      "supports",
+      "food production"
+    ],
+    [
+      "transportation networks",
+      "supports",
+      "resource utilization"
+    ],
+    [
+      "water",
+      "contaminates",
+      "pollution"
+    ],
+    [
+      "water",
+      "depends on",
+      "future generations"
+    ],
+    [
+      "water",
+      "depends on",
+      "population growth"
+    ],
+    [
+      "water",
+      "depends on",
+      "technological advancements"
+    ],
+    [
+      "water",
+      "depends on",
+      "waterways"
+    ],
+    [
+      "water",
+      "drives",
+      "economic development"
+    ],
+    [
+      "water",
+      "essential for",
+      "agricultural practices"
+    ],
+    [
+      "water",
+      "essential for",
+      "sanitation"
+    ],
+    [
+      "water",
+      "facilitated",
+      "maritime trade"
+    ],
+    [
+      "water",
+      "facilitated by",
+      "trade networks"
+    ],
+    [
+      "water",
+      "facilitated the development of",
+      "development"
+    ],
+    [
+      "water",
+      "influences",
+      "history"
+    ],
+    [
+      "water",
+      "interacts with",
+      "human interaction"
+    ],
+    [
+      "water",
+      "is facilitated by",
+      "transportation"
+    ],
+    [
+      "water",
+      "is influenced by",
+      "cultural diffusion"
+    ],
+    [
+      "water",
+      "is influenced by",
+      "societal evolution"
+    ],
+    [
+      "water",
+      "provides",
+      "surplus food"
+    ],
+    [
+      "water",
+      "provides",
+      "water scarcity"
+    ],
+    [
+      "water",
+      "relies on",
+      "transportation networks"
+    ],
+    [
+      "water",
+      "shapes",
+      "civilization"
+    ],
+    [
+      "water",
+      "shapes",
+      "historical impact"
+    ],
+    [
+      "water",
+      "sustained by",
+      "societal complexity"
+    ],
+    [
+      "water",
+      "utilized in",
+      "irrigation systems"
+    ],
+    [
+      "water scarcity",
+      "affected by",
+      "climate change"
+    ],
+    [
+      "water scarcity",
+      "affected by",
+      "power sources"
+    ],
+    [
+      "water scarcity",
+      "affected by",
+      "waterways"
+    ],
+    [
+      "water scarcity",
+      "affects",
+      "agriculture"
+    ],
+    [
+      "water scarcity",
+      "affects",
+      "ancient Mesopotamia"
+    ],
+    [
+      "water scarcity",
+      "affects",
+      "historical impact"
+    ],
+    [
+      "water scarcity",
+      "affects",
+      "river systems"
+    ],
+    [
+      "water scarcity",
+      "affects",
+      "sea routes"
+    ],
+    [
+      "water scarcity",
+      "exacerbated by",
+      "mechanization"
+    ],
+    [
+      "water scarcity",
+      "exacerbates",
+      "technological advancements"
+    ],
+    [
+      "water scarcity",
+      "highlights",
+      "transportation importance"
+    ],
+    [
+      "water scarcity",
+      "impacts",
+      "environmental sustainability"
+    ],
+    [
+      "water scarcity",
+      "impacts",
+      "industry"
+    ],
+    [
+      "water scarcity",
+      "is exacerbated by",
+      "military campaigns"
+    ],
+    [
+      "water scarcity",
+      "is impacted by",
+      "survival"
+    ],
+    [
+      "water scarcity",
+      "limits",
+      "population growth"
+    ],
+    [
+      "water scarcity",
+      "threatens",
+      "civilization"
+    ],
+    [
+      "waterways",
+      "aided by",
+      "military campaigns"
+    ],
+    [
+      "waterways",
+      "connects",
+      "trade routes"
+    ],
+    [
+      "waterways",
+      "enabled",
+      "historical trade"
+    ],
+    [
+      "waterways",
+      "enables",
+      "empire expansion"
+    ],
+    [
+      "waterways",
+      "enables",
+      "goods exchange"
+    ],
+    [
+      "waterways",
+      "enables",
+      "resource utilization"
+    ],
+    [
+      "waterways",
+      "enables",
+      "transportation"
+    ],
+    [
+      "waterways",
+      "exacerbates",
+      "water scarcity"
+    ],
+    [
+      "waterways",
+      "facilitates",
+      "economic exchange"
+    ],
+    [
+      "waterways",
+      "facilitates",
+      "maritime trade"
+    ],
+    [
+      "waterways",
+      "fosters",
+      "regional interaction"
+    ],
+    [
+      "waterways",
+      "generates",
+      "hydroelectric power"
+    ],
+    [
+      "waterways",
+      "holds",
+      "strategic importance"
+    ],
+    [
+      "waterways",
+      "influences",
+      "human interaction"
+    ],
+    [
+      "waterways",
+      "influences",
+      "societal complexity"
+    ],
+    [
+      "waterways",
+      "nurtures",
+      "civilization"
+    ],
+    [
+      "waterways",
+      "promotes",
+      "cultural exchange"
+    ],
+    [
+      "waterways",
+      "support",
+      "transportation networks"
+    ],
+    [
+      "waterways",
+      "supported",
+      "ancient Mesopotamia"
+    ],
+    [
+      "waterways",
+      "supports",
+      "civilization growth"
+    ],
+    [
+      "waterways",
+      "supports",
+      "industry"
+    ],
+    [
+      "waterways",
+      "supports",
+      "irrigation systems"
+    ]
+  ],
+  "edges": [
+    "advances",
+    "affected",
+    "affected by",
+    "affects",
+    "aided by",
+    "associated with",
+    "benefits from",
+    "challenges",
+    "connected",
+    "connects",
+    "constructed by",
+    "contaminates",
+    "contributed to",
+    "contributes to",
+    "dependent on",
+    "depends on",
+    "derived from",
+    "developed by",
+    "developed in",
+    "developed into",
+    "developed irrigation systems for",
+    "driven by",
+    "drives",
+    "emerged from",
+    "enabled",
+    "enabled by",
+    "enables",
+    "engaged in",
+    "enhanced",
+    "enhanced by",
+    "enhances",
+    "ensures",
+    "essential for",
+    "established by",
+    "established industry in",
+    "establishes",
+    "exacerbated by",
+    "exacerbates",
+    "facilitated",
+    "facilitated by",
+    "facilitated the development of",
+    "facilitates",
+    "formed by",
+    "fostered by",
+    "fosters",
+    "fuels",
+    "generates",
+    "guides",
+    "has",
+    "highlighted",
+    "highlights",
+    "holds",
+    "impacted by",
+    "impacts",
+    "important for",
+    "improves",
+    "increases",
+    "influenced",
+    "influenced by",
+    "influences",
+    "informs",
+    "interacts with",
+    "involved in",
+    "involves",
+    "is a part of",
+    "is advanced by",
+    "is affected by",
+    "is challenged by",
+    "is crucial for",
+    "is driven by",
+    "is engaged in",
+    "is enhanced by",
+    "is essential for",
+    "is exacerbated by",
+    "is facilitated by",
+    "is foundational for",
+    "is generated by",
+    "is impacted by",
+    "is influenced by",
+    "is linked to",
+    "is necessary for",
+    "is part of",
+    "is powered by",
+    "is shaped by",
+    "is supported by",
+    "is utilized by",
+    "is utilized for",
+    "leads to",
+    "led to",
+    "leveraged",
+    "limits",
+    "manages",
+    "necessary for",
+    "nurtured by",
+    "nurtures",
+    "originated from",
+    "originated in",
+    "part of",
+    "powered by",
+    "powers",
+    "produced",
+    "produced by",
+    "produces",
+    "promoted",
+    "promotes",
+    "provided by",
+    "provides",
+    "provides energy for",
+    "relies on",
+    "requires",
+    "resulted in",
+    "results in",
+    "shaped",
+    "shaped by",
+    "shapes",
+    "source of",
+    "spreads",
+    "strategically significant for",
+    "supplied by",
+    "supplies",
+    "support",
+    "supported",
+    "supported by",
+    "supports",
+    "sustained by",
+    "threatens",
+    "utilized",
+    "utilized by",
+    "utilized for",
+    "utilized in",
+    "utilizes",
+    "was foundational for",
+    "was influenced by"
+  ]
+}

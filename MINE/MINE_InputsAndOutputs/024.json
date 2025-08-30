@@ -1,0 +1,4220 @@
+{
+  "entities": [
+    "accountability",
+    "advocacy",
+    "awareness",
+    "behaviors",
+    "challenges",
+    "citizen journalism",
+    "communication concerns",
+    "communication revolution",
+    "community",
+    "connectivity",
+    "conspiracy theories",
+    "critical thinking",
+    "current events",
+    "debates",
+    "democratization of information",
+    "digital age",
+    "digital literacy",
+    "diversity",
+    "empowerment",
+    "engagement",
+    "engagement strategies",
+    "face-to-face interactions",
+    "fact-checking",
+    "fake news",
+    "genuine interactions",
+    "important conversations",
+    "inclusion",
+    "information sharing",
+    "informed citizens",
+    "instant messaging",
+    "marginalized voices",
+    "meaningful connections",
+    "media literacy",
+    "mental health",
+    "misinformation",
+    "negative effects",
+    "online discourse",
+    "online relationships",
+    "perceptions",
+    "positive effects",
+    "propaganda",
+    "real-world consequences",
+    "relationships",
+    "responsible sharing",
+    "responsible use",
+    "rumors",
+    "self-esteem",
+    "social activism",
+    "social issues",
+    "social media",
+    "social networking",
+    "social responsibility",
+    "superficial communication",
+    "traditional media",
+    "user-generated content",
+    "validation",
+    "video calls"
+  ],
+  "relations": [
+    [
+      "accountability",
+      "addresses",
+      "social issues"
+    ],
+    [
+      "accountability",
+      "affects",
+      "mental health"
+    ],
+    [
+      "accountability",
+      "creates",
+      "informed citizens"
+    ],
+    [
+      "accountability",
+      "demands",
+      "digital age"
+    ],
+    [
+      "accountability",
+      "demands",
+      "diversity"
+    ],
+    [
+      "accountability",
+      "demands",
+      "meaningful connections"
+    ],
+    [
+      "accountability",
+      "demands",
+      "positive effects"
+    ],
+    [
+      "accountability",
+      "demands",
+      "relationships"
+    ],
+    [
+      "accountability",
+      "enhances",
+      "fact-checking"
+    ],
+    [
+      "accountability",
+      "enhances",
+      "information sharing"
+    ],
+    [
+      "accountability",
+      "impacts",
+      "superficial communication"
+    ],
+    [
+      "accountability",
+      "promotes",
+      "awareness"
+    ],
+    [
+      "accountability",
+      "raises",
+      "communication concerns"
+    ],
+    [
+      "accountability",
+      "requires",
+      "validation"
+    ],
+    [
+      "accountability",
+      "results in",
+      "real-world consequences"
+    ],
+    [
+      "accountability",
+      "supports",
+      "advocacy"
+    ],
+    [
+      "accountability",
+      "supports",
+      "social activism"
+    ],
+    [
+      "advocacy",
+      "supports",
+      "fake news"
+    ],
+    [
+      "advocacy",
+      "supports",
+      "informed citizens"
+    ],
+    [
+      "awareness",
+      "affects",
+      "mental health"
+    ],
+    [
+      "awareness",
+      "contrasts with",
+      "video calls"
+    ],
+    [
+      "awareness",
+      "enables",
+      "democratization of information"
+    ],
+    [
+      "awareness",
+      "increases",
+      "engagement"
+    ],
+    [
+      "awareness",
+      "increases",
+      "meaningful connections"
+    ],
+    [
+      "awareness",
+      "informed by",
+      "empowerment"
+    ],
+    [
+      "awareness",
+      "informs",
+      "debates"
+    ],
+    [
+      "awareness",
+      "informs",
+      "digital age"
+    ],
+    [
+      "awareness",
+      "informs",
+      "online discourse"
+    ],
+    [
+      "awareness",
+      "informs",
+      "user-generated content"
+    ],
+    [
+      "awareness",
+      "raises",
+      "inclusion"
+    ],
+    [
+      "awareness",
+      "raises",
+      "instant messaging"
+    ],
+    [
+      "awareness",
+      "raises",
+      "superficial communication"
+    ],
+    [
+      "awareness",
+      "shaped by",
+      "self-esteem"
+    ],
+    [
+      "awareness",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "awareness",
+      "supports",
+      "advocacy"
+    ],
+    [
+      "behaviors",
+      "affects",
+      "community"
+    ],
+    [
+      "behaviors",
+      "affects",
+      "meaningful connections"
+    ],
+    [
+      "behaviors",
+      "drives",
+      "advocacy"
+    ],
+    [
+      "behaviors",
+      "encourages",
+      "responsible sharing"
+    ],
+    [
+      "behaviors",
+      "influences",
+      "face-to-face interactions"
+    ],
+    [
+      "behaviors",
+      "influences",
+      "genuine interactions"
+    ],
+    [
+      "behaviors",
+      "influences",
+      "validation"
+    ],
+    [
+      "behaviors",
+      "produces",
+      "user-generated content"
+    ],
+    [
+      "behaviors",
+      "raises",
+      "awareness"
+    ],
+    [
+      "challenges",
+      "challenges",
+      "critical thinking"
+    ],
+    [
+      "challenges",
+      "challenges",
+      "democratization of information"
+    ],
+    [
+      "challenges",
+      "complicates",
+      "information sharing"
+    ],
+    [
+      "challenges",
+      "contributes to",
+      "rumors"
+    ],
+    [
+      "challenges",
+      "creates",
+      "fake news"
+    ],
+    [
+      "challenges",
+      "creates",
+      "meaningful connections"
+    ],
+    [
+      "challenges",
+      "creates",
+      "user-generated content"
+    ],
+    [
+      "challenges",
+      "creates",
+      "validation"
+    ],
+    [
+      "challenges",
+      "exacerbates",
+      "diversity"
+    ],
+    [
+      "challenges",
+      "exacerbates",
+      "mental health"
+    ],
+    [
+      "challenges",
+      "faces",
+      "empowerment"
+    ],
+    [
+      "challenges",
+      "generate",
+      "debates"
+    ],
+    [
+      "challenges",
+      "necessitates",
+      "fact-checking"
+    ],
+    [
+      "challenges",
+      "presents",
+      "community"
+    ],
+    [
+      "challenges",
+      "presents",
+      "propaganda"
+    ],
+    [
+      "challenges",
+      "raises",
+      "awareness"
+    ],
+    [
+      "citizen journalism",
+      "builds community through",
+      "community"
+    ],
+    [
+      "citizen journalism",
+      "challenges",
+      "communication concerns"
+    ],
+    [
+      "citizen journalism",
+      "challenges",
+      "conspiracy theories"
+    ],
+    [
+      "citizen journalism",
+      "enables",
+      "accountability"
+    ],
+    [
+      "citizen journalism",
+      "exacerbated by",
+      "misinformation"
+    ],
+    [
+      "citizen journalism",
+      "facilitates",
+      "advocacy"
+    ],
+    [
+      "citizen journalism",
+      "facilitates",
+      "online discourse"
+    ],
+    [
+      "citizen journalism",
+      "influenced by",
+      "propaganda"
+    ],
+    [
+      "citizen journalism",
+      "informs",
+      "informed citizens"
+    ],
+    [
+      "citizen journalism",
+      "is reported by",
+      "rumors"
+    ],
+    [
+      "citizen journalism",
+      "produces",
+      "user-generated content"
+    ],
+    [
+      "citizen journalism",
+      "promotes",
+      "responsible sharing"
+    ],
+    [
+      "citizen journalism",
+      "raises",
+      "awareness"
+    ],
+    [
+      "citizen journalism",
+      "results from",
+      "real-world consequences"
+    ],
+    [
+      "citizen journalism",
+      "shapes",
+      "behaviors"
+    ],
+    [
+      "citizen journalism",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "citizen journalism",
+      "sparks",
+      "debates"
+    ],
+    [
+      "communication concerns",
+      "causes",
+      "validation"
+    ],
+    [
+      "communication concerns",
+      "concerns",
+      "social issues"
+    ],
+    [
+      "communication concerns",
+      "exacerbates",
+      "connectivity"
+    ],
+    [
+      "communication concerns",
+      "exacerbates",
+      "marginalized voices"
+    ],
+    [
+      "communication concerns",
+      "exacerbates",
+      "meaningful connections"
+    ],
+    [
+      "communication concerns",
+      "highlights",
+      "fact-checking"
+    ],
+    [
+      "communication concerns",
+      "necessitates",
+      "critical thinking"
+    ],
+    [
+      "communication concerns",
+      "raises",
+      "digital age"
+    ],
+    [
+      "communication concerns",
+      "raises",
+      "diversity"
+    ],
+    [
+      "communication concerns",
+      "raises",
+      "engagement"
+    ],
+    [
+      "communication concerns",
+      "raises",
+      "positive effects"
+    ],
+    [
+      "communication concerns",
+      "raises",
+      "responsible sharing"
+    ],
+    [
+      "communication concerns",
+      "raises",
+      "video calls"
+    ],
+    [
+      "communication concerns",
+      "shapes",
+      "online discourse"
+    ],
+    [
+      "communication concerns",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "communication concerns",
+      "sparks",
+      "debates"
+    ],
+    [
+      "communication revolution",
+      "creates",
+      "informed citizens"
+    ],
+    [
+      "communication revolution",
+      "demands",
+      "social responsibility"
+    ],
+    [
+      "communication revolution",
+      "drives",
+      "engagement"
+    ],
+    [
+      "communication revolution",
+      "drives",
+      "inclusion"
+    ],
+    [
+      "communication revolution",
+      "enables",
+      "democratization of information"
+    ],
+    [
+      "communication revolution",
+      "enables",
+      "user-generated content"
+    ],
+    [
+      "communication revolution",
+      "facilitates",
+      "empowerment"
+    ],
+    [
+      "communication revolution",
+      "facilitates",
+      "instant messaging"
+    ],
+    [
+      "communication revolution",
+      "presents",
+      "challenges"
+    ],
+    [
+      "communication revolution",
+      "propagated by",
+      "propaganda"
+    ],
+    [
+      "communication revolution",
+      "supports",
+      "social activism"
+    ],
+    [
+      "communication revolution",
+      "transforms",
+      "behaviors"
+    ],
+    [
+      "communication revolution",
+      "transforms",
+      "genuine interactions"
+    ],
+    [
+      "communication revolution",
+      "transforms",
+      "information sharing"
+    ],
+    [
+      "communication revolution",
+      "transforms",
+      "social networking"
+    ],
+    [
+      "community",
+      "affects",
+      "communication concerns"
+    ],
+    [
+      "community",
+      "affects",
+      "real-world consequences"
+    ],
+    [
+      "community",
+      "builds",
+      "current events"
+    ],
+    [
+      "community",
+      "builds",
+      "media literacy"
+    ],
+    [
+      "community",
+      "creates",
+      "user-generated content"
+    ],
+    [
+      "community",
+      "discussed in",
+      "conspiracy theories"
+    ],
+    [
+      "community",
+      "facilitates",
+      "instant messaging"
+    ],
+    [
+      "community",
+      "facilitates democratization of",
+      "democratization of information"
+    ],
+    [
+      "community",
+      "fosters",
+      "engagement"
+    ],
+    [
+      "community",
+      "fosters",
+      "video calls"
+    ],
+    [
+      "community",
+      "is affected by",
+      "self-esteem"
+    ],
+    [
+      "connectivity",
+      "enables",
+      "democratization of information"
+    ],
+    [
+      "connectivity",
+      "enhances",
+      "current events"
+    ],
+    [
+      "connectivity",
+      "enhances",
+      "marginalized voices"
+    ],
+    [
+      "connectivity",
+      "facilitates",
+      "empowerment"
+    ],
+    [
+      "connectivity",
+      "facilitates",
+      "information sharing"
+    ],
+    [
+      "connectivity",
+      "facilitates",
+      "instant messaging"
+    ],
+    [
+      "connectivity",
+      "fosters",
+      "community"
+    ],
+    [
+      "connectivity",
+      "promotes",
+      "engagement"
+    ],
+    [
+      "connectivity",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "connectivity",
+      "requires",
+      "social responsibility"
+    ],
+    [
+      "connectivity",
+      "shapes",
+      "behaviors"
+    ],
+    [
+      "connectivity",
+      "shapes",
+      "debates"
+    ],
+    [
+      "connectivity",
+      "spreads",
+      "propaganda"
+    ],
+    [
+      "connectivity",
+      "stimulates",
+      "important conversations"
+    ],
+    [
+      "conspiracy theories",
+      "affects",
+      "behaviors"
+    ],
+    [
+      "conspiracy theories",
+      "affects",
+      "perceptions"
+    ],
+    [
+      "conspiracy theories",
+      "challenges",
+      "critical thinking"
+    ],
+    [
+      "conspiracy theories",
+      "challenges",
+      "fact-checking"
+    ],
+    [
+      "conspiracy theories",
+      "challenges",
+      "social activism"
+    ],
+    [
+      "conspiracy theories",
+      "contributes to",
+      "inclusion"
+    ],
+    [
+      "conspiracy theories",
+      "contributes to",
+      "misinformation"
+    ],
+    [
+      "conspiracy theories",
+      "contributes to",
+      "social issues"
+    ],
+    [
+      "conspiracy theories",
+      "influenced by",
+      "digital age"
+    ],
+    [
+      "conspiracy theories",
+      "influenced by",
+      "relationships"
+    ],
+    [
+      "conspiracy theories",
+      "influences",
+      "connectivity"
+    ],
+    [
+      "conspiracy theories",
+      "influences",
+      "current events"
+    ],
+    [
+      "conspiracy theories",
+      "is a form of",
+      "fake news"
+    ],
+    [
+      "conspiracy theories",
+      "is generated by",
+      "user-generated content"
+    ],
+    [
+      "conspiracy theories",
+      "is related to",
+      "propaganda"
+    ],
+    [
+      "conspiracy theories",
+      "raises",
+      "awareness"
+    ],
+    [
+      "conspiracy theories",
+      "requires",
+      "responsible use"
+    ],
+    [
+      "conspiracy theories",
+      "spreads",
+      "rumors"
+    ],
+    [
+      "conspiracy theories",
+      "spreads",
+      "social networking"
+    ],
+    [
+      "conspiracy theories",
+      "stimulates",
+      "important conversations"
+    ],
+    [
+      "critical thinking",
+      "enhanced by",
+      "digital age"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "accountability"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "awareness"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "meaningful connections"
+    ],
+    [
+      "critical thinking",
+      "enhances",
+      "rumors"
+    ],
+    [
+      "critical thinking",
+      "influences",
+      "self-esteem"
+    ],
+    [
+      "critical thinking",
+      "produces",
+      "informed citizens"
+    ],
+    [
+      "critical thinking",
+      "requires",
+      "important conversations"
+    ],
+    [
+      "critical thinking",
+      "shapes",
+      "behaviors"
+    ],
+    [
+      "current events",
+      "affects",
+      "mental health"
+    ],
+    [
+      "current events",
+      "facilitates",
+      "information sharing"
+    ],
+    [
+      "current events",
+      "informs",
+      "fact-checking"
+    ],
+    [
+      "current events",
+      "is influenced by",
+      "rumors"
+    ],
+    [
+      "current events",
+      "raises",
+      "awareness"
+    ],
+    [
+      "current events",
+      "shapes",
+      "digital age"
+    ],
+    [
+      "current events",
+      "sparks",
+      "debates"
+    ],
+    [
+      "debates",
+      "creates",
+      "informed citizens"
+    ],
+    [
+      "debates",
+      "enables",
+      "democratization of information"
+    ],
+    [
+      "debates",
+      "fuels",
+      "misinformation"
+    ],
+    [
+      "debates",
+      "promotes",
+      "advocacy"
+    ],
+    [
+      "debates",
+      "shapes",
+      "behaviors"
+    ],
+    [
+      "debates",
+      "sparks",
+      "community"
+    ],
+    [
+      "debates",
+      "sparks",
+      "responsible use"
+    ],
+    [
+      "debates",
+      "stimulates",
+      "critical thinking"
+    ],
+    [
+      "debates",
+      "stimulates",
+      "validation"
+    ],
+    [
+      "democratization of information",
+      "enables",
+      "critical thinking"
+    ],
+    [
+      "democratization of information",
+      "facilitates",
+      "current events"
+    ],
+    [
+      "democratization of information",
+      "supports",
+      "advocacy"
+    ],
+    [
+      "democratization of information",
+      "supports",
+      "fact-checking"
+    ],
+    [
+      "digital age",
+      "enables",
+      "empowerment"
+    ],
+    [
+      "digital age",
+      "enables",
+      "information sharing"
+    ],
+    [
+      "digital age",
+      "enables",
+      "user-generated content"
+    ],
+    [
+      "digital age",
+      "encompasses",
+      "social media"
+    ],
+    [
+      "digital age",
+      "enhances",
+      "connectivity"
+    ],
+    [
+      "digital age",
+      "enhances",
+      "media literacy"
+    ],
+    [
+      "digital age",
+      "enhances",
+      "video calls"
+    ],
+    [
+      "digital age",
+      "facilitates",
+      "instant messaging"
+    ],
+    [
+      "digital age",
+      "fosters",
+      "meaningful connections"
+    ],
+    [
+      "digital age",
+      "informs",
+      "engagement strategies"
+    ],
+    [
+      "digital age",
+      "shapes",
+      "community"
+    ],
+    [
+      "digital age",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "digital age",
+      "shapes",
+      "relationships"
+    ],
+    [
+      "digital age",
+      "spreads",
+      "rumors"
+    ],
+    [
+      "digital age",
+      "transforms",
+      "communication revolution"
+    ],
+    [
+      "digital literacy",
+      "combats",
+      "misinformation"
+    ],
+    [
+      "digital literacy",
+      "enables",
+      "democratization of information"
+    ],
+    [
+      "digital literacy",
+      "enables",
+      "user-generated content"
+    ],
+    [
+      "digital literacy",
+      "enhances",
+      "instant messaging"
+    ],
+    [
+      "digital literacy",
+      "facilitates",
+      "information sharing"
+    ],
+    [
+      "digital literacy",
+      "improves",
+      "video calls"
+    ],
+    [
+      "digital literacy",
+      "influences",
+      "social issues"
+    ],
+    [
+      "digital literacy",
+      "raises",
+      "awareness"
+    ],
+    [
+      "digital literacy",
+      "sparked",
+      "debates"
+    ],
+    [
+      "diversity",
+      "creates",
+      "informed citizens"
+    ],
+    [
+      "diversity",
+      "enables",
+      "democratization of information"
+    ],
+    [
+      "diversity",
+      "enhances",
+      "connectivity"
+    ],
+    [
+      "diversity",
+      "enhances",
+      "inclusion"
+    ],
+    [
+      "diversity",
+      "enhances",
+      "social networking"
+    ],
+    [
+      "diversity",
+      "enhances",
+      "validation"
+    ],
+    [
+      "diversity",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "diversity",
+      "influences",
+      "online discourse"
+    ],
+    [
+      "diversity",
+      "influences",
+      "relationships"
+    ],
+    [
+      "diversity",
+      "informs",
+      "social issues"
+    ],
+    [
+      "diversity",
+      "initiates",
+      "important conversations"
+    ],
+    [
+      "diversity",
+      "is expressed through",
+      "user-generated content"
+    ],
+    [
+      "diversity",
+      "is influenced by",
+      "digital age"
+    ],
+    [
+      "diversity",
+      "leads to",
+      "negative effects"
+    ],
+    [
+      "diversity",
+      "promotes",
+      "community"
+    ],
+    [
+      "diversity",
+      "promotes",
+      "empowerment"
+    ],
+    [
+      "diversity",
+      "raises",
+      "awareness"
+    ],
+    [
+      "diversity",
+      "spreads",
+      "misinformation"
+    ],
+    [
+      "diversity",
+      "supports",
+      "citizen journalism"
+    ],
+    [
+      "diversity",
+      "supports",
+      "social activism"
+    ],
+    [
+      "empowerment",
+      "affects",
+      "mental health"
+    ],
+    [
+      "empowerment",
+      "contributes to",
+      "superficial communication"
+    ],
+    [
+      "empowerment",
+      "creates",
+      "informed citizens"
+    ],
+    [
+      "empowerment",
+      "creates",
+      "user-generated content"
+    ],
+    [
+      "empowerment",
+      "drives",
+      "social media"
+    ],
+    [
+      "empowerment",
+      "enables",
+      "democratization of information"
+    ],
+    [
+      "empowerment",
+      "enables",
+      "social networking"
+    ],
+    [
+      "empowerment",
+      "enables",
+      "validation"
+    ],
+    [
+      "empowerment",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "empowerment",
+      "enhances",
+      "fact-checking"
+    ],
+    [
+      "empowerment",
+      "facilitates",
+      "important conversations"
+    ],
+    [
+      "empowerment",
+      "facilitates",
+      "instant messaging"
+    ],
+    [
+      "empowerment",
+      "facilitates",
+      "video calls"
+    ],
+    [
+      "empowerment",
+      "fosters",
+      "meaningful connections"
+    ],
+    [
+      "empowerment",
+      "fuels",
+      "conspiracy theories"
+    ],
+    [
+      "empowerment",
+      "highlights",
+      "social issues"
+    ],
+    [
+      "empowerment",
+      "leads to",
+      "real-world consequences"
+    ],
+    [
+      "empowerment",
+      "leads to",
+      "rumors"
+    ],
+    [
+      "empowerment",
+      "promotes",
+      "awareness"
+    ],
+    [
+      "empowerment",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "empowerment",
+      "promotes",
+      "online discourse"
+    ],
+    [
+      "empowerment",
+      "promotes",
+      "responsible sharing"
+    ],
+    [
+      "empowerment",
+      "promotes",
+      "social activism"
+    ],
+    [
+      "empowerment",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "empowerment",
+      "sparks",
+      "debates"
+    ],
+    [
+      "empowerment",
+      "strengthens",
+      "community"
+    ],
+    [
+      "empowerment",
+      "supports",
+      "citizen journalism"
+    ],
+    [
+      "engagement",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "engagement",
+      "enhances",
+      "face-to-face interactions"
+    ],
+    [
+      "engagement",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "engagement",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "engagement strategies",
+      "affects",
+      "mental health"
+    ],
+    [
+      "engagement strategies",
+      "cultivates",
+      "informed citizens"
+    ],
+    [
+      "engagement strategies",
+      "encourages",
+      "debates"
+    ],
+    [
+      "engagement strategies",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "engagement strategies",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "engagement strategies",
+      "facilitates",
+      "fact-checking"
+    ],
+    [
+      "engagement strategies",
+      "fosters",
+      "meaningful connections"
+    ],
+    [
+      "engagement strategies",
+      "guides",
+      "social responsibility"
+    ],
+    [
+      "engagement strategies",
+      "impacts",
+      "self-esteem"
+    ],
+    [
+      "engagement strategies",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "engagement strategies",
+      "informs",
+      "advocacy"
+    ],
+    [
+      "engagement strategies",
+      "leads to",
+      "real-world consequences"
+    ],
+    [
+      "engagement strategies",
+      "promotes",
+      "genuine interactions"
+    ],
+    [
+      "engagement strategies",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "engagement strategies",
+      "promotes",
+      "social activism"
+    ],
+    [
+      "engagement strategies",
+      "requires",
+      "accountability"
+    ],
+    [
+      "engagement strategies",
+      "supports",
+      "citizen journalism"
+    ],
+    [
+      "engagement strategies",
+      "utilizes",
+      "social media"
+    ],
+    [
+      "face-to-face interactions",
+      "affects",
+      "communication revolution"
+    ],
+    [
+      "face-to-face interactions",
+      "competes with",
+      "relationships"
+    ],
+    [
+      "face-to-face interactions",
+      "compromised by",
+      "social networking"
+    ],
+    [
+      "face-to-face interactions",
+      "diminished by",
+      "connectivity"
+    ],
+    [
+      "face-to-face interactions",
+      "diminishes",
+      "empowerment"
+    ],
+    [
+      "face-to-face interactions",
+      "diminishes",
+      "online relationships"
+    ],
+    [
+      "face-to-face interactions",
+      "diminishes",
+      "social media"
+    ],
+    [
+      "face-to-face interactions",
+      "enhances",
+      "accountability"
+    ],
+    [
+      "face-to-face interactions",
+      "enhances",
+      "positive effects"
+    ],
+    [
+      "face-to-face interactions",
+      "enhances",
+      "video calls"
+    ],
+    [
+      "face-to-face interactions",
+      "fosters",
+      "community"
+    ],
+    [
+      "face-to-face interactions",
+      "impedes",
+      "inclusion"
+    ],
+    [
+      "face-to-face interactions",
+      "influences",
+      "diversity"
+    ],
+    [
+      "face-to-face interactions",
+      "influences",
+      "media literacy"
+    ],
+    [
+      "face-to-face interactions",
+      "influences",
+      "rumors"
+    ],
+    [
+      "face-to-face interactions",
+      "influences",
+      "validation"
+    ],
+    [
+      "face-to-face interactions",
+      "limits",
+      "conspiracy theories"
+    ],
+    [
+      "face-to-face interactions",
+      "limits",
+      "marginalized voices"
+    ],
+    [
+      "face-to-face interactions",
+      "raises",
+      "awareness"
+    ],
+    [
+      "face-to-face interactions",
+      "stimulates",
+      "important conversations"
+    ],
+    [
+      "fact-checking",
+      "affects",
+      "self-esteem"
+    ],
+    [
+      "fact-checking",
+      "combats",
+      "fake news"
+    ],
+    [
+      "fact-checking",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "fact-checking",
+      "fuels",
+      "debates"
+    ],
+    [
+      "fact-checking",
+      "promotes",
+      "online discourse"
+    ],
+    [
+      "fact-checking",
+      "requires",
+      "digital age"
+    ],
+    [
+      "fact-checking",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "fact-checking",
+      "supports",
+      "advocacy"
+    ],
+    [
+      "fact-checking",
+      "supports",
+      "diversity"
+    ],
+    [
+      "fact-checking",
+      "supports",
+      "validation"
+    ],
+    [
+      "fake news",
+      "affects",
+      "behaviors"
+    ],
+    [
+      "fake news",
+      "affects",
+      "social issues"
+    ],
+    [
+      "fake news",
+      "challenges",
+      "digital literacy"
+    ],
+    [
+      "fake news",
+      "contradicted by",
+      "positive effects"
+    ],
+    [
+      "fake news",
+      "contradicts",
+      "marginalized voices"
+    ],
+    [
+      "fake news",
+      "contributes to",
+      "misinformation"
+    ],
+    [
+      "fake news",
+      "drives",
+      "social activism"
+    ],
+    [
+      "fake news",
+      "exemplifies",
+      "communication concerns"
+    ],
+    [
+      "fake news",
+      "hinders",
+      "democratization of information"
+    ],
+    [
+      "fake news",
+      "impacts",
+      "mental health"
+    ],
+    [
+      "fake news",
+      "is a form of",
+      "propaganda"
+    ],
+    [
+      "fake news",
+      "is affected by",
+      "diversity"
+    ],
+    [
+      "fake news",
+      "raises",
+      "awareness"
+    ],
+    [
+      "fake news",
+      "spreads",
+      "instant messaging"
+    ],
+    [
+      "fake news",
+      "spreads",
+      "rumors"
+    ],
+    [
+      "fake news",
+      "spreads",
+      "social networking"
+    ],
+    [
+      "genuine interactions",
+      "enhances",
+      "connectivity"
+    ],
+    [
+      "genuine interactions",
+      "facilitates",
+      "video calls"
+    ],
+    [
+      "genuine interactions",
+      "fosters",
+      "meaningful connections"
+    ],
+    [
+      "genuine interactions",
+      "highlights",
+      "communication concerns"
+    ],
+    [
+      "genuine interactions",
+      "hinders",
+      "communication revolution"
+    ],
+    [
+      "genuine interactions",
+      "impacts",
+      "validation"
+    ],
+    [
+      "genuine interactions",
+      "influences",
+      "digital age"
+    ],
+    [
+      "genuine interactions",
+      "informs",
+      "current events"
+    ],
+    [
+      "genuine interactions",
+      "raises",
+      "awareness"
+    ],
+    [
+      "genuine interactions",
+      "results in",
+      "positive effects"
+    ],
+    [
+      "genuine interactions",
+      "shapes",
+      "online discourse"
+    ],
+    [
+      "genuine interactions",
+      "stimulates",
+      "debates"
+    ],
+    [
+      "genuine interactions",
+      "supports",
+      "inclusion"
+    ],
+    [
+      "important conversations",
+      "affected by",
+      "self-esteem"
+    ],
+    [
+      "important conversations",
+      "depends on",
+      "video calls"
+    ],
+    [
+      "important conversations",
+      "drives",
+      "communication concerns"
+    ],
+    [
+      "important conversations",
+      "fosters",
+      "community"
+    ],
+    [
+      "important conversations",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "important conversations",
+      "promotes",
+      "digital age"
+    ],
+    [
+      "important conversations",
+      "promotes",
+      "responsible sharing"
+    ],
+    [
+      "important conversations",
+      "raises",
+      "awareness"
+    ],
+    [
+      "important conversations",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "important conversations",
+      "sparks",
+      "user-generated content"
+    ],
+    [
+      "important conversations",
+      "stimulates",
+      "meaningful connections"
+    ],
+    [
+      "inclusion",
+      "advocates for",
+      "social issues"
+    ],
+    [
+      "inclusion",
+      "builds",
+      "community"
+    ],
+    [
+      "inclusion",
+      "contributes to",
+      "user-generated content"
+    ],
+    [
+      "inclusion",
+      "creates",
+      "informed citizens"
+    ],
+    [
+      "inclusion",
+      "drives",
+      "social activism"
+    ],
+    [
+      "inclusion",
+      "encourages",
+      "critical thinking"
+    ],
+    [
+      "inclusion",
+      "encourages",
+      "important conversations"
+    ],
+    [
+      "inclusion",
+      "enhances",
+      "meaningful connections"
+    ],
+    [
+      "inclusion",
+      "facilitated by",
+      "instant messaging"
+    ],
+    [
+      "inclusion",
+      "has negative effects on",
+      "negative effects"
+    ],
+    [
+      "inclusion",
+      "leads to",
+      "rumors"
+    ],
+    [
+      "inclusion",
+      "promotes",
+      "responsible sharing"
+    ],
+    [
+      "inclusion",
+      "raises",
+      "communication concerns"
+    ],
+    [
+      "inclusion",
+      "shapes",
+      "behaviors"
+    ],
+    [
+      "information sharing",
+      "enables",
+      "citizen journalism"
+    ],
+    [
+      "information sharing",
+      "enables",
+      "democratization of information"
+    ],
+    [
+      "information sharing",
+      "enhances",
+      "community"
+    ],
+    [
+      "information sharing",
+      "enhances",
+      "fact-checking"
+    ],
+    [
+      "information sharing",
+      "facilitates",
+      "important conversations"
+    ],
+    [
+      "information sharing",
+      "facilitates",
+      "instant messaging"
+    ],
+    [
+      "information sharing",
+      "influences",
+      "online discourse"
+    ],
+    [
+      "information sharing",
+      "informs",
+      "informed citizens"
+    ],
+    [
+      "information sharing",
+      "promotes",
+      "awareness"
+    ],
+    [
+      "information sharing",
+      "sparks",
+      "debates"
+    ],
+    [
+      "information sharing",
+      "supports",
+      "responsible sharing"
+    ],
+    [
+      "informed citizens",
+      "benefits",
+      "fact-checking"
+    ],
+    [
+      "informed citizens",
+      "benefits",
+      "validation"
+    ],
+    [
+      "informed citizens",
+      "benefits from",
+      "misinformation"
+    ],
+    [
+      "informed citizens",
+      "empowers",
+      "fake news"
+    ],
+    [
+      "informed citizens",
+      "enables",
+      "user-generated content"
+    ],
+    [
+      "informed citizens",
+      "informs",
+      "conspiracy theories"
+    ],
+    [
+      "informed citizens",
+      "informs",
+      "current events"
+    ],
+    [
+      "informed citizens",
+      "informs",
+      "marginalized voices"
+    ],
+    [
+      "informed citizens",
+      "informs",
+      "meaningful connections"
+    ],
+    [
+      "informed citizens",
+      "informs",
+      "propaganda"
+    ],
+    [
+      "informed citizens",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "instant messaging",
+      "affects",
+      "mental health"
+    ],
+    [
+      "instant messaging",
+      "encourages",
+      "responsible sharing"
+    ],
+    [
+      "instant messaging",
+      "enhances",
+      "relationships"
+    ],
+    [
+      "instant messaging",
+      "facilitates",
+      "current events"
+    ],
+    [
+      "instant messaging",
+      "facilitates",
+      "responsible use"
+    ],
+    [
+      "instant messaging",
+      "generates",
+      "user-generated content"
+    ],
+    [
+      "instant messaging",
+      "is influenced by",
+      "self-esteem"
+    ],
+    [
+      "instant messaging",
+      "replaces",
+      "face-to-face interactions"
+    ],
+    [
+      "instant messaging",
+      "replaces",
+      "superficial communication"
+    ],
+    [
+      "instant messaging",
+      "shared through",
+      "rumors"
+    ],
+    [
+      "instant messaging",
+      "spreads",
+      "propaganda"
+    ],
+    [
+      "marginalized voices",
+      "affects",
+      "social issues"
+    ],
+    [
+      "marginalized voices",
+      "amplified by",
+      "instant messaging"
+    ],
+    [
+      "marginalized voices",
+      "amplifies",
+      "social networking"
+    ],
+    [
+      "marginalized voices",
+      "contrasts with",
+      "online relationships"
+    ],
+    [
+      "marginalized voices",
+      "demands",
+      "accountability"
+    ],
+    [
+      "marginalized voices",
+      "drives",
+      "important conversations"
+    ],
+    [
+      "marginalized voices",
+      "enhanced by",
+      "video calls"
+    ],
+    [
+      "marginalized voices",
+      "enhances",
+      "community"
+    ],
+    [
+      "marginalized voices",
+      "facilitates",
+      "responsible sharing"
+    ],
+    [
+      "marginalized voices",
+      "fosters",
+      "meaningful connections"
+    ],
+    [
+      "marginalized voices",
+      "generates",
+      "rumors"
+    ],
+    [
+      "marginalized voices",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "marginalized voices",
+      "initiates",
+      "communication revolution"
+    ],
+    [
+      "marginalized voices",
+      "is affected by",
+      "negative effects"
+    ],
+    [
+      "marginalized voices",
+      "leads to",
+      "empowerment"
+    ],
+    [
+      "marginalized voices",
+      "presents",
+      "challenges"
+    ],
+    [
+      "marginalized voices",
+      "produces",
+      "user-generated content"
+    ],
+    [
+      "marginalized voices",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "marginalized voices",
+      "promotes",
+      "democratization of information"
+    ],
+    [
+      "marginalized voices",
+      "promotes",
+      "engagement"
+    ],
+    [
+      "marginalized voices",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "marginalized voices",
+      "promotes",
+      "propaganda"
+    ],
+    [
+      "marginalized voices",
+      "propagates",
+      "conspiracy theories"
+    ],
+    [
+      "marginalized voices",
+      "requires",
+      "digital literacy"
+    ],
+    [
+      "marginalized voices",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "marginalized voices",
+      "sparks",
+      "debates"
+    ],
+    [
+      "marginalized voices",
+      "supports",
+      "social activism"
+    ],
+    [
+      "marginalized voices",
+      "utilizes",
+      "engagement strategies"
+    ],
+    [
+      "meaningful connections",
+      "drives",
+      "user-generated content"
+    ],
+    [
+      "meaningful connections",
+      "enhances",
+      "media literacy"
+    ],
+    [
+      "meaningful connections",
+      "enhances",
+      "social networking"
+    ],
+    [
+      "meaningful connections",
+      "facilitates",
+      "information sharing"
+    ],
+    [
+      "meaningful connections",
+      "fosters",
+      "community"
+    ],
+    [
+      "meaningful connections",
+      "supports",
+      "advocacy"
+    ],
+    [
+      "meaningful connections",
+      "supports",
+      "social activism"
+    ],
+    [
+      "meaningful connections",
+      "undermines",
+      "conspiracy theories"
+    ],
+    [
+      "media literacy",
+      "addresses",
+      "social issues"
+    ],
+    [
+      "media literacy",
+      "empowers",
+      "empowerment"
+    ],
+    [
+      "media literacy",
+      "encourages",
+      "important conversations"
+    ],
+    [
+      "media literacy",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "media literacy",
+      "enhances",
+      "social networking"
+    ],
+    [
+      "media literacy",
+      "enhances",
+      "validation"
+    ],
+    [
+      "media literacy",
+      "improves",
+      "self-esteem"
+    ],
+    [
+      "media literacy",
+      "increases",
+      "awareness"
+    ],
+    [
+      "media literacy",
+      "influences",
+      "online discourse"
+    ],
+    [
+      "media literacy",
+      "initiates",
+      "communication revolution"
+    ],
+    [
+      "media literacy",
+      "presents",
+      "challenges"
+    ],
+    [
+      "media literacy",
+      "promotes",
+      "accountability"
+    ],
+    [
+      "media literacy",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "media literacy",
+      "supports",
+      "fact-checking"
+    ],
+    [
+      "mental health",
+      "affected by",
+      "face-to-face interactions"
+    ],
+    [
+      "mental health",
+      "affects",
+      "citizen journalism"
+    ],
+    [
+      "mental health",
+      "affects",
+      "connectivity"
+    ],
+    [
+      "mental health",
+      "affects",
+      "conspiracy theories"
+    ],
+    [
+      "mental health",
+      "affects",
+      "digital age"
+    ],
+    [
+      "mental health",
+      "affects",
+      "engagement"
+    ],
+    [
+      "mental health",
+      "affects",
+      "inclusion"
+    ],
+    [
+      "mental health",
+      "affects",
+      "marginalized voices"
+    ],
+    [
+      "mental health",
+      "affects",
+      "online relationships"
+    ],
+    [
+      "mental health",
+      "affects",
+      "propaganda"
+    ],
+    [
+      "mental health",
+      "affects",
+      "real-world consequences"
+    ],
+    [
+      "mental health",
+      "affects",
+      "responsible sharing"
+    ],
+    [
+      "mental health",
+      "affects",
+      "rumors"
+    ],
+    [
+      "mental health",
+      "affects",
+      "superficial communication"
+    ],
+    [
+      "mental health",
+      "affects",
+      "validation"
+    ],
+    [
+      "mental health",
+      "impacts",
+      "critical thinking"
+    ],
+    [
+      "mental health",
+      "impacts",
+      "important conversations"
+    ],
+    [
+      "mental health",
+      "impacts",
+      "meaningful connections"
+    ],
+    [
+      "mental health",
+      "impacts",
+      "negative effects"
+    ],
+    [
+      "mental health",
+      "impacts",
+      "perceptions"
+    ],
+    [
+      "mental health",
+      "influenced by",
+      "online discourse"
+    ],
+    [
+      "mental health",
+      "influences",
+      "self-esteem"
+    ],
+    [
+      "mental health",
+      "produces",
+      "user-generated content"
+    ],
+    [
+      "misinformation",
+      "affects",
+      "behaviors"
+    ],
+    [
+      "misinformation",
+      "affects",
+      "real-world consequences"
+    ],
+    [
+      "misinformation",
+      "challenges",
+      "critical thinking"
+    ],
+    [
+      "misinformation",
+      "challenges",
+      "media literacy"
+    ],
+    [
+      "misinformation",
+      "compromised by",
+      "connectivity"
+    ],
+    [
+      "misinformation",
+      "contributes to",
+      "communication revolution"
+    ],
+    [
+      "misinformation",
+      "contributes to",
+      "instant messaging"
+    ],
+    [
+      "misinformation",
+      "contributes to",
+      "social issues"
+    ],
+    [
+      "misinformation",
+      "contributes to",
+      "user-generated content"
+    ],
+    [
+      "misinformation",
+      "contributes to",
+      "validation"
+    ],
+    [
+      "misinformation",
+      "exacerbated by",
+      "information sharing"
+    ],
+    [
+      "misinformation",
+      "fuels",
+      "advocacy"
+    ],
+    [
+      "misinformation",
+      "impacts",
+      "mental health"
+    ],
+    [
+      "misinformation",
+      "influenced by",
+      "current events"
+    ],
+    [
+      "misinformation",
+      "leads to",
+      "positive effects"
+    ],
+    [
+      "misinformation",
+      "spreads",
+      "awareness"
+    ],
+    [
+      "misinformation",
+      "spreads",
+      "propaganda"
+    ],
+    [
+      "misinformation",
+      "undermined by",
+      "empowerment"
+    ],
+    [
+      "negative effects",
+      "affected by",
+      "self-esteem"
+    ],
+    [
+      "negative effects",
+      "associated with",
+      "empowerment"
+    ],
+    [
+      "negative effects",
+      "causes",
+      "relationships"
+    ],
+    [
+      "negative effects",
+      "causes",
+      "validation"
+    ],
+    [
+      "negative effects",
+      "contributes to",
+      "media literacy"
+    ],
+    [
+      "negative effects",
+      "contributes to",
+      "misinformation"
+    ],
+    [
+      "negative effects",
+      "contributes to",
+      "social responsibility"
+    ],
+    [
+      "negative effects",
+      "has negative effects on",
+      "social networking"
+    ],
+    [
+      "negative effects",
+      "impacted by",
+      "meaningful connections"
+    ],
+    [
+      "negative effects",
+      "impacts",
+      "community"
+    ],
+    [
+      "negative effects",
+      "impacts",
+      "current events"
+    ],
+    [
+      "negative effects",
+      "impacts",
+      "digital age"
+    ],
+    [
+      "negative effects",
+      "impacts",
+      "online relationships"
+    ],
+    [
+      "negative effects",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "negative effects",
+      "is impacted by",
+      "traditional media"
+    ],
+    [
+      "negative effects",
+      "results in",
+      "connectivity"
+    ],
+    [
+      "negative effects",
+      "results in",
+      "digital literacy"
+    ],
+    [
+      "negative effects",
+      "results in",
+      "important conversations"
+    ],
+    [
+      "negative effects",
+      "results in",
+      "propaganda"
+    ],
+    [
+      "negative effects",
+      "results in",
+      "real-world consequences"
+    ],
+    [
+      "negative effects",
+      "results in",
+      "responsible use"
+    ],
+    [
+      "negative effects",
+      "results in",
+      "superficial communication"
+    ],
+    [
+      "negative effects",
+      "results in",
+      "video calls"
+    ],
+    [
+      "online discourse",
+      "influences",
+      "real-world consequences"
+    ],
+    [
+      "online discourse",
+      "informs",
+      "marginalized voices"
+    ],
+    [
+      "online discourse",
+      "shapes",
+      "inclusion"
+    ],
+    [
+      "online relationships",
+      "affects",
+      "conspiracy theories"
+    ],
+    [
+      "online relationships",
+      "builds",
+      "community"
+    ],
+    [
+      "online relationships",
+      "contrasts with",
+      "genuine interactions"
+    ],
+    [
+      "online relationships",
+      "encourages",
+      "important conversations"
+    ],
+    [
+      "online relationships",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "online relationships",
+      "improves",
+      "media literacy"
+    ],
+    [
+      "online relationships",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "online relationships",
+      "is influenced by",
+      "diversity"
+    ],
+    [
+      "online relationships",
+      "is influenced by",
+      "rumors"
+    ],
+    [
+      "online relationships",
+      "promotes",
+      "responsible sharing"
+    ],
+    [
+      "online relationships",
+      "raises",
+      "awareness"
+    ],
+    [
+      "online relationships",
+      "requires",
+      "accountability"
+    ],
+    [
+      "online relationships",
+      "results in",
+      "connectivity"
+    ],
+    [
+      "perceptions",
+      "affects",
+      "critical thinking"
+    ],
+    [
+      "perceptions",
+      "facilitates",
+      "democratization of information"
+    ],
+    [
+      "perceptions",
+      "influences",
+      "self-esteem"
+    ],
+    [
+      "perceptions",
+      "perceived through",
+      "challenges"
+    ],
+    [
+      "perceptions",
+      "shaped by",
+      "relationships"
+    ],
+    [
+      "perceptions",
+      "shapes",
+      "engagement strategies"
+    ],
+    [
+      "perceptions",
+      "shapes",
+      "face-to-face interactions"
+    ],
+    [
+      "perceptions",
+      "shapes",
+      "genuine interactions"
+    ],
+    [
+      "perceptions",
+      "shapes",
+      "instant messaging"
+    ],
+    [
+      "perceptions",
+      "shapes",
+      "meaningful connections"
+    ],
+    [
+      "perceptions",
+      "shapes",
+      "real-world consequences"
+    ],
+    [
+      "perceptions",
+      "shapes",
+      "responsible use"
+    ],
+    [
+      "perceptions",
+      "shapes",
+      "validation"
+    ],
+    [
+      "perceptions",
+      "supports",
+      "advocacy"
+    ],
+    [
+      "positive effects",
+      "contributes to",
+      "empowerment"
+    ],
+    [
+      "positive effects",
+      "contributes to",
+      "inclusion"
+    ],
+    [
+      "positive effects",
+      "encourages",
+      "citizen journalism"
+    ],
+    [
+      "positive effects",
+      "enhances",
+      "digital literacy"
+    ],
+    [
+      "positive effects",
+      "leads to",
+      "responsible use"
+    ],
+    [
+      "positive effects",
+      "promotes",
+      "meaningful connections"
+    ],
+    [
+      "positive effects",
+      "results in",
+      "communication revolution"
+    ],
+    [
+      "positive effects",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "positive effects",
+      "sparks",
+      "debates"
+    ],
+    [
+      "positive effects",
+      "stimulates",
+      "important conversations"
+    ],
+    [
+      "positive effects",
+      "supports",
+      "diversity"
+    ],
+    [
+      "propaganda",
+      "challenges",
+      "critical thinking"
+    ],
+    [
+      "propaganda",
+      "contributes to",
+      "user-generated content"
+    ],
+    [
+      "propaganda",
+      "counteracts",
+      "fact-checking"
+    ],
+    [
+      "propaganda",
+      "exploits",
+      "engagement strategies"
+    ],
+    [
+      "propaganda",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "propaganda",
+      "influences",
+      "current events"
+    ],
+    [
+      "propaganda",
+      "influences",
+      "positive effects"
+    ],
+    [
+      "propaganda",
+      "leads to",
+      "real-world consequences"
+    ],
+    [
+      "propaganda",
+      "propagates",
+      "digital age"
+    ],
+    [
+      "propaganda",
+      "raises awareness about",
+      "awareness"
+    ],
+    [
+      "propaganda",
+      "results from",
+      "democratization of information"
+    ],
+    [
+      "propaganda",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "propaganda",
+      "sparks",
+      "debates"
+    ],
+    [
+      "propaganda",
+      "spreads",
+      "social issues"
+    ],
+    [
+      "real-world consequences",
+      "influences",
+      "responsible use"
+    ],
+    [
+      "real-world consequences",
+      "leads to",
+      "communication revolution"
+    ],
+    [
+      "real-world consequences",
+      "leads to",
+      "marginalized voices"
+    ],
+    [
+      "real-world consequences",
+      "leads to",
+      "online relationships"
+    ],
+    [
+      "real-world consequences",
+      "results in",
+      "advocacy"
+    ],
+    [
+      "real-world consequences",
+      "results in",
+      "challenges"
+    ],
+    [
+      "real-world consequences",
+      "results in",
+      "communication concerns"
+    ],
+    [
+      "real-world consequences",
+      "results in",
+      "connectivity"
+    ],
+    [
+      "real-world consequences",
+      "results in",
+      "digital age"
+    ],
+    [
+      "real-world consequences",
+      "results in",
+      "face-to-face interactions"
+    ],
+    [
+      "real-world consequences",
+      "results in",
+      "inclusion"
+    ],
+    [
+      "real-world consequences",
+      "results in",
+      "meaningful connections"
+    ],
+    [
+      "real-world consequences",
+      "results in",
+      "responsible sharing"
+    ],
+    [
+      "real-world consequences",
+      "sparks",
+      "important conversations"
+    ],
+    [
+      "relationships",
+      "amplifies",
+      "marginalized voices"
+    ],
+    [
+      "relationships",
+      "enhances",
+      "connectivity"
+    ],
+    [
+      "relationships",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "relationships",
+      "fosters",
+      "empowerment"
+    ],
+    [
+      "relationships",
+      "impacts",
+      "mental health"
+    ],
+    [
+      "relationships",
+      "influences",
+      "online discourse"
+    ],
+    [
+      "relationships",
+      "influences",
+      "responsible sharing"
+    ],
+    [
+      "relationships",
+      "raises awareness of",
+      "awareness"
+    ],
+    [
+      "relationships",
+      "shapes",
+      "behaviors"
+    ],
+    [
+      "responsible sharing",
+      "encourages",
+      "engagement"
+    ],
+    [
+      "responsible sharing",
+      "enhances",
+      "media literacy"
+    ],
+    [
+      "responsible sharing",
+      "impacts",
+      "self-esteem"
+    ],
+    [
+      "responsible sharing",
+      "raises",
+      "awareness"
+    ],
+    [
+      "responsible sharing",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "responsible sharing",
+      "supports",
+      "user-generated content"
+    ],
+    [
+      "responsible use",
+      "builds",
+      "community"
+    ],
+    [
+      "responsible use",
+      "creates",
+      "informed citizens"
+    ],
+    [
+      "responsible use",
+      "demands",
+      "digital age"
+    ],
+    [
+      "responsible use",
+      "enables",
+      "democratization of information"
+    ],
+    [
+      "responsible use",
+      "encourages",
+      "engagement"
+    ],
+    [
+      "responsible use",
+      "encourages",
+      "responsible sharing"
+    ],
+    [
+      "responsible use",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "responsible use",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "responsible use",
+      "promotes",
+      "social responsibility"
+    ],
+    [
+      "responsible use",
+      "requires",
+      "accountability"
+    ],
+    [
+      "responsible use",
+      "requires",
+      "genuine interactions"
+    ],
+    [
+      "responsible use",
+      "requires",
+      "video calls"
+    ],
+    [
+      "responsible use",
+      "shapes",
+      "online discourse"
+    ],
+    [
+      "responsible use",
+      "sparks",
+      "important conversations"
+    ],
+    [
+      "responsible use",
+      "spreads",
+      "propaganda"
+    ],
+    [
+      "responsible use",
+      "supports",
+      "fact-checking"
+    ],
+    [
+      "rumors",
+      "detracts from",
+      "genuine interactions"
+    ],
+    [
+      "rumors",
+      "has negative effects on",
+      "negative effects"
+    ],
+    [
+      "rumors",
+      "influences",
+      "meaningful connections"
+    ],
+    [
+      "rumors",
+      "influences",
+      "validation"
+    ],
+    [
+      "rumors",
+      "is influenced by",
+      "social activism"
+    ],
+    [
+      "rumors",
+      "mitigates",
+      "responsible use"
+    ],
+    [
+      "rumors",
+      "raises",
+      "awareness"
+    ],
+    [
+      "rumors",
+      "spreads",
+      "information sharing"
+    ],
+    [
+      "rumors",
+      "spreads",
+      "misinformation"
+    ],
+    [
+      "rumors",
+      "spreads",
+      "video calls"
+    ],
+    [
+      "self-esteem",
+      "affected by",
+      "online discourse"
+    ],
+    [
+      "self-esteem",
+      "affects",
+      "digital literacy"
+    ],
+    [
+      "self-esteem",
+      "affects",
+      "engagement"
+    ],
+    [
+      "self-esteem",
+      "affects",
+      "online relationships"
+    ],
+    [
+      "self-esteem",
+      "affects",
+      "responsible use"
+    ],
+    [
+      "self-esteem",
+      "affects",
+      "social media"
+    ],
+    [
+      "self-esteem",
+      "affects",
+      "user-generated content"
+    ],
+    [
+      "self-esteem",
+      "affects",
+      "video calls"
+    ],
+    [
+      "self-esteem",
+      "impacts",
+      "conspiracy theories"
+    ],
+    [
+      "self-esteem",
+      "impacts",
+      "digital age"
+    ],
+    [
+      "self-esteem",
+      "impacts",
+      "face-to-face interactions"
+    ],
+    [
+      "self-esteem",
+      "impacts",
+      "meaningful connections"
+    ],
+    [
+      "self-esteem",
+      "impacts",
+      "superficial communication"
+    ],
+    [
+      "self-esteem",
+      "influences",
+      "awareness"
+    ],
+    [
+      "self-esteem",
+      "influences",
+      "diversity"
+    ],
+    [
+      "self-esteem",
+      "is influenced by",
+      "relationships"
+    ],
+    [
+      "social activism",
+      "addresses",
+      "communication concerns"
+    ],
+    [
+      "social activism",
+      "affects",
+      "mental health"
+    ],
+    [
+      "social activism",
+      "complicated by",
+      "misinformation"
+    ],
+    [
+      "social activism",
+      "drives",
+      "online discourse"
+    ],
+    [
+      "social activism",
+      "empowers",
+      "informed citizens"
+    ],
+    [
+      "social activism",
+      "encourages",
+      "responsible sharing"
+    ],
+    [
+      "social activism",
+      "influences",
+      "propaganda"
+    ],
+    [
+      "social activism",
+      "informs",
+      "current events"
+    ],
+    [
+      "social activism",
+      "presents",
+      "challenges"
+    ],
+    [
+      "social activism",
+      "promotes",
+      "behaviors"
+    ],
+    [
+      "social activism",
+      "raises awareness of",
+      "awareness"
+    ],
+    [
+      "social activism",
+      "results in",
+      "real-world consequences"
+    ],
+    [
+      "social activism",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "social activism",
+      "stimulates",
+      "debates"
+    ],
+    [
+      "social activism",
+      "supports",
+      "citizen journalism"
+    ],
+    [
+      "social issues",
+      "addressed by",
+      "inclusion"
+    ],
+    [
+      "social issues",
+      "affects",
+      "mental health"
+    ],
+    [
+      "social issues",
+      "complicates",
+      "online relationships"
+    ],
+    [
+      "social issues",
+      "empowers",
+      "informed citizens"
+    ],
+    [
+      "social issues",
+      "highlights",
+      "superficial communication"
+    ],
+    [
+      "social issues",
+      "impacts",
+      "self-esteem"
+    ],
+    [
+      "social issues",
+      "informs",
+      "citizen journalism"
+    ],
+    [
+      "social issues",
+      "informs",
+      "current events"
+    ],
+    [
+      "social issues",
+      "informs",
+      "user-generated content"
+    ],
+    [
+      "social issues",
+      "initiates",
+      "important conversations"
+    ],
+    [
+      "social issues",
+      "promotes",
+      "engagement"
+    ],
+    [
+      "social issues",
+      "raises awareness of",
+      "awareness"
+    ],
+    [
+      "social issues",
+      "results in",
+      "negative effects"
+    ],
+    [
+      "social issues",
+      "shapes",
+      "behaviors"
+    ],
+    [
+      "social media",
+      "causes",
+      "negative effects"
+    ],
+    [
+      "social media",
+      "demands",
+      "social responsibility"
+    ],
+    [
+      "social media",
+      "enables",
+      "citizen journalism"
+    ],
+    [
+      "social media",
+      "enables",
+      "democratization of information"
+    ],
+    [
+      "social media",
+      "enables",
+      "instant messaging"
+    ],
+    [
+      "social media",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "social media",
+      "facilitates",
+      "meaningful connections"
+    ],
+    [
+      "social media",
+      "fosters",
+      "community"
+    ],
+    [
+      "social media",
+      "increases",
+      "awareness"
+    ],
+    [
+      "social media",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "social media",
+      "influences",
+      "current events"
+    ],
+    [
+      "social media",
+      "influences",
+      "online relationships"
+    ],
+    [
+      "social media",
+      "is utilized by",
+      "connectivity"
+    ],
+    [
+      "social media",
+      "produces",
+      "user-generated content"
+    ],
+    [
+      "social media",
+      "promotes",
+      "advocacy"
+    ],
+    [
+      "social media",
+      "promotes",
+      "important conversations"
+    ],
+    [
+      "social media",
+      "promotes",
+      "superficial communication"
+    ],
+    [
+      "social media",
+      "raises",
+      "social issues"
+    ],
+    [
+      "social media",
+      "results in",
+      "real-world consequences"
+    ],
+    [
+      "social media",
+      "sparks",
+      "debates"
+    ],
+    [
+      "social media",
+      "spreads",
+      "fake news"
+    ],
+    [
+      "social media",
+      "spreads",
+      "misinformation"
+    ],
+    [
+      "social media",
+      "spreads",
+      "propaganda"
+    ],
+    [
+      "social media",
+      "stimulates",
+      "online discourse"
+    ],
+    [
+      "social media",
+      "supports",
+      "social activism"
+    ],
+    [
+      "social networking",
+      "affects",
+      "behaviors"
+    ],
+    [
+      "social networking",
+      "affects",
+      "self-esteem"
+    ],
+    [
+      "social networking",
+      "causes",
+      "real-world consequences"
+    ],
+    [
+      "social networking",
+      "demands",
+      "accountability"
+    ],
+    [
+      "social networking",
+      "encourages",
+      "responsible sharing"
+    ],
+    [
+      "social networking",
+      "enhances",
+      "digital literacy"
+    ],
+    [
+      "social networking",
+      "facilitates",
+      "information sharing"
+    ],
+    [
+      "social networking",
+      "facilitates",
+      "relationships"
+    ],
+    [
+      "social networking",
+      "facilitates",
+      "video calls"
+    ],
+    [
+      "social networking",
+      "fosters",
+      "community"
+    ],
+    [
+      "social networking",
+      "informs",
+      "current events"
+    ],
+    [
+      "social networking",
+      "promotes inclusion in",
+      "inclusion"
+    ],
+    [
+      "social networking",
+      "propagates",
+      "misinformation"
+    ],
+    [
+      "social networking",
+      "stimulates",
+      "important conversations"
+    ],
+    [
+      "social networking",
+      "supports",
+      "instant messaging"
+    ],
+    [
+      "social responsibility",
+      "affects",
+      "mental health"
+    ],
+    [
+      "social responsibility",
+      "builds",
+      "community"
+    ],
+    [
+      "social responsibility",
+      "contributes to",
+      "misinformation"
+    ],
+    [
+      "social responsibility",
+      "demands",
+      "fact-checking"
+    ],
+    [
+      "social responsibility",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "social responsibility",
+      "promotes",
+      "responsible sharing"
+    ],
+    [
+      "social responsibility",
+      "requires",
+      "informed citizens"
+    ],
+    [
+      "social responsibility",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "social responsibility",
+      "stimulates",
+      "debates"
+    ],
+    [
+      "superficial communication",
+      "affects",
+      "behaviors"
+    ],
+    [
+      "superficial communication",
+      "affects",
+      "conspiracy theories"
+    ],
+    [
+      "superficial communication",
+      "affects",
+      "digital literacy"
+    ],
+    [
+      "superficial communication",
+      "builds",
+      "community"
+    ],
+    [
+      "superficial communication",
+      "challenges",
+      "social responsibility"
+    ],
+    [
+      "superficial communication",
+      "complicates",
+      "responsible sharing"
+    ],
+    [
+      "superficial communication",
+      "contrasts with",
+      "genuine interactions"
+    ],
+    [
+      "superficial communication",
+      "contrasts with",
+      "meaningful connections"
+    ],
+    [
+      "superficial communication",
+      "detracts from",
+      "video calls"
+    ],
+    [
+      "superficial communication",
+      "diminishes",
+      "face-to-face interactions"
+    ],
+    [
+      "superficial communication",
+      "influences",
+      "engagement strategies"
+    ],
+    [
+      "superficial communication",
+      "is a challenge for",
+      "diversity"
+    ],
+    [
+      "superficial communication",
+      "is a type of",
+      "relationships"
+    ],
+    [
+      "superficial communication",
+      "is affected by",
+      "digital age"
+    ],
+    [
+      "superficial communication",
+      "produces",
+      "user-generated content"
+    ],
+    [
+      "superficial communication",
+      "promotes",
+      "media literacy"
+    ],
+    [
+      "superficial communication",
+      "promotes",
+      "rumors"
+    ],
+    [
+      "superficial communication",
+      "raises",
+      "communication concerns"
+    ],
+    [
+      "superficial communication",
+      "results in",
+      "inclusion"
+    ],
+    [
+      "superficial communication",
+      "results in",
+      "online relationships"
+    ],
+    [
+      "superficial communication",
+      "results in",
+      "positive effects"
+    ],
+    [
+      "superficial communication",
+      "results in",
+      "real-world consequences"
+    ],
+    [
+      "superficial communication",
+      "stifles",
+      "important conversations"
+    ],
+    [
+      "traditional media",
+      "competes with",
+      "behaviors"
+    ],
+    [
+      "traditional media",
+      "competes with",
+      "communication concerns"
+    ],
+    [
+      "traditional media",
+      "competes with",
+      "connectivity"
+    ],
+    [
+      "traditional media",
+      "competes with",
+      "current events"
+    ],
+    [
+      "traditional media",
+      "competes with",
+      "engagement strategies"
+    ],
+    [
+      "traditional media",
+      "competes with",
+      "genuine interactions"
+    ],
+    [
+      "traditional media",
+      "competes with",
+      "instant messaging"
+    ],
+    [
+      "traditional media",
+      "competes with",
+      "misinformation"
+    ],
+    [
+      "traditional media",
+      "competes with",
+      "responsible sharing"
+    ],
+    [
+      "traditional media",
+      "competes with",
+      "social issues"
+    ],
+    [
+      "traditional media",
+      "competes with",
+      "social media"
+    ],
+    [
+      "traditional media",
+      "competes with",
+      "social networking"
+    ],
+    [
+      "traditional media",
+      "contrasts",
+      "positive effects"
+    ],
+    [
+      "traditional media",
+      "contrasts with",
+      "propaganda"
+    ],
+    [
+      "traditional media",
+      "influences",
+      "community"
+    ],
+    [
+      "traditional media",
+      "influences",
+      "mental health"
+    ],
+    [
+      "traditional media",
+      "influences",
+      "superficial communication"
+    ],
+    [
+      "traditional media",
+      "is affected by",
+      "self-esteem"
+    ],
+    [
+      "traditional media",
+      "is influenced by",
+      "debates"
+    ],
+    [
+      "traditional media",
+      "is influenced by",
+      "digital age"
+    ],
+    [
+      "traditional media",
+      "is influenced by",
+      "important conversations"
+    ],
+    [
+      "traditional media",
+      "is influenced by",
+      "meaningful connections"
+    ],
+    [
+      "traditional media",
+      "is reported by",
+      "empowerment"
+    ],
+    [
+      "traditional media",
+      "is reported by",
+      "relationships"
+    ],
+    [
+      "traditional media",
+      "marginalizes",
+      "diversity"
+    ],
+    [
+      "traditional media",
+      "reported by",
+      "conspiracy theories"
+    ],
+    [
+      "traditional media",
+      "reported by",
+      "inclusion"
+    ],
+    [
+      "traditional media",
+      "reported by",
+      "marginalized voices"
+    ],
+    [
+      "traditional media",
+      "reported by",
+      "real-world consequences"
+    ],
+    [
+      "traditional media",
+      "reported by",
+      "rumors"
+    ],
+    [
+      "traditional media",
+      "transforms",
+      "communication revolution"
+    ],
+    [
+      "user-generated content",
+      "enables",
+      "information sharing"
+    ],
+    [
+      "user-generated content",
+      "enhances",
+      "engagement"
+    ],
+    [
+      "user-generated content",
+      "facilitated by",
+      "video calls"
+    ],
+    [
+      "user-generated content",
+      "generates",
+      "debates"
+    ],
+    [
+      "user-generated content",
+      "influences",
+      "current events"
+    ],
+    [
+      "user-generated content",
+      "influences",
+      "genuine interactions"
+    ],
+    [
+      "user-generated content",
+      "influences",
+      "relationships"
+    ],
+    [
+      "user-generated content",
+      "influences",
+      "rumors"
+    ],
+    [
+      "user-generated content",
+      "informed by",
+      "critical thinking"
+    ],
+    [
+      "user-generated content",
+      "informs",
+      "media literacy"
+    ],
+    [
+      "user-generated content",
+      "informs",
+      "perceptions"
+    ],
+    [
+      "user-generated content",
+      "is generated by",
+      "online relationships"
+    ],
+    [
+      "user-generated content",
+      "utilizes",
+      "social activism"
+    ],
+    [
+      "validation",
+      "affects",
+      "meaningful connections"
+    ],
+    [
+      "validation",
+      "amplifies",
+      "marginalized voices"
+    ],
+    [
+      "validation",
+      "builds",
+      "community"
+    ],
+    [
+      "validation",
+      "enables democratization of",
+      "democratization of information"
+    ],
+    [
+      "validation",
+      "enhanced by",
+      "social responsibility"
+    ],
+    [
+      "validation",
+      "enhances",
+      "critical thinking"
+    ],
+    [
+      "validation",
+      "facilitates",
+      "important conversations"
+    ],
+    [
+      "validation",
+      "highlights",
+      "social issues"
+    ],
+    [
+      "validation",
+      "impacts",
+      "self-esteem"
+    ],
+    [
+      "validation",
+      "informs",
+      "engagement strategies"
+    ],
+    [
+      "validation",
+      "is generated by",
+      "user-generated content"
+    ],
+    [
+      "validation",
+      "manipulated by",
+      "propaganda"
+    ],
+    [
+      "validation",
+      "requires",
+      "citizen journalism"
+    ],
+    [
+      "validation",
+      "requires",
+      "relationships"
+    ],
+    [
+      "validation",
+      "results in",
+      "real-world consequences"
+    ],
+    [
+      "validation",
+      "sought by",
+      "diversity"
+    ],
+    [
+      "validation",
+      "spreads",
+      "conspiracy theories"
+    ],
+    [
+      "validation",
+      "supports",
+      "social activism"
+    ],
+    [
+      "validation",
+      "undermines",
+      "fake news"
+    ],
+    [
+      "video calls",
+      "addresses",
+      "social issues"
+    ],
+    [
+      "video calls",
+      "affects",
+      "fake news"
+    ],
+    [
+      "video calls",
+      "enables",
+      "connectivity"
+    ],
+    [
+      "video calls",
+      "enhances",
+      "inclusion"
+    ],
+    [
+      "video calls",
+      "facilitates",
+      "current events"
+    ],
+    [
+      "video calls",
+      "facilitates",
+      "important conversations"
+    ],
+    [
+      "video calls",
+      "facilitates",
+      "instant messaging"
+    ],
+    [
+      "video calls",
+      "facilitates",
+      "responsible sharing"
+    ],
+    [
+      "video calls",
+      "facilitates",
+      "social media"
+    ],
+    [
+      "video calls",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "video calls",
+      "promotes",
+      "social responsibility"
+    ],
+    [
+      "video calls",
+      "spreads",
+      "propaganda"
+    ]
+  ],
+  "edges": [
+    "addressed by",
+    "addresses",
+    "advocates for",
+    "affected by",
+    "affects",
+    "amplified by",
+    "amplifies",
+    "associated with",
+    "benefits",
+    "benefits from",
+    "builds",
+    "builds community through",
+    "causes",
+    "challenges",
+    "combats",
+    "competes with",
+    "complicated by",
+    "complicates",
+    "compromised by",
+    "concerns",
+    "contradicted by",
+    "contradicts",
+    "contrasts",
+    "contrasts with",
+    "contributes to",
+    "counteracts",
+    "creates",
+    "cultivates",
+    "demands",
+    "depends on",
+    "detracts from",
+    "diminished by",
+    "diminishes",
+    "discussed in",
+    "drives",
+    "empowers",
+    "enables",
+    "enables democratization of",
+    "encompasses",
+    "encourages",
+    "enhanced by",
+    "enhances",
+    "exacerbated by",
+    "exacerbates",
+    "exemplifies",
+    "exploits",
+    "faces",
+    "facilitated by",
+    "facilitates",
+    "facilitates democratization of",
+    "fosters",
+    "fuels",
+    "generate",
+    "generates",
+    "guides",
+    "has negative effects on",
+    "highlights",
+    "hinders",
+    "impacted by",
+    "impacts",
+    "impedes",
+    "improves",
+    "increases",
+    "influenced by",
+    "influences",
+    "informed by",
+    "informs",
+    "initiates",
+    "is a challenge for",
+    "is a form of",
+    "is a type of",
+    "is affected by",
+    "is expressed through",
+    "is generated by",
+    "is impacted by",
+    "is influenced by",
+    "is related to",
+    "is reported by",
+    "is utilized by",
+    "leads to",
+    "limits",
+    "manipulated by",
+    "marginalizes",
+    "mitigates",
+    "necessitates",
+    "perceived through",
+    "presents",
+    "produces",
+    "promotes",
+    "promotes inclusion in",
+    "propagated by",
+    "propagates",
+    "raises",
+    "raises awareness about",
+    "raises awareness of",
+    "replaces",
+    "reported by",
+    "requires",
+    "results from",
+    "results in",
+    "shaped by",
+    "shapes",
+    "shared through",
+    "sought by",
+    "sparked",
+    "sparks",
+    "spreads",
+    "stifles",
+    "stimulates",
+    "strengthens",
+    "supports",
+    "transforms",
+    "undermined by",
+    "undermines",
+    "utilizes"
+  ]
+}

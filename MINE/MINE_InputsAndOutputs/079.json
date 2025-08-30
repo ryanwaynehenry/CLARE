@@ -1,0 +1,1785 @@
+{
+  "entities": [
+    "absurdities",
+    "alternative perspectives",
+    "awareness",
+    "balancing act",
+    "breaking barriers",
+    "camaraderie",
+    "change",
+    "comedians",
+    "comedy",
+    "community",
+    "complexity",
+    "controversial topics",
+    "coping mechanism",
+    "cultural significance",
+    "diversity",
+    "entertainment",
+    "ethical humor",
+    "health benefits",
+    "humor",
+    "humor power",
+    "impact",
+    "impactful words",
+    "injustices",
+    "joy",
+    "laughter",
+    "navigating boundaries",
+    "parody",
+    "positive change",
+    "promoting unity",
+    "responsibility",
+    "satire",
+    "shared experience",
+    "social commentary",
+    "social criticism",
+    "society",
+    "stereotypes",
+    "stress relief",
+    "taboo subjects",
+    "thoughtful comedy",
+    "unity",
+    "uplifting spirits"
+  ],
+  "relations": [
+    [
+      "absurdities",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "absurdities",
+      "drives",
+      "positive change"
+    ],
+    [
+      "absurdities",
+      "highlights",
+      "impact"
+    ],
+    [
+      "absurdities",
+      "highlights",
+      "laughter"
+    ],
+    [
+      "absurdities",
+      "highlights",
+      "shared experience"
+    ],
+    [
+      "absurdities",
+      "informs",
+      "comedians"
+    ],
+    [
+      "absurdities",
+      "inspires",
+      "change"
+    ],
+    [
+      "absurdities",
+      "reveals",
+      "society"
+    ],
+    [
+      "alternative perspectives",
+      "enhances",
+      "shared experience"
+    ],
+    [
+      "alternative perspectives",
+      "highlights",
+      "absurdities"
+    ],
+    [
+      "alternative perspectives",
+      "influences",
+      "humor"
+    ],
+    [
+      "alternative perspectives",
+      "informs",
+      "satire"
+    ],
+    [
+      "alternative perspectives",
+      "offers",
+      "breaking barriers"
+    ],
+    [
+      "alternative perspectives",
+      "offers",
+      "community"
+    ],
+    [
+      "alternative perspectives",
+      "provides",
+      "entertainment"
+    ],
+    [
+      "alternative perspectives",
+      "provides",
+      "impact"
+    ],
+    [
+      "alternative perspectives",
+      "serves as",
+      "social commentary"
+    ],
+    [
+      "alternative perspectives",
+      "utilizes",
+      "parody"
+    ],
+    [
+      "awareness",
+      "is linked to",
+      "responsibility"
+    ],
+    [
+      "awareness",
+      "raises",
+      "absurdities"
+    ],
+    [
+      "awareness",
+      "raises",
+      "social commentary"
+    ],
+    [
+      "balancing act",
+      "involves",
+      "comedians"
+    ],
+    [
+      "balancing act",
+      "is a form of",
+      "satire"
+    ],
+    [
+      "balancing act",
+      "is challenged by",
+      "social criticism"
+    ],
+    [
+      "balancing act",
+      "is expressed through",
+      "social commentary"
+    ],
+    [
+      "balancing act",
+      "is managed by",
+      "diversity"
+    ],
+    [
+      "balancing act",
+      "necessitates",
+      "impactful words"
+    ],
+    [
+      "balancing act",
+      "requires",
+      "responsibility"
+    ],
+    [
+      "breaking barriers",
+      "addresses",
+      "taboo subjects"
+    ],
+    [
+      "breaking barriers",
+      "breaks barriers for",
+      "comedians"
+    ],
+    [
+      "breaking barriers",
+      "contributes to",
+      "uplifting spirits"
+    ],
+    [
+      "breaking barriers",
+      "creates",
+      "joy"
+    ],
+    [
+      "breaking barriers",
+      "exposes",
+      "absurdities"
+    ],
+    [
+      "breaking barriers",
+      "facilitates",
+      "impact"
+    ],
+    [
+      "breaking barriers",
+      "facilitates",
+      "positive change"
+    ],
+    [
+      "breaking barriers",
+      "promotes",
+      "unity"
+    ],
+    [
+      "breaking barriers",
+      "requires",
+      "responsibility"
+    ],
+    [
+      "camaraderie",
+      "builds",
+      "community"
+    ],
+    [
+      "camaraderie",
+      "enhances",
+      "complexity"
+    ],
+    [
+      "camaraderie",
+      "enhances",
+      "diversity"
+    ],
+    [
+      "camaraderie",
+      "enhances",
+      "joy"
+    ],
+    [
+      "camaraderie",
+      "enhances",
+      "social commentary"
+    ],
+    [
+      "camaraderie",
+      "fosters",
+      "laughter"
+    ],
+    [
+      "camaraderie",
+      "fosters",
+      "promoting unity"
+    ],
+    [
+      "camaraderie",
+      "promotes",
+      "positive change"
+    ],
+    [
+      "camaraderie",
+      "provides",
+      "entertainment"
+    ],
+    [
+      "camaraderie",
+      "strengthens",
+      "unity"
+    ],
+    [
+      "change",
+      "addresses",
+      "controversial topics"
+    ],
+    [
+      "change",
+      "enables",
+      "navigating boundaries"
+    ],
+    [
+      "change",
+      "informs",
+      "social commentary"
+    ],
+    [
+      "change",
+      "inspires",
+      "thoughtful comedy"
+    ],
+    [
+      "change",
+      "raises",
+      "awareness"
+    ],
+    [
+      "comedians",
+      "benefits from",
+      "breaking barriers"
+    ],
+    [
+      "comedians",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "comedians",
+      "drives",
+      "positive change"
+    ],
+    [
+      "comedians",
+      "entertains",
+      "entertainment"
+    ],
+    [
+      "comedians",
+      "holds",
+      "responsibility"
+    ],
+    [
+      "comedians",
+      "influences",
+      "navigating boundaries"
+    ],
+    [
+      "comedians",
+      "influences",
+      "society"
+    ],
+    [
+      "comedians",
+      "inspired by",
+      "laughter"
+    ],
+    [
+      "comedians",
+      "is created by",
+      "shared experience"
+    ],
+    [
+      "comedians",
+      "performed by",
+      "comedy"
+    ],
+    [
+      "comedians",
+      "performed by",
+      "parody"
+    ],
+    [
+      "comedians",
+      "performed by",
+      "social criticism"
+    ],
+    [
+      "comedians",
+      "uplifts",
+      "uplifting spirits"
+    ],
+    [
+      "comedians",
+      "utilized by",
+      "diversity"
+    ],
+    [
+      "comedians",
+      "utilizes",
+      "change"
+    ],
+    [
+      "comedians",
+      "utilizes",
+      "injustices"
+    ],
+    [
+      "comedians",
+      "utilizes",
+      "satire"
+    ],
+    [
+      "comedy",
+      "achieved by",
+      "stress relief"
+    ],
+    [
+      "comedy",
+      "affected by",
+      "impact"
+    ],
+    [
+      "comedy",
+      "catalyzes",
+      "positive change"
+    ],
+    [
+      "comedy",
+      "drives",
+      "change"
+    ],
+    [
+      "comedy",
+      "encompasses",
+      "entertainment"
+    ],
+    [
+      "comedy",
+      "is a genre of",
+      "humor"
+    ],
+    [
+      "comedy",
+      "is critiqued by",
+      "social criticism"
+    ],
+    [
+      "comedy",
+      "is enhanced by",
+      "uplifting spirits"
+    ],
+    [
+      "comedy",
+      "is influenced by",
+      "humor power"
+    ],
+    [
+      "comedy",
+      "utilizes",
+      "absurdities"
+    ],
+    [
+      "community",
+      "addresses",
+      "taboo subjects"
+    ],
+    [
+      "community",
+      "creates",
+      "joy"
+    ],
+    [
+      "community",
+      "creates",
+      "unity"
+    ],
+    [
+      "community",
+      "enables",
+      "shared experience"
+    ],
+    [
+      "community",
+      "encompasses",
+      "comedy"
+    ],
+    [
+      "community",
+      "enhances",
+      "health benefits"
+    ],
+    [
+      "community",
+      "enhances",
+      "humor power"
+    ],
+    [
+      "community",
+      "entertains",
+      "comedians"
+    ],
+    [
+      "community",
+      "highlights",
+      "absurdities"
+    ],
+    [
+      "community",
+      "overcomes",
+      "breaking barriers"
+    ],
+    [
+      "community",
+      "provides",
+      "stress relief"
+    ],
+    [
+      "community",
+      "represents",
+      "cultural significance"
+    ],
+    [
+      "complexity",
+      "challenges",
+      "taboo subjects"
+    ],
+    [
+      "complexity",
+      "complicates",
+      "breaking barriers"
+    ],
+    [
+      "complexity",
+      "drives",
+      "positive change"
+    ],
+    [
+      "complexity",
+      "is influenced by",
+      "stress relief"
+    ],
+    [
+      "controversial topics",
+      "addresses",
+      "comedians"
+    ],
+    [
+      "controversial topics",
+      "drives",
+      "promoting unity"
+    ],
+    [
+      "controversial topics",
+      "provides",
+      "social commentary"
+    ],
+    [
+      "controversial topics",
+      "raises",
+      "awareness"
+    ],
+    [
+      "controversial topics",
+      "requires",
+      "responsibility"
+    ],
+    [
+      "coping mechanism",
+      "provides",
+      "health benefits"
+    ],
+    [
+      "cultural significance",
+      "addresses",
+      "controversial topics"
+    ],
+    [
+      "cultural significance",
+      "enhances",
+      "camaraderie"
+    ],
+    [
+      "cultural significance",
+      "is essential for",
+      "balancing act"
+    ],
+    [
+      "cultural significance",
+      "is significant to",
+      "society"
+    ],
+    [
+      "cultural significance",
+      "raises",
+      "awareness"
+    ],
+    [
+      "cultural significance",
+      "signifies",
+      "uplifting spirits"
+    ],
+    [
+      "diversity",
+      "contributes to",
+      "promoting unity"
+    ],
+    [
+      "diversity",
+      "demands",
+      "responsibility"
+    ],
+    [
+      "diversity",
+      "drives",
+      "positive change"
+    ],
+    [
+      "diversity",
+      "fosters",
+      "community"
+    ],
+    [
+      "diversity",
+      "is a form of",
+      "comedy"
+    ],
+    [
+      "diversity",
+      "is challenged by",
+      "stereotypes"
+    ],
+    [
+      "diversity",
+      "is represented in",
+      "satire"
+    ],
+    [
+      "diversity",
+      "offers",
+      "alternative perspectives"
+    ],
+    [
+      "diversity",
+      "overcomes",
+      "breaking barriers"
+    ],
+    [
+      "diversity",
+      "serves as",
+      "coping mechanism"
+    ],
+    [
+      "diversity",
+      "shapes",
+      "society"
+    ],
+    [
+      "entertainment",
+      "addresses",
+      "taboo subjects"
+    ],
+    [
+      "entertainment",
+      "builds",
+      "community"
+    ],
+    [
+      "entertainment",
+      "creates",
+      "shared experience"
+    ],
+    [
+      "entertainment",
+      "facilitates",
+      "positive change"
+    ],
+    [
+      "entertainment",
+      "fosters",
+      "promoting unity"
+    ],
+    [
+      "entertainment",
+      "inspires",
+      "change"
+    ],
+    [
+      "entertainment",
+      "is a form of",
+      "thoughtful comedy"
+    ],
+    [
+      "entertainment",
+      "promotes",
+      "unity"
+    ],
+    [
+      "entertainment",
+      "provides",
+      "laughter"
+    ],
+    [
+      "entertainment",
+      "utilizes",
+      "parody"
+    ],
+    [
+      "ethical humor",
+      "drives",
+      "positive change"
+    ],
+    [
+      "ethical humor",
+      "informs",
+      "social criticism"
+    ],
+    [
+      "ethical humor",
+      "is addressed by",
+      "stereotypes"
+    ],
+    [
+      "ethical humor",
+      "is influenced by",
+      "impactful words"
+    ],
+    [
+      "ethical humor",
+      "is influenced by",
+      "society"
+    ],
+    [
+      "ethical humor",
+      "provides",
+      "social commentary"
+    ],
+    [
+      "ethical humor",
+      "raises",
+      "awareness"
+    ],
+    [
+      "ethical humor",
+      "requires",
+      "balancing act"
+    ],
+    [
+      "health benefits",
+      "benefits from",
+      "community"
+    ],
+    [
+      "health benefits",
+      "offers",
+      "satire"
+    ],
+    [
+      "health benefits",
+      "provides",
+      "entertainment"
+    ],
+    [
+      "health benefits",
+      "supports",
+      "social commentary"
+    ],
+    [
+      "humor",
+      "addresses",
+      "controversial topics"
+    ],
+    [
+      "humor",
+      "addresses",
+      "taboo subjects"
+    ],
+    [
+      "humor",
+      "drives",
+      "positive change"
+    ],
+    [
+      "humor",
+      "enhances",
+      "health benefits"
+    ],
+    [
+      "humor",
+      "enhances",
+      "shared experience"
+    ],
+    [
+      "humor",
+      "induces",
+      "joy"
+    ],
+    [
+      "humor",
+      "influences",
+      "diversity"
+    ],
+    [
+      "humor",
+      "promotes",
+      "unity"
+    ],
+    [
+      "humor",
+      "shapes",
+      "community"
+    ],
+    [
+      "humor",
+      "shapes",
+      "impact"
+    ],
+    [
+      "humor",
+      "utilizes",
+      "society"
+    ],
+    [
+      "humor power",
+      "enables",
+      "ethical humor"
+    ],
+    [
+      "humor power",
+      "influences",
+      "impactful words"
+    ],
+    [
+      "humor power",
+      "is a source of",
+      "impact"
+    ],
+    [
+      "humor power",
+      "offers",
+      "alternative perspectives"
+    ],
+    [
+      "humor power",
+      "requires",
+      "responsibility"
+    ],
+    [
+      "impact",
+      "affects",
+      "injustices"
+    ],
+    [
+      "impact",
+      "challenges",
+      "taboo subjects"
+    ],
+    [
+      "impact",
+      "drives",
+      "positive change"
+    ],
+    [
+      "impact",
+      "influences",
+      "change"
+    ],
+    [
+      "impact",
+      "influences",
+      "comedy"
+    ],
+    [
+      "impact",
+      "influences",
+      "controversial topics"
+    ],
+    [
+      "impact",
+      "influences",
+      "laughter"
+    ],
+    [
+      "impact",
+      "is affected by",
+      "promoting unity"
+    ],
+    [
+      "impact",
+      "raises",
+      "awareness"
+    ],
+    [
+      "impact",
+      "shapes",
+      "social commentary"
+    ],
+    [
+      "impactful words",
+      "addresses",
+      "controversial topics"
+    ],
+    [
+      "impactful words",
+      "influenced by",
+      "breaking barriers"
+    ],
+    [
+      "impactful words",
+      "informs",
+      "laughter"
+    ],
+    [
+      "impactful words",
+      "informs",
+      "thoughtful comedy"
+    ],
+    [
+      "impactful words",
+      "is derived from",
+      "impact"
+    ],
+    [
+      "impactful words",
+      "raises",
+      "awareness"
+    ],
+    [
+      "impactful words",
+      "shapes",
+      "satire"
+    ],
+    [
+      "injustices",
+      "addresses",
+      "social commentary"
+    ],
+    [
+      "injustices",
+      "addresses",
+      "thoughtful comedy"
+    ],
+    [
+      "injustices",
+      "challenges",
+      "society"
+    ],
+    [
+      "injustices",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "injustices",
+      "challenges",
+      "unity"
+    ],
+    [
+      "injustices",
+      "critiques",
+      "parody"
+    ],
+    [
+      "injustices",
+      "demands",
+      "responsibility"
+    ],
+    [
+      "injustices",
+      "exposes",
+      "taboo subjects"
+    ],
+    [
+      "injustices",
+      "highlights",
+      "cultural significance"
+    ],
+    [
+      "injustices",
+      "highlights",
+      "satire"
+    ],
+    [
+      "injustices",
+      "influences",
+      "entertainment"
+    ],
+    [
+      "injustices",
+      "informs",
+      "impactful words"
+    ],
+    [
+      "injustices",
+      "is addressed by",
+      "ethical humor"
+    ],
+    [
+      "injustices",
+      "offers",
+      "alternative perspectives"
+    ],
+    [
+      "injustices",
+      "promotes",
+      "change"
+    ],
+    [
+      "joy",
+      "contributes to",
+      "laughter"
+    ],
+    [
+      "joy",
+      "creates",
+      "society"
+    ],
+    [
+      "joy",
+      "elicits",
+      "comedy"
+    ],
+    [
+      "joy",
+      "elicits",
+      "impact"
+    ],
+    [
+      "joy",
+      "enhances",
+      "health benefits"
+    ],
+    [
+      "joy",
+      "evokes",
+      "absurdities"
+    ],
+    [
+      "joy",
+      "evokes",
+      "shared experience"
+    ],
+    [
+      "joy",
+      "informs",
+      "social commentary"
+    ],
+    [
+      "joy",
+      "is a source of",
+      "satire"
+    ],
+    [
+      "joy",
+      "results in",
+      "unity"
+    ],
+    [
+      "laughter",
+      "creates",
+      "community"
+    ],
+    [
+      "laughter",
+      "enhances",
+      "social commentary"
+    ],
+    [
+      "laughter",
+      "exposes",
+      "injustices"
+    ],
+    [
+      "laughter",
+      "facilitates",
+      "breaking barriers"
+    ],
+    [
+      "laughter",
+      "informs",
+      "parody"
+    ],
+    [
+      "laughter",
+      "inspires",
+      "change"
+    ],
+    [
+      "laughter",
+      "is influenced by",
+      "ethical humor"
+    ],
+    [
+      "laughter",
+      "provides",
+      "health benefits"
+    ],
+    [
+      "laughter",
+      "reflects",
+      "diversity"
+    ],
+    [
+      "laughter",
+      "represents",
+      "cultural significance"
+    ],
+    [
+      "navigating boundaries",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "navigating boundaries",
+      "involves",
+      "comedy"
+    ],
+    [
+      "navigating boundaries",
+      "involves",
+      "ethical humor"
+    ],
+    [
+      "navigating boundaries",
+      "is a theme in",
+      "thoughtful comedy"
+    ],
+    [
+      "navigating boundaries",
+      "is influenced by",
+      "humor"
+    ],
+    [
+      "navigating boundaries",
+      "serves as",
+      "social commentary"
+    ],
+    [
+      "navigating boundaries",
+      "utilizes",
+      "satire"
+    ],
+    [
+      "parody",
+      "addresses",
+      "unity"
+    ],
+    [
+      "parody",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "parody",
+      "informs",
+      "society"
+    ],
+    [
+      "parody",
+      "initiates",
+      "change"
+    ],
+    [
+      "parody",
+      "inspired by",
+      "shared experience"
+    ],
+    [
+      "parody",
+      "is a form of",
+      "humor"
+    ],
+    [
+      "parody",
+      "is a type of",
+      "thoughtful comedy"
+    ],
+    [
+      "parody",
+      "promotes",
+      "positive change"
+    ],
+    [
+      "parody",
+      "requires",
+      "responsibility"
+    ],
+    [
+      "positive change",
+      "addresses",
+      "injustices"
+    ],
+    [
+      "positive change",
+      "contributes to",
+      "health benefits"
+    ],
+    [
+      "positive change",
+      "drives",
+      "impactful words"
+    ],
+    [
+      "positive change",
+      "impacts",
+      "society"
+    ],
+    [
+      "positive change",
+      "inspired by",
+      "taboo subjects"
+    ],
+    [
+      "positive change",
+      "leads to",
+      "joy"
+    ],
+    [
+      "positive change",
+      "promotes",
+      "laughter"
+    ],
+    [
+      "promoting unity",
+      "addresses",
+      "injustices"
+    ],
+    [
+      "promoting unity",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "promoting unity",
+      "contributes to",
+      "health benefits"
+    ],
+    [
+      "promoting unity",
+      "encourages",
+      "positive change"
+    ],
+    [
+      "promoting unity",
+      "enhances",
+      "thoughtful comedy"
+    ],
+    [
+      "promoting unity",
+      "facilitates",
+      "shared experience"
+    ],
+    [
+      "promoting unity",
+      "fosters",
+      "comedy"
+    ],
+    [
+      "promoting unity",
+      "supports",
+      "balancing act"
+    ],
+    [
+      "promoting unity",
+      "supports",
+      "social commentary"
+    ],
+    [
+      "promoting unity",
+      "utilizes",
+      "satire"
+    ],
+    [
+      "responsibility",
+      "demands",
+      "alternative perspectives"
+    ],
+    [
+      "responsibility",
+      "demands",
+      "promoting unity"
+    ],
+    [
+      "responsibility",
+      "demands",
+      "stereotypes"
+    ],
+    [
+      "responsibility",
+      "is a duty of",
+      "shared experience"
+    ],
+    [
+      "responsibility",
+      "is a responsibility of",
+      "society"
+    ],
+    [
+      "responsibility",
+      "is influenced by",
+      "health benefits"
+    ],
+    [
+      "responsibility",
+      "is linked to",
+      "impactful words"
+    ],
+    [
+      "responsibility",
+      "necessitates",
+      "camaraderie"
+    ],
+    [
+      "responsibility",
+      "requires",
+      "change"
+    ],
+    [
+      "responsibility",
+      "requires",
+      "community"
+    ],
+    [
+      "responsibility",
+      "requires",
+      "entertainment"
+    ],
+    [
+      "responsibility",
+      "requires",
+      "social commentary"
+    ],
+    [
+      "satire",
+      "addresses",
+      "controversial topics"
+    ],
+    [
+      "satire",
+      "drives",
+      "change"
+    ],
+    [
+      "satire",
+      "informs",
+      "impact"
+    ],
+    [
+      "satire",
+      "is expressed through",
+      "taboo subjects"
+    ],
+    [
+      "satire",
+      "provides",
+      "social commentary"
+    ],
+    [
+      "satire",
+      "raises",
+      "awareness"
+    ],
+    [
+      "shared experience",
+      "contributes to",
+      "positive change"
+    ],
+    [
+      "shared experience",
+      "enhances",
+      "health benefits"
+    ],
+    [
+      "shared experience",
+      "facilitates",
+      "change"
+    ],
+    [
+      "shared experience",
+      "fosters",
+      "society"
+    ],
+    [
+      "shared experience",
+      "is enhanced by",
+      "ethical humor"
+    ],
+    [
+      "shared experience",
+      "promotes",
+      "unity"
+    ],
+    [
+      "shared experience",
+      "provides",
+      "social commentary"
+    ],
+    [
+      "shared experience",
+      "satirizes",
+      "parody"
+    ],
+    [
+      "social commentary",
+      "informs",
+      "entertainment"
+    ],
+    [
+      "social criticism",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "social criticism",
+      "critiques",
+      "society"
+    ],
+    [
+      "social criticism",
+      "facilitates",
+      "promoting unity"
+    ],
+    [
+      "social criticism",
+      "highlights",
+      "injustices"
+    ],
+    [
+      "social criticism",
+      "is a type of",
+      "social commentary"
+    ],
+    [
+      "social criticism",
+      "is expressed through",
+      "satire"
+    ],
+    [
+      "social criticism",
+      "is highlighted by",
+      "cultural significance"
+    ],
+    [
+      "social criticism",
+      "overcomes",
+      "breaking barriers"
+    ],
+    [
+      "social criticism",
+      "promotes",
+      "unity"
+    ],
+    [
+      "social criticism",
+      "provides",
+      "humor"
+    ],
+    [
+      "social criticism",
+      "requires",
+      "responsibility"
+    ],
+    [
+      "society",
+      "affects",
+      "impact"
+    ],
+    [
+      "society",
+      "benefits",
+      "health benefits"
+    ],
+    [
+      "society",
+      "drives",
+      "change"
+    ],
+    [
+      "society",
+      "influences",
+      "community"
+    ],
+    [
+      "society",
+      "influences",
+      "laughter"
+    ],
+    [
+      "society",
+      "informs",
+      "social commentary"
+    ],
+    [
+      "society",
+      "is a part of",
+      "promoting unity"
+    ],
+    [
+      "society",
+      "shapes",
+      "alternative perspectives"
+    ],
+    [
+      "stereotypes",
+      "affects",
+      "impact"
+    ],
+    [
+      "stereotypes",
+      "drives",
+      "positive change"
+    ],
+    [
+      "stereotypes",
+      "is a form of",
+      "comedy"
+    ],
+    [
+      "stereotypes",
+      "is influenced by",
+      "society"
+    ],
+    [
+      "stereotypes",
+      "represents",
+      "cultural significance"
+    ],
+    [
+      "stress relief",
+      "contributes to",
+      "cultural significance"
+    ],
+    [
+      "stress relief",
+      "contributes to",
+      "social commentary"
+    ],
+    [
+      "stress relief",
+      "promotes",
+      "unity"
+    ],
+    [
+      "stress relief",
+      "provides",
+      "camaraderie"
+    ],
+    [
+      "stress relief",
+      "provides",
+      "positive change"
+    ],
+    [
+      "stress relief",
+      "provides",
+      "promoting unity"
+    ],
+    [
+      "stress relief",
+      "raises",
+      "awareness"
+    ],
+    [
+      "taboo subjects",
+      "addresses",
+      "comedy"
+    ],
+    [
+      "taboo subjects",
+      "challenges",
+      "laughter"
+    ],
+    [
+      "taboo subjects",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "taboo subjects",
+      "influences",
+      "society"
+    ],
+    [
+      "taboo subjects",
+      "informs",
+      "social commentary"
+    ],
+    [
+      "taboo subjects",
+      "is a form of",
+      "parody"
+    ],
+    [
+      "taboo subjects",
+      "promotes",
+      "change"
+    ],
+    [
+      "taboo subjects",
+      "promotes",
+      "positive change"
+    ],
+    [
+      "taboo subjects",
+      "promotes",
+      "unity"
+    ],
+    [
+      "taboo subjects",
+      "requires",
+      "responsibility"
+    ],
+    [
+      "taboo subjects",
+      "utilizes",
+      "comedians"
+    ],
+    [
+      "thoughtful comedy",
+      "is a result of",
+      "positive change"
+    ],
+    [
+      "thoughtful comedy",
+      "is critiqued by",
+      "social criticism"
+    ],
+    [
+      "thoughtful comedy",
+      "is explored in",
+      "diversity"
+    ],
+    [
+      "thoughtful comedy",
+      "is expressed through",
+      "society"
+    ],
+    [
+      "thoughtful comedy",
+      "is highlighted by",
+      "injustices"
+    ],
+    [
+      "unity",
+      "addresses",
+      "controversial topics"
+    ],
+    [
+      "unity",
+      "enhances",
+      "health benefits"
+    ],
+    [
+      "unity",
+      "exposes",
+      "social commentary"
+    ],
+    [
+      "unity",
+      "fosters",
+      "absurdities"
+    ],
+    [
+      "unity",
+      "fosters",
+      "laughter"
+    ],
+    [
+      "unity",
+      "fosters",
+      "satire"
+    ],
+    [
+      "unity",
+      "fosters",
+      "stereotypes"
+    ],
+    [
+      "unity",
+      "fosters",
+      "uplifting spirits"
+    ],
+    [
+      "unity",
+      "influences",
+      "comedians"
+    ],
+    [
+      "unity",
+      "is supported by",
+      "society"
+    ],
+    [
+      "unity",
+      "promotes",
+      "change"
+    ],
+    [
+      "uplifting spirits",
+      "increases",
+      "laughter"
+    ],
+    [
+      "uplifting spirits",
+      "is enhanced by",
+      "coping mechanism"
+    ],
+    [
+      "uplifting spirits",
+      "uplifts",
+      "comedy"
+    ],
+    [
+      "uplifting spirits",
+      "uplifts",
+      "injustices"
+    ]
+  ],
+  "edges": [
+    "achieved by",
+    "addresses",
+    "affected by",
+    "affects",
+    "benefits",
+    "benefits from",
+    "breaks barriers for",
+    "builds",
+    "catalyzes",
+    "challenges",
+    "complicates",
+    "contributes to",
+    "creates",
+    "critiques",
+    "demands",
+    "drives",
+    "elicits",
+    "enables",
+    "encompasses",
+    "encourages",
+    "enhances",
+    "entertains",
+    "evokes",
+    "exposes",
+    "facilitates",
+    "fosters",
+    "highlights",
+    "holds",
+    "impacts",
+    "increases",
+    "induces",
+    "influenced by",
+    "influences",
+    "informs",
+    "initiates",
+    "inspired by",
+    "inspires",
+    "involves",
+    "is a duty of",
+    "is a form of",
+    "is a genre of",
+    "is a part of",
+    "is a responsibility of",
+    "is a result of",
+    "is a source of",
+    "is a theme in",
+    "is a type of",
+    "is addressed by",
+    "is affected by",
+    "is challenged by",
+    "is created by",
+    "is critiqued by",
+    "is derived from",
+    "is enhanced by",
+    "is essential for",
+    "is explored in",
+    "is expressed through",
+    "is highlighted by",
+    "is influenced by",
+    "is linked to",
+    "is managed by",
+    "is represented in",
+    "is significant to",
+    "is supported by",
+    "leads to",
+    "necessitates",
+    "offers",
+    "overcomes",
+    "performed by",
+    "promotes",
+    "provides",
+    "raises",
+    "reflects",
+    "represents",
+    "requires",
+    "results in",
+    "reveals",
+    "satirizes",
+    "serves as",
+    "shapes",
+    "signifies",
+    "strengthens",
+    "supports",
+    "uplifts",
+    "utilized by",
+    "utilizes"
+  ]
+}

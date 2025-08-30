@@ -1,0 +1,2020 @@
+{
+  "entities": [
+    "accessibility",
+    "artist compensation",
+    "artists",
+    "audience understanding",
+    "challenges",
+    "compensation debates",
+    "concerns",
+    "consumption",
+    "criticisms",
+    "data analytics",
+    "debates",
+    "democratization",
+    "distribution",
+    "diverse music landscape",
+    "established artists",
+    "exploration",
+    "fan connection",
+    "genres",
+    "global audience",
+    "impact",
+    "independent artists",
+    "industry stakeholders",
+    "listener preferences",
+    "listeners",
+    "major labels",
+    "modern challenges",
+    "modern landscape",
+    "music access",
+    "music discovery",
+    "music industry",
+    "music streaming",
+    "opportunities",
+    "personalized playlists",
+    "physical sales decline",
+    "platform benefits",
+    "platforms",
+    "playlists",
+    "primary income source",
+    "recommendations",
+    "revenue stream",
+    "revolution",
+    "royalty rates",
+    "single tracks",
+    "smaller fan base",
+    "social media",
+    "sustainability",
+    "tailored experience",
+    "tailored music",
+    "technology evolution",
+    "traditional record sales",
+    "transformation",
+    "unfair system"
+  ],
+  "relations": [
+    [
+      "accessibility",
+      "broadens",
+      "genres"
+    ],
+    [
+      "accessibility",
+      "facilitated by",
+      "physical sales decline"
+    ],
+    [
+      "accessibility",
+      "improved by",
+      "smaller fan base"
+    ],
+    [
+      "accessibility",
+      "improves",
+      "music industry"
+    ],
+    [
+      "accessibility",
+      "improves",
+      "sustainability"
+    ],
+    [
+      "accessibility",
+      "is enhanced by",
+      "personalized playlists"
+    ],
+    [
+      "accessibility",
+      "is facilitated by",
+      "social media"
+    ],
+    [
+      "accessibility",
+      "limits",
+      "challenges"
+    ],
+    [
+      "accessibility",
+      "provided by",
+      "platforms"
+    ],
+    [
+      "artist compensation",
+      "benefits",
+      "established artists"
+    ],
+    [
+      "artist compensation",
+      "concerns",
+      "artists"
+    ],
+    [
+      "artist compensation",
+      "creates",
+      "opportunities"
+    ],
+    [
+      "artist compensation",
+      "depends on",
+      "revenue stream"
+    ],
+    [
+      "artist compensation",
+      "determines",
+      "royalty rates"
+    ],
+    [
+      "artist compensation",
+      "facilitates",
+      "fan connection"
+    ],
+    [
+      "artists",
+      "affects",
+      "unfair system"
+    ],
+    [
+      "artists",
+      "benefits",
+      "single tracks"
+    ],
+    [
+      "artists",
+      "faces challenges from",
+      "modern challenges"
+    ],
+    [
+      "artists",
+      "received by",
+      "royalty rates"
+    ],
+    [
+      "audience understanding",
+      "benefits from",
+      "listeners"
+    ],
+    [
+      "audience understanding",
+      "influences",
+      "criticisms"
+    ],
+    [
+      "audience understanding",
+      "informs",
+      "data analytics"
+    ],
+    [
+      "challenges",
+      "affects",
+      "impact"
+    ],
+    [
+      "challenges",
+      "affects",
+      "music industry"
+    ],
+    [
+      "challenges",
+      "affects",
+      "personalized playlists"
+    ],
+    [
+      "challenges",
+      "exacerbated by",
+      "smaller fan base"
+    ],
+    [
+      "challenges",
+      "impacts",
+      "traditional record sales"
+    ],
+    [
+      "challenges",
+      "influences",
+      "genres"
+    ],
+    [
+      "challenges",
+      "influences",
+      "recommendations"
+    ],
+    [
+      "challenges",
+      "is linked to",
+      "democratization"
+    ],
+    [
+      "challenges",
+      "presents",
+      "technology evolution"
+    ],
+    [
+      "compensation debates",
+      "benefits",
+      "established artists"
+    ],
+    [
+      "compensation debates",
+      "informs",
+      "audience understanding"
+    ],
+    [
+      "compensation debates",
+      "is debated regarding",
+      "independent artists"
+    ],
+    [
+      "compensation debates",
+      "leads to",
+      "criticisms"
+    ],
+    [
+      "concerns",
+      "affects",
+      "platforms"
+    ],
+    [
+      "concerns",
+      "challenges",
+      "traditional record sales"
+    ],
+    [
+      "concerns",
+      "concerns",
+      "artists"
+    ],
+    [
+      "concerns",
+      "impacts",
+      "music industry"
+    ],
+    [
+      "concerns",
+      "influences",
+      "recommendations"
+    ],
+    [
+      "concerns",
+      "raises",
+      "music access"
+    ],
+    [
+      "concerns",
+      "raises",
+      "smaller fan base"
+    ],
+    [
+      "concerns",
+      "raises",
+      "sustainability"
+    ],
+    [
+      "concerns",
+      "raises",
+      "transformation"
+    ],
+    [
+      "consumption",
+      "affects",
+      "sustainability"
+    ],
+    [
+      "consumption",
+      "engages",
+      "listeners"
+    ],
+    [
+      "consumption",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "consumption",
+      "improves",
+      "audience understanding"
+    ],
+    [
+      "consumption",
+      "is influenced by",
+      "music discovery"
+    ],
+    [
+      "consumption",
+      "is informed by",
+      "data analytics"
+    ],
+    [
+      "consumption",
+      "is transformed by",
+      "revolution"
+    ],
+    [
+      "criticisms",
+      "challenges",
+      "opportunities"
+    ],
+    [
+      "criticisms",
+      "expressed by",
+      "listeners"
+    ],
+    [
+      "data analytics",
+      "influences",
+      "challenges"
+    ],
+    [
+      "data analytics",
+      "is enhanced by",
+      "accessibility"
+    ],
+    [
+      "data analytics",
+      "provides",
+      "major labels"
+    ],
+    [
+      "debates",
+      "is part of debates about",
+      "audience understanding"
+    ],
+    [
+      "debates",
+      "raises",
+      "sustainability"
+    ],
+    [
+      "debates",
+      "sparks",
+      "consumption"
+    ],
+    [
+      "democratization",
+      "enables",
+      "consumption"
+    ],
+    [
+      "democratization",
+      "enables",
+      "tailored experience"
+    ],
+    [
+      "democratization",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "democratization",
+      "expands",
+      "global audience"
+    ],
+    [
+      "democratization",
+      "includes",
+      "genres"
+    ],
+    [
+      "democratization",
+      "leads to",
+      "recommendations"
+    ],
+    [
+      "distribution",
+      "enhances",
+      "fan connection"
+    ],
+    [
+      "distribution",
+      "reveals",
+      "unfair system"
+    ],
+    [
+      "diverse music landscape",
+      "challenges",
+      "challenges"
+    ],
+    [
+      "diverse music landscape",
+      "connects",
+      "social media"
+    ],
+    [
+      "diverse music landscape",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "diverse music landscape",
+      "enriches",
+      "genres"
+    ],
+    [
+      "diverse music landscape",
+      "enriches",
+      "listeners"
+    ],
+    [
+      "diverse music landscape",
+      "influences",
+      "playlists"
+    ],
+    [
+      "diverse music landscape",
+      "influences recommendations for",
+      "music access"
+    ],
+    [
+      "diverse music landscape",
+      "informs",
+      "data analytics"
+    ],
+    [
+      "diverse music landscape",
+      "is driven by",
+      "democratization"
+    ],
+    [
+      "diverse music landscape",
+      "is influenced by",
+      "recommendations"
+    ],
+    [
+      "diverse music landscape",
+      "promotes",
+      "exploration"
+    ],
+    [
+      "diverse music landscape",
+      "reaches",
+      "global audience"
+    ],
+    [
+      "diverse music landscape",
+      "utilizes",
+      "platforms"
+    ],
+    [
+      "established artists",
+      "affects",
+      "unfair system"
+    ],
+    [
+      "established artists",
+      "provides",
+      "revenue stream"
+    ],
+    [
+      "exploration",
+      "enables",
+      "accessibility"
+    ],
+    [
+      "exploration",
+      "enhances",
+      "personalized playlists"
+    ],
+    [
+      "exploration",
+      "expands",
+      "social media"
+    ],
+    [
+      "exploration",
+      "facilitates",
+      "global audience"
+    ],
+    [
+      "exploration",
+      "includes",
+      "genres"
+    ],
+    [
+      "exploration",
+      "inspired by",
+      "recommendations"
+    ],
+    [
+      "exploration",
+      "is analyzed through",
+      "data analytics"
+    ],
+    [
+      "fan connection",
+      "enhances",
+      "technology evolution"
+    ],
+    [
+      "fan connection",
+      "initiated",
+      "debates"
+    ],
+    [
+      "fan connection",
+      "is affected by",
+      "royalty rates"
+    ],
+    [
+      "fan connection",
+      "strengthens",
+      "artists"
+    ],
+    [
+      "genres",
+      "promotes",
+      "social media"
+    ],
+    [
+      "global audience",
+      "attracts",
+      "challenges"
+    ],
+    [
+      "global audience",
+      "attracts",
+      "listeners"
+    ],
+    [
+      "global audience",
+      "connects",
+      "social media"
+    ],
+    [
+      "global audience",
+      "expands",
+      "accessibility"
+    ],
+    [
+      "global audience",
+      "influences",
+      "genres"
+    ],
+    [
+      "global audience",
+      "is concerned about",
+      "concerns"
+    ],
+    [
+      "global audience",
+      "reached",
+      "physical sales decline"
+    ],
+    [
+      "global audience",
+      "reaches",
+      "traditional record sales"
+    ],
+    [
+      "impact",
+      "discussed on",
+      "social media"
+    ],
+    [
+      "impact",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "impact",
+      "expands",
+      "global audience"
+    ],
+    [
+      "impact",
+      "facilitates",
+      "music discovery"
+    ],
+    [
+      "impact",
+      "has an impact on",
+      "single tracks"
+    ],
+    [
+      "impact",
+      "influences",
+      "personalized playlists"
+    ],
+    [
+      "impact",
+      "influences",
+      "recommendations"
+    ],
+    [
+      "impact",
+      "influences",
+      "sustainability"
+    ],
+    [
+      "impact",
+      "raises",
+      "concerns"
+    ],
+    [
+      "impact",
+      "shapes",
+      "modern landscape"
+    ],
+    [
+      "impact",
+      "transforms",
+      "music industry"
+    ],
+    [
+      "independent artists",
+      "benefits from",
+      "artist compensation"
+    ],
+    [
+      "independent artists",
+      "creates opportunities for",
+      "opportunities"
+    ],
+    [
+      "independent artists",
+      "fosters",
+      "fan connection"
+    ],
+    [
+      "independent artists",
+      "is facilitated by",
+      "distribution"
+    ],
+    [
+      "independent artists",
+      "provides",
+      "revenue stream"
+    ],
+    [
+      "industry stakeholders",
+      "benefits from",
+      "platform benefits"
+    ],
+    [
+      "industry stakeholders",
+      "concerns",
+      "artist compensation"
+    ],
+    [
+      "industry stakeholders",
+      "concerns",
+      "compensation debates"
+    ],
+    [
+      "industry stakeholders",
+      "concerns",
+      "independent artists"
+    ],
+    [
+      "industry stakeholders",
+      "concerns",
+      "unfair system"
+    ],
+    [
+      "listener preferences",
+      "drives",
+      "exploration"
+    ],
+    [
+      "listener preferences",
+      "enhances",
+      "data analytics"
+    ],
+    [
+      "listener preferences",
+      "faces",
+      "diverse music landscape"
+    ],
+    [
+      "listener preferences",
+      "influences",
+      "challenges"
+    ],
+    [
+      "listener preferences",
+      "informs",
+      "audience understanding"
+    ],
+    [
+      "listener preferences",
+      "is influenced by",
+      "music discovery"
+    ],
+    [
+      "listener preferences",
+      "is shaped by",
+      "global audience"
+    ],
+    [
+      "listener preferences",
+      "utilizes",
+      "platforms"
+    ],
+    [
+      "listeners",
+      "affected by",
+      "impact"
+    ],
+    [
+      "listeners",
+      "benefits from",
+      "accessibility"
+    ],
+    [
+      "listeners",
+      "utilized by",
+      "social media"
+    ],
+    [
+      "major labels",
+      "affects",
+      "impact"
+    ],
+    [
+      "major labels",
+      "challenges",
+      "accessibility"
+    ],
+    [
+      "major labels",
+      "challenges",
+      "tailored music"
+    ],
+    [
+      "major labels",
+      "challenges",
+      "transformation"
+    ],
+    [
+      "major labels",
+      "competes with",
+      "music access"
+    ],
+    [
+      "major labels",
+      "controlled by",
+      "playlists"
+    ],
+    [
+      "major labels",
+      "dominates",
+      "music industry"
+    ],
+    [
+      "major labels",
+      "faces",
+      "challenges"
+    ],
+    [
+      "major labels",
+      "impedes",
+      "tailored experience"
+    ],
+    [
+      "major labels",
+      "influences",
+      "music streaming"
+    ],
+    [
+      "major labels",
+      "is challenged by",
+      "diverse music landscape"
+    ],
+    [
+      "major labels",
+      "is influenced by",
+      "consumption"
+    ],
+    [
+      "major labels",
+      "overlooked by",
+      "smaller fan base"
+    ],
+    [
+      "major labels",
+      "threatens",
+      "democratization"
+    ],
+    [
+      "modern challenges",
+      "affects",
+      "platforms"
+    ],
+    [
+      "modern challenges",
+      "challenges",
+      "tailored music"
+    ],
+    [
+      "modern challenges",
+      "faces",
+      "music access"
+    ],
+    [
+      "modern challenges",
+      "faces",
+      "music industry"
+    ],
+    [
+      "modern challenges",
+      "influences",
+      "diverse music landscape"
+    ],
+    [
+      "modern challenges",
+      "is exacerbated by",
+      "physical sales decline"
+    ],
+    [
+      "modern challenges",
+      "is influenced by",
+      "technology evolution"
+    ],
+    [
+      "modern challenges",
+      "poses",
+      "sustainability"
+    ],
+    [
+      "modern landscape",
+      "comprises",
+      "genres"
+    ],
+    [
+      "modern landscape",
+      "defines",
+      "consumption"
+    ],
+    [
+      "modern landscape",
+      "enables",
+      "democratization"
+    ],
+    [
+      "modern landscape",
+      "enhances",
+      "data analytics"
+    ],
+    [
+      "modern landscape",
+      "facilitates",
+      "music discovery"
+    ],
+    [
+      "modern landscape",
+      "influences",
+      "social media"
+    ],
+    [
+      "modern landscape",
+      "informs",
+      "recommendations"
+    ],
+    [
+      "modern landscape",
+      "is characterized by",
+      "accessibility"
+    ],
+    [
+      "modern landscape",
+      "is influenced by",
+      "technology evolution"
+    ],
+    [
+      "modern landscape",
+      "reflects",
+      "listener preferences"
+    ],
+    [
+      "modern landscape",
+      "represents",
+      "revolution"
+    ],
+    [
+      "modern landscape",
+      "shapes",
+      "diverse music landscape"
+    ],
+    [
+      "modern landscape",
+      "shapes",
+      "music industry"
+    ],
+    [
+      "music access",
+      "enables",
+      "exploration"
+    ],
+    [
+      "music access",
+      "enables",
+      "playlists"
+    ],
+    [
+      "music access",
+      "enhances",
+      "personalized playlists"
+    ],
+    [
+      "music access",
+      "enhances",
+      "social media"
+    ],
+    [
+      "music access",
+      "facilitates",
+      "music streaming"
+    ],
+    [
+      "music access",
+      "improves",
+      "tailored experience"
+    ],
+    [
+      "music access",
+      "initiated by",
+      "revolution"
+    ],
+    [
+      "music access",
+      "offers",
+      "recommendations"
+    ],
+    [
+      "music access",
+      "reaches",
+      "global audience"
+    ],
+    [
+      "music access",
+      "serves",
+      "listeners"
+    ],
+    [
+      "music access",
+      "shapes",
+      "modern landscape"
+    ],
+    [
+      "music access",
+      "transforms",
+      "consumption"
+    ],
+    [
+      "music discovery",
+      "benefits",
+      "listeners"
+    ],
+    [
+      "music discovery",
+      "drives",
+      "technology evolution"
+    ],
+    [
+      "music discovery",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "music discovery",
+      "enhances",
+      "recommendations"
+    ],
+    [
+      "music discovery",
+      "expands",
+      "global audience"
+    ],
+    [
+      "music discovery",
+      "facilitates",
+      "democratization"
+    ],
+    [
+      "music discovery",
+      "facilitates",
+      "exploration"
+    ],
+    [
+      "music discovery",
+      "facilitates",
+      "platforms"
+    ],
+    [
+      "music discovery",
+      "impacts",
+      "sustainability"
+    ],
+    [
+      "music discovery",
+      "influences",
+      "concerns"
+    ],
+    [
+      "music discovery",
+      "shapes",
+      "genres"
+    ],
+    [
+      "music industry",
+      "affects",
+      "single tracks"
+    ],
+    [
+      "music industry",
+      "affects",
+      "sustainability"
+    ],
+    [
+      "music industry",
+      "impacts",
+      "democratization"
+    ],
+    [
+      "music industry",
+      "provides",
+      "playlists"
+    ],
+    [
+      "music industry",
+      "provides",
+      "recommendations"
+    ],
+    [
+      "music industry",
+      "provides",
+      "tailored music"
+    ],
+    [
+      "music industry",
+      "utilized by",
+      "platforms"
+    ],
+    [
+      "music industry",
+      "utilized by",
+      "social media"
+    ],
+    [
+      "music streaming",
+      "affects",
+      "impact"
+    ],
+    [
+      "music streaming",
+      "affects",
+      "sustainability"
+    ],
+    [
+      "music streaming",
+      "connects",
+      "global audience"
+    ],
+    [
+      "music streaming",
+      "enables",
+      "democratization"
+    ],
+    [
+      "music streaming",
+      "enhances",
+      "playlists"
+    ],
+    [
+      "music streaming",
+      "facilitates",
+      "music discovery"
+    ],
+    [
+      "music streaming",
+      "influences",
+      "diverse music landscape"
+    ],
+    [
+      "music streaming",
+      "provides",
+      "data analytics"
+    ],
+    [
+      "music streaming",
+      "provides",
+      "tailored music"
+    ],
+    [
+      "music streaming",
+      "serves",
+      "listeners"
+    ],
+    [
+      "music streaming",
+      "shapes",
+      "listener preferences"
+    ],
+    [
+      "music streaming",
+      "transforms",
+      "consumption"
+    ],
+    [
+      "music streaming",
+      "transforms",
+      "music industry"
+    ],
+    [
+      "music streaming",
+      "utilized by",
+      "platforms"
+    ],
+    [
+      "opportunities",
+      "enhances",
+      "audience understanding"
+    ],
+    [
+      "opportunities",
+      "presents",
+      "modern challenges"
+    ],
+    [
+      "opportunities",
+      "sparks",
+      "compensation debates"
+    ],
+    [
+      "personalized playlists",
+      "affects",
+      "traditional record sales"
+    ],
+    [
+      "personalized playlists",
+      "curated by",
+      "listeners"
+    ],
+    [
+      "personalized playlists",
+      "enhanced by",
+      "music streaming"
+    ],
+    [
+      "personalized playlists",
+      "enhances",
+      "music discovery"
+    ],
+    [
+      "personalized playlists",
+      "influenced by",
+      "consumption"
+    ],
+    [
+      "personalized playlists",
+      "influences",
+      "music industry"
+    ],
+    [
+      "personalized playlists",
+      "influences",
+      "social media"
+    ],
+    [
+      "personalized playlists",
+      "is shaped by",
+      "tailored music"
+    ],
+    [
+      "personalized playlists",
+      "provides",
+      "recommendations"
+    ],
+    [
+      "personalized playlists",
+      "raises",
+      "concerns"
+    ],
+    [
+      "personalized playlists",
+      "reaches",
+      "global audience"
+    ],
+    [
+      "personalized playlists",
+      "shapes",
+      "smaller fan base"
+    ],
+    [
+      "physical sales decline",
+      "affects",
+      "fan connection"
+    ],
+    [
+      "physical sales decline",
+      "affects",
+      "music discovery"
+    ],
+    [
+      "physical sales decline",
+      "contributes to",
+      "modern landscape"
+    ],
+    [
+      "physical sales decline",
+      "contributes to",
+      "music access"
+    ],
+    [
+      "physical sales decline",
+      "contributes to",
+      "playlists"
+    ],
+    [
+      "physical sales decline",
+      "contributes to",
+      "traditional record sales"
+    ],
+    [
+      "physical sales decline",
+      "exacerbates",
+      "challenges"
+    ],
+    [
+      "physical sales decline",
+      "impacted by",
+      "music industry"
+    ],
+    [
+      "physical sales decline",
+      "impacts",
+      "concerns"
+    ],
+    [
+      "physical sales decline",
+      "is explored in relation to",
+      "exploration"
+    ],
+    [
+      "physical sales decline",
+      "results from",
+      "tailored music"
+    ],
+    [
+      "physical sales decline",
+      "results in",
+      "impact"
+    ],
+    [
+      "physical sales decline",
+      "results in",
+      "opportunities"
+    ],
+    [
+      "platform benefits",
+      "benefits from",
+      "artist compensation"
+    ],
+    [
+      "platform benefits",
+      "contributes to",
+      "physical sales decline"
+    ],
+    [
+      "platform benefits",
+      "drives",
+      "technology evolution"
+    ],
+    [
+      "platform benefits",
+      "faces",
+      "modern challenges"
+    ],
+    [
+      "platform benefits",
+      "provides",
+      "fan connection"
+    ],
+    [
+      "platform benefits",
+      "supports",
+      "established artists"
+    ],
+    [
+      "platforms",
+      "affects",
+      "physical sales decline"
+    ],
+    [
+      "platforms",
+      "interacts with",
+      "social media"
+    ],
+    [
+      "platforms",
+      "provides",
+      "data analytics"
+    ],
+    [
+      "platforms",
+      "provides",
+      "music access"
+    ],
+    [
+      "platforms",
+      "provides",
+      "recommendations"
+    ],
+    [
+      "platforms",
+      "serves",
+      "listener preferences"
+    ],
+    [
+      "platforms",
+      "supports",
+      "music discovery"
+    ],
+    [
+      "platforms",
+      "utilizes",
+      "listeners"
+    ],
+    [
+      "playlists",
+      "enhanced by",
+      "tailored experience"
+    ],
+    [
+      "playlists",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "playlists",
+      "facilitates",
+      "democratization"
+    ],
+    [
+      "playlists",
+      "hosted on",
+      "platforms"
+    ],
+    [
+      "playlists",
+      "is a type of",
+      "personalized playlists"
+    ],
+    [
+      "playlists",
+      "is organized into",
+      "consumption"
+    ],
+    [
+      "playlists",
+      "raises",
+      "concerns"
+    ],
+    [
+      "playlists",
+      "reflects",
+      "listener preferences"
+    ],
+    [
+      "playlists",
+      "serves",
+      "listeners"
+    ],
+    [
+      "playlists",
+      "shared on",
+      "social media"
+    ],
+    [
+      "playlists",
+      "shared with",
+      "global audience"
+    ],
+    [
+      "playlists",
+      "utilizes",
+      "music access"
+    ],
+    [
+      "primary income source",
+      "depends on",
+      "fan connection"
+    ],
+    [
+      "primary income source",
+      "is a primary source for",
+      "independent artists"
+    ],
+    [
+      "primary income source",
+      "is criticized as",
+      "unfair system"
+    ],
+    [
+      "primary income source",
+      "serves as",
+      "royalty rates"
+    ],
+    [
+      "recommendations",
+      "informs",
+      "listener preferences"
+    ],
+    [
+      "recommendations",
+      "informs recommendations for",
+      "technology evolution"
+    ],
+    [
+      "recommendations",
+      "is influenced by",
+      "physical sales decline"
+    ],
+    [
+      "recommendations",
+      "shapes",
+      "listeners"
+    ],
+    [
+      "revenue stream",
+      "is a revenue stream for",
+      "fan connection"
+    ],
+    [
+      "revenue stream",
+      "provides",
+      "artists"
+    ],
+    [
+      "revenue stream",
+      "provides",
+      "platform benefits"
+    ],
+    [
+      "revolution",
+      "caused",
+      "physical sales decline"
+    ],
+    [
+      "revolution",
+      "contributes to",
+      "democratization"
+    ],
+    [
+      "revolution",
+      "discussed in",
+      "challenges"
+    ],
+    [
+      "revolution",
+      "drives",
+      "technology evolution"
+    ],
+    [
+      "revolution",
+      "is linked to",
+      "personalized playlists"
+    ],
+    [
+      "revolution",
+      "shaped by",
+      "concerns"
+    ],
+    [
+      "revolution",
+      "shapes",
+      "genres"
+    ],
+    [
+      "revolution",
+      "transformed by",
+      "impact"
+    ],
+    [
+      "revolution",
+      "transformed by",
+      "platforms"
+    ],
+    [
+      "revolution",
+      "transforms",
+      "accessibility"
+    ],
+    [
+      "royalty rates",
+      "sparked",
+      "debates"
+    ],
+    [
+      "single tracks",
+      "appeals to",
+      "global audience"
+    ],
+    [
+      "single tracks",
+      "complements",
+      "personalized playlists"
+    ],
+    [
+      "single tracks",
+      "facilitates",
+      "music discovery"
+    ],
+    [
+      "single tracks",
+      "includes",
+      "music access"
+    ],
+    [
+      "single tracks",
+      "increases",
+      "accessibility"
+    ],
+    [
+      "single tracks",
+      "is revolutionized by",
+      "revolution"
+    ],
+    [
+      "single tracks",
+      "represents",
+      "transformation"
+    ],
+    [
+      "single tracks",
+      "shapes",
+      "modern landscape"
+    ],
+    [
+      "single tracks",
+      "shared on",
+      "social media"
+    ],
+    [
+      "single tracks",
+      "utilized by",
+      "platforms"
+    ],
+    [
+      "smaller fan base",
+      "affected by",
+      "impact"
+    ],
+    [
+      "smaller fan base",
+      "affects",
+      "music access"
+    ],
+    [
+      "smaller fan base",
+      "affects",
+      "music discovery"
+    ],
+    [
+      "smaller fan base",
+      "affects",
+      "music industry"
+    ],
+    [
+      "smaller fan base",
+      "impacts",
+      "established artists"
+    ],
+    [
+      "smaller fan base",
+      "influences",
+      "debates"
+    ],
+    [
+      "smaller fan base",
+      "is impacted by",
+      "diverse music landscape"
+    ],
+    [
+      "smaller fan base",
+      "reached by",
+      "global audience"
+    ],
+    [
+      "smaller fan base",
+      "utilized by",
+      "platforms"
+    ],
+    [
+      "social media",
+      "discussed on",
+      "challenges"
+    ],
+    [
+      "social media",
+      "discussed on",
+      "revolution"
+    ],
+    [
+      "social media",
+      "discussed on",
+      "sustainability"
+    ],
+    [
+      "social media",
+      "enhances",
+      "data analytics"
+    ],
+    [
+      "social media",
+      "is shared through",
+      "tailored music"
+    ],
+    [
+      "sustainability",
+      "affects",
+      "fan connection"
+    ],
+    [
+      "sustainability",
+      "challenges",
+      "smaller fan base"
+    ],
+    [
+      "sustainability",
+      "guides",
+      "recommendations"
+    ],
+    [
+      "sustainability",
+      "impacts",
+      "physical sales decline"
+    ],
+    [
+      "sustainability",
+      "supported by",
+      "diverse music landscape"
+    ],
+    [
+      "sustainability",
+      "utilizes",
+      "platforms"
+    ],
+    [
+      "tailored experience",
+      "connects",
+      "global audience"
+    ],
+    [
+      "tailored experience",
+      "creates",
+      "personalized playlists"
+    ],
+    [
+      "tailored experience",
+      "enhances",
+      "data analytics"
+    ],
+    [
+      "tailored experience",
+      "enhances",
+      "music discovery"
+    ],
+    [
+      "tailored experience",
+      "enhances",
+      "social media"
+    ],
+    [
+      "tailored experience",
+      "shapes",
+      "modern landscape"
+    ],
+    [
+      "tailored music",
+      "aids in",
+      "music discovery"
+    ],
+    [
+      "tailored music",
+      "driven by",
+      "technology evolution"
+    ],
+    [
+      "tailored music",
+      "enhances",
+      "accessibility"
+    ],
+    [
+      "tailored music",
+      "enhances",
+      "playlists"
+    ],
+    [
+      "tailored music",
+      "influences",
+      "challenges"
+    ],
+    [
+      "tailored music",
+      "is a result of",
+      "revolution"
+    ],
+    [
+      "tailored music",
+      "reaches",
+      "global audience"
+    ],
+    [
+      "tailored music",
+      "shaped by",
+      "modern landscape"
+    ],
+    [
+      "tailored music",
+      "utilized by",
+      "platforms"
+    ],
+    [
+      "technology evolution",
+      "affects",
+      "artists"
+    ],
+    [
+      "technology evolution",
+      "driven by",
+      "physical sales decline"
+    ],
+    [
+      "technology evolution",
+      "drives",
+      "platforms"
+    ],
+    [
+      "technology evolution",
+      "improves",
+      "accessibility"
+    ],
+    [
+      "technology evolution",
+      "is explored in",
+      "exploration"
+    ],
+    [
+      "technology evolution",
+      "shapes",
+      "social media"
+    ],
+    [
+      "traditional record sales",
+      "affected by",
+      "diverse music landscape"
+    ],
+    [
+      "traditional record sales",
+      "affected by",
+      "music industry"
+    ],
+    [
+      "traditional record sales",
+      "affected by",
+      "music streaming"
+    ],
+    [
+      "traditional record sales",
+      "affected by",
+      "playlists"
+    ],
+    [
+      "traditional record sales",
+      "challenged by",
+      "revolution"
+    ],
+    [
+      "traditional record sales",
+      "competes with",
+      "music access"
+    ],
+    [
+      "traditional record sales",
+      "competes with",
+      "music discovery"
+    ],
+    [
+      "traditional record sales",
+      "competes with",
+      "single tracks"
+    ],
+    [
+      "traditional record sales",
+      "competes with",
+      "tailored music"
+    ],
+    [
+      "traditional record sales",
+      "impacted by",
+      "accessibility"
+    ],
+    [
+      "traditional record sales",
+      "impacted by",
+      "established artists"
+    ],
+    [
+      "traditional record sales",
+      "impacted by",
+      "personalized playlists"
+    ],
+    [
+      "traditional record sales",
+      "impacted by",
+      "smaller fan base"
+    ],
+    [
+      "traditional record sales",
+      "impacts",
+      "modern challenges"
+    ],
+    [
+      "traditional record sales",
+      "influenced by",
+      "artists"
+    ],
+    [
+      "traditional record sales",
+      "is impacted by",
+      "technology evolution"
+    ],
+    [
+      "traditional record sales",
+      "threatens",
+      "sustainability"
+    ],
+    [
+      "transformation",
+      "contributes to",
+      "diverse music landscape"
+    ],
+    [
+      "transformation",
+      "creates",
+      "playlists"
+    ],
+    [
+      "transformation",
+      "facilitates",
+      "music discovery"
+    ],
+    [
+      "transformation",
+      "has",
+      "impact"
+    ],
+    [
+      "transformation",
+      "influences",
+      "recommendations"
+    ],
+    [
+      "transformation",
+      "influences",
+      "tailored music"
+    ],
+    [
+      "transformation",
+      "leads to",
+      "distribution"
+    ],
+    [
+      "transformation",
+      "promotes",
+      "democratization"
+    ],
+    [
+      "transformation",
+      "transforms",
+      "personalized playlists"
+    ]
+  ],
+  "edges": [
+    "affected by",
+    "affects",
+    "aids in",
+    "appeals to",
+    "attracts",
+    "benefits",
+    "benefits from",
+    "broadens",
+    "caused",
+    "challenged by",
+    "challenges",
+    "competes with",
+    "complements",
+    "comprises",
+    "concerns",
+    "connects",
+    "contributes to",
+    "controlled by",
+    "creates",
+    "creates opportunities for",
+    "curated by",
+    "defines",
+    "depends on",
+    "determines",
+    "discussed in",
+    "discussed on",
+    "dominates",
+    "driven by",
+    "drives",
+    "enables",
+    "engages",
+    "enhanced by",
+    "enhances",
+    "enriches",
+    "exacerbated by",
+    "exacerbates",
+    "expands",
+    "expressed by",
+    "faces",
+    "faces challenges from",
+    "facilitated by",
+    "facilitates",
+    "fosters",
+    "guides",
+    "has",
+    "has an impact on",
+    "hosted on",
+    "impacted by",
+    "impacts",
+    "impedes",
+    "improved by",
+    "improves",
+    "includes",
+    "increases",
+    "influenced by",
+    "influences",
+    "influences recommendations for",
+    "informs",
+    "informs recommendations for",
+    "initiated",
+    "initiated by",
+    "inspired by",
+    "interacts with",
+    "is a primary source for",
+    "is a result of",
+    "is a revenue stream for",
+    "is a type of",
+    "is affected by",
+    "is analyzed through",
+    "is challenged by",
+    "is characterized by",
+    "is concerned about",
+    "is criticized as",
+    "is debated regarding",
+    "is driven by",
+    "is enhanced by",
+    "is exacerbated by",
+    "is explored in",
+    "is explored in relation to",
+    "is facilitated by",
+    "is impacted by",
+    "is influenced by",
+    "is informed by",
+    "is linked to",
+    "is organized into",
+    "is part of debates about",
+    "is revolutionized by",
+    "is shaped by",
+    "is shared through",
+    "is transformed by",
+    "leads to",
+    "limits",
+    "offers",
+    "overlooked by",
+    "poses",
+    "presents",
+    "promotes",
+    "provided by",
+    "provides",
+    "raises",
+    "reached",
+    "reached by",
+    "reaches",
+    "received by",
+    "reflects",
+    "represents",
+    "results from",
+    "results in",
+    "reveals",
+    "serves",
+    "serves as",
+    "shaped by",
+    "shapes",
+    "shared on",
+    "shared with",
+    "sparked",
+    "sparks",
+    "strengthens",
+    "supported by",
+    "supports",
+    "threatens",
+    "transformed by",
+    "transforms",
+    "utilized by",
+    "utilizes"
+  ]
+}

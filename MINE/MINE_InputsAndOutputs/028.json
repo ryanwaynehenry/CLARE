@@ -1,0 +1,2520 @@
+{
+  "entities": [
+    "1.5 billion speakers",
+    "American English",
+    "Anglo-Saxons",
+    "Australian English",
+    "British Empire",
+    "Canterbury Tales",
+    "Early Modern English",
+    "English language",
+    "English literature",
+    "French influence",
+    "Geoffrey Chaucer",
+    "Great Vowel Shift",
+    "Indian English",
+    "Middle English",
+    "Norman Conquest",
+    "Old English",
+    "Old Norman",
+    "William Shakespeare",
+    "adaptability",
+    "business",
+    "communication",
+    "complex grammar",
+    "cultural exchange",
+    "cultural influences",
+    "dialect development",
+    "dialects",
+    "diplomacy",
+    "diverse cultures",
+    "entertainment",
+    "global language",
+    "grammar",
+    "historical events",
+    "historical linguistics",
+    "inflected language",
+    "international communication",
+    "language adaptation",
+    "language diversity",
+    "language evolution",
+    "language history",
+    "language influence",
+    "language mixing",
+    "language resilience",
+    "language transformation",
+    "lingua franca",
+    "linguistic heritage",
+    "literary works",
+    "printing press",
+    "pronunciation",
+    "pronunciation shifts",
+    "resilience",
+    "science",
+    "standardization",
+    "technology",
+    "vocabulary",
+    "vocabulary changes"
+  ],
+  "relations": [
+    [
+      "1.5 billion speakers",
+      "is spoken by",
+      "dialects"
+    ],
+    [
+      "1.5 billion speakers",
+      "is supported by",
+      "lingua franca"
+    ],
+    [
+      "1.5 billion speakers",
+      "shaped by",
+      "cultural influences"
+    ],
+    [
+      "1.5 billion speakers",
+      "spoken by",
+      "English language"
+    ],
+    [
+      "1.5 billion speakers",
+      "spoken by",
+      "language diversity"
+    ],
+    [
+      "1.5 billion speakers",
+      "spoken by",
+      "language history"
+    ],
+    [
+      "American English",
+      "demonstrates",
+      "language resilience"
+    ],
+    [
+      "American English",
+      "develops from",
+      "language mixing"
+    ],
+    [
+      "American English",
+      "exemplifies",
+      "adaptability"
+    ],
+    [
+      "American English",
+      "functions as",
+      "lingua franca"
+    ],
+    [
+      "American English",
+      "is a form of",
+      "dialect development"
+    ],
+    [
+      "American English",
+      "is a form of",
+      "language diversity"
+    ],
+    [
+      "American English",
+      "is a part of",
+      "linguistic heritage"
+    ],
+    [
+      "American English",
+      "is a type of",
+      "dialects"
+    ],
+    [
+      "American English",
+      "is a type of",
+      "global language"
+    ],
+    [
+      "American English",
+      "part of",
+      "language history"
+    ],
+    [
+      "American English",
+      "shapes",
+      "cultural influences"
+    ],
+    [
+      "Anglo-Saxons",
+      "contributed to",
+      "vocabulary"
+    ],
+    [
+      "Anglo-Saxons",
+      "contributes to",
+      "language evolution"
+    ],
+    [
+      "Anglo-Saxons",
+      "contributes to",
+      "language influence"
+    ],
+    [
+      "Anglo-Saxons",
+      "demonstrates",
+      "language resilience"
+    ],
+    [
+      "Anglo-Saxons",
+      "developed into",
+      "inflected language"
+    ],
+    [
+      "Anglo-Saxons",
+      "influenced",
+      "English language"
+    ],
+    [
+      "Anglo-Saxons",
+      "influenced by",
+      "American English"
+    ],
+    [
+      "Anglo-Saxons",
+      "influenced by",
+      "diverse cultures"
+    ],
+    [
+      "Anglo-Saxons",
+      "influenced by",
+      "historical linguistics"
+    ],
+    [
+      "Anglo-Saxons",
+      "influences",
+      "French influence"
+    ],
+    [
+      "Anglo-Saxons",
+      "influences",
+      "pronunciation shifts"
+    ],
+    [
+      "Anglo-Saxons",
+      "is a source of",
+      "linguistic heritage"
+    ],
+    [
+      "Anglo-Saxons",
+      "led to",
+      "language mixing"
+    ],
+    [
+      "Anglo-Saxons",
+      "shapes",
+      "language history"
+    ],
+    [
+      "Anglo-Saxons",
+      "transforms",
+      "language transformation"
+    ],
+    [
+      "Australian English",
+      "affects",
+      "cultural influences"
+    ],
+    [
+      "Australian English",
+      "contributes to",
+      "dialect development"
+    ],
+    [
+      "Australian English",
+      "emerges from",
+      "language mixing"
+    ],
+    [
+      "Australian English",
+      "influences",
+      "vocabulary"
+    ],
+    [
+      "Australian English",
+      "is a form of",
+      "global language"
+    ],
+    [
+      "Australian English",
+      "is a form of",
+      "language diversity"
+    ],
+    [
+      "Australian English",
+      "is a part of",
+      "linguistic heritage"
+    ],
+    [
+      "Australian English",
+      "is part of",
+      "language history"
+    ],
+    [
+      "British Empire",
+      "demonstrates",
+      "resilience"
+    ],
+    [
+      "British Empire",
+      "enhanced by",
+      "communication"
+    ],
+    [
+      "British Empire",
+      "influenced by",
+      "French influence"
+    ],
+    [
+      "British Empire",
+      "influenced by",
+      "adaptability"
+    ],
+    [
+      "British Empire",
+      "influenced by",
+      "dialects"
+    ],
+    [
+      "British Empire",
+      "influenced by",
+      "international communication"
+    ],
+    [
+      "British Empire",
+      "influenced by",
+      "technology"
+    ],
+    [
+      "British Empire",
+      "influences",
+      "diplomacy"
+    ],
+    [
+      "British Empire",
+      "promotes",
+      "global language"
+    ],
+    [
+      "British Empire",
+      "shaped by",
+      "Indian English"
+    ],
+    [
+      "British Empire",
+      "shaped by",
+      "cultural influences"
+    ],
+    [
+      "British Empire",
+      "shaped by",
+      "entertainment"
+    ],
+    [
+      "British Empire",
+      "transformed by",
+      "language transformation"
+    ],
+    [
+      "Canterbury Tales",
+      "exemplified by",
+      "Old English"
+    ],
+    [
+      "Canterbury Tales",
+      "inspired by",
+      "William Shakespeare"
+    ],
+    [
+      "Canterbury Tales",
+      "inspired by",
+      "pronunciation shifts"
+    ],
+    [
+      "Canterbury Tales",
+      "is exemplified by",
+      "vocabulary changes"
+    ],
+    [
+      "Canterbury Tales",
+      "literary work of",
+      "Geoffrey Chaucer"
+    ],
+    [
+      "Early Modern English",
+      "exemplifies",
+      "English literature"
+    ],
+    [
+      "Early Modern English",
+      "influences",
+      "pronunciation"
+    ],
+    [
+      "Early Modern English",
+      "is characterized by",
+      "pronunciation shifts"
+    ],
+    [
+      "English language",
+      "adapted by",
+      "language adaptation"
+    ],
+    [
+      "English language",
+      "aided the development of",
+      "printing press"
+    ],
+    [
+      "English language",
+      "defined by",
+      "grammar"
+    ],
+    [
+      "English language",
+      "documents",
+      "language history"
+    ],
+    [
+      "English language",
+      "evolved from",
+      "Old English"
+    ],
+    [
+      "English language",
+      "includes",
+      "dialects"
+    ],
+    [
+      "English language",
+      "influenced by",
+      "Australian English"
+    ],
+    [
+      "English language",
+      "influenced by",
+      "Great Vowel Shift"
+    ],
+    [
+      "English language",
+      "is a characteristic of",
+      "language diversity"
+    ],
+    [
+      "English language",
+      "is a component of",
+      "vocabulary"
+    ],
+    [
+      "English language",
+      "is influenced by",
+      "language influence"
+    ],
+    [
+      "English language",
+      "is represented by",
+      "lingua franca"
+    ],
+    [
+      "English language",
+      "leads to",
+      "dialect development"
+    ],
+    [
+      "English language",
+      "reflects",
+      "diverse cultures"
+    ],
+    [
+      "English language",
+      "resulted from",
+      "Norman Conquest"
+    ],
+    [
+      "English language",
+      "shaped by",
+      "cultural influences"
+    ],
+    [
+      "English literature",
+      "foundation of",
+      "Old English"
+    ],
+    [
+      "English literature",
+      "influenced by",
+      "French influence"
+    ],
+    [
+      "English literature",
+      "influenced by",
+      "William Shakespeare"
+    ],
+    [
+      "English literature",
+      "influenced by",
+      "diplomacy"
+    ],
+    [
+      "French influence",
+      "affects",
+      "technology"
+    ],
+    [
+      "French influence",
+      "enhances",
+      "language resilience"
+    ],
+    [
+      "French influence",
+      "influenced by",
+      "Indian English"
+    ],
+    [
+      "French influence",
+      "influenced by",
+      "resilience"
+    ],
+    [
+      "French influence",
+      "influences",
+      "Old English"
+    ],
+    [
+      "French influence",
+      "influences",
+      "historical events"
+    ],
+    [
+      "French influence",
+      "is influenced by",
+      "inflected language"
+    ],
+    [
+      "French influence",
+      "is influenced by",
+      "vocabulary"
+    ],
+    [
+      "Geoffrey Chaucer",
+      "authored",
+      "Canterbury Tales"
+    ],
+    [
+      "Geoffrey Chaucer",
+      "authored",
+      "Middle English"
+    ],
+    [
+      "Great Vowel Shift",
+      "affects",
+      "pronunciation"
+    ],
+    [
+      "Great Vowel Shift",
+      "contributed to",
+      "language evolution"
+    ],
+    [
+      "Great Vowel Shift",
+      "influenced by",
+      "language diversity"
+    ],
+    [
+      "Great Vowel Shift",
+      "influenced by",
+      "language history"
+    ],
+    [
+      "Great Vowel Shift",
+      "is influenced by",
+      "language mixing"
+    ],
+    [
+      "Great Vowel Shift",
+      "is shaped by",
+      "language influence"
+    ],
+    [
+      "Great Vowel Shift",
+      "resulted in",
+      "grammar"
+    ],
+    [
+      "Great Vowel Shift",
+      "transformed by",
+      "global language"
+    ],
+    [
+      "Indian English",
+      "enabled by",
+      "printing press"
+    ],
+    [
+      "Indian English",
+      "enables",
+      "communication"
+    ],
+    [
+      "Indian English",
+      "enhanced by",
+      "adaptability"
+    ],
+    [
+      "Indian English",
+      "experiences",
+      "pronunciation shifts"
+    ],
+    [
+      "Indian English",
+      "functions as",
+      "lingua franca"
+    ],
+    [
+      "Indian English",
+      "influenced by",
+      "American English"
+    ],
+    [
+      "Indian English",
+      "influenced by",
+      "Australian English"
+    ],
+    [
+      "Indian English",
+      "influenced by",
+      "vocabulary"
+    ],
+    [
+      "Indian English",
+      "is a form of",
+      "linguistic heritage"
+    ],
+    [
+      "Indian English",
+      "is a result of",
+      "language transformation"
+    ],
+    [
+      "Indian English",
+      "is shaped by",
+      "language influence"
+    ],
+    [
+      "Indian English",
+      "resulted from",
+      "language mixing"
+    ],
+    [
+      "Indian English",
+      "results in",
+      "dialect development"
+    ],
+    [
+      "Indian English",
+      "shaped by",
+      "cultural influences"
+    ],
+    [
+      "Indian English",
+      "shaped by",
+      "diverse cultures"
+    ],
+    [
+      "Indian English",
+      "variant of",
+      "English language"
+    ],
+    [
+      "Middle English",
+      "evolved from",
+      "Old English"
+    ],
+    [
+      "Middle English",
+      "evolved into",
+      "Old Norman"
+    ],
+    [
+      "Middle English",
+      "exemplified by",
+      "Canterbury Tales"
+    ],
+    [
+      "Middle English",
+      "represents",
+      "English literature"
+    ],
+    [
+      "Middle English",
+      "transitioned to",
+      "Early Modern English"
+    ],
+    [
+      "Norman Conquest",
+      "contributes to",
+      "linguistic heritage"
+    ],
+    [
+      "Norman Conquest",
+      "influenced by",
+      "language evolution"
+    ],
+    [
+      "Norman Conquest",
+      "is influenced by",
+      "dialect development"
+    ],
+    [
+      "Norman Conquest",
+      "led to",
+      "Early Modern English"
+    ],
+    [
+      "Norman Conquest",
+      "led to",
+      "Middle English"
+    ],
+    [
+      "Norman Conquest",
+      "led to",
+      "language mixing"
+    ],
+    [
+      "Norman Conquest",
+      "transformed into",
+      "Old English"
+    ],
+    [
+      "Old English",
+      "derived from",
+      "Indian English"
+    ],
+    [
+      "Old English",
+      "developed into",
+      "Anglo-Saxons"
+    ],
+    [
+      "Old English",
+      "evolved from",
+      "dialects"
+    ],
+    [
+      "Old English",
+      "evolved into",
+      "language evolution"
+    ],
+    [
+      "Old English",
+      "influences",
+      "science"
+    ],
+    [
+      "Old English",
+      "is a study of",
+      "historical linguistics"
+    ],
+    [
+      "Old English",
+      "is a type of",
+      "global language"
+    ],
+    [
+      "Old English",
+      "is derived from",
+      "grammar"
+    ],
+    [
+      "Old English",
+      "is influenced by",
+      "Great Vowel Shift"
+    ],
+    [
+      "Old English",
+      "is influenced by",
+      "language mixing"
+    ],
+    [
+      "Old English",
+      "is shaped by",
+      "language diversity"
+    ],
+    [
+      "Old Norman",
+      "contributes to",
+      "English literature"
+    ],
+    [
+      "Old Norman",
+      "evolved into",
+      "Early Modern English"
+    ],
+    [
+      "Old Norman",
+      "is influenced by",
+      "vocabulary changes"
+    ],
+    [
+      "adaptability",
+      "drives",
+      "language transformation"
+    ],
+    [
+      "adaptability",
+      "facilitated by",
+      "printing press"
+    ],
+    [
+      "adaptability",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "adaptability",
+      "facilitates",
+      "dialect development"
+    ],
+    [
+      "business",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "business",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "business",
+      "facilitates",
+      "standardization"
+    ],
+    [
+      "business",
+      "shaped by",
+      "British Empire"
+    ],
+    [
+      "communication",
+      "facilitates",
+      "diplomacy"
+    ],
+    [
+      "complex grammar",
+      "affects",
+      "language influence"
+    ],
+    [
+      "complex grammar",
+      "affects",
+      "language transformation"
+    ],
+    [
+      "complex grammar",
+      "characterized by",
+      "American English"
+    ],
+    [
+      "complex grammar",
+      "characterized by",
+      "language diversity"
+    ],
+    [
+      "complex grammar",
+      "characterized by",
+      "language history"
+    ],
+    [
+      "complex grammar",
+      "characterizes",
+      "Middle English"
+    ],
+    [
+      "complex grammar",
+      "characterizes",
+      "inflected language"
+    ],
+    [
+      "complex grammar",
+      "characterizes",
+      "language evolution"
+    ],
+    [
+      "complex grammar",
+      "defined by",
+      "Australian English"
+    ],
+    [
+      "complex grammar",
+      "describes",
+      "Old English"
+    ],
+    [
+      "complex grammar",
+      "evolved into",
+      "Early Modern English"
+    ],
+    [
+      "complex grammar",
+      "is a result of",
+      "language adaptation"
+    ],
+    [
+      "cultural exchange",
+      "demonstrates",
+      "resilience"
+    ],
+    [
+      "cultural exchange",
+      "enhances",
+      "adaptability"
+    ],
+    [
+      "cultural exchange",
+      "enhances",
+      "communication"
+    ],
+    [
+      "cultural exchange",
+      "enhances",
+      "international communication"
+    ],
+    [
+      "cultural exchange",
+      "facilitated by",
+      "entertainment"
+    ],
+    [
+      "cultural exchange",
+      "inspired by",
+      "literary works"
+    ],
+    [
+      "cultural exchange",
+      "is influenced by",
+      "William Shakespeare"
+    ],
+    [
+      "cultural exchange",
+      "promotes",
+      "printing press"
+    ],
+    [
+      "cultural exchange",
+      "shaped by",
+      "historical events"
+    ],
+    [
+      "cultural exchange",
+      "shapes",
+      "cultural influences"
+    ],
+    [
+      "cultural influences",
+      "affects",
+      "French influence"
+    ],
+    [
+      "cultural influences",
+      "influences",
+      "adaptability"
+    ],
+    [
+      "cultural influences",
+      "influences",
+      "entertainment"
+    ],
+    [
+      "cultural influences",
+      "influences",
+      "standardization"
+    ],
+    [
+      "cultural influences",
+      "led to",
+      "language transformation"
+    ],
+    [
+      "cultural influences",
+      "shapes",
+      "communication"
+    ],
+    [
+      "cultural influences",
+      "shapes",
+      "historical events"
+    ],
+    [
+      "cultural influences",
+      "strengthens",
+      "language resilience"
+    ],
+    [
+      "dialect development",
+      "affected by",
+      "diplomacy"
+    ],
+    [
+      "dialect development",
+      "contributes to",
+      "global language"
+    ],
+    [
+      "dialect development",
+      "developed from",
+      "lingua franca"
+    ],
+    [
+      "dialect development",
+      "enhances",
+      "communication"
+    ],
+    [
+      "dialect development",
+      "influenced by",
+      "French influence"
+    ],
+    [
+      "dialect development",
+      "influenced by",
+      "cultural influences"
+    ],
+    [
+      "dialect development",
+      "influenced by",
+      "pronunciation shifts"
+    ],
+    [
+      "dialect development",
+      "influences",
+      "entertainment"
+    ],
+    [
+      "dialect development",
+      "influences",
+      "science"
+    ],
+    [
+      "dialect development",
+      "is a part of",
+      "language evolution"
+    ],
+    [
+      "dialect development",
+      "is driven by",
+      "British Empire"
+    ],
+    [
+      "dialect development",
+      "is influenced by",
+      "international communication"
+    ],
+    [
+      "dialect development",
+      "originated from",
+      "Old English"
+    ],
+    [
+      "dialect development",
+      "related to",
+      "linguistic heritage"
+    ],
+    [
+      "dialect development",
+      "resulted from",
+      "Great Vowel Shift"
+    ],
+    [
+      "dialect development",
+      "results in",
+      "inflected language"
+    ],
+    [
+      "dialects",
+      "affected by",
+      "pronunciation shifts"
+    ],
+    [
+      "dialects",
+      "affects",
+      "language influence"
+    ],
+    [
+      "dialects",
+      "impacts",
+      "French influence"
+    ],
+    [
+      "dialects",
+      "influenced by",
+      "adaptability"
+    ],
+    [
+      "dialects",
+      "is a type of",
+      "Indian English"
+    ],
+    [
+      "dialects",
+      "reflects",
+      "language evolution"
+    ],
+    [
+      "dialects",
+      "resulted from",
+      "historical events"
+    ],
+    [
+      "diplomacy",
+      "affected by",
+      "cultural influences"
+    ],
+    [
+      "diplomacy",
+      "facilitates",
+      "cultural exchange"
+    ],
+    [
+      "diplomacy",
+      "facilitates",
+      "global language"
+    ],
+    [
+      "diplomacy",
+      "influenced by",
+      "entertainment"
+    ],
+    [
+      "diplomacy",
+      "involves",
+      "language mixing"
+    ],
+    [
+      "diplomacy",
+      "shapes",
+      "language influence"
+    ],
+    [
+      "diverse cultures",
+      "affects",
+      "diplomacy"
+    ],
+    [
+      "diverse cultures",
+      "contributed to",
+      "global language"
+    ],
+    [
+      "diverse cultures",
+      "influenced",
+      "English literature"
+    ],
+    [
+      "diverse cultures",
+      "influenced by",
+      "language history"
+    ],
+    [
+      "diverse cultures",
+      "influences",
+      "language influence"
+    ],
+    [
+      "diverse cultures",
+      "results in",
+      "language mixing"
+    ],
+    [
+      "diverse cultures",
+      "shaped by",
+      "Anglo-Saxons"
+    ],
+    [
+      "diverse cultures",
+      "shapes",
+      "cultural influences"
+    ],
+    [
+      "diverse cultures",
+      "shapes",
+      "language transformation"
+    ],
+    [
+      "entertainment",
+      "affected by",
+      "language transformation"
+    ],
+    [
+      "global language",
+      "characterizes",
+      "complex grammar"
+    ],
+    [
+      "global language",
+      "established by",
+      "international communication"
+    ],
+    [
+      "global language",
+      "influenced by",
+      "science"
+    ],
+    [
+      "global language",
+      "is a type of",
+      "Indian English"
+    ],
+    [
+      "global language",
+      "serves as",
+      "lingua franca"
+    ],
+    [
+      "global language",
+      "shaped by",
+      "cultural influences"
+    ],
+    [
+      "grammar",
+      "affects",
+      "dialect development"
+    ],
+    [
+      "grammar",
+      "affects",
+      "pronunciation"
+    ],
+    [
+      "grammar",
+      "defines",
+      "Indian English"
+    ],
+    [
+      "grammar",
+      "developed into",
+      "Middle English"
+    ],
+    [
+      "grammar",
+      "influenced by",
+      "Anglo-Saxons"
+    ],
+    [
+      "grammar",
+      "is characterized by",
+      "complex grammar"
+    ],
+    [
+      "grammar",
+      "results in",
+      "language adaptation"
+    ],
+    [
+      "grammar",
+      "results in",
+      "language mixing"
+    ],
+    [
+      "grammar",
+      "shapes",
+      "language influence"
+    ],
+    [
+      "historical events",
+      "demonstrates",
+      "language resilience"
+    ],
+    [
+      "historical events",
+      "shaped by",
+      "American English"
+    ],
+    [
+      "historical events",
+      "shaped by",
+      "science"
+    ],
+    [
+      "historical events",
+      "shapes",
+      "language evolution"
+    ],
+    [
+      "historical linguistics",
+      "affects",
+      "adaptability"
+    ],
+    [
+      "historical linguistics",
+      "analyzes",
+      "language mixing"
+    ],
+    [
+      "historical linguistics",
+      "contributes to",
+      "language evolution"
+    ],
+    [
+      "historical linguistics",
+      "enables",
+      "international communication"
+    ],
+    [
+      "historical linguistics",
+      "examines",
+      "cultural influences"
+    ],
+    [
+      "historical linguistics",
+      "explores",
+      "language diversity"
+    ],
+    [
+      "historical linguistics",
+      "influenced by",
+      "Great Vowel Shift"
+    ],
+    [
+      "historical linguistics",
+      "influences",
+      "French influence"
+    ],
+    [
+      "historical linguistics",
+      "informs",
+      "language adaptation"
+    ],
+    [
+      "historical linguistics",
+      "is a result of",
+      "Norman Conquest"
+    ],
+    [
+      "historical linguistics",
+      "is analyzed in",
+      "vocabulary changes"
+    ],
+    [
+      "historical linguistics",
+      "is studied in",
+      "vocabulary"
+    ],
+    [
+      "historical linguistics",
+      "shaped by",
+      "British Empire"
+    ],
+    [
+      "historical linguistics",
+      "studies",
+      "English language"
+    ],
+    [
+      "historical linguistics",
+      "studies",
+      "Indian English"
+    ],
+    [
+      "historical linguistics",
+      "studies",
+      "dialect development"
+    ],
+    [
+      "historical linguistics",
+      "studies",
+      "historical events"
+    ],
+    [
+      "historical linguistics",
+      "studies",
+      "language history"
+    ],
+    [
+      "inflected language",
+      "characterized by",
+      "English language"
+    ],
+    [
+      "inflected language",
+      "characterized by",
+      "diplomacy"
+    ],
+    [
+      "inflected language",
+      "characterized by",
+      "vocabulary changes"
+    ],
+    [
+      "inflected language",
+      "demonstrates",
+      "language resilience"
+    ],
+    [
+      "inflected language",
+      "is a feature of",
+      "1.5 billion speakers"
+    ],
+    [
+      "inflected language",
+      "is characterized by",
+      "language evolution"
+    ],
+    [
+      "inflected language",
+      "is influenced by",
+      "language adaptation"
+    ],
+    [
+      "inflected language",
+      "is influenced by",
+      "language influence"
+    ],
+    [
+      "inflected language",
+      "originated from",
+      "Anglo-Saxons"
+    ],
+    [
+      "international communication",
+      "enables",
+      "lingua franca"
+    ],
+    [
+      "international communication",
+      "influenced by",
+      "French influence"
+    ],
+    [
+      "international communication",
+      "influences",
+      "dialects"
+    ],
+    [
+      "international communication",
+      "influences",
+      "entertainment"
+    ],
+    [
+      "international communication",
+      "is a result of",
+      "language transformation"
+    ],
+    [
+      "international communication",
+      "shaped by",
+      "cultural influences"
+    ],
+    [
+      "international communication",
+      "shaped by",
+      "language evolution"
+    ],
+    [
+      "international communication",
+      "utilized in",
+      "American English"
+    ],
+    [
+      "international communication",
+      "utilized in",
+      "Australian English"
+    ],
+    [
+      "language adaptation",
+      "adapts to",
+      "language history"
+    ],
+    [
+      "language adaptation",
+      "affects",
+      "pronunciation"
+    ],
+    [
+      "language adaptation",
+      "demonstrates",
+      "adaptability"
+    ],
+    [
+      "language adaptation",
+      "driven by",
+      "language influence"
+    ],
+    [
+      "language adaptation",
+      "enables",
+      "global language"
+    ],
+    [
+      "language adaptation",
+      "enhanced by",
+      "international communication"
+    ],
+    [
+      "language adaptation",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "language adaptation",
+      "facilitates",
+      "dialect development"
+    ],
+    [
+      "language adaptation",
+      "has",
+      "1.5 billion speakers"
+    ],
+    [
+      "language adaptation",
+      "influenced by",
+      "historical events"
+    ],
+    [
+      "language adaptation",
+      "influences",
+      "language mixing"
+    ],
+    [
+      "language adaptation",
+      "is a factor in",
+      "language resilience"
+    ],
+    [
+      "language adaptation",
+      "is influenced by",
+      "British Empire"
+    ],
+    [
+      "language adaptation",
+      "produces",
+      "dialects"
+    ],
+    [
+      "language adaptation",
+      "resulted from",
+      "Norman Conquest"
+    ],
+    [
+      "language adaptation",
+      "shapes",
+      "cultural influences"
+    ],
+    [
+      "language adaptation",
+      "transforms",
+      "language transformation"
+    ],
+    [
+      "language diversity",
+      "affects",
+      "grammar"
+    ],
+    [
+      "language diversity",
+      "contributed to",
+      "British Empire"
+    ],
+    [
+      "language diversity",
+      "influences",
+      "French influence"
+    ],
+    [
+      "language diversity",
+      "influences",
+      "Indian English"
+    ],
+    [
+      "language diversity",
+      "influences",
+      "language influence"
+    ],
+    [
+      "language diversity",
+      "influences",
+      "pronunciation shifts"
+    ],
+    [
+      "language diversity",
+      "influences",
+      "vocabulary"
+    ],
+    [
+      "language diversity",
+      "influences",
+      "vocabulary changes"
+    ],
+    [
+      "language diversity",
+      "reflects",
+      "diverse cultures"
+    ],
+    [
+      "language diversity",
+      "requires",
+      "language adaptation"
+    ],
+    [
+      "language diversity",
+      "shaped by",
+      "historical events"
+    ],
+    [
+      "language diversity",
+      "shaped by",
+      "language history"
+    ],
+    [
+      "language diversity",
+      "shapes",
+      "language evolution"
+    ],
+    [
+      "language diversity",
+      "supports",
+      "international communication"
+    ],
+    [
+      "language diversity",
+      "transforms",
+      "language transformation"
+    ],
+    [
+      "language evolution",
+      "involves",
+      "pronunciation"
+    ],
+    [
+      "language evolution",
+      "shaped by",
+      "cultural influences"
+    ],
+    [
+      "language evolution",
+      "triggered",
+      "Norman Conquest"
+    ],
+    [
+      "language history",
+      "documents",
+      "grammar"
+    ],
+    [
+      "language history",
+      "facilitates",
+      "international communication"
+    ],
+    [
+      "language history",
+      "impacts",
+      "Norman Conquest"
+    ],
+    [
+      "language history",
+      "influences",
+      "Indian English"
+    ],
+    [
+      "language history",
+      "influences",
+      "language transformation"
+    ],
+    [
+      "language history",
+      "informs",
+      "vocabulary"
+    ],
+    [
+      "language history",
+      "is a form of",
+      "Old English"
+    ],
+    [
+      "language history",
+      "shaped by",
+      "historical events"
+    ],
+    [
+      "language influence",
+      "affects",
+      "communication"
+    ],
+    [
+      "language influence",
+      "affects",
+      "entertainment"
+    ],
+    [
+      "language influence",
+      "derived from",
+      "French influence"
+    ],
+    [
+      "language influence",
+      "drives",
+      "language evolution"
+    ],
+    [
+      "language influence",
+      "influenced by",
+      "Norman Conquest"
+    ],
+    [
+      "language influence",
+      "influences",
+      "language history"
+    ],
+    [
+      "language influence",
+      "influences",
+      "language mixing"
+    ],
+    [
+      "language influence",
+      "is a process of",
+      "language transformation"
+    ],
+    [
+      "language influence",
+      "is influenced by",
+      "global language"
+    ],
+    [
+      "language influence",
+      "is shaped by",
+      "1.5 billion speakers"
+    ],
+    [
+      "language influence",
+      "reflects",
+      "linguistic heritage"
+    ],
+    [
+      "language mixing",
+      "affects",
+      "pronunciation"
+    ],
+    [
+      "language mixing",
+      "causes",
+      "language transformation"
+    ],
+    [
+      "language mixing",
+      "causes",
+      "pronunciation shifts"
+    ],
+    [
+      "language mixing",
+      "contributes to",
+      "language evolution"
+    ],
+    [
+      "language mixing",
+      "contributes to",
+      "linguistic heritage"
+    ],
+    [
+      "language mixing",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "language mixing",
+      "influenced by",
+      "British Empire"
+    ],
+    [
+      "language mixing",
+      "influences",
+      "French influence"
+    ],
+    [
+      "language mixing",
+      "is a result of",
+      "dialects"
+    ],
+    [
+      "language mixing",
+      "is influenced by",
+      "entertainment"
+    ],
+    [
+      "language mixing",
+      "is influenced by",
+      "science"
+    ],
+    [
+      "language mixing",
+      "resulted from",
+      "historical events"
+    ],
+    [
+      "language mixing",
+      "shaped by",
+      "cultural influences"
+    ],
+    [
+      "language mixing",
+      "strengthens",
+      "language resilience"
+    ],
+    [
+      "language resilience",
+      "demonstrates",
+      "Indian English"
+    ],
+    [
+      "language resilience",
+      "demonstrates",
+      "Old English"
+    ],
+    [
+      "language resilience",
+      "demonstrates",
+      "dialects"
+    ],
+    [
+      "language resilience",
+      "demonstrates",
+      "diverse cultures"
+    ],
+    [
+      "language resilience",
+      "demonstrates",
+      "global language"
+    ],
+    [
+      "language resilience",
+      "demonstrates",
+      "grammar"
+    ],
+    [
+      "language resilience",
+      "demonstrates",
+      "language history"
+    ],
+    [
+      "language resilience",
+      "is a result of",
+      "language transformation"
+    ],
+    [
+      "language resilience",
+      "is resilient in",
+      "Great Vowel Shift"
+    ],
+    [
+      "language resilience",
+      "is resilient in",
+      "historical linguistics"
+    ],
+    [
+      "language resilience",
+      "is supported by",
+      "language diversity"
+    ],
+    [
+      "language resilience",
+      "supports",
+      "complex grammar"
+    ],
+    [
+      "language transformation",
+      "demonstrates",
+      "language resilience"
+    ],
+    [
+      "language transformation",
+      "influences",
+      "grammar"
+    ],
+    [
+      "language transformation",
+      "is related to",
+      "pronunciation"
+    ],
+    [
+      "language transformation",
+      "transformed by",
+      "global language"
+    ],
+    [
+      "language transformation",
+      "transforms",
+      "French influence"
+    ],
+    [
+      "lingua franca",
+      "established as",
+      "science"
+    ],
+    [
+      "lingua franca",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "lingua franca",
+      "is a characteristic of",
+      "language diversity"
+    ],
+    [
+      "lingua franca",
+      "is a result of",
+      "language history"
+    ],
+    [
+      "lingua franca",
+      "is studied by",
+      "historical linguistics"
+    ],
+    [
+      "lingua franca",
+      "results in",
+      "language mixing"
+    ],
+    [
+      "lingua franca",
+      "shaped by",
+      "diverse cultures"
+    ],
+    [
+      "lingua franca",
+      "shapes",
+      "cultural influences"
+    ],
+    [
+      "lingua franca",
+      "supported by",
+      "British Empire"
+    ],
+    [
+      "linguistic heritage",
+      "contributes to",
+      "British Empire"
+    ],
+    [
+      "linguistic heritage",
+      "contributes to",
+      "historical events"
+    ],
+    [
+      "linguistic heritage",
+      "derived from",
+      "inflected language"
+    ],
+    [
+      "linguistic heritage",
+      "influenced by",
+      "international communication"
+    ],
+    [
+      "linguistic heritage",
+      "is a component of",
+      "pronunciation"
+    ],
+    [
+      "linguistic heritage",
+      "is a component of",
+      "vocabulary"
+    ],
+    [
+      "linguistic heritage",
+      "is a component of",
+      "vocabulary changes"
+    ],
+    [
+      "linguistic heritage",
+      "is a part of",
+      "Old English"
+    ],
+    [
+      "linguistic heritage",
+      "is a part of",
+      "communication"
+    ],
+    [
+      "linguistic heritage",
+      "is a part of",
+      "lingua franca"
+    ],
+    [
+      "linguistic heritage",
+      "is part of",
+      "entertainment"
+    ],
+    [
+      "linguistic heritage",
+      "shapes",
+      "technology"
+    ],
+    [
+      "literary works",
+      "authored by",
+      "William Shakespeare"
+    ],
+    [
+      "literary works",
+      "demonstrates",
+      "resilience"
+    ],
+    [
+      "literary works",
+      "influenced by",
+      "standardization"
+    ],
+    [
+      "literary works",
+      "is exemplified by",
+      "Canterbury Tales"
+    ],
+    [
+      "literary works",
+      "is part of",
+      "English literature"
+    ],
+    [
+      "literary works",
+      "produced by",
+      "Geoffrey Chaucer"
+    ],
+    [
+      "printing press",
+      "affects",
+      "cultural influences"
+    ],
+    [
+      "printing press",
+      "contributes to",
+      "linguistic heritage"
+    ],
+    [
+      "printing press",
+      "drives",
+      "language evolution"
+    ],
+    [
+      "printing press",
+      "enabled by",
+      "American English"
+    ],
+    [
+      "printing press",
+      "enabled by",
+      "Australian English"
+    ],
+    [
+      "printing press",
+      "enhances",
+      "entertainment"
+    ],
+    [
+      "printing press",
+      "facilitated by",
+      "international communication"
+    ],
+    [
+      "printing press",
+      "facilitated by",
+      "language adaptation"
+    ],
+    [
+      "printing press",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "printing press",
+      "facilitates",
+      "language mixing"
+    ],
+    [
+      "printing press",
+      "impacted by",
+      "language history"
+    ],
+    [
+      "printing press",
+      "influenced",
+      "historical events"
+    ],
+    [
+      "printing press",
+      "influenced the development of",
+      "dialects"
+    ],
+    [
+      "printing press",
+      "influences",
+      "language influence"
+    ],
+    [
+      "printing press",
+      "is facilitated by",
+      "lingua franca"
+    ],
+    [
+      "printing press",
+      "is impacted by",
+      "language diversity"
+    ],
+    [
+      "printing press",
+      "supports",
+      "global language"
+    ],
+    [
+      "printing press",
+      "transformed by",
+      "language transformation"
+    ],
+    [
+      "pronunciation",
+      "affected by",
+      "Old English"
+    ],
+    [
+      "pronunciation",
+      "affects",
+      "language resilience"
+    ],
+    [
+      "pronunciation",
+      "influences",
+      "Indian English"
+    ],
+    [
+      "pronunciation",
+      "influences",
+      "global language"
+    ],
+    [
+      "pronunciation",
+      "is studied in",
+      "historical linguistics"
+    ],
+    [
+      "pronunciation",
+      "shaped by",
+      "lingua franca"
+    ],
+    [
+      "pronunciation shifts",
+      "affects",
+      "science"
+    ],
+    [
+      "pronunciation shifts",
+      "influenced by",
+      "Middle English"
+    ],
+    [
+      "pronunciation shifts",
+      "influences",
+      "English literature"
+    ],
+    [
+      "pronunciation shifts",
+      "influences",
+      "historical linguistics"
+    ],
+    [
+      "pronunciation shifts",
+      "is affected by",
+      "vocabulary"
+    ],
+    [
+      "pronunciation shifts",
+      "reflects",
+      "linguistic heritage"
+    ],
+    [
+      "pronunciation shifts",
+      "shaped by",
+      "vocabulary changes"
+    ],
+    [
+      "resilience",
+      "benefits from",
+      "1.5 billion speakers"
+    ],
+    [
+      "science",
+      "affects",
+      "language resilience"
+    ],
+    [
+      "science",
+      "became",
+      "global language"
+    ],
+    [
+      "science",
+      "contributes to",
+      "adaptability"
+    ],
+    [
+      "science",
+      "drives",
+      "language evolution"
+    ],
+    [
+      "science",
+      "enhances",
+      "communication"
+    ],
+    [
+      "science",
+      "influences",
+      "entertainment"
+    ],
+    [
+      "science",
+      "influences",
+      "language adaptation"
+    ],
+    [
+      "science",
+      "shaped by",
+      "linguistic heritage"
+    ],
+    [
+      "science",
+      "shapes",
+      "English language"
+    ],
+    [
+      "standardization",
+      "enabled by",
+      "technology"
+    ],
+    [
+      "standardization",
+      "enables",
+      "communication"
+    ],
+    [
+      "standardization",
+      "enhances",
+      "adaptability"
+    ],
+    [
+      "standardization",
+      "promotes",
+      "cultural exchange"
+    ],
+    [
+      "technology",
+      "advances",
+      "science"
+    ],
+    [
+      "technology",
+      "contributes to",
+      "language resilience"
+    ],
+    [
+      "technology",
+      "demonstrates",
+      "resilience"
+    ],
+    [
+      "technology",
+      "develops",
+      "dialect development"
+    ],
+    [
+      "technology",
+      "drives",
+      "language adaptation"
+    ],
+    [
+      "technology",
+      "drives",
+      "language evolution"
+    ],
+    [
+      "technology",
+      "enhanced by",
+      "global language"
+    ],
+    [
+      "technology",
+      "enhances",
+      "adaptability"
+    ],
+    [
+      "technology",
+      "facilitates",
+      "international communication"
+    ],
+    [
+      "technology",
+      "facilitates",
+      "language mixing"
+    ],
+    [
+      "technology",
+      "influences",
+      "Indian English"
+    ],
+    [
+      "technology",
+      "influences",
+      "cultural influences"
+    ],
+    [
+      "technology",
+      "integrated with",
+      "entertainment"
+    ],
+    [
+      "technology",
+      "shapes",
+      "English language"
+    ],
+    [
+      "technology",
+      "supports",
+      "communication"
+    ],
+    [
+      "vocabulary",
+      "contributes to",
+      "language adaptation"
+    ],
+    [
+      "vocabulary",
+      "exemplifies",
+      "Early Modern English"
+    ],
+    [
+      "vocabulary",
+      "influences",
+      "language mixing"
+    ],
+    [
+      "vocabulary",
+      "is a type of",
+      "American English"
+    ],
+    [
+      "vocabulary",
+      "is influenced by",
+      "grammar"
+    ],
+    [
+      "vocabulary",
+      "originated from",
+      "Old English"
+    ],
+    [
+      "vocabulary",
+      "shaped by",
+      "diverse cultures"
+    ],
+    [
+      "vocabulary changes",
+      "affects",
+      "English language"
+    ],
+    [
+      "vocabulary changes",
+      "affects",
+      "language influence"
+    ],
+    [
+      "vocabulary changes",
+      "affects",
+      "language mixing"
+    ],
+    [
+      "vocabulary changes",
+      "affects",
+      "pronunciation"
+    ],
+    [
+      "vocabulary changes",
+      "contributes to",
+      "global language"
+    ],
+    [
+      "vocabulary changes",
+      "influenced by",
+      "American English"
+    ],
+    [
+      "vocabulary changes",
+      "influenced by",
+      "Early Modern English"
+    ],
+    [
+      "vocabulary changes",
+      "influences",
+      "English literature"
+    ],
+    [
+      "vocabulary changes",
+      "influences",
+      "grammar"
+    ],
+    [
+      "vocabulary changes",
+      "influences",
+      "pronunciation shifts"
+    ],
+    [
+      "vocabulary changes",
+      "influences",
+      "science"
+    ],
+    [
+      "vocabulary changes",
+      "is a result of",
+      "language evolution"
+    ],
+    [
+      "vocabulary changes",
+      "leads to",
+      "dialects"
+    ],
+    [
+      "vocabulary changes",
+      "resulted from",
+      "Great Vowel Shift"
+    ],
+    [
+      "vocabulary changes",
+      "shapes",
+      "language history"
+    ]
+  ],
+  "edges": [
+    "adapted by",
+    "adapts to",
+    "advances",
+    "affected by",
+    "affects",
+    "aided the development of",
+    "analyzes",
+    "authored",
+    "authored by",
+    "became",
+    "benefits from",
+    "causes",
+    "characterized by",
+    "characterizes",
+    "contributed to",
+    "contributes to",
+    "defined by",
+    "defines",
+    "demonstrates",
+    "derived from",
+    "describes",
+    "developed from",
+    "developed into",
+    "develops",
+    "develops from",
+    "documents",
+    "driven by",
+    "drives",
+    "emerges from",
+    "enabled by",
+    "enables",
+    "enhanced by",
+    "enhances",
+    "established as",
+    "established by",
+    "evolved from",
+    "evolved into",
+    "examines",
+    "exemplified by",
+    "exemplifies",
+    "experiences",
+    "explores",
+    "facilitated by",
+    "facilitates",
+    "foundation of",
+    "functions as",
+    "has",
+    "impacted by",
+    "impacts",
+    "includes",
+    "influenced",
+    "influenced by",
+    "influenced the development of",
+    "influences",
+    "informs",
+    "inspired by",
+    "integrated with",
+    "involves",
+    "is a characteristic of",
+    "is a component of",
+    "is a factor in",
+    "is a feature of",
+    "is a form of",
+    "is a part of",
+    "is a process of",
+    "is a result of",
+    "is a source of",
+    "is a study of",
+    "is a type of",
+    "is affected by",
+    "is analyzed in",
+    "is characterized by",
+    "is derived from",
+    "is driven by",
+    "is exemplified by",
+    "is facilitated by",
+    "is impacted by",
+    "is influenced by",
+    "is part of",
+    "is related to",
+    "is represented by",
+    "is resilient in",
+    "is shaped by",
+    "is spoken by",
+    "is studied by",
+    "is studied in",
+    "is supported by",
+    "leads to",
+    "led to",
+    "literary work of",
+    "originated from",
+    "part of",
+    "produced by",
+    "produces",
+    "promotes",
+    "reflects",
+    "related to",
+    "represents",
+    "requires",
+    "resulted from",
+    "resulted in",
+    "results in",
+    "serves as",
+    "shaped by",
+    "shapes",
+    "spoken by",
+    "strengthens",
+    "studies",
+    "supported by",
+    "supports",
+    "transformed by",
+    "transformed into",
+    "transforms",
+    "transitioned to",
+    "triggered",
+    "utilized in",
+    "variant of"
+  ]
+}

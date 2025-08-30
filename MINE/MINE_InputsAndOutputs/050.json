@@ -1,0 +1,3565 @@
+{
+  "entities": [
+    "accident reduction",
+    "automaker involvement",
+    "autonomous technology",
+    "autonomous vehicle support",
+    "autonomous vehicles",
+    "collaborative efforts",
+    "collaborative solutions",
+    "communication systems",
+    "commuting experience",
+    "convenience enhancement",
+    "coordination efforts",
+    "development progress",
+    "emission reduction",
+    "environmental impact",
+    "global initiatives",
+    "government involvement",
+    "human error elimination",
+    "industry collaboration",
+    "industry investment",
+    "infrastructure challenges",
+    "infrastructure investment",
+    "innovation barriers",
+    "innovation hurdles",
+    "innovation potential",
+    "insurance regulations",
+    "investment focus",
+    "investment requirements",
+    "legal adaptation",
+    "legal concerns",
+    "liability questions",
+    "licensing issues",
+    "mobility access",
+    "modernization challenges",
+    "modernization needs",
+    "operational functionality",
+    "operational safety",
+    "operational scenarios",
+    "pilot programs",
+    "policy development",
+    "public acceptance",
+    "public engagement",
+    "public interest",
+    "public safety",
+    "public trust",
+    "public-private collaboration",
+    "real-time communication",
+    "regulatory bodies",
+    "regulatory framework",
+    "reliability issues",
+    "risk management",
+    "road infrastructure",
+    "road integration",
+    "road integration issues",
+    "road safety",
+    "road user safety",
+    "safety advantages",
+    "safety challenges",
+    "safety efficiency",
+    "safety standards",
+    "shared fleets",
+    "significant role",
+    "societal impact",
+    "stakeholder engagement",
+    "system compatibility",
+    "system improvements",
+    "system integration",
+    "technological advancement",
+    "technology companies",
+    "technology development",
+    "technology improvement",
+    "technology progress",
+    "technology reliance",
+    "traffic congestion",
+    "traffic management",
+    "traffic optimization",
+    "transportation efficiency",
+    "transportation evolution",
+    "transportation future",
+    "transportation innovation",
+    "transportation landscape",
+    "transportation revolution",
+    "transportation safety",
+    "transportation systems",
+    "unique challenges",
+    "urban infrastructure",
+    "urban infrastructure development",
+    "urban mobility",
+    "urban mobility challenges",
+    "urban mobility solutions",
+    "urban planning",
+    "valuable time",
+    "vehicle ownership",
+    "widespread adoption"
+  ],
+  "relations": [
+    [
+      "accident reduction",
+      "addresses",
+      "road integration issues"
+    ],
+    [
+      "accident reduction",
+      "enhances",
+      "operational safety"
+    ],
+    [
+      "accident reduction",
+      "enhances",
+      "public safety"
+    ],
+    [
+      "accident reduction",
+      "influences",
+      "liability questions"
+    ],
+    [
+      "accident reduction",
+      "involves",
+      "automaker involvement"
+    ],
+    [
+      "accident reduction",
+      "requires",
+      "government involvement"
+    ],
+    [
+      "automaker involvement",
+      "drives",
+      "modernization challenges"
+    ],
+    [
+      "automaker involvement",
+      "facilitates",
+      "system integration"
+    ],
+    [
+      "automaker involvement",
+      "influences",
+      "insurance regulations"
+    ],
+    [
+      "automaker involvement",
+      "involves",
+      "development progress"
+    ],
+    [
+      "automaker involvement",
+      "involves",
+      "licensing issues"
+    ],
+    [
+      "automaker involvement",
+      "involves",
+      "urban planning"
+    ],
+    [
+      "automaker involvement",
+      "involves",
+      "vehicle ownership"
+    ],
+    [
+      "automaker involvement",
+      "requires",
+      "public acceptance"
+    ],
+    [
+      "autonomous technology",
+      "advances",
+      "technology development"
+    ],
+    [
+      "autonomous technology",
+      "affects",
+      "commuting experience"
+    ],
+    [
+      "autonomous technology",
+      "attracts",
+      "investment focus"
+    ],
+    [
+      "autonomous technology",
+      "drives",
+      "transportation evolution"
+    ],
+    [
+      "autonomous technology",
+      "enables",
+      "innovation potential"
+    ],
+    [
+      "autonomous technology",
+      "enhances",
+      "convenience enhancement"
+    ],
+    [
+      "autonomous technology",
+      "enhances",
+      "traffic management"
+    ],
+    [
+      "autonomous technology",
+      "supports",
+      "shared fleets"
+    ],
+    [
+      "autonomous technology",
+      "supports",
+      "transportation future"
+    ],
+    [
+      "autonomous technology",
+      "supports",
+      "urban mobility"
+    ],
+    [
+      "autonomous vehicle support",
+      "advances",
+      "technology development"
+    ],
+    [
+      "autonomous vehicle support",
+      "enhances",
+      "safety efficiency"
+    ],
+    [
+      "autonomous vehicle support",
+      "facilitates",
+      "pilot programs"
+    ],
+    [
+      "autonomous vehicle support",
+      "facilitates",
+      "system integration"
+    ],
+    [
+      "autonomous vehicle support",
+      "supports",
+      "technological advancement"
+    ],
+    [
+      "autonomous vehicles",
+      "advances",
+      "technology progress"
+    ],
+    [
+      "autonomous vehicles",
+      "drives",
+      "technology development"
+    ],
+    [
+      "autonomous vehicles",
+      "enables",
+      "human error elimination"
+    ],
+    [
+      "autonomous vehicles",
+      "enables",
+      "technological advancement"
+    ],
+    [
+      "autonomous vehicles",
+      "enables",
+      "traffic optimization"
+    ],
+    [
+      "autonomous vehicles",
+      "enhance",
+      "global initiatives"
+    ],
+    [
+      "autonomous vehicles",
+      "enhances",
+      "traffic management"
+    ],
+    [
+      "autonomous vehicles",
+      "includes",
+      "pilot programs"
+    ],
+    [
+      "autonomous vehicles",
+      "provides",
+      "collaborative solutions"
+    ],
+    [
+      "autonomous vehicles",
+      "requires",
+      "modernization needs"
+    ],
+    [
+      "autonomous vehicles",
+      "shows",
+      "development progress"
+    ],
+    [
+      "collaborative efforts",
+      "enhances",
+      "commuting experience"
+    ],
+    [
+      "collaborative efforts",
+      "enhances",
+      "stakeholder engagement"
+    ],
+    [
+      "collaborative efforts",
+      "enhances",
+      "urban infrastructure"
+    ],
+    [
+      "collaborative efforts",
+      "facilitates",
+      "urban infrastructure development"
+    ],
+    [
+      "collaborative efforts",
+      "improves",
+      "public safety"
+    ],
+    [
+      "collaborative efforts",
+      "involves",
+      "government involvement"
+    ],
+    [
+      "collaborative efforts",
+      "promotes",
+      "public engagement"
+    ],
+    [
+      "collaborative efforts",
+      "promotes",
+      "system integration"
+    ],
+    [
+      "collaborative efforts",
+      "shapes",
+      "transportation landscape"
+    ],
+    [
+      "collaborative efforts",
+      "supports",
+      "global initiatives"
+    ],
+    [
+      "collaborative efforts",
+      "supports",
+      "technology development"
+    ],
+    [
+      "collaborative solutions",
+      "addresses",
+      "modernization needs"
+    ],
+    [
+      "collaborative solutions",
+      "addresses",
+      "urban mobility"
+    ],
+    [
+      "collaborative solutions",
+      "advances",
+      "development progress"
+    ],
+    [
+      "collaborative solutions",
+      "contributes to",
+      "emission reduction"
+    ],
+    [
+      "collaborative solutions",
+      "drive",
+      "pilot programs"
+    ],
+    [
+      "collaborative solutions",
+      "enables",
+      "autonomous technology"
+    ],
+    [
+      "collaborative solutions",
+      "enables",
+      "shared fleets"
+    ],
+    [
+      "collaborative solutions",
+      "enables",
+      "widespread adoption"
+    ],
+    [
+      "collaborative solutions",
+      "enhances",
+      "mobility access"
+    ],
+    [
+      "collaborative solutions",
+      "facilitates",
+      "industry collaboration"
+    ],
+    [
+      "collaborative solutions",
+      "focuses on",
+      "investment focus"
+    ],
+    [
+      "collaborative solutions",
+      "improves",
+      "convenience enhancement"
+    ],
+    [
+      "collaborative solutions",
+      "influences",
+      "regulatory bodies"
+    ],
+    [
+      "collaborative solutions",
+      "promotes",
+      "policy development"
+    ],
+    [
+      "collaborative solutions",
+      "promotes",
+      "public acceptance"
+    ],
+    [
+      "collaborative solutions",
+      "promotes",
+      "public-private collaboration"
+    ],
+    [
+      "collaborative solutions",
+      "provides",
+      "innovation hurdles"
+    ],
+    [
+      "collaborative solutions",
+      "requires",
+      "collaborative efforts"
+    ],
+    [
+      "collaborative solutions",
+      "requires",
+      "infrastructure investment"
+    ],
+    [
+      "communication systems",
+      "advances",
+      "technological advancement"
+    ],
+    [
+      "communication systems",
+      "drives",
+      "transportation evolution"
+    ],
+    [
+      "communication systems",
+      "enables",
+      "system integration"
+    ],
+    [
+      "communication systems",
+      "enhances",
+      "convenience enhancement"
+    ],
+    [
+      "communication systems",
+      "provides",
+      "autonomous vehicle support"
+    ],
+    [
+      "communication systems",
+      "supports",
+      "road infrastructure"
+    ],
+    [
+      "communication systems",
+      "supports",
+      "technology development"
+    ],
+    [
+      "commuting experience",
+      "depends on",
+      "urban infrastructure"
+    ],
+    [
+      "commuting experience",
+      "enhances",
+      "technology companies"
+    ],
+    [
+      "commuting experience",
+      "improves",
+      "traffic management"
+    ],
+    [
+      "commuting experience",
+      "shapes",
+      "public acceptance"
+    ],
+    [
+      "commuting experience",
+      "shapes",
+      "transportation landscape"
+    ],
+    [
+      "convenience enhancement",
+      "drives",
+      "transportation revolution"
+    ],
+    [
+      "coordination efforts",
+      "addresses",
+      "innovation barriers"
+    ],
+    [
+      "coordination efforts",
+      "addresses",
+      "licensing issues"
+    ],
+    [
+      "coordination efforts",
+      "coordinates",
+      "transportation systems"
+    ],
+    [
+      "coordination efforts",
+      "enhances",
+      "road user safety"
+    ],
+    [
+      "coordination efforts",
+      "ensures",
+      "operational safety"
+    ],
+    [
+      "coordination efforts",
+      "faces",
+      "infrastructure challenges"
+    ],
+    [
+      "coordination efforts",
+      "faces",
+      "innovation hurdles"
+    ],
+    [
+      "coordination efforts",
+      "facilitates",
+      "real-time communication"
+    ],
+    [
+      "coordination efforts",
+      "facilitates",
+      "stakeholder engagement"
+    ],
+    [
+      "coordination efforts",
+      "improves",
+      "road safety"
+    ],
+    [
+      "coordination efforts",
+      "supports",
+      "pilot programs"
+    ],
+    [
+      "development progress",
+      "advances",
+      "technological advancement"
+    ],
+    [
+      "development progress",
+      "advances",
+      "technology progress"
+    ],
+    [
+      "development progress",
+      "contributes to",
+      "convenience enhancement"
+    ],
+    [
+      "development progress",
+      "demands",
+      "government involvement"
+    ],
+    [
+      "development progress",
+      "drives",
+      "transportation revolution"
+    ],
+    [
+      "development progress",
+      "enhances",
+      "operational functionality"
+    ],
+    [
+      "development progress",
+      "facilitates",
+      "communication systems"
+    ],
+    [
+      "development progress",
+      "guides",
+      "policy development"
+    ],
+    [
+      "development progress",
+      "impedes",
+      "innovation hurdles"
+    ],
+    [
+      "development progress",
+      "improves",
+      "transportation efficiency"
+    ],
+    [
+      "development progress",
+      "indicates",
+      "significant role"
+    ],
+    [
+      "development progress",
+      "involves",
+      "regulatory bodies"
+    ],
+    [
+      "development progress",
+      "is a result of",
+      "technology improvement"
+    ],
+    [
+      "development progress",
+      "leads to",
+      "system improvements"
+    ],
+    [
+      "development progress",
+      "saves",
+      "valuable time"
+    ],
+    [
+      "development progress",
+      "shape",
+      "regulatory framework"
+    ],
+    [
+      "development progress",
+      "shapes",
+      "transportation landscape"
+    ],
+    [
+      "development progress",
+      "supports",
+      "autonomous vehicle support"
+    ],
+    [
+      "development progress",
+      "supports",
+      "pilot programs"
+    ],
+    [
+      "emission reduction",
+      "contributes to",
+      "societal impact"
+    ],
+    [
+      "emission reduction",
+      "enhance",
+      "transportation efficiency"
+    ],
+    [
+      "emission reduction",
+      "enhances",
+      "mobility access"
+    ],
+    [
+      "emission reduction",
+      "improves",
+      "commuting experience"
+    ],
+    [
+      "emission reduction",
+      "offers",
+      "safety advantages"
+    ],
+    [
+      "emission reduction",
+      "plays",
+      "significant role"
+    ],
+    [
+      "emission reduction",
+      "results in",
+      "technological advancement"
+    ],
+    [
+      "emission reduction",
+      "results in",
+      "technology progress"
+    ],
+    [
+      "environmental impact",
+      "benefits from",
+      "industry collaboration"
+    ],
+    [
+      "environmental impact",
+      "enhanced by",
+      "transportation efficiency"
+    ],
+    [
+      "environmental impact",
+      "has",
+      "significant role"
+    ],
+    [
+      "environmental impact",
+      "improves",
+      "safety efficiency"
+    ],
+    [
+      "environmental impact",
+      "influence",
+      "technology development"
+    ],
+    [
+      "environmental impact",
+      "influences",
+      "communication systems"
+    ],
+    [
+      "environmental impact",
+      "is influenced by",
+      "technological advancement"
+    ],
+    [
+      "environmental impact",
+      "results in",
+      "emission reduction"
+    ],
+    [
+      "environmental impact",
+      "results in",
+      "technology improvement"
+    ],
+    [
+      "environmental impact",
+      "shapes",
+      "transportation future"
+    ],
+    [
+      "global initiatives",
+      "addressed by",
+      "reliability issues"
+    ],
+    [
+      "global initiatives",
+      "benefit from",
+      "autonomous vehicles"
+    ],
+    [
+      "global initiatives",
+      "influenced by",
+      "vehicle ownership"
+    ],
+    [
+      "global initiatives",
+      "supports",
+      "system integration"
+    ],
+    [
+      "government involvement",
+      "addresses",
+      "road integration issues"
+    ],
+    [
+      "government involvement",
+      "benefits from",
+      "valuable time"
+    ],
+    [
+      "government involvement",
+      "encourages",
+      "public engagement"
+    ],
+    [
+      "government involvement",
+      "enhances",
+      "transportation safety"
+    ],
+    [
+      "government involvement",
+      "requires",
+      "investment requirements"
+    ],
+    [
+      "government involvement",
+      "result from",
+      "public-private collaboration"
+    ],
+    [
+      "government involvement",
+      "shapes",
+      "insurance regulations"
+    ],
+    [
+      "human error elimination",
+      "addresses",
+      "insurance regulations"
+    ],
+    [
+      "human error elimination",
+      "addresses",
+      "liability questions"
+    ],
+    [
+      "human error elimination",
+      "depends on",
+      "operational scenarios"
+    ],
+    [
+      "human error elimination",
+      "enables",
+      "significant role"
+    ],
+    [
+      "human error elimination",
+      "enhances",
+      "convenience enhancement"
+    ],
+    [
+      "human error elimination",
+      "facilitates",
+      "system integration"
+    ],
+    [
+      "human error elimination",
+      "improves",
+      "transportation safety"
+    ],
+    [
+      "industry collaboration",
+      "addresses",
+      "reliability issues"
+    ],
+    [
+      "industry collaboration",
+      "benefits from",
+      "valuable time"
+    ],
+    [
+      "industry collaboration",
+      "drives",
+      "technological advancement"
+    ],
+    [
+      "industry collaboration",
+      "drives",
+      "transportation revolution"
+    ],
+    [
+      "industry collaboration",
+      "improves",
+      "transportation safety"
+    ],
+    [
+      "industry collaboration",
+      "promotes",
+      "public safety"
+    ],
+    [
+      "industry collaboration",
+      "transforms",
+      "transportation landscape"
+    ],
+    [
+      "industry investment",
+      "enhances",
+      "operational safety"
+    ],
+    [
+      "industry investment",
+      "enhances",
+      "transportation safety"
+    ],
+    [
+      "industry investment",
+      "faces",
+      "safety challenges"
+    ],
+    [
+      "industry investment",
+      "funds",
+      "infrastructure investment"
+    ],
+    [
+      "industry investment",
+      "influences",
+      "policy development"
+    ],
+    [
+      "industry investment",
+      "necessitates",
+      "modernization needs"
+    ],
+    [
+      "industry investment",
+      "presents",
+      "unique challenges"
+    ],
+    [
+      "industry investment",
+      "promotes",
+      "public acceptance"
+    ],
+    [
+      "industry investment",
+      "promotes",
+      "public-private collaboration"
+    ],
+    [
+      "industry investment",
+      "supports",
+      "transportation systems"
+    ],
+    [
+      "infrastructure challenges",
+      "affects",
+      "road integration"
+    ],
+    [
+      "infrastructure challenges",
+      "challenges",
+      "regulatory bodies"
+    ],
+    [
+      "infrastructure challenges",
+      "complicates",
+      "road safety"
+    ],
+    [
+      "infrastructure challenges",
+      "coordinate with",
+      "modernization needs"
+    ],
+    [
+      "infrastructure challenges",
+      "demands",
+      "industry investment"
+    ],
+    [
+      "infrastructure challenges",
+      "presents",
+      "innovation barriers"
+    ],
+    [
+      "infrastructure challenges",
+      "presents",
+      "innovation hurdles"
+    ],
+    [
+      "infrastructure challenges",
+      "requires",
+      "industry collaboration"
+    ],
+    [
+      "infrastructure challenges",
+      "requires",
+      "investment requirements"
+    ],
+    [
+      "infrastructure investment",
+      "addresses",
+      "modernization needs"
+    ],
+    [
+      "infrastructure investment",
+      "addresses",
+      "unique challenges"
+    ],
+    [
+      "infrastructure investment",
+      "addresses",
+      "urban mobility challenges"
+    ],
+    [
+      "infrastructure investment",
+      "complicates",
+      "road integration issues"
+    ],
+    [
+      "infrastructure investment",
+      "enables",
+      "traffic optimization"
+    ],
+    [
+      "infrastructure investment",
+      "reflects",
+      "public interest"
+    ],
+    [
+      "infrastructure investment",
+      "requires",
+      "government involvement"
+    ],
+    [
+      "infrastructure investment",
+      "requires",
+      "investment requirements"
+    ],
+    [
+      "infrastructure investment",
+      "requires",
+      "public acceptance"
+    ],
+    [
+      "infrastructure investment",
+      "supports",
+      "global initiatives"
+    ],
+    [
+      "innovation barriers",
+      "affects",
+      "public safety"
+    ],
+    [
+      "innovation barriers",
+      "creates",
+      "innovation hurdles"
+    ],
+    [
+      "innovation barriers",
+      "creates",
+      "public trust"
+    ],
+    [
+      "innovation barriers",
+      "faces",
+      "technology development"
+    ],
+    [
+      "innovation barriers",
+      "hinders",
+      "road safety"
+    ],
+    [
+      "innovation barriers",
+      "hinders",
+      "technological advancement"
+    ],
+    [
+      "innovation barriers",
+      "hinders",
+      "technology progress"
+    ],
+    [
+      "innovation barriers",
+      "impedes",
+      "operational safety"
+    ],
+    [
+      "innovation barriers",
+      "impedes",
+      "reliability issues"
+    ],
+    [
+      "innovation barriers",
+      "impedes",
+      "urban infrastructure development"
+    ],
+    [
+      "innovation barriers",
+      "necessitates",
+      "government involvement"
+    ],
+    [
+      "innovation hurdles",
+      "facilitates",
+      "technology improvement"
+    ],
+    [
+      "innovation hurdles",
+      "hinders",
+      "transportation systems"
+    ],
+    [
+      "innovation hurdles",
+      "impedes",
+      "system improvements"
+    ],
+    [
+      "innovation hurdles",
+      "raises",
+      "legal concerns"
+    ],
+    [
+      "innovation potential",
+      "attracts",
+      "industry investment"
+    ],
+    [
+      "innovation potential",
+      "contributes to",
+      "urban mobility solutions"
+    ],
+    [
+      "innovation potential",
+      "drives",
+      "autonomous vehicles"
+    ],
+    [
+      "innovation potential",
+      "drives",
+      "industry collaboration"
+    ],
+    [
+      "innovation potential",
+      "drives",
+      "investment focus"
+    ],
+    [
+      "innovation potential",
+      "drives",
+      "technology companies"
+    ],
+    [
+      "innovation potential",
+      "drives",
+      "transportation innovation"
+    ],
+    [
+      "innovation potential",
+      "enables",
+      "shared fleets"
+    ],
+    [
+      "innovation potential",
+      "enables",
+      "transportation revolution"
+    ],
+    [
+      "innovation potential",
+      "facilitates",
+      "collaborative solutions"
+    ],
+    [
+      "innovation potential",
+      "facilitates",
+      "widespread adoption"
+    ],
+    [
+      "innovation potential",
+      "hinders",
+      "innovation barriers"
+    ],
+    [
+      "innovation potential",
+      "influences",
+      "transportation systems"
+    ],
+    [
+      "innovation potential",
+      "necessitates",
+      "modernization needs"
+    ],
+    [
+      "innovation potential",
+      "promises",
+      "system improvements"
+    ],
+    [
+      "innovation potential",
+      "requires",
+      "regulatory bodies"
+    ],
+    [
+      "insurance regulations",
+      "affected by",
+      "public trust"
+    ],
+    [
+      "insurance regulations",
+      "affects",
+      "transportation safety"
+    ],
+    [
+      "insurance regulations",
+      "dictates",
+      "regulatory framework"
+    ],
+    [
+      "investment focus",
+      "addressed by",
+      "urban mobility challenges"
+    ],
+    [
+      "investment focus",
+      "depends on",
+      "shared fleets"
+    ],
+    [
+      "investment focus",
+      "driven by",
+      "commuting experience"
+    ],
+    [
+      "investment focus",
+      "drives",
+      "modernization challenges"
+    ],
+    [
+      "investment focus",
+      "enhances",
+      "convenience enhancement"
+    ],
+    [
+      "investment focus",
+      "enhances",
+      "transportation efficiency"
+    ],
+    [
+      "investment focus",
+      "focuses on",
+      "operational functionality"
+    ],
+    [
+      "investment focus",
+      "fuels",
+      "development progress"
+    ],
+    [
+      "investment focus",
+      "guides",
+      "transportation landscape"
+    ],
+    [
+      "investment focus",
+      "involves",
+      "government involvement"
+    ],
+    [
+      "investment focus",
+      "requires",
+      "infrastructure challenges"
+    ],
+    [
+      "investment focus",
+      "supports",
+      "urban infrastructure development"
+    ],
+    [
+      "investment requirements",
+      "depends on",
+      "investment focus"
+    ],
+    [
+      "investment requirements",
+      "presents",
+      "unique challenges"
+    ],
+    [
+      "legal adaptation",
+      "addresses",
+      "road integration issues"
+    ],
+    [
+      "legal adaptation",
+      "enhances",
+      "transportation safety"
+    ],
+    [
+      "legal adaptation",
+      "facilitates",
+      "accident reduction"
+    ],
+    [
+      "legal adaptation",
+      "involves",
+      "automaker involvement"
+    ],
+    [
+      "legal adaptation",
+      "raises",
+      "liability questions"
+    ],
+    [
+      "legal adaptation",
+      "requires",
+      "safety advantages"
+    ],
+    [
+      "legal concerns",
+      "affects",
+      "public acceptance"
+    ],
+    [
+      "legal concerns",
+      "affects",
+      "public interest"
+    ],
+    [
+      "legal concerns",
+      "concerns",
+      "technology companies"
+    ],
+    [
+      "legal concerns",
+      "creates",
+      "liability questions"
+    ],
+    [
+      "legal concerns",
+      "impedes",
+      "technological advancement"
+    ],
+    [
+      "legal concerns",
+      "influences",
+      "stakeholder engagement"
+    ],
+    [
+      "legal concerns",
+      "necessitates",
+      "investment requirements"
+    ],
+    [
+      "legal concerns",
+      "necessitates",
+      "public-private collaboration"
+    ],
+    [
+      "legal concerns",
+      "raises",
+      "global initiatives"
+    ],
+    [
+      "legal concerns",
+      "raises",
+      "innovation potential"
+    ],
+    [
+      "legal concerns",
+      "raises",
+      "operational safety"
+    ],
+    [
+      "liability questions",
+      "affects",
+      "insurance regulations"
+    ],
+    [
+      "liability questions",
+      "involves",
+      "automaker involvement"
+    ],
+    [
+      "licensing issues",
+      "complicated by",
+      "commuting experience"
+    ],
+    [
+      "licensing issues",
+      "complicates",
+      "road infrastructure"
+    ],
+    [
+      "licensing issues",
+      "complicates",
+      "road safety"
+    ],
+    [
+      "licensing issues",
+      "complicates",
+      "technology progress"
+    ],
+    [
+      "licensing issues",
+      "complicates",
+      "vehicle ownership"
+    ],
+    [
+      "licensing issues",
+      "creates",
+      "autonomous vehicles"
+    ],
+    [
+      "licensing issues",
+      "creates",
+      "government involvement"
+    ],
+    [
+      "licensing issues",
+      "creates",
+      "shared fleets"
+    ],
+    [
+      "licensing issues",
+      "creates challenges for",
+      "autonomous technology"
+    ],
+    [
+      "licensing issues",
+      "impedes",
+      "development progress"
+    ],
+    [
+      "licensing issues",
+      "influences",
+      "industry investment"
+    ],
+    [
+      "licensing issues",
+      "influences",
+      "operational safety"
+    ],
+    [
+      "licensing issues",
+      "involves",
+      "stakeholder engagement"
+    ],
+    [
+      "mobility access",
+      "addressed by",
+      "significant role"
+    ],
+    [
+      "mobility access",
+      "enables",
+      "valuable time"
+    ],
+    [
+      "mobility access",
+      "enhances",
+      "transportation efficiency"
+    ],
+    [
+      "mobility access",
+      "improves",
+      "public engagement"
+    ],
+    [
+      "mobility access",
+      "improves",
+      "traffic management"
+    ],
+    [
+      "mobility access",
+      "improves",
+      "transportation evolution"
+    ],
+    [
+      "mobility access",
+      "integrates",
+      "system integration"
+    ],
+    [
+      "mobility access",
+      "limits",
+      "urban mobility challenges"
+    ],
+    [
+      "mobility access",
+      "reflects",
+      "public interest"
+    ],
+    [
+      "mobility access",
+      "regulated by",
+      "regulatory bodies"
+    ],
+    [
+      "modernization challenges",
+      "complicates",
+      "licensing issues"
+    ],
+    [
+      "modernization challenges",
+      "faces",
+      "valuable time"
+    ],
+    [
+      "modernization challenges",
+      "improve",
+      "shared fleets"
+    ],
+    [
+      "modernization challenges",
+      "necessitates",
+      "investment requirements"
+    ],
+    [
+      "modernization challenges",
+      "presents",
+      "technology improvement"
+    ],
+    [
+      "modernization challenges",
+      "requires",
+      "government involvement"
+    ],
+    [
+      "modernization needs",
+      "addresses",
+      "urban infrastructure"
+    ],
+    [
+      "modernization needs",
+      "benefit from",
+      "infrastructure challenges"
+    ],
+    [
+      "modernization needs",
+      "depends on",
+      "system compatibility"
+    ],
+    [
+      "modernization needs",
+      "drives",
+      "transportation revolution"
+    ],
+    [
+      "modernization needs",
+      "drives",
+      "urban infrastructure development"
+    ],
+    [
+      "modernization needs",
+      "enhances",
+      "commuting experience"
+    ],
+    [
+      "modernization needs",
+      "involves",
+      "urban mobility challenges"
+    ],
+    [
+      "modernization needs",
+      "necessitates",
+      "regulatory bodies"
+    ],
+    [
+      "modernization needs",
+      "necessitates",
+      "urban planning"
+    ],
+    [
+      "modernization needs",
+      "require",
+      "technology companies"
+    ],
+    [
+      "modernization needs",
+      "requires",
+      "system integration"
+    ],
+    [
+      "operational functionality",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "operational functionality",
+      "depends on",
+      "system integration"
+    ],
+    [
+      "operational functionality",
+      "enhances",
+      "convenience enhancement"
+    ],
+    [
+      "operational functionality",
+      "limits",
+      "innovation barriers"
+    ],
+    [
+      "operational safety",
+      "complicates",
+      "road integration issues"
+    ],
+    [
+      "operational safety",
+      "ensures",
+      "transportation safety"
+    ],
+    [
+      "operational safety",
+      "provides",
+      "safety advantages"
+    ],
+    [
+      "operational scenarios",
+      "affects",
+      "reliability issues"
+    ],
+    [
+      "operational scenarios",
+      "enables",
+      "human error elimination"
+    ],
+    [
+      "operational scenarios",
+      "enhances",
+      "transportation safety"
+    ],
+    [
+      "operational scenarios",
+      "guides",
+      "policy development"
+    ],
+    [
+      "operational scenarios",
+      "influences",
+      "communication systems"
+    ],
+    [
+      "operational scenarios",
+      "involves",
+      "insurance regulations"
+    ],
+    [
+      "operational scenarios",
+      "leads to",
+      "accident reduction"
+    ],
+    [
+      "operational scenarios",
+      "presents",
+      "safety challenges"
+    ],
+    [
+      "operational scenarios",
+      "requires",
+      "autonomous vehicle support"
+    ],
+    [
+      "operational scenarios",
+      "requires",
+      "regulatory framework"
+    ],
+    [
+      "pilot programs",
+      "dependent on",
+      "public trust"
+    ],
+    [
+      "pilot programs",
+      "influenced by",
+      "safety standards"
+    ],
+    [
+      "pilot programs",
+      "influences",
+      "liability questions"
+    ],
+    [
+      "pilot programs",
+      "influences",
+      "licensing issues"
+    ],
+    [
+      "pilot programs",
+      "involves",
+      "automaker involvement"
+    ],
+    [
+      "pilot programs",
+      "involves",
+      "vehicle ownership"
+    ],
+    [
+      "pilot programs",
+      "presents",
+      "safety challenges"
+    ],
+    [
+      "policy development",
+      "addresses",
+      "unique challenges"
+    ],
+    [
+      "policy development",
+      "aligns with",
+      "global initiatives"
+    ],
+    [
+      "policy development",
+      "defines",
+      "investment requirements"
+    ],
+    [
+      "policy development",
+      "depends on",
+      "public trust"
+    ],
+    [
+      "policy development",
+      "depends on",
+      "technology reliance"
+    ],
+    [
+      "policy development",
+      "enhance",
+      "commuting experience"
+    ],
+    [
+      "policy development",
+      "enhances",
+      "mobility access"
+    ],
+    [
+      "policy development",
+      "guides",
+      "regulatory framework"
+    ],
+    [
+      "policy development",
+      "influence",
+      "urban infrastructure"
+    ],
+    [
+      "policy development",
+      "informs",
+      "transportation future"
+    ],
+    [
+      "policy development",
+      "involves",
+      "stakeholder engagement"
+    ],
+    [
+      "policy development",
+      "requires",
+      "modernization needs"
+    ],
+    [
+      "policy development",
+      "requires",
+      "public engagement"
+    ],
+    [
+      "policy development",
+      "shapes",
+      "innovation barriers"
+    ],
+    [
+      "policy development",
+      "shapes",
+      "insurance regulations"
+    ],
+    [
+      "public acceptance",
+      "challenges",
+      "infrastructure challenges"
+    ],
+    [
+      "public acceptance",
+      "complicates",
+      "licensing issues"
+    ],
+    [
+      "public acceptance",
+      "complicates",
+      "urban mobility challenges"
+    ],
+    [
+      "public acceptance",
+      "faces",
+      "unique challenges"
+    ],
+    [
+      "public acceptance",
+      "facilitates",
+      "industry collaboration"
+    ],
+    [
+      "public acceptance",
+      "increases",
+      "valuable time"
+    ],
+    [
+      "public acceptance",
+      "influences",
+      "collaborative efforts"
+    ],
+    [
+      "public acceptance",
+      "influences",
+      "stakeholder engagement"
+    ],
+    [
+      "public acceptance",
+      "influences",
+      "urban planning"
+    ],
+    [
+      "public engagement",
+      "collaborates with",
+      "regulatory bodies"
+    ],
+    [
+      "public interest",
+      "driven by",
+      "widespread adoption"
+    ],
+    [
+      "public interest",
+      "drives",
+      "global initiatives"
+    ],
+    [
+      "public interest",
+      "promotes",
+      "public safety"
+    ],
+    [
+      "public interest",
+      "reflects",
+      "urban infrastructure"
+    ],
+    [
+      "public interest",
+      "supports",
+      "urban infrastructure development"
+    ],
+    [
+      "public safety",
+      "affects",
+      "licensing issues"
+    ],
+    [
+      "public safety",
+      "ensures",
+      "safety standards"
+    ],
+    [
+      "public safety",
+      "influences",
+      "insurance regulations"
+    ],
+    [
+      "public trust",
+      "builds",
+      "coordination efforts"
+    ],
+    [
+      "public trust",
+      "depends on",
+      "government involvement"
+    ],
+    [
+      "public trust",
+      "influences",
+      "road integration"
+    ],
+    [
+      "public trust",
+      "supports",
+      "urban infrastructure development"
+    ],
+    [
+      "public-private collaboration",
+      "addresses",
+      "unique challenges"
+    ],
+    [
+      "public-private collaboration",
+      "create",
+      "government involvement"
+    ],
+    [
+      "public-private collaboration",
+      "enables",
+      "transportation revolution"
+    ],
+    [
+      "public-private collaboration",
+      "encourages",
+      "public engagement"
+    ],
+    [
+      "public-private collaboration",
+      "enhances",
+      "stakeholder engagement"
+    ],
+    [
+      "public-private collaboration",
+      "enhances",
+      "urban planning"
+    ],
+    [
+      "public-private collaboration",
+      "guides",
+      "policy development"
+    ],
+    [
+      "public-private collaboration",
+      "improves",
+      "mobility access"
+    ],
+    [
+      "public-private collaboration",
+      "influences",
+      "public acceptance"
+    ],
+    [
+      "public-private collaboration",
+      "involves",
+      "automaker involvement"
+    ],
+    [
+      "public-private collaboration",
+      "involves",
+      "investment requirements"
+    ],
+    [
+      "public-private collaboration",
+      "provides",
+      "valuable time"
+    ],
+    [
+      "public-private collaboration",
+      "reflects",
+      "public interest"
+    ],
+    [
+      "public-private collaboration",
+      "requires",
+      "infrastructure challenges"
+    ],
+    [
+      "public-private collaboration",
+      "tackles",
+      "urban mobility challenges"
+    ],
+    [
+      "real-time communication",
+      "affect",
+      "licensing issues"
+    ],
+    [
+      "real-time communication",
+      "drives",
+      "transportation revolution"
+    ],
+    [
+      "real-time communication",
+      "enhances",
+      "traffic management"
+    ],
+    [
+      "regulatory bodies",
+      "addresses",
+      "legal concerns"
+    ],
+    [
+      "regulatory bodies",
+      "challenges",
+      "modernization challenges"
+    ],
+    [
+      "regulatory bodies",
+      "dictates",
+      "investment requirements"
+    ],
+    [
+      "regulatory bodies",
+      "guides",
+      "transportation revolution"
+    ],
+    [
+      "regulatory bodies",
+      "represents",
+      "public interest"
+    ],
+    [
+      "regulatory bodies",
+      "supported by",
+      "urban infrastructure"
+    ],
+    [
+      "regulatory bodies",
+      "supports",
+      "global initiatives"
+    ],
+    [
+      "regulatory framework",
+      "creates",
+      "innovation barriers"
+    ],
+    [
+      "regulatory framework",
+      "determines",
+      "mobility access"
+    ],
+    [
+      "regulatory framework",
+      "impact",
+      "urban infrastructure"
+    ],
+    [
+      "regulatory framework",
+      "raises",
+      "liability questions"
+    ],
+    [
+      "regulatory framework",
+      "sets",
+      "investment requirements"
+    ],
+    [
+      "regulatory framework",
+      "shaped by",
+      "innovation potential"
+    ],
+    [
+      "regulatory framework",
+      "shapes",
+      "public-private collaboration"
+    ],
+    [
+      "reliability issues",
+      "affects",
+      "government involvement"
+    ],
+    [
+      "reliability issues",
+      "complicates",
+      "road safety"
+    ],
+    [
+      "reliability issues",
+      "creates",
+      "legal adaptation"
+    ],
+    [
+      "reliability issues",
+      "impacts",
+      "road user safety"
+    ],
+    [
+      "reliability issues",
+      "regulates",
+      "regulatory bodies"
+    ],
+    [
+      "risk management",
+      "creates obstacles for",
+      "innovation hurdles"
+    ],
+    [
+      "risk management",
+      "ensures",
+      "public safety"
+    ],
+    [
+      "risk management",
+      "requires",
+      "government involvement"
+    ],
+    [
+      "risk management",
+      "requires",
+      "industry collaboration"
+    ],
+    [
+      "road infrastructure",
+      "affects",
+      "public safety"
+    ],
+    [
+      "road infrastructure",
+      "enhances",
+      "traffic management"
+    ],
+    [
+      "road infrastructure",
+      "facilitates",
+      "pilot programs"
+    ],
+    [
+      "road infrastructure",
+      "facilitates",
+      "public-private collaboration"
+    ],
+    [
+      "road infrastructure",
+      "promotes",
+      "transportation landscape"
+    ],
+    [
+      "road infrastructure",
+      "requires",
+      "investment focus"
+    ],
+    [
+      "road infrastructure",
+      "requires",
+      "investment requirements"
+    ],
+    [
+      "road infrastructure",
+      "supported by",
+      "road safety"
+    ],
+    [
+      "road infrastructure",
+      "supports",
+      "traffic optimization"
+    ],
+    [
+      "road infrastructure",
+      "supports",
+      "urban infrastructure development"
+    ],
+    [
+      "road infrastructure",
+      "supports",
+      "urban mobility"
+    ],
+    [
+      "road integration",
+      "depends on",
+      "transportation future"
+    ],
+    [
+      "road integration",
+      "drives",
+      "transportation innovation"
+    ],
+    [
+      "road integration",
+      "improves",
+      "traffic optimization"
+    ],
+    [
+      "road integration",
+      "integrates",
+      "traffic management"
+    ],
+    [
+      "road integration",
+      "supports",
+      "transportation systems"
+    ],
+    [
+      "road integration",
+      "supports",
+      "urban infrastructure development"
+    ],
+    [
+      "road integration issues",
+      "creates",
+      "investment requirements"
+    ],
+    [
+      "road integration issues",
+      "creates",
+      "system compatibility"
+    ],
+    [
+      "road integration issues",
+      "influences",
+      "public acceptance"
+    ],
+    [
+      "road safety",
+      "demands",
+      "industry investment"
+    ],
+    [
+      "road safety",
+      "eliminates",
+      "human error elimination"
+    ],
+    [
+      "road safety",
+      "enhances",
+      "road user safety"
+    ],
+    [
+      "road safety",
+      "influences",
+      "road integration"
+    ],
+    [
+      "road safety",
+      "involves",
+      "stakeholder engagement"
+    ],
+    [
+      "road safety",
+      "necessitates",
+      "investment requirements"
+    ],
+    [
+      "road safety",
+      "requires",
+      "industry collaboration"
+    ],
+    [
+      "road user safety",
+      "addresses",
+      "unique challenges"
+    ],
+    [
+      "road user safety",
+      "ensures",
+      "operational functionality"
+    ],
+    [
+      "road user safety",
+      "improves",
+      "risk management"
+    ],
+    [
+      "road user safety",
+      "involves",
+      "government involvement"
+    ],
+    [
+      "road user safety",
+      "provides",
+      "safety advantages"
+    ],
+    [
+      "road user safety",
+      "raises",
+      "liability questions"
+    ],
+    [
+      "road user safety",
+      "requires",
+      "public trust"
+    ],
+    [
+      "safety advantages",
+      "affects",
+      "insurance regulations"
+    ],
+    [
+      "safety advantages",
+      "counteracts",
+      "safety challenges"
+    ],
+    [
+      "safety advantages",
+      "eliminates",
+      "human error elimination"
+    ],
+    [
+      "safety advantages",
+      "enhances",
+      "transportation safety"
+    ],
+    [
+      "safety advantages",
+      "mitigates",
+      "legal concerns"
+    ],
+    [
+      "safety advantages",
+      "provides",
+      "convenience enhancement"
+    ],
+    [
+      "safety challenges",
+      "challenged by",
+      "public trust"
+    ],
+    [
+      "safety challenges",
+      "creates",
+      "innovation barriers"
+    ],
+    [
+      "safety challenges",
+      "presents",
+      "industry collaboration"
+    ],
+    [
+      "safety challenges",
+      "presents",
+      "operational functionality"
+    ],
+    [
+      "safety challenges",
+      "reduces",
+      "human error elimination"
+    ],
+    [
+      "safety efficiency",
+      "contribute to",
+      "societal impact"
+    ],
+    [
+      "safety efficiency",
+      "contributes to",
+      "convenience enhancement"
+    ],
+    [
+      "safety efficiency",
+      "eliminates",
+      "human error elimination"
+    ],
+    [
+      "safety efficiency",
+      "improves",
+      "transportation safety"
+    ],
+    [
+      "safety standards",
+      "addresses",
+      "unique challenges"
+    ],
+    [
+      "safety standards",
+      "builds",
+      "public trust"
+    ],
+    [
+      "safety standards",
+      "guides",
+      "regulatory framework"
+    ],
+    [
+      "safety standards",
+      "impacts",
+      "reliability issues"
+    ],
+    [
+      "safety standards",
+      "influences",
+      "regulatory bodies"
+    ],
+    [
+      "safety standards",
+      "informs",
+      "risk management"
+    ],
+    [
+      "safety standards",
+      "poses",
+      "innovation hurdles"
+    ],
+    [
+      "safety standards",
+      "promotes",
+      "accident reduction"
+    ],
+    [
+      "safety standards",
+      "requires",
+      "automaker involvement"
+    ],
+    [
+      "safety standards",
+      "requires",
+      "legal adaptation"
+    ],
+    [
+      "safety standards",
+      "sets",
+      "autonomous vehicles"
+    ],
+    [
+      "shared fleets",
+      "advances",
+      "technological advancement"
+    ],
+    [
+      "shared fleets",
+      "driven by",
+      "modernization challenges"
+    ],
+    [
+      "shared fleets",
+      "drives",
+      "transportation revolution"
+    ],
+    [
+      "shared fleets",
+      "requires",
+      "system integration"
+    ],
+    [
+      "shared fleets",
+      "saves",
+      "valuable time"
+    ],
+    [
+      "significant role",
+      "contributes to",
+      "safety advantages"
+    ],
+    [
+      "significant role",
+      "highlight",
+      "mobility access"
+    ],
+    [
+      "significant role",
+      "highlights",
+      "investment focus"
+    ],
+    [
+      "significant role",
+      "plays",
+      "transportation revolution"
+    ],
+    [
+      "significant role",
+      "plays",
+      "transportation systems"
+    ],
+    [
+      "significant role",
+      "plays a role in",
+      "transportation efficiency"
+    ],
+    [
+      "significant role",
+      "provides",
+      "technology progress"
+    ],
+    [
+      "societal impact",
+      "enhances",
+      "transportation efficiency"
+    ],
+    [
+      "societal impact",
+      "improves",
+      "convenience enhancement"
+    ],
+    [
+      "stakeholder engagement",
+      "addresses",
+      "road integration issues"
+    ],
+    [
+      "stakeholder engagement",
+      "collaborates with",
+      "regulatory bodies"
+    ],
+    [
+      "stakeholder engagement",
+      "determines",
+      "investment requirements"
+    ],
+    [
+      "stakeholder engagement",
+      "drives",
+      "transportation revolution"
+    ],
+    [
+      "stakeholder engagement",
+      "facilitates",
+      "pilot programs"
+    ],
+    [
+      "stakeholder engagement",
+      "requires",
+      "road integration"
+    ],
+    [
+      "stakeholder engagement",
+      "shapes",
+      "transportation landscape"
+    ],
+    [
+      "system compatibility",
+      "complicates",
+      "licensing issues"
+    ],
+    [
+      "system compatibility",
+      "depends on",
+      "communication systems"
+    ],
+    [
+      "system compatibility",
+      "oversees",
+      "regulatory bodies"
+    ],
+    [
+      "system compatibility",
+      "requires",
+      "autonomous technology"
+    ],
+    [
+      "system compatibility",
+      "requires",
+      "urban mobility solutions"
+    ],
+    [
+      "system compatibility",
+      "shape",
+      "widespread adoption"
+    ],
+    [
+      "system improvements",
+      "enables",
+      "real-time communication"
+    ],
+    [
+      "system improvements",
+      "enhances",
+      "autonomous vehicle support"
+    ],
+    [
+      "system improvements",
+      "enhances",
+      "operational functionality"
+    ],
+    [
+      "system improvements",
+      "enhances",
+      "safety advantages"
+    ],
+    [
+      "system improvements",
+      "enhances",
+      "transportation systems"
+    ],
+    [
+      "system improvements",
+      "improves",
+      "convenience enhancement"
+    ],
+    [
+      "system improvements",
+      "improves",
+      "innovation barriers"
+    ],
+    [
+      "system improvements",
+      "improves",
+      "transportation efficiency"
+    ],
+    [
+      "system improvements",
+      "improves",
+      "transportation landscape"
+    ],
+    [
+      "system improvements",
+      "leads to",
+      "technology progress"
+    ],
+    [
+      "system improvements",
+      "plays",
+      "significant role"
+    ],
+    [
+      "system improvements",
+      "requires",
+      "government involvement"
+    ],
+    [
+      "technological advancement",
+      "advances",
+      "modernization challenges"
+    ],
+    [
+      "technological advancement",
+      "boost",
+      "transportation efficiency"
+    ],
+    [
+      "technological advancement",
+      "driven by",
+      "widespread adoption"
+    ],
+    [
+      "technological advancement",
+      "drives",
+      "global initiatives"
+    ],
+    [
+      "technological advancement",
+      "drives",
+      "legal concerns"
+    ],
+    [
+      "technological advancement",
+      "improves",
+      "convenience enhancement"
+    ],
+    [
+      "technological advancement",
+      "improves",
+      "mobility access"
+    ],
+    [
+      "technological advancement",
+      "is influenced by",
+      "significant role"
+    ],
+    [
+      "technological advancement",
+      "requires",
+      "government involvement"
+    ],
+    [
+      "technology companies",
+      "address",
+      "modernization needs"
+    ],
+    [
+      "technology companies",
+      "collaborates with",
+      "government involvement"
+    ],
+    [
+      "technology companies",
+      "collaborates with",
+      "industry collaboration"
+    ],
+    [
+      "technology companies",
+      "contributes to",
+      "global initiatives"
+    ],
+    [
+      "technology companies",
+      "contributes to",
+      "system improvements"
+    ],
+    [
+      "technology companies",
+      "drives",
+      "industry investment"
+    ],
+    [
+      "technology companies",
+      "drives",
+      "technological advancement"
+    ],
+    [
+      "technology companies",
+      "drives",
+      "transportation innovation"
+    ],
+    [
+      "technology companies",
+      "enhances",
+      "transportation efficiency"
+    ],
+    [
+      "technology companies",
+      "facilitates",
+      "mobility access"
+    ],
+    [
+      "technology companies",
+      "provides",
+      "shared fleets"
+    ],
+    [
+      "technology companies",
+      "provides",
+      "urban mobility solutions"
+    ],
+    [
+      "technology companies",
+      "supports",
+      "autonomous vehicle support"
+    ],
+    [
+      "technology companies",
+      "supports",
+      "collaborative efforts"
+    ],
+    [
+      "technology companies",
+      "supports",
+      "urban mobility"
+    ],
+    [
+      "technology companies",
+      "transforms",
+      "transportation revolution"
+    ],
+    [
+      "technology development",
+      "affects",
+      "legal concerns"
+    ],
+    [
+      "technology development",
+      "enables",
+      "development progress"
+    ],
+    [
+      "technology development",
+      "enhances",
+      "mobility access"
+    ],
+    [
+      "technology development",
+      "enhances",
+      "urban mobility"
+    ],
+    [
+      "technology development",
+      "facilitates",
+      "industry collaboration"
+    ],
+    [
+      "technology development",
+      "influences",
+      "global initiatives"
+    ],
+    [
+      "technology development",
+      "influences",
+      "government involvement"
+    ],
+    [
+      "technology development",
+      "requires",
+      "system integration"
+    ],
+    [
+      "technology improvement",
+      "advances",
+      "autonomous technology"
+    ],
+    [
+      "technology improvement",
+      "driven by",
+      "investment focus"
+    ],
+    [
+      "technology improvement",
+      "drives",
+      "innovation potential"
+    ],
+    [
+      "technology improvement",
+      "eliminates",
+      "human error elimination"
+    ],
+    [
+      "technology improvement",
+      "enhances",
+      "commuting experience"
+    ],
+    [
+      "technology improvement",
+      "enhances",
+      "mobility access"
+    ],
+    [
+      "technology improvement",
+      "enhances",
+      "real-time communication"
+    ],
+    [
+      "technology improvement",
+      "improves",
+      "autonomous vehicles"
+    ],
+    [
+      "technology improvement",
+      "improves",
+      "system improvements"
+    ],
+    [
+      "technology improvement",
+      "promotes",
+      "global initiatives"
+    ],
+    [
+      "technology improvement",
+      "supports",
+      "significant role"
+    ],
+    [
+      "technology improvement",
+      "supports",
+      "widespread adoption"
+    ],
+    [
+      "technology improvement",
+      "transforms",
+      "transportation landscape"
+    ],
+    [
+      "technology progress",
+      "attracts",
+      "investment focus"
+    ],
+    [
+      "technology progress",
+      "drives",
+      "collaborative efforts"
+    ],
+    [
+      "technology progress",
+      "enables",
+      "innovation hurdles"
+    ],
+    [
+      "technology progress",
+      "enables",
+      "system integration"
+    ],
+    [
+      "technology progress",
+      "enhances",
+      "convenience enhancement"
+    ],
+    [
+      "technology progress",
+      "enhances",
+      "operational functionality"
+    ],
+    [
+      "technology progress",
+      "shapes",
+      "regulatory framework"
+    ],
+    [
+      "technology reliance",
+      "depends on",
+      "autonomous vehicles"
+    ],
+    [
+      "technology reliance",
+      "depends on",
+      "innovation potential"
+    ],
+    [
+      "technology reliance",
+      "depends on",
+      "system improvements"
+    ],
+    [
+      "technology reliance",
+      "depends on",
+      "system integration"
+    ],
+    [
+      "technology reliance",
+      "depends on",
+      "transportation innovation"
+    ],
+    [
+      "technology reliance",
+      "depends on",
+      "urban mobility"
+    ],
+    [
+      "traffic congestion",
+      "contributes to",
+      "autonomous vehicles"
+    ],
+    [
+      "traffic congestion",
+      "contributes to",
+      "road infrastructure"
+    ],
+    [
+      "traffic optimization",
+      "affects",
+      "societal impact"
+    ],
+    [
+      "traffic optimization",
+      "improves",
+      "traffic congestion"
+    ],
+    [
+      "traffic optimization",
+      "improves",
+      "urban infrastructure"
+    ],
+    [
+      "traffic optimization",
+      "informs",
+      "urban planning"
+    ],
+    [
+      "traffic optimization",
+      "promotes",
+      "urban infrastructure development"
+    ],
+    [
+      "traffic optimization",
+      "transformed by",
+      "transportation landscape"
+    ],
+    [
+      "transportation evolution",
+      "focuses on",
+      "investment focus"
+    ],
+    [
+      "transportation evolution",
+      "improves",
+      "convenience enhancement"
+    ],
+    [
+      "transportation evolution",
+      "influences",
+      "traffic management"
+    ],
+    [
+      "transportation evolution",
+      "influences",
+      "urban infrastructure"
+    ],
+    [
+      "transportation future",
+      "contributes to",
+      "emission reduction"
+    ],
+    [
+      "transportation future",
+      "enables",
+      "real-time communication"
+    ],
+    [
+      "transportation future",
+      "influences",
+      "system improvements"
+    ],
+    [
+      "transportation future",
+      "influences",
+      "technology development"
+    ],
+    [
+      "transportation future",
+      "influences",
+      "widespread adoption"
+    ],
+    [
+      "transportation future",
+      "poses",
+      "urban mobility challenges"
+    ],
+    [
+      "transportation future",
+      "saves",
+      "valuable time"
+    ],
+    [
+      "transportation future",
+      "shapes",
+      "regulatory framework"
+    ],
+    [
+      "transportation future",
+      "shapes",
+      "technological advancement"
+    ],
+    [
+      "transportation future",
+      "shapes",
+      "technology progress"
+    ],
+    [
+      "transportation future",
+      "shapes",
+      "traffic management"
+    ],
+    [
+      "transportation future",
+      "shapes",
+      "transportation innovation"
+    ],
+    [
+      "transportation innovation",
+      "advances",
+      "technology development"
+    ],
+    [
+      "transportation innovation",
+      "creates",
+      "licensing issues"
+    ],
+    [
+      "transportation innovation",
+      "drives",
+      "investment focus"
+    ],
+    [
+      "transportation innovation",
+      "drives",
+      "system integration"
+    ],
+    [
+      "transportation innovation",
+      "enhances",
+      "convenience enhancement"
+    ],
+    [
+      "transportation innovation",
+      "facilitates",
+      "public-private collaboration"
+    ],
+    [
+      "transportation innovation",
+      "improves",
+      "mobility access"
+    ],
+    [
+      "transportation innovation",
+      "includes",
+      "autonomous vehicles"
+    ],
+    [
+      "transportation innovation",
+      "influences",
+      "traffic management"
+    ],
+    [
+      "transportation innovation",
+      "leads to",
+      "transportation evolution"
+    ],
+    [
+      "transportation innovation",
+      "presents",
+      "unique challenges"
+    ],
+    [
+      "transportation innovation",
+      "requires",
+      "autonomous vehicle support"
+    ],
+    [
+      "transportation innovation",
+      "results in",
+      "technological advancement"
+    ],
+    [
+      "transportation innovation",
+      "saves",
+      "valuable time"
+    ],
+    [
+      "transportation innovation",
+      "supports",
+      "pilot programs"
+    ],
+    [
+      "transportation innovation",
+      "transforms",
+      "transportation landscape"
+    ],
+    [
+      "transportation landscape",
+      "affects",
+      "urban mobility challenges"
+    ],
+    [
+      "transportation landscape",
+      "faces",
+      "unique challenges"
+    ],
+    [
+      "transportation landscape",
+      "influences",
+      "traffic management"
+    ],
+    [
+      "transportation landscape",
+      "transforms",
+      "transportation efficiency"
+    ],
+    [
+      "transportation safety",
+      "affects",
+      "infrastructure challenges"
+    ],
+    [
+      "transportation safety",
+      "affects",
+      "road integration issues"
+    ],
+    [
+      "transportation systems",
+      "advances",
+      "technology development"
+    ],
+    [
+      "transportation systems",
+      "drives",
+      "technology progress"
+    ],
+    [
+      "transportation systems",
+      "exacerbates",
+      "traffic congestion"
+    ],
+    [
+      "transportation systems",
+      "improve",
+      "mobility access"
+    ],
+    [
+      "transportation systems",
+      "initiates",
+      "transportation revolution"
+    ],
+    [
+      "transportation systems",
+      "reflects",
+      "public interest"
+    ],
+    [
+      "transportation systems",
+      "require",
+      "collaborative efforts"
+    ],
+    [
+      "transportation systems",
+      "supports",
+      "global initiatives"
+    ],
+    [
+      "unique challenges",
+      "challenges",
+      "operational functionality"
+    ],
+    [
+      "unique challenges",
+      "faces",
+      "automaker involvement"
+    ],
+    [
+      "unique challenges",
+      "faces",
+      "public trust"
+    ],
+    [
+      "unique challenges",
+      "hindered by",
+      "widespread adoption"
+    ],
+    [
+      "unique challenges",
+      "presents",
+      "government involvement"
+    ],
+    [
+      "unique challenges",
+      "presents",
+      "operational safety"
+    ],
+    [
+      "unique challenges",
+      "presents",
+      "public safety"
+    ],
+    [
+      "unique challenges",
+      "presents",
+      "urban infrastructure"
+    ],
+    [
+      "urban infrastructure",
+      "enable",
+      "regulatory bodies"
+    ],
+    [
+      "urban infrastructure",
+      "enhances",
+      "traffic management"
+    ],
+    [
+      "urban infrastructure",
+      "focuses on",
+      "investment focus"
+    ],
+    [
+      "urban infrastructure",
+      "influences",
+      "public acceptance"
+    ],
+    [
+      "urban infrastructure",
+      "influences",
+      "transportation systems"
+    ],
+    [
+      "urban infrastructure",
+      "requires",
+      "government involvement"
+    ],
+    [
+      "urban infrastructure development",
+      "enhances",
+      "traffic management"
+    ],
+    [
+      "urban mobility",
+      "drives",
+      "global initiatives"
+    ],
+    [
+      "urban mobility",
+      "enables",
+      "shared fleets"
+    ],
+    [
+      "urban mobility",
+      "encourages",
+      "public engagement"
+    ],
+    [
+      "urban mobility",
+      "enhances",
+      "commuting experience"
+    ],
+    [
+      "urban mobility",
+      "enhances",
+      "traffic management"
+    ],
+    [
+      "urban mobility",
+      "enhances",
+      "valuable time"
+    ],
+    [
+      "urban mobility",
+      "influenced by",
+      "development progress"
+    ],
+    [
+      "urban mobility",
+      "supports",
+      "urban infrastructure"
+    ],
+    [
+      "urban mobility challenges",
+      "creates",
+      "urban mobility"
+    ],
+    [
+      "urban mobility challenges",
+      "drive",
+      "transportation evolution"
+    ],
+    [
+      "urban mobility challenges",
+      "drives",
+      "global initiatives"
+    ],
+    [
+      "urban mobility challenges",
+      "exacerbates",
+      "traffic congestion"
+    ],
+    [
+      "urban mobility challenges",
+      "presents",
+      "widespread adoption"
+    ],
+    [
+      "urban mobility solutions",
+      "addresses",
+      "investment requirements"
+    ],
+    [
+      "urban mobility solutions",
+      "addresses",
+      "modernization needs"
+    ],
+    [
+      "urban mobility solutions",
+      "advances",
+      "technological advancement"
+    ],
+    [
+      "urban mobility solutions",
+      "contributes to",
+      "transportation revolution"
+    ],
+    [
+      "urban mobility solutions",
+      "drives",
+      "transportation innovation"
+    ],
+    [
+      "urban mobility solutions",
+      "encourages",
+      "public engagement"
+    ],
+    [
+      "urban mobility solutions",
+      "enhanced by",
+      "development progress"
+    ],
+    [
+      "urban mobility solutions",
+      "facilitates",
+      "shared fleets"
+    ],
+    [
+      "urban mobility solutions",
+      "facilitates",
+      "widespread adoption"
+    ],
+    [
+      "urban mobility solutions",
+      "improves",
+      "mobility access"
+    ],
+    [
+      "urban mobility solutions",
+      "improves",
+      "traffic management"
+    ],
+    [
+      "urban mobility solutions",
+      "informs",
+      "urban planning"
+    ],
+    [
+      "urban mobility solutions",
+      "mitigates",
+      "traffic congestion"
+    ],
+    [
+      "urban mobility solutions",
+      "promotes",
+      "public-private collaboration"
+    ],
+    [
+      "urban mobility solutions",
+      "supports",
+      "technology progress"
+    ],
+    [
+      "urban planning",
+      "drives",
+      "urban infrastructure development"
+    ],
+    [
+      "urban planning",
+      "encourages",
+      "public engagement"
+    ],
+    [
+      "urban planning",
+      "informs",
+      "global initiatives"
+    ],
+    [
+      "urban planning",
+      "requires",
+      "urban infrastructure"
+    ],
+    [
+      "valuable time",
+      "affects",
+      "infrastructure investment"
+    ],
+    [
+      "valuable time",
+      "depends on",
+      "technology reliance"
+    ],
+    [
+      "valuable time",
+      "drives",
+      "transportation revolution"
+    ],
+    [
+      "valuable time",
+      "enables",
+      "significant role"
+    ],
+    [
+      "valuable time",
+      "enhances",
+      "operational functionality"
+    ],
+    [
+      "valuable time",
+      "improves",
+      "transportation efficiency"
+    ],
+    [
+      "valuable time",
+      "requires",
+      "urban infrastructure development"
+    ],
+    [
+      "valuable time",
+      "saves",
+      "road infrastructure"
+    ],
+    [
+      "vehicle ownership",
+      "demands",
+      "investment requirements"
+    ],
+    [
+      "vehicle ownership",
+      "enhance",
+      "global initiatives"
+    ],
+    [
+      "vehicle ownership",
+      "influences",
+      "urban planning"
+    ],
+    [
+      "vehicle ownership",
+      "promotes",
+      "collaborative efforts"
+    ],
+    [
+      "widespread adoption",
+      "affected by",
+      "system compatibility"
+    ],
+    [
+      "widespread adoption",
+      "enables",
+      "technological advancement"
+    ],
+    [
+      "widespread adoption",
+      "enables",
+      "transportation revolution"
+    ],
+    [
+      "widespread adoption",
+      "necessary for",
+      "modernization needs"
+    ],
+    [
+      "widespread adoption",
+      "necessitates",
+      "government involvement"
+    ],
+    [
+      "widespread adoption",
+      "regulated by",
+      "regulatory bodies"
+    ]
+  ],
+  "edges": [
+    "address",
+    "addressed by",
+    "addresses",
+    "advances",
+    "affect",
+    "affected by",
+    "affects",
+    "aligns with",
+    "attracts",
+    "benefit from",
+    "benefits from",
+    "boost",
+    "builds",
+    "challenged by",
+    "challenges",
+    "collaborates with",
+    "complicated by",
+    "complicates",
+    "concerns",
+    "contribute to",
+    "contributes to",
+    "coordinate with",
+    "coordinates",
+    "counteracts",
+    "create",
+    "creates",
+    "creates challenges for",
+    "creates obstacles for",
+    "defines",
+    "demands",
+    "dependent on",
+    "depends on",
+    "determines",
+    "dictates",
+    "drive",
+    "driven by",
+    "drives",
+    "eliminates",
+    "enable",
+    "enables",
+    "encourages",
+    "enhance",
+    "enhanced by",
+    "enhances",
+    "ensures",
+    "exacerbates",
+    "faces",
+    "facilitates",
+    "focuses on",
+    "fuels",
+    "funds",
+    "guides",
+    "has",
+    "highlight",
+    "highlights",
+    "hindered by",
+    "hinders",
+    "impact",
+    "impacts",
+    "impedes",
+    "improve",
+    "improves",
+    "includes",
+    "increases",
+    "indicates",
+    "influence",
+    "influenced by",
+    "influences",
+    "informs",
+    "initiates",
+    "integrates",
+    "involves",
+    "is a result of",
+    "is influenced by",
+    "leads to",
+    "limits",
+    "mitigates",
+    "necessary for",
+    "necessitates",
+    "offers",
+    "oversees",
+    "plays",
+    "plays a role in",
+    "poses",
+    "presents",
+    "promises",
+    "promotes",
+    "provides",
+    "raises",
+    "reduces",
+    "reflects",
+    "regulated by",
+    "regulates",
+    "represents",
+    "require",
+    "requires",
+    "result from",
+    "results in",
+    "saves",
+    "sets",
+    "shape",
+    "shaped by",
+    "shapes",
+    "shows",
+    "supported by",
+    "supports",
+    "tackles",
+    "transformed by",
+    "transforms"
+  ]
+}
