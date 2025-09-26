@@ -34,12 +34,6 @@ MAX_LABEL_WIDTH = 180  # pixels
 MAX_WORDS = 100
 COLOR_PALETTE = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd",
                  "#8c564b", "#e377c2", "#7f7f7f", "#bcbd22", "#17becf"]
-ROLE_STYLE = {
-    "claim" : ("circle", True),
-    "support" : ("vee", [5, 5]),
-    "attack" : ("bar", [2,2]),
-    "none" : ("arrow", False),
-}
 
 class GraphGenerationThread(QThread):
     finished     = pyqtSignal(list, list)
@@ -145,11 +139,10 @@ class GraphGenerationThread(QThread):
             nodes = auto_kg.keywords.copy()
             triples = []
             for tup in edges:
-                # unpack your tuple; if you have extra fields (e.g. speaker, role),
+                # unpack your tuple; if you have extra fields (e.g. speaker),
                 # you can collect them in *_rest
                 sub, rel, obj, direction, *rest = tup
                 speaker = rest[0] if len(rest) >= 1 else ""
-                role = rest[1] if len(rest) >= 2 else "none"
 
                 # decide which way round
                 if direction == "forward":
@@ -167,7 +160,6 @@ class GraphGenerationThread(QThread):
                     "relation": rel,
                     "object": actual_obj,
                     "speaker": speaker,
-                    "role": role,
                     "direction": direction
                 })
 
@@ -1296,7 +1288,6 @@ class KnowledgeGraphTab(QWidget):
                     rel = row.get("relation")
                     obj = row.get("target")
                     sp = row.get("speaker", "")
-                    r1 = row.get("role", "none")
 
                     if subj and subj not in self.nodes:
                         self.nodes.append(subj)
@@ -1307,8 +1298,7 @@ class KnowledgeGraphTab(QWidget):
                             "subject": subj, 
                             "relation": rel, 
                             "object": obj,
-                            "speaker": sp,
-                            "role" : r1
+                            "speaker": sp
                             })
         except Exception as e:
             QMessageBox.warning(self, "Error", f"Failed to parse edges.csv: {e}")
@@ -1640,8 +1630,7 @@ class KnowledgeGraphTab(QWidget):
             # print(f"[BUILD] considering triple: subject={subj!r}, rel={rel!r}, obj={obj!r}")
             speaker = triple.get("speaker", "")
             # print(speaker)
-            role = triple.get("role", "none")
-            arrow, dash = ROLE_STYLE.get(role, ROLE_STYLE["none"])
+            arrow, dash = ("arrow", False)
             edge_color = speaker_color_map.get(speaker, "#666666")
             if not subj or not rel or not obj or rel =="none" or speaker == "none":
                 # print("  → skipping incomplete triple")
@@ -1777,63 +1766,6 @@ class KnowledgeGraphTab(QWidget):
                 </script>
                 </body>
                 """
-
-            roleLegend_js = """
-                <script>
-                function drawHead(ctx, x, y, type) {
-                    switch (type) {
-                        case "circle":
-                            ctx.beginPath();
-                            ctx.arc(x, y, 3, 0, 2*Math.PI);
-                            ctx.fill(); break;
-
-                        case "bar":
-                            ctx.beginPath();
-                            ctx.moveTo(x-3, y-4); ctx.lineTo(x-3, y+4);
-                            ctx.stroke(); break;
-
-                        case "vee":        // same look as vis-js “vee”
-                            ctx.beginPath();
-                            ctx.moveTo(x-5, y-4); ctx.lineTo(x, y); ctx.lineTo(x-5, y+4);
-                            ctx.stroke(); break;
-
-                        /* fall-back — default arrow head */
-                        default:
-                            ctx.beginPath();
-                            ctx.moveTo(x-5, y-4); ctx.lineTo(x, y); ctx.lineTo(x-5, y+4);
-                            ctx.lineTo(x-3, y);    // fill the triangle
-                            ctx.fill(); break;
-                    }
-                }
-                window.addEventListener("load",function(){
-                var box=document.createElement('div');
-                box.style='position:absolute;top:10px;left:10px;' +
-                            'background:white;padding:8px;border:1px solid #ccc;z-index:999';
-                box.innerHTML='<strong>Role legend</strong><br>';
-                var roles=%s;
-                for(var r in roles){
-                    var info=roles[r];         // [arrowType, dash]
-                    var canvas=document.createElement('canvas');
-                    canvas.width=60;canvas.height=12;
-                    var ctx=canvas.getContext('2d');
-                    ctx.setLineDash( Array.isArray(info[1]) ? info[1] :
-                        info[1]===true ? [1,4] : [] );
-
-                    ctx.beginPath();
-                    ctx.moveTo(0,6); ctx.lineTo(40,6); ctx.stroke();
-                    drawHead(ctx, 46, 6, info[0]);
-                    var line=document.createElement('div');
-                    line.style='display:flex;align-items:center;margin:2px 0;';
-                    line.appendChild(canvas);
-                    var lbl=document.createElement('span');
-                    lbl.textContent=' '+r;
-                    line.appendChild(lbl);
-                    box.appendChild(line);
-                }
-                document.body.appendChild(box);
-                });
-                </script>
-                """ % json.dumps(ROLE_STYLE)
             
             js_code = """
                     <script type="text/javascript" src="qrc:///qtwebchannel/qwebchannel.js"></script>
@@ -1986,7 +1918,7 @@ class KnowledgeGraphTab(QWidget):
                     </body>
                     """
             if self.multi_speaker:
-                replacement_html = js_code + legend_js + roleLegend_js + "</body>"
+                replacement_html = js_code + legend_js + "</body>"
             else:
                 replacement_html = js_code + "</body>"
             
@@ -2034,15 +1966,12 @@ class KnowledgeGraphTab(QWidget):
                     writer.writerow([node, node])
             
             include_speaker = any("speaker" in t for t in self.triples)
-            include_role = any("role" in t for t in self.triples)
 
             with open(edges_file, "w", newline='', encoding="utf-8") as ef:
                 writer = csv.writer(ef)
                 header = ["source", "relation", "target"]
                 if include_speaker:
                     header.append("speaker")
-                if include_role:
-                    header.append("role")
                 
                 writer.writerow(header)
                 for triple in self.triples:
@@ -2060,15 +1989,11 @@ class KnowledgeGraphTab(QWidget):
                             row[2] = item
                             if include_speaker:
                                 row.append(triple.get("speaker", ""))
-                            if include_role:
-                                row.append(triple.get("role", "none"))
                             writer.writerow(row)
                     else:
                         row_base[2] = o
                         if include_speaker:
                             row_base.append(triple.get("speaker", ""))
-                        if include_role:
-                            row_base.append(triple.get("role", "none"))
                         writer.writerow(row_base)
             QMessageBox.information(self, "Exported",
                                     f"Graph exported as nodes.csv and edges.csv in {directory}")

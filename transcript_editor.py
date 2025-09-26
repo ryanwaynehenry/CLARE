@@ -316,19 +316,7 @@ class TranscriptEditor(QWidget):
         self.player.durationChanged.connect(self.on_duration_changed)
         self.player.mediaStatusChanged.connect(self.on_media_status_changed)
 
-        # Placeholder widget below the video.
-        self.media_placeholder = QWidget()
-        ph_layout = QHBoxLayout()
-        ph_layout.setContentsMargins(0, 0, 0, 0)
-        ph_layout.setAlignment(Qt.AlignCenter)
-        self.spinner_label = create_spinner()
-        self.spinner_label.setVisible(False)
-        self.loading_text = QLabel("No media loaded")
-        ph_layout.addWidget(self.spinner_label)
-        ph_layout.addWidget(self.loading_text)
-        self.media_placeholder.setLayout(ph_layout)
-        self.media_placeholder.setFixedHeight(50)
-        self.video_layout.addWidget(self.media_placeholder)
+        self._create_media_placeholder()
 
         self.waveformProgress = None
         if self.video_path:
@@ -489,6 +477,22 @@ class TranscriptEditor(QWidget):
         main_v_layout.addWidget(splitter)
         self.setLayout(main_v_layout)
 
+    def _create_media_placeholder(self):
+        self.media_placeholder = QWidget()
+        ph_layout = QHBoxLayout(self.media_placeholder)
+        ph_layout.setContentsMargins(0, 0, 0, 0)
+        ph_layout.setAlignment(Qt.AlignCenter)
+
+        self.spinner_label = create_spinner()
+        self.spinner_label.setVisible(False)
+        self.loading_text = QLabel("No media loaded")
+
+        ph_layout.addWidget(self.spinner_label)
+        ph_layout.addWidget(self.loading_text)
+
+        self.media_placeholder.setFixedHeight(50)
+        self.video_layout.addWidget(self.media_placeholder)
+    
     def disable_all_buttons(self):
         for btn in self.findChildren(QPushButton):
             btn.setEnabled(False)
@@ -594,6 +598,8 @@ class TranscriptEditor(QWidget):
 
         # 2) set up the media and spinner
         self.video_path = file
+        if self.media_placeholder is None:
+            self._create_media_placeholder()
         self.loading_text.setText("Loading")
         self.spinner_label.setVisible(True)
         self.media_placeholder.show()
@@ -631,6 +637,9 @@ class TranscriptEditor(QWidget):
                 idx = self.video_layout.indexOf(self.media_placeholder)
                 self.video_layout.removeWidget(self.media_placeholder)
                 self.media_placeholder.deleteLater()
+                self.media_placeholder = None
+                self.spinner_label = None
+                self.loading_text = None
                 self.video_layout.insertWidget(idx, self.waveformProgress)
 
             except Exception as e_wave:

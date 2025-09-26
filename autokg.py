@@ -694,7 +694,6 @@ class autoKG:
             self.U_mat = U_mat
             self.pred_mat = pred_mat
             self.A = A
-            exit()
             return pred_mat, U_mat, A
         else:
             self.U_mat = U_mat

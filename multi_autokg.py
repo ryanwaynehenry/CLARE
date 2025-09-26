@@ -1,12 +1,12 @@
 ############ multi_autokg.py ############
 """
-MultiSpeakerAutoKG – an extension of autoKG that is aware of speakers and
-argument roles.  It re‑uses almost everything from the original autoKG but
-changes three things:
+MultiSpeakerAutoKG – an extension of autoKG that is aware of speakers and.  
+It re‑uses almost everything from the original autoKG but changes three 
+things:
   • accepts the *full* transcript (each block must have a `speaker` key)
   • formats chunks with explicit speaker labels (e.g. "S1: text …")
-  • extends the relation‑extraction prompt so the LLM returns `speaker` and
-    `role` in one shot – no extra calls are required.
+  • extends the relation‑extraction prompt so the LLM returns `speaker` in 
+    one shot – no extra calls are required.
 
 Only the parts that differ from autoKG are included below; everything else is
 inherited unchanged.
@@ -84,13 +84,13 @@ class MultiSpeakerAutoKG(autoKG):
         return "\n".join(parts)
 
     # ------------------------------------------------------------------
-    # Relation extraction – speaker/role aware
+    # Relation extraction – speaker aware
     # ------------------------------------------------------------------
 
     def batch_extract_relationships_for_chunk(self,
                                               chunk_text: str,
                                               pairs: List[Tuple[str, str]]):
-        """Override: ask the LLM for **speaker** + **role** too."""
+        """Override: ask the LLM for **speaker** too."""
         print(">>> [MultiSpeakerAutoKG] batch_extract_relationships_for_chunk")
         print(f"    incoming chunk length: {len(chunk_text)} chars")
         print(f"    incoming pairs count: {len(pairs)}")
@@ -104,9 +104,7 @@ class MultiSpeakerAutoKG(autoKG):
                b. If there is no clear direction, set `direction` to `none`.\n
             3. Propose **up to 3** distinct predicates (relations) between the subject and object.\n
                 a. These relations need to be specific and meaningful, do not use ones like "relation", "relate", or "affect"
-            4. For **each** predicate, assign an argument role (role) from exactly one of:\n
-               “claim”, “attack”, “support”, or “none”.\n
-            5. Supply a brief `rationale` (≤15 words) explaining why this relation and role holds.\n
+            5. Supply a brief `rationale` (≤15 words) explaining why this relation holds.\n
             6. **Output only** a single JSON object, with no extra keys or commentary:\n
 
             Use this example to show you what to do:
@@ -122,7 +120,7 @@ class MultiSpeakerAutoKG(autoKG):
             triple pairs:
             1. Single-use plastics, landfills  
             2. Single-use plastics, waterways  
-            3. Reusable bags, a few cents more  
+            3. Reusable bags, money  
             4. Stores, Reusable bags  
             5. alternatives at scale, small businesses  
             6. Cities with bans, plastic litter  
@@ -132,15 +130,15 @@ class MultiSpeakerAutoKG(autoKG):
 
             {
             results: [
-                {"pair_index": 1, "direction": "forward", "relationship": "fill",  "speaker": "Alice", "role": "claim", "rationale": "She asserts plastics are responsible for landfill overflow."},
-                {"pair_index": 2, "direction": "forward", "relationship": "pollute",  "speaker": "Alice", "role": "claim", "rationale": "She claims plastics harm aquatic environments."},
-                {"pair_index": 3, "direction": "forward", "relationship": "cost",  "speaker": "Bob", "role": "support", "rationale": "He supports reusable bags by minimizing cost concern."},
-                {"pair_index": 4, "direction": "forward", "relationship": "offer",  "speaker": "Bob", "role": "support", "rationale": "He highlights current market readiness to support Alice's proposal."},
-                {"pair_index": 5, "direction": "reverse", "relationship": "cannot afford to stock",  "speaker": "Alice", "role": "attack", "rationale": "She argues that small businesses face economic barriers."},
-                {"pair_index": 6, "direction": "forward", "relationship": "see",  "speaker": "Bob", "role": "support", "rationale": "He backs benefits of bans with litter reduction stats."},
-                {"pair_index": 7, "direction": "forward", "relationship": "funded by",  "speaker": "Alice", "role": "attack", "rationale": "She undermines Bob’s evidence by questioning its source."},
-                {"pair_index": 8, "direction": "", "relationship": "",  "speaker": "Bob", "role": "none", "rationale": "No clear relationshipship or argumentative function is expressed."},
-                {"pair_index": 9, "direction": "forward", "relationship": "was published by", "speaker": "Alice", "role": "none", "rationale": "Provides factual context without argumentative intent."}
+                {"pair_index": 1, "direction": "forward", "relationship": "fill",  "speaker": "Alice", "rationale": "Alice says plastics fill landfills."},
+                {"pair_index": 2, "direction": "forward", "relationship": "pollute",  "speaker": "Alice", "rationale": "Alice states plastics pollute waterways."},
+                {"pair_index": 3, "direction": "forward", "relationship": "cost a little more",  "speaker": "Bob", "rationale": "Bob claims reusable bags cost slightly more."},
+                {"pair_index": 4, "direction": "forward", "relationship": "offer",  "speaker": "Bob", "rationale": "Bob says many stores already offer them."},
+                {"pair_index": 5, "direction": "reverse", "relationship": "cannot afford to stock",  "speaker": "Alice", "rationale": "Alice says small businesses cannot afford large-scale alternatives."},
+                {"pair_index": 6, "direction": "forward", "relationship": "report less",  "speaker": "Bob", "rationale": "Bob reports 40% less plastic litter in such cities."},
+                {"pair_index": 7, "direction": "forward", "relationship": "funded by",  "speaker": "Alice", "rationale": "Alice says the NGO funded the report."},
+                {"pair_index": 8, "direction": "", "relationship": "",  "speaker": "Bob", "rationale": "Bob doesn't indicate a relation between the two"},
+                {"pair_index": 9, "direction": "forward", "relationship": "was published by", "speaker": "Alice", "rationale": "Alice says the EPA published the report."}
             ]}"""
         )
 
@@ -219,7 +217,7 @@ class MultiSpeakerAutoKG(autoKG):
 
     # def build_entity_relationships(self,
     #                                fallback_if_no_chunk=True):
-    #     """Same algorithm but returns 6-tuples with speaker & role."""
+    #     """Same algorithm but returns 6-tuples with speaker."""
     #     print(">>> [MultiSpeakerAutoKG] build_entity_relationships")
     #     base_edges = super().build_entity_relationships(
     #         fallback_if_no_chunk=fallback_if_no_chunk)
@@ -237,8 +235,7 @@ class MultiSpeakerAutoKG(autoKG):
     #             None
     #         )
     #         speaker = match.get("speaker", "") if match else "<none>"
-    #         role    = match.get("role", "") if match else "<none>"
-    #         enriched.append((sub, rel, obj, direction, speaker, role))
+    #         enriched.append((sub, rel, obj, direction, speaker))
     #     print(f"<<< [MultiSpeakerAutoKG] build_entity_relationships enriched to {len(enriched)} tuples")
     #     return enriched
     
